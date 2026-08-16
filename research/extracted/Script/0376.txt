@@ -1,0 +1,98 @@
+﻿[SkipFRAME]=00:46:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:46:08;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-T03/SE02-2S-T03-001	00:46:08;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-T03/02-2S-T03-001	00:02:00;
+
+[PlayMovie]=00:02:00	Movie02/02-2S/02-2S-T03/02-2S-T03-002	0	00:05:00;
+
+[PrintText]=00:02:00	Sekai	Nn... haah...	00:05:00;
+
+[PlayVoice]=00:02:00	Voice02/02-2S/02-2S-T03/02-2S-T03-0040	0	sek	00:05:00;
+
+[PrintText]=00:02:14	Makoto	...Hey.	00:07:05;
+
+[PlayVoice]=00:02:14	Voice02/02-2S/02-2S-T03/02-2S-T03-0050	1	mak	00:07:05;
+
+[CreateBG]=00:05:00	BGS	Event02/02-2S/02-2S-T03/02-2S-T03-003	00:17:11;
+
+[PrintText]=00:06:10	Sekai	¿Nn... Qué?^	00:09:04;
+
+[PlayVoice]=00:06:10	Voice02/02-2S/02-2S-T03/02-2S-T03-0060	0	sek	00:09:04;
+
+[PrintText]=00:09:01	Makoto	¿Estabas hablando con Kiyoura para pasar la noche fuera de tu casa?^	00:15:00;
+
+[PlayVoice]=00:09:01	Voice02/02-2S/02-2S-T03/02-2S-T03-0070	1	mak	00:15:00;
+
+[PrintText]=00:14:03	Sekai	No... lo del almuerzo.	00:17:15;
+
+[PlayVoice]=00:14:03	Voice02/02-2S/02-2S-T03/02-2S-T03-0080	0	sek	00:17:15;
+
+[PlayMovie]=00:17:11	Movie02/02-2S/02-2S-T03/02-2S-T03-004	0	00:30:20;
+
+[PrintText]=00:17:11	Makoto	¿Almuerzo?^	00:18:10;
+
+[PlayVoice]=00:17:11	Voice02/02-2S/02-2S-T03/02-2S-T03-0090	1	mak	00:18:10;
+
+[PrintText]=00:18:09	Sekai	...	00:19:08;
+
+[PlayVoice]=00:18:09	Voice02/02-2S/02-2S-T03/02-2S-T03-0100	0	xxx	00:19:08;
+
+[PrintText]=00:19:09	Makoto	¿Qué pasa?^	00:21:05;
+
+[PlayVoice]=00:19:09	Voice02/02-2S/02-2S-T03/02-2S-T03-0110	1	mak	00:21:05;
+
+[PrintText]=00:21:09	Sekai	... Dijo que Katsura-san estaba ocupada con el consejo estudiantil, por lo que va a llegar tarde.	00:26:14;
+
+[PlayVoice]=00:21:09	Voice02/02-2S/02-2S-T03/02-2S-T03-0120	0	sek	00:30:16;
+
+[PrintText]=00:26:14	Sekai	Le pedí que me envíe un correo para cuando termine la reunión.	00:30:16;
+
+[PlayMovie]=00:30:20	Movie02/02-2S/02-2S-T03/02-2S-T03-005	0	00:38:17;
+
+[PrintText]=00:30:20	Makoto	¿Por qué?^	00:31:17;
+
+[PlayVoice]=00:30:20	Voice02/02-2S/02-2S-T03/02-2S-T03-0130	1	mak	00:31:17;
+
+[PlaySe]=00:31:04	2	SysSe/SE_all/h/nuno1	00:32:17;
+
+[PrintText]=00:31:22	Sekai	De esta manera... no tendremos que parar, y sabremos cuando ella venga.	00:38:07;
+
+[PlayVoice]=00:31:22	Voice02/02-2S/02-2S-T03/02-2S-T03-0140	0	sek	00:38:07;
+
+[PlaySe]=00:32:22	3	SysSe/SE_all/h/nuno1	00:34:11;
+
+[PlaySe]=00:34:17	2	SysSe/SE_all/h/nuno1	00:36:06;
+
+[PlaySe]=00:36:08	3	SysSe/SE_all/h/nuno1	00:37:21;
+
+[PrintText]=00:38:12	Makoto	Ya veo... así, podremos tener tiempo...	00:43:01;
+
+[PlayVoice]=00:38:12	Voice02/02-2S/02-2S-T03/02-2S-T03-0150	1	mak	00:43:01;
+
+[PlaySe]=00:38:17	2	SysSe/SE_all/h/nuno4	00:39:18;
+
+[PlayMovie]=00:38:17	Movie02/02-2S/02-2S-T03/02-2S-T03-006	0	00:44:05;
+
+[PlaySe]=00:39:23	3	SysSe/SE_all/h/nuno4	00:41:00;
+
+[PlaySe]=00:40:23	2	SysSe/SE_all/h/nuno4	00:42:00;
+
+[PlaySe]=00:42:02	3	SysSe/SE_all/h/nuno4	00:43:03;
+
+[PrintText]=00:42:21	Sekai	Bien.	00:43:22;
+
+[PlayVoice]=00:42:21	Voice02/02-2S/02-2S-T03/02-2S-T03-0160	0	sek	00:43:22;
+
+[PlaySe]=00:43:02	2	SysSe/SE_all/h/nuno4	00:44:03;
+
+[PlayMovie]=00:44:05	Movie02/02-2S/02-2S-T03/02-2S-T03-007	0	00:46:08;
+
+[PlayVoice]=00:44:05	Voice02/02-2S/02-2S-T03/02-2S-T03-0170			00:46:00;
+
+ ;
+
+[Next]=00:46:08;
+

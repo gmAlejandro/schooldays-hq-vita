@@ -1,0 +1,115 @@
+﻿[SkipFRAME]=01:00:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:00:06;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-N00/SE02-2K-N00-001	01:00:06;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-N00/02-2K-N00-001	00:05:06;
+
+[PrintText]=00:00:00	Hikari	Sabes... hoy me quedé dormida... y llegué tarde.	00:04:12;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-N00/02-2K-N00-0030	0	hik	00:04:12;
+
+[PrintText]=00:04:12	Sekai	¿Y entonces..?^	00:06:08;
+
+[PlayVoice]=00:04:12	Voice02/02-2K/02-2K-N00/02-2K-N00-0040	0	sek	00:06:08;
+
+[CreateBG]=00:05:06	BGS	Event02/02-2K/02-2K-N00/02-2K-N00-002	00:06:13;
+
+[PrintText]=00:05:20	Hikari	Bueno... verás, tomé un tren diferente al que normalmente tomo... y vi a Itou.	00:12:01;
+
+[PlayVoice]=00:05:20	Voice02/02-2K/02-2K-N00/02-2K-N00-0060	0	hik	00:12:01;
+
+[CreateBG]=00:06:13	BGS	Event02/02-2K/02-2K-N00/02-2K-N00-003	00:17:08;
+
+[PrintText]=00:12:04	Sekai	...Uh-huh.	00:13:00;
+
+[PlayVoice]=00:12:04	Voice02/02-2K/02-2K-N00/02-2K-N00-0070	0	sek	00:13:00;
+
+[PrintText]=00:13:04	Hikari	Me parece que hay algo entre Itou y la chica de clase 4.	00:17:11;
+
+[PlayVoice]=00:13:04	Voice02/02-2K/02-2K-N00/02-2K-N00-0080	0	hik	00:17:11;
+
+[CreateBG]=00:17:08	BGS	Event02/02-2K/02-2K-N00/02-2K-N00-004	00:21:21;
+
+[PrintText]=00:17:08	Sekai	Ah...	00:18:10;
+
+[PlayVoice]=00:17:08	Voice02/02-2K/02-2K-N00/02-2K-N00-0090	0	sek	00:18:10;
+
+[PrintText]=00:18:10	Hikari	Ya sabes... la chica de aspecto tranquilo, de la clase 4.	00:21:19;
+
+[PlayVoice]=00:18:10	Voice02/02-2K/02-2K-N00/02-2K-N00-0100	0	hik	00:21:19;
+
+[CreateBG]=00:21:21	BGS	Event02/02-2K/02-2K-N00/02-2K-N00-005	00:35:23;
+
+[PrintText]=00:21:22	Sekai	Sí... Lo sé.	00:23:17;
+
+[PlayVoice]=00:21:22	Voice02/02-2K/02-2K-N00/02-2K-N00-0110	0	sek	00:23:17;
+
+[PrintText]=00:23:13	Hikari	Había un ambiente muy desagradable entre ella y Itou.	00:27:05;
+
+[PlayVoice]=00:23:13	Voice02/02-2K/02-2K-N00/02-2K-N00-0120	0	hik	00:27:05;
+
+[PrintText]=00:27:07	Sekai	Ya veo...	00:28:11;
+
+[PlayVoice]=00:27:07	Voice02/02-2K/02-2K-N00/02-2K-N00-0130	0	sek	00:28:11;
+
+[PrintText]=00:28:19	Hikari	¡Quizás Itou trató de hacer un movimiento con ella, y ahora ella lo odia!	00:35:20;
+
+[PlayVoice]=00:28:19	Voice02/02-2K/02-2K-N00/02-2K-N00-0140	0	hik	00:35:20;
+
+[CreateBG]=00:35:23	BGS	Event02/02-2K/02-2K-N00/02-2K-N00-006	00:46:02;
+
+[PrintText]=00:36:00	Sekai	En parte, no creo...	00:38:04;
+
+[PlayVoice]=00:36:00	Voice02/02-2K/02-2K-N00/02-2K-N00-0150	0	sek	00:38:04;
+
+[PrintText]=00:38:04	Hikari	Ambos estaban actuando raro, como si hubieran peleado o algo así... lo hubieras visto por ti misma.	00:44:00;
+
+[PlayVoice]=00:38:04	Voice02/02-2K/02-2K-N00/02-2K-N00-0160	0	hik	00:44:00;
+
+[PrintText]=00:44:00	Sekai	...	00:44:18;
+
+[PlayVoice]=00:44:00	Voice02/02-2K/02-2K-N00/02-2K-N00-0170	0	xxx	00:44:18;
+
+[PrintText]=00:44:18	Hikari	Tu novio está haciendo cosas a tus espaldas... deberías terminar con él.	00:50:21;
+
+[PlayVoice]=00:44:18	Voice02/02-2K/02-2K-N00/02-2K-N00-0180	0	hik	00:50:21;
+
+[CreateBG]=00:46:02	BGS	Event02/02-2K/02-2K-N00/02-2K-N00-007	00:51:23;
+
+[PrintText]=00:50:13	Sekai	Ya te dije...él no es mi...	00:52:11;
+
+[PlayVoice]=00:50:13	Voice02/02-2K/02-2K-N00/02-2K-N00-0190	0	sek	00:52:11;
+
+[CreateBG]=00:51:23	BGS	Event02/02-2K/02-2K-N00/02-2K-N00-008	01:00:06;
+
+[PrintText]=00:51:23	Yamamoto	Hey, ya empezó la clase.	00:54:07;
+
+[PlayVoice]=00:51:23	Voice02/02-2K/02-2K-N00/02-2K-N00-0200	1	ymt	00:54:07;
+
+[PrintText]=00:54:01	Hikari	Maldición, Yamamoto.	00:55:23;
+
+[PlayVoice]=00:54:01	Voice02/02-2K/02-2K-N00/02-2K-N00-0220	0	hik	00:55:23;
+
+[PrintText]=00:55:11	Sekai	Geh.	00:56:02;
+
+[PlayVoice]=00:55:11	Voice02/02-2K/02-2K-N00/02-2K-N00-0230	0	sek	00:56:02;
+
+[PrintText]=00:56:06	Yamamoto	Apúrense y tomen sus asientos.	00:57:23;
+
+[PlayVoice]=00:56:06	Voice02/02-2K/02-2K-N00/02-2K-N00-0240	1	ymt	00:57:23;
+
+[PrintText]=00:58:03	Hikari	Valeeeeee.	00:59:07;
+
+[PlayVoice]=00:58:03	Voice02/02-2K/02-2K-N00/02-2K-N00-0250	0	hik	00:59:07;
+
+[BlackFade]=00:59:06	OUT	01:00:06;
+
+ ;
+
+[Next]=01:00:06;
+
+
+
+

@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:37:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:37:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E05/03-KB-E05-001	00:08:17;
+
+[PrintText]=00:00:00	Makoto	No.	00:01:01;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E05/03-KB-E05-0030	1	mak	00:01:01;
+
+[PrintText]=00:01:01	Taisuke	¿Por qué entonces?^	00:02:09;
+
+[PlayVoice]=00:01:01	Voice03/03-KB/03-KB-E05/03-KB-E05-0040	1	tai	00:02:09;
+
+[PrintText]=00:02:09	Makoto	Porque Sekai... me dijo que saliera con ella...	00:06:10;
+
+[PlayVoice]=00:02:09	Voice03/03-KB/03-KB-E05/03-KB-E05-0050	1	mak	00:06:10;
+
+[PrintText]=00:06:09	Taisuke	¿Con tu actual novia?^	00:07:22;
+
+[PlayVoice]=00:06:09	Voice03/03-KB/03-KB-E05/03-KB-E05-0060	1	tai	00:07:22;
+
+[PrintText]=00:07:23	Makoto	...Sí.	00:08:16;
+
+[PlayVoice]=00:07:23	Voice03/03-KB/03-KB-E05/03-KB-E05-0070	1	mak	00:08:16;
+
+[CreateBG]=00:08:17	BGS	Event03/03-KB/03-KB-E05/03-KB-E05-002	00:15:15;
+
+[PrintText]=00:08:17	Taisuke	¿En serio...?^	00:10:08;
+
+[PlayVoice]=00:08:17	Voice03/03-KB/03-KB-E05/03-KB-E05-0080	1	tai	00:10:08;
+
+[PrintText]=00:10:08	Makoto	...	00:11:19;
+
+[PlayVoice]=00:10:08	Voice03/03-KB/03-KB-E05/03-KB-E05-0090	1	xxx	00:11:19;
+
+[PrintText]=00:11:19	Taisuke	Bueno, la invitaré de todos modos, incluso si me rechaza.	00:15:14;
+
+[PlayVoice]=00:11:19	Voice03/03-KB/03-KB-E05/03-KB-E05-0100	1	tai	00:15:14;
+
+[PrintText]=00:15:14	Makoto	¿Eh?!	00:16:10;
+
+[PlayVoice]=00:15:14	Voice03/03-KB/03-KB-E05/03-KB-E05-0110	1	mak	00:16:10;
+
+[CreateBG]=00:15:15	BGS	Event03/03-KB/03-KB-E05/03-KB-E05-003	00:26:10;
+
+[PrintText]=00:16:10	Taisuke	Incluso si alguien cercano fue rechazado, entonces probablemente también pase lo mismo conmigo, pero... la quiero.	00:26:10;
+
+[PlayVoice]=00:16:10	Voice03/03-KB/03-KB-E05/03-KB-E05-0120	1	tai	00:26:10;
+
+[CreateBG]=00:26:10	BGS	Event03/03-KB/03-KB-E05/03-KB-E05-004	00:31:16;
+
+[PrintText]=00:26:10	Makoto	Ah...	00:27:08;
+
+[PlayVoice]=00:26:10	Voice03/03-KB/03-KB-E05/03-KB-E05-0130	1	mak	00:27:08;
+
+[PrintText]=00:27:07	Taisuke	Seamos los amigos que fueron rechazados. ¡Bien, buenas noches!	00:31:16;
+
+[PlayVoice]=00:27:07	Voice03/03-KB/03-KB-E05/03-KB-E05-0140	1	tai	00:31:16;
+
+[CreateBG]=00:31:16	BGS	Event03/03-KB/03-KB-E05/03-KB-E05-005	00:37:06;
+
+[PrintText]=00:31:16	Makoto	Espera... eso no...	00:36:00;
+
+[PlayVoice]=00:31:16	Voice03/03-KB/03-KB-E05/03-KB-E05-0160	1	mak	00:36:00;
+
+[PlaySe]=00:31:17	1	SysSe/SE_all/keitai/keitai_sousa	00:31:19;
+
+[PrintText]=00:36:00	Makoto	Taisuke...	00:37:06;
+
+[PlayVoice]=00:36:00	Voice03/03-KB/03-KB-E05/03-KB-E05-0170	1	mak	00:37:06;
+
+ ;
+
+[Next]=00:37:06;
+
+

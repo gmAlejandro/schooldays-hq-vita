@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:04:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:04:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-N01/03-KB-N01-002	00:04:16;
+
+[PrintText]=00:00:00	Makoto	Ya no creo que pueda...	00:02:00;
+
+[PlayVoice]=00:00:00	Voice04/04-SF/04-SF-A00/04-SF-A00-0040	1	mak	00:02:00;
+
+[PrintText]=00:02:02	Kotonoha	Pero...	00:03:11;
+
+[PlayVoice]=00:02:02	Voice04/04-SF/04-SF-A00/04-SF-A00-0050	0	kot	00:03:11;
+
+[BlackFade]=00:03:16	OUT	00:04:16;
+
+ ;
+
+[Next]=00:04:16;
+
+

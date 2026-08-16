@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:34:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:34:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-001	00:02:22;
+
+[PrintText]=00:00:00	Makoto	...	00:02:22;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-D07/05-KB-D07-0030	1	xxx	00:02:22;
+
+[CreateBG]=00:02:22	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-002	00:05:11;
+
+[PrintText]=00:02:22	Kotonoha	Estás enfadado conmigo ¿No?^	00:04:20;
+
+[PlayVoice]=00:02:22	Voice05/05-KB/05-KB-D07/05-KB-D07-0040	0	kot	00:04:20;
+
+[PrintText]=00:04:20	Makoto	...Sí.	00:07:00;
+
+[PlayVoice]=00:04:20	Voice05/05-KB/05-KB-D07/05-KB-D07-0050	1	mak	00:07:00;
+
+[CreateBG]=00:05:11	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-003	00:07:01;
+
+[PrintText]=00:07:00	Kotonoha	Lo siento... estaba pensando en ir a casa, pero tu mamá... y...	00:15:00;
+
+[PlayVoice]=00:07:00	Voice05/05-KB/05-KB-D07/05-KB-D07-0060	0	kot	00:15:00;
+
+[CreateBG]=00:07:01	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-004	00:15:03;
+
+[PrintText]=00:14:14	Makoto	Lo sé.	00:16:18;
+
+[PlayVoice]=00:14:14	Voice05/05-KB/05-KB-D07/05-KB-D07-0070	1	mak	00:16:18;
+
+[CreateBG]=00:15:03	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-005	00:18:06;
+
+[PrintText]=00:16:19	Kotonoha	Sí...	00:17:17;
+
+[PlayVoice]=00:16:19	Voice05/05-KB/05-KB-D07/05-KB-D07-0080	0	kot	00:17:17;
+
+[PrintText]=00:17:17	Makoto	Vas a casa ¿No? Te acompañaré.	00:21:11;
+
+[PlayVoice]=00:17:17	Voice05/05-KB/05-KB-D07/05-KB-D07-0090	1	mak	00:21:11;
+
+[CreateBG]=00:18:06	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-006A	00:21:11;
+
+[CreateBG]=00:21:11	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-006B	00:27:02;
+
+[PrintText]=00:21:11	Kotonoha	¿Eh...? ¿Estás seguro?^	00:24:10;
+
+[PlayVoice]=00:21:11	Voice05/05-KB/05-KB-D07/05-KB-D07-0100	0	kot	00:24:10;
+
+[PrintText]=00:24:10	Makoto	¿Qué opción tengo? Venga, vamos.	00:28:21;
+
+[PlayVoice]=00:24:10	Voice05/05-KB/05-KB-D07/05-KB-D07-0110	1	mak	00:28:21;
+
+[CreateBG]=00:27:02	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-006C	00:31:06;
+
+[PrintText]=00:28:20	Kotonoha	Vale.	00:29:16;
+
+[PlayVoice]=00:28:20	Voice05/05-KB/05-KB-D07/05-KB-D07-0120	0	kot	00:29:16;
+
+[BlackFade]=00:30:18	OUT	00:31:06;
+
+[CreateBG]=00:31:06	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-007	00:31:20;
+
+[CreateBG]=00:31:20	BGS	Event05/05-KB/05-KB-D07/05-KB-D07-008	00:34:21;
+
+[BlackFade]=00:31:20	IN	00:32:08;
+
+ ;
+
+[Next]=00:34:21;
+
+
+
+

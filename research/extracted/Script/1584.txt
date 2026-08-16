@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:24:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:24:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-G03/05-KF-G03-001	00:03:22;
+
+[PrintText]=00:00:00	Makoto	...	00:02:18;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G03/05-KF-G03-0030	1	xxx	00:02:18;
+
+[PrintText]=00:02:18	Kotonoha	...Makoto-kun.	00:03:22;
+
+[PlayVoice]=00:02:18	Voice05/05-KF/05-KF-G03/05-KF-G03-0040	0	kot	00:03:22;
+
+[CreateBG]=00:03:22	BGS	Event05/05-KF/05-KF-G03/05-KF-G03-002	00:24:09;
+
+[PrintText]=00:03:22	Makoto	Sí.	00:05:06;
+
+[PlayVoice]=00:03:22	Voice05/05-KF/05-KF-G03/05-KF-G03-0050	1	mak	00:05:06;
+
+[PrintText]=00:05:05	Kotonoha	¿Puede ser que acabas de olvidar lo que ibas a decir? Ufufuf...	00:09:06;
+
+[PlayVoice]=00:05:05	Voice05/05-KF/05-KF-G03/05-KF-G03-0060	0	kot	00:09:06;
+
+[PrintText]=00:09:06	Makoto	S-Sí, eso es.	00:14:05;
+
+[PlayVoice]=00:09:06	Voice05/05-KF/05-KF-G03/05-KF-G03-0070	1	mak	00:14:05;
+
+[PrintText]=00:14:05	Kotonoha	Suele pasar ¿No es así?^	00:17:03;
+
+[PlayVoice]=00:14:05	Voice05/05-KF/05-KF-G03/05-KF-G03-0080	0	kot	00:17:03;
+
+[PrintText]=00:17:03	Makoto	Sí...	00:19:06;
+
+[PlayVoice]=00:17:03	Voice05/05-KF/05-KF-G03/05-KF-G03-0090	1	mak	00:19:06;
+
+[PrintText]=00:19:06	Kotonoha	¿Vamos a casa?^	00:21:07;
+
+[PlayVoice]=00:19:06	Voice05/05-KF/05-KF-G03/05-KF-G03-0100	0	kot	00:21:07;
+
+[PrintText]=00:21:07	Makoto	Uh-huh.	00:23:01;
+
+[PlayVoice]=00:21:07	Voice05/05-KF/05-KF-G03/05-KF-G03-0110	1	mak	00:23:01;
+
+ ;
+
+[Next]=00:24:09;
+
+
+
+

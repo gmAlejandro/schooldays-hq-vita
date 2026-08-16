@@ -1,0 +1,149 @@
+﻿[SkipFRAME]=01:33:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	01:33:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-001	00:07:11;
+
+[PrintText]=00:00:05	Sekai	Venga, vamos a casa.	00:02:18;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-M02/04-SA-M02-0030	0	sek	00:02:18;
+
+[PrintText]=00:02:18	Hikari	Sekai...	00:04:05;
+
+[PlayVoice]=00:02:18	Voice04/04-SA/04-SA-M02/04-SA-M02-0040	0	hik	00:04:05;
+
+[PrintText]=00:04:05	Sekai	¿Como te fue con Sawanaga?^	00:07:11;
+
+[PlayVoice]=00:04:05	Voice04/04-SA/04-SA-M02/04-SA-M02-0050	0	sek	00:07:11;
+
+[CreateBG]=00:07:11	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-002	00:16:16;
+
+[PrintText]=00:07:15	Hikari	¿...a Katsura-san le gusta alguien?^	00:11:15;
+
+[PlayVoice]=00:07:15	Voice04/04-SA/04-SA-M02/04-SA-M02-0060	0	hik	00:11:15;
+
+[PrintText]=00:11:15	Sekai	Como dije, eso...	00:13:05;
+
+[PlayVoice]=00:11:15	Voice04/04-SA/04-SA-M02/04-SA-M02-0070	0	sek	00:13:05;
+
+[PrintText]=00:13:07	Hikari	...Eso fue lo que me pregunto él.	00:16:14;
+
+[PlayVoice]=00:13:07	Voice04/04-SA/04-SA-M02/04-SA-M02-0080	0	hik	00:16:14;
+
+[CreateBG]=00:16:16	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-003	00:19:02;
+
+[PrintText]=00:16:19	Sekai	¡Ese idiota!	00:18:23;
+
+[PlayVoice]=00:16:19	Voice04/04-SA/04-SA-M02/04-SA-M02-0090	0	sek	00:18:23;
+
+[CreateBG]=00:19:02	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-004	00:23:12;
+
+[PrintText]=00:19:05	Hikari	¿Estás segura que a ella no le gusta él?^	00:23:11;
+
+[PlayVoice]=00:19:05	Voice04/04-SA/04-SA-M02/04-SA-M02-0100	0	hik	00:23:11;
+
+[CreateBG]=00:23:12	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-005	00:30:03;
+
+[PrintText]=00:23:16	Sekai	Bueno, quiero decir... ella ya tiene novio.	00:27:02;
+
+[PlayVoice]=00:23:16	Voice04/04-SA/04-SA-M02/04-SA-M02-0110	0	sek	00:27:02;
+
+[PrintText]=00:27:01	Hikari	Oh, cierto.	00:28:06;
+
+[PlayVoice]=00:27:01	Voice04/04-SA/04-SA-M02/04-SA-M02-0120	0	hik	00:28:06;
+
+[PrintText]=00:28:06	Sekai	Pues... sí.	00:30:01;
+
+[PlayVoice]=00:28:06	Voice04/04-SA/04-SA-M02/04-SA-M02-0130	0	sek	00:30:01;
+
+[CreateBG]=00:30:03	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-006	00:42:12;
+
+[PrintText]=00:30:06	Hikari	Ya veo... solo es Sawanaga quien se siente así.	00:34:21;
+
+[PlayVoice]=00:30:06	Voice04/04-SA/04-SA-M02/04-SA-M02-0140	0	hik	00:34:21;
+
+[PrintText]=00:34:23	Sekai	Así es. Tienes que calmarte.	00:38:03;
+
+[PlayVoice]=00:34:23	Voice04/04-SA/04-SA-M02/04-SA-M02-0150	0	sek	00:38:03;
+
+[PrintText]=00:38:06	Hikari	En ese caso... ve y dile.	00:42:14;
+
+[PlayVoice]=00:38:06	Voice04/04-SA/04-SA-M02/04-SA-M02-0160	0	hik	00:42:14;
+
+[CreateBG]=00:42:12	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-006B	00:43:09;
+
+[PrintText]=00:42:17	Sekai	¿Eh?!	00:43:07;
+
+[PlayVoice]=00:42:17	Voice04/04-SA/04-SA-M02/04-SA-M02-0170	0	sek	00:43:07;
+
+[CreateBG]=00:43:09	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-006C	00:46:04;
+
+[PrintText]=00:43:16	Hikari	Que Katsura-san tiene novio.	00:46:03;
+
+[PlayVoice]=00:43:16	Voice04/04-SA/04-SA-M02/04-SA-M02-0180	0	hik	00:46:03;
+
+[CreateBG]=00:46:04	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-007	00:50:17;
+
+[PrintText]=00:46:10	Sekai	¿Ehh...? N-No puedo hacer eso.	00:50:16;
+
+[PlayVoice]=00:46:10	Voice04/04-SA/04-SA-M02/04-SA-M02-0190	0	sek	00:50:16;
+
+[CreateBG]=00:50:17	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-008	00:52:05;
+
+[PrintText]=00:51:00	Hikari	¿Por qué no?^	00:52:05;
+
+[PlayVoice]=00:51:00	Voice04/04-SA/04-SA-M02/04-SA-M02-0200	0	hik	00:52:05;
+
+[CreateBG]=00:52:05	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-009	01:03:13;
+
+[PrintText]=00:52:11	Sekai	Pues, quiero decir... él y yo no somos tan cercanos tampoco, sabes, sería raro si de repente se lo digo.	01:03:11;
+
+[PlayVoice]=00:52:11	Voice04/04-SA/04-SA-M02/04-SA-M02-0210	0	sek	01:03:11;
+
+[CreateBG]=01:03:13	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-010	01:13:02;
+
+[PrintText]=01:03:19	Hikari	Sí, creo que tienes razón.	01:07:13;
+
+[PlayVoice]=01:03:19	Voice04/04-SA/04-SA-M02/04-SA-M02-0220	0	hik	01:07:13;
+
+[PrintText]=01:07:15	Sekai	¡Uh-huh!	01:09:00;
+
+[PlayVoice]=01:07:15	Voice04/04-SA/04-SA-M02/04-SA-M02-0230	0	sek	01:09:00;
+
+[PrintText]=01:09:03	Hikari	Me pregunto que tipo de chica le gusta a Sawanaga...	01:13:01;
+
+[PlayVoice]=01:09:03	Voice04/04-SA/04-SA-M02/04-SA-M02-0240	0	hik	01:13:01;
+
+[CreateBG]=01:13:02	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-011	01:15:01;
+
+[PrintText]=01:13:11	Sekai	Quien sabe.	01:15:02;
+
+[PlayVoice]=01:13:11	Voice04/04-SA/04-SA-M02/04-SA-M02-0250	0	sek	01:15:02;
+
+[CreateBG]=01:15:01	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-012	01:25:04;
+
+[PrintText]=01:15:12	Hikari	Linda, con cabello largo y... unos senos enormes. Si fuera un chico, definitivamente quisiera una chica así...	01:25:05;
+
+[PlayVoice]=01:15:12	Voice04/04-SA/04-SA-M02/04-SA-M02-0260	0	hik	01:25:05;
+
+[CreateBG]=01:25:04	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-013	01:28:10;
+
+[PrintText]=01:25:13	Sekai	...Sí.	01:27:10;
+
+[PlayVoice]=01:25:13	Voice04/04-SA/04-SA-M02/04-SA-M02-0270	0	sek	01:27:10;
+
+[PrintText]=01:27:12	Hikari	Ahh... ahora me siento triste.	01:30:12;
+
+[PlayVoice]=01:27:12	Voice04/04-SA/04-SA-M02/04-SA-M02-0280	0	hik	01:30:12;
+
+[CreateBG]=01:28:10	BGS	Event04/04-SA/04-SA-M02/04-SA-M02-014	01:33:11;
+
+[PrintText]=01:30:13	Sekai	...Yo también.	01:32:05;
+
+[PlayVoice]=01:30:13	Voice04/04-SA/04-SA-M02/04-SA-M02-0290	0	sek	01:32:05;
+
+ ;
+
+[Next]=01:33:11;
+
+

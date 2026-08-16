@@ -1,0 +1,201 @@
+﻿[SkipFRAME]=02:11:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	02:11:19;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-D09/SE04-KA-D09-002	00:05:18;
+
+[PlayMovie]=00:00:00	Movie04/04-KA/04-KA-D09/04-KA-D09-001	0	00:11:19;
+
+[PlaySe]=00:05:13	2	Se04/04-KA/04-KA-D09/SE04-KA-D09-003	00:07:14;
+
+[PrintText]=00:06:17	Kotonoha	Buen día.	00:08:05;
+
+[PlayVoice]=00:06:17	Voice04/04-KA/04-KA-D09/04-KA-D09-0040	0	kot	00:08:05;
+
+[PrintText]=00:08:10	Makoto	B-Buen día.	00:10:22;
+
+[PlayVoice]=00:08:10	Voice04/04-KA/04-KA-D09/04-KA-D09-0050	1	mak	00:10:22;
+
+[BlackFade]=00:11:07	OUT	00:11:19;
+
+[PlaySe]=00:11:19	2	Se04/04-KA/04-KA-D09/SE04-KA-D09-001	02:11:19;
+
+[PlayMovie]=00:11:19	Movie04/04-KA/04-KA-D09/04-KA-D09-002	0	00:14:07;
+
+[BlackFade]=00:11:19	IN	00:12:07;
+
+[PlayMovie]=00:14:07	Movie04/04-KA/04-KA-D09/04-KA-D09-003	0	00:17:07;
+
+[PlayMovie]=00:17:07	Movie04/04-KA/04-KA-D09/04-KA-D09-004	0	00:28:01;
+
+[PrintText]=00:17:07	Makoto	K-Kotonoha...	00:19:14;
+
+[PlayVoice]=00:17:07	Voice04/04-KA/04-KA-D09/04-KA-D09-0090	1	mak	00:19:14;
+
+[PrintText]=00:20:06	Makoto	¡No puedes... no ahora... ah!	00:25:21;
+
+[PlayVoice]=00:20:06	Voice04/04-KA/04-KA-D09/04-KA-D09-0110	1	mak	00:25:21;
+
+[PrintText]=00:25:10	Kotonoha	Ufufu...	00:26:22;
+
+[PlayVoice]=00:25:10	Voice04/04-KA/04-KA-D09/04-KA-D09-0120	0	kot	00:26:22;
+
+[PrintText]=00:26:15	Makoto	¡Ah... haah... haah...!	00:31:13;
+
+[PlayVoice]=00:26:15	Voice04/04-KA/04-KA-D09/04-KA-D09-0140	1	mak	00:31:13;
+
+[PlayMovie]=00:28:01	Movie04/04-KA/04-KA-D09/04-KA-D09-005	0	00:31:01;
+
+[PlayMovie]=00:31:01	Movie04/04-KA/04-KA-D09/04-KA-D09-005B	0	00:37:20;
+
+[PrintText]=00:31:01	Kotonoha	Lo sientes, ¿No?^	00:32:19;
+
+[PlayVoice]=00:31:01	Voice04/04-KA/04-KA-D09/04-KA-D09-0150	0	kot	00:32:19;
+
+[PrintText]=00:32:13	Makoto	¡Tonta...! ¡Que... si alguien nos ve... uh!	00:37:16;
+
+[PlayVoice]=00:32:13	Voice04/04-KA/04-KA-D09/04-KA-D09-0160	1	mak	00:37:16;
+
+[PlayMovie]=00:37:20	Movie04/04-KA/04-KA-D09/04-KA-D09-006	0	00:39:17;
+
+[PrintText]=00:37:20	Kotonoha	Si alguien nos ve...	00:39:15;
+
+[PlayVoice]=00:37:20	Voice04/04-KA/04-KA-D09/04-KA-D09-0170	0	kot	00:39:15;
+
+[PlayMovie]=00:39:17	Movie04/04-KA/04-KA-D09/04-KA-D09-007	0	00:55:20;
+
+[PrintText]=00:39:17	Makoto	Ah... haah... hah... ah...	00:44:05;
+
+[PlayVoice]=00:39:17	Voice04/04-KA/04-KA-D09/04-KA-D09-0180	1	mak	00:44:05;
+
+[PrintText]=00:40:20	Kotonoha	Probablemente diré que me forzaste a hacerlo.	00:47:01;
+
+[PlayVoice]=00:40:20	Voice04/04-KA/04-KA-D09/04-KA-D09-0190	0	kot	00:47:01;
+
+[PrintText]=00:46:19	Makoto	¡Como puedes... ahh...! Haah... haah...	00:52:05;
+
+[PlayVoice]=00:46:19	Voice04/04-KA/04-KA-D09/04-KA-D09-0200	1	mak	00:52:05;
+
+[PrintText]=00:49:17	Kotonoha	Makoto-kun, sorprendido in fraganti por abusar sexualmente de mí. Eso causará un escándalo.	00:55:22;
+
+[PlayVoice]=00:49:17	Voice04/04-KA/04-KA-D09/04-KA-D09-0210	0	kot	00:55:22;
+
+[PlayMovie]=00:55:20	Movie04/04-KA/04-KA-D09/04-KA-D09-008	0	01:01:11;
+
+[PrintText]=00:55:20	Makoto	¡Ah...! ¡De qué... hablas... ahh!	01:02:05;
+
+[PlayVoice]=00:55:20	Voice04/04-KA/04-KA-D09/04-KA-D09-0220	1	mak	01:02:05;
+
+[PlayMovie]=01:01:11	Movie04/04-KA/04-KA-D09/04-KA-D09-009	0	01:06:01;
+
+[PrintText]=01:01:12	Kotonoha	Es broma. Lo haré porque nadie nos ve...	01:06:07;
+
+[PlayVoice]=01:01:12	Voice04/04-KA/04-KA-D09/04-KA-D09-0230	0	kot	01:06:07;
+
+[PlayMovie]=01:06:01	Movie04/04-KA/04-KA-D09/04-KA-D09-010	0	01:11:06;
+
+[PrintText]=01:06:01	Makoto	Haah... haah...	01:08:09;
+
+[PlayVoice]=01:06:01	Voice04/04-KA/04-KA-D09/04-KA-D09-0240	1	mak	01:08:09;
+
+[PrintText]=01:08:09	Makoto	Haah... haah...	01:11:06;
+
+[PlayVoice]=01:08:09	Voice04/04-KA/04-KA-D09/04-KA-D09-0270	1	mak	01:11:06;
+
+[PlayMovie]=01:11:06	Movie04/04-KA/04-KA-D09/04-KA-D09-011	0	01:17:12;
+
+[PrintText]=01:11:06	Kotonoha	Ufufu...	01:12:12;
+
+[PlayVoice]=01:11:06	Voice04/04-KA/04-KA-D09/04-KA-D09-0280	0	kot	01:12:12;
+
+[PrintText]=01:12:16	Makoto	Hey... Kotonoha...	01:16:02;
+
+[PlayVoice]=01:12:16	Voice04/04-KA/04-KA-D09/04-KA-D09-0290	1	mak	01:16:02;
+
+[PrintText]=01:16:09	Kotonoha	¿Sí?^	01:17:07;
+
+[PlayVoice]=01:16:09	Voice04/04-KA/04-KA-D09/04-KA-D09-0300	0	kot	01:17:07;
+
+[PlayMovie]=01:17:12	Movie04/04-KA/04-KA-D09/04-KA-D09-012	0	01:45:00;
+
+[PrintText]=01:17:14	Makoto	Hazlo fuerte...	01:20:07;
+
+[PlayVoice]=01:17:14	Voice04/04-KA/04-KA-D09/04-KA-D09-0310	1	mak	01:20:07;
+
+[PrintText]=01:20:08	Kotonoha	No puedo hacerlo. Si lo hago fuerte, te vendrás.	01:25:22;
+
+[PlayVoice]=01:20:08	Voice04/04-KA/04-KA-D09/04-KA-D09-0320	0	kot	01:25:22;
+
+[PrintText]=01:26:00	Makoto	¡Q...Quiero venirme... ahora!	01:31:09;
+
+[PlayVoice]=01:26:00	Voice04/04-KA/04-KA-D09/04-KA-D09-0330	1	mak	01:31:09;
+
+[PrintText]=01:31:10	Kotonoha	¿En mi pañuelo?^	01:35:02;
+
+[PlayVoice]=01:31:10	Voice04/04-KA/04-KA-D09/04-KA-D09-0340	0	kot	01:35:02;
+
+[PrintText]=01:35:00	Makoto	¡Sí... Quiero venirme... en tu pañuelo!	01:41:10;
+
+[PlayVoice]=01:35:00	Voice04/04-KA/04-KA-D09/04-KA-D09-0350	1	mak	01:41:10;
+
+[PrintText]=01:41:08	Kotonoha	Ufufu ... ¿Qué vamos a hacer al respecto?^	01:45:01;
+
+[PlayVoice]=01:41:08	Voice04/04-KA/04-KA-D09/04-KA-D09-0360	0	kot	01:45:01;
+
+[PlayMovie]=01:45:00	Movie04/04-KA/04-KA-D09/04-KA-D09-013	0	01:49:15;
+
+[PrintText]=01:45:00	Makoto	Por favor... haah... haah...	01:49:13;
+
+[PlayVoice]=01:45:00	Voice04/04-KA/04-KA-D09/04-KA-D09-0370	1	mak	01:49:13;
+
+[PlayVoice]=01:47:13	Voice04/04-KA/04-KA-D09/04-KA-D09-0380	1	ana	01:49:16;
+
+[PlayMovie]=01:49:15	Movie04/04-KA/04-KA-D09/04-KA-D09-014	0	01:52:01;
+
+[PrintText]=01:49:15	Kotonoha	¡Ah! Ya hemos llegado a la escuela.	01:51:21;
+
+[PlayVoice]=01:49:15	Voice04/04-KA/04-KA-D09/04-KA-D09-0390	0	kot	01:51:21;
+
+[PlayMovie]=01:52:01	Movie04/04-KA/04-KA-D09/04-KA-D09-015	0	02:01:12;
+
+[PrintText]=01:54:00	Makoto	Ah...	01:54:21;
+
+[PlayVoice]=01:54:00	Voice04/04-KA/04-KA-D09/04-KA-D09-0410	1	mak	01:54:21;
+
+[PrintText]=01:54:19	Kotonoha	Estaremos allí pronto.	01:56:17;
+
+[PlayVoice]=01:54:19	Voice04/04-KA/04-KA-D09/04-KA-D09-0420	0	kot	01:56:17;
+
+[PrintText]=01:56:12	Makoto	K-Kotonoha...	01:59:06;
+
+[PlayVoice]=01:56:12	Voice04/04-KA/04-KA-D09/04-KA-D09-0430	1	mak	01:59:06;
+
+[PrintText]=01:59:02	Kotonoha	¿Sí?^	01:59:18;
+
+[PlayVoice]=01:59:02	Voice04/04-KA/04-KA-D09/04-KA-D09-0440	0	kot	01:59:18;
+
+[PrintText]=02:00:04	Makoto	Esto...	02:01:07;
+
+[PlayVoice]=02:00:04	Voice04/04-KA/04-KA-D09/04-KA-D09-0450	1	mak	02:01:07;
+
+[PlayMovie]=02:01:12	Movie04/04-KA/04-KA-D09/04-KA-D09-016	0	02:11:19;
+
+[PrintText]=02:01:18	Kotonoha	No puedo. Simplemente vas a tener que esperar hasta después de la clase.	02:06:23;
+
+[PlayVoice]=02:01:18	Voice04/04-KA/04-KA-D09/04-KA-D09-0470	0	kot	02:06:23;
+
+[PrintText]=02:07:09	Makoto	Pero...	02:08:21;
+
+[PlayVoice]=02:07:09	Voice04/04-KA/04-KA-D09/04-KA-D09-0480	1	mak	02:08:21;
+
+[PrintText]=02:09:02	Kotonoha	Ufufu...	02:10:11;
+
+[PlayVoice]=02:09:02	Voice04/04-KA/04-KA-D09/04-KA-D09-0490	0	kot	02:10:11;
+
+[BlackFade]=02:10:19	OUT	02:11:19;
+
+ ;
+
+[Next]=02:11:19;
+
+

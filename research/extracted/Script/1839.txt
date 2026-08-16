@@ -1,0 +1,86 @@
+﻿[SkipFRAME]=00:43:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:49:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-M02/05-SE-M02-001	00:01:22;
+
+[PrintText]=00:00:00	Makoto	Tienes que abortar al bebé.	00:01:05;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-M02/05-SE-M02-0030	1	mak	00:01:05;
+
+[PrintText]=00:01:05	Sekai	¿Eh...?^	00:01:21;
+
+[PlayVoice]=00:01:05	Voice05/05-SE/05-SE-M02/05-SE-M02-0040	0	sek	00:01:21;
+
+[PrintText]=00:01:21	Makoto	Es lo mejor.	00:03:10;
+
+[PlayVoice]=00:01:21	Voice05/05-SE/05-SE-M02/05-SE-M02-0050	1	mak	00:03:10;
+
+[CreateBG]=00:01:22	BGS	Event05/05-SE/05-SE-M02/05-SE-M02-002	00:06:01;
+
+[PrintText]=00:03:11	Sekai	No. Lo voy a tener.	00:06:00;
+
+[PlayVoice]=00:03:11	Voice05/05-SE/05-SE-M02/05-SE-M02-0060	0	sek	00:06:00;
+
+[PrintText]=00:06:00	Makoto	¿Entiendes la situación? ¡¿Cuantos años tenemos?! ¡No hay manera de que lo podamos criar!	00:13:10;
+
+[PlayVoice]=00:06:00	Voice05/05-SE/05-SE-M02/05-SE-M02-0070	1	mak	00:13:10;
+
+[CreateBG]=00:06:01	BGS	Event05/05-SE/05-SE-M02/05-SE-M02-003	00:25:19;
+
+[PrintText]=00:13:10	Sekai	Hace unos días estabas de acuerdo.	00:16:13;
+
+[PlayVoice]=00:13:10	Voice05/05-SE/05-SE-M02/05-SE-M02-0080	0	sek	00:16:13;
+
+[PrintText]=00:16:13	Makoto	Además, incluso si fuera mi hijo, no hay manera de estar seguro. No puedo empezar a celebrar por algo así.	00:25:19;
+
+[PlayVoice]=00:16:13	Voice05/05-SE/05-SE-M02/05-SE-M02-0090	1	mak	00:25:19;
+
+[CreateBG]=00:25:19	BGS	Event05/05-SE/05-SE-M02/05-SE-M02-004	00:31:09;
+
+[PrintText]=00:25:19	Sekai	Es tu hijo, estoy segura de eso.	00:29:12;
+
+[PlayVoice]=00:25:19	Voice05/05-SE/05-SE-M02/05-SE-M02-0100	0	sek	00:29:12;
+
+[PrintText]=00:29:13	Makoto	¡No puedes asegurarlo!	00:31:09;
+
+[PlayVoice]=00:29:13	Voice05/05-SE/05-SE-M02/05-SE-M02-0110	1	mak	00:31:09;
+
+[PrintText]=00:31:08	Sekai	Estoy segura.	00:32:23;
+
+[PlayVoice]=00:31:08	Voice05/05-SE/05-SE-M02/05-SE-M02-0120	0	sek	00:32:23;
+
+[CreateBG]=00:31:09	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-003	00:39:07;
+
+[PrintText]=00:33:00	Makoto	Mira, solo tienes que abortarlo.	00:36:03;
+
+[PlayVoice]=00:33:00	Voice05/05-SE/05-SE-M02/05-SE-M02-0130	1	mak	00:36:03;
+
+[PrintText]=00:36:04	Sekai	No. no lo haré.	00:39:07;
+
+[PlayVoice]=00:36:04	Voice05/05-SE/05-SE-M02/05-SE-M02-0140	0	sek	00:39:07;
+
+[CreateBG]=00:39:07	BGS	Event05/05-SE/05-SE-M02/05-SE-M02-006	00:40:12;
+
+[PrintText]=00:39:07	Makoto	¡Sekai!	00:40:12;
+
+[PlayVoice]=00:39:07	Voice05/05-SE/05-SE-M02/05-SE-M02-0150	1	mak	00:40:12;
+
+[CreateBG]=00:40:12	BGS	Event05/05-SE/05-SE-M02/05-SE-M02-007	00:49:07;
+
+[PrintText]=00:40:12	Sekai	¡No abortaré al bebé!	00:42:03;
+
+[PlayVoice]=00:40:12	Voice05/05-SE/05-SE-M02/05-SE-M02-0160	0	sek	00:42:03;
+
+[PrintText]=00:42:02	Makoto	Sekai...	00:43:06;
+
+[PlayVoice]=00:42:02	Voice05/05-SE/05-SE-M02/05-SE-M02-0170	1	mak	00:43:06;
+
+[SetSELECT]=00:43:06	'Amas a Taisuke'	null	00:48:06;
+
+ ;
+
+[Next]=00:49:07;
+
+
+

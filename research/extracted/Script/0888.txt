@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:56:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:08:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C0/04-C0-I05/04-C0-I05-001	00:09:15;
+
+[PrintText]=00:00:05	Makoto	¿Se ha ido? ...	00:01:10;
+
+[PlayVoice]=00:00:05	Voice04/04-C0/04-C0-I05/04-C0-I05-0070	1	mak	00:01:10;
+
+[PrintText]=00:02:00	Makoto	...	00:02:16;
+
+[PlayVoice]=00:02:00	Voice04/04-C0/04-C0-I05/04-C0-I05-0080	1	xxx	00:02:16;
+
+[EndBGM]=00:08:00	BGM/Vocal/SDV04	02:18:17;
+
+[CreateBG]=00:09:15	BGS	Event04/04-C0/04-C0-I05/04-C0-I05-002	00:13:01;
+
+[PrintText]=00:09:18	Makoto	Perdón, Kotonoha...	00:12:10;
+
+[PlayVoice]=00:09:18	Voice04/04-C0/04-C0-I05/04-C0-I05-0090	1	mak	00:12:10;
+
+[CreateBG]=00:13:01	BGS	Ini/EndRoll/04-02	00:16:00;
+
+[EndRoll]=00:16:00	Ini/EndRoll/NORMAL	00:56:00;
+
+ ;
+
+[Next]=00:56:00;
+
+

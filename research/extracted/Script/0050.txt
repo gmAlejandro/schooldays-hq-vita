@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:12:01;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E07/SE01-00-E07-001	00:12:01;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-E07/01-00-E07-001	00:03:15;
+
+[PrintText]=00:00:06	Kotonoha	Um... la clase está a punto de empezar.	00:04:06;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-E07/01-00-E07-0030	0	kot	00:04:06;
+
+[CreateBG]=00:03:15	BGS	Event01/01-00/01-00-E07/01-00-E07-002	00:05:06;
+
+[PrintText]=00:03:15	Makoto	Ah, maldición.	00:05:08;
+
+[PlayVoice]=00:03:15	Voice01/01-00/01-00-E07/01-00-E07-0040	1	mak	00:05:08;
+
+[CreateBG]=00:05:06	BGS	Event01/01-00/01-00-E07/01-00-E07-003	00:09:03;
+
+[PrintText]=00:05:06	Kotonoha	Vamos.	00:06:10;
+
+[PlayVoice]=00:05:06	Voice01/01-00/01-00-E07/01-00-E07-0050	0	kot	00:06:10;
+
+[CreateBG]=00:09:03	BGS	Event01/01-00/01-00-E07/01-00-E07-004	00:12:01;
+
+[PrintText]=00:09:10	Makoto	...	00:10:08;
+
+[PlayVoice]=00:09:10	Voice01/01-00/01-00-E07/01-00-E07-0070	1	xxx	00:10:08;
+
+[BlackFade]=00:11:01	OUT	00:12:01;
+
+ ;
+
+[Next]=00:12:01;
+
+
+
+

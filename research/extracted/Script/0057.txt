@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:25:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:31:06;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-G00/01-00-G00-001	00:03:00;
+
+[PlayMovie]=00:03:00	Movie00/00-00/00-00-A06/00-00-A06-004	0	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event01/01-00/01-00-G00/01-00-G00-003	00:07:22;
+
+[WhiteFade]=00:07:10	OUT	00:07:22;
+
+[CreateBG]=00:07:22	BGS	Event01/01-00/01-00-G00/01-00-G00-004	00:17:04;
+
+[WhiteFade]=00:07:22	IN	00:08:10;
+
+[PrintText]=00:08:13	Kotonoha	...Itou-kun.	00:09:15;
+
+[PlayVoice]=00:08:13	Voice01/01-00/01-00-G00/01-00-G00-0050	0	kot	00:09:15;
+
+[PrintText]=00:09:12	Makoto	¿Hmn?^	00:10:01;
+
+[PlayVoice]=00:09:12	Voice01/01-00/01-00-G00/01-00-G00-0060	1	mak	00:10:01;
+
+[PrintText]=00:10:11	Kotonoha	Um...	00:11:12;
+
+[PlayVoice]=00:10:11	Voice01/01-00/01-00-G00/01-00-G00-0070	0	kot	00:11:12;
+
+[PrintText]=00:11:11	Makoto	¿Qué pasó?^	00:12:03;
+
+[PlayVoice]=00:11:11	Voice01/01-00/01-00-G00/01-00-G00-0080	1	mak	00:12:03;
+
+[PrintText]=00:12:19	Kotonoha	Ko...	00:13:08;
+
+[PlayVoice]=00:12:19	Voice01/01-00/01-00-G00/01-00-G00-0090	0	kot	00:13:08;
+
+[PrintText]=00:14:00	Makoto	¿'Ko'?^	00:14:13;
+
+[PlayVoice]=00:14:00	Voice01/01-00/01-00-G00/01-00-G00-0100	1	mak	00:14:13;
+
+[PrintText]=00:14:19	Kotonoha	No, olvídalo.	00:16:15;
+
+[PlayVoice]=00:14:19	Voice01/01-00/01-00-G00/01-00-G00-0110	0	kot	00:16:15;
+
+[WhiteFade]=00:16:16	OUT	00:17:04;
+
+[CreateBG]=00:17:04	BGS	Event01/01-00/01-00-G00/01-00-G00-005	00:31:06;
+
+[WhiteFade]=00:17:04	IN	00:17:16;
+
+[PrintText]=00:17:23	Makoto	Katsura...	00:18:23;
+
+[PlayVoice]=00:17:23	Voice01/01-00/01-00-G00/01-00-G00-0130	1	xxx	00:18:23;
+
+[PrintText]=00:19:11	Makoto	Ella quería decir algo, me pregunto qué habrá sido.	00:23:11;
+
+[PlayVoice]=00:19:11	Voice01/01-00/01-00-G00/01-00-G00-0140	1	xxx	00:23:11;
+
+[PrintText]=00:24:05	Makoto	Ella de seguro...	00:25:08;
+
+[PlayVoice]=00:24:05	Voice01/01-00/01-00-G00/01-00-G00-0150	1	xxx	00:25:08;
+
+[SetSELECT]=00:25:06	'...¿Quería terminar conmigo?'	'...¿Trataba de decirme algo importante?'	00:30:06;
+
+ ;
+
+[Next]=00:31:06;
+
+
+
+

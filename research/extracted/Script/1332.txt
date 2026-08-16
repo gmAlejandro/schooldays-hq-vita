@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:17:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:23:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E06/05-5O-E06-001	00:02:18;
+
+[PrintText]=00:00:16	Makoto	No lo sé...	00:02:03;
+
+[PlayVoice]=00:00:16	Voice05/05-5O/05-5O-E06/05-5O-E06-0030	1	mak	00:02:03;
+
+[CreateBG]=00:02:18	BGS	Event05/05-5O/05-5O-E06/05-5O-E06-002	00:04:11;
+
+[PrintText]=00:02:20	Setsuna	¿No lo sabes...?^	00:04:08;
+
+[PlayVoice]=00:02:20	Voice05/05-5O/05-5O-E06/05-5O-E06-0040	0	set	00:04:08;
+
+[CreateBG]=00:04:11	BGS	Event05/05-5O/05-5O-E06/05-5O-E06-003	00:11:20;
+
+[PrintText]=00:04:14	Makoto	No sé como me siento... y creo que está mal ir a verla sin antes saberlo.	00:11:14;
+
+[PlayVoice]=00:04:14	Voice05/05-5O/05-5O-E06/05-5O-E06-0050	1	mak	00:11:14;
+
+[CreateBG]=00:11:20	BGS	Event05/05-5O/05-5O-E06/05-5O-E06-004	00:17:03;
+
+[PrintText]=00:11:21	Setsuna	Tienes que ir a verla antes de que resuelvas las cosas en tu cabeza.	00:15:06;
+
+[PlayVoice]=00:11:21	Voice05/05-5O/05-5O-E06/05-5O-E06-0060	0	set	00:15:06;
+
+[PrintText]=00:15:10	Makoto	¿Eh...?^	00:16:00;
+
+[PlayVoice]=00:15:10	Voice05/05-5O/05-5O-E06/05-5O-E06-0070	1	mak	00:16:00;
+
+[PrintText]=00:16:03	Setsuna	Ve.	00:16:23;
+
+[PlayVoice]=00:16:03	Voice05/05-5O/05-5O-E06/05-5O-E06-0080	0	set	00:16:23;
+
+[CreateBG]=00:17:03	BGS	Event05/05-5O/05-5O-E06/05-5O-E06-005	00:23:12;
+
+[PrintText]=00:17:12	Makoto	...	00:18:17;
+
+[PlayVoice]=00:17:12	Voice05/05-5O/05-5O-E06/05-5O-E06-0090	1	xxx	00:18:17;
+
+[SetSELECT]=00:17:12	*Ir*	null	00:22:12;
+
+ ;
+
+[Next]=00:23:12;
+
+

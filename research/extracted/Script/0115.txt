@@ -1,0 +1,52 @@
+﻿[SkipFRAME]=00:21:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:21:10;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-P02/SE01-00-P02-001	00:07:07;
+
+[PlayMovie]=00:00:00	Movie01/01-00/01-00-P02/01-00-P02-001	0	00:06:20;
+
+[PrintText]=00:00:06	Kotonoha	Él se disculpo...	00:02:01;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-P02/01-00-P02-0060	0	kot	00:02:01;
+
+[PrintText]=00:02:18	Kotonoha	Me pregunto si él quiso decir que quería terminar esta relación...	00:06:03;
+
+[PlayVoice]=00:02:18	Voice01/01-00/01-00-P02/01-00-P02-0070	0	kot	00:06:03;
+
+[PlayMovie]=00:06:20	Movie01/01-00/01-00-P02/01-00-P02-002	0	00:16:22;
+
+[PrintText]=00:07:05	Kotonoha	Después de todo, nunca tuvimos un momento para hablar en la cita...	00:11:09;
+
+[PlayVoice]=00:07:05	Voice01/01-00/01-00-P02/01-00-P02-0080	0	kot	00:11:09;
+
+[PlaySe]=00:07:06	2	Se01/01-00/01-00-P02/SE01-00-P02-001	00:14:13;
+
+[PrintText]=00:11:23	Kotonoha	Y solo estuvo hablando con Saionji-san durante el almuerzo también...	00:16:06;
+
+[PlayVoice]=00:11:23	Voice01/01-00/01-00-P02/01-00-P02-0090	0	kot	00:16:06;
+
+[PlaySe]=00:14:12	1	Se01/01-00/01-00-P02/SE01-00-P02-001	00:21:10;
+
+[PrintText]=00:16:12	Kotonoha	Haah...	00:18:03;
+
+[PlayVoice]=00:16:12	Voice01/01-00/01-00-P02/01-00-P02-0100	0	kot	00:18:03;
+
+[PlayMovie]=00:16:22	Movie01/01-00/01-00-P02/01-00-P02-003	0	00:21:10;
+
+[PrintText]=00:18:08	Kotonoha	Él me odia...	00:19:17;
+
+[PlayVoice]=00:18:08	Voice01/01-00/01-00-P02/01-00-P02-0110	0	kot	00:19:17;
+
+[PrintText]=00:19:22	Kotonoha	Haah...	00:20:21;
+
+[PlayVoice]=00:19:22	Voice01/01-00/01-00-P02/01-00-P02-0130	0	kot	00:20:21;
+
+[BlackFade]=00:20:10	OUT	00:21:10;
+
+ ;
+
+[Next]=00:21:10;
+
+
+

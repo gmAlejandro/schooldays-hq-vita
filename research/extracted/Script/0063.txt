@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:11:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:11:22;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H01/SE01-00-H01-001	00:11:22;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H01/01-00-H01-001	00:01:21;
+
+[PrintText]=00:00:06	Makoto	Por supuesto, ¿No lo crees?^	00:02:12;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-H01/01-00-H01-0030	1	mak	00:02:12;
+
+[CreateBG]=00:01:21	BGS	Event01/01-00/01-00-H01/01-00-H01-002	00:06:12;
+
+[PrintText]=00:02:09	Kotonoha	Ah... Sí, estamos bien.	00:05:21;
+
+[PlayVoice]=00:02:09	Voice01/01-00/01-00-H01/01-00-H01-0040	0	kot	00:05:21;
+
+[PrintText]=00:05:14	Sekai	Uwah.	00:06:12;
+
+[PlayVoice]=00:05:14	Voice01/01-00/01-00-H01/01-00-H01-0050	0	sek	00:06:12;
+
+[CreateBG]=00:06:12	BGS	Event01/01-00/01-00-H01/01-00-H01-003	00:11:22;
+
+[PrintText]=00:06:12	Makoto	Deja de reaccionar a cada pequeña cosa como esa.	00:09:10;
+
+[PlayVoice]=00:06:12	Voice01/01-00/01-00-H01/01-00-H01-0060	1	mak	00:09:10;
+
+[PrintText]=00:09:06	Sekai	Ahaha... vale, vale.	00:11:17;
+
+[PlayVoice]=00:09:06	Voice01/01-00/01-00-H01/01-00-H01-0070	0	sek	00:11:17;
+
+ ;
+
+[Next]=00:11:22;
+
+
+
+

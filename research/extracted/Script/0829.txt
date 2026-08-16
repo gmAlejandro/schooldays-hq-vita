@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:29:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:35:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-F06/03-SB-F06-001	00:03:19;
+
+[PrintText]=00:00:00	Makoto	No puedo.	00:00:21;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-F06/03-SB-F06-0030	1	mak	00:00:21;
+
+[PrintText]=00:00:21	Kotonoha	¿Ehh?^	00:01:20;
+
+[PlayVoice]=00:00:21	Voice03/03-SB/03-SB-F06/03-SB-F06-0040	0	kot	00:01:20;
+
+[PrintText]=00:01:20	Makoto	Realmente no me gustan ese tipo de cosas.	00:03:18;
+
+[PlayVoice]=00:01:20	Voice03/03-SB/03-SB-F06/03-SB-F06-0050	1	mak	00:03:18;
+
+[PrintText]=00:03:18	Kotonoha	¿Ehh...?^	00:04:20;
+
+[PlayVoice]=00:03:18	Voice03/03-SB/03-SB-F06/03-SB-F06-0060	0	kot	00:04:20;
+
+[CreateBG]=00:03:19	BGS	Event03/03-SB/03-SB-F06/03-SB-F06-002	00:09:09;
+
+[PrintText]=00:04:20	Makoto	No me interesan esas cosas de bailar alrededor de una fogata.	00:07:16;
+
+[PlayVoice]=00:04:20	Voice03/03-SB/03-SB-F06/03-SB-F06-0070	1	mak	00:07:16;
+
+[PrintText]=00:07:16	Kotonoha	Pero...	00:09:11;
+
+[PlayVoice]=00:07:16	Voice03/03-SB/03-SB-F06/03-SB-F06-0080	0	kot	00:09:11;
+
+[CreateBG]=00:09:09	BGS	Event03/03-SB/03-SB-F06/03-SB-F06-003	00:17:02;
+
+[PrintText]=00:09:11	Makoto	Vivimos en una era práctica. Nadie lee esas historias de bailar con tigres bajo la luna. Es aburrido.	00:16:23;
+
+[PlayVoice]=00:09:11	Voice03/03-SB/03-SB-F06/03-SB-F06-0090	1	mak	00:16:23;
+
+[PrintText]=00:16:23	Kotonoha	S-Sí, tal vez tengas razón, pero... es una tradición.	00:23:17;
+
+[PlayVoice]=00:16:23	Voice03/03-SB/03-SB-F06/03-SB-F06-0100	0	kot	00:23:17;
+
+[CreateBG]=00:17:02	BGS	Event03/03-SB/03-SB-F06/03-SB-F06-004	00:23:18;
+
+[PrintText]=00:23:17	Makoto	Tradición, huh...	00:25:05;
+
+[PlayVoice]=00:23:17	Voice03/03-SB/03-SB-F06/03-SB-F06-0110	1	mak	00:25:05;
+
+[CreateBG]=00:23:18	BGS	Event03/03-SB/03-SB-F06/03-SB-F06-005	00:35:19;
+
+[PrintText]=00:25:06	Kotonoha	¡Por favor... quiero... bailar contigo!	00:29:18;
+
+[PlayVoice]=00:25:06	Voice03/03-SB/03-SB-F06/03-SB-F06-0120	0	kot	00:29:18;
+
+[SetSELECT]=00:29:18	*Bailar con ella*	null	00:34:18;
+
+ ;
+
+[Next]=00:35:19;
+
+

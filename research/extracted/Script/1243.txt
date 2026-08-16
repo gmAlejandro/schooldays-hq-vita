@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:36:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:36:06;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-D02/04-SC-D02-001	00:01:06;
+
+[PrintText]=00:00:04	Makoto	Vale.	00:01:02;
+
+[PlayVoice]=00:00:04	Voice04/04-SC/04-SC-D02/04-SC-D02-0030	1	mak	00:01:02;
+
+[CreateBG]=00:01:06	BGS	Event04/04-SC/04-SC-D02/04-SC-D02-002	00:05:10;
+
+[PrintText]=00:01:06	Sekai	Haah... haah...	00:05:13;
+
+[PlayVoice]=00:01:06	Voice04/04-SC/04-SC-D02/04-SC-D02-0050	0	sek	00:05:13;
+
+[CreateBG]=00:05:10	BGS	Event04/04-SC/04-SC-D02/04-SC-D02-003	00:20:11;
+
+[PrintText]=00:05:13	Makoto	Sekai...	00:08:06;
+
+[PlayVoice]=00:05:13	Voice04/04-SC/04-SC-D02/04-SC-D02-0060	1	mak	00:08:06;
+
+[PrintText]=00:08:06	Sekai	Uh-huh...	00:08:21;
+
+[PlayVoice]=00:08:06	Voice04/04-SC/04-SC-D02/04-SC-D02-0070	0	sek	00:08:21;
+
+[PrintText]=00:08:21	Makoto	Voy... a ser honesto. Voy a ser honesto conmigo mismo.	00:14:23;
+
+[PlayVoice]=00:08:21	Voice04/04-SC/04-SC-D02/04-SC-D02-0080	1	mak	00:14:23;
+
+[PrintText]=00:15:00	Sekai	¿Honesto...?^	00:16:04;
+
+[PlayVoice]=00:15:00	Voice04/04-SC/04-SC-D02/04-SC-D02-0090	0	sek	00:16:04;
+
+[PrintText]=00:16:04	Makoto	Yo... creo que estoy enamorado de ti...	00:20:11;
+
+[PlayVoice]=00:16:04	Voice04/04-SC/04-SC-D02/04-SC-D02-0100	1	mak	00:20:11;
+
+[CreateBG]=00:20:11	BGS	Event04/04-SC/04-SC-D02/04-SC-D02-004	00:26:14;
+
+[PrintText]=00:20:11	Sekai	Uh-huh... ¿Me quieres más que a Katsura-san...?^	00:23:04;
+
+[PlayVoice]=00:20:11	Voice04/04-SC/04-SC-D02/04-SC-D02-0110	0	sek	00:23:04;
+
+[PrintText]=00:23:04	Makoto	Tal vez... quiero decir, después de todo...	00:26:01;
+
+[PlayVoice]=00:23:04	Voice04/04-SC/04-SC-D02/04-SC-D02-0120	1	mak	00:26:01;
+
+[PrintText]=00:26:01	Sekai	Uh-huh...	00:26:16;
+
+[PlayVoice]=00:26:01	Voice04/04-SC/04-SC-D02/04-SC-D02-0130	0	sek	00:26:16;
+
+[CreateBG]=00:26:14	BGS	Event04/04-SC/04-SC-D02/04-SC-D02-005	00:36:06;
+
+[PrintText]=00:26:16	Makoto	Me tienes... muy loco.	00:31:03;
+
+[PlayVoice]=00:26:16	Voice04/04-SC/04-SC-D02/04-SC-D02-0140	1	mak	00:31:03;
+
+[PrintText]=00:31:03	Sekai	¡Ahh... Makoto!	00:35:02;
+
+[PlayVoice]=00:31:03	Voice04/04-SC/04-SC-D02/04-SC-D02-0150	0	sek	00:35:02;
+
+ ;
+
+[Next]=00:36:06;
+
+

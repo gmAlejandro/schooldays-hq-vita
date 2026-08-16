@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:23:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:23:16;
+
+[PlaySe]=00:00:00	1	Se03/03-A0/03-A0-A06/SE03-A0-A06-001	00:08:12;
+
+[PlaySe]=00:00:00	3	Se03/03-A0/03-A0-A06/SE03-A0-A06-002	00:16:16;
+
+[PlaySe]=00:00:00	4	Se03/03-A0/03-A0-A06/SE03-A0-A06-003	00:16:16;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-001	00:13:05;
+
+[PlaySe]=00:08:12	2	Voice03/03-A0/03-A0-A06/03-A0-A06-0040	00:11:16;
+
+[CreateBG]=00:13:05	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-003	00:16:16;
+
+[PrintText]=00:13:05	Kotonoha	Bueno, nos vemos mañana.	00:15:01;
+
+[PlayVoice]=00:13:05	Voice03/03-A0/03-A0-A06/03-A0-A06-0060	0	kot	00:15:01;
+
+[PrintText]=00:15:06	Makoto	Sí.	00:16:03;
+
+[PlayVoice]=00:15:06	Voice03/03-A0/03-A0-A06/03-A0-A06-0070	1	mak	00:16:03;
+
+[BlackFade]=00:16:04	OUT	00:16:16;
+
+[PlaySe]=00:16:16	1	Se03/03-A0/03-A0-A06/SE03-A0-A06-004	00:23:16;
+
+[PlayMovie]=00:16:16	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:20:00;
+
+[BlackFade]=00:16:16	IN	00:17:04;
+
+[CreateBG]=00:20:00	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-005	00:23:16;
+
+[PrintText]=00:20:06	Makoto	...	00:21:22;
+
+[PlayVoice]=00:20:06	Voice03/03-A0/03-A0-A06/03-A0-A06-0100	1	xxx	00:21:22;
+
+[BlackFade]=00:22:16	OUT	00:23:16;
+
+ ;
+
+[Next]=00:23:16;
+
+

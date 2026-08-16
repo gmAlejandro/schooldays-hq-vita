@@ -1,0 +1,287 @@
+﻿[SkipFRAME]=03:00:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	03:00:14;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-001	00:05:00;
+
+[PrintText]=00:00:00	Makoto	...	00:03:16;
+
+[PlayVoice]=00:00:00	Voice05/05-KG/05-KG-G00/05-KG-G00-0040	1	xxx	00:03:16;
+
+[PrintText]=00:03:16	Sekai	...	00:04:18;
+
+[PlayVoice]=00:03:16	Voice05/05-KG/05-KG-G00/05-KG-G00-0060	0	xxx	00:04:18;
+
+[PrintText]=00:04:18	Makoto	Haah... creo que iré a casa.	00:08:22;
+
+[PlayVoice]=00:04:18	Voice05/05-KG/05-KG-G00/05-KG-G00-0090	1	mak	00:08:22;
+
+[CreateBG]=00:05:00	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-002	00:10:00;
+
+[PrintText]=00:08:23	Sekai	¡Makoto!	00:10:05;
+
+[PlayVoice]=00:08:23	Voice05/05-KG/05-KG-G00/05-KG-G00-0100	0	sek	00:10:05;
+
+[CreateBG]=00:10:00	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-003	00:16:02;
+
+[PrintText]=00:10:05	Makoto	¿Qué pasa?^	00:12:14;
+
+[PlayVoice]=00:10:05	Voice05/05-KG/05-KG-G00/05-KG-G00-0110	1	mak	00:12:14;
+
+[PrintText]=00:12:14	Sekai	¿Quieres ir a la tienda de hamburguesas hoy?^	00:15:03;
+
+[PlayVoice]=00:12:14	Voice05/05-KG/05-KG-G00/05-KG-G00-0120	0	sek	00:15:03;
+
+[BlackFade]=00:15:02	OUT	00:16:02;
+
+[CreateBG]=00:16:02	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-005	00:18:16;
+
+[BlackFade]=00:16:02	IN	00:17:02;
+
+[PrintText]=00:16:05	Makoto	¿Eh?^	00:18:14;
+
+[PlayVoice]=00:16:05	Voice05/05-KG/05-KG-G00/05-KG-G00-0130	1	mak	00:18:14;
+
+[PrintText]=00:18:15	Sekai	Vamos ¿Por qué no? ¿Has probado las nuevas malteadas de Litchi?^	00:23:08;
+
+[PlayVoice]=00:18:15	Voice05/05-KG/05-KG-G00/05-KG-G00-0140	0	sek	00:23:08;
+
+[CreateBG]=00:18:16	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-006A	00:23:16;
+
+[PrintText]=00:23:08	Makoto	No es incluso ni una promoción nuevo. El último fue de rambutan, y estuvo de moda antes del verano ¿No?^	00:33:12;
+
+[PlayVoice]=00:23:08	Voice05/05-KG/05-KG-G00/05-KG-G00-0150	1	mak	00:33:12;
+
+[CreateBG]=00:23:16	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-007	00:32:18;
+
+[CreateBG]=00:32:18	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-008	00:36:10;
+
+[PrintText]=00:33:13	Sekai	Las de litchi son muy buenas sabes.	00:35:21;
+
+[PlayVoice]=00:33:13	Voice05/05-KG/05-KG-G00/05-KG-G00-0160	0	sek	00:35:21;
+
+[PrintText]=00:35:21	Makoto	Bueno, creo que es bastante buena... hmm, no me importaría.	00:43:20;
+
+[PlayVoice]=00:35:21	Voice05/05-KG/05-KG-G00/05-KG-G00-0170	1	mak	00:43:20;
+
+[CreateBG]=00:36:10	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-009	00:43:14;
+
+[CreateBG]=00:43:14	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-010	00:51:10;
+
+[PrintText]=00:43:20	Sekai	¿Ves? ¿Ves? ¡Vamos!	00:45:22;
+
+[PlayVoice]=00:43:20	Voice05/05-KG/05-KG-G00/05-KG-G00-0180	0	sek	00:45:22;
+
+[PrintText]=00:45:22	Makoto	Bien, iré. Vamos.	00:50:12;
+
+[PlayVoice]=00:45:22	Voice05/05-KG/05-KG-G00/05-KG-G00-0190	1	mak	00:50:12;
+
+[PrintText]=00:50:13	Sekai	¡Vale!	00:51:04;
+
+[PlayVoice]=00:50:13	Voice05/05-KG/05-KG-G00/05-KG-G00-0200	0	sek	00:51:04;
+
+[CreateBG]=00:51:10	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-012	01:00:09;
+
+[PlaySe]=00:51:11	1	SysSe/SE_all/footsteps/asioto_school	00:54:06;
+
+[PlaySe]=00:54:09	2	SysSe/SE_all/door/door_kyousitu	01:00:01;
+
+[CreateBG]=01:00:09	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-013	01:03:09;
+
+[PrintText]=01:00:11	Nanami	¡Sekai... tú puedes!	01:02:05;
+
+[PlayVoice]=01:00:11	Voice05/05-KG/05-KG-G00/05-KG-G00-0220	0	nan	01:02:05;
+
+[PrintText]=01:02:05	Hikari	¡Tú puedes!	01:03:04;
+
+[PlayVoice]=01:02:05	Voice05/05-KG/05-KG-G00/05-KG-G00-0230	0	hik	01:03:04;
+
+[CreateBG]=01:03:09	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-014	01:11:15;
+
+[PlayVoice]=01:03:10	Voice05/05-KG/05-KG-G00/05-KG-G00-0240			01:07:15;
+
+[PrintText]=01:07:15	Taisuke	sniff... sniff sniff.	01:11:19;
+
+[PlayVoice]=01:07:15	Voice05/05-KG/05-KG-G00/05-KG-G00-0250	1	tai	01:11:19;
+
+[CreateBG]=01:11:15	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-015	01:14:07;
+
+[PrintText]=01:11:15	Nanami	Deja de llorar Sawanaga.	01:14:08;
+
+[PlayVoice]=01:11:15	Voice05/05-KG/05-KG-G00/05-KG-G00-0260	0	nan	01:14:08;
+
+[CreateBG]=01:14:07	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-016	01:22:04;
+
+[PrintText]=01:14:08	Taisuke	Pero... quiero decir... uuh...	01:18:00;
+
+[PlayVoice]=01:14:08	Voice05/05-KG/05-KG-G00/05-KG-G00-0270	1	tai	01:18:00;
+
+[PrintText]=01:18:01	Nanami	Te vamos a entretener ¿Vale?^	01:20:20;
+
+[PlayVoice]=01:18:01	Voice05/05-KG/05-KG-G00/05-KG-G00-0280	0	nan	01:20:20;
+
+[PrintText]=01:20:20	Taisuke	¿Entretener?^	01:22:07;
+
+[PlayVoice]=01:20:20	Voice05/05-KG/05-KG-G00/05-KG-G00-0290	1	tai	01:22:07;
+
+[CreateBG]=01:22:04	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-017	01:27:02;
+
+[PrintText]=01:22:04	Nanami	¿Verdad Hikari?^	01:23:03;
+
+[PlayVoice]=01:22:04	Voice05/05-KG/05-KG-G00/05-KG-G00-0300	0	nan	01:23:03;
+
+[PrintText]=01:23:08	Hikari	¿Eh...?! ¡Oh, sí! Vamos a comer algo.	01:27:02;
+
+[PlayVoice]=01:23:08	Voice05/05-KG/05-KG-G00/05-KG-G00-0310	0	hik	01:27:02;
+
+[CreateBG]=01:27:02	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-018A	01:30:08;
+
+[PrintText]=01:27:02	Taisuke	¿Qué? ¿Contigo...?^	01:30:08;
+
+[PlayVoice]=01:27:02	Voice05/05-KG/05-KG-G00/05-KG-G00-0320	1	tai	01:30:08;
+
+[CreateBG]=01:30:08	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-019	01:39:20;
+
+[PrintText]=01:30:08	Hikari	¿Q-Qué? ¡Si vas a decir cosas así, mejor olvídalo!	01:35:06;
+
+[PlayVoice]=01:30:08	Voice05/05-KG/05-KG-G00/05-KG-G00-0330	0	hik	01:35:06;
+
+[PrintText]=01:35:06	Taisuke	Vale, vale, no lo haré...	01:37:16;
+
+[PlayVoice]=01:35:06	Voice05/05-KG/05-KG-G00/05-KG-G00-0340	1	tai	01:37:16;
+
+[PrintText]=01:37:17	Hikari	Bien, entonces...	01:39:20;
+
+[PlayVoice]=01:37:17	Voice05/05-KG/05-KG-G00/05-KG-G00-0350	0	hik	01:39:20;
+
+[CreateBG]=01:39:20	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-020A	01:43:03;
+
+[PrintText]=01:39:20	Nanami	Bueno ¿Por qué no aprovechamos esta oportunidad y vamos a la casa de Hikari?^	01:43:03;
+
+[PlayVoice]=01:39:20	Voice05/05-KG/05-KG-G00/05-KG-G00-0360	0	nan	01:43:03;
+
+[CreateBG]=01:43:03	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-021	01:55:10;
+
+[PrintText]=01:43:03	Taisuke	¿La casa de Kuroda?^	01:44:18;
+
+[PlayVoice]=01:43:03	Voice05/05-KG/05-KG-G00/05-KG-G00-0370	1	tai	01:44:18;
+
+[PrintText]=01:44:19	Hikari	¡¿Ehhhh?! ¡¿P-Po-Por qué mi casa?!	01:48:05;
+
+[PlayVoice]=01:44:19	Voice05/05-KG/05-KG-G00/05-KG-G00-0380	0	hik	01:48:05;
+
+[PrintText]=01:48:05	Nanami	Está cerca a la mía, y puedo ir a casa temprano si se hace tarde.	01:52:13;
+
+[PlayVoice]=01:48:05	Voice05/05-KG/05-KG-G00/05-KG-G00-0390	0	nan	01:52:13;
+
+[PrintText]=01:52:13	Hikari	¡No hagas decisiones tan triviales como esas!	01:55:09;
+
+[PlayVoice]=01:52:13	Voice05/05-KG/05-KG-G00/05-KG-G00-0400	0	hik	01:55:09;
+
+[CreateBG]=01:55:10	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-022	02:06:10;
+
+[PrintText]=01:55:10	Nanami	Sawanaga ¿Conoces la casa de Hikari?^	01:58:04;
+
+[PlayVoice]=01:55:10	Voice05/05-KG/05-KG-G00/05-KG-G00-0410	0	nan	01:58:04;
+
+[PrintText]=01:58:05	Taisuke	Ahora que lo pienso, te mudaste ¿No? En la primaria, vivías cerca de mi casa.	02:03:12;
+
+[PlayVoice]=01:58:05	Voice05/05-KG/05-KG-G00/05-KG-G00-0420	1	tai	02:03:12;
+
+[PrintText]=02:04:16	Hikari	S-Sí.	02:06:05;
+
+[PlayVoice]=02:04:16	Voice05/05-KG/05-KG-G00/05-KG-G00-0430	0	hik	02:06:05;
+
+[PrintText]=02:06:05	Nanami	¡Es una casa nueva! ¡La casa de los Kuroda, la casa con ese encantador olor a madera!	02:11:10;
+
+[PlayVoice]=02:06:05	Voice05/05-KG/05-KG-G00/05-KG-G00-0440	0	nan	02:11:10;
+
+[CreateBG]=02:06:10	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-024	02:11:10;
+
+[CreateBG]=02:11:10	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-025	02:16:10;
+
+[PrintText]=02:11:11	Taisuke	Wow...	02:12:17;
+
+[PlayVoice]=02:11:11	Voice05/05-KG/05-KG-G00/05-KG-G00-0450	1	tai	02:12:17;
+
+[PrintText]=02:12:17	Nanami	Suena bien ¿No crees?^	02:13:23;
+
+[PlayVoice]=02:12:17	Voice05/05-KG/05-KG-G00/05-KG-G00-0460	0	nan	02:13:23;
+
+[PrintText]=02:14:00	Taisuke	Yo... creo que me gustaría ir.	02:17:16;
+
+[PlayVoice]=02:14:00	Voice05/05-KG/05-KG-G00/05-KG-G00-0470	1	tai	02:17:16;
+
+[CreateBG]=02:16:10	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-026	02:35:06;
+
+[PrintText]=02:17:17	Nanami	¡Bueno, entonces vamos!	02:20:22;
+
+[PlayVoice]=02:17:17	Voice05/05-KG/05-KG-G00/05-KG-G00-0480	0	nan	02:20:22;
+
+[PrintText]=02:20:22	Taisuke	Vale. No puedo sentarme aquí a llorar. Debería estar listo.	02:26:06;
+
+[PlayVoice]=02:20:22	Voice05/05-KG/05-KG-G00/05-KG-G00-0490	1	tai	02:26:06;
+
+[PrintText]=02:26:07	Nanami	Hikari.	02:27:01;
+
+[PlayVoice]=02:26:07	Voice05/05-KG/05-KG-G00/05-KG-G00-0510	0	nan	02:27:01;
+
+[PrintText]=02:27:02	Hikari	¡Nanami! ¡¿P-Por qué mi casa tan de repente?!	02:30:14;
+
+[PlayVoice]=02:27:02	Voice05/05-KG/05-KG-G00/05-KG-G00-0520	0	hik	02:30:14;
+
+[PrintText]=02:30:15	Nanami	Sawanaga está deprimido porque lo rechazaron. ¿No es tu oportunidad?!	02:36:05;
+
+[PlayVoice]=02:30:15	Voice05/05-KG/05-KG-G00/05-KG-G00-0530	0	nan	02:36:05;
+
+[CreateBG]=02:35:06	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-027A	02:44:13;
+
+[PrintText]=02:36:06	Hikari	¡Sí, pero...!	02:38:04;
+
+[PlayVoice]=02:36:06	Voice05/05-KG/05-KG-G00/05-KG-G00-0540	0	hik	02:38:04;
+
+[PrintText]=02:38:04	Nanami	Cuando se acerca el momento perfecto, me iré primero. Solo dame el reporte mañana.	02:43:17;
+
+[PlayVoice]=02:38:04	Voice05/05-KG/05-KG-G00/05-KG-G00-0550	0	nan	02:43:17;
+
+[PrintText]=02:43:17	Hikari	¿Re-Reporte...?^	02:46:00;
+
+[PlayVoice]=02:43:17	Voice05/05-KG/05-KG-G00/05-KG-G00-0560	0	hik	02:46:00;
+
+[CreateBG]=02:44:13	BGS	Event05/05-KG/05-KG-G00/05-KG-G00-028	03:00:15;
+
+[PrintText]=02:46:01	Taisuke	Listo para ir.	02:47:16;
+
+[PlayVoice]=02:46:01	Voice05/05-KG/05-KG-G00/05-KG-G00-0580	1	tai	02:47:16;
+
+[PrintText]=02:47:17	Hikari	¡Uwaaaah!	02:48:22;
+
+[PlayVoice]=02:47:17	Voice05/05-KG/05-KG-G00/05-KG-G00-0590	0	hik	02:48:22;
+
+[PrintText]=02:48:22	Taisuke	¿Por qué estás tan sorprendida?^	02:50:14;
+
+[PlayVoice]=02:48:22	Voice05/05-KG/05-KG-G00/05-KG-G00-0600	1	tai	02:50:14;
+
+[PrintText]=02:50:15	Hikari	¡Escucha...! ¡No puedes estar hablando gritar cuando estás detrás de alguien!	02:54:15;
+
+[PlayVoice]=02:50:15	Voice05/05-KG/05-KG-G00/05-KG-G00-0610	0	hik	02:54:15;
+
+[PrintText]=02:54:15	Taisuke	¿En serio? Perdón.	02:56:08;
+
+[PlayVoice]=02:54:15	Voice05/05-KG/05-KG-G00/05-KG-G00-0620	1	tai	02:56:08;
+
+[PrintText]=02:56:09	Nanami	Venga, vamos.	02:57:20;
+
+[PlayVoice]=02:56:09	Voice05/05-KG/05-KG-G00/05-KG-G00-0630	0	nan	02:57:20;
+
+[PrintText]=02:57:21	Hikari	Grr...	02:59:10;
+
+[PlayVoice]=02:57:21	Voice05/05-KG/05-KG-G00/05-KG-G00-0640	0	hik	02:59:10;
+
+ ;
+
+[Next]=03:00:15;
+
+
+
+

@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:16:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:16:10;
+
+[PlaySe]=00:00:00	2	Se02/02-2K/02-2K-D01/SE02-2K-D01-001	00:16:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-D01/02-2K-D01-001	00:03:01;
+
+[PlaySe]=00:00:17	1	Voice02/02-2K/02-2K-D01/02-2K-D01-0030	00:01:19;
+
+[CreateBG]=00:03:01	BGS	Event02/02-2K/02-2K-D01/02-2K-D01-002	00:04:16;
+
+[PrintText]=00:03:01	Makoto	¿Tu casa...?^	00:04:15;
+
+[PlayVoice]=00:03:01	Voice02/02-2K/02-2K-D01/02-2K-D01-0040	1	mak	00:04:15;
+
+[PlayMovie]=00:04:16	Movie02/02-2K/02-2K-D01/02-2K-D01-003	0	00:10:04;
+
+[PrintText]=00:04:16	Sekai	Sí, está en Motehara-sakashita, la siguiente parada.	00:07:21;
+
+[PlayVoice]=00:04:16	Voice02/02-2K/02-2K-D01/02-2K-D01-0050	0	sek	00:07:21;
+
+[PrintText]=00:07:22	Makoto	Y-Ya veo... tengo un poco de nervios.	00:12:09;
+
+[PlayVoice]=00:07:22	Voice02/02-2K/02-2K-D01/02-2K-D01-0060	1	mak	00:12:09;
+
+[PlayMovie]=00:10:04	Movie02/02-2K/02-2K-D01/02-2K-D01-004	0	00:16:10;
+
+[PrintText]=00:12:10	Sekai	¿De qué hablas?^	00:13:21;
+
+[PlayVoice]=00:12:10	Voice02/02-2K/02-2K-D01/02-2K-D01-0070	0	sek	00:13:21;
+
+[PrintText]=00:13:22	Makoto	...	00:15:03;
+
+[PlayVoice]=00:13:22	Voice02/02-2K/02-2K-D01/02-2K-D01-0080	1	xxx	00:15:03;
+
+[BlackFade]=00:15:10	OUT	00:16:10;
+
+ ;
+
+[Next]=00:16:10;
+
+
+
+

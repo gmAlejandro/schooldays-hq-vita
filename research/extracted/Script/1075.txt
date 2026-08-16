@@ -1,0 +1,333 @@
+﻿[SkipFRAME]=02:35:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:41:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	02:13:18;
+
+[PlayMovie]=00:00:00	Movie04/04-KE/04-KE-I00/04-KE-I00-001	0	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-002	00:14:12;
+
+[PrintText]=00:05:05	Sekai	...	00:05:17;
+
+[PlayVoice]=00:05:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0040	0	xxx	00:05:17;
+
+[PrintText]=00:05:17	Makoto	Hey.	00:06:15;
+
+[PlayVoice]=00:05:17	Voice04/04-KE/04-KE-I00/04-KE-I00-0050	1	mak	00:06:15;
+
+[PrintText]=00:06:15	Sekai	Uh-huh.	00:07:06;
+
+[PlayVoice]=00:06:15	Voice04/04-KE/04-KE-I00/04-KE-I00-0060	0	sek	00:07:06;
+
+[PrintText]=00:07:06	Makoto	Acerca de lo que hablábamos... ¿Encontraste algo que querías?^	00:12:05;
+
+[PlayVoice]=00:07:06	Voice04/04-KE/04-KE-I00/04-KE-I00-0070	1	mak	00:12:05;
+
+[PrintText]=00:12:05	Sekai	Compré lo que quería.	00:14:08;
+
+[PlayVoice]=00:12:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0080	0	sek	00:14:08;
+
+[CreateBG]=00:14:12	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-003	00:22:09;
+
+[PrintText]=00:14:14	Makoto	No... otra cosa quiero decir.	00:17:04;
+
+[PlayVoice]=00:14:14	Voice04/04-KE/04-KE-I00/04-KE-I00-0090	1	mak	00:17:04;
+
+[PrintText]=00:17:05	Sekai	Realmente no...	00:18:17;
+
+[PlayVoice]=00:17:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0100	0	sek	00:18:17;
+
+[PrintText]=00:18:16	Makoto	Estoy seguro, que hay algo que te gustaría recibir...	00:22:10;
+
+[PlayVoice]=00:18:16	Voice04/04-KE/04-KE-I00/04-KE-I00-0110	1	mak	00:22:10;
+
+[CreateBG]=00:22:09	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-004	00:26:09;
+
+[PrintText]=00:22:10	Sekai	No lo creo...	00:23:14;
+
+[PlayVoice]=00:22:10	Voice04/04-KE/04-KE-I00/04-KE-I00-0120	0	sek	00:23:14;
+
+[PrintText]=00:23:14	Makoto	Hmm...	00:25:17;
+
+[PlayVoice]=00:23:14	Voice04/04-KE/04-KE-I00/04-KE-I00-0130	1	mak	00:25:17;
+
+[PrintText]=00:25:18	Sekai	...	00:26:08;
+
+[PlayVoice]=00:25:18	Voice04/04-KE/04-KE-I00/04-KE-I00-0140	0	xxx	00:26:08;
+
+[PrintText]=00:26:07	Makoto	Hey ¿Puedo decirte algo?^	00:29:07;
+
+[PlayVoice]=00:26:07	Voice04/04-KE/04-KE-I00/04-KE-I00-0150	1	mak	00:29:07;
+
+[CreateBG]=00:26:09	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-005	00:38:16;
+
+[PrintText]=00:29:08	Sekai	Uh-huh.	00:30:02;
+
+[PlayVoice]=00:29:08	Voice04/04-KE/04-KE-I00/04-KE-I00-0160	0	sek	00:30:02;
+
+[PrintText]=00:30:01	Makoto	¿Qué quisieras que Taisuke te regale?^	00:34:01;
+
+[PlayVoice]=00:30:01	Voice04/04-KE/04-KE-I00/04-KE-I00-0170	1	mak	00:34:01;
+
+[PrintText]=00:34:02	Sekai	...	00:34:14;
+
+[PlayVoice]=00:34:02	Voice04/04-KE/04-KE-I00/04-KE-I00-0180	0	xxx	00:34:14;
+
+[PrintText]=00:34:13	Makoto	Algo que viste hoy, por ejemplo.	00:37:13;
+
+[PlayVoice]=00:34:13	Voice04/04-KE/04-KE-I00/04-KE-I00-0190	1	mak	00:37:13;
+
+[PrintText]=00:37:14	Sekai	Nada.	00:38:17;
+
+[PlayVoice]=00:37:14	Voice04/04-KE/04-KE-I00/04-KE-I00-0200	0	sek	00:38:17;
+
+[CreateBG]=00:38:16	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-006	00:51:01;
+
+[PrintText]=00:38:16	Makoto	Algo que hayas visto en otro lugar, entonces.	00:40:22;
+
+[PlayVoice]=00:38:16	Voice04/04-KE/04-KE-I00/04-KE-I00-0210	1	mak	00:40:22;
+
+[PrintText]=00:40:22	Sekai	Realmente nada.	00:43:06;
+
+[PlayVoice]=00:40:22	Voice04/04-KE/04-KE-I00/04-KE-I00-0220	0	sek	00:43:06;
+
+[PrintText]=00:43:05	Makoto	¿En serio? Estoy seguro que quieres algo.	00:47:23;
+
+[PlayVoice]=00:43:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0230	1	mak	00:47:23;
+
+[PrintText]=00:48:00	Sekai	...No quiero algo de Taisuke.	00:51:01;
+
+[PlayVoice]=00:48:00	Voice04/04-KE/04-KE-I00/04-KE-I00-0240	0	sek	00:51:01;
+
+[PrintText]=00:51:00	Makoto	...	00:52:02;
+
+[PlayVoice]=00:51:00	Voice04/04-KE/04-KE-I00/04-KE-I00-0250	1	xxx	00:52:02;
+
+[CreateBG]=00:51:01	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-007	00:52:02;
+
+[CreateBG]=00:52:02	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-008	00:56:23;
+
+[PrintText]=00:52:02	Sekai	...	00:52:13;
+
+[PlayVoice]=00:52:02	Voice04/04-KE/04-KE-I00/04-KE-I00-0260	0	xxx	00:52:13;
+
+[PrintText]=00:52:12	Makoto	Taisuke y tú...	00:56:06;
+
+[PlayVoice]=00:52:12	Voice04/04-KE/04-KE-I00/04-KE-I00-0270	1	mak	00:56:06;
+
+[PrintText]=00:56:07	Sekai	Uh-huh...	00:56:23;
+
+[PlayVoice]=00:56:07	Voice04/04-KE/04-KE-I00/04-KE-I00-0280	0	sek	00:56:23;
+
+[PlayMovie]=00:56:23	Movie04/04-KE/04-KE-I00/04-KE-I00-009	0	01:01:07;
+
+[PrintText]=00:56:23	Makoto	...Ya veo.	00:59:02;
+
+[PlayVoice]=00:56:23	Voice04/04-KE/04-KE-I00/04-KE-I00-0290	1	mak	00:59:02;
+
+[PrintText]=00:59:02	Sekai	...	00:59:15;
+
+[PlayVoice]=00:59:02	Voice04/04-KE/04-KE-I00/04-KE-I00-0300	0	xxx	00:59:15;
+
+[PrintText]=00:59:14	Makoto	¿Entonces...?^	01:00:13;
+
+[PlayVoice]=00:59:14	Voice04/04-KE/04-KE-I00/04-KE-I00-0310	1	mak	01:00:13;
+
+[PrintText]=01:00:14	Sekai	Sí.	01:01:06;
+
+[PlayVoice]=01:00:14	Voice04/04-KE/04-KE-I00/04-KE-I00-0320	0	sek	01:01:06;
+
+[PrintText]=01:01:05	Makoto	Dejando de lado a Taisuke ¿Hay algo que quieras que no sea de la tienda?^	01:06:22;
+
+[PlayVoice]=01:01:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0330	1	mak	01:06:22;
+
+[CreateBG]=01:01:07	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-010	01:08:10;
+
+[PrintText]=01:06:23	Sekai	...	01:07:11;
+
+[PlayVoice]=01:06:23	Voice04/04-KE/04-KE-I00/04-KE-I00-0340	0	xxx	01:07:11;
+
+[PrintText]=01:07:10	Makoto	Lo que sea.	01:08:09;
+
+[PlayVoice]=01:07:10	Voice04/04-KE/04-KE-I00/04-KE-I00-0350	1	mak	01:08:09;
+
+[CreateBG]=01:08:10	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-012	01:21:18;
+
+[PrintText]=01:08:10	Sekai	¿Lo que sea?^	01:09:09;
+
+[PlayVoice]=01:08:10	Voice04/04-KE/04-KE-I00/04-KE-I00-0360	0	sek	01:09:09;
+
+[PrintText]=01:09:08	Makoto	Sí, lo que sea.	01:11:06;
+
+[PlayVoice]=01:09:08	Voice04/04-KE/04-KE-I00/04-KE-I00-0370	1	mak	01:11:06;
+
+[PrintText]=01:11:07	Sekai	¿Lo que sea, huh?^	01:12:23;
+
+[PlayVoice]=01:11:07	Voice04/04-KE/04-KE-I00/04-KE-I00-0380	0	sek	01:12:23;
+
+[PrintText]=01:12:23	Makoto	Algo hecho a mano, por ejemplo.	01:15:10;
+
+[PlayVoice]=01:12:23	Voice04/04-KE/04-KE-I00/04-KE-I00-0390	1	mak	01:15:10;
+
+[PrintText]=01:15:10	Makoto	Pulsera, collar, un anillo, una escultura... son las cosas que puedo hacer.	01:26:11;
+
+[PlayVoice]=01:15:10	Voice04/04-KE/04-KE-I00/04-KE-I00-0391	1	mak	01:26:11;
+
+[CreateBG]=01:21:18	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-013	01:31:11;
+
+[PrintText]=01:26:11	Sekai	Está bien. No puedo tener lo que realmente quiero.	01:30:05;
+
+[PlayVoice]=01:26:11	Voice04/04-KE/04-KE-I00/04-KE-I00-0400	0	sek	01:30:05;
+
+[PrintText]=01:30:05	Makoto	¿Quieres decir que hay algo después de todo?^	01:31:11;
+
+[PlayVoice]=01:30:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0410	1	mak	01:31:11;
+
+[CreateBG]=01:31:11	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-014	01:39:23;
+
+[PrintText]=01:31:11	Sekai	...	01:31:23;
+
+[PlayVoice]=01:31:11	Voice04/04-KE/04-KE-I00/04-KE-I00-0420	0	xxx	01:31:23;
+
+[PrintText]=01:31:23	Makoto	¿Es costoso?^	01:33:06;
+
+[PlayVoice]=01:31:23	Voice04/04-KE/04-KE-I00/04-KE-I00-0430	1	mak	01:33:06;
+
+[PrintText]=01:33:07	Sekai	No estoy segura. No es algo que se pueda comprar.	01:37:06;
+
+[PlayVoice]=01:33:07	Voice04/04-KE/04-KE-I00/04-KE-I00-0440	0	sek	01:37:06;
+
+[PrintText]=01:37:05	Makoto	Entonces, no está a la venta...	01:39:05;
+
+[PlayVoice]=01:37:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0450	1	mak	01:39:05;
+
+[PrintText]=01:39:06	Sekai	Uh-huh.	01:39:22;
+
+[PlayVoice]=01:39:06	Voice04/04-KE/04-KE-I00/04-KE-I00-0460	0	sek	01:39:22;
+
+[PrintText]=01:39:22	Makoto	Dime, si hay una forma de conseguirlo...	01:43:05;
+
+[PlayVoice]=01:39:22	Voice04/04-KE/04-KE-I00/04-KE-I00-0470	1	mak	01:43:05;
+
+[CreateBG]=01:40:00	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-015	01:48:04;
+
+[PrintText]=01:43:06	Sekai	Olvídalo.	01:44:13;
+
+[PlayVoice]=01:43:06	Voice04/04-KE/04-KE-I00/04-KE-I00-0480	0	sek	01:44:13;
+
+[PrintText]=01:44:12	Makoto	No, en serio. Dime y lo conseguiré.	01:46:18;
+
+[PlayVoice]=01:44:12	Voice04/04-KE/04-KE-I00/04-KE-I00-0490	1	mak	01:46:18;
+
+[PrintText]=01:46:19	Sekai	Ahahah...	01:48:05;
+
+[PlayVoice]=01:46:19	Voice04/04-KE/04-KE-I00/04-KE-I00-0500	0	sek	01:48:05;
+
+[CreateBG]=01:48:04	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-016	01:57:03;
+
+[PrintText]=01:48:05	Makoto	Deja de reírte. ¿Es difícil conseguirlo?^	01:51:21;
+
+[PlayVoice]=01:48:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0510	1	mak	01:51:21;
+
+[PrintText]=01:51:22	Sekai	Sí. Es muy pero muy difícil de conseguirlo.	01:56:00;
+
+[PlayVoice]=01:51:22	Voice04/04-KE/04-KE-I00/04-KE-I00-0520	0	sek	01:56:00;
+
+[PrintText]=01:55:23	Makoto	Ya veo... pero aún. Puedo intentarlo ¿Vale?^	02:00:01;
+
+[PlayVoice]=01:55:23	Voice04/04-KE/04-KE-I00/04-KE-I00-0530	1	mak	02:00:01;
+
+[CreateBG]=01:57:03	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-017	02:07:13;
+
+[PrintText]=02:00:02	Sekai	Hmm...	02:01:16;
+
+[PlayVoice]=02:00:02	Voice04/04-KE/04-KE-I00/04-KE-I00-0540	0	sek	02:01:16;
+
+[PlayVoice]=02:02:02	Voice04/04-KE/04-KE-I00/04-KE-I00-0550	1	ana	02:04:20;
+
+[PrintText]=02:05:06	Sekai	Ah... Es mejor que me vaya.	02:07:18;
+
+[PlayVoice]=02:05:06	Voice04/04-KE/04-KE-I00/04-KE-I00-0560	0	sek	02:07:18;
+
+[PlayMovie]=02:07:13	Movie04/04-KE/04-KE-I00/04-KE-I00-018	0	02:12:01;
+
+[PrintText]=02:07:17	Makoto	¡Espera! Dímelo antes.	02:09:21;
+
+[PlayVoice]=02:07:17	Voice04/04-KE/04-KE-I00/04-KE-I00-0570	1	mak	02:09:21;
+
+[PrintText]=02:09:22	Sekai	Si supieras...	02:12:01;
+
+[PlayVoice]=02:09:22	Voice04/04-KE/04-KE-I00/04-KE-I00-0580	0	sek	02:12:01;
+
+[CreateBG]=02:12:01	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-019	02:13:00;
+
+[PrintText]=02:12:06	Makoto	¡Por favor!	02:13:00;
+
+[PlayVoice]=02:12:06	Voice04/04-KE/04-KE-I00/04-KE-I00-0590	1	mak	02:13:00;
+
+[CreateBG]=02:13:00	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-020	02:13:18;
+
+[PrintText]=02:13:06	Sekai	...	02:13:17;
+
+[PlayVoice]=02:13:06	Voice04/04-KE/04-KE-I00/04-KE-I00-0600	0	xxx	02:13:17;
+
+[PlaySe]=02:13:18	2	SysSe/SE_all/station_train/train_stpo	02:22:06;
+
+[PlayMovie]=02:13:18	Movie04/04-KE/04-KE-I00/04-KE-I00-021	0	02:23:18;
+
+[CreateBG]=02:23:18	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-022	02:25:08;
+
+[PlaySe]=02:23:20	1	SysSe/SE_all/station_train/train_door_open	02:25:21;
+
+[PrintText]=02:24:08	Makoto	Sekai...	02:25:07;
+
+[PlayVoice]=02:24:08	Voice04/04-KE/04-KE-I00/04-KE-I00-0630	1	mak	02:25:07;
+
+[CreateBG]=02:25:08	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-023	02:28:21;
+
+[PrintText]=02:25:09	Sekai	...Lo que quiero...	02:27:06;
+
+[PlayVoice]=02:25:09	Voice04/04-KE/04-KE-I00/04-KE-I00-0660	0	sek	02:27:06;
+
+[PrintText]=02:27:05	Makoto	¿Sí?^	02:27:23;
+
+[PlayVoice]=02:27:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0670	1	mak	02:27:23;
+
+[PrintText]=02:28:00	Sekai	...eres tú.	02:28:21;
+
+[PlayVoice]=02:28:00	Voice04/04-KE/04-KE-I00/04-KE-I00-0680	0	sek	02:28:21;
+
+[PrintText]=02:28:20	Makoto	¿Eh?^	02:29:11;
+
+[PlayVoice]=02:28:20	Voice04/04-KE/04-KE-I00/04-KE-I00-0690	1	mak	02:29:11;
+
+[CreateBG]=02:28:21	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-024	02:30:22;
+
+[PrintText]=02:29:11	Sekai	...	02:29:22;
+
+[PlayVoice]=02:29:11	Voice04/04-KE/04-KE-I00/04-KE-I00-0700	0	xxx	02:29:22;
+
+[PrintText]=02:29:21	Makoto	...	02:30:23;
+
+[PlayVoice]=02:29:21	Voice04/04-KE/04-KE-I00/04-KE-I00-0710	1	xxx	02:30:23;
+
+[CreateBG]=02:30:22	BGS	Event04/04-KE/04-KE-I00/04-KE-I00-025	02:41:12;
+
+[PrintText]=02:31:00	Sekai	¿Ves? ¿Qué te dije?^	02:34:06;
+
+[PlayVoice]=02:31:00	Voice04/04-KE/04-KE-I00/04-KE-I00-0720	0	sek	02:34:06;
+
+[PrintText]=02:34:05	Makoto	Ah...	02:35:07;
+
+[PlayVoice]=02:34:05	Voice04/04-KE/04-KE-I00/04-KE-I00-0740	1	mak	02:35:07;
+
+[PlaySe]=02:35:11	1	SysSe/SE_all/station_train/start_bell	02:41:12;
+
+[SetSELECT]=02:35:11	*Abrazarla*	null	02:40:11;
+
+ ;
+
+[Next]=02:41:12;
+
+

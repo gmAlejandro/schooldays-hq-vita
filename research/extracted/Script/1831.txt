@@ -1,0 +1,266 @@
+﻿[SkipFRAME]=02:51:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	02:57:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-001	00:04:00;
+
+[PrintText]=00:00:00	Makoto	...No se lo mencionaste.	00:02:19;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-H00/05-SE-H00-0050	1	mak	00:02:19;
+
+[PrintText]=00:02:20	Sekai	Uh-huh.	00:04:00;
+
+[PlayVoice]=00:02:20	Voice05/05-SE/05-SE-H00/05-SE-H00-0060	0	sek	00:04:00;
+
+[PrintText]=00:03:23	Makoto	¿Por qué no?^	00:04:15;
+
+[PlayVoice]=00:03:23	Voice05/05-SE/05-SE-H00/05-SE-H00-0070	1	mak	00:04:15;
+
+[CreateBG]=00:04:00	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-002	00:27:10;
+
+[PrintText]=00:05:12	Sekai	Pensé en hacerlo, pero Sawanaga podía sorprenderse si escuchaba que salía contigo.	00:14:13;
+
+[PlayVoice]=00:05:12	Voice05/05-SE/05-SE-H00/05-SE-H00-0080	0	sek	00:14:13;
+
+[PrintText]=00:14:13	Makoto	Sí.	00:15:03;
+
+[PlayVoice]=00:14:13	Voice05/05-SE/05-SE-H00/05-SE-H00-0090	1	mak	00:15:03;
+
+[PrintText]=00:16:00	Sekai	Se notaba sorprendido cuando escucho que estábamos terminando. No podía echar sal en la herida.	00:26:07;
+
+[PlayVoice]=00:16:00	Voice05/05-SE/05-SE-H00/05-SE-H00-0100	0	sek	00:26:07;
+
+[PrintText]=00:26:07	Makoto	Ya veo...	00:27:10;
+
+[PlayVoice]=00:26:07	Voice05/05-SE/05-SE-H00/05-SE-H00-0110	1	mak	00:27:10;
+
+[CreateBG]=00:27:10	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-003	00:30:14;
+
+[PrintText]=00:27:10	Sekai	¿Crees que debí decírselo?^	00:30:14;
+
+[PlayVoice]=00:27:10	Voice05/05-SE/05-SE-H00/05-SE-H00-0120	0	sek	00:30:14;
+
+[CreateBG]=00:30:14	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-004	00:38:14;
+
+[PrintText]=00:30:14	Makoto	Bueno, yo se lo dije.	00:33:14;
+
+[PlayVoice]=00:30:14	Voice05/05-SE/05-SE-H00/05-SE-H00-0150	1	mak	00:33:14;
+
+[PrintText]=00:33:14	Sekai	¡¿Eh?!	00:34:10;
+
+[PlayVoice]=00:33:14	Voice05/05-SE/05-SE-H00/05-SE-H00-0160	0	sek	00:34:10;
+
+[PrintText]=00:34:11	Makoto	Me preguntó quién te gustaba...	00:38:14;
+
+[PlayVoice]=00:34:11	Voice05/05-SE/05-SE-H00/05-SE-H00-0170	1	mak	00:38:14;
+
+[CreateBG]=00:38:14	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-002	01:07:19;
+
+[PrintText]=00:38:14	Sekai	Y le dijiste.	00:39:20;
+
+[PlayVoice]=00:38:14	Voice05/05-SE/05-SE-H00/05-SE-H00-0180	0	sek	00:39:20;
+
+[PrintText]=00:40:04	Makoto	Creí que como amigo, no podía ocultárselo más.	00:47:22;
+
+[PlayVoice]=00:40:04	Voice05/05-SE/05-SE-H00/05-SE-H00-0190	1	mak	00:47:22;
+
+[PrintText]=00:47:22	Sekai	Sí...	00:49:01;
+
+[PlayVoice]=00:47:22	Voice05/05-SE/05-SE-H00/05-SE-H00-0200	0	sek	00:49:01;
+
+[PrintText]=00:49:01	Makoto	Pero cuando se lo dije, se molesto bastante. Creo que más de lo que debería.	00:59:08;
+
+[PlayVoice]=00:49:01	Voice05/05-SE/05-SE-H00/05-SE-H00-0210	1	mak	00:59:08;
+
+[PrintText]=00:59:07	Sekai	Lo siento... todo es mi culpa.	01:02:11;
+
+[PlayVoice]=00:59:07	Voice05/05-SE/05-SE-H00/05-SE-H00-0220	0	sek	01:02:11;
+
+[PrintText]=01:02:11	Makoto	No, se lo dije por tenía que.	01:06:12;
+
+[PlayVoice]=01:02:11	Voice05/05-SE/05-SE-H00/05-SE-H00-0230	1	mak	01:06:12;
+
+[PrintText]=01:06:12	Sekai	Uh-huh...	01:07:18;
+
+[PlayVoice]=01:06:12	Voice05/05-SE/05-SE-H00/05-SE-H00-0240	0	sek	01:07:18;
+
+[CreateBG]=01:07:18	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-001	01:15:08;
+
+[PrintText]=01:07:19	Makoto	Yo también terminé la relación.	01:10:17;
+
+[PlayVoice]=01:07:19	Voice05/05-SE/05-SE-H00/05-SE-H00-0260	1	mak	01:10:17;
+
+[PrintText]=01:10:16	Sekai	Ya veo... en ese caso, podemos empezar a salir juntos.	01:15:09;
+
+[PlayVoice]=01:10:16	Voice05/05-SE/05-SE-H00/05-SE-H00-0270	0	sek	01:15:09;
+
+[CreateBG]=01:15:08	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-007	01:24:19;
+
+[PrintText]=01:15:09	Makoto	Sí, ahora, eres mi novia.	01:20:07;
+
+[PlayVoice]=01:15:09	Voice05/05-SE/05-SE-H00/05-SE-H00-0280	1	mak	01:20:07;
+
+[PrintText]=01:20:07	Sekai	Y tú mi novio.	01:23:13;
+
+[PlayVoice]=01:20:07	Voice05/05-SE/05-SE-H00/05-SE-H00-0290	0	sek	01:23:13;
+
+[PrintText]=01:23:13	Makoto	Sí.	01:24:19;
+
+[PlayVoice]=01:23:13	Voice05/05-SE/05-SE-H00/05-SE-H00-0310	1	mak	01:24:19;
+
+[CreateBG]=01:24:19	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-008	01:31:12;
+
+[PrintText]=01:24:19	Sekai	¡...Uuh!	01:26:05;
+
+[PlayVoice]=01:24:19	Voice05/05-SE/05-SE-H00/05-SE-H00-0330	0	sek	01:26:05;
+
+[PrintText]=01:26:05	Makoto	¿...Sekai?^	01:27:06;
+
+[PlayVoice]=01:26:05	Voice05/05-SE/05-SE-H00/05-SE-H00-0340	1	mak	01:27:06;
+
+[PrintText]=01:27:06	Sekai	¡Upfft!	01:28:05;
+
+[PlayVoice]=01:27:06	Voice05/05-SE/05-SE-H00/05-SE-H00-0350	0	sek	01:28:05;
+
+[PlayVoice]=01:28:05	Voice05/05-SE/05-SE-H00/05-SE-H00-0360			01:29:08;
+
+[PrintText]=01:29:07	Sekai	¡Guh...! Ueh...	01:31:13;
+
+[PlayVoice]=01:29:07	Voice05/05-SE/05-SE-H00/05-SE-H00-0370	0	sek	01:31:13;
+
+[CreateBG]=01:31:12	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-009	01:43:14;
+
+[PrintText]=01:31:12	Makoto	¡¿S-Sekai?!	01:33:03;
+
+[PlayVoice]=01:31:12	Voice05/05-SE/05-SE-H00/05-SE-H00-0380	1	mak	01:33:03;
+
+[PrintText]=01:33:03	Sekai	¡Haah... haah....!	01:37:17;
+
+[PlayVoice]=01:33:03	Voice05/05-SE/05-SE-H00/05-SE-H00-0390	0	sek	01:37:17;
+
+[PrintText]=01:37:17	Makoto	¿Qué pasa? ¿Estás mal?^	01:40:05;
+
+[PlayVoice]=01:37:17	Voice05/05-SE/05-SE-H00/05-SE-H00-0400	1	mak	01:40:05;
+
+[PrintText]=01:40:05	Sekai	N-no, estoy bien.	01:43:14;
+
+[PlayVoice]=01:40:05	Voice05/05-SE/05-SE-H00/05-SE-H00-0410	0	sek	01:43:14;
+
+[CreateBG]=01:43:14	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-010	02:00:10;
+
+[PrintText]=01:43:14	Makoto	Pero...	01:44:13;
+
+[PlayVoice]=01:43:14	Voice05/05-SE/05-SE-H00/05-SE-H00-0420	1	mak	01:44:13;
+
+[PrintText]=01:44:13	Sekai	A pasado mucho últimamente.	01:46:18;
+
+[PlayVoice]=01:44:13	Voice05/05-SE/05-SE-H00/05-SE-H00-0430	0	sek	01:46:18;
+
+[PrintText]=01:46:19	Makoto	¿No deberías ir al hospital?^	01:50:00;
+
+[PlayVoice]=01:46:19	Voice05/05-SE/05-SE-H00/05-SE-H00-0440	1	mak	01:50:00;
+
+[PrintText]=01:50:01	Sekai	Sí, planeaba ir... pero ya lo sé.	01:55:13;
+
+[PlayVoice]=01:50:01	Voice05/05-SE/05-SE-H00/05-SE-H00-0450	0	sek	01:55:13;
+
+[PrintText]=01:55:13	Makoto	¿Saber qué?^	01:57:18;
+
+[PlayVoice]=01:55:13	Voice05/05-SE/05-SE-H00/05-SE-H00-0460	1	mak	01:57:18;
+
+[PrintText]=01:57:18	Sekai	...	01:59:02;
+
+[PlayVoice]=01:57:18	Voice05/05-SE/05-SE-H00/05-SE-H00-0470	0	xxx	01:59:02;
+
+[PrintText]=01:59:02	Makoto	¿...Sekai?^	01:59:23;
+
+[PlayVoice]=01:59:02	Voice05/05-SE/05-SE-H00/05-SE-H00-0480	1	mak	01:59:23;
+
+[WhiteFade]=01:59:22	OUT	02:00:10;
+
+[CreateBG]=02:00:10	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-011	02:19:16;
+
+[WhiteFade]=02:00:10	IN	02:00:22;
+
+[PrintText]=02:00:11	Sekai	¿Recuerdas el festival escolar?^	02:04:16;
+
+[PlayVoice]=02:00:11	Voice05/05-SE/05-SE-H00/05-SE-H00-0490	0	sek	02:04:16;
+
+[PrintText]=02:04:16	Makoto	¿Huh? S-Sí, claro.	02:07:12;
+
+[PlayVoice]=02:04:16	Voice05/05-SE/05-SE-H00/05-SE-H00-0500	1	mak	02:07:12;
+
+[PrintText]=02:07:12	Sekai	Lo estuvimos haciendo en mi casa, como práctica para Katsura-san. Muchas veces.	02:14:20;
+
+[PlayVoice]=02:07:12	Voice05/05-SE/05-SE-H00/05-SE-H00-0510	0	sek	02:14:20;
+
+[PrintText]=02:14:20	Makoto	Sí, durante un tiempo parecíamos monos, o era en la casa o en la escuela.	02:21:12;
+
+[PlayVoice]=02:14:20	Voice05/05-SE/05-SE-H00/05-SE-H00-0520	1	mak	02:21:12;
+
+[CreateBG]=02:19:16	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-012	02:37:08;
+
+[PrintText]=02:21:12	Sekai	Uh-huh... Y te venías dentro todos esos días ¿Recuerdas?^	02:27:04;
+
+[PlayVoice]=02:21:12	Voice05/05-SE/05-SE-H00/05-SE-H00-0530	0	sek	02:27:04;
+
+[PrintText]=02:27:04	Makoto	Así es.	02:28:09;
+
+[PlayVoice]=02:27:04	Voice05/05-SE/05-SE-H00/05-SE-H00-0540	1	mak	02:28:09;
+
+[PrintText]=02:28:10	Sekai	No tenía pensando usar condón, y se sentía muy bien sin ello. Así que...	02:37:08;
+
+[PlayVoice]=02:28:10	Voice05/05-SE/05-SE-H00/05-SE-H00-0550	0	sek	02:37:08;
+
+[WhiteFade]=02:36:20	OUT	02:37:08;
+
+[CreateBG]=02:37:08	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-013	02:43:02;
+
+[PrintText]=02:37:08	Makoto	No me digas que...	02:38:08;
+
+[PlayVoice]=02:37:08	Voice05/05-SE/05-SE-H00/05-SE-H00-0560	1	mak	02:38:08;
+
+[WhiteFade]=02:37:08	IN	02:37:20;
+
+[PrintText]=02:38:08	Sekai	Eheheh...	02:39:15;
+
+[PlayVoice]=02:38:08	Voice05/05-SE/05-SE-H00/05-SE-H00-0570	0	sek	02:39:15;
+
+[PrintText]=02:39:15	Makoto	¿Estás... embarazada?^	02:42:02;
+
+[PlayVoice]=02:39:15	Voice05/05-SE/05-SE-H00/05-SE-H00-0580	1	mak	02:42:02;
+
+[PrintText]=02:42:02	Sekai	Así parece.	02:43:02;
+
+[PlayVoice]=02:42:02	Voice05/05-SE/05-SE-H00/05-SE-H00-0590	0	sek	02:43:02;
+
+[CreateBG]=02:43:02	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-014	02:57:12;
+
+[PrintText]=02:43:02	Makoto	Ya veo...	02:44:12;
+
+[PlayVoice]=02:43:02	Voice05/05-SE/05-SE-H00/05-SE-H00-0600	1	mak	02:44:12;
+
+[PrintText]=02:44:12	Sekai	¿Estás feliz por mí?^	02:47:10;
+
+[PlayVoice]=02:44:12	Voice05/05-SE/05-SE-H00/05-SE-H00-0610	0	sek	02:47:10;
+
+[PrintText]=02:47:10	Makoto	¿Eh...? ¿Yo?^	02:49:15;
+
+[PlayVoice]=02:47:10	Voice05/05-SE/05-SE-H00/05-SE-H00-0620	1	mak	02:49:15;
+
+[PrintText]=02:49:15	Sekai	Uh-huh.	02:50:08;
+
+[PlayVoice]=02:49:15	Voice05/05-SE/05-SE-H00/05-SE-H00-0630	0	sek	02:50:08;
+
+[PrintText]=02:51:00	Makoto	Yo...	02:52:03;
+
+[PlayVoice]=02:51:00	Voice05/05-SE/05-SE-H00/05-SE-H00-0640	1	mak	02:52:03;
+
+[SetSELECT]=02:51:11	'Estoy feliz'	'Esto está mal'	02:56:11;
+
+ ;
+
+[Next]=02:57:12;
+
+
+

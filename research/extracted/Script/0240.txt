@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:15:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:21:16;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-J04/SE02-2K-J04-001	00:21:02;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J04/02-2K-J04-001	0	00:21:16;
+
+[PrintText]=00:00:00	Makoto	Voy a sacarla de ahí.	00:01:09;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-J04/02-2K-J04-0030	1	xxx	00:01:09;
+
+[PrintText]=00:01:18	Pasajera	¡Ahem!	00:02:11;
+
+[PlayVoice]=00:01:18	Voice02/02-2K/02-2K-J04/02-2K-J04-0050	0	wmc	00:02:11;
+
+[PrintText]=00:02:12	Makoto	¡D-Disculpe!	00:04:07;
+
+[PlayVoice]=00:02:12	Voice02/02-2K/02-2K-J04/02-2K-J04-0060	1	mak	00:04:07;
+
+[PrintText]=00:04:07	Makoto	Ah...	00:05:03;
+
+[PlayVoice]=00:04:07	Voice02/02-2K/02-2K-J04/02-2K-J04-0080	1	mak	00:05:03;
+
+[PrintText]=00:05:04	Kotonoha	M... Makoto-kun...	00:07:09;
+
+[PlayVoice]=00:05:04	Voice02/02-2K/02-2K-J04/02-2K-J04-0090	0	kot	00:07:09;
+
+[PrintText]=00:07:08	Makoto	P-Perdóname.	00:08:23;
+
+[PlayVoice]=00:07:08	Voice02/02-2K/02-2K-J04/02-2K-J04-0100	1	mak	00:08:23;
+
+[PrintText]=00:09:00	Kotonoha	Nn...C-Creo que no se puede evitar... ya que está lleno de gente.	00:14:11;
+
+[PlayVoice]=00:09:00	Voice02/02-2K/02-2K-J04/02-2K-J04-0110	0	kot	00:14:11;
+
+[PrintText]=00:14:11	Makoto	Sí...	00:15:18;
+
+[PlayVoice]=00:14:11	Voice02/02-2K/02-2K-J04/02-2K-J04-0120	1	mak	00:15:18;
+
+[SetSELECT]=00:15:15	*Dejarlo por un momento...*	null	00:20:15;
+
+[PlaySe]=00:21:02	2	Se02/02-2K/02-2K-J04/SE02-2K-J04-001	00:21:16;
+
+ ;
+
+[Next]=00:21:16;
+
+
+
+

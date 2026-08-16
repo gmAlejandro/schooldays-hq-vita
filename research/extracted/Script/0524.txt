@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:12:17;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-B01/SE03-KA-B01-001	00:12:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-B01/03-KA-B01-001	00:12:17;
+
+[PrintText]=00:00:00	Makoto	Sí hubiera sabido que esto sería así, entonces Sekai...	00:03:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-B01/03-KA-B01-0030	1	mak	00:03:08;
+
+[PrintText]=00:04:06	Makoto	...	00:05:12;
+
+[PlayVoice]=00:04:06	Voice03/03-KA/03-KA-B01/03-KA-B01-0040	1	xxx	00:05:12;
+
+[PrintText]=00:06:03	Makoto	¿... Por qué sueno lamentable?^	00:09:18;
+
+[PlayVoice]=00:06:03	Voice03/03-KA/03-KA-B01/03-KA-B01-0050	1	mak	00:09:18;
+
+[PrintText]=00:10:13	Makoto	Haah...	00:11:15;
+
+[PlayVoice]=00:10:13	Voice03/03-KA/03-KA-B01/03-KA-B01-0060	1	mak	00:11:15;
+
+[BlackFade]=00:11:17	OUT	00:12:17;
+
+ ;
+
+[Next]=00:12:17;
+
+

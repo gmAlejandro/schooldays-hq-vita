@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:35:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:35:08;
+
+[PlayMovie]=00:00:00	Movie04/04-C0/04-C0-I03/04-C0-I03-001	0	00:17:03;
+
+[PrintText]=00:00:00	Makoto	...	00:01:09;
+
+[PlayVoice]=00:00:00	Voice04/04-C0/04-C0-I03/04-C0-I03-0040	1	xxx	00:01:09;
+
+[PrintText]=00:01:09	Kotonoha	No tienes que dudar de esa forma...	00:04:02;
+
+[PlayVoice]=00:01:09	Voice04/04-C0/04-C0-I03/04-C0-I03-0050	0	kot	00:04:02;
+
+[PrintText]=00:04:04	Makoto	¡Wah!	00:07:00;
+
+[PlayVoice]=00:04:04	Voice04/04-C0/04-C0-I03/04-C0-I03-0070	1	mak	00:07:00;
+
+[PrintText]=00:07:01	Kotonoha	Aquí...¿Puedes decirlo? Mira lo excitada que estoy.	00:13:19;
+
+[PlayVoice]=00:07:01	Voice04/04-C0/04-C0-I03/04-C0-I03-0080	0	kot	00:13:19;
+
+[PrintText]=00:13:20	Makoto	Haah... haah...	00:20:16;
+
+[PlayVoice]=00:13:20	Voice04/04-C0/04-C0-I03/04-C0-I03-0100	1	mak	00:20:16;
+
+[PlayMovie]=00:17:03	Movie04/04-C0/04-C0-I03/04-C0-I03-002	0	00:20:00;
+
+[PlayMovie]=00:20:00	Movie04/04-KA/04-KA-B03/04-KA-B03-008	0	00:24:01;
+
+[PrintText]=00:20:15	Kotonoha	Está bien... puedes hacer lo que quieras conmigo.	00:23:10;
+
+[PlayVoice]=00:20:15	Voice04/04-C0/04-C0-I03/04-C0-I03-0110	0	kot	00:23:10;
+
+[PrintText]=00:23:10	Makoto	¡Kotonoha!	00:28:12;
+
+[PlayVoice]=00:23:10	Voice04/04-C0/04-C0-I03/04-C0-I03-0120	1	mak	00:28:12;
+
+[PlayMovie]=00:24:01	Movie04/04-C0/04-C0-I03/04-C0-I03-004	0	00:26:22;
+
+[PlayMovie]=00:26:22	Movie04/04-KA/04-KA-B03/04-KA-B03-008	0	00:30:23;
+
+[PrintText]=00:28:13	Kotonoha	¡Ahh...! ¡Makoto-kun!	00:34:18;
+
+[PlayVoice]=00:28:13	Voice04/04-C0/04-C0-I03/04-C0-I03-0140	0	kot	00:34:18;
+
+[PlayMovie]=00:30:23	Movie04/04-C0/04-C0-I03/04-C0-I03-006	0	00:33:20;
+
+[PlayMovie]=00:33:20	Movie04/04-KA/04-KA-B03/04-KA-B03-008	0	00:35:08;
+
+ ;
+
+[Next]=00:35:08;
+
+

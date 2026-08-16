@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:07:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:07:17;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-A10/SE03-KB-A10-001	00:07:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-A10/03-KB-A10-001A	00:06:03;
+
+[PrintText]=00:00:02	Makoto	... No estoy seguro como me siento.	00:01:04;
+
+[PlayVoice]=00:00:02	Voice03/03-KB/03-KB-A10/03-KB-A10-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:09	Makoto	Quisiera saber... ¿Qué es lo que debería hacer?^	00:05:21;
+
+[PlayVoice]=00:01:09	Voice03/03-KB/03-KB-A10/03-KB-A10-0040	1	mak	00:05:21;
+
+[CreateBG]=00:06:03	BGS	Event03/03-KB/03-KB-A10/03-KB-A10-001B	00:07:17;
+
+[PrintText]=00:06:05	Makoto	Haah...	00:07:03;
+
+[PlayVoice]=00:06:05	Voice03/03-KB/03-KB-A10/03-KB-A10-0050	1	mak	00:07:03;
+
+ ;
+
+[Next]=00:07:17;
+
+

@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:31:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:31:14;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-I01/01-1S-I01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-1S/01-1S-I01/01-1S-I01-002	00:08:06;
+
+[PrintText]=00:03:21	Makoto	Confundida porque estaba un tanto agresivo, ¿huh...?^	00:07:10;
+
+[PlayVoice]=00:03:21	Voice01/01-1S/01-1S-I01/01-1S-I01-0040	1	xxx	00:07:10;
+
+[CreateBG]=00:08:06	BGS	Event01/01-1S/01-1S-I01/01-1S-I01-003	00:12:16;
+
+[PrintText]=00:08:23	Makoto	Yo soy el que está confundido.	00:12:03;
+
+[PlayVoice]=00:08:23	Voice01/01-1S/01-1S-I01/01-1S-I01-0050	1	xxx	00:12:03;
+
+[PlayMovie]=00:12:16	Movie01/01-1S/01-1S-I01/01-1S-I01-004	0	00:17:21;
+
+[PrintText]=00:13:01	Makoto	Yo solo tome su mano,pero ella lo odio tanto que se lo comentó a Sekai.	00:17:08;
+
+[PlayVoice]=00:13:01	Voice01/01-1S/01-1S-I01/01-1S-I01-0060	1	xxx	00:17:08;
+
+[CreateBG]=00:17:21	BGS	Event01/01-1S/01-1S-I01/01-1S-I01-005	00:25:08;
+
+[PrintText]=00:18:10	Makoto	Sekai trata de ser positiva, pero... aún así, esto...	00:24:20;
+
+[PlayVoice]=00:18:10	Voice01/01-1S/01-1S-I01/01-1S-I01-0070	1	xxx	00:24:20;
+
+[CreateBG]=00:25:08	BGS	Event01/01-1S/01-1S-I01/01-1S-I01-006	00:31:14;
+
+[PrintText]=00:25:23	Makoto	¿Estará bien para Kotonoha y para mi seguir así...?^	00:30:02;
+
+[PlayVoice]=00:25:23	Voice01/01-1S/01-1S-I01/01-1S-I01-0080	1	xxx	00:30:02;
+
+[BlackFade]=00:30:14	OUT	00:31:14;
+
+ ;
+
+[Next]=00:31:14;
+
+
+
+

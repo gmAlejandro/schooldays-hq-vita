@@ -1,0 +1,205 @@
+﻿[SkipFRAME]=02:22:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm10	01:06:19;
+
+[CreateBG]=00:00:00	BGS	Ini/FIX/CINEMA	00:03:01;
+
+[PrintText]=00:03:00	Kotonoha	¿De qué trata esta película?^	00:05:17;
+
+[PlayVoice]=00:03:00	Voice01/01-1K/01-1K-E04/01-1K-E04-0040	0	kot	00:05:17;
+
+[CreateBG]=00:03:01	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-002	00:27:02;
+
+[PrintText]=00:05:18	Makoto	Oh, se ve como un romance.	00:08:13;
+
+[PlayVoice]=00:05:18	Voice01/01-1K/01-1K-E04/01-1K-E04-0050	1	mak	00:08:13;
+
+[PrintText]=00:08:14	Kotonoha	Wow.	00:09:21;
+
+[PlayVoice]=00:08:14	Voice01/01-1K/01-1K-E04/01-1K-E04-0060	0	kot	00:09:21;
+
+[PrintText]=00:09:21	Makoto	Veamos... 'Peter se interesó por Amelia gracias a su amiga de la infancia Chris...	00:19:00;
+
+[PlayVoice]=00:09:21	Voice01/01-1K/01-1K-E04/01-1K-E04-0080	1	mak	00:19:00;
+
+[PrintText]=00:19:01	Makoto	Peter y Amelia están saliendo,entonces la vida de escolar de este divertido trió empieza...'.	00:27:01;
+
+[PlayVoice]=00:19:01	Voice01/01-1K/01-1K-E04/01-1K-E04-0081	1	mak	00:27:01;
+
+[CreateBG]=00:27:02	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-003	00:34:08;
+
+[PrintText]=00:27:02	Kotonoha	¿No crees, que es como nosotros?^	00:30:00;
+
+[PlayVoice]=00:27:02	Voice01/01-1K/01-1K-E04/01-1K-E04-0090	0	kot	00:30:00;
+
+[PrintText]=00:30:00	Makoto	¡¿Eh?!	00:30:14;
+
+[PlayVoice]=00:30:00	Voice01/01-1K/01-1K-E04/01-1K-E04-0100	1	mak	00:30:14;
+
+[PrintText]=00:30:14	Kotonoha	Con Saionji-san como Chris, y yo como Amelia.	00:34:08;
+
+[PlayVoice]=00:30:14	Voice01/01-1K/01-1K-E04/01-1K-E04-0110	0	kot	00:34:08;
+
+[CreateBG]=00:34:08	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-004	00:46:22;
+
+[PrintText]=00:34:14	Makoto	Entonces yo sería Peter, ¿No?^	00:37:02;
+
+[PlayVoice]=00:34:14	Voice01/01-1K/01-1K-E04/01-1K-E04-0120	1	mak	00:37:02;
+
+[PrintText]=00:37:07	Kotonoha	Tal vez.	00:38:09;
+
+[PlayVoice]=00:37:07	Voice01/01-1K/01-1K-E04/01-1K-E04-0130	0	kot	00:38:09;
+
+[PrintText]=00:38:13	Makoto	Bueno,Sekai y yo no somos amigos de la infancia, pero creo que nuestra relación es similar.	00:44:14;
+
+[PlayVoice]=00:38:13	Voice01/01-1K/01-1K-E04/01-1K-E04-0140	1	mak	00:44:14;
+
+[PrintText]=00:44:13	Kotonoha	Sería exactamente lo mismo.	00:46:00;
+
+[PlayVoice]=00:44:13	Voice01/01-1K/01-1K-E04/01-1K-E04-0150	0	kot	00:46:00;
+
+[PrintText]=00:46:03	Makoto	¿Tú crees?^	00:46:22;
+
+[PlayVoice]=00:46:03	Voice01/01-1K/01-1K-E04/01-1K-E04-0160	1	mak	00:46:22;
+
+[CreateBG]=00:46:22	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-005	00:53:18;
+
+[PrintText]=00:46:22	Kotonoha	Mira, Peter se parece un poco a ti.	00:51:17;
+
+[PlayVoice]=00:46:22	Voice01/01-1K/01-1K-E04/01-1K-E04-0170	0	kot	00:51:17;
+
+[PrintText]=00:51:15	Makoto	y Amelia... no.	00:54:14;
+
+[PlayVoice]=00:51:15	Voice01/01-1K/01-1K-E04/01-1K-E04-0180	1	mak	00:54:14;
+
+[CreateBG]=00:53:18	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-006	01:01:23;
+
+[PrintText]=00:54:13	Kotonoha	¿Qué?^	00:55:05;
+
+[PlayVoice]=00:54:13	Voice01/01-1K/01-1K-E04/01-1K-E04-0190	0	kot	00:55:05;
+
+[PrintText]=00:56:06	Makoto	Tú eres más bonita que Amelia.	01:00:18;
+
+[PlayVoice]=00:56:06	Voice01/01-1K/01-1K-E04/01-1K-E04-0200	1	mak	01:00:18;
+
+[PrintText]=01:00:19	Kotonoha	¡¿Eh...?!	01:01:15;
+
+[PlayVoice]=01:00:19	Voice01/01-1K/01-1K-E04/01-1K-E04-0210	0	kot	01:01:15;
+
+[CreateBG]=01:01:23	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-007	01:08:02;
+
+[PrintText]=01:01:23	Makoto	N-nada...	01:03:15;
+
+[PlayVoice]=01:01:23	Voice01/01-1K/01-1K-E04/01-1K-E04-0220	1	mak	01:03:15;
+
+[PlaySe]=01:04:04	1	Voice01/01-1K/01-1K-E04/01-1K-E04-0260	01:06:11;
+
+[PlayBgm]=01:06:19	BGM/SD_BGM/sdbgm20	01:55:20;
+
+[BlackFade]=01:07:02	OUT	01:08:02;
+
+[CreateBG]=01:08:02	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-008	01:11:01;
+
+[CreateBG]=01:11:01	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-009	01:14:12;
+
+[PlayVoice]=01:11:01	Voice01/01-1K/01-1K-E04/01-1K-E04-0270			01:14:11;
+
+[PlayMovie]=01:14:12	Movie01/01-1K/01-1K-E04/01-1K-E04-010	0	01:19:20;
+
+[PrintText]=01:14:12	Sekai	Se trata de los dos sentados en la ardiente oscuridad, sostienes su mano, y transm...	01:19:16;
+
+[PlayVoice]=01:14:12	Voice01/01-1K/01-1K-E04/01-1K-E04-0290	0	sek	01:19:16;
+
+[CreateBG]=01:19:20	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-011	01:30:23;
+
+[PrintText]=01:20:03	Sekai	¡Ahh! De pronto se ven el uno del otro y entonces... ¡Se besuquean!	01:30:21;
+
+[PlayVoice]=01:20:03	Voice01/01-1K/01-1K-E04/01-1K-E04-0310	0	sek	01:30:21;
+
+[PlayMovie]=01:30:23	Movie01/01-1K/01-1K-E04/01-1K-E04-012	0	01:34:08;
+
+[PrintText]=01:30:23	Makoto	...	01:32:15;
+
+[PlayVoice]=01:30:23	Voice01/01-1K/01-1K-E04/01-1K-E04-0340	1	xxx	01:32:15;
+
+[PrintText]=01:33:12	Makoto	¿...?^	01:34:03;
+
+[PlayVoice]=01:33:12	Voice01/01-1K/01-1K-E04/01-1K-E04-0360	1	mak	01:34:03;
+
+[CreateBG]=01:34:08	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-013	01:39:07;
+
+[PrintText]=01:34:08	Amelia	¿¡Por qué!?^	01:35:12;
+
+[PlayVoice]=01:34:08	Voice01/01-1K/01-1K-E04/01-1K-E04-0390	0	ame	01:35:12;
+
+[PrintText]=01:35:14	Chris	¿No lo sabias? Peter y yo estamos saliendo.	01:39:13;
+
+[PlayVoice]=01:35:14	Voice01/01-1K/01-1K-E04/01-1K-E04-0400	0	chr	01:39:13;
+
+[CreateBG]=01:39:07	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-014	01:43:18;
+
+[PrintText]=01:39:07	Ameria	No puede ser ¿Por qué entonces hiciste que estuviéramos...?^	01:43:11;
+
+[PlayVoice]=01:39:07	Voice01/01-1K/01-1K-E04/01-1K-E04-0410	0	ame	01:43:11;
+
+[WhiteFade]=01:43:12	OUT	01:43:18;
+
+[CreateBG]=01:43:18	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-015	01:47:09;
+
+[WhiteFade]=01:43:18	IN	01:44:00;
+
+[PrintText]=01:44:00	Kotonoha	¿Es un poco... como nosotros, no crees?^	01:47:03;
+
+[PlayVoice]=01:44:00	Voice01/01-1K/01-1K-E04/01-1K-E04-0440	0	kot	01:47:03;
+
+[WhiteFade]=01:47:03	OUT	01:47:09;
+
+[CreateBG]=01:47:09	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-016	01:55:20;
+
+[WhiteFade]=01:47:09	IN	01:47:15;
+
+[PrintText]=01:47:15	Makoto	N-no. No... saldría con Sekai... es completamente diferente...	01:54:19;
+
+[PlayVoice]=01:47:15	Voice01/01-1K/01-1K-E04/01-1K-E04-0460	1	mak	01:54:19;
+
+[BlackFade]=01:54:20	OUT	01:55:20;
+
+[PlayBgm]=01:55:20	BGM/SD_BGM/sdbgm29	02:22:05;
+
+[CreateBG]=01:55:20	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-017	02:17:12;
+
+[PrintText]=01:55:20	Chris	Ufufu... Adiós, espero seguir siendo tu amiga después de la graduación.	02:02:21;
+
+[PlayVoice]=01:55:20	Voice01/01-1K/01-1K-E04/01-1K-E04-0500	0	chr	02:02:21;
+
+[PrintText]=02:02:20	Ameria	¡Chris!	02:03:22;
+
+[PlayVoice]=02:02:20	Voice01/01-1K/01-1K-E04/01-1K-E04-0510	0	ame	02:03:22;
+
+[PrintText]=02:03:21	Chris	Disculpa, Peter está esperando por mí. Me voy.	02:07:18;
+
+[PlayVoice]=02:03:21	Voice01/01-1K/01-1K-E04/01-1K-E04-0530	0	chr	02:07:18;
+
+[PrintText]=02:07:17	Ameria	¡Chriiiis! ¡Peteeeer!	02:17:07;
+
+[PlayVoice]=02:07:17	Voice01/01-1K/01-1K-E04/01-1K-E04-0540	0	ame	02:17:07;
+
+[PlaySe]=02:17:12	1	Voice01/01-1K/01-1K-E04/01-1K-E04-0550	02:18:14;
+
+[CreateBG]=02:17:12	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-018	02:19:03;
+
+[CreateBG]=02:19:03	BGS	Event01/01-1K/01-1K-E04/01-1K-E04-019	02:22:05;
+
+[PrintText]=02:19:11	Makoto	...	02:20:19;
+
+[PlayVoice]=02:19:11	Voice01/01-1K/01-1K-E04/01-1K-E04-0560	1	xxx	02:20:19;
+
+[BlackFade]=02:21:05	OUT	02:22:05;
+
+ ;
+
+[Next]=02:22:05;
+
+
+
+

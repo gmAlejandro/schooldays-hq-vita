@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:26:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:32:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-F00/03-KA-F00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KA/03-KA-F00/03-KA-F00-002	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event03/03-KA/03-KA-F00/03-KA-F00-005	00:08:10;
+
+[PrintText]=00:06:17	Makoto	...Haah.	00:07:21;
+
+[PlayVoice]=00:06:17	Voice03/03-KA/03-KA-F00/03-KA-F00-0040	1	mak	00:07:21;
+
+[CreateBG]=00:08:10	BGS	Event03/03-KA/03-KA-F00/03-KA-F00-009	00:14:11;
+
+[PrintText]=00:09:01	Makoto	Un beso en la mejilla, huh...	00:14:02;
+
+[PlayVoice]=00:09:01	Voice03/03-KA/03-KA-F00/03-KA-F00-0050	1	mak	00:14:02;
+
+[PlayMovie]=00:14:11	Movie03/03-KA/03-KA-F00/03-KA-F00-006	0	00:16:03;
+
+[PlaySe]=00:14:17	1	SysSe/SE_all/keitai/mail_makoto	00:15:13;
+
+[PlayMovie]=00:16:03	Movie03/03-KA/03-KA-F00/03-KA-F00-007	0	00:17:13;
+
+[PlaySe]=00:16:13	1	Se03/03-KA/03-KA-F00/SE03-KA-F00-001	00:16:21;
+
+[PlaySe]=00:17:11	1	SysSe/SE_all/keitai/keitai_sousa	00:17:13;
+
+[PlayMovie]=00:17:13	Ini/Movie03/03-KA/03-KA-F00/03-KA-F00-008	0	00:21:23;
+
+[PrintText]=00:20:06	Makoto	Haah...	00:21:06;
+
+[PlayVoice]=00:20:06	Voice03/03-KA/03-KA-F00/03-KA-F00-0080	1	mak	00:21:06;
+
+[CreateBG]=00:21:23	BGS	Event03/03-KA/03-KA-F00/03-KA-F00-003	00:25:02;
+
+[PrintText]=00:22:00	Makoto	Debería responder.	00:24:22;
+
+[PlayVoice]=00:22:00	Voice03/03-KA/03-KA-F00/03-KA-F00-0090	1	mak	00:24:22;
+
+[CreateBG]=00:25:02	BGS	Event03/03-KA/03-KA-F00/03-KA-F00-002	00:32:22;
+
+[PrintText]=00:25:10	Makoto	Hmmn...	00:27:15;
+
+[PlayVoice]=00:25:10	Voice03/03-KA/03-KA-F00/03-KA-F00-0100	1	mak	00:27:15;
+
+[SetSELECT]=00:26:21	'Buenas noches'	'Quiero que vayamos más lejos'	00:31:21;
+
+ ;
+
+[Next]=00:32:22;
+
+

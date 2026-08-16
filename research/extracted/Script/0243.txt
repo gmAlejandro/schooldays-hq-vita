@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:13:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:19:10;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-J07/SE02-2K-J07-001	00:19:10;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J07/02-2K-J07-001	0	00:01:16;
+
+[PrintText]=00:00:00	Makoto	Solo... un poco más...	00:01:13;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-J07/02-2K-J07-0030	1	xxx	00:01:13;
+
+[PlayMovie]=00:01:16	Movie02/02-2K/02-2K-J04/02-2K-J04-001	0	00:19:10;
+
+[PrintText]=00:01:16	Kotonoha	¡Nn...! ¡M-Makoto-kun!	00:06:14;
+
+[PlayVoice]=00:01:16	Voice02/02-2K/02-2K-J07/02-2K-J07-0050	0	kot	00:06:14;
+
+[PrintText]=00:06:14	Makoto	...	00:07:16;
+
+[PlayVoice]=00:06:14	Voice02/02-2K/02-2K-J07/02-2K-J07-0060	1	xxx	00:07:16;
+
+[PrintText]=00:07:17	Kotonoha	¡Hey... Makoto-kun!	00:10:09;
+
+[PlayVoice]=00:07:17	Voice02/02-2K/02-2K-J07/02-2K-J07-0070	0	kot	00:10:09;
+
+[PrintText]=00:10:08	Makoto	...	00:11:09;
+
+[PlayVoice]=00:10:08	Voice02/02-2K/02-2K-J07/02-2K-J07-0080	1	xxx	00:11:09;
+
+[PrintText]=00:11:09	Kotonoha	No...	00:12:08;
+
+[PlayVoice]=00:11:09	Voice02/02-2K/02-2K-J07/02-2K-J07-0090	0	kot	00:12:08;
+
+[PrintText]=00:12:08	Makoto	...	00:14:15;
+
+[PlayVoice]=00:12:08	Voice02/02-2K/02-2K-J07/02-2K-J07-0100	1	xxx	00:14:15;
+
+[SetSELECT]=00:13:10	*Detenerse*	*Seguir*	00:18:10;
+
+ ;
+
+[Next]=00:19:10;
+
+
+
+

@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:21:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:21:18;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:14:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-F10/05-KB-F10-001	00:03:14;
+
+[PrintText]=00:00:00	Makoto	...	00:03:13;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-F10/05-KB-F10-0030	1	xxx	00:03:13;
+
+[PrintText]=00:03:13	Nanami	¡Uwah! ¡Hey! ¿Por qué te estás poniendo rojo?!	00:06:22;
+
+[PlayVoice]=00:03:13	Voice05/05-KB/05-KB-F10/05-KB-F10-0040	0	nan	00:06:22;
+
+[CreateBG]=00:03:14	BGS	Event05/05-KB/05-KB-F10/05-KB-F10-002	00:09:19;
+
+[PrintText]=00:06:06	Makoto	¡Wh... No me estoy poniendo rojo!	00:09:18;
+
+[PlayVoice]=00:06:06	Voice05/05-KB/05-KB-F10/05-KB-F10-0050	1	mak	00:09:18;
+
+[PrintText]=00:09:18	Hikari	¿Pensando en algo indecente...?^	00:11:08;
+
+[PlayVoice]=00:09:18	Voice05/05-KB/05-KB-F10/05-KB-F10-0070	0	hik	00:11:08;
+
+[CreateBG]=00:09:19	BGS	Event05/05-KB/05-KB-F10/05-KB-F10-003	00:11:09;
+
+[PrintText]=00:11:08	Makoto	¡N-no!	00:13:08;
+
+[PlayVoice]=00:11:08	Voice05/05-KB/05-KB-F10/05-KB-F10-0080	1	mak	00:13:08;
+
+[PlayMovie]=00:11:09	Movie05/05-KB/05-KB-F10/05-KB-F10-004	0	00:21:18;
+
+[PrintText]=00:13:00	Nanami	¡Itou!	00:13:21;
+
+[PlayVoice]=00:13:00	Voice05/05-KB/05-KB-F10/05-KB-F10-0090	0	nan	00:13:21;
+
+[PrintText]=00:13:09	Makoto	¡Uwah! ¡Para ya!	00:16:13;
+
+[PlayVoice]=00:13:09	Voice05/05-KB/05-KB-F10/05-KB-F10-0100	1	mak	00:16:13;
+
+[PlaySe]=00:13:22	2	Se05/05-KB/05-KB-F10/SE05-KB-F10-001	00:21:18;
+
+[PlayVoice]=00:16:14	Voice05/05-KB/05-KB-F10/05-KB-F10-0110			00:18:02;
+
+[PlaySe]=00:16:21	3	Se05/05-KB/05-KB-F10/SE05-KB-F10-002	00:17:04;
+
+[PlaySe]=00:17:23	1	Se05/05-KB/05-KB-F10/SE05-KB-F10-003	00:18:19;
+
+[PrintText]=00:19:10	Kotonoha	...	00:21:15;
+
+[PlayVoice]=00:19:10	Voice05/05-KB/05-KB-F10/05-KB-F10-0120	0	xxx	00:21:15;
+
+[BlackFade]=00:21:06	OUT	00:21:18;
+
+ ;
+
+[Next]=00:21:18;
+
+

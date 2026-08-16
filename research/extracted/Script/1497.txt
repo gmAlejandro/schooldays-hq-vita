@@ -1,0 +1,26 @@
+﻿[SkipFRAME]=00:11:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:11:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-B00/05-KB-B00-001	00:02:17;
+
+[PrintText]=00:01:18	Sekai	¿Hm?^	00:02:09;
+
+[PlayVoice]=00:01:18	Voice05/05-KB/05-KB-B00/05-KB-B00-0040	0	sek	00:02:09;
+
+[CreateBG]=00:02:17	BGS	Event05/05-KB/05-KB-B00/05-KB-B00-002	00:06:22;
+
+[CreateBG]=00:06:22	BGS	Ini/Event05/05-KB/05-KB-B00/05-KB-B00-003	00:11:03;
+
+#[PrintText]=00:06:22	Celular	De: Katsura Kotonoha | Titulo: Perdón por molestarte\nHay algo de lo que quiero hablar contigo. \n Te estaré esperando en el patio después de clases.	00:11:03;
+
+[PlayVoice]=00:07:02	Voice05/05-KB/05-KB-B00/05-KB-B00-0070	0	xxx	00:07:19;
+
+[BlackFade]=00:10:03	OUT	00:11:03;
+
+ ;
+
+[Next]=00:11:03;
+
+
+

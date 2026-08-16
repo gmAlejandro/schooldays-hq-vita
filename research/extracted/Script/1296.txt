@@ -1,0 +1,369 @@
+﻿[SkipFRAME]=04:58:23;
+
+[PlayMovie]=00:00:00	Movie05/05-5H/05-5H-C03/05-5H-C03-001	0	00:07:02;
+
+[PrintText]=00:00:00	Makoto	...	00:01:02;
+
+[PlayVoice]=00:00:00	Voice05/05-5H/05-5H-C03/05-5H-C03-0030	1	xxx	00:01:02;
+
+[PrintText]=00:01:15	Hikari	¿Itou?^	00:02:21;
+
+[PlayVoice]=00:01:15	Voice05/05-5H/05-5H-C03/05-5H-C03-0040	0	hik	00:02:21;
+
+[PrintText]=00:03:21	Hikari	¿Eh...?^	00:04:17;
+
+[PlayVoice]=00:03:21	Voice05/05-5H/05-5H-C03/05-5H-C03-0060	0	hik	00:04:17;
+
+[PrintText]=00:05:10	Makoto	Kuroda...	00:06:16;
+
+[PlayVoice]=00:05:10	Voice05/05-5H/05-5H-C03/05-5H-C03-0070	1	mak	00:06:16;
+
+[PlayMovie]=00:07:02	Movie05/05-5H/05-5H-C03/05-5H-C03-002	0	00:13:00;
+
+[PrintText]=00:07:02	Hikari	E-Espera un segundo...	00:09:13;
+
+[PlayVoice]=00:07:02	Voice05/05-5H/05-5H-C03/05-5H-C03-0080	0	hik	00:09:13;
+
+[PrintText]=00:10:02	Makoto	Mira, no se puede evitar.	00:11:14;
+
+[PlayVoice]=00:10:02	Voice05/05-5H/05-5H-C03/05-5H-C03-0090	1	mak	00:11:14;
+
+[PrintText]=00:11:20	Hikari	¡¿Eh?!	00:12:23;
+
+[PlayVoice]=00:11:20	Voice05/05-5H/05-5H-C03/05-5H-C03-0100	0	hik	00:12:23;
+
+[CreateBG]=00:13:00	BGS	Event05/05-5H/05-5H-C03/05-5H-C03-003	00:22:21;
+
+[PrintText]=00:13:06	Makoto	Lo haremos una vez y Taisuke hará el resto.	00:16:04;
+
+[PlayVoice]=00:13:06	Voice05/05-5H/05-5H-C03/05-5H-C03-0110	1	mak	00:16:04;
+
+[PrintText]=00:16:06	Hikari	¡No está bien!	00:18:11;
+
+[PlayVoice]=00:16:06	Voice05/05-5H/05-5H-C03/05-5H-C03-0120	0	hik	00:18:11;
+
+[PrintText]=00:18:15	Makoto	¿Por qué no?^	00:19:18;
+
+[PlayVoice]=00:18:15	Voice05/05-5H/05-5H-C03/05-5H-C03-0130	1	mak	00:19:18;
+
+[PrintText]=00:19:21	Hikari	Porque... es mi primera vez...	00:24:11;
+
+[PlayVoice]=00:19:21	Voice05/05-5H/05-5H-C03/05-5H-C03-0140	0	hik	00:24:11;
+
+[PlayMovie]=00:22:21	Movie05/05-5H/05-5H-C03/05-5H-C03-004	0	00:40:07;
+
+[PlayBgm]=00:24:12	BGM/SD_BGM/sdbgm25	05:04:23;
+
+[PrintText]=00:24:16	Makoto	Taisuke piensa que eres mi novia. Sería sospechoso si fueras virgen.	00:30:06;
+
+[PlayVoice]=00:24:16	Voice05/05-5H/05-5H-C03/05-5H-C03-0150	1	mak	00:30:06;
+
+[PrintText]=00:30:19	Hikari	Sí, pero... quiero que él sea mi primera vez...	00:35:21;
+
+[PlayVoice]=00:30:19	Voice05/05-5H/05-5H-C03/05-5H-C03-0160	0	hik	00:35:21;
+
+[PrintText]=00:36:04	Makoto	Me aseguraré de que no te duela, así que...	00:38:08;
+
+[PlayVoice]=00:36:04	Voice05/05-5H/05-5H-C03/05-5H-C03-0170	1	mak	00:38:08;
+
+[PrintText]=00:38:00	Hikari	¡No! ¡Nn...!	00:40:06;
+
+[PlayVoice]=00:38:00	Voice05/05-5H/05-5H-C03/05-5H-C03-0190	0	hik	00:40:06;
+
+[BlackFade]=00:39:07	OUT	00:40:07;
+
+[PlayMovie]=00:40:07	Movie05/05-5H/05-5H-C03/05-5H-C03-005	0	00:49:23;
+
+[PrintText]=00:41:10	Hikari	Haah... haah...	00:47:21;
+
+[PlayVoice]=00:41:10	Voice05/05-5H/05-5H-C03/05-5H-C03-0220	0	hik	00:47:21;
+
+[PrintText]=00:47:17	Makoto	Kuroda... lo noté la otra vez... tienes unos pechos muy sensibles ¿No?^	00:54:16;
+
+[PlayVoice]=00:47:17	Voice05/05-5H/05-5H-C03/05-5H-C03-0230	1	mak	00:54:16;
+
+[CreateBG]=00:49:23	BGS	Event05/05-5H/05-5H-C03/05-5H-C03-006	00:58:17;
+
+[PrintText]=00:54:19	Hikari	Eso...	00:57:17;
+
+[PlayVoice]=00:54:19	Voice05/05-5H/05-5H-C03/05-5H-C03-0240	0	hik	00:57:17;
+
+[PrintText]=00:57:12	Makoto	Lo sientes...	00:58:16;
+
+[PlayVoice]=00:57:12	Voice05/05-5H/05-5H-C03/05-5H-C03-0250	1	mak	00:58:16;
+
+[PlayMovie]=00:58:17	Movie05/05-5H/05-5H-C03/05-5H-C03-007	0	01:28:00;
+
+[PrintText]=00:59:12	Hikari	...	01:00:11;
+
+[PlayVoice]=00:59:12	Voice05/05-5H/05-5H-C03/05-5H-C03-0260	0	xxx	01:00:11;
+
+[PrintText]=01:00:10	Makoto	Eres tan linda.	01:02:05;
+
+[PlayVoice]=01:00:10	Voice05/05-5H/05-5H-C03/05-5H-C03-0270	1	mak	01:02:05;
+
+[PrintText]=01:02:11	Hikari	Ooh...	01:04:16;
+
+[PlayVoice]=01:02:11	Voice05/05-5H/05-5H-C03/05-5H-C03-0280	0	hik	01:04:16;
+
+[PrintText]=01:05:01	Hikari	Ah... no...	01:06:21;
+
+[PlayVoice]=01:05:01	Voice05/05-5H/05-5H-C03/05-5H-C03-0300	0	hik	01:06:21;
+
+[PrintText]=01:07:03	Makoto	Nn...	01:10:14;
+
+[PlayVoice]=01:07:03	Voice05/05-5H/05-5H-C03/05-5H-C03-0310	1	mak	01:10:14;
+
+[PrintText]=01:10:03	Hikari	¡Haah... nn! ¡Fwah... ah!	01:16:12;
+
+[PlayVoice]=01:10:03	Voice05/05-5H/05-5H-C03/05-5H-C03-0320	0	hik	01:16:12;
+
+[PrintText]=01:16:04	Makoto	Nn...	01:21:23;
+
+[PlayVoice]=01:16:04	Voice05/05-5H/05-5H-C03/05-5H-C03-0330	1	mak	01:21:23;
+
+[PrintText]=01:22:02	Hikari	¡Ah... aah! ¡Ahn... uh... nnn!	01:31:07;
+
+[PlayVoice]=01:22:02	Voice05/05-5H/05-5H-C03/05-5H-C03-0340	0	hik	01:31:07;
+
+[PlayMovie]=01:28:00	Movie05/05-5H/05-5H-C03/H5-5H-C03-008	0	01:49:14;
+
+[PrintText]=01:30:23	Makoto	Estás tan... abajo también.	01:35:22;
+
+[PlayVoice]=01:30:23	Voice05/05-5H/05-5H-C03/05-5H-C03-0350	1	mak	01:35:22;
+
+[PrintText]=01:36:02	Hikari	¿Huh...?^	01:39:09;
+
+[PlayVoice]=01:36:02	Voice05/05-5H/05-5H-C03/05-5H-C03-0360	0	hik	01:39:09;
+
+[PrintText]=01:39:12	Makoto	Estás toda mojada.	01:41:11;
+
+[PlayVoice]=01:39:12	Voice05/05-5H/05-5H-C03/05-5H-C03-0370	1	mak	01:41:11;
+
+[PrintText]=01:42:07	Hikari	Nn...	01:43:05;
+
+[PlayVoice]=01:42:07	Voice05/05-5H/05-5H-C03/05-5H-C03-0380	0	hik	01:43:05;
+
+[PrintText]=01:43:10	Makoto	Y tu cabello es muy delgado...	01:45:20;
+
+[PlayVoice]=01:43:10	Voice05/05-5H/05-5H-C03/05-5H-C03-0390	1	mak	01:45:20;
+
+[PrintText]=01:46:12	Hikari	¡Qué vergüenza... nn!	01:50:15;
+
+[PlayVoice]=01:46:12	Voice05/05-5H/05-5H-C03/05-5H-C03-0400	0	hik	01:50:15;
+
+[PlayMovie]=01:49:14	Movie05/05-5H/05-5H-C03/H5-5H-C03-009	0	02:37:19;
+
+[PrintText]=01:51:00	Makoto	Al tocarte así... tu piel se siente tan suave...	01:57:22;
+
+[PlayVoice]=01:51:00	Voice05/05-5H/05-5H-C03/05-5H-C03-0410	1	mak	01:57:22;
+
+[PrintText]=01:58:06	Hikari	No... ahí no...	02:01:06;
+
+[PlayVoice]=01:58:06	Voice05/05-5H/05-5H-C03/05-5H-C03-0420	0	hik	02:01:06;
+
+[PrintText]=02:01:17	Makoto	Sí... ¿Lo sientes?^	02:05:12;
+
+[PlayVoice]=02:01:17	Voice05/05-5H/05-5H-C03/05-5H-C03-0430	1	mak	02:05:12;
+
+[PrintText]=02:04:23	Hikari	Se siente... como cosquillas...	02:10:11;
+
+[PlayVoice]=02:04:23	Voice05/05-5H/05-5H-C03/05-5H-C03-0440	0	hik	02:10:11;
+
+[PrintText]=02:10:18	Makoto	No es como si sintieras cosquillas... eso dice que te sientes bien.	02:15:21;
+
+[PlayVoice]=02:10:18	Voice05/05-5H/05-5H-C03/05-5H-C03-0450	1	mak	02:15:21;
+
+[PrintText]=02:16:09	Hikari	¿En... Serio?^	02:21:16;
+
+[PlayVoice]=02:16:09	Voice05/05-5H/05-5H-C03/05-5H-C03-0460	0	hik	02:21:16;
+
+[PrintText]=02:21:19	Makoto	Sí.	02:22:18;
+
+[PlayVoice]=02:21:19	Voice05/05-5H/05-5H-C03/05-5H-C03-0470	1	mak	02:22:18;
+
+[PrintText]=02:23:07	Hikari	Nn... se siente... bien...	02:30:14;
+
+[PlayVoice]=02:23:07	Voice05/05-5H/05-5H-C03/05-5H-C03-0480	0	hik	02:30:14;
+
+[PrintText]=02:30:22	Makoto	Por supuesto... por eso estás toda mojada.	02:36:09;
+
+[PlayVoice]=02:30:22	Voice05/05-5H/05-5H-C03/05-5H-C03-0490	1	mak	02:36:09;
+
+[PrintText]=02:36:07	Hikari	Haah...	02:39:16;
+
+[PlayVoice]=02:36:07	Voice05/05-5H/05-5H-C03/05-5H-C03-0500	0	hik	02:39:16;
+
+[CreateBG]=02:37:19	BGS	Event05/05-5H/05-5H-C03/05-5H-C03-010	02:56:08;
+
+[PrintText]=02:40:09	Makoto	Es hora...	02:41:23;
+
+[PlayVoice]=02:40:09	Voice05/05-5H/05-5H-C03/05-5H-C03-0510	1	mak	02:41:23;
+
+[PrintText]=02:42:10	Hikari	¿Eh...?^	02:44:20;
+
+[PlayVoice]=02:42:10	Voice05/05-5H/05-5H-C03/05-5H-C03-0520	0	hik	02:44:20;
+
+[PrintText]=02:45:05	Makoto	Aquí voy.	02:46:14;
+
+[PlayVoice]=02:45:05	Voice05/05-5H/05-5H-C03/05-5H-C03-0530	1	mak	02:46:14;
+
+[PrintText]=02:47:07	Hikari	Ah...	02:49:00;
+
+[PlayVoice]=02:47:07	Voice05/05-5H/05-5H-C03/05-5H-C03-0540	0	hik	02:49:00;
+
+[PrintText]=02:49:10	Makoto	Nn...	02:53:10;
+
+[PlayVoice]=02:49:10	Voice05/05-5H/05-5H-C03/05-5H-C03-0560	1	mak	02:53:10;
+
+[PrintText]=02:53:11	Hikari	Ah... aah...	02:58:06;
+
+[PlayVoice]=02:53:11	Voice05/05-5H/05-5H-C03/05-5H-C03-0570	0	hik	02:58:06;
+
+[PlayMovie]=02:56:08	Movie05/05-5H/05-5H-C03/05-5H-C03-011	0	03:32:15;
+
+[MoveSom]=02:56:08	1	03:32:15;
+
+[PrintText]=02:58:03	Makoto	¿Cómo estás?^	03:02:01;
+
+[PlayVoice]=02:58:03	Voice05/05-5H/05-5H-C03/05-5H-C03-0590	1	mak	03:02:01;
+
+[PrintText]=03:01:20	Hikari	...está apretado... pero...	03:09:22;
+
+[PlayVoice]=03:01:20	Voice05/05-5H/05-5H-C03/05-5H-C03-0600	0	hik	03:09:22;
+
+[PrintText]=03:10:07	Makoto	Uh-huh.	03:11:02;
+
+[PlayVoice]=03:10:07	Voice05/05-5H/05-5H-C03/05-5H-C03-0610	1	mak	03:11:02;
+
+[PrintText]=03:11:14	Hikari	Creo que... no duele tanto... como creí.	03:20:02;
+
+[PlayVoice]=03:11:14	Voice05/05-5H/05-5H-C03/05-5H-C03-0620	0	hik	03:20:02;
+
+[PrintText]=03:19:00	Makoto	Una vez que sientas mucho place, ya no sentirás dolor.	03:23:09;
+
+[PlayVoice]=03:19:00	Voice05/05-5H/05-5H-C03/05-5H-C03-0630	1	mak	03:23:09;
+
+[PrintText]=03:23:13	Hikari	¿A sí?..	03:26:17;
+
+[PlayVoice]=03:23:13	Voice05/05-5H/05-5H-C03/05-5H-C03-0640	0	hik	03:26:17;
+
+[PrintText]=03:26:12	Makoto	Sí.	03:28:18;
+
+[PlayVoice]=03:26:12	Voice05/05-5H/05-5H-C03/05-5H-C03-0650	1	mak	03:28:18;
+
+[PrintText]=03:29:16	Hikari	Nn...	03:30:15;
+
+[PlayVoice]=03:29:16	Voice05/05-5H/05-5H-C03/05-5H-C03-0660	0	hik	03:30:15;
+
+[PrintText]=03:30:23	Makoto	Voy a moverme un poco.	03:33:16;
+
+[PlayVoice]=03:30:23	Voice05/05-5H/05-5H-C03/05-5H-C03-0670	1	mak	03:33:16;
+
+[PlayMovie]=03:32:15	Movie05/05-5H/05-5H-C03/H5-5H-C03-012	0	04:03:09;
+
+[MoveSom]=03:32:15	2	04:03:09;
+
+[PrintText]=03:34:12	Hikari	Nn...	03:36:03;
+
+[PlayVoice]=03:34:12	Voice05/05-5H/05-5H-C03/05-5H-C03-0680	0	hik	03:36:03;
+
+[PrintText]=03:35:23	Makoto	Está tan apretado...	03:38:15;
+
+[PlayVoice]=03:35:23	Voice05/05-5H/05-5H-C03/05-5H-C03-0750	1	mak	03:38:15;
+
+[PrintText]=03:39:04	Hikari	¡Nn... ah! Haah...! ¡Nn... nn...	03:46:20;
+
+[PlayVoice]=03:39:04	Voice05/05-5H/05-5H-C03/05-5H-C03-0700	0	hik	03:46:20;
+
+[PrintText]=03:46:16	Makoto	Lento, así...	03:51:03;
+
+[PlayVoice]=03:46:16	Voice05/05-5H/05-5H-C03/05-5H-C03-0690	1	mak	03:51:03;
+
+[PrintText]=03:51:16	Hikari	Se siente raro...	03:57:00;
+
+[PlayVoice]=03:51:16	Voice05/05-5H/05-5H-C03/05-5H-C03-0720	0	hik	03:57:00;
+
+[PrintText]=03:57:08	Makoto	¿Te duele?^	03:59:05;
+
+[PlayVoice]=03:57:08	Voice05/05-5H/05-5H-C03/05-5H-C03-0710	1	mak	03:59:05;
+
+[PrintText]=03:59:13	Hikari	¡Ah...! ¡Ahah...! Hah... ah... aah...	04:06:21;
+
+[PlayVoice]=03:59:13	Voice05/05-5H/05-5H-C03/05-5H-C03-0740	0	hik	04:06:21;
+
+[PlayMovie]=04:03:09	Movie05/05-5H/05-5H-C03/05-5H-C03-013	0	04:10:08;
+
+[MoveSom]=04:03:09	3	04:10:08;
+
+[PrintText]=04:06:23	Makoto	Se pondrá mucho mejor...	04:09:01;
+
+[PlayVoice]=04:06:23	Voice05/05-5H/05-5H-C03/05-5H-C03-0730	1	mak	04:09:01;
+
+[PrintText]=04:09:14	Hikari	¡Eso no... ah... ah... haah... hah...!	04:18:13;
+
+[PlayVoice]=04:09:14	Voice05/05-5H/05-5H-C03/05-5H-C03-0760	0	hik	04:18:13;
+
+[PlayMovie]=04:10:08	Movie05/05-5H/05-5H-C03/05-5H-C03-014	0	04:21:12;
+
+[MoveSom]=04:10:08	4	04:21:12;
+
+[PrintText]=04:19:01	Makoto	Nn...	04:20:19;
+
+[PlayVoice]=04:19:01	Voice05/05-5H/05-5H-C03/05-5H-C03-0770	1	mak	04:20:19;
+
+[PrintText]=04:21:04	Hikari	¡Fwah... haah... hah... haaah...!	04:28:14;
+
+[PlayVoice]=04:21:04	Voice05/05-5H/05-5H-C03/05-5H-C03-0780	0	hik	04:28:14;
+
+[PlayMovie]=04:21:12	Movie05/05-5H/05-5H-C03/05-5H-C03-015	0	04:28:20;
+
+[MoveSom]=04:21:12	3	04:28:20;
+
+[PlayMovie]=04:28:20	Movie05/05-5H/05-5H-C03/H5-5H-C03-016	0	05:04:23;
+
+[MoveSom]=04:28:20	5	05:04:23;
+
+[PrintText]=04:29:01	Makoto	Ah...	04:31:09;
+
+[PlayVoice]=04:29:01	Voice05/05-5H/05-5H-C03/05-5H-C03-0790	1	mak	04:31:09;
+
+[PrintText]=04:31:16	Hikari	¿Huh...?^	04:34:10;
+
+[PlayVoice]=04:31:16	Voice05/05-5H/05-5H-C03/05-5H-C03-0800	0	hik	04:34:10;
+
+[PrintText]=04:34:10	Makoto	Creo que voy a venirme...	04:37:16;
+
+[PlayVoice]=04:34:10	Voice05/05-5H/05-5H-C03/05-5H-C03-0810	1	mak	04:37:16;
+
+[PrintText]=04:37:09	Hikari	¿Eh?^	04:38:22;
+
+[PlayVoice]=04:37:09	Voice05/05-5H/05-5H-C03/05-5H-C03-0820	0	hik	04:38:22;
+
+[PrintText]=04:39:09	Makoto	¿Puedo...?^	04:41:14;
+
+[PlayVoice]=04:39:09	Voice05/05-5H/05-5H-C03/05-5H-C03-0830	1	mak	04:41:14;
+
+[PrintText]=04:42:02	Hikari	N-No sé...	04:45:07;
+
+[PlayVoice]=04:42:02	Voice05/05-5H/05-5H-C03/05-5H-C03-0840	0	hik	04:45:07;
+
+[PrintText]=04:45:13	Makoto	Venirme dentro de ti...	04:47:18;
+
+[PlayVoice]=04:45:13	Voice05/05-5H/05-5H-C03/05-5H-C03-0850	1	mak	04:47:18;
+
+[PrintText]=04:48:01	Hikari	... si tú quieres.	04:53:18;
+
+[PlayVoice]=04:48:01	Voice05/05-5H/05-5H-C03/05-5H-C03-0860	0	hik	04:53:18;
+
+[PrintText]=04:53:11	Makoto	¿En serio..? En ese caso...	04:57:06;
+
+[PlayVoice]=04:53:11	Voice05/05-5H/05-5H-C03/05-5H-C03-0870	1	mak	04:57:06;
+
+[SetSELECT]=04:58:23	*Venirse afuera*	null	05:03:23;
+
+ ;
+
+[Next]=05:04:23;
+
+

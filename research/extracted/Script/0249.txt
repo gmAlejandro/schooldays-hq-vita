@@ -1,0 +1,36 @@
+﻿[SkipFRAME]=00:15:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:15:13;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-K02/02-2K-K02-001	00:04:15;
+
+[PrintText]=00:00:22	Makoto	...	00:03:22;
+
+[PlayVoice]=00:00:22	Voice02/02-2K/02-2K-K02/02-2K-K02-0040	1	xxx	00:03:22;
+
+[WhiteFade]=00:04:03	OUT	00:04:15;
+
+[PlayMovie]=00:04:15	Movie02/02-2K/02-2K-K02/02-2K-K02-002	0	00:10:06;
+
+[WhiteFade]=00:04:15	IN	00:05:03;
+
+[PlaySe]=00:05:03	1	Voice02/02-2K/02-2K-J10/02-2K-J10-0240	00:10:05;
+
+[WhiteFade]=00:09:18	OUT	00:10:06;
+
+[CreateBG]=00:10:06	BGS	Event02/02-2K/02-2K-K02/02-2K-K02-003	00:15:13;
+
+[WhiteFade]=00:10:06	IN	00:10:18;
+
+[PrintText]=00:10:18	Makoto	Haah... haah...	00:15:05;
+
+[PlayVoice]=00:10:18	Voice02/02-2K/02-2K-K02/02-2K-K02-0060	1	mak	00:15:05;
+
+ ;
+
+[Next]=00:15:13;
+
+
+
+
+

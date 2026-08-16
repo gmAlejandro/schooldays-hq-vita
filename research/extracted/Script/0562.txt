@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:14:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:09;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G07/SE03-KA-G07-001	00:14:09;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G07/03-KA-G07-001	00:01:07;
+
+[PrintText]=00:00:00	Makoto	...No tengo idea.	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-G07/03-KA-G07-0030	1	mak	00:00:23;
+
+[CreateBG]=00:01:07	BGS	Event03/03-KA/03-KA-G07/03-KA-G07-002	00:03:19;
+
+[PrintText]=00:01:10	Setsuna	...	00:02:04;
+
+[PlayVoice]=00:01:10	Voice03/03-KA/03-KA-G07/03-KA-G07-0040	0	xxx	00:02:04;
+
+[PrintText]=00:02:07	Makoto	No lo sé, es la verdad.	00:04:19;
+
+[PlayVoice]=00:02:07	Voice03/03-KA/03-KA-G07/03-KA-G07-0050	1	mak	00:04:19;
+
+[CreateBG]=00:03:19	BGS	Event03/03-KA/03-KA-G07/03-KA-G07-003	00:07:18;
+
+[PrintText]=00:04:20	Setsuna	...Vale, entonces.	00:06:02;
+
+[PlayVoice]=00:04:20	Voice03/03-KA/03-KA-G07/03-KA-G07-0060	0	set	00:06:02;
+
+[PrintText]=00:06:05	Makoto	¿'Vale'...?^	00:07:06;
+
+[PlayVoice]=00:06:05	Voice03/03-KA/03-KA-G07/03-KA-G07-0070	1	mak	00:07:06;
+
+[BlackFade]=00:07:06	OUT	00:07:18;
+
+[CreateBG]=00:07:18	BGS	Event03/03-KA/03-KA-G07/03-KA-G07-004	00:12:18;
+
+[PrintText]=00:07:19	Setsuna	...	00:08:17;
+
+[PlayVoice]=00:07:19	Voice03/03-KA/03-KA-G07/03-KA-G07-0090	0	xxx	00:08:17;
+
+[BlackFade]=00:09:09	OUT	00:14:09;
+
+ ;
+
+[Next]=00:14:09;
+
+

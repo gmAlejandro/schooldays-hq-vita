@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:16:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:16:11;
+
+[PlayMovie]=00:00:00	Movie04/04-C0/04-C0-I02/04-C0-I02-001	0	00:16:11;
+
+[PrintText]=00:00:23	Kotonoha	¡Ah!	00:02:08;
+
+[PlayVoice]=00:00:23	Voice04/04-C0/04-C0-I02/04-C0-I02-0060	0	kot	00:02:08;
+
+[PrintText]=00:04:08	Makoto	¡Kotonoha...!	00:05:21;
+
+[PlayVoice]=00:04:08	Voice04/04-C0/04-C0-I02/04-C0-I02-0070	1	mak	00:05:21;
+
+[PrintText]=00:09:15	Kotonoha	¡...Makoto-kun!	00:11:02;
+
+[PlayVoice]=00:09:15	Voice04/04-C0/04-C0-I02/04-C0-I02-0080	0	kot	00:11:02;
+
+[PrintText]=00:11:11	Kotonoha	¡Makoto-kun...! Te amo...	00:15:21;
+
+[PlayVoice]=00:11:11	Voice04/04-C0/04-C0-I02/04-C0-I02-0110	0	kot	00:15:21;
+
+ ;
+
+[Next]=00:16:11;
+
+

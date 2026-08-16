@@ -1,0 +1,181 @@
+﻿[SkipFRAME]=01:07:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:07:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-D00/SE03-SA-D00-001	01:07:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-002	00:02:16;
+
+[PrintText]=00:02:00	Makoto	Ah...	00:02:15;
+
+[PlayVoice]=00:02:00	Voice03/03-SA/03-SA-D00/03-SA-D00-0050	1	mak	00:02:15;
+
+[PrintText]=00:02:15	Kotonoha	Makoto-kun.	00:03:18;
+
+[PlayVoice]=00:02:15	Voice03/03-SA/03-SA-D00/03-SA-D00-0060	0	kot	00:03:18;
+
+[CreateBG]=00:02:16	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-003	00:04:12;
+
+[PrintText]=00:03:18	Makoto	...Sí.	00:04:11;
+
+[PlayVoice]=00:03:18	Voice03/03-SA/03-SA-D00/03-SA-D00-0070	1	mak	00:04:11;
+
+[CreateBG]=00:04:12	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-003	00:09:09;
+
+[PrintText]=00:04:12	Kotonoha	Estás a punto de ir a tu descanso ¿No?^	00:06:20;
+
+[PlayVoice]=00:04:12	Voice03/03-SA/03-SA-D00/03-SA-D00-0080	0	kot	00:06:20;
+
+[PrintText]=00:06:20	Makoto	Uh-huh...	00:07:11;
+
+[PlayVoice]=00:06:20	Voice03/03-SA/03-SA-D00/03-SA-D00-0090	1	mak	00:07:11;
+
+[PrintText]=00:07:12	Kotonoha	Umm... ¿Tienes algo tiempo?^	00:12:04;
+
+[PlayVoice]=00:07:12	Voice03/03-SA/03-SA-D00/03-SA-D00-0100	0	kot	00:12:04;
+
+[CreateBG]=00:09:10	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-004	00:12:04;
+
+[PrintText]=00:12:03	Makoto	...	00:12:15;
+
+[PlayVoice]=00:12:03	Voice03/03-SA/03-SA-D00/03-SA-D00-0110	1	xxx	00:12:15;
+
+[CreateBG]=00:12:04	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-005	00:16:13;
+
+[PrintText]=00:12:15	Kotonoha	Me gustaría que vinieras conmigo... al salón.	00:15:20;
+
+[PlayVoice]=00:12:15	Voice03/03-SA/03-SA-D00/03-SA-D00-0120	0	kot	00:15:20;
+
+[PrintText]=00:15:20	Makoto	Uh...	00:16:12;
+
+[PlayVoice]=00:15:20	Voice03/03-SA/03-SA-D00/03-SA-D00-0130	1	mak	00:16:12;
+
+[CreateBG]=00:16:13	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-006	00:22:20;
+
+[PrintText]=00:16:13	Kotonoha	Nuestra salón puede verse como una casa encantada, pero lo hemos arreglado para...	00:22:19;
+
+[PlayVoice]=00:16:13	Voice03/03-SA/03-SA-D00/03-SA-D00-0140	0	kot	00:22:19;
+
+[PrintText]=00:22:19	Makoto	Perdón, pero...	00:23:23;
+
+[PlayVoice]=00:22:19	Voice03/03-SA/03-SA-D00/03-SA-D00-0150	1	mak	00:23:23;
+
+[CreateBG]=00:22:20	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-007	00:24:00;
+
+[PrintText]=00:23:23	Kotonoha	¿Estás ocupado? Está bien, puedes venir después.	00:28:03;
+
+[PlayVoice]=00:23:23	Voice03/03-SA/03-SA-D00/03-SA-D00-0160	0	kot	00:28:03;
+
+[CreateBG]=00:24:00	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-008	00:29:03;
+
+[PrintText]=00:28:03	Makoto	...	00:29:03;
+
+[PlayVoice]=00:28:03	Voice03/03-SA/03-SA-D00/03-SA-D00-0170	1	xxx	00:29:03;
+
+[CreateBG]=00:29:03	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-009	00:35:12;
+
+[PrintText]=00:29:03	Kotonoha	No es nada urgente. Solo me gustaría ir a algún lado contigo hoy...	00:35:11;
+
+[PlayVoice]=00:29:03	Voice03/03-SA/03-SA-D00/03-SA-D00-0180	0	kot	00:35:11;
+
+[CreateBG]=00:35:12	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-010	00:39:01;
+
+[PrintText]=00:35:12	Makoto	... Estoy a punto de ir al festival con Sekai.	00:39:01;
+
+[PlayVoice]=00:35:12	Voice03/03-SA/03-SA-D00/03-SA-D00-0190	1	mak	00:39:01;
+
+[CreateBG]=00:39:01	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-011A	00:40:14;
+
+[PrintText]=00:39:01	Kotonoha	Ah...	00:40:13;
+
+[PlayVoice]=00:39:01	Voice03/03-SA/03-SA-D00/03-SA-D00-0200	0	kot	00:40:13;
+
+[PrintText]=00:40:13	Makoto	Así que... no puedo ir contigo.	00:43:06;
+
+[PlayVoice]=00:40:13	Voice03/03-SA/03-SA-D00/03-SA-D00-0210	1	mak	00:43:06;
+
+[CreateBG]=00:40:14	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-011B	00:43:07;
+
+[CreateBG]=00:43:07	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-011C	00:46:04;
+
+[PrintText]=00:43:07	Kotonoha	Puedes venir después de que salgas con Saionji-san.	00:46:04;
+
+[PlayVoice]=00:43:07	Voice03/03-SA/03-SA-D00/03-SA-D00-0220	0	kot	00:46:04;
+
+[PrintText]=00:46:03	Makoto	...	00:47:03;
+
+[PlayVoice]=00:46:03	Voice03/03-SA/03-SA-D00/03-SA-D00-0230	1	xxx	00:47:03;
+
+[CreateBG]=00:46:04	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-012	00:49:15;
+
+[PrintText]=00:47:04	Kotonoha	¡Makoto-kun!	00:48:12;
+
+[PlayVoice]=00:47:04	Voice03/03-SA/03-SA-D00/03-SA-D00-0240	0	kot	00:48:12;
+
+[PrintText]=00:48:12	Makoto	...	00:49:14;
+
+[PlayVoice]=00:48:12	Voice03/03-SA/03-SA-D00/03-SA-D00-0250	1	xxx	00:49:14;
+
+[CreateBG]=00:49:15	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-013	00:51:07;
+
+[PrintText]=00:49:15	Kotonoha	¡...Por favor!	00:51:06;
+
+[PlayVoice]=00:49:15	Voice03/03-SA/03-SA-D00/03-SA-D00-0260	0	kot	00:51:06;
+
+[PrintText]=00:51:06	Makoto	...Perdóname, pero...	00:52:08;
+
+[PlayVoice]=00:51:06	Voice03/03-SA/03-SA-D00/03-SA-D00-0270	1	mak	00:52:08;
+
+[CreateBG]=00:51:07	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-014	00:52:08;
+
+[CreateBG]=00:52:08	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-015	00:55:17;
+
+[PrintText]=00:52:08	Kotonoha	Por favor, solo...	00:53:11;
+
+[PlayVoice]=00:52:08	Voice03/03-SA/03-SA-D00/03-SA-D00-0280	0	kot	00:53:11;
+
+[PrintText]=00:53:11	Makoto	...	00:55:16;
+
+[PlayVoice]=00:53:11	Voice03/03-SA/03-SA-D00/03-SA-D00-0290	1	xxx	00:55:16;
+
+[CreateBG]=00:55:17	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-016	01:05:05;
+
+[PrintText]=00:55:17	Kotonoha	...	00:57:04;
+
+[PlayVoice]=00:55:17	Voice03/03-SA/03-SA-D00/03-SA-D00-0300	0	xxx	00:57:04;
+
+[PrintText]=00:57:04	Makoto	...	00:58:02;
+
+[PlayVoice]=00:57:04	Voice03/03-SA/03-SA-D00/03-SA-D00-0310	1	xxx	00:58:02;
+
+[PrintText]=00:58:02	Kotonoha	Estaré esperando en la clase 4.	01:00:15;
+
+[PlayVoice]=00:58:02	Voice03/03-SA/03-SA-D00/03-SA-D00-0320	0	kot	01:00:15;
+
+[PrintText]=01:00:16	Makoto	No puedo.	01:01:13;
+
+[PlayVoice]=01:00:16	Voice03/03-SA/03-SA-D00/03-SA-D00-0330	1	mak	01:01:13;
+
+[PrintText]=01:01:14	Kotonoha	¡Te esperaré!	01:02:19;
+
+[PlayVoice]=01:01:14	Voice03/03-SA/03-SA-D00/03-SA-D00-0340	0	kot	01:02:19;
+
+[PrintText]=01:02:19	Makoto	Yo...	01:03:16;
+
+[PlayVoice]=01:02:19	Voice03/03-SA/03-SA-D00/03-SA-D00-0350	1	mak	01:03:16;
+
+[PlaySe]=01:03:09	2	SysSe/SE_all/footsteps/asioto_out_run	01:07:00;
+
+[PrintText]=01:03:17	Kotonoha	¡Te estaré esperando!	01:05:04;
+
+[PlayVoice]=01:03:17	Voice03/03-SA/03-SA-D00/03-SA-D00-0360	0	kot	01:05:04;
+
+[CreateBG]=01:05:05	BGS	Event03/03-SA/03-SA-D00/03-SA-D00-017	01:07:00;
+
+ ;
+
+[Next]=01:07:00;
+
+

@@ -1,0 +1,34 @@
+﻿[SkipFRAME]=00:10:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:10:14;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-A03/00-00-A03-001	00:03:17;
+
+[PrintText]=00:00:00	Sekai	¿Hm?^	00:00:15;
+
+[PlayVoice]=00:00:00	Voice05/05-SC/05-SC-B00/05-SC-B00-0050	0	sek	00:00:15;
+
+[PrintText]=00:01:06	Sekai	...	00:01:18;
+
+[PlayVoice]=00:01:06	Voice05/05-SC/05-SC-B00/05-SC-B00-0090	0	xxx	00:01:18;
+
+[PrintText]=00:02:02	Makoto	¿Qué pasa?^	00:02:23;
+
+[PlayVoice]=00:02:02	Voice05/05-SC/05-SC-B00/05-SC-B00-0100	1	mak	00:02:23;
+
+[PrintText]=00:02:23	Sekai	Oh, no es nada.	00:04:18;
+
+[PlayVoice]=00:02:23	Voice05/05-SC/05-SC-B00/05-SC-B00-0110	0	sek	00:04:18;
+
+[CreateBG]=00:03:17	BGS	Event05/05-SC/05-SC-B00/05-SC-B00-002	00:06:01;
+
+[CreateBG]=00:06:01	BGS	Ini/Event05/05-SC/05-SC-B00/05-SC-B00-004	00:10:14;
+
+#[PrintText]=00:06:01	Celular	De: Katsura Kotonoha | Titulo: Perdón por molestarte\nHay algo de lo que quiero hablar contigo. \n Te estaré esperando en el patio después de clases.	00:10:14;
+
+ ;
+
+[Next]=00:10:14;
+
+
+

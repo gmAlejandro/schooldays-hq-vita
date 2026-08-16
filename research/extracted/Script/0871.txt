@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:07:23;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-M04/SE03-SB-M04-001	00:07:23;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-M04/03-SB-M04-001	0	00:01:06;
+
+[PrintText]=00:00:00	Makoto	Ven, ya está.	00:01:05;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-M04/03-SB-M04-0030	1	mak	00:01:05;
+
+[PrintText]=00:01:05	Sekai	Uh-huh.	00:03:13;
+
+[PlayVoice]=00:01:05	Voice03/03-SB/03-SB-M04/03-SB-M04-0050	0	sek	00:03:13;
+
+[CreateBG]=00:01:06	BGS	Event03/03-SB/03-SB-M04/03-SB-M04-002	00:06:09;
+
+[PlayVoice]=00:03:13	Voice03/03-SB/03-SB-M04/03-SB-M04-0060			00:04:13;
+
+[PrintText]=00:04:13	Makoto	Bien, vamos.	00:06:09;
+
+[PlayVoice]=00:04:13	Voice03/03-SB/03-SB-M04/03-SB-M04-0070	1	mak	00:06:09;
+
+[CreateBG]=00:06:09	BGS	Event03/03-SB/03-SB-M04/03-SB-M04-002B	00:07:23;
+
+[PrintText]=00:06:09	Sekai	Vale.	00:07:00;
+
+[PlayVoice]=00:06:09	Voice03/03-SB/03-SB-M04/03-SB-M04-0080	0	sek	00:07:00;
+
+[BlackFade]=00:06:23	OUT	00:07:23;
+
+ ;
+
+[Next]=00:07:23;
+
+

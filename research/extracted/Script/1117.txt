@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:07:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:07:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-I01/04-SA-I01-001	00:02:04;
+
+[PrintText]=00:00:05	Makoto	Voy a hablarlo con Sekai.	00:02:06;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-I01/04-SA-I01-0030	1	mak	00:02:06;
+
+[CreateBG]=00:02:04	BGS	Event04/04-SA/04-SA-I01/04-SA-I01-002	00:04:02;
+
+[CreateBG]=00:04:02	BGS	Event04/04-SA/04-SA-I01/04-SA-I01-003	00:07:05;
+
+[PrintText]=00:04:05	Makoto	Vamos, contesta...	00:05:19;
+
+[PlayVoice]=00:04:05	Voice04/04-SA/04-SA-I01/04-SA-I01-0050	1	mak	00:05:19;
+
+ ;
+
+[Next]=00:07:07;
+
+

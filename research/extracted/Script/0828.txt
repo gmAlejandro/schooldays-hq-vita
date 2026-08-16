@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:17:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:17:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-F05/03-SB-F05-001	00:02:09;
+
+[PrintText]=00:00:00	Makoto	Seguro.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-F05/03-SB-F05-0030	1	mak	00:00:20;
+
+[PrintText]=00:00:20	Kotonoha	¿En serio?^	00:02:08;
+
+[PlayVoice]=00:00:20	Voice03/03-SB/03-SB-F05/03-SB-F05-0040	0	kot	00:02:08;
+
+[PrintText]=00:02:08	Makoto	Sí, estaré libre para el baile folk.	00:04:15;
+
+[PlayVoice]=00:02:08	Voice03/03-SB/03-SB-F05/03-SB-F05-0050	1	mak	00:04:15;
+
+[CreateBG]=00:02:09	BGS	Event03/03-SB/03-SB-F05/03-SB-F05-002	00:10:00;
+
+[PrintText]=00:04:16	Kotonoha	S-Sí, tienes razón. Después de todo, yo estaré libre también y soy miembro del comité	00:10:00;
+
+[PlayVoice]=00:04:16	Voice03/03-SB/03-SB-F05/03-SB-F05-0060	0	kot	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event03/03-SB/03-SB-F05/03-SB-F05-003	00:14:01;
+
+[PrintText]=00:10:00	Makoto	En ese caso, bailemos juntos.	00:12:07;
+
+[PlayVoice]=00:10:00	Voice03/03-SB/03-SB-F05/03-SB-F05-0070	1	mak	00:12:07;
+
+[PrintText]=00:12:07	Kotonoha	¡Sí!	00:13:09;
+
+[PlayVoice]=00:12:07	Voice03/03-SB/03-SB-F05/03-SB-F05-0080	0	kot	00:13:09;
+
+[PrintText]=00:13:09	Makoto	Pues bien...	00:14:01;
+
+[PlayVoice]=00:13:09	Voice03/03-SB/03-SB-F05/03-SB-F05-0090	1	mak	00:14:01;
+
+[CreateBG]=00:14:01	BGS	Event03/03-SB/03-SB-F05/03-SB-F05-004	00:17:23;
+
+[PrintText]=00:14:01	Kotonoha	¡Ah... sí. Buenas noches!	00:17:22;
+
+[PlayVoice]=00:14:01	Voice03/03-SB/03-SB-F05/03-SB-F05-0100	0	kot	00:17:22;
+
+ ;
+
+[Next]=00:17:23;
+
+

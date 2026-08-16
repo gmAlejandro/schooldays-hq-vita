@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:26:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:26:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-A01/03-BK-A01-001	00:01:16;
+
+[PrintText]=00:00:00	Madre de Makoto	¿Makoto?^	00:01:16;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-A01/03-BK-A01-0040	0	mkm	00:01:16;
+
+[CreateBG]=00:01:16	BGS	Event03/03-BK/03-BK-A01/03-BK-A01-002	00:11:05;
+
+[PrintText]=00:01:16	Makoto	...	00:03:01;
+
+[PlayVoice]=00:01:16	Voice03/03-BK/03-BK-A01/03-BK-A01-0050	1	xxx	00:03:01;
+
+[PrintText]=00:03:01	Madre de Makoto	Es mejor que salgas pronto o te harás tarde.	00:05:09;
+
+[PlayVoice]=00:03:01	Voice03/03-BK/03-BK-A01/03-BK-A01-0060	0	mkm	00:05:09;
+
+[PrintText]=00:05:09	Makoto	Mmn...	00:07:12;
+
+[PlayVoice]=00:05:09	Voice03/03-BK/03-BK-A01/03-BK-A01-0070	1	mak	00:07:12;
+
+[PrintText]=00:07:12	Madre de Makoto	Estoy a punto de salir ya mismo.	00:09:09;
+
+[PlayVoice]=00:07:12	Voice03/03-BK/03-BK-A01/03-BK-A01-0080	0	mkm	00:09:09;
+
+[PrintText]=00:09:09	Makoto	No me siento bien.	00:11:04;
+
+[PlayVoice]=00:09:09	Voice03/03-BK/03-BK-A01/03-BK-A01-0090	1	mak	00:11:04;
+
+[PrintText]=00:11:04	Madre de Makoto	¿Tienes un resfriado? ¿Te divertiste mucho en el festival escolar?^	00:14:22;
+
+[PlayVoice]=00:11:04	Voice03/03-BK/03-BK-A01/03-BK-A01-0100	0	mkm	00:14:22;
+
+[CreateBG]=00:11:05	BGS	Event03/03-BK/03-BK-A01/03-BK-A01-003	00:16:17;
+
+[PrintText]=00:14:22	Makoto	No puedo explicarlo...	00:16:16;
+
+[PlayVoice]=00:14:22	Voice03/03-BK/03-BK-A01/03-BK-A01-0110	1	mak	00:16:16;
+
+[PrintText]=00:16:16	Madre de Makoto	Si te vas a tomar el día libre, llama a la escuela.	00:19:08;
+
+[PlayVoice]=00:16:16	Voice03/03-BK/03-BK-A01/03-BK-A01-0120	0	mkm	00:19:08;
+
+[CreateBG]=00:16:17	BGS	Event03/03-BK/03-BK-A01/03-BK-A01-002	00:20:17;
+
+[PrintText]=00:19:08	Makoto	Ya sé.	00:20:17;
+
+[PlayVoice]=00:19:08	Voice03/03-BK/03-BK-A01/03-BK-A01-0130	1	mak	00:20:17;
+
+[PrintText]=00:20:16	Madre de Makoto	Bueno, me voy entonces.	00:22:13;
+
+[PlayVoice]=00:20:16	Voice03/03-BK/03-BK-A01/03-BK-A01-0140	0	mkm	00:22:13;
+
+[CreateBG]=00:20:17	BGS	Event03/03-BK/03-BK-A01/03-BK-A01-001	00:24:07;
+
+[PrintText]=00:22:13	Makoto	Que tengas un buen viaje.	00:23:22;
+
+[PlayVoice]=00:22:13	Voice03/03-BK/03-BK-A01/03-BK-A01-0150	1	mak	00:23:22;
+
+[CreateBG]=00:24:07	BGS	Event03/03-BK/03-BK-A01/03-BK-A01-003	00:26:03;
+
+[PrintText]=00:24:14	Makoto	...	00:25:11;
+
+[PlayVoice]=00:24:14	Voice03/03-BK/03-BK-A01/03-BK-A01-0170	1	xxx	00:25:11;
+
+ ;
+
+[Next]=00:26:03;
+
+

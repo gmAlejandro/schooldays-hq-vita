@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:04:18;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:04:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-N01/03-KB-N01-001	00:02:00;
+
+[PrintText]=00:00:00	Makoto	No creo que pueda ir.	00:02:00;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-N01/03-KB-N01-0030	1	mak	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KB/03-KB-N01/03-KB-N01-002	00:04:18;
+
+[PrintText]=00:02:12	Kotonoha	Pero...	00:03:21;
+
+[PlayVoice]=00:02:12	Voice03/03-KB/03-KB-N01/03-KB-N01-0040	0	kot	00:03:21;
+
+[BlackFade]=00:04:05	OUT	00:04:18;
+
+ ;
+
+[Next]=00:04:18;
+
+

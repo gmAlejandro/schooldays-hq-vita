@@ -1,0 +1,82 @@
+﻿[SkipFRAME]=00:52:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:52:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-H05/05-SB-H05-001	00:03:16;
+
+[CreateBG]=00:03:16	BGS	Event05/05-SB/05-SB-H05/05-SB-H05-002	00:15:05;
+
+[PrintText]=00:03:16	Nanami	Si se anima después de esto, se lo agradecerás a Itou ¿No?^	00:07:07;
+
+[PlayVoice]=00:03:16	Voice05/05-SB/05-SB-H05/05-SB-H05-0040	0	nan	00:07:07;
+
+[PrintText]=00:07:08	Hikari	Cielos, eres increíble.	00:10:19;
+
+[PlayVoice]=00:07:08	Voice05/05-SB/05-SB-H05/05-SB-H05-0050	0	hik	00:10:19;
+
+[PrintText]=00:10:19	Nanami	¿Crees que estarán bien? Las cosas van muy extrañas entre ellos.	00:15:04;
+
+[PlayVoice]=00:10:19	Voice05/05-SB/05-SB-H05/05-SB-H05-0060	0	nan	00:15:04;
+
+[CreateBG]=00:15:05	BGS	Event05/05-SB/05-SB-H05/05-SB-H05-003	00:27:00;
+
+[PrintText]=00:15:05	Hikari	Solo están avergonzados. ¡Estarán bien!	00:17:23;
+
+[PlayVoice]=00:15:05	Voice05/05-SB/05-SB-H05/05-SB-H05-0070	0	hik	00:17:23;
+
+[PrintText]=00:17:23	Nanami	Eso espero...	00:19:08;
+
+[PlayVoice]=00:17:23	Voice05/05-SB/05-SB-H05/05-SB-H05-0080	0	nan	00:19:08;
+
+[PrintText]=00:19:08	Hikari	No hay por qué preocuparse. Ahora ¿Vamos a la cafetería?^	00:24:09;
+
+[PlayVoice]=00:19:08	Voice05/05-SB/05-SB-H05/05-SB-H05-0090	0	hik	00:24:09;
+
+[PrintText]=00:24:10	Nanami	Seguro. Es bueno de vez en cuando.	00:27:00;
+
+[PlayVoice]=00:24:10	Voice05/05-SB/05-SB-H05/05-SB-H05-0100	0	nan	00:27:00;
+
+[CreateBG]=00:27:00	BGS	Event05/05-SB/05-SB-H05/05-SB-H05-004	00:43:23;
+
+[PrintText]=00:27:00	Taisuke	¿Huh? U-uh ¿Chicas? ¿No íbamos a comprar unas bebidas?^	00:31:15;
+
+[PlayVoice]=00:27:00	Voice05/05-SB/05-SB-H05/05-SB-H05-0110	1	tai	00:31:15;
+
+[PrintText]=00:31:16	Hikari	No te preocupes. Venga, tú también vienes.	00:35:05;
+
+[PlayVoice]=00:31:16	Voice05/05-SB/05-SB-H05/05-SB-H05-0120	0	hik	00:35:05;
+
+[PrintText]=00:35:06	Taisuke	¿Eh? ¿Quieres decir que solo iremos a la cafetería y no volveremos?^	00:38:12;
+
+[PlayVoice]=00:35:06	Voice05/05-SB/05-SB-H05/05-SB-H05-0130	1	tai	00:38:12;
+
+[PrintText]=00:38:13	Hikari	Así es.	00:39:11;
+
+[PlayVoice]=00:38:13	Voice05/05-SB/05-SB-H05/05-SB-H05-0140	0	hik	00:39:11;
+
+[PrintText]=00:39:11	Taisuke	P-Pero... ¿Qué les pasa?^	00:43:22;
+
+[PlayVoice]=00:39:11	Voice05/05-SB/05-SB-H05/05-SB-H05-0150	1	tai	00:43:22;
+
+[PrintText]=00:43:22	Nanami	Que tonto eres. Mira, solo ven con nosotras.	00:46:07;
+
+[PlayVoice]=00:43:22	Voice05/05-SB/05-SB-H05/05-SB-H05-0160	0	nan	00:46:07;
+
+[CreateBG]=00:43:23	BGS	Event05/05-SB/05-SB-H05/05-SB-H05-005	00:52:11;
+
+[PrintText]=00:46:08	Taisuke	¿Nnn?^	00:47:16;
+
+[PlayVoice]=00:46:08	Voice05/05-SB/05-SB-H05/05-SB-H05-0170	1	tai	00:47:16;
+
+[PrintText]=00:47:16	Hikari	Oooh, estarás bien. ¡Venga, vamos!	00:50:17;
+
+[PlayVoice]=00:47:16	Voice05/05-SB/05-SB-H05/05-SB-H05-0180	0	hik	00:50:17;
+
+[BlackFade]=00:51:15	OUT	00:52:11;
+
+ ;
+
+[Next]=00:52:11;
+
+
+

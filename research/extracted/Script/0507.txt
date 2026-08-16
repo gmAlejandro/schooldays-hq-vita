@@ -1,0 +1,203 @@
+﻿[SkipFRAME]=01:40:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:40:23;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-K00/SE03-BK-K00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-003	00:07:15;
+
+[PrintText]=00:06:07	Makoto	...	00:07:10;
+
+[PlayVoice]=00:06:07	Voice03/03-BK/03-BK-K00/03-BK-K00-0040	1	xxx	00:07:10;
+
+[CreateBG]=00:07:15	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-004	00:08:23;
+
+[PrintText]=00:07:19	Kotonoha	...	00:08:14;
+
+[PlayVoice]=00:07:19	Voice03/03-BK/03-BK-K00/03-BK-K00-0060	0	xxx	00:08:14;
+
+[CreateBG]=00:08:23	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-003	00:12:12;
+
+[PrintText]=00:09:01	Makoto	Phew...	00:10:02;
+
+[PlayVoice]=00:09:01	Voice03/03-BK/03-BK-K00/03-BK-K00-0080	1	mak	00:10:02;
+
+[PrintText]=00:10:11	Kotonoha	Makoto-kun.	00:11:15;
+
+[PlayVoice]=00:10:11	Voice03/03-BK/03-BK-K00/03-BK-K00-0090	0	kot	00:11:15;
+
+[PrintText]=00:11:19	Makoto	¿Hmn?^	00:12:10;
+
+[PlayVoice]=00:11:19	Voice03/03-BK/03-BK-K00/03-BK-K00-0110	1	mak	00:12:10;
+
+[CreateBG]=00:12:12	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-006	00:23:05;
+
+[PrintText]=00:12:15	Kotonoha	Te ves triste.	00:14:01;
+
+[PlayVoice]=00:12:15	Voice03/03-BK/03-BK-K00/03-BK-K00-0120	0	kot	00:14:01;
+
+[PrintText]=00:14:01	Makoto	¿Lo crees?^	00:15:04;
+
+[PlayVoice]=00:14:01	Voice03/03-BK/03-BK-K00/03-BK-K00-0130	1	mak	00:15:04;
+
+[PrintText]=00:15:11	Kotonoha	¿Te sigues sintiendo cansado?^	00:17:08;
+
+[PlayVoice]=00:15:11	Voice03/03-BK/03-BK-K00/03-BK-K00-0140	0	kot	00:17:08;
+
+[PrintText]=00:17:14	Makoto	¿Eh?^	00:18:04;
+
+[PlayVoice]=00:17:14	Voice03/03-BK/03-BK-K00/03-BK-K00-0150	1	mak	00:18:04;
+
+[PrintText]=00:18:07	Kotonoha	Por lo de ayer en la piscina.	00:19:23;
+
+[PlayVoice]=00:18:07	Voice03/03-BK/03-BK-K00/03-BK-K00-0160	0	kot	00:19:23;
+
+[PrintText]=00:20:02	Makoto	Tal vez. ¿Qué hay de ti?^	00:23:03;
+
+[PlayVoice]=00:20:02	Voice03/03-BK/03-BK-K00/03-BK-K00-0170	1	mak	00:23:03;
+
+[CreateBG]=00:23:05	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-007	00:29:16;
+
+[PrintText]=00:23:05	Kotonoha	Para nada.	00:24:22;
+
+[PlayVoice]=00:23:05	Voice03/03-BK/03-BK-K00/03-BK-K00-0180	0	kot	00:24:22;
+
+[PrintText]=00:25:02	Makoto	Y has hecho mucho más que yo incluso.	00:27:12;
+
+[PlayVoice]=00:25:02	Voice03/03-BK/03-BK-K00/03-BK-K00-0190	1	mak	00:27:12;
+
+[PrintText]=00:27:13	Kotonoha	¿En serio?^	00:29:20;
+
+[PlayVoice]=00:27:13	Voice03/03-BK/03-BK-K00/03-BK-K00-0200	0	kot	00:29:20;
+
+[CreateBG]=00:29:16	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-008	00:39:08;
+
+[PrintText]=00:29:16	Makoto	Oh, absolutamente. Fuiste a muchos lugares ¿No?^	00:33:13;
+
+[PlayVoice]=00:29:16	Voice03/03-BK/03-BK-K00/03-BK-K00-0210	1	mak	00:33:13;
+
+[PrintText]=00:33:10	Kotonoha	Sí... posiblemente.	00:35:19;
+
+[PlayVoice]=00:33:10	Voice03/03-BK/03-BK-K00/03-BK-K00-0220	0	kot	00:35:19;
+
+[PrintText]=00:35:16	Makoto	Pasé la mayor parte del tiempo durmiendo junto a la piscina.	00:39:06;
+
+[PlayVoice]=00:35:16	Voice03/03-BK/03-BK-K00/03-BK-K00-0230	1	mak	00:39:06;
+
+[CreateBG]=00:39:08	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-009	00:45:06;
+
+[PrintText]=00:39:08	Kotonoha	...	00:41:14;
+
+[PlayVoice]=00:39:08	Voice03/03-BK/03-BK-K00/03-BK-K00-0240	0	xxx	00:41:14;
+
+[PrintText]=00:41:12	Makoto	¿Q-Qué pasa?^	00:43:08;
+
+[PlayVoice]=00:41:12	Voice03/03-BK/03-BK-K00/03-BK-K00-0260	1	mak	00:43:08;
+
+[PrintText]=00:43:11	Kotonoha	Nada...	00:45:13;
+
+[PlayVoice]=00:43:11	Voice03/03-BK/03-BK-K00/03-BK-K00-0270	0	kot	00:45:13;
+
+[CreateBG]=00:45:06	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-010	00:46:05;
+
+[PrintText]=00:45:12	Makoto	¿En serio?^	00:46:07;
+
+[PlayVoice]=00:45:12	Voice03/03-BK/03-BK-K00/03-BK-K00-0280	1	mak	00:46:07;
+
+[CreateBG]=00:46:05	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-011	00:55:19;
+
+[PrintText]=00:46:05	Kotonoha	Ah... ¿Has oído lo de Sawanaga-san?^	00:50:03;
+
+[PlayVoice]=00:46:05	Voice03/03-BK/03-BK-K00/03-BK-K00-0290	0	kot	00:50:03;
+
+[PrintText]=00:50:02	Makoto	...	00:50:16;
+
+[PlayVoice]=00:50:02	Voice03/03-BK/03-BK-K00/03-BK-K00-0300	1	xxx	00:50:16;
+
+[PrintText]=00:51:04	Kotonoha	Parece que él y Saionji-san están saliendo ahora.	00:54:22;
+
+[PlayVoice]=00:51:04	Voice03/03-BK/03-BK-K00/03-BK-K00-0310	0	kot	00:54:22;
+
+[PrintText]=00:55:00	Makoto	...Sí.	00:55:17;
+
+[PlayVoice]=00:55:00	Voice03/03-BK/03-BK-K00/03-BK-K00-0320	1	mak	00:55:17;
+
+[CreateBG]=00:55:19	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-012	01:08:01;
+
+[PrintText]=00:55:20	Kotonoha	Estaba pensando en que hacían una buena pareja.	01:00:17;
+
+[PlayVoice]=00:55:20	Voice03/03-BK/03-BK-K00/03-BK-K00-0330	0	kot	01:00:17;
+
+[PrintText]=01:00:16	Makoto	¿En serio?^	01:01:12;
+
+[PlayVoice]=01:00:16	Voice03/03-BK/03-BK-K00/03-BK-K00-0340	1	mak	01:01:12;
+
+[PrintText]=01:01:17	Kotonoha	Sí. Estoy feliz de habérselo recomendado.	01:07:00;
+
+[PlayVoice]=01:01:17	Voice03/03-BK/03-BK-K00/03-BK-K00-0350	0	kot	01:07:00;
+
+[PrintText]=01:07:00	Makoto	¿Recomendado?^	01:08:00;
+
+[PlayVoice]=01:07:00	Voice03/03-BK/03-BK-K00/03-BK-K00-0360	1	mak	01:08:00;
+
+[CreateBG]=01:08:01	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-013	01:16:21;
+
+[PrintText]=01:08:02	Kotonoha	Sí, Sawanaga-san estaba interesado en ella,	01:11:21;
+
+[PlayVoice]=01:08:02	Voice03/03-BK/03-BK-K00/03-BK-K00-0370	0	kot	01:16:20;
+
+[PlaySe]=01:08:08	2	Se03/03-BK/03-BK-K00/SE03-BK-K00-001	01:40:23;
+
+[PrintText]=01:11:21	Kotonoha	y ella estaba libre, así que le sugerí que tuviera el coraje para invitarla a salir.	01:16:20;
+
+[CreateBG]=01:16:21	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-014	01:22:22;
+
+[PrintText]=01:16:22	Makoto	Ya veo... y tú se lo recomendaste.	01:21:12;
+
+[PlayVoice]=01:16:22	Voice03/03-BK/03-BK-K00/03-BK-K00-0380	1	mak	01:21:12;
+
+[PrintText]=01:21:09	Kotonoha	Eheheh...	01:22:18;
+
+[PlayVoice]=01:21:09	Voice03/03-BK/03-BK-K00/03-BK-K00-0390	0	kot	01:22:18;
+
+[CreateBG]=01:22:22	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	01:32:13;
+
+[PrintText]=01:22:23	Makoto	...	01:23:17;
+
+[PlayVoice]=01:22:23	Voice03/03-BK/03-BK-K00/03-BK-K00-0400	1	xxx	01:23:17;
+
+[PrintText]=01:24:04	Kotonoha	Tenemos que dar nuestro mejor esfuerzo para no ser superado por ellos.	01:29:13;
+
+[PlayVoice]=01:24:04	Voice03/03-BK/03-BK-K00/03-BK-K00-0410	0	kot	01:29:13;
+
+[PrintText]=01:29:15	Makoto	¿Dar nuestro mejor esfuerzo en qué...?^	01:32:11;
+
+[PlayVoice]=01:29:15	Voice03/03-BK/03-BK-K00/03-BK-K00-0420	1	mak	01:32:11;
+
+[PlayMovie]=01:32:13	Movie03/03-BK/03-BK-K00/03-BK-K00-016	0	01:34:23;
+
+[PlayVoice]=01:32:21	Voice03/03-BK/03-BK-K00/03-BK-K00-0430			01:34:15;
+
+[BlackFade]=01:34:11	OUT	01:34:23;
+
+[CreateBG]=01:34:23	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-017	01:37:12;
+
+[PrintText]=01:35:01	Kotonoha	En cosas como estas.	01:37:08;
+
+[PlayVoice]=01:35:01	Voice03/03-BK/03-BK-K00/03-BK-K00-0440	0	kot	01:37:08;
+
+[CreateBG]=01:37:12	BGS	Event03/03-BK/03-BK-K00/03-BK-K00-018	01:40:23;
+
+[PrintText]=01:37:15	Makoto	Kotonoha... Yo...	01:40:16;
+
+[PlayVoice]=01:37:15	Voice03/03-BK/03-BK-K00/03-BK-K00-0450	1	mak	01:40:16;
+
+ ;
+
+[Next]=01:40:23;
+
+

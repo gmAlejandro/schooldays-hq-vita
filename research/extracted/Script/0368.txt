@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:21:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:21:01;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-R05/02-2S-R05-001	00:02:10;
+
+[PrintText]=00:00:00	Makoto	¿Tengo miedo que Kotonoha me odie?^	00:02:04;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-R05/02-2S-R05-0030	1	xxx	00:02:04;
+
+[WhiteFade]=00:02:04	OUT	00:02:10;
+
+[CreateBG]=00:02:10	BGS	Event02/02-2S/02-2S-R05/02-2S-R05-002	00:04:12;
+
+[WhiteFade]=00:02:10	IN	00:02:16;
+
+[PrintText]=00:02:16	Makoto	Tal vez...	00:04:05;
+
+[PlayVoice]=00:02:16	Voice02/02-2S/02-2S-R05/02-2S-R05-0050	1	xxx	00:04:05;
+
+[WhiteFade]=00:04:06	OUT	00:04:12;
+
+[CreateBG]=00:04:12	BGS	Event02/02-2S/02-2S-R05/02-2S-R05-003	00:12:15;
+
+[WhiteFade]=00:04:12	IN	00:04:18;
+
+[PrintText]=00:04:18	Makoto	Después de todo, se pasó por mucho para conocerla...	00:12:09;
+
+[PlayVoice]=00:04:18	Voice02/02-2S/02-2S-R05/02-2S-R05-0060	1	xxx	00:12:09;
+
+[WhiteFade]=00:12:09	OUT	00:12:15;
+
+[CreateBG]=00:12:15	BGS	Event02/02-2S/02-2S-R05/02-2S-R05-004	00:17:21;
+
+[WhiteFade]=00:12:15	IN	00:12:21;
+
+[PrintText]=00:13:15	Makoto	Pero Sekai y yo...	00:17:07;
+
+[PlayVoice]=00:13:15	Voice02/02-2S/02-2S-R05/02-2S-R05-0070	1	xxx	00:17:07;
+
+[CreateBG]=00:17:21	BGS	Event02/02-2S/02-2S-R05/02-2S-R05-005	00:21:01;
+
+[BlackFade]=00:20:01	OUT	00:21:01;
+
+ ;
+
+[Next]=00:21:01;
+
+
+
+

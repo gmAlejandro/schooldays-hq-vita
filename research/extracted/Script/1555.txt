@@ -1,0 +1,405 @@
+﻿[SkipFRAME]=05:40:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	04:45:16;
+
+[PlayMovie]=00:00:00	Movie05/05-KC/05-KC-H00/05-KC-H00-001	0	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-002A	00:06:16;
+
+[PrintText]=00:03:00	Sekai	Haah...	00:05:08;
+
+[PlayVoice]=00:03:00	Voice05/05-KC/05-KC-H00/05-KC-H00-0050	0	sek	00:05:08;
+
+[PrintText]=00:05:08	Kotonoha	Saionji-san.	00:06:16;
+
+[PlayVoice]=00:05:08	Voice05/05-KC/05-KC-H00/05-KC-H00-0060	0	kot	00:06:16;
+
+[PrintText]=00:06:15	Sekai	Ah... Katsura-san.	00:08:18;
+
+[PlayVoice]=00:06:15	Voice05/05-KC/05-KC-H00/05-KC-H00-0070	0	sek	00:08:18;
+
+[CreateBG]=00:06:16	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-003	00:26:17;
+
+[PrintText]=00:08:18	Kotonoha	Está nevando.	00:11:12;
+
+[PlayVoice]=00:08:18	Voice05/05-KC/05-KC-H00/05-KC-H00-0080	0	kot	00:11:12;
+
+[PrintText]=00:11:12	Sekai	Sí, hace frío hoy.	00:13:23;
+
+[PlayVoice]=00:11:12	Voice05/05-KC/05-KC-H00/05-KC-H00-0090	0	sek	00:13:23;
+
+[PrintText]=00:14:00	Kotonoha	¿Tomamos un baño primero?^	00:17:07;
+
+[PlayVoice]=00:14:00	Voice05/05-KC/05-KC-H00/05-KC-H00-0100	0	kot	00:17:07;
+
+[PrintText]=00:17:07	Sekai	Seguro. Makoto tiene un baño muy grande ¿No es así? Se siente bien el estirar las piernas y disfrutar de ello...	00:25:07;
+
+[PlayVoice]=00:17:07	Voice05/05-KC/05-KC-H00/05-KC-H00-0110	0	sek	00:25:07;
+
+[PrintText]=00:25:06	Kotonoha	Sí, es verdad.	00:26:16;
+
+[PlayVoice]=00:25:06	Voice05/05-KC/05-KC-H00/05-KC-H00-0120	0	kot	00:26:16;
+
+[PrintText]=00:26:16	Sekai	Hey... ¿Quieres entrar conmigo?^	00:29:19;
+
+[PlayVoice]=00:26:16	Voice05/05-KC/05-KC-H00/05-KC-H00-0130	0	sek	00:29:19;
+
+[CreateBG]=00:26:17	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-004	00:29:20;
+
+[PrintText]=00:29:19	Kotonoha	Ufufu... claro. De hecho ¿Por qué no le preguntamos a Makoto-kun si se quiere unir?^	00:37:06;
+
+[PlayVoice]=00:29:19	Voice05/05-KC/05-KC-H00/05-KC-H00-0140	0	kot	00:37:06;
+
+[CreateBG]=00:29:20	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-005B	00:37:06;
+
+[CreateBG]=00:37:06	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-006	00:38:12;
+
+[PrintText]=00:37:06	Sekai	¡Buena idea!	00:38:12;
+
+[PlayVoice]=00:37:06	Voice05/05-KC/05-KC-H00/05-KC-H00-0150	0	sek	00:38:12;
+
+[CreateBG]=00:38:12	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-007A	01:02:05;
+
+[PrintText]=00:38:12	Kotonoha	Ah... ¿Has traído un pastel hoy?^	00:42:13;
+
+[PlayVoice]=00:38:12	Voice05/05-KC/05-KC-H00/05-KC-H00-0160	0	kot	00:42:13;
+
+[PrintText]=00:42:13	Sekai	¿Eh? Oh, sí. Es un pastel de limón. La familia de Hikari tiene una tienda de dulces, y este es uno de los productos más populares.	00:52:10;
+
+[PlayVoice]=00:42:13	Voice05/05-KC/05-KC-H00/05-KC-H00-0170	0	sek	00:54:08;
+
+[PrintText]=00:52:10	Sekai	Puedes degustar la calidad.	00:54:08;
+
+[PrintText]=00:54:06	Kotonoha	¿En serio? Yo también tenía la necesidad de traer algo ácido, y así que pensé en traer un pastel de limón...	01:02:03;
+
+[PlayVoice]=00:54:06	Voice05/05-KC/05-KC-H00/05-KC-H00-0180	0	kot	01:02:03;
+
+[CreateBG]=01:02:05	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-007B	01:07:08;
+
+[PrintText]=01:02:05	Sekai	¿Tú también? Se me han antojado cosas ácidas últimamente.	01:07:07;
+
+[PlayVoice]=01:02:05	Voice05/05-KC/05-KC-H00/05-KC-H00-0190	0	sek	01:07:07;
+
+[PrintText]=01:07:07	Kotonoha	Ya somos dos.	01:08:15;
+
+[PlayVoice]=01:07:07	Voice05/05-KC/05-KC-H00/05-KC-H00-0200	0	kot	01:08:15;
+
+[CreateBG]=01:07:08	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-007C	01:08:16;
+
+[PrintText]=01:08:15	Sekai	Uh-huh. ¿Me pregunto por qué...? ...Quiero decir, siempre siento que debo comer algo dulce después del sexo.	01:15:08;
+
+[PlayVoice]=01:08:15	Voice05/05-KC/05-KC-H00/05-KC-H00-0210	0	sek	01:15:08;
+
+[CreateBG]=01:08:16	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-007A	01:30:12;
+
+[PrintText]=01:15:08	Kotonoha	¿Tal vez por el ejercicio?^	01:17:12;
+
+[PlayVoice]=01:15:08	Voice05/05-KC/05-KC-H00/05-KC-H00-0220	0	kot	01:17:12;
+
+[PrintText]=01:17:13	Sekai	Ahaha, tal vez. Hacemos mucho ejercicio entonces.	01:22:06;
+
+[PlayVoice]=01:17:13	Voice05/05-KC/05-KC-H00/05-KC-H00-0230	0	sek	01:22:06;
+
+[PrintText]=01:22:05	Kotonoha	Ambas quedamos cansadas, así que imagina cuanto ejercicio hace Makoto-kun.	01:29:10;
+
+[PlayVoice]=01:22:05	Voice05/05-KC/05-KC-H00/05-KC-H00-0240	0	kot	01:29:10;
+
+[PrintText]=01:29:10	Sekai	Es verdad.	01:30:12;
+
+[PlayVoice]=01:29:10	Voice05/05-KC/05-KC-H00/05-KC-H00-0250	0	sek	01:30:12;
+
+[CreateBG]=01:30:12	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-007D	01:32:16;
+
+[PlayVoice]=01:30:12	Voice05/05-KC/05-KC-H00/05-KC-H00-0260			01:32:01;
+
+[PlayVoice]=01:30:12	Voice05/05-KC/05-KC-H00/05-KC-H00-0270			01:32:16;
+
+[CreateBG]=01:32:16	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-008	01:54:23;
+
+[PrintText]=01:32:16	Kotonoha	Ahora que lo pienso, es Navidad ¿No?^	01:36:05;
+
+[PlayVoice]=01:32:16	Voice05/05-KC/05-KC-H00/05-KC-H00-0290	0	kot	01:36:05;
+
+[PrintText]=01:36:04	Sekai	Sí.	01:37:09;
+
+[PlayVoice]=01:36:04	Voice05/05-KC/05-KC-H00/05-KC-H00-0300	0	sek	01:37:09;
+
+[PrintText]=01:37:09	Kotonoha	¿Qué haremos por Navidad?^	01:39:22;
+
+[PlayVoice]=01:37:09	Voice05/05-KC/05-KC-H00/05-KC-H00-0310	0	kot	01:39:22;
+
+[PrintText]=01:39:22	Sekai	Hmm... hacer un pastel, celebrar entre los tres, tener sexo... a eso suena hoy ¿No lo crees?^	01:49:17;
+
+[PlayVoice]=01:39:22	Voice05/05-KC/05-KC-H00/05-KC-H00-0320	0	sek	01:49:17;
+
+[PrintText]=01:49:18	Kotonoha	Bueno, escucha... tengo una buena idea.	01:54:23;
+
+[PlayVoice]=01:49:18	Voice05/05-KC/05-KC-H00/05-KC-H00-0330	0	kot	01:54:23;
+
+[CreateBG]=01:54:23	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-009	01:56:05;
+
+[PrintText]=01:54:23	Sekai	¿Qué idea?^	01:56:05;
+
+[PlayVoice]=01:54:23	Voice05/05-KC/05-KC-H00/05-KC-H00-0340	0	sek	01:56:05;
+
+[CreateBG]=01:56:05	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-010	02:02:09;
+
+[PrintText]=01:56:05	Kotonoha	Usando las conexiones de mi padre, puedo conseguir fácilmente una reservación en el hotel de Sakakino Hills.	02:02:09;
+
+[PlayVoice]=01:56:05	Voice05/05-KC/05-KC-H00/05-KC-H00-0350	0	kot	02:02:09;
+
+[PrintText]=02:02:08	Sekai	¿En serio?^	02:03:13;
+
+[PlayVoice]=02:02:08	Voice05/05-KC/05-KC-H00/05-KC-H00-0360	0	sek	02:03:13;
+
+[CreateBG]=02:02:09	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-008	02:31:11;
+
+[PrintText]=02:03:13	Kotonoha	¿Así que por qué no pasamos juntos la Navidad en el hotel?^	02:08:18;
+
+[PlayVoice]=02:03:13	Voice05/05-KC/05-KC-H00/05-KC-H00-0370	0	kot	02:08:18;
+
+[PrintText]=02:08:18	Sekai	¿Ehh?! ¿Los tres?^	02:11:07;
+
+[PlayVoice]=02:08:18	Voice05/05-KC/05-KC-H00/05-KC-H00-0380	0	sek	02:11:07;
+
+[PrintText]=02:11:07	Kotonoha	Podríamos relajarnos y divertirnos en esa gran suite real.	02:16:07;
+
+[PlayVoice]=02:11:07	Voice05/05-KC/05-KC-H00/05-KC-H00-0390	0	kot	02:16:07;
+
+[PrintText]=02:16:06	Sekai	¿Tienen algo así...?^	02:18:13;
+
+[PlayVoice]=02:16:06	Voice05/05-KC/05-KC-H00/05-KC-H00-0400	0	sek	02:18:13;
+
+[PrintText]=02:18:13	Kotonoha	¿Qué te parece?^	02:19:15;
+
+[PlayVoice]=02:18:13	Voice05/05-KC/05-KC-H00/05-KC-H00-0410	0	kot	02:19:15;
+
+[PrintText]=02:19:15	Sekai	Suena genial para mí...	02:21:18;
+
+[PlayVoice]=02:19:15	Voice05/05-KC/05-KC-H00/05-KC-H00-0420	0	sek	02:21:18;
+
+[PrintText]=02:21:18	Kotonoha	Entonces está decidido.	02:23:13;
+
+[PlayVoice]=02:21:18	Voice05/05-KC/05-KC-H00/05-KC-H00-0430	0	kot	02:23:13;
+
+[PrintText]=02:23:13	Sekai	¿Eh? ¿No deberíamos preguntarle a Makoto?^	02:27:09;
+
+[PlayVoice]=02:23:13	Voice05/05-KC/05-KC-H00/05-KC-H00-0440	0	sek	02:27:09;
+
+[PrintText]=02:27:09	Kotonoha	No hay manera de que no acepte.	02:30:08;
+
+[PlayVoice]=02:27:09	Voice05/05-KC/05-KC-H00/05-KC-H00-0450	0	kot	02:30:08;
+
+[PrintText]=02:30:09	Sekai	¿Tú crees?^	02:31:10;
+
+[PlayVoice]=02:30:09	Voice05/05-KC/05-KC-H00/05-KC-H00-0460	0	sek	02:31:10;
+
+[PrintText]=02:31:10	Kotonoha	Bueno, dos lindas chicas lo están invitando a tener sexo en un gran hotel.	02:38:04;
+
+[PlayVoice]=02:31:10	Voice05/05-KC/05-KC-H00/05-KC-H00-0470	0	kot	02:38:04;
+
+[CreateBG]=02:31:11	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-012	02:38:05;
+
+[CreateBG]=02:38:05	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-013	02:40:10;
+
+[PrintText]=02:38:05	Sekai	Ahaha, es verdad.	02:40:09;
+
+[PlayVoice]=02:38:05	Voice05/05-KC/05-KC-H00/05-KC-H00-0480	0	sek	02:40:09;
+
+[PrintText]=02:40:09	Kotonoha	Sí, no hay manera de que pueda rechazarlo.	02:43:01;
+
+[PlayVoice]=02:40:09	Voice05/05-KC/05-KC-H00/05-KC-H00-0490	0	kot	02:43:01;
+
+[CreateBG]=02:40:10	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-014	02:43:02;
+
+[PrintText]=02:43:01	Sekai	Un hotel, huh... No tengo ropa nueva... y he estado aquí en vez de estar trabajando, así que ando corta de dinero.	02:54:08;
+
+[PlayVoice]=02:43:01	Voice05/05-KC/05-KC-H00/05-KC-H00-0500	0	sek	02:54:08;
+
+[CreateBG]=02:43:02	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-015	02:54:08;
+
+[CreateBG]=02:54:08	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-016	02:56:12;
+
+[PrintText]=02:54:08	Kotonoha	¿Te puedo prestar ropa?^	02:56:12;
+
+[PlayVoice]=02:54:08	Voice05/05-KC/05-KC-H00/05-KC-H00-0510	0	kot	02:56:12;
+
+[CreateBG]=02:56:12	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-017	03:01:16;
+
+[PrintText]=02:56:12	Sekai	No, gracias. Me deprimiré al ver lo flojo que estará alrededor de mi pecho.	03:01:15;
+
+[PlayVoice]=02:56:12	Voice05/05-KC/05-KC-H00/05-KC-H00-0520	0	sek	03:01:15;
+
+[PrintText]=03:01:15	Kotonoha	Lo siento...	03:03:09;
+
+[PlayVoice]=03:01:15	Voice05/05-KC/05-KC-H00/05-KC-H00-0530	0	kot	03:03:09;
+
+[CreateBG]=03:01:16	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-018	03:03:10;
+
+[PrintText]=03:03:09	Sekai	Ahaha... tal vez deba pedirle a Makoto que me compre algo de nuevo.	03:08:11;
+
+[PlayVoice]=03:03:09	Voice05/05-KC/05-KC-H00/05-KC-H00-0540	0	sek	03:08:11;
+
+[CreateBG]=03:03:10	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-019	03:08:12;
+
+[PrintText]=03:08:11	Kotonoha	¿Ropa?^	03:09:18;
+
+[PlayVoice]=03:08:11	Voice05/05-KC/05-KC-H00/05-KC-H00-0550	0	kot	03:09:18;
+
+[CreateBG]=03:08:12	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-020	03:28:18;
+
+[PrintText]=03:09:17	Sekai	¡Sip! Acabo de recordar cuando me dijo '¿Qué te gustaría para Navidad?'.	03:14:11;
+
+[PlayVoice]=03:09:17	Voice05/05-KC/05-KC-H00/05-KC-H00-0560	0	sek	03:14:11;
+
+[PrintText]=03:14:11	Kotonoha	Ah... es cierto.	03:17:01;
+
+[PlayVoice]=03:14:11	Voice05/05-KC/05-KC-H00/05-KC-H00-0570	0	kot	03:17:01;
+
+[PrintText]=03:17:01	Sekai	¿Aún no decides que es lo que quieres?^	03:21:08;
+
+[PlayVoice]=03:17:01	Voice05/05-KC/05-KC-H00/05-KC-H00-0580	0	sek	03:21:08;
+
+[PrintText]=03:21:07	Kotonoha	Yo... ya sé que darle, pero aún no sé lo que quiero.	03:28:17;
+
+[PlayVoice]=03:21:07	Voice05/05-KC/05-KC-H00/05-KC-H00-0590	0	kot	03:28:17;
+
+[CreateBG]=03:28:18	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-021	03:54:12;
+
+[PrintText]=03:28:18	Sekai	Ya veo.	03:30:02;
+
+[PlayVoice]=03:28:18	Voice05/05-KC/05-KC-H00/05-KC-H00-0600	0	sek	03:30:02;
+
+[PrintText]=03:30:02	Kotonoha	Solo estoy satisfecha recibiendo su amor.	03:35:00;
+
+[PlayVoice]=03:30:02	Voice05/05-KC/05-KC-H00/05-KC-H00-0610	0	kot	03:35:00;
+
+[PrintText]=03:34:23	Sekai	¡Ahh! Cuando lo pones así, se me hace difícil pedir algo.	03:40:06;
+
+[PlayVoice]=03:34:23	Voice05/05-KC/05-KC-H00/05-KC-H00-0620	0	sek	03:40:06;
+
+[PrintText]=03:40:06	Kotonoha	Ah, es verdad... bueno, pensaré en algo que pueda pedir entonces.	03:46:01;
+
+[PlayVoice]=03:40:06	Voice05/05-KC/05-KC-H00/05-KC-H00-0630	0	kot	03:46:01;
+
+[PrintText]=03:46:01	Sekai	Y entonces... ¿Qué planeas darle? Algo caro otra vez ¿No?^	03:54:12;
+
+[PlayVoice]=03:46:01	Voice05/05-KC/05-KC-H00/05-KC-H00-0640	0	sek	03:54:12;
+
+[CreateBG]=03:54:12	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-022	03:58:11;
+
+[PrintText]=03:54:12	Kotonoha	No, es algo que no se puede comprar con dinero.	03:58:11;
+
+[PlayVoice]=03:54:12	Voice05/05-KC/05-KC-H00/05-KC-H00-0650	0	kot	03:58:11;
+
+[CreateBG]=03:58:11	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-023	04:01:03;
+
+[PrintText]=03:58:11	Sekai	Heh... yo también.	04:01:03;
+
+[PlayVoice]=03:58:11	Voice05/05-KC/05-KC-H00/05-KC-H00-0660	0	sek	04:01:03;
+
+[CreateBG]=04:01:03	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-024	04:16:00;
+
+[PrintText]=04:01:03	Kotonoha	Creo que es lo mismo entonces.	04:04:17;
+
+[PlayVoice]=04:01:03	Voice05/05-KC/05-KC-H00/05-KC-H00-0670	0	kot	04:04:17;
+
+[PrintText]=04:04:17	Sekai	¿Tú lo crees?^	04:06:03;
+
+[PlayVoice]=04:04:17	Voice05/05-KC/05-KC-H00/05-KC-H00-0680	0	sek	04:06:03;
+
+[PrintText]=04:06:03	Kotonoha	Es algo... que Makoto-kun y yo hicimos juntos.	04:11:09;
+
+[PlayVoice]=04:06:03	Voice05/05-KC/05-KC-H00/05-KC-H00-0690	0	kot	04:11:09;
+
+[PrintText]=04:11:09	Sekai	Uwah... creo que será lo mismo después de todo.	04:14:16;
+
+[PlayVoice]=04:11:09	Voice05/05-KC/05-KC-H00/05-KC-H00-0700	0	sek	04:14:16;
+
+[PrintText]=04:14:16	Kotonoha	¿En serio?^	04:16:00;
+
+[PlayVoice]=04:14:16	Voice05/05-KC/05-KC-H00/05-KC-H00-0710	0	kot	04:16:00;
+
+[PrintText]=04:15:23	Sekai	Así que...estás embarazada.	04:19:09;
+
+[PlayVoice]=04:15:23	Voice05/05-KC/05-KC-H00/05-KC-H00-0720	0	sek	04:19:09;
+
+[CreateBG]=04:16:00	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-021	04:24:19;
+
+[PrintText]=04:19:09	Kotonoha	Y tú también lo estás.	04:21:04;
+
+[PlayVoice]=04:19:09	Voice05/05-KC/05-KC-H00/05-KC-H00-0730	0	kot	04:21:04;
+
+[PrintText]=04:21:04	Sekai	Ahaha... ¿Qué deberíamos hacer?^	04:24:18;
+
+[PlayVoice]=04:21:04	Voice05/05-KC/05-KC-H00/05-KC-H00-0740	0	sek	04:24:18;
+
+[CreateBG]=04:24:19	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-022	04:26:22;
+
+[PrintText]=04:24:19	Kotonoha	Voy a tener al bebé ¿Sabes?^	04:26:21;
+
+[PlayVoice]=04:24:19	Voice05/05-KC/05-KC-H00/05-KC-H00-0750	0	kot	04:26:21;
+
+[PrintText]=04:26:21	Sekai	Yo también.	04:28:06;
+
+[PlayVoice]=04:26:21	Voice05/05-KC/05-KC-H00/05-KC-H00-0760	0	sek	04:28:06;
+
+[CreateBG]=04:26:22	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-023	04:28:06;
+
+[CreateBG]=04:28:06	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-024	04:32:13;
+
+[PrintText]=04:28:06	Kotonoha	Entonces es lo mismo para las dos.	04:29:22;
+
+[PlayVoice]=04:28:06	Voice05/05-KC/05-KC-H00/05-KC-H00-0770	0	kot	04:29:22;
+
+[PrintText]=04:29:22	Sekai	Sí, lo mismo.	04:31:02;
+
+[PlayVoice]=04:29:22	Voice05/05-KC/05-KC-H00/05-KC-H00-0780	0	sek	04:31:02;
+
+[PrintText]=04:31:02	Kotonoha	Ufufu.	04:32:11;
+
+[PlayVoice]=04:31:02	Voice05/05-KC/05-KC-H00/05-KC-H00-0790	0	kot	04:32:11;
+
+[PrintText]=04:31:03	Sekai	Ahaha.	04:32:13;
+
+[PlayVoice]=04:31:03	Voice05/05-KC/05-KC-H00/05-KC-H00-0800	0	sek	04:32:13;
+
+[CreateBG]=04:32:13	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-027	04:35:15;
+
+[PrintText]=04:32:13	Kotonoha	Me pregunto que dirá Makoto-kun.	04:35:15;
+
+[PlayVoice]=04:32:13	Voice05/05-KC/05-KC-H00/05-KC-H00-0810	0	kot	04:35:15;
+
+[CreateBG]=04:35:15	BGS	Event05/05-KC/05-KC-H00/05-KC-H00-028	04:42:19;
+
+[PrintText]=04:35:15	Sekai	Se sorprenderá ¿No crees?^	04:37:07;
+
+[PlayVoice]=04:35:15	Voice05/05-KC/05-KC-H00/05-KC-H00-0820	0	sek	04:37:07;
+
+[PrintText]=04:37:07	Kotonoha	Parece que... la víspera de Navidad será una noche muy especial.	04:42:19;
+
+[PlayVoice]=04:37:07	Voice05/05-KC/05-KC-H00/05-KC-H00-0830	0	kot	04:42:19;
+
+[PlayMovie]=04:42:19	Movie05/05-KC/05-KC-H00/05-KC-H00-027	0	04:57:03;
+
+[PrintText]=04:42:19	Sekai	Lo será.	04:46:20;
+
+[PlayVoice]=04:42:19	Voice05/05-KC/05-KC-H00/05-KC-H00-0840	0	sek	04:46:20;
+
+[EndBGM]=04:45:14	BGM/Vocal/SDV09	07:11:01;
+
+[PlayVoice]=04:46:20	Voice05/05-KC/05-KC-H00/05-KC-H00-0860			04:48:08;
+
+[BlackFade]=04:56:03	OUT	04:57:03;
+
+[CreateBG]=04:57:03	BGS	Ini/EndRoll/05-11	05:00:03;
+
+[EndRoll]=05:00:03	Ini/EndRoll/GOOD	05:40:00;
+
+ ;
+
+[Next]=05:40:00;
+
+
+
+

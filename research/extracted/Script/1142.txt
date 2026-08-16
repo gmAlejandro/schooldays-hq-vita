@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:23:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:23:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-M01/04-SA-M01-001	00:03:03;
+
+[PrintText]=00:00:04	Taisuke	Bueno, separémonos aquí.	00:01:19;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-M01/04-SA-M01-0050	1	tai	00:01:19;
+
+[PrintText]=00:01:19	Makoto	Perdón por traerla sin avisar.	00:04:08;
+
+[PlayVoice]=00:01:19	Voice04/04-SA/04-SA-M01/04-SA-M01-0060	1	mak	00:04:08;
+
+[CreateBG]=00:03:03	BGS	Event04/04-SA/04-SA-M01/04-SA-M01-002	00:04:08;
+
+[CreateBG]=00:04:08	BGS	Event04/04-SA/04-SA-M01/04-SA-M01-003	00:08:12;
+
+[PrintText]=00:04:14	Kotonoha	No, en absoluto, nos divertimos jugando con Itaru-chan.	00:08:13;
+
+[PlayVoice]=00:04:14	Voice04/04-SA/04-SA-M01/04-SA-M01-0070	0	kot	00:08:13;
+
+[CreateBG]=00:08:12	BGS	Event04/04-SA/04-SA-M01/04-SA-M01-004	00:11:13;
+
+[PrintText]=00:08:18	Sekai	Sí, tráela de nuevo algún día.	00:11:12;
+
+[PlayVoice]=00:08:18	Voice04/04-SA/04-SA-M01/04-SA-M01-0080	0	sek	00:11:12;
+
+[CreateBG]=00:11:13	BGS	Event04/04-SA/04-SA-M01/04-SA-M01-005	00:16:14;
+
+[PrintText]=00:11:18	Makoto	Gracias... escuchar eso me hace sentir un poco mejor.	00:16:08;
+
+[PlayVoice]=00:11:18	Voice04/04-SA/04-SA-M01/04-SA-M01-0090	1	mak	00:16:08;
+
+[CreateBG]=00:16:14	BGS	Event04/04-SA/04-SA-M01/04-SA-M01-006	00:23:08;
+
+[PrintText]=00:16:19	Taisuke	Bueno, tomaremos el tren.	00:18:20;
+
+[PlayVoice]=00:16:19	Voice04/04-SA/04-SA-M01/04-SA-M01-0100	1	tai	00:18:20;
+
+[PrintText]=00:19:04	Sekai	Uh-huh. Iremos a casa en bus.	00:21:16;
+
+[PlayVoice]=00:19:04	Voice04/04-SA/04-SA-M01/04-SA-M01-0110	0	sek	00:21:16;
+
+[PrintText]=00:21:15	Makoto	Nos vemos.	00:22:07;
+
+[PlayVoice]=00:21:15	Voice04/04-SA/04-SA-M01/04-SA-M01-0120	1	mak	00:22:07;
+
+[PrintText]=00:22:09	Sekai	Nos vemos.	00:23:08;
+
+[PlayVoice]=00:22:09	Voice04/04-SA/04-SA-M01/04-SA-M01-0130	0	sek	00:23:08;
+
+ ;
+
+[Next]=00:23:08;
+
+

@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:14:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:14:02;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-C01/01-1K-C01-001	00:05:03;
+
+[PrintText]=00:00:00	Makoto	Supongo que Silmaril-y algo puede ser...	00:02:11;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C01/01-1K-C01-0030	1	mak	00:02:11;
+
+[PrintText]=00:02:19	Makoto	Una película de fantasía se ve como mejor opción.	00:04:23;
+
+[PlayVoice]=00:02:19	Voice01/01-1K/01-1K-C01/01-1K-C01-0040	1	mak	00:04:23;
+
+[CreateBG]=00:05:03	BGS	Event01/01-1K/01-1K-C01/01-1K-C01-002	00:14:02;
+
+[PrintText]=00:05:03	Makoto	Kotonoha parece leer bastante, y creo que esa película puede ser buena para ella...	00:10:01;
+
+[PlayVoice]=00:05:03	Voice01/01-1K/01-1K-C01/01-1K-C01-0050	1	mak	00:10:01;
+
+[PrintText]=00:10:17	Makoto	Sip, veremos Silmaril.	00:12:23;
+
+[PlayVoice]=00:10:17	Voice01/01-1K/01-1K-C01/01-1K-C01-0060	1	mak	00:12:23;
+
+[BlackFade]=00:13:02	OUT	00:14:02;
+
+ ;
+
+[Next]=00:14:02;
+
+
+
+

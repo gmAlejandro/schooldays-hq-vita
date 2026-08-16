@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:53:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:53:17;
+
+[PlaySe]=00:00:00	1	Se00/00-00/00-00-J00/SE00-00-J00-001	00:53:17;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-J00/00-00-J00-001	00:01:13;
+
+[PrintText]=00:00:06	Sekai	¡Lo hiciste!	00:01:12;
+
+[PlayVoice]=00:00:06	Voice00/00-00/00-00-J00/00-00-J00-0030	0	sek	00:01:12;
+
+[CreateBG]=00:01:13	BGS	Event00/00-00/00-00-J00/00-00-J00-002	00:04:06;
+
+[PrintText]=00:01:14	Makoto	Sí, aunque no será por mucho tiempo, tiene reunión de consejo estudiantil.	00:06:06;
+
+[PlayVoice]=00:01:14	Voice00/00-00/00-00-J00/00-00-J00-0040	1	mak	00:06:06;
+
+[CreateBG]=00:04:06	BGS	Event00/00-00/00-00-J00/00-00-J00-003	00:22:01;
+
+[PrintText]=00:06:05	Sekai	¿Y cuál es el problema? Igual no duraran mucho en la primera cita.	00:10:23;
+
+[PlayVoice]=00:06:05	Voice00/00-00/00-00-J00/00-00-J00-0050	0	sek	00:10:23;
+
+[PrintText]=00:11:05	Makoto	¡No digas eso!, bueno... tal vez tengas razón.	00:14:23;
+
+[PlayVoice]=00:11:05	Voice00/00-00/00-00-J00/00-00-J00-0060	1	mak	00:14:23;
+
+[PrintText]=00:15:04	Sekai	¿Vas a reunirte con ella después de clase?^	00:17:08;
+
+[PlayVoice]=00:15:04	Voice00/00-00/00-00-J00/00-00-J00-0070	0	sek	00:17:08;
+
+[PrintText]=00:17:09	Makoto	No, nos reuniremos en la plataforma.	00:19:02;
+
+[PlayVoice]=00:17:09	Voice00/00-00/00-00-J00/00-00-J00-0080	1	mak	00:19:02;
+
+[PrintText]=00:19:02	Sekai	¡Felicidades, eso suena como una cita!	00:22:04;
+
+[PlayVoice]=00:19:02	Voice00/00-00/00-00-J00/00-00-J00-0090	0	sek	00:22:04;
+
+[CreateBG]=00:22:01	BGS	Event00/00-00/00-00-J00/00-00-J00-004	00:36:12;
+
+[PrintText]=00:22:05	Makoto	Sí, no es problema... o es lo que me gustaría decir,	00:28:05;
+
+[PrintText]=00:28:05	Makoto	pero luego le enviaste un mensaje diciendo que estarías ocupada después de clase ¿no?^	00:32:21;
+
+[PrintText]=00:32:21	Makoto	Fue de gran ayuda.	00:35:05;
+
+[PlayVoice]=00:22:05	Voice00/00-00/00-00-J00/00-00-J00-0100	1	mak	00:35:05;
+
+[PrintText]=00:35:08	Sekai	Por supuesto.	00:36:10;
+
+[PlayVoice]=00:35:08	Voice00/00-00/00-00-J00/00-00-J00-0110	0	sek	00:36:10;
+
+[CreateBG]=00:36:12	BGS	Event00/00-00/00-00-J00/00-00-J00-005	00:39:23;
+
+[PrintText]=00:36:19	Makoto	Que haría sin ti, Sekai.	00:40:00;
+
+[PlayVoice]=00:36:19	Voice00/00-00/00-00-J00/00-00-J00-0120	1	mak	00:40:00;
+
+[PrintText]=00:39:22	Sekai	hahaha... con una actitud como esa, estoy casi esperando a que me invites a tu cita.	00:45:16;
+
+[PlayVoice]=00:39:22	Voice00/00-00/00-00-J00/00-00-J00-0130	0	sek	00:45:16;
+
+[CreateBG]=00:39:23	BGS	Event00/00-00/00-00-J00/00-00-J00-006	00:53:17;
+
+[PrintText]=00:45:14	Makoto	¡¿Eh?! ¿Harías eso por mí?^	00:47:22;
+
+[PlayVoice]=00:45:14	Voice00/00-00/00-00-J00/00-00-J00-0140	1	mak	00:47:22;
+
+[PrintText]=00:47:23	Sekai	¡Idiota!	00:48:17;
+
+[PlayVoice]=00:47:23	Voice00/00-00/00-00-J00/00-00-J00-0150	0	sek	00:48:17;
+
+[PrintText]=00:48:19	Makoto	Estaba bromeando, estaré bien.	00:52:00;
+
+[PlayVoice]=00:48:19	Voice00/00-00/00-00-J00/00-00-J00-0160	1	mak	00:52:00;
+
+[PrintText]=00:52:01	Sekai	¡Cielos!	00:53:00;
+
+[PlayVoice]=00:52:01	Voice00/00-00/00-00-J00/00-00-J00-0170	0	sek	00:53:00;
+
+[BlackFade]=00:52:17	OUT	00:53:17;
+
+ ;
+
+[Next]=00:53:17;
+
+
+
+

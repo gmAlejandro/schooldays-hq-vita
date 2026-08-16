@@ -1,0 +1,87 @@
+﻿[SkipFRAME]=00:41:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:47:18;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-D00/SE01-00-D00-001	00:47:18;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-D00/01-00-D00-001	00:09:06;
+
+[CreateBG]=00:09:06	BGS	Event01/01-00/01-00-D00/01-00-D00-002	00:18:01;
+
+[PrintText]=00:09:12	Makoto	Entonces... Sekai.	00:11:19;
+
+[PlayVoice]=00:09:12	Voice01/01-00/01-00-D00/01-00-D00-0040	1	mak	00:11:19;
+
+[PrintText]=00:11:16	Sekai	Mhm ¿Qué pasó?^	00:13:02;
+
+[PlayVoice]=00:11:16	Voice01/01-00/01-00-D00/01-00-D00-0050	0	sek	00:13:02;
+
+[PrintText]=00:13:03	Makoto	Acerca del almuerzo... Katsura y yo vamos a ir a la cafetería a comprar algo ¿Vienes?.	00:18:04;
+
+[PlayVoice]=00:13:03	Voice01/01-00/01-00-D00/01-00-D00-0060	1	mak	00:18:04;
+
+[CreateBG]=00:18:01	BGS	Event01/01-00/01-00-D00/01-00-D00-003	00:20:13;
+
+[PrintText]=00:18:01	Sekai	¿De qué hablas? no voy a ir.	00:20:16;
+
+[PlayVoice]=00:18:01	Voice01/01-00/01-00-D00/01-00-D00-0070	0	sek	00:20:16;
+
+[CreateBG]=00:20:13	BGS	Event01/01-00/01-00-D00/01-00-D00-004	00:21:12;
+
+[PrintText]=00:20:14	Makoto	Sekai.	00:21:10;
+
+[PlayVoice]=00:20:14	Voice01/01-00/01-00-D00/01-00-D00-0080	1	mak	00:21:10;
+
+[CreateBG]=00:21:12	BGS	Event01/01-00/01-00-D00/01-00-D00-005	00:26:08;
+
+[PrintText]=00:21:15	Sekai	Escucha,Katsura y tú tienen que comer solos.	00:26:06;
+
+[PlayVoice]=00:21:15	Voice01/01-00/01-00-D00/01-00-D00-0090	0	sek	00:26:06;
+
+[CreateBG]=00:26:08	BGS	Event01/01-00/01-00-D00/01-00-D00-006	00:29:01;
+
+[PrintText]=00:26:11	Makoto	Se sentirá raro que estemos solo los 2.	00:29:07;
+
+[PlayVoice]=00:26:11	Voice01/01-00/01-00-D00/01-00-D00-0100	1	mak	00:29:07;
+
+[CreateBG]=00:29:01	BGS	Event01/01-00/01-00-D00/01-00-D00-007	00:33:01;
+
+[PrintText]=00:29:01	Sekai	No se sentirá raro, por eso ustedes están saliendo.	00:32:23;
+
+[PlayVoice]=00:29:01	Voice01/01-00/01-00-D00/01-00-D00-0110	0	sek	00:32:23;
+
+[CreateBG]=00:33:01	BGS	Event01/01-00/01-00-D00/01-00-D00-008	00:41:18;
+
+[PrintText]=00:33:02	Makoto	¿Sí?^	00:34:06;
+
+[PlayVoice]=00:33:02	Voice01/01-00/01-00-D00/01-00-D00-0120	1	mak	00:34:06;
+
+[PrintText]=00:33:21	Sekai	Claro.	00:35:17;
+
+[PlayVoice]=00:33:21	Voice01/01-00/01-00-D00/01-00-D00-0130	0	sek	00:35:17;
+
+[PrintText]=00:35:23	Makoto	Pero...	00:36:20;
+
+[PlayVoice]=00:35:23	Voice01/01-00/01-00-D00/01-00-D00-0140	1	mak	00:36:20;
+
+[PrintText]=00:36:09	Sekai	¡Deja de decir 'Pero'!, Katsura está esperando por ti ¡Anda anda!	00:41:12;
+
+[PlayVoice]=00:36:09	Voice01/01-00/01-00-D00/01-00-D00-0150	0	sek	00:41:12;
+
+[CreateBG]=00:41:18	BGS	Event01/01-00/01-00-D00/01-00-D00-009	00:47:18;
+
+[SetSELECT]=00:41:18	*Sekai debería venir*	*Comeré solo con Katsura*	00:46:18;
+
+[PrintText]=00:42:01	Makoto	...	00:42:22;
+
+[PlayVoice]=00:42:01	Voice01/01-00/01-00-D00/01-00-D00-0160	1	xxx	00:42:22;
+
+ ;
+
+[Next]=00:47:18;
+
+
+
+

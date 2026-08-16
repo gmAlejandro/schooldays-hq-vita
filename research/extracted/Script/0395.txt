@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:09:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:09:17;
+
+[PlaySe]=00:00:00	1	Se03/03-A0/03-A0-A08/SE03-A0-A08-001	00:09:17;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:03:16;
+
+[PrintText]=00:00:00	Makoto	Debería parar...	00:03:16;
+
+[PlayVoice]=00:00:00	Voice03/03-A0/03-A0-A08/03-A0-A08-0040	1	xxx	00:03:16;
+
+[CreateBG]=00:03:16	BGS	Event02/02-2K/02-2K-J05/02-2K-J05-004	00:08:01;
+
+[PrintText]=00:03:16	Kotonoha	Makoto-kun... para...	00:07:04;
+
+[PlayVoice]=00:03:16	Voice03/03-A0/03-A0-A08/03-A0-A08-0050	0	kot	00:07:04;
+
+[PrintText]=00:07:04	Makoto	Lo siento.	00:08:01;
+
+[PlayVoice]=00:07:04	Voice03/03-A0/03-A0-A08/03-A0-A08-0060	1	mak	00:08:01;
+
+[PrintText]=00:08:00	Kotonoha	Vale...	00:08:12;
+
+[PlayVoice]=00:08:00	Voice03/03-A0/03-A0-A08/03-A0-A08-0080	0	kot	00:08:12;
+
+[PlayMovie]=00:08:01	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:09:17;
+
+[PrintText]=00:08:12	Makoto	...	00:09:08;
+
+[PlayVoice]=00:08:12	Voice03/03-A0/03-A0-A08/03-A0-A08-0090	1	xxx	00:09:08;
+
+ ;
+
+[Next]=00:09:17;
+
+

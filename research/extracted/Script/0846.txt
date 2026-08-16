@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:11:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:17:17;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H03/SE03-SB-H03-001	00:17:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H03/03-SB-H03-001	00:00:14;
+
+[PrintText]=00:00:00	Makoto	...	00:00:13;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-H03/03-SB-H03-0030	1	xxx	00:00:13;
+
+[PrintText]=00:00:13	Kotonoha	¿U-um, Makoto-kun?^	00:03:05;
+
+[PlayVoice]=00:00:13	Voice03/03-SB/03-SB-H03/03-SB-H03-0040	0	kot	00:03:05;
+
+[CreateBG]=00:00:14	BGS	Event03/03-SB/03-SB-H03/03-SB-H03-002	00:07:00;
+
+[PrintText]=00:03:05	Makoto	¿Hmn? ¿Sí.	00:05:07;
+
+[PlayVoice]=00:03:05	Voice03/03-SB/03-SB-H03/03-SB-H03-0050	1	mak	00:05:07;
+
+[PrintText]=00:05:08	Kotonoha	¿Al lugar donde quieres ir...?^	00:06:22;
+
+[PlayVoice]=00:05:08	Voice03/03-SB/03-SB-H03/03-SB-H03-0060	0	kot	00:06:22;
+
+[PrintText]=00:06:22	Makoto	O-oh, cierto.	00:11:16;
+
+[PlayVoice]=00:06:22	Voice03/03-SB/03-SB-H03/03-SB-H03-0070	1	mak	00:11:16;
+
+[CreateBG]=00:07:00	BGS	Event03/03-SB/03-SB-H03/03-SB-H03-003	00:17:17;
+
+[SetSELECT]=00:11:17	'¿A dónde quieres ir?'	null	00:16:17;
+
+ ;
+
+[Next]=00:17:17;
+
+

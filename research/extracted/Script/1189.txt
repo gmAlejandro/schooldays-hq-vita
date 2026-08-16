@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:09:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:09:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	00:09:10;
+
+[PrintText]=00:00:00	Makoto	...	00:01:03;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-C02/04-SB-C02-0030	1	xxx	00:01:03;
+
+[CreateBG]=00:00:01	BGS	Event04/04-SB/04-SB-C02/04-SB-C02-001	00:01:04;
+
+[PlayVoice]=00:01:03	Voice04/04-SB/04-SB-C02/04-SB-C02-0040			00:03:18;
+
+[CreateBG]=00:01:04	BGS	Event04/04-SB/04-SB-C02/04-SB-C02-002	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event04/04-SB/04-SB-C02/04-SB-C02-003	00:04:12;
+
+[PrintText]=00:03:18	Makoto	Ah...	00:04:11;
+
+[PlayVoice]=00:03:18	Voice04/04-SB/04-SB-C02/04-SB-C02-0050	1	mak	00:04:11;
+
+[CreateBG]=00:04:12	BGS	Event04/04-SB/04-SB-C01/04-SB-C01-006	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event04/04-SB/04-SB-C02/04-SB-C02-008	00:07:13;
+
+[PrintText]=00:06:02	Makoto	...	00:07:08;
+
+[PlayVoice]=00:06:02	Voice04/04-SB/04-SB-C02/04-SB-C02-0070	1	xxx	00:07:08;
+
+[CreateBG]=00:07:13	BGS	Event04/04-SB/04-SB-C02/04-SB-C02-009	00:09:10;
+
+[PrintText]=00:07:16	Kotonoha	Ah...	00:08:06;
+
+[PlayVoice]=00:07:16	Voice04/04-SB/04-SB-C02/04-SB-C02-0080	0	kot	00:08:06;
+
+[PrintText]=00:08:10	Makoto	...	00:09:06;
+
+[PlayVoice]=00:08:10	Voice04/04-SB/04-SB-C02/04-SB-C02-0100	1	xxx	00:09:06;
+
+ ;
+
+[Next]=00:09:10;
+
+

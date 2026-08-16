@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:37:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:37:23;
+
+[PlaySe]=00:00:00	1	Voice04/04-KE/04-KE-B07/04-KE-B07-0040	00:37:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-B07/04-KE-B07-001	00:03:00;
+
+[MoveSom]=00:00:00	2	00:03:00;
+
+[PrintText]=00:02:19	Makoto	...	00:03:13;
+
+[PlayVoice]=00:02:19	Voice04/04-KE/04-KE-B07/04-KE-B07-0110	1	xxx	00:03:13;
+
+[PlayMovie]=00:03:00	Movie04/04-KE/04-KE-B07/04-KE-B07-002	0	00:08:00;
+
+[MoveSom]=00:03:00	3	00:08:00;
+
+[PlayMovie]=00:08:00	Movie04/04-KE/04-KE-B07/04-KE-B07-003	0	00:12:12;
+
+[MoveSom]=00:11:10	2	00:14:12;
+
+[CreateBG]=00:12:12	BGS	Event04/04-KE/04-KE-B07/04-KE-B07-004	00:14:12;
+
+[PrintText]=00:12:12	Makoto	...	00:15:09;
+
+[PlayVoice]=00:12:12	Voice04/04-KE/04-KE-B07/04-KE-B07-0050	1	xxx	00:15:09;
+
+[PlayMovie]=00:14:12	Movie04/04-KE/04-KE-B07/04-KE-B07-005_006	0	00:23:15;
+
+[MoveSom]=00:14:12	4	00:23:15;
+
+[PrintText]=00:21:13	Makoto	...	00:22:15;
+
+[PlayVoice]=00:21:13	Voice04/04-KE/04-KE-B07/04-KE-B07-0070	1	xxx	00:22:15;
+
+[PlayMovie]=00:23:15	Movie04/04-KE/04-KE-B07/04-KE-B07-007	0	00:31:04;
+
+[MoveSom]=00:23:15	5	00:31:09;
+
+[PrintText]=00:28:16	Makoto	...	00:29:10;
+
+[PlayVoice]=00:28:16	Voice04/04-KE/04-KE-B07/04-KE-B07-0090	1	xxx	00:29:10;
+
+[PlayMovie]=00:31:04	Movie04/04-KE/04-KE-B07/04-KE-B07-008	0	00:34:22;
+
+[MoveSom]=00:31:09	4	00:34:22;
+
+[PlayMovie]=00:34:22	Movie04/04-KE/04-KE-B07/04-KE-B07-009	0	00:37:23;
+
+[MoveSom]=00:34:22	5	00:37:22;
+
+[PrintText]=00:35:00	Makoto	...	00:35:15;
+
+[PlayVoice]=00:35:00	Voice04/04-KE/04-KE-B07/04-KE-B07-0030	1	xxx	00:35:15;
+
+[WhiteFade]=00:35:23	OUT	00:37:23;
+
+ ;
+
+[Next]=00:37:23;
+
+

@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:12:13;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-B04/04-SC-B04-001	00:02:19;
+
+[PrintText]=00:00:00	Makoto	Oh... Es cierto.	00:02:21;
+
+[PlayVoice]=00:00:00	Voice04/04-SC/04-SC-B04/04-SC-B04-0030	1	mak	00:02:21;
+
+[CreateBG]=00:02:19	BGS	Event04/04-SC/04-SC-B04/04-SC-B04-002	00:08:16;
+
+[PrintText]=00:02:22	Makoto	Ya lo recordé...	00:04:06;
+
+[PlayVoice]=00:02:22	Voice04/04-SC/04-SC-B04/04-SC-B04-0040	1	mak	00:04:06;
+
+[PrintText]=00:04:06	Makoto	Kotonoha me va a llevar un almuerzo mañana...	00:08:21;
+
+[PlayVoice]=00:04:06	Voice04/04-SC/04-SC-B04/04-SC-B04-0050	1	mak	00:08:21;
+
+[CreateBG]=00:08:16	BGS	Event04/04-SC/04-SC-B04/04-SC-B04-003	00:12:13;
+
+[PrintText]=00:09:09	Makoto	¿... Qué debería hacer?^	00:11:12;
+
+[PlayVoice]=00:09:09	Voice04/04-SC/04-SC-B04/04-SC-B04-0060	1	mak	00:11:12;
+
+ ;
+
+[Next]=00:12:13;
+
+

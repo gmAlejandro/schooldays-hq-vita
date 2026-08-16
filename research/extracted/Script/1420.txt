@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:09:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:09:23;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-D02/05-KB-D02-001	00:09:23;
+
+[PrintText]=00:00:00	Makoto	Sí... creo.	00:01:23;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-D02/05-KB-D02-0030	1	mak	00:01:23;
+
+[PrintText]=00:01:23	Madre de Makoto	Me la vas a presentar ¿No?^	00:04:09;
+
+[PlayVoice]=00:01:23	Voice05/05-KB/05-KB-D02/05-KB-D02-0040	0	mkm	00:04:09;
+
+[PrintText]=00:04:09	Makoto	Sí, la próxima vez.	00:06:16;
+
+[PlayVoice]=00:04:09	Voice05/05-KB/05-KB-D02/05-KB-D02-0050	1	mak	00:06:16;
+
+[PrintText]=00:06:16	Madre de Makoto	¿Promesa?^	00:07:22;
+
+[PlayVoice]=00:06:16	Voice05/05-KB/05-KB-D02/05-KB-D02-0060	0	mkm	00:07:22;
+
+[PrintText]=00:07:22	Makoto	Sí.	00:09:18;
+
+[PlayVoice]=00:07:22	Voice05/05-KB/05-KB-D02/05-KB-D02-0070	1	mak	00:09:18;
+
+ ;
+
+[Next]=00:09:23;
+
+

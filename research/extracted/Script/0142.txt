@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:08:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:08:13;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-C02/01-1K-C02-001	00:05:05;
+
+[PrintText]=00:00:00	Makoto	"Triangulo de Amor".	00:01:16;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C02/01-1K-C02-0030	1	mak	00:01:16;
+
+[PrintText]=00:02:06	Makoto	Es una cita, después de todo. Deberíamos ver romance.	00:05:00;
+
+[PlayVoice]=00:02:06	Voice01/01-1K/01-1K-C02/01-1K-C02-0040	1	mak	00:05:00;
+
+[CreateBG]=00:05:05	BGS	Event01/01-1K/01-1K-C01/01-1K-C01-002	00:08:13;
+
+[PrintText]=00:05:16	Makoto	Sí... ya está decidido.	00:07:08;
+
+[PlayVoice]=00:05:16	Voice01/01-1K/01-1K-C02/01-1K-C02-0050	1	mak	00:07:08;
+
+[BlackFade]=00:07:13	OUT	00:08:13;
+
+ ;
+
+[Next]=00:08:13;
+
+
+
+

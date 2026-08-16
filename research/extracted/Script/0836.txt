@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:11:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:11:09;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-G03/SE03-SB-G03-001	00:11:09;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G03/03-SB-G03-001	00:08:17;
+
+[PrintText]=00:00:00	Makoto	Es un secreto.	00:01:02;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-G03/03-SB-G03-0030	1	mak	00:01:02;
+
+[PrintText]=00:01:02	Taisuke	¿De qué hablas?^	00:02:18;
+
+[PlayVoice]=00:01:02	Voice03/03-SB/03-SB-G03/03-SB-G03-0040	1	tai	00:02:18;
+
+[PrintText]=00:02:19	Makoto	Fufufu...	00:04:10;
+
+[PlayVoice]=00:02:19	Voice03/03-SB/03-SB-G03/03-SB-G03-0050	1	mak	00:04:10;
+
+[PrintText]=00:04:10	Taisuke	¡Bueno, tú tienes a Saionji, así que mejor ve con ella!	00:08:18;
+
+[PlayVoice]=00:04:10	Voice03/03-SB/03-SB-G03/03-SB-G03-0060	1	tai	00:08:18;
+
+[CreateBG]=00:08:17	BGS	Event03/03-SB/03-SB-G03/03-SB-G03-002	00:11:09;
+
+[PrintText]=00:08:17	Makoto	¿Qué?^	00:09:23;
+
+[PlayVoice]=00:08:17	Voice03/03-SB/03-SB-G03/03-SB-G03-0070	1	mak	00:09:23;
+
+[PrintText]=00:09:23	Taisuke	¡Largate! ¡Largate!	00:11:03;
+
+[PlayVoice]=00:09:23	Voice03/03-SB/03-SB-G03/03-SB-G03-0080	1	tai	00:11:03;
+
+ ;
+
+[Next]=00:11:09;
+
+

@@ -1,0 +1,101 @@
+﻿[SkipFRAME]=00:49:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:49:18;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-A01/04-KC-A01-001	00:01:08;
+
+[PrintText]=00:00:00	Kotonoha	Estoy en casa...	00:01:08;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-A01/04-KC-A01-0030	0	kot	00:01:08;
+
+[CreateBG]=00:01:08	BGS	Event04/04-KC/04-KC-A01/04-KC-A01-002	00:05:20;
+
+[PrintText]=00:01:08	Madre de Kotonoha	Bienvenida a casa.	00:02:09;
+
+[PlayVoice]=00:01:08	Voice04/04-KC/04-KC-A01/04-KC-A01-0040	0	man	00:02:09;
+
+[PrintText]=00:02:09	Kotonoha	Ah, Mamá.	00:04:15;
+
+[PlayVoice]=00:02:09	Voice04/04-KC/04-KC-A01/04-KC-A01-0050	0	kot	00:04:15;
+
+[PrintText]=00:04:15	Madre de Kotonoha	¿Cómo te fue?^	00:05:22;
+
+[PlayVoice]=00:04:15	Voice04/04-KC/04-KC-A01/04-KC-A01-0060	0	man	00:05:22;
+
+[CreateBG]=00:05:20	BGS	Event04/04-KC/04-KC-A01/04-KC-A01-003	00:15:06;
+
+[PrintText]=00:05:22	Kotonoha	Fue... bien.	00:08:17;
+
+[PlayVoice]=00:05:22	Voice04/04-KC/04-KC-A01/04-KC-A01-0070	0	kot	00:08:17;
+
+[PrintText]=00:08:17	Madre de Kotonoha	No parece estar emocionada.	00:11:15;
+
+[PlayVoice]=00:08:17	Voice04/04-KC/04-KC-A01/04-KC-A01-0080	0	man	00:11:15;
+
+[PrintText]=00:11:15	Kotonoha	No es para estar emocionada.	00:15:07;
+
+[PlayVoice]=00:11:15	Voice04/04-KC/04-KC-A01/04-KC-A01-0090	0	kot	00:15:07;
+
+[CreateBG]=00:15:06	BGS	Ini/FIX/04-KC-A01-004	00:18:08;
+
+[PrintText]=00:15:07	Madre de Kotonoha	¿Qué pasó? ¿Te peleaste con tu novio?^	00:18:08;
+
+[PlayVoice]=00:15:07	Voice04/04-KC/04-KC-A01/04-KC-A01-0100	0	man	00:18:08;
+
+[CreateBG]=00:18:08	BGS	Event04/04-KC/04-KC-A01/04-KC-A01-005	00:21:16;
+
+[PrintText]=00:18:08	Kotonoha	No.	00:19:15;
+
+[PlayVoice]=00:18:08	Voice04/04-KC/04-KC-A01/04-KC-A01-0110	0	kot	00:19:15;
+
+[PrintText]=00:19:15	Madre de Kotonoha	Pero, no te ves muy feliz.	00:21:17;
+
+[PlayVoice]=00:19:15	Voice04/04-KC/04-KC-A01/04-KC-A01-0120	0	man	00:21:17;
+
+[CreateBG]=00:21:16	BGS	Event04/04-KC/04-KC-A01/04-KC-A01-006	00:33:03;
+
+[PrintText]=00:21:17	Kotonoha	Makoto-kun me dijo que no se sentía bien.	00:25:10;
+
+[PlayVoice]=00:21:17	Voice04/04-KC/04-KC-A01/04-KC-A01-0130	0	kot	00:25:10;
+
+[PrintText]=00:25:10	Madre de Kotonoha	Oh cariño. ¿Te lo recibió después?^	00:27:18;
+
+[PlayVoice]=00:25:10	Voice04/04-KC/04-KC-A01/04-KC-A01-0140	0	man	00:27:18;
+
+[PrintText]=00:27:18	Kotonoha	No. Lo llamé después, y se escuchaba muy mal.	00:33:03;
+
+[PlayVoice]=00:27:18	Voice04/04-KC/04-KC-A01/04-KC-A01-0150	0	kot	00:33:03;
+
+[CreateBG]=00:33:03	BGS	Event04/04-KC/04-KC-A01/04-KC-A01-007	00:42:02;
+
+[PrintText]=00:33:03	Madre de Kotonoha	Aww. Que lástima.	00:36:10;
+
+[PlayVoice]=00:33:03	Voice04/04-KC/04-KC-A01/04-KC-A01-0160	0	man	00:36:10;
+
+[PrintText]=00:36:11	Kotonoha	Uh-huh...	00:37:06;
+
+[PlayVoice]=00:36:11	Voice04/04-KC/04-KC-A01/04-KC-A01-0170	0	kot	00:37:06;
+
+[PrintText]=00:37:06	Madre de Kotonoha	Bueno, en el caso de tener alguna entrada, me aseguraré de guardarlo para ti.	00:42:02;
+
+[PlayVoice]=00:37:06	Voice04/04-KC/04-KC-A01/04-KC-A01-0180	0	man	00:42:02;
+
+[CreateBG]=00:42:02	BGS	Event04/04-KC/04-KC-A01/04-KC-A01-008	00:49:18;
+
+[PrintText]=00:42:02	Kotonoha	Ah... hey, Mamá.	00:45:23;
+
+[PlayVoice]=00:42:02	Voice04/04-KC/04-KC-A01/04-KC-A01-0190	0	kot	00:45:23;
+
+[PrintText]=00:45:23	Madre de Kotonoha	¿Qué pasa?^	00:46:19;
+
+[PlayVoice]=00:45:23	Voice04/04-KC/04-KC-A01/04-KC-A01-0200	0	man	00:46:19;
+
+[PrintText]=00:46:19	Kotonoha	Hay algo que quiero preguntarte...	00:48:21;
+
+[PlayVoice]=00:46:19	Voice04/04-KC/04-KC-A01/04-KC-A01-0210	0	kot	00:48:21;
+
+ ;
+
+[Next]=00:49:18;
+
+

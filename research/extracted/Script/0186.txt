@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:55:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:55:13;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-K01/01-1S-K01-001	00:03:01;
+
+[CreateBG]=00:03:01	BGS	Event01/01-1S/01-1S-K01/01-1S-K01-002	00:05:15;
+
+[CreateBG]=00:05:15	BGS	Event01/01-1S/01-1S-K01/01-1S-K01-003	00:08:09;
+
+[CreateBG]=00:08:09	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-004	00:11:17;
+
+#[PrintText]=00:08:09	Makoto	"¿Adónde fuiste a almorzar?".	00:11:17;
+
+[CreateBG]=00:11:17	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-005	00:15:15;
+
+#[PrintText]=00:11:17	Sekai	"Fui a almorzar con Setsuna y las demás.".	00:15:15;
+
+[CreateBG]=00:15:15	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-006	00:20:02;
+
+#[PrintText]=00:15:15	Makoto	"Kiyoura y las otras estaban en el salón".	00:20:02;
+
+[CreateBG]=00:20:02	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-007	00:22:22;
+
+#[PrintText]=00:20:02	Sekai	"Yo también estaba en salón.".	00:22:22;
+
+[CreateBG]=00:22:22	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-008	00:26:03;
+
+#[PrintText]=00:22:22	Makoto	"No, tú no estabas.".	00:26:03;
+
+[CreateBG]=00:26:03	BGS	Event01/01-1S/01-1S-K01/01-1S-K01-009	00:29:16;
+
+[CreateBG]=00:29:16	BGS	Event01/01-1S/01-1S-K01/01-1S-K01-010	00:30:04;
+
+[CreateBG]=00:30:04	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-011	00:34:13;
+
+#[PrintText]=00:30:04	Sekai	"Fui a la cafetería antes de que vinieras.".	00:34:13;
+
+[CreateBG]=00:34:13	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-012	00:39:18;
+
+#[PrintText]=00:34:13	Makoto	"Acaso no mencionaste que hacía frío afuera,\n La cafetería no está afuera ¿Sabes?" 	00:39:18;
+
+[CreateBG]=00:39:18	BGS	Event01/01-1S/01-1S-K01/01-1S-K01-013	00:42:22;
+
+[CreateBG]=00:42:22	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-014	00:46:14;
+
+#[PrintText]=00:42:22	Sekai	"Salí a caminar afuera, ¿Vale?".	00:46:14;
+
+[CreateBG]=00:46:14	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-015	00:48:10;
+
+#[PrintText]=00:46:14	Makoto	"MENTIROSA".	00:48:10;
+
+[CreateBG]=00:48:10	BGS	Ini/Event01/01-1S/01-1S-K01/01-1S-K01-016	00:50:14;
+
+#[PrintText]=00:48:10	Sekai	"¡Es verdad!".	00:50:14;
+
+[CreateBG]=00:50:14	BGS	Event01/01-1S/01-1S-K01/01-1S-K01-017	00:55:13;
+
+[BlackFade]=00:54:13	OUT	00:55:13;
+
+ ;
+
+[Next]=00:55:13;
+
+
+
+

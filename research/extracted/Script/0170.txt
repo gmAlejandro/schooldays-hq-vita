@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:07:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:07:19;
+
+[PlaySe]=00:00:00	1	Se01/01-1K/01-1K-K07/SE01-1K-K07-001	00:07:19;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-K07/01-1K-K07-001	00:01:10;
+
+[PrintText]=00:00:06	Makoto	Gracias.	00:01:06;
+
+[PlayVoice]=00:00:06	Voice01/01-1K/01-1K-K07/01-1K-K07-0040	1	mak	00:01:06;
+
+[CreateBG]=00:01:10	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-002	00:07:19;
+
+[PrintText]=00:01:14	Sekai	Oh, Puedes agradecerme después que lo hagas ¿Vale?.	00:05:18;
+
+[PlayVoice]=00:01:14	Voice01/01-1K/01-1K-K07/01-1K-K07-0060	0	sek	00:05:18;
+
+[PrintText]=00:06:00	Makoto	Sí.	00:06:15;
+
+[PlayVoice]=00:06:00	Voice01/01-1K/01-1K-K07/01-1K-K07-0070	1	mak	00:06:15;
+
+[BlackFade]=00:06:19	OUT	00:07:19;
+
+ ;
+
+[Next]=00:07:19;
+
+
+
+

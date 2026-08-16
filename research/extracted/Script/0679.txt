@@ -1,0 +1,103 @@
+﻿[SkipFRAME]=00:43:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:43:17;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-K01/SE03-KB-K01-001	00:43:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-K01/03-KB-K01-001	00:02:08;
+
+[PrintText]=00:00:00	Makoto	Así es.	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-K01/03-KB-K01-0030	1	mak	00:00:22;
+
+[PrintText]=00:00:22	Kotonoha	Ah...	00:02:08;
+
+[PlayVoice]=00:00:22	Voice03/03-KB/03-KB-K01/03-KB-K01-0040	0	kot	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event03/03-KB/03-KB-K01/03-KB-K01-002	00:11:10;
+
+[PrintText]=00:02:08	Taisuke	¡Entonces no tienes nada que decirme!	00:05:01;
+
+[PlayVoice]=00:02:08	Voice03/03-KB/03-KB-K01/03-KB-K01-0050	1	tai	00:05:01;
+
+[PrintText]=00:05:02	Makoto	¿Huh?^	00:05:23;
+
+[PlayVoice]=00:05:02	Voice03/03-KB/03-KB-K01/03-KB-K01-0060	1	mak	00:05:23;
+
+[PrintText]=00:05:23	Taisuke	Mi hermana me dijo una vez 'Golpeado serás sin razón'.	00:09:07;
+
+[PlayVoice]=00:05:23	Voice03/03-KB/03-KB-K01/03-KB-K01-0070	1	tai	00:09:07;
+
+[PrintText]=00:09:08	Makoto	¡¿Q-Qué demonios quiere decir eso?!	00:11:10;
+
+[PlayVoice]=00:09:08	Voice03/03-KB/03-KB-K01/03-KB-K01-0080	1	mak	00:11:10;
+
+[CreateBG]=00:11:10	BGS	Event03/03-KB/03-KB-K01/03-KB-K01-003	00:17:02;
+
+[PrintText]=00:11:10	Taisuke	Por eso dudé.	00:13:02;
+
+[PlayVoice]=00:11:10	Voice03/03-KB/03-KB-K01/03-KB-K01-0090	1	tai	00:13:02;
+
+[PrintText]=00:13:01	Makoto	¿'Dudaste'...?^	00:14:12;
+
+[PlayVoice]=00:13:01	Voice03/03-KB/03-KB-K01/03-KB-K01-0100	1	mak	00:14:12;
+
+[PrintText]=00:14:13	Taisuke	Por Saionji.	00:15:23;
+
+[PlayVoice]=00:14:13	Voice03/03-KB/03-KB-K01/03-KB-K01-0110	1	tai	00:15:23;
+
+[PrintText]=00:15:23	Makoto	...	00:17:02;
+
+[PlayVoice]=00:15:23	Voice03/03-KB/03-KB-K01/03-KB-K01-0120	1	xxx	00:17:02;
+
+[CreateBG]=00:17:02	BGS	Event03/03-KB/03-KB-K01/03-KB-K01-004	00:19:18;
+
+[PrintText]=00:17:02	Taisuke	Bueno, regresaré. Nos vemos.	00:19:18;
+
+[PlayVoice]=00:17:02	Voice03/03-KB/03-KB-K01/03-KB-K01-0130	1	tai	00:19:18;
+
+[PrintText]=00:19:17	Makoto	¿'Golpeado serás sin razón'? ¿De qué habla? No tiene sentido.	00:24:17;
+
+[PlayVoice]=00:19:17	Voice03/03-KB/03-KB-K01/03-KB-K01-0150	1	mak	00:24:17;
+
+[CreateBG]=00:19:18	BGS	Event03/03-KB/03-KB-K01/03-KB-K01-005	00:24:17;
+
+[CreateBG]=00:24:17	BGS	Event03/03-KB/03-KB-K01/03-KB-K01-006	00:31:19;
+
+[PrintText]=00:24:17	Kotonoha	Creo que es una frase.	00:26:20;
+
+[PlayVoice]=00:24:17	Voice03/03-KB/03-KB-K01/03-KB-K01-0160	0	kot	00:26:20;
+
+[PrintText]=00:26:20	Makoto	¿Frase?^	00:27:23;
+
+[PlayVoice]=00:26:20	Voice03/03-KB/03-KB-K01/03-KB-K01-0170	1	mak	00:27:23;
+
+[PrintText]=00:27:23	Kotonoha	Es una que dice. 'Quien interfiere en una relación de dos...'.	00:31:19;
+
+[PlayVoice]=00:27:23	Voice03/03-KB/03-KB-K01/03-KB-K01-0180	0	kot	00:31:19;
+
+[CreateBG]=00:31:19	BGS	Event03/03-KB/03-KB-K01/03-KB-K01-007	00:38:17;
+
+[PrintText]=00:31:19	Makoto	¡¿Eh?! O-oh, sí. '...golpeado será sin razón' ¿Eh?^	00:37:15;
+
+[PlayVoice]=00:31:19	Voice03/03-KB/03-KB-K01/03-KB-K01-0190	1	mak	00:37:15;
+
+[PrintText]=00:37:16	Kotonoha	Así es, creo.	00:38:17;
+
+[PlayVoice]=00:37:16	Voice03/03-KB/03-KB-K01/03-KB-K01-0200	0	kot	00:38:17;
+
+[CreateBG]=00:38:17	BGS	Event03/03-KB/03-KB-K01/03-KB-K01-008	00:43:17;
+
+[PrintText]=00:38:17	Makoto	Seguro, suena algo que su hermana diría.	00:41:12;
+
+[PlayVoice]=00:38:17	Voice03/03-KB/03-KB-K01/03-KB-K01-0210	1	mak	00:41:12;
+
+[PrintText]=00:41:12	Kotonoha	¿En serio?^	00:43:02;
+
+[PlayVoice]=00:41:12	Voice03/03-KB/03-KB-K01/03-KB-K01-0220	0	kot	00:43:02;
+
+ ;
+
+[Next]=00:43:17;
+
+

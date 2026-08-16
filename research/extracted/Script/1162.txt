@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:33:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:33:13;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O03/04-SA-O03-001	00:11:20;
+
+[PrintText]=00:00:00	Makoto	...	00:01:05;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O03/04-SA-O03-0030	1	xxx	00:01:05;
+
+[PrintText]=00:01:05	Sekai	Te incomodé.	00:02:12;
+
+[PlayVoice]=00:01:05	Voice04/04-SA/04-SA-O03/04-SA-O03-0040	0	sek	00:02:12;
+
+[PrintText]=00:02:12	Makoto	¿Eh?^	00:03:02;
+
+[PlayVoice]=00:02:12	Voice04/04-SA/04-SA-O03/04-SA-O03-0050	1	mak	00:03:02;
+
+[PrintText]=00:03:03	Sekai	Lo siento, mi mamá... pues... es muy sociable, siempre trae a alguien para tomar el té y hablar.	00:11:20;
+
+[PlayVoice]=00:03:03	Voice04/04-SA/04-SA-O03/04-SA-O03-0060	0	sek	00:11:20;
+
+[CreateBG]=00:11:20	BGS	Event04/04-SA/04-SA-O03/04-SA-O03-002	00:14:08;
+
+[PrintText]=00:11:20	Makoto	Oh, no... fue divertido.	00:14:07;
+
+[PlayVoice]=00:11:20	Voice04/04-SA/04-SA-O03/04-SA-O03-0070	1	mak	00:14:07;
+
+[PrintText]=00:14:07	Sekai	Está bien, no tienes que cubrirla.	00:16:16;
+
+[PlayVoice]=00:14:07	Voice04/04-SA/04-SA-O03/04-SA-O03-0080	0	sek	00:16:16;
+
+[CreateBG]=00:14:08	BGS	Event04/04-SA/04-SA-O03/04-SA-O03-003	00:16:17;
+
+[PrintText]=00:16:16	Makoto	En serio, fue divertido... aunque estaba un poco nervioso.	00:22:06;
+
+[PlayVoice]=00:16:16	Voice04/04-SA/04-SA-O03/04-SA-O03-0090	1	mak	00:22:06;
+
+[CreateBG]=00:16:17	BGS	Event04/04-SA/04-SA-O03/04-SA-O03-004	00:30:21;
+
+[PrintText]=00:21:18	Sekai	Haha... sí, eso sí.	00:26:22;
+
+[PlayVoice]=00:21:18	Voice04/04-SA/04-SA-O03/04-SA-O03-0100	0	sek	00:26:22;
+
+[PrintText]=00:26:21	Makoto	Bueno, es tu madre. Por supuesto que me pondría nervioso.	00:30:13;
+
+[PlayVoice]=00:26:21	Voice04/04-SA/04-SA-O03/04-SA-O03-0110	1	mak	00:30:13;
+
+[CreateBG]=00:30:21	BGS	Event04/04-SA/04-SA-O03/04-SA-O03-005	00:33:13;
+
+[PrintText]=00:31:03	Sekai	Ah... Sí.	00:33:04;
+
+[PlayVoice]=00:31:03	Voice04/04-SA/04-SA-O03/04-SA-O03-0120	0	sek	00:33:04;
+
+ ;
+
+[Next]=00:33:13;
+
+

@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:46:23;
+
+[PlaySe]=00:00:00	1	Se05/05-G0/05-G0-A00/SE05-G0-A00-0001	00:14:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-G0/05-G0-A00/05-G0-A00-001	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-G0/05-G0-A00/05-G0-A00-003	00:09:22;
+
+[CreateBG]=00:09:22	BGS	Event05/05-G0/05-G0-A00/05-G0-A00-002	00:16:17;
+
+[PrintText]=00:10:04	Kotonoha	Ella ya a ido muy lejos... como lo esperaba de ella.	00:16:12;
+
+[PlayVoice]=00:10:04	Voice05/05-G0/05-G0-A00/05-G0-A00-0050	0	kot	00:16:12;
+
+[PlaySe]=00:14:11	2	SysSe/SE_all/keitai/keitai_push2	00:14:15;
+
+[CreateBG]=00:16:17	BGS	Event05/05-G0/05-G0-A00/05-G0-A00-005	00:35:01;
+
+[PrintText]=00:18:13	Kotonoha	...Ya no tengo ninguna oportunidad contra ella.	00:21:14;
+
+[PlayVoice]=00:18:13	Voice05/05-G0/05-G0-A00/05-G0-A00-0060	0	kot	00:21:14;
+
+[PrintText]=00:23:15	Kotonoha	Me molesté y le dije muchas cosas en el almuerzo, pero no puedo cambiar el hecho de que a Makoto le gusta Saionji-san ahora.	00:33:21;
+
+[PlayVoice]=00:23:15	Voice05/05-G0/05-G0-A00/05-G0-A00-0070	0	kot	00:33:21;
+
+[CreateBG]=00:35:01	BGS	Event05/05-G0/05-G0-A00/05-G0-A00-002	00:46:23;
+
+[PlayVoice]=00:36:01	Voice05/05-G0/05-G0-A00/05-G0-A00-0080			00:36:15;
+
+[PrintText]=00:37:18	Kotonoha	Haah... Tengo que esforzarme más...	00:41:19;
+
+[PlayVoice]=00:37:18	Voice05/05-G0/05-G0-A00/05-G0-A00-0090	0	kot	00:41:19;
+
+[PrintText]=00:42:13	Kotonoha	...porque definitivamente no me rendiré.	00:45:03;
+
+[PlayVoice]=00:42:13	Voice05/05-G0/05-G0-A00/05-G0-A00-0100	0	kot	00:45:03;
+
+[BlackFade]=00:45:09	OUT	00:46:23;
+
+ ;
+
+[Next]=00:46:23;
+
+

@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:05:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:05:06;
+
+[PlayMovie]=00:00:00	Movie05/05-5O/05-5O-J04/05-5O-J04-001	0	00:05:06;
+
+[PrintText]=00:00:09	Otome	No es nada.	00:01:16;
+
+[PlayVoice]=00:00:09	Voice05/05-5O/05-5O-J04/05-5O-J04-0030	0	oto	00:01:16;
+
+[PrintText]=00:01:22	Makoto	Ya veo.	00:02:13;
+
+[PlayVoice]=00:01:22	Voice05/05-5O/05-5O-J04/05-5O-J04-0040	1	mak	00:02:13;
+
+[PrintText]=00:03:03	Otome	...	00:04:00;
+
+[PlayVoice]=00:03:03	Voice05/05-5O/05-5O-J04/05-5O-J04-0050	0	xxx	00:04:00;
+
+[BlackFade]=00:04:06	OUT	00:05:06;
+
+ ;
+
+[Next]=00:05:06;
+
+

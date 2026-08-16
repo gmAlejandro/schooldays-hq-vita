@@ -1,0 +1,99 @@
+﻿[SkipFRAME]=00:45:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:45:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-G00/03-A1-G00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-A1/03-A1-G00/03-A1-G00-002	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-A1/03-A1-G00/03-A1-G00-004	00:07:16;
+
+[PrintText]=00:03:02	Setsuna	Sekai.	00:03:23;
+
+[PlayVoice]=00:03:02	Voice03/03-A1/03-A1-G00/03-A1-G00-0040	0	set	00:03:23;
+
+[PrintText]=00:04:03	Sekai	...	00:04:17;
+
+[PlayVoice]=00:04:03	Voice03/03-A1/03-A1-G00/03-A1-G00-0050	0	xxx	00:04:17;
+
+[PrintText]=00:05:02	Setsuna	Hoy es el festival escolar.	00:06:17;
+
+[PlayVoice]=00:05:02	Voice03/03-A1/03-A1-G00/03-A1-G00-0070	0	set	00:06:17;
+
+[PrintText]=00:06:21	Sekai	...	00:07:09;
+
+[PlayVoice]=00:06:21	Voice03/03-A1/03-A1-G00/03-A1-G00-0080	0	xxx	00:07:09;
+
+[CreateBG]=00:07:16	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-003	00:15:10;
+
+[PrintText]=00:07:18	Setsuna	¿Te tomarás el día libre también?^	00:10:14;
+
+[PlayVoice]=00:07:18	Voice03/03-A1/03-A1-G00/03-A1-G00-0090	0	set	00:10:14;
+
+[PrintText]=00:10:22	Sekai	...	00:11:10;
+
+[PlayVoice]=00:10:22	Voice03/03-A1/03-A1-G00/03-A1-G00-0100	0	xxx	00:11:10;
+
+[PrintText]=00:11:15	Setsuna	...Sekai.	00:12:14;
+
+[PlayVoice]=00:11:15	Voice03/03-A1/03-A1-G00/03-A1-G00-0110	0	set	00:12:14;
+
+[PrintText]=00:13:01	Setsuna	Lo harás ¿No...?^	00:14:11;
+
+[PlayVoice]=00:13:01	Voice03/03-A1/03-A1-G00/03-A1-G00-0120	0	set	00:14:11;
+
+[PrintText]=00:14:15	Setsuna	...	00:15:05;
+
+[PlayVoice]=00:14:15	Voice03/03-A1/03-A1-G00/03-A1-G00-0130	0	xxx	00:15:05;
+
+[CreateBG]=00:15:10	BGS	Event03/03-A1/03-A1-G00/03-A1-G00-006	00:21:00;
+
+[PrintText]=00:15:12	Setsuna	Si es así, entonces no te importa que haga lo que quiera hoy ¿No?^	00:20:19;
+
+[PlayVoice]=00:15:12	Voice03/03-A1/03-A1-G00/03-A1-G00-0140	0	set	00:20:19;
+
+[CreateBG]=00:21:00	BGS	Event03/03-A1/03-A1-G00/03-A1-G00-007	00:23:21;
+
+[PrintText]=00:21:22	Setsuna	No lo harás ¿No?^	00:22:22;
+
+[PlayVoice]=00:21:22	Voice03/03-A1/03-A1-G00/03-A1-G00-0150	0	set	00:22:22;
+
+[CreateBG]=00:23:21	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-003	00:30:09;
+
+[PrintText]=00:24:03	Setsuna	Porque probablemente esta sea mi última oportunidad.	00:28:06;
+
+[PlayVoice]=00:24:03	Voice03/03-A1/03-A1-G00/03-A1-G00-0160	0	set	00:28:06;
+
+[PrintText]=00:28:22	Setsuna	...	00:29:17;
+
+[PlayVoice]=00:28:22	Voice03/03-A1/03-A1-G00/03-A1-G00-0170	0	xxx	00:29:17;
+
+[CreateBG]=00:30:09	BGS	Event03/03-A1/03-A1-G00/03-A1-G00-004	00:41:05;
+
+[PrintText]=00:30:17	Setsuna	...	00:31:11;
+
+[PlayVoice]=00:30:17	Voice03/03-A1/03-A1-G00/03-A1-G00-0180	0	xxx	00:31:11;
+
+[PrintText]=00:32:02	Setsuna	Había planeado renunciar... lo siento.	00:36:14;
+
+[PlayVoice]=00:32:02	Voice03/03-A1/03-A1-G00/03-A1-G00-0190	0	set	00:36:14;
+
+[PrintText]=00:37:08	Setsuna	Pero al igual que tú... yo...	00:40:22;
+
+[PlayVoice]=00:37:08	Voice03/03-A1/03-A1-G00/03-A1-G00-0200	0	set	00:40:22;
+
+[CreateBG]=00:41:05	BGS	System/Screen/Black	00:42:12;
+
+[CreateBG]=00:42:12	BGS	Event03/03-A1/03-A1-G00/03-A1-G00-011	00:45:16;
+
+[PrintText]=00:42:23	Setsuna	Siempre lo he amado.	00:44:09;
+
+[PlayVoice]=00:42:23	Voice03/03-A1/03-A1-G00/03-A1-G00-0230	0	set	00:44:09;
+
+[BlackFade]=00:44:16	OUT	00:45:16;
+
+ ;
+
+[Next]=00:45:16;
+
+

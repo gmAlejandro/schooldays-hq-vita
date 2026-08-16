@@ -1,0 +1,36 @@
+﻿[SkipFRAME]=00:13:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:13:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-M01/05-SE-M01-011	00:03:07;
+
+[PrintText]=00:00:00	Sekai	Makoto... bromeas ¿Cierto...?^	00:03:07;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-M06/05-SE-M06-0040	0	sek	00:03:07;
+
+[CreateBG]=00:03:07	BGS	Event05/05-SE/05-SE-M06/05-SE-M06-002	00:10:19;
+
+[PrintText]=00:03:07	Sekai	No...	00:05:01;
+
+[PlayVoice]=00:03:07	Voice05/05-SE/05-SE-M06/05-SE-M06-0050	0	sek	00:05:01;
+
+[PrintText]=00:05:01	Sekai	Regresa...	00:06:23;
+
+[PlayVoice]=00:05:01	Voice05/05-SE/05-SE-M06/05-SE-M06-0060	0	sek	00:06:23;
+
+[PrintText]=00:06:23	Sekai	...	00:10:19;
+
+[PlayVoice]=00:06:23	Voice05/05-SE/05-SE-M06/05-SE-M06-0070	0	xxx	00:10:19;
+
+[CreateBG]=00:10:19	BGS	Event05/05-SE/05-SE-J00/05-SE-J00-001	00:13:20;
+
+[PrintText]=00:10:19	Sekai	¡Noooooo!	00:13:20;
+
+[PlayVoice]=00:10:19	Voice05/05-SE/05-SE-M06/05-SE-M06-0080	0	sek	00:13:20;
+
+ ;
+
+[Next]=00:13:20;
+
+
+

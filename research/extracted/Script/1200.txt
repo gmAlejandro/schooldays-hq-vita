@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:12:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:12:01;
+
+[PlayMovie]=00:00:00	Movie04/04-SB/04-SB-D02/04-SB-D02-001	0	00:12:01;
+
+[PrintText]=00:00:03	Makoto	...	00:01:03;
+
+[PlayVoice]=00:00:03	Voice04/04-SB/04-SB-D02/04-SB-D02-0030	1	xxx	00:01:03;
+
+[PrintText]=00:01:10	Kotonoha	Kuh... uuh... uh...	00:11:00;
+
+[PlayVoice]=00:01:10	Voice04/04-SB/04-SB-D02/04-SB-D02-0040	0	kot	00:11:00;
+
+[BlackFade]=00:11:01	OUT	00:12:01;
+
+ ;
+
+[Next]=00:12:01;
+
+

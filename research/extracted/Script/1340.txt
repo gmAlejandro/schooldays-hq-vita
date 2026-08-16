@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:03:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:03:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F03/05-5O-F03-001	00:03:17;
+
+[PrintText]=00:00:05	Setsuna	Itou.	00:01:02;
+
+[PlayVoice]=00:00:05	Voice05/05-5O/05-5O-F03/05-5O-F03-0030	0	set	00:01:02;
+
+[PrintText]=00:01:13	Makoto	Sí, ya sé.	00:02:17;
+
+[PlayVoice]=00:01:13	Voice05/05-5O/05-5O-F03/05-5O-F03-0040	1	mak	00:02:17;
+
+[PrintText]=00:02:23	Setsuna	...	00:03:13;
+
+[PlayVoice]=00:02:23	Voice05/05-5O/05-5O-F03/05-5O-F03-0050	0	xxx	00:03:13;
+
+ ;
+
+[Next]=00:03:17;
+
+

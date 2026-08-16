@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:45:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:45:20;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-L10/04-SA-L10-001	00:05:16;
+
+[PrintText]=00:00:00	Kotonoha	...No me siento segura.	00:01:15;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-L10/04-SA-L10-0030	0	kot	00:01:15;
+
+[PrintText]=00:01:16	Sekai	¿Eh?^	00:02:06;
+
+[PlayVoice]=00:01:16	Voice04/04-SA/04-SA-L10/04-SA-L10-0040	0	sek	00:02:06;
+
+[PrintText]=00:02:06	Kotonoha	Le hice daño...	00:05:18;
+
+[PlayVoice]=00:02:06	Voice04/04-SA/04-SA-L10/04-SA-L10-0050	0	kot	00:05:18;
+
+[CreateBG]=00:05:16	BGS	Event04/04-SA/04-SA-L10/04-SA-L10-002	00:17:14;
+
+[PrintText]=00:05:18	Kotonoha	Y ahora que hace frío, ya no podremos almorzar en la azotea...	00:11:03;
+
+[PlayVoice]=00:05:18	Voice04/04-SA/04-SA-L10/04-SA-L10-0060	0	kot	00:11:03;
+
+[PrintText]=00:11:03	Kotonoha	Aún así no hemos hecho planes para comer, y... hemos dejado de hablarnos...	00:17:14;
+
+[PlayVoice]=00:11:03	Voice04/04-SA/04-SA-L10/04-SA-L10-0061	0	kot	00:17:14;
+
+[CreateBG]=00:17:14	BGS	Event04/04-SA/04-SA-L10/04-SA-L10-003	00:25:01;
+
+[PrintText]=00:17:14	Kotonoha	¿Yo... sigo siendo su novia?^	00:22:19;
+
+[PlayVoice]=00:17:14	Voice04/04-SA/04-SA-L10/04-SA-L10-0070	0	kot	00:22:19;
+
+[PrintText]=00:22:19	Sekai	Yo... aún creo que lo eres.	00:25:01;
+
+[PlayVoice]=00:22:19	Voice04/04-SA/04-SA-L10/04-SA-L10-0080	0	sek	00:25:01;
+
+[CreateBG]=00:25:01	BGS	Event04/04-SA/04-SA-L10/04-SA-L10-004	00:36:02;
+
+[PrintText]=00:25:02	Kotonoha	Sí, tienes razón... después de todo, él vino hoy a la piscina.	00:30:02;
+
+[PlayVoice]=00:25:02	Voice04/04-SA/04-SA-L10/04-SA-L10-0090	0	kot	00:30:02;
+
+[PrintText]=00:30:03	Sekai	Nadie esperaba que iba a traer a su hermana sin embargo.	00:33:10;
+
+[PlayVoice]=00:30:03	Voice04/04-SA/04-SA-L10/04-SA-L10-0100	0	sek	00:33:10;
+
+[PrintText]=00:33:10	Kotonoha	¿Es muy linda no?^	00:36:03;
+
+[PlayVoice]=00:33:10	Voice04/04-SA/04-SA-L10/04-SA-L10-0110	0	kot	00:36:03;
+
+[CreateBG]=00:36:02	BGS	Event04/04-SA/04-SA-L10/04-SA-L10-005	00:39:08;
+
+[PrintText]=00:36:03	Sekai	¡Sí! ¡Muy linda!	00:39:08;
+
+[PlayVoice]=00:36:03	Voice04/04-SA/04-SA-L10/04-SA-L10-0120	0	sek	00:39:08;
+
+[CreateBG]=00:39:08	BGS	Event04/04-SA/04-SA-L10/04-SA-L10-006	00:45:20;
+
+[PrintText]=00:39:08	Kotonoha	¿Deberíamos ir a jugar con ella también?^	00:42:17;
+
+[PlayVoice]=00:39:08	Voice04/04-SA/04-SA-L10/04-SA-L10-0130	0	kot	00:42:17;
+
+[PrintText]=00:42:17	Sekai	Seguro.	00:44:19;
+
+[PlayVoice]=00:42:17	Voice04/04-SA/04-SA-L10/04-SA-L10-0140	0	sek	00:44:19;
+
+[PlayVoice]=00:44:19	Voice04/04-SA/04-SA-L10/04-SA-L10-0150			00:45:20;
+
+ ;
+
+[Next]=00:45:20;
+
+

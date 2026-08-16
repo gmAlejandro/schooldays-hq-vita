@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:21:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:21:04;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-L02/02-2K-L02-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event02/02-2K/02-2K-L02/02-2K-L02-002	00:17:09;
+
+[PrintText]=00:02:00	Kotonoha	Haah ...	00:02:23;
+
+[PlayVoice]=00:02:00	Voice02/02-2K/02-2K-L02/02-2K-L02-0040	0	kot	00:02:23;
+
+[PrintText]=00:03:17	Kotonoha	Esto no es bueno... estoy haciendo sentir mal a Makoto-kun de nuevo.	00:08:21;
+
+[PlayVoice]=00:03:17	Voice02/02-2K/02-2K-L02/02-2K-L02-0060	0	kot	00:08:21;
+
+[PrintText]=00:10:01	Kotonoha	No quiero que me toque... pero prometo pensar en sus sentimientos.	00:17:03;
+
+[PlayVoice]=00:10:01	Voice02/02-2K/02-2K-L02/02-2K-L02-0070	0	kot	00:17:03;
+
+[CreateBG]=00:17:09	BGS	Event02/02-2K/02-2K-L00/02-2K-L00-002	00:21:04;
+
+[PrintText]=00:17:14	Kotonoha	Al menos... eso es lo que quiero.	00:19:15;
+
+[PlayVoice]=00:17:14	Voice02/02-2K/02-2K-L02/02-2K-L02-0080	0	kot	00:19:15;
+
+[BlackFade]=00:20:04	OUT	00:21:04;
+
+ ;
+
+[Next]=00:21:04;
+
+
+
+

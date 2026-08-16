@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:08:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:08:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-K04/02-2K-K04-003	00:04:05;
+
+[PrintText]=00:00:00	Makoto	...	00:03:01;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-K07/02-2K-K07-0030	1	xxx	00:03:01;
+
+[PrintText]=00:03:02	Kotonoha	...¿Makoto-kun?^	00:04:05;
+
+[PlayVoice]=00:03:02	Voice02/02-2K/02-2K-K07/02-2K-K07-0040	0	kot	00:04:05;
+
+[PrintText]=00:04:04	Makoto	Perdón. Buenas noches.	00:07:15;
+
+[PlayVoice]=00:04:04	Voice02/02-2K/02-2K-K07/02-2K-K07-0050	1	mak	00:07:15;
+
+[CreateBG]=00:04:05	BGS	Event02/02-2K/02-2K-K07/02-2K-K07-002	00:08:10;
+
+ ;
+
+[Next]=00:08:10;
+
+
+
+

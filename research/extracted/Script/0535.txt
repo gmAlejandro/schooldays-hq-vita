@@ -1,0 +1,109 @@
+﻿[SkipFRAME]=00:45:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:50:00;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C04/SE03-KA-C04-001	00:50:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-002	00:05:21;
+
+[PrintText]=00:03:00	Setsuna	Ahora...	00:03:21;
+
+[PlayVoice]=00:03:00	Voice03/03-KA/03-KA-C04/03-KA-C04-0050	0	set	00:03:21;
+
+[PrintText]=00:03:19	Makoto	Vale, empecemos.	00:05:16;
+
+[PlayVoice]=00:03:19	Voice03/03-KA/03-KA-C04/03-KA-C04-0060	1	mak	00:05:16;
+
+[CreateBG]=00:05:21	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-003	00:07:15;
+
+[PrintText]=00:06:01	Setsuna	Toma las impresiones.	00:07:11;
+
+[PlayVoice]=00:06:01	Voice03/03-KA/03-KA-C04/03-KA-C04-0070	0	set	00:07:11;
+
+[CreateBG]=00:07:15	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-004A	00:12:15;
+
+[PrintText]=00:07:23	Setsuna	... Por lo tanto, los formularios de solicitud en tabla van al consejo, y las cosas van al almacén.	00:12:18;
+
+[PlayVoice]=00:07:23	Voice03/03-KA/03-KA-C04/03-KA-C04-0090	0	set	00:12:18;
+
+[CreateBG]=00:12:15	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-004B	00:14:23;
+
+[PrintText]=00:12:20	Makoto	Um...	00:14:21;
+
+[PlayVoice]=00:12:20	Voice03/03-KA/03-KA-C04/03-KA-C04-0100	1	mak	00:14:21;
+
+[CreateBG]=00:14:23	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-004C	00:16:16;
+
+[PrintText]=00:15:01	Setsuna	El resumen en la esquina.	00:16:16;
+
+[PlayVoice]=00:15:01	Voice03/03-KA/03-KA-C04/03-KA-C04-0110	0	set	00:16:16;
+
+[CreateBG]=00:16:16	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-004D	00:21:16;
+
+[PrintText]=00:16:16	Makoto	Oh, ¿Esto? Hmm...	00:20:16;
+
+[PlayVoice]=00:16:16	Voice03/03-KA/03-KA-C04/03-KA-C04-0120	1	mak	00:20:16;
+
+[CreateBG]=00:21:16	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-005	00:27:15;
+
+[PrintText]=00:21:19	Setsuna	Solo toma las impresiones, y estarás bien.	00:25:20;
+
+[PlayVoice]=00:21:19	Voice03/03-KA/03-KA-C04/03-KA-C04-0130	0	set	00:25:20;
+
+[PrintText]=00:25:20	Makoto	V-Vale.	00:27:11;
+
+[PlayVoice]=00:25:20	Voice03/03-KA/03-KA-C04/03-KA-C04-0140	1	mak	00:27:11;
+
+[CreateBG]=00:27:15	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-006	00:29:15;
+
+[PrintText]=00:27:16	Setsuna	Ahora me iré a comer.	00:29:20;
+
+[PlayVoice]=00:27:16	Voice03/03-KA/03-KA-C04/03-KA-C04-0150	0	set	00:29:20;
+
+[PrintText]=00:29:13	Makoto	Vale. Nos vemos luego.	00:31:03;
+
+[PlayVoice]=00:29:13	Voice03/03-KA/03-KA-C04/03-KA-C04-0160	1	mak	00:31:03;
+
+[CreateBG]=00:29:15	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-007	00:31:05;
+
+[CreateBG]=00:31:05	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-008	00:34:05;
+
+[PrintText]=00:31:06	Setsuna	¿No irás a comer?^	00:32:10;
+
+[PlayVoice]=00:31:06	Voice03/03-KA/03-KA-C04/03-KA-C04-0170	0	set	00:32:10;
+
+[PrintText]=00:32:11	Makoto	Bueno, sí, seguro.	00:34:04;
+
+[PlayVoice]=00:32:11	Voice03/03-KA/03-KA-C04/03-KA-C04-0180	1	mak	00:34:04;
+
+[CreateBG]=00:34:05	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-009	00:36:03;
+
+[PrintText]=00:34:05	Setsuna	Entonces abre tu almuerzo.	00:35:19;
+
+[PlayVoice]=00:34:05	Voice03/03-KA/03-KA-C04/03-KA-C04-0190	0	set	00:35:19;
+
+[CreateBG]=00:36:02	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-010	00:40:23;
+
+[PrintText]=00:36:04	Makoto	¿Comer aquí? ¿Contigo?^	00:39:09;
+
+[PlayVoice]=00:36:04	Voice03/03-KA/03-KA-C04/03-KA-C04-0200	1	mak	00:39:09;
+
+[PrintText]=00:39:19	Setsuna	Ya todos están a punto de terminar de comer...	00:42:05;
+
+[PlayVoice]=00:39:19	Voice03/03-KA/03-KA-C04/03-KA-C04-0210	0	set	00:42:05;
+
+[CreateBG]=00:40:23	BGS	Event03/03-KA/03-KA-C04/03-KA-C04-011	00:50:00;
+
+[PrintText]=00:42:00	Makoto	Sí, al parecer...	00:44:02;
+
+[PlayVoice]=00:42:00	Voice03/03-KA/03-KA-C04/03-KA-C04-0220	1	mak	00:44:02;
+
+[SetSELECT]=00:45:00	'¿Quieres que almorcemos juntos?'	'Me iré a la cafetería'	00:49:00;
+
+ ;
+
+[Next]=00:50:00;
+
+

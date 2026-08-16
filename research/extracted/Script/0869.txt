@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:11:07;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-M02/SE03-SB-M02-001	00:11:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-M02/03-SB-M02-001	00:07:08;
+
+[PrintText]=00:00:00	Makoto	¡Solo ven conmigo!	00:01:10;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-M02/03-SB-M02-0030	1	mak	00:01:10;
+
+[PrintText]=00:01:10	Sekai	¡No iré!	00:02:16;
+
+[PlayVoice]=00:01:10	Voice03/03-SB/03-SB-M02/03-SB-M02-0040	0	sek	00:02:16;
+
+[PrintText]=00:02:16	Makoto	...	00:03:18;
+
+[PlayVoice]=00:02:16	Voice03/03-SB/03-SB-M02/03-SB-M02-0050	1	xxx	00:03:18;
+
+[PrintText]=00:03:18	Sekai	...	00:04:23;
+
+[PlayVoice]=00:03:18	Voice03/03-SB/03-SB-M02/03-SB-M02-0060	0	xxx	00:04:23;
+
+[PrintText]=00:04:23	Makoto	...Está bien.	00:06:03;
+
+[PlayVoice]=00:04:23	Voice03/03-SB/03-SB-M02/03-SB-M02-0070	1	mak	00:06:03;
+
+[PlayVoice]=00:06:12	Voice03/03-SB/03-SB-M02/03-SB-M02-0080			00:08:08;
+
+[CreateBG]=00:07:08	BGS	Event03/03-SB/03-SB-M02/03-SB-M02-003	00:11:07;
+
+[PrintText]=00:08:07	Sekai	Ah...	00:09:04;
+
+[PlayVoice]=00:08:07	Voice03/03-SB/03-SB-M02/03-SB-M02-0090	0	sek	00:09:04;
+
+ ;
+
+[Next]=00:11:07;
+
+

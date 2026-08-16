@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=01:03:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	01:03:19;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-M00/SE02-2S-M00-001	01:03:19;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-M00/02-2S-M00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event02/02-2S/02-2S-M00/02-2S-M00-001B	00:03:09;
+
+[CreateBG]=00:03:09	BGS	Event02/02-2S/02-2S-M00/02-2S-M00-002B	00:25:13;
+
+[PrintText]=00:03:21	Sekai	¿... No podemos decírselo?^	00:05:10;
+
+[PlayVoice]=00:03:21	Voice02/02-2S/02-2S-M00/02-2S-M00-0060	0	sek	00:05:10;
+
+[PrintText]=00:05:15	Makoto	Mmn...	00:06:08;
+
+[PlayVoice]=00:05:15	Voice02/02-2S/02-2S-M00/02-2S-M00-0070	1	mak	00:06:08;
+
+[PrintText]=00:06:20	Sekai	Iba a decírselo, pero cuando la vi... las palabras no salían.	00:15:08;
+
+[PlayVoice]=00:06:20	Voice02/02-2S/02-2S-M00/02-2S-M00-0080	0	sek	00:15:08;
+
+[PrintText]=00:15:16	Makoto	Me paso igual.	00:16:18;
+
+[PlayVoice]=00:15:16	Voice02/02-2S/02-2S-M00/02-2S-M00-0090	1	mak	00:16:18;
+
+[PrintText]=00:17:04	Sekai	No podemos decírselo... ¿No?^	00:18:13;
+
+[PlayVoice]=00:17:04	Voice02/02-2S/02-2S-M00/02-2S-M00-0100	0	sek	00:18:13;
+
+[PrintText]=00:18:16	Makoto	Sí....	00:19:09;
+
+[PlayVoice]=00:18:16	Voice02/02-2S/02-2S-M00/02-2S-M00-0110	1	mak	00:19:09;
+
+[PrintText]=00:20:09	Sekai	Después de todo, ella te sigue amando.	00:26:00;
+
+[PlayVoice]=00:20:09	Voice02/02-2S/02-2S-M00/02-2S-M00-0120	0	sek	00:26:00;
+
+[PlayMovie]=00:25:13	Movie02/02-2S/02-2S-M00/02-2S-M00-002	0	00:51:09;
+
+[PrintText]=00:26:01	Makoto	¡Pero yo..!	00:28:13;
+
+[PlayVoice]=00:26:01	Voice02/02-2S/02-2S-M00/02-2S-M00-0130	1	mak	00:28:13;
+
+[PrintText]=00:28:22	Sekai	Lo sé...	00:29:13;
+
+[PlayVoice]=00:28:22	Voice02/02-2S/02-2S-M00/02-2S-M00-0140	0	sek	00:29:13;
+
+[PrintText]=00:30:04	Makoto	...	00:31:08;
+
+[PlayVoice]=00:30:04	Voice02/02-2S/02-2S-M00/02-2S-M00-0150	1	xxx	00:31:08;
+
+[PrintText]=00:31:19	Sekai	...	00:32:07;
+
+[PlayVoice]=00:31:19	Voice02/02-2S/02-2S-M00/02-2S-M00-0160	0	xxx	00:32:07;
+
+[PrintText]=00:36:22	Sekai	Estoy tan enamorada de ti... ¿Por qué se siente tan mal..?^	00:43:14;
+
+[PlayVoice]=00:36:22	Voice02/02-2S/02-2S-M00/02-2S-M00-0180	0	sek	00:43:14;
+
+[PrintText]=00:44:01	Makoto	...	00:45:07;
+
+[PlayVoice]=00:44:01	Voice02/02-2S/02-2S-M00/02-2S-M00-0190	1	xxx	00:45:07;
+
+[PrintText]=00:45:15	Sekai	Me siento... tan culpable.	00:49:12;
+
+[PlayVoice]=00:45:15	Voice02/02-2S/02-2S-M00/02-2S-M00-0200	0	sek	00:49:12;
+
+[PrintText]=00:50:01	Makoto	Sekai...	00:51:01;
+
+[PlayVoice]=00:50:01	Voice02/02-2S/02-2S-M00/02-2S-M00-0210	1	mak	00:51:01;
+
+[PlaySe]=00:51:09	2	SysSe/SE_all/station_train/train_in	01:03:21;
+
+[CreateBG]=00:51:09	BGS	Event01/01-00/01-00-L00/01-00-L00-001	01:03:19;
+
+[PrintText]=00:54:07	Sekai	¿Fue por eso que no podíamos decirle..?^	00:56:14;
+
+[PlayVoice]=00:54:07	Voice02/02-2S/02-2S-M00/02-2S-M00-0220	0	sek	00:56:14;
+
+[PrintText]=00:57:01	Makoto	...	00:57:18;
+
+[PlayVoice]=00:57:01	Voice02/02-2S/02-2S-M00/02-2S-M00-0230	1	xxx	00:57:18;
+
+[BlackFade]=01:02:19	OUT	01:03:19;
+
+ ;
+
+[Next]=01:03:21;
+
+
+
+

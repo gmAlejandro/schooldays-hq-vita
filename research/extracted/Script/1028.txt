@@ -1,0 +1,205 @@
+﻿[SkipFRAME]=03:18:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	02:26:13;
+
+[PlaySe]=00:00:00	2	Se04/04-KC/04-KC-E01/SE04-KC-E01-001	02:11:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-E01/04-KC-E01-001	00:01:11;
+
+[CreateBG]=00:01:11	BGS	Event04/04-KC/04-KC-E01/04-KC-E01-002	00:03:16;
+
+#[PrintText]=00:02:01	Sekai	Haah...	00:02:22;
+
+[PlayVoice]=00:02:01	Voice04/04-KC/04-KC-E01/04-KC-E01-0050	0	sek	00:02:22;
+
+[CreateBG]=00:03:16	BGS	Event04/04-KC/04-KC-E01/04-KC-E01-003	00:05:18;
+
+#[PrintText]=00:04:07	Sekai	...	00:04:19;
+
+[PlayVoice]=00:04:07	Voice04/04-KC/04-KC-E01/04-KC-E01-0080	0	xxx	00:04:19;
+
+[PlayMovie]=00:05:18	Ini/Movie04/04-KC/04-KC-E01/04-KC-E01-004	0	00:13:16;
+
+[PrintText]=00:06:07	Sekai	Makoto...	00:07:11;
+
+[PlayVoice]=00:06:07	Voice04/04-KC/04-KC-E01/04-KC-E01-0130	0	sek	00:07:11;
+
+[PlaySe]=00:08:08	1	SysSe/SE_all/keitai/keitai_sousa	00:08:10;
+
+[PlayMovie]=00:13:16	Movie04/04-KC/04-KC-E01/04-KC-E01-005	0	00:31:19;
+
+#[PrintText]=00:13:16	Sekai	Haah...	00:14:19;
+
+[PlayVoice]=00:13:16	Voice04/04-KC/04-KC-E01/04-KC-E01-0150	0	sek	00:14:19;
+
+[PrintText]=00:14:19	Sekai	Makoto...	00:16:20;
+
+[PlayVoice]=00:14:19	Voice04/04-KC/04-KC-E01/04-KC-E01-0170	0	sek	00:16:20;
+
+[PlaySe]=00:15:16	1	SysSe/SE_all/keitai/keitai_open1	00:16:02;
+
+[PrintText]=00:16:20	Sekai	Nn... haah...	00:20:16;
+
+[PlayVoice]=00:16:20	Voice04/04-KC/04-KC-E01/04-KC-E01-0180	0	sek	00:20:16;
+
+[PrintText]=00:20:16	Sekai	Haah... haah...	00:24:15;
+
+[PlayVoice]=00:20:16	Voice04/04-KC/04-KC-E01/04-KC-E01-0200	0	sek	00:24:15;
+
+[PrintText]=00:24:15	Sekai	Makoto...	00:26:10;
+
+[PlayVoice]=00:24:15	Voice04/04-KC/04-KC-E01/04-KC-E01-0220	0	sek	00:26:10;
+
+[PrintText]=00:26:10	Sekai	...Que bien... más... haah... haah...	00:33:12;
+
+[PlayVoice]=00:26:10	Voice04/04-KC/04-KC-E01/04-KC-E01-0230	0	sek	00:33:12;
+
+[PlayMovie]=00:31:19	Movie04/04-KB/04-KB-E01/04-KB-E01-008	0	00:35:10;
+
+[PrintText]=00:33:12	Sekai	¡Haah... nn...!	00:37:11;
+
+[PlayVoice]=00:33:12	Voice04/04-KC/04-KC-E01/04-KC-E01-0240	0	sek	00:37:11;
+
+[PlayMovie]=00:35:10	Movie04/04-KC/04-KC-E01/04-KC-E01-007	0	00:39:23;
+
+[PrintText]=00:37:11	Sekai	¡Nn!	00:38:17;
+
+[PlayVoice]=00:37:11	Voice04/04-KC/04-KC-E01/04-KC-E01-0260	0	sek	00:38:17;
+
+[PrintText]=00:38:17	Sekai	¡Haah... Makoto... haah...!	00:44:10;
+
+[PlayVoice]=00:38:17	Voice04/04-KC/04-KC-E01/04-KC-E01-0280	0	sek	00:44:10;
+
+[PlayMovie]=00:39:23	Movie04/04-KC/04-KC-E01/04-KC-E01-008	0	00:53:17;
+
+[PrintText]=00:44:10	Sekai	¡Haah... haah...! Nn...!	00:48:21;
+
+[PlayVoice]=00:44:10	Voice04/04-KC/04-KC-E01/04-KC-E01-0300	0	sek	00:48:21;
+
+[PrintText]=00:48:21	Sekai	¡Haah... hah...! Haah...! Haah...	00:54:18;
+
+[PlayVoice]=00:48:21	Voice04/04-KC/04-KC-E01/04-KC-E01-0320	0	sek	00:54:18;
+
+[PlayMovie]=00:53:17	Movie04/04-KC/04-KC-E01/04-KC-E01-009	0	01:01:05;
+
+[PrintText]=00:54:18	Sekai	Haah... ah! Nn...!	00:59:07;
+
+[PlayVoice]=00:54:18	Voice04/04-KC/04-KC-E01/04-KC-E01-0340	0	sek	00:59:07;
+
+[PrintText]=00:59:07	Sekai	¡Aah... hah... ah! Ah... ah...	01:05:17;
+
+[PlayVoice]=00:59:07	Voice04/04-KC/04-KC-E01/04-KC-E01-0360	0	sek	01:05:17;
+
+[PlayMovie]=01:01:05	Movie04/04-KB/04-KB-E01/04-KB-E01-010B	0	01:12:18;
+
+[PrintText]=01:05:17	Sekai	¡Makoto...! ¡Ah...!	01:09:20;
+
+[PlayVoice]=01:05:17	Voice04/04-KC/04-KC-E01/04-KC-E01-0370	0	sek	01:09:20;
+
+[CreateBG]=01:12:18	BGS	Event04/04-KC/04-KC-E01/04-KC-E01-011	01:24:09;
+
+[PrintText]=01:13:12	Sekai	¡Kwah!	01:24:08;
+
+[PlayVoice]=01:13:12	Voice04/04-KC/04-KC-E01/04-KC-E01-0390	0	sek	01:24:08;
+
+[CreateBG]=01:24:09	BGS	Event04/04-KC/04-KC-E01/04-KC-E01-012	01:28:02;
+
+[PrintText]=01:24:09	Sekai	Entonces, ¿No vas a tentarte?, ¿Incluso si alguna chica además de Kotonoha te pidiera dormir con ella?^	01:28:02;
+
+[PlayVoice]=01:24:09	Voice04/04-KC/04-KC-E01/04-KC-E01-0400	1	mak	01:28:02;
+
+[CreateBG]=01:28:02	BGS	Event04/04-KC/04-KC-E01/04-KC-E01-013	01:30:13;
+
+[PrintText]=01:28:02	Makoto	Por supuesto que no... haha.	01:30:13;
+
+[PlayVoice]=01:28:02	Voice04/04-KC/04-KC-E01/04-KC-E01-0410	0	sek	01:30:13;
+
+[CreateBG]=01:30:13	BGS	Event04/04-KC/04-KC-E01/04-KC-E01-014	01:36:18;
+
+[PrintText]=01:30:13	Sekai	Ooh, wow.	01:32:15;
+
+[PlayVoice]=01:30:13	Voice04/04-KC/04-KC-E01/04-KC-E01-0420	1	mak	01:32:15;
+
+[PrintText]=01:32:15	Makoto	Bueno...	01:33:04;
+
+[PlayVoice]=01:32:15	Voice04/04-KC/04-KC-E01/04-KC-E01-0430	0	sek	01:33:04;
+
+[PrintText]=01:33:05	Sekai	¿Hmn?^	01:36:18;
+
+[PlayVoice]=01:33:05	Voice04/04-KC/04-KC-E01/04-KC-E01-0440	1	mak	01:36:18;
+
+[PrintText]=01:36:17	Makoto	...Y si fueras tú...	01:38:01;
+
+[PlayVoice]=01:36:17	Voice04/04-KC/04-KC-E01/04-KC-E01-0460	0	sek	01:38:01;
+
+[PlayMovie]=01:36:18	Movie04/04-KC/04-KC-E01/04-KC-E01-015	0	01:50:23;
+
+[PrintText]=01:39:19	Sekai	Yo... nunca te abandonaría... Yo... Te sigo amando...	01:50:22;
+
+[PlayVoice]=01:39:19	Voice04/04-KC/04-KC-E01/04-KC-E01-0480	0	sek	01:50:22;
+
+[PrintText]=01:50:22	Sekai	¡Makoto...Te amo...! ¡Haah...!	01:55:23;
+
+[PlayVoice]=01:50:22	Voice04/04-KC/04-KC-E01/04-KC-E01-0500	0	sek	01:55:23;
+
+[PlayMovie]=01:50:23	Movie04/04-KB/04-KB-E01/04-KB-E01-010B	0	02:04:12;
+
+[PrintText]=01:55:23	Sekai	¡Haah... haah...! ¡Hah...! ¡Hah...!	02:00:00;
+
+[PlayVoice]=01:55:23	Voice04/04-KC/04-KC-E01/04-KC-E01-0510	0	sek	02:00:00;
+
+[PrintText]=02:00:00	Sekai	¡Makoto... ah...! ¡Makoto...! ¡Ah... ah...!	02:07:10;
+
+[PlayVoice]=02:00:00	Voice04/04-KC/04-KC-E01/04-KC-E01-0530	0	sek	02:07:10;
+
+[PlayMovie]=02:04:12	Movie04/04-KB/04-KB-E01/04-KB-E01-017	0	02:11:20;
+
+[PrintText]=02:07:10	Sekai	¡Ah... aah...!	02:11:20;
+
+[PlayVoice]=02:07:10	Voice04/04-KC/04-KC-E01/04-KC-E01-0540	0	sek	02:11:20;
+
+[PlaySe]=02:07:12	1	SysSe/SE_all/keitai/keitai_vib	02:09:23;
+
+[PlayMovie]=02:11:20	Movie04/04-KB/04-KB-E01/04-KB-E01-018	0	02:18:03;
+
+[PrintText]=02:11:20	Sekai	Haah... haah...	02:15:23;
+
+[PlayVoice]=02:11:20	Voice04/04-KC/04-KC-E01/04-KC-E01-0570	0	sek	02:15:23;
+
+[WhiteFade]=02:16:09	OUT	02:18:03;
+
+[CreateBG]=02:18:03	BGS	System/Screen/White	02:18:18;
+
+[PlayMovie]=02:18:18	Ini/Movie04/04-KC/04-KC-E01/04-KC-E01-020	0	02:23:07;
+
+[WhiteFade]=02:18:18	IN	02:19:03;
+
+[PrintText]=02:20:01	Sekai	De ninguna manera me podría olvidar de ti...	02:22:15;
+
+[PlayVoice]=02:20:01	Voice04/04-KC/04-KC-E01/04-KC-E01-0620	0	sek	02:22:15;
+
+[PlayMovie]=02:23:07	Movie04/04-KB/04-KB-E01/04-KB-E01-007	0	02:30:08;
+
+[PrintText]=02:23:07	Sekai	No me digas... que tú...	02:27:17;
+
+[PlayVoice]=02:23:07	Voice04/04-KC/04-KC-E01/04-KC-E01-0630	0	sek	02:27:17;
+
+[PrintText]=02:28:18	Sekai	¡Uuh... kuh... hic...!	02:34:13;
+
+[PlayVoice]=02:28:18	Voice04/04-KC/04-KC-E01/04-KC-E01-0640	0	sek	02:34:13;
+
+[EndBGM]=02:28:18	BGM/Vocal/SDV04	04:39:12;
+
+[PlayMovie]=02:30:08	Ini/Movie04/04-KC/04-KC-E01/04-KC-E01-022	0	02:32:18;
+
+[CreateBG]=02:32:18	BGS	Event04/04-KC/04-KC-E01/04-KC-E01-023	02:35:12;
+
+[CreateBG]=02:35:12	BGS	Ini/EndRoll/04-08	02:38:00;
+
+[EndRoll]=02:38:00	Ini/EndRoll/NORMAL	03:18:00;
+
+ ;
+
+[Next]=03:18:00;
+
+

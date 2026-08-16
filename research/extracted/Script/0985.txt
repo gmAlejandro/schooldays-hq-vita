@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:37:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:37:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-D02/04-KB-D02-001	00:08:12;
+
+[PrintText]=00:00:00	Makoto	Haah...	00:01:03;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-D02/04-KB-D02-0030	1	mak	00:01:03;
+
+[PrintText]=00:01:03	Kotonoha	Makoto-kun, ¿Estás cansado?^	00:03:16;
+
+[PlayVoice]=00:01:03	Voice04/04-KB/04-KB-D02/04-KB-D02-0040	0	kot	00:03:16;
+
+[PrintText]=00:03:17	Makoto	Cansado, huh. Sí, tal vez.	00:08:11;
+
+[PlayVoice]=00:03:17	Voice04/04-KB/04-KB-D02/04-KB-D02-0050	1	mak	00:08:11;
+
+[CreateBG]=00:08:12	BGS	Event04/04-KB/04-KB-D02/04-KB-D02-002	00:11:02;
+
+[PrintText]=00:08:12	Kotonoha	Pues, nos divertimos mucho en la piscina hoy...	00:11:02;
+
+[PlayVoice]=00:08:12	Voice04/04-KB/04-KB-D02/04-KB-D02-0060	0	kot	00:11:02;
+
+[PrintText]=00:11:01	Makoto	Eso no es...	00:12:10;
+
+[PlayVoice]=00:11:01	Voice04/04-KB/04-KB-D02/04-KB-D02-0070	1	mak	00:12:10;
+
+[CreateBG]=00:11:02	BGS	Event04/04-KB/04-KB-D02/04-KB-D02-003	00:18:12;
+
+[PrintText]=00:12:10	Kotonoha	¿Oh?^	00:13:05;
+
+[PlayVoice]=00:12:10	Voice04/04-KB/04-KB-D02/04-KB-D02-0080	0	kot	00:13:05;
+
+[PrintText]=00:13:05	Makoto	He estado tratando de llevarme bien contigo... así que estoy cansado.	00:20:17;
+
+[PlayVoice]=00:13:05	Voice04/04-KB/04-KB-D02/04-KB-D02-0090	1	mak	00:20:17;
+
+[PlayMovie]=00:18:12	Movie02/02-2K/02-2K-J01/02-2K-J01-001	0	00:24:02;
+
+[PrintText]=00:20:18	Kotonoha	¿Q-Qué quieres decir?^	00:24:02;
+
+[PlayVoice]=00:20:18	Voice04/04-KB/04-KB-D02/04-KB-D02-0100	0	kot	00:24:02;
+
+[CreateBG]=00:24:02	BGS	Event04/04-KB/04-KB-D02/04-KB-D02-005	00:25:12;
+
+[PrintText]=00:24:02	Makoto	...	00:24:20;
+
+[PlayVoice]=00:24:02	Voice04/04-KB/04-KB-D02/04-KB-D02-0110	1	xxx	00:24:20;
+
+[CreateBG]=00:25:12	BGS	Event04/04-KB/04-KB-D02/04-KB-D02-006	00:34:20;
+
+[PrintText]=00:25:12	Kotonoha	¿...Makoto-kun?^	00:26:16;
+
+[PlayVoice]=00:25:12	Voice04/04-KB/04-KB-D02/04-KB-D02-0120	0	kot	00:26:16;
+
+[PrintText]=00:26:17	Makoto	...	00:28:05;
+
+[PlayVoice]=00:26:17	Voice04/04-KB/04-KB-D02/04-KB-D02-0130	1	xxx	00:28:05;
+
+[PrintText]=00:28:05	Kotonoha	¿Makoto... kun?^	00:30:01;
+
+[PlayVoice]=00:28:05	Voice04/04-KB/04-KB-D02/04-KB-D02-0140	0	kot	00:30:01;
+
+[PrintText]=00:30:01	Makoto	...Creo que me he enamorado de Sekai.	00:34:20;
+
+[PlayVoice]=00:30:01	Voice04/04-KB/04-KB-D02/04-KB-D02-0150	1	mak	00:34:20;
+
+[CreateBG]=00:34:20	BGS	Event04/04-KB/04-KB-D02/04-KB-D02-007	00:36:02;
+
+[PrintText]=00:34:20	Kotonoha	¿Eh?^	00:36:03;
+
+[PlayVoice]=00:34:20	Voice04/04-KB/04-KB-D02/04-KB-D02-0160	0	kot	00:36:03;
+
+[CreateBG]=00:36:02	BGS	Event04/04-KB/04-KB-D02/04-KB-D02-008	00:37:08;
+
+[PrintText]=00:36:03	Makoto	...	00:37:07;
+
+[PlayVoice]=00:36:03	Voice04/04-KB/04-KB-D02/04-KB-D02-0170	1	xxx	00:37:07;
+
+ ;
+
+[Next]=00:37:08;
+
+

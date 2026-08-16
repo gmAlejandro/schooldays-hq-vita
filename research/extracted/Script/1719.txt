@@ -1,0 +1,58 @@
+﻿[SkipFRAME]=00:30:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:30:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-G02/05-SB-G01-001	00:05:20;
+
+[PrintText]=00:00:00	Nanami	¡No, pero escucha esto! Dijo que tenía algo muy importante que hacer...	00:05:20;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-G02/05-SB-G02-0030	0	nan	00:05:20;
+
+[PlayMovie]=00:05:20	Movie05/05-SB/05-SB-G02/05-SB-G02-002	0	00:19:15;
+
+[PrintText]=00:05:21	Sekai	Algo importante... que hacer...	00:08:22;
+
+[PlayVoice]=00:05:21	Voice05/05-SB/05-SB-G02/05-SB-G02-0040	0	sek	00:08:22;
+
+[PrintText]=00:08:21	Nanami	Lo siento, Sekai...	00:10:14;
+
+[PlayVoice]=00:08:21	Voice05/05-SB/05-SB-G02/05-SB-G02-0050	0	nan	00:10:14;
+
+[PrintText]=00:10:15	Sekai	Está bien Nanami, gracias.	00:14:00;
+
+[PlayVoice]=00:10:15	Voice05/05-SB/05-SB-G02/05-SB-G02-0060	0	sek	00:14:00;
+
+[PrintText]=00:13:23	Nanami	...	00:14:14;
+
+[PlayVoice]=00:13:23	Voice05/05-SB/05-SB-G02/05-SB-G02-0070	0	xxx	00:14:14;
+
+[PrintText]=00:14:14	Sekai	En serio, realmente lo aprecio... ya estoy bien, puedes irte.	00:19:15;
+
+[PlayVoice]=00:14:14	Voice05/05-SB/05-SB-G02/05-SB-G02-0080	0	sek	00:19:15;
+
+[CreateBG]=00:19:15	BGS	Event05/05-SB/05-SB-G02/05-SB-G02-004	00:30:08;
+
+[PrintText]=00:19:15	Nanami	...Bien, anímate ¿Vale?^	00:22:19;
+
+[PlayVoice]=00:19:15	Voice05/05-SB/05-SB-G02/05-SB-G02-0090	0	nan	00:22:19;
+
+[PrintText]=00:22:20	Sekai	Sí...	00:23:11;
+
+[PlayVoice]=00:22:20	Voice05/05-SB/05-SB-G02/05-SB-G02-0100	0	sek	00:23:11;
+
+[PrintText]=00:23:11	Nanami	¡Bueno, Feliz navidad!	00:27:02;
+
+[PlayVoice]=00:23:11	Voice05/05-SB/05-SB-G02/05-SB-G02-0110	0	nan	00:27:02;
+
+[PrintText]=00:27:03	Sekai	Feliz... Navidad...	00:29:05;
+
+[PlayVoice]=00:27:03	Voice05/05-SB/05-SB-G02/05-SB-G02-0120	0	sek	00:29:05;
+
+[BlackFade]=00:29:08	OUT	00:30:08;
+
+ ;
+
+[Next]=00:30:08;
+
+
+

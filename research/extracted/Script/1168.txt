@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:14:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O09/04-SA-O09-001	00:14:05;
+
+[PrintText]=00:00:00	Sekai	Me aseguraré de que mi Mamá se mantenga callada.	00:02:06;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O09/04-SA-O09-0030	0	sek	00:02:06;
+
+[PrintText]=00:02:05	Makoto	No tienes porque hacerlo.	00:04:18;
+
+[PlayVoice]=00:02:05	Voice04/04-SA/04-SA-O09/04-SA-O09-0040	1	mak	00:04:18;
+
+[PrintText]=00:04:19	Sekai	Si no lo hago, empezará a decir cosas graciosas.	00:07:15;
+
+[PlayVoice]=00:04:19	Voice04/04-SA/04-SA-O09/04-SA-O09-0050	0	sek	00:07:15;
+
+[PrintText]=00:07:15	Makoto	Haha... bueno, me quedaré por un momento, entonces.	00:12:00;
+
+[PlayVoice]=00:07:15	Voice04/04-SA/04-SA-O09/04-SA-O09-0060	1	mak	00:12:00;
+
+[PrintText]=00:12:00	Sekai	Uh-huh.	00:12:21;
+
+[PlayVoice]=00:12:00	Voice04/04-SA/04-SA-O09/04-SA-O09-0070	0	sek	00:12:21;
+
+[BlackFade]=00:13:05	OUT	00:14:05;
+
+ ;
+
+[Next]=00:14:05;
+
+

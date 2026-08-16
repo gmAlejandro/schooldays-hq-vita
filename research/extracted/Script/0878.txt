@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:05:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:11:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-H02/05-SA-H02-001	00:03:02;
+
+[PrintText]=00:00:00	Makoto	No.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice05/05-SA/05-SA-H02/05-SA-H02-0030	1	mak	00:00:20;
+
+[PrintText]=00:00:17	Kotonoha	Por favor, déjame entrar.	00:02:03;
+
+[PlayVoice]=00:00:17	Voice05/05-SA/05-SA-H02/05-SA-H02-0040	0	kot	00:02:03;
+
+[PrintText]=00:01:19	Makoto	Ya te dije que no.	00:03:07;
+
+[PlayVoice]=00:01:19	Voice05/05-SA/05-SA-H02/05-SA-H02-0050	1	mak	00:03:07;
+
+[CreateBG]=00:03:02	BGS	Event05/05-SA/05-SA-H02/05-SA-H02-002	00:11:09;
+
+[PrintText]=00:03:03	Kotonoha	¿Por qué no?^	00:04:13;
+
+[PlayVoice]=00:03:03	Voice05/05-SA/05-SA-H02/05-SA-H02-0060	0	kot	00:04:13;
+
+[PrintText]=00:04:16	Makoto	Porque...	00:05:17;
+
+[PlayVoice]=00:04:16	Voice05/05-SA/05-SA-H02/05-SA-H02-0070	1	mak	00:05:17;
+
+[SetSELECT]=00:05:05	'Amo a Sekai'	null	00:10:05;
+
+ ;
+
+[Next]=00:11:09;
+
+

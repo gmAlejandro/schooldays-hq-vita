@@ -1,0 +1,172 @@
+﻿[SkipFRAME]=02:29:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:29:23;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-001	00:02:20;
+
+[PrintText]=00:00:04	Kotonoha	...	00:00:15;
+
+[PlayVoice]=00:00:04	Voice05/05-SC/05-SC-C00/05-SC-C00-0060	0	xxx	00:00:15;
+
+[PrintText]=00:00:21	Sekai	¿De qué quieres hablar?^	00:02:20;
+
+[PlayVoice]=00:00:21	Voice05/05-SC/05-SC-C00/05-SC-C00-0070	0	sek	00:02:20;
+
+[CreateBG]=00:02:20	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-002	00:04:13;
+
+[PrintText]=00:02:20	Kotonoha	Es acerca de Makoto-kun.	00:04:13;
+
+[PlayVoice]=00:02:20	Voice05/05-SC/05-SC-C00/05-SC-C00-0090	0	kot	00:04:13;
+
+[CreateBG]=00:04:13	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-003	00:05:18;
+
+[PrintText]=00:04:13	Sekai	...	00:05:00;
+
+[PlayVoice]=00:04:13	Voice05/05-SC/05-SC-C00/05-SC-C00-0100	0	xxx	00:05:00;
+
+[CreateBG]=00:05:18	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-005	00:11:01;
+
+[PrintText]=00:05:18	Kotonoha	¡Por favor... deja... de s-seducirlo!	00:11:01;
+
+[PlayVoice]=00:05:18	Voice05/05-SC/05-SC-C00/05-SC-C00-0110	0	kot	00:11:01;
+
+[CreateBG]=00:11:01	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-006	00:28:15;
+
+[PrintText]=00:11:01	Sekai	...	00:11:20;
+
+[PlayVoice]=00:11:01	Voice05/05-SC/05-SC-C00/05-SC-C00-0130	0	xxx	00:11:20;
+
+[PrintText]=00:11:20	Kotonoha	Él no es la persona que crees...la verdad es que, está enamorado de mí!	00:20:22;
+
+[PlayVoice]=00:11:20	Voice05/05-SC/05-SC-C00/05-SC-C00-0140	0	kot	00:20:22;
+
+[PrintText]=00:20:22	Kotonoha	Solo ha sido un malentendido al decirte que te ama....	00:27:09;
+
+[PlayVoice]=00:20:22	Voice05/05-SC/05-SC-C00/05-SC-C00-0141	0	kot	00:27:09;
+
+[PrintText]=00:27:09	Sekai	Katsura-san...	00:28:14;
+
+[PlayVoice]=00:27:09	Voice05/05-SC/05-SC-C00/05-SC-C00-0150	0	sek	00:28:14;
+
+[CreateBG]=00:28:14	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-007	00:41:13;
+
+[PrintText]=00:28:14	Kotonoha	¡Tal vez por eso él te guste... pero es mi novio!	00:41:14;
+
+[PlayVoice]=00:28:14	Voice05/05-SC/05-SC-C00/05-SC-C00-0160	0	kot	00:41:14;
+
+[CreateBG]=00:41:13	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-008	01:16:23;
+
+[PrintText]=00:41:15	Sekai	Sabes que... siempre he estado enamorado de Makoto.	00:46:06;
+
+[PlayVoice]=00:41:15	Voice05/05-SC/05-SC-C00/05-SC-C00-0170	0	sek	00:46:06;
+
+[PrintText]=00:46:06	Kotonoha	¿Eh...?^	00:47:03;
+
+[PlayVoice]=00:46:06	Voice05/05-SC/05-SC-C00/05-SC-C00-0180	0	kot	00:47:03;
+
+[PrintText]=00:47:03	Sekai	Pero pensé que él te amaba, así que intente ayudarlo contigo. Le he causado muchos problemas.	01:03:01;
+
+[PlayVoice]=00:47:03	Voice05/05-SC/05-SC-C00/05-SC-C00-0190	0	sek	01:03:01;
+
+[PrintText]=01:03:01	Kotonoha	Saionji-san... ¿Qué estás tratando de decir...?^	01:07:18;
+
+[PlayVoice]=01:03:01	Voice05/05-SC/05-SC-C00/05-SC-C00-0200	0	kot	01:07:18;
+
+[PrintText]=01:07:18	Sekai	Makoto dijo que me amaba desde el inicio... pero yo no era honesta conmigo.	01:16:22;
+
+[PlayVoice]=01:07:18	Voice05/05-SC/05-SC-C00/05-SC-C00-0210	0	sek	01:16:22;
+
+[CreateBG]=01:16:23	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-009	01:45:20;
+
+[PrintText]=01:16:23	Kotonoha	Eso no es verdad... de qué hablas ¿Es que todo este tiempo...?^	01:22:15;
+
+[PlayVoice]=01:16:23	Voice05/05-SC/05-SC-C00/05-SC-C00-0220	0	kot	01:22:15;
+
+[PrintText]=01:22:15	Kotonoha	¿No fuiste tú la que nos presento?... estás actuando extraño hoy Saionji-san.	01:31:00;
+
+[PlayVoice]=01:22:15	Voice05/05-SC/05-SC-C00/05-SC-C00-0221	0	kot	01:31:00;
+
+[PrintText]=01:31:00	Sekai	He estado actuando extraña desde hace mucho.	01:35:07;
+
+[PlayVoice]=01:31:00	Voice05/05-SC/05-SC-C00/05-SC-C00-0230	0	sek	01:35:07;
+
+[PrintText]=01:35:08	Kotonoha	...	01:36:14;
+
+[PlayVoice]=01:35:08	Voice05/05-SC/05-SC-C00/05-SC-C00-0240	0	xxx	01:36:14;
+
+[PrintText]=01:36:14	Sekai	Pero desde ahora voy a ser honesta conmigo misma. Amo a Makoto.	01:44:14;
+
+[PlayVoice]=01:36:14	Voice05/05-SC/05-SC-C00/05-SC-C00-0250	0	sek	01:44:14;
+
+[PrintText]=01:44:14	Kotonoha	No...	01:45:20;
+
+[PlayVoice]=01:44:14	Voice05/05-SC/05-SC-C00/05-SC-C00-0260	0	kot	01:45:20;
+
+[CreateBG]=01:45:20	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-010	02:14:02;
+
+[PrintText]=01:45:20	Sekai	Te he hecho algo terrible, no espero que me perdones por lo que diga... pero aún así, lo siento.	01:58:15;
+
+[PlayVoice]=01:45:20	Voice05/05-SC/05-SC-C00/05-SC-C00-0270	0	sek	01:58:15;
+
+[PrintText]=01:58:15	Kotonoha	No... eso...	02:01:23;
+
+[PlayVoice]=01:58:15	Voice05/05-SC/05-SC-C00/05-SC-C00-0280	0	kot	02:01:23;
+
+[PrintText]=02:01:23	Sekai	Estoy saliendo con Makoto.	02:05:05;
+
+[PlayVoice]=02:01:23	Voice05/05-SC/05-SC-C00/05-SC-C00-0290	0	sek	02:05:05;
+
+[PrintText]=02:05:05	Kotonoha	No... no puedes...	02:08:14;
+
+[PlayVoice]=02:05:05	Voice05/05-SC/05-SC-C00/05-SC-C00-0300	0	kot	02:08:14;
+
+[PrintText]=02:08:14	Sekai	Por favor, renuncia a él.	02:11:21;
+
+[PlayVoice]=02:08:14	Voice05/05-SC/05-SC-C00/05-SC-C00-0310	0	sek	02:11:21;
+
+[PrintText]=02:11:22	Kotonoha	No...	02:12:22;
+
+[PlayVoice]=02:11:22	Voice05/05-SC/05-SC-C00/05-SC-C00-0320	0	kot	02:12:22;
+
+[PrintText]=02:12:22	Sekai	Por favor.	02:14:02;
+
+[PlayVoice]=02:12:22	Voice05/05-SC/05-SC-C00/05-SC-C00-0330	0	sek	02:14:02;
+
+[PlayMovie]=02:14:02	Movie05/05-SC/05-SC-C00/05-SC-C00-011	0	02:16:04;
+
+[PrintText]=02:14:10	Kotonoha	¡No!	02:15:15;
+
+[PlayVoice]=02:14:10	Voice05/05-SC/05-SC-C00/05-SC-C00-0340	0	kot	02:15:15;
+
+[PlayMovie]=02:16:04	Movie05/05-SC/05-SC-C00/05-SC-C00-012	0	02:25:00;
+
+[PrintText]=02:16:08	Sekai	...	02:17:05;
+
+[PlayVoice]=02:16:08	Voice05/05-SC/05-SC-C00/05-SC-C00-0360	0	xxx	02:17:05;
+
+[PrintText]=02:17:12	Kotonoha	¡Haah... haah...!	02:22:02;
+
+[PlayVoice]=02:17:12	Voice05/05-SC/05-SC-C00/05-SC-C00-0370	0	kot	02:22:02;
+
+[PrintText]=02:22:01	Sekai	...Lo siento.	02:25:01;
+
+[PlayVoice]=02:22:01	Voice05/05-SC/05-SC-C00/05-SC-C00-0380	0	sek	02:25:01;
+
+[CreateBG]=02:25:00	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-013	02:27:04;
+
+[PrintText]=02:25:03	Kotonoha	¡Noooooo!	02:27:03;
+
+[PlayVoice]=02:25:03	Voice05/05-SC/05-SC-C00/05-SC-C00-0390	0	kot	02:27:03;
+
+[CreateBG]=02:27:04	BGS	Event05/05-SC/05-SC-C00/05-SC-C00-014	02:29:23;
+
+[PrintText]=02:27:06	Sekai	...	02:29:14;
+
+[PlayVoice]=02:27:06	Voice05/05-SC/05-SC-C00/05-SC-C00-0410	0	xxx	02:29:14;
+
+ ;
+
+[Next]=02:29:23;
+
+
+

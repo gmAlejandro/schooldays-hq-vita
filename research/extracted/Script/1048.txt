@@ -1,0 +1,361 @@
+﻿[SkipFRAME]=03:39:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	03:39:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-001	00:02:10;
+
+[CreateBG]=00:02:11	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-002	00:15:22;
+
+[PrintText]=00:02:13	Otome	¡Haah... El dulce sabor del pollo es..!	00:06:17;
+
+[PlayVoice]=00:02:13	Voice04/04-KB/04-KB-M00/04-KB-M00-0040	0	oto	00:06:17;
+
+[PrintText]=00:06:18	Makoto	No exageres.	00:08:11;
+
+[PlayVoice]=00:06:18	Voice04/04-KB/04-KB-M00/04-KB-M00-0050	1	mak	00:08:11;
+
+[PrintText]=00:08:11	Otome	Siempre escucho de Natsumi y las otras hablar de lo bueno que es este lugar.	00:13:17;
+
+[PlayVoice]=00:08:11	Voice04/04-KB/04-KB-M00/04-KB-M00-0060	0	oto	00:13:17;
+
+[PrintText]=00:13:17	Makoto	Estuviste practicando hasta tarde ¿No?^	00:15:21;
+
+[PlayVoice]=00:13:17	Voice04/04-KB/04-KB-M00/04-KB-M00-0070	1	mak	00:15:21;
+
+[CreateBG]=00:15:21	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-002A	00:21:01;
+
+[PrintText]=00:15:22	Otome	Siempre suelto estar cansada en el camino a casa, y suele ser aburrido ir a casa sola.	00:21:01;
+
+[PlayVoice]=00:15:22	Voice04/04-KB/04-KB-M00/04-KB-M00-0080	0	oto	00:21:01;
+
+[CreateBG]=00:21:01	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-002B	00:27:22;
+
+[PrintText]=00:21:03	Makoto	Es difícil darle tiempo a los amigos con las actividades del club ¿eh?^	00:24:12;
+
+[PlayVoice]=00:21:03	Voice04/04-KB/04-KB-M00/04-KB-M00-0090	1	mak	00:24:12;
+
+[PrintText]=00:24:11	Otome	Sip. Te vuelves solitaria, sabes.	00:26:19;
+
+[PlayVoice]=00:24:11	Voice04/04-KB/04-KB-M00/04-KB-M00-0100	0	oto	00:26:19;
+
+[PrintText]=00:26:20	Makoto	Hmn.	00:27:23;
+
+[PlayVoice]=00:26:20	Voice04/04-KB/04-KB-M00/04-KB-M00-0110	1	mak	00:27:23;
+
+[CreateBG]=00:27:22	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-002C	00:41:13;
+
+[PrintText]=00:27:23	Otome	A pasado mucho desde que íbamos a casa juntos ¿Verdad?^	00:30:14;
+
+[PlayVoice]=00:27:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0120	0	oto	00:30:14;
+
+[PrintText]=00:30:14	Makoto	¿En serio..?^	00:32:00;
+
+[PlayVoice]=00:30:14	Voice04/04-KB/04-KB-M00/04-KB-M00-0130	1	mak	00:32:00;
+
+[PrintText]=00:32:02	Otome	La última vez fue en la ceremonia de entrada.	00:34:06;
+
+[PlayVoice]=00:32:02	Voice04/04-KB/04-KB-M00/04-KB-M00-0140	0	oto	00:34:06;
+
+[PrintText]=00:34:08	Makoto	Todos los de la escuela iban a casa juntos ese día ¿Recuerdas?^	00:40:04;
+
+[PlayVoice]=00:34:08	Voice04/04-KB/04-KB-M00/04-KB-M00-0150	1	mak	00:40:04;
+
+[PrintText]=00:40:09	Otome	Ah Sí, es cierto.	00:41:12;
+
+[PlayVoice]=00:40:09	Voice04/04-KB/04-KB-M00/04-KB-M00-0160	0	oto	00:41:12;
+
+[CreateBG]=00:41:13	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-003	00:50:07;
+
+[PrintText]=00:41:14	Makoto	Estaba pensando, ¿Qué es esto, la primaria?, me asegure de salir mas tarde...	00:47:15;
+
+[PlayVoice]=00:41:14	Voice04/04-KB/04-KB-M00/04-KB-M00-0170	1	mak	00:47:15;
+
+[PrintText]=00:47:14	Otome	Haha... Ya veo.	00:50:04;
+
+[PlayVoice]=00:47:14	Voice04/04-KB/04-KB-M00/04-KB-M00-0180	0	oto	00:50:04;
+
+[CreateBG]=00:50:07	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-004	01:08:04;
+
+[PrintText]=00:50:09	Makoto	¿Qué hay de ti?^	00:51:08;
+
+[PlayVoice]=00:50:09	Voice04/04-KB/04-KB-M00/04-KB-M00-0190	1	mak	00:51:08;
+
+[PrintText]=00:51:13	Otome	Yo... iba a casa con alguien después de eso.	00:55:09;
+
+[PlayVoice]=00:51:13	Voice04/04-KB/04-KB-M00/04-KB-M00-0200	0	oto	00:55:09;
+
+[PrintText]=00:55:12	Makoto	No a cambiado mucho entonces, huh.	00:56:20;
+
+[PlayVoice]=00:55:12	Voice04/04-KB/04-KB-M00/04-KB-M00-0220	1	mak	00:56:20;
+
+[PrintText]=00:56:21	Otome	Sí, supongo... haha.	00:59:05;
+
+[PlayVoice]=00:56:21	Voice04/04-KB/04-KB-M00/04-KB-M00-0230	0	oto	00:59:05;
+
+[PrintText]=00:59:10	Makoto	Pero, una vez que te uniste al club de baloncesto, ya no pudiste salir con los demás ¿No?^	01:05:18;
+
+[PlayVoice]=00:59:10	Voice04/04-KB/04-KB-M00/04-KB-M00-0240	1	mak	01:05:18;
+
+[PrintText]=01:05:21	Otome	Sí, así fue.	01:08:04;
+
+[PlayVoice]=01:05:21	Voice04/04-KB/04-KB-M00/04-KB-M00-0250	0	oto	01:08:04;
+
+[CreateBG]=01:08:04	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-005	01:15:11;
+
+[PrintText]=01:08:08	Makoto	¿El club de baloncesto es divertido?^	01:09:16;
+
+[PlayVoice]=01:08:08	Voice04/04-KB/04-KB-M00/04-KB-M00-0260	1	mak	01:09:16;
+
+[PrintText]=01:10:00	Otome	Claro... nos tomamos nuestro tiempo desde que nos volvimos grandes.	01:14:02;
+
+[PlayVoice]=01:10:00	Voice04/04-KB/04-KB-M00/04-KB-M00-0270	0	oto	01:14:02;
+
+[PrintText]=01:14:05	Makoto	¿Crees poder tener una mejor posición?^	01:15:11;
+
+[PlayVoice]=01:14:05	Voice04/04-KB/04-KB-M00/04-KB-M00-0280	1	mak	01:15:11;
+
+[CreateBG]=01:15:11	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-006	01:28:23;
+
+[PrintText]=01:15:14	Otome	Oh, ¡Déjalo! No soy como Nanami o las otras chicas.	01:20:14;
+
+[PlayVoice]=01:15:14	Voice04/04-KB/04-KB-M00/04-KB-M00-0290	0	oto	01:20:14;
+
+[PrintText]=01:20:15	Makoto	¿Kanroji está en el club deportivo?^	01:24:00;
+
+[PlayVoice]=01:20:15	Voice04/04-KB/04-KB-M00/04-KB-M00-0300	1	mak	01:24:00;
+
+[PrintText]=01:24:00	Otome	Sip. Nanami es increíble, y yo soy solo de primer año.	01:28:22;
+
+[PlayVoice]=01:24:00	Voice04/04-KB/04-KB-M00/04-KB-M00-0310	0	oto	01:28:22;
+
+[CreateBG]=01:28:23	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-002	01:50:14;
+
+[PrintText]=01:28:23	Makoto	Ya veo... te estás esforzando ¿Eh?^	01:33:12;
+
+[PlayVoice]=01:28:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0320	1	mak	01:33:12;
+
+[PrintText]=01:33:12	Otome	Sí... pero gracias al club, no he podido salir ni ni divertirme como antes.	01:37:22;
+
+[PlayVoice]=01:33:12	Voice04/04-KB/04-KB-M00/04-KB-M00-0330	0	oto	01:37:22;
+
+[PrintText]=01:37:23	Makoto	Debe ser difícil.	01:39:04;
+
+[PlayVoice]=01:37:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0340	1	mak	01:39:04;
+
+[PrintText]=01:39:04	Otome	¿Qué hay de ti, Itou? ¿Algo bueno en tu vida?^	01:41:09;
+
+[PlayVoice]=01:39:04	Voice04/04-KB/04-KB-M00/04-KB-M00-0350	0	oto	01:41:09;
+
+[PrintText]=01:41:20	Makoto	Yo... nada, solo un poco estresado.	01:47:21;
+
+[PlayVoice]=01:41:20	Voice04/04-KB/04-KB-M00/04-KB-M00-0360	1	mak	01:47:21;
+
+[PrintText]=01:47:22	Otome	¿...Por Katsura?^	01:50:15;
+
+[PlayVoice]=01:47:22	Voice04/04-KB/04-KB-M00/04-KB-M00-0370	0	oto	01:50:15;
+
+[CreateBG]=01:50:14	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-007A	01:51:04;
+
+[PrintText]=01:50:15	Makoto	¿Eh?^	01:51:04;
+
+[PlayVoice]=01:50:15	Voice04/04-KB/04-KB-M00/04-KB-M00-0380	1	mak	01:51:04;
+
+[CreateBG]=01:51:04	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-007B	01:58:04;
+
+[PrintText]=01:51:04	Otome	Ah... Lo siento. No tienes que decírmelo si es difícil hablar de ello.	01:55:02;
+
+[PlayVoice]=01:51:04	Voice04/04-KB/04-KB-M00/04-KB-M00-0390	0	oto	01:55:02;
+
+[PrintText]=01:55:01	Makoto	Sí...	01:55:22;
+
+[PlayVoice]=01:55:01	Voice04/04-KB/04-KB-M00/04-KB-M00-0400	1	mak	01:55:22;
+
+[PrintText]=01:55:23	Otome	Los vi en el tren esta mañana.	01:58:03;
+
+[PlayVoice]=01:55:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0410	0	oto	01:58:03;
+
+[PrintText]=01:58:03	Makoto	Uwah... no espíes a la gente así.	02:02:01;
+
+[PlayVoice]=01:58:03	Voice04/04-KB/04-KB-M00/04-KB-M00-0420	1	mak	02:02:01;
+
+[CreateBG]=01:58:04	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-008	02:14:00;
+
+[PrintText]=02:02:02	Otome	No podía evitarlo. Fue esta mañana en el tren, sabes, si no quieres que nadie te vea, anda a un lugar privado.	02:08:23;
+
+[PlayVoice]=02:02:02	Voice04/04-KB/04-KB-M00/04-KB-M00-0430	0	oto	02:08:23;
+
+[PrintText]=02:08:23	Makoto	No quería llegar a eso...	02:11:01;
+
+[PlayVoice]=02:08:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0440	1	mak	02:11:01;
+
+[PrintText]=02:11:02	Otome	Sí, me lo imaginaba...	02:12:11;
+
+[PlayVoice]=02:11:02	Voice04/04-KB/04-KB-M00/04-KB-M00-0450	0	oto	02:12:11;
+
+[PrintText]=02:12:16	Makoto	Sí...	02:13:08;
+
+[PlayVoice]=02:12:16	Voice04/04-KB/04-KB-M00/04-KB-M00-0460	1	mak	02:13:08;
+
+[CreateBG]=02:14:00	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-009	02:16:23;
+
+[PrintText]=02:14:00	Otome	Entonces, ¿Tu y Katsura están saliendo?^	02:17:00;
+
+[PlayVoice]=02:14:00	Voice04/04-KB/04-KB-M00/04-KB-M00-0470	0	oto	02:17:00;
+
+[CreateBG]=02:16:23	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-010	02:21:01;
+
+[PrintText]=02:16:23	Makoto	Estábamos.	02:17:12;
+
+[PlayVoice]=02:16:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0480	1	mak	02:17:12;
+
+[PrintText]=02:17:14	Otome	¿Estaban?^	02:18:03;
+
+[PlayVoice]=02:17:14	Voice04/04-KB/04-KB-M00/04-KB-M00-0490	0	oto	02:18:03;
+
+[PrintText]=02:18:03	Makoto	Hace poco, terminamos.	02:20:19;
+
+[PlayVoice]=02:18:03	Voice04/04-KB/04-KB-M00/04-KB-M00-0500	1	mak	02:20:19;
+
+[CreateBG]=02:21:01	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-009	02:24:05;
+
+[PrintText]=02:21:02	Otome	Ah... por eso es que...	02:22:23;
+
+[PlayVoice]=02:21:02	Voice04/04-KB/04-KB-M00/04-KB-M00-0510	0	oto	02:22:23;
+
+[PrintText]=02:22:23	Makoto	...	02:24:05;
+
+[PlayVoice]=02:22:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0520	1	xxx	02:24:05;
+
+[CreateBG]=02:24:05	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-004	02:27:21;
+
+[PrintText]=02:24:06	Otome	Estaba llorando, sabías.	02:26:07;
+
+[PlayVoice]=02:24:06	Voice04/04-KB/04-KB-M00/04-KB-M00-0530	0	oto	02:26:07;
+
+[PrintText]=02:26:06	Makoto	...	02:27:10;
+
+[PlayVoice]=02:26:06	Voice04/04-KB/04-KB-M00/04-KB-M00-0540	1	xxx	02:27:10;
+
+[CreateBG]=02:27:21	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-009	02:41:23;
+
+[PrintText]=02:27:23	Otome	¡Ah! ¡No! Sabes, a lo que pienso, no hacían buena pareja.	02:33:20;
+
+[PlayVoice]=02:27:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0550	0	oto	02:33:20;
+
+[PrintText]=02:34:04	Makoto	Sí...	02:34:19;
+
+[PlayVoice]=02:34:04	Voice04/04-KB/04-KB-M00/04-KB-M00-0560	1	mak	02:34:19;
+
+[PrintText]=02:35:07	Otome	Necesitas a una chica con más...	02:37:12;
+
+[PlayVoice]=02:35:07	Voice04/04-KB/04-KB-M00/04-KB-M00-0570	0	oto	02:37:12;
+
+[PrintText]=02:37:11	Makoto	¿Más?^	02:38:07;
+
+[PlayVoice]=02:37:11	Voice04/04-KB/04-KB-M00/04-KB-M00-0580	1	mak	02:38:07;
+
+[PrintText]=02:38:10	Otome	Más animada ¿De acuerdo?^	02:41:20;
+
+[PlayVoice]=02:38:10	Voice04/04-KB/04-KB-M00/04-KB-M00-0590	0	oto	02:41:20;
+
+[CreateBG]=02:41:23	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-014	02:46:16;
+
+[PrintText]=02:41:23	Makoto	¿Lo crees?^	02:42:22;
+
+[PlayVoice]=02:41:23	Voice04/04-KB/04-KB-M00/04-KB-M00-0600	1	mak	02:42:22;
+
+[PrintText]=02:43:02	Otome	Eso es lo que pienso.	02:44:15;
+
+[PlayVoice]=02:43:02	Voice04/04-KB/04-KB-M00/04-KB-M00-0610	0	oto	02:44:15;
+
+[PrintText]=02:44:22	Makoto	Sí, tal vez...	02:46:15;
+
+[PlayVoice]=02:44:22	Voice04/04-KB/04-KB-M00/04-KB-M00-0620	1	mak	02:46:15;
+
+[CreateBG]=02:46:16	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-002	02:53:10;
+
+[PrintText]=02:46:19	Otome	Escucha, si no hay nadie que te gusta...	02:51:08;
+
+[PlayVoice]=02:46:19	Voice04/04-KB/04-KB-M00/04-KB-M00-0630	0	oto	02:51:08;
+
+[PrintText]=02:51:05	Makoto	Espera, no tienes porque decir eso.	02:53:09;
+
+[PlayVoice]=02:51:05	Voice04/04-KB/04-KB-M00/04-KB-M00-0640	1	mak	02:53:09;
+
+[CreateBG]=02:53:10	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-015B	02:54:07;
+
+[PrintText]=02:53:10	Otome	¿Eh?^	02:54:06;
+
+[PlayVoice]=02:53:10	Voice04/04-KB/04-KB-M00/04-KB-M00-0650	0	oto	02:54:06;
+
+[CreateBG]=02:54:07	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-015C	02:58:11;
+
+[PrintText]=02:54:12	Makoto	Te conozco, estabas a punto de querer hacerme ligar con alguien ¿No?^	02:58:10;
+
+[PlayVoice]=02:54:12	Voice04/04-KB/04-KB-M00/04-KB-M00-0660	1	mak	02:58:10;
+
+[PrintText]=02:58:10	Otome	Eh... ah... P-pues, Sí. Haha...	03:03:06;
+
+[PlayVoice]=02:58:10	Voice04/04-KB/04-KB-M00/04-KB-M00-0670	0	oto	03:03:06;
+
+[CreateBG]=02:58:11	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-015D	03:08:08;
+
+[PrintText]=03:03:06	Makoto	No estoy de humor ahora...	03:04:22;
+
+[PlayVoice]=03:03:06	Voice04/04-KB/04-KB-M00/04-KB-M00-0680	1	mak	03:04:22;
+
+[PrintText]=03:05:05	Otome	Ya veo... que lastima.	03:07:20;
+
+[PlayVoice]=03:05:05	Voice04/04-KB/04-KB-M00/04-KB-M00-0690	0	oto	03:07:20;
+
+[PrintText]=03:08:06	Makoto	Aún así, gracias... este tipo de cosas solo se lo diría a una amiga como tú.	03:16:20;
+
+[PlayVoice]=03:08:06	Voice04/04-KB/04-KB-M00/04-KB-M00-0700	1	mak	03:16:20;
+
+[CreateBG]=03:08:08	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-016A	03:22:06;
+
+[PrintText]=03:16:22	Otome	Eso... claro.	03:19:16;
+
+[PlayVoice]=03:16:22	Voice04/04-KB/04-KB-M00/04-KB-M00-0710	0	oto	03:19:16;
+
+[PrintText]=03:20:02	Makoto	Somos buenos amigos, ¿No?^	03:21:22;
+
+[PlayVoice]=03:20:02	Voice04/04-KB/04-KB-M00/04-KB-M00-0720	1	mak	03:21:22;
+
+[CreateBG]=03:22:06	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-016B	03:28:08;
+
+[PrintText]=03:22:07	Otome	¿Eh...?^	03:23:03;
+
+[PlayVoice]=03:22:07	Voice04/04-KB/04-KB-M00/04-KB-M00-0730	0	oto	03:23:03;
+
+[PrintText]=03:23:11	Makoto	Uwah... ¿Qué? ¿En qué estabas pensando?, ¿'Rayos no, no eres mi amigo'?^	03:28:04;
+
+[PlayVoice]=03:23:11	Voice04/04-KB/04-KB-M00/04-KB-M00-0740	1	mak	03:28:04;
+
+[CreateBG]=03:28:08	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-017	03:33:18;
+
+[PrintText]=03:28:10	Otome	¡N-no...! Por supuesto, somos buenos amigos.	03:33:15;
+
+[PlayVoice]=03:28:10	Voice04/04-KB/04-KB-M00/04-KB-M00-0750	0	oto	03:33:15;
+
+[PrintText]=03:33:14	Makoto	Vale.	03:34:12;
+
+[PlayVoice]=03:33:14	Voice04/04-KB/04-KB-M00/04-KB-M00-0760	1	mak	03:34:12;
+
+[CreateBG]=03:33:18	BGS	Event04/04-KB/04-KB-M00/04-KB-M00-001	03:39:07;
+
+[PrintText]=03:34:15	Otome	Ahaha...	03:35:21;
+
+[PlayVoice]=03:34:15	Voice04/04-KB/04-KB-M00/04-KB-M00-0770	0	oto	03:35:21;
+
+[PrintText]=03:35:20	Makoto	Haha.	03:38:03;
+
+[PlayVoice]=03:35:20	Voice04/04-KB/04-KB-M00/04-KB-M00-0790	1	mak	03:38:03;
+
+[BlackFade]=03:38:07	OUT	03:39:07;
+
+ ;
+
+[Next]=03:39:07;
+
+

@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:27:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:27:15;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-I01/SE03-BK-I01-001	00:27:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-I01/03-BK-I01-001	00:08:12;
+
+[PrintText]=00:00:00	Kotonoha	Eheheh... ¿Me pregunto qué tan rápido fluirá el agua?^	00:05:02;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-I01/03-BK-I01-0030	0	kot	00:05:02;
+
+[PrintText]=00:05:02	Taisuke	Sí.	00:06:19;
+
+[PlayVoice]=00:05:02	Voice03/03-BK/03-BK-I01/03-BK-I01-0040	1	tai	00:06:19;
+
+[PrintText]=00:06:19	Makoto	...	00:07:16;
+
+[PlayVoice]=00:06:19	Voice03/03-BK/03-BK-I01/03-BK-I01-0060	1	xxx	00:07:16;
+
+[CreateBG]=00:08:12	BGS	Event03/03-BK/03-BK-I01/03-BK-I01-002	00:27:15;
+
+[PrintText]=00:08:12	Makoto	¿No está preocupado... sobre lo que me dijo el otro día?^	00:12:23;
+
+[PlayVoice]=00:08:12	Voice03/03-BK/03-BK-I01/03-BK-I01-0070	1	xxx	00:12:23;
+
+[PrintText]=00:14:13	Makoto	Bueno... supongo que es la primera vez para ellos. Ellos probablemente no estén preocupados por cosas así.	00:23:23;
+
+[PlayVoice]=00:14:13	Voice03/03-BK/03-BK-I01/03-BK-I01-0080	1	xxx	00:23:23;
+
+[PlayVoice]=00:25:03	Voice03/03-BK/03-BK-I01/03-BK-I01-0090			00:27:07;
+
+ ;
+
+[Next]=00:27:15;
+
+

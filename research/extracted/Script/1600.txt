@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:35:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:35:15;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/station_train/train_in	00:35:15;
+
+[PlayMovie]=00:00:00	Movie05/05-KF/05-KF-I01/05-KF-I01-001	0	00:10:00;
+
+[PlayMovie]=00:10:00	Movie05/05-KF/05-KF-I01/05-KF-I01-002	0	00:17:22;
+
+[PlaySe]=00:10:10	1	SysSe/SE_all/keitai/mail_makoto	00:11:05;
+
+[PrintText]=00:11:07	Makoto	...	00:13:11;
+
+[PlayVoice]=00:11:07	Voice05/05-KF/05-KF-I01/05-KF-I01-0040	1	xxx	00:13:11;
+
+[PlaySe]=00:13:06	1	SysSe/SE_all/keitai/mail_makoto	00:14:02;
+
+[PlaySe]=00:16:03	1	SysSe/SE_all/keitai/mail_makoto	00:16:22;
+
+[PlayMovie]=00:17:22	Movie05/05-KF/05-KF-I01/05-KF-I01-003	0	00:27:16;
+
+[PlaySe]=00:18:23	1	SysSe/SE_all/keitai/mail_makoto	00:19:19;
+
+[PlaySe]=00:21:20	1	SysSe/SE_all/keitai/mail_makoto	00:22:16;
+
+[PlaySe]=00:24:16	1	SysSe/SE_all/keitai/mail_makoto	00:25:11;
+
+[PlayMovie]=00:27:16	Movie05/05-KF/05-KF-I01/05-KF-I01-002	0	00:35:15;
+
+ ;
+
+[Next]=00:35:15;
+
+
+
+

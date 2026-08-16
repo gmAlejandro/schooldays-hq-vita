@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:08:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:08:06;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-F08/04-KA-F08-004	00:08:06;
+
+[PrintText]=00:00:07	Makoto	Fwah... estoy tan cansado.	00:04:16;
+
+[PlayVoice]=00:00:07	Voice04/04-KA/04-KA-F10/04-KA-F10-0030	1	mak	00:04:16;
+
+[PrintText]=00:05:04	Makoto	Me iré a casa.	00:06:12;
+
+[PlayVoice]=00:05:04	Voice04/04-KA/04-KA-F10/04-KA-F10-0040	1	mak	00:06:12;
+
+ ;
+
+[Next]=00:08:06;
+
+

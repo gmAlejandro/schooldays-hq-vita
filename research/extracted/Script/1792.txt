@@ -1,0 +1,215 @@
+﻿[SkipFRAME]=02:04:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:04:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-001	00:01:10;
+
+[PrintText]=00:00:13	Hikari	Ah... Sekai.	00:02:15;
+
+[PlayVoice]=00:00:13	Voice05/05-SD/05-SD-C02/05-SD-C02-0040	0	hik	00:02:15;
+
+[CreateBG]=00:01:10	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-002	00:02:15;
+
+[CreateBG]=00:02:15	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-003	00:08:16;
+
+[PrintText]=00:02:15	Sekai	Hikari...	00:03:14;
+
+[PlayVoice]=00:02:15	Voice05/05-SD/05-SD-C02/05-SD-C02-0050	0	sek	00:03:14;
+
+[PrintText]=00:03:14	Hikari	¿Qué pasa? Escuché que desapareciste tan pronto como pudiste esta mañana.	00:07:21;
+
+[PlayVoice]=00:03:14	Voice05/05-SD/05-SD-C02/05-SD-C02-0060	0	hik	00:07:21;
+
+[PrintText]=00:07:21	Sekai	Sí...	00:08:15;
+
+[PlayVoice]=00:07:21	Voice05/05-SD/05-SD-C02/05-SD-C02-0070	0	sek	00:08:15;
+
+[PrintText]=00:08:15	Hikari	Terminaste marcada como ausente... ¿Quieres que le diga al profesor?^	00:14:07;
+
+[PlayVoice]=00:08:15	Voice05/05-SD/05-SD-C02/05-SD-C02-0080	0	hik	00:14:07;
+
+[CreateBG]=00:08:16	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-001	00:23:07;
+
+[PrintText]=00:14:07	Sekai	No te preocupes.	00:14:21;
+
+[PlayVoice]=00:14:07	Voice05/05-SD/05-SD-C02/05-SD-C02-0090	0	sek	00:14:21;
+
+[PrintText]=00:14:21	Hikari	Ya veo.	00:16:01;
+
+[PlayVoice]=00:14:21	Voice05/05-SD/05-SD-C02/05-SD-C02-0100	0	hik	00:16:01;
+
+[PrintText]=00:16:02	Sekai	Hey...	00:16:22;
+
+[PlayVoice]=00:16:02	Voice05/05-SD/05-SD-C02/05-SD-C02-0110	0	sek	00:16:22;
+
+[PrintText]=00:16:21	Hikari	¿Hmn?^	00:17:19;
+
+[PlayVoice]=00:16:21	Voice05/05-SD/05-SD-C02/05-SD-C02-0120	0	hik	00:17:19;
+
+[PrintText]=00:17:19	Sekai	¿Makoto se fue a casa?^	00:20:04;
+
+[PlayVoice]=00:17:19	Voice05/05-SD/05-SD-C02/05-SD-C02-0130	0	sek	00:20:04;
+
+[PrintText]=00:20:04	Hikari	Oh ¿Itou?^	00:22:15;
+
+[PlayVoice]=00:20:04	Voice05/05-SD/05-SD-C02/05-SD-C02-0140	0	hik	00:22:15;
+
+[PrintText]=00:22:15	Sekai	Uh-huh...	00:23:05;
+
+[PlayVoice]=00:22:15	Voice05/05-SD/05-SD-C02/05-SD-C02-0150	0	sek	00:23:05;
+
+[PrintText]=00:23:06	Hikari	Dijo que tenía una cita en Sakakino-Hills con Setsuna.	00:28:21;
+
+[PlayVoice]=00:23:06	Voice05/05-SD/05-SD-C02/05-SD-C02-0160	0	hik	00:28:21;
+
+[CreateBG]=00:23:07	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-005	00:28:20;
+
+[CreateBG]=00:28:20	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-006	00:29:08;
+
+[PrintText]=00:28:21	Sekai	¿Eh...?^	00:29:08;
+
+[PlayVoice]=00:28:21	Voice05/05-SD/05-SD-C02/05-SD-C02-0170	0	sek	00:29:08;
+
+[CreateBG]=00:29:08	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-007	00:35:18;
+
+[PrintText]=00:29:08	Hikari	Es muy horrible de su parte, tomando a Makoto cuando estás a punto de irte.	00:35:18;
+
+[PlayVoice]=00:29:08	Voice05/05-SD/05-SD-C02/05-SD-C02-0180	0	hik	00:35:18;
+
+[CreateBG]=00:35:18	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-008	00:36:22;
+
+[PrintText]=00:35:18	Sekai	Setsuna...	00:36:20;
+
+[PlayVoice]=00:35:18	Voice05/05-SD/05-SD-C02/05-SD-C02-0190	0	sek	00:36:20;
+
+[PrintText]=00:36:20	Hikari	No sé que ha visto en él... será mejor que olvides a un chico como ese sabes.	00:43:03;
+
+[PlayVoice]=00:36:20	Voice05/05-SD/05-SD-C02/05-SD-C02-0200	0	hik	00:43:03;
+
+[CreateBG]=00:36:22	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-009	00:43:03;
+
+[CreateBG]=00:43:03	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-010	00:45:06;
+
+[PrintText]=00:43:03	Sekai	¡No puedo!	00:45:06;
+
+[PlayVoice]=00:43:03	Voice05/05-SD/05-SD-C02/05-SD-C02-0210	0	sek	00:45:06;
+
+[CreateBG]=00:45:06	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-011	00:46:04;
+
+[PrintText]=00:45:06	Hikari	Wah...	00:46:03;
+
+[PlayVoice]=00:45:06	Voice05/05-SD/05-SD-C02/05-SD-C02-0220	0	hik	00:46:03;
+
+[PrintText]=00:46:03	Sekai	No hay manera de que pueda olvidarlo...	00:50:20;
+
+[PlayVoice]=00:46:03	Voice05/05-SD/05-SD-C02/05-SD-C02-0230	0	sek	00:50:20;
+
+[CreateBG]=00:46:04	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-010	00:59:04;
+
+[PrintText]=00:50:20	Hikari	Sekai...	00:52:13;
+
+[PlayVoice]=00:50:20	Voice05/05-SD/05-SD-C02/05-SD-C02-0240	0	hik	00:52:13;
+
+[PrintText]=00:52:13	Sekai	Lo... Lo amo... Y no quiero olvidarlo...	00:59:02;
+
+[PlayVoice]=00:52:13	Voice05/05-SD/05-SD-C02/05-SD-C02-0250	0	sek	00:59:02;
+
+[PrintText]=00:59:02	Hikari	Hey, escucha... he estado pensando.	01:03:12;
+
+[PlayVoice]=00:59:02	Voice05/05-SD/05-SD-C02/05-SD-C02-0260	0	hik	01:03:12;
+
+[CreateBG]=00:59:04	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-013	01:04:22;
+
+[PrintText]=01:03:13	Sekai	Uh-huh...	01:04:22;
+
+[PlayVoice]=01:03:13	Voice05/05-SD/05-SD-C02/05-SD-C02-0270	0	sek	01:04:22;
+
+[CreateBG]=01:04:22	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-013B	01:10:13;
+
+[PrintText]=01:04:22	Hikari	¿Estás seguro que ya no te quiere?^	01:08:20;
+
+[PlayVoice]=01:04:22	Voice05/05-SD/05-SD-C02/05-SD-C02-0280	0	hik	01:08:20;
+
+[PrintText]=01:08:20	Sekai	¿Lo crees...?^	01:10:12;
+
+[PlayVoice]=01:08:20	Voice05/05-SD/05-SD-C02/05-SD-C02-0290	0	sek	01:10:12;
+
+[CreateBG]=01:10:13	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-014	01:22:13;
+
+[PrintText]=01:10:13	Hikari	Está con Setsuna ahora, pero...	01:13:01;
+
+[PlayVoice]=01:10:13	Voice05/05-SD/05-SD-C02/05-SD-C02-0300	0	hik	01:13:01;
+
+[PrintText]=01:13:02	Hikari	Realmente no se ve tan entusiasmado con todo eso. Parece que Setsuna lo está forzando.	01:18:23;
+
+[PlayVoice]=01:13:02	Voice05/05-SD/05-SD-C02/05-SD-C02-0301	0	hik	01:18:23;
+
+[PrintText]=01:18:22	Hikari	Él estaba preocupado cuando no regresaste.	01:22:13;
+
+[PlayVoice]=01:18:22	Voice05/05-SD/05-SD-C02/05-SD-C02-0302	0	hik	01:22:13;
+
+[CreateBG]=01:22:13	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-015	01:25:08;
+
+[PrintText]=01:22:13	Sekai	¿En serio?^	01:23:11;
+
+[PlayVoice]=01:22:13	Voice05/05-SD/05-SD-C02/05-SD-C02-0310	0	sek	01:23:11;
+
+[PrintText]=01:23:11	Hikari	Uh-huh.	01:24:03;
+
+[PlayVoice]=01:23:11	Voice05/05-SD/05-SD-C02/05-SD-C02-0320	0	hik	01:24:03;
+
+[PrintText]=01:24:04	Sekai	Makoto...	01:25:07;
+
+[PlayVoice]=01:24:04	Voice05/05-SD/05-SD-C02/05-SD-C02-0330	0	sek	01:25:07;
+
+[PrintText]=01:25:07	Hikari	Aún así, es inevitable ¿No crees? Después de todo, te vas a transferir.	01:29:19;
+
+[PlayVoice]=01:25:07	Voice05/05-SD/05-SD-C02/05-SD-C02-0340	0	hik	01:29:19;
+
+[CreateBG]=01:25:08	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-011	01:36:15;
+
+[PrintText]=01:29:19	Sekai	¿Eh...?^	01:30:19;
+
+[PlayVoice]=01:29:19	Voice05/05-SD/05-SD-C02/05-SD-C02-0350	0	sek	01:30:19;
+
+[PrintText]=01:30:19	Hikari	No hay manera de que puedas quedarte al menos, eso es lo que escuché de Itou.	01:36:13;
+
+[PlayVoice]=01:30:19	Voice05/05-SD/05-SD-C02/05-SD-C02-0360	0	hik	01:36:13;
+
+[PrintText]=01:36:13	Sekai	¿Eh...? ¿Cuando?^	01:38:09;
+
+[PlayVoice]=01:36:13	Voice05/05-SD/05-SD-C02/05-SD-C02-0370	0	sek	01:38:09;
+
+[CreateBG]=01:36:15	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-017	01:46:03;
+
+[PrintText]=01:38:10	Hikari	Lo escuché de él mientras hablaba con Sawanaga.	01:44:03;
+
+[PlayVoice]=01:38:10	Voice05/05-SD/05-SD-C02/05-SD-C02-0380	0	hik	01:44:03;
+
+[PrintText]=01:44:03	Sekai	Ya veo...	01:46:01;
+
+[PlayVoice]=01:44:03	Voice05/05-SD/05-SD-C02/05-SD-C02-0390	0	sek	01:46:01;
+
+[PrintText]=01:46:02	Hikari	Hey, escucha. Sawanaga y yo estamos bastante juntos últimamente.	01:51:18;
+
+[PlayVoice]=01:46:02	Voice05/05-SD/05-SD-C02/05-SD-C02-0400	0	hik	01:51:18;
+
+[CreateBG]=01:46:03	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-018	02:01:07;
+
+[PrintText]=01:51:18	Hikari	Por supuesto, con una rival tan fuerte como Katsura, aún hay un largo camino por recorrer...	01:57:14;
+
+[PlayVoice]=01:51:18	Voice05/05-SD/05-SD-C02/05-SD-C02-0401	0	hik	01:57:14;
+
+[PrintText]=01:57:14	Hikari	pero ayer, él... ah, Sekai...	02:03:15;
+
+[PlayVoice]=01:57:14	Voice05/05-SD/05-SD-C02/05-SD-C02-0402	0	hik	02:03:15;
+
+[CreateBG]=02:01:07	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-013	02:04:04;
+
+ ;
+
+[Next]=02:04:04;
+
+
+
+

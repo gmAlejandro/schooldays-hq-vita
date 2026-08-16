@@ -1,0 +1,44 @@
+﻿[SkipFRAME]=00:17:20;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:17:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-B03/05-KB-B03-001	00:02:08;
+
+[PrintText]=00:00:00	Otome	Katsura-san.	00:02:13;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-B03/05-KB-B03-0040	0	oto	00:02:13;
+
+[CreateBG]=00:02:08	BGS	Event05/05-KB/05-KB-B03/05-KB-B03-002	00:03:18;
+
+[PrintText]=00:02:12	Kotonoha	¡Ah! ¿Sí?^	00:03:22;
+
+[PlayVoice]=00:02:12	Voice05/05-KB/05-KB-B03/05-KB-B03-0050	0	kot	00:03:22;
+
+[CreateBG]=00:03:18	BGS	Event05/05-KB/05-KB-B03/05-KB-B03-003	00:09:20;
+
+[PrintText]=00:03:23	Otome	Aún hay restos de comida en el piso.	00:07:16;
+
+[PlayVoice]=00:03:23	Voice05/05-KB/05-KB-B03/05-KB-B03-0060	0	oto	00:07:16;
+
+[PrintText]=00:07:16	Kumi	Apúrate y límpialo.	00:10:00;
+
+[PlayVoice]=00:07:16	Voice05/05-KB/05-KB-B03/05-KB-B03-0070	0	kum	00:10:00;
+
+[CreateBG]=00:09:20	BGS	Event05/05-KB/05-KB-B03/05-KB-B03-004	00:12:20;
+
+[PrintText]=00:10:00	Kotonoha	¡Lo siento! Lo limpiaré enseguida.	00:12:22;
+
+[PlayVoice]=00:10:00	Voice05/05-KB/05-KB-B03/05-KB-B03-0080	0	kot	00:12:22;
+
+[CreateBG]=00:12:20	BGS	Event05/05-KB/05-KB-B03/05-KB-B03-005	00:17:20;
+
+[BlackFade]=00:17:08	OUT	00:17:20;
+
+ ;
+
+[Next]=00:17:20;
+
+
+
+
+

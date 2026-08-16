@@ -1,0 +1,329 @@
+﻿[SkipFRAME]=05:08:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	01:25:04;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-G00/04-SE-G00-001	00:20:09;
+
+[PrintText]=00:00:00	Sekai	Entonces, ¿De qué quieres hablar?^	00:02:10;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-G00/04-SE-G00-0030	0	sek	00:02:10;
+
+[PrintText]=00:02:10	Kotonoha	Bueno, es acerca de Makoto-kun.	00:06:05;
+
+[PlayVoice]=00:02:10	Voice04/04-SE/04-SE-G00/04-SE-G00-0040	0	kot	00:06:05;
+
+[PrintText]=00:06:05	Sekai	¿Sí?^	00:06:22;
+
+[PlayVoice]=00:06:05	Voice04/04-SE/04-SE-G00/04-SE-G00-0050	0	sek	00:06:22;
+
+[PrintText]=00:06:22	Kotonoha	Yo... fui abandonada por Makoto-kun.	00:12:21;
+
+[PlayVoice]=00:06:22	Voice04/04-SE/04-SE-G00/04-SE-G00-0060	0	kot	00:12:21;
+
+[PrintText]=00:12:21	Sekai	...	00:13:22;
+
+[PlayVoice]=00:12:21	Voice04/04-SE/04-SE-G00/04-SE-G00-0070	0	xxx	00:13:22;
+
+[PrintText]=00:13:22	Kotonoha	Él... dijo que estaba saliendo con la persona que ama.	00:19:14;
+
+[PlayVoice]=00:13:22	Voice04/04-SE/04-SE-G00/04-SE-G00-0080	0	kot	00:19:14;
+
+[PrintText]=00:19:13	Sekai	Uh-huh...	00:20:09;
+
+[PlayVoice]=00:19:13	Voice04/04-SE/04-SE-G00/04-SE-G00-0090	0	sek	00:20:09;
+
+[PlayMovie]=00:20:09	Movie04/04-SE/04-SE-G00/04-SE-G00-002	0	02:16:19;
+
+[PrintText]=00:20:09	Kotonoha	Él dijo que lo sentía... y que había una persona que amaba más que mí.	00:29:00;
+
+[PlayVoice]=00:20:09	Voice04/04-SE/04-SE-G00/04-SE-G00-0100	0	kot	00:29:00;
+
+[PrintText]=00:29:00	Sekai	Uh-huh...	00:29:18;
+
+[PlayVoice]=00:29:00	Voice04/04-SE/04-SE-G00/04-SE-G00-0110	0	sek	00:29:18;
+
+[PrintText]=00:29:18	Kotonoha	Estaba realmente impactada...	00:33:02;
+
+[PlayVoice]=00:29:18	Voice04/04-SE/04-SE-G00/04-SE-G00-0120	0	kot	00:33:02;
+
+[PrintText]=00:33:02	Sekai	Sí...	00:34:11;
+
+[PlayVoice]=00:33:02	Voice04/04-SE/04-SE-G00/04-SE-G00-0130	0	sek	00:34:11;
+
+[PrintText]=00:34:12	Kotonoha	¿Sabes de quién está enamorado Makoto-kun?^	00:39:06;
+
+[PlayVoice]=00:34:12	Voice04/04-SE/04-SE-G00/04-SE-G00-0140	0	kot	00:39:06;
+
+[PrintText]=00:39:06	Sekai	S-Sí... umm... No estaba segura... pero es algo...	00:47:05;
+
+[PlayVoice]=00:39:06	Voice04/04-SE/04-SE-G00/04-SE-G00-0150	0	sek	00:47:05;
+
+[PrintText]=00:47:05	Kotonoha	Sí... la verdad es, que no se quien es, y me esta molestando demasiado.	00:56:06;
+
+[PlayVoice]=00:47:05	Voice04/04-SE/04-SE-G00/04-SE-G00-0160	0	kot	00:56:06;
+
+[PrintText]=00:56:07	Sekai	¿Eh? ¿Makoto no te ha dicho quién es?^	00:59:12;
+
+[PlayVoice]=00:56:07	Voice04/04-SE/04-SE-G00/04-SE-G00-0170	0	sek	00:59:12;
+
+[PrintText]=00:59:12	Kotonoha	No. Él... Simplemente me dijo que había alguien a quien amaba por algún tiempo.	01:04:18;
+
+[PlayVoice]=00:59:12	Voice04/04-SE/04-SE-G00/04-SE-G00-0180	0	kot	01:04:18;
+
+[PrintText]=01:04:18	Sekai	Uwah...	01:07:01;
+
+[PlayVoice]=01:04:18	Voice04/04-SE/04-SE-G00/04-SE-G00-0190	0	sek	01:07:01;
+
+[PrintText]=01:07:01	Kotonoha	Entonces, ayer, no pude dormir por estar pensando... de quien Makoto se enamoró.	01:15:04;
+
+[PlayVoice]=01:07:01	Voice04/04-SE/04-SE-G00/04-SE-G00-0200	0	kot	01:15:04;
+
+[PrintText]=01:15:03	Sekai	U-um... Bueno, esa persona s...	01:20:04;
+
+[PlayVoice]=01:15:03	Voice04/04-SE/04-SE-G00/04-SE-G00-0210	0	sek	01:20:04;
+
+[PrintText]=01:20:04	Kotonoha	Estaba pensando en matarla, y después matarme yo.	01:24:10;
+
+[PlayVoice]=01:20:04	Voice04/04-SE/04-SE-G00/04-SE-G00-0220	0	kot	01:24:10;
+
+[PrintText]=01:24:10	Sekai	¿Eh?^	01:25:07;
+
+[PlayVoice]=01:24:10	Voice04/04-SE/04-SE-G00/04-SE-G00-0230	0	sek	01:25:07;
+
+[PrintText]=01:25:06	Sekai	¡Eek!	01:26:05;
+
+[PlayVoice]=01:25:06	Voice04/04-SE/04-SE-G00/04-SE-G00-0250	0	sek	01:26:05;
+
+[PlayBgm]=01:26:06	BGM/SD_BGM/sdbgm23	02:16:18;
+
+[PrintText]=01:26:06	Kotonoha	Por eso he traído un cuchillo de mi casa.	01:30:05;
+
+[PlayVoice]=01:26:06	Voice04/04-SE/04-SE-G00/04-SE-G00-0260	0	kot	01:30:05;
+
+[PrintText]=01:30:05	Sekai	Y-Ya veo...	01:32:04;
+
+[PlayVoice]=01:30:05	Voice04/04-SE/04-SE-G00/04-SE-G00-0270	0	sek	01:32:04;
+
+[PrintText]=01:32:04	Kotonoha	Pensé en incrustarle el cuchillo por la garganta y... girarla un poco. Entonces... cortarme la mía... y morir juntos.	01:42:00;
+
+[PlayVoice]=01:32:04	Voice04/04-SE/04-SE-G00/04-SE-G00-0280	0	kot	01:42:00;
+
+[PrintText]=01:42:00	Sekai	Eek...	01:43:09;
+
+[PlayVoice]=01:42:00	Voice04/04-SE/04-SE-G00/04-SE-G00-0290	0	sek	01:43:09;
+
+[PrintText]=01:43:08	Kotonoha	No pienso dejar a la persona que Makoto-kun ama viva,	01:47:05;
+
+[PlayVoice]=01:43:08	Voice04/04-SE/04-SE-G00/04-SE-G00-0300	0	kot	01:47:05;
+
+[PrintText]=01:47:04	Kotonoha	Y no creo que debería continuar después de haberla matado, porque Makoto-kun me odiaría, así que...	01:53:00;
+
+[PlayVoice]=01:47:04	Voice04/04-SE/04-SE-G00/04-SE-G00-0301	0	kot	01:53:00;
+
+[PrintText]=01:53:01	Sekai	U-um... s-sabes, no deberías apresurarte.	01:57:11;
+
+[PlayVoice]=01:53:01	Voice04/04-SE/04-SE-G00/04-SE-G00-0310	0	sek	01:57:11;
+
+[PrintText]=01:57:11	Sekai	Quiero decir... hay muchas cosas por las cuales debes seguir viviendo, y no tendrías que lastimar a esa persona... sabes.	02:07:00;
+
+[PlayVoice]=01:57:11	Voice04/04-SE/04-SE-G00/04-SE-G00-0311	0	sek	02:07:00;
+
+[PrintText]=02:07:00	Kotonoha	Tú sabes a quien ama Makoto-kun ¿No?^	02:12:12;
+
+[PlayVoice]=02:07:00	Voice04/04-SE/04-SE-G00/04-SE-G00-0320	0	kot	02:12:12;
+
+[PrintText]=02:12:11	Sekai	S-Sí...	02:14:13;
+
+[PlayVoice]=02:12:11	Voice04/04-SE/04-SE-G00/04-SE-G00-0330	0	sek	02:14:13;
+
+[PrintText]=02:14:12	Kotonoha	Es Katou-san, ¿Verdad?^	02:16:04;
+
+[PlayVoice]=02:14:12	Voice04/04-SE/04-SE-G00/04-SE-G00-0340	0	kot	02:16:04;
+
+[PrintText]=02:16:04	Sekai	¿Eh?^	02:16:19;
+
+[PlayVoice]=02:16:04	Voice04/04-SE/04-SE-G00/04-SE-G00-0350	0	sek	02:16:19;
+
+[CreateBG]=02:16:19	BGS	Event04/04-SE/04-SE-G00/04-SE-G00-003	02:29:14;
+
+[PrintText]=02:16:19	Kotonoha	Ella juega baloncesto, es grande y también está en forma , no pensé que tendría a apuñalarla hasta que se muera.	02:26:15;
+
+[PlayVoice]=02:16:19	Voice04/04-SE/04-SE-G00/04-SE-G00-0360	0	kot	02:26:15;
+
+[PrintText]=02:26:14	Kotonoha	Y... darme por vencido.	02:29:15;
+
+[PlayVoice]=02:26:14	Voice04/04-SE/04-SE-G00/04-SE-G00-0361	0	kot	02:29:15;
+
+[CreateBG]=02:29:14	BGS	Event04/04-SE/04-SE-G00/04-SE-G00-004	02:57:20;
+
+[PrintText]=02:29:16	Sekai	Katou-san... ¿Te refieres a la amiga de primaria de Makoto?^	02:36:06;
+
+[PlayVoice]=02:29:16	Voice04/04-SE/04-SE-G00/04-SE-G00-0380	0	sek	02:36:06;
+
+[PlayBgm]=02:30:08	BGM/SD_BGM/sdbgm29	05:08:09;
+
+[PrintText]=02:36:06	Kotonoha	Sí. Pareces saber mucho de ella.	02:39:01;
+
+[PlayVoice]=02:36:06	Voice04/04-SE/04-SE-G00/04-SE-G00-0390	0	kot	02:39:01;
+
+[PrintText]=02:39:01	Sekai	Bueno... solo lo he oído de Makoto.	02:42:17;
+
+[PlayVoice]=02:39:01	Voice04/04-SE/04-SE-G00/04-SE-G00-0400	0	sek	02:42:17;
+
+[PrintText]=02:42:17	Kotonoha	Se me ocurrió, cuando pensé que era una chica que Makoto-kun conoció antes. Y que tan cercano son.	02:49:03;
+
+[PlayVoice]=02:42:17	Voice04/04-SE/04-SE-G00/04-SE-G00-0410	0	kot	02:49:03;
+
+[PrintText]=02:49:03	Sekai	Haha... ¿Segura que es Katou-san?^	02:53:19;
+
+[PlayVoice]=02:49:03	Voice04/04-SE/04-SE-G00/04-SE-G00-0420	0	sek	02:53:19;
+
+[PrintText]=02:53:19	Kotonoha	Sí, no hay duda de ello. Estoy segura.	02:56:14;
+
+[PlayVoice]=02:53:19	Voice04/04-SE/04-SE-G00/04-SE-G00-0440	0	kot	02:56:14;
+
+[PrintText]=02:56:15	Sekai	Ya veo...	02:57:21;
+
+[PlayVoice]=02:56:15	Voice04/04-SE/04-SE-G00/04-SE-G00-0460	0	sek	02:57:21;
+
+[CreateBG]=02:57:20	BGS	Event04/04-SE/04-SE-G00/04-SE-G00-005	02:59:07;
+
+[PrintText]=02:57:21	Kotonoha	Tengo evidencia, sabes.	02:59:09;
+
+[PlayVoice]=02:57:21	Voice04/04-SE/04-SE-G00/04-SE-G00-0470	0	kot	02:59:09;
+
+[CreateBG]=02:59:07	BGS	Event04/04-SE/04-SE-G00/04-SE-G00-006	03:00:10;
+
+[PrintText]=02:59:09	Sekai	¿Evidencia?^	03:00:09;
+
+[PlayVoice]=02:59:09	Voice04/04-SE/04-SE-G00/04-SE-G00-0480	0	sek	03:00:09;
+
+[PrintText]=03:00:09	Kotonoha	Sí, la verdad es que... ¿Recuerdas que fuimos al balneario?^	03:08:13;
+
+[PlayVoice]=03:00:09	Voice04/04-SE/04-SE-G00/04-SE-G00-0490	0	kot	03:08:13;
+
+[CreateBG]=03:00:10	BGS	Event04/04-SE/04-SE-G00/04-SE-G00-007	03:29:13;
+
+[PrintText]=03:08:13	Sekai	Uh-huh.	03:09:09;
+
+[PlayVoice]=03:08:13	Voice04/04-SE/04-SE-G00/04-SE-G00-0500	0	sek	03:09:09;
+
+[PrintText]=03:09:09	Kotonoha	Katou-san también fue el mismo día.	03:14:10;
+
+[PlayVoice]=03:09:09	Voice04/04-SE/04-SE-G00/04-SE-G00-0510	0	kot	03:14:10;
+
+[PrintText]=03:14:10	Sekai	¿Eh...? ¿Pero eso no es solo una coincidencia?^	03:17:07;
+
+[PlayVoice]=03:14:10	Voice04/04-SE/04-SE-G00/04-SE-G00-0520	0	sek	03:17:07;
+
+[PrintText]=03:17:07	Kotonoha	Sí, lo fue.	03:18:12;
+
+[PlayVoice]=03:17:07	Voice04/04-SE/04-SE-G00/04-SE-G00-0530	0	kot	03:18:12;
+
+[PrintText]=03:18:12	Sekai	Oh, Ya veo...	03:19:22;
+
+[PlayVoice]=03:18:12	Voice04/04-SE/04-SE-G00/04-SE-G00-0540	0	sek	03:19:22;
+
+[PrintText]=03:19:22	Kotonoha	Pero ese no es el problema.	03:21:21;
+
+[PlayVoice]=03:19:22	Voice04/04-SE/04-SE-G00/04-SE-G00-0550	0	kot	03:21:21;
+
+[PrintText]=03:21:22	Sekai	¿Qué quieres decir?^	03:23:00;
+
+[PlayVoice]=03:21:22	Voice04/04-SE/04-SE-G00/04-SE-G00-0560	0	sek	03:23:00;
+
+[PrintText]=03:23:00	Kotonoha	Sé que Makoto-kun besó a alguien en la piscina.	03:28:16;
+
+[PlayVoice]=03:23:00	Voice04/04-SE/04-SE-G00/04-SE-G00-0570	0	kot	03:28:16;
+
+[PrintText]=03:28:16	Sekai	¿Ehh?^	03:29:15;
+
+[PlayVoice]=03:28:16	Voice04/04-SE/04-SE-G00/04-SE-G00-0580	0	sek	03:29:15;
+
+[CreateBG]=03:29:13	BGS	Event04/04-SE/04-SE-G00/04-SE-G00-008	03:48:23;
+
+[PrintText]=03:29:15	Kotonoha	Fue justo después de que yo fuera a traerle algo de beber. Cuando llegué, no había nadie, así que estoy segura de ello.	03:39:10;
+
+[PlayVoice]=03:29:15	Voice04/04-SE/04-SE-G00/04-SE-G00-0590	0	kot	03:39:10;
+
+[PrintText]=03:39:10	Sekai	Estás bromeando...	03:40:23;
+
+[PlayVoice]=03:39:10	Voice04/04-SE/04-SE-G00/04-SE-G00-0600	0	sek	03:40:23;
+
+[PrintText]=03:40:23	Kotonoha	No, no lo estoy. Todo este tiempo, me preguntaba quien era, y resulta que fue Katou-san.	03:47:08;
+
+[PlayVoice]=03:40:23	Voice04/04-SE/04-SE-G00/04-SE-G00-0610	0	kot	03:47:08;
+
+[PrintText]=03:47:08	Sekai	Pero...	03:48:23;
+
+[PlayVoice]=03:47:08	Voice04/04-SE/04-SE-G00/04-SE-G00-0620	0	sek	03:48:23;
+
+[PlayMovie]=03:48:23	Movie04/04-SE/04-SE-G00/04-SE-G00-009	0	04:47:03;
+
+[PrintText]=03:48:23	Kotonoha	¿También escuchaste de que Makoto-kun y Katou-san estuvieron en el Balneario?^	03:54:11;
+
+[PlayVoice]=03:48:23	Voice04/04-SE/04-SE-G00/04-SE-G00-0630	0	kot	03:54:11;
+
+[PrintText]=03:54:11	Sekai	Es la primera vez...	03:56:04;
+
+[PlayVoice]=03:54:11	Voice04/04-SE/04-SE-G00/04-SE-G00-0640	0	sek	03:56:04;
+
+[PrintText]=03:56:04	Kotonoha	También para mí. Y aún así, yo... escuche a Katou-san decir que se había encontrado con él en el balneario.	04:07:12;
+
+[PlayVoice]=03:56:04	Voice04/04-SE/04-SE-G00/04-SE-G00-0650	0	kot	04:07:12;
+
+[PrintText]=04:07:12	Sekai	No puedo creerlo...	04:08:21;
+
+[PlayVoice]=04:07:12	Voice04/04-SE/04-SE-G00/04-SE-G00-0660	0	sek	04:08:21;
+
+[PrintText]=04:08:21	Kotonoha	Y por eso pensé, 'Ahora sé con quien se besó Makoto-kun'.	04:15:10;
+
+[PlayVoice]=04:08:21	Voice04/04-SE/04-SE-G00/04-SE-G00-0670	0	kot	04:15:10;
+
+[PrintText]=04:16:00	Kotonoha	Lo escuche de ellas... y ¿Por qué ella tendría que mentir de algo tan trivial?^	04:24:11;
+
+[PlayVoice]=04:16:00	Voice04/04-SE/04-SE-G00/04-SE-G00-0671	0	kot	04:24:11;
+
+[PrintText]=04:25:09	Sekai	Katou-san... ¿Ella realmente...?^	04:28:16;
+
+[PlayVoice]=04:25:09	Voice04/04-SE/04-SE-G00/04-SE-G00-0680	0	sek	04:28:16;
+
+[PrintText]=04:28:16	Kotonoha	Katou-san dijo algo que había pasado en la piscina...	04:33:08;
+
+[PlayVoice]=04:28:16	Voice04/04-SE/04-SE-G00/04-SE-G00-0690	0	kot	04:33:08;
+
+[PrintText]=04:33:08	Kotonoha	Y esto no solo termina aquí. A ella le a gustado desde la primaria.	04:40:02;
+
+[PlayVoice]=04:33:08	Voice04/04-SE/04-SE-G00/04-SE-G00-0691	0	kot	04:40:02;
+
+[PrintText]=04:40:02	Sekai	No puedo creerlo...	04:41:10;
+
+[PlayVoice]=04:40:02	Voice04/04-SE/04-SE-G00/04-SE-G00-0700	0	sek	04:41:10;
+
+[PrintText]=04:41:09	Kotonoha	Saionji-san... ¿Qué debería hacer?^	04:47:05;
+
+[PlayVoice]=04:41:09	Voice04/04-SE/04-SE-G00/04-SE-G00-0710	0	kot	04:47:05;
+
+[CreateBG]=04:47:03	BGS	Event04/04-SE/04-SE-G00/04-SE-G00-010	05:08:09;
+
+[PrintText]=04:47:05	Sekai	No lo sé...	04:48:13;
+
+[PlayVoice]=04:47:05	Voice04/04-SE/04-SE-G00/04-SE-G00-0720	0	sek	04:48:13;
+
+[PrintText]=04:48:13	Kotonoha	Tampoco yo. Si es Katou-san... entonces no sé...	04:57:14;
+
+[PlayVoice]=04:48:13	Voice04/04-SE/04-SE-G00/04-SE-G00-0730	0	kot	04:57:14;
+
+[PrintText]=04:57:14	Sekai	No lo sé... No lo sé... Makoto...	05:03:07;
+
+[PlayVoice]=04:57:14	Voice04/04-SE/04-SE-G00/04-SE-G00-0740	0	sek	05:03:07;
+
+[PrintText]=05:03:08	Kotonoha	Uuh...	05:04:21;
+
+[PlayVoice]=05:03:08	Voice04/04-SE/04-SE-G00/04-SE-G00-0750	0	kot	05:04:21;
+
+ ;
+
+[Next]=05:08:09;
+
+

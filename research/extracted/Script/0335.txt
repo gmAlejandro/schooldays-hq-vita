@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:17:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:17:13;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-K01/SE02-2S-K01-001	00:17:13;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:17:13;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-K01/02-2S-K01-001	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2S/02-2S-K01/02-2S-K01-002	00:12:00;
+
+[PrintText]=00:10:06	Sekai	Makoto.	00:11:03;
+
+[PlayVoice]=00:10:06	Voice02/02-2S/02-2S-K01/02-2S-K01-0050	0	sek	00:11:03;
+
+[PrintText]=00:11:03	Makoto	Dime.	00:11:18;
+
+[PlayVoice]=00:11:03	Voice02/02-2S/02-2S-K01/02-2S-K01-0060	1	mak	00:11:18;
+
+[CreateBG]=00:12:00	BGS	Event02/02-2S/02-2S-K01/02-2S-K01-003	00:17:13;
+
+[PrintText]=00:12:08	Sekai	Quiero hablar contigo. ¿Tienes un segundo?^	00:15:08;
+
+[PlayVoice]=00:12:08	Voice02/02-2S/02-2S-K01/02-2S-K01-0070	0	sek	00:15:08;
+
+[PrintText]=00:15:12	Makoto	Claro.	00:16:04;
+
+[PlayVoice]=00:15:12	Voice02/02-2S/02-2S-K01/02-2S-K01-0080	1	mak	00:16:04;
+
+[BlackFade]=00:16:13	OUT	00:17:13;
+
+ ;
+
+[Next]=00:17:13;
+
+
+
+

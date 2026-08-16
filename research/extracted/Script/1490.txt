@@ -1,0 +1,88 @@
+﻿[SkipFRAME]=00:32:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_start	00:26:05;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-A00/00-00-A00-006	0	00:06:05;
+
+[PlaySe]=00:06:05	2	SysSe/SE_all/station_train/train_in	00:32:06;
+
+[CreateBG]=00:06:05	BGS	Event05/05-KA/05-KA-G00/05-KA-G00-002	00:07:20;
+
+[PrintText]=00:06:09	Kotonoha	¡Buen día!	00:07:21;
+
+[PlayVoice]=00:06:09	Voice05/05-KA/05-KA-G00/05-KA-G00-0040	0	kot	00:07:21;
+
+[CreateBG]=00:07:20	BGS	Event05/05-KA/05-KA-G00/05-KA-G00-003	00:08:19;
+
+[PrintText]=00:07:20	Makoto	...Buen día.	00:08:19;
+
+[PlayVoice]=00:07:20	Voice05/05-KA/05-KA-G00/05-KA-G00-0050	1	mak	00:08:19;
+
+[CreateBG]=00:08:19	BGS	Event05/05-KA/05-KA-G00/05-KA-G00-004	00:10:03;
+
+[PrintText]=00:08:19	Kotonoha	Eheheh.	00:10:03;
+
+[PlayVoice]=00:08:19	Voice05/05-KA/05-KA-G00/05-KA-G00-0060	0	kot	00:10:03;
+
+[CreateBG]=00:10:03	BGS	Event05/05-KA/05-KA-G00/05-KA-G00-005	00:16:11;
+
+[PrintText]=00:10:03	Makoto	H-hey.	00:11:10;
+
+[PlayVoice]=00:10:03	Voice05/05-KA/05-KA-G00/05-KA-G00-0080	1	mak	00:11:10;
+
+[PrintText]=00:11:12	Kotonoha	Está bien.	00:12:11;
+
+[PlayVoice]=00:11:12	Voice05/05-KA/05-KA-G00/05-KA-G00-0090	0	kot	00:12:11;
+
+[PrintText]=00:12:12	Makoto	Pero...	00:13:09;
+
+[PlayVoice]=00:12:12	Voice05/05-KA/05-KA-G00/05-KA-G00-0100	1	mak	00:13:09;
+
+[PrintText]=00:13:09	Kotonoha	Hace un poco de frío ¿No?^	00:16:10;
+
+[PlayVoice]=00:13:09	Voice05/05-KA/05-KA-G00/05-KA-G00-0110	0	kot	00:16:10;
+
+[PlayMovie]=00:16:11	Movie05/05-KA/05-KA-G00/05-KA-G00-006	0	00:23:19;
+
+[PrintText]=00:16:11	Makoto	Sí.	00:17:05;
+
+[PlayVoice]=00:16:11	Voice05/05-KA/05-KA-G00/05-KA-G00-0120	1	mak	00:17:05;
+
+[PrintText]=00:17:06	Kotonoha	Por eso es que... si hago esto...	00:19:12;
+
+[PlayVoice]=00:17:06	Voice05/05-KA/05-KA-G00/05-KA-G00-0130	0	kot	00:19:12;
+
+[PrintText]=00:19:13	Makoto	No, no lo...	00:20:22;
+
+[PlayVoice]=00:19:13	Voice05/05-KA/05-KA-G00/05-KA-G00-0140	1	mak	00:20:22;
+
+[PrintText]=00:20:23	Kotonoha	...Estaremos calientes.	00:22:15;
+
+[PlayVoice]=00:20:23	Voice05/05-KA/05-KA-G00/05-KA-G00-0150	0	kot	00:22:15;
+
+[PrintText]=00:22:17	Makoto	Mira, no podemos.	00:23:19;
+
+[PlayVoice]=00:22:17	Voice05/05-KA/05-KA-G00/05-KA-G00-0160	1	mak	00:23:19;
+
+[CreateBG]=00:23:19	BGS	Event05/05-KA/05-KA-G00/05-KA-G00-007	00:32:06;
+
+[PrintText]=00:23:19	Kotonoha	Ufufu... que lindo te ves ante problemas así.	00:28:16;
+
+[PlayVoice]=00:23:19	Voice05/05-KA/05-KA-G00/05-KA-G00-0170	0	kot	00:28:16;
+
+[PrintText]=00:28:17	Makoto	No...	00:29:11;
+
+[PlayVoice]=00:28:17	Voice05/05-KA/05-KA-G00/05-KA-G00-0180	1	mak	00:29:11;
+
+[PrintText]=00:29:13	Hikari	...	00:31:00;
+
+[PlayVoice]=00:29:13	Voice05/05-KA/05-KA-G00/05-KA-G00-0200	0	xxx	00:31:00;
+
+[BlackFade]=00:31:06	OUT	00:32:06;
+
+ ;
+
+[Next]=00:32:06;
+
+
+

@@ -1,0 +1,219 @@
+﻿[SkipFRAME]=01:44:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	01:51:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-G07/SE03-SB-G07-001	00:29:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-001	00:01:09;
+
+[PrintText]=00:00:00	Makoto	Vengo como cliente.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-G07/03-SB-G07-0040	1	mak	00:01:08;
+
+[PrintText]=00:01:08	Nanami	Sí bien.	00:03:07;
+
+[PlayVoice]=00:01:08	Voice03/03-SB/03-SB-G07/03-SB-G07-0050	0	nan	00:03:07;
+
+[CreateBG]=00:01:09	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-002	00:11:09;
+
+[PrintText]=00:03:08	Makoto	¿Tienes asientos?^	00:04:04;
+
+[PlayVoice]=00:03:08	Voice03/03-SB/03-SB-G07/03-SB-G07-0060	1	mak	00:04:04;
+
+[PrintText]=00:04:04	Nanami	Sí. Venga, aquí tienes uno.	00:07:11;
+
+[PlayVoice]=00:04:04	Voice03/03-SB/03-SB-G07/03-SB-G07-0070	0	nan	00:07:11;
+
+[PrintText]=00:07:11	Makoto	En realidad, busco un lugar para dos.	00:10:08;
+
+[PlayVoice]=00:07:11	Voice03/03-SB/03-SB-G07/03-SB-G07-0080	1	mak	00:10:08;
+
+[PrintText]=00:10:08	Nanami	¿Dos?^	00:11:08;
+
+[PlayVoice]=00:10:08	Voice03/03-SB/03-SB-G07/03-SB-G07-0090	0	nan	00:11:08;
+
+[PrintText]=00:11:08	Makoto	Sí.	00:12:00;
+
+[PlayVoice]=00:11:08	Voice03/03-SB/03-SB-G07/03-SB-G07-0100	1	mak	00:12:00;
+
+[CreateBG]=00:11:09	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-003	00:15:07;
+
+[PrintText]=00:12:01	Nanami	¿Katsura?^	00:13:04;
+
+[PlayVoice]=00:12:01	Voice03/03-SB/03-SB-G07/03-SB-G07-0120	0	nan	00:13:04;
+
+[PrintText]=00:13:03	Kotonoha	H-Hola.	00:15:06;
+
+[PlayVoice]=00:13:03	Voice03/03-SB/03-SB-G07/03-SB-G07-0130	0	kot	00:15:06;
+
+[CreateBG]=00:15:07	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-004	00:26:18;
+
+[PrintText]=00:15:07	Makoto	Kanroji ¿La conoces?^	00:17:21;
+
+[PlayVoice]=00:15:07	Voice03/03-SB/03-SB-G07/03-SB-G07-0140	1	mak	00:17:21;
+
+[PrintText]=00:17:22	Nanami	Fuimos a la misma primaria.	00:19:13;
+
+[PlayVoice]=00:17:22	Voice03/03-SB/03-SB-G07/03-SB-G07-0150	0	nan	00:19:13;
+
+[PrintText]=00:19:13	Makoto	Bueno, solo muéstranos los asientos... ah, parece que hay un lugar ahí ¿Podemos tomarlo?^	00:25:18;
+
+[PlayVoice]=00:19:13	Voice03/03-SB/03-SB-G07/03-SB-G07-0160	1	mak	00:25:18;
+
+[PrintText]=00:25:19	Nanami	...Uh-huh.	00:26:17;
+
+[PlayVoice]=00:25:19	Voice03/03-SB/03-SB-G07/03-SB-G07-0170	0	nan	00:26:17;
+
+[PrintText]=00:26:17	Nanami	¡Setsuna!	00:27:22;
+
+[PlayVoice]=00:26:17	Voice03/03-SB/03-SB-G07/03-SB-G07-0200	0	nan	00:27:22;
+
+[CreateBG]=00:26:18	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-005	00:34:00;
+
+[PrintText]=00:27:21	Setsuna	¿Qué pasa?^	00:29:01;
+
+[PlayVoice]=00:27:21	Voice03/03-SB/03-SB-G07/03-SB-G07-0210	0	set	00:29:01;
+
+[PlaySe]=00:29:00	2	Se03/03-SB/03-SB-G07/SE03-SB-G07-001	00:58:07;
+
+[PrintText]=00:29:02	Nanami	Itou está aquí, pero...	00:30:20;
+
+[PlayVoice]=00:29:02	Voice03/03-SB/03-SB-G07/03-SB-G07-0220	0	nan	00:30:20;
+
+[PrintText]=00:30:19	Setsuna	¿Itou no está de descanso ahora?^	00:34:01;
+
+[PlayVoice]=00:30:19	Voice03/03-SB/03-SB-G07/03-SB-G07-0230	0	set	00:34:01;
+
+[CreateBG]=00:34:00	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-006	00:36:17;
+
+[PrintText]=00:34:01	Nanami	Sí, pero... mira.	00:36:17;
+
+[PlayVoice]=00:34:01	Voice03/03-SB/03-SB-G07/03-SB-G07-0240	0	nan	00:36:17;
+
+[PrintText]=00:36:16	Setsuna	¿Quién es?^	00:37:12;
+
+[PlayVoice]=00:36:16	Voice03/03-SB/03-SB-G07/03-SB-G07-0260	0	set	00:37:12;
+
+[CreateBG]=00:36:17	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-007	00:37:12;
+
+[CreateBG]=00:37:12	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-008	00:47:00;
+
+[PrintText]=00:37:12	Nanami	Una chica de la primaria, Katsura. Es una cobarde, pero los chicos andan detrás de ella, por lo que es detestable.	00:47:07;
+
+[PlayVoice]=00:37:12	Voice03/03-SB/03-SB-G07/03-SB-G07-0270	0	nan	00:47:07;
+
+[CreateBG]=00:47:00	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-009	01:01:16;
+
+[PrintText]=00:47:01	Setsuna	¿Y ahora a puesto los ojos en Itou?^	00:50:04;
+
+[PlayVoice]=00:47:01	Voice03/03-SB/03-SB-G07/03-SB-G07-0280	0	set	00:50:04;
+
+[PrintText]=00:50:10	Nanami	Así parece. ¿Dónde está Sekai?^	00:53:00;
+
+[PlayVoice]=00:50:10	Voice03/03-SB/03-SB-G07/03-SB-G07-0290	0	nan	00:53:00;
+
+[PrintText]=00:53:00	Setsuna	Creo que regresará pronto de comprar.	00:55:22;
+
+[PlayVoice]=00:53:00	Voice03/03-SB/03-SB-G07/03-SB-G07-0300	0	set	00:55:22;
+
+[PrintText]=00:55:22	Nanami	Sekai no sabe nada de Katsura e Itou ¿No?^	00:59:23;
+
+[PlayVoice]=00:55:22	Voice03/03-SB/03-SB-G07/03-SB-G07-0310	0	nan	00:59:23;
+
+[PlaySe]=00:57:17	1	Se03/03-SB/03-SB-G07/SE03-SB-G07-001	01:27:00;
+
+[PrintText]=00:59:23	Setsuna	Es probable.	01:00:19;
+
+[PlayVoice]=00:59:23	Voice03/03-SB/03-SB-G07/03-SB-G07-0320	0	set	01:00:19;
+
+[PrintText]=01:00:19	Nanami	¿Qué hacemos?^	01:01:15;
+
+[PlayVoice]=01:00:19	Voice03/03-SB/03-SB-G07/03-SB-G07-0330	0	nan	01:01:15;
+
+[PrintText]=01:01:15	Setsuna	Vamos a romper ese ambiente.	01:02:21;
+
+[PlayVoice]=01:01:15	Voice03/03-SB/03-SB-G07/03-SB-G07-0340	0	set	01:02:21;
+
+[CreateBG]=01:01:16	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-010	01:04:21;
+
+[PrintText]=01:02:21	Nanami	¿Cómo?^	01:03:22;
+
+[PlayVoice]=01:02:21	Voice03/03-SB/03-SB-G07/03-SB-G07-0350	0	nan	01:03:22;
+
+[PrintText]=01:03:22	Setsuna	...	01:04:20;
+
+[PlayVoice]=01:03:22	Voice03/03-SB/03-SB-G07/03-SB-G07-0360	0	xxx	01:04:20;
+
+[PrintText]=01:04:20	Makoto	Nuestra clase tiene los más deliciosos pasteles.	01:07:13;
+
+[PlayVoice]=01:04:20	Voice03/03-SB/03-SB-G07/03-SB-G07-0380	1	mak	01:07:13;
+
+[CreateBG]=01:04:21	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-011	01:25:14;
+
+[PrintText]=01:07:13	Kotonoha	Wow.	01:08:14;
+
+[PlayVoice]=01:07:13	Voice03/03-SB/03-SB-G07/03-SB-G07-0390	0	kot	01:08:14;
+
+[PrintText]=01:08:14	Makoto	Una chica en nuestra clase tiene una tienda de pasteles, y su pastel de limón es muy famoso, salió en la TV.	01:15:03;
+
+[PlayVoice]=01:08:14	Voice03/03-SB/03-SB-G07/03-SB-G07-0400	1	mak	01:15:03;
+
+[PrintText]=01:15:03	Kotonoha	Ahh... creo que lo he visto.	01:18:05;
+
+[PlayVoice]=01:15:03	Voice03/03-SB/03-SB-G07/03-SB-G07-0410	0	kot	01:18:05;
+
+[PrintText]=01:18:05	Makoto	¿Lo ves? Y entre nos, las chicas han hecho esto con toda la ayuda de su familia.	01:25:13;
+
+[PlayVoice]=01:18:05	Voice03/03-SB/03-SB-G07/03-SB-G07-0420	1	mak	01:25:13;
+
+[PrintText]=01:25:13	Kotonoha	Van muy en serio con esto ¿No?^	01:27:08;
+
+[PlayVoice]=01:25:13	Voice03/03-SB/03-SB-G07/03-SB-G07-0430	0	kot	01:27:08;
+
+[CreateBG]=01:25:14	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-012	01:28:09;
+
+[PlaySe]=01:26:16	2	Se03/03-SB/03-SB-G07/SE03-SB-G07-001	01:51:00;
+
+[PrintText]=01:27:08	Makoto	Oh, definitivamente.	01:28:09;
+
+[PlayVoice]=01:27:08	Voice03/03-SB/03-SB-G07/03-SB-G07-0440	1	mak	01:28:09;
+
+[CreateBG]=01:28:09	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-013	01:38:09;
+
+[PrintText]=01:28:09	Makoto	Oh, se hace tarde. Haré nuestra orden ahora, veamos...	01:33:20;
+
+[PlayVoice]=01:28:09	Voice03/03-SB/03-SB-G07/03-SB-G07-0460	1	mak	01:33:20;
+
+[PrintText]=01:33:20	Nanami	Itou.	01:34:17;
+
+[PlayVoice]=01:33:20	Voice03/03-SB/03-SB-G07/03-SB-G07-0470	0	nan	01:34:17;
+
+[PrintText]=01:34:16	Makoto	¿Sí?^	01:35:07;
+
+[PlayVoice]=01:34:16	Voice03/03-SB/03-SB-G07/03-SB-G07-0480	1	mak	01:35:07;
+
+[PrintText]=01:35:07	Setsuna	Estamos sin personal. Ayúdanos.	01:38:08;
+
+[PlayVoice]=01:35:07	Voice03/03-SB/03-SB-G07/03-SB-G07-0490	0	set	01:38:08;
+
+[CreateBG]=01:38:09	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-014	01:51:00;
+
+[PrintText]=01:38:09	Makoto	Tienes que estar bromeando. Estuve trabajando hasta hace un momento.	01:42:08;
+
+[PlayVoice]=01:38:09	Voice03/03-SB/03-SB-G07/03-SB-G07-0500	1	mak	01:42:08;
+
+[PrintText]=01:42:08	Setsuna	Ayúdanos.	01:43:14;
+
+[PlayVoice]=01:42:08	Voice03/03-SB/03-SB-G07/03-SB-G07-0510	0	set	01:43:14;
+
+[PrintText]=01:43:14	Makoto	Cielos...	01:44:19;
+
+[PlayVoice]=01:43:14	Voice03/03-SB/03-SB-G07/03-SB-G07-0520	1	mak	01:44:19;
+
+[SetSELECT]=01:44:20	*Ayudar*	*No ayudar*	01:49:20;
+
+ ;
+
+[Next]=01:51:00;
+
+

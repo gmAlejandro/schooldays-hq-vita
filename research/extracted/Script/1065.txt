@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=01:29:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	01:29:06;
+
+[PlayMovie]=00:00:00	Movie04/04-KE/04-KE-E01/04-KE-E01-001	0	00:08:21;
+
+[PrintText]=00:00:00	Makoto	Haah... haah...	00:05:02;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-E01/04-KE-E01-0050	1	mak	00:05:02;
+
+[WhiteFade]=00:00:00	IN	00:02:00;
+
+[PrintText]=00:05:02	Makoto	Haah... haah...	00:10:10;
+
+[PlayVoice]=00:05:02	Voice04/04-KE/04-KE-E01/04-KE-E01-0070	1	mak	00:10:10;
+
+[WhiteFade]=00:07:21	OUT	00:08:21;
+
+[PlayMovie]=00:08:21	Movie04/04-KE/04-KE-E01/04-KE-E01-002	0	01:00:03;
+
+[WhiteFade]=00:08:21	IN	00:09:21;
+
+[PrintText]=00:10:10	Makoto	¡Haah... haah...!	00:15:18;
+
+[PlayVoice]=00:10:10	Voice04/04-KE/04-KE-E01/04-KE-E01-0080	1	mak	00:15:18;
+
+[PrintText]=00:15:18	Makoto	Haah... haah... Sekai... ella... ahí abajo...	00:26:01;
+
+[PlayVoice]=00:15:18	Voice04/04-KE/04-KE-E01/04-KE-E01-0090	1	mak	00:26:01;
+
+[PrintText]=00:26:01	Makoto	Es... tan... sexy...	00:32:02;
+
+[PlayVoice]=00:26:01	Voice04/04-KE/04-KE-E01/04-KE-E01-0100	1	mak	00:32:02;
+
+[PrintText]=00:32:02	Makoto	Y con Taisuke... ella...	00:40:06;
+
+[PlayVoice]=00:32:02	Voice04/04-KE/04-KE-E01/04-KE-E01-0110	1	mak	00:40:06;
+
+[PrintText]=00:40:06	Makoto	Sekai... debe haberlo disfrutado mucho... cuando Taisuke estaba sobre ella...	00:50:05;
+
+[PlayVoice]=00:40:06	Voice04/04-KE/04-KE-E01/04-KE-E01-0120	1	mak	00:50:05;
+
+[PrintText]=00:50:05	Makoto	Mucho que... no notó que se estaba por venir...	01:00:03;
+
+[PlayVoice]=00:50:05	Voice04/04-KE/04-KE-E01/04-KE-E01-0130	1	mak	01:00:03;
+
+[WhiteFade]=00:59:03	OUT	01:00:03;
+
+[CreateBG]=01:00:03	BGS	Event04/04-KE/04-KE-E01/04-KE-E01-005	01:07:18;
+
+[PrintText]=01:00:03	Makoto	Sekai... eres tan sexy... Sekai...	01:07:18;
+
+[PlayVoice]=01:00:03	Voice04/04-KE/04-KE-E01/04-KE-E01-0140	1	mak	01:07:18;
+
+[WhiteFade]=01:00:03	IN	01:01:03;
+
+[CreateBG]=01:07:18	BGS	Event04/04-KE/04-KE-E01/04-KE-E01-006	01:20:09;
+
+[PrintText]=01:07:18	Makoto	¡Haah... haah... Se... uh...!	01:17:05;
+
+[PlayVoice]=01:07:18	Voice04/04-KE/04-KE-E01/04-KE-E01-0150	1	mak	01:17:05;
+
+[PrintText]=01:17:05	Makoto	¡Haah...!	01:29:06;
+
+[PlayVoice]=01:17:05	Voice04/04-KE/04-KE-E01/04-KE-E01-0160	1	mak	01:29:06;
+
+[WhiteFade]=01:17:06	OUT	01:20:09;
+
+[CreateBG]=01:20:09	BGS	System/Screen/White	01:29:06;
+
+ ;
+
+[Next]=01:29:06;
+
+

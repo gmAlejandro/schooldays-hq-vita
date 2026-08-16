@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:06:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:06:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O01/04-SA-O01-001	00:04:09;
+
+[PrintText]=00:00:00	Makoto	Es muy bonita.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O01/04-SA-O01-0030	1	mak	00:01:14;
+
+[PrintText]=00:01:14	Sekai	¿Lo crees?^	00:02:23;
+
+[PlayVoice]=00:01:14	Voice04/04-SA/04-SA-O01/04-SA-O01-0040	0	sek	00:02:23;
+
+[PrintText]=00:02:23	Makoto	Te pareces mucho a ella.	00:04:04;
+
+[PlayVoice]=00:02:23	Voice04/04-SA/04-SA-O01/04-SA-O01-0050	1	mak	00:04:04;
+
+[CreateBG]=00:04:09	BGS	Event04/04-SA/04-SA-O01/04-SA-O01-002	00:06:07;
+
+[PrintText]=00:04:14	Sekai	...	00:06:01;
+
+[PlayVoice]=00:04:14	Voice04/04-SA/04-SA-O01/04-SA-O01-0060	0	xxx	00:06:01;
+
+ ;
+
+[Next]=00:06:07;
+
+

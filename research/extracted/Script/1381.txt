@@ -1,0 +1,117 @@
+﻿[SkipFRAME]=01:19:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17_semilong	01:19:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-9H/05-9H-A00/05-9H-A00-001	00:07:11;
+
+[PrintText]=00:00:00	Makoto	Hace calor...	00:02:15;
+
+[PlayVoice]=00:00:00	Voice05/05-9H/05-9H-A00/05-9H-A00-0030	1	mak	00:02:15;
+
+[PrintText]=00:02:15	Makoto	Con el verano, nada se compara.	00:05:17;
+
+[PlayVoice]=00:02:15	Voice05/05-9H/05-9H-A00/05-9H-A00-0040	1	mak	00:05:17;
+
+[PrintText]=00:05:23	Makoto	Incluso estas semillas están buenas...	00:12:06;
+
+[PlayVoice]=00:05:23	Voice05/05-9H/05-9H-A00/05-9H-A00-0050	1	mak	00:12:06;
+
+[PlayMovie]=00:07:11	Movie05/05-9H/05-9H-A00/05-9H-A00-002	0	00:31:13;
+
+[PlaySe]=00:10:05	1	Se05/05-9H/05-9H-A00/SE05-9H-A00-001	00:14:07;
+
+[PrintText]=00:12:23	Madre de Makoto	Makoto ¿Ya no es hora?^	00:16:01;
+
+[PlayVoice]=00:12:23	Voice05/05-9H/05-9H-A00/05-9H-A00-0060	0	mkm	00:16:01;
+
+[PlaySe]=00:14:06	2	Se05/05-9H/05-9H-A00/SE05-9H-A00-001	00:16:01;
+
+[PrintText]=00:16:02	Makoto	Sí, ya sé.	00:18:23;
+
+[PlayVoice]=00:16:02	Voice05/05-9H/05-9H-A00/05-9H-A00-0070	1	mak	00:18:23;
+
+[PrintText]=00:19:15	Madre de Makoto	Te digo que hagas esperar a tu novia. Ella vendrá en cualquier momento sabes.	00:24:00;
+
+[PlayVoice]=00:19:15	Voice05/05-9H/05-9H-A00/05-9H-A00-0080	0	mkm	00:24:00;
+
+[PlaySe]=00:23:12	1	Se05/05-9H/05-9H-A00/SE05-9H-A00-006	00:23:21;
+
+[PrintText]=00:24:17	Makoto	Sí, Sí. Creo que me iré ahora entonces... ¿Hmn?^	00:30:09;
+
+[PlayVoice]=00:24:17	Voice05/05-9H/05-9H-A00/05-9H-A00-0090	1	mak	00:30:09;
+
+[PlayMovie]=00:31:13	Movie05/05-9H/05-9H-A00/05-9H-A00-003	0	00:48:19;
+
+[PrintText]=00:31:14	Madre de Makoto	¿Qué pasa?^	00:32:15;
+
+[PlayVoice]=00:31:14	Voice05/05-9H/05-9H-A00/05-9H-A00-0100	0	mkm	00:32:15;
+
+[PrintText]=00:33:00	Makoto	Oh, es una carta del extranjero.	00:35:12;
+
+[PlayVoice]=00:33:00	Voice05/05-9H/05-9H-A00/05-9H-A00-0110	1	mak	00:35:12;
+
+[PrintText]=00:35:20	Madre de Makoto	Sí, vino esta mañana. Bastante inusual ¿No?^	00:39:16;
+
+[PlayVoice]=00:35:20	Voice05/05-9H/05-9H-A00/05-9H-A00-0120	0	mkm	00:39:16;
+
+[PrintText]=00:40:06	Makoto	Hmm... Mamá, entiendes inglés ¿No?^	00:44:12;
+
+[PlayVoice]=00:40:06	Voice05/05-9H/05-9H-A00/05-9H-A00-0130	1	mak	00:44:12;
+
+[PrintText]=00:44:18	Madre de Makoto	Eso no está en inglés.	00:47:00;
+
+[PlayVoice]=00:44:18	Voice05/05-9H/05-9H-A00/05-9H-A00-0140	0	mkm	00:47:00;
+
+[PrintText]=00:47:00	Makoto	¿Eh?^	00:47:14;
+
+[PlayVoice]=00:47:00	Voice05/05-9H/05-9H-A00/05-9H-A00-0150	1	mak	00:47:14;
+
+[PrintText]=00:47:14	Madre de Makoto	Está en francés, parece que es para ti. ¿Por qué no lo abres?^	00:52:22;
+
+[PlayVoice]=00:47:14	Voice05/05-9H/05-9H-A00/05-9H-A00-0160	0	mkm	00:52:22;
+
+[PlayMovie]=00:48:19	Movie05/05-9H/05-9H-A00/05-9H-A00-004	0	01:15:10;
+
+[PrintText]=00:52:22	Makoto	¿De quién podrá ser?^	00:54:12;
+
+[PlayVoice]=00:52:22	Voice05/05-9H/05-9H-A00/05-9H-A00-0170	1	mak	00:54:12;
+
+[PrintText]=00:54:12	Makoto	...	00:57:11;
+
+[PlayVoice]=00:54:12	Voice05/05-9H/05-9H-A00/05-9H-A00-0180	1	xxx	00:57:11;
+
+[PrintText]=00:57:15	Makoto	¡Pfffffft?!	01:00:00;
+
+[PlayVoice]=00:57:15	Voice05/05-9H/05-9H-A00/05-9H-A00-0190	1	mak	01:00:00;
+
+[PlaySe]=00:58:19	1	Se05/05-9H/05-9H-A00/SE05-9H-A00-002	01:01:04;
+
+[PrintText]=01:00:05	Madre de Makoto	¿Hmn? Oh, has mojado toda la mesa ¿De quién es?^	01:06:00;
+
+[PlayVoice]=01:00:05	Voice05/05-9H/05-9H-A00/05-9H-A00-0200	0	mkm	01:06:00;
+
+[PlaySe]=01:05:16	1	Se05/05-9H/05-9H-A00/SE05-9H-A00-004	01:06:11;
+
+[PrintText]=01:06:00	Makoto	¡D-D-De nadie!	01:08:03;
+
+[PlayVoice]=01:06:00	Voice05/05-9H/05-9H-A00/05-9H-A00-0210	1	mak	01:08:03;
+
+[PlaySe]=01:08:13	1	Se05/05-9H/05-9H-A00/SE05-9H-A00-003	01:10:23;
+
+[PrintText]=01:11:13	Madre de Makoto	Oh,  mira quien llego. Apúrate, o se molestará contigo otra vez.	01:15:04;
+
+[PlayVoice]=01:11:13	Voice05/05-9H/05-9H-A00/05-9H-A00-0220	0	mkm	01:15:04;
+
+[PlayMovie]=01:15:10	Movie05/05-9H/05-9H-A00/05-9H-A00-005	0	01:19:10;
+
+[PrintText]=01:16:02	Madre de Makoto	¡Ya voy!	01:17:07;
+
+[PlayVoice]=01:16:02	Voice05/05-9H/05-9H-A00/05-9H-A00-0230	0	mkm	01:17:07;
+
+[PlaySe]=01:16:17	1	Se05/05-9H/05-9H-A00/SE05-9H-A00-005	01:19:09;
+
+ ;
+
+[Next]=01:19:10;
+
+

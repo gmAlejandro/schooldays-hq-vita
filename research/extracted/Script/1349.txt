@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:18:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:18:02;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-G01/05-5O-G01-001	00:06:10;
+
+[PrintText]=00:00:06	Makoto	Es suficiente.	00:01:04;
+
+[PlayVoice]=00:00:06	Voice05/05-5O/05-5O-G01/05-5O-G01-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:08	Otome	¿Eh...?^	00:02:03;
+
+[PlayVoice]=00:01:08	Voice05/05-5O/05-5O-G01/05-5O-G01-0040	0	oto	00:02:03;
+
+[PrintText]=00:02:07	Makoto	No estoy en posición de escuchar algo así ahora.	00:06:07;
+
+[PlayVoice]=00:02:07	Voice05/05-5O/05-5O-G01/05-5O-G01-0050	1	mak	00:06:07;
+
+[CreateBG]=00:06:10	BGS	Event05/05-5O/05-5O-G01/05-5O-G01-002	00:09:22;
+
+[PrintText]=00:06:11	Otome	¿Posición? No tiene nada que ver con eso.	00:09:19;
+
+[PlayVoice]=00:06:11	Voice05/05-5O/05-5O-G01/05-5O-G01-0060	0	oto	00:09:19;
+
+[CreateBG]=00:09:22	BGS	Event05/05-5O/05-5O-G01/05-5O-G01-003	00:16:00;
+
+[PrintText]=00:10:00	Makoto	Perdón...	00:11:05;
+
+[PlayVoice]=00:10:00	Voice05/05-5O/05-5O-G01/05-5O-G01-0070	1	mak	00:11:05;
+
+[PrintText]=00:11:08	Otome	...	00:13:01;
+
+[PlayVoice]=00:11:08	Voice05/05-5O/05-5O-G01/05-5O-G01-0080	0	xxx	00:13:01;
+
+[PrintText]=00:13:04	Makoto	Estoy feliz de saber como te sientes, pero...	00:16:10;
+
+[PlayVoice]=00:13:04	Voice05/05-5O/05-5O-G01/05-5O-G01-0090	1	mak	00:16:10;
+
+[CreateBG]=00:16:00	BGS	Event05/05-5O/05-5O-G01/05-5O-G01-004	00:18:02;
+
+[PrintText]=00:16:04	Otome	Sí...	00:16:22;
+
+[PlayVoice]=00:16:04	Voice05/05-5O/05-5O-G01/05-5O-G01-0100	0	oto	00:16:22;
+
+[BlackFade]=00:17:02	OUT	00:18:02;
+
+ ;
+
+[Next]=00:18:02;
+
+

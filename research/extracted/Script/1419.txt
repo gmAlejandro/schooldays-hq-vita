@@ -1,0 +1,115 @@
+﻿[SkipFRAME]=01:10:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	01:10:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-001	00:16:00;
+
+[PrintText]=00:00:00	Makoto	Ella no es mi novia.	00:02:11;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-D01/05-KB-D01-0030	1	mak	00:02:11;
+
+[PrintText]=00:02:11	Madre de Makoto	¿Eh...? Pero ella me dijo que lo era.	00:05:05;
+
+[PlayVoice]=00:02:11	Voice05/05-KB/05-KB-D01/05-KB-D01-0040	0	mkm	00:05:05;
+
+[PrintText]=00:05:05	Makoto	Ella es... alguien que me suele molestar siempre.	00:09:17;
+
+[PlayVoice]=00:05:05	Voice05/05-KB/05-KB-D01/05-KB-D01-0050	1	mak	00:09:17;
+
+[PrintText]=00:09:17	Madre de Makoto	¿En serio?^	00:10:23;
+
+[PlayVoice]=00:09:17	Voice05/05-KB/05-KB-D01/05-KB-D01-0060	0	mkm	00:10:23;
+
+[PrintText]=00:10:23	Makoto	Sí.	00:12:19;
+
+[PlayVoice]=00:10:23	Voice05/05-KB/05-KB-D01/05-KB-D01-0070	1	mak	00:12:19;
+
+[PrintText]=00:12:19	Madre de Makoto	Pues así no es como me pare-..	00:16:04;
+
+[PlayVoice]=00:12:19	Voice05/05-KB/05-KB-D01/05-KB-D01-0080	0	mkm	00:16:04;
+
+[CreateBG]=00:16:00	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-002A	00:21:03;
+
+[PrintText]=00:16:04	Makoto	Dile que se vaya a casa.	00:18:22;
+
+[PlayVoice]=00:16:04	Voice05/05-KB/05-KB-D01/05-KB-D01-0090	1	mak	00:18:22;
+
+[PrintText]=00:18:22	Madre de Makoto	...Bien.	00:21:03;
+
+[PlayVoice]=00:18:22	Voice05/05-KB/05-KB-D01/05-KB-D01-0100	0	mkm	00:21:03;
+
+[PlaySe]=00:20:18	1	Se05/05-KB/05-KB-D01/SE05-KB-D01-001	00:23:10;
+
+[CreateBG]=00:21:03	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-002B	00:22:11;
+
+[PrintText]=00:22:10	Madre de Makoto	Lo siento, Makoto ahora...	00:25:13;
+
+[PlayVoice]=00:22:10	Voice05/05-KB/05-KB-D01/05-KB-D01-0130	0	mkm	00:25:13;
+
+[CreateBG]=00:22:11	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-003	00:29:08;
+
+[PrintText]=00:25:13	Kotonoha	Está bien.	00:26:21;
+
+[PlayVoice]=00:25:13	Voice05/05-KB/05-KB-D01/05-KB-D01-0140	0	kot	00:26:21;
+
+[PrintText]=00:26:21	Madre de Makoto	Que puedo hacer por una chica tan linda...	00:29:17;
+
+[PlayVoice]=00:26:21	Voice05/05-KB/05-KB-D01/05-KB-D01-0150	0	mkm	00:29:17;
+
+[CreateBG]=00:29:08	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-004	00:45:16;
+
+[PrintText]=00:29:17	Kotonoha	La verdad es que, Makoto-kun y yo hemos discutido. Pensé que podía venir a arreglar las cosas... pero es imposible.	00:40:22;
+
+[PlayVoice]=00:29:17	Voice05/05-KB/05-KB-D01/05-KB-D01-0160	0	kot	00:40:22;
+
+[PrintText]=00:40:22	Madre de Makoto	Haah...sí, tienes razón. Makoto está...	00:45:18;
+
+[PlayVoice]=00:40:22	Voice05/05-KB/05-KB-D01/05-KB-D01-0170	0	mkm	00:45:18;
+
+[CreateBG]=00:45:16	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-005	00:49:05;
+
+[PrintText]=00:45:19	Kotonoha	Bueno, me voy.	00:48:03;
+
+[PlayVoice]=00:45:19	Voice05/05-KB/05-KB-D01/05-KB-D01-0180	0	kot	00:48:03;
+
+[PrintText]=00:48:03	Madre de Makoto	Cuídate.	00:49:09;
+
+[PlayVoice]=00:48:03	Voice05/05-KB/05-KB-D01/05-KB-D01-0190	0	mkm	00:49:09;
+
+[CreateBG]=00:49:05	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-007	01:01:03;
+
+[PrintText]=00:49:08	Kotonoha	Lo haré.	00:50:02;
+
+[PlayVoice]=00:49:08	Voice05/05-KB/05-KB-D01/05-KB-D01-0200	0	kot	00:50:02;
+
+[PrintText]=00:50:02	Madre de Makoto	Uh... Kotonoha-san ¿No?^	00:53:09;
+
+[PlayVoice]=00:50:02	Voice05/05-KB/05-KB-D01/05-KB-D01-0210	0	mkm	00:53:09;
+
+[PrintText]=00:53:09	Kotonoha	Sí.	00:54:02;
+
+[PlayVoice]=00:53:09	Voice05/05-KB/05-KB-D01/05-KB-D01-0220	0	kot	00:54:02;
+
+[PrintText]=00:54:03	Madre de Makoto	Ignora sus acciones, no es un mal chico. Por favor piensa en amistarte con él.	00:59:07;
+
+[PlayVoice]=00:54:03	Voice05/05-KB/05-KB-D01/05-KB-D01-0230	0	mkm	00:59:07;
+
+[PrintText]=00:59:07	Kotonoha	Lo sé.	01:00:13;
+
+[PlayVoice]=00:59:07	Voice05/05-KB/05-KB-D01/05-KB-D01-0240	0	kot	01:00:13;
+
+[PlaySe]=01:01:03	1	Se05/05-KB/05-KB-D01/SE05-KB-D01-002	01:03:16;
+
+[CreateBG]=01:01:03	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-008	01:03:05;
+
+[CreateBG]=01:03:05	BGS	Event05/05-KB/05-KB-D01/05-KB-D01-009	01:10:20;
+
+[PrintText]=01:04:10	Madre de Makoto	Qué joven tan educada... no como Makoto.	01:10:05;
+
+[PlayVoice]=01:04:10	Voice05/05-KB/05-KB-D01/05-KB-D01-0260	0	mkm	01:10:05;
+
+ ;
+
+[Next]=01:10:20;
+
+

@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=00:46:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:46:18;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-K02/SE01-1S-K02-001	00:46:18;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-001	00:04:17;
+
+[CreateBG]=00:04:17	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-002	00:10:04;
+
+[PrintText]=00:09:05	Makoto	Sekai.	00:10:06;
+
+[PlayVoice]=00:09:05	Voice01/01-1S/01-1S-K02/01-1S-K02-0040	1	mak	00:10:06;
+
+[CreateBG]=00:10:04	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-003	00:12:00;
+
+[PrintText]=00:10:04	Sekai	¡Oh, que persistente eres!	00:12:02;
+
+[PlayVoice]=00:10:04	Voice01/01-1S/01-1S-K02/01-1S-K02-0050	0	sek	00:12:02;
+
+[CreateBG]=00:12:00	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-004	00:13:12;
+
+[PrintText]=00:12:00	Makoto	Eso es porque no me estás diciendo la verdad...	00:14:05;
+
+[PlayVoice]=00:12:00	Voice01/01-1S/01-1S-K02/01-1S-K02-0060	1	mak	00:14:05;
+
+[CreateBG]=00:13:12	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-005	00:16:07;
+
+[PrintText]=00:13:12	Sekai	¿Acaso importa donde almuerce?^	00:16:18;
+
+[PlayVoice]=00:13:12	Voice01/01-1S/01-1S-K02/01-1S-K02-0070	0	sek	00:16:18;
+
+[CreateBG]=00:16:07	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-006	00:17:15;
+
+[PrintText]=00:16:07	Makoto	Sí importa.	00:17:14;
+
+[PlayVoice]=00:16:07	Voice01/01-1S/01-1S-K02/01-1S-K02-0080	1	mak	00:17:14;
+
+[CreateBG]=00:17:15	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-007	00:25:03;
+
+[PrintText]=00:17:15	Sekai	Porque quieres que comamos juntos ¿no?^	00:20:08;
+
+[PlayVoice]=00:17:15	Voice01/01-1S/01-1S-K02/01-1S-K02-0090	0 	sek	00:25:15;
+
+[PrintText]=00:20:08	Sekai	Escucha, tienes que empezar a acostumbrarte a comer a solas con ella.	00:25:15;
+
+[CreateBG]=00:25:03	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-008	00:32:21;
+
+[PrintText]=00:25:03	Makoto	Sekai.	00:26:01;
+
+[PlayVoice]=00:25:03	Voice01/01-1S/01-1S-K02/01-1S-K02-0100	1	mak	00:26:01;
+
+[PrintText]=00:25:23	Sekai	No. Ustedes están saliendo...	00:29:22;
+
+[PlayVoice]=00:25:23	Voice01/01-1S/01-1S-K02/01-1S-K02-0110	0	sek	00:29:22;
+
+[PrintText]=00:30:06	Makoto	Sekai...	00:32:12;
+
+[PlayVoice]=00:30:06	Voice01/01-1S/01-1S-K02/01-1S-K02-0120	1	mak	00:32:12;
+
+[CreateBG]=00:32:21	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-009	00:38:07;
+
+[PrintText]=00:32:21	Sekai	Oh, Ahora que recuerdo, tengo trabajo hoy.	00:35:11;
+
+[PlayVoice]=00:32:21	Voice01/01-1S/01-1S-K02/01-1S-K02-0130	0	sek	00:35:11;
+
+[PrintText]=00:35:19	Makoto	¿No trabajas solamente durante las vacaciones de verano?^	00:38:13;
+
+[PlayVoice]=00:35:19	Voice01/01-1S/01-1S-K02/01-1S-K02-0140	1	mak	00:38:13;
+
+[CreateBG]=00:38:07	BGS	Event01/01-1S/01-1S-K02/01-1S-K02-010	00:46:18;
+
+[PrintText]=00:38:07	Sekai	Me llaman aveces cuando no hay personal. Bueno, nos vemos después.	00:42:12;
+
+[PlayVoice]=00:38:07	Voice01/01-1S/01-1S-K02/01-1S-K02-0150	0	sek	00:42:12;
+
+[PrintText]=00:42:07	Makoto	¡Ahh!	00:42:23;
+
+[PlayVoice]=00:42:07	Voice01/01-1S/01-1S-K02/01-1S-K02-0160	1	mak	00:42:23;
+
+[PrintText]=00:44:13	Makoto	...	00:45:09;
+
+[PlayVoice]=00:44:13	Voice01/01-1S/01-1S-K02/01-1S-K02-0180	1	xxx	00:45:09;
+
+[BlackFade]=00:45:18	OUT	00:46:18;
+
+ ;
+
+[Next]=00:46:18;
+
+
+
+

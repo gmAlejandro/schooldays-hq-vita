@@ -1,0 +1,18 @@
+﻿[SkipFRAME]=00:12:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:12:12;
+
+[PlayMovie]=00:00:00	Movie05/05-SB/05-SB-I01/05-SB-I01-001	0	00:09:12;
+
+[PrintText]=00:02:18	Kotonoha	Makoto-kun... Te amo.	00:06:22;
+
+[PlayVoice]=00:02:18	Voice05/05-SB/05-SB-I01/05-SB-I01-0030	0	kot	00:06:22;
+
+[PlayMovie]=00:09:12	Movie05/05-SB/05-SB-I01/05-SB-I01-002	0	00:12:12;
+
+ ;
+
+[Next]=00:12:12;
+
+
+

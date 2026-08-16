@@ -1,0 +1,89 @@
+﻿[SkipFRAME]=00:55:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:55:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-A00/04-KE-A00-001	00:03:03;
+
+[PlayMovie]=00:03:03	Movie04/04-KE/04-KE-A00/04-KE-A00-002	0	00:09:14;
+
+[PrintText]=00:03:03	Sekai	Haah...	00:04:16;
+
+[PlayVoice]=00:03:03	Voice04/04-KE/04-KE-A00/04-KE-A00-0060	0	sek	00:04:16;
+
+[PrintText]=00:04:15	Taisuke	Asombroso... eso fue asombroso.	00:09:14;
+
+[PlayVoice]=00:04:15	Voice04/04-KE/04-KE-A00/04-KE-A00-0070	1	tai	00:09:14;
+
+[CreateBG]=00:09:14	BGS	Event04/04-KE/04-KE-A00/04-KE-A00-003	00:13:17;
+
+[PrintText]=00:09:14	Sekai	Uh-huh...	00:10:13;
+
+[PlayVoice]=00:09:14	Voice04/04-KE/04-KE-A00/04-KE-A00-0080	0	sek	00:10:13;
+
+[PrintText]=00:10:13	Taisuke	También para ti, ¿Verdad?^	00:13:17;
+
+[PlayVoice]=00:10:13	Voice04/04-KE/04-KE-A00/04-KE-A00-0090	1	tai	00:13:17;
+
+[CreateBG]=00:13:17	BGS	Event04/04-KE/04-KE-A00/04-KE-A00-004	00:25:20;
+
+[PrintText]=00:13:17	Sekai	S-Sí...	00:15:06;
+
+[PlayVoice]=00:13:17	Voice04/04-KE/04-KE-A00/04-KE-A00-0100	0	sek	00:15:06;
+
+[PrintText]=00:15:06	Taisuke	Ahora que lo pienso, ya se acerca navidad ¿huh?^	00:19:11;
+
+[PlayVoice]=00:15:06	Voice04/04-KE/04-KE-A00/04-KE-A00-0110	1	tai	00:19:11;
+
+[PrintText]=00:19:11	Sekai	Sí...	00:20:15;
+
+[PlayVoice]=00:19:11	Voice04/04-KE/04-KE-A00/04-KE-A00-0120	0	sek	00:20:15;
+
+[PrintText]=00:20:15	Taisuke	¿Qué quisieras como regalo?^	00:24:05;
+
+[PlayVoice]=00:20:15	Voice04/04-KE/04-KE-A00/04-KE-A00-0130	1	tai	00:24:05;
+
+[PrintText]=00:24:05	Sekai	Nada en particular.	00:25:19;
+
+[PlayVoice]=00:24:05	Voice04/04-KE/04-KE-A00/04-KE-A00-0140	0	sek	00:25:19;
+
+[PrintText]=00:25:19	Taisuke	¿De qué hablas? ¡Es navidad! El gran evento para parejas.	00:32:03;
+
+[PlayVoice]=00:25:19	Voice04/04-KE/04-KE-A00/04-KE-A00-0150	1	tai	00:32:03;
+
+[CreateBG]=00:25:20	BGS	Event04/04-KE/04-KE-A00/04-KE-A00-005	00:48:12;
+
+[PrintText]=00:32:03	Sekai	...	00:32:16;
+
+[PlayVoice]=00:32:03	Voice04/04-KE/04-KE-A00/04-KE-A00-0160	0	xxx	00:32:16;
+
+[PrintText]=00:32:15	Taisuke	Intercambiaremos regalos, y en la noche, nosotros dos... ufufu...	00:42:06;
+
+[PlayVoice]=00:32:15	Voice04/04-KE/04-KE-A00/04-KE-A00-0170	1	tai	00:42:06;
+
+[PrintText]=00:42:07	Sekai	Uh-huh...	00:43:02;
+
+[PlayVoice]=00:42:07	Voice04/04-KE/04-KE-A00/04-KE-A00-0180	0	sek	00:43:02;
+
+[PrintText]=00:43:02	Taisuke	Que sea del recuerdo.	00:46:15;
+
+[PlayVoice]=00:43:02	Voice04/04-KE/04-KE-A00/04-KE-A00-0190	1	tai	00:46:15;
+
+[PrintText]=00:46:14	Sekai	S-Sí...	00:48:11;
+
+[PlayVoice]=00:46:14	Voice04/04-KE/04-KE-A00/04-KE-A00-0200	0	sek	00:48:11;
+
+[PrintText]=00:48:11	Taisuke	Hahaha... debes estar esperándolo. ¡Sera como 'Feliz navidad'!	00:54:04;
+
+[PlayVoice]=00:48:11	Voice04/04-KE/04-KE-A00/04-KE-A00-0220	1	tai	00:54:04;
+
+[CreateBG]=00:48:12	BGS	Event04/04-KE/04-KE-A00/04-KE-A00-006	00:55:16;
+
+[PrintText]=00:54:05	Sekai	Haah...	00:55:08;
+
+[PlayVoice]=00:54:05	Voice04/04-KE/04-KE-A00/04-KE-A00-0230	0	sek	00:55:08;
+
+ ;
+
+[Next]=00:55:16;
+
+

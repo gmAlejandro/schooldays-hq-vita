@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:11:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:17:16;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-F04/SE03-SA-F04-001	00:17:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F04/03-SA-F04-001	00:17:16;
+
+[PrintText]=00:00:00	Otome	Escucha ¿Por qué no te disculpas con todos?^	00:03:00;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-F04/03-SA-F04-0030	0	oto	00:03:00;
+
+[PrintText]=00:03:00	Minami	Sí, Sí.	00:03:21;
+
+[PlayVoice]=00:03:00	Voice03/03-SA/03-SA-F04/03-SA-F04-0040	0	min	00:03:21;
+
+[PrintText]=00:03:21	Otome	Solo di que te disculpas por mentirnos a todos.	00:07:03;
+
+[PlayVoice]=00:03:21	Voice03/03-SA/03-SA-F04/03-SA-F04-0050	0	oto	00:07:03;
+
+[PrintText]=00:07:04	Kotonoha	...	00:08:21;
+
+[PlayVoice]=00:07:04	Voice03/03-SA/03-SA-F04/03-SA-F04-0060	0	xxx	00:08:21;
+
+[PrintText]=00:08:21	Otome	¡Katsura!	00:10:00;
+
+[PlayVoice]=00:08:21	Voice03/03-SA/03-SA-F04/03-SA-F04-0070	0	oto	00:10:00;
+
+[PrintText]=00:10:00	Kotonoha	...	00:11:16;
+
+[PlayVoice]=00:10:00	Voice03/03-SA/03-SA-F04/03-SA-F04-0080	0	xxx	00:11:16;
+
+[SetSELECT]=00:11:16	*Ir hacia Katsura*	*Alejarse*	00:16:16;
+
+ ;
+
+[Next]=00:17:16;
+
+

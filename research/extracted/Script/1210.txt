@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:09:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:09:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G06/04-SB-G06-001	00:09:16;
+
+[PrintText]=00:00:00	Makoto	¿Quieres ver?^	00:01:08;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-G06/04-SB-G06-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:08	Hikari	pero...	00:02:13;
+
+[PlayVoice]=00:01:08	Voice04/04-SB/04-SB-G06/04-SB-G06-0040	0	hik	00:02:13;
+
+[PrintText]=00:02:13	Makoto	¿Asustada?^	00:03:14;
+
+[PlayVoice]=00:02:13	Voice04/04-SB/04-SB-G06/04-SB-G06-0050	1	mak	00:03:14;
+
+[PrintText]=00:03:14	Hikari	No...	00:04:18;
+
+[PlayVoice]=00:03:14	Voice04/04-SB/04-SB-G06/04-SB-G06-0060	0	hik	00:04:18;
+
+[PrintText]=00:04:18	Makoto	Entonces vamos a verlo juntos.	00:08:01;
+
+[PlayVoice]=00:04:18	Voice04/04-SB/04-SB-G06/04-SB-G06-0070	1	mak	00:08:01;
+
+[PrintText]=00:08:13	Hikari	...Vale.	00:09:07;
+
+[PlayVoice]=00:08:13	Voice04/04-SB/04-SB-G06/04-SB-G06-0080	0	hik	00:09:07;
+
+ ;
+
+[Next]=00:09:16;
+
+

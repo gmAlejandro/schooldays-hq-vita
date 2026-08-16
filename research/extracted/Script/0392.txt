@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:11:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:17:02;
+
+[PlaySe]=00:00:00	1	Se03/03-A0/03-A0-A05/SE03-A0-A05-001	00:17:02;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:03:13;
+
+[PrintText]=00:00:00	Makoto	Si es por un momento... estará bien.	00:03:13;
+
+[PlayVoice]=00:00:00	Voice03/03-A0/03-A0-A05/03-A0-A05-0040	1	xxx	00:03:13;
+
+[PlayMovie]=00:03:13	Movie02/02-2K/02-2K-J05/02-2K-J05-002	0	00:07:05;
+
+[PlayMovie]=00:07:05	Movie02/02-2K/02-2K-J05/02-2K-J05-003	0	00:10:06;
+
+[CreateBG]=00:10:06	BGS	Event02/02-2K/02-2K-J05/02-2K-J05-004	00:17:02;
+
+[PrintText]=00:10:06	Kotonoha	¡...!	00:11:05;
+
+[PlayVoice]=00:10:06	Voice03/03-A0/03-A0-A05/03-A0-A05-0060	0	kot	00:11:05;
+
+[SetSELECT]=00:11:00	'Un poco más...'	'Debería parar'	00:16:00;
+
+ ;
+
+[Next]=00:17:02;
+
+

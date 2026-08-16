@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:06:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:06:11;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-J10/02-2S-J10-001	00:01:07;
+
+[PrintText]=00:00:00	Makoto	Yo...	00:00:21;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-J10/02-2S-J10-0030	1	mak	00:00:21;
+
+[CreateBG]=00:01:07	BGS	Event02/02-2S/02-2S-J10/02-2S-J10-002	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event02/02-2S/02-2S-J10/02-2S-J10-003	00:06:11;
+
+[PrintText]=00:02:06	Makoto	...	00:03:16;
+
+[PlayVoice]=00:02:06	Voice02/02-2S/02-2S-J10/02-2S-J10-0060	1	xxx	00:03:16;
+
+[PrintText]=00:04:08	Sekai	...	00:05:04;
+
+[PlayVoice]=00:04:08	Voice02/02-2S/02-2S-J10/02-2S-J10-0070	0	xxx	00:05:04;
+
+[BlackFade]=00:05:11	OUT	00:06:11;
+
+ ;
+
+[Next]=00:06:11;
+
+
+
+

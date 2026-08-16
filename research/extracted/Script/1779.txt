@@ -1,0 +1,184 @@
+﻿[SkipFRAME]=01:56:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:10:05;
+
+[PlaySe]=00:00:00	1	Voice05/05-SD/05-SD-A00/05-SD-A00-0040	00:07:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-001	00:07:05;
+
+[PlaySe]=00:05:19	2	Se05/05-SD/05-SD-A00/SE05-SD-A00-001	00:07:22;
+
+[CreateBG]=00:07:05	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-002	00:10:05;
+
+[PrintText]=00:07:05	Makoto	Hmn?^	00:07:20;
+
+[PlayVoice]=00:07:05	Voice05/05-SD/05-SD-A00/05-SD-A00-0060	1	mak	00:07:20;
+
+[PlaySe]=00:07:19	1	Voice05/05-SD/05-SD-A00/05-SD-A00-0041	00:10:05;
+
+[CreateBG]=00:10:05	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-003	00:13:00;
+
+[PrintText]=00:10:05	Setsuna	Buenas noches.	00:11:08;
+
+[PlayVoice]=00:10:05	Voice05/05-SD/05-SD-A00/05-SD-A00-0100	0	set	00:11:08;
+
+[CreateBG]=00:13:00	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-011	00:20:03;
+
+[PrintText]=00:13:01	Makoto	Ah. Es un desastre aquí, así que no empieces.	00:16:19;
+
+[PlayVoice]=00:13:01	Voice05/05-SD/05-SD-A00/05-SD-A00-0130	1	mak	00:16:19;
+
+[PrintText]=00:16:20	Setsuna	No está hecho un desastre.	00:18:18;
+
+[PlayVoice]=00:16:20	Voice05/05-SD/05-SD-A00/05-SD-A00-0140	0	set	00:18:18;
+
+[PrintText]=00:18:19	Makoto	¿En serio?^	00:19:21;
+
+[PlayVoice]=00:18:19	Voice05/05-SD/05-SD-A00/05-SD-A00-0150	1	mak	00:19:21;
+
+[CreateBG]=00:20:03	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-005	00:23:12;
+
+[PrintText]=00:20:03	Setsuna	Uh-huh. ¿Dónde están tus padres?^	00:23:12;
+
+[PlayVoice]=00:20:03	Voice05/05-SD/05-SD-A00/05-SD-A00-0160	0	set	00:23:12;
+
+[CreateBG]=00:23:12	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-011	00:36:02;
+
+[PrintText]=00:23:12	Makoto	En realidad solo soy yo y mi madre.	00:27:08;
+
+[PlayVoice]=00:23:12	Voice05/05-SD/05-SD-A00/05-SD-A00-0170	1	mak	00:27:08;
+
+[PrintText]=00:27:09	Setsuna	...Lo siento.	00:28:16;
+
+[PlayVoice]=00:27:09	Voice05/05-SD/05-SD-A00/05-SD-A00-0180	0	set	00:28:16;
+
+[PrintText]=00:28:17	Makoto	No te preocupes, mi padre no está muerto o algo asó. Están divorciados. Tengo una hermana pequeña que vive con él.	00:36:02;
+
+[PlayVoice]=00:28:17	Voice05/05-SD/05-SD-A00/05-SD-A00-0190	1	mak	00:36:02;
+
+[CreateBG]=00:36:02	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-007	00:37:06;
+
+[PrintText]=00:36:05	Setsuna	Ya veo...	00:37:00;
+
+[PlayVoice]=00:36:05	Voice05/05-SD/05-SD-A00/05-SD-A00-0200	0	set	00:37:00;
+
+[CreateBG]=00:37:06	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-008	00:49:17;
+
+[PrintText]=00:37:08	Makoto	Su nombre es 'Itaru', el kanji es parecido al de mi padre, este se llama 'Tomaru'.	00:44:10;
+
+[PlayVoice]=00:37:08	Voice05/05-SD/05-SD-A00/05-SD-A00-0210	1	mak	00:44:10;
+
+[PrintText]=00:44:12	Makoto	Como son parecidos, es algo fácil confundirse... haha...	00:49:18;
+
+[PlayVoice]=00:44:12	Voice05/05-SD/05-SD-A00/05-SD-A00-0211	1	mak	00:49:18;
+
+[CreateBG]=00:49:17	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-009	00:55:12;
+
+[PrintText]=00:49:19	Setsuna	...	00:50:17;
+
+[PlayVoice]=00:49:19	Voice05/05-SD/05-SD-A00/05-SD-A00-0220	0	xxx	00:50:17;
+
+[PrintText]=00:50:17	Makoto	Te estoy aburriendo ¿No?^	00:53:22;
+
+[PlayVoice]=00:50:17	Voice05/05-SD/05-SD-A00/05-SD-A00-0230	1	mak	00:53:22;
+
+[PrintText]=00:53:23	Setsuna	No.	00:54:21;
+
+[PlayVoice]=00:53:23	Voice05/05-SD/05-SD-A00/05-SD-A00-0240	0	set	00:54:21;
+
+[CreateBG]=00:55:12	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-008	01:18:05;
+
+[PrintText]=00:55:13	Setsuna	Es linda.	00:58:02;
+
+[PlayVoice]=00:55:13	Voice05/05-SD/05-SD-A00/05-SD-A00-0270	0	set	00:58:02;
+
+[PrintText]=00:58:01	Makoto	¿En serio?^	00:58:23;
+
+[PlayVoice]=00:58:01	Voice05/05-SD/05-SD-A00/05-SD-A00-0280	1	mak	00:58:23;
+
+[PrintText]=00:59:00	Setsuna	Uh-huh.	00:59:16;
+
+[PlayVoice]=00:59:00	Voice05/05-SD/05-SD-A00/05-SD-A00-0290	0	set	00:59:16;
+
+[PrintText]=00:59:16	Makoto	Bueno, no sé por qué estás aquí, pero estoy acostumbrado, así que siéntete como tu casa.	01:05:06;
+
+[PlayVoice]=00:59:16	Voice05/05-SD/05-SD-A00/05-SD-A00-0300	1	mak	01:05:06;
+
+[PrintText]=01:05:06	Makoto	Mi madre es enfermera, así que difícilmente está en casa.	01:08:22;
+
+[PlayVoice]=01:05:06	Voice05/05-SD/05-SD-A00/05-SD-A00-0301	1	mak	01:08:22;
+
+[PrintText]=01:08:22	Setsuna	¿También está fuera hoy?^	01:09:22;
+
+[PlayVoice]=01:08:22	Voice05/05-SD/05-SD-A00/05-SD-A00-0310	0	set	01:09:22;
+
+[PrintText]=01:09:23	Makoto	Sí. Salió hace un momento, así que volverá en la mañana.	01:14:13;
+
+[PlayVoice]=01:09:23	Voice05/05-SD/05-SD-A00/05-SD-A00-0320	1	mak	01:14:13;
+
+[PrintText]=01:14:13	Setsuna	Qué conveniente.	01:16:07;
+
+[PlayVoice]=01:14:13	Voice05/05-SD/05-SD-A00/05-SD-A00-0330	0	set	01:16:07;
+
+[PrintText]=01:16:08	Makoto	¿Eh?^	01:16:22;
+
+[PlayVoice]=01:16:08	Voice05/05-SD/05-SD-A00/05-SD-A00-0340	1	mak	01:16:22;
+
+[PrintText]=01:16:22	Setsuna	Oh, nada.	01:18:03;
+
+[PlayVoice]=01:16:22	Voice05/05-SD/05-SD-A00/05-SD-A00-0350	0	set	01:18:03;
+
+[PrintText]=01:18:04	Makoto	Pero... estoy algo sorprendido de que vinieras.	01:23:06;
+
+[PlayVoice]=01:18:04	Voice05/05-SD/05-SD-A00/05-SD-A00-0360	1	mak	01:23:06;
+
+[CreateBG]=01:18:05	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-011	01:35:15;
+
+[PrintText]=01:23:07	Setsuna	Yo también. No creí que tuviera el coraje de hacerlo.	01:28:19;
+
+[PlayVoice]=01:23:07	Voice05/05-SD/05-SD-A00/05-SD-A00-0370	0	set	01:28:19;
+
+[PrintText]=01:28:20	Makoto	¿Coraje?^	01:29:20;
+
+[PlayVoice]=01:28:20	Voice05/05-SD/05-SD-A00/05-SD-A00-0380	1	mak	01:29:20;
+
+[PrintText]=01:29:20	Setsuna	Oh, nada.	01:31:00;
+
+[PlayVoice]=01:29:20	Voice05/05-SD/05-SD-A00/05-SD-A00-0390	0	set	01:31:00;
+
+[PrintText]=01:31:01	Makoto	Estás en uniforme. ¿Venías de la escuela? Debe ser difícil ser la representante de clase.	01:37:15;
+
+[PlayVoice]=01:31:01	Voice05/05-SD/05-SD-A00/05-SD-A00-0400	1	mak	01:37:15;
+
+[CreateBG]=01:35:15	BGS	Event05/05-SD/05-SD-A00/05-SD-A00-012	01:47:21;
+
+[PrintText]=01:37:16	Setsuna	No realmente.	01:38:21;
+
+[PlayVoice]=01:37:16	Voice05/05-SD/05-SD-A00/05-SD-A00-0410	0	set	01:38:21;
+
+[PrintText]=01:38:21	Makoto	Ya veo. Y... ¿Qué puedo hacer por ti?^	01:42:09;
+
+[PlayVoice]=01:38:21	Voice05/05-SD/05-SD-A00/05-SD-A00-0420	1	mak	01:42:09;
+
+[PrintText]=01:42:10	Setsuna	En realidad es bastante simple.	01:44:12;
+
+[PlayVoice]=01:42:10	Voice05/05-SD/05-SD-A00/05-SD-A00-0430	0	set	01:44:12;
+
+[PrintText]=01:44:12	Makoto	¿Simple? ¿Cómo qué?^	01:47:20;
+
+[PlayVoice]=01:44:12	Voice05/05-SD/05-SD-A00/05-SD-A00-0440	1	mak	01:47:20;
+
+[PlayMovie]=01:47:21	Movie05/05-SD/05-SD-A00/05-SD-A00-013	0	01:56:19;
+
+[PrintText]=01:55:01	Setsuna	...Como esto.	01:56:12;
+
+[PlayVoice]=01:55:01	Voice05/05-SD/05-SD-A00/05-SD-A00-0460	0	set	01:56:12;
+
+ ;
+
+[Next]=01:56:19;
+
+
+
+
+

@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:21:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:21:10;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-A06/SE03-SB-A06-001	00:21:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-A06/03-SB-A06-001	00:03:09;
+
+[PrintText]=00:00:00	Makoto	No puede evitarse.	00:01:07;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-A06/03-SB-A06-0030	1	mak	00:01:07;
+
+[PrintText]=00:01:07	Sekai	Sí, si se puede.Yo te amo... después de todo.	00:08:03;
+
+[PlayVoice]=00:01:07	Voice03/03-SB/03-SB-A06/03-SB-A06-0040	0	sek	00:08:03;
+
+[CreateBG]=00:03:09	BGS	Event03/03-SB/03-SB-A06/03-SB-A06-002	00:08:04;
+
+[PrintText]=00:08:03	Makoto	...	00:08:22;
+
+[PlayVoice]=00:08:03	Voice03/03-SB/03-SB-A06/03-SB-A06-0050	1	xxx	00:08:22;
+
+[CreateBG]=00:08:04	BGS	Event03/03-SB/03-SB-A06/03-SB-A06-003	00:10:10;
+
+[PrintText]=00:08:22	Sekai	Solo bromeaba. Te he preocupado. Eheheh.	00:13:10;
+
+[PlayVoice]=00:08:22	Voice03/03-SB/03-SB-A06/03-SB-A06-0060	0	sek	00:13:10;
+
+[CreateBG]=00:10:10	BGS	Event03/03-SB/03-SB-A06/03-SB-A06-004	00:13:10;
+
+[CreateBG]=00:13:10	BGS	Event03/03-SB/03-SB-A06/03-SB-A06-005	00:19:06;
+
+[PrintText]=00:13:10	Makoto	No, soy yo el que te ha causado todo este problema.	00:17:03;
+
+[PlayVoice]=00:13:10	Voice03/03-SB/03-SB-A06/03-SB-A06-0070	1	mak	00:17:03;
+
+[PrintText]=00:17:02	Sekai	...	00:18:06;
+
+[PlayVoice]=00:17:02	Voice03/03-SB/03-SB-A06/03-SB-A06-0080	0	xxx	00:18:06;
+
+[PrintText]=00:18:06	Makoto	Perdón.	00:19:05;
+
+[PlayVoice]=00:18:06	Voice03/03-SB/03-SB-A06/03-SB-A06-0090	1	mak	00:19:05;
+
+[CreateBG]=00:19:06	BGS	Event03/03-SB/03-SB-A06/03-SB-A06-001	00:21:10;
+
+[PrintText]=00:19:11	Sekai	Uh-huh...	00:20:03;
+
+[PlayVoice]=00:19:11	Voice03/03-SB/03-SB-A06/03-SB-A06-0100	0	sek	00:20:03;
+
+ ;
+
+[Next]=00:21:10;
+
+

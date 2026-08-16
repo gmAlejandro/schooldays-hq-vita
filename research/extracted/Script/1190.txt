@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=00:37:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:37:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	00:37:17;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-C03/04-SB-C03-001	00:01:19;
+
+[PrintText]=00:00:00	Makoto	¿No debería ser en los labios?^	00:01:19;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-C03/04-SB-C03-0030	1	mak	00:01:19;
+
+[CreateBG]=00:01:19	BGS	Event04/04-SB/04-SB-C03/04-SB-C03-002	00:06:15;
+
+[PrintText]=00:01:19	Kotonoha	¿Eh?^	00:02:15;
+
+[PlayVoice]=00:01:19	Voice04/04-SB/04-SB-C03/04-SB-C03-0040	0	kot	00:02:15;
+
+[PrintText]=00:02:15	Taisuke	¡Oh! Es verdad. Muy buena, Makoto.	00:06:16;
+
+[PlayVoice]=00:02:15	Voice04/04-SB/04-SB-C03/04-SB-C03-0050	1	tai	00:06:16;
+
+[CreateBG]=00:06:15	BGS	Event04/04-SB/04-SB-C03/04-SB-C03-003	00:11:08;
+
+[PrintText]=00:06:16	Kotonoha	No...	00:07:22;
+
+[PlayVoice]=00:06:16	Voice04/04-SB/04-SB-C03/04-SB-C03-0060	0	kot	00:07:22;
+
+[PrintText]=00:07:22	Taisuke	Vamos, dame uno.	00:11:07;
+
+[PlayVoice]=00:07:22	Voice04/04-SB/04-SB-C03/04-SB-C03-0070	1	tai	00:11:07;
+
+[CreateBG]=00:11:07	BGS	Event01/01-00/01-00-L00/01-00-L00-001	00:13:12;
+
+[PrintText]=00:11:07	Kotonoha	¡No!	00:12:16;
+
+[PlayVoice]=00:11:07	Voice04/04-SB/04-SB-C03/04-SB-C03-0080	0	kot	00:12:16;
+
+[PrintText]=00:12:16	Taisuke	Wah...	00:13:11;
+
+[PlayVoice]=00:12:16	Voice04/04-SB/04-SB-C03/04-SB-C03-0090	1	tai	00:13:11;
+
+[PrintText]=00:13:11	Kotonoha	...No...	00:15:00;
+
+[PlayVoice]=00:13:11	Voice04/04-SB/04-SB-C03/04-SB-C03-0100	0	kot	00:15:00;
+
+[CreateBG]=00:13:12	BGS	Event04/04-SB/04-SB-C03/04-SB-C03-005	00:15:01;
+
+[PrintText]=00:15:00	Taisuke	H-haha... ¿Tal vez es un poco pronto?^	00:20:21;
+
+[PlayVoice]=00:15:00	Voice04/04-SB/04-SB-C03/04-SB-C03-0110	1	tai	00:20:21;
+
+[CreateBG]=00:15:01	BGS	Event04/04-SB/04-SB-C01/04-SB-C01-006	00:22:03;
+
+[PrintText]=00:20:21	Makoto	Sí...	00:22:02;
+
+[PlayVoice]=00:20:21	Voice04/04-SB/04-SB-C03/04-SB-C03-0120	1	mak	00:22:02;
+
+[PrintText]=00:22:02	Taisuke	B-Bueno, el tren está aquí, Nos vemos mañana, Katsura-san.	00:27:05;
+
+[PlayVoice]=00:22:02	Voice04/04-SB/04-SB-C03/04-SB-C03-0140	1	tai	00:27:05;
+
+[PlaySe]=00:22:03	2	SysSe/SE_all/station_train/train_stpo	00:28:15;
+
+[CreateBG]=00:22:03	BGS	Event04/04-SB/04-SB-C03/04-SB-C03-007	00:28:05;
+
+[BlackFade]=00:27:05	OUT	00:28:05;
+
+[PrintText]=00:27:06	Kotonoha	...Sí.	00:28:05;
+
+[PlayVoice]=00:27:06	Voice04/04-SB/04-SB-C03/04-SB-C03-0150	0	kot	00:28:05;
+
+[PlaySe]=00:28:05	3	SysSe/SE_all/station_train/train_start	00:37:17;
+
+[PlayMovie]=00:28:05	Movie00/00-00/00-00-L00/00-00-L00-024	0	00:34:22;
+
+[BlackFade]=00:28:05	IN	00:29:05;
+
+[CreateBG]=00:34:22	BGS	Event04/04-SB/04-SB-C03/04-SB-C03-008A	00:35:20;
+
+[PrintText]=00:35:01	Kotonoha	...	00:35:16;
+
+[PlayVoice]=00:35:01	Voice04/04-SB/04-SB-C03/04-SB-C03-0170	0	xxx	00:35:16;
+
+[CreateBG]=00:35:20	BGS	Event04/04-SB/04-SB-C03/04-SB-C03-009	00:37:17;
+
+[PrintText]=00:35:23	Makoto	Kotonoha...	00:37:05;
+
+[PlayVoice]=00:35:23	Voice04/04-SB/04-SB-C03/04-SB-C03-0180	1	mak	00:37:05;
+
+ ;
+
+[Next]=00:37:17;
+
+

@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:17:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:23:13;
+
+[PlaySe]=00:00:00	1	Voice01/01-00/01-00-R00/01-00-R00-0054	00:05:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-R03/01-00-R03-001	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Event01/01-00/01-00-R03/01-00-R03-002	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event01/01-00/01-00-R03/01-00-R03-003	00:05:03;
+
+[PlayVoice]=00:02:21	Voice01/01-00/01-00-R03/01-00-R03-0040	0	sek	00:04:07;
+
+[CreateBG]=00:05:03	BGS	Event01/01-00/01-00-R03/01-00-R03-004	00:05:15;
+
+[CreateBG]=00:05:15	BGS	Ini/Event01/01-00/01-00-R03/01-00-R03-005	00:07:22;
+
+#[PrintText]=00:05:14	Sekai	"¡Deja de ignorarme, Idiota!".	00:07:21;
+
+[PlaySe]=00:05:21	2	Voice01/01-00/01-00-R00/01-00-R00-0055	00:20:16;
+
+[CreateBG]=00:07:22	BGS	Event01/01-00/01-00-R03/01-00-R03-006	00:09:19;
+
+[PrintText]=00:08:04	Makoto	¿'Idiota'?^	00:09:10;
+
+[PlayVoice]=00:08:04	Voice01/01-00/01-00-R03/01-00-R03-0070	1	mak	00:09:10;
+
+[CreateBG]=00:09:19	BGS	Ini/Event01/01-00/01-00-R03/01-00-R03-007	00:23:13;
+
+#[PrintText]=00:09:18	Sekai	"¡No estabas hablando con Katsura-san después de todo!\nSe veía muy sola, sabes".	00:13:14;
+
+[PrintText]=00:13:14	Makoto	¿No eras tú la única que estaba hablando todo el tiempo?^	00:17:09;
+
+[PlayVoice]=00:13:14	Voice01/01-00/01-00-R03/01-00-R03-0090	1	mak	00:17:09;
+
+[SetSELECT]=00:17:09	*Hablar con Katsura cuando la vea*	null	00:22:09;
+
+[PlaySe]=00:21:03	1	Voice01/01-00/01-00-R00/01-00-R00-0056	00:23:13;
+
+ ;
+
+[Next]=00:23:13;
+
+
+
+

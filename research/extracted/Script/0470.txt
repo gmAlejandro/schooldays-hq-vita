@@ -1,0 +1,447 @@
+﻿[SkipFRAME]=04:50:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	04:50:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-002	00:30:21;
+
+[PrintText]=00:03:00	Taisuke	Hey, escuché que no te sentías bien, así que vine a ver cómo estabas.	00:08:02;
+
+[PlayVoice]=00:03:00	Voice03/03-BK/03-BK-A02/03-BK-A02-0040	1	tai	00:08:02;
+
+[PrintText]=00:08:02	Makoto	Qué inesperado.	00:09:14;
+
+[PlayVoice]=00:08:02	Voice03/03-BK/03-BK-A02/03-BK-A02-0050	1	mak	00:09:14;
+
+[PrintText]=00:09:14	Taisuke	Ahaha, vamos, no digas eso. Venga, te traje algo de helado, come.	00:15:20;
+
+[PlayVoice]=00:09:14	Voice03/03-BK/03-BK-A02/03-BK-A02-0060	1	tai	00:15:20;
+
+[PrintText]=00:15:20	Makoto	¿Qué es esto? ¡¿60 Yenes de Helado?!	00:19:09;
+
+[PlayVoice]=00:15:20	Voice03/03-BK/03-BK-A02/03-BK-A02-0070	1	mak	00:19:09;
+
+[PrintText]=00:19:09	Taisuke	Mi presupuesto está algo bajo este mes.	00:21:16;
+
+[PlayVoice]=00:19:09	Voice03/03-BK/03-BK-A02/03-BK-A02-0080	1	tai	00:21:16;
+
+[PrintText]=00:21:16	Makoto	Consíguete un trabajo y cómprame una de esas maquinas para hacer helados, esas grandes que ni podrás cargarla.	00:26:17;
+
+[PlayVoice]=00:21:16	Voice03/03-BK/03-BK-A02/03-BK-A02-0090	1	mak	00:26:17;
+
+[PrintText]=00:26:17	Taisuke	Vamos, sé razonable.	00:28:14;
+
+[PlayVoice]=00:26:17	Voice03/03-BK/03-BK-A02/03-BK-A02-0100	1	tai	00:28:14;
+
+[PrintText]=00:28:15	Makoto	Bueno, gracias de todas maneras.	00:30:21;
+
+[PlayVoice]=00:28:15	Voice03/03-BK/03-BK-A02/03-BK-A02-0110	1	mak	00:30:21;
+
+[CreateBG]=00:30:21	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-003	00:41:06;
+
+[PrintText]=00:30:21	Taisuke	Parece que te estás sintiendo mejor.	00:34:06;
+
+[PlayVoice]=00:30:21	Voice03/03-BK/03-BK-A02/03-BK-A02-0120	1	tai	00:34:06;
+
+[PrintText]=00:34:06	Makoto	¿Hmn? Oh, sí...	00:37:03;
+
+[PlayVoice]=00:34:06	Voice03/03-BK/03-BK-A02/03-BK-A02-0130	1	mak	00:37:03;
+
+[PrintText]=00:37:03	Taisuke	Estarás listo mañana entonces ¿No?^	00:39:12;
+
+[PlayVoice]=00:37:03	Voice03/03-BK/03-BK-A02/03-BK-A02-0140	1	tai	00:39:12;
+
+[PrintText]=00:39:12	Makoto	¿Mañana?^	00:40:09;
+
+[PlayVoice]=00:39:12	Voice03/03-BK/03-BK-A02/03-BK-A02-0150	1	mak	00:40:09;
+
+[PrintText]=00:40:09	Taisuke	Sí.	00:41:06;
+
+[PlayVoice]=00:40:09	Voice03/03-BK/03-BK-A02/03-BK-A02-0160	1	tai	00:41:06;
+
+[PrintText]=00:41:05	Makoto	¿Tiene que ser mañana? ¿No se supone que mañana es día libre?^	00:44:18;
+
+[PlayVoice]=00:41:05	Voice03/03-BK/03-BK-A02/03-BK-A02-0170	1	mak	00:44:18;
+
+[CreateBG]=00:41:06	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-004	00:44:18;
+
+[CreateBG]=00:44:18	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-003	00:45:22;
+
+[PrintText]=00:44:18	Taisuke	Por eso mismo.	00:45:22;
+
+[PlayVoice]=00:44:18	Voice03/03-BK/03-BK-A02/03-BK-A02-0180	1	tai	00:45:22;
+
+[PrintText]=00:45:21	Makoto	No sé de que estás hablando.	00:48:01;
+
+[PlayVoice]=00:45:21	Voice03/03-BK/03-BK-A02/03-BK-A02-0190	1	mak	00:48:01;
+
+[CreateBG]=00:45:22	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-006	00:49:20;
+
+[PrintText]=00:48:01	Taisuke	Escucha...	00:49:01;
+
+[PlayVoice]=00:48:01	Voice03/03-BK/03-BK-A02/03-BK-A02-0200	1	tai	00:49:01;
+
+[PrintText]=00:49:01	Makoto	Sí.	00:49:19;
+
+[PlayVoice]=00:49:01	Voice03/03-BK/03-BK-A02/03-BK-A02-0210	1	mak	00:49:19;
+
+[PrintText]=00:49:19	Taisuke	La verdad es que... voy a ir a una cita con Saionji.	00:54:20;
+
+[PlayVoice]=00:49:19	Voice03/03-BK/03-BK-A02/03-BK-A02-0220	1	tai	00:54:20;
+
+[CreateBG]=00:49:20	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-007	00:54:20;
+
+[CreateBG]=00:54:20	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-008	01:02:12;
+
+[PrintText]=00:54:20	Makoto	¡¿Eh?!	00:55:11;
+
+[PlayVoice]=00:54:20	Voice03/03-BK/03-BK-A02/03-BK-A02-0230	1	mak	00:55:11;
+
+[PrintText]=00:55:11	Taisuke	Te lo dije por teléfono ayer ¿Recuerdas? Que iba a invitarla a salir aunque fuera inútil.	01:00:13;
+
+[PlayVoice]=00:55:11	Voice03/03-BK/03-BK-A02/03-BK-A02-0240	1	tai	01:00:13;
+
+[PrintText]=01:00:14	Makoto	S-Sí.	01:02:11;
+
+[PlayVoice]=01:00:14	Voice03/03-BK/03-BK-A02/03-BK-A02-0250	1	mak	01:02:11;
+
+[PrintText]=01:02:11	Taisuke	No fui capaz de ir a caminar con ella durante el festival, pero la encontré después en la fogata.	01:07:09;
+
+[PlayVoice]=01:02:11	Voice03/03-BK/03-BK-A02/03-BK-A02-0260	1	tai	01:07:09;
+
+[CreateBG]=01:02:12	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-009	01:15:07;
+
+[PrintText]=01:07:09	Makoto	La fogata, huh.	01:09:07;
+
+[PlayVoice]=01:07:09	Voice03/03-BK/03-BK-A02/03-BK-A02-0270	1	mak	01:09:07;
+
+[PrintText]=01:09:06	Taisuke	Sí. Entonces, le pedí que bailara conmigo.	01:14:00;
+
+[PlayVoice]=01:09:06	Voice03/03-BK/03-BK-A02/03-BK-A02-0280	1	tai	01:14:00;
+
+[PrintText]=01:14:00	Makoto	Hmmn.	01:15:06;
+
+[PlayVoice]=01:14:00	Voice03/03-BK/03-BK-A02/03-BK-A02-0290	1	mak	01:15:06;
+
+[PrintText]=01:15:06	Taisuke	¿Qué quieres decir con 'Hmmn'? ¡Estamos hablando del Baile Folk!	01:20:06;
+
+[PlayVoice]=01:15:06	Voice03/03-BK/03-BK-A02/03-BK-A02-0300	1	tai	01:20:06;
+
+[CreateBG]=01:15:07	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-010	01:34:07;
+
+[PrintText]=01:20:05	Makoto	Sí, Hemos tenido estos bailes en la primaria, todos en grupo entre la fogata y eso.	01:26:04;
+
+[PlayVoice]=01:20:05	Voice03/03-BK/03-BK-A02/03-BK-A02-0310	1	mak	01:26:04;
+
+[PrintText]=01:26:05	Taisuke	Idiota. ¡Invitar a una chica al baile Folk es como decirle que le gustas!	01:34:06;
+
+[PlayVoice]=01:26:05	Voice03/03-BK/03-BK-A02/03-BK-A02-0320	1	tai	01:34:06;
+
+[PrintText]=01:34:06	Makoto	¿En serio?^	01:35:14;
+
+[PlayVoice]=01:34:06	Voice03/03-BK/03-BK-A02/03-BK-A02-0330	1	mak	01:35:14;
+
+[CreateBG]=01:34:07	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-011	01:50:14;
+
+[PrintText]=01:35:14	Taisuke	Realmente no te interesan los eventos escolares ¿No?^	01:39:01;
+
+[PlayVoice]=01:35:14	Voice03/03-BK/03-BK-A02/03-BK-A02-0340	1	tai	01:39:01;
+
+[PrintText]=01:39:01	Makoto	Por supuesto que sí.	01:41:07;
+
+[PlayVoice]=01:39:01	Voice03/03-BK/03-BK-A02/03-BK-A02-0350	1	mak	01:41:07;
+
+[PrintText]=01:41:08	Taisuke	¡Como sea, la invité, tome su mano y baile con ella!	01:49:14;
+
+[PlayVoice]=01:41:08	Voice03/03-BK/03-BK-A02/03-BK-A02-0360	1	tai	01:49:14;
+
+[PrintText]=01:49:13	Makoto	Ya veo...	01:50:13;
+
+[PlayVoice]=01:49:13	Voice03/03-BK/03-BK-A02/03-BK-A02-0370	1	mak	01:50:13;
+
+[CreateBG]=01:50:14	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-012	02:11:13;
+
+[PrintText]=01:50:14	Taisuke	Con mi ritmo, estábamos entre la fogata.	01:55:14;
+
+[PlayVoice]=01:50:14	Voice03/03-BK/03-BK-A02/03-BK-A02-0380	1	tai	01:55:14;
+
+[PrintText]=01:55:14	Makoto	Bueno, eso es lo principal en el baile folk.	01:58:11;
+
+[PlayVoice]=01:55:14	Voice03/03-BK/03-BK-A02/03-BK-A02-0390	1	mak	01:58:11;
+
+[PrintText]=01:58:11	Taisuke	Tal vez fue debido a la luz del fuego, pero me dio la sensación que sus mejillas estaban rojas.	02:05:13;
+
+[PlayVoice]=01:58:11	Voice03/03-BK/03-BK-A02/03-BK-A02-0400	1	tai	02:05:13;
+
+[PrintText]=02:05:14	Makoto	Eso probablemente FUE por el fuego.	02:08:03;
+
+[PlayVoice]=02:05:14	Voice03/03-BK/03-BK-A02/03-BK-A02-0410	1	mak	02:08:03;
+
+[PrintText]=02:08:03	Taisuke	¡Vamos, felicítame!	02:10:11;
+
+[PlayVoice]=02:08:03	Voice03/03-BK/03-BK-A02/03-BK-A02-0420	1	tai	02:10:11;
+
+[PrintText]=02:09:12	Makoto	Sí, sí, bien por ti.	02:11:08;
+
+[PlayVoice]=02:09:12	Voice03/03-BK/03-BK-A02/03-BK-A02-0430	1	mak	02:11:08;
+
+[CreateBG]=02:11:13	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-007	02:25:04;
+
+[PrintText]=02:11:15	Taisuke	 ... Bueno, no es que no lo entienda. Ahora que ella está conmigo probablemente te quedes solo.	02:19:21;
+
+[PlayVoice]=02:11:15	Voice03/03-BK/03-BK-A02/03-BK-A02-0440	1	tai	02:19:21;
+
+[PrintText]=02:19:21	Makoto	¡¿Qu-?!	02:20:19;
+
+[PlayVoice]=02:19:21	Voice03/03-BK/03-BK-A02/03-BK-A02-0450	1	mak	02:20:19;
+
+[PrintText]=02:20:19	Taisuke	Pero para ti, mi querido amigo, tengo un plan.	02:25:04;
+
+[PlayVoice]=02:20:19	Voice03/03-BK/03-BK-A02/03-BK-A02-0460	1	tai	02:25:04;
+
+[CreateBG]=02:25:04	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-014	02:26:19;
+
+[PrintText]=02:25:04	Makoto	¿A quién llamas 'Querido amigo'?^	02:26:19;
+
+[PlayVoice]=02:25:04	Voice03/03-BK/03-BK-A02/03-BK-A02-0470	1	mak	02:26:19;
+
+[CreateBG]=02:26:19	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-015	02:40:00;
+
+[PrintText]=02:26:19	Taisuke	Aquí.	02:27:19;
+
+[PlayVoice]=02:26:19	Voice03/03-BK/03-BK-A02/03-BK-A02-0480	1	tai	02:27:19;
+
+[PrintText]=02:27:19	Makoto	Hey, escúchame cuando te hablo.	02:29:02;
+
+[PlayVoice]=02:27:19	Voice03/03-BK/03-BK-A02/03-BK-A02-0490	1	mak	02:29:02;
+
+[PrintText]=02:29:01	Taisuke	Echales un vistazo.	02:30:02;
+
+[PlayVoice]=02:29:01	Voice03/03-BK/03-BK-A02/03-BK-A02-0500	1	tai	02:30:02;
+
+[PrintText]=02:30:02	Makoto	¿Qué? ¿Hmn? ¿'Balneario'...? ¿Qué hay con estas entradas?^	02:37:09;
+
+[PlayVoice]=02:30:02	Voice03/03-BK/03-BK-A02/03-BK-A02-0510	1	mak	02:37:09;
+
+[PrintText]=02:37:09	Taisuke	Piscina.	02:38:19;
+
+[PlayVoice]=02:37:09	Voice03/03-BK/03-BK-A02/03-BK-A02-0520	1	tai	02:38:19;
+
+[PrintText]=02:38:19	Makoto	Bien, piscina...	02:39:23;
+
+[PlayVoice]=02:38:19	Voice03/03-BK/03-BK-A02/03-BK-A02-0530	1	mak	02:39:23;
+
+[PrintText]=02:39:23	Taisuke	Es un parque de atracciones de agua en Sakakino Hills.	02:43:12;
+
+[PlayVoice]=02:39:23	Voice03/03-BK/03-BK-A02/03-BK-A02-0540	1	tai	02:43:12;
+
+[CreateBG]=02:40:00	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-016	02:54:15;
+
+[PrintText]=02:43:12	Taisuke	Tiene piscinas, toboganes, saunas en funcionamiento.	02:48:16;
+
+[PlayVoice]=02:43:12	Voice03/03-BK/03-BK-A02/03-BK-A02-0541	1	tai	02:48:16;
+
+[PrintText]=02:48:21	Makoto	¿Sakakino Hills tiene uno de esos...?^	02:53:08;
+
+[PlayVoice]=02:48:21	Voice03/03-BK/03-BK-A02/03-BK-A02-0550	1	mak	02:53:08;
+
+[PrintText]=02:53:09	Taisuke	¿Increíble, huh?^	02:54:15;
+
+[PlayVoice]=02:53:09	Voice03/03-BK/03-BK-A02/03-BK-A02-0560	1	tai	02:54:15;
+
+[CreateBG]=02:54:15	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-017	03:15:02;
+
+[PrintText]=02:54:15	Makoto	Sí, ¿De dónde sacaste eso? Debe haber sido caro.	02:59:03;
+
+[PlayVoice]=02:54:15	Voice03/03-BK/03-BK-A02/03-BK-A02-0570	1	mak	02:59:03;
+
+[PrintText]=02:59:03	Taisuke	Los conseguí de mi hermana.	03:00:17;
+
+[PlayVoice]=02:59:03	Voice03/03-BK/03-BK-A02/03-BK-A02-0580	1	tai	03:00:17;
+
+[PrintText]=03:00:18	Makoto	Wow... Ese 'Complejo de hermana', Taisuke. Supongo que es tu amor no correspondido después de todo.	03:07:11;
+
+[PlayVoice]=03:00:18	Voice03/03-BK/03-BK-A02/03-BK-A02-0590	1	mak	03:07:11;
+
+[PrintText]=03:07:11	Taisuke	Mi hermana los tenía para ir con su novio. Pero no pudo.	03:12:20;
+
+[PlayVoice]=03:07:11	Voice03/03-BK/03-BK-A02/03-BK-A02-0600	1	tai	03:12:20;
+
+[PrintText]=03:12:19	Makoto	Sí, pero aquí hay entradas para cuatro.	03:15:02;
+
+[PlayVoice]=03:12:19	Voice03/03-BK/03-BK-A02/03-BK-A02-0610	1	mak	03:15:02;
+
+[CreateBG]=03:15:02	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-018A	03:21:02;
+
+[PrintText]=03:15:02	Taisuke	Querían quedarse en un hotel en Sakakino Hills y jugar durante dos días en la piscina.	03:21:01;
+
+[PlayVoice]=03:15:02	Voice03/03-BK/03-BK-A02/03-BK-A02-0620	1	tai	03:21:01;
+
+[PrintText]=03:21:01	Makoto	Q-Qué trágico... pero, es un golpe de suerte que tengamos unos pases gratis.	03:29:11;
+
+[PlayVoice]=03:21:01	Voice03/03-BK/03-BK-A02/03-BK-A02-0630	1	mak	03:29:11;
+
+[CreateBG]=03:21:02	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-018B	03:29:11;
+
+[PrintText]=03:29:10	Taisuke	...Sí, pero ahora tendré que hacer los almuerzos durante 3 meses.	03:33:21;
+
+[PlayVoice]=03:29:10	Voice03/03-BK/03-BK-A02/03-BK-A02-0640	1	tai	03:33:21;
+
+[CreateBG]=03:29:11	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-018C	03:42:00;
+
+[PrintText]=03:33:21	Makoto	E... Eso suena rudo...	03:36:18;
+
+[PlayVoice]=03:33:21	Voice03/03-BK/03-BK-A02/03-BK-A02-0650	1	mak	03:36:18;
+
+[PrintText]=03:36:18	Taisuke	¡Aún así, es un precio justo por las entradas!	03:42:00;
+
+[PlayVoice]=03:36:18	Voice03/03-BK/03-BK-A02/03-BK-A02-0660	1	tai	03:42:00;
+
+[PrintText]=03:41:23	Makoto	Es verdad.	03:42:23;
+
+[PlayVoice]=03:41:23	Voice03/03-BK/03-BK-A02/03-BK-A02-0670	1	mak	03:42:23;
+
+[CreateBG]=03:42:00	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-019	03:44:01;
+
+[PrintText]=03:42:23	Taisuke	Así que, eso es todo. ¡Nos vemos mañana!	03:45:08;
+
+[PlayVoice]=03:42:23	Voice03/03-BK/03-BK-A02/03-BK-A02-0680	1	tai	03:45:08;
+
+[CreateBG]=03:44:01	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-020	03:55:11;
+
+[PrintText]=03:45:08	Makoto	Ahí hay cuatro entradas, entonces...	03:48:01;
+
+[PlayVoice]=03:45:08	Voice03/03-BK/03-BK-A02/03-BK-A02-0690	1	mak	03:48:01;
+
+[PrintText]=03:48:00	Taisuke	Yo con Saionji, y tú con Katsura-san.	03:51:08;
+
+[PlayVoice]=03:48:00	Voice03/03-BK/03-BK-A02/03-BK-A02-0700	1	tai	03:51:08;
+
+[PrintText]=03:51:08	Makoto	Supongo.	03:52:22;
+
+[PlayVoice]=03:51:08	Voice03/03-BK/03-BK-A02/03-BK-A02-0710	1	mak	03:52:22;
+
+[PrintText]=03:52:22	Taisuke	Será un cita doble.	03:54:11;
+
+[PlayVoice]=03:52:22	Voice03/03-BK/03-BK-A02/03-BK-A02-0720	1	tai	03:54:11;
+
+[PrintText]=03:54:11	Makoto	...	03:55:10;
+
+[PlayVoice]=03:54:11	Voice03/03-BK/03-BK-A02/03-BK-A02-0730	1	xxx	03:55:10;
+
+[PrintText]=03:55:10	Makoto	Suena aburrido, paso.	03:57:00;
+
+[PlayVoice]=03:55:10	Voice03/03-BK/03-BK-A02/03-BK-A02-0740	1	mak	03:57:00;
+
+[CreateBG]=03:55:11	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-021	03:59:15;
+
+[PrintText]=03:57:01	Taisuke	No puedes.	03:57:21;
+
+[PlayVoice]=03:57:01	Voice03/03-BK/03-BK-A02/03-BK-A02-0750	1	tai	03:57:21;
+
+[PrintText]=03:57:21	Makoto	¿Por qué no?^	03:59:15;
+
+[PlayVoice]=03:57:21	Voice03/03-BK/03-BK-A02/03-BK-A02-0760	1	mak	03:59:15;
+
+[CreateBG]=03:59:15	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-022	04:11:08;
+
+[PrintText]=03:59:15	Taisuke	Porque ya todos dijeron que iban a ir.	04:03:05;
+
+[PlayVoice]=03:59:15	Voice03/03-BK/03-BK-A02/03-BK-A02-0770	1	tai	04:03:05;
+
+[PrintText]=04:03:05	Makoto	¿Kotonoha dijo que iría?^	04:05:08;
+
+[PlayVoice]=04:03:05	Voice03/03-BK/03-BK-A02/03-BK-A02-0780	1	mak	04:05:08;
+
+[PrintText]=04:05:08	Taisuke	Sí.	04:06:04;
+
+[PlayVoice]=04:05:08	Voice03/03-BK/03-BK-A02/03-BK-A02-0790	1	tai	04:06:04;
+
+[PrintText]=04:06:04	Makoto	¿También Sekai?^	04:07:04;
+
+[PlayVoice]=04:06:04	Voice03/03-BK/03-BK-A02/03-BK-A02-0800	1	mak	04:07:04;
+
+[PrintText]=04:07:04	Taisuke	Naturalmente.	04:08:05;
+
+[PlayVoice]=04:07:04	Voice03/03-BK/03-BK-A02/03-BK-A02-0810	1	tai	04:08:05;
+
+[PrintText]=04:08:05	Makoto	Haah...	04:09:08;
+
+[PlayVoice]=04:08:05	Voice03/03-BK/03-BK-A02/03-BK-A02-0820	1	mak	04:09:08;
+
+[PrintText]=04:09:08	Taisuke	Tú también irás por supuesto ¿...?^	04:11:07;
+
+[PlayVoice]=04:09:08	Voice03/03-BK/03-BK-A02/03-BK-A02-0830	1	tai	04:11:07;
+
+[PrintText]=04:11:07	Makoto	Bien. Vale.	04:12:18;
+
+[PlayVoice]=04:11:07	Voice03/03-BK/03-BK-A02/03-BK-A02-0840	1	mak	04:12:18;
+
+[CreateBG]=04:11:08	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-023	04:37:04;
+
+[PrintText]=04:12:18	Taisuke	Bien, está decidido entonces.	04:14:06;
+
+[PlayVoice]=04:12:18	Voice03/03-BK/03-BK-A02/03-BK-A02-0850	1	tai	04:14:06;
+
+[PrintText]=04:14:07	Makoto	Sí, sí.	04:15:07;
+
+[PlayVoice]=04:14:07	Voice03/03-BK/03-BK-A02/03-BK-A02-0860	1	mak	04:15:07;
+
+[PrintText]=04:15:06	Taisuke	Nos reuniremos a las 10 de la mañana al frente de Sakakino Hills.	04:19:03;
+
+[PlayVoice]=04:15:06	Voice03/03-BK/03-BK-A02/03-BK-A02-0870	1	tai	04:19:03;
+
+[PrintText]=04:19:03	Makoto	¿Un lugar exacto?^	04:20:20;
+
+[PlayVoice]=04:19:03	Voice03/03-BK/03-BK-A02/03-BK-A02-0880	1	mak	04:20:20;
+
+[PrintText]=04:20:21	Taisuke	Está cerca de mi casa y de la casa de Saionji ¿No?^	04:25:08;
+
+[PlayVoice]=04:20:21	Voice03/03-BK/03-BK-A02/03-BK-A02-0890	1	tai	04:25:08;
+
+[PrintText]=04:25:08	Makoto	Es verdad.	04:28:03;
+
+[PlayVoice]=04:25:08	Voice03/03-BK/03-BK-A02/03-BK-A02-0900	1	mak	04:28:03;
+
+[PrintText]=04:28:03	Taisuke	Puedes encontrarte con Katsura-san antes y caminar por ahí, si quieres.	04:33:00;
+
+[PlayVoice]=04:28:03	Voice03/03-BK/03-BK-A02/03-BK-A02-0910	1	tai	04:33:00;
+
+[PrintText]=04:33:00	Makoto	No lo llames 'Caminar por ahí'.	04:34:21;
+
+[PlayVoice]=04:33:00	Voice03/03-BK/03-BK-A02/03-BK-A02-0920	1	mak	04:34:21;
+
+[PrintText]=04:34:22	Taisuke	Bueno, te veo mañana.	04:36:11;
+
+[PlayVoice]=04:34:22	Voice03/03-BK/03-BK-A02/03-BK-A02-0930	1	tai	04:36:11;
+
+[PrintText]=04:36:11	Makoto	Ah...	04:37:04;
+
+[PlayVoice]=04:36:11	Voice03/03-BK/03-BK-A02/03-BK-A02-0950	1	mak	04:37:04;
+
+[CreateBG]=04:37:04	BGS	Event03/03-BK/03-BK-A02/03-BK-A02-024	04:50:03;
+
+[PrintText]=04:37:04	Makoto	Y se a ido.	04:40:10;
+
+[PlayVoice]=04:37:04	Voice03/03-BK/03-BK-A02/03-BK-A02-0960	1	mak	04:40:10;
+
+[PrintText]=04:37:10	Makoto	...	04:38:12;
+
+[PlayVoice]=04:37:10	Voice03/03-BK/03-BK-A02/03-BK-A02-0970	1	xxx	04:38:12;
+
+[PrintText]=04:41:12	Makoto	Para ser honesto, será un poco difícil verme con Kotonoha ahora...	04:46:10;
+
+[PlayVoice]=04:41:12	Voice03/03-BK/03-BK-A02/03-BK-A02-0980	1	mak	04:46:10;
+
+[PrintText]=04:46:10	Makoto	Pero supongo que no se puede evitar...	04:47:22;
+
+[PlayVoice]=04:46:10	Voice03/03-BK/03-BK-A02/03-BK-A02-0990	1	mak	04:47:22;
+
+[BlackFade]=04:48:03	OUT	04:50:03;
+
+ ;
+
+[Next]=04:50:03;
+
+

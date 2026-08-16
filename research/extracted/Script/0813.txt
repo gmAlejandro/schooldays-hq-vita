@@ -1,0 +1,117 @@
+﻿[SkipFRAME]=00:44:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:50:15;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-C06/SE03-SB-C06-001	00:26:07;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-C06/03-SB-C06-001	0	00:02:02;
+
+[PrintText]=00:00:00	Makoto	No puedo.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-C06/03-SB-C06-0030	1	mak	00:00:20;
+
+[PrintText]=00:00:20	Kotonoha	¿Ehh?!	00:02:02;
+
+[PlayVoice]=00:00:20	Voice03/03-SB/03-SB-C06/03-SB-C06-0040	0	kot	00:02:02;
+
+[PlayMovie]=00:02:02	Movie03/03-SB/03-SB-C06/03-SB-C06-002	0	00:06:06;
+
+[PrintText]=00:02:02	Makoto	Estaré todo el día en la cocina ¿Recuerdas?^	00:06:06;
+
+[PlayVoice]=00:02:02	Voice03/03-SB/03-SB-C06/03-SB-C06-0050	1	mak	00:06:06;
+
+[PlayMovie]=00:06:06	Movie03/03-SB/03-SB-C06/03-SB-C06-003	0	00:09:20;
+
+[PrintText]=00:06:06	Kotonoha	¿Eh...? ¿Quieres decir que no hay nadie quien te reemplace?^	00:09:20;
+
+[PlayVoice]=00:06:06	Voice03/03-SB/03-SB-C06/03-SB-C06-0060	0	kot	00:09:20;
+
+[PrintText]=00:09:19	Makoto	¿No estás en las mismas?^	00:12:14;
+
+[PlayVoice]=00:09:19	Voice03/03-SB/03-SB-C06/03-SB-C06-0070	1	mak	00:12:14;
+
+[CreateBG]=00:09:20	BGS	Event03/03-SB/03-SB-C06/03-SB-C06-004	00:12:15;
+
+[PrintText]=00:12:14	Kotonoha	Es verdad... no hay nadie que me reemplace.	00:17:15;
+
+[PlayVoice]=00:12:14	Voice03/03-SB/03-SB-C06/03-SB-C06-0080	0	kot	00:17:15;
+
+[PlayMovie]=00:12:15	Movie03/03-SB/03-SB-C06/03-SB-C06-005	0	00:18:10;
+
+[PrintText]=00:17:15	Makoto	¿Lo ves?^	00:18:10;
+
+[PlayVoice]=00:17:15	Voice03/03-SB/03-SB-C06/03-SB-C06-0090	1	mak	00:18:10;
+
+[PlayMovie]=00:18:10	Movie03/03-SB/03-SB-C06/03-SB-C06-006	0	00:19:10;
+
+[PrintText]=00:18:10	Kotonoha	...Sí.	00:19:09;
+
+[PlayVoice]=00:18:10	Voice03/03-SB/03-SB-C06/03-SB-C06-0100	0	kot	00:19:09;
+
+[PrintText]=00:19:09	Makoto	No se puede evitar.	00:20:15;
+
+[PlayVoice]=00:19:09	Voice03/03-SB/03-SB-C06/03-SB-C06-0110	1	mak	00:20:15;
+
+[PlayMovie]=00:19:10	Movie03/03-SB/03-SB-C06/03-SB-C06-007	0	00:21:10;
+
+[PrintText]=00:20:14	Kotonoha	Entonces al menos el baile folk...	00:23:13;
+
+[PlayVoice]=00:20:14	Voice03/03-SB/03-SB-C06/03-SB-C06-0120	0	kot	00:23:13;
+
+[PlayMovie]=00:21:10	Movie03/03-SB/03-SB-C06/03-SB-C06-008	0	00:24:17;
+
+[PrintText]=00:23:13	Makoto	¿Baile folk?^	00:24:16;
+
+[PlayVoice]=00:23:13	Voice03/03-SB/03-SB-C06/03-SB-C06-0130	1	mak	00:24:16;
+
+[CreateBG]=00:24:16	BGS	Event03/03-SB/03-SB-C06/03-SB-C06-009	00:28:16;
+
+[PrintText]=00:24:16	Kotonoha	Después que el festival termina, hay una fogata en el plantel.	00:28:16;
+
+[PlayVoice]=00:24:16	Voice03/03-SB/03-SB-C06/03-SB-C06-0140	0	kot	00:28:16;
+
+[PlaySe]=00:25:23	2	Se03/03-SB/03-SB-C06/SE03-SB-C06-001	00:50:15;
+
+[PlayMovie]=00:28:16	Movie03/03-SB/03-SB-C06/03-SB-C06-010	0	00:30:09;
+
+[PrintText]=00:28:16	Makoto	La fogata, huh.	00:30:09;
+
+[PlayVoice]=00:28:16	Voice03/03-SB/03-SB-C06/03-SB-C06-0150	1	mak	00:30:09;
+
+[PlayMovie]=00:30:09	Movie03/03-SB/03-SB-C06/03-SB-C06-011	0	00:38:09;
+
+[PrintText]=00:30:09	Kotonoha	Si podríamos... bailar juntos...	00:38:11;
+
+[PlayVoice]=00:30:09	Voice03/03-SB/03-SB-C06/03-SB-C06-0160	0	kot	00:38:11;
+
+[PlayMovie]=00:38:09	Movie03/03-SB/03-SB-C06/03-SB-C06-012	0	00:39:10;
+
+[PrintText]=00:38:11	Makoto	¿Hay un baile?^	00:39:13;
+
+[PlayVoice]=00:38:11	Voice03/03-SB/03-SB-C06/03-SB-C06-0170	1	mak	00:39:13;
+
+[PlayMovie]=00:39:10	Movie03/03-SB/03-SB-C06/03-SB-C06-012	0	00:40:11;
+
+[CreateBG]=00:40:11	BGS	Event03/03-SB/03-SB-C06/03-SB-C06-013	00:45:13;
+
+[PrintText]=00:40:11	Makoto	Yo y el baile folk, huh...	00:44:03;
+
+[PlayVoice]=00:40:11	Voice03/03-SB/03-SB-C06/03-SB-C06-0190	1	mak	00:44:03;
+
+[PrintText]=00:44:04	Kotonoha	¿Podrás?^	00:45:12;
+
+[PlayVoice]=00:44:04	Voice03/03-SB/03-SB-C06/03-SB-C06-0200	0	kot	00:45:12;
+
+[SetSELECT]=00:44:15	'Sí'	'No puedo'	00:49:15;
+
+[CreateBG]=00:45:13	BGS	Event03/03-SB/03-SB-C06/03-SB-C06-014	00:50:15;
+
+[PrintText]=00:45:13	Makoto	Hmmn...	00:46:20;
+
+[PlayVoice]=00:45:13	Voice03/03-SB/03-SB-C06/03-SB-C06-0210	1	mak	00:46:20;
+
+ ;
+
+[Next]=00:50:15;
+
+

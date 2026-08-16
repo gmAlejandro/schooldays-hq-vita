@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:36:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:36:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-001	00:03:16;
+
+[PrintText]=00:00:00	Makoto	Ella no es mi novia.	00:01:10;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-A02/05-KA-A02-0030	1	mak	00:01:10;
+
+[PrintText]=00:01:13	Madre de Makoto	¿Eh...?! Pero...	00:03:16;
+
+[PlayVoice]=00:01:13	Voice05/05-KA/05-KA-A02/05-KA-A02-0040	0	mkm	00:03:16;
+
+[CreateBG]=00:03:16	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-002	00:14:16;
+
+[PrintText]=00:03:16	Makoto	No es como crees...	00:04:16;
+
+[PlayVoice]=00:03:16	Voice05/05-KA/05-KA-A02/05-KA-A02-0050	1	mak	00:04:16;
+
+[PrintText]=00:04:17	Madre de Makoto	...	00:05:12;
+
+[PlayVoice]=00:04:17	Voice05/05-KA/05-KA-A02/05-KA-A02-0060	0	xxx	00:05:12;
+
+[PrintText]=00:05:12	Makoto	La verdad es que... hay otra chica que me gusta, pero de alguna manera terminó así...	00:13:07;
+
+[PlayVoice]=00:05:12	Voice05/05-KA/05-KA-A02/05-KA-A02-0070	1	mak	00:13:07;
+
+[PrintText]=00:13:08	Madre de Makoto	Ya veo...	00:14:13;
+
+[PlayVoice]=00:13:08	Voice05/05-KA/05-KA-A02/05-KA-A02-0080	0	mkm	00:14:13;
+
+[CreateBG]=00:14:16	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-003	00:22:16;
+
+[PrintText]=00:14:16	Makoto	Sí.	00:15:11;
+
+[PlayVoice]=00:14:16	Voice05/05-KA/05-KA-A02/05-KA-A02-0090	1	mak	00:15:11;
+
+[PrintText]=00:15:12	Madre de Makoto	Bueno, no sé los detalles... pero deberías pensar bastante antes de tener una respuesta.	00:21:14;
+
+[PlayVoice]=00:15:12	Voice05/05-KA/05-KA-A02/05-KA-A02-0100	0	mkm	00:21:14;
+
+[PrintText]=00:21:14	Makoto	Lo sé.	00:22:15;
+
+[PlayVoice]=00:21:14	Voice05/05-KA/05-KA-A02/05-KA-A02-0110	1	mak	00:22:15;
+
+[CreateBG]=00:22:16	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-004	00:34:16;
+
+[PrintText]=00:22:16	Madre de Makoto	Aww... y debería dejar que ella también me llame 'Mamá'..	00:29:21;
+
+[PlayVoice]=00:22:16	Voice05/05-KA/05-KA-A02/05-KA-A02-0120	0	mkm	00:29:21;
+
+[PrintText]=00:29:20	Makoto	Mamá...	00:30:23;
+
+[PlayVoice]=00:29:20	Voice05/05-KA/05-KA-A02/05-KA-A02-0130	1	mak	00:30:23;
+
+[PrintText]=00:31:00	Madre de Makoto	Ahahah, ya no diré más. Esfuérzate.	00:34:15;
+
+[PlayVoice]=00:31:00	Voice05/05-KA/05-KA-A02/05-KA-A02-0140	0	mkm	00:34:15;
+
+[PrintText]=00:34:15	Makoto	...Sí.	00:35:08;
+
+[PlayVoice]=00:34:15	Voice05/05-KA/05-KA-A02/05-KA-A02-0150	1	mak	00:35:08;
+
+[CreateBG]=00:34:16	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-005	00:36:22;
+
+[BlackFade]=00:35:22	OUT	00:36:22;
+
+ ;
+
+[Next]=00:36:22;
+
+

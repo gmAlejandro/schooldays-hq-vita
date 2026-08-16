@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:15:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:15:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-M01/SE03-SB-M01-001	00:15:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-M01/03-SB-M01-001	00:04:05;
+
+[PrintText]=00:00:00	Makoto	¿Es tu última palabra?^	00:01:06;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-M01/03-SB-M01-0030	1	mak	00:01:06;
+
+[PrintText]=00:01:06	Sekai	...	00:01:17;
+
+[PlayVoice]=00:01:06	Voice03/03-SB/03-SB-M01/03-SB-M01-0040	0	xxx	00:01:17;
+
+[PrintText]=00:02:19	Makoto	Pues bien.	00:04:04;
+
+[PlayVoice]=00:02:19	Voice03/03-SB/03-SB-M01/03-SB-M01-0050	1	mak	00:04:04;
+
+[CreateBG]=00:04:05	BGS	Event03/03-SB/03-SB-M01/03-SB-M01-001B	00:07:00;
+
+[PrintText]=00:04:05	Sekai	Ah...	00:05:04;
+
+[PlayVoice]=00:04:05	Voice03/03-SB/03-SB-M01/03-SB-M01-0060	0	sek	00:05:04;
+
+[PrintText]=00:05:11	Sekai	...	00:05:23;
+
+[PlayVoice]=00:05:11	Voice03/03-SB/03-SB-M01/03-SB-M01-0080	0	xxx	00:05:23;
+
+[CreateBG]=00:07:00	BGS	Event03/03-SB/03-SB-M01/03-SB-M01-003	00:15:00;
+
+[PrintText]=00:07:00	Makoto	...solo bromeo.	00:08:07;
+
+[PlayVoice]=00:07:00	Voice03/03-SB/03-SB-M01/03-SB-M01-0100	1	mak	00:08:07;
+
+[PrintText]=00:08:08	Sekai	¿Eh?^	00:08:20;
+
+[PlayVoice]=00:08:08	Voice03/03-SB/03-SB-M01/03-SB-M01-0110	0	sek	00:08:20;
+
+[PrintText]=00:08:19	Makoto	No hagas eso.	00:10:01;
+
+[PlayVoice]=00:08:19	Voice03/03-SB/03-SB-M01/03-SB-M01-0120	1	mak	00:10:01;
+
+[PrintText]=00:10:01	Sekai	Pero...	00:11:22;
+
+[PlayVoice]=00:10:01	Voice03/03-SB/03-SB-M01/03-SB-M01-0130	0	sek	00:11:22;
+
+[PrintText]=00:11:22	Makoto	Vamos.	00:13:00;
+
+[PlayVoice]=00:11:22	Voice03/03-SB/03-SB-M01/03-SB-M01-0140	1	mak	00:13:00;
+
+[PrintText]=00:13:09	Sekai	Vale.	00:14:07;
+
+[PlayVoice]=00:13:09	Voice03/03-SB/03-SB-M01/03-SB-M01-0150	0	sek	00:14:07;
+
+ ;
+
+[Next]=00:15:00;
+
+

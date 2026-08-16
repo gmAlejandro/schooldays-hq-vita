@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:42:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:42:20;
+
+[PlayMovie]=00:00:00	Movie04/04-KA/04-KA-B04/04-KA-B04-001	0	00:27:02;
+
+[PrintText]=00:00:00	Makoto	Haah... haah...	00:02:15;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-B04/04-KA-B04-0040	1	mak	00:02:15;
+
+[PrintText]=00:02:15	Kotonoha	Me quitaré la ropa.	00:05:17;
+
+[PlayVoice]=00:02:15	Voice04/04-KA/04-KA-B04/04-KA-B04-0050	0	kot	00:05:17;
+
+[PrintText]=00:05:17	Makoto	¡Haah... haah...!	00:09:08;
+
+[PlayVoice]=00:05:17	Voice04/04-KA/04-KA-B04/04-KA-B04-0060	1	mak	00:09:08;
+
+[PlayVoice]=00:09:08	Voice04/04-KA/04-KA-B04/04-KA-B04-0070			00:10:08;
+
+[PrintText]=00:10:08	Kotonoha	¡Kyah! ¡...Ooh!	00:13:12;
+
+[PlayVoice]=00:10:08	Voice04/04-KA/04-KA-B04/04-KA-B04-0080	0	kot	00:13:12;
+
+[PrintText]=00:13:12	Makoto	¡Kotonoha...! ¡Yo..!	00:16:18;
+
+[PlayVoice]=00:13:12	Voice04/04-KA/04-KA-B04/04-KA-B04-0100	1	mak	00:16:18;
+
+[PrintText]=00:16:18	Kotonoha	Está bien ... Voy a dejar que hagas ... todo lo que quieras hacer.	00:23:20;
+
+[PlayVoice]=00:16:18	Voice04/04-KA/04-KA-B04/04-KA-B04-0120	0	kot	00:23:20;
+
+[PrintText]=00:23:20	Makoto	Aah...	00:25:14;
+
+[PlayVoice]=00:23:20	Voice04/04-KA/04-KA-B04/04-KA-B04-0130	1	mak	00:25:14;
+
+[PrintText]=00:25:14	Kotonoha	Ahh... nn... haah... Makoto-kun...	00:31:21;
+
+[PlayVoice]=00:25:14	Voice04/04-KA/04-KA-B04/04-KA-B04-0150	0	kot	00:31:21;
+
+[CreateBG]=00:27:02	BGS	Event04/04-KA/04-KA-B04/04-KA-B04-002	00:42:20;
+
+[PrintText]=00:31:21	Makoto	Mn.... nnn...	00:37:20;
+
+[PlayVoice]=00:31:21	Voice04/04-KA/04-KA-B04/04-KA-B04-0160	1	mak	00:37:20;
+
+[PrintText]=00:37:20	Kotonoha	¡Nnn...! Aahh...	00:41:09;
+
+[PlayVoice]=00:37:20	Voice04/04-KA/04-KA-B04/04-KA-B04-0170	0	kot	00:41:09;
+
+[BlackFade]=00:39:20	OUT	00:42:20;
+
+ ;
+
+[Next]=00:42:20;
+
+

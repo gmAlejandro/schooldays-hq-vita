@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:21:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:21:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-E01/03-SB-E01-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SB/03-SB-E01/03-SB-E01-002	00:03:17;
+
+[PrintText]=00:02:00	Sekai	Haah...	00:03:16;
+
+[PlayVoice]=00:02:00	Voice03/03-SB/03-SB-E01/03-SB-E01-0030	0	sek	00:03:16;
+
+[PrintText]=00:03:16	Sekai	¿Me pregunto si fue de Katsura-san...?^	00:06:13;
+
+[PlayVoice]=00:03:16	Voice03/03-SB/03-SB-E01/03-SB-E01-0050	0	sek	00:06:13;
+
+[CreateBG]=00:03:17	BGS	Event03/03-SB/03-SB-E01/03-SB-E01-003	00:11:06;
+
+[PrintText]=00:06:13	Sekai	Tal vez fue de Sawanaga.	00:08:23;
+
+[PlayVoice]=00:06:13	Voice03/03-SB/03-SB-E01/03-SB-E01-0070	0	sek	00:08:23;
+
+[PrintText]=00:08:23	Sekai	...	00:09:19;
+
+[PlayVoice]=00:08:23	Voice03/03-SB/03-SB-E01/03-SB-E01-0080	0	xxx	00:09:19;
+
+[PrintText]=00:09:19	Sekai	Haah... no puedo soportar esta triste sensación en mi pecho.	00:18:12;
+
+[PlayVoice]=00:09:19	Voice03/03-SB/03-SB-E01/03-SB-E01-0090	0	sek	00:18:12;
+
+[PlayMovie]=00:11:06	Movie01/01-00/01-00-A00/01-00-A00-002	0	00:16:21;
+
+[CreateBG]=00:16:21	BGS	Event03/03-SB/03-SB-E00/03-SB-E00-003	00:21:06;
+
+[PrintText]=00:18:12	Sekai	...	00:19:06;
+
+[PlayVoice]=00:18:12	Voice03/03-SB/03-SB-E01/03-SB-E01-0100	0	xxx	00:19:06;
+
+ ;
+
+[Next]=00:21:06;
+
+

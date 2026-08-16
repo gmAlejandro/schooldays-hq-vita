@@ -1,0 +1,48 @@
+﻿[SkipFRAME]=00:28:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:28:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-D03/05-KB-D03-001	00:07:10;
+
+[PrintText]=00:00:00	Makoto	...	00:02:17;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-D03/05-KB-D03-0030	1	xxx	00:02:17;
+
+[PrintText]=00:02:16	Madre de Makoto	¿Por qué te quedaste callado? ¿Sorprendido porque tú mama la descubrió?^	00:07:10;
+
+[PlayVoice]=00:02:16	Voice05/05-KB/05-KB-D03/05-KB-D03-0040	0	mkm	00:07:10;
+
+[CreateBG]=00:07:10	BGS	Event05/05-KB/05-KB-D03/05-KB-D03-002	00:18:01;
+
+[PrintText]=00:07:10	Makoto	S-Sí, es eso.	00:11:14;
+
+[PlayVoice]=00:07:10	Voice05/05-KB/05-KB-D03/05-KB-D03-0050	1	mak	00:11:14;
+
+[PrintText]=00:11:14	Madre de Makoto	Vamos, está en la sala.	00:14:02;
+
+[PlayVoice]=00:11:14	Voice05/05-KB/05-KB-D03/05-KB-D03-0060	0	mkm	00:14:02;
+
+[PrintText]=00:14:02	Makoto	Oh, se irá pronto, así que iré a acompañarla.	00:18:03;
+
+[PlayVoice]=00:14:02	Voice05/05-KB/05-KB-D03/05-KB-D03-0070	1	mak	00:18:03;
+
+[CreateBG]=00:18:01	BGS	Event05/05-KB/05-KB-D03/05-KB-D03-003	00:25:19;
+
+[PrintText]=00:18:03	Madre de Makoto	Está bien, tómalo con calma, sabes... pienso que sus padres deben estar preocupados por ella, es tarde.	00:25:22;
+
+[PlayVoice]=00:18:03	Voice05/05-KB/05-KB-D03/05-KB-D03-0080	0	mkm	00:25:22;
+
+[CreateBG]=00:25:19	BGS	Event05/05-KB/05-KB-D03/05-KB-D03-004	00:28:12;
+
+[PrintText]=00:25:22	Makoto	Sí.	00:27:15;
+
+[PlayVoice]=00:25:22	Voice05/05-KB/05-KB-D03/05-KB-D03-0090	1	mak	00:27:15;
+
+[BlackFade]=00:28:00	OUT	00:28:12;
+
+ ;
+
+[Next]=00:28:12;
+
+
+

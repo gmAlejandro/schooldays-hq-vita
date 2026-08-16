@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:10:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:10:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-E00/03-SB-E00-001	00:02:00;
+
+[PlayMovie]=00:02:00	Movie01/01-00/01-00-A00/01-00-A00-001	0	00:05:08;
+
+[PrintText]=00:02:00	Sekai	Haah...	00:02:21;
+
+[PlayVoice]=00:02:00	Voice03/03-SB/03-SB-E00/03-SB-E00-0030	0	sek	00:02:21;
+
+[PrintText]=00:02:21	Sekai	Es cierto... después de todo, Katsura-san es su novia...	00:09:12;
+
+[PlayVoice]=00:02:21	Voice03/03-SB/03-SB-E00/03-SB-E00-0050	0	sek	00:09:12;
+
+[CreateBG]=00:05:08	BGS	Event03/03-SB/03-SB-E00/03-SB-E00-003	00:10:01;
+
+[PrintText]=00:09:12	Sekai	...	00:10:01;
+
+[PlayVoice]=00:09:12	Voice03/03-SB/03-SB-E00/03-SB-E00-0060	0	xxx	00:10:01;
+
+ ;
+
+[Next]=00:10:01;
+
+

@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:21:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:21:12;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-J02/SE01-00-J02-001	00:21:11;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-J02/01-00-J02-001	00:01:20;
+
+[PrintText]=00:00:06	Makoto	¡Perdóname!	00:00:22;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-J02/01-00-J02-0030	1	mak	00:00:22;
+
+[PrintText]=00:00:20	Kotonoha	¡¿Eh?!	00:01:16;
+
+[PlayVoice]=00:00:20	Voice01/01-00/01-00-J02/01-00-J02-0040	0	kot	00:01:16;
+
+[CreateBG]=00:01:20	BGS	Event01/01-00/01-00-J02/01-00-J02-002	00:04:14;
+
+[PrintText]=00:01:22	Makoto	¡Quiero disculparme! ¡En serio, perdóname!	00:04:11;
+
+[PlayVoice]=00:01:22	Voice01/01-00/01-00-J02/01-00-J02-0050	1	mak	00:04:11;
+
+[CreateBG]=00:04:14	BGS	Event01/01-00/01-00-J02/01-00-J02-003	00:11:09;
+
+[PrintText]=00:04:19	Kotonoha	¿Eh? ¿Eh?^	00:07:03;
+
+[PlayVoice]=00:04:19	Voice01/01-00/01-00-J02/01-00-J02-0060	0	kot	00:07:03;
+
+[PrintText]=00:07:05	Makoto	Es todo lo que tengo que decir. ¡Gracias por tu tiempo!	00:11:06;
+
+[PlayVoice]=00:07:05	Voice01/01-00/01-00-J02/01-00-J02-0070	1	mak	00:11:06;
+
+[CreateBG]=00:11:09	BGS	Event01/01-00/01-00-J02/01-00-J02-004	00:17:09;
+
+[PrintText]=00:11:09	Kotonoha	U-um... Itou-kun, ¿Qué quieres d...?^	00:15:23;
+
+[PlayVoice]=00:11:09	Voice01/01-00/01-00-J02/01-00-J02-0080	0	kot	00:15:23;
+
+[PrintText]=00:15:16	Makoto	¡Adiós!	00:16:07;
+
+[PlayVoice]=00:15:16	Voice01/01-00/01-00-J02/01-00-J02-0090	1	mak	00:16:07;
+
+[CreateBG]=00:17:09	BGS	Event01/01-00/01-00-J02/01-00-J02-005	00:21:12;
+
+[PrintText]=00:17:13	Kotonoha	Ah...	00:18:19;
+
+[PlayVoice]=00:17:13	Voice01/01-00/01-00-J02/01-00-J02-0110	0	kot	00:18:19;
+
+[BlackFade]=00:20:11	OUT	00:21:11;
+
+ ;
+
+[Next]=00:21:12;
+
+
+
+

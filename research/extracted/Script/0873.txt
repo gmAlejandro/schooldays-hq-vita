@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:22:11;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-M06/SE03-SB-M06-001	00:22:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-M06/03-SB-M06-001	00:03:12;
+
+[PrintText]=00:00:03	Makoto	...	00:01:00;
+
+[PlayVoice]=00:00:03	Voice03/03-SB/03-SB-M06/03-SB-M06-0030	1	xxx	00:01:00;
+
+[PrintText]=00:01:00	Sekai	¿Makoto?^	00:01:22;
+
+[PlayVoice]=00:01:00	Voice03/03-SB/03-SB-M06/03-SB-M06-0040	0	sek	00:01:22;
+
+[PrintText]=00:01:19	Makoto	¿S-Sí?^	00:03:12;
+
+[PlayVoice]=00:01:19	Voice03/03-SB/03-SB-M06/03-SB-M06-0050	1	mak	00:03:12;
+
+[CreateBG]=00:03:12	BGS	Event03/03-SB/03-SB-M06/03-SB-M06-001B	00:09:18;
+
+[PrintText]=00:03:12	Sekai	Está bien. No tienes por qué forzarte.	00:06:15;
+
+[PlayVoice]=00:03:12	Voice03/03-SB/03-SB-M06/03-SB-M06-0060	0	sek	00:06:15;
+
+[PrintText]=00:06:15	Makoto	¡N-no, lo haré!	00:09:17;
+
+[PlayVoice]=00:06:15	Voice03/03-SB/03-SB-M06/03-SB-M06-0070	1	mak	00:09:17;
+
+[PrintText]=00:09:17	Sekai	...Todo bien.	00:10:16;
+
+[PlayVoice]=00:09:17	Voice03/03-SB/03-SB-M06/03-SB-M06-0080	0	sek	00:10:16;
+
+[CreateBG]=00:09:18	BGS	Event03/03-SB/03-SB-M06/03-SB-M06-002	00:13:11;
+
+[PrintText]=00:10:16	Makoto	¡Aquí! Vamos.	00:12:19;
+
+[PlayVoice]=00:10:16	Voice03/03-SB/03-SB-M06/03-SB-M06-0090	1	mak	00:12:19;
+
+[PrintText]=00:12:19	Sekai	Uh-huh.	00:13:10;
+
+[PlayVoice]=00:12:19	Voice03/03-SB/03-SB-M06/03-SB-M06-0110	0	sek	00:13:10;
+
+[CreateBG]=00:13:11	BGS	Event03/03-SB/03-SB-M06/03-SB-M06-003	00:22:11;
+
+[PrintText]=00:13:11	Makoto	Anímate.	00:15:03;
+
+[PlayVoice]=00:13:11	Voice03/03-SB/03-SB-M06/03-SB-M06-0120	1	mak	00:15:03;
+
+[PrintText]=00:15:03	Sekai	...	00:15:15;
+
+[PlayVoice]=00:15:03	Voice03/03-SB/03-SB-M06/03-SB-M06-0130	0	xxx	00:15:15;
+
+[PrintText]=00:15:15	Makoto	Bueno, estoy seguro de que nos divertiremos una vez que salgamos, vamos.	00:21:17;
+
+[PlayVoice]=00:15:15	Voice03/03-SB/03-SB-M06/03-SB-M06-0140	1	mak	00:21:17;
+
+[PrintText]=00:21:17	Sekai	Uh-huh.	00:22:09;
+
+[PlayVoice]=00:21:17	Voice03/03-SB/03-SB-M06/03-SB-M06-0150	0	sek	00:22:09;
+
+ ;
+
+[Next]=00:22:11;
+
+

@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:12:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:18:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B00/03-SA-B00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-B00/03-SA-B00-002	00:04:04;
+
+[CreateBG]=00:04:04	BGS	Event03/03-SA/03-SA-B00/03-SA-B00-003	00:07:01;
+
+[PrintText]=00:05:14	Sekai	¡Hey, Makoto!	00:07:00;
+
+[PlayVoice]=00:05:14	Voice03/03-SA/03-SA-B00/03-SA-B00-0050	0	sek	00:07:00;
+
+[CreateBG]=00:07:01	BGS	Event03/03-SA/03-SA-B00/03-SA-B00-004	00:18:16;
+
+[PrintText]=00:07:01	Makoto	¡Whoa!	00:07:18;
+
+[PlayVoice]=00:07:01	Voice03/03-SA/03-SA-B00/03-SA-B00-0070	1	mak	00:07:18;
+
+[PrintText]=00:07:18	Sekai	Eheheh... ¿Qué tal?^	00:09:23;
+
+[PlayVoice]=00:07:18	Voice03/03-SA/03-SA-B00/03-SA-B00-0080	0	sek	00:09:23;
+
+[PrintText]=00:09:23	Makoto	¿Cómo lo veo? pues...	00:12:15;
+
+[PlayVoice]=00:09:23	Voice03/03-SA/03-SA-B00/03-SA-B00-0090	1	mak	00:12:15;
+
+[SetSELECT]=00:12:16	'Pareces una princesa'	'Nada mal'	00:17:16;
+
+ ;
+
+[Next]=00:18:16;
+
+

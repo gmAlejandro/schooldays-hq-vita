@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:47:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:47:09;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-D09/03-A1-D09-001	00:13:01;
+
+[PrintText]=00:00:00	Makoto	Sekai fue la que hizo que yo y Kotonoha estemos juntos.	00:04:02;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-D09/03-A1-D09-0030	1	mak	00:04:02;
+
+[BlackFade]=00:00:00	IN	00:03:00;
+
+[PrintText]=00:04:02	Setsuna	¡¿Eh?!	00:04:17;
+
+[PlayVoice]=00:04:02	Voice03/03-A1/03-A1-D09/03-A1-D09-0040	0	set	00:04:17;
+
+[PrintText]=00:05:13	Makoto	Al principio, ella se enteró de que estaba interesado en Kotonoha... y luego se ofreció a ayudarme.	00:12:01;
+
+[PlayVoice]=00:05:13	Voice03/03-A1/03-A1-D09/03-A1-D09-0050	1	mak	00:12:01;
+
+[BlackFade]=00:10:01	OUT	00:13:01;
+
+[CreateBG]=00:13:01	BGS	Event03/03-A1/03-A1-D09/03-A1-D09-002	00:34:09;
+
+[PrintText]=00:13:05	Setsuna	Sekai y Katsura-san no tienen nada en común.	00:16:21;
+
+[PlayVoice]=00:13:05	Voice03/03-A1/03-A1-D09/03-A1-D09-0060	0	set	00:16:21;
+
+[PrintText]=00:17:07	Makoto	Así es, pero se acercó a ella por mí...	00:23:02;
+
+[PlayVoice]=00:17:07	Voice03/03-A1/03-A1-D09/03-A1-D09-0070	1	mak	00:23:02;
+
+[PrintText]=00:23:15	Setsuna	Sekai...	00:24:19;
+
+[PlayVoice]=00:23:15	Voice03/03-A1/03-A1-D09/03-A1-D09-0080	0	set	00:24:19;
+
+[PrintText]=00:25:02	Makoto	A ella realmente le gusta meterse en asuntos de otros...	00:28:17;
+
+[PlayVoice]=00:25:02	Voice03/03-A1/03-A1-D09/03-A1-D09-0090	1	mak	00:32:12;
+
+[PrintText]=00:28:17	Makoto	'Déjamelo a mí,' dijo... incluso sin que yo pidiera ayuda...	00:32:12;
+
+[PrintText]=00:32:23	Setsuna	...	00:34:00;
+
+[PlayVoice]=00:32:23	Voice03/03-A1/03-A1-D09/03-A1-D09-0100	0	xxx	00:34:00;
+
+[CreateBG]=00:34:09	BGS	Event03/03-A1/03-A1-D09/03-A1-D09-003	00:45:18;
+
+[PrintText]=00:35:13	Makoto	Pero cuando vi que ella hacía todo esto por mí... empecé a sentir cosas... pero aún así...	00:45:12;
+
+[PlayVoice]=00:35:13	Voice03/03-A1/03-A1-D09/03-A1-D09-0110	1	mak	00:45:12;
+
+[CreateBG]=00:45:18	BGS	Event03/03-A1/03-A1-D09/03-A1-D09-004	00:47:09;
+
+[PrintText]=00:45:23	Setsuna	Ya veo...	00:46:19;
+
+[PlayVoice]=00:45:23	Voice03/03-A1/03-A1-D09/03-A1-D09-0120	0	set	00:46:19;
+
+ ;
+
+[Next]=00:47:09;
+
+

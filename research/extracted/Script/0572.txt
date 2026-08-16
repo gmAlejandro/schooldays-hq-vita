@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:02:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:02:21;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H06/SE03-KA-H06-001	00:02:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H06/03-KA-H06-001	00:02:21;
+
+[PrintText]=00:00:00	Makoto	No realmente.	00:01:06;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H06/03-KA-H06-0030	1	mak	00:01:06;
+
+[PrintText]=00:01:06	Setsuna	Hmm...	00:02:07;
+
+[PlayVoice]=00:01:06	Voice03/03-KA/03-KA-H06/03-KA-H06-0040	0	set	00:02:07;
+
+ ;
+
+[Next]=00:02:21;
+
+

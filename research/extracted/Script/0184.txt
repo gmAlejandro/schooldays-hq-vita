@@ -1,0 +1,293 @@
+﻿[SkipFRAME]=02:38:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	02:38:11;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-J00/SE01-1S-J00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-002	00:04:22;
+
+[PrintText]=00:03:23	Kotonoha	Phew...	00:04:17;
+
+[PlayVoice]=00:03:23	Voice01/01-1S/01-1S-J00/01-1S-J00-0050	0	kot	00:04:17;
+
+[CreateBG]=00:04:22	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-003	00:07:01;
+
+[PrintText]=00:05:01	Makoto	¿Satisfecha?^	00:06:03;
+
+[PlayVoice]=00:05:01	Voice01/01-1S/01-1S-J00/01-1S-J00-0060	1	mak	00:06:03;
+
+[PrintText]=00:06:05	Kotonoha	Sí.	00:06:23;
+
+[PlayVoice]=00:06:05	Voice01/01-1S/01-1S-J00/01-1S-J00-0070	0	kot	00:06:23;
+
+[CreateBG]=00:07:01	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-004	00:11:02;
+
+[PrintText]=00:07:07	Makoto	Creo que ya hemos tenido suficiente, a sido mucho por hoy.	00:11:00;
+
+[PlayVoice]=00:07:07	Voice01/01-1S/01-1S-J00/01-1S-J00-0080	1	mak	00:11:00;
+
+[CreateBG]=00:11:02	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-005	00:15:21;
+
+[PrintText]=00:11:02	Kotonoha	Fufu... Puedes tener razón, hay un poco más en la bolsa.	00:15:23;
+
+[PlayVoice]=00:11:02	Voice01/01-1S/01-1S-J00/01-1S-J00-0090	0	kot	00:15:23;
+
+[CreateBG]=00:15:21	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-006	00:28:23;
+
+[PrintText]=00:15:21	Makoto	Había una de esas promociones en la panadería hoy, así que decidí comprar de más.	00:22:07;
+
+[PlayVoice]=00:15:21	Voice01/01-1S/01-1S-J00/01-1S-J00-0100	1	mak	00:22:07;
+
+[PrintText]=00:22:06	Kotonoha	¿En serio?^	00:23:16;
+
+[PlayVoice]=00:22:06	Voice01/01-1S/01-1S-J00/01-1S-J00-0110	0	kot	00:23:16;
+
+[PrintText]=00:23:15	Makoto	Bueno, tengo lo que resta para la cena. Mi mamá llegará tarde a casa hoy, de todas maneras.	00:28:20;
+
+[PlayVoice]=00:23:15	Voice01/01-1S/01-1S-J00/01-1S-J00-0120	1	mak	00:28:20;
+
+[CreateBG]=00:28:23	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-007	00:32:01;
+
+[PrintText]=00:29:07	Kotonoha	Um... Makoto-kun.	00:31:10;
+
+[PlayVoice]=00:29:07	Voice01/01-1S/01-1S-J00/01-1S-J00-0130	0	kot	00:31:10;
+
+[PrintText]=00:31:06	Makoto	¿Sí?^	00:31:22;
+
+[PlayVoice]=00:31:06	Voice01/01-1S/01-1S-J00/01-1S-J00-0140	1	mak	00:31:22;
+
+[CreateBG]=00:32:01	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-008	00:36:03;
+
+[PrintText]=00:32:11	Kotonoha	Siempre andamos solos en el tejado ¿No?^	00:36:06;
+
+[PlayVoice]=00:32:11	Voice01/01-1S/01-1S-J00/01-1S-J00-0150	0	kot	00:36:06;
+
+[CreateBG]=00:36:03	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-009	00:40:01;
+
+[PrintText]=00:36:03	Makoto	¿Hmn? Sí, porque Sekai está ahora con sus amigas.	00:39:21;
+
+[PlayVoice]=00:36:03	Voice01/01-1S/01-1S-J00/01-1S-J00-0160	1	mak	00:39:21;
+
+[CreateBG]=00:40:01	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-010	00:41:11;
+
+[PrintText]=00:40:01	Kotonoha	No me refiero a eso, quiero decir... ningún estudiante podría venir aquí.	00:43:15;
+
+[PlayVoice]=00:40:01	Voice01/01-1S/01-1S-J00/01-1S-J00-0170	0	kot	00:43:15;
+
+[CreateBG]=00:41:11	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-011	00:43:13;
+
+[CreateBG]=00:43:13	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-012	00:47:23;
+
+[PrintText]=00:43:13	Makoto	Sí. Porque este lugar está fuera del limite de los estudiantes.	00:47:21;
+
+[PlayVoice]=00:43:13	Voice01/01-1S/01-1S-J00/01-1S-J00-0180	1	mak	00:47:21;
+
+[CreateBG]=00:47:09	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-013	00:55:15;
+
+[PrintText]=00:47:23	Kotonoha	¡¿Eh?! ¿Entonces estamos...?^	00:50:23;
+
+[PlayVoice]=00:47:23	Voice01/01-1S/01-1S-J00/01-1S-J00-0190	0	kot	00:50:23;
+
+[PrintText]=00:50:19	Makoto	Bueno, sí... Pero Sekai tiene permiso.	00:54:12;
+
+[PlayVoice]=00:50:19	Voice01/01-1S/01-1S-J00/01-1S-J00-0200	1	mak	00:54:12;
+
+[PrintText]=00:54:09	Kotonoha	¿Saionji-san...?^	00:55:23;
+
+[PlayVoice]=00:54:09	Voice01/01-1S/01-1S-J00/01-1S-J00-0210	0	kot	00:55:23;
+
+[CreateBG]=00:55:15	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-014	01:14:23;
+
+[PrintText]=00:55:15	Makoto	Sí. Sekai logró tener el permiso del tejado por así decirlo.	00:59:22;
+
+[PlayVoice]=00:55:15	Voice01/01-1S/01-1S-J00/01-1S-J00-0220	1	mak	00:59:22;
+
+[PrintText]=00:59:22	Makoto	Ella buscaba revivir el viejo club de astronomía y tener amigos que se unan como falsos miembros.	01:06:02;
+
+[PlayVoice]=00:59:22	Voice01/01-1S/01-1S-J00/01-1S-J00-0221	1	mak	01:06:02;
+
+[PrintText]=01:06:03	Kotonoha	Ya veo.	01:08:13;
+
+[PlayVoice]=01:06:03	Voice01/01-1S/01-1S-J00/01-1S-J00-0230	0	kot	01:08:13;
+
+[PrintText]=01:08:05	Makoto	Por eso es que Sekai ya no está aquí, probablemente está tratando de conseguir miembros.	01:14:19;
+
+[PlayVoice]=01:08:05	Voice01/01-1S/01-1S-J00/01-1S-J00-0240	1	mak	01:14:19;
+
+[PlaySe]=01:09:05	2	Se01/01-1S/01-1S-J00/SE01-1S-J00-001	02:18:10;
+
+[CreateBG]=01:14:23	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-015	01:17:18;
+
+[PrintText]=01:14:23	Kotonoha	'Miembros del Club de Astronomía'	01:17:00;
+
+[PlayVoice]=01:14:23	Voice01/01-1S/01-1S-J00/01-1S-J00-0250	0	kot	01:17:00;
+
+[PrintText]=01:16:23	Makoto	¿No te gusta la idea?^	01:17:14;
+
+[PlayVoice]=01:16:23	Voice01/01-1S/01-1S-J00/01-1S-J00-0260	1	mak	01:17:14;
+
+[CreateBG]=01:17:18	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-016	01:27:18;
+
+[PrintText]=01:17:18	Kotonoha	No es eso, me gustan las estrellas. Sería bueno si pudiéramos ver estrellas en lugar de ser miembros solo de nombre.	01:27:13;
+
+[PlayVoice]=01:17:18	Voice01/01-1S/01-1S-J00/01-1S-J00-0270	0	kot	01:27:13;
+
+[CreateBG]=01:27:18	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-017	01:34:08;
+
+[PrintText]=01:27:18	Makoto	Pues, escuche que el grupo se disolvió y que no ya no hay utilería.	01:32:14;
+
+[PlayVoice]=01:27:18	Voice01/01-1S/01-1S-J00/01-1S-J00-0280	1	mak	01:32:14;
+
+[PrintText]=01:32:14	Kotonoha	Sí... pues claro.	01:34:01;
+
+[PlayVoice]=01:32:14	Voice01/01-1S/01-1S-J00/01-1S-J00-0290	0	kot	01:34:01;
+
+[CreateBG]=01:34:08	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-018	01:40:13;
+
+[PrintText]=01:34:08	Makoto	Sí quieres ver las estrellas, deberíamos ir al planetario en Sakakino Hills.	01:38:23;
+
+[PlayVoice]=01:34:08	Voice01/01-1S/01-1S-J00/01-1S-J00-0300	1	mak	01:38:23;
+
+[PrintText]=01:39:03	Kotonoha	El planetario...	01:40:12;
+
+[PlayVoice]=01:39:03	Voice01/01-1S/01-1S-J00/01-1S-J00-0310	0	kot	01:40:12;
+
+[CreateBG]=01:40:13	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-019	01:47:01;
+
+[PrintText]=01:40:19	Makoto	Vamos allá alguna vez.	01:41:22;
+
+[PlayVoice]=01:40:19	Voice01/01-1S/01-1S-J00/01-1S-J00-0320	1	mak	01:41:22;
+
+[PrintText]=01:41:22	Kotonoha	Sí.	01:42:22;
+
+[PlayVoice]=01:41:22	Voice01/01-1S/01-1S-J00/01-1S-J00-0330	0	kot	01:42:22;
+
+[PrintText]=01:44:05	Makoto	¡Uwah!	01:45:18;
+
+[PlayVoice]=01:44:05	Voice01/01-1S/01-1S-J00/01-1S-J00-0350	1	mak	01:45:18;
+
+[PrintText]=01:45:14	Kotonoha	Hace frío.	01:46:19;
+
+[PlayVoice]=01:45:14	Voice01/01-1S/01-1S-J00/01-1S-J00-0360	0	kot	01:46:19;
+
+[CreateBG]=01:47:01	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-020	01:53:00;
+
+[PrintText]=01:47:07	Makoto	El viento está empezando a correr fuerte.	01:49:19;
+
+[PlayVoice]=01:47:07	Voice01/01-1S/01-1S-J00/01-1S-J00-0370	1	mak	01:49:19;
+
+[PrintText]=01:49:23	Kotonoha	Sí, tienes razón.	01:50:23;
+
+[PlayVoice]=01:49:23	Voice01/01-1S/01-1S-J00/01-1S-J00-0380	0	kot	01:50:23;
+
+[PrintText]=01:51:10	Makoto	¿Deberíamos volver?^	01:52:22;
+
+[PlayVoice]=01:51:10	Voice01/01-1S/01-1S-J00/01-1S-J00-0390	1	mak	01:52:22;
+
+[CreateBG]=01:53:00	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-021	01:56:04;
+
+[PrintText]=01:53:01	Kotonoha	Ah, esperemos un poco más...	01:56:02;
+
+[PlayVoice]=01:53:01	Voice01/01-1S/01-1S-J00/01-1S-J00-0400	0	kot	01:56:02;
+
+[CreateBG]=01:56:04	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-022	01:58:13;
+
+[PrintText]=01:56:06	Makoto	Vale.	01:56:20;
+
+[PlayVoice]=01:56:06	Voice01/01-1S/01-1S-J00/01-1S-J00-0410	1	mak	01:56:20;
+
+[PrintText]=01:57:13	Kotonoha	Mira, no podemos ver las estrellas, pero el cielo de otoño se ve hermoso.	02:03:06;
+
+[PlayVoice]=01:57:13	Voice01/01-1S/01-1S-J00/01-1S-J00-0420	0	kot	02:03:06;
+
+[CreateBG]=01:58:13	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-023	02:03:11;
+
+[CreateBG]=02:03:11	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-024	02:05:05;
+
+[PrintText]=02:03:19	Makoto	Uh-huh.	02:04:09;
+
+[PlayVoice]=02:03:19	Voice01/01-1S/01-1S-J00/01-1S-J00-0430	1	mak	02:04:09;
+
+[CreateBG]=02:05:05	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-025	02:11:07;
+
+[PrintText]=02:05:05	Kotonoha	Las Nubes son tan grandes y hermosas...	02:09:04;
+
+[PlayVoice]=02:05:05	Voice01/01-1S/01-1S-J00/01-1S-J00-0450	0	kot	02:09:04;
+
+[PlaySe]=02:09:00	1	Voice01/01-1S/01-1S-J00/01-1S-J00-0460	02:10:03;
+
+[PrintText]=02:10:09	Kotonoha	¡Hyah!	02:11:03;
+
+[PlayVoice]=02:10:09	Voice01/01-1S/01-1S-J00/01-1S-J00-0470	0	kot	02:11:03;
+
+[CreateBG]=02:11:07	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-026	02:13:04;
+
+[PrintText]=02:11:16	Makoto	Bueno, hace frío...	02:12:20;
+
+[PlayVoice]=02:11:16	Voice01/01-1S/01-1S-J00/01-1S-J00-0480	1	mak	02:12:20;
+
+[CreateBG]=02:13:04	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-027	02:15:22;
+
+[PrintText]=02:13:09	Kotonoha	M-Makoto-kun...	02:15:17;
+
+[PlayVoice]=02:13:09	Voice01/01-1S/01-1S-J00/01-1S-J00-0490	0	kot	02:15:17;
+
+[CreateBG]=02:15:22	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-028	02:17:15;
+
+[PrintText]=02:16:02	Makoto	...	02:17:03;
+
+[PlayVoice]=02:16:02	Voice01/01-1S/01-1S-J00/01-1S-J00-0500	1	xxx	02:17:03;
+
+[CreateBG]=02:17:15	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-029	02:23:04;
+
+[PrintText]=02:17:15	Kotonoha	U... um...	02:20:06;
+
+[PlayVoice]=02:17:15	Voice01/01-1S/01-1S-J00/01-1S-J00-0510	0	kot	02:20:06;
+
+[PlaySe]=02:18:10	1	Se01/01-1S/01-1S-J00/SE01-1S-J00-001	02:38:11;
+
+[PrintText]=02:20:14	Makoto	...	02:21:18;
+
+[PlayVoice]=02:20:14	Voice01/01-1S/01-1S-J00/01-1S-J00-0520	1	xxx	02:21:18;
+
+[PrintText]=02:22:13	Kotonoha	C...Creo que es hora de volver a clases.	02:26:15;
+
+[PlayVoice]=02:22:13	Voice01/01-1S/01-1S-J00/01-1S-J00-0530	0	kot	02:26:15;
+
+[CreateBG]=02:23:04	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-030	02:26:15;
+
+[CreateBG]=02:26:15	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-031	02:32:21;
+
+[PrintText]=02:26:15	Makoto	Solo...quisiera quedarme así por un momento...	02:29:16;
+
+[PlayVoice]=02:26:15	Voice01/01-1S/01-1S-J00/01-1S-J00-0540	1	mak	02:29:16;
+
+[PrintText]=02:29:14	Kotonoha	Acabo de recordar que tengo algo que hacer.	02:31:18;
+
+[PlayVoice]=02:29:14	Voice01/01-1S/01-1S-J00/01-1S-J00-0550	0	kot	02:31:18;
+
+[PrintText]=02:31:23	Makoto	...Ya veo.	02:32:19;
+
+[PlayVoice]=02:31:23	Voice01/01-1S/01-1S-J00/01-1S-J00-0560	1	mak	02:32:19;
+
+[CreateBG]=02:32:21	BGS	Event01/01-1S/01-1S-J00/01-1S-J00-032	02:38:11;
+
+[PrintText]=02:32:23	Kotonoha	V-Vamos, Makoto-kun. Tenemos que ir.	02:36:07;
+
+[PlayVoice]=02:32:23	Voice01/01-1S/01-1S-J00/01-1S-J00-0570	0	kot	02:36:07;
+
+[PrintText]=02:36:10	Makoto	...	02:37:03;
+
+[PlayVoice]=02:36:10	Voice01/01-1S/01-1S-J00/01-1S-J00-0580	1	xxx	02:37:03;
+
+[BlackFade]=02:37:11	OUT	02:38:11;
+
+ ;
+
+[Next]=02:38:11;
+
+
+
+

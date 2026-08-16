@@ -1,0 +1,249 @@
+﻿[SkipFRAME]=02:36:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	02:36:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-001	00:02:00;
+
+[PlayMovie]=00:02:00	Movie05/05-SD/05-SD-B03/05-SD-B03-002	0	00:05:03;
+
+[PrintText]=00:02:04	Sekai	Ah...	00:03:02;
+
+[PlayVoice]=00:02:04	Voice05/05-SD/05-SD-B03/05-SD-B03-0040	0	sek	00:03:02;
+
+[PrintText]=00:03:21	Sekai	...	00:05:02;
+
+[PlayVoice]=00:03:21	Voice05/05-SD/05-SD-B03/05-SD-B03-0060	0	xxx	00:05:02;
+
+[PlayMovie]=00:05:03	Movie01/01-00/01-00-A00/01-00-A00-002	0	00:10:18;
+
+[PrintText]=00:06:08	Sekai	Ahh...	00:07:03;
+
+[PlayVoice]=00:06:08	Voice05/05-SD/05-SD-B03/05-SD-B03-0080	0	sek	00:07:03;
+
+[PrintText]=00:10:10	Sekai	Haah...	00:11:12;
+
+[PlayVoice]=00:10:10	Voice05/05-SD/05-SD-B03/05-SD-B03-0100	0	sek	00:11:12;
+
+[PlayMovie]=00:10:18	Movie05/05-SD/05-SD-B03/05-SD-B03-002	0	00:12:21;
+
+[CreateBG]=00:12:21	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-005	00:14:05;
+
+[PlayMovie]=00:14:05	Movie05/05-SD/05-SD-B03/05-SD-B03-006	0	00:16:16;
+
+[PrintText]=00:14:06	Sekai	¡Ah...!	00:15:03;
+
+[PlayVoice]=00:14:06	Voice05/05-SD/05-SD-B03/05-SD-B03-0120	0	sek	00:15:03;
+
+[CreateBG]=00:16:16	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-008	00:24:08;
+
+[PrintText]=00:16:17	Sekai	¿Bueno?!	00:17:23;
+
+[PlayVoice]=00:16:17	Voice05/05-SD/05-SD-B03/05-SD-B03-0140	0	sek	00:17:23;
+
+[PrintText]=00:17:23	Sekai	¡Setsuna! ¡Setsuna!	00:20:05;
+
+[PlayVoice]=00:17:23	Voice05/05-SD/05-SD-B03/05-SD-B03-0160	0	sek	00:20:05;
+
+[PrintText]=00:20:04	Setsuna	Ah... no...	00:23:09;
+
+[PlayVoice]=00:20:04	Voice05/05-SD/05-SD-B03/05-SD-B03-0170	0	set	00:23:09;
+
+[PrintText]=00:23:07	Sekai	¿Setsuna...?^	00:24:07;
+
+[PlayVoice]=00:23:07	Voice05/05-SD/05-SD-B03/05-SD-B03-0180	0	sek	00:24:07;
+
+[CreateBG]=00:24:08	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-008B	00:34:03;
+
+[PrintText]=00:24:10	Setsuna	Esto es vergonzoso...	00:27:19;
+
+[PlayVoice]=00:24:10	Voice05/05-SD/05-SD-B03/05-SD-B03-0190	0	set	00:27:19;
+
+[PrintText]=00:27:20	Sekai	¿Estás con Makoto?^	00:30:16;
+
+[PlayVoice]=00:27:20	Voice05/05-SD/05-SD-B03/05-SD-B03-0200	0	sek	00:30:16;
+
+[PrintText]=00:31:00	Setsuna	Itou... también quítate la ropa.	00:33:18;
+
+[PlayVoice]=00:31:00	Voice05/05-SD/05-SD-B03/05-SD-B03-0210	0	set	00:33:18;
+
+[CreateBG]=00:34:03	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-008C	00:44:04;
+
+[PrintText]=00:34:03	Makoto	Vale.	00:35:06;
+
+[PlayVoice]=00:34:03	Voice05/05-SD/05-SD-B03/05-SD-B03-0220	1	mak	00:35:06;
+
+[PrintText]=00:35:18	Sekai	Makoto... ¿Estás ahí?^	00:38:04;
+
+[PlayVoice]=00:35:18	Voice05/05-SD/05-SD-B03/05-SD-B03-0230	0	sek	00:38:04;
+
+[PrintText]=00:38:23	Setsuna	Hey... bésame.	00:42:06;
+
+[PlayVoice]=00:38:23	Voice05/05-SD/05-SD-B03/05-SD-B03-0240	0	set	00:42:06;
+
+[PrintText]=00:42:09	Makoto	Kiyoura...	00:44:00;
+
+[PlayVoice]=00:42:09	Voice05/05-SD/05-SD-B03/05-SD-B03-0250	1	mak	00:44:00;
+
+[CreateBG]=00:44:04	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-009	00:54:19;
+
+[PrintText]=00:44:04	Sekai	¡Makoto! ¡Makoto! ¡No! ¡No la beses...!	00:49:14;
+
+[PlayVoice]=00:44:04	Voice05/05-SD/05-SD-B03/05-SD-B03-0260	0	sek	00:49:14;
+
+[PrintText]=00:48:11	Setsuna	Mmn... nn...	00:53:22;
+
+[PlayVoice]=00:48:11	Voice05/05-SD/05-SD-B03/05-SD-B03-0270	0	set	00:53:22;
+
+[PrintText]=00:53:14	Sekai	¡No...!	00:54:19;
+
+[PlayVoice]=00:53:14	Voice05/05-SD/05-SD-B03/05-SD-B03-0280	0	sek	00:54:19;
+
+[CreateBG]=00:54:19	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-008	01:26:08;
+
+[PrintText]=00:55:03	Setsuna	Besas muy bien....	00:57:23;
+
+[PlayVoice]=00:55:03	Voice05/05-SD/05-SD-B03/05-SD-B03-0290	0	set	00:57:23;
+
+[PrintText]=00:57:22	Makoto	Tú también.	00:59:15;
+
+[PlayVoice]=00:57:22	Voice05/05-SD/05-SD-B03/05-SD-B03-0300	1	mak	00:59:15;
+
+[PrintText]=01:00:05	Setsuna	Somos... el uno para el otro.	01:05:01;
+
+[PlayVoice]=01:00:05	Voice05/05-SD/05-SD-B03/05-SD-B03-0310	0	set	01:05:01;
+
+[PrintText]=01:05:15	Makoto	Sí...	01:06:20;
+
+[PlayVoice]=01:05:15	Voice05/05-SD/05-SD-B03/05-SD-B03-0320	1	mak	01:06:20;
+
+[PrintText]=01:07:21	Sekai	No... tú no... para...	01:14:00;
+
+[PlayVoice]=01:07:21	Voice05/05-SD/05-SD-B03/05-SD-B03-0330	0	sek	01:14:00;
+
+[PrintText]=01:14:05	Setsuna	Itou... tócame.	01:19:06;
+
+[PlayVoice]=01:14:05	Voice05/05-SD/05-SD-B03/05-SD-B03-0340	0	set	01:19:06;
+
+[PrintText]=01:19:12	Makoto	Vale.	01:20:17;
+
+[PlayVoice]=01:19:12	Voice05/05-SD/05-SD-B03/05-SD-B03-0350	1	mak	01:20:17;
+
+[PrintText]=01:21:03	Setsuna	Mmn...	01:22:03;
+
+[PlayVoice]=01:21:03	Voice05/05-SD/05-SD-B03/05-SD-B03-0360	0	set	01:22:03;
+
+[PrintText]=01:22:16	Sekai	No... para...	01:25:21;
+
+[PlayVoice]=01:22:16	Voice05/05-SD/05-SD-B03/05-SD-B03-0370	0	sek	01:25:21;
+
+[CreateBG]=01:26:08	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-011	01:46:18;
+
+[PrintText]=01:26:08	Makoto	Tus pechos...	01:28:11;
+
+[PlayVoice]=01:26:08	Voice05/05-SD/05-SD-B03/05-SD-B03-0380	1	mak	01:28:11;
+
+[PrintText]=01:28:21	Setsuna	Ah... haah... no mires demasiado.	01:33:04;
+
+[PlayVoice]=01:28:21	Voice05/05-SD/05-SD-B03/05-SD-B03-0390	0	set	01:33:04;
+
+[PrintText]=01:31:21	Sekai	Ah...	01:33:05;
+
+[PlayVoice]=01:31:21	Voice05/05-SD/05-SD-B03/05-SD-B03-0400	0	sek	01:33:05;
+
+[PrintText]=01:33:08	Makoto	Mmn...	01:34:21;
+
+[PlayVoice]=01:33:08	Voice05/05-SD/05-SD-B03/05-SD-B03-0410	1	mak	01:34:21;
+
+[PrintText]=01:34:19	Setsuna	Ah... Si lo haces de esa manera, yo...	01:38:17;
+
+[PlayVoice]=01:34:19	Voice05/05-SD/05-SD-B03/05-SD-B03-0420	0	set	01:38:17;
+
+[PrintText]=01:40:09	Setsuna	Haah... haah... que bien se siente.	01:44:16;
+
+[PlayVoice]=01:40:09	Voice05/05-SD/05-SD-B03/05-SD-B03-0440	0	set	01:44:16;
+
+[PlaySe]=01:42:01	1	Voice05/05-SD/05-SD-B03/05-SD-B03-0450	01:47:02;
+
+[CreateBG]=01:46:18	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-012	02:09:13;
+
+[PrintText]=01:46:23	Setsuna	Haah... más...	01:52:15;
+
+[PlayVoice]=01:46:23	Voice05/05-SD/05-SD-B03/05-SD-B03-0460	0	set	01:52:15;
+
+[PlaySe]=01:47:06	2	Voice05/05-SD/05-SD-B03/05-SD-B03-0450	01:52:07;
+
+[PrintText]=01:52:20	Makoto	Mmn...	01:55:23;
+
+[PlayVoice]=01:52:20	Voice05/05-SD/05-SD-B03/05-SD-B03-0430	1	mak	01:55:23;
+
+[PlaySe]=01:52:21	1	Voice05/05-SD/05-SD-B03/05-SD-B03-0490	01:59:00;
+
+[PrintText]=01:55:21	Setsuna	Que bien... ahh...	01:58:21;
+
+[PlayVoice]=01:55:21	Voice05/05-SD/05-SD-B03/05-SD-B03-0480	0	set	01:58:21;
+
+[PlaySe]=01:59:00	2	Voice05/05-SD/05-SD-B03/05-SD-B03-0450	02:04:01;
+
+[PrintText]=01:59:01	Makoto	¡Mmn!	02:02:03;
+
+[PlayVoice]=01:59:01	Voice05/05-SD/05-SD-B03/05-SD-B03-0470	1	mak	02:02:03;
+
+[PrintText]=02:00:19	Setsuna	Itou... Itou...	02:03:18;
+
+[PlayVoice]=02:00:19	Voice05/05-SD/05-SD-B03/05-SD-B03-0510	0	set	02:03:18;
+
+[PrintText]=02:05:09	Setsuna	Te amo...	02:06:11;
+
+[PlayVoice]=02:05:09	Voice05/05-SD/05-SD-B03/05-SD-B03-0530	0	set	02:06:11;
+
+[PlaySe]=02:06:18	1	Voice05/05-SD/05-SD-B03/05-SD-B03-0490	02:12:21;
+
+[PrintText]=02:07:00	Makoto	¿Sí...?^	02:08:10;
+
+[PlayVoice]=02:07:00	Voice05/05-SD/05-SD-B03/05-SD-B03-0520	1	mak	02:08:10;
+
+[CreateBG]=02:09:13	BGS	Event05/05-SD/05-SD-B03/05-SD-B03-008	02:36:09;
+
+[PrintText]=02:10:12	Setsuna	¿Qué pasa?^	02:11:18;
+
+[PlayVoice]=02:10:12	Voice05/05-SD/05-SD-B03/05-SD-B03-0550	0	set	02:11:18;
+
+[PrintText]=02:12:10	Makoto	Yo...	02:13:13;
+
+[PlayVoice]=02:12:10	Voice05/05-SD/05-SD-B03/05-SD-B03-0560	1	mak	02:13:13;
+
+[PrintText]=02:14:02	Setsuna	Itou ¿me odias?^	02:17:14;
+
+[PlayVoice]=02:14:02	Voice05/05-SD/05-SD-B03/05-SD-B03-0570	0	set	02:17:14;
+
+[PrintText]=02:18:12	Makoto	N-No te odio, pero...	02:21:13;
+
+[PlayVoice]=02:18:12	Voice05/05-SD/05-SD-B03/05-SD-B03-0580	1	mak	02:21:13;
+
+[PrintText]=02:21:18	Setsuna	¿Pero?^	02:22:14;
+
+[PlayVoice]=02:21:18	Voice05/05-SD/05-SD-B03/05-SD-B03-0590	0	set	02:22:14;
+
+[PrintText]=02:23:14	Makoto	Yo... Sekai es la única a la que...	02:27:22;
+
+[PlayVoice]=02:23:14	Voice05/05-SD/05-SD-B03/05-SD-B03-0600	1	mak	02:27:22;
+
+[PlayVoice]=02:28:10	Voice05/05-SD/05-SD-B03/05-SD-B03-0610			02:33:19;
+
+[PrintText]=02:28:10	Setsuna	Se ha ido. Olvídate de ella.	02:33:07;
+
+[PrintText]=02:33:07	Makoto	Ah...	02:34:08;
+
+[PlayVoice]=02:33:07	Voice05/05-SD/05-SD-B03/05-SD-B03-0540	1	mak	02:34:08;
+
+[PrintText]=02:35:12	Makoto	Pero...	02:36:09;
+
+[PlayVoice]=02:35:12	Voice05/05-SD/05-SD-B03/05-SD-B03-0630	1	mak	02:36:09;
+
+ ;
+
+[Next]=02:36:09;
+
+
+
+

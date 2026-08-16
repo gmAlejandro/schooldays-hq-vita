@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=00:27:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:27:07;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-I07/SE03-KA-I07-001	00:27:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I07/03-KA-I07-001	00:07:10;
+
+[PrintText]=00:00:00	Makoto	...	00:03:03;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I07/03-KA-I07-0030	1	xxx	00:03:03;
+
+[PrintText]=00:03:11	Setsuna	...Entonces así son las cosas.	00:05:01;
+
+[PlayVoice]=00:03:11	Voice03/03-KA/03-KA-I07/03-KA-I07-0040	0	set	00:05:01;
+
+[PrintText]=00:04:18	Makoto	Hey, no tomes conclusiones.	00:07:14;
+
+[PlayVoice]=00:04:18	Voice03/03-KA/03-KA-I07/03-KA-I07-0050	1	mak	00:07:14;
+
+[CreateBG]=00:07:10	BGS	Event03/03-KA/03-KA-I07/03-KA-I07-002	00:19:20;
+
+[PrintText]=00:07:12	Setsuna	No lo hacía.	00:08:12;
+
+[PlayVoice]=00:07:12	Voice03/03-KA/03-KA-I07/03-KA-I07-0060	0	set	00:08:12;
+
+[PrintText]=00:08:18	Makoto	...Sekai y Sawanaga me llaman por mi nombre ¿No?^	00:14:00;
+
+[PlayVoice]=00:08:18	Voice03/03-KA/03-KA-I07/03-KA-I07-0070	1	mak	00:14:00;
+
+[PrintText]=00:14:05	Setsuna	En ese caso, yo también te llamaré 'Makoto'.	00:17:14;
+
+[PlayVoice]=00:14:05	Voice03/03-KA/03-KA-I07/03-KA-I07-0080	0	set	00:17:14;
+
+[PrintText]=00:17:17	Makoto	¡¿Ehh?!	00:18:11;
+
+[PlayVoice]=00:17:17	Voice03/03-KA/03-KA-I07/03-KA-I07-0090	1	mak	00:18:11;
+
+[PrintText]=00:18:18	Setsuna	¿No estás feliz?^	00:19:16;
+
+[PlayVoice]=00:18:18	Voice03/03-KA/03-KA-I07/03-KA-I07-0100	0	set	00:19:16;
+
+[CreateBG]=00:19:20	BGS	Event03/03-KA/03-KA-I07/03-KA-I07-003	00:27:07;
+
+[PrintText]=00:19:21	Makoto	Uuu...	00:21:07;
+
+[PlayVoice]=00:19:21	Voice03/03-KA/03-KA-I07/03-KA-I07-0110	1	mak	00:21:07;
+
+[PrintText]=00:21:10	Setsuna	...	00:22:01;
+
+[PlayVoice]=00:21:10	Voice03/03-KA/03-KA-I07/03-KA-I07-0120	0	xxx	00:22:01;
+
+[PrintText]=00:22:11	Makoto	Pues...	00:24:05;
+
+[PlayVoice]=00:22:11	Voice03/03-KA/03-KA-I07/03-KA-I07-0130	1	mak	00:24:05;
+
+[PrintText]=00:24:09	Setsuna	...Bromeaba.	00:26:05;
+
+[PlayVoice]=00:24:09	Voice03/03-KA/03-KA-I07/03-KA-I07-0140	0	set	00:26:05;
+
+[PrintText]=00:26:06	Makoto	Uguh...	00:27:01;
+
+[PlayVoice]=00:26:06	Voice03/03-KA/03-KA-I07/03-KA-I07-0150	1	mak	00:27:01;
+
+ ;
+
+[Next]=00:27:07;
+
+

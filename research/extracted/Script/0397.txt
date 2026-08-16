@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:39:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:39:23;
+
+[PlaySe]=00:00:00	1	Se03/03-A0/03-A0-A10/SE03-A0-A10-001	00:26:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A0/03-A0-A10/03-A0-A10-001	00:01:20;
+
+[PrintText]=00:00:00	Makoto	Más...	00:01:07;
+
+[PlayVoice]=00:00:00	Voice03/03-A0/03-A0-A10/03-A0-A10-0040	1	xxx	00:01:07;
+
+[CreateBG]=00:01:20	BGS	Event03/03-A0/03-A0-A10/03-A0-A10-002	00:06:11;
+
+[PrintText]=00:01:20	Kotonoha	Para...	00:03:06;
+
+[PlayVoice]=00:01:20	Voice03/03-A0/03-A0-A10/03-A0-A10-0060	0	kot	00:03:06;
+
+[PrintText]=00:03:06	Makoto	...	00:04:08;
+
+[PlayVoice]=00:03:06	Voice03/03-A0/03-A0-A10/03-A0-A10-0070	1	xxx	00:04:08;
+
+[PrintText]=00:04:09	Kotonoha	Por favor...	00:06:11;
+
+[PlayVoice]=00:04:09	Voice03/03-A0/03-A0-A10/03-A0-A10-0080	0	kot	00:06:11;
+
+[CreateBG]=00:06:11	BGS	Event03/03-A0/03-A0-A10/03-A0-A10-003	00:17:06;
+
+[PrintText]=00:06:11	Kotonoha	Nn... mmn...	00:09:12;
+
+[PlayVoice]=00:06:11	Voice03/03-A0/03-A0-A10/03-A0-A10-0100	0	kot	00:09:12;
+
+[PrintText]=00:09:12	Kotonoha	Nn... haah... haah...	00:17:06;
+
+[PlayVoice]=00:09:12	Voice03/03-A0/03-A0-A10/03-A0-A10-0120	0	kot	00:17:06;
+
+[PlaySe]=00:15:16	2	Voice03/03-A0/03-A0-A10/03-A0-A10-0140	00:18:02;
+
+[PlayMovie]=00:17:06	Movie03/03-A0/03-A0-A10/03-A0-A10-004	0	00:23:05;
+
+[PrintText]=00:22:06	Kotonoha	¡Hyah!	00:23:05;
+
+[PlayVoice]=00:22:06	Voice03/03-A0/03-A0-A10/03-A0-A10-0160	0	kot	00:23:05;
+
+[PlayMovie]=00:23:05	Movie03/03-A0/03-A0-A10/03-A0-A10-005	0	00:29:12;
+
+[PrintText]=00:23:05	Kotonoha	¡No!	00:24:11;
+
+[PlayVoice]=00:23:05	Voice03/03-A0/03-A0-A10/03-A0-A10-0180	0	kot	00:24:11;
+
+[PlaySe]=00:24:03	2	Voice03/03-A0/03-A0-A10/03-A0-A10-0210	00:27:01;
+
+[PrintText]=00:25:03	Kotonoha	¡Nn...! Fwah...	00:29:10;
+
+[PlayVoice]=00:25:03	Voice03/03-A0/03-A0-A10/03-A0-A10-0200	0	kot	00:29:10;
+
+[PlaySe]=00:29:08	3	Voice03/03-A0/03-A0-A10/03-A0-A10-0240	00:32:21;
+
+[PlayMovie]=00:29:12	Movie03/03-A0/03-A0-A10/03-A0-A10-006	0	00:34:02;
+
+[PrintText]=00:29:13	Kotonoha	No... no...	00:33:20;
+
+[PlayVoice]=00:29:13	Voice03/03-A0/03-A0-A10/03-A0-A10-0230	0	kot	00:33:20;
+
+[PlaySe]=00:30:16	2	Se03/03-A0/03-A0-A10/SE03-A0-A10-001	00:39:23;
+
+[CreateBG]=00:34:02	BGS	Event03/03-A0/03-A0-A10/03-A0-A10-003	00:39:23;
+
+[PrintText]=00:34:03	Kotonoha	¡Nn... mnn... mmn...! Haah...	00:39:23;
+
+[PlayVoice]=00:34:03	Voice03/03-A0/03-A0-A10/03-A0-A10-0250	0	kot	00:39:23;
+
+ ;
+
+[Next]=00:39:23;
+
+

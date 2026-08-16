@@ -1,0 +1,101 @@
+﻿[SkipFRAME]=00:55:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:01:02;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-S00/SE01-00-S00-001	01:01:02;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-S00/01-00-S00-001	00:02:18;
+
+[CreateBG]=00:02:18	BGS	Event01/01-00/01-00-S00/01-00-S00-002	00:08:00;
+
+[PrintText]=00:03:01	Sekai	...¿Creo que no vendrá?^	00:04:12;
+
+[PlayVoice]=00:03:01	Voice01/01-00/01-00-S00/01-00-S00-0040	0	sek	00:04:12;
+
+[PrintText]=00:04:13	Makoto	¿Estará enferma?^	00:07:01;
+
+[PlayVoice]=00:04:13	Voice01/01-00/01-00-S00/01-00-S00-0050	1	mak	00:07:01;
+
+[PrintText]=00:07:00	Sekai	¿Qué pasó en la mañana?^	00:08:00;
+
+[PlayVoice]=00:07:00	Voice01/01-00/01-00-S00/01-00-S00-0060	0	sek	00:08:00;
+
+[CreateBG]=00:08:00	BGS	Event01/01-00/01-00-S00/01-00-S00-003	00:21:01;
+
+[PrintText]=00:08:00	Makoto	No la he visto, tal vez se quedo dormida o algo, porque perdió el tren...	00:13:21;
+
+[PlayVoice]=00:08:00	Voice01/01-00/01-00-S00/01-00-S00-0070	1	mak	00:13:21;
+
+[PrintText]=00:13:21	Sekai	Ya veo. Por eso piensas que me había quedado dormida también.	00:19:17;
+
+[PlayVoice]=00:13:21	Voice01/01-00/01-00-S00/01-00-S00-0080	0	sek	00:19:17;
+
+[PrintText]=00:19:17	Makoto	Pues claro.	00:21:00;
+
+[PlayVoice]=00:19:17	Voice01/01-00/01-00-S00/01-00-S00-0090	1	mak	00:21:00;
+
+[PrintText]=00:21:00	Sekai	Hmm... ¿Qué deberíamos hacer? ¿Empezar a comer?^	00:24:20;
+
+[PlayVoice]=00:21:00	Voice01/01-00/01-00-S00/01-00-S00-0100	0	sek	00:24:20;
+
+[CreateBG]=00:21:01	BGS	Event01/01-00/01-00-S00/01-00-S00-004	00:24:20;
+
+[CreateBG]=00:24:20	BGS	Event01/01-00/01-00-S00/01-00-S00-005	00:28:11;
+
+[PrintText]=00:24:20	Makoto	Yo esperaré... Pero si tienes hambre, deberías comer.	00:28:10;
+
+[PlayVoice]=00:24:20	Voice01/01-00/01-00-S00/01-00-S00-0110	1	mak	00:28:10;
+
+[PrintText]=00:28:10	Sekai	Está bien. No tengo hambre, después de todo... ah, pero...	00:33:17;
+
+[PlayVoice]=00:28:10	Voice01/01-00/01-00-S00/01-00-S00-0120	0	sek	00:33:17;
+
+[CreateBG]=00:28:11	BGS	Event01/01-00/01-00-S00/01-00-S00-006	00:31:16;
+
+[CreateBG]=00:31:16	BGS	Event01/01-00/01-00-S00/01-00-S00-007	00:33:17;
+
+[CreateBG]=00:33:17	BGS	Event01/01-00/01-00-S00/01-00-S00-008	00:36:11;
+
+[PrintText]=00:33:17	Makoto	¿Hmn? No te preocupes, solo come.	00:36:11;
+
+[PlayVoice]=00:33:17	Voice01/01-00/01-00-S00/01-00-S00-0130	1	mak	00:36:11;
+
+[CreateBG]=00:36:11	BGS	Event01/01-00/01-00-S00/01-00-S00-009	00:41:14;
+
+[PrintText]=00:36:11	Sekai	No es a lo que me refiero, ¿Crees que pueda dormir por un momento?^	00:40:23;
+
+[PlayVoice]=00:36:11	Voice01/01-00/01-00-S00/01-00-S00-0140	0	sek	00:40:23;
+
+[PrintText]=00:41:00	Makoto	¿Huh?^	00:41:14;
+
+[PlayVoice]=00:41:00	Voice01/01-00/01-00-S00/01-00-S00-0150	1	mak	00:41:14;
+
+[PrintText]=00:41:13	Sekai	Me quedé toda la noche despierta, y estuve distraída en clase también, pero me siento cansada.	00:49:03;
+
+[PlayVoice]=00:41:13	Voice01/01-00/01-00-S00/01-00-S00-0160	0	sek	00:49:03;
+
+[CreateBG]=00:41:14	BGS	Event01/01-00/01-00-S00/01-00-S00-010	00:49:03;
+
+[CreateBG]=00:49:03	BGS	Event01/01-00/01-00-S00/01-00-S00-011	01:01:02;
+
+[PrintText]=00:49:03	Makoto	El clima se ve bien, hace calor hoy, también. Debería ser el momento perfecto para dormir.	00:53:15;
+
+[PlayVoice]=00:49:03	Voice01/01-00/01-00-S00/01-00-S00-0170	1	mak	00:53:15;
+
+[PrintText]=00:53:15	Sekai	¿Lo ves?^	00:54:16;
+
+[PlayVoice]=00:53:15	Voice01/01-00/01-00-S00/01-00-S00-0180	0	sek	00:54:16;
+
+[PrintText]=00:54:16	Makoto	Pues...	00:55:17;
+
+[PlayVoice]=00:54:16	Voice01/01-00/01-00-S00/01-00-S00-0190	1	mak	00:55:17;
+
+[SetSELECT]=00:55:00	'¡No!'	'¿Por qué no?'	01:00:00;
+
+ ;
+
+[Next]=01:01:02;
+
+
+
+

@@ -1,0 +1,93 @@
+﻿[SkipFRAME]=00:23:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:23:18;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-F07/04-KA-F07-001	00:04:07;
+
+[PrintText]=00:00:09	Makoto	...	00:01:06;
+
+[PlayVoice]=00:00:09	Voice04/04-KA/04-KA-F07/04-KA-F07-0030	1	xxx	00:01:06;
+
+[PrintText]=00:01:14	Sekai	¿...Qué?^	00:02:14;
+
+[PlayVoice]=00:01:14	Voice04/04-KA/04-KA-F07/04-KA-F07-0040	0	sek	00:02:14;
+
+[PrintText]=00:02:18	Makoto	...Nada.	00:04:07;
+
+[PlayVoice]=00:02:18	Voice04/04-KA/04-KA-F07/04-KA-F07-0050	1	mak	00:04:07;
+
+[CreateBG]=00:04:07	BGS	Event04/04-KA/04-KA-F07/04-KA-F07-002	00:08:08;
+
+[PrintText]=00:04:18	Sekai	Entonces no es 'nada' para mí también.	00:06:17;
+
+[PlayVoice]=00:04:18	Voice04/04-KA/04-KA-F07/04-KA-F07-0060	0	sek	00:06:17;
+
+[PrintText]=00:06:22	Makoto	...	00:08:05;
+
+[PlayVoice]=00:06:22	Voice04/04-KA/04-KA-F07/04-KA-F07-0070	1	xxx	00:08:05;
+
+[CreateBG]=00:08:08	BGS	Event04/04-KA/04-KA-F07/04-KA-F07-002A	00:11:06;
+
+[PrintText]=00:08:08	Nanami	¿...Qué? ¿Por qué están discutiendo?^	00:11:06;
+
+[PlayVoice]=00:08:08	Voice04/04-KA/04-KA-F07/04-KA-F07-0080	0	nan	00:11:06;
+
+[CreateBG]=00:11:06	BGS	Event04/04-KA/04-KA-F07/04-KA-F07-002B	00:12:19;
+
+[PlayVoice]=00:11:06	Voice04/04-KA/04-KA-F07/04-KA-F07-0090B	0	x01	00:12:09;
+
+[PrintText]=00:11:07	Makoto Makoto·Sekai Sekai	No.	00:12:07;
+
+[PlayVoice]=00:11:07	Voice04/04-KA/04-KA-F07/04-KA-F07-0090	0	x01	00:12:07;
+
+[CreateBG]=00:12:19	BGS	Event04/04-KA/04-KA-F07/04-KA-F07-003	00:13:23;
+
+[PrintText]=00:12:19	Nanami	Oho...	00:13:23;
+
+[PlayVoice]=00:12:19	Voice04/04-KA/04-KA-F07/04-KA-F07-0100	0	nan	00:13:23;
+
+[CreateBG]=00:13:23	BGS	Event04/04-KA/04-KA-F07/04-KA-F07-004	00:15:03;
+
+[PlayVoice]=00:13:23	Voice04/04-KA/04-KA-F07/04-KA-F07-0110B	0	x01	00:14:16;
+
+[PrintText]=00:14:00	Makoto Makoto·Sekai Sekai	Ah...	00:14:15;
+
+[PlayVoice]=00:14:00	Voice04/04-KA/04-KA-F07/04-KA-F07-0110	0	x01	00:14:15;
+
+[CreateBG]=00:15:03	BGS	Event04/04-KA/04-KA-F07/04-KA-F07-005	00:19:22;
+
+[PrintText]=00:15:08	Hikari	¿Qué pasó?^	00:16:16;
+
+[PlayVoice]=00:15:08	Voice04/04-KA/04-KA-F07/04-KA-F07-0120	0	hik	00:16:16;
+
+[PrintText]=00:16:15	Nanami	Incluso un perro se mantendría alejado de éste.	00:18:19;
+
+[PlayVoice]=00:16:15	Voice04/04-KA/04-KA-F07/04-KA-F07-0130	0	nan	00:18:19;
+
+[PrintText]=00:18:20	Hikari	¿Qué?^	00:20:00;
+
+[PlayVoice]=00:18:20	Voice04/04-KA/04-KA-F07/04-KA-F07-0140	0	hik	00:20:00;
+
+[CreateBG]=00:19:22	BGS	Event04/04-KA/04-KA-F07/04-KA-F07-004	00:23:18;
+
+[PrintText]=00:19:22	Nanami	Olvídalo, vamos.	00:21:11;
+
+[PlayVoice]=00:19:22	Voice04/04-KA/04-KA-F07/04-KA-F07-0150	0	nan	00:21:11;
+
+[PrintText]=00:21:13	Hikari	Vale.	00:22:06;
+
+[PlayVoice]=00:21:13	Voice04/04-KA/04-KA-F07/04-KA-F07-0160	0	hik	00:22:06;
+
+[PrintText]=00:22:09	Makoto	...	00:23:07;
+
+[PlayVoice]=00:22:09	Voice04/04-KA/04-KA-F07/04-KA-F07-0170	1	xxx	00:23:07;
+
+[PrintText]=00:22:19	Sekai	...	00:23:13;
+
+[PlayVoice]=00:22:19	Voice04/04-KA/04-KA-F07/04-KA-F07-0180	0	xxx	00:23:13;
+
+ ;
+
+[Next]=00:23:18;
+
+

@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:32:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:32:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-G10/05-KF-G10-001	00:03:18;
+
+[PrintText]=00:00:00	Makoto	...	00:03:18;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G10/05-KF-G10-0030	1	xxx	00:03:18;
+
+[CreateBG]=00:03:18	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-010	00:10:15;
+
+[PrintText]=00:03:18	Kotonoha	Por favor... di algo.	00:07:10;
+
+[PlayVoice]=00:03:18	Voice05/05-KF/05-KF-G10/05-KF-G10-0040	0	kot	00:07:10;
+
+[PrintText]=00:07:10	Makoto	...	00:10:14;
+
+[PlayVoice]=00:07:10	Voice05/05-KF/05-KF-G10/05-KF-G10-0050	1	xxx	00:10:14;
+
+[PrintText]=00:10:14	Kotonoha	Yo... no quiero terminar contigo...	00:14:22;
+
+[PlayVoice]=00:10:14	Voice05/05-KF/05-KF-G10/05-KF-G10-0060	0	kot	00:14:22;
+
+[CreateBG]=00:10:15	BGS	Event05/05-KF/05-KF-G10/05-KF-G10-003	00:17:10;
+
+[PrintText]=00:14:22	Makoto	...	00:17:10;
+
+[PlayVoice]=00:14:22	Voice05/05-KF/05-KF-G10/05-KF-G10-0070	1	xxx	00:17:10;
+
+[CreateBG]=00:17:10	BGS	Event05/05-KF/05-KF-G10/05-KF-G10-004	00:29:08;
+
+[PrintText]=00:17:10	Kotonoha	Te amo...	00:21:22;
+
+[PlayVoice]=00:17:10	Voice05/05-KF/05-KF-G10/05-KF-G10-0080	0	kot	00:21:22;
+
+[PrintText]=00:21:22	Makoto	...	00:24:16;
+
+[PlayVoice]=00:21:22	Voice05/05-KF/05-KF-G10/05-KF-G10-0090	1	xxx	00:24:16;
+
+[PrintText]=00:24:15	Kotonoha	Por favor...	00:26:04;
+
+[PlayVoice]=00:24:15	Voice05/05-KF/05-KF-G10/05-KF-G10-0100	0	kot	00:26:04;
+
+[PrintText]=00:26:04	Makoto	...Lo siento.	00:29:07;
+
+[PlayVoice]=00:26:04	Voice05/05-KF/05-KF-G10/05-KF-G10-0110	1	mak	00:29:07;
+
+[PlayVoice]=00:29:07	Voice05/05-KF/05-KF-G10/05-KF-G10-0130	0	kot	00:31:16;
+
+[CreateBG]=00:29:08	BGS	Event05/05-KF/05-KF-G10/05-KF-G10-005	00:32:06;
+
+[BlackFade]=00:31:06	OUT	00:32:06;
+
+ ;
+
+[Next]=00:32:06;
+
+
+
+

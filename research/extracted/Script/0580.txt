@@ -1,0 +1,107 @@
+﻿[SkipFRAME]=00:50:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:56:07;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-I03/SE03-KA-I03-001	00:56:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I03/03-KA-I03-001	00:06:10;
+
+[PrintText]=00:00:00	Makoto	Lo siento, Kotonoha, Trabajaré n esto.	00:04:11;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I03/03-KA-I03-0030	1	mak	00:04:11;
+
+[PrintText]=00:04:11	Kotonoha	Ah, está bien...	00:05:21;
+
+[PlayVoice]=00:04:11	Voice03/03-KA/03-KA-I03/03-KA-I03-0040	0	kot	00:05:21;
+
+[BlackFade]=00:05:22	OUT	00:06:10;
+
+[CreateBG]=00:06:10	BGS	Event03/03-KA/03-KA-I03/03-KA-I03-002	00:12:18;
+
+[PrintText]=00:06:15	Makoto	Venga, vamos a trabajar.	00:08:09;
+
+[PlayVoice]=00:06:15	Voice03/03-KA/03-KA-I03/03-KA-I03-0060	1	mak	00:08:09;
+
+[PrintText]=00:08:13	Setsuna	...¿Seguro?^	00:09:11;
+
+[PlayVoice]=00:08:13	Voice03/03-KA/03-KA-I03/03-KA-I03-0070	0	set	00:09:11;
+
+[PrintText]=00:09:14	Makoto	¿No eras tú la que me dijo que lo hiciera?^	00:11:17;
+
+[PlayVoice]=00:09:14	Voice03/03-KA/03-KA-I03/03-KA-I03-0080	1	mak	00:11:17;
+
+[PrintText]=00:11:22	Setsuna	...Uh-huh.	00:12:14;
+
+[PlayVoice]=00:11:22	Voice03/03-KA/03-KA-I03/03-KA-I03-0090	0	set	00:12:14;
+
+[CreateBG]=00:12:18	BGS	Event03/03-KA/03-KA-I03/03-KA-I03-003	00:20:12;
+
+[PrintText]=00:12:20	Makoto	Vamos, ¿Dónde y como debo pintar?^	00:15:13;
+
+[PlayVoice]=00:12:20	Voice03/03-KA/03-KA-I03/03-KA-I03-0100	1	mak	00:15:13;
+
+[PrintText]=00:15:15	Setsuna	Que sea rojo todo el camino hasta ese borde.	00:19:00;
+
+[PlayVoice]=00:15:15	Voice03/03-KA/03-KA-I03/03-KA-I03-0110	0	set	00:19:00;
+
+[PrintText]=00:19:01	Makoto	Bien.	00:19:19;
+
+[PlayVoice]=00:19:01	Voice03/03-KA/03-KA-I03/03-KA-I03-0120	1	mak	00:19:19;
+
+[BlackFade]=00:20:00	OUT	00:20:12;
+
+[CreateBG]=00:20:12	BGS	Event03/03-KA/03-KA-I03/03-KA-I03-004	00:39:23;
+
+[PrintText]=00:20:15	Makoto	Vale, ahora blanco, whoa... lavaré mi pincel.	00:29:09;
+
+[PlayVoice]=00:20:15	Voice03/03-KA/03-KA-I03/03-KA-I03-0140	1	mak	00:29:09;
+
+[PrintText]=00:29:13	Setsuna	Itou.	00:30:09;
+
+[PlayVoice]=00:29:13	Voice03/03-KA/03-KA-I03/03-KA-I03-0150	0	set	00:30:09;
+
+[PrintText]=00:30:08	Makoto	¿Hmn? ¿Qué pasa?^	00:35:20;
+
+[PlayVoice]=00:30:08	Voice03/03-KA/03-KA-I03/03-KA-I03-0160	1	mak	00:35:20;
+
+[PrintText]=00:34:19	Setsuna	Katsura-san de la clase 4... ella.	00:38:15;
+
+[PlayVoice]=00:34:19	Voice03/03-KA/03-KA-I03/03-KA-I03-0170	0	set	00:38:15;
+
+[PrintText]=00:38:10	Makoto	¿Q-Qué?^	00:40:13;
+
+[PlayVoice]=00:38:10	Voice03/03-KA/03-KA-I03/03-KA-I03-0180	1	mak	00:40:13;
+
+[CreateBG]=00:39:23	BGS	Event03/03-KA/03-KA-I03/03-KA-I03-005	00:56:07;
+
+[PrintText]=00:39:23	Setsuna	¿Te llamó Makoto-kun?^	00:41:22;
+
+[PlayVoice]=00:39:23	Voice03/03-KA/03-KA-I03/03-KA-I03-0190	0	set	00:41:22;
+
+[PrintText]=00:42:00	Makoto	Sí, así es.	00:43:05;
+
+[PlayVoice]=00:42:00	Voice03/03-KA/03-KA-I03/03-KA-I03-0200	1	mak	00:43:05;
+
+[PrintText]=00:43:09	Setsuna	...	00:45:10;
+
+[PlayVoice]=00:43:09	Voice03/03-KA/03-KA-I03/03-KA-I03-0210	0	xxx	00:45:10;
+
+[PrintText]=00:45:09	Makoto	¿Qué tiene?^	00:46:15;
+
+[PlayVoice]=00:45:09	Voice03/03-KA/03-KA-I03/03-KA-I03-0220	1	mak	00:46:15;
+
+[PrintText]=00:46:15	Setsuna	¿Por qué?^	00:47:16;
+
+[PlayVoice]=00:46:15	Voice03/03-KA/03-KA-I03/03-KA-I03-0230	0	set	00:47:16;
+
+[PrintText]=00:47:20	Makoto	¿'Por qué'? pues...	00:50:12;
+
+[PlayVoice]=00:47:20	Voice03/03-KA/03-KA-I03/03-KA-I03-0240	1	mak	00:50:12;
+
+[SetSELECT]=00:50:01	'Somos muy cercanos'	'Lo mismo pasa con Sekai'	00:55:01;
+
+ ;
+
+[Next]=00:56:07;
+
+

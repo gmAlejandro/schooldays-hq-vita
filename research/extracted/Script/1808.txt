@@ -1,0 +1,192 @@
+﻿[SkipFRAME]=02:19:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	02:19:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-A02/05-SE-A02-001	00:10:04;
+
+[PrintText]=00:00:00	Sekai	Mmn...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-A02/05-SE-A02-0030	0	sek	00:00:23;
+
+[PrintText]=00:00:23	Madre de Sekai	Oh ¿Estás despierta?^	00:03:07;
+
+[PlayVoice]=00:00:23	Voice05/05-SE/05-SE-A02/05-SE-A02-0040	0	yko	00:03:07;
+
+[PrintText]=00:03:08	Sekai	Uh-huh.	00:04:07;
+
+[PlayVoice]=00:03:08	Voice05/05-SE/05-SE-A02/05-SE-A02-0050	0	sek	00:04:07;
+
+[PrintText]=00:03:11	Madre de Sekai	Una chica llamada Katsura-san vino a verte.	00:08:08;
+
+[PlayVoice]=00:03:11	Voice05/05-SE/05-SE-A02/05-SE-A02-0060	0	yko	00:08:08;
+
+[PrintText]=00:08:03	Sekai	¿Katsura-san...?^	00:10:05;
+
+[PlayVoice]=00:08:03	Voice05/05-SE/05-SE-A02/05-SE-A02-0070	0	sek	00:10:05;
+
+[PrintText]=00:09:01	Madre de Sekai	Un chico estuvo con ella y se fueron juntos ¿Me pregunto si era su novio?^	00:15:17;
+
+[PlayVoice]=00:09:01	Voice05/05-SE/05-SE-A02/05-SE-A02-0080	0	yko	00:15:17;
+
+[CreateBG]=00:10:04	BGS	Event05/05-SE/05-SE-A02/05-SE-A02-002	00:25:04;
+
+[PrintText]=00:15:14	Sekai	¿Eh...?^	00:16:11;
+
+[PlayVoice]=00:15:14	Voice05/05-SE/05-SE-A02/05-SE-A02-0090	0	sek	00:16:11;
+
+[PrintText]=00:15:21	Madre de Sekai	Era muy linda. El chico y ella hacen una bonita pareja.	00:23:20;
+
+[PlayVoice]=00:15:21	Voice05/05-SE/05-SE-A02/05-SE-A02-0100	0	yko	00:23:20;
+
+[PrintText]=00:23:18	Sekai	¡El no!	00:25:08;
+
+[PlayVoice]=00:23:18	Voice05/05-SE/05-SE-A02/05-SE-A02-0110	0	sek	00:25:08;
+
+[CreateBG]=00:25:04	BGS	Event05/05-SE/05-SE-A01/05-SE-A01-004	00:48:05;
+
+[PrintText]=00:25:04	Madre de Sekai	¿Huh? ¿No es uno de tus amigos?^	00:29:01;
+
+[PlayVoice]=00:25:04	Voice05/05-SE/05-SE-A02/05-SE-A02-0120	0	yko	00:29:01;
+
+[PrintText]=00:29:03	Sekai	...	00:30:03;
+
+[PlayVoice]=00:29:03	Voice05/05-SE/05-SE-A02/05-SE-A02-0130	0	xxx	00:30:03;
+
+[PrintText]=00:30:06	Madre de Sekai	Bueno, como sea. Desde ten cuidado ¿Vale? Ahora eres responsable de otra vida.	00:37:20;
+
+[PlayVoice]=00:30:06	Voice05/05-SE/05-SE-A02/05-SE-A02-0140	0	yko	00:37:20;
+
+[PrintText]=00:38:00	Sekai	Sí...	00:38:19;
+
+[PlayVoice]=00:38:00	Voice05/05-SE/05-SE-A02/05-SE-A02-0150	0	sek	00:38:19;
+
+[PrintText]=00:38:09	Madre de Sekai	Escuché que la obstetra te atendió.	00:42:11;
+
+[PlayVoice]=00:38:09	Voice05/05-SE/05-SE-A02/05-SE-A02-0160	0	yko	00:42:11;
+
+[PrintText]=00:42:16	Sekai	Sí, me dieron un manual de maternidad que me explica todo...	00:48:04;
+
+[PlayVoice]=00:42:16	Voice05/05-SE/05-SE-A02/05-SE-A02-0170	0	sek	00:48:04;
+
+[CreateBG]=00:48:05	BGS	Event05/05-SE/05-SE-A02/05-SE-A02-004	00:58:02;
+
+[PrintText]=00:48:13	Madre de Sekai	Haah... así que vas a tener al niño.	00:53:04;
+
+[PlayVoice]=00:48:13	Voice05/05-SE/05-SE-A02/05-SE-A02-0180	0	yko	00:53:04;
+
+[PrintText]=00:53:02	Sekai	¿Estás en contra?^	00:54:14;
+
+[PlayVoice]=00:53:02	Voice05/05-SE/05-SE-A02/05-SE-A02-0190	0	sek	00:54:14;
+
+[PrintText]=00:54:12	Madre de Sekai	Bueno, no es que puedas criar a un niño.	00:58:02;
+
+[PlayVoice]=00:54:12	Voice05/05-SE/05-SE-A02/05-SE-A02-0200	0	yko	00:58:02;
+
+[CreateBG]=00:58:02	BGS	Event05/05-SE/05-SE-A02/05-SE-A02-002	01:23:05;
+
+[PrintText]=00:58:02	Sekai	Sí... creo que tienes razón.	01:00:23;
+
+[PlayVoice]=00:58:02	Voice05/05-SE/05-SE-A02/05-SE-A02-0210	0	sek	01:00:23;
+
+[PrintText]=01:01:03	Madre de Sekai	Pero como dije, tuve mis dudas a tu edad, y decidí tenerte. Sí estás decidida no te detendré.	01:11:10;
+
+[PlayVoice]=01:01:03	Voice05/05-SE/05-SE-A02/05-SE-A02-0220	0	yko	01:11:10;
+
+[PrintText]=01:11:21	Sekai	Gracias mamá.	01:14:08;
+
+[PlayVoice]=01:11:21	Voice05/05-SE/05-SE-A02/05-SE-A02-0230	0	sek	01:14:08;
+
+[PrintText]=01:14:11	Madre de Sekai	Así es, te apoyaré hasta el final. Si necesitas algo, asegurate de hacérmelo saber.	01:22:01;
+
+[PlayVoice]=01:14:11	Voice05/05-SE/05-SE-A02/05-SE-A02-0240	0	yko	01:22:01;
+
+[PrintText]=01:22:00	Sekai	Uh-huh.	01:22:23;
+
+[PlayVoice]=01:22:00	Voice05/05-SE/05-SE-A02/05-SE-A02-0250	0	sek	01:22:23;
+
+[CreateBG]=01:23:05	BGS	Event05/05-SE/05-SE-A02/05-SE-A02-006	01:42:02;
+
+[PrintText]=01:23:05	Madre de Sekai	Y... ¿Le has dicho a tu novio de esto?^	01:28:18;
+
+[PlayVoice]=01:23:05	Voice05/05-SE/05-SE-A02/05-SE-A02-0260	0	yko	01:28:18;
+
+[PrintText]=01:28:18	Sekai	Uh-huh.	01:29:12;
+
+[PlayVoice]=01:28:18	Voice05/05-SE/05-SE-A02/05-SE-A02-0270	0	sek	01:29:12;
+
+[PrintText]=01:29:17	Madre de Sekai	¿Y?^	01:30:14;
+
+[PlayVoice]=01:29:17	Voice05/05-SE/05-SE-A02/05-SE-A02-0280	0	yko	01:30:14;
+
+[PrintText]=01:30:14	Sekai	Se sorprendió.	01:32:13;
+
+[PlayVoice]=01:30:14	Voice05/05-SE/05-SE-A02/05-SE-A02-0290	0	sek	01:32:13;
+
+[PrintText]=01:32:14	Madre de Sekai	Sí, lo apuesto.	01:34:19;
+
+[PlayVoice]=01:32:14	Voice05/05-SE/05-SE-A02/05-SE-A02-0300	0	yko	01:34:19;
+
+[PrintText]=01:34:18	Sekai	Pero se veía feliz.	01:37:08;
+
+[PlayVoice]=01:34:18	Voice05/05-SE/05-SE-A02/05-SE-A02-0310	0	sek	01:37:08;
+
+[PrintText]=01:37:04	Madre de Sekai	Ya veo, que bien por ti entonces.	01:41:01;
+
+[PlayVoice]=01:37:04	Voice05/05-SE/05-SE-A02/05-SE-A02-0320	0	yko	01:41:01;
+
+[PrintText]=01:41:04	Sekai	Uh-huh.	01:41:21;
+
+[PlayVoice]=01:41:04	Voice05/05-SE/05-SE-A02/05-SE-A02-0330	0	sek	01:41:21;
+
+[CreateBG]=01:42:02	BGS	Event05/05-SE/05-SE-A02/05-SE-A02-001	01:54:03;
+
+[PrintText]=01:42:02	Madre de Sekai	Es totalmente diferente a como reaccionó tu padre. Has encontrado a buen tipo.	01:48:08;
+
+[PlayVoice]=01:42:02	Voice05/05-SE/05-SE-A02/05-SE-A02-0340	0	yko	01:48:08;
+
+[PrintText]=01:48:06	Sekai	Sí.	01:48:21;
+
+[PlayVoice]=01:48:06	Voice05/05-SE/05-SE-A02/05-SE-A02-0350	0	sek	01:48:21;
+
+[PrintText]=01:49:03	Madre de Sekai	Vale, entonces es mejor que duermas un poco más.	01:51:22;
+
+[PlayVoice]=01:49:03	Voice05/05-SE/05-SE-A02/05-SE-A02-0360	0	yko	01:51:22;
+
+[PrintText]=01:52:02	Sekai	...Mamá.	01:53:04;
+
+[PlayVoice]=01:52:02	Voice05/05-SE/05-SE-A02/05-SE-A02-0370	0	sek	01:53:04;
+
+[PrintText]=01:52:13	Madre de Sekai	¿Qué pasa?^	01:54:00;
+
+[PlayVoice]=01:52:13	Voice05/05-SE/05-SE-A02/05-SE-A02-0380	0	yko	01:54:00;
+
+[CreateBG]=01:54:03	BGS	Event05/05-SE/05-SE-A02/05-SE-A02-006	02:19:12;
+
+[PrintText]=01:54:03	Sekai	Gracias por todo. Tendrás a un saludable nieto.	02:01:02;
+
+[PlayVoice]=01:54:03	Voice05/05-SE/05-SE-A02/05-SE-A02-0390	0	sek	02:01:02;
+
+[PrintText]=02:00:23	Madre de Sekai	Un nieto. huh... no me importaría ser abuela a mi edad.	02:05:12;
+
+[PlayVoice]=02:00:23	Voice05/05-SE/05-SE-A02/05-SE-A02-0400	0	yko	02:05:12;
+
+[PrintText]=02:05:22	Sekai	Mi bebé será muy lindo.	02:08:16;
+
+[PlayVoice]=02:05:22	Voice05/05-SE/05-SE-A02/05-SE-A02-0410	0	sek	02:08:16;
+
+[PrintText]=02:07:05	Madre de Sekai	Por supuesto, es el bebé de mi preciosa niña. Tu bebé será el más bello del mundo.	02:16:18;
+
+[PlayVoice]=02:07:05	Voice05/05-SE/05-SE-A02/05-SE-A02-0420	0	yko	02:16:18;
+
+[PrintText]=02:17:05	Sekai	Sí.	02:18:06;
+
+[PlayVoice]=02:17:05	Voice05/05-SE/05-SE-A02/05-SE-A02-0430	0	sek	02:18:06;
+
+[BlackFade]=02:18:12	OUT	02:19:12;
+
+ ;
+
+[Next]=02:19:12;
+
+
+

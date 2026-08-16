@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:24:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:24:20;
+
+[PlaySe]=00:00:00	1	Se03/03-A0/03-A0-A09/SE03-A0-A09-001	00:08:12;
+
+[PlaySe]=00:00:00	3	Se03/03-A0/03-A0-A09/SE03-A0-A09-002	00:17:22;
+
+[PlaySe]=00:00:00	4	Se03/03-A0/03-A0-A09/SE03-A0-A09-003	00:17:22;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-001	00:11:23;
+
+[PlaySe]=00:08:13	2	Voice03/03-A0/03-A0-A09/03-A0-A09-0040	00:11:17;
+
+[CreateBG]=00:11:23	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-003	00:15:17;
+
+[PrintText]=00:11:23	Makoto	Nos vemos mañana.	00:13:10;
+
+[PlayVoice]=00:11:23	Voice03/03-A0/03-A0-A09/03-A0-A09-0060	1	mak	00:13:10;
+
+[PrintText]=00:13:15	Kotonoha	Vale...	00:14:07;
+
+[PlayVoice]=00:13:15	Voice03/03-A0/03-A0-A09/03-A0-A09-0070	0	kot	00:14:07;
+
+[BlackFade]=00:15:05	OUT	00:15:17;
+
+[PlaySe]=00:15:17	1	Se03/03-A0/03-A0-A09/SE03-A0-A09-004	00:24:20;
+
+[PlayMovie]=00:15:17	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:18:23;
+
+[BlackFade]=00:15:17	IN	00:16:05;
+
+[PrintText]=00:16:21	Makoto	Son tan grandes...	00:18:15;
+
+[PlayVoice]=00:16:21	Voice03/03-A0/03-A0-A09/03-A0-A09-0110	1	mak	00:18:15;
+
+[CreateBG]=00:18:23	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-005	00:21:13;
+
+[PrintText]=00:19:06	Makoto	y...	00:20:12;
+
+[PlayVoice]=00:19:06	Voice03/03-A0/03-A0-A09/03-A0-A09-0130	1	mak	00:20:12;
+
+[BlackFade]=00:21:01	OUT	00:21:13;
+
+[CreateBG]=00:21:13	BGS	System/Screen/Black	00:24:20;
+
+[PrintText]=00:22:02	Makoto	... tan suaves.	00:24:05;
+
+[PlayVoice]=00:22:02	Voice03/03-A0/03-A0-A09/03-A0-A09-0140	1	xxx	00:24:05;
+
+ ;
+
+[Next]=00:24:20;
+
+

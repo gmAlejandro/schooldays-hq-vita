@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:36:22;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:36:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-001	00:01:03;
+
+[PrintText]=00:00:04	Makoto	...	00:01:05;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-F03/04-SA-F03-0030	1	xxx	00:01:05;
+
+[CreateBG]=00:01:03	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-002	00:05:09;
+
+[PrintText]=00:01:13	Sekai	¿... No está bien?^	00:03:01;
+
+[PlayVoice]=00:01:13	Voice04/04-SA/04-SA-F03/04-SA-F03-0040	0	sek	00:03:01;
+
+[PrintText]=00:03:01	Makoto	¿Eh?^	00:03:15;
+
+[PlayVoice]=00:03:01	Voice04/04-SA/04-SA-F03/04-SA-F03-0050	1	mak	00:03:15;
+
+[PrintText]=00:03:16	Sekai	¿No quieres divertirte con tus amigos?^	00:05:11;
+
+[PlayVoice]=00:03:16	Voice04/04-SA/04-SA-F03/04-SA-F03-0060	0	sek	00:05:11;
+
+[CreateBG]=00:05:09	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-003	00:13:07;
+
+[PrintText]=00:05:14	Makoto	No es eso. Solo estaba pensándolo por un segundo...	00:08:13;
+
+[PlayVoice]=00:05:14	Voice04/04-SA/04-SA-F03/04-SA-F03-0070	1	mak	00:08:13;
+
+[PrintText]=00:08:14	Sekai	¿Traeras a un amigo entonces?^	00:11:06;
+
+[PlayVoice]=00:08:14	Voice04/04-SA/04-SA-F03/04-SA-F03-0080	0	sek	00:11:06;
+
+[PrintText]=00:11:07	Makoto	¿Hay otro aparte de Taisuke que vendrá?^	00:13:10;
+
+[PlayVoice]=00:11:07	Voice04/04-SA/04-SA-F03/04-SA-F03-0090	1	mak	00:13:10;
+
+[CreateBG]=00:13:07	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-004	00:19:02;
+
+[PrintText]=00:13:11	Sekai	¿Eh...?^	00:14:00;
+
+[PlayVoice]=00:13:11	Voice04/04-SA/04-SA-F03/04-SA-F03-0100	0	sek	00:14:00;
+
+[PrintText]=00:14:00	Makoto	Me estoy asegurando de escapar, por si pasa alguna otra cosa.	00:19:03;
+
+[PlayVoice]=00:14:00	Voice04/04-SA/04-SA-F03/04-SA-F03-0110	1	mak	00:19:03;
+
+[CreateBG]=00:19:02	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-005	00:23:15;
+
+[PrintText]=00:19:07	Sekai	Estaba pensando en Hikari.	00:21:03;
+
+[PlayVoice]=00:19:07	Voice04/04-SA/04-SA-F03/04-SA-F03-0120	0	sek	00:21:03;
+
+[PrintText]=00:21:03	Makoto	Ya veo.	00:21:23;
+
+[PlayVoice]=00:21:03	Voice04/04-SA/04-SA-F03/04-SA-F03-0130	1	mak	00:21:23;
+
+[PrintText]=00:21:23	Sekai	¿No te gusta Hikari?^	00:23:15;
+
+[PlayVoice]=00:21:23	Voice04/04-SA/04-SA-F03/04-SA-F03-0140	0	sek	00:23:15;
+
+[CreateBG]=00:23:15	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-006	00:25:03;
+
+[PrintText]=00:23:19	Makoto	No es así...	00:25:03;
+
+[PlayVoice]=00:23:19	Voice04/04-SA/04-SA-F03/04-SA-F03-0150	1	mak	00:25:03;
+
+[CreateBG]=00:25:03	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-007	00:28:15;
+
+[PrintText]=00:25:12	Sekai	No se llevan bien... ¿no?^	00:28:18;
+
+[PlayVoice]=00:25:12	Voice04/04-SA/04-SA-F03/04-SA-F03-0160	0	sek	00:28:18;
+
+[CreateBG]=00:28:15	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-008	00:33:14;
+
+[PrintText]=00:28:18	Makoto	No es verdad. Es solo que Kuroda siempre está buscando la oportunidad para vengarse de los demás.	00:33:17;
+
+[PlayVoice]=00:28:18	Voice04/04-SA/04-SA-F03/04-SA-F03-0170	1	mak	00:33:17;
+
+[CreateBG]=00:33:14	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-009	00:36:22;
+
+[PrintText]=00:33:18	Sekai	Ahahah... Sí, tal vez.	00:36:07;
+
+[PlayVoice]=00:33:18	Voice04/04-SA/04-SA-F03/04-SA-F03-0180	0	sek	00:36:07;
+
+ ;
+
+[Next]=00:36:22;
+
+

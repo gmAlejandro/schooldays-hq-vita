@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:32:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:38:14;
+
+[PlayMovie]=00:00:00	Movie04/04-SB/04-SB-I02/04-SB-I02-001	0	00:19:01;
+
+[PrintText]=00:00:13	Makoto	... Esto es un poco excitante ¿No?^	00:02:03;
+
+[PlayVoice]=00:00:13	Voice04/04-SB/04-SB-I02/04-SB-I02-0030	1	mak	00:02:03;
+
+[PrintText]=00:02:13	Hikari	Uh-huh...	00:03:08;
+
+[PlayVoice]=00:02:13	Voice04/04-SB/04-SB-I02/04-SB-I02-0040	0	hik	00:03:08;
+
+[PrintText]=00:04:19	Makoto	Ello están tan...	00:06:01;
+
+[PlayVoice]=00:04:19	Voice04/04-SB/04-SB-I02/04-SB-I02-0050	1	mak	00:06:01;
+
+[PrintText]=00:06:20	Kotonoha	¡Ahhh... Ah... Ah... ah...!	00:12:22;
+
+[PlayVoice]=00:06:20	Voice04/04-SB/04-SB-I02/04-SB-I02-0060	0	kot	00:12:22;
+
+[PrintText]=00:12:18	Taisuke	¡Haah... hah... haah...!	00:15:21;
+
+[PlayVoice]=00:12:18	Voice04/04-SB/04-SB-I02/04-SB-I02-0070	1	tai	00:15:21;
+
+[PrintText]=00:17:08	Makoto	...	00:18:19;
+
+[PlayVoice]=00:17:08	Voice04/04-SB/04-SB-I02/04-SB-I02-0100	1	xxx	00:18:19;
+
+[CreateBG]=00:19:01	BGS	Event04/04-SB/04-SB-I02/04-SB-I02-002	00:24:09;
+
+[PrintText]=00:19:07	Makoto	Uwah... ¿En qué estoy pensando?^	00:22:17;
+
+[PlayVoice]=00:19:07	Voice04/04-SB/04-SB-I02/04-SB-I02-0110	1	mak	00:22:17;
+
+[PrintText]=00:23:02	Hikari	¿Eh?^	00:24:00;
+
+[PlayVoice]=00:23:02	Voice04/04-SB/04-SB-I02/04-SB-I02-0120	0	hik	00:24:00;
+
+[PlayMovie]=00:24:09	Movie04/04-SB/04-SB-I02/04-SB-I02-003	0	00:38:14;
+
+[PrintText]=00:24:16	Makoto	Oh... nada.	00:26:22;
+
+[PlayVoice]=00:24:16	Voice04/04-SB/04-SB-I02/04-SB-I02-0130	1	mak	00:26:22;
+
+[PrintText]=00:27:17	Hikari	Uh-huh...	00:28:18;
+
+[PlayVoice]=00:27:17	Voice04/04-SB/04-SB-I02/04-SB-I02-0140	0	hik	00:28:18;
+
+[PrintText]=00:31:08	Makoto	...	00:34:03;
+
+[PlayVoice]=00:31:08	Voice04/04-SB/04-SB-I02/04-SB-I02-0160	1	xxx	00:34:03;
+
+[SetSELECT]=00:32:12	'No puedo ver más'	'Kuroda y yo...'	00:37:12;
+
+ ;
+
+[Next]=00:38:14;
+
+

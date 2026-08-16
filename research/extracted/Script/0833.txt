@@ -1,0 +1,111 @@
+﻿[SkipFRAME]=00:48:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:48:13;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-G00/SE03-SB-G00-001	00:29:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G00/03-SB-G00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-SB/03-SB-G07/03-SB-G07-011	00:07:05;
+
+[PrintText]=00:03:00	Makoto	¡Vale! ¡Dos pedazos de torta y un té negro!	00:05:06;
+
+[PlayVoice]=00:03:00	Voice03/03-SB/03-SB-G00/03-SB-G00-0040	1	mak	00:05:06;
+
+[PrintText]=00:05:06	Hikari	¡Después esto y el otro!	00:07:05;
+
+[PlayVoice]=00:05:06	Voice03/03-SB/03-SB-G00/03-SB-G00-0050	0	hik	00:07:05;
+
+[CreateBG]=00:07:05	BGS	Event03/03-SB/03-SB-G00/03-SB-G00-003	00:13:01;
+
+[PrintText]=00:07:05	Makoto	Veamos... tres tazas de café, pastel de crema, pie de manzana...	00:13:06;
+
+[PlayVoice]=00:07:05	Voice03/03-SB/03-SB-G00/03-SB-G00-0060	1	mak	00:13:06;
+
+[CreateBG]=00:13:01	BGS	Event03/03-SB/03-SB-G00/03-SB-G00-004	00:18:20;
+
+[PrintText]=00:13:06	Hikari	¡Después viene ese y el otro!	00:14:13;
+
+[PlayVoice]=00:13:06	Voice03/03-SB/03-SB-G00/03-SB-G00-0070	0	hik	00:14:13;
+
+[PrintText]=00:14:13	Makoto	¡Ya sé!	00:16:00;
+
+[PlayVoice]=00:14:13	Voice03/03-SB/03-SB-G00/03-SB-G00-0080	1	mak	00:16:00;
+
+[PrintText]=00:16:00	Makoto	Maldición, estoy muy ocupado...	00:18:20;
+
+[PlayVoice]=00:16:00	Voice03/03-SB/03-SB-G00/03-SB-G00-0090	1	mak	00:18:20;
+
+[CreateBG]=00:18:20	BGS	Event03/03-SB/03-SB-G00/03-SB-G00-005	00:35:21;
+
+[PrintText]=00:18:20	Taisuke	Perdón, llegue tarde!	00:20:22;
+
+[PlayVoice]=00:18:20	Voice03/03-SB/03-SB-G00/03-SB-G00-0100	1	tai	00:20:22;
+
+[PrintText]=00:20:22	Makoto	Gracias al cielo... ¿Es hora del cambio?^	00:24:13;
+
+[PlayVoice]=00:20:22	Voice03/03-SB/03-SB-G00/03-SB-G00-0110	1	mak	00:24:13;
+
+[PrintText]=00:24:13	Taisuke	¡Sí. Déjamelo todo a mí!	00:27:08;
+
+[PlayVoice]=00:24:13	Voice03/03-SB/03-SB-G00/03-SB-G00-0120	1	tai	00:27:08;
+
+[PrintText]=00:27:08	Makoto	Hey.	00:28:03;
+
+[PlayVoice]=00:27:08	Voice03/03-SB/03-SB-G00/03-SB-G00-0130	1	mak	00:28:03;
+
+[PrintText]=00:28:03	Taisuke	¿Qué?^	00:28:22;
+
+[PlayVoice]=00:28:03	Voice03/03-SB/03-SB-G00/03-SB-G00-0140	1	tai	00:28:22;
+
+[PrintText]=00:28:22	Makoto	¿A dónde fuiste?^	00:31:03;
+
+[PlayVoice]=00:28:22	Voice03/03-SB/03-SB-G00/03-SB-G00-0150	1	mak	00:31:03;
+
+[PlaySe]=00:29:02	2	Se03/03-SB/03-SB-G00/SE03-SB-G00-001	00:48:13;
+
+[PrintText]=00:31:03	Taisuke	Oh, Fui al gimnasio... y a ver una película.	00:35:22;
+
+[PlayVoice]=00:31:03	Voice03/03-SB/03-SB-G00/03-SB-G00-0160	1	tai	00:35:22;
+
+[CreateBG]=00:35:21	BGS	Event03/03-SB/03-SB-G00/03-SB-G00-006	00:37:03;
+
+[PrintText]=00:35:22	Makoto	¿En serio, tú?^	00:37:03;
+
+[PlayVoice]=00:35:22	Voice03/03-SB/03-SB-G00/03-SB-G00-0170	1	mak	00:37:03;
+
+[CreateBG]=00:37:03	BGS	Event03/03-SB/03-SB-G00/03-SB-G00-007	00:39:19;
+
+[PrintText]=00:37:03	Taisuke	Cállate. Solo déjalo.	00:38:14;
+
+[PlayVoice]=00:37:03	Voice03/03-SB/03-SB-G00/03-SB-G00-0180	1	tai	00:38:14;
+
+[PrintText]=00:38:14	Makoto	Ya veo...	00:39:19;
+
+[PlayVoice]=00:38:14	Voice03/03-SB/03-SB-G00/03-SB-G00-0190	1	mak	00:39:19;
+
+[CreateBG]=00:39:19	BGS	Event03/03-SB/03-SB-G00/03-SB-G00-008	00:43:14;
+
+[PrintText]=00:39:20	Taisuke	¿Qué pasa con esa mirada de compasión?^	00:42:13;
+
+[PlayVoice]=00:39:20	Voice03/03-SB/03-SB-G00/03-SB-G00-0200	1	tai	00:42:13;
+
+[PrintText]=00:42:12	Makoto	Nada.	00:43:13;
+
+[PlayVoice]=00:42:12	Voice03/03-SB/03-SB-G00/03-SB-G00-0210	1	mak	00:43:13;
+
+[PrintText]=00:43:13	Taisuke	¿Qué hay de ti entonces?^	00:46:00;
+
+[PlayVoice]=00:43:13	Voice03/03-SB/03-SB-G00/03-SB-G00-0220	1	tai	00:46:00;
+
+[CreateBG]=00:43:14	BGS	Event03/03-SB/03-SB-G00/03-SB-G00-009	00:48:13;
+
+[PrintText]=00:46:00	Makoto	¿Yo? Pues...	00:48:13;
+
+[PlayVoice]=00:46:00	Voice03/03-SB/03-SB-G00/03-SB-G00-0230	1	mak	00:48:13;
+
+ ;
+
+[Next]=00:48:13;
+
+

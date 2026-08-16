@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:28:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:34:07;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C10/SE03-KA-C10-001	00:34:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C10/03-KA-C10-001	00:04:07;
+
+[PrintText]=00:00:00	Makoto	Bueno, creo que es lo mejor que podemos hacer.	00:03:11;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-C10/03-KA-C10-0030	1	mak	00:03:11;
+
+[PrintText]=00:03:11	Setsuna	Uh-huh.	00:04:02;
+
+[PlayVoice]=00:03:11	Voice03/03-KA/03-KA-C10/03-KA-C10-0040	0	set	00:04:02;
+
+[CreateBG]=00:04:07	BGS	Event03/03-KA/03-KA-C10/03-KA-C10-002	00:07:03;
+
+[PrintText]=00:04:12	Makoto	Ahora ¿Deberíamos comer?^	00:06:06;
+
+[PlayVoice]=00:04:12	Voice03/03-KA/03-KA-C10/03-KA-C10-0050	1	mak	00:06:06;
+
+[PrintText]=00:06:07	Setsuna	...	00:06:22;
+
+[PlayVoice]=00:06:07	Voice03/03-KA/03-KA-C10/03-KA-C10-0060	0	xxx	00:06:22;
+
+[CreateBG]=00:07:03	BGS	Event03/03-KA/03-KA-C10/03-KA-C10-003	00:09:19;
+
+[PrintText]=00:07:23	Makoto	¿Seguirás esperando?^	00:09:14;
+
+[PlayVoice]=00:07:23	Voice03/03-KA/03-KA-C10/03-KA-C10-0070	1	mak	00:09:14;
+
+[CreateBG]=00:09:19	BGS	Event03/03-KA/03-KA-C10/03-KA-C10-004	00:15:09;
+
+[PrintText]=00:09:21	Setsuna	...Puedes empezar a comer primero.	00:11:11;
+
+[PlayVoice]=00:09:21	Voice03/03-KA/03-KA-C10/03-KA-C10-0080	0	set	00:11:11;
+
+[PrintText]=00:11:13	Makoto	Bueno, si lo pones de esa manera, esperaré también.	00:15:04;
+
+[PlayVoice]=00:11:13	Voice03/03-KA/03-KA-C10/03-KA-C10-0090	1	mak	00:15:04;
+
+[CreateBG]=00:15:09	BGS	Event03/03-KA/03-KA-C10/03-KA-C10-005	00:19:06;
+
+[PrintText]=00:16:02	Setsuna	...	00:18:15;
+
+[PlayVoice]=00:16:02	Voice03/03-KA/03-KA-C10/03-KA-C10-0100	0	xxx	00:18:15;
+
+[CreateBG]=00:19:06	BGS	Event03/03-KA/03-KA-C10/03-KA-C10-006	00:21:13;
+
+[CreateBG]=00:21:13	BGS	Event03/03-KA/03-KA-C10/03-KA-C10-007A	00:24:11;
+
+[PrintText]=00:21:16	Makoto	Me pregunto a dónde se a ido.	00:23:11;
+
+[PlayVoice]=00:21:16	Voice03/03-KA/03-KA-C10/03-KA-C10-0120	1	mak	00:23:11;
+
+[PrintText]=00:23:15	Setsuna	Entonces, tú tampoco sabes.	00:25:11;
+
+[PlayVoice]=00:23:15	Voice03/03-KA/03-KA-C10/03-KA-C10-0130	0	set	00:25:11;
+
+[CreateBG]=00:24:11	BGS	Event03/03-KA/03-KA-C10/03-KA-C10-007B	00:34:07;
+
+[PrintText]=00:25:22	Makoto	Yo...	00:27:13;
+
+[PlayVoice]=00:25:22	Voice03/03-KA/03-KA-C10/03-KA-C10-0140	1	mak	00:27:13;
+
+[SetSELECT]=00:28:06	*Lo sé*	*No tengo idea*	00:33:07;
+
+ ;
+
+[Next]=00:34:07;
+
+

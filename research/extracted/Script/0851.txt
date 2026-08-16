@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:38:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:38:02;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H08/SE03-SB-H08-001	00:38:02;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-001	00:01:14;
+
+[PrintText]=00:00:00	Makoto	¿A dónde deberíamos ir?^	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-H08/03-SB-H08-0040	1	mak	00:01:13;
+
+[PrintText]=00:01:13	Kotonoha	Pues...	00:03:13;
+
+[PlayVoice]=00:01:13	Voice03/03-SB/03-SB-H08/03-SB-H08-0050	0	kot	00:03:13;
+
+[CreateBG]=00:01:14	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-002	00:06:06;
+
+[PrintText]=00:03:13	Makoto	¿Hay algún lugar a donde quisieras ir?^	00:06:06;
+
+[PlayVoice]=00:03:13	Voice03/03-SB/03-SB-H08/03-SB-H08-0060	1	mak	00:06:06;
+
+[CreateBG]=00:06:06	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-003	00:07:15;
+
+[PrintText]=00:06:06	Kotonoha	¿Yo?^	00:07:15;
+
+[PlayVoice]=00:06:06	Voice03/03-SB/03-SB-H08/03-SB-H08-0070	0	kot	00:07:15;
+
+[CreateBG]=00:07:15	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-004	00:15:09;
+
+[PrintText]=00:07:15	Makoto	Sí. Estuvimos en mi salón, a dónde quisieras ir. Es tu turno ¿No?^	00:15:11;
+
+[PlayVoice]=00:07:15	Voice03/03-SB/03-SB-H08/03-SB-H08-0080	1	mak	00:15:11;
+
+[CreateBG]=00:15:09	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-005	00:17:19;
+
+[PrintText]=00:15:11	Kotonoha	Bien, entonces...	00:16:14;
+
+[PlayVoice]=00:15:11	Voice03/03-SB/03-SB-H08/03-SB-H08-0090	0	kot	00:16:14;
+
+[PrintText]=00:16:14	Makoto	¿Tienes un lugar en mente?^	00:17:20;
+
+[PlayVoice]=00:16:14	Voice03/03-SB/03-SB-H08/03-SB-H08-0100	1	mak	00:17:20;
+
+[CreateBG]=00:17:19	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-006	00:22:14;
+
+[PrintText]=00:17:20	Kotonoha	Um, el salón de ahí...	00:21:09;
+
+[PlayVoice]=00:17:20	Voice03/03-SB/03-SB-H08/03-SB-H08-0110	0	kot	00:21:09;
+
+[PrintText]=00:21:09	Makoto	Oh, ¿La fortuna?^	00:22:15;
+
+[PlayVoice]=00:21:09	Voice03/03-SB/03-SB-H08/03-SB-H08-0120	1	mak	00:22:15;
+
+[PrintText]=00:22:14	Kotonoha	Sí.	00:23:15;
+
+[PlayVoice]=00:22:14	Voice03/03-SB/03-SB-H08/03-SB-H08-0130	0	kot	00:23:15;
+
+[CreateBG]=00:22:15	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-007	00:23:15;
+
+[CreateBG]=00:23:15	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-008	00:29:09;
+
+[PrintText]=00:23:15	Makoto	Bueno, eres UNA chica después todo. Hay algo de bueno en lo que la fortuna te dice ¿No?^	00:29:08;
+
+[PlayVoice]=00:23:15	Voice03/03-SB/03-SB-H08/03-SB-H08-0140	1	mak	00:29:08;
+
+[PrintText]=00:29:08	Kotonoha	Eheheh... ¿En serio? En realidad, a mi me gusta lo que dice la fortuna.	00:34:19;
+
+[PlayVoice]=00:29:08	Voice03/03-SB/03-SB-H08/03-SB-H08-0150	0	kot	00:34:19;
+
+[CreateBG]=00:29:09	BGS	Event03/03-SB/03-SB-H08/03-SB-H08-009	00:38:02;
+
+[PrintText]=00:34:19	Makoto	Bien, entonces vamos.	00:37:00;
+
+[PlayVoice]=00:34:19	Voice03/03-SB/03-SB-H08/03-SB-H08-0160	1	mak	00:37:00;
+
+[PrintText]=00:37:00	Kotonoha	¡Sí!	00:37:23;
+
+[PlayVoice]=00:37:00	Voice03/03-SB/03-SB-H08/03-SB-H08-0170	0	kot	00:37:23;
+
+ ;
+
+[Next]=00:38:02;
+
+

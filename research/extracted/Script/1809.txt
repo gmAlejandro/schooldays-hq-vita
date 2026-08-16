@@ -1,0 +1,234 @@
+﻿[SkipFRAME]=02:58:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	02:58:13;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-001	00:01:08;
+
+[PrintText]=00:00:21	Makoto	...	00:04:06;
+
+[PlayVoice]=00:00:21	Voice05/05-KF/05-KF-B00/05-KF-B00-0040	1	xxx	00:04:06;
+
+[CreateBG]=00:01:08	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-002	00:03:14;
+
+[WhiteFade]=00:03:02	OUT	00:03:14;
+
+[CreateBG]=00:03:14	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-003	00:05:06;
+
+[WhiteFade]=00:03:14	IN	00:04:02;
+
+[CreateBG]=00:05:06	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-004	00:06:23;
+
+[WhiteFade]=00:06:11	OUT	00:06:23;
+
+[CreateBG]=00:06:23	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-005	00:17:04;
+
+[WhiteFade]=00:06:23	IN	00:07:11;
+
+[PlaySe]=00:07:07	1	SysSe/SE_all/keitai/tyakusin_makoto	00:09:20;
+
+[PlaySe]=00:09:20	2	SysSe/SE_all/keitai/keitai_sousa	00:09:22;
+
+[PrintText]=00:10:10	Taisuke	¿Bueno?^	00:11:12;
+
+[PlayVoice]=00:10:10	Voice05/05-KF/05-KF-B00/05-KF-B00-0070	1	tai	00:11:12;
+
+[PrintText]=00:11:12	Makoto	...Sí.	00:13:09;
+
+[PlayVoice]=00:11:12	Voice05/05-KF/05-KF-B00/05-KF-B00-0080	1	mak	00:13:09;
+
+[PrintText]=00:13:09	Taisuke	Y... ¿Cómo fue?^	00:15:06;
+
+[PlayVoice]=00:13:09	Voice05/05-KF/05-KF-B00/05-KF-B00-0090	1	tai	00:15:06;
+
+[PrintText]=00:15:06	Makoto	¿Te refieres al regalo?^	00:17:11;
+
+[PlayVoice]=00:15:06	Voice05/05-KF/05-KF-B00/05-KF-B00-0100	1	mak	00:17:11;
+
+[CreateBG]=00:17:04	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-006	00:53:01;
+
+[PrintText]=00:17:11	Taisuke	¿Sekai te dijo que lo quería?^	00:19:20;
+
+[PlayVoice]=00:17:11	Voice05/05-KF/05-KF-B00/05-KF-B00-0110	1	tai	00:19:20;
+
+[PrintText]=00:19:20	Makoto	No... tal vez estaba equivocado. No le gustó nada de lo que vio.	00:27:13;
+
+[PlayVoice]=00:19:20	Voice05/05-KF/05-KF-B00/05-KF-B00-0120	1	mak	00:27:13;
+
+[PrintText]=00:27:13	Taisuke	Ya veo...	00:29:05;
+
+[PlayVoice]=00:27:13	Voice05/05-KF/05-KF-B00/05-KF-B00-0130	1	tai	00:29:05;
+
+[PrintText]=00:29:05	Makoto	Perdón.	00:30:16;
+
+[PlayVoice]=00:29:05	Voice05/05-KF/05-KF-B00/05-KF-B00-0140	1	mak	00:30:16;
+
+[PrintText]=00:30:16	Taisuke	No, está bien. Viste lo mal que estaba hoy ¿No? Creo que no está de buen humor.	00:40:02;
+
+[PlayVoice]=00:30:16	Voice05/05-KF/05-KF-B00/05-KF-B00-0150	1	tai	00:40:02;
+
+[PrintText]=00:40:02	Makoto	Cierto...	00:42:06;
+
+[PlayVoice]=00:40:02	Voice05/05-KF/05-KF-B00/05-KF-B00-0160	1	mak	00:42:06;
+
+[PrintText]=00:42:05	Taisuke	Me gustaría hacer algo por ella...	00:45:07;
+
+[PlayVoice]=00:42:05	Voice05/05-KF/05-KF-B00/05-KF-B00-0170	1	tai	00:45:07;
+
+[PrintText]=00:45:07	Taisuke	pero no quiero regalarle algo a la fuerza, incluso le he preguntado discretamente...	00:51:16;
+
+[PlayVoice]=00:45:07	Voice05/05-KF/05-KF-B00/05-KF-B00-0171	1	tai	00:51:16;
+
+[PrintText]=00:51:16	Makoto	Uh-huh.	00:53:06;
+
+[PlayVoice]=00:51:16	Voice05/05-KF/05-KF-B00/05-KF-B00-0180	1	mak	00:53:06;
+
+[CreateBG]=00:53:01	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-007	01:27:21;
+
+[PrintText]=00:53:06	Taisuke	Pero no importa lo que haga, todo lo recibo es una respuesta a medias. Ya no sé que hacer.	00:59:10;
+
+[PlayVoice]=00:53:06	Voice05/05-KF/05-KF-B00/05-KF-B00-0190	1	tai	00:59:10;
+
+[PrintText]=00:59:10	Makoto	...	01:01:18;
+
+[PlayVoice]=00:59:10	Voice05/05-KF/05-KF-B00/05-KF-B00-0200	1	xxx	01:01:18;
+
+[PrintText]=01:01:18	Taisuke	Ya sé, no debería desquitarme contigo. Eres el único amigo en quien puedo confiar, y también eres muy cercano a ella.	01:11:17;
+
+[PlayVoice]=01:01:18	Voice05/05-KF/05-KF-B00/05-KF-B00-0210	1	tai	01:11:17;
+
+[PrintText]=01:11:17	Makoto	Sí...	01:13:04;
+
+[PlayVoice]=01:11:17	Voice05/05-KF/05-KF-B00/05-KF-B00-0220	1	mak	01:13:04;
+
+[PrintText]=01:13:04	Taisuke	Sabes, a veces pienso que eres mejor partido para ella que yo...	01:20:09;
+
+[PlayVoice]=01:13:04	Voice05/05-KF/05-KF-B00/05-KF-B00-0230	1	tai	01:20:09;
+
+[PrintText]=01:20:09	Makoto	...	01:22:08;
+
+[PlayVoice]=01:20:09	Voice05/05-KF/05-KF-B00/05-KF-B00-0240	1	xxx	01:22:08;
+
+[PrintText]=01:22:08	Taisuke	Bueno, no es como si eso pasaría.	01:26:05;
+
+[PlayVoice]=01:22:08	Voice05/05-KF/05-KF-B00/05-KF-B00-0250	1	tai	01:26:05;
+
+[PrintText]=01:26:05	Makoto	¿En serio?^	01:28:01;
+
+[PlayVoice]=01:26:05	Voice05/05-KF/05-KF-B00/05-KF-B00-0260	1	mak	01:28:01;
+
+[CreateBG]=01:27:21	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-006	02:05:16;
+
+[PrintText]=01:28:01	Taisuke	Por supuesto. Estuve todo el tiempo con Katsura-san en la tienda, y puedo decirlo. Ella realmente te ama.	01:36:08;
+
+[PlayVoice]=01:28:01	Voice05/05-KF/05-KF-B00/05-KF-B00-0270	1	tai	01:36:08;
+
+[PrintText]=01:36:08	Taisuke	Era como... no importaba a donde mirabas, ella me preguntaba por lo que te gustaba.	01:42:22;
+
+[PlayVoice]=01:36:08	Voice05/05-KF/05-KF-B00/05-KF-B00-0271	1	tai	01:42:22;
+
+[PrintText]=01:42:22	Makoto	...	01:45:16;
+
+[PlayVoice]=01:42:22	Voice05/05-KF/05-KF-B00/05-KF-B00-0280	1	xxx	01:45:16;
+
+[PrintText]=01:45:16	Taisuke	¿Qué clase de chico pensaría en otra mientras tiene a alguien con él? Hombre... que envidia.	01:53:17;
+
+[PlayVoice]=01:45:16	Voice05/05-KF/05-KF-B00/05-KF-B00-0290	1	tai	01:53:17;
+
+[PrintText]=01:53:17	Makoto	Sí...	01:55:11;
+
+[PlayVoice]=01:53:17	Voice05/05-KF/05-KF-B00/05-KF-B00-0300	1	mak	01:55:11;
+
+[PrintText]=01:55:11	Taisuke	¡Creo que tener novia te hace más confidente, e incluso más popular ¿Huh? Diablos, qué envidia!	02:05:16;
+
+[PlayVoice]=01:55:11	Voice05/05-KF/05-KF-B00/05-KF-B00-0310	1	tai	02:05:16;
+
+[CreateBG]=02:05:16	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-009	02:21:17;
+
+[PrintText]=02:05:16	Makoto	Así no es como...	02:08:09;
+
+[PlayVoice]=02:05:16	Voice05/05-KF/05-KF-B00/05-KF-B00-0320	1	mak	02:08:09;
+
+[PrintText]=02:08:09	Taisuke	Haha... bueno, de igual manera, te envidio.	02:11:07;
+
+[PlayVoice]=02:08:09	Voice05/05-KF/05-KF-B00/05-KF-B00-0330	1	tai	02:11:07;
+
+[PrintText]=02:11:08	Makoto	...	02:14:02;
+
+[PlayVoice]=02:11:08	Voice05/05-KF/05-KF-B00/05-KF-B00-0340	1	xxx	02:14:02;
+
+[PrintText]=02:14:02	Taisuke	Como sea. Gracias por tu ayuda, le preguntaré a mi hermana sobre el regalo y el trabajo que tengo que hacer.	02:19:09;
+
+[PlayVoice]=02:14:02	Voice05/05-KF/05-KF-B00/05-KF-B00-0350	1	tai	02:19:09;
+
+[PrintText]=02:19:09	Makoto	...Taisuke.	02:21:17;
+
+[PlayVoice]=02:19:09	Voice05/05-KF/05-KF-B00/05-KF-B00-0360	1	mak	02:21:17;
+
+[CreateBG]=02:21:17	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-010	02:45:06;
+
+[PrintText]=02:21:17	Taisuke	¿Sí?^	02:22:09;
+
+[PlayVoice]=02:21:17	Voice05/05-KF/05-KF-B00/05-KF-B00-0370	1	tai	02:22:09;
+
+[PrintText]=02:22:09	Makoto	...	02:25:07;
+
+[PlayVoice]=02:22:09	Voice05/05-KF/05-KF-B00/05-KF-B00-0380	1	xxx	02:25:07;
+
+[PrintText]=02:25:07	Taisuke	¿...Makoto?^	02:26:03;
+
+[PlayVoice]=02:25:07	Voice05/05-KF/05-KF-B00/05-KF-B00-0390	1	tai	02:26:03;
+
+[PrintText]=02:26:04	Makoto	...Nada.	02:27:16;
+
+[PlayVoice]=02:26:04	Voice05/05-KF/05-KF-B00/05-KF-B00-0400	1	mak	02:27:16;
+
+[PrintText]=02:27:16	Taisuke	¿Qué pasa?^	02:28:12;
+
+[PlayVoice]=02:27:16	Voice05/05-KF/05-KF-B00/05-KF-B00-0410	1	tai	02:28:12;
+
+[PrintText]=02:28:11	Makoto	...Nada, en serio. Olvidé lo que tenía que decir.	02:34:10;
+
+[PlayVoice]=02:28:11	Voice05/05-KF/05-KF-B00/05-KF-B00-0420	1	mak	02:34:10;
+
+[PrintText]=02:34:10	Taisuke	Haha... Ya estás envejeciendo, Será mejor pedirle a Katsura-san que cuide de ti, porque yo no lo haré.	02:39:04;
+
+[PlayVoice]=02:34:10	Voice05/05-KF/05-KF-B00/05-KF-B00-0430	1	tai	02:39:04;
+
+[PrintText]=02:39:04	Makoto	Sí... tienes razón.	02:42:06;
+
+[PlayVoice]=02:39:04	Voice05/05-KF/05-KF-B00/05-KF-B00-0440	1	mak	02:42:06;
+
+[PrintText]=02:42:06	Taisuke	Bueno, nos vemos después.	02:43:07;
+
+[PlayVoice]=02:42:06	Voice05/05-KF/05-KF-B00/05-KF-B00-0450	1	tai	02:43:07;
+
+[PrintText]=02:43:07	Makoto	Sí.	02:45:04;
+
+[PlayVoice]=02:43:07	Voice05/05-KF/05-KF-B00/05-KF-B00-0460	1	mak	02:45:04;
+
+[CreateBG]=02:45:06	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-011	02:51:04;
+
+[PlaySe]=02:45:12	1	SysSe/SE_all/keitai/keitai_sousa	02:45:14;
+
+[PrintText]=02:45:20	Makoto	...	02:48:23;
+
+[PlayVoice]=02:45:20	Voice05/05-KF/05-KF-B00/05-KF-B00-0480	1	xxx	02:48:23;
+
+[PlaySe]=02:49:05	1	SysSe/SE_all/keitai/mail_makoto	02:50:00;
+
+[CreateBG]=02:51:04	BGS	Ini/Event05/05-KF/05-KF-B00/05-KF-B00-012	02:54:09;
+
+[CreateBG]=02:54:09	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-013	02:58:13;
+
+[PrintText]=02:54:09	Makoto	...	02:56:23;
+
+[PlayVoice]=02:54:09	Voice05/05-KF/05-KF-B00/05-KF-B00-0510	1	xxx	02:56:23;
+
+[BlackFade]=02:57:13	OUT	02:58:13;
+
+ ;
+
+[Next]=02:58:13;
+
+
+

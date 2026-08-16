@@ -1,0 +1,20 @@
+﻿[SkipFRAME]=00:03:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm14	00:03:19;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/footsteps/asioto_out_run	00:03:18;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E10/02-2K-E10-001	00:03:19;
+
+[PrintText]=00:00:00	Makoto	¡Kotonoha!	00:02:13;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-H01/05-KB-H01-0030	1	mak	00:02:13;
+
+ ;
+
+[Next]=00:03:19;
+
+
+
+
+

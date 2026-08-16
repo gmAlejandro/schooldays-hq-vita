@@ -1,0 +1,123 @@
+﻿[SkipFRAME]=00:50:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:50:22;
+
+[PlaySe]=00:00:00	1	Voice01/01-1K/01-1K-A00/01-1K-A00-0030	00:02:20;
+
+[PlaySe]=00:00:00	2	Se01/01-1K/01-1K-A00/SE01-1K-A00-001	00:50:22;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-001	00:07:01;
+
+[PrintText]=00:02:20	Sekai	¿Y lo arreglaste?^	00:04:08;
+
+[PlayVoice]=00:02:20	Voice01/01-1K/01-1K-A00/01-1K-A00-0040	0	sek	00:04:08;
+
+[PrintText]=00:04:09	Makoto	¿Hmn?^	00:04:23;
+
+[PlayVoice]=00:04:09	Voice01/01-1K/01-1K-A00/01-1K-A00-0050	1	mak	00:04:23;
+
+[PrintText]=00:04:23	Sekai	con Katsura-san.	00:06:07;
+
+[PlayVoice]=00:04:23	Voice01/01-1K/01-1K-A00/01-1K-A00-0060	0	sek	00:06:07;
+
+[PrintText]=00:06:08	Makoto	Ajám.	00:07:00;
+
+[PlayVoice]=00:06:08	Voice01/01-1K/01-1K-A00/01-1K-A00-0070	1	mak	00:07:00;
+
+[CreateBG]=00:07:01	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-002	00:09:15;
+
+[PrintText]=00:07:01	Sekai	Que bueno escucharlo.	00:08:02;
+
+[PlayVoice]=00:07:01	Voice01/01-1K/01-1K-A00/01-1K-A00-0080	0	sek	00:08:02;
+
+[PrintText]=00:08:01	Makoto	Todo gracias a ti, Sekai.	00:09:15;
+
+[PlayVoice]=00:08:01	Voice01/01-1K/01-1K-A00/01-1K-A00-0090	1	mak	00:09:15;
+
+[CreateBG]=00:09:15	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-003	00:11:20;
+
+[PrintText]=00:09:15	Sekai	Yo no hice nada.	00:11:20;
+
+[PlayVoice]=00:09:15	Voice01/01-1K/01-1K-A00/01-1K-A00-0100	0	sek	00:11:20;
+
+[CreateBG]=00:11:20	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-004	00:19:13;
+
+[PrintText]=00:11:20	Makoto	Nosotros estuvimos en toda clase de problemas...pero gracias a ti, Kotonoha y yo entendemos como nos sentimos.	00:19:12;
+
+[PlayVoice]=00:11:20	Voice01/01-1K/01-1K-A00/01-1K-A00-0110	1	mak	00:19:12;
+
+[CreateBG]=00:19:13	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-005	00:25:01;
+
+[PrintText]=00:19:13	Sekai	Ah, 'Kotonoha'. Ahora la llamas por su nombre. ¡Qué sinvergüenza!	00:25:08;
+
+[PlayVoice]=00:19:13	Voice01/01-1K/01-1K-A00/01-1K-A00-0120	0	sek	00:25:08;
+
+[CreateBG]=00:25:01	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-006	00:33:14;
+
+[PrintText]=00:25:01	Makoto	Que no soy sinvergüenza.	00:26:10;
+
+[PlayVoice]=00:25:01	Voice01/01-1K/01-1K-A00/01-1K-A00-0130	1	mak	00:26:10;
+
+[PrintText]=00:26:02	Sekai	¡Indecente!	00:29:03;
+
+[PlayVoice]=00:26:02	Voice01/01-1K/01-1K-A00/01-1K-A00-0140	0	sek	00:29:03;
+
+[PrintText]=00:28:18	Makoto	B-Bueno, tú también me llamas por mi primer nombre ¿No?^	00:33:12;
+
+[PlayVoice]=00:28:18	Voice01/01-1K/01-1K-A00/01-1K-A00-0150	1	mak	00:33:12;
+
+[PrintText]=00:33:10	Sekai	Está bien para mí hacerlo.	00:35:00;
+
+[PlayVoice]=00:33:10	Voice01/01-1K/01-1K-A00/01-1K-A00-0160	0	sek	00:35:00;
+
+[CreateBG]=00:33:14	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-007	00:35:22;
+
+[PrintText]=00:34:18	Makoto	¿Y eso qué diferencia tiene?^	00:36:02;
+
+[PlayVoice]=00:34:18	Voice01/01-1K/01-1K-A00/01-1K-A00-0170	1	mak	00:36:02;
+
+[CreateBG]=00:35:22	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-008	00:38:02;
+
+[PrintText]=00:35:22	Sekai	Bueno, como sea, me alegro por ti.	00:38:04;
+
+[PlayVoice]=00:35:22	Voice01/01-1K/01-1K-A00/01-1K-A00-0180	0	sek	00:38:04;
+
+[CreateBG]=00:38:02	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-009	00:43:01;
+
+[PrintText]=00:38:02	Makoto	...Gracias.	00:40:04;
+
+[PlayVoice]=00:38:02	Voice01/01-1K/01-1K-A00/01-1K-A00-0190	1	mak	00:40:04;
+
+[PrintText]=00:40:05	Sekai	Fufuh... mejor que me agradezcas. Oh, claro.	00:44:06;
+
+[PlayVoice]=00:40:05	Voice01/01-1K/01-1K-A00/01-1K-A00-0200	0	sek	00:44:06;
+
+[CreateBG]=00:43:01	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-010	00:44:06;
+
+[CreateBG]=00:44:06	BGS	Event01/01-1K/01-1K-A00/01-1K-A00-011	00:50:22;
+
+[PrintText]=00:44:06	Makoto	¿Hmn?^	00:44:20;
+
+[PlayVoice]=00:44:06	Voice01/01-1K/01-1K-A00/01-1K-A00-0210	1	mak	00:44:20;
+
+[PrintText]=00:44:16	Sekai	Aquí hay un regalo para los dos.	00:48:09;
+
+[PlayVoice]=00:44:16	Voice01/01-1K/01-1K-A00/01-1K-A00-0220	0	sek	00:48:09;
+
+[PrintText]=00:48:05	Makoto	¿Regalo?^	00:49:12;
+
+[PlayVoice]=00:48:05	Voice01/01-1K/01-1K-A00/01-1K-A00-0230	1	mak	00:49:12;
+
+[PrintText]=00:49:08	Sekai	¡Sip!	00:49:21;
+
+[PlayVoice]=00:49:08	Voice01/01-1K/01-1K-A00/01-1K-A00-0240	0	sek	00:49:21;
+
+[BlackFade]=00:49:22	OUT	00:50:22;
+
+ ;
+
+[Next]=00:50:22;
+
+
+
+

@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:19:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17_semilong	00:19:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-9H/05-9H-A01/05-9H-A01-001	00:11:03;
+
+[PrintText]=00:00:00	Madre de Makoto	Hola, Sekai-chan ¿Quién es esa chica contigo?^	00:05:10;
+
+[PlayVoice]=00:00:00	Voice05/05-9H/05-9H-A01/05-9H-A01-0020	0	mkm	00:05:10;
+
+[PrintText]=00:05:05	Sekai	Oh, cierto. Ella es Setsuna. Somos amigas desde...	00:11:00;
+
+[PlayVoice]=00:05:05	Voice05/05-9H/05-9H-A01/05-9H-A01-0030	0	sek	00:11:00;
+
+[PlayMovie]=00:11:03	Movie05/05-9H/05-9H-A01/05-9H-A01-002	0	00:15:00;
+
+[PrintText]=00:11:05	Setsuna	Soy la esposa.	00:12:08;
+
+[PlayVoice]=00:11:05	Voice05/05-9H/05-9H-A01/05-9H-A01-0040	0	set	00:12:08;
+
+[PlaySe]=00:15:00	1	Se05/05-9H/05-9H-A01/SE05-9H-A01-002	00:19:18;
+
+[CreateBG]=00:15:00	BGS	System/Screen/Black	00:19:22;
+
+ ;
+
+[Next]=00:19:22;
+
+

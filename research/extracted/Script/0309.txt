@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:32:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:32:09;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-H04/SE02-2S-H04-001	00:32:09;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-H04/02-2S-H04-001	00:02:16;
+
+[PrintText]=00:00:00	Makoto	La limonada está deliciosa.	00:02:15;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-H04/02-2S-H04-0030	1	mak	00:02:15;
+
+[CreateBG]=00:02:16	BGS	Event02/02-2S/02-2S-H04/02-2S-H04-001B	00:04:13;
+
+[PrintText]=00:02:16	Kotonoha	¡¿...En serio?!	00:04:12;
+
+[PlayVoice]=00:02:16	Voice02/02-2S/02-2S-H04/02-2S-H04-0060	0	kot	00:04:12;
+
+[PrintText]=00:04:12	Makoto	Está dulce y caliente... perfecto para esta temporada del año.	00:10:04;
+
+[PlayVoice]=00:04:12	Voice02/02-2S/02-2S-H04/02-2S-H04-0070	1	mak	00:10:04;
+
+[CreateBG]=00:04:13	BGS	Event02/02-2S/02-2S-H04/02-2S-H04-002	00:16:21;
+
+[PrintText]=00:10:05	Kotonoha	Eheheh... Aprendí la receta de mi mamá.	00:15:05;
+
+[PlayVoice]=00:10:05	Voice02/02-2S/02-2S-H04/02-2S-H04-0080	0	kot	00:15:05;
+
+[PrintText]=00:15:06	Makoto	¿En serio?^	00:16:13;
+
+[PlayVoice]=00:15:06	Voice02/02-2S/02-2S-H04/02-2S-H04-0090	1	mak	00:16:13;
+
+[CreateBG]=00:16:21	BGS	Event02/02-2S/02-2S-H04/02-2S-H04-003	00:24:00;
+
+[PrintText]=00:16:21	Kotonoha	Ella dijo que el sabor le hacía recordar a cuando salia con mi padre.	00:23:20;
+
+[PlayVoice]=00:16:21	Voice02/02-2S/02-2S-H04/02-2S-H04-0100	0	kot	00:23:20;
+
+[CreateBG]=00:24:00	BGS	Event02/02-2S/02-2S-H04/02-2S-H04-004	00:29:16;
+
+[PrintText]=00:24:05	Makoto	Haha... Ya veo.	00:28:12;
+
+[PlayVoice]=00:24:05	Voice02/02-2S/02-2S-H04/02-2S-H04-0120	1	mak	00:28:12;
+
+[PrintText]=00:28:18	Kotonoha	Sí.	00:29:13;
+
+[PlayVoice]=00:28:18	Voice02/02-2S/02-2S-H04/02-2S-H04-0130	0	kot	00:29:13;
+
+[CreateBG]=00:29:16	BGS	Event02/02-2S/02-2S-H04/02-2S-H04-005	00:32:09;
+
+[PrintText]=00:30:19	Sekai	...	00:31:13;
+
+[PlayVoice]=00:30:19	Voice02/02-2S/02-2S-H04/02-2S-H04-0140	0	xxx	00:31:13;
+
+ ;
+
+[Next]=00:32:09;
+
+
+
+

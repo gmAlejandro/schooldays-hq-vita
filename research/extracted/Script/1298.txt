@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:11:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:11:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/h/h_02	00:03:23;
+
+[PlayMovie]=00:00:00	Movie05/05-5H/05-5H-C06/05-5H-C06-001	0	00:05:14;
+
+[PrintText]=00:00:00	Makoto	¡Nn..!	00:10:20;
+
+[PlayVoice]=00:00:00	Voice05/05-5H/05-5H-C06/05-5H-C06-0030	1	mak	00:10:20;
+
+[MoveSom]=00:00:00	5	00:05:14;
+
+[PrintText]=00:00:16	Hikari	Ah...	00:03:21;
+
+[PlayVoice]=00:00:16	Voice05/05-5H/05-5H-C06/05-5H-C06-0040	0	hik	00:03:21;
+
+[PlayMovie]=00:05:14	Movie05/05-5H/05-5H-C06/H5-5H-C06-002	0	00:11:01;
+
+[PrintText]=00:06:16	Hikari	Nn...	00:08:08;
+
+[PlayVoice]=00:06:16	Voice05/05-5H/05-5H-C06/05-5H-C06-0060	0	hik	00:08:08;
+
+[WhiteFade]=00:10:01	OUT	00:11:01;
+
+ ;
+
+[Next]=00:11:01;
+
+

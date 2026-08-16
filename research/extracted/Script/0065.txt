@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:14:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:20:20;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H03/SE01-00-H03-001	00:20:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H03/01-00-H03-001	00:07:19;
+
+[PrintText]=00:00:06	Sekai	¿Qué pasa? ¿En qué andas pensando tanto?^	00:03:08;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-H03/01-00-H03-0030	0	sek	00:03:08;
+
+[PrintText]=00:03:11	Makoto	Ah... no, solo estaba haciendo espacio.	00:07:23;
+
+[PlayVoice]=00:03:11	Voice01/01-00/01-00-H03/01-00-H03-0040	1	mak	00:07:23;
+
+[CreateBG]=00:07:19	BGS	Event01/01-00/01-00-H03/01-00-H03-002	00:10:16;
+
+[PrintText]=00:07:19	Sekai	¿De qué estás hablando?^	00:09:12;
+
+[PlayVoice]=00:07:19	Voice01/01-00/01-00-H03/01-00-H03-0050	0	sek	00:09:12;
+
+[PrintText]=00:09:02	Makoto	C-Cállate.	00:10:20;
+
+[PlayVoice]=00:09:02	Voice01/01-00/01-00-H03/01-00-H03-0060	1	mak	00:10:20;
+
+[CreateBG]=00:10:16	BGS	Event01/01-00/01-00-H03/01-00-H03-003	00:20:20;
+
+[PrintText]=00:10:16	Sekai	¿No estarás pensando en lo que dije, que no se llevan bien?^	00:15:05;
+
+[PlayVoice]=00:10:16	Voice01/01-00/01-00-H03/01-00-H03-0070	0	sek	00:15:05;
+
+[SetSELECT]=00:14:20	'Por supuesto que no!'	null	00:19:20;
+
+ ;
+
+[Next]=00:20:20;
+
+
+
+

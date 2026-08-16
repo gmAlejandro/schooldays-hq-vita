@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:15:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:21:16;
+
+[PlaySe]=00:00:00	1	Se03/03-A0/03-A0-A04/SE03-A0-A04-001	00:21:16;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J04/02-2K-J04-001	0	00:21:16;
+
+[PrintText]=00:00:00	Makoto	Tengo que ver la forma de...	00:01:12;
+
+[PlayVoice]=00:00:00	Voice03/03-A0/03-A0-A04/03-A0-A04-0040	1	xxx	00:01:12;
+
+[PrintText]=00:01:12	Pasajera	¡Ahem!	00:02:06;
+
+[PlayVoice]=00:01:12	Voice03/03-A0/03-A0-A04/03-A0-A04-0060	0	wmc	00:02:06;
+
+[PrintText]=00:02:06	Makoto	¡Di-Disculpe!	00:04:07;
+
+[PlayVoice]=00:02:06	Voice03/03-A0/03-A0-A04/03-A0-A04-0070	1	mak	00:04:07;
+
+[PrintText]=00:04:07	Makoto	Ah...	00:05:02;
+
+[PlayVoice]=00:04:07	Voice03/03-A0/03-A0-A04/03-A0-A04-0090	1	mak	00:05:02;
+
+[PrintText]=00:05:02	Kotonoha	M... Makoto-kun...	00:07:20;
+
+[PlayVoice]=00:05:02	Voice03/03-A0/03-A0-A04/03-A0-A04-0100	0	kot	00:07:20;
+
+[PrintText]=00:07:21	Makoto	¡Pe-Perdóname!	00:09:08;
+
+[PlayVoice]=00:07:21	Voice03/03-A0/03-A0-A04/03-A0-A04-0110	1	mak	00:09:08;
+
+[PrintText]=00:09:09	Kotonoha	Nn... Supongo... Supongo que no se puede evitar... está lleno.	00:14:16;
+
+[PlayVoice]=00:09:09	Voice03/03-A0/03-A0-A04/03-A0-A04-0120	0	kot	00:14:16;
+
+[PrintText]=00:14:16	Makoto	Sí...	00:16:00;
+
+[PlayVoice]=00:14:16	Voice03/03-A0/03-A0-A04/03-A0-A04-0130	1	mak	00:16:00;
+
+[SetSELECT]=00:15:13	'Solo será por un momento...'	null	00:20:13;
+
+ ;
+
+[Next]=00:21:16;
+
+

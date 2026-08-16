@@ -1,0 +1,139 @@
+﻿[SkipFRAME]=00:40:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:40:16;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-M03/SE01-00-M03-001	00:40:16;
+
+[PlaySe]=00:00:00	3	Se01/01-00/01-00-M03/SE01-00-M03-002	00:08:12;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-M03/01-00-M03-001	00:05:14;
+
+[PrintText]=00:00:00	Sekai	No sabré lo que quieres si no lo dices.	00:02:06;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-M03/01-00-M03-0030	0	sek	00:02:06;
+
+[PrintText]=00:02:06	Makoto	Sí... exacto.	00:04:15;
+
+[PlayVoice]=00:02:06	Voice01/01-00/01-00-M03/01-00-M03-0040	1	mak	00:04:15;
+
+[PrintText]=00:04:15	Sekai	...¿Makoto?^	00:05:13;
+
+[PlayVoice]=00:04:15	Voice01/01-00/01-00-M03/01-00-M03-0050	0	sek	00:05:13;
+
+[CreateBG]=00:05:14	BGS	Event01/01-00/01-00-M03/01-00-M03-002	00:11:17;
+
+[PrintText]=00:05:14	Makoto	No lo sabrás si realmente no lo digo, pero no puedo incluirte...	00:10:12;
+
+[PlayVoice]=00:05:14	Voice01/01-00/01-00-M03/01-00-M03-0060	1	mak	00:10:12;
+
+[PrintText]=00:10:12	Sekai	...	00:10:22;
+
+[PlayVoice]=00:10:12	Voice01/01-00/01-00-M03/01-00-M03-0070	0	xxx	00:10:22;
+
+[PrintText]=00:10:23	Makoto	Yo...	00:11:17;
+
+[PlayVoice]=00:10:23	Voice01/01-00/01-00-M03/01-00-M03-0080	1	mak	00:11:17;
+
+[PrintText]=00:11:16	Sekai	No entiendo... ¿Tiene que ver con Katsura-san?^	00:15:08;
+
+[PlayVoice]=00:11:16	Voice01/01-00/01-00-M03/01-00-M03-0090	0	sek	00:15:08;
+
+[CreateBG]=00:11:17	BGS	Event01/01-00/01-00-M03/01-00-M03-003	00:15:09;
+
+[CreateBG]=00:15:09	BGS	Event01/01-00/01-00-M03/01-00-M03-004	00:17:08;
+
+[PrintText]=00:15:09	Makoto	Mmn...	00:16:01;
+
+[PlayVoice]=00:15:09	Voice01/01-00/01-00-M03/01-00-M03-0100	1	mak	00:16:01;
+
+[PrintText]=00:16:01	Sekai	Ya veo...	00:17:07;
+
+[PlayVoice]=00:16:01	Voice01/01-00/01-00-M03/01-00-M03-0110	0	sek	00:17:07;
+
+[PrintText]=00:17:07	Sekai	Escucha ¿Quieres que le pregunte?^	00:20:13;
+
+[PlayVoice]=00:17:07	Voice01/01-00/01-00-M03/01-00-M03-0120	0	sek	00:20:13;
+
+[CreateBG]=00:17:08	BGS	Event01/01-00/01-00-M03/01-00-M03-005	00:22:02;
+
+[PrintText]=00:20:13	Makoto	No.	00:21:06;
+
+[PlayVoice]=00:20:13	Voice01/01-00/01-00-M03/01-00-M03-0130	1	mak	00:21:06;
+
+[PrintText]=00:21:07	Sekai	¿En serio?^	00:22:01;
+
+[PlayVoice]=00:21:07	Voice01/01-00/01-00-M03/01-00-M03-0140	0	sek	00:22:01;
+
+[CreateBG]=00:22:02	BGS	Event01/01-00/01-00-M03/01-00-M03-006	00:23:15;
+
+[PrintText]=00:22:02	Makoto	Yo mismo lo haré.	00:23:14;
+
+[PlayVoice]=00:22:02	Voice01/01-00/01-00-M03/01-00-M03-0150	1	mak	00:23:14;
+
+[PrintText]=00:23:14	Sekai	Correcto.	00:24:14;
+
+[PlayVoice]=00:23:14	Voice01/01-00/01-00-M03/01-00-M03-0160	0	sek	00:24:14;
+
+[CreateBG]=00:23:15	BGS	Event01/01-00/01-00-M03/01-00-M03-007	00:25:09;
+
+[PlaySe]=00:24:03	3	Se00/00-00/00-00-A00/SE00-00-A00-005	00:32:12;
+
+[PrintText]=00:24:15	Makoto	Sekai.	00:25:09;
+
+[PlayVoice]=00:24:15	Voice01/01-00/01-00-M03/01-00-M03-0170	1	mak	00:25:09;
+
+[PrintText]=00:25:08	Sekai	¿Hmn?^	00:25:22;
+
+[PlayVoice]=00:25:08	Voice01/01-00/01-00-M03/01-00-M03-0180	0	sek	00:25:22;
+
+[CreateBG]=00:25:09	BGS	Event01/01-00/01-00-M03/01-00-M03-008	00:25:23;
+
+[CreateBG]=00:25:23	BGS	Event01/01-00/01-00-M03/01-00-M03-009	00:28:01;
+
+[PrintText]=00:25:23	Makoto	Gracias.	00:26:22;
+
+[PlayVoice]=00:25:23	Voice01/01-00/01-00-M03/01-00-M03-0190	1	mak	00:26:22;
+
+[PrintText]=00:26:22	Sekai	No hay de qué.	00:28:01;
+
+[PlayVoice]=00:26:22	Voice01/01-00/01-00-M03/01-00-M03-0200	0	sek	00:28:01;
+
+[PlayMovie]=00:28:01	Movie01/01-00/01-00-M03/01-00-M03-010	0	00:29:09;
+
+[PlayVoice]=00:28:01	Voice01/01-00/01-00-M03/01-00-M03-0210			00:29:09;
+
+[CreateBG]=00:29:09	BGS	Event01/01-00/01-00-M03/01-00-M03-0011	00:32:17;
+
+[PrintText]=00:29:09	Sekai	Bueno, me voy a casa.	00:30:15;
+
+[PlayVoice]=00:29:09	Voice01/01-00/01-00-M03/01-00-M03-0220	0	sek	00:30:15;
+
+[PrintText]=00:30:16	Makoto	Vale, nos vemos mañana.	00:32:16;
+
+[PlayVoice]=00:30:16	Voice01/01-00/01-00-M03/01-00-M03-0230	1	mak	00:32:16;
+
+[PrintText]=00:32:16	Sekai	¡Da tu mejor esfuerzo!	00:33:20;
+
+[PlayVoice]=00:32:16	Voice01/01-00/01-00-M03/01-00-M03-0240	0	sek	00:33:20;
+
+[CreateBG]=00:32:17	BGS	Event01/01-00/01-00-M03/01-00-M03-012	00:33:23;
+
+[CreateBG]=00:33:23	BGS	Event01/01-00/01-00-M03/01-00-M03-013	00:38:04;
+
+[PlaySe]=00:34:09	3	SysSe/SE_all/station_train/train_start	00:40:16;
+
+[CreateBG]=00:38:04	BGS	Event01/01-00/01-00-M03/01-00-M03-014	00:40:16;
+
+[PrintText]=00:38:04	Makoto	Ahí va ella de nuevo...	00:39:10;
+
+[PlayVoice]=00:38:04	Voice01/01-00/01-00-M03/01-00-M03-0260	1	mak	00:39:10;
+
+[BlackFade]=00:39:16	OUT	00:40:16;
+
+ ;
+
+[Next]=00:40:16;
+
+
+
+

@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:14:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:14:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-B0/05-B0-A00/05-B0-A00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-B0/05-B0-A00/05-B0-A00-002	00:14:18;
+
+[PrintText]=00:03:03	Kotonoha	Makoto-kun... Makoto-kun...	00:07:02;
+
+[PlayVoice]=00:03:03	Voice05/05-B0/05-B0-A00/05-B0-A00-0040	0	kot	00:07:02;
+
+[PrintText]=00:07:09	Kotonoha	Makoto-kun... Makoto-kun... Makoto-kun...	00:13:15;
+
+[PlayVoice]=00:07:09	Voice05/05-B0/05-B0-A00/05-B0-A00-0050	0	kot	00:13:15;
+
+[BlackFade]=00:13:18	OUT	00:14:18;
+
+ ;
+
+[Next]=00:14:18;
+
+

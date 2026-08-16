@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:33:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:33:06;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-A00/04-SE-A00-001	00:11:15;
+
+[PrintText]=00:00:00	Makoto	¡Yo solo...!	00:02:22;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-A00/04-SE-A00-0050	1	mak	00:02:22;
+
+[PrintText]=00:02:22	Kotonoha	¿Eh?^	00:03:17;
+
+[PlayVoice]=00:02:22	Voice04/04-SE/04-SE-A00/04-SE-A00-0060	0	kot	00:03:17;
+
+[PrintText]=00:03:17	Makoto	¡Perdóname!	00:04:15;
+
+[PlayVoice]=00:03:17	Voice04/04-SE/04-SE-A00/04-SE-A00-0080	1	mak	00:04:15;
+
+[PrintText]=00:04:15	Kotonoha	¿Eh? ¿M-Makoto-kun?^	00:07:15;
+
+[PlayVoice]=00:04:15	Voice04/04-SE/04-SE-A00/04-SE-A00-0090	0	kot	00:07:15;
+
+[PrintText]=00:07:15	Makoto	Ya no puedo... aguantar más todo lo que siento.	00:11:14;
+
+[PlayVoice]=00:07:15	Voice04/04-SE/04-SE-A00/04-SE-A00-0100	1	mak	00:11:14;
+
+[PrintText]=00:11:13	Kotonoha	¿... Cómo te sientes?^	00:14:15;
+
+[PlayVoice]=00:11:13	Voice04/04-SE/04-SE-A00/04-SE-A00-0110	0	kot	00:14:15;
+
+[CreateBG]=00:11:15	BGS	Event04/04-SE/04-SE-A00/04-SE-A00-002	00:14:16;
+
+[PrintText]=00:14:15	Makoto	Como me siento... y de la persona que amo.	00:19:19;
+
+[PlayVoice]=00:14:15	Voice04/04-SE/04-SE-A00/04-SE-A00-0120	1	mak	00:19:19;
+
+[CreateBG]=00:14:16	BGS	Event04/04-SE/04-SE-A00/04-SE-A00-003	00:19:10;
+
+[CreateBG]=00:19:10	BGS	Event04/04-SE/04-SE-A00/04-SE-A00-004	00:20:11;
+
+[PrintText]=00:19:11	Kotonoha	¿Eh...?^	00:20:07;
+
+[PlayVoice]=00:19:11	Voice04/04-SE/04-SE-A00/04-SE-A00-0130	0	kot	00:20:07;
+
+[PrintText]=00:20:10	Makoto	¡Realmente lo Siento!	00:22:10;
+
+[PlayVoice]=00:20:10	Voice04/04-SE/04-SE-A00/04-SE-A00-0140	1	mak	00:22:10;
+
+[CreateBG]=00:20:11	BGS	Event04/04-SE/04-SE-A00/04-SE-A00-005	00:24:10;
+
+[CreateBG]=00:24:10	BGS	Event04/04-SE/04-SE-A00/04-SE-A00-006	00:33:06;
+
+[PrintText]=00:25:02	Kotonoha	¿La persona... que realmente amas...?^	00:30:17;
+
+[PlayVoice]=00:25:02	Voice04/04-SE/04-SE-A00/04-SE-A00-0170	0	kot	00:30:17;
+
+ ;
+
+[Next]=00:33:06;
+
+

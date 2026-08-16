@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:11:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:11:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-D02/03-KB-D02-001	00:06:16;
+
+[PrintText]=00:00:00	Makoto	¿Quieres un consejo mio?^	00:01:07;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-D02/03-KB-D02-0030	1	mak	00:01:07;
+
+[PrintText]=00:01:07	Taisuke	...Sí.	00:02:21;
+
+[PlayVoice]=00:01:07	Voice03/03-KB/03-KB-D02/03-KB-D02-0040	1	tai	00:02:21;
+
+[PrintText]=00:02:21	Makoto	Dime.	00:04:02;
+
+[PlayVoice]=00:02:21	Voice03/03-KB/03-KB-D02/03-KB-D02-0050	1	mak	00:04:02;
+
+[PrintText]=00:04:03	Taisuke	Bueno, pues...	00:06:01;
+
+[PlayVoice]=00:04:03	Voice03/03-KB/03-KB-D02/03-KB-D02-0060	1	tai	00:06:01;
+
+[PrintText]=00:06:00	Makoto	Sí...	00:06:16;
+
+[PlayVoice]=00:06:00	Voice03/03-KB/03-KB-D02/03-KB-D02-0070	1	mak	00:06:16;
+
+[CreateBG]=00:06:16	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-005	00:10:22;
+
+[PrintText]=00:06:16	Taisuke	Pues, hay una chica en la que estoy interesado...	00:10:21;
+
+[PlayVoice]=00:06:16	Voice03/03-KB/03-KB-D02/03-KB-D02-0080	1	tai	00:10:21;
+
+[CreateBG]=00:10:22	BGS	Event03/03-KB/03-KB-D02/03-KB-D02-003	00:11:14;
+
+[PrintText]=00:10:22	Makoto	¿Oh?^	00:11:14;
+
+[PlayVoice]=00:10:22	Voice03/03-KB/03-KB-D02/03-KB-D02-0090	1	mak	00:11:14;
+
+ ;
+
+[Next]=00:11:14;
+
+

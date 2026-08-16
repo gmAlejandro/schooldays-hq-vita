@@ -1,0 +1,337 @@
+﻿[SkipFRAME]=04:00:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	02:17:03;
+
+[PlaySe]=00:00:00	3	Se00/00-00/00-00-L00/SE00-00-L00-001	01:40:00;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-L00/00-00-L00-001	0	00:02:23;
+
+[PlaySe]=00:02:23	1	Se00/00-00/00-00-L00/SE00-00-L00-002	00:04:17;
+
+[PlayMovie]=00:02:23	Movie00/00-00/00-00-L00/00-00-L00-002	0	00:06:16;
+
+[PrintText]=00:03:04	Sekai	Hey.	00:04:00;
+
+[PlayVoice]=00:03:04	Voice00/00-00/00-00-L00/00-00-L00-0050	0	sek	00:04:00;
+
+[PrintText]=00:03:23	Makoto	Hey.	00:04:17;
+
+[PlayVoice]=00:03:23	Voice00/00-00/00-00-L00/00-00-L00-0060	1	mak	00:04:17;
+
+[PrintText]=00:04:23	Sekai	¿Esperando a Katsura-san?^	00:06:20;
+
+[PlayVoice]=00:04:23	Voice00/00-00/00-00-L00/00-00-L00-0070	0	sek	00:06:20;
+
+[CreateBG]=00:06:16	BGS	Event00/00-00/00-00-L00/00-00-L00-003	00:08:05;
+
+[PrintText]=00:06:18	Makoto	Sí...	00:07:07;
+
+[PlayVoice]=00:06:18	Voice00/00-00/00-00-L00/00-00-L00-0080	1	mak	00:07:07;
+
+[PrintText]=00:07:05	Sekai	Heheh... No te apresures y hagas otras cosas.	00:11:06;
+
+[PlayVoice]=00:07:05	Voice00/00-00/00-00-L00/00-00-L00-0090	0	sek	00:11:06;
+
+[CreateBG]=00:08:05	BGS	Event00/00-00/00-00-L00/00-00-L00-004	00:10:23;
+
+[PrintText]=00:10:21	Makoto	¡Igual lo haría!	00:12:00;
+
+[PlayVoice]=00:10:21	Voice00/00-00/00-00-L00/00-00-L00-0100	1	mak	00:12:00;
+
+[CreateBG]=00:10:23	BGS	Event00/00-00/00-00-L00/00-00-L00-005	00:23:13;
+
+[PrintText]=00:11:20	Sekai	Claro, Claro.	00:13:07;
+
+[PlayVoice]=00:11:20	Voice00/00-00/00-00-L00/00-00-L00-0110	0	sek	00:13:07;
+
+[PrintText]=00:13:05	Makoto	¿Qué haces aquí, Sekai? Te lo estoy diciendo ahora, ya no necesito que me acompañes.	00:17:09;
+
+[PlayVoice]=00:13:05	Voice00/00-00/00-00-L00/00-00-L00-0120	1	mak	00:17:09;
+
+[PrintText]=00:17:02	Sekai	Idiota. Yo también voy en esta línea, lo sabes.	00:20:20;
+
+[PlayVoice]=00:17:02	Voice00/00-00/00-00-L00/00-00-L00-0130	0	sek	00:20:20;
+
+[PrintText]=00:20:09	Makoto	Estás bromeando. Si nunca te he visto por aquí.	00:23:13;
+
+[PlayVoice]=00:20:09	Voice00/00-00/00-00-L00/00-00-L00-0140	1	mak	00:23:13;
+
+[PrintText]=00:23:12	Sekai	Yo vivo en el lado opuesto al tuyo. Mi casa está en Motehara-sakashita.	00:28:07;
+
+[PlayVoice]=00:23:12	Voice00/00-00/00-00-L00/00-00-L00-0150	0	sek	00:28:07;
+
+[PlayMovie]=00:23:13	Movie00/00-00/00-00-L00/00-00-L00-006	0	00:36:18;
+
+[PrintText]=00:28:00	Makoto	¿En serio?^	00:29:00;
+
+[PlayVoice]=00:28:00	Voice00/00-00/00-00-L00/00-00-L00-0160	1	mak	00:29:00;
+
+[PrintText]=00:28:20	Sekai	Aww... no lo recuerdas.	00:32:04;
+
+[PlayVoice]=00:28:20	Voice00/00-00/00-00-L00/00-00-L00-0170	0	sek	00:32:04;
+
+[PrintText]=00:31:17	Makoto	Perdón.	00:32:21;
+
+[PlayVoice]=00:31:17	Voice00/00-00/00-00-L00/00-00-L00-0180	1	mak	00:32:21;
+
+[PrintText]=00:32:18	Sekai	Bueno... no importa.	00:34:08;
+
+[PlayVoice]=00:32:18	Voice00/00-00/00-00-L00/00-00-L00-0190	0	sek	00:34:08;
+
+[PrintText]=00:34:15	Makoto	...Hey, Sekai.	00:36:11;
+
+[PlayVoice]=00:34:15	Voice00/00-00/00-00-L00/00-00-L00-0200	1	mak	00:36:11;
+
+[PrintText]=00:36:03	Sekai	¿Hmn?^	00:36:18;
+
+[PlayVoice]=00:36:03	Voice00/00-00/00-00-L00/00-00-L00-0210	0	sek	00:36:18;
+
+[CreateBG]=00:36:18	BGS	Event00/00-00/00-00-L00/00-00-L00-007	00:52:06;
+
+[PrintText]=00:36:21	Makoto	¿Por qué haces todo esto por mi?^	00:39:00;
+
+[PlayVoice]=00:36:21	Voice00/00-00/00-00-L00/00-00-L00-0220	1	mak	00:39:00;
+
+[PrintText]=00:38:18	Sekai	¿Hacer qué?^	00:39:16;
+
+[PlayVoice]=00:38:18	Voice00/00-00/00-00-L00/00-00-L00-0230	0	sek	00:39:16;
+
+[PrintText]=00:39:14	Makoto	Ya sabes a lo que me refiero. Antes eramos completos desconocidos.	00:46:17;
+
+[PlayVoice]=00:39:14	Voice00/00-00/00-00-L00/00-00-L00-0240	1	mak	00:46:17;
+
+[PrintText]=00:46:09	Sekai	Bueno, Katsura-san no tiene mucha diferencia, solo la veías en un tren.	00:50:16;
+
+[PlayVoice]=00:46:09	Voice00/00-00/00-00-L00/00-00-L00-0250	0	sek	00:50:16;
+
+[PrintText]=00:50:09	Makoto	¡No evadas mi pregunta!	00:51:18;
+
+[PlayVoice]=00:50:09	Voice00/00-00/00-00-L00/00-00-L00-0260	1	mak	00:51:18;
+
+[PrintText]=00:51:12	Sekai	Vale.	00:52:03;
+
+[PlayVoice]=00:51:12	Voice00/00-00/00-00-L00/00-00-L00-0270	0	sek	00:52:03;
+
+[PlaySe]=00:52:06	1	Se00/00-00/00-00-L00/SE00-00-L00-002	00:54:13;
+
+[PlayMovie]=00:52:06	Movie00/00-00/00-00-L00/00-00-L00-008	0	01:06:05;
+
+[PrintText]=00:52:06	Makoto	No puedes hacer todo esto solo porque viste una foto en mi celular.	00:57:07;
+
+[PlayVoice]=00:52:06	Voice00/00-00/00-00-L00/00-00-L00-0280	1	mak	00:57:07;
+
+[PrintText]=00:57:04	Sekai	Creo que no.	00:58:19;
+
+[PlayVoice]=00:57:04	Voice00/00-00/00-00-L00/00-00-L00-0290	0	sek	00:58:19;
+
+[PrintText]=00:58:11	Makoto	Estoy realmente agradecido de todo lo que has hecho... ¿Pero por qué?^	01:03:01;
+
+[PlayVoice]=00:58:11	Voice00/00-00/00-00-L00/00-00-L00-0300	1	mak	01:03:01;
+
+[PrintText]=01:02:22	Sekai	Bueno, es porque...	01:04:09;
+
+[PlayVoice]=01:02:22	Voice00/00-00/00-00-L00/00-00-L00-0310	0	sek	01:04:09;
+
+[PrintText]=01:05:03	Makoto	¿Porque...?^	01:05:22;
+
+[PlayVoice]=01:05:03	Voice00/00-00/00-00-L00/00-00-L00-0320	1	mak	01:05:22;
+
+[PrintText]=01:06:04	Sekai	...Es divertido.	01:08:01;
+
+[PlayVoice]=01:06:04	Voice00/00-00/00-00-L00/00-00-L00-0330	0	sek	01:08:01;
+
+[CreateBG]=01:06:05	BGS	Event00/00-00/00-00-L00/00-00-L00-009	01:10:03;
+
+[PrintText]=01:07:19	Makoto	¿...Divertido?^	01:10:02;
+
+[PlayVoice]=01:07:19	Voice00/00-00/00-00-L00/00-00-L00-0340	1	mak	01:10:02;
+
+[PrintText]=01:10:00	Sekai	Sip. Nada es más interesante que ver el amor de otros.	01:14:14;
+
+[PlayVoice]=01:10:00	Voice00/00-00/00-00-L00/00-00-L00-0350	0	sek	01:14:14;
+
+[CreateBG]=01:10:03	BGS	Event00/00-00/00-00-L00/00-00-L00-010	01:37:18;
+
+[PrintText]=01:14:11	Makoto	... quieres decir que...	01:16:18;
+
+[PlayVoice]=01:14:11	Voice00/00-00/00-00-L00/00-00-L00-0360	1	mak	01:16:18;
+
+[PrintText]=01:16:13	Sekai	Mira, muchos de los shows en TV lo único que hacen es mostrar romance ¿no?^	01:23:00;
+
+[PlayVoice]=01:16:13	Voice00/00-00/00-00-L00/00-00-L00-0370	0	sek	01:23:00;
+
+[PrintText]=01:22:19	Makoto	S-Sí...	01:24:05;
+
+[PlayVoice]=01:22:19	Voice00/00-00/00-00-L00/00-00-L00-0380	1	mak	01:24:05;
+
+[PrintText]=01:24:05	Sekai	Un mundo hecho para 2 personas, y no me refiero a mi nombre, quiero decir el "Mundo".	01:29:14;
+
+[PlayVoice]=01:24:05	Voice00/00-00/00-00-L00/00-00-L00-0390	0	sek	01:29:14;
+
+[PrintText]=01:29:08	Makoto	Lo sé...	01:30:16;
+
+[PlayVoice]=01:29:08	Voice00/00-00/00-00-L00/00-00-L00-0400	1	mak	01:30:16;
+
+[PrintText]=01:30:13	Sekai	¡Ser capaz de controlarlo con tus propias manos!	01:34:16;
+
+[PlayVoice]=01:30:13	Voice00/00-00/00-00-L00/00-00-L00-0410	0	sek	01:34:16;
+
+[PrintText]=01:34:12	Makoto	Quieres decir, ¿Siendo controlado...?^	01:37:14;
+
+[PlayVoice]=01:34:12	Voice00/00-00/00-00-L00/00-00-L00-0420	1	mak	01:37:14;
+
+[PrintText]=01:37:02	Sekai	Sí, y es muy divertido.	01:39:14;
+
+[PlayVoice]=01:37:02	Voice00/00-00/00-00-L00/00-00-L00-0430	0	sek	01:39:14;
+
+[PlayMovie]=01:37:18	Movie00/00-00/00-00-L00/00-00-L00-011	0	01:39:09;
+
+[PlaySe]=01:38:23	4	Se00/00-00/00-00-L00/SE00-00-L00-001	02:44:06;
+
+[CreateBG]=01:39:09	BGS	Event00/00-00/00-00-L00/00-00-L00-012	01:42:18;
+
+[PrintText]=01:39:09	Makoto	...Creo que lo entiendo, y al mismo tiempo, tampoco.	01:42:23;
+
+[PlayVoice]=01:39:09	Voice00/00-00/00-00-L00/00-00-L00-0440	1	mak	01:42:23;
+
+[CreateBG]=01:42:18	BGS	Event00/00-00/00-00-L00/00-00-L00-013	01:57:07;
+
+[PrintText]=01:42:19	Sekai	Ufufu... bueno, así es como es.	01:46:08;
+
+[PlayVoice]=01:42:19	Voice00/00-00/00-00-L00/00-00-L00-0450	0	sek	01:46:08;
+
+[PrintText]=01:46:04	Makoto	haha... como sea, creo que he acabado en una enorme deuda contigo.	01:50:14;
+
+[PlayVoice]=01:46:04	Voice00/00-00/00-00-L00/00-00-L00-0460	1	mak	01:50:14;
+
+[PrintText]=01:50:12	Sekai	También lo creo, Es una gran deuda que no podrás pagarla por el resto de toda tu vida.	01:55:13;
+
+[PlayVoice]=01:50:12	Voice00/00-00/00-00-L00/00-00-L00-0470	0	sek	01:55:13;
+
+[PrintText]=01:55:12	Makoto	Geh.	01:56:09;
+
+[PlayVoice]=01:55:12	Voice00/00-00/00-00-L00/00-00-L00-0480	1	mak	01:56:09;
+
+[PrintText]=01:56:07	Sekai	¡Solo bromeo!	01:57:07;
+
+[PlayVoice]=01:56:07	Voice00/00-00/00-00-L00/00-00-L00-0490	0	sek	01:57:07;
+
+[CreateBG]=01:57:07	BGS	Event00/00-00/00-00-L00/00-00-L00-014	02:02:08;
+
+[PrintText]=01:57:07	Makoto	Pero sabes, te lo pagaré algún día.	02:00:02;
+
+[PlayVoice]=01:57:07	Voice00/00-00/00-00-L00/00-00-L00-0500	1	mak	02:00:02;
+
+[PrintText]=01:59:22	Sekai	¿En serio? No tienes que forzarte sabes...	02:02:13;
+
+[PlayVoice]=01:59:22	Voice00/00-00/00-00-L00/00-00-L00-0510	0	sek	02:02:13;
+
+[CreateBG]=02:02:08	BGS	Event00/00-00/00-00-L00/00-00-L00-015	02:09:11;
+
+[PrintText]=02:02:08	Makoto	¡Te lo pagaré, te lo aseguro, pide lo que quieras!	02:04:17;
+
+[PlayVoice]=02:02:08	Voice00/00-00/00-00-L00/00-00-L00-0520	1	mak	02:04:17;
+
+[PrintText]=02:04:14	Sekai	Hmm... está bien, tal vez deba pedirte algo a cambio.	02:09:11;
+
+[PlayVoice]=02:04:14	Voice00/00-00/00-00-L00/00-00-L00-0530	0	sek	02:09:11;
+
+[CreateBG]=02:09:11	BGS	Event00/00-00/00-00-L00/00-00-L00-016	02:12:05;
+
+[PrintText]=02:09:11	Makoto	¡Cualquier cosa!	02:10:17;
+
+[PlayVoice]=02:09:11	Voice00/00-00/00-00-L00/00-00-L00-0540	1	mak	02:10:17;
+
+[PrintText]=02:10:21	Sekai	En ese caso...	02:12:10;
+
+[PlayVoice]=02:10:21	Voice00/00-00/00-00-L00/00-00-L00-0550	0	sek	02:12:10;
+
+[PlayMovie]=02:12:05	Movie00/00-00/00-00-L00/00-00-L00-017	0	02:17:04;
+
+[PrintText]=02:12:05	Makoto	Tómate tu tiempo, piensa en ello. Mira, ya viene el tren. La próxima v...	02:16:19;
+
+[PlayVoice]=02:12:05	Voice00/00-00/00-00-L00/00-00-L00-0560	1	mak	02:16:19;
+
+[PlaySe]=02:15:12	2	Se00/00-00/00-00-L00/SE00-00-L00-003	02:32:03;
+
+[PlayMovie]=02:17:04	Movie00/00-00/00-00-L00/00-00-L00-018	0	02:20:01;
+
+[PrintText]=02:17:08	Makoto	¡...!	02:18:02;
+
+[PlayVoice]=02:17:08	Voice00/00-00/00-00-L00/00-00-L00-0580	1	mak	02:18:02;
+
+[PlayVoice]=02:17:11	Voice00/00-00/00-00-L00/00-00-L00-0570			02:21:04;
+
+[PlayMovie]=02:20:01	Movie00/00-00/00-00-L00/00-00-L00-019	0	02:24:01;
+
+[PlayMovie]=02:24:01	Movie00/00-00/00-00-L00/00-00-L00-020	0	02:28:19;
+
+[PlaySe]=02:28:19	1	Voice00/00-00/00-00-L00/00-00-L00-0590A	02:32:05;
+
+[PlayMovie]=02:28:19	Movie00/00-00/00-00-L00/00-00-L00-021	0	02:33:13;
+
+[PrintText]=02:31:18	Sekai	...Con esto basta.	02:33:11;
+
+[PlayVoice]=02:31:18	Voice00/00-00/00-00-L00/00-00-L00-0620	0	sek	02:33:11;
+
+[PlayMovie]=02:33:13	Movie00/00-00/00-00-L00/00-00-L00-022	0	02:35:13;
+
+[PlayVoice]=02:34:07	Voice00/00-00/00-00-L00/00-00-L00-0640			02:35:08;
+
+[PrintText]=02:34:22	Makoto	Seka...	02:35:20;
+
+[PlayVoice]=02:34:22	Voice00/00-00/00-00-L00/00-00-L00-0630	1	mak	02:35:20;
+
+[PlaySe]=02:35:13	1	Se00/00-00/00-00-L00/SE00-00-L00-005	02:37:15;
+
+[PlaySe]=02:35:13	3	Se00/00-00/00-00-L00/SE00-00-L00-004	02:37:07;
+
+[PlayMovie]=02:35:13	Movie00/00-00/00-00-L00/00-00-L00-023	0	02:42:01;
+
+[PlaySe]=02:37:15	2	Se00/00-00/00-00-L00/SE00-00-L00-006	02:39:15;
+
+[PrintText]=02:37:22	Sekai	¡Buena suerte en tu cita!	02:40:02;
+
+[PlayVoice]=02:37:22	Voice00/00-00/00-00-L00/00-00-L00-0650	0	sek	02:40:02;
+
+[PlaySe]=02:39:03	3	Se00/00-00/00-00-L00/SE00-00-L00-007	02:43:22;
+
+[PlaySe]=02:41:16	2	Se00/00-00/00-00-L00/SE00-00-L00-008	03:07:21;
+
+[PlayMovie]=02:42:01	Movie00/00-00/00-00-L00/00-00-L00-024	0	02:48:18;
+
+[EndBGM]=02:44:06	BGM/Vocal/SDV01	04:50:12;
+
+[PlayMovie]=02:48:18	Movie00/00-00/00-00-L00/00-00-L00-025	0	02:53:12;
+
+[PlayMovie]=02:53:12	Movie00/00-00/00-00-L00/00-00-L00-026	0	03:04:06;
+
+[PrintText]=02:53:12	Sekai	Haah... haah... haah...	02:59:13;
+
+[PlayVoice]=02:53:12	Voice00/00-00/00-00-L00/00-00-L00-0710	0	sek	02:59:13;
+
+[PrintText]=03:04:04	Sekai	Uu... uhn...	03:07:19;
+
+[PlayVoice]=03:04:04	Voice00/00-00/00-00-L00/00-00-L00-0720	0	sek	03:07:19;
+
+[PlayMovie]=03:04:06	Movie00/00-00/00-00-L00/00-00-L00-027	0	03:12:02;
+
+[PrintText]=03:11:23	Kotonoha	Haah... haah... haah...	03:17:20;
+
+[PlayVoice]=03:11:23	Voice00/00-00/00-00-L00/00-00-L00-0740	0	kot	03:17:20;
+
+[PlayMovie]=03:12:02	Movie00/00-00/00-00-L00/00-00-L00-028	0	03:17:20;
+
+[CreateBG]=03:17:20	BGS	Ini/EndRoll/00	03:20:20;
+
+[EndRoll]=03:20:20	Ini/EndRoll/NORMAL	04:00:20;
+
+ ;
+
+[Next]=04:00:20;
+
+
+
+
+
+

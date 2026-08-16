@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:10:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:16:19;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-E01/SE03-SA-E01-001	00:16:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-E01/03-SA-E01-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-E01/03-SA-E01-002	00:04:06;
+
+[PrintText]=00:03:00	Otome	Ah, Itou.	00:04:05;
+
+[PlayVoice]=00:03:00	Voice03/03-SA/03-SA-E01/03-SA-E01-0040	0	oto	00:04:05;
+
+[CreateBG]=00:04:06	BGS	Event03/03-SA/03-SA-E01/03-SA-E01-003	00:04:23;
+
+[PrintText]=00:04:06	Makoto	Hey.	00:04:23;
+
+[PlayVoice]=00:04:06	Voice03/03-SA/03-SA-E01/03-SA-E01-0050	1	mak	00:04:23;
+
+[CreateBG]=00:04:23	BGS	Event03/03-SA/03-SA-E01/03-SA-E01-004	00:16:19;
+
+[PrintText]=00:04:23	Otome	Uhh...	00:06:05;
+
+[PlayVoice]=00:04:23	Voice03/03-SA/03-SA-E01/03-SA-E01-0060	0	oto	00:06:05;
+
+[PrintText]=00:06:05	Makoto	¿Qué pasa?^	00:07:02;
+
+[PlayVoice]=00:06:05	Voice03/03-SA/03-SA-E01/03-SA-E01-0070	1	mak	00:07:02;
+
+[PrintText]=00:07:02	Otome	¿Tienes planes con alguien después?^	00:10:05;
+
+[PlayVoice]=00:07:02	Voice03/03-SA/03-SA-E01/03-SA-E01-0080	0	oto	00:10:05;
+
+[PrintText]=00:10:05	Makoto	¿Eh?^	00:10:19;
+
+[PlayVoice]=00:10:05	Voice03/03-SA/03-SA-E01/03-SA-E01-0090	1	mak	00:10:19;
+
+[SetSELECT]=00:10:19	'Sí'	'No'	00:15:19;
+
+ ;
+
+[Next]=00:16:19;
+
+

@@ -1,0 +1,209 @@
+﻿[SkipFRAME]=01:38:16;
+
+[PlaySe]=00:00:00	2	Se00/00-00/00-00-I00/SE00-00-I00-001	01:00:00;
+
+[CreateBG]=00:00:00	BGS	System/Screen/Black	00:01:13;
+
+[PrintText]=00:00:00	Makoto	¡Katsura!	00:00:19;
+
+[PlayVoice]=00:00:00	Voice00/00-00/00-00-I00/00-00-I00-0030	1	mak	00:00:19;
+
+[PlayMovie]=00:01:13	Movie00/00-00/00-00-I00/00-00-I00-001	0	00:05:20;
+
+[PrintText]=00:01:18	Kotonoha	Ah... Itou-kun. Buen día.	00:06:00;
+
+[PlayVoice]=00:01:18	Voice00/00-00/00-00-I00/00-00-I00-0040	0	kot	00:06:00;
+
+[PrintText]=00:05:19	Makoto	Buen día....	00:06:15;
+
+[PlayVoice]=00:05:19	Voice00/00-00/00-00-I00/00-00-I00-0050	1	mak	00:06:15;
+
+[PlaySe]=00:05:20	1	Se00/00-00/00-00-I00/SE00-00-I00-002	00:07:02;
+
+[PlayMovie]=00:05:20	Movie00/00-00/00-00-I00/00-00-I00-002	0	00:09:05;
+
+[PrintText]=00:06:13	Kotonoha	¿También coges este tren?^	00:09:09;
+
+[PlayVoice]=00:06:13	Voice00/00-00/00-00-I00/00-00-I00-0060	0	kot	00:09:09;
+
+[CreateBG]=00:09:05	BGS	Event00/00-00/00-00-I00/00-00-I00-001	00:15:04;
+
+[PrintText]=00:09:05	Makoto	Sí...	00:09:20;
+
+[PlayVoice]=00:09:05	Voice00/00-00/00-00-I00/00-00-I00-0070	1	mak	00:09:20;
+
+[PrintText]=00:09:16	Kotonoha	Ufufu... Bueno, supongo que estamos en la misma línea.	00:13:08;
+
+[PlayVoice]=00:09:16	Voice00/00-00/00-00-I00/00-00-I00-0080	0	kot	00:13:08;
+
+[PrintText]=00:13:06	Makoto	...Sí...	00:13:21;
+
+[PlayVoice]=00:13:06	Voice00/00-00/00-00-I00/00-00-I00-0090	1	mak	00:13:21;
+
+[PrintText]=00:14:07	Kotonoha	¿Itou-kun?^	00:15:07;
+
+[PlayVoice]=00:14:07	Voice00/00-00/00-00-I00/00-00-I00-0100	0	kot	00:15:07;
+
+[CreateBG]=00:15:04	BGS	Event00/00-00/00-00-I00/00-00-I00-004	00:28:21;
+
+[PrintText]=00:15:04	Makoto	Pues verás... ¿Te gustaría ir a Sakakino-cho después de clases?^	00:21:01;
+
+[PlayVoice]=00:15:04	Voice00/00-00/00-00-I00/00-00-I00-0110	1	mak	00:21:01;
+
+[PrintText]=00:20:21	Kotonoha	¿Eh?^	00:21:11;
+
+[PlayVoice]=00:20:21	Voice00/00-00/00-00-I00/00-00-I00-0120	0	kot	00:21:11;
+
+[PrintText]=00:21:14	Makoto	Mencionaste que te gustaban los libros... así que pensé que podíamos ir a las librerías Sakakino-cho,	00:26:14;
+
+[PrintText]=00:26:14	Makoto	y luego ir a Sakakino Hills después o... ¿Qué te parece o no sé?^	00:29:00;
+
+[PlayVoice]=00:21:14	Voice00/00-00/00-00-I00/00-00-I00-0130	1	mak	00:29:00;
+
+[CreateBG]=00:28:21	BGS	Event00/00-00/00-00-I00/00-00-I00-005	00:34:04;
+
+[PrintText]=00:28:21	Kotonoha	Suena bien.	00:30:01;
+
+[PlayVoice]=00:28:21	Voice00/00-00/00-00-I00/00-00-I00-0140	0	kot	00:30:01;
+
+[PrintText]=00:29:22	Makoto	¿En serio?^	00:30:21;
+
+[PlayVoice]=00:29:22	Voice00/00-00/00-00-I00/00-00-I00-0150	1	mak	00:30:21;
+
+[PrintText]=00:30:21	Kotonoha	Pero tengo hoy una reunión en el consejo estudiantil, así que saldré tarde.	00:34:03;
+
+[PlayVoice]=00:30:21	Voice00/00-00/00-00-I00/00-00-I00-0160	0	kot	00:34:03;
+
+[CreateBG]=00:34:04	BGS	Event00/00-00/00-00-I00/00-00-I00-006	00:35:14;
+
+[PrintText]=00:34:04	Makoto	Está bien. Esperaré.	00:35:13;
+
+[PlayVoice]=00:34:04	Voice00/00-00/00-00-I00/00-00-I00-0170	1	mak	00:35:13;
+
+[PlayMovie]=00:35:14	Movie00/00-00/00-00-I00/00-00-I00-007	0	00:47:05;
+
+[PrintText]=00:35:14	Kotonoha	Ah... pero...	00:37:10;
+
+[PlayVoice]=00:35:14	Voice00/00-00/00-00-I00/00-00-I00-0180	0	kot	00:37:10;
+
+[PrintText]=00:37:14	Makoto	¿S-Sí?^	00:39:07;
+
+[PlayVoice]=00:37:14	Voice00/00-00/00-00-I00/00-00-I00-0190	1	mak	00:39:07;
+
+[PrintText]=00:39:09	Kotonoha	Saionji-san me envió un correo diciendo que estaría ocupada hoy.	00:44:12;
+
+[PlayVoice]=00:39:09	Voice00/00-00/00-00-I00/00-00-I00-0200	0	kot	00:44:12;
+
+[PrintText]=00:44:20	Makoto	...	00:45:11;
+
+[PlayVoice]=00:44:20	Voice00/00-00/00-00-I00/00-00-I00-0210	1	xxx	00:45:11;
+
+[PrintText]=00:46:03	Kotonoha	¿Itou-kun?^	00:47:03;
+
+[PlayVoice]=00:46:03	Voice00/00-00/00-00-I00/00-00-I00-0220	0	kot	00:47:03;
+
+[CreateBG]=00:47:05	BGS	Event00/00-00/00-00-I00/00-00-I00-008	00:50:08;
+
+[PrintText]=00:47:06	Makoto	Estaba pensando... en ir los 2.	00:50:07;
+
+[PlayVoice]=00:47:06	Voice00/00-00/00-00-I00/00-00-I00-0230	1	mak	00:50:07;
+
+[CreateBG]=00:50:08	BGS	Event00/00-00/00-00-I00/00-00-I00-009	00:51:12;
+
+[PrintText]=00:50:08	Kotonoha	¿Eh...?^	00:51:11;
+
+[PlayVoice]=00:50:08	Voice00/00-00/00-00-I00/00-00-I00-0240	0	kot	00:51:11;
+
+[CreateBG]=00:51:12	BGS	Event00/00-00/00-00-I00/00-00-I00-010	00:52:16;
+
+[PrintText]=00:51:13	Makoto	¿No es bueno?^	00:52:13;
+
+[PlayVoice]=00:51:13	Voice00/00-00/00-00-I00/00-00-I00-0250	1	mak	00:52:13;
+
+[CreateBG]=00:52:16	BGS	Event00/00-00/00-00-I00/00-00-I00-011	00:56:04;
+
+[PrintText]=00:52:19	Kotonoha	¿Quieres decir, una cita?^	00:56:03;
+
+[PlayVoice]=00:52:19	Voice00/00-00/00-00-I00/00-00-I00-0260	0	kot	00:56:03;
+
+[CreateBG]=00:56:04	BGS	Event00/00-00/00-00-I00/00-00-I00-012	01:11:18;
+
+[PrintText]=00:56:05	Makoto	Sí.	00:57:00;
+
+[PlayVoice]=00:56:05	Voice00/00-00/00-00-I00/00-00-I00-0270	1	mak	00:57:00;
+
+[PrintText]=00:57:04	Kotonoha	...	00:58:14;
+
+[PlayVoice]=00:57:04	Voice00/00-00/00-00-I00/00-00-I00-0280	0	xxx	00:58:14;
+
+[PrintText]=00:59:02	Makoto	¡Oh! quiero decir, Está bien si no quieres... es solo que...	01:05:08;
+
+[PlayVoice]=00:59:02	Voice00/00-00/00-00-I00/00-00-I00-0290	1	mak	01:05:08;
+
+[PlaySe]=00:59:10	1	Se00/00-00/00-00-I00/SE00-00-I00-001	01:36:18;
+
+[PrintText]=01:05:08	Makoto	Ya sabes... quiero decir... bueno, es decir...	01:08:05;
+
+[PlayVoice]=01:05:08	Voice00/00-00/00-00-I00/00-00-I00-0291	1	mak	01:08:05;
+
+[PrintText]=01:07:19	Kotonoha	Um... ¿Irías con alguien como yo?^	01:12:00;
+
+[PlayVoice]=01:07:19	Voice00/00-00/00-00-I00/00-00-I00-0300	0	kot	01:12:00;
+
+[CreateBG]=01:11:18	BGS	Event00/00-00/00-00-I00/00-00-I00-013	01:13:21;
+
+[PrintText]=01:11:18	Makoto	¡Sí!	01:12:13;
+
+[PlayVoice]=01:11:18	Voice00/00-00/00-00-I00/00-00-I00-0310	1	mak	01:12:13;
+
+[PrintText]=01:12:16	Kotonoha	¿En serio?^	01:13:20;
+
+[PlayVoice]=01:12:16	Voice00/00-00/00-00-I00/00-00-I00-0320	0	kot	01:13:20;
+
+[CreateBG]=01:13:21	BGS	Event00/00-00/00-00-I00/00-00-I00-014	01:15:16;
+
+[PrintText]=01:13:21	Makoto	Sí, por eso te estoy preguntando.	01:15:10;
+
+[PlayVoice]=01:13:21	Voice00/00-00/00-00-I00/00-00-I00-0330	1	mak	01:15:10;
+
+[CreateBG]=01:15:16	BGS	Event00/00-00/00-00-I00/00-00-I00-015	01:22:06;
+
+[PrintText]=01:15:20	Kotonoha	...	01:17:19;
+
+[PlayVoice]=01:15:20	Voice00/00-00/00-00-I00/00-00-I00-0340	0	xxx	01:17:19;
+
+[PrintText]=01:18:05	Makoto	Katsura...	01:19:03;
+
+[PlayVoice]=01:18:05	Voice00/00-00/00-00-I00/00-00-I00-0350	1	mak	01:19:03;
+
+[PrintText]=01:19:11	Kotonoha	...Me encantaría.	01:21:09;
+
+[PlayVoice]=01:19:11	Voice00/00-00/00-00-I00/00-00-I00-0360	0	kot	01:21:09;
+
+[PrintText]=01:21:10	Makoto	¡¿Eh?!	01:22:02;
+
+[PlayVoice]=01:21:10	Voice00/00-00/00-00-I00/00-00-I00-0370	1	mak	01:22:02;
+
+[PlayMovie]=01:22:06	Movie00/00-00/00-00-I00/00-00-I00-016	0	01:26:22;
+
+[PrintText]=01:23:00	Kotonoha	Me encantaría ir, no puedo esperar.	01:27:06;
+
+[PlayVoice]=01:23:00	Voice00/00-00/00-00-I00/00-00-I00-0380	0	kot	01:27:06;
+
+[PrintText]=01:26:16	Makoto	V-Vale^	01:28:15;
+
+[PlayVoice]=01:26:16	Voice00/00-00/00-00-I00/00-00-I00-0390	1	mak	01:28:15;
+
+[PlaySe]=01:26:22	2	Se00/00-00/00-00-I00/SE00-00-I00-003	01:38:16;
+
+[PlayMovie]=01:26:22	Movie00/00-00/00-00-I00/00-00-I00-017	0	01:38:16;
+
+[BlackFade]=01:37:16	OUT	01:38:16;
+
+ ;
+
+[Next]=01:38:16;
+
+
+
+

@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:39:20;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/aqua_square	00:46:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N06/04-SA-N06-001	00:08:03;
+
+[PrintText]=00:00:00	Makoto	...	00:00:21;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N06/04-SA-N06-0030	1	xxx	00:00:21;
+
+[PrintText]=00:00:21	Kotonoha	S-Sí, no es fácil de responder, ¿No? Una pregunta como esa...	00:07:07;
+
+[PlayVoice]=00:00:21	Voice04/04-SA/04-SA-N06/04-SA-N06-0040	0	kot	00:07:07;
+
+[PrintText]=00:07:07	Makoto	Sí.	00:08:02;
+
+[PlayVoice]=00:07:07	Voice04/04-SA/04-SA-N06/04-SA-N06-0050	1	mak	00:08:02;
+
+[PrintText]=00:08:02	Kotonoha	Creo que sería un problema también, si dijera, '¿Tú quieres?'.	00:13:15;
+
+[PlayVoice]=00:08:02	Voice04/04-SA/04-SA-N06/04-SA-N06-0060	0	kot	00:13:15;
+
+[CreateBG]=00:08:03	BGS	Event04/04-SA/04-SA-N06/04-SA-N06-002	00:19:19;
+
+[PrintText]=00:13:15	Makoto	...	00:14:11;
+
+[PlayVoice]=00:13:15	Voice04/04-SA/04-SA-N06/04-SA-N06-0070	1	xxx	00:14:11;
+
+[PrintText]=00:14:11	Kotonoha	La verdad es que, estuviera mas incomoda si me hubieras tocado.	00:19:19;
+
+[PlayVoice]=00:14:11	Voice04/04-SA/04-SA-N06/04-SA-N06-0080	0	kot	00:19:19;
+
+[CreateBG]=00:19:19	BGS	Event04/04-SA/04-SA-N06/04-SA-N06-003	00:46:08;
+
+[PrintText]=00:19:19	Makoto	...	00:21:01;
+
+[PlayVoice]=00:19:19	Voice04/04-SA/04-SA-N06/04-SA-N06-0090	1	xxx	00:21:01;
+
+[PrintText]=00:21:01	Kotonoha	Por eso, te he causado problemas antes...	00:25:14;
+
+[PlayVoice]=00:21:01	Voice04/04-SA/04-SA-N06/04-SA-N06-0100	0	kot	00:25:14;
+
+[PrintText]=00:25:14	Makoto	...	00:26:08;
+
+[PlayVoice]=00:25:14	Voice04/04-SA/04-SA-N06/04-SA-N06-0110	1	xxx	00:26:08;
+
+[PrintText]=00:26:08	Kotonoha	Pero... la verdad es, no quiero ser agresiva y que respondas... lo siento, no sé como decirlo...	00:39:02;
+
+[PlayVoice]=00:26:08	Voice04/04-SA/04-SA-N06/04-SA-N06-0120	0	kot	00:39:02;
+
+[PrintText]=00:39:02	Makoto	Está bien...	00:39:21;
+
+[PlayVoice]=00:39:02	Voice04/04-SA/04-SA-N06/04-SA-N06-0130	1	mak	00:39:21;
+
+[SetSELECT]=00:39:20	'¿Quieres disculparte?'	'¿Quieres que te toque?'	00:44:21;
+
+ ;
+
+[Next]=00:46:08;
+
+

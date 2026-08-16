@@ -1,0 +1,178 @@
+﻿[SkipFRAME]=01:42:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:40:00;
+
+[PrintText]=00:00:00	Profesor	Y ahora, tenemos un gráfico de funciones cuadráticas y coeficientes...	00:05:10;
+
+[PlaySe]=00:00:00	1	Voice05/05-KB/05-KB-B02/05-KB-B02-0050	00:05:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-B02/05-KB-B02-001	00:15:23;
+
+[PrintText]=00:06:03	Profesor	Este es un problema básico que debe servir como revisión. Obuchi, lea esta parte en voz alta.	00:15:01;
+
+[PlaySe]=00:06:03	1	Voice05/05-KB/05-KB-B02/05-KB-B02-0051	00:15:01;
+
+[CreateBG]=00:15:23	BGS	Event05/05-KB/05-KB-B02/05-KB-B02-002A	00:33:22;
+
+[PrintText]=00:16:01	Minami	Dado el gráfico de la función cuadrática, ax2 + bx + c, tenemos... b2-4ac...	00:29:17;
+
+[PlaySe]=00:16:01	2	Voice05/05-KB/05-KB-B02/05-KB-B02-0060	00:29:05;
+
+[PrintText]=00:29:17	Profesor	Muy bien. Ahora, ¿Qué hacemos con el gráfico en la n. 1?^	00:33:17;
+
+[PlaySe]=00:29:17	1	Voice05/05-KB/05-KB-B02/05-KB-B02-0070	00:33:17;
+
+[PrintText]=00:33:13	Minami	Uh...	00:35:03;
+
+[PlayVoice]=00:33:13	Voice05/05-KB/05-KB-B02/05-KB-B02-0080	0	min	00:35:03;
+
+[CreateBG]=00:33:22	BGS	Event05/05-KB/05-KB-B02/05-KB-B02-002B	00:37:03;
+
+[PrintText]=00:34:17	Otome	¿Eh...?^	00:35:17;
+
+[PlayVoice]=00:34:17	Voice05/05-KB/05-KB-B02/05-KB-B02-0100	0	oto	00:35:17;
+
+[PlaySe]=00:36:06	3	SysSe/SE_all/keitai/mailedit	00:36:23;
+
+#[PrintText]=00:37:03	Celular	Vale, me encargaré de eso.	00:40:02;
+
+[CreateBG]=00:37:03	BGS	Ini/Event05/05-KB/05-KB-B02/05-KB-B02-002C	00:40:02;
+
+[PlaySe]=00:40:00	4	SysSe/SE_all/gaya/kyousitu_rouka	00:46:18;
+
+[PlaySe]=00:40:00	5	SysSe/SE_all/school/chime	00:46:14;
+
+[CreateBG]=00:40:02	BGS	Event05/05-KB/05-KB-B02/05-KB-B02-003	00:43:20;
+
+[PrintText]=00:42:01	Kotonoha	Makoto-kun...	00:43:12;
+
+[PlayVoice]=00:42:01	Voice05/05-KB/05-KB-B02/05-KB-B02-0150	0	kot	00:43:12;
+
+[PlaySe]=00:43:20	6	SysSe/SE_all/footsteps/asioto_school	00:46:11;
+
+[PlayMovie]=00:43:20	Movie05/05-KB/05-KB-B02/05-KB-B02-004	0	00:46:09;
+
+[PlayMovie]=00:46:09	Movie05/05-KB/05-KB-B02/05-KB-B02-005A	0	00:46:21;
+
+[PrintText]=00:46:09	Minami	Whoops.	00:47:08;
+
+[PlayVoice]=00:46:09	Voice05/05-KB/05-KB-B02/05-KB-B02-0170	0	min	00:47:08;
+
+[PlaySe]=00:46:12	1	Se05/05-KB/05-KB-B02/SE05-KB-B02-001	00:47:02;
+
+[PlayBgm]=00:46:18	BGM/SD_BGM/sdbgm23	01:42:20;
+
+[PlayMovie]=00:46:21	Movie05/05-KB/05-KB-B02/05-KB-B02-005B	0	00:47:15;
+
+[PrintText]=00:46:21	Kotonoha	¡Kyah!	00:47:14;
+
+[PlayVoice]=00:46:21	Voice05/05-KB/05-KB-B02/05-KB-B02-0190	0	kot	00:47:14;
+
+[PlayMovie]=00:47:15	Movie05/05-KB/05-KB-B02/05-KB-B02-006	0	00:55:10;
+
+[PlaySe]=00:47:17	1	Se05/05-KB/05-KB-B02/SE05-KB-B02-002	00:48:05;
+
+[PlaySe]=00:47:20	2	Se05/05-KB/05-KB-B02/SE05-KB-B02-003	00:48:11;
+
+[PlayVoice]=00:48:22	Voice05/05-KB/05-KB-B02/05-KB-B02-0220			00:49:16;
+
+[PlaySe]=00:48:23	3	Se05/05-KB/05-KB-B02/SE05-KB-B02-004	00:50:01;
+
+[PrintText]=00:49:11	Kotonoha	¡Ah...!	00:50:06;
+
+[PlayVoice]=00:49:11	Voice05/05-KB/05-KB-B02/05-KB-B02-0230	0	kot	00:50:06;
+
+[PrintText]=00:50:12	Kumi	Oh querida. ¿Estás herida o algo?^	00:53:21;
+
+[PlayVoice]=00:50:12	Voice05/05-KB/05-KB-B02/05-KB-B02-0240	0	kum	00:53:21;
+
+[PrintText]=00:53:21	Kotonoha	Ahh...	00:54:20;
+
+[PlayVoice]=00:53:21	Voice05/05-KB/05-KB-B02/05-KB-B02-0260	0	kot	00:54:20;
+
+[CreateBG]=00:55:10	BGS	Event05/05-KB/05-KB-B02/05-KB-B02-007	01:02:14;
+
+[PrintText]=00:55:10	Kumi	Perdón por eso, Katsura-san.	00:58:07;
+
+[PlayVoice]=00:55:10	Voice05/05-KB/05-KB-B02/05-KB-B02-0270	0	kum	00:58:07;
+
+[PrintText]=00:58:08	Kotonoha	Mi almuerzo...	00:59:23;
+
+[PlayVoice]=00:58:08	Voice05/05-KB/05-KB-B02/05-KB-B02-0280	0	kot	00:59:23;
+
+[PrintText]=00:59:23	Natsumi	Aww, está todo sucio.	01:02:16;
+
+[PlayVoice]=00:59:23	Voice05/05-KB/05-KB-B02/05-KB-B02-0290	0	nat	01:02:16;
+
+[PlayMovie]=01:02:14	Movie05/05-KB/05-KB-B02/05-KB-B02-008	0	01:08:07;
+
+[PrintText]=01:02:14	Otome	Katsura-san ¿Te importaría no hacer problemas en clase?^	01:06:05;
+
+[PlayVoice]=01:02:14	Voice05/05-KB/05-KB-B02/05-KB-B02-0300	0	oto	01:06:05;
+
+[PrintText]=01:06:05	Kotonoha	...	01:08:06;
+
+[PlayVoice]=01:06:05	Voice05/05-KB/05-KB-B02/05-KB-B02-0310	0	xxx	01:08:06;
+
+[CreateBG]=01:08:07	BGS	Event05/05-KB/05-KB-B02/05-KB-B02-007	01:14:05;
+
+[PrintText]=01:08:07	Natsumi	¡Uwah! ¡Está llorando!	01:11:18;
+
+[PlayVoice]=01:08:07	Voice05/05-KB/05-KB-B02/05-KB-B02-0330	0	nat	01:11:18;
+
+[PrintText]=01:11:14	Minami	¿Estabas con mucha hambre?^	01:14:00;
+
+[PlayVoice]=01:11:14	Voice05/05-KB/05-KB-B02/05-KB-B02-0340	0	min	01:14:00;
+
+[PlayMovie]=01:14:05	Movie05/05-KB/05-KB-B02/05-KB-B02-010	0	01:16:03;
+
+[CreateBG]=01:16:03	BGS	Event05/05-KB/05-KB-B02/05-KB-B02-007	01:25:07;
+
+[PrintText]=01:16:03	Otome	Bueno... ¿Nos vamos?^	01:17:09;
+
+[PlayVoice]=01:16:03	Voice05/05-KB/05-KB-B02/05-KB-B02-0360	0	oto	01:17:09;
+
+[PrintText]=01:17:09	Natsumi	Sí.	01:18:10;
+
+[PlayVoice]=01:17:09	Voice05/05-KB/05-KB-B02/05-KB-B02-0370	0	nat	01:18:10;
+
+[PrintText]=01:18:10	Kumi	Todo esto es tu culpa sabes. Asegurate de dejar muy limpio el piso ¿Vale?^	01:25:06;
+
+[PlayVoice]=01:18:10	Voice05/05-KB/05-KB-B02/05-KB-B02-0380	0	kum	01:25:06;
+
+[PlayMovie]=01:25:07	Movie05/05-KB/05-KB-B02/05-KB-B02-012	0	01:29:04;
+
+[PrintText]=01:25:07	Kotonoha	...	01:29:04;
+
+[PlayVoice]=01:25:07	Voice05/05-KB/05-KB-B02/05-KB-B02-0390	0	xxx	01:29:04;
+
+[BlackFade]=01:28:16	OUT	01:29:04;
+
+[CreateBG]=01:29:04	BGS	Event05/05-KB/05-KB-B02/05-KB-B02-013	01:39:18;
+
+[PrintText]=01:29:05	Natsumi	No aprende ¿No? Has dejado que las chicas del club de baloncesto lo sepan.	01:34:09;
+
+[PlayVoice]=01:29:05	Voice05/05-KB/05-KB-B02/05-KB-B02-0410	0	nat	01:34:09;
+
+[PrintText]=01:34:10	Otome	Sí, me dieron su ayuda.	01:36:11;
+
+[PlayVoice]=01:34:10	Voice05/05-KB/05-KB-B02/05-KB-B02-0420	0	oto	01:36:11;
+
+[PrintText]=01:36:15	Minami	Que idiota. Y después que le habíamos dicho que se alejara de Itou.	01:39:20;
+
+[PlayVoice]=01:36:15	Voice05/05-KB/05-KB-B02/05-KB-B02-0430	0	min	01:39:20;
+
+[PlayMovie]=01:39:18	Movie05/05-KB/05-KB-B02/05-KB-B02-014	0	01:42:20;
+
+[PrintText]=01:39:18	Kotonoha	...	01:41:10;
+
+[PlayVoice]=01:39:18	Voice05/05-KB/05-KB-B02/05-KB-B02-0440	0	xxx	01:41:10;
+
+[BlackFade]=01:42:08	OUT	01:42:20;
+
+ ;
+
+[Next]=01:42:20;
+
+
+

@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:07:18;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:13:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-002	00:04:07;
+
+[PrintText]=00:03:02	Makoto	Kotonoha...	00:04:03;
+
+[PlayVoice]=00:03:02	Voice05/05-5O/05-5O-H05/05-5O-H05-0040	1	mak	00:04:03;
+
+[CreateBG]=00:04:07	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-003	00:06:07;
+
+[PrintText]=00:04:09	Kotonoha	¿Vamos a casa juntos?^	00:06:03;
+
+[PlayVoice]=00:04:09	Voice05/05-5O/05-5O-H05/05-5O-H05-0050	0	kot	00:06:03;
+
+[CreateBG]=00:06:07	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-001	00:13:18;
+
+[PrintText]=00:06:08	Makoto	Ah...	00:06:22;
+
+[PlayVoice]=00:06:08	Voice05/05-5O/05-5O-H05/05-5O-H05-0060	1	mak	00:06:22;
+
+[PrintText]=00:07:02	Kotonoha	Ven.	00:07:16;
+
+[PlayVoice]=00:07:02	Voice05/05-5O/05-5O-H05/05-5O-H05-0070	0	kot	00:07:16;
+
+[SetSELECT]=00:07:18	'Tengo algo importante que hacer'	'Vale'	00:12:18;
+
+[PrintText]=00:07:22	Makoto	...	00:08:09;
+
+[PlayVoice]=00:07:22	Voice05/05-5O/05-5O-H05/05-5O-H05-0080	1	xxx	00:08:09;
+
+ ;
+
+[Next]=00:13:18;
+
+

@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:08:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:08:06;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H02/SE03-KA-H02-001	00:08:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H02/03-KA-H02-001	00:05:19;
+
+[PrintText]=00:00:00	Makoto	...No tenía nada que hacer.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H02/03-KA-H02-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:08	Kotonoha	¿En serio?^	00:02:21;
+
+[PlayVoice]=00:01:08	Voice03/03-KA/03-KA-H02/03-KA-H02-0040	0	kot	00:02:21;
+
+[PrintText]=00:02:21	Makoto	Sí, bueno, ahora que lo sabes, será agradable trabajar contigo.	00:05:18;
+
+[PlayVoice]=00:02:21	Voice03/03-KA/03-KA-H02/03-KA-H02-0050	1	mak	00:05:18;
+
+[PrintText]=00:05:18	Kotonoha	Sí, será bueno trabajar contigo también.	00:07:18;
+
+[PlayVoice]=00:05:18	Voice03/03-KA/03-KA-H02/03-KA-H02-0060	0	kot	00:07:18;
+
+[CreateBG]=00:05:19	BGS	Event03/03-KA/03-KA-H02/03-KA-H02-002	00:08:06;
+
+ ;
+
+[Next]=00:08:06;
+
+

@@ -1,0 +1,159 @@
+﻿[SkipFRAME]=01:19:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:16:21;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G03/04-SB-G03-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-SB/04-SB-G03/04-SB-G03-002	00:04:12;
+
+[PrintText]=00:03:00	Makoto	...	00:04:08;
+
+[PlayVoice]=00:03:00	Voice04/04-SB/04-SB-G03/04-SB-G03-0030	1	xxx	00:04:08;
+
+[CreateBG]=00:04:12	BGS	Event04/04-SB/04-SB-G03/04-SB-G03-003	00:07:07;
+
+[PrintText]=00:04:12	Makoto	¿Por ahí? ¿En el segundo cuarto de Ciencia...?^	00:07:06;
+
+[PlayVoice]=00:04:12	Voice04/04-SB/04-SB-G03/04-SB-G03-0050	1	mak	00:07:06;
+
+[BlackFade]=00:06:23	OUT	00:07:07;
+
+[CreateBG]=00:07:07	BGS	Event04/04-SB/04-SB-G03/04-SB-G03-004	00:08:14;
+
+[CreateBG]=00:08:14	BGS	Event04/04-SB/04-SB-G03/04-SB-G03-005	00:16:21;
+
+[BlackFade]=00:08:14	IN	00:08:20;
+
+[PrintText]=00:08:15	Makoto	Ah...	00:09:14;
+
+[PlayVoice]=00:08:15	Voice04/04-SB/04-SB-G03/04-SB-G03-0070	1	mak	00:09:14;
+
+[PrintText]=00:09:14	Kotonoha	¡N... no...! ¡Sawanaga-san...!	00:15:18;
+
+[PlayVoice]=00:09:14	Voice04/04-SB/04-SB-G03/04-SB-G03-0090	0	kot	00:15:18;
+
+[PrintText]=00:15:18	Taisuke	Está bien...	00:16:21;
+
+[PlayVoice]=00:15:18	Voice04/04-SB/04-SB-G03/04-SB-G03-0100	1	tai	00:16:21;
+
+[PrintText]=00:16:19	Kotonoha	Por favor... para...	00:21:01;
+
+[PlayVoice]=00:16:19	Voice04/04-SB/04-SB-G03/04-SB-G03-0110	0	kot	00:21:01;
+
+[PlayBgm]=00:16:21	BGM/SD_BGM/sdbgm26	01:25:00;
+
+[PlayMovie]=00:16:21	Movie04/04-SB/04-SB-G03/04-SB-G03-006	0	00:24:21;
+
+[PlaySe]=00:16:22	2	SysSe/SE_all/bed/bed_kisimi01	00:18:17;
+
+[PlaySe]=00:18:16	1	SysSe/SE_all/bed/bed_kisimi02	00:20:11;
+
+[PlaySe]=00:20:14	2	SysSe/SE_all/bed/bed_kisimi01	00:22:09;
+
+[PrintText]=00:20:14	Taisuke	Eso es lo que dices, pero te gusta ser forzada ¿No?^	00:25:11;
+
+[PlayVoice]=00:20:14	Voice04/04-SB/04-SB-G03/04-SB-G03-0120	1	tai	00:25:11;
+
+[PlaySe]=00:22:04	1	SysSe/SE_all/bed/bed_kisimi02	00:23:23;
+
+[PlayMovie]=00:24:21	Movie04/04-SB/04-SB-G03/04-SB-G03-007	0	01:01:03;
+
+[PrintText]=00:25:00	Kotonoha	¡No...! ¡Te equivocas...!	00:29:06;
+
+[PlayVoice]=00:25:00	Voice04/04-SB/04-SB-G03/04-SB-G03-0130	0	kot	00:29:06;
+
+[PlaySe]=00:25:12	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-001	00:27:11;
+
+[PlaySe]=00:27:17	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-002	00:31:12;
+
+[PrintText]=00:29:02	Taisuke	Vamos...	00:30:13;
+
+[PlayVoice]=00:29:02	Voice04/04-SB/04-SB-G03/04-SB-G03-0140	1	tai	00:30:13;
+
+[PrintText]=00:30:12	Kotonoha	¡Kuh... ah...!	00:33:16;
+
+[PlayVoice]=00:30:12	Voice04/04-SB/04-SB-G03/04-SB-G03-0160	0	kot	00:33:16;
+
+[PlaySe]=00:30:23	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:33:04;
+
+[PlaySe]=00:33:07	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:34:16;
+
+[PrintText]=00:33:17	Taisuke	¡Katsura-san!	00:35:07;
+
+[PlayVoice]=00:33:17	Voice04/04-SB/04-SB-G03/04-SB-G03-0180	1	tai	00:35:07;
+
+[PlaySe]=00:35:00	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-001	00:36:23;
+
+[PrintText]=00:35:07	Kotonoha	¡Haah...! ¡Ahh...! Ah...	00:40:09;
+
+[PlayVoice]=00:35:07	Voice04/04-SB/04-SB-G03/04-SB-G03-0200	0	kot	00:40:09;
+
+[PlaySe]=00:37:07	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:39:12;
+
+[PlaySe]=00:39:09	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-002	00:43:04;
+
+[PrintText]=00:40:09	Taisuke	Tu punto débil son tus pechos ¿No?^	00:43:16;
+
+[PlayVoice]=00:40:09	Voice04/04-SB/04-SB-G03/04-SB-G03-0210	1	tai	00:43:16;
+
+[PlaySe]=00:43:01	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:44:10;
+
+[PrintText]=00:43:17	Kotonoha	Ah... mmn... ahh...	00:48:21;
+
+[PlayVoice]=00:43:17	Voice04/04-SB/04-SB-G03/04-SB-G03-0220	0	kot	00:48:21;
+
+[PlaySe]=00:44:19	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-001	00:46:18;
+
+[PlaySe]=00:46:18	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:48:23;
+
+[PrintText]=00:48:20	Taisuke	Lo sientes más... a través de ello.	00:52:03;
+
+[PlayVoice]=00:48:20	Voice04/04-SB/04-SB-G03/04-SB-G03-0230	1	tai	00:52:03;
+
+[PlaySe]=00:49:03	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-002	00:52:22;
+
+[PrintText]=00:52:03	Kotonoha	Nn... no... no...	00:56:17;
+
+[PlayVoice]=00:52:03	Voice04/04-SB/04-SB-G03/04-SB-G03-0240	0	kot	00:56:17;
+
+[PlaySe]=00:52:22	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:54:07;
+
+[PlaySe]=00:54:16	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-002	00:58:11;
+
+[PrintText]=00:56:17	Kotonoha	Ah... ahh... ahh...	01:01:05;
+
+[PlayVoice]=00:56:17	Voice04/04-SB/04-SB-G03/04-SB-G03-0260	0	kot	01:01:05;
+
+[PlaySe]=00:58:12	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-001	01:00:11;
+
+[PlaySe]=01:01:03	2	SysSe/SE_all/gaya/kyousitu_rouka	01:25:00;
+
+[CreateBG]=01:01:03	BGS	Event04/04-SB/04-SB-G03/04-SB-G03-005	01:25:00;
+
+[PrintText]=01:01:05	Makoto	Kuh...	01:02:08;
+
+[PlayVoice]=01:01:05	Voice04/04-SB/04-SB-G03/04-SB-G03-0270	1	mak	01:02:08;
+
+[PrintText]=01:02:08	Makoto	¿Taisuke... y Kotonoha...?^	01:06:00;
+
+[PlayVoice]=01:02:08	Voice04/04-SB/04-SB-G03/04-SB-G03-0290	1	mak	01:06:00;
+
+[PrintText]=01:06:00	Makoto	...Había pensado en la posibilidad, pero... no me esperaba... esto así...	01:14:13;
+
+[PlayVoice]=01:06:00	Voice04/04-SB/04-SB-G03/04-SB-G03-0300	1	mak	01:14:13;
+
+[PrintText]=01:14:13	Kotonoha	¡Haah... nn...! ¡Nn...!	01:18:20;
+
+[PlayVoice]=01:14:13	Voice04/04-SB/04-SB-G03/04-SB-G03-0310	0	kot	01:18:20;
+
+[PrintText]=01:18:20	Makoto	¡Kuh...!	01:19:23;
+
+[PlayVoice]=01:18:20	Voice04/04-SB/04-SB-G03/04-SB-G03-0330	1	mak	01:19:23;
+
+[SetSELECT]=01:19:00	*Regresar a Clase*	null	01:24:00;
+
+ ;
+
+[Next]=01:25:00;
+
+

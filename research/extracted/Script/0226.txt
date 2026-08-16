@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:07:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:07:14;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-G03/SE02-2K-G03-001	00:07:14;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-G03/02-2K-G03-001	00:07:14;
+
+[PrintText]=00:00:00	Makoto	...	00:01:03;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-G03/02-2K-G03-0030	1	xxx	00:01:03;
+
+[PrintText]=00:01:04	Kotonoha	V-Vamos, será mejor que nos preparemos.	00:03:22;
+
+[PlayVoice]=00:01:04	Voice02/02-2K/02-2K-G03/02-2K-G03-0040	0	kot	00:03:22;
+
+[PrintText]=00:03:22	Makoto	S-Sí.	00:06:13;
+
+[PlayVoice]=00:03:22	Voice02/02-2K/02-2K-G03/02-2K-G03-0050	1	mak	00:06:13;
+
+[BlackFade]=00:06:14	OUT	00:07:14;
+
+ ;
+
+[Next]=00:07:14;
+
+
+
+

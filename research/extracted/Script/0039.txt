@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:13:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:13:08;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-D03/SE01-00-D03-001	00:13:08;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-D03/01-00-D03-001	00:01:14;
+
+[CreateBG]=00:01:14	BGS	Event01/01-00/01-00-D03/01-00-D03-002	00:05:02;
+
+[PrintText]=00:01:20	Sekai	¡Ah! Tengo que hacer algo, ¡luego nos vemos!	00:05:23;
+
+[PlayVoice]=00:01:20	Voice01/01-00/01-00-D03/01-00-D03-0030	0	sek	00:05:23;
+
+[CreateBG]=00:05:02	BGS	Event01/01-00/01-00-D03/01-00-D03-003	00:09:04;
+
+[CreateBG]=00:09:04	BGS	Event01/01-00/01-00-D03/01-00-D03-004	00:13:08;
+
+[PrintText]=00:09:10	Makoto	Creo que no tengo opción, voy a tener que ir solo...	00:12:04;
+
+[PlayVoice]=00:09:10	Voice01/01-00/01-00-D03/01-00-D03-0050	1	mak	00:12:04;
+
+ ;
+
+[Next]=00:13:08;
+
+
+
+

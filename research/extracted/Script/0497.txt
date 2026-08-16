@@ -1,0 +1,155 @@
+﻿[SkipFRAME]=01:34:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	01:34:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-001	00:03:06;
+
+[PrintText]=00:00:00	Kotonoha	Estoy en casa.	00:01:02;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-G00/03-BK-G00-0050	0	kot	00:01:02;
+
+[PrintText]=00:01:02	Madre de Kotonoha	Bienvenida a casa.	00:02:08;
+
+[PlayVoice]=00:01:02	Voice03/03-BK/03-BK-G00/03-BK-G00-0060	0	man	00:02:08;
+
+[PrintText]=00:02:08	Kotonoha	¡¿Eh?!	00:03:06;
+
+[PlayVoice]=00:02:08	Voice03/03-BK/03-BK-G00/03-BK-G00-0070	0	kot	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-002	00:12:09;
+
+[PrintText]=00:03:06	Kotonoha	¡Mamá! ¿¡Estás en casa!?^	00:05:23;
+
+[PlayVoice]=00:03:06	Voice03/03-BK/03-BK-G00/03-BK-G00-0090	0	kot	00:05:23;
+
+[PrintText]=00:05:19	Madre de Kotonoha	Regresé esta mañana. Hubo en retraso, y tengo tiempo hoy, así que hice un esfuerzo para levantarme.	00:12:11;
+
+[PlayVoice]=00:05:19	Voice03/03-BK/03-BK-G00/03-BK-G00-0100	0	man	00:12:11;
+
+[CreateBG]=00:12:09	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-003	00:16:16;
+
+[PrintText]=00:12:09	Kotonoha	Gracias a dios...	00:14:21;
+
+[PlayVoice]=00:12:09	Voice03/03-BK/03-BK-G00/03-BK-G00-0110	0	kot	00:14:21;
+
+[PrintText]=00:14:10	Madre de Kotonoha	¿Oh? ¿Qué pasa?^	00:16:20;
+
+[PlayVoice]=00:14:10	Voice03/03-BK/03-BK-G00/03-BK-G00-0120	0	man	00:16:20;
+
+[CreateBG]=00:16:16	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-004	00:23:22;
+
+[PrintText]=00:16:16	Kotonoha	Mi traje de baño ¿Dónde pusimos ese traje de baño que llevaba en el verano pasado?^	00:22:07;
+
+[PlayVoice]=00:16:16	Voice03/03-BK/03-BK-G00/03-BK-G00-0130	0	kot	00:22:07;
+
+[PrintText]=00:22:04	Madre de Kotonoha	¿Traje de baño?^	00:23:07;
+
+[PlayVoice]=00:22:04	Voice03/03-BK/03-BK-G00/03-BK-G00-0150	0	man	00:23:07;
+
+[PrintText]=00:23:04	Kotonoha	¡Uh-huh!	00:23:21;
+
+[PlayVoice]=00:23:04	Voice03/03-BK/03-BK-G00/03-BK-G00-0160	0	kot	00:23:21;
+
+[CreateBG]=00:23:22	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-005	00:33:12;
+
+[PrintText]=00:23:23	Madre de Kotonoha	Dejamos todos los trajes de baño en nuestra casa de vacaciones en Castiglioncello.	00:29:12;
+
+[PlayVoice]=00:23:23	Voice03/03-BK/03-BK-G00/03-BK-G00-0170	0	man	00:29:12;
+
+[PrintText]=00:29:09	Kotonoha	Ah...	00:30:10;
+
+[PlayVoice]=00:29:09	Voice03/03-BK/03-BK-G00/03-BK-G00-0190	0	kot	00:30:10;
+
+[PrintText]=00:30:09	Madre de Kotonoha	¿Qué tanto importa? ¿Por qué necesitas un traje de baño de repente?^	00:33:09;
+
+[PlayVoice]=00:30:09	Voice03/03-BK/03-BK-G00/03-BK-G00-0200	0	man	00:33:09;
+
+[CreateBG]=00:33:12	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-006	00:37:11;
+
+[PrintText]=00:33:13	Kotonoha	U-um... porque iré a la piscina.	00:37:13;
+
+[PlayVoice]=00:33:13	Voice03/03-BK/03-BK-G00/03-BK-G00-0210	0	kot	00:37:13;
+
+[CreateBG]=00:37:11	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-005	00:38:17;
+
+[PrintText]=00:37:11	Madre de Kotonoha	¿Juntos con tu novio?^	00:39:00;
+
+[PlayVoice]=00:37:11	Voice03/03-BK/03-BK-G00/03-BK-G00-0220	0	man	00:39:00;
+
+[CreateBG]=00:38:17	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-006	00:57:17;
+
+[PrintText]=00:38:17	Kotonoha	¡No! ¡Con mis amigos! ...pero Makoto-kun también irá.	00:45:18;
+
+[PlayVoice]=00:38:17	Voice03/03-BK/03-BK-G00/03-BK-G00-0230	0	kot	00:45:18;
+
+[PrintText]=00:45:09	Madre de Kotonoha	Ahh... entonces necesitas un traje de baño que llame su atención.	00:51:17;
+
+[PlayVoice]=00:45:09	Voice03/03-BK/03-BK-G00/03-BK-G00-0240	0	man	00:51:17;
+
+[PrintText]=00:51:14	Kotonoha	Ooh... No te estoy diciendo nada.	00:53:19;
+
+[PlayVoice]=00:51:14	Voice03/03-BK/03-BK-G00/03-BK-G00-0250	0	kot	00:53:19;
+
+[PrintText]=00:53:18	Madre de Kotonoha	Dale una mirada a la bolsa de la mesa.	00:57:02;
+
+[PlayVoice]=00:53:18	Voice03/03-BK/03-BK-G00/03-BK-G00-0260	0	man	00:57:02;
+
+[PrintText]=00:57:01	Kotonoha	¡¿Eh?!	00:57:14;
+
+[PlayVoice]=00:57:01	Voice03/03-BK/03-BK-G00/03-BK-G00-0270	0	kot	00:57:14;
+
+[CreateBG]=00:57:17	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-009	01:04:15;
+
+[PrintText]=00:57:17	Madre de Kotonoha	Oh, qué extraño. Lo que pasa es que hay un traje de baño entre lo que traje... ¡Aquí!	01:04:19;
+
+[PlayVoice]=00:57:17	Voice03/03-BK/03-BK-G00/03-BK-G00-0290	0	man	01:04:19;
+
+[CreateBG]=01:04:15	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-002	01:12:04;
+
+[PrintText]=01:04:15	Kotonoha	¡¿Ehh?! ¡Qué increíble!	01:07:06;
+
+[PlayVoice]=01:04:15	Voice03/03-BK/03-BK-G00/03-BK-G00-0300	0	kot	01:07:06;
+
+[PrintText]=01:06:02	Madre de Kotonoha	Lo es ¿No?^	01:08:08;
+
+[PlayVoice]=01:06:02	Voice03/03-BK/03-BK-G00/03-BK-G00-0310	0	man	01:08:08;
+
+[PrintText]=01:08:07	Kotonoha	¿Cómo sabías? Si lo hemos decidido hoy.	01:12:05;
+
+[PlayVoice]=01:08:07	Voice03/03-BK/03-BK-G00/03-BK-G00-0320	0	kot	01:12:05;
+
+[CreateBG]=01:12:04	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-003	01:21:18;
+
+[PrintText]=01:12:04	Madre de Kotonoha	Bueno, la verdad es que, lo compré pensando que ir a Australia para las próximas vacaciones.	01:18:03;
+
+[PlayVoice]=01:12:04	Voice03/03-BK/03-BK-G00/03-BK-G00-0330	0	man	01:18:03;
+
+[PrintText]=01:18:03	Madre de Kotonoha	Es por eso también hay uno para Kokoro.	01:21:16;
+
+[PlayVoice]=01:18:03	Voice03/03-BK/03-BK-G00/03-BK-G00-0331	0	man	01:21:16;
+
+[CreateBG]=01:21:18	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-004	01:34:13;
+
+[PrintText]=01:21:20	Kotonoha	Ya veo... que suerte tengo.	01:26:14;
+
+[PlayVoice]=01:21:20	Voice03/03-BK/03-BK-G00/03-BK-G00-0340	0	kot	01:26:14;
+
+[PrintText]=01:26:16	Madre de Kotonoha	Debes estar agradecida por el amor de una madre.	01:28:20;
+
+[PlayVoice]=01:26:16	Voice03/03-BK/03-BK-G00/03-BK-G00-0350	0	man	01:28:20;
+
+[PrintText]=01:28:16	Kotonoha	Oh, Lo estoy... Gracias, Mamá.	01:32:14;
+
+[PlayVoice]=01:28:16	Voice03/03-BK/03-BK-G00/03-BK-G00-0360	0	kot	01:32:14;
+
+[PrintText]=01:32:11	Madre de Kotonoha	Ufufu...	01:33:07;
+
+[PlayVoice]=01:32:11	Voice03/03-BK/03-BK-G00/03-BK-G00-0370	0	man	01:33:07;
+
+[BlackFade]=01:33:13	OUT	01:34:13;
+
+ ;
+
+[Next]=01:34:13;
+
+

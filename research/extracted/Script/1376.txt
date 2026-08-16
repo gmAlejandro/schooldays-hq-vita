@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:34:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:34:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-003	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-L03/05-5O-L03-002	00:04:23;
+
+[PrintText]=00:03:02	Sekai	...Makoto.	00:04:02;
+
+[PlayVoice]=00:03:02	Voice05/05-5O/05-5O-L03/05-5O-L03-0050	0	sek	00:04:02;
+
+[CreateBG]=00:04:23	BGS	Event05/05-5O/05-5O-L03/05-5O-L03-003	00:07:22;
+
+[PrintText]=00:05:08	Makoto	...Dijo que vendría hoy.	00:07:20;
+
+[PlayVoice]=00:05:08	Voice05/05-5O/05-5O-L03/05-5O-L03-0060	1	mak	00:07:20;
+
+[CreateBG]=00:07:22	BGS	Event05/05-5O/05-5O-L03/05-5O-L03-004	00:11:07;
+
+[PrintText]=00:08:01	Sekai	¿Eh?^	00:09:00;
+
+[PlayVoice]=00:08:01	Voice05/05-5O/05-5O-L03/05-5O-L03-0070	0	sek	00:09:00;
+
+[PrintText]=00:09:01	Makoto	A mi casa.	00:09:22;
+
+[PlayVoice]=00:09:01	Voice05/05-5O/05-5O-L03/05-5O-L03-0080	1	mak	00:09:22;
+
+[PrintText]=00:10:01	Sekai	No.	00:11:05;
+
+[PlayVoice]=00:10:01	Voice05/05-5O/05-5O-L03/05-5O-L03-0090	0	sek	00:11:05;
+
+[CreateBG]=00:11:07	BGS	Event00/00-00/00-00-A04/00-00-A04-001a	00:14:19;
+
+[PrintText]=00:11:07	Makoto	...	00:12:03;
+
+[PlayVoice]=00:11:07	Voice05/05-5O/05-5O-L03/05-5O-L03-0100	1	xxx	00:12:03;
+
+[PrintText]=00:12:03	Sekai	Por favor...	00:13:13;
+
+[PlayVoice]=00:12:03	Voice05/05-5O/05-5O-L03/05-5O-L03-0110	0	sek	00:13:13;
+
+[PrintText]=00:13:15	Makoto	Sekai...	00:14:15;
+
+[PlayVoice]=00:13:15	Voice05/05-5O/05-5O-L03/05-5O-L03-0120	1	mak	00:14:15;
+
+[CreateBG]=00:14:19	BGS	Event05/05-5O/05-5O-L03/05-5O-L03-002	00:20:13;
+
+[PrintText]=00:15:09	Sekai	Ven a mi casa.	00:16:22;
+
+[PlayVoice]=00:15:09	Voice05/05-5O/05-5O-L03/05-5O-L03-0130	0	sek	00:16:22;
+
+[PrintText]=00:16:22	Makoto	¿Eh?^	00:17:12;
+
+[PlayVoice]=00:16:22	Voice05/05-5O/05-5O-L03/05-5O-L03-0140	1	mak	00:17:12;
+
+[PrintText]=00:17:14	Sekai	No estará nadie hoy, así que...	00:20:12;
+
+[PlayVoice]=00:17:14	Voice05/05-5O/05-5O-L03/05-5O-L03-0150	0	sek	00:20:12;
+
+[CreateBG]=00:20:13	BGS	Event05/05-5O/05-5O-L03/05-5O-L03-007	00:29:06;
+
+[PrintText]=00:21:02	Makoto	...	00:22:08;
+
+[PlayVoice]=00:21:02	Voice05/05-5O/05-5O-L03/05-5O-L03-0160	1	xxx	00:22:08;
+
+[PrintText]=00:22:23	Sekai	Por favor... no dejes que Katsura-san.	00:27:10;
+
+[PlayVoice]=00:22:23	Voice05/05-5O/05-5O-L03/05-5O-L03-0170	0	sek	00:27:10;
+
+[PrintText]=00:27:12	Makoto	...	00:28:15;
+
+[PlayVoice]=00:27:12	Voice05/05-5O/05-5O-L03/05-5O-L03-0180	1	xxx	00:28:15;
+
+[CreateBG]=00:29:06	BGS	Event05/05-5O/05-5O-L03/05-5O-L03-008	00:34:06;
+
+[PrintText]=00:29:13	Sekai	¡Por favor...!	00:30:21;
+
+[PlayVoice]=00:29:13	Voice05/05-5O/05-5O-L03/05-5O-L03-0190	0	sek	00:30:21;
+
+[PrintText]=00:31:12	Makoto	...	00:32:00;
+
+[PlayVoice]=00:31:12	Voice05/05-5O/05-5O-L03/05-5O-L03-0200	1	xxx	00:32:00;
+
+[BlackFade]=00:33:06	OUT	00:34:06;
+
+ ;
+
+[Next]=00:34:06;
+
+

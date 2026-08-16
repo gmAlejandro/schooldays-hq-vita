@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:17:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:17:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-F06/04-KA-F06-001	00:02:17;
+
+[PrintText]=00:00:08	Makoto	¡Hmph!	00:01:00;
+
+[PlayVoice]=00:00:08	Voice04/04-KA/04-KA-F06/04-KA-F06-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:00	Sekai	¿Q-Qué?^	00:02:16;
+
+[PlayVoice]=00:01:00	Voice04/04-KA/04-KA-F06/04-KA-F06-0040	0	sek	00:02:16;
+
+[PrintText]=00:02:16	Makoto	Sólo de pensar en lo que pasó me irrita.	00:05:20;
+
+[PlayVoice]=00:02:16	Voice04/04-KA/04-KA-F06/04-KA-F06-0050	1	mak	00:05:20;
+
+[CreateBG]=00:02:17	BGS	Event04/04-KA/04-KA-F06/04-KA-F06-002	00:05:20;
+
+[CreateBG]=00:05:20	BGS	Event04/04-KA/04-KA-F04/04-KA-F04-002	00:14:09;
+
+[PrintText]=00:05:20	Sekai	¡Ayer por la noche en el teléfono, dijiste que era tu culpa!	00:09:11;
+
+[PlayVoice]=00:05:20	Voice04/04-KA/04-KA-F06/04-KA-F06-0060	0	sek	00:09:11;
+
+[PrintText]=00:09:11	Makoto	Cuando me levanté esta mañana, sentí que no era así.	00:13:00;
+
+[PlayVoice]=00:09:11	Voice04/04-KA/04-KA-F06/04-KA-F06-0070	1	mak	00:13:00;
+
+[PrintText]=00:13:00	Sekai	¡Lo fue!	00:14:07;
+
+[PlayVoice]=00:13:00	Voice04/04-KA/04-KA-F06/04-KA-F06-0080	0	sek	00:14:07;
+
+[CreateBG]=00:14:09	BGS	Event04/04-KA/04-KA-F06/04-KA-F06-004	00:17:15;
+
+[PrintText]=00:14:09	Makoto	Hmph.	00:15:00;
+
+[PlayVoice]=00:14:09	Voice04/04-KA/04-KA-F06/04-KA-F06-0090	1	mak	00:15:00;
+
+[PrintText]=00:15:09	Sekai	Mmn...	00:16:22;
+
+[PlayVoice]=00:15:09	Voice04/04-KA/04-KA-F06/04-KA-F06-0100	0	sek	00:16:22;
+
+ ;
+
+[Next]=00:17:15;
+
+

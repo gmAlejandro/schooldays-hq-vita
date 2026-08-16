@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:30:21;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-E02/SE02-2K-E02-001	00:30:21;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-002A	00:04:19;
+
+[PrintText]=00:04:18	Sekai	Buen día.	00:05:15;
+
+[PlayVoice]=00:04:18	Voice02/02-2K/02-2K-E02/02-2K-E02-0040	0	sek	00:05:15;
+
+[CreateBG]=00:04:19	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-002B	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-002C	00:07:06;
+
+[PrintText]=00:06:00	Makoto	Buen día.	00:07:02;
+
+[PlayVoice]=00:06:00	Voice02/02-2K/02-2K-E02/02-2K-E02-0050	1	mak	00:07:02;
+
+[CreateBG]=00:07:06	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-003	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-004	00:13:00;
+
+[CreateBG]=00:13:00	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-005	00:14:12;
+
+[CreateBG]=00:14:12	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-006	00:17:14;
+
+[PrintText]=00:14:12	Hikari	¡Buen día!	00:15:16;
+
+[PlayVoice]=00:14:12	Voice02/02-2K/02-2K-E02/02-2K-E02-0070	0	hik	00:15:16;
+
+[PrintText]=00:15:12	Sekai	Ah, Hikari. Buen día.	00:17:10;
+
+[PlayVoice]=00:15:12	Voice02/02-2K/02-2K-E02/02-2K-E02-0080	0	sek	00:17:10;
+
+[CreateBG]=00:17:14	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-007	00:20:18;
+
+[PrintText]=00:17:14	Hikari	¡Hey, hey, Sekai!	00:19:09;
+
+[PlayVoice]=00:17:14	Voice02/02-2K/02-2K-E02/02-2K-E02-0090	0	hik	00:19:09;
+
+[PrintText]=00:19:05	Sekai	¿Qué?^	00:20:14;
+
+[PlayVoice]=00:19:05	Voice02/02-2K/02-2K-E02/02-2K-E02-0100	0	sek	00:20:14;
+
+[CreateBG]=00:20:18	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-008	00:26:09;
+
+[PrintText]=00:20:18	Hikari	Tienes un minuto, hay algo que quiero decirte.	00:23:10;
+
+[PlayVoice]=00:20:18	Voice02/02-2K/02-2K-E02/02-2K-E02-0110	0	hik	00:23:10;
+
+[PrintText]=00:23:05	Sekai	El profesor vendrá pronto... así que...	00:25:08;
+
+[PlayVoice]=00:23:05	Voice02/02-2K/02-2K-E02/02-2K-E02-0120	0	sek	00:25:08;
+
+[PrintText]=00:25:02	Hikari	Es solo un momento, ven.	00:27:22;
+
+[PlayVoice]=00:25:02	Voice02/02-2K/02-2K-E02/02-2K-E02-0130	0	hik	00:27:22;
+
+[CreateBG]=00:26:09	BGS	Event02/02-2K/02-2K-E02/02-2K-E02-009	00:30:21;
+
+[PrintText]=00:27:12	Sekai	Oh, vale, vale.	00:29:16;
+
+[PlayVoice]=00:27:12	Voice02/02-2K/02-2K-E02/02-2K-E02-0140	0	sek	00:29:16;
+
+[BlackFade]=00:29:21	OUT	00:30:21;
+
+ ;
+
+[Next]=00:30:21;
+
+
+
+

@@ -1,0 +1,40 @@
+﻿[SkipFRAME]=00:09:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:09:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou_yuugata	00:09:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-C05/05-KA-C05-001	00:02:13;
+
+[PrintText]=00:00:00	Makoto	¿Qué pasa? ¿Por qué me llamas al tejado..?^	00:03:15;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-C05/05-KA-C05-0030	1	mak	00:03:15;
+
+[CreateBG]=00:02:13	BGS	Event05/05-KA/05-KA-C05/05-KA-C05-002	00:03:17;
+
+[CreateBG]=00:03:17	BGS	Event05/05-KA/05-KA-C05/05-KA-C05-003	00:04:23;
+
+[PrintText]=00:03:17	Setsuna	Itou... ¿Amas a Sekai?^	00:06:13;
+
+[PlayVoice]=00:03:17	Voice05/05-KA/05-KA-C05/05-KA-C05-0040	0	set	00:06:13;
+
+[CreateBG]=00:04:23	BGS	Event05/05-KA/05-KA-C05/05-KA-C05-004	00:06:13;
+
+[CreateBG]=00:06:13	BGS	Event05/05-KA/05-KA-C05/05-KA-C05-005	00:07:11;
+
+[PrintText]=00:06:13	Makoto	...	00:07:11;
+
+[PlayVoice]=00:06:13	Voice05/05-KA/05-KA-C05/05-KA-C05-0050	1	xxx	00:07:11;
+
+[CreateBG]=00:07:11	BGS	Event05/05-KA/05-KA-C05/05-KA-C05-004	00:09:04;
+
+[PrintText]=00:07:14	Setsuna	¿Sí?^	00:08:18;
+
+[PlayVoice]=00:07:14	Voice05/05-KA/05-KA-C05/05-KA-C05-0060	0	set	00:08:18;
+
+ ;
+
+[Next]=00:09:04;
+
+
+

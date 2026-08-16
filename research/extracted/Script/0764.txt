@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:05:17;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-F09/SE03-SA-F09-001	00:12:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F09/03-SA-F09-001	00:12:00;
+
+[PrintText]=00:00:00	Makoto	Así es.	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-F09/03-SA-F09-0030	1	mak	00:00:22;
+
+[PrintText]=00:00:22	Minami	¡¿Ehh?!	00:01:21;
+
+[PlayVoice]=00:00:22	Voice03/03-SA/03-SA-F09/03-SA-F09-0040	0	min	00:01:21;
+
+[PrintText]=00:01:21	Makoto	Kotonoha.	00:03:03;
+
+[PlayVoice]=00:01:21	Voice03/03-SA/03-SA-F09/03-SA-F09-0050	1	mak	00:03:03;
+
+[PrintText]=00:03:04	Kotonoha	¡Sí!	00:03:21;
+
+[PlayVoice]=00:03:04	Voice03/03-SA/03-SA-F09/03-SA-F09-0060	0	kot	00:03:21;
+
+[PrintText]=00:03:21	Makoto	Yo...	00:04:22;
+
+[PlayVoice]=00:03:21	Voice03/03-SA/03-SA-F09/03-SA-F09-0070	1	mak	00:04:22;
+
+[SetSELECT]=00:05:17	'Estoy enamorado de Sekai.'	null	00:10:17;
+
+ ;
+
+[Next]=00:12:04;
+
+

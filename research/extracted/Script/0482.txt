@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:21:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:21:05;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-C01/SE03-BK-C01-001	00:05:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-C01/03-BK-C01-001	00:07:12;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-C01/03-BK-C01-0030			00:07:11;
+
+[PlaySe]=00:05:08	2	Se03/03-BK/03-BK-C01/SE03-BK-C01-001	00:07:12;
+
+[PrintText]=00:07:11	Makoto	Yo... ahora sé...	00:13:05;
+
+[PlayVoice]=00:07:11	Voice03/03-BK/03-BK-C01/03-BK-C01-0040	1	mak	00:13:05;
+
+[CreateBG]=00:07:12	BGS	Event03/03-BK/03-BK-C01/03-BK-C01-002	00:21:05;
+
+[PrintText]=00:13:05	Makoto	A la que amo es...	00:17:04;
+
+[PlayVoice]=00:13:05	Voice03/03-BK/03-BK-C01/03-BK-C01-0050	1	mak	00:17:04;
+
+[PrintText]=00:17:04	Makoto	¡La manera en la que me siento es...!	00:20:03;
+
+[PlayVoice]=00:17:04	Voice03/03-BK/03-BK-C01/03-BK-C01-0060	1	mak	00:20:03;
+
+[BlackFade]=00:20:05	OUT	00:21:05;
+
+ ;
+
+[Next]=00:21:05;
+
+

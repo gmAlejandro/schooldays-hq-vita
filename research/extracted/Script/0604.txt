@@ -1,0 +1,17 @@
+﻿[SkipFRAME]=00:07:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L10/03-KA-L10-001	00:14:00;
+
+[PrintText]=00:00:06	Makoto	Solo he olvidado el almuerzo de ella hoy, y de alguna manera...	00:07:10;
+
+[PlayVoice]=00:00:06	Voice03/03-KA/03-KA-L10/03-KA-L10-0030	1	xxx	00:07:10;
+
+[SetSELECT]=00:07:20	'Empiezo a olvidarla'	'La extraño'	00:12:20;
+
+ ;
+
+[Next]=00:14:00;
+
+

@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:25:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:25:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-F02/04-SA-F02-001	00:08:08;
+
+[PrintText]=00:00:06	Makoto	¿Te refieres a Kuroda?^	00:01:04;
+
+[PlayVoice]=00:00:06	Voice04/04-SA/04-SA-F02/04-SA-F02-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:04	Sekai	Sí, le preguntare a Hikari y... espera. ¿Cómo sabías que era Hikari?^	00:05:19;
+
+[PlayVoice]=00:01:04	Voice04/04-SA/04-SA-F02/04-SA-F02-0040	0	sek	00:05:19;
+
+[PrintText]=00:05:20	Makoto	Ah... oh, tenía el presentimiento.	00:08:07;
+
+[PlayVoice]=00:05:20	Voice04/04-SA/04-SA-F02/04-SA-F02-0050	1	mak	00:08:07;
+
+[CreateBG]=00:08:08	BGS	Event04/04-SA/04-SA-F02/04-SA-F02-002	00:13:22;
+
+[PrintText]=00:08:12	Sekai	¿Solo presentimiento?^	00:09:18;
+
+[PlayVoice]=00:08:12	Voice04/04-SA/04-SA-F02/04-SA-F02-0060	0	sek	00:09:18;
+
+[PrintText]=00:09:19	Makoto	Bueno, ustedes se veían muy juntas hoy.	00:12:19;
+
+[PlayVoice]=00:09:19	Voice04/04-SA/04-SA-F02/04-SA-F02-0070	1	mak	00:12:19;
+
+[PrintText]=00:12:19	Sekai	Ah...	00:13:22;
+
+[PlayVoice]=00:12:19	Voice04/04-SA/04-SA-F02/04-SA-F02-0080	0	sek	00:13:22;
+
+[CreateBG]=00:13:22	BGS	Event04/04-SA/04-SA-F02/04-SA-F02-003	00:16:14;
+
+[PrintText]=00:14:04	Makoto	Pero... solo fue una suposición.	00:16:15;
+
+[PlayVoice]=00:14:04	Voice04/04-SA/04-SA-F02/04-SA-F02-0090	1	mak	00:16:15;
+
+[CreateBG]=00:16:14	BGS	Event04/04-SA/04-SA-F02/04-SA-F02-004	00:20:15;
+
+[PrintText]=00:16:20	Sekai	Es como... si supieras todo de mí.	00:20:17;
+
+[PlayVoice]=00:16:20	Voice04/04-SA/04-SA-F02/04-SA-F02-0100	0	sek	00:20:17;
+
+[CreateBG]=00:20:15	BGS	Event04/04-SA/04-SA-F02/04-SA-F02-004B	00:25:01;
+
+[PrintText]=00:20:22	Makoto	N-No creo que sea así.	00:23:18;
+
+[PlayVoice]=00:20:22	Voice04/04-SA/04-SA-F02/04-SA-F02-0110	1	mak	00:23:18;
+
+[PrintText]=00:23:17	Sekai	...No.	00:24:15;
+
+[PlayVoice]=00:23:17	Voice04/04-SA/04-SA-F02/04-SA-F02-0120	0	sek	00:24:15;
+
+ ;
+
+[Next]=00:25:01;
+
+

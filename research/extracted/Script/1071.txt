@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:14:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:14:17;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-F01/04-KE-F01-001	00:09:17;
+
+[PrintText]=00:00:00	Taisuke	Bueno... te llamaré un día.	00:02:23;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-F01/04-KE-F01-0030	1	tai	00:02:23;
+
+[PrintText]=00:03:00	Kotonoha	Sí.	00:04:06;
+
+[PlayVoice]=00:03:00	Voice04/04-KE/04-KE-F01/04-KE-F01-0040	0	kot	00:04:06;
+
+[PrintText]=00:04:06	Taisuke	Iré por ese lado. Nos vemos el Lunes.	00:07:19;
+
+[PlayVoice]=00:04:06	Voice04/04-KE/04-KE-F01/04-KE-F01-0050	1	tai	00:07:19;
+
+[PrintText]=00:07:19	Kotonoha	Sí, adiós.	00:09:19;
+
+[PlayVoice]=00:07:19	Voice04/04-KE/04-KE-F01/04-KE-F01-0060	0	kot	00:09:19;
+
+[CreateBG]=00:09:17	BGS	Event04/04-KE/04-KE-F01/04-KE-F01-002	00:14:17;
+
+[PrintText]=00:09:20	Kotonoha	Y ahora, tomemos el tren a casa.	00:13:04;
+
+[PlayVoice]=00:09:20	Voice04/04-KE/04-KE-F01/04-KE-F01-0080	0	kot	00:13:04;
+
+[PrintText]=00:13:04	Makoto	Sí...	00:14:05;
+
+[PlayVoice]=00:13:04	Voice04/04-KE/04-KE-F01/04-KE-F01-0090	1	mak	00:14:05;
+
+ ;
+
+[Next]=00:14:17;
+
+

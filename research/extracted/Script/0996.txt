@@ -1,0 +1,119 @@
+﻿[SkipFRAME]=00:56:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:56:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-001	00:01:00;
+
+[PrintText]=00:00:00	Kotonoha	...	00:02:08;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-I00/04-KB-I00-0050	0	xxx	00:02:08;
+
+[CreateBG]=00:01:00	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-002	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-003	00:03:05;
+
+[PrintText]=00:02:08	Kotonoha	Ah...	00:03:04;
+
+[PlayVoice]=00:02:08	Voice04/04-KB/04-KB-I00/04-KB-I00-0070	0	kot	00:03:04;
+
+[PrintText]=00:03:04	Makoto	...Kotonoha.	00:04:08;
+
+[PlayVoice]=00:03:04	Voice04/04-KB/04-KB-I00/04-KB-I00-0080	1	mak	00:04:08;
+
+[CreateBG]=00:03:05	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-004	00:06:02;
+
+[PrintText]=00:04:08	Kotonoha	¡Un correo..!	00:05:08;
+
+[PlayVoice]=00:04:08	Voice04/04-KB/04-KB-I00/04-KB-I00-0090	0	kot	00:05:08;
+
+[PrintText]=00:05:08	Makoto	...	00:06:02;
+
+[PlayVoice]=00:05:08	Voice04/04-KB/04-KB-I00/04-KB-I00-0100	1	xxx	00:06:02;
+
+[CreateBG]=00:06:02	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-005	00:20:21;
+
+[PrintText]=00:06:02	Kotonoha	Creí que te había mandado un correo, pero... es extraño.	00:10:08;
+
+[PlayVoice]=00:06:02	Voice04/04-KB/04-KB-I00/04-KB-I00-0110	0	kot	00:10:08;
+
+[PrintText]=00:10:08	Kotonoha	Mi celular... te estaba enviando un correo, pero no se envió... tal vez esté malogrado. Eheheh...	00:18:22;
+
+[PlayVoice]=00:10:08	Voice04/04-KB/04-KB-I00/04-KB-I00-0111	0	kot	00:18:22;
+
+[PrintText]=00:18:22	Makoto	...No está malogrado.	00:20:08;
+
+[PlayVoice]=00:18:22	Voice04/04-KB/04-KB-I00/04-KB-I00-0120	1	mak	00:20:08;
+
+[PrintText]=00:20:07	Kotonoha	¿Eh...?^	00:20:20;
+
+[PlayVoice]=00:20:07	Voice04/04-KB/04-KB-I00/04-KB-I00-0130	0	kot	00:20:20;
+
+[PrintText]=00:20:20	Makoto	He bloqueado tu numero...	00:22:16;
+
+[PlayVoice]=00:20:20	Voice04/04-KB/04-KB-I00/04-KB-I00-0140	1	mak	00:22:16;
+
+[CreateBG]=00:20:21	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-004	00:22:16;
+
+[PrintText]=00:22:07	Kotonoha	Está malogrado ¿No? Estoy segura. Después de todo, Estoy segura que te envié uno esta mañana. ¿Huh?, Que extraño...	00:31:03;
+
+[PlayVoice]=00:22:07	Voice04/04-KB/04-KB-I00/04-KB-I00-0150	0	kot	00:31:03;
+
+[CreateBG]=00:22:16	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-007	00:28:00;
+
+[CreateBG]=00:28:00	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-008	00:36:20;
+
+[PrintText]=00:31:03	Makoto	Ya es suficiente ¿No crees?^	00:33:21;
+
+[PlayVoice]=00:31:03	Voice04/04-KB/04-KB-I00/04-KB-I00-0160	1	mak	00:33:21;
+
+[PrintText]=00:33:21	Kotonoha	¿'Suficiente'?^	00:35:07;
+
+[PlayVoice]=00:33:21	Voice04/04-KB/04-KB-I00/04-KB-I00-0170	0	kot	00:35:07;
+
+[PrintText]=00:35:07	Makoto	Ya no te amo.	00:36:20;
+
+[PlayVoice]=00:35:07	Voice04/04-KB/04-KB-I00/04-KB-I00-0180	1	mak	00:36:20;
+
+[CreateBG]=00:36:20	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-009	00:41:01;
+
+[PrintText]=00:36:20	Kotonoha	No...	00:38:03;
+
+[PlayVoice]=00:36:20	Voice04/04-KB/04-KB-I00/04-KB-I00-0190	0	kot	00:38:03;
+
+[PrintText]=00:38:02	Makoto	Terminemos.	00:39:01;
+
+[PlayVoice]=00:38:02	Voice04/04-KB/04-KB-I00/04-KB-I00-0200	1	mak	00:39:01;
+
+[PrintText]=00:39:01	Kotonoha	No...	00:40:07;
+
+[PlayVoice]=00:39:01	Voice04/04-KB/04-KB-I00/04-KB-I00-0210	0	kot	00:40:07;
+
+[PrintText]=00:40:07	Makoto	...	00:41:01;
+
+[PlayVoice]=00:40:07	Voice04/04-KB/04-KB-I00/04-KB-I00-0220	1	xxx	00:41:01;
+
+[CreateBG]=00:41:01	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-010	00:46:07;
+
+[PrintText]=00:41:01	Kotonoha	¡No...! ¡Yo aún...!	00:45:15;
+
+[PlayVoice]=00:41:01	Voice04/04-KB/04-KB-I00/04-KB-I00-0230	0	kot	00:45:15;
+
+[PrintText]=00:45:14	Makoto	Adiós.	00:46:14;
+
+[PlayVoice]=00:45:14	Voice04/04-KB/04-KB-I00/04-KB-I00-0240	1	mak	00:46:14;
+
+[CreateBG]=00:46:07	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-011	00:51:11;
+
+[PlaySe]=00:46:12	1	SysSe/SE_all/footsteps/asioto_out_walk	00:51:21;
+
+[PrintText]=00:46:14	Kotonoha	¡Nooo...!	00:56:01;
+
+[PlayVoice]=00:46:14	Voice04/04-KB/04-KB-I00/04-KB-I00-0260	0	kot	00:56:01;
+
+[CreateBG]=00:51:11	BGS	Event04/04-KB/04-KB-I00/04-KB-I00-013	00:56:14;
+
+ ;
+
+[Next]=00:56:14;
+
+

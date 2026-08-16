@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:42:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:48:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-F02/05-KB-F02-001	00:04:05;
+
+[PrintText]=00:00:00	Hikari	¡Si nos disculpas por un segundo!	00:02:04;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-F02/05-KB-F02-0030	0	hik	00:02:04;
+
+[PrintText]=00:02:04	Kotonoha	¿Eh...? Um...	00:04:08;
+
+[PlayVoice]=00:02:04	Voice05/05-KB/05-KB-F02/05-KB-F02-0050	0	kot	00:04:08;
+
+[CreateBG]=00:04:05	BGS	Event05/05-KB/05-KB-F02/05-KB-F02-002	00:09:21;
+
+[PrintText]=00:04:08	Nanami	¡Hey, Itou!	00:05:12;
+
+[PlayVoice]=00:04:08	Voice05/05-KB/05-KB-F02/05-KB-F02-0060	0	nan	00:05:12;
+
+[PrintText]=00:04:20	Makoto	Ah... oh, eres tú, Kanroji.	00:09:04;
+
+[PlayVoice]=00:04:20	Voice05/05-KB/05-KB-F02/05-KB-F02-0070	1	mak	00:09:04;
+
+[PrintText]=00:08:03	Nanami	Hey ¿Qué pasa con ese tono?^	00:10:01;
+
+[PlayVoice]=00:08:03	Voice05/05-KB/05-KB-F02/05-KB-F02-0080	0	nan	00:10:01;
+
+[PrintText]=00:09:08	Makoto	Usualmente no me hablas cuando estamos en el tren.	00:15:13;
+
+[PlayVoice]=00:09:08	Voice05/05-KB/05-KB-F02/05-KB-F02-0090	1	mak	00:15:13;
+
+[CreateBG]=00:09:21	BGS	Event05/05-KB/05-KB-F02/05-KB-F02-003	00:40:12;
+
+[PrintText]=00:14:21	Nanami	Eso fue en el pasado. Empecemos de nuevo. Buen día.	00:19:10;
+
+[PlayVoice]=00:14:21	Voice05/05-KB/05-KB-F02/05-KB-F02-0100	0	nan	00:19:10;
+
+[PrintText]=00:18:18	Makoto	Sí, buen día.	00:21:13;
+
+[PlayVoice]=00:18:18	Voice05/05-KB/05-KB-F02/05-KB-F02-0110	1	mak	00:21:13;
+
+[PrintText]=00:21:06	Nanami	Admítelo ¿No te sientes cansado en el camino a la escuela? ¿No te gustaría hablar con alguien?^	00:27:04;
+
+[PlayVoice]=00:21:06	Voice05/05-KB/05-KB-F02/05-KB-F02-0120	0	nan	00:27:04;
+
+[PrintText]=00:26:03	Makoto	Kuroda está ahí ¿No? Ve a hablar con ella.	00:31:02;
+
+[PlayVoice]=00:26:03	Voice05/05-KB/05-KB-F02/05-KB-F02-0130	1	mak	00:31:02;
+
+[PrintText]=00:30:07	Nanami	Oh, pues claro. Ella también se unirá ¿Cierto?^	00:33:14;
+
+[PlayVoice]=00:30:07	Voice05/05-KB/05-KB-F02/05-KB-F02-0140	0	nan	00:33:14;
+
+[PrintText]=00:33:08	Hikari	¿Ehh...? Ah... S-Sí.	00:36:23;
+
+[PlayVoice]=00:33:08	Voice05/05-KB/05-KB-F02/05-KB-F02-0150	0	hik	00:36:23;
+
+[PrintText]=00:36:19	Nanami	¿Lo ves?^	00:37:17;
+
+[PlayVoice]=00:36:19	Voice05/05-KB/05-KB-F02/05-KB-F02-0160	0	nan	00:37:17;
+
+[PrintText]=00:37:04	Makoto	Bueno ¿Por qué no?^	00:39:23;
+
+[PlayVoice]=00:37:04	Voice05/05-KB/05-KB-F02/05-KB-F02-0170	1	mak	00:39:23;
+
+[CreateBG]=00:40:12	BGS	Event05/05-KB/05-KB-F02/05-KB-F02-004	00:48:20;
+
+[PrintText]=00:40:12	Kotonoha	Ah... Mako...	00:42:06;
+
+[PlayVoice]=00:40:12	Voice05/05-KB/05-KB-F02/05-KB-F02-0180	0	kot	00:42:06;
+
+[PrintText]=00:41:21	Makoto	¿Hmn?^	00:43:17;
+
+[PlayVoice]=00:41:21	Voice05/05-KB/05-KB-F02/05-KB-F02-0190	1	mak	00:43:17;
+
+[SetSELECT]=00:42:18	*Hablar con Kotonoha*	null	00:47:18;
+
+ ;
+
+[Next]=00:48:20;
+
+

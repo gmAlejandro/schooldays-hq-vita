@@ -1,0 +1,187 @@
+﻿[SkipFRAME]=01:40:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:25:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-005	00:18:12;
+
+[PrintText]=00:01:05	Sekai	...	00:01:17;
+
+[PlayVoice]=00:01:05	Voice04/04-SA/04-SA-B01/04-SA-B01-0040	0	xxx	00:01:17;
+
+[PlaySe]=00:04:03	1	SysSe/SE_all/door/door_mansyon	00:06:02;
+
+[PrintText]=00:04:15	Madre de Sekai	¡Ya voy!	00:05:18;
+
+[PlayVoice]=00:04:15	Voice04/04-SA/04-SA-B01/04-SA-B01-0060	0	yko	00:05:18;
+
+[PrintText]=00:05:18	Madre de Sekai	Oh, ¿Eres un amigo de Sekai...? Ya veo.	00:10:13;
+
+[PlayVoice]=00:05:18	Voice04/04-SA/04-SA-B01/04-SA-B01-0070	0	yko	00:10:13;
+
+[PrintText]=00:10:20	Madre de Sekai	Sekai, tienes visita.	00:13:04;
+
+[PlayVoice]=00:10:20	Voice04/04-SA/04-SA-B01/04-SA-B01-0080	0	yko	00:13:04;
+
+[PrintText]=00:13:03	Sekai	Dile que no estoy.	00:15:00;
+
+[PlayVoice]=00:13:03	Voice04/04-SA/04-SA-B01/04-SA-B01-0090	0	sek	00:15:00;
+
+[PrintText]=00:15:00	Madre de Sekai	¿Por qué?^	00:16:06;
+
+[PlayVoice]=00:15:00	Voice04/04-SA/04-SA-B01/04-SA-B01-0100	0	yko	00:16:06;
+
+[PrintText]=00:16:08	Sekai	Porque sí.	00:17:20;
+
+[PlayVoice]=00:16:08	Voice04/04-SA/04-SA-B01/04-SA-B01-0110	0	sek	00:17:20;
+
+[PrintText]=00:17:20	Madre de Sekai	...	00:18:16;
+
+[PlayVoice]=00:17:20	Voice04/04-SA/04-SA-B01/04-SA-B01-0120	0	xxx	00:18:16;
+
+[CreateBG]=00:18:12	BGS	Event04/04-SA/04-SA-B01/04-SA-B01-002	00:25:05;
+
+[PrintText]=00:18:23	Madre de Sekai	Ah, perdón por hacerte esperar...	00:22:14;
+
+[PlayVoice]=00:18:23	Voice04/04-SA/04-SA-B01/04-SA-B01-0130	0	yko	00:22:14;
+
+[PrintText]=00:22:13	Sekai	Haah...	00:23:13;
+
+[PlayVoice]=00:22:13	Voice04/04-SA/04-SA-B01/04-SA-B01-0140	0	sek	00:23:13;
+
+[PrintText]=00:23:14	Madre de Sekai	Pasa.	00:25:06;
+
+[PlayVoice]=00:23:14	Voice04/04-SA/04-SA-B01/04-SA-B01-0150	0	yko	00:25:06;
+
+[CreateBG]=00:25:05	BGS	Event04/04-SA/04-SA-B01/04-SA-B01-002B	00:26:15;
+
+[PrintText]=00:25:05	Sekai	¿Ehh?^	00:26:15;
+
+[PlayVoice]=00:25:05	Voice04/04-SA/04-SA-B01/04-SA-B01-0160	0	sek	00:26:15;
+
+[PlayBgm]=00:26:15	BGM/SD_BGM/sdbgm17	01:40:00;
+
+[CreateBG]=00:26:15	BGS	Event04/04-SA/04-SA-B01/04-SA-B01-002	00:41:05;
+
+[PrintText]=00:27:08	Madre de Sekai	Sekai dijo que no quiere salir.	00:29:22;
+
+[PlayVoice]=00:27:08	Voice04/04-SA/04-SA-B01/04-SA-B01-0170	0	yko	00:29:22;
+
+[PrintText]=00:29:21	Makoto	Ya veo...	00:31:05;
+
+[PlayVoice]=00:29:21	Voice04/04-SA/04-SA-B01/04-SA-B01-0180	1	mak	00:31:05;
+
+[PrintText]=00:31:06	Madre de Sekai	Entonces... si no te importa ¿Por qué no tomamos un té?^	00:37:00;
+
+[PlayVoice]=00:31:06	Voice04/04-SA/04-SA-B01/04-SA-B01-0190	0	yko	00:37:00;
+
+[PrintText]=00:37:01	Makoto	¿Ehh?^	00:37:21;
+
+[PlayVoice]=00:37:01	Voice04/04-SA/04-SA-B01/04-SA-B01-0200	1	mak	00:37:21;
+
+[PrintText]=00:37:21	Madre de Sekai	¿No?^	00:38:17;
+
+[PlayVoice]=00:37:21	Voice04/04-SA/04-SA-B01/04-SA-B01-0210	0	yko	00:38:17;
+
+[PrintText]=00:38:18	Makoto	No, esta bien.	00:41:05;
+
+[PlayVoice]=00:38:18	Voice04/04-SA/04-SA-B01/04-SA-B01-0220	1	mak	00:41:05;
+
+[CreateBG]=00:41:05	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-005	00:44:04;
+
+[PrintText]=00:41:11	Madre de Sekai	Ufufu... esa es la actitud.	00:44:04;
+
+[PlayVoice]=00:41:11	Voice04/04-SA/04-SA-B01/04-SA-B01-0230	0	yko	00:44:04;
+
+[CreateBG]=00:44:04	BGS	Event04/04-SA/04-SA-B01/04-SA-B01-002	00:54:01;
+
+[PrintText]=00:44:09	Madre de Sekai	Hey, no me has dicho tu nombre aún ¿No?^	00:49:18;
+
+[PlayVoice]=00:44:09	Voice04/04-SA/04-SA-B01/04-SA-B01-0290	0	yko	00:49:18;
+
+[PrintText]=00:49:19	Makoto	Itou Makoto.	00:51:07;
+
+[PlayVoice]=00:49:19	Voice04/04-SA/04-SA-B01/04-SA-B01-0300	1	mak	00:51:07;
+
+[PrintText]=00:51:06	Madre de Sekai	¿Itou... Makoto?^	00:53:07;
+
+[PlayVoice]=00:51:06	Voice04/04-SA/04-SA-B01/04-SA-B01-0310	0	yko	00:53:07;
+
+[BlackFade]=00:53:01	OUT	00:54:01;
+
+[PrintText]=00:53:07	Makoto	Sí.	00:54:02;
+
+[PlayVoice]=00:53:07	Voice04/04-SA/04-SA-B01/04-SA-B01-0330	1	mak	00:54:02;
+
+[CreateBG]=00:54:01	BGS	System/Screen/Black	01:11:13;
+
+[PrintText]=00:54:07	Madre de Sekai	Ahh... sí, sí, Makoto-kun ¿No? Ya veo, así que tu eres Makoto-kun... hmm...	01:04:21;
+
+[PlayVoice]=00:54:07	Voice04/04-SA/04-SA-B01/04-SA-B01-0340	0	yko	01:04:21;
+
+[PrintText]=01:04:23	Makoto	¿U-um... Pasa algo...?^	01:07:22;
+
+[PlayVoice]=01:04:23	Voice04/04-SA/04-SA-B01/04-SA-B01-0350	1	mak	01:07:22;
+
+[PrintText]=01:07:22	Madre de Sekai	Sé todo de ti. Después de todo, Sekai y Se-chan eran...	01:12:04;
+
+[PlayVoice]=01:07:22	Voice04/04-SA/04-SA-B01/04-SA-B01-0360	0	yko	01:12:04;
+
+[PlaySe]=01:11:09	1	SysSe/SE_all/door/door_room	01:12:10;
+
+[CreateBG]=01:11:13	BGS	Event04/04-SA/04-SA-B01/04-SA-B01-006	01:34:10;
+
+[PrintText]=01:11:18	Sekai	¡Mamá!	01:13:08;
+
+[PlayVoice]=01:11:18	Voice04/04-SA/04-SA-B01/04-SA-B01-0380	0	sek	01:13:08;
+
+[PrintText]=01:13:08	Madre de Sekai	Oh, Sekai. ¿Estás despierta?^	01:15:18;
+
+[PlayVoice]=01:13:08	Voice04/04-SA/04-SA-B01/04-SA-B01-0390	0	yko	01:15:18;
+
+[PrintText]=01:15:18	Sekai	¡No estaba dormida! ¡Deja de hablar de cosas como esas!	01:19:03;
+
+[PlayVoice]=01:15:18	Voice04/04-SA/04-SA-B01/04-SA-B01-0400	0	sek	01:19:03;
+
+[PrintText]=01:19:03	Madre de Sekai	¿Ehh? Pero es la primera vez que mi hija trae a un chico a casa... y solo...	01:25:05;
+
+[PlayVoice]=01:19:03	Voice04/04-SA/04-SA-B01/04-SA-B01-0410	0	yko	01:25:05;
+
+[PrintText]=01:25:06	Sekai	¡No!	01:26:03;
+
+[PlayVoice]=01:25:06	Voice04/04-SA/04-SA-B01/04-SA-B01-0420	0	sek	01:26:03;
+
+[PrintText]=01:26:03	Makoto	Sekai...	01:27:01;
+
+[PlayVoice]=01:26:03	Voice04/04-SA/04-SA-B01/04-SA-B01-0430	1	mak	01:27:01;
+
+[PrintText]=01:26:23	Sekai	Hablemos afuera.	01:29:08;
+
+[PlayVoice]=01:26:23	Voice04/04-SA/04-SA-B01/04-SA-B01-0440	0	sek	01:29:08;
+
+[PrintText]=01:29:09	Makoto	Está bien.	01:30:04;
+
+[PlayVoice]=01:29:09	Voice04/04-SA/04-SA-B01/04-SA-B01-0450	1	mak	01:30:04;
+
+[PrintText]=01:30:06	Madre de Sekai	Makoto-kun, vamos a conversar mejor otro día.	01:33:08;
+
+[PlayVoice]=01:30:06	Voice04/04-SA/04-SA-B01/04-SA-B01-0460	0	yko	01:33:08;
+
+[PrintText]=01:33:08	Makoto	Haah.	01:34:09;
+
+[PlayVoice]=01:33:08	Voice04/04-SA/04-SA-B01/04-SA-B01-0470	1	mak	01:34:09;
+
+[CreateBG]=01:34:10	BGS	Event04/04-SA/04-SA-B01/04-SA-B01-007	01:39:10;
+
+[PrintText]=01:34:15	Sekai	¡Mamá!	01:36:11;
+
+[PlayVoice]=01:34:15	Voice04/04-SA/04-SA-B01/04-SA-B01-0480	0	sek	01:36:11;
+
+[PrintText]=01:36:12	Madre de Sekai	Vale, vale.	01:37:16;
+
+[PlayVoice]=01:36:12	Voice04/04-SA/04-SA-B01/04-SA-B01-0490	0	yko	01:37:16;
+
+ ;
+
+[Next]=01:40:00;
+
+

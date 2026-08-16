@@ -1,0 +1,17 @@
+﻿[SkipFRAME]=00:07:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm14	00:07:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-C02/03-KB-C02-001	00:03:14;
+
+[PlayMovie]=00:03:14	Movie03/03-KB/03-KB-C02/03-KB-C02-002	0	00:07:12;
+
+[PrintText]=00:03:14	Makoto	¡Haah...! ¡Haah...!	00:07:10;
+
+[PlayVoice]=00:03:14	Voice03/03-KB/03-KB-C02/03-KB-C02-0040	1	mak	00:07:10;
+
+ ;
+
+[Next]=00:07:12;
+
+

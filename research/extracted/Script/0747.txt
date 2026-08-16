@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:26:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:26:09;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-E02/SE03-SA-E02-001	00:26:09;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-001	00:04:03;
+
+[PrintText]=00:00:00	Makoto	Sí.	00:00:19;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-E02/03-SA-E02-0030	1	mak	00:00:19;
+
+[PrintText]=00:00:19	Otome	¡Ah! Y-Ya veo.	00:02:23;
+
+[PlayVoice]=00:00:19	Voice03/03-SA/03-SA-E02/03-SA-E02-0040	0	oto	00:02:23;
+
+[PrintText]=00:03:00	Makoto	¿A pasado algo?^	00:04:03;
+
+[PlayVoice]=00:03:00	Voice03/03-SA/03-SA-E02/03-SA-E02-0050	1	mak	00:04:03;
+
+[CreateBG]=00:04:03	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-001	00:07:02;
+
+[PrintText]=00:04:03	Otome	N-no, nada en particular...	00:07:01;
+
+[PlayVoice]=00:04:03	Voice03/03-SA/03-SA-E02/03-SA-E02-0060	0	oto	00:07:01;
+
+[PrintText]=00:07:01	Makoto	¿Pasa algo?^	00:08:06;
+
+[PlayVoice]=00:07:01	Voice03/03-SA/03-SA-E02/03-SA-E02-0070	1	mak	00:08:06;
+
+[CreateBG]=00:07:02	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-003	00:08:06;
+
+[CreateBG]=00:08:06	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-004	00:09:22;
+
+[PrintText]=00:08:06	Otome	¿Con quién?^	00:09:05;
+
+[PlayVoice]=00:08:06	Voice03/03-SA/03-SA-E02/03-SA-E02-0080	0	oto	00:09:05;
+
+[PrintText]=00:09:05	Makoto	Oh, ella.	00:10:13;
+
+[PlayVoice]=00:09:05	Voice03/03-SA/03-SA-E02/03-SA-E02-0090	1	mak	00:10:13;
+
+[CreateBG]=00:09:22	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-005	00:12:06;
+
+[PrintText]=00:10:14	Sekai	H-hola.	00:12:06;
+
+[PlayVoice]=00:10:14	Voice03/03-SA/03-SA-E02/03-SA-E02-0100	0	sek	00:12:06;
+
+[CreateBG]=00:12:06	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-006	00:18:09;
+
+[PrintText]=00:12:06	Otome	Ah... de tu clase.	00:14:19;
+
+[PlayVoice]=00:12:06	Voice03/03-SA/03-SA-E02/03-SA-E02-0110	0	oto	00:14:19;
+
+[PrintText]=00:14:20	Makoto	Sí.	00:15:11;
+
+[PlayVoice]=00:14:20	Voice03/03-SA/03-SA-E02/03-SA-E02-0120	1	mak	00:15:11;
+
+[PrintText]=00:15:12	Otome	¿Están tomando un descanso juntos?^	00:18:09;
+
+[PlayVoice]=00:15:12	Voice03/03-SA/03-SA-E02/03-SA-E02-0130	0	oto	00:18:09;
+
+[PrintText]=00:18:08	Makoto	Sí.	00:19:07;
+
+[PlayVoice]=00:18:08	Voice03/03-SA/03-SA-E02/03-SA-E02-0140	1	mak	00:19:07;
+
+[CreateBG]=00:18:09	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-007	00:19:08;
+
+[CreateBG]=00:19:08	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-008	00:22:23;
+
+[PrintText]=00:19:08	Otome	Haha... ya veo. Gracias al cielo.	00:22:22;
+
+[PlayVoice]=00:19:08	Voice03/03-SA/03-SA-E02/03-SA-E02-0150	0	oto	00:22:22;
+
+[PrintText]=00:22:22	Makoto	¿Huh?^	00:23:15;
+
+[PlayVoice]=00:22:22	Voice03/03-SA/03-SA-E02/03-SA-E02-0160	1	mak	00:23:15;
+
+[CreateBG]=00:22:23	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-009	00:25:10;
+
+[PrintText]=00:23:15	Otome	Nada. Bueno, nos vemos.	00:26:09;
+
+[PlayVoice]=00:23:15	Voice03/03-SA/03-SA-E02/03-SA-E02-0170	0	oto	00:26:09;
+
+[CreateBG]=00:25:10	BGS	Event03/03-SA/03-SA-E02/03-SA-E02-010	00:26:09;
+
+ ;
+
+[Next]=00:26:09;
+
+

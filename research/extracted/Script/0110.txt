@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:35:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	00:35:06;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-O05/01-00-O05-001	00:05:02;
+
+[PrintText]=00:00:00	Kotonoha	¿U-um...?^	00:02:05;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-O05/01-00-O05-0030	0	kot	00:02:05;
+
+[PrintText]=00:02:06	Makoto	Ah... Sí.	00:03:23;
+
+[PlayVoice]=00:02:06	Voice01/01-00/01-00-O05/01-00-O05-0040	1	mak	00:03:23;
+
+[PrintText]=00:03:22	Kotonoha	¿...Hay algo que quieras...?^	00:05:01;
+
+[PlayVoice]=00:03:22	Voice01/01-00/01-00-O05/01-00-O05-0050	0	kot	00:05:01;
+
+[CreateBG]=00:05:02	BGS	Event01/01-00/01-00-O05/01-00-O05-002	00:19:20;
+
+[PrintText]=00:05:02	Makoto	Uh,Bueno... no realmente.	00:10:06;
+
+[PlayVoice]=00:05:02	Voice01/01-00/01-00-O05/01-00-O05-0060	1	mak	00:10:06;
+
+[PrintText]=00:10:05	Kotonoha	Haah.	00:11:05;
+
+[PlayVoice]=00:10:05	Voice01/01-00/01-00-O05/01-00-O05-0070	0	kot	00:11:05;
+
+[PrintText]=00:11:06	Makoto	Yo... Solo... Quería escuchar tu voz.	00:19:20;
+
+[PlayVoice]=00:11:06	Voice01/01-00/01-00-O05/01-00-O05-0080	1	mak	00:19:20;
+
+[CreateBG]=00:19:20	BGS	Event01/01-00/01-00-O05/01-00-O05-003	00:20:19;
+
+[PrintText]=00:19:20	Kotonoha	¿Eh...?^	00:20:18;
+
+[PlayVoice]=00:19:20	Voice01/01-00/01-00-O05/01-00-O05-0090	0	kot	00:20:18;
+
+[PrintText]=00:20:18	Makoto	Perdón. Iré a dormir ahora. No debí haber llamado.	00:23:13;
+
+[PlayVoice]=00:20:18	Voice01/01-00/01-00-O05/01-00-O05-0100	1	mak	00:23:13;
+
+[CreateBG]=00:20:19	BGS	Event01/01-00/01-00-O05/01-00-O05-004	00:24:13;
+
+[PrintText]=00:23:04	Kotonoha	¡Ah, Itou-kun!	00:24:15;
+
+[PlayVoice]=00:23:04	Voice01/01-00/01-00-O05/01-00-O05-0110	0	kot	00:24:15;
+
+[CreateBG]=00:24:13	BGS	Event01/01-00/01-00-O05/01-00-O05-005	00:29:13;
+
+[PrintText]=00:24:13	Makoto	¿Sí?^	00:25:06;
+
+[PlayVoice]=00:24:13	Voice01/01-00/01-00-O05/01-00-O05-0120	1	mak	00:25:06;
+
+[PrintText]=00:25:19	Kotonoha	Gracias... y buenas noches.	00:29:14;
+
+[PlayVoice]=00:25:19	Voice01/01-00/01-00-O05/01-00-O05-0130	0	kot	00:29:14;
+
+[CreateBG]=00:29:13	BGS	Event01/01-00/01-00-O05/01-00-O05-006	00:32:10;
+
+[PrintText]=00:29:14	Makoto	¿Eh?! Ah, vale. Buenas noches.	00:33:16;
+
+[PlayVoice]=00:29:14	Voice01/01-00/01-00-O05/01-00-O05-0140	1	mak	00:33:16;
+
+[CreateBG]=00:32:10	BGS	Event01/01-00/01-00-O05/01-00-O05-007	00:35:06;
+
+[BlackFade]=00:34:06	OUT	00:35:06;
+
+ ;
+
+[Next]=00:35:06;
+
+
+
+

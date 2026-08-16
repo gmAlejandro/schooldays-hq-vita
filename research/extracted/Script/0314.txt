@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:01:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:01:17;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-H09/SE02-2S-H09-001	00:01:17;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-H09/02-2S-H09-001	00:01:17;
+
+[PrintText]=00:00:00	Makoto	¡Sekai y yo estamos...!	00:01:17;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-H09/02-2S-H09-0030	1	mak	00:01:17;
+
+ ;
+
+[Next]=00:01:17;
+
+
+
+

@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:46:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:52:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-C01/04-KB-C01-001	00:20:18;
+
+[PrintText]=00:00:00	Makoto	...	00:02:00;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-C01/04-KB-C01-0030	1	xxx	00:02:00;
+
+[PrintText]=00:02:00	Sekai	...	00:02:14;
+
+[PlayVoice]=00:02:00	Voice04/04-KB/04-KB-C01/04-KB-C01-0040	0	xxx	00:02:14;
+
+[PrintText]=00:02:14	Makoto	... Olvídalo.	00:04:18;
+
+[PlayVoice]=00:02:14	Voice04/04-KB/04-KB-C01/04-KB-C01-0050	1	mak	00:04:18;
+
+[PrintText]=00:04:17	Sekai	¿Qué se supone qué quieres decir?^	00:06:16;
+
+[PlayVoice]=00:04:17	Voice04/04-KB/04-KB-C01/04-KB-C01-0060	0	sek	00:06:16;
+
+[PrintText]=00:06:16	Makoto	Quiere decir 'Gracias, me alegro que lo pienses'.	00:11:08;
+
+[PlayVoice]=00:06:16	Voice04/04-KB/04-KB-C01/04-KB-C01-0070	1	mak	00:11:08;
+
+[PrintText]=00:11:09	Sekai	¡No vas a animarte así!	00:14:11;
+
+[PlayVoice]=00:11:09	Voice04/04-KB/04-KB-C01/04-KB-C01-0080	0	sek	00:14:11;
+
+[PrintText]=00:14:11	Makoto	Deja de hablar de como animarme, ¿Qué significa eso ¿Incluye cosas indecentes? ¿Eh?^	00:20:18;
+
+[PlayVoice]=00:14:11	Voice04/04-KB/04-KB-C01/04-KB-C01-0090	1	mak	00:20:18;
+
+[CreateBG]=00:20:17	BGS	Event04/04-KB/04-KB-C01/04-KB-C01-002	00:38:14;
+
+[PrintText]=00:20:18	Sekai	Entonces, quieres hacer algo indecente.	00:23:11;
+
+[PlayVoice]=00:20:18	Voice04/04-KB/04-KB-C01/04-KB-C01-0100	0	sek	00:23:11;
+
+[PrintText]=00:23:11	Makoto	¡Ah... no!	00:25:19;
+
+[PlayVoice]=00:23:11	Voice04/04-KB/04-KB-C01/04-KB-C01-0110	1	mak	00:25:19;
+
+[PrintText]=00:25:19	Sekai	Sí, apuesto a que te sientes de verdad reprimido, porque Katsura-san no está dándote nada.	00:31:22;
+
+[PlayVoice]=00:25:19	Voice04/04-KB/04-KB-C01/04-KB-C01-0120	0	sek	00:31:22;
+
+[PrintText]=00:31:22	Makoto	¡No quise decir eso! ¡Estás equivocada. Perdón!	00:36:15;
+
+[PlayVoice]=00:31:22	Voice04/04-KB/04-KB-C01/04-KB-C01-0130	1	mak	00:36:15;
+
+[PrintText]=00:36:15	Sekai	Mufufu...	00:38:13;
+
+[PlayVoice]=00:36:15	Voice04/04-KB/04-KB-C01/04-KB-C01-0140	0	sek	00:38:13;
+
+[CreateBG]=00:38:14	BGS	Event04/04-KB/04-KB-C01/04-KB-C01-003	00:52:21;
+
+[PrintText]=00:38:14	Makoto	Uuh...	00:40:00;
+
+[PlayVoice]=00:38:14	Voice04/04-KB/04-KB-C01/04-KB-C01-0150	1	mak	00:40:00;
+
+[PrintText]=00:40:00	Sekai	Makoto.	00:41:01;
+
+[PlayVoice]=00:40:00	Voice04/04-KB/04-KB-C01/04-KB-C01-0160	0	sek	00:41:01;
+
+[PrintText]=00:41:01	Makoto	¿Sí?^	00:41:20;
+
+[PlayVoice]=00:41:01	Voice04/04-KB/04-KB-C01/04-KB-C01-0170	1	mak	00:41:20;
+
+[PrintText]=00:41:21	Sekai	Anda, dime. Incluso si es algo indecente.	00:45:07;
+
+[PlayVoice]=00:41:21	Voice04/04-KB/04-KB-C01/04-KB-C01-0180	0	sek	00:45:07;
+
+[PrintText]=00:45:06	Makoto	Uh...	00:46:23;
+
+[PlayVoice]=00:45:06	Voice04/04-KB/04-KB-C01/04-KB-C01-0190	1	mak	00:46:23;
+
+[SetSELECT]=00:46:18	'Déjame tocar tus senos'	null	00:51:18;
+
+ ;
+
+[Next]=00:52:22;
+
+

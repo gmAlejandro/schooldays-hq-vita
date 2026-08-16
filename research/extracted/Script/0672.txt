@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:35:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:35:19;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I06/SE03-KB-I06-001	00:35:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I06/03-KB-I06-001	00:05:03;
+
+[PrintText]=00:00:00	Taisuke	Además... Makoto estaba diciendo que quería salir con ella.	00:05:02;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-I06/03-KB-I06-0030	1	tai	00:05:02;
+
+[PrintText]=00:05:02	Kotonoha	¿Eh?!	00:06:02;
+
+[PlayVoice]=00:05:02	Voice03/03-KB/03-KB-I06/03-KB-I06-0040	0	kot	00:06:02;
+
+[CreateBG]=00:05:03	BGS	Event03/03-KB/03-KB-I06/03-KB-I06-002	00:06:02;
+
+[CreateBG]=00:06:02	BGS	Event03/03-KB/03-KB-I06/03-KB-I06-003	00:19:13;
+
+[PrintText]=00:06:02	Taisuke	¿Crees que él malentendió lo que yo dije acerca de salir con Saionji?^	00:11:14;
+
+[PlayVoice]=00:06:02	Voice03/03-KB/03-KB-I06/03-KB-I06-0050	1	tai	00:11:14;
+
+[PrintText]=00:11:14	Kotonoha	...	00:12:20;
+
+[PlayVoice]=00:11:14	Voice03/03-KB/03-KB-I06/03-KB-I06-0060	0	xxx	00:12:20;
+
+[PrintText]=00:12:20	Taisuke	Probablemente piensa que yo quería salir con ella como amigos.	00:19:12;
+
+[PlayVoice]=00:12:20	Voice03/03-KB/03-KB-I06/03-KB-I06-0070	1	tai	00:19:12;
+
+[PrintText]=00:19:12	Kotonoha	¿En serio?^	00:21:10;
+
+[PlayVoice]=00:19:12	Voice03/03-KB/03-KB-I06/03-KB-I06-0080	0	kot	00:21:10;
+
+[CreateBG]=00:19:13	BGS	Event03/03-KB/03-KB-I06/03-KB-I06-004	00:27:06;
+
+[PrintText]=00:21:10	Taisuke	Eso es lo que creo. En el fondo, ese tipo tiene una mente muy infantil.	00:25:11;
+
+[PlayVoice]=00:21:10	Voice03/03-KB/03-KB-I06/03-KB-I06-0090	1	tai	00:25:11;
+
+[PrintText]=00:25:11	Kotonoha	¿Lo crees...?^	00:27:05;
+
+[PlayVoice]=00:25:11	Voice03/03-KB/03-KB-I06/03-KB-I06-0100	0	kot	00:27:05;
+
+[PrintText]=00:27:05	Taisuke	De alguna manera, me gustaría darle una paliza. Ahora... no sé el número de ella...	00:35:19;
+
+[PlayVoice]=00:27:05	Voice03/03-KB/03-KB-I06/03-KB-I06-0110	1	tai	00:35:19;
+
+[CreateBG]=00:27:06	BGS	Event03/03-KB/03-KB-I06/03-KB-I06-005	00:35:19;
+
+ ;
+
+[Next]=00:35:19;
+
+

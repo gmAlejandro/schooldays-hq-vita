@@ -1,0 +1,36 @@
+﻿[SkipFRAME]=00:07:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:07:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-H06/05-SA-H06-001	00:01:07;
+
+[PrintText]=00:00:06	Makoto	...	00:00:15;
+
+[PlayVoice]=00:00:06	Voice05/05-SA/05-SA-H06/05-SA-H06-0030	1	xxx	00:00:15;
+
+[CreateBG]=00:01:07	BGS	Event05/05-SA/05-SA-H06/05-SA-H06-002	00:06:12;
+
+[PrintText]=00:01:07	Kotonoha	Si no hay una razón para eso, entonces lo tomaré como un Sí.	00:03:23;
+
+[PlayVoice]=00:01:07	Voice05/05-SA/05-SA-H06/05-SA-H06-0040	0	kot	00:03:23;
+
+[PrintText]=00:03:22	Makoto	...	00:04:21;
+
+[PlayVoice]=00:03:22	Voice05/05-SA/05-SA-H06/05-SA-H06-0050	1	xxx	00:04:21;
+
+[PrintText]=00:05:03	Kotonoha	Voy a entrar.	00:06:05;
+
+[PlayVoice]=00:05:03	Voice05/05-SA/05-SA-H06/05-SA-H06-0060	0	kot	00:06:05;
+
+[CreateBG]=00:06:12	BGS	Event05/05-SA/05-SA-H06/05-SA-H06-001	00:07:19;
+
+[PrintText]=00:06:20	Makoto	Vale.	00:07:14;
+
+[PlayVoice]=00:06:20	Voice05/05-SA/05-SA-H06/05-SA-H06-0070	1	mak	00:07:14;
+
+ ;
+
+[Next]=00:07:19;
+
+
+

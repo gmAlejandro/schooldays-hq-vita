@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:12:20;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G03/SE03-KA-G03-001	00:12:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G03/03-KA-G03-001	00:01:23;
+
+[PrintText]=00:00:10	Makoto	...	00:01:13;
+
+[PlayVoice]=00:00:10	Voice03/03-KA/03-KA-G03/03-KA-G03-0030	1	xxx	00:01:13;
+
+[CreateBG]=00:01:23	BGS	Event03/03-KA/03-KA-G03/03-KA-G03-002	00:04:20;
+
+[PrintText]=00:02:03	Setsuna	Deja de hacer espacio, y toma asiento.	00:04:22;
+
+[PlayVoice]=00:02:03	Voice03/03-KA/03-KA-G03/03-KA-G03-0040	0	set	00:04:22;
+
+[CreateBG]=00:04:20	BGS	Event03/03-KA/03-KA-G03/03-KA-G03-003	00:10:22;
+
+[PrintText]=00:04:20	Makoto	...Vale, Vale.	00:06:04;
+
+[PlayVoice]=00:04:20	Voice03/03-KA/03-KA-G03/03-KA-G03-0050	1	mak	00:06:04;
+
+[PrintText]=00:06:18	Setsuna	Toma las impresiones, yo verifico.	00:10:21;
+
+[PlayVoice]=00:06:18	Voice03/03-KA/03-KA-G03/03-KA-G03-0060	0	set	00:10:21;
+
+[CreateBG]=00:10:22	BGS	Event03/03-KA/03-KA-G03/03-KA-G03-004	00:12:20;
+
+[PrintText]=00:10:22	Makoto	Está bien.	00:11:16;
+
+[PlayVoice]=00:10:22	Voice03/03-KA/03-KA-G03/03-KA-G03-0070	1	mak	00:11:16;
+
+[BlackFade]=00:11:20	OUT	00:12:20;
+
+ ;
+
+[Next]=00:12:20;
+
+

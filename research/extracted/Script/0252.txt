@@ -1,0 +1,92 @@
+﻿[SkipFRAME]=00:46:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:46:16;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-K05/02-2K-K05-001A	00:18:07;
+
+[PrintText]=00:00:00	Makoto	Quiero... tocarte.	00:03:13;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-K05/02-2K-K05-0030	1	mak	00:03:13;
+
+[PrintText]=00:03:14	Kotonoha	...	00:05:03;
+
+[PlayVoice]=00:03:14	Voice02/02-2K/02-2K-K05/02-2K-K05-0040	0	xxx	00:05:03;
+
+[PrintText]=00:05:02	Makoto	Cuando te veo, me excitó... siento que no puedo parar de abrazarte.	00:12:12;
+
+[PlayVoice]=00:05:02	Voice02/02-2K/02-2K-K05/02-2K-K05-0050	1	mak	00:12:12;
+
+[PrintText]=00:12:12	Kotonoha	...	00:14:14;
+
+[PlayVoice]=00:12:12	Voice02/02-2K/02-2K-K05/02-2K-K05-0060	0	xxx	00:14:14;
+
+[PrintText]=00:14:14	Makoto	¿Es así cuando alguien siente amor?^	00:18:06;
+
+[PlayVoice]=00:14:14	Voice02/02-2K/02-2K-K05/02-2K-K05-0070	1	mak	00:18:06;
+
+[CreateBG]=00:18:07	BGS	Event02/02-2K/02-2K-K05/02-2K-K05-001B	00:19:11;
+
+[PrintText]=00:18:07	Kotonoha	No.	00:19:11;
+
+[PlayVoice]=00:18:07	Voice02/02-2K/02-2K-K05/02-2K-K05-0080	0	kot	00:19:11;
+
+[PrintText]=00:19:10	Makoto	¿No?^	00:20:12;
+
+[PlayVoice]=00:19:10	Voice02/02-2K/02-2K-K05/02-2K-K05-0090	1	mak	00:20:12;
+
+[CreateBG]=00:19:11	BGS	Event02/02-2K/02-2K-K05/02-2K-K05-001C	00:30:12;
+
+[PrintText]=00:20:12	Kotonoha	Es otro sentimiento... No es igual al amor.	00:25:07;
+
+[PlayVoice]=00:20:12	Voice02/02-2K/02-2K-K05/02-2K-K05-0100	0	kot	00:25:07;
+
+[PrintText]=00:25:07	Makoto	¿Es un mal sentimiento?^	00:28:02;
+
+[PlayVoice]=00:25:07	Voice02/02-2K/02-2K-K05/02-2K-K05-0110	1	mak	00:28:02;
+
+[PrintText]=00:28:03	Kotonoha	Sí.	00:29:03;
+
+[PlayVoice]=00:28:03	Voice02/02-2K/02-2K-K05/02-2K-K05-0120	0	kot	00:29:03;
+
+[PrintText]=00:29:03	Makoto	...	00:30:11;
+
+[PlayVoice]=00:29:03	Voice02/02-2K/02-2K-K05/02-2K-K05-0130	1	xxx	00:30:11;
+
+[CreateBG]=00:30:12	BGS	Event02/02-2K/02-2K-K05/02-2K-K05-002A	00:40:11;
+
+[PrintText]=00:30:12	Kotonoha	M-Me gustas, pero... no de la misma manera.	00:38:06;
+
+[PlayVoice]=00:30:12	Voice02/02-2K/02-2K-K05/02-2K-K05-0140	0	kot	00:38:06;
+
+[PrintText]=00:38:05	Makoto	Ya veo.	00:39:06;
+
+[PlayVoice]=00:38:05	Voice02/02-2K/02-2K-K05/02-2K-K05-0150	1	mak	00:39:06;
+
+[PrintText]=00:39:06	Kotonoha	Perdóname.	00:40:11;
+
+[PlayVoice]=00:39:06	Voice02/02-2K/02-2K-K05/02-2K-K05-0160	0	kot	00:40:11;
+
+[CreateBG]=00:40:11	BGS	Event02/02-2K/02-2K-K05/02-2K-K05-002B	00:43:19;
+
+[PrintText]=00:40:15	Makoto	Ah...	00:41:07;
+
+[PlayVoice]=00:40:15	Voice02/02-2K/02-2K-K05/02-2K-K05-0180	1	mak	00:41:07;
+
+[PlaySe]=00:42:07	1	Voice02/02-2K/02-2K-K05/02-2K-K05-0190	00:43:11;
+
+[CreateBG]=00:43:18	BGS	Event02/02-2K/02-2K-K05/02-2K-K05-004	00:46:16;
+
+[PrintText]=00:43:22	Makoto	Tsk.	00:44:23;
+
+[PlayVoice]=00:43:22	Voice02/02-2K/02-2K-K05/02-2K-K05-0200	1	mak	00:44:23;
+
+[BlackFade]=00:45:16	OUT	00:46:16;
+
+ ;
+
+[Next]=00:46:16;
+
+
+
+
+

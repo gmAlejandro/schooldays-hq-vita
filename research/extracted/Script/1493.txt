@@ -1,0 +1,48 @@
+﻿[SkipFRAME]=00:37:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:37:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-A00/05-KB-A00-001	00:07:02;
+
+[PrintText]=00:00:13	Kotonoha	¿'Cansado'...? ¿Qué quiere decir?^	00:05:09;
+
+[PlayVoice]=00:00:13	Voice05/05-KB/05-KB-A00/05-KB-A00-0050	0	kot	00:05:09;
+
+[CreateBG]=00:07:02	BGS	Event05/05-KB/05-KB-A00/05-KB-A00-002	00:31:12;
+
+[PrintText]=00:07:08	Kotonoha	¿No es suficiente con mi amor...?^	00:09:22;
+
+[PlayVoice]=00:07:08	Voice05/05-KB/05-KB-A00/05-KB-A00-0060	0	kot	00:09:22;
+
+[PrintText]=00:11:07	Kotonoha	Makoto-kun... Yo...	00:16:03;
+
+[PlayVoice]=00:11:07	Voice05/05-KB/05-KB-A00/05-KB-A00-0070	0	kot	00:16:03;
+
+[PrintText]=00:18:15	Kotonoha	Saionji-san...	00:20:15;
+
+[PlayVoice]=00:18:15	Voice05/05-KB/05-KB-A00/05-KB-A00-0080	0	kot	00:20:15;
+
+[PrintText]=00:21:05	Kotonoha	No, no puede ser.	00:23:10;
+
+[PlayVoice]=00:21:05	Voice05/05-KB/05-KB-A00/05-KB-A00-0090	0	kot	00:23:10;
+
+[PrintText]=00:25:12	Kotonoha	Después de todo...	00:26:12;
+
+[PlayVoice]=00:25:12	Voice05/05-KB/05-KB-A00/05-KB-A00-0100	0	kot	00:26:12;
+
+[PrintText]=00:27:15	Kotonoha	Makoto-kun es mi...	00:31:00;
+
+[PlayVoice]=00:27:15	Voice05/05-KB/05-KB-A00/05-KB-A00-0110	0	kot	00:31:00;
+
+[CreateBG]=00:31:12	BGS	Event05/05-KB/05-KB-A00/05-KB-A00-001	00:37:03;
+
+[PrintText]=00:32:17	Kotonoha	Mi...	00:33:23;
+
+[PlayVoice]=00:32:17	Voice05/05-KB/05-KB-A00/05-KB-A00-0120	0	kot	00:33:23;
+
+ ;
+
+[Next]=00:37:03;
+
+
+

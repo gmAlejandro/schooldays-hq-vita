@@ -1,0 +1,115 @@
+﻿[SkipFRAME]=00:46:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:46:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-001	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-002A	00:02:07;
+
+[PrintText]=00:01:02	Sekai	Makoto.	00:02:06;
+
+[PlayVoice]=00:01:02	Voice03/03-KB/03-KB-P00/03-KB-P00-0040	0	sek	00:02:06;
+
+[PrintText]=00:02:06	Makoto	...Sekai.	00:05:02;
+
+[PlayVoice]=00:02:06	Voice03/03-KB/03-KB-P00/03-KB-P00-0050	1	mak	00:05:02;
+
+[CreateBG]=00:02:07	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-002B	00:05:02;
+
+[CreateBG]=00:05:02	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-003	00:12:15;
+
+[PrintText]=00:05:02	Sekai	¿Vas a casa?^	00:06:01;
+
+[PlayVoice]=00:05:02	Voice03/03-KB/03-KB-P00/03-KB-P00-0060	0	sek	00:06:01;
+
+[PrintText]=00:06:01	Makoto	...	00:06:19;
+
+[PlayVoice]=00:06:01	Voice03/03-KB/03-KB-P00/03-KB-P00-0070	1	xxx	00:06:19;
+
+[PrintText]=00:06:19	Sekai	Um, mira... está a punto de empezar.	00:10:12;
+
+[PlayVoice]=00:06:19	Voice03/03-KB/03-KB-P00/03-KB-P00-0080	0	sek	00:10:12;
+
+[PrintText]=00:10:12	Makoto	...	00:11:17;
+
+[PlayVoice]=00:10:12	Voice03/03-KB/03-KB-P00/03-KB-P00-0090	1	xxx	00:11:17;
+
+[PrintText]=00:11:17	Sekai	¿Por qué no nos detenemos por un rato?^	00:13:22;
+
+[PlayVoice]=00:11:17	Voice03/03-KB/03-KB-P00/03-KB-P00-0100	0	sek	00:13:22;
+
+[CreateBG]=00:12:15	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-004	00:16:08;
+
+[PrintText]=00:13:22	Makoto	No, Yo...	00:16:08;
+
+[PlayVoice]=00:13:22	Voice03/03-KB/03-KB-P00/03-KB-P00-0110	1	mak	00:16:08;
+
+[CreateBG]=00:16:08	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-005	00:21:16;
+
+[PrintText]=00:16:08	Sekai	No tomará mucho. Está a punto de empezar el baile folk.	00:21:15;
+
+[PlayVoice]=00:16:08	Voice03/03-KB/03-KB-P00/03-KB-P00-0120	0	sek	00:21:15;
+
+[PrintText]=00:21:15	Makoto	...	00:22:17;
+
+[PlayVoice]=00:21:15	Voice03/03-KB/03-KB-P00/03-KB-P00-0130	1	xxx	00:22:17;
+
+[CreateBG]=00:21:16	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-006	00:34:02;
+
+[PrintText]=00:22:17	Sekai	Venga... bailemos, Juntos.	00:26:13;
+
+[PlayVoice]=00:22:17	Voice03/03-KB/03-KB-P00/03-KB-P00-0140	0	sek	00:26:13;
+
+[PrintText]=00:26:12	Makoto	¿Eh...?^	00:27:03;
+
+[PlayVoice]=00:26:12	Voice03/03-KB/03-KB-P00/03-KB-P00-0150	1	mak	00:27:03;
+
+[PrintText]=00:27:04	Sekai	Solo por hoy... por el festival... hazme compañía.	00:32:23;
+
+[PlayVoice]=00:27:04	Voice03/03-KB/03-KB-P00/03-KB-P00-0160	0	sek	00:32:23;
+
+[PrintText]=00:33:00	Makoto	Sekai...	00:34:02;
+
+[PlayVoice]=00:33:00	Voice03/03-KB/03-KB-P00/03-KB-P00-0170	1	mak	00:34:02;
+
+[CreateBG]=00:34:02	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-007	00:39:09;
+
+[PrintText]=00:34:02	Sekai	¡Por favor!	00:34:23;
+
+[PlayVoice]=00:34:02	Voice03/03-KB/03-KB-P00/03-KB-P00-0180	0	sek	00:34:23;
+
+[PrintText]=00:34:23	Makoto	...	00:36:08;
+
+[PlayVoice]=00:34:23	Voice03/03-KB/03-KB-P00/03-KB-P00-0190	1	xxx	00:36:08;
+
+[PrintText]=00:36:08	Sekai	Baila conmigo.	00:39:09;
+
+[PlayVoice]=00:36:08	Voice03/03-KB/03-KB-P00/03-KB-P00-0200	0	sek	00:39:09;
+
+[CreateBG]=00:39:09	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-008	00:44:03;
+
+[PrintText]=00:39:09	Makoto	...	00:42:19;
+
+[PlayVoice]=00:39:09	Voice03/03-KB/03-KB-P00/03-KB-P00-0220	1	xxx	00:42:19;
+
+[PrintText]=00:42:19	Sekai	...	00:44:02;
+
+[PlayVoice]=00:42:19	Voice03/03-KB/03-KB-P00/03-KB-P00-0230	0	xxx	00:44:02;
+
+[PrintText]=00:44:02	Makoto	Seguro.	00:44:23;
+
+[PlayVoice]=00:44:02	Voice03/03-KB/03-KB-P00/03-KB-P00-0240	1	mak	00:44:23;
+
+[CreateBG]=00:44:03	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-009	00:44:23;
+
+[CreateBG]=00:44:23	BGS	Event03/03-KB/03-KB-P00/03-KB-P00-010	00:46:20;
+
+[PrintText]=00:44:23	Sekai	¡Vale!	00:46:20;
+
+[PlayVoice]=00:44:23	Voice03/03-KB/03-KB-P00/03-KB-P00-0270	0	sek	00:46:20;
+
+ ;
+
+[Next]=00:46:20;
+
+

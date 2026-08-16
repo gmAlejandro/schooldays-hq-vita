@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:33:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:33:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-F05/03-KA-F05-001	00:03:21;
+
+[PrintText]=00:00:00	Makoto	'Y hacer cosas pervertidas.'.	00:03:21;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-F05/03-KA-F05-0030	1	mak	00:03:21;
+
+[CreateBG]=00:03:21	BGS	Event03/03-KA/03-KA-F03/03-KA-F03-001	00:13:20;
+
+[PrintText]=00:04:12	Makoto	...Ella probablemente se asustaría si le escribo cosas especificas, será mejor ser suave.	00:10:04;
+
+[PlayVoice]=00:04:12	Voice03/03-KA/03-KA-F05/03-KA-F05-0040	1	mak	00:10:04;
+
+[PrintText]=00:10:14	Makoto	'¡...y mucho más, también!'.	00:13:12;
+
+[PlayVoice]=00:10:14	Voice03/03-KA/03-KA-F05/03-KA-F05-0050	1	mak	00:13:12;
+
+[PlayMovie]=00:13:20	Movie03/03-KA/03-KA-F05/03-KA-F05-003	0	00:16:20;
+
+[PrintText]=00:13:22	Makoto	'Enviar.'.	00:15:14;
+
+[PlayVoice]=00:13:22	Voice03/03-KA/03-KA-F05/03-KA-F05-0060	1	mak	00:15:14;
+
+[CreateBG]=00:16:20	BGS	Event03/03-KA/03-KA-F05/03-KA-F05-004	00:28:16;
+
+[PrintText]=00:17:00	Makoto	Al estar en frente de esos increíbles pechos, y no poder tocarlos... es una tortura.	00:23:23;
+
+[PlayVoice]=00:17:00	Voice03/03-KA/03-KA-F05/03-KA-F05-0080	1	mak	00:23:23;
+
+[PrintText]=00:24:17	Makoto	De solo pensar en eso me hace...	00:27:18;
+
+[PlayVoice]=00:24:17	Voice03/03-KA/03-KA-F05/03-KA-F05-0090	1	mak	00:27:18;
+
+[PlayMovie]=00:28:16	Movie03/03-KA/03-KA-F05/03-KA-F05-005	0	00:33:15;
+
+[PrintText]=00:28:16	Makoto	M-Maldición. Es mejor que duerma...	00:32:05;
+
+[PlayVoice]=00:28:16	Voice03/03-KA/03-KA-F05/03-KA-F05-0100	1	mak	00:32:05;
+
+[BlackFade]=00:32:15	OUT	00:33:15;
+
+ ;
+
+[Next]=00:33:15;
+
+

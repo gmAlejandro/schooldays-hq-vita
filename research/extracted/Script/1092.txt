@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:45:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:45:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E06/04-SA-E06-001	00:01:02;
+
+[PrintText]=00:00:07	Makoto	No.	00:01:03;
+
+[PlayVoice]=00:00:07	Voice04/04-SA/04-SA-E06/04-SA-E06-0030	1	mak	00:01:03;
+
+[CreateBG]=00:01:02	BGS	Event04/04-SA/04-SA-E06/04-SA-E06-002	00:02:02;
+
+[PrintText]=00:01:13	Sekai	¿Eh?^	00:02:02;
+
+[PlayVoice]=00:01:13	Voice04/04-SA/04-SA-E06/04-SA-E06-0040	0	sek	00:02:02;
+
+[CreateBG]=00:02:02	BGS	Event04/04-SA/04-SA-E06/04-SA-E06-003	00:07:22;
+
+[PrintText]=00:02:06	Makoto	Has estado ausente bastante tiempo... y muchas cosas han pasado.	00:06:13;
+
+[PlayVoice]=00:02:06	Voice04/04-SA/04-SA-E06/04-SA-E06-0050	1	mak	00:06:13;
+
+[PrintText]=00:06:15	Sekai	¿Eh?^	00:07:04;
+
+[PlayVoice]=00:06:15	Voice04/04-SA/04-SA-E06/04-SA-E06-0060	0	sek	00:07:04;
+
+[PrintText]=00:07:08	Makoto	...	00:08:00;
+
+[PlayVoice]=00:07:08	Voice04/04-SA/04-SA-E06/04-SA-E06-0070	1	xxx	00:08:00;
+
+[CreateBG]=00:07:22	BGS	Event04/04-SA/04-SA-E06/04-SA-E06-004	00:18:00;
+
+[PrintText]=00:08:07	Sekai	¿Pasó algo?^	00:09:17;
+
+[PlayVoice]=00:08:07	Voice04/04-SA/04-SA-E06/04-SA-E06-0080	0	sek	00:09:17;
+
+[PrintText]=00:09:14	Makoto	Algo así, y... ya no almorzamos juntos.	00:16:17;
+
+[PlayVoice]=00:09:14	Voice04/04-SA/04-SA-E06/04-SA-E06-0090	1	mak	00:16:17;
+
+[PrintText]=00:16:17	Sekai	Ya veo...	00:18:04;
+
+[PlayVoice]=00:16:17	Voice04/04-SA/04-SA-E06/04-SA-E06-0100	0	sek	00:18:04;
+
+[CreateBG]=00:18:00	BGS	Event04/04-SA/04-SA-E06/04-SA-E06-005	00:27:13;
+
+[PrintText]=00:18:09	Makoto	Es mi culpa... por ignorar lo que dijiste.	00:22:12;
+
+[PlayVoice]=00:18:09	Voice04/04-SA/04-SA-E06/04-SA-E06-0110	1	mak	00:22:12;
+
+[PrintText]=00:22:13	Sekai	¿Eh?^	00:23:02;
+
+[PlayVoice]=00:22:13	Voice04/04-SA/04-SA-E06/04-SA-E06-0120	0	sek	00:23:02;
+
+[PrintText]=00:23:03	Makoto	Antes me lo dijiste ¿No? No hacer nada pervertido con ella.	00:26:17;
+
+[PlayVoice]=00:23:03	Voice04/04-SA/04-SA-E06/04-SA-E06-0130	1	mak	00:26:17;
+
+[PrintText]=00:26:18	Sekai	Uh-huh.	00:27:14;
+
+[PlayVoice]=00:26:18	Voice04/04-SA/04-SA-E06/04-SA-E06-0140	0	sek	00:27:14;
+
+[CreateBG]=00:27:13	BGS	Event04/04-SA/04-SA-E06/04-SA-E06-006	00:33:05;
+
+[PrintText]=00:27:21	Makoto	...Bueno, así son las cosas.	00:31:09;
+
+[PlayVoice]=00:27:21	Voice04/04-SA/04-SA-E06/04-SA-E06-0150	1	mak	00:31:09;
+
+[PrintText]=00:31:10	Sekai	Uwah...	00:33:04;
+
+[PlayVoice]=00:31:10	Voice04/04-SA/04-SA-E06/04-SA-E06-0160	0	sek	00:33:04;
+
+[CreateBG]=00:33:05	BGS	Event04/04-SA/04-SA-E06/04-SA-E06-007	00:43:04;
+
+[PrintText]=00:33:10	Makoto	Oh, no es tan grave como te lo imaginas.	00:37:15;
+
+[PlayVoice]=00:33:10	Voice04/04-SA/04-SA-E06/04-SA-E06-0170	1	mak	00:37:15;
+
+[PrintText]=00:37:16	Sekai	¿En serio?^	00:38:23;
+
+[PlayVoice]=00:37:16	Voice04/04-SA/04-SA-E06/04-SA-E06-0180	0	sek	00:38:23;
+
+[PrintText]=00:38:23	Makoto	Bueno, no puedo defenderme de lo que hice, así que no diré nada.	00:43:02;
+
+[PlayVoice]=00:38:23	Voice04/04-SA/04-SA-E06/04-SA-E06-0190	1	mak	00:43:02;
+
+[CreateBG]=00:43:04	BGS	Event04/04-SA/04-SA-E06/04-SA-E06-008	00:45:08;
+
+[PrintText]=00:43:08	Sekai	Ya veo...	00:44:07;
+
+[PlayVoice]=00:43:08	Voice04/04-SA/04-SA-E06/04-SA-E06-0200	0	sek	00:44:07;
+
+ ;
+
+[Next]=00:45:08;
+
+

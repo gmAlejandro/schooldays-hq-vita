@@ -1,0 +1,40 @@
+[SkipFRAME]=00:37:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:37:05;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/footsteps/asioto_okugai	00:06:21;
+
+[PlaySe]=00:00:00	4	SysSe/SE_all/station_train/gakuenmae_yuugata	00:37:05;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-L00/00-00-L00-018	0	00:02:21;
+
+[PlayMovie]=00:02:21	Movie00/00-00/00-00-L00/00-00-L00-019	0	00:06:21;
+
+[CreateBG]=00:06:21	BGS	Event05/05-KB/05-KB-J01/05-KB-J01-003	00:09:10;
+
+[PlaySe]=00:07:01	1	SysSe/SE_all/station_train/train_stopping	00:21:03;
+
+[PlayMovie]=00:09:10	Movie00/00-00/00-00-L00/00-00-L00-020	0	00:14:05;
+
+[PlayMovie]=00:14:05	Movie00/00-00/00-00-L00/00-00-L00-021	0	00:18:23;
+
+[PlayMovie]=00:18:23	Movie00/00-00/00-00-L00/00-00-L00-022	0	00:20:23;
+
+[PlaySe]=00:20:23	2	SysSe/SE_all/station_train/train_door_close	00:25:18;
+
+[PlayMovie]=00:20:23	Movie05/05-KB/05-KB-J01/05-KB-J01-007	0	00:24:05;
+
+[PlaySe]=00:23:05	3	SysSe/SE_all/station_train/train_start	00:37:05;
+
+[PlayMovie]=00:24:05	Movie00/00-00/00-00-L00/00-00-L00-024	0	00:30:22;
+
+[PlayMovie]=00:30:22	Movie00/00-00/00-00-L00/00-00-L00-025	0	00:32:05;
+
+[CreateBG]=00:32:05	BGS	Event05/05-KB/05-KB-J01/05-KB-J01-010	00:37:05;
+
+[BlackFade]=00:36:05	OUT	00:37:05;
+
+ ;
+
+[Next]=00:37:05;
+

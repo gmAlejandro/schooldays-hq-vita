@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:36:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:36:11;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-D05/SE03-BK-D05-001	00:36:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-001	00:01:01;
+
+[PrintText]=00:00:00	Taisuke	Makoto.	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-D05/03-BK-D05-0040	1	tai	00:00:23;
+
+[CreateBG]=00:01:01	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-002	00:05:16;
+
+[PrintText]=00:01:02	Makoto	¿Hmn?^	00:01:18;
+
+[PlayVoice]=00:01:02	Voice03/03-BK/03-BK-D05/03-BK-D05-0050	1	mak	00:01:18;
+
+[PrintText]=00:01:19	Taisuke	Vamos a comer algo juntos.	00:03:11;
+
+[PlayVoice]=00:01:19	Voice03/03-BK/03-BK-D05/03-BK-D05-0060	1	tai	00:03:11;
+
+[PrintText]=00:03:11	Makoto	...Estoy bien.	00:05:12;
+
+[PlayVoice]=00:03:11	Voice03/03-BK/03-BK-D05/03-BK-D05-0070	1	mak	00:05:12;
+
+[CreateBG]=00:05:16	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-003	00:10:20;
+
+[PrintText]=00:05:16	Taisuke	Te ves algo decaído. Conversemos durante el almuerzo y ánimo.	00:10:17;
+
+[PlayVoice]=00:05:16	Voice03/03-BK/03-BK-D05/03-BK-D05-0080	1	tai	00:10:17;
+
+[CreateBG]=00:10:20	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-004	00:13:16;
+
+[PrintText]=00:10:21	Makoto	No me siento bien.	00:12:06;
+
+[PlayVoice]=00:10:21	Voice03/03-BK/03-BK-D05/03-BK-D05-0090	1	mak	00:12:06;
+
+[PrintText]=00:12:09	Taisuke	No digas eso. Yo aún no sé de qué hablar con Sekai cuando estamos solos. Dame un mano.	00:18:03;
+
+[PlayVoice]=00:12:09	Voice03/03-BK/03-BK-D05/03-BK-D05-0100	1	tai	00:18:03;
+
+[CreateBG]=00:13:16	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-005	00:18:05;
+
+[CreateBG]=00:18:05	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-004	00:21:06;
+
+[PrintText]=00:18:06	Makoto	Me reuniré con alguien.	00:19:16;
+
+[PlayVoice]=00:18:06	Voice03/03-BK/03-BK-D05/03-BK-D05-0110	1	mak	00:19:16;
+
+[PrintText]=00:19:20	Taisuke	¿Eh? O-oh, cierto. ¿Con Katsura-san?^	00:23:14;
+
+[PlayVoice]=00:19:20	Voice03/03-BK/03-BK-D05/03-BK-D05-0120	1	tai	00:23:14;
+
+[CreateBG]=00:21:06	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-007A	00:23:18;
+
+[CreateBG]=00:23:18	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-007B	00:24:13;
+
+[PlayVoice]=00:23:18	Voice03/03-BK/03-BK-D05/03-BK-D05-0130			00:24:08;
+
+[CreateBG]=00:24:13	BGS	Event03/03-BK/03-BK-D05/03-BK-D05-007A	00:36:11;
+
+[PrintText]=00:24:13	Taisuke	Ya veo. Bueno, supongo que almorzar con ella es muy importante. Sí. Lo siento. Haré lo mismo.	00:32:14;
+
+[PlayVoice]=00:24:13	Voice03/03-BK/03-BK-D05/03-BK-D05-0140	1	tai	00:32:14;
+
+[PrintText]=00:32:16	Makoto	Nos vemos después.	00:33:08;
+
+[PlayVoice]=00:32:16	Voice03/03-BK/03-BK-D05/03-BK-D05-0150	1	mak	00:33:08;
+
+[PrintText]=00:33:15	Taisuke	Sí. ¡Da tu mejor esfuerzo!	00:35:03;
+
+[PlayVoice]=00:33:15	Voice03/03-BK/03-BK-D05/03-BK-D05-0160	1	tai	00:35:03;
+
+[BlackFade]=00:35:11	OUT	00:36:11;
+
+ ;
+
+[Next]=00:36:11;
+
+

@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:09:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:09:21;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-C05/04-SC-C05-001	00:02:15;
+
+[PrintText]=00:00:00	Nanami	Sí. Pienso que fue durante el festival...	00:02:17;
+
+[PlayVoice]=00:00:00	Voice04/04-SC/04-SC-C05/04-SC-C05-0030	0	nan	00:02:17;
+
+[CreateBG]=00:02:15	BGS	Event04/04-SC/04-SC-C05/04-SC-C05-002	00:04:01;
+
+[PrintText]=00:02:17	Sekai	El festival...	00:04:03;
+
+[PlayVoice]=00:02:17	Voice04/04-SC/04-SC-C05/04-SC-C05-0040	0	sek	00:04:03;
+
+[CreateBG]=00:04:01	BGS	Event04/04-SC/04-SC-C05/04-SC-C05-003	00:08:07;
+
+[PrintText]=00:04:02	Nanami	Por eso la alejé de Itou.	00:08:09;
+
+[PlayVoice]=00:04:02	Voice04/04-SC/04-SC-C05/04-SC-C05-0050	0	nan	00:08:09;
+
+[CreateBG]=00:08:07	BGS	Event04/04-SC/04-SC-C05/04-SC-C05-004	00:09:21;
+
+[PrintText]=00:08:09	Sekai	Ya veo...	00:09:21;
+
+[PlayVoice]=00:08:09	Voice04/04-SC/04-SC-C05/04-SC-C05-0060	0	sek	00:09:21;
+
+ ;
+
+[Next]=00:09:21;
+
+

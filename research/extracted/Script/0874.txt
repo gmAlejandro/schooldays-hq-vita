@@ -1,0 +1,167 @@
+﻿[SkipFRAME]=01:08:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	01:08:01;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-N00/SE03-SB-N00-001	01:04:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-002	00:04:05;
+
+[PrintText]=00:03:00	Makoto	...	00:04:04;
+
+[PlayVoice]=00:03:00	Voice03/03-SB/03-SB-N00/03-SB-N00-0050	1	xxx	00:04:04;
+
+[CreateBG]=00:04:05	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-003	00:09:11;
+
+[PrintText]=00:04:05	Otome	¿Huh? Itou.	00:05:22;
+
+[PlayVoice]=00:04:05	Voice03/03-SB/03-SB-N00/03-SB-N00-0060	0	oto	00:05:22;
+
+[PrintText]=00:05:21	Makoto	Katou.	00:08:03;
+
+[PlayVoice]=00:05:21	Voice03/03-SB/03-SB-N00/03-SB-N00-0070	1	mak	00:08:03;
+
+[PrintText]=00:08:02	Otome	¿Qué pasa?^	00:09:10;
+
+[PlayVoice]=00:08:02	Voice03/03-SB/03-SB-N00/03-SB-N00-0080	0	oto	00:09:10;
+
+[CreateBG]=00:09:11	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-004	00:10:11;
+
+[PrintText]=00:09:11	Makoto	¿Acerca de?^	00:10:09;
+
+[PlayVoice]=00:09:11	Voice03/03-SB/03-SB-N00/03-SB-N00-0090	1	mak	00:10:09;
+
+[PrintText]=00:10:09	Otome	¿Acerca de?^	00:12:22;
+
+[PlayVoice]=00:10:09	Voice03/03-SB/03-SB-N00/03-SB-N00-0100	0	oto	00:12:22;
+
+[CreateBG]=00:10:11	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-005	00:12:22;
+
+[CreateBG]=00:12:22	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-006	00:14:11;
+
+[PrintText]=00:12:22	Makoto	Ah...	00:14:10;
+
+[PlayVoice]=00:12:22	Voice03/03-SB/03-SB-N00/03-SB-N00-0110	1	mak	00:14:10;
+
+[PrintText]=00:14:10	Otome	¿Quieres hablarlo?^	00:15:23;
+
+[PlayVoice]=00:14:10	Voice03/03-SB/03-SB-N00/03-SB-N00-0120	0	oto	00:15:23;
+
+[CreateBG]=00:14:11	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-007	00:22:16;
+
+[PrintText]=00:15:23	Makoto	No... bueno...	00:20:03;
+
+[PlayVoice]=00:15:23	Voice03/03-SB/03-SB-N00/03-SB-N00-0130	1	mak	00:20:03;
+
+[PrintText]=00:20:03	Otome	Vamos, habla conmigo.	00:22:16;
+
+[PlayVoice]=00:20:03	Voice03/03-SB/03-SB-N00/03-SB-N00-0140	0	oto	00:22:16;
+
+[CreateBG]=00:22:16	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-008	00:28:08;
+
+[PrintText]=00:22:16	Makoto	No es algo que me moleste...	00:24:16;
+
+[PlayVoice]=00:22:16	Voice03/03-SB/03-SB-N00/03-SB-N00-0150	1	mak	00:24:16;
+
+[PrintText]=00:24:15	Otome	¿Qué?^	00:25:14;
+
+[PlayVoice]=00:24:15	Voice03/03-SB/03-SB-N00/03-SB-N00-0160	0	oto	00:25:14;
+
+[PrintText]=00:25:14	Makoto	Estás holgazaneando.	00:28:07;
+
+[PlayVoice]=00:25:14	Voice03/03-SB/03-SB-N00/03-SB-N00-0170	1	mak	00:28:07;
+
+[CreateBG]=00:28:08	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-009	00:30:03;
+
+[PrintText]=00:28:08	Otome	Qué rudo.	00:30:02;
+
+[PlayVoice]=00:28:08	Voice03/03-SB/03-SB-N00/03-SB-N00-0180	0	oto	00:30:02;
+
+[PrintText]=00:30:02	Makoto	Si estás libre, hazme compañía por un momento.	00:32:03;
+
+[PlayVoice]=00:30:02	Voice03/03-SB/03-SB-N00/03-SB-N00-0190	1	mak	00:32:03;
+
+[CreateBG]=00:30:03	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-010	00:38:17;
+
+[PrintText]=00:32:03	Otome	¿Eh?^	00:32:18;
+
+[PlayVoice]=00:32:03	Voice03/03-SB/03-SB-N00/03-SB-N00-0200	0	oto	00:32:18;
+
+[PrintText]=00:32:18	Makoto	Mi turno ya acabó, tengo esta empanada y estas papas, vamos a caminar juntos.	00:38:17;
+
+[PlayVoice]=00:32:18	Voice03/03-SB/03-SB-N00/03-SB-N00-0210	1	mak	00:38:17;
+
+[CreateBG]=00:38:17	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-011	00:42:14;
+
+[PrintText]=00:38:17	Otome	¿Eh...? ¿Juntos?^	00:40:17;
+
+[PlayVoice]=00:38:17	Voice03/03-SB/03-SB-N00/03-SB-N00-0220	0	oto	00:40:17;
+
+[PrintText]=00:40:17	Makoto	Sí.	00:41:10;
+
+[PlayVoice]=00:40:17	Voice03/03-SB/03-SB-N00/03-SB-N00-0230	1	mak	00:41:10;
+
+[PrintText]=00:41:10	Otome	¿A caminar?^	00:42:14;
+
+[PlayVoice]=00:41:10	Voice03/03-SB/03-SB-N00/03-SB-N00-0240	0	oto	00:42:14;
+
+[CreateBG]=00:42:14	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-012	00:48:17;
+
+[PrintText]=00:42:14	Makoto	Eso es lo que dije, sí.	00:44:05;
+
+[PlayVoice]=00:42:14	Voice03/03-SB/03-SB-N00/03-SB-N00-0250	1	mak	00:44:05;
+
+[PrintText]=00:44:05	Otome	...	00:45:12;
+
+[PlayVoice]=00:44:05	Voice03/03-SB/03-SB-N00/03-SB-N00-0260	0	xxx	00:45:12;
+
+[PrintText]=00:45:12	Makoto	Ahh... no tienes por qué si estás ocupada.	00:48:17;
+
+[PlayVoice]=00:45:12	Voice03/03-SB/03-SB-N00/03-SB-N00-0270	1	mak	00:48:17;
+
+[CreateBG]=00:48:17	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-013	00:53:02;
+
+[PrintText]=00:48:17	Otome	¡N-No estoy ocupada! ¡En realidad estoy libre!	00:53:02;
+
+[PlayVoice]=00:48:17	Voice03/03-SB/03-SB-N00/03-SB-N00-0280	0	oto	00:53:02;
+
+[CreateBG]=00:53:02	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-014	00:55:16;
+
+[PrintText]=00:53:02	Makoto	Sí, lo apuesto. Puedo decirlo con solo mirarlo.	00:55:15;
+
+[PlayVoice]=00:53:02	Voice03/03-SB/03-SB-N00/03-SB-N00-0290	1	mak	00:55:15;
+
+[PrintText]=00:55:15	Otome	¿En serio?^	00:57:13;
+
+[PlayVoice]=00:55:15	Voice03/03-SB/03-SB-N00/03-SB-N00-0300	0	oto	00:57:13;
+
+[CreateBG]=00:55:16	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-015	00:57:14;
+
+[PrintText]=00:57:13	Makoto	Cielos. ¿Hace cuanto que nos conocemos?^	01:02:08;
+
+[PlayVoice]=00:57:13	Voice03/03-SB/03-SB-N00/03-SB-N00-0310	1	mak	01:02:08;
+
+[CreateBG]=00:57:14	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-016	01:02:08;
+
+[CreateBG]=01:02:08	BGS	Event03/03-SB/03-SB-N00/03-SB-N00-017	01:08:01;
+
+[PrintText]=01:02:08	Otome	Haha... creo que es verdad.	01:04:19;
+
+[PlayVoice]=01:02:08	Voice03/03-SB/03-SB-N00/03-SB-N00-0320	0	oto	01:04:19;
+
+[PlaySe]=01:04:15	2	Se03/03-SB/03-SB-N00/SE03-SB-N00-001	01:08:01;
+
+[PrintText]=01:04:19	Makoto	Bien, vamos.	01:06:22;
+
+[PlayVoice]=01:04:19	Voice03/03-SB/03-SB-N00/03-SB-N00-0330	1	mak	01:06:22;
+
+[PrintText]=01:06:22	Otome	¡Vale!	01:07:17;
+
+[PlayVoice]=01:06:22	Voice03/03-SB/03-SB-N00/03-SB-N00-0340	0	oto	01:07:17;
+
+ ;
+
+[Next]=01:08:01;
+
+

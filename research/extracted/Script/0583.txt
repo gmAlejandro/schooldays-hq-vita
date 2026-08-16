@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:25:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:31:13;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-I06/SE03-KA-I06-001	00:31:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I06/03-KA-I06-001	00:07:04;
+
+[PrintText]=00:00:00	Makoto	...También lo hace Sekai ¿No?^	00:01:17;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I06/03-KA-I06-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:23	Setsuna	Cierto.	00:03:00;
+
+[PlayVoice]=00:01:23	Voice03/03-KA/03-KA-I06/03-KA-I06-0040	0	set	00:03:00;
+
+[PrintText]=00:03:07	Makoto	Usar el nombre de alguien es lo que las personas cercanas hacen.	00:07:02;
+
+[PlayVoice]=00:03:07	Voice03/03-KA/03-KA-I06/03-KA-I06-0050	1	mak	00:07:02;
+
+[CreateBG]=00:07:04	BGS	Event03/03-KA/03-KA-I06/03-KA-I06-002A	00:18:01;
+
+[PrintText]=00:07:04	Setsuna	Ya veo... vale, Makoto.	00:14:07;
+
+[PlayVoice]=00:07:04	Voice03/03-KA/03-KA-I06/03-KA-I06-0060	0	set	00:14:07;
+
+[PrintText]=00:14:02	Makoto	¿Huh?^	00:14:18;
+
+[PlayVoice]=00:14:02	Voice03/03-KA/03-KA-I06/03-KA-I06-0070	1	mak	00:14:18;
+
+[PrintText]=00:15:08	Setsuna	Makoto. Pintarás esto después.	00:18:07;
+
+[PlayVoice]=00:15:08	Voice03/03-KA/03-KA-I06/03-KA-I06-0080	0	set	00:18:07;
+
+[CreateBG]=00:18:01	BGS	Event03/03-KA/03-KA-I06/03-KA-I06-002B	00:23:01;
+
+[PrintText]=00:18:01	Makoto	E-Espera, ¿Por qué me estás llamando por mi nombre?^	00:23:01;
+
+[PlayVoice]=00:18:01	Voice03/03-KA/03-KA-I06/03-KA-I06-0090	1	mak	00:23:01;
+
+[CreateBG]=00:23:01	BGS	Event03/03-KA/03-KA-I06/03-KA-I06-002A	00:31:13;
+
+[PrintText]=00:23:01	Setsuna	Porque somos cercanos.	00:24:06;
+
+[PlayVoice]=00:23:01	Voice03/03-KA/03-KA-I06/03-KA-I06-0100	0	set	00:24:06;
+
+[PrintText]=00:24:09	Makoto	¿Ehh...?^	00:25:07;
+
+[PlayVoice]=00:24:09	Voice03/03-KA/03-KA-I06/03-KA-I06-0110	1	mak	00:25:07;
+
+[SetSELECT]=00:25:10	'Sí'	'No'	00:30:10;
+
+ ;
+
+[Next]=00:31:13;
+
+

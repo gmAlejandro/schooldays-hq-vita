@@ -1,0 +1,209 @@
+﻿[SkipFRAME]=01:00:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:06:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-P00/04-SA-P00-001	00:15:02;
+
+[PrintText]=00:00:10	Makoto	El boleto de la entrada iba a estar bien.	00:02:13;
+
+[PlayVoice]=00:00:10	Voice04/04-KC/04-KC-H02/04-KC-H02-0050	1	mak	00:02:13;
+
+[PrintText]=00:02:10	Sekai	Tengo un pase, por lo que puedo bajar en cualquier estación.	00:06:11;
+
+[PlayVoice]=00:02:10	Voice04/04-KC/04-KC-H02/04-KC-H02-0060	0	sek	00:06:11;
+
+[PrintText]=00:06:14	Makoto	Bueno, vale.	00:07:21;
+
+[PlayVoice]=00:06:14	Voice04/04-KC/04-KC-H02/04-KC-H02-0070	1	mak	00:07:21;
+
+[PrintText]=00:07:20	Sekai	Veamos... ah, hay un expreso.	00:11:22;
+
+[PlayVoice]=00:07:20	Voice04/04-KC/04-KC-H02/04-KC-H02-0080	0	sek	00:11:22;
+
+[PrintText]=00:11:23	Makoto	No parará aquí ¿No?^	00:14:00;
+
+[PlayVoice]=00:11:23	Voice04/04-KC/04-KC-H02/04-KC-H02-0090	1	mak	00:14:00;
+
+[PrintText]=00:14:14	Sekai	Al parecer, entonces el siguiente tren...	00:18:21;
+
+[PlayVoice]=00:14:14	Voice04/04-KC/04-KC-H02/04-KC-H02-0100	0	sek	00:18:21;
+
+[PlayMovie]=00:15:02	Movie04/04-KC/04-KC-H02/04-KC-H02-002	0	01:06:22;
+
+[PlayVoice]=00:19:02	Voice04/04-KC/04-KC-H02/04-KC-H02-0110			00:20:17;
+
+[PrintText]=00:19:12	Sekai	...vendrá después del expreso, huh. Parece que tendremos que esperar un poco. Brrr, hace frío.	00:29:15;
+
+[PlayVoice]=00:19:12	Voice04/04-KC/04-KC-H02/04-KC-H02-0120	0	sek	00:29:15;
+
+[PrintText]=00:29:15	Makoto	...Bueno, ya acaba el otoño...	00:33:06;
+
+[PlayVoice]=00:29:15	Voice04/04-KC/04-KC-H02/04-KC-H02-0130	1	mak	00:33:06;
+
+[PrintText]=00:33:06	Sekai	Sí, tienes razón...	00:34:18;
+
+[PlayVoice]=00:33:06	Voice04/04-KC/04-KC-H02/04-KC-H02-0140	0	sek	00:34:18;
+
+[PrintText]=00:34:18	Makoto	Sekai.	00:35:15;
+
+[PlayVoice]=00:34:18	Voice04/04-KC/04-KC-H02/04-KC-H02-0160	1	mak	00:35:15;
+
+[PrintText]=00:35:16	Sekai	¿Eh?^	00:36:14;
+
+[PlayVoice]=00:35:16	Voice04/04-KC/04-KC-H02/04-KC-H02-0170	0	sek	00:36:14;
+
+[PrintText]=00:37:21	Sekai	¡Wa-wah!	00:39:01;
+
+[PlayVoice]=00:37:21	Voice04/04-KC/04-KC-H02/04-KC-H02-0190	0	sek	00:39:01;
+
+[PrintText]=00:39:04	Makoto	...Ahora estarás caliente.	00:41:10;
+
+[PlayVoice]=00:39:04	Voice04/04-KC/04-KC-H02/04-KC-H02-0200	1	mak	00:41:10;
+
+[PrintText]=00:41:05	Sekai	¡Qu...! ...Makoto.	00:43:16;
+
+[PlayVoice]=00:41:05	Voice04/04-KC/04-KC-H02/04-KC-H02-0210	0	sek	00:43:16;
+
+[PrintText]=00:43:16	Makoto	¿No te gusta?^	00:44:08;
+
+[PlayVoice]=00:43:16	Voice04/04-KC/04-KC-H02/04-KC-H02-0220	1	mak	00:44:08;
+
+[PrintText]=00:44:08	Sekai	...Sí.	00:47:04;
+
+[PlayVoice]=00:44:08	Voice04/04-KC/04-KC-H02/04-KC-H02-0230	0	sek	00:47:04;
+
+[PrintText]=00:47:04	Makoto	Que bueno.	00:48:04;
+
+[PlayVoice]=00:47:04	Voice04/04-KC/04-KC-H02/04-KC-H02-0250	1	mak	00:48:04;
+
+[PrintText]=00:48:05	Sekai	...	00:48:18;
+
+[PlayVoice]=00:48:05	Voice04/04-KC/04-KC-H02/04-KC-H02-0260	0	xxx	00:48:18;
+
+[PrintText]=00:48:18	Makoto	Escucha... yo...	00:52:08;
+
+[PlayVoice]=00:48:18	Voice04/04-KC/04-KC-H02/04-KC-H02-0270	1	mak	00:52:08;
+
+[PrintText]=00:52:09	Sekai	...Lo sé.	00:54:20;
+
+[PlayVoice]=00:52:09	Voice04/04-KC/04-KC-H02/04-KC-H02-0280	0	sek	00:54:20;
+
+[PrintText]=00:54:20	Makoto	...	00:56:02;
+
+[PlayVoice]=00:54:20	Voice04/04-KC/04-KC-H02/04-KC-H02-0290	1	xxx	00:56:02;
+
+[PrintText]=00:56:13	Sekai	Makoto... bésame....	01:01:05;
+
+[PlayVoice]=00:56:13	Voice04/04-KC/04-KC-H02/04-KC-H02-0330	0	sek	01:01:05;
+
+[PrintText]=01:00:22	Makoto	¿Eh?	01:05:22;
+
+[SkipFRAME]=01:00:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:06:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-P00/04-SA-P00-001	00:15:02;
+
+[PrintText]=00:00:10	Makoto	El boleto de la entrada iba a estar bien.	00:02:13;
+
+[PlayVoice]=00:00:10	Voice04/04-KC/04-KC-H02/04-KC-H02-0050	1	mak	00:02:13;
+
+[PrintText]=00:02:10	Sekai	Tengo un pase, por lo que puedo bajar en cualquier estación.	00:06:11;
+
+[PlayVoice]=00:02:10	Voice04/04-KC/04-KC-H02/04-KC-H02-0060	0	sek	00:06:11;
+
+[PrintText]=00:06:14	Makoto	Bueno, vale.	00:07:21;
+
+[PlayVoice]=00:06:14	Voice04/04-KC/04-KC-H02/04-KC-H02-0070	1	mak	00:07:21;
+
+[PrintText]=00:07:20	Sekai	Veamos... ah, hay un expreso.	00:11:22;
+
+[PlayVoice]=00:07:20	Voice04/04-KC/04-KC-H02/04-KC-H02-0080	0	sek	00:11:22;
+
+[PrintText]=00:11:23	Makoto	No parará aquí ¿No?^	00:14:00;
+
+[PlayVoice]=00:11:23	Voice04/04-KC/04-KC-H02/04-KC-H02-0090	1	mak	00:14:00;
+
+[PrintText]=00:14:14	Sekai	Al parecer, entonces el siguiente tren...	00:18:21;
+
+[PlayVoice]=00:14:14	Voice04/04-KC/04-KC-H02/04-KC-H02-0100	0	sek	00:18:21;
+
+[PlayMovie]=00:15:02	Movie04/04-KC/04-KC-H02/04-KC-H02-002	0	01:06:22;
+
+[PlayVoice]=00:19:02	Voice04/04-KC/04-KC-H02/04-KC-H02-0110			00:20:17;
+
+[PrintText]=00:19:12	Sekai	...vendrá después del expreso, huh. Parece que tendremos que esperar un poco. Brrr, hace frío.	00:29:15;
+
+[PlayVoice]=00:19:12	Voice04/04-KC/04-KC-H02/04-KC-H02-0120	0	sek	00:29:15;
+
+[PrintText]=00:29:15	Makoto	...Bueno, ya acaba el otoño...	00:33:06;
+
+[PlayVoice]=00:29:15	Voice04/04-KC/04-KC-H02/04-KC-H02-0130	1	mak	00:33:06;
+
+[PrintText]=00:33:06	Sekai	Sí, tienes razón...	00:34:18;
+
+[PlayVoice]=00:33:06	Voice04/04-KC/04-KC-H02/04-KC-H02-0140	0	sek	00:34:18;
+
+[PrintText]=00:34:18	Makoto	Sekai.	00:35:15;
+
+[PlayVoice]=00:34:18	Voice04/04-KC/04-KC-H02/04-KC-H02-0160	1	mak	00:35:15;
+
+[PrintText]=00:35:16	Sekai	¿Eh?^	00:36:14;
+
+[PlayVoice]=00:35:16	Voice04/04-KC/04-KC-H02/04-KC-H02-0170	0	sek	00:36:14;
+
+[PrintText]=00:37:21	Sekai	¡Wa-wah!	00:39:01;
+
+[PlayVoice]=00:37:21	Voice04/04-KC/04-KC-H02/04-KC-H02-0190	0	sek	00:39:01;
+
+[PrintText]=00:39:04	Makoto	...Ahora estarás caliente.	00:41:10;
+
+[PlayVoice]=00:39:04	Voice04/04-KC/04-KC-H02/04-KC-H02-0200	1	mak	00:41:10;
+
+[PrintText]=00:41:05	Sekai	¡Qu...! ...Makoto.	00:43:16;
+
+[PlayVoice]=00:41:05	Voice04/04-KC/04-KC-H02/04-KC-H02-0210	0	sek	00:43:16;
+
+[PrintText]=00:43:16	Makoto	¿No te gusta?^	00:44:08;
+
+[PlayVoice]=00:43:16	Voice04/04-KC/04-KC-H02/04-KC-H02-0220	1	mak	00:44:08;
+
+[PrintText]=00:44:08	Sekai	...Sí.	00:47:04;
+
+[PlayVoice]=00:44:08	Voice04/04-KC/04-KC-H02/04-KC-H02-0230	0	sek	00:47:04;
+
+[PrintText]=00:47:04	Makoto	Que bueno.	00:48:04;
+
+[PlayVoice]=00:47:04	Voice04/04-KC/04-KC-H02/04-KC-H02-0250	1	mak	00:48:04;
+
+[PrintText]=00:48:05	Sekai	...	00:48:18;
+
+[PlayVoice]=00:48:05	Voice04/04-KC/04-KC-H02/04-KC-H02-0260	0	xxx	00:48:18;
+
+[PrintText]=00:48:18	Makoto	Escucha... yo...	00:52:08;
+
+[PlayVoice]=00:48:18	Voice04/04-KC/04-KC-H02/04-KC-H02-0270	1	mak	00:52:08;
+
+[PrintText]=00:52:09	Sekai	...Lo sé.	00:54:20;
+
+[PlayVoice]=00:52:09	Voice04/04-KC/04-KC-H02/04-KC-H02-0280	0	sek	00:54:20;
+
+[PrintText]=00:54:20	Makoto	...	00:56:02;
+
+[PlayVoice]=00:54:20	Voice04/04-KC/04-KC-H02/04-KC-H02-0290	1	xxx	00:56:02;
+
+[PrintText]=00:56:13	Sekai	Makoto... bésame....	01:01:05;
+
+[PlayVoice]=00:56:13	Voice04/04-KC/04-KC-H02/04-KC-H02-0330	0	sek	01:01:05;
+
+[SetSELECT]=01:00:22	*No besarla*	null	01:05:22;
+
+[PrintText]=01:01:09	Makoto	¿Eh?^	01:02:01;
+
+[PlayVoice]=01:01:09	Voice04/04-KC/04-KC-H02/04-KC-H02-0340	1	mak	01:02:01;
+
+ ;
+
+[Next]=01:06:22;
+
+

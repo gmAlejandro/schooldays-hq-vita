@@ -1,0 +1,193 @@
+﻿[SkipFRAME]=01:44:17;
+
+[PlaySe]=00:00:00	2	Se01/01-1S/01-1S-E00/SE01-1S-E00-001	00:37:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-001	00:02:22;
+
+[CreateBG]=00:02:22	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-002	00:06:14;
+
+[PrintText]=00:03:04	Makoto	¿Me pregunto qué clase de película veremos...?^	00:06:14;
+
+[PlayVoice]=00:03:04	Voice01/01-1S/01-1S-E00/01-1S-E00-0050	1	mak	00:06:14;
+
+[CreateBG]=00:06:14	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-003	00:19:06;
+
+[PrintText]=00:06:14	Kotonoha	Está basada en una novela escrita a finales del siglo 19, por un profesor inglés.	00:12:20;
+
+[PlayVoice]=00:06:14	Voice01/01-1S/01-1S-E00/01-1S-E00-0070	0	kot	00:12:20;
+
+[PrintText]=00:12:18	Makoto	Sabes mucho de esto.	00:14:11;
+
+[PlayVoice]=00:12:18	Voice01/01-1S/01-1S-E00/01-1S-E00-0080	1	mak	00:14:11;
+
+[PrintText]=00:14:04	Kotonoha	Eheheh... Recientemente, leí el libro en el que está basado.	00:19:10;
+
+[PlayVoice]=00:14:04	Voice01/01-1S/01-1S-E00/01-1S-E00-0090	0	kot	00:19:10;
+
+[CreateBG]=00:19:06	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-004	00:26:10;
+
+[PrintText]=00:19:06	Makoto	Wow.	00:20:08;
+
+[PlayVoice]=00:19:06	Voice01/01-1S/01-1S-E00/01-1S-E00-0100	1	mak	00:20:08;
+
+[PrintText]=00:20:09	Kotonoha	Fue antes de conocernos, se siente como si ese libro fue traído para nosotros.	00:26:13;
+
+[PlayVoice]=00:20:09	Voice01/01-1S/01-1S-E00/01-1S-E00-0110	0	kot	00:26:13;
+
+[CreateBG]=00:26:10	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-005	00:29:21;
+
+[PrintText]=00:26:10	Makoto	Ah...	00:29:12;
+
+[PlayVoice]=00:26:10	Voice01/01-1S/01-1S-E00/01-1S-E00-0120	1	mak	00:29:12;
+
+[CreateBG]=00:29:21	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-006	00:34:21;
+
+[PrintText]=00:31:00	Kotonoha	Estoy segura que la película será interesante, también.	00:34:12;
+
+[PlayVoice]=00:31:00	Voice01/01-1S/01-1S-E00/01-1S-E00-0140	0	kot	00:34:12;
+
+[PrintText]=00:34:15	Makoto	Sí, tienes razón.	00:36:16;
+
+[PlayVoice]=00:34:15	Voice01/01-1S/01-1S-E00/01-1S-E00-0150	1	mak	00:36:16;
+
+[CreateBG]=00:34:21	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-007	00:37:20;
+
+[BlackFade]=00:36:20	OUT	00:37:20;
+
+[PlayBgm]=00:37:20	BGM/SD_BGM/sdbgm20	01:44:17;
+
+[BlackFade]=00:37:20	IN	00:38:20;
+
+[CreateBG]=00:37:21	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-008	00:43:08;
+
+[PrintText]=00:38:20	Hada A	¿Los dragones y el Dios de la muerte vendrán a hacernos daño...?^	00:43:05;
+
+[PlayVoice]=00:38:20	Voice01/01-1S/01-1S-E00/01-1S-E00-0180	0	yoa	00:43:05;
+
+[CreateBG]=00:43:08	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-009	00:45:07;
+
+[PrintText]=00:43:12	Hada B	¿Qué dices?^	00:45:03;
+
+[PlayVoice]=00:43:12	Voice01/01-1S/01-1S-E00/01-1S-E00-0190	0	yob	00:45:03;
+
+[CreateBG]=00:45:07	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-010	00:48:16;
+
+[PrintText]=00:45:12	Hada A	Bueno... yo...	00:48:10;
+
+[PlayVoice]=00:45:12	Voice01/01-1S/01-1S-E00/01-1S-E00-0200	0	yoa	00:48:10;
+
+[PlaySe]=00:48:16	1	Voice01/01-1S/01-1S-E00/01-1S-E00-0260	00:51:04;
+
+[CreateBG]=00:48:16	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-011	00:51:09;
+
+[CreateBG]=00:51:09	BGS	Ini/Event01/01-1S/01-1S-E00/01-1S-E00-012	00:53:20;
+
+#[PrintText]=00:51:09	Juego	"¿Cómo la hago feliz?"\n- "¡Un Beso!".	00:53:20;
+
+[CreateBG]=00:53:20	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-013	00:56:13;
+
+[CreateBG]=00:56:13	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-003	00:59:15;
+
+[PrintText]=00:56:18	Kotonoha	¿Hmn?^	00:57:07;
+
+[PlayVoice]=00:56:18	Voice01/01-1S/01-1S-E00/01-1S-E00-0270	0	kot	00:57:07;
+
+[PrintText]=00:57:13	Makoto	N-Nada.	00:59:05;
+
+[PlayVoice]=00:57:13	Voice01/01-1S/01-1S-E00/01-1S-E00-0290	1	mak	00:59:05;
+
+[CreateBG]=00:59:15	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-015	01:01:09;
+
+[CreateBG]=01:01:09	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-016	01:03:09;
+
+[CreateBG]=01:03:09	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-017	01:06:00;
+
+[PrintText]=01:03:22	Makoto	...	01:05:01;
+
+[PlayVoice]=01:03:22	Voice01/01-1S/01-1S-E00/01-1S-E00-0320	1	xxx	01:05:01;
+
+[CreateBG]=01:06:00	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-011	01:08:16;
+
+[PlayMovie]=01:08:16	Movie01/01-1S/01-1S-E00/01-1S-E00-019	0	01:12:00;
+
+[PrintText]=01:08:16	Makoto	...	01:11:19;
+
+[PlayVoice]=01:08:16	Voice01/01-1S/01-1S-E00/01-1S-E00-0340	1	xxx	01:11:19;
+
+[CreateBG]=01:12:00	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-020	01:13:02;
+
+[PrintText]=01:12:04	Kotonoha	¡Kyah!	01:13:02;
+
+[PlayVoice]=01:12:04	Voice01/01-1S/01-1S-E00/01-1S-E00-0370	0	kot	01:13:02;
+
+[CreateBG]=01:13:02	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-021	01:27:08;
+
+[PrintText]=01:13:15	Kotonoha	U-um...	01:15:16;
+
+[PlayVoice]=01:13:15	Voice01/01-1S/01-1S-E00/01-1S-E00-0390	0	kot	01:15:16;
+
+[PrintText]=01:16:01	Makoto	...	01:17:08;
+
+[PlayVoice]=01:16:01	Voice01/01-1S/01-1S-E00/01-1S-E00-0400	1	xxx	01:17:08;
+
+[PrintText]=01:17:14	Kotonoha	Mi mano...	01:18:10;
+
+[PlayVoice]=01:17:14	Voice01/01-1S/01-1S-E00/01-1S-E00-0410	0	kot	01:18:10;
+
+[PrintText]=01:18:12	Makoto	Uh-huh.	01:19:09;
+
+[PlayVoice]=01:18:12	Voice01/01-1S/01-1S-E00/01-1S-E00-0420	1	mak	01:19:09;
+
+[PrintText]=01:19:11	Kotonoha	La estás sosteniendo...	01:21:11;
+
+[PlayVoice]=01:19:11	Voice01/01-1S/01-1S-E00/01-1S-E00-0430	0	kot	01:21:11;
+
+[PrintText]=01:21:10	Makoto	¡S-Sí!	01:23:04;
+
+[PlayVoice]=01:21:10	Voice01/01-1S/01-1S-E00/01-1S-E00-0440	1	mak	01:23:04;
+
+[PrintText]=01:23:08	Kotonoha	Um...	01:24:22;
+
+[PlayVoice]=01:23:08	Voice01/01-1S/01-1S-E00/01-1S-E00-0450	0	kot	01:24:22;
+
+[PrintText]=01:25:00	Makoto	...	01:27:01;
+
+[PlayVoice]=01:25:00	Voice01/01-1S/01-1S-E00/01-1S-E00-0460	1	xxx	01:27:01;
+
+[CreateBG]=01:27:08	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-022	01:32:08;
+
+[PrintText]=01:27:08	Kotonoha	Disculpa... esto es...	01:30:20;
+
+[PlayVoice]=01:27:08	Voice01/01-1S/01-1S-E00/01-1S-E00-0470	0	kot	01:30:20;
+
+[PlayMovie]=01:31:01	Movie01/01-1S/01-1S-E00/01-1S-E00-023	0	01:31:01;
+
+[PrintText]=01:31:07	Makoto	Ah...	01:31:22;
+
+[PlayVoice]=01:31:07	Voice01/01-1S/01-1S-E00/01-1S-E00-0490	1	mak	01:31:22;
+
+[PlayMovie]=01:32:08	Movie01/01-1S/01-1S-E00/01-1S-E00-023	0	01:33:15;
+
+[PrintText]=01:32:11	Kotonoha	...	01:34:10;
+
+[PlayVoice]=01:32:11	Voice01/01-1S/01-1S-E00/01-1S-E00-0510	0	xxx	01:34:10;
+
+[CreateBG]=01:33:15	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-024	01:38:00;
+
+[CreateBG]=01:38:00	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-015	01:41:08;
+
+[CreateBG]=01:41:08	BGS	Event01/01-1S/01-1S-E00/01-1S-E00-027	01:44:17;
+
+[PrintText]=01:41:13	Makoto	...	01:42:00;
+
+[PlayVoice]=01:41:13	Voice01/01-1S/01-1S-E00/01-1S-E00-0530	1	xxx	01:42:00;
+
+[BlackFade]=01:43:17	OUT	01:44:17;
+
+ ;
+
+[Next]=01:44:17;
+
+
+
+

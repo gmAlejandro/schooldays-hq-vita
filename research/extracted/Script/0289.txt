@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:20:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:20:08;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-A02/02-2S-A02-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event02/02-2S/02-2S-A02/02-2S-A02-002	00:08:13;
+
+[PrintText]=00:03:15	Kotonoha	Me pregunto si Makoto-kun todavía está despierto ...	00:06:22;
+
+[PlayVoice]=00:03:15	Voice02/02-2S/02-2S-A02/02-2S-A02-0050	0	kot	00:06:22;
+
+[CreateBG]=00:08:13	BGS	Event02/02-2S/02-2S-A02/02-2S-A02-003	00:11:22;
+
+[CreateBG]=00:11:22	BGS	Event02/02-2S/02-2S-A02/02-2S-A02-004	00:15:23;
+
+[PrintText]=00:14:11	Kotonoha	Probablemente está dormido. Lo invitaré mañana.	00:18:17;
+
+[PlayVoice]=00:14:11	Voice02/02-2S/02-2S-A02/02-2S-A02-0070	0	kot	00:18:17;
+
+[CreateBG]=00:15:23	BGS	Event02/02-2S/02-2S-A02/02-2S-A02-005	00:20:08;
+
+[BlackFade]=00:19:08	OUT	00:20:08;
+
+ ;
+
+[Next]=00:20:08;
+
+
+
+

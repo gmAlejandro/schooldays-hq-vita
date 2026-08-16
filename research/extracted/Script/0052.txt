@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:14:20;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E09/SE01-00-E09-001	00:14:20;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:14:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-E09/01-00-E09-001	00:05:15;
+
+[PrintText]=00:00:06	Kotonoha	Ah... No tienes que hacerlo si no quieres.	00:05:09;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-E09/01-00-E09-0030	0	kot	00:05:09;
+
+[CreateBG]=00:05:15	BGS	Event01/01-00/01-00-E09/01-00-E09-002	00:06:23;
+
+[PrintText]=00:05:18	Makoto	Mmn...	00:06:17;
+
+[PlayVoice]=00:05:18	Voice01/01-00/01-00-E09/01-00-E09-0040	1	mak	00:06:17;
+
+[CreateBG]=00:06:23	BGS	Event01/01-00/01-00-E09/01-00-E09-003	00:09:10;
+
+[PrintText]=00:07:02	Kotonoha	Perdón.	00:08:13;
+
+[PlayVoice]=00:07:02	Voice01/01-00/01-00-E09/01-00-E09-0050	0	kot	00:08:13;
+
+[PrintText]=00:08:15	Makoto	No...	00:09:07;
+
+[PlayVoice]=00:08:15	Voice01/01-00/01-00-E09/01-00-E09-0060	1	mak	00:09:07;
+
+[CreateBG]=00:09:10	BGS	Event01/01-00/01-00-E09/01-00-E09-004	00:13:03;
+
+[PrintText]=00:09:13	Sekai	¿Por qué están actuando tan formal?^	00:12:01;
+
+[PlayVoice]=00:09:13	Voice01/01-00/01-00-E09/01-00-E09-0070	0	sek	00:12:01;
+
+[PrintText]=00:11:19	Makoto	Oh, cállate.	00:13:02;
+
+[PlayVoice]=00:11:19	Voice01/01-00/01-00-E09/01-00-E09-0080	1	mak	00:13:02;
+
+[CreateBG]=00:13:03	BGS	Event01/01-00/01-00-E09/01-00-E09-005	00:14:20;
+
+[PrintText]=00:13:13	Kotonoha	...	00:14:10;
+
+[PlayVoice]=00:13:13	Voice01/01-00/01-00-E09/01-00-E09-0090	0	xxx	00:14:10;
+
+ ;
+
+[Next]=00:14:20;
+
+
+
+

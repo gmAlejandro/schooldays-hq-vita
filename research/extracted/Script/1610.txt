@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:17:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:17:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-C02/05-KG-C02-001	00:05:00;
+
+[PrintText]=00:00:14	Makoto	¿La amo...?^	00:02:00;
+
+[PlayVoice]=00:00:14	Voice05/05-KG/05-KG-C02/05-KG-C02-0030	1	xxx	00:02:00;
+
+[PrintText]=00:03:15	Makoto	Sí... eso tiene que ser.	00:07:00;
+
+[PlayVoice]=00:03:15	Voice05/05-KG/05-KG-C02/05-KG-C02-0040	1	xxx	00:07:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-KG/05-KG-C02/05-KG-C02-002	00:12:06;
+
+[PrintText]=00:08:15	Makoto	De lo contrario ¿Por qué mi corazón latía tan fuerte...?^	00:12:11;
+
+[PlayVoice]=00:08:15	Voice05/05-KG/05-KG-C02/05-KG-C02-0050	1	xxx	00:12:11;
+
+[CreateBG]=00:12:06	BGS	Event05/05-KG/05-KG-C03/05-KG-C03-003	00:17:06;
+
+[PrintText]=00:13:13	Makoto	Kotonoha... la amo.	00:16:23;
+
+[PlayVoice]=00:13:13	Voice05/05-KG/05-KG-C02/05-KG-C02-0060	1	xxx	00:16:23;
+
+ ;
+
+[Next]=00:17:07;
+
+
+
+

@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:06:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:12:22;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C04/SE02-2S-C04-001	00:12:22;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C04/02-2S-C04-001	00:05:16;
+
+[PrintText]=00:00:00	Makoto	Será difícil decírselo.	00:01:10;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-C04/02-2S-C04-0030	1	mak	00:01:10;
+
+[PrintText]=00:01:11	Sekai	Sí, pero...	00:02:19;
+
+[PlayVoice]=00:01:11	Voice02/02-2S/02-2S-C04/02-2S-C04-0040	0	sek	00:02:19;
+
+[PrintText]=00:02:19	Makoto	E-Entonces, ¿Por qué nosotros solo..?^	00:05:16;
+
+[PlayVoice]=00:02:19	Voice02/02-2S/02-2S-C04/02-2S-C04-0050	1	mak	00:05:16;
+
+[CreateBG]=00:05:16	BGS	Event02/02-2S/02-2S-C04/02-2S-C04-002	00:12:22;
+
+[PrintText]=00:05:16	Sekai	Sí.	00:06:09;
+
+[PlayVoice]=00:05:16	Voice02/02-2S/02-2S-C04/02-2S-C04-0060	0	sek	00:06:09;
+
+[PrintText]=00:06:09	Makoto	¿Entonces?^	00:07:09;
+
+[PlayVoice]=00:06:09	Voice02/02-2S/02-2S-C04/02-2S-C04-0070	1	mak	00:07:09;
+
+[SetSELECT]=00:06:18	'Vamos Juntos a decírselo'	'Díselo tú'	00:11:18;
+
+ ;
+
+[Next]=00:12:22;
+
+
+
+

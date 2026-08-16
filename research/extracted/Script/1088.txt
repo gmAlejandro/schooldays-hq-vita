@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:13:14;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:13:14;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E02/04-SA-E02-001	00:04:20;
+
+[PrintText]=00:00:06	Makoto	De ninguna manera.	00:01:19;
+
+[PlayVoice]=00:00:06	Voice04/04-SA/04-SA-E02/04-SA-E02-0030	1	mak	00:01:19;
+
+[PrintText]=00:01:19	Taisuke	Vamos, no seas modesto.	00:03:16;
+
+[PlayVoice]=00:01:19	Voice04/04-SA/04-SA-E02/04-SA-E02-0040	1	tai	00:03:16;
+
+[PrintText]=00:03:16	Makoto	No lo soy.	00:04:22;
+
+[PlayVoice]=00:03:16	Voice04/04-SA/04-SA-E02/04-SA-E02-0050	1	mak	00:04:22;
+
+[CreateBG]=00:04:20	BGS	Event04/04-SA/04-SA-E02/04-SA-E02-002	00:08:13;
+
+[PrintText]=00:05:02	Taisuke	Mira, tengo que pedirte algo, escucha.	00:08:15;
+
+[PlayVoice]=00:05:02	Voice04/04-SA/04-SA-E02/04-SA-E02-0060	1	tai	00:08:15;
+
+[CreateBG]=00:08:13	BGS	Event04/04-SA/04-SA-E02/04-SA-E02-003	00:13:14;
+
+[PrintText]=00:08:18	Makoto	¿Pedirme qué?^	00:10:20;
+
+[PlayVoice]=00:08:18	Voice04/04-SA/04-SA-E02/04-SA-E02-0070	1	mak	00:10:20;
+
+[PrintText]=00:10:20	Taisuke	¿Me escucharás, entonces?^	00:12:07;
+
+[PlayVoice]=00:10:20	Voice04/04-SA/04-SA-E02/04-SA-E02-0080	1	tai	00:12:07;
+
+[PrintText]=00:12:07	Makoto	Depende de lo que sea.	00:13:14;
+
+[PlayVoice]=00:12:07	Voice04/04-SA/04-SA-E02/04-SA-E02-0090	1	mak	00:13:14;
+
+ ;
+
+[Next]=00:13:14;
+
+

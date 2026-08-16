@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:05:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	00:11:17;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-F03/SE02-2K-F03-001	00:11:17;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-F03/02-2K-F03-001	00:02:04;
+
+[PrintText]=00:00:00	Kotonoha	¡Uh... um...!	00:01:11;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-F03/02-2K-F03-0030	0	kot	00:01:11;
+
+[CreateBG]=00:02:04	BGS	Event02/02-2K/02-2K-F03/02-2K-F03-002	00:03:16;
+
+[PrintText]=00:02:16	Makoto	Ah...	00:03:12;
+
+[PlayVoice]=00:02:16	Voice02/02-2K/02-2K-F03/02-2K-F03-0050	1	mak	00:03:12;
+
+[CreateBG]=00:03:16	BGS	Event02/02-2K/02-2K-F03/02-2K-F03-003	00:11:17;
+
+[PrintText]=00:03:20	Kotonoha	...	00:06:03;
+
+[PlayVoice]=00:03:20	Voice02/02-2K/02-2K-F03/02-2K-F03-0060	0	xxx	00:06:03;
+
+[SetSELECT]=00:05:15	'Perdón'	'¿Por qué?'	00:10:15;
+
+ ;
+
+[Next]=00:11:17;
+
+
+
+

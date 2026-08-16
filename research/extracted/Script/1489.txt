@@ -1,0 +1,96 @@
+﻿[SkipFRAME]=00:35:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:35:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou_yuugata	00:35:01;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-001	00:03:21;
+
+[PrintText]=00:00:00	Setsuna	Escuché que Katsura-san a sido el problema.	00:03:21;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-F00/05-KA-F00-0030	0	set	00:03:21;
+
+[CreateBG]=00:03:21	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-002	00:04:16;
+
+[PrintText]=00:03:21	Makoto	¿Eh?^	00:04:12;
+
+[PlayVoice]=00:03:21	Voice05/05-KA/05-KA-F00/05-KA-F00-0040	1	mak	00:04:12;
+
+[CreateBG]=00:04:16	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-003	00:06:21;
+
+[PrintText]=00:04:18	Setsuna	Si eso es verdad, entonces yo...	00:06:20;
+
+[PlayVoice]=00:04:18	Voice05/05-KA/05-KA-F00/05-KA-F00-0050	0	set	00:06:20;
+
+[CreateBG]=00:06:21	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-004	00:08:02;
+
+[PrintText]=00:06:22	Makoto	No.	00:07:23;
+
+[PlayVoice]=00:06:22	Voice05/05-KA/05-KA-F00/05-KA-F00-0060	1	mak	00:07:23;
+
+[CreateBG]=00:08:02	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-005	00:09:03;
+
+[PrintText]=00:08:05	Setsuna	...	00:08:23;
+
+[PlayVoice]=00:08:05	Voice05/05-KA/05-KA-F00/05-KA-F00-0070	0	xxx	00:08:23;
+
+[CreateBG]=00:09:03	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-006	00:12:01;
+
+[PrintText]=00:09:05	Makoto	A la única persona que tienes que culpar... es a mí.	00:11:23;
+
+[PlayVoice]=00:09:05	Voice05/05-KA/05-KA-F00/05-KA-F00-0080	1	mak	00:11:23;
+
+[CreateBG]=00:12:01	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-008	00:13:11;
+
+[PrintText]=00:12:03	Setsuna	¿Qué hay de Katsura-san?^	00:13:10;
+
+[PlayVoice]=00:12:03	Voice05/05-KA/05-KA-F00/05-KA-F00-0090	0	set	00:13:10;
+
+[CreateBG]=00:13:11	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-009	00:23:00;
+
+[PrintText]=00:13:12	Makoto	Tomando ventaja de lo que sentía Kotonoha... pisando los sentimientos de Sekai... todo a sido mi culpa.	00:21:22;
+
+[PlayVoice]=00:13:12	Voice05/05-KA/05-KA-F00/05-KA-F00-0100	1	mak	00:21:22;
+
+[PrintText]=00:22:01	Setsuna	Ya veo...	00:22:22;
+
+[PlayVoice]=00:22:01	Voice05/05-KA/05-KA-F00/05-KA-F00-0110	0	set	00:22:22;
+
+[CreateBG]=00:23:00	BGS	Event05/05-KA/05-KA-F00/05-KA-F00-010	00:35:01;
+
+[PrintText]=00:23:03	Makoto	Lo siento...	00:23:22;
+
+[PlayVoice]=00:23:03	Voice05/05-KA/05-KA-F00/05-KA-F00-0120	1	mak	00:23:22;
+
+[PrintText]=00:24:03	Setsuna	Solo no la hagas llorar.	00:26:00;
+
+[PlayVoice]=00:24:03	Voice05/05-KA/05-KA-F00/05-KA-F00-0130	0	set	00:26:00;
+
+[PrintText]=00:26:07	Makoto	...	00:26:18;
+
+[PlayVoice]=00:26:07	Voice05/05-KA/05-KA-F00/05-KA-F00-0140	1	xxx	00:26:18;
+
+[PrintText]=00:26:19	Setsuna	Eso es todo lo que tengo que decirte.	00:29:19;
+
+[PlayVoice]=00:26:19	Voice05/05-KA/05-KA-F00/05-KA-F00-0150	0	set	00:29:19;
+
+[PrintText]=00:29:22	Makoto	...	00:32:08;
+
+[PlayVoice]=00:29:22	Voice05/05-KA/05-KA-F00/05-KA-F00-0160	1	xxx	00:32:08;
+
+[PrintText]=00:32:11	Setsuna	Adiós.	00:33:04;
+
+[PlayVoice]=00:32:11	Voice05/05-KA/05-KA-F00/05-KA-F00-0170	0	set	00:33:04;
+
+[PrintText]=00:33:07	Makoto	...	00:34:00;
+
+[PlayVoice]=00:33:07	Voice05/05-KA/05-KA-F00/05-KA-F00-0190	1	xxx	00:34:00;
+
+[BlackFade]=00:34:01	OUT	00:35:01;
+
+ ;
+
+[Next]=00:35:01;
+
+
+

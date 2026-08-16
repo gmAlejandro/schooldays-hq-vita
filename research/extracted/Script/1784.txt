@@ -1,0 +1,135 @@
+﻿[SkipFRAME]=01:27:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-B00/05-SD-B00-001	00:04:01;
+
+[PrintText]=00:00:00	Sekai	Mmn...	00:04:02;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-B00/05-SD-B00-0040	0	sek	00:04:02;
+
+[CreateBG]=00:04:01	BGS	Event05/05-SD/05-SD-B00/05-SD-B00-002	00:12:15;
+
+[PrintText]=00:04:02	Madre de Sekai	¿Sekai? ¡Ya es hora de levantarse!	00:07:10;
+
+[PlayVoice]=00:04:02	Voice05/05-SD/05-SD-B00/05-SD-B00-0050	0	yko	00:07:10;
+
+[PrintText]=00:07:11	Sekai	Mmn... zzz... zzz...	00:12:14;
+
+[PlayVoice]=00:07:11	Voice05/05-SD/05-SD-B00/05-SD-B00-0060	0	sek	00:12:14;
+
+[CreateBG]=00:12:15	BGS	Event05/05-SD/05-SD-B00/05-SD-B00-003	00:20:19;
+
+[PrintText]=00:12:15	Madre de Sekai	¡Sekai!	00:13:19;
+
+[PlayVoice]=00:12:15	Voice05/05-SD/05-SD-B00/05-SD-B00-0070	0	yko	00:13:19;
+
+[PrintText]=00:13:19	Sekai	Mmn... vale, ya me levanto.	00:17:23;
+
+[PlayVoice]=00:13:19	Voice05/05-SD/05-SD-B00/05-SD-B00-0080	0	sek	00:17:23;
+
+[PrintText]=00:17:23	Sekai	Fwah...	00:20:15;
+
+[PlayVoice]=00:17:23	Voice05/05-SD/05-SD-B00/05-SD-B00-0100	0	sek	00:20:15;
+
+[PrintText]=00:20:15	Sekai	Mamá ¿Cuando llegaste a casa?^	00:24:04;
+
+[PlayVoice]=00:20:15	Voice05/05-SD/05-SD-B00/05-SD-B00-0140	0	sek	00:24:04;
+
+[CreateBG]=00:20:19	BGS	Event05/05-SD/05-SD-B00/05-SD-B00-004	00:30:19;
+
+[PrintText]=00:24:05	Madre de Sekai	Hace un momento. Iré a dormir en cuanto termine de cocinar.	00:28:11;
+
+[PlayVoice]=00:24:05	Voice05/05-SD/05-SD-B00/05-SD-B00-0150	0	yko	00:28:11;
+
+[PrintText]=00:28:10	Sekai	Mmn...	00:29:16;
+
+[PlayVoice]=00:28:10	Voice05/05-SD/05-SD-B00/05-SD-B00-0160	0	sek	00:29:16;
+
+[BlackFade]=00:29:19	OUT	00:30:19;
+
+[CreateBG]=00:30:19	BGS	System/Screen/Black	00:31:19;
+
+[PlayBgm]=00:31:19	BGM/SD_BGM/sdbgm21	01:27:09;
+
+[CreateBG]=00:31:19	BGS	Event05/05-SD/05-SD-B00/05-SD-B00-005A	00:48:02;
+
+[BlackFade]=00:31:19	IN	00:32:19;
+
+[PrintText]=00:32:18	Madre de Sekai	Sabes Sekai, he estado pensando.	00:35:11;
+
+[PlayVoice]=00:32:18	Voice05/05-SD/05-SD-B00/05-SD-B00-0170	0	yko	00:35:11;
+
+[PrintText]=00:35:10	Sekai	¿S-Sí...?^	00:37:09;
+
+[PlayVoice]=00:35:10	Voice05/05-SD/05-SD-B00/05-SD-B00-0180	0	sek	00:37:09;
+
+[PrintText]=00:37:09	Madre de Sekai	No puedo dejarte aquí sola. Quiero que entiendas eso.	00:44:09;
+
+[PlayVoice]=00:37:09	Voice05/05-SD/05-SD-B00/05-SD-B00-0190	0	yko	00:44:09;
+
+[PrintText]=00:44:09	Sekai	Sí, pero...	00:47:05;
+
+[PlayVoice]=00:44:09	Voice05/05-SD/05-SD-B00/05-SD-B00-0200	0	sek	00:47:05;
+
+[PlaySe]=00:47:06	1	SysSe/SE_all/keitai/mail_sekai	00:49:06;
+
+[CreateBG]=00:48:02	BGS	Event05/05-SD/05-SD-B00/05-SD-B00-005B	01:04:19;
+
+[PrintText]=00:48:02	Madre de Sekai	Paris es un bonito lugar sabes. Ah, traje algunas ciruelas secas para ti también. Son de Paris, saben bien ¿Eh?^	00:56:19;
+
+[PlayVoice]=00:48:02	Voice05/05-SD/05-SD-B00/05-SD-B00-0220	0	yko	00:56:19;
+
+[PrintText]=00:56:22	Madre de Sekai	Sabes, cuando se dio la exposición universal, Napoleon III envió una delegación solo...	01:04:19;
+
+[PlayVoice]=00:56:22	Voice05/05-SD/05-SD-B00/05-SD-B00-0221	0	yko	01:04:19;
+
+[PlayMovie]=01:04:19	Movie04/04-SB/04-SB-M00/04-SB-M00-008	0	01:10:00;
+
+[PrintText]=01:06:00	Sekai	¿Qué es esto?^	01:07:21;
+
+[PlayVoice]=01:06:00	Voice05/05-SD/05-SD-B00/05-SD-B00-0230	0	sek	01:07:21;
+
+[PrintText]=01:07:21	Madre de Sekai	¿Eh?^	01:08:13;
+
+[PlayVoice]=01:07:21	Voice05/05-SD/05-SD-B00/05-SD-B00-0240	0	yko	01:08:13;
+
+[PrintText]=01:08:17	Sekai	...No lo puedo creer.	01:10:00;
+
+[PlayVoice]=01:08:17	Voice05/05-SD/05-SD-B00/05-SD-B00-0250	0	sek	01:10:00;
+
+[CreateBG]=01:10:00	BGS	Event05/05-SD/05-SD-B00/05-SD-B00-007	01:12:17;
+
+[PrintText]=01:10:00	Madre de Sekai	¿Qué pasa?^	01:10:23;
+
+[PlayVoice]=01:10:00	Voice05/05-SD/05-SD-B00/05-SD-B00-0260	0	yko	01:10:23;
+
+[PrintText]=01:10:23	Sekai	...	01:12:16;
+
+[PlayVoice]=01:10:23	Voice05/05-SD/05-SD-B00/05-SD-B00-0270	0	xxx	01:12:16;
+
+[PrintText]=01:12:16	Madre de Sekai	Sekai?^	01:13:16;
+
+[PlayVoice]=01:12:16	Voice05/05-SD/05-SD-B00/05-SD-B00-0280	0	yko	01:13:16;
+
+[PlayMovie]=01:12:17	Movie05/05-SD/05-SD-B00/05-SD-B00-008	0	01:15:06;
+
+[PrintText]=01:13:16	Sekai	¡Voy a salir!	01:14:23;
+
+[PlayVoice]=01:13:16	Voice05/05-SD/05-SD-B00/05-SD-B00-0290	0	sek	01:14:23;
+
+[CreateBG]=01:15:06	BGS	Event05/05-SD/05-SD-B00/05-SD-B00-009	01:27:09;
+
+[PrintText]=01:15:06	Madre de Sekai	Asegúrate de pensar sobre la transferencia... oh, supongo que ya no puedes oírme.	01:21:13;
+
+[PlayVoice]=01:15:06	Voice05/05-SD/05-SD-B00/05-SD-B00-0310	0	yko	01:21:13;
+
+[PrintText]=01:22:18	Madre de Sekai	Fwah... creo que iré a dormir.	01:26:10;
+
+[PlayVoice]=01:22:18	Voice05/05-SD/05-SD-B00/05-SD-B00-0320	0	yko	01:26:10;
+
+ ;
+
+[Next]=01:27:09;
+
+
+
+

@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:07:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:13:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-H00/03-KB-H00-001	00:03:19;
+
+[PlaySe]=00:03:03	1	SysSe/SE_all/keitai/keitai_vib	00:05:13;
+
+[CreateBG]=00:03:19	BGS	Event03/03-KB/03-KB-H00/03-KB-H00-002	00:06:10;
+
+[PrintText]=00:03:19	Makoto	Mmn... ¿Una llamada?^	00:06:10;
+
+[PlayVoice]=00:03:19	Voice03/03-KB/03-KB-H00/03-KB-H00-0050	1	mak	00:06:10;
+
+[PlaySe]=00:05:19	1	SysSe/SE_all/keitai/keitai_vib	00:08:05;
+
+[CreateBG]=00:06:09	BGS	Event03/03-KB/03-KB-H03/03-KB-H03-005	00:13:18;
+
+[PrintText]=00:06:10	Makoto	Hmm...	00:07:23;
+
+[PlayVoice]=00:06:10	Voice03/03-KB/03-KB-H00/03-KB-H00-0060	1	mak	00:07:23;
+
+[SetSELECT]=00:07:17	*Contestar*	null	00:12:17;
+
+[PlaySe]=00:08:11	1	SysSe/SE_all/keitai/keitai_vib	00:10:22;
+
+[PlaySe]=00:11:03	1	SysSe/SE_all/keitai/keitai_vib	00:13:14;
+
+ ;
+
+[Next]=00:13:18;
+
+

@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:44:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:44:00;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-K03/SE03-BK-K03-001	00:43:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-K03/03-BK-K03-001	00:11:08;
+
+[BlackFade]=00:00:00	IN	00:03:00;
+
+[PrintText]=00:03:05	Makoto	Haah... finalmente.	00:11:09;
+
+[PlayVoice]=00:03:05	Voice03/03-BK/03-BK-K03/03-BK-K03-0060	1	mak	00:11:09;
+
+[CreateBG]=00:11:08	BGS	Event03/03-BK/03-BK-K03/03-BK-K03-002	00:13:14;
+
+[PrintText]=00:11:08	Kotonoha	¿Huh?^	00:11:22;
+
+[PlayVoice]=00:11:08	Voice03/03-BK/03-BK-K03/03-BK-K03-0070	0	kot	00:11:22;
+
+[PrintText]=00:12:07	Makoto	Las cosas no fueron bien ese día.	00:15:16;
+
+[PlayVoice]=00:12:07	Voice03/03-BK/03-BK-K03/03-BK-K03-0080	1	mak	00:15:16;
+
+[CreateBG]=00:13:14	BGS	Event03/03-BK/03-BK-K03/03-BK-K03-003	00:22:17;
+
+[PrintText]=00:15:19	Kotonoha	Oh, eso. No me molestó.	00:18:21;
+
+[PlayVoice]=00:15:19	Voice03/03-BK/03-BK-K03/03-BK-K03-0090	0	kot	00:18:21;
+
+[PrintText]=00:18:14	Makoto	Pues a mí sí. Estaba muy deprimido.	00:22:20;
+
+[PlayVoice]=00:18:14	Voice03/03-BK/03-BK-K03/03-BK-K03-0100	1	mak	00:22:20;
+
+[CreateBG]=00:22:17	BGS	Event03/03-BK/03-BK-K03/03-BK-K03-004	00:33:08;
+
+[PrintText]=00:22:17	Kotonoha	Fufu...	00:24:06;
+
+[PlayVoice]=00:22:17	Voice03/03-BK/03-BK-K03/03-BK-K03-0110	0	kot	00:24:06;
+
+[PrintText]=00:24:06	Makoto	...	00:25:08;
+
+[PlayVoice]=00:24:06	Voice03/03-BK/03-BK-K03/03-BK-K03-0120	1	xxx	00:25:08;
+
+[PrintText]=00:25:16	Kotonoha	Eso es muy lindo de tu parte.	00:29:07;
+
+[PlayVoice]=00:25:16	Voice03/03-BK/03-BK-K03/03-BK-K03-0130	0	kot	00:29:07;
+
+[PrintText]=00:29:06	Makoto	Tsk.	00:30:01;
+
+[PlayVoice]=00:29:06	Voice03/03-BK/03-BK-K03/03-BK-K03-0140	1	mak	00:30:01;
+
+[PrintText]=00:30:12	Kotonoha	Bueno, has aprobado hoy.	00:33:06;
+
+[PlayVoice]=00:30:12	Voice03/03-BK/03-BK-K03/03-BK-K03-0150	0	kot	00:33:06;
+
+[CreateBG]=00:33:08	BGS	Event03/03-BK/03-BK-K03/03-BK-K03-006	00:38:04;
+
+[PlayVoice]=00:33:09	Voice03/03-BK/03-BK-K03/03-BK-K03-0160			00:34:00;
+
+[PlayVoice]=00:34:04	Voice03/03-BK/03-BK-K03/03-BK-K03-0170			00:35:05;
+
+[PrintText]=00:35:21	Makoto	Ah... ahora que lo pienso, el almuerzo terminó hace mucho.	00:40:08;
+
+[PlayVoice]=00:35:21	Voice03/03-BK/03-BK-K03/03-BK-K03-0180	1	mak	00:40:08;
+
+[CreateBG]=00:38:04	BGS	Event03/03-BK/03-BK-K03/03-BK-K03-007	00:44:00;
+
+[PrintText]=00:40:02	Kotonoha	¿Huh? Oh, tienes razón.	00:43:12;
+
+[PlayVoice]=00:40:02	Voice03/03-BK/03-BK-K03/03-BK-K03-0190	0	kot	00:43:12;
+
+ ;
+
+[Next]=00:44:00;
+
+

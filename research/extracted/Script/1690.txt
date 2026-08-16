@@ -1,0 +1,110 @@
+﻿[SkipFRAME]=00:48:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:54:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-H00/05-SA-H00-001	00:02:11;
+
+[CreateBG]=00:02:11	BGS	Event05/05-SA/05-SA-H00/05-SA-H00-002	00:05:06;
+
+[PlayVoice]=00:02:11	Voice05/05-SA/05-SA-H00/05-SA-H00-0030			00:05:06;
+
+[CreateBG]=00:05:06	BGS	Event05/05-SA/05-SA-H00/05-SA-H00-003	00:06:23;
+
+[PrintText]=00:05:06	Makoto	Ah...	00:05:18;
+
+[PlayVoice]=00:05:06	Voice05/05-SA/05-SA-H00/05-SA-H00-0040	1	mak	00:05:18;
+
+[PrintText]=00:06:00	Kotonoha	¿Eh...?^	00:06:18;
+
+[PlayVoice]=00:06:00	Voice05/05-SA/05-SA-H00/05-SA-H00-0060	0	kot	00:06:18;
+
+[CreateBG]=00:06:23	BGS	Event05/05-SA/05-SA-H00/05-SA-H00-004	00:13:10;
+
+[PrintText]=00:07:00	Kotonoha	Eheheh... He venido.	00:09:14;
+
+[PlayVoice]=00:07:00	Voice05/05-SA/05-SA-H00/05-SA-H00-0080	0	kot	00:09:14;
+
+[PrintText]=00:09:18	Makoto	¿Cómo es que...?^	00:10:15;
+
+[PlayVoice]=00:09:18	Voice05/05-SA/05-SA-H00/05-SA-H00-0090	1	mak	00:10:15;
+
+[PrintText]=00:10:18	Kotonoha	Le pregunté a Sawanaga-san por tu dirección.	00:13:21;
+
+[PlayVoice]=00:10:18	Voice05/05-SA/05-SA-H00/05-SA-H00-0100	0	kot	00:13:21;
+
+[CreateBG]=00:13:10	BGS	Event05/05-SA/05-SA-H00/05-SA-H00-005	00:21:13;
+
+[PrintText]=00:13:10	Makoto	A eso no me refiero. ¿Por qué has venido?^	00:16:08;
+
+[PlayVoice]=00:13:10	Voice05/05-SA/05-SA-H00/05-SA-H00-0110	1	mak	00:16:08;
+
+[PrintText]=00:16:07	Kotonoha	Prometiste... que me harías compañía.	00:21:01;
+
+[PlayVoice]=00:16:07	Voice05/05-SA/05-SA-H00/05-SA-H00-0120	0	kot	00:21:01;
+
+[PrintText]=00:21:00	Makoto	Eso...	00:22:02;
+
+[PlayVoice]=00:21:00	Voice05/05-SA/05-SA-H00/05-SA-H00-0130	1	mak	00:22:02;
+
+[CreateBG]=00:21:13	BGS	Event05/05-SA/05-SA-H00/05-SA-H00-004	00:35:23;
+
+[PrintText]=00:21:13	Kotonoha	Es importante para mí.	00:23:07;
+
+[PlayVoice]=00:21:13	Voice05/05-SA/05-SA-H00/05-SA-H00-0140	0	kot	00:23:07;
+
+[PrintText]=00:23:14	Makoto	...	00:24:05;
+
+[PlayVoice]=00:23:14	Voice05/05-SA/05-SA-H00/05-SA-H00-0150	1	xxx	00:24:05;
+
+[PrintText]=00:24:17	Kotonoha	¿Tu madré vendrá tarde hoy?^	00:28:16;
+
+[PlayVoice]=00:24:17	Voice05/05-SA/05-SA-H00/05-SA-H00-0160	0	kot	00:28:16;
+
+[PrintText]=00:28:20	Makoto	Sí.	00:29:13;
+
+[PlayVoice]=00:28:20	Voice05/05-SA/05-SA-H00/05-SA-H00-0170	1	mak	00:29:13;
+
+[PrintText]=00:29:23	Kotonoha	Es igual en mi familia. Ellos o vienen tarde o no vienen. Su trabajo es todo.	00:38:03;
+
+[PlayVoice]=00:29:23	Voice05/05-SA/05-SA-H00/05-SA-H00-0180	0	kot	00:38:03;
+
+[CreateBG]=00:35:23	BGS	Event05/05-SA/05-SA-H00/05-SA-H00-007	00:40:07;
+
+[PrintText]=00:38:08	Makoto	...	00:38:18;
+
+[PlayVoice]=00:38:08	Voice05/05-SA/05-SA-H00/05-SA-H00-0190	1	xxx	00:38:18;
+
+[PrintText]=00:39:07	Kotonoha	Makoto-kun.	00:40:07;
+
+[PlayVoice]=00:39:07	Voice05/05-SA/05-SA-H00/05-SA-H00-0200	0	kot	00:40:07;
+
+[CreateBG]=00:40:07	BGS	Event05/05-SA/05-SA-H00/05-SA-H00-008	00:54:04;
+
+[PrintText]=00:40:07	Makoto	¿Sí?^	00:40:22;
+
+[PlayVoice]=00:40:07	Voice05/05-SA/05-SA-H00/05-SA-H00-0210	1	mak	00:40:22;
+
+[PrintText]=00:41:02	Kotonoha	¿Puedo pasar?^	00:43:15;
+
+[PlayVoice]=00:41:02	Voice05/05-SA/05-SA-H00/05-SA-H00-0220	0	kot	00:43:15;
+
+[PrintText]=00:43:17	Makoto	...	00:44:20;
+
+[PlayVoice]=00:43:17	Voice05/05-SA/05-SA-H00/05-SA-H00-0230	1	xxx	00:44:20;
+
+[PrintText]=00:44:20	Kotonoha	Siempre he querido venir a tu casa.	00:47:18;
+
+[PlayVoice]=00:44:20	Voice05/05-SA/05-SA-H00/05-SA-H00-0240	0	kot	00:47:18;
+
+[PrintText]=00:47:22	Makoto	...	00:48:08;
+
+[PlayVoice]=00:47:22	Voice05/05-SA/05-SA-H00/05-SA-H00-0250	1	xxx	00:48:08;
+
+[SetSELECT]=00:48:02	'Sí'	'No'	00:53:02;
+
+ ;
+
+[Next]=00:54:04;
+
+
+

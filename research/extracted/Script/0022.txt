@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:08:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:14:13;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-B00/SE01-00-B00-002	00:06:21;
+
+[PlaySe]=00:00:00	3	Se01/01-00/01-00-B00/SE01-00-B00-001	00:14:13;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-B00/01-00-B00-001	00:02:09;
+
+[CreateBG]=00:02:09	BGS	Event01/01-00/01-00-B00/01-00-B00-002	00:08:12;
+
+[PrintText]=00:02:15	Makoto	B-Buen día.	00:05:00;
+
+[PlayVoice]=00:02:15	Voice01/01-00/01-00-B00/01-00-B00-0050	1	mak	00:05:00;
+
+[PrintText]=00:04:21	Sekai	Buen día.	00:05:16;
+
+[PlayVoice]=00:04:21	Voice01/01-00/01-00-B00/01-00-B00-0060	0	sek	00:05:16;
+
+[PlaySe]=00:06:21	2	Se01/01-00/01-00-B00/SE01-00-B00-003	00:08:06;
+
+[CreateBG]=00:08:12	BGS	Event00/00-00/00-00-A04/00-00-A04-001a	00:14:13;
+
+[SetSELECT]=00:08:12	'¿Por qué me besaste?'	'Acerca de lo que pasó ayer...'	00:13:12;
+
+[PrintText]=00:08:18	Makoto	Verás...	00:11:15;
+
+[PlayVoice]=00:08:18	Voice01/01-00/01-00-B00/01-00-B00-0070	1	mak	00:11:15;
+
+ ;
+
+[Next]=00:14:13;
+
+
+
+

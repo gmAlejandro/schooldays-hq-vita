@@ -1,0 +1,17 @@
+﻿[SkipFRAME]=00:04:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:04:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-A07/03-BK-A07-001	00:04:03;
+
+[PrintText]=00:00:00	Makoto	Estoy cansado.	00:02:07;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-A07/03-BK-A07-0030	1	mak	00:02:07;
+
+[BlackFade]=00:03:03	OUT	00:04:03;
+
+ ;
+
+[Next]=00:04:03;
+
+

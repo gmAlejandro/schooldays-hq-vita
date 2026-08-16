@@ -1,0 +1,183 @@
+﻿[SkipFRAME]=01:53:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	01:53:06;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-M02/SE02-2S-M02-001	01:40:00;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-001	00:21:14;
+
+[PrintText]=00:00:00	Sekai	Está bien. Dijiste que me amas, y te creo.	00:06:22;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-M02/02-2S-M02-0030	0	sek	00:06:22;
+
+[PrintText]=00:06:22	Makoto	¿Te refieres a lo que pasó en el almuerzo?^	00:08:08;
+
+[PlayVoice]=00:06:22	Voice02/02-2S/02-2S-M02/02-2S-M02-0040	1	mak	00:08:08;
+
+[PlayVoice]=00:08:08	Voice02/02-2S/02-2S-M02/02-2S-M02-0050			00:09:00;
+
+[PrintText]=00:09:15	Sekai	Yo confío en ti. Lo hago... pero cuando veo a Katsura-san actuando así, tan feliz... me preocupa.	00:21:07;
+
+[PlayVoice]=00:09:15	Voice02/02-2S/02-2S-M02/02-2S-M02-0060	0	sek	00:21:07;
+
+[CreateBG]=00:21:14	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-002	00:29:07;
+
+[PrintText]=00:21:21	Sekai	Es una tontería ¿No? Claramente me has mostrado como te sientes...y aún yo...	00:28:00;
+
+[PlayVoice]=00:21:21	Voice02/02-2S/02-2S-M02/02-2S-M02-0080	0	sek	00:28:00;
+
+[PrintText]=00:28:05	Makoto	Sekai...	00:29:04;
+
+[PlayVoice]=00:28:05	Voice02/02-2S/02-2S-M02/02-2S-M02-0090	1	mak	00:29:04;
+
+[CreateBG]=00:29:07	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-003	00:37:11;
+
+[PrintText]=00:29:07	Sekai	Es extraño... no sabía que era una persona tan celosa...	00:37:02;
+
+[PlayVoice]=00:29:07	Voice02/02-2S/02-2S-M02/02-2S-M02-0100	0	sek	00:37:02;
+
+[CreateBG]=00:37:11	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-004	00:39:09;
+
+[PrintText]=00:37:18	Sekai	¡Hey!	00:38:08;
+
+[PlayVoice]=00:37:18	Voice02/02-2S/02-2S-M02/02-2S-M02-0110	0	sek	00:38:08;
+
+[PrintText]=00:38:13	Makoto	¿Hmn?^	00:39:03;
+
+[PlayVoice]=00:38:13	Voice02/02-2S/02-2S-M02/02-2S-M02-0120	1	mak	00:39:03;
+
+[CreateBG]=00:39:09	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-005	00:40:12;
+
+[PrintText]=00:39:11	Sekai	Bésame.	00:40:12;
+
+[PlayVoice]=00:39:11	Voice02/02-2S/02-2S-M02/02-2S-M02-0130	0	sek	00:40:12;
+
+[CreateBG]=00:40:12	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-006	00:46:23;
+
+[PrintText]=00:40:12	Makoto	¡¿Eh?!	00:41:04;
+
+[PlayVoice]=00:40:12	Voice02/02-2S/02-2S-M02/02-2S-M02-0140	1	mak	00:41:04;
+
+[PrintText]=00:41:07	Sekai	¿...Lo harás?^	00:42:01;
+
+[PlayVoice]=00:41:07	Voice02/02-2S/02-2S-M02/02-2S-M02-0150	0	sek	00:42:01;
+
+[PrintText]=00:42:12	Makoto	No es que no quiera, pero ¿Por qué ahora, tan de repente?^	00:46:23;
+
+[PlayVoice]=00:42:12	Voice02/02-2S/02-2S-M02/02-2S-M02-0160	1	mak	00:46:23;
+
+[CreateBG]=00:46:23	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-007	00:55:11;
+
+[PrintText]=00:46:23	Sekai	Porque no quiero perderte ante Katsura-san.	00:49:15;
+
+[PlayVoice]=00:46:23	Voice02/02-2S/02-2S-M02/02-2S-M02-0170	0	sek	00:49:15;
+
+[PrintText]=00:49:14	Makoto	¿Perderme...?^	00:50:22;
+
+[PlayVoice]=00:49:14	Voice02/02-2S/02-2S-M02/02-2S-M02-0180	1	mak	00:50:22;
+
+[PrintText]=00:50:23	Sekai	Después de todo, lo hiciste con Katsura-san durante el almuerzo.	00:55:11;
+
+[PlayVoice]=00:50:23	Voice02/02-2S/02-2S-M02/02-2S-M02-0190	0	sek	00:55:11;
+
+[PrintText]=00:55:10	Makoto	¿Besarla? No, No lo hice.	00:58:00;
+
+[PlayVoice]=00:55:10	Voice02/02-2S/02-2S-M02/02-2S-M02-0200	1	mak	00:58:00;
+
+[CreateBG]=00:55:11	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-008	01:00:15;
+
+[PrintText]=00:58:00	Sekai	Un beso indirecto.	00:59:06;
+
+[PlayVoice]=00:58:00	Voice02/02-2S/02-2S-M02/02-2S-M02-0210	0	sek	00:59:06;
+
+[PrintText]=00:59:06	Makoto	¿Indirecto...?^	01:00:15;
+
+[PlayVoice]=00:59:06	Voice02/02-2S/02-2S-M02/02-2S-M02-0220	1	mak	01:00:15;
+
+[CreateBG]=01:00:15	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-009	01:02:20;
+
+[PrintText]=01:00:15	Sekai	Ambos bebieron del mismo vaso.	01:05:12;
+
+[PlayVoice]=01:00:15	Voice02/02-2S/02-2S-M02/02-2S-M02-0230	0	sek	01:05:12;
+
+[WhiteFade]=01:02:14	OUT	01:02:20;
+
+[CreateBG]=01:02:20	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-010	01:05:13;
+
+[WhiteFade]=01:02:20	IN	01:03:02;
+
+[WhiteFade]=01:05:07	OUT	01:05:13;
+
+[PrintText]=01:05:12	Makoto	¡O... oh! ¿Huh?^	01:09:18;
+
+[PlayVoice]=01:05:12	Voice02/02-2S/02-2S-M02/02-2S-M02-0240	1	mak	01:09:18;
+
+[CreateBG]=01:05:13	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-011	01:09:18;
+
+[WhiteFade]=01:05:13	IN	01:05:19;
+
+[WhiteFade]=01:09:12	OUT	01:09:18;
+
+[CreateBG]=01:09:18	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-012	01:22:22;
+
+[PrintText]=01:09:18	Sekai	Yo sé que tú no te das cuenta de cosas como esas, pero me molesta.	01:17:13;
+
+[PlayVoice]=01:09:18	Voice02/02-2S/02-2S-M02/02-2S-M02-0250	0	sek	01:17:13;
+
+[WhiteFade]=01:09:18	IN	01:10:00;
+
+[PrintText]=01:17:13	Makoto	Sekai...	01:18:17;
+
+[PlayVoice]=01:17:13	Voice02/02-2S/02-2S-M02/02-2S-M02-0260	1	mak	01:18:17;
+
+[PrintText]=01:18:17	Sekai	Si ella y tú comparten un beso indirecto, entonces yo...	01:22:21;
+
+[PlayVoice]=01:18:17	Voice02/02-2S/02-2S-M02/02-2S-M02-0270	0	sek	01:22:21;
+
+[CreateBG]=01:22:22	BGS	Event02/02-2S/02-2S-M02/02-2S-M02-013	01:26:01;
+
+[PrintText]=01:22:22	Makoto	Vale, entiendo.	01:24:00;
+
+[PlayVoice]=01:22:22	Voice02/02-2S/02-2S-M02/02-2S-M02-0280	1	mak	01:24:00;
+
+[PrintText]=01:24:12	Sekai	Makoto...	01:25:12;
+
+[PlayVoice]=01:24:12	Voice02/02-2S/02-2S-M02/02-2S-M02-0290	0	sek	01:25:12;
+
+[PlayMovie]=01:26:01	Movie02/02-2S/02-2S-M02/02-2S-M02-014	0	01:44:03;
+
+[PrintText]=01:38:00	Sekai	Haah...	01:40:03;
+
+[PlayVoice]=01:38:00	Voice02/02-2S/02-2S-M02/02-2S-M02-0320	0	sek	01:40:03;
+
+[PlaySe]=01:39:23	2	Se02/02-2S/02-2S-M02/SE02-2S-M02-001	01:53:06;
+
+[PrintText]=01:40:04	Makoto	Nn...	01:41:03;
+
+[PlayVoice]=01:40:04	Voice02/02-2S/02-2S-M02/02-2S-M02-0330	1	mak	01:41:03;
+
+[PrintText]=01:42:03	Sekai	Lo hicimos ¿No? Nos besamos.	01:45:13;
+
+[PlayVoice]=01:42:03	Voice02/02-2S/02-2S-M02/02-2S-M02-0340	0	sek	01:45:13;
+
+[PlayMovie]=01:44:03	Movie02/02-2S/02-2S-M02/02-2S-M02-015	0	01:53:06;
+
+[PrintText]=01:46:01	Makoto	Uh-huh.	01:46:17;
+
+[PlayVoice]=01:46:01	Voice02/02-2S/02-2S-M02/02-2S-M02-0350	1	mak	01:46:17;
+
+[PrintText]=01:47:10	Sekai	Te amo.	01:48:14;
+
+[PlayVoice]=01:47:10	Voice02/02-2S/02-2S-M02/02-2S-M02-0360	0	sek	01:48:14;
+
+[PlaySe]=01:48:19	3	SysSe/SE_all/station_train/train_start	01:53:06;
+
+[BlackFade]=01:52:06	OUT	01:53:06;
+
+ ;
+
+[Next]=01:53:06;
+
+
+
+

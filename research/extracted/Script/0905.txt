@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:42:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:42:17;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-E02/04-SE-E02-001	00:03:19;
+
+[PrintText]=00:00:00	Makoto	Realmente no.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-E02/04-SE-E02-0030	1	mak	00:00:20;
+
+[PrintText]=00:00:20	Sekai	Ella solo fue tu novia.	00:03:04;
+
+[PlayVoice]=00:00:20	Voice04/04-SE/04-SE-E02/04-SE-E02-0040	0	sek	00:03:04;
+
+[PrintText]=00:03:04	Makoto	¿Huh?^	00:03:20;
+
+[PlayVoice]=00:03:04	Voice04/04-SE/04-SE-E02/04-SE-E02-0050	1	mak	00:03:20;
+
+[CreateBG]=00:03:19	BGS	Event04/04-SE/04-SE-E02/04-SE-E02-002	00:15:21;
+
+[PrintText]=00:03:20	Sekai	Estudiaban juntos y salían con sus familias ¿No?^	00:07:22;
+
+[PlayVoice]=00:03:20	Voice04/04-SE/04-SE-E02/04-SE-E02-0060	0	sek	00:07:22;
+
+[PrintText]=00:07:22	Makoto	¿Estás confundiendo las cosas creo? Katou no es mi novia.	00:13:02;
+
+[PlayVoice]=00:07:22	Voice04/04-SE/04-SE-E02/04-SE-E02-0070	1	mak	00:13:02;
+
+[PrintText]=00:13:02	Sekai	Entonces, su nombre es Katou-San.	00:15:21;
+
+[PlayVoice]=00:13:02	Voice04/04-SE/04-SE-E02/04-SE-E02-0080	0	sek	00:15:21;
+
+[CreateBG]=00:15:21	BGS	Event04/04-SE/04-SE-E02/04-SE-E02-003	00:24:06;
+
+[PrintText]=00:15:21	Makoto	No es así con ella. Ella es como... ¿Una amiga cercana?^	00:21:19;
+
+[PlayVoice]=00:15:21	Voice04/04-SE/04-SE-E02/04-SE-E02-0090	1	mak	00:21:19;
+
+[PrintText]=00:21:18	Sekai	Lo apostaría.	00:22:23;
+
+[PlayVoice]=00:21:18	Voice04/04-SE/04-SE-E02/04-SE-E02-0100	0	sek	00:22:23;
+
+[PrintText]=00:23:00	Makoto	Hey, hey...	00:24:08;
+
+[PlayVoice]=00:23:00	Voice04/04-SE/04-SE-E02/04-SE-E02-0110	1	mak	00:24:08;
+
+[CreateBG]=00:24:06	BGS	Event04/04-SE/04-SE-E02/04-SE-E02-004	00:42:17;
+
+[PrintText]=00:24:08	Sekai	Pareces también muy cercano a su hermana pequeña también.	00:28:19;
+
+[PlayVoice]=00:24:08	Voice04/04-SE/04-SE-E02/04-SE-E02-0120	0	sek	00:28:19;
+
+[PrintText]=00:28:19	Makoto	Su hermana es un año menor, por lo que en la primaria, solía estar con nosotros todo el tiempo.	00:34:23;
+
+[PlayVoice]=00:28:19	Voice04/04-SE/04-SE-E02/04-SE-E02-0130	1	mak	00:34:23;
+
+[PrintText]=00:35:00	Sekai	Suena indecente.	00:36:04;
+
+[PlayVoice]=00:35:00	Voice04/04-SE/04-SE-E02/04-SE-E02-0140	0	sek	00:36:04;
+
+[PrintText]=00:36:04	Makoto	¡Mira! no es como parece. No lo es.	00:41:08;
+
+[PlayVoice]=00:36:04	Voice04/04-SE/04-SE-E02/04-SE-E02-0150	1	mak	00:41:08;
+
+[PrintText]=00:41:08	Sekai	Como sea.	00:42:09;
+
+[PlayVoice]=00:41:08	Voice04/04-SE/04-SE-E02/04-SE-E02-0160	0	sek	00:42:09;
+
+ ;
+
+[Next]=00:42:17;
+
+

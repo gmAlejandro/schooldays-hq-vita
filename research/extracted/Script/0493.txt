@@ -1,0 +1,101 @@
+﻿[SkipFRAME]=00:34:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:40:20;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-F00/SE03-BK-F00-001	00:40:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-002	00:04:01;
+
+[CreateBG]=00:04:01	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-003	00:05:02;
+
+[PrintText]=00:04:07	Makoto	Ah...	00:04:22;
+
+[PlayVoice]=00:04:07	Voice03/03-BK/03-BK-F00/03-BK-F00-0040	1	mak	00:04:22;
+
+[CreateBG]=00:05:02	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-004	00:11:09;
+
+[PrintText]=00:05:02	Sekai	Makoto.	00:06:03;
+
+[PlayVoice]=00:05:02	Voice03/03-BK/03-BK-F00/03-BK-F00-0050	0	sek	00:06:03;
+
+[PrintText]=00:06:04	Makoto	¿Vas a casa?^	00:07:09;
+
+[PlayVoice]=00:06:04	Voice03/03-BK/03-BK-F00/03-BK-F00-0060	1	mak	00:07:09;
+
+[PrintText]=00:07:10	Sekai	Uh-huh.	00:08:04;
+
+[PlayVoice]=00:07:10	Voice03/03-BK/03-BK-F00/03-BK-F00-0070	0	sek	00:08:04;
+
+[PrintText]=00:08:07	Makoto	Yo también.	00:11:12;
+
+[PlayVoice]=00:08:07	Voice03/03-BK/03-BK-F00/03-BK-F00-0080	1	mak	00:11:12;
+
+[CreateBG]=00:11:09	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-005	00:14:21;
+
+[PrintText]=00:11:09	Sekai	Ahaha... Limpiar es un infierno ¿No?^	00:15:04;
+
+[PlayVoice]=00:11:09	Voice03/03-BK/03-BK-F00/03-BK-F00-0090	0	sek	00:15:04;
+
+[CreateBG]=00:14:21	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-006	00:20:17;
+
+[PrintText]=00:15:03	Makoto	¿No irás a ninguna fiesta?^	00:17:09;
+
+[PlayVoice]=00:15:03	Voice03/03-BK/03-BK-F00/03-BK-F00-0100	1	mak	00:17:09;
+
+[PrintText]=00:17:07	Sekai	Me preguntaron... pero lo rechacé.	00:19:16;
+
+[PlayVoice]=00:17:07	Voice03/03-BK/03-BK-F00/03-BK-F00-0110	0	sek	00:19:16;
+
+[PrintText]=00:19:15	Makoto	¿Eh?^	00:20:12;
+
+[PlayVoice]=00:19:15	Voice03/03-BK/03-BK-F00/03-BK-F00-0120	1	mak	00:20:12;
+
+[CreateBG]=00:20:17	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-007	00:26:01;
+
+[PrintText]=00:20:18	Sekai	Bueno, tenemos piscina mañana ¿No?^	00:22:19;
+
+[PlayVoice]=00:20:18	Voice03/03-BK/03-BK-F00/03-BK-F00-0130	0	sek	00:22:19;
+
+[PrintText]=00:22:17	Makoto	Sí.	00:23:10;
+
+[PlayVoice]=00:22:17	Voice03/03-BK/03-BK-F00/03-BK-F00-0140	1	mak	00:23:10;
+
+[PrintText]=00:23:15	Sekai	Me voy a comprar un nuevo traje de baño.	00:26:02;
+
+[PlayVoice]=00:23:15	Voice03/03-BK/03-BK-F00/03-BK-F00-0150	0	sek	00:26:02;
+
+[CreateBG]=00:26:01	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-008A	00:28:03;
+
+[PrintText]=00:26:01	Makoto	¿Un nuevo traje de baño?^	00:27:17;
+
+[PlayVoice]=00:26:01	Voice03/03-BK/03-BK-F00/03-BK-F00-0160	1	mak	00:27:17;
+
+[PrintText]=00:27:10	Sekai	Sip.	00:28:00;
+
+[PlayVoice]=00:27:10	Voice03/03-BK/03-BK-F00/03-BK-F00-0170	0	sek	00:28:00;
+
+[CreateBG]=00:28:03	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-008B	00:30:03;
+
+[PrintText]=00:28:04	Makoto	Yo voy a ir con la misma que el año pasado.	00:30:05;
+
+[PlayVoice]=00:28:04	Voice03/03-BK/03-BK-F00/03-BK-F00-0180	1	mak	00:30:05;
+
+[CreateBG]=00:30:03	BGS	Event03/03-BK/03-BK-F00/03-BK-F00-008C	00:40:20;
+
+[PrintText]=00:30:03	Sekai	Esto no funciona igual para las chicas!	00:33:07;
+
+[PlayVoice]=00:30:03	Voice03/03-BK/03-BK-F00/03-BK-F00-0190	0	sek	00:33:07;
+
+[PrintText]=00:33:06	Makoto	¿Así es...?^	00:35:00;
+
+[PlayVoice]=00:33:06	Voice03/03-BK/03-BK-F00/03-BK-F00-0200	1	mak	00:35:00;
+
+[SetSELECT]=00:34:18	'Estaré esperando para verlo'	'¿Te ayudo a escoger?'	00:39:18;
+
+ ;
+
+[Next]=00:40:20;
+
+

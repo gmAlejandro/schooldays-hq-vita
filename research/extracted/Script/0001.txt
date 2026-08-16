@@ -1,0 +1,204 @@
+﻿[SkipFRAME]=01:53:08;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-A01/00-00-A01-001	0	00:07:00;
+
+[PlayBgm]=00:04:00	BGM/SD_BGM/sdbgm07	01:53:08;
+
+[PrintText]=00:04:07	Taisuke	Hey Makoto ¿Ya escuchaste las últimas?^	00:05:15;
+
+[PlayVoice]=00:04:07	Voice00/00-00/00-00-A01/00-00-A01-0030	1	tai	00:05:23;
+
+[PrintText]=00:06:04	Makoto	¿Acerca de..?^	00:07:00;
+
+[PlayVoice]=00:06:04	Voice00/00-00/00-00-A01/00-00-A01-0050	1	mak	00:07:00;
+
+[PlaySe]=00:06:07	1	Se00/00-00/00-00-A01/SE00-00-A01-002	00:06:13;
+
+[CreateBG]=00:07:00	BGS	Event00/00-00/00-00-A01/00-00-A01-002	00:30:16;
+
+[PlaySe]=00:07:05	3	Se00/00-00/00-00-A01/SE00-00-A01-001	01:53:08;
+
+[PrintText]=00:07:21	Taisuke	Dicen que volveremos a cambiar asientos.	00:09:04;
+
+[PlayVoice]=00:07:21	Voice00/00-00/00-00-A01/00-00-A01-0080	1	tai	00:09:04;
+
+[PrintText]=00:09:05	Makoto	¿Qué? pero si ya habíamos hecho los cambios en el primer semestre.	00:13:19;
+
+[PlayVoice]=00:09:05	Voice00/00-00/00-00-A01/00-00-A01-0090	1	mak	00:13:19;
+
+[PrintText]=00:13:23	Taisuke	Sí, pero dicen que lo tenemos que volver a hacer.	00:15:18;
+
+[PlayVoice]=00:13:23	Voice00/00-00/00-00-A01/00-00-A01-0100	1	tai	00:15:18;
+
+[PrintText]=00:16:05	Makoto	¿De quién has escuchado eso?^	00:18:07;
+
+[PlayVoice]=00:16:05	Voice00/00-00/00-00-A01/00-00-A01-0110	1	mak	00:18:07;
+
+[PrintText]=00:18:15	Taisuke	Kiyoura lo escuchó de Yamamoto esta mañana.	00:21:01;
+
+[PrintText]=00:21:01	Taisuke	Sabes cómo es la clase de Yamamoto...¿no?^	00:23:06;
+
+[PrintText]=00:23:06	Taisuke	Ella comentó que cambiaríamos de asientos.	00:26:12;
+
+[PlayVoice]=00:18:15	Voice00/00-00/00-00-A01/00-00-A01-0120	1	tai	00:26:12;
+
+[PrintText]=00:26:22	Makoto	¿En serio?^	00:27:23;
+
+[PlayVoice]=00:26:22	Voice00/00-00/00-00-A01/00-00-A01-0140	1	mak	00:27:23;
+
+[PrintText]=00:28:06	Taisuke	Así parece ser.	00:29:04;
+
+[PlayVoice]=00:28:06	Voice00/00-00/00-00-A01/00-00-A01-0150	1	tai	00:29:04;
+
+[PrintText]=00:29:07	Makoto	Ah...	00:30:08;
+
+[PlayVoice]=00:29:07	Voice00/00-00/00-00-A01/00-00-A01-0160	1	mak	00:30:08;
+
+[CreateBG]=00:30:16	BGS	Event00/00-00/00-00-A01/00-00-A01-003	00:44:04;
+
+[PrintText]=00:31:21	Taisuke	¿Tu celular tiene cámara?^	00:34:14;
+
+[PlayVoice]=00:31:21	Voice00/00-00/00-00-A01/00-00-A01-0180	1	tai	00:34:14;
+
+[PrintText]=00:34:20	Makoto	Sí...	00:35:12;
+
+[PlayVoice]=00:34:20	Voice00/00-00/00-00-A01/00-00-A01-0190	1	mak	00:35:12;
+
+[PrintText]=00:36:01	Taisuke	Qué genial...	00:36:21;
+
+[PlayVoice]=00:36:01	Voice00/00-00/00-00-A01/00-00-A01-0200	1	tai	00:36:21;
+
+[PrintText]=00:37:01	Makoto	No es algo fuera de lo común en estos días.	00:39:03;
+
+[PlayVoice]=00:37:01	Voice00/00-00/00-00-A01/00-00-A01-0210	1	mak	00:39:03;
+
+[PrintText]=00:39:03	Taisuke	Bueno... sí ¡Pero la mía aún es en blanco y negro! 	00:44:05;
+
+[PlayVoice]=00:39:03	Voice00/00-00/00-00-A01/00-00-A01-0220	1	tai	00:44:05;
+
+[CreateBG]=00:44:04	BGS	Event00/00-00/00-00-A01/00-00-A01-004	00:54:05;
+
+[PrintText]=00:44:05	Makoto	Entonces comprate uno nuevo.	00:45:13;
+
+[PlayVoice]=00:44:05	Voice00/00-00/00-00-A01/00-00-A01-0230	1	mak	00:45:13;
+
+[PrintText]=00:45:17	Taisuke	¡Soy pobre!	00:47:11;
+
+[PlayVoice]=00:45:17	Voice00/00-00/00-00-A01/00-00-A01-0240	1	tai	00:47:11;
+
+[PrintText]=00:47:11	Makoto	Tus padres y tu hermana trabajan ¿no?^ 	00:50:22;
+
+[PlayVoice]=00:47:11	Voice00/00-00/00-00-A01/00-00-A01-0250	1	mak	00:50:22;
+
+[PrintText]=00:50:18	Taisuke	Sí...	00:51:11;
+
+[PlayVoice]=00:50:18	Voice00/00-00/00-00-A01/00-00-A01-0260	1	tai	00:51:11;
+
+[PrintText]=00:51:19	Makoto	Entonces, ¿Cómo es que eres pobre?^ 	00:53:22;
+
+[PlayVoice]=00:51:19	Voice00/00-00/00-00-A01/00-00-A01-0270	1	mak	00:53:22;
+
+[PrintText]=00:54:03	Taisuke	Mi padre fue despedido,y mi hermana está vertiendo todo su dinero en su relación a larga distancia.	01:03:03;
+
+[PlayVoice]=00:54:03	Voice00/00-00/00-00-A01/00-00-A01-0280	1	tai	01:03:03;
+
+[PlayMovie]=00:54:05	Movie00/00-00/00-00-A01/00-00-A01-005	0	01:03:05;
+
+[PlayMovie]=01:03:05	Movie00/00-00/00-00-A01/00-00-A01-006	0	01:14:15;
+
+[PrintText]=01:03:20	Taisuke	Desearía tener uno... con una cámara, claro.	01:06:22;
+
+[PlayVoice]=01:03:20	Voice00/00-00/00-00-A01/00-00-A01-0300	1	tai	01:06:22;
+
+[PrintText]=01:07:01	Makoto	No eres una chica para estarlo usando bastante.	01:10:09;
+
+[PlayVoice]=01:07:01	Voice00/00-00/00-00-A01/00-00-A01-0310	1	mak	01:10:09;
+
+[PrintText]=01:10:09	Taisuke	¿Has escuchado del conjuro que se hace con el celular?^ 	01:12:23;
+
+[PlayVoice]=01:10:09	Voice00/00-00/00-00-A01/00-00-A01-0320	1	tai	01:12:23;
+
+[PrintText]=01:12:22	Makoto	¿Qu-Qué?^	01:14:15;
+
+[PlayVoice]=01:12:22	Voice00/00-00/00-00-A01/00-00-A01-0330	1	mak	01:14:15;
+
+[PlayMovie]=01:14:15	Movie00/00-00/00-00-A01/00-00-A01-007	0	01:28:04;
+
+[PrintText]=01:14:15	Taisuke	Tomas la foto de la persona que te gusta, y la pones como fondo de pantalla.	01:19:06;
+
+[PlayVoice]=01:14:15	Voice00/00-00/00-00-A01/00-00-A01-0340	1	tai	01:19:06;
+
+[PrintText]=01:19:06	Makoto	Sí...	01:20:12;
+
+[PlayVoice]=01:19:06	Voice00/00-00/00-00-A01/00-00-A01-0350	1	mak	01:20:12;
+
+[PrintText]=01:19:21	Taisuke	Entonces, si haces que nadie lo vea por 3 semanas ¡Saldrás con ella!	01:26:05;
+
+[PlayVoice]=01:19:21	Voice00/00-00/00-00-A01/00-00-A01-0360	1	tai	01:26:05;
+
+[PrintText]=01:26:19	Makoto	Oh...	01:28:05;
+
+[PlayVoice]=01:26:19	Voice00/00-00/00-00-A01/00-00-A01-0370	1	mak	01:28:05;
+
+[PlayMovie]=01:28:04	Movie00/00-00/00-00-A01/00-00-A01-008	0	01:47:16;
+
+[PrintText]=01:28:20	Taisuke	¿Qué? ¿Nunca has escuchado de eso? Es muy popular entre las chicas.	01:33:13;
+
+[PlayVoice]=01:28:20	Voice00/00-00/00-00-A01/00-00-A01-0380	1	tai	01:33:13;
+
+[PrintText]=01:33:13	Makoto	No creo en ese tipo de cosas.	01:35:12;
+
+[PlayVoice]=01:33:13	Voice00/00-00/00-00-A01/00-00-A01-0390	1	mak	01:35:12;
+
+[PrintText]=01:35:03	Taisuke	Si es así, entonces veamos tu celular...	01:38:03;
+
+[PlayVoice]=01:35:03	Voice00/00-00/00-00-A01/00-00-A01-0400	1	tai	01:38:03;
+
+[PrintText]=01:37:08	Makoto	¡H-hey! ¡Para ya!	01:39:17;
+
+[PlayVoice]=01:37:08	Voice00/00-00/00-00-A01/00-00-A01-0420	1	mak	01:39:17;
+
+[PlaySe]=01:37:15	1	Se00/00-00/00-00-A01/SE00-00-A01-003	01:38:10;
+
+[PlaySe]=01:38:00	2	Se00/00-00/00-00-A01/SE00-00-A01-004	01:38:20;
+
+[PrintText]=01:39:11	Taisuke	Lo escondes eh... eso quiere decir que tú...	01:43:18;
+
+[PlayVoice]=01:39:11	Voice00/00-00/00-00-A01/00-00-A01-0430	1	tai	01:43:18;
+
+[PrintText]=01:43:10	Makoto	No es lo que piensas. Solo no me gusta que miren en mi celular.	01:48:08;
+
+[PlayVoice]=01:43:10	Voice00/00-00/00-00-A01/00-00-A01-0440	1	mak	01:48:08;
+
+[PlayMovie]=01:47:16	Movie00/00-00/00-00-A01/00-00-A01-009	0	01:51:11;
+
+[PlaySe]=01:48:01	1	Se00/00-00/00-00-A01/SE00-00-A01-005	01:49:08;
+
+[PrintText]=01:48:01	Taisuke	¡Oh, vamos!...	01:49:08;
+
+[PlayVoice]=01:48:01	Voice00/00-00/00-00-A01/00-00-A01-0450	1	tai	01:49:08;
+
+[PlaySe]=01:48:22	2	Se00/00-00/00-00-A01/SE00-00-A01-006	01:51:20;
+
+[PrintText]=01:49:06	Makoto	¡Mira, Yamamoto está aquí!	01:51:08;
+
+[PlayVoice]=01:49:06	Voice00/00-00/00-00-A01/00-00-A01-0480	1	mak	01:51:08;
+
+[PlaySe]=01:49:08	4	SysSe/SE_all/school/chime	01:53:08;
+
+[BlackFade]=01:50:11	OUT	01:51:11;
+
+[CreateBG]=01:51:11	BGS	System/Screen/Black	01:53:08;
+
+[PrintText]=01:51:11	Taisuke	Está bien, hablamos después.	01:53:00;
+
+[PlayVoice]=01:51:11	Voice00/00-00/00-00-A01/00-00-A01-0490	1	tai	01:53:00;
+
+ ;
+
+[Next]=01:53:08;
+
+
+
+
+

@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:28:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:28:14;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-C01/01-00-C01-001	00:09:23;
+
+[PrintText]=00:00:12	Makoto	Creo que Sekai...	00:02:15;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-C01/01-00-C01-0030	1	xxx	00:02:15;
+
+[PrintText]=00:03:14	Makoto	Sí, tiene razón. Ahora que lo pienso, no hay manera de qué le guste a Sekai.	00:09:14;
+
+[PlayVoice]=00:03:14	Voice01/01-00/01-00-C01/01-00-C01-0040	1	xxx	00:09:14;
+
+[CreateBG]=00:09:23	BGS	Event01/01-00/01-00-C01/01-00-C01-003	00:15:13;
+
+[PrintText]=00:10:10	Makoto	Solo somos buenos amigos.	00:12:04;
+
+[PlayVoice]=00:10:10	Voice01/01-00/01-00-C01/01-00-C01-0050	1	xxx	00:12:04;
+
+[PrintText]=00:12:13	Makoto	Y pensar que me equivoco en el amor tan rápido, es vergonzoso pensar en eso.	00:17:23;
+
+[PlayVoice]=00:12:13	Voice01/01-00/01-00-C01/01-00-C01-0060	1	xxx	00:17:23;
+
+[CreateBG]=00:15:13	BGS	Event01/01-00/01-00-B00/01-00-B00-003	00:18:06;
+
+[CreateBG]=00:18:06	BGS	Event01/01-00/01-00-C01/01-00-C01-005	00:19:19;
+
+[WhiteFade]=00:19:07	OUT	00:19:19;
+
+[CreateBG]=00:19:19	BGS	Event01/01-00/01-00-C01/01-00-C01-006	00:28:14;
+
+[WhiteFade]=00:19:19	IN	00:20:07;
+
+[PrintText]=00:20:09	Makoto	A hora que estoy saliendo con Katsura, tengo que pensar solo en ella.	00:26:16;
+
+[PlayVoice]=00:20:09	Voice01/01-00/01-00-C01/01-00-C01-0070	1	xxx	00:26:16;
+
+[BlackFade]=00:27:14	OUT	00:28:14;
+
+ ;
+
+[Next]=00:28:14;
+
+
+
+

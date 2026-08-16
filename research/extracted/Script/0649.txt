@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:12:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:12:09;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E06/03-KB-E06-001	00:09:18;
+
+[PrintText]=00:00:00	Makoto	...	00:01:06;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E06/03-KB-E06-0030	1	xxx	00:01:06;
+
+[PrintText]=00:01:06	Taisuke	...Lo es ¿No?^	00:02:15;
+
+[PlayVoice]=00:01:06	Voice03/03-KB/03-KB-E06/03-KB-E06-0040	1	tai	00:02:15;
+
+[PrintText]=00:02:15	Makoto	...	00:03:16;
+
+[PlayVoice]=00:02:15	Voice03/03-KB/03-KB-E06/03-KB-E06-0050	1	xxx	00:03:16;
+
+[PrintText]=00:03:16	Taisuke	Saliste con otra chica porque Saionji te rechazo...	00:07:20;
+
+[PlayVoice]=00:03:16	Voice03/03-KB/03-KB-E06/03-KB-E06-0060	1	tai	00:07:20;
+
+[PrintText]=00:07:20	Makoto	N-no, te equivocas...	00:09:18;
+
+[PlayVoice]=00:07:20	Voice03/03-KB/03-KB-E06/03-KB-E06-0070	1	mak	00:09:18;
+
+[PrintText]=00:09:17	Taisuke	No me equivoco.	00:11:09;
+
+[PlayVoice]=00:09:17	Voice03/03-KB/03-KB-E06/03-KB-E06-0080	1	tai	00:11:09;
+
+[CreateBG]=00:09:18	BGS	Event03/03-KB/03-KB-E06/03-KB-E06-002	00:12:10;
+
+[PrintText]=00:11:09	Makoto	Kuh...	00:12:10;
+
+[PlayVoice]=00:11:09	Voice03/03-KB/03-KB-E06/03-KB-E06-0090	1	mak	00:12:10;
+
+ ;
+
+[Next]=00:12:10;
+
+

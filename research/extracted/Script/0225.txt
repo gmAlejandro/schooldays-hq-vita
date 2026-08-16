@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:06:22;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-G02/SE02-2K-G02-001	00:06:22;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-G02/02-2K-G02-001	00:06:22;
+
+[PrintText]=00:00:00	Makoto	Sí... tienes razón.	00:01:01;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-G02/02-2K-G02-0030	1	mak	00:01:01;
+
+[PrintText]=00:01:02	Kotonoha	Vamos... antes de que empiece.	00:04:10;
+
+[PlayVoice]=00:01:02	Voice02/02-2K/02-2K-G02/02-2K-G02-0040	0	kot	00:04:10;
+
+[PrintText]=00:04:10	Makoto	Vale...	00:05:01;
+
+[PlayVoice]=00:04:10	Voice02/02-2K/02-2K-G02/02-2K-G02-0050	1	mak	00:05:01;
+
+ ;
+
+[Next]=00:06:22;
+
+
+
+

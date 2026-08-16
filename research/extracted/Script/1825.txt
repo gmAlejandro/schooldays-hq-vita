@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:20:22;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:20:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-D02/05-SE-D02-002	00:10:03;
+
+[PrintText]=00:00:00	Makoto	...	00:02:06;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-D03/05-KF-D03-0030	1	xxx	00:02:06;
+
+[PrintText]=00:02:05	Kotonoha	Um... ¿No quieres?^	00:06:10;
+
+[PlayVoice]=00:02:05	Voice05/05-KF/05-KF-D03/05-KF-D03-0040	0	kot	00:06:10;
+
+[PrintText]=00:06:11	Makoto	...¿No se entendía?^	00:10:07;
+
+[PlayVoice]=00:06:11	Voice05/05-KF/05-KF-D03/05-KF-D03-0050	1	mak	00:10:07;
+
+[CreateBG]=00:10:03	BGS	Event05/05-SE/05-SE-D01/05-SE-D01-003	00:20:22;
+
+[PrintText]=00:10:07	Kotonoha	¿Eh?^	00:11:03;
+
+[PlayVoice]=00:10:07	Voice05/05-KF/05-KF-D03/05-KF-D03-0060	0	kot	00:11:03;
+
+[PrintText]=00:11:02	Makoto	...	00:12:23;
+
+[PlayVoice]=00:11:02	Voice05/05-KF/05-KF-D03/05-KF-D03-0070	1	xxx	00:12:23;
+
+[PrintText]=00:12:22	Kotonoha	U-um... Lo siento.	00:17:14;
+
+[PlayVoice]=00:12:22	Voice05/05-KF/05-KF-D03/05-KF-D03-0080	0	kot	00:17:14;
+
+[PrintText]=00:17:14	Makoto	Hmph.	00:19:10;
+
+[PlayVoice]=00:17:14	Voice05/05-KF/05-KF-D03/05-KF-D03-0090	1	mak	00:19:10;
+
+[PrintText]=00:19:10	Kotonoha	...	00:20:22;
+
+[PlayVoice]=00:19:10	Voice05/05-KF/05-KF-D03/05-KF-D03-0100	0	xxx	00:20:22;
+
+ ;
+
+[Next]=00:20:22;
+
+
+
+

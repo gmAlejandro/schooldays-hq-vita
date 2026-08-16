@@ -1,0 +1,38 @@
+﻿[SkipFRAME]=00:45:13;
+
+[PlaySe]=00:00:00	1	Se05/05-KF/05-KF-I02/SE05-KF-I02-001	00:08:12;
+
+[PlaySe]=00:00:00	4	SysSe/SE_all/station_train/gakuenmae_yuugata	00:45:13;
+
+[PlayMovie]=00:00:00	Movie05/05-SE/05-SE-Q02/05-SE-Q02-001	0	00:08:12;
+
+[PlaySe]=00:08:12	3	SysSe/SE_all/footsteps/asioto_okugai	00:13:10;
+
+[PlayMovie]=00:08:12	Movie05/05-SE/05-SE-Q02/05-SE-Q02-002	0	00:13:10;
+
+[PlaySe]=00:13:10	2	SysSe/SE_all/station_train/train_door_close	00:18:05;
+
+[CreateBG]=00:13:10	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-005	00:23:15;
+
+[PlaySe]=00:17:07	1	SysSe/SE_all/station_train/train_start	00:43:12;
+
+[PlayMovie]=00:23:15	Movie05/05-SE/05-SE-Q02/05-SE-Q02-004	0	00:40:08;
+
+[PlaySe]=00:38:07	3	SysSe/SE_all/footsteps/asioto_okugai	00:39:15;
+
+[PrintText]=00:38:10	Sekai	¡Makoto! ¿Perdón por... huh?^	00:41:23;
+
+[PlayVoice]=00:38:10	Voice05/05-SE/05-SE-Q02/05-SE-Q02-0060	0	sek	00:41:23;
+
+[CreateBG]=00:40:08	BGS	Event05/05-SE/05-SE-Q02/05-SE-Q02-005	00:45:13;
+
+[PrintText]=00:44:01	Sekai	... no está aquí.	00:45:00;
+
+[PlayVoice]=00:44:01	Voice05/05-SE/05-SE-Q02/05-SE-Q02-0070	0	sek	00:45:00;
+
+ ;
+
+[Next]=00:45:13;
+
+
+

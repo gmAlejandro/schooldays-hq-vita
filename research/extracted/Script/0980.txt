@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:17:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:17:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-C04/04-KB-C04-001	00:02:03;
+
+[PrintText]=00:00:00	Makoto	...	00:01:08;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-C04/04-KB-C04-0030	1	xxx	00:01:08;
+
+[PrintText]=00:01:08	Sekai	Vamos.	00:02:02;
+
+[PlayVoice]=00:01:08	Voice04/04-KB/04-KB-C04/04-KB-C04-0040	0	sek	00:02:02;
+
+[PrintText]=00:02:02	Makoto	Uuuh... Perdóname... por favor, perdón por lo de ahora.	00:07:10;
+
+[PlayVoice]=00:02:02	Voice04/04-KB/04-KB-C04/04-KB-C04-0050	1	mak	00:07:10;
+
+[CreateBG]=00:02:03	BGS	Event04/04-KB/04-KB-C04/04-KB-C04-002	00:17:02;
+
+[PrintText]=00:07:10	Sekai	¡Eh... ah! ¡Ahaha! Cielos, supongo que no puedo hacer nada, te perdonaré.	00:14:13;
+
+[PlayVoice]=00:07:10	Voice04/04-KB/04-KB-C04/04-KB-C04-0060	0	sek	00:14:13;
+
+[PrintText]=00:14:13	Makoto	Gracias...	00:16:10;
+
+[PlayVoice]=00:14:13	Voice04/04-KB/04-KB-C04/04-KB-C04-0070	1	mak	00:16:10;
+
+ ;
+
+[Next]=00:17:02;
+
+

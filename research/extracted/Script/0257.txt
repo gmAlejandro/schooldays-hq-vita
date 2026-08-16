@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:35:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:35:09;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-L01/02-2K-L01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event02/02-2K/02-2K-L01/02-2K-L01-002	00:05:09;
+
+[PrintText]=00:03:11	Kotonoha	Haah ...	00:04:11;
+
+[PlayVoice]=00:03:11	Voice02/02-2K/02-2K-L01/02-2K-L01-0040	0	kot	00:04:11;
+
+[PlayMovie]=00:05:09	Movie02/02-2K/02-2K-L01/02-2K-L01-003	0	00:21:03;
+
+[PrintText]=00:05:13	Kotonoha	Él... me tocó...	00:07:15;
+
+[PlayVoice]=00:05:13	Voice02/02-2K/02-2K-L01/02-2K-L01-0060	0	kot	00:07:15;
+
+[PrintText]=00:08:14	Kotonoha	...	00:10:22;
+
+[PlayVoice]=00:08:14	Voice02/02-2K/02-2K-L01/02-2K-L01-0070	0	xxx	00:10:22;
+
+[PrintText]=00:11:14	Kotonoha	Fue horrible...	00:13:18;
+
+[PlayVoice]=00:11:14	Voice02/02-2K/02-2K-L01/02-2K-L01-0080	0	kot	00:13:18;
+
+[PrintText]=00:14:21	Kotonoha	Pero...	00:15:21;
+
+[PlayVoice]=00:14:21	Voice02/02-2K/02-2K-L01/02-2K-L01-0090	0	kot	00:15:21;
+
+[PrintText]=00:16:16	Kotonoha	A los chicos les gusta tocar ¿no?^	00:20:21;
+
+[PlayVoice]=00:16:16	Voice02/02-2K/02-2K-L01/02-2K-L01-0100	0	kot	00:20:21;
+
+[CreateBG]=00:21:03	BGS	Event02/02-2K/02-2K-L01/02-2K-L01-004	00:22:09;
+
+[PrintText]=00:21:12	Kotonoha	Nn ...	00:21:23;
+
+[PlayVoice]=00:21:12	Voice02/02-2K/02-2K-L01/02-2K-L01-0120	0	kot	00:21:23;
+
+[PlayMovie]=00:22:09	Movie02/02-2K/02-2K-L01/02-2K-L01-005	0	00:26:18;
+
+[PrintText]=00:22:16	Kotonoha	¡Mmn ...! 	00:26:03;
+
+[PlayVoice]=00:22:16	Voice02/02-2K/02-2K-L01/02-2K-L01-0140	0	kot	00:26:03;
+
+[CreateBG]=00:26:18	BGS	Event02/02-2K/02-2K-L01/02-2K-L01-006	00:28:01;
+
+[PrintText]=00:26:23	Kotonoha	¡Haah!	00:27:18;
+
+[PlayVoice]=00:26:23	Voice02/02-2K/02-2K-L01/02-2K-L01-0150	0	kot	00:27:18;
+
+[CreateBG]=00:28:01	BGS	Event02/02-2K/02-2K-L01/02-2K-L01-001	00:35:09;
+
+[PrintText]=00:28:08	Kotonoha	¡¿Q-Qué estoy haciendo?!	00:30:16;
+
+[PlayVoice]=00:28:08	Voice02/02-2K/02-2K-L01/02-2K-L01-0160	0	kot	00:30:16;
+
+[PrintText]=00:31:01	Kotonoha	Ohh. ¡Cielos! Qué vergüenza.	00:33:19;
+
+[PlayVoice]=00:31:01	Voice02/02-2K/02-2K-L01/02-2K-L01-0170	0	kot	00:33:19;
+
+[BlackFade]=00:34:09	OUT	00:35:09;
+
+ ;
+
+[Next]=00:35:09;
+
+
+
+

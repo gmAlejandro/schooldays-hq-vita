@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:27:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:27:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-001	00:01:23;
+
+[PlaySe]=00:01:02	2	SysSe/SE_all/door/door_kyousitu	00:03:07;
+
+[CreateBG]=00:01:23	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-002	00:03:07;
+
+[CreateBG]=00:03:07	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-003	00:06:23;
+
+[PrintText]=00:03:07	Sekai	Buen día.	00:04:17;
+
+[PlayVoice]=00:03:07	Voice05/05-KF/05-KF-C08/05-KF-C08-0040	0	sek	00:04:17;
+
+[PrintText]=00:04:11	Nanami	Buen día, Sekai.	00:05:15;
+
+[PlayVoice]=00:04:11	Voice05/05-KF/05-KF-C08/05-KF-C08-0050	0	nan	00:05:15;
+
+[PrintText]=00:05:17	Hikari	¡Buen día!	00:06:20;
+
+[PlayVoice]=00:05:17	Voice05/05-KF/05-KF-C08/05-KF-C08-0060	0	hik	00:06:20;
+
+[CreateBG]=00:06:23	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-004	00:09:08;
+
+[CreateBG]=00:09:08	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-005	00:12:07;
+
+[CreateBG]=00:12:07	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-004	00:14:16;
+
+[CreateBG]=00:14:16	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-007	00:17:07;
+
+[PrintText]=00:15:11	Sekai	Ah...	00:16:11;
+
+[PlayVoice]=00:15:11	Voice05/05-KF/05-KF-C08/05-KF-C08-0080	0	sek	00:16:11;
+
+[PlayMovie]=00:17:07	Event05/05-KF/05-KF-C08/05-KF-C08-006	0	00:18:02;
+
+[CreateBG]=00:18:02	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-010	00:20:00;
+
+[PrintText]=00:18:09	Sekai	...	00:19:12;
+
+[PlayVoice]=00:18:09	Voice05/05-KF/05-KF-C08/05-KF-C08-0100	0	xxx	00:19:12;
+
+[CreateBG]=00:20:00	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-009	00:22:09;
+
+[BlackFade]=00:21:21	OUT	00:22:09;
+
+[CreateBG]=00:22:09	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-011	00:24:04;
+
+[BlackFade]=00:22:09	IN	00:22:21;
+
+[CreateBG]=00:24:04	BGS	Event05/05-KF/05-KF-C08/05-KF-C08-013	00:27:08;
+
+[PrintText]=00:24:15	Kotonoha	...	00:25:18;
+
+[PlayVoice]=00:24:15	Voice05/05-KF/05-KF-C08/05-KF-C08-0130	0	xxx	00:25:18;
+
+[BlackFade]=00:26:08	OUT	00:27:08;
+
+ ;
+
+[Next]=00:27:08;
+
+
+
+

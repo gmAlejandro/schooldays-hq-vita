@@ -1,0 +1,74 @@
+﻿[SkipFRAME]=00:42:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:42:20;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:42:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-F07/05-KB-F07-001	00:02:18;
+
+[PrintText]=00:00:00	Makoto	Estuve al teléfono con Sekai.	00:02:23;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-F07/05-KB-F07-0030	1	mak	00:02:23;
+
+[PrintText]=00:02:16	Hikari	¡¿Qué?! ¡Eso es imperdonable!	00:04:20;
+
+[PlayVoice]=00:02:16	Voice05/05-KB/05-KB-F07/05-KB-F07-0040	0	hik	00:04:20;
+
+[CreateBG]=00:02:18	BGS	Event05/05-KB/05-KB-F07/05-KB-F07-002	00:10:07;
+
+[PrintText]=00:04:07	Makoto	¡Uwah! ¡¿Cómo así?!	00:07:20;
+
+[PlayVoice]=00:04:07	Voice05/05-KB/05-KB-F07/05-KB-F07-0050	1	mak	00:07:20;
+
+[PrintText]=00:07:11	Hikari	¡No pienses que voy a aprobar lo de ti y Sekai... gwah!	00:11:03;
+
+[PlayVoice]=00:07:11	Voice05/05-KB/05-KB-F07/05-KB-F07-0060	0	hik	00:11:03;
+
+[PlaySe]=00:10:07	2	Se05/05-KB/05-KB-F10/SE05-KB-F10-002	00:10:14;
+
+[CreateBG]=00:10:07	BGS	System/Screen/Black	00:11:12;
+
+[CreateBG]=00:11:12	BGS	Event05/05-KB/05-KB-F07/05-KB-F07-004	00:15:04;
+
+[PrintText]=00:11:12	Nanami	N-No es nada. No te preocupes.	00:14:08;
+
+[PlayVoice]=00:11:12	Voice05/05-KB/05-KB-F07/05-KB-F07-0070	0	nan	00:14:08;
+
+[PrintText]=00:14:09	Makoto	Vaya... ni siquiera los boxeadores suelen dar ese tipo de puñetazos.	00:21:23;
+
+[PlayVoice]=00:14:09	Voice05/05-KB/05-KB-F07/05-KB-F07-0080	1	mak	00:21:23;
+
+[CreateBG]=00:15:04	BGS	Event05/05-KB/05-KB-F07/05-KB-F07-004B	00:32:11;
+
+[PrintText]=00:21:15	Hikari	¡Keh...! ¡Geh...!	00:23:03;
+
+[PlayVoice]=00:21:15	Voice05/05-KB/05-KB-F07/05-KB-F07-0090	0	hik	00:23:03;
+
+[PrintText]=00:24:00	Nanami	E-Entonces, ya veo. Sekai y tú hablando por teléfono. Hahaha, están muy juntos.	00:32:11;
+
+[PlayVoice]=00:24:00	Voice05/05-KB/05-KB-F07/05-KB-F07-0100	0	nan	00:32:11;
+
+[CreateBG]=00:32:11	BGS	Event05/05-KB/05-KB-F07/05-KB-F07-004C	00:42:20;
+
+[PrintText]=00:32:11	Hikari	¡Uweh... Nanami... geh!	00:36:22;
+
+[PlayVoice]=00:32:11	Voice05/05-KB/05-KB-F07/05-KB-F07-0110	0	hik	00:36:22;
+
+[PrintText]=00:36:11	Makoto	¿Vas a ignorar así a Kuroda?^	00:39:04;
+
+[PlayVoice]=00:36:11	Voice05/05-KB/05-KB-F07/05-KB-F07-0120	1	mak	00:39:04;
+
+[PrintText]=00:38:08	Nanami	Ahahaha.	00:40:13;
+
+[PlayVoice]=00:38:08	Voice05/05-KB/05-KB-F07/05-KB-F07-0130	0	nan	00:40:13;
+
+[BlackFade]=00:42:08	OUT	00:42:20;
+
+ ;
+
+[Next]=00:42:20;
+
+
+
+
+

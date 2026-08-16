@@ -1,0 +1,120 @@
+﻿[SkipFRAME]=01:02:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:02:06;
+
+[PlayMovie]=00:00:00	Movie05/05-SB/05-SB-G03/05-SB-G03-001	0	00:16:05;
+
+[PrintText]=00:00:00	Nanami	Sekai...	00:01:02;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-G03/05-SB-G03-0030	0	nan	00:01:02;
+
+[PrintText]=00:01:02	Sekai	Fui rechazada...	00:02:14;
+
+[PlayVoice]=00:01:02	Voice05/05-SB/05-SB-G03/05-SB-G03-0040	0	sek	00:02:14;
+
+[PrintText]=00:02:15	Nanami	...	00:03:13;
+
+[PlayVoice]=00:02:15	Voice05/05-SB/05-SB-G03/05-SB-G03-0050	0	xxx	00:03:13;
+
+[PrintText]=00:03:14	Sekai	Ahah...	00:09:02;
+
+[PlayVoice]=00:03:14	Voice05/05-SB/05-SB-G03/05-SB-G03-0060	0	sek	00:09:02;
+
+[PrintText]=00:09:01	Nanami	...	00:09:18;
+
+[PlayVoice]=00:09:01	Voice05/05-SB/05-SB-G03/05-SB-G03-0080	0	xxx	00:09:18;
+
+[PrintText]=00:09:18	Sekai	¡Uuuh... uh...!	00:16:02;
+
+[PlayVoice]=00:09:18	Voice05/05-SB/05-SB-G03/05-SB-G03-0090	0	sek	00:16:02;
+
+[PrintText]=00:16:02	Nanami	Hey, Sekai.	00:17:15;
+
+[PlayVoice]=00:16:02	Voice05/05-SB/05-SB-G03/05-SB-G03-0100	0	nan	00:17:15;
+
+[CreateBG]=00:16:05	BGS	Event05/05-SB/05-SB-G01/05-SB-G00-002	00:26:07;
+
+[PrintText]=00:17:16	Sekai	Nn...	00:19:06;
+
+[PlayVoice]=00:17:16	Voice05/05-SB/05-SB-G03/05-SB-G03-0110	0	sek	00:19:06;
+
+[PrintText]=00:19:05	Nanami	¿Por qué no pasas la navidad con nosotras?^	00:21:14;
+
+[PlayVoice]=00:19:05	Voice05/05-SB/05-SB-G03/05-SB-G03-0120	0	nan	00:21:14;
+
+[PrintText]=00:21:14	Sekai	¿Eh...?^	00:22:13;
+
+[PlayVoice]=00:21:14	Voice05/05-SB/05-SB-G03/05-SB-G03-0130	0	sek	00:22:13;
+
+[PrintText]=00:22:13	Nanami	Estoy bien si es contigo.	00:26:06;
+
+[PlayVoice]=00:22:13	Voice05/05-SB/05-SB-G03/05-SB-G03-0140	0	nan	00:26:06;
+
+[PlayMovie]=00:26:07	Movie05/05-SB/05-SB-G03/05-SB-G03-003	0	00:39:05;
+
+[PrintText]=00:26:07	Sekai	Mmn... pero...	00:29:05;
+
+[PlayVoice]=00:26:07	Voice05/05-SB/05-SB-G03/05-SB-G03-0150	0	sek	00:29:05;
+
+[PrintText]=00:29:05	Nanami	Vamos. ¡Si la hermana del senpai y tú se llevan bien, tal vez tenga una oportunidad de estar a solas con él!	00:37:18;
+
+[PlayVoice]=00:29:05	Voice05/05-SB/05-SB-G03/05-SB-G03-0160	0	nan	00:37:18;
+
+[PrintText]=00:37:19	Sekai	...	00:39:05;
+
+[PlayVoice]=00:37:19	Voice05/05-SB/05-SB-G03/05-SB-G03-0170	0	xxx	00:39:05;
+
+[CreateBG]=00:39:05	BGS	Event05/05-SB/05-SB-G03/05-SB-G03-004	00:42:21;
+
+[PrintText]=00:39:05	Nanami	Y... ¿Qué dices?^	00:41:02;
+
+[PlayVoice]=00:39:05	Voice05/05-SB/05-SB-G03/05-SB-G03-0180	0	nan	00:41:02;
+
+[PrintText]=00:41:02	Sekai	...Cielos.	00:42:04;
+
+[PlayVoice]=00:41:02	Voice05/05-SB/05-SB-G03/05-SB-G03-0190	0	sek	00:42:04;
+
+[PrintText]=00:42:04	Nanami	Uh-huh.	00:42:20;
+
+[PlayVoice]=00:42:04	Voice05/05-SB/05-SB-G03/05-SB-G03-0200	0	nan	00:42:20;
+
+[PlayMovie]=00:42:21	Movie05/05-SB/05-SB-G03/05-SB-G03-005	0	00:51:22;
+
+[PrintText]=00:42:21	Sekai	Sabes como usar a las personas. ¿Qué clase de persona le asigna un trabajo así a su amiga, quien está deprimida?^	00:51:22;
+
+[PlayVoice]=00:42:21	Voice05/05-SB/05-SB-G03/05-SB-G03-0210	0	sek	00:51:22;
+
+[CreateBG]=00:51:22	BGS	Event05/05-SB/05-SB-G03/05-SB-G03-004	01:02:06;
+
+[PrintText]=00:51:22	Nanami	Ahaha... bueno, solo te lo he pedido.	00:54:09;
+
+[PlayVoice]=00:51:22	Voice05/05-SB/05-SB-G03/05-SB-G03-0220	0	nan	00:54:09;
+
+[PrintText]=00:54:09	Sekai	Creo que no tengo opción...	00:56:06;
+
+[PlayVoice]=00:54:09	Voice05/05-SB/05-SB-G03/05-SB-G03-0230	0	sek	00:56:06;
+
+[PrintText]=00:56:07	Nanami	Uh-huh.	00:56:21;
+
+[PlayVoice]=00:56:07	Voice05/05-SB/05-SB-G03/05-SB-G03-0240	0	nan	00:56:21;
+
+[PrintText]=00:56:22	Sekai	...	00:58:10;
+
+[PlayVoice]=00:56:22	Voice05/05-SB/05-SB-G03/05-SB-G03-0250	0	xxx	00:58:10;
+
+[PrintText]=00:58:10	Nanami	Bueno, vamos.	01:00:13;
+
+[PlayVoice]=00:58:10	Voice05/05-SB/05-SB-G03/05-SB-G03-0260	0	nan	01:00:13;
+
+[PrintText]=01:00:13	Sekai	Vale.	01:01:05;
+
+[PlayVoice]=01:00:13	Voice05/05-SB/05-SB-G03/05-SB-G03-0270	0	sek	01:01:05;
+
+[BlackFade]=01:01:06	OUT	01:02:06;
+
+ ;
+
+[Next]=01:02:06;
+
+
+

@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:15:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:15:11;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-E01/SE03-BK-E01-001	00:15:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-E01/03-BK-E01-001	00:01:03;
+
+[PrintText]=00:00:08	Makoto	Olvídalo.	00:01:02;
+
+[PlayVoice]=00:00:08	Voice03/03-BK/03-BK-E01/03-BK-E01-0030	1	mak	00:01:02;
+
+[PrintText]=00:01:02	Taisuke	¿Huh?^	00:01:19;
+
+[PlayVoice]=00:01:02	Voice03/03-BK/03-BK-E01/03-BK-E01-0040	1	tai	00:01:19;
+
+[CreateBG]=00:01:03	BGS	Event03/03-BK/03-BK-E01/03-BK-E01-002	00:01:19;
+
+[CreateBG]=00:01:19	BGS	Event03/03-BK/03-BK-E01/03-BK-E01-003	00:05:21;
+
+[PrintText]=00:01:19	Makoto	Ya dije que no. Como te dije, no acepto proposiciones homosexuales.	00:05:21;
+
+[PlayVoice]=00:01:19	Voice03/03-BK/03-BK-E01/03-BK-E01-0050	1	mak	00:05:21;
+
+[CreateBG]=00:05:21	BGS	Event03/03-BK/03-BK-E01/03-BK-E01-004	00:09:22;
+
+[PrintText]=00:05:21	Taisuke	¡Hey! Mira. Aleja esos pensamientos estúpidos por un momento.	00:09:22;
+
+[PlayVoice]=00:05:21	Voice03/03-BK/03-BK-E01/03-BK-E01-0060	1	tai	00:09:22;
+
+[CreateBG]=00:09:22	BGS	Event03/03-BK/03-BK-E01/03-BK-E01-005	00:12:01;
+
+[PrintText]=00:09:22	Makoto	O-oh, Bien...	00:12:01;
+
+[PlayVoice]=00:09:22	Voice03/03-BK/03-BK-E01/03-BK-E01-0070	1	mak	00:12:01;
+
+[CreateBG]=00:12:01	BGS	Event03/03-BK/03-BK-E01/03-BK-E01-006	00:15:11;
+
+[PrintText]=00:12:01	Taisuke	Como decía...	00:14:13;
+
+[PlayVoice]=00:12:01	Voice03/03-BK/03-BK-E01/03-BK-E01-0080	1	tai	00:14:13;
+
+[PrintText]=00:14:14	Makoto	Sí.	00:15:07;
+
+[PlayVoice]=00:14:14	Voice03/03-BK/03-BK-E01/03-BK-E01-0090	1	mak	00:15:07;
+
+ ;
+
+[Next]=00:15:11;
+
+

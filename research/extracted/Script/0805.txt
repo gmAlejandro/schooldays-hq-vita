@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:15:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:15:13;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-A10/SE03-SB-A10-001	00:15:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-A10/03-SB-A10-001	00:01:17;
+
+[PrintText]=00:00:00	Makoto	Debo ir a la fogata.	00:01:16;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-A10/03-SB-A10-0030	1	mak	00:01:16;
+
+[PrintText]=00:01:16	Sekai	...Ya veo.	00:02:14;
+
+[PlayVoice]=00:01:16	Voice03/03-SB/03-SB-A10/03-SB-A10-0040	0	sek	00:02:14;
+
+[CreateBG]=00:01:17	BGS	Event03/03-SB/03-SB-A10/03-SB-A10-002	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event03/03-SB/03-SB-A10/03-SB-A10-003	00:04:09;
+
+[PrintText]=00:02:14	Makoto	Lo siento.	00:03:11;
+
+[PlayVoice]=00:02:14	Voice03/03-SB/03-SB-A10/03-SB-A10-0050	1	mak	00:03:11;
+
+[PrintText]=00:03:12	Sekai	Está bien.	00:04:10;
+
+[PlayVoice]=00:03:12	Voice03/03-SB/03-SB-A10/03-SB-A10-0060	0	sek	00:04:10;
+
+[CreateBG]=00:04:09	BGS	Event03/03-SB/03-SB-A10/03-SB-A10-004	00:06:00;
+
+[PrintText]=00:04:09	Makoto	...Nos vemos después.	00:05:08;
+
+[PlayVoice]=00:04:09	Voice03/03-SB/03-SB-A10/03-SB-A10-0070	1	mak	00:05:08;
+
+[PrintText]=00:05:08	Sekai	...	00:06:03;
+
+[PlayVoice]=00:05:08	Voice03/03-SB/03-SB-A10/03-SB-A10-0090	0	xxx	00:06:03;
+
+[CreateBG]=00:06:00	BGS	Event03/03-SB/03-SB-A10/03-SB-A10-005	00:09:00;
+
+[PrintText]=00:06:03	Sekai	Entiendo... pero...	00:09:01;
+
+[PlayVoice]=00:06:03	Voice03/03-SB/03-SB-A10/03-SB-A10-0110	0	sek	00:09:01;
+
+[CreateBG]=00:09:00	BGS	Event03/03-SB/03-SB-A10/03-SB-A10-006	00:10:15;
+
+[PrintText]=00:09:01	Sekai	Esto es difícil...	00:10:15;
+
+[PlayVoice]=00:09:01	Voice03/03-SB/03-SB-A10/03-SB-A10-0120	0	sek	00:10:15;
+
+[CreateBG]=00:10:15	BGS	Event03/03-SB/03-SB-A10/03-SB-A10-007	00:15:13;
+
+[PrintText]=00:10:15	Sekai	Kuh... uuh...	00:15:13;
+
+[PlayVoice]=00:10:15	Voice03/03-SB/03-SB-A10/03-SB-A10-0130	0	sek	00:15:13;
+
+ ;
+
+[Next]=00:15:15;
+
+

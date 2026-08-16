@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:12:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:12:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-N03/01-00-N03-001	00:12:10;
+
+[PrintText]=00:00:14	Makoto	Me gusta Katsura... ¿No? Yo...	00:05:09;
+
+[PlayVoice]=00:00:14	Voice01/01-00/01-00-N03/01-00-N03-0030	1	mak	00:05:09;
+
+[PrintText]=00:06:05	Makoto	Yo estoy enamorado de ella, ... Así que tengo que hacer algo...	00:11:20;
+
+[PlayVoice]=00:06:05	Voice01/01-00/01-00-N03/01-00-N03-0040	1	mak	00:11:20;
+
+ ;
+
+[Next]=00:12:10;
+
+
+
+

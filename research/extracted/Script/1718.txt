@@ -1,0 +1,142 @@
+﻿[SkipFRAME]=01:16:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:16:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-G00/05-SB-G00-002	00:02:06;
+
+[PrintText]=00:00:00	Sekai	Mmn...	00:00:12;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-G01/05-SB-G01-0030	0	sek	00:00:12;
+
+[CreateBG]=00:02:06	BGS	Event05/05-SB/05-SB-G01/05-SB-G00-002	00:08:00;
+
+[PrintText]=00:02:08	Nanami	Ah. ¿Estás despierta?^	00:04:03;
+
+[PlayVoice]=00:02:08	Voice05/05-SB/05-SB-G01/05-SB-G01-0040	0	nan	00:04:03;
+
+[PrintText]=00:04:06	Sekai	¿Esta es...?^	00:05:02;
+
+[PlayVoice]=00:04:06	Voice05/05-SB/05-SB-G01/05-SB-G01-0060	0	sek	00:05:02;
+
+[PrintText]=00:05:06	Nanami	La enfermería.	00:06:15;
+
+[PlayVoice]=00:05:06	Voice05/05-SB/05-SB-G01/05-SB-G01-0070	0	nan	00:06:15;
+
+[PrintText]=00:06:16	Sekai	Ya veo...	00:08:00;
+
+[PlayVoice]=00:06:16	Voice05/05-SB/05-SB-G01/05-SB-G01-0080	0	sek	00:08:00;
+
+[CreateBG]=00:08:00	BGS	Event05/05-SB/05-SB-G01/05-SB-G01-003	00:32:08;
+
+[PrintText]=00:08:00	Nanami	¿Estás bien?^	00:09:00;
+
+[PlayVoice]=00:08:00	Voice05/05-SB/05-SB-G01/05-SB-G01-0090	0	nan	00:09:00;
+
+[PrintText]=00:09:00	Sekai	Perdón por ponerte en esta situación.	00:12:20;
+
+[PlayVoice]=00:09:00	Voice05/05-SB/05-SB-G01/05-SB-G01-0100	0	sek	00:12:20;
+
+[PrintText]=00:12:20	Nanami	Estaba preocupada, y pensé en ver como estabas.	00:16:20;
+
+[PlayVoice]=00:12:20	Voice05/05-SB/05-SB-G01/05-SB-G01-0110	0	nan	00:16:20;
+
+[PrintText]=00:16:21	Sekai	Uh-huh...	00:17:11;
+
+[PlayVoice]=00:16:21	Voice05/05-SB/05-SB-G01/05-SB-G01-0120	0	sek	00:17:11;
+
+[PrintText]=00:17:11	Sekai	Ah...	00:18:07;
+
+[PlayVoice]=00:17:11	Voice05/05-SB/05-SB-G01/05-SB-G01-0130	0	sek	00:18:07;
+
+[PrintText]=00:18:08	Nanami	¿Qué pasa?^	00:19:02;
+
+[PlayVoice]=00:18:08	Voice05/05-SB/05-SB-G01/05-SB-G01-0140	0	nan	00:19:02;
+
+[PrintText]=00:19:02	Sekai	Nanami... ¿Qué hora es?^	00:21:20;
+
+[PlayVoice]=00:19:02	Voice05/05-SB/05-SB-G01/05-SB-G01-0150	0	sek	00:21:20;
+
+[PrintText]=00:21:20	Nanami	Serán las siete.	00:23:17;
+
+[PlayVoice]=00:21:20	Voice05/05-SB/05-SB-G01/05-SB-G01-0160	0	nan	00:23:17;
+
+[PrintText]=00:23:18	Sekai	¿Eh?^	00:24:18;
+
+[PlayVoice]=00:23:18	Voice05/05-SB/05-SB-G01/05-SB-G01-0170	0	sek	00:24:18;
+
+[PrintText]=00:24:19	Nanami	Estabas durmiendo profundamente, así que le pedí al profesor que no te despertará.	00:31:09;
+
+[PlayVoice]=00:24:19	Voice05/05-SB/05-SB-G01/05-SB-G01-0180	0	nan	00:31:09;
+
+[PrintText]=00:31:08	Sekai	...No, está bien.	00:32:09;
+
+[PlayVoice]=00:31:08	Voice05/05-SB/05-SB-G01/05-SB-G01-0190	0	sek	00:32:09;
+
+[PlayMovie]=00:32:08	Movie05/05-SB/05-SB-G01/05-SB-G01-004	0	00:40:19;
+
+[PrintText]=00:32:09	Nanami	Te ves muy cansada, así que...	00:35:21;
+
+[PlayVoice]=00:32:09	Voice05/05-SB/05-SB-G01/05-SB-G01-0200	0	nan	00:35:21;
+
+[PrintText]=00:35:21	Sekai	Sí... ya estoy bien.	00:39:11;
+
+[PlayVoice]=00:35:21	Voice05/05-SB/05-SB-G01/05-SB-G01-0210	0	sek	00:39:11;
+
+[PrintText]=00:39:22	Nanami	¿En serio?^	00:40:17;
+
+[PlayVoice]=00:39:22	Voice05/05-SB/05-SB-G01/05-SB-G01-0220	0	nan	00:40:17;
+
+[CreateBG]=00:40:19	BGS	Event05/05-SB/05-SB-G01/05-SB-G00-005	01:03:01;
+
+[PrintText]=00:40:22	Sekai	¿Segura que deberías estar aquí? Se supone que deberías estar pasando la navidad con tu novio.	00:48:07;
+
+[PlayVoice]=00:40:22	Voice05/05-SB/05-SB-G01/05-SB-G01-0230	0	sek	00:48:07;
+
+[PrintText]=00:48:08	Nanami	Iré a verlo después.	00:50:21;
+
+[PlayVoice]=00:48:08	Voice05/05-SB/05-SB-G01/05-SB-G01-0240	0	nan	00:50:21;
+
+[PrintText]=00:50:21	Sekai	¿Después?^	00:51:22;
+
+[PlayVoice]=00:50:21	Voice05/05-SB/05-SB-G01/05-SB-G01-0250	0	sek	00:51:22;
+
+[PrintText]=00:51:22	Nanami	Pasará navidad con su pequeña hermana, ya ves... haha...	00:57:16;
+
+[PlayVoice]=00:51:22	Voice05/05-SB/05-SB-G01/05-SB-G01-0260	0	nan	00:57:16;
+
+[PrintText]=00:57:16	Sekai	Ah... h-hey.	01:02:08;
+
+[PlayVoice]=00:57:16	Voice05/05-SB/05-SB-G01/05-SB-G01-0270	0	sek	01:02:08;
+
+[PrintText]=01:02:09	Nanami	Uh-huh.	01:03:00;
+
+[PlayVoice]=01:02:09	Voice05/05-SB/05-SB-G01/05-SB-G01-0280	0	nan	01:03:00;
+
+[CreateBG]=01:03:01	BGS	Event05/05-SB/05-SB-G01/05-SB-G01-005	01:16:08;
+
+[PrintText]=01:03:14	Sekai	¿Dónde está Makoto...?^	01:04:18;
+
+[PlayVoice]=01:03:14	Voice05/05-SB/05-SB-G01/05-SB-G01-0290	0	sek	01:04:18;
+
+[PrintText]=01:04:18	Nanami	...Se fue a casa.	01:05:20;
+
+[PlayVoice]=01:04:18	Voice05/05-SB/05-SB-G01/05-SB-G01-0300	0	nan	01:05:20;
+
+[PrintText]=01:05:20	Sekai	...Ya veo.	01:06:20;
+
+[PlayVoice]=01:05:20	Voice05/05-SB/05-SB-G01/05-SB-G01-0310	0	sek	01:06:20;
+
+[PrintText]=01:06:20	Nanami	¡Traté de detenerlo sabes! ¡Fue muy malo por su parte dejarte en estos momentos!	01:14:14;
+
+[PlayVoice]=01:06:20	Voice05/05-SB/05-SB-G01/05-SB-G01-0320	0	nan	01:14:14;
+
+[PrintText]=01:14:15	Sekai	No, está bien...	01:15:13;
+
+[PlayVoice]=01:14:15	Voice05/05-SB/05-SB-G01/05-SB-G01-0330	0	sek	01:15:13;
+
+ ;
+
+[Next]=01:16:08;
+
+
+

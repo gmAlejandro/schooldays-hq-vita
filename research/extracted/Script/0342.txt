@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:32:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:32:23;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-L05/02-2S-L05-01	00:04:10;
+
+[PrintText]=00:02:04	Kotonoha	Haah... Lo dije...	00:05:23;
+
+[PlayVoice]=00:02:04	Voice02/02-2S/02-2S-L05/02-2S-L05-0050	0	kot	00:05:23;
+
+[CreateBG]=00:04:10	BGS	Event02/02-2S/02-2S-L05/02-2S-L05-002	00:17:12;
+
+[PrintText]=00:06:22	Kotonoha	Finalmente lo dije... pero tal vez no debí haberlo hecho. Tal vez Makoto-kun lo sigue manteniendo en secreto...	00:16:19;
+
+[PlayVoice]=00:06:22	Voice02/02-2S/02-2S-L05/02-2S-L05-0060	0	kot	00:16:19;
+
+[CreateBG]=00:17:12	BGS	Event02/02-2S/02-2S-L05/02-2S-L05-003	00:28:17;
+
+[PrintText]=00:17:12	Kotonoha	Bueno, no importa. Me siento aliviada ahora ... y estoy segura que Makoto-kun me perdonará.	00:27:21;
+
+[PlayVoice]=00:17:12	Voice02/02-2S/02-2S-L05/02-2S-L05-0080	0	kot	00:27:21;
+
+[CreateBG]=00:28:17	BGS	Event02/02-2S/02-2S-L05/02-2S-L05-004	00:32:23;
+
+[PrintText]=00:28:21	Kotonoha	Ahora, para recoger las impresiones...	00:31:14;
+
+[PlayVoice]=00:28:21	Voice02/02-2S/02-2S-L05/02-2S-L05-0090	0	kot	00:31:14;
+
+[BlackFade]=00:31:23	OUT	00:32:23;
+
+ ;
+
+[Next]=00:32:23;
+
+
+
+

@@ -1,0 +1,251 @@
+﻿[SkipFRAME]=02:26:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:26:14;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-002	00:06:06;
+
+[PrintText]=00:02:00	Kotonoha	Haah... Las estrellas son muy hermosas ¿No?^	00:06:06;
+
+[PlayVoice]=00:02:00	Voice05/05-KC/05-KC-B00/05-KC-B00-0030	0	kot	00:06:06;
+
+[PrintText]=00:06:05	Sekai	...	00:06:17;
+
+[PlayVoice]=00:06:05	Voice05/05-KC/05-KC-B00/05-KC-B00-0040	0	xxx	00:06:17;
+
+[CreateBG]=00:06:06	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-003	00:15:12;
+
+[PrintText]=00:07:12	Kotonoha	¿Está bien que estés hasta tan tarde? Yo estaré bien, porque mis padres no están hoy en casa.	00:15:12;
+
+[PlayVoice]=00:07:12	Voice05/05-KC/05-KC-B00/05-KC-B00-0050	0	kot	00:15:12;
+
+[CreateBG]=00:15:12	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-004	00:18:15;
+
+[PrintText]=00:15:12	Sekai	...Katsura-san.	00:16:17;
+
+[PlayVoice]=00:15:12	Voice05/05-KC/05-KC-B00/05-KC-B00-0060	0	sek	00:16:17;
+
+[PrintText]=00:16:17	Kotonoha	¿Sí?^	00:17:10;
+
+[PlayVoice]=00:16:17	Voice05/05-KC/05-KC-B00/05-KC-B00-0070	0	kot	00:17:10;
+
+[PrintText]=00:17:10	Sekai	¿Lo sabías?^	00:18:14;
+
+[PlayVoice]=00:17:10	Voice05/05-KC/05-KC-B00/05-KC-B00-0080	0	sek	00:18:14;
+
+[PrintText]=00:18:14	Kotonoha	¿Saber qué?^	00:19:22;
+
+[PlayVoice]=00:18:14	Voice05/05-KC/05-KC-B00/05-KC-B00-0090	0	kot	00:19:22;
+
+[CreateBG]=00:18:15	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-005	00:30:16;
+
+[PrintText]=00:19:22	Sekai	Lo de Makoto y yo.	00:22:15;
+
+[PlayVoice]=00:19:22	Voice05/05-KC/05-KC-B00/05-KC-B00-0100	0	sek	00:22:15;
+
+[PrintText]=00:23:05	Kotonoha	Sí.	00:23:20;
+
+[PlayVoice]=00:23:05	Voice05/05-KC/05-KC-B00/05-KC-B00-0110	0	kot	00:23:20;
+
+[PrintText]=00:24:04	Sekai	¿Desde cuando?^	00:25:02;
+
+[PlayVoice]=00:24:04	Voice05/05-KC/05-KC-B00/05-KC-B00-0120	0	sek	00:25:02;
+
+[PrintText]=00:25:10	Kotonoha	No estoy segura.	00:26:10;
+
+[PlayVoice]=00:25:10	Voice05/05-KC/05-KC-B00/05-KC-B00-0130	0	kot	00:26:10;
+
+[PrintText]=00:26:11	Sekai	...	00:26:22;
+
+[PlayVoice]=00:26:11	Voice05/05-KC/05-KC-B00/05-KC-B00-0140	0	xxx	00:26:22;
+
+[PrintText]=00:27:08	Kotonoha	No fue desde el principio.	00:29:06;
+
+[PlayVoice]=00:27:08	Voice05/05-KC/05-KC-B00/05-KC-B00-0150	0	kot	00:29:06;
+
+[PrintText]=00:29:14	Sekai	...	00:30:01;
+
+[PlayVoice]=00:29:14	Voice05/05-KC/05-KC-B00/05-KC-B00-0160	0	xxx	00:30:01;
+
+[CreateBG]=00:30:16	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-006	00:37:12;
+
+[PrintText]=00:30:16	Kotonoha	Yo también me sorprendí cuando descubrí que lo estabas seduciendo.	00:37:03;
+
+[PlayVoice]=00:30:16	Voice05/05-KC/05-KC-B00/05-KC-B00-0170	0	kot	00:37:03;
+
+[CreateBG]=00:37:12	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-007	00:39:05;
+
+[PrintText]=00:37:12	Sekai	¿Seduciendo? Eso...	00:39:04;
+
+[PlayVoice]=00:37:12	Voice05/05-KC/05-KC-B00/05-KC-B00-0180	0	sek	00:39:04;
+
+[CreateBG]=00:39:05	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-006	00:40:10;
+
+[PrintText]=00:39:05	Kotonoha	¿Me equivoco?^	00:40:10;
+
+[PlayVoice]=00:39:05	Voice05/05-KC/05-KC-B00/05-KC-B00-0190	0	kot	00:40:10;
+
+[PrintText]=00:40:09	Sekai	Sí...	00:41:11;
+
+[PlayVoice]=00:40:09	Voice05/05-KC/05-KC-B00/05-KC-B00-0200	0	sek	00:41:11;
+
+[CreateBG]=00:40:10	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-005	00:46:00;
+
+[PrintText]=00:41:11	Kotonoha	No me digas que lo hiciste porque lo amabas.	00:46:04;
+
+[PlayVoice]=00:41:11	Voice05/05-KC/05-KC-B00/05-KC-B00-0210	0	kot	00:46:04;
+
+[CreateBG]=00:46:00	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-010	00:47:04;
+
+[PrintText]=00:46:08	Sekai	¿Eh...?^	00:47:00;
+
+[PlayVoice]=00:46:08	Voice05/05-KC/05-KC-B00/05-KC-B00-0220	0	sek	00:47:00;
+
+[CreateBG]=00:47:04	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-011	01:03:12;
+
+[PrintText]=00:47:04	Kotonoha	Tú fuiste la que nos unió.	00:50:11;
+
+[PlayVoice]=00:47:04	Voice05/05-KC/05-KC-B00/05-KC-B00-0230	0	kot	00:50:11;
+
+[PrintText]=00:50:11	Kotonoha	y la que me daba consejos cuando las cosas no iban bien.	00:55:22;
+
+[PlayVoice]=00:50:11	Voice05/05-KC/05-KC-B00/05-KC-B00-0231	0	kot	00:55:22;
+
+[PrintText]=00:55:22	Sekai	Sí, pero...	00:57:14;
+
+[PlayVoice]=00:55:22	Voice05/05-KC/05-KC-B00/05-KC-B00-0240	0	sek	00:57:14;
+
+[PrintText]=00:57:14	Kotonoha	Y ahora vienes a decirme que 'En realidad también lo amo, así que lo quiero solo para mí...'.	01:03:12;
+
+[PlayVoice]=00:57:14	Voice05/05-KC/05-KC-B00/05-KC-B00-0250	0	kot	01:03:12;
+
+[PrintText]=01:03:11	Sekai	...	01:04:11;
+
+[PlayVoice]=01:03:11	Voice05/05-KC/05-KC-B00/05-KC-B00-0260	0	xxx	01:04:11;
+
+[CreateBG]=01:03:12	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-012	01:04:12;
+
+[PrintText]=01:04:11	Kotonoha	Eso no va a pasar...	01:05:13;
+
+[PlayVoice]=01:04:11	Voice05/05-KC/05-KC-B00/05-KC-B00-0270	0	kot	01:05:13;
+
+[CreateBG]=01:04:12	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-019	01:22:10;
+
+[PrintText]=01:05:12	Sekai	Lo sé...	01:06:19;
+
+[PlayVoice]=01:05:12	Voice05/05-KC/05-KC-B00/05-KC-B00-0280	0	sek	01:06:19;
+
+[PrintText]=01:06:20	Kotonoha	Si has hecho todo esto para lastimarme, entonces deseo que pares.	01:10:13;
+
+[PlayVoice]=01:06:20	Voice05/05-KC/05-KC-B00/05-KC-B00-0290	0	kot	01:10:13;
+
+[PrintText]=01:10:12	Sekai	Esa no fue mi intención... es solo que yo...	01:16:07;
+
+[PlayVoice]=01:10:12	Voice05/05-KC/05-KC-B00/05-KC-B00-0300	0	sek	01:16:07;
+
+[PrintText]=01:16:08	Kotonoha	¿Me estás diciendo que realmente lo amas?^	01:18:10;
+
+[PlayVoice]=01:16:08	Voice05/05-KC/05-KC-B00/05-KC-B00-0310	0	kot	01:18:10;
+
+[PrintText]=01:18:09	Sekai	Sí... lo amo...	01:20:11;
+
+[PlayVoice]=01:18:09	Voice05/05-KC/05-KC-B00/05-KC-B00-0320	0	sek	01:20:11;
+
+[PrintText]=01:20:12	Kotonoha	Estoy bien con eso.	01:22:09;
+
+[PlayVoice]=01:20:12	Voice05/05-KC/05-KC-B00/05-KC-B00-0330	0	kot	01:22:09;
+
+[PrintText]=01:22:09	Sekai	¿Eh?^	01:23:07;
+
+[PlayVoice]=01:22:09	Voice05/05-KC/05-KC-B00/05-KC-B00-0340	0	sek	01:23:07;
+
+[CreateBG]=01:22:10	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-014	01:23:08;
+
+[PrintText]=01:23:07	Kotonoha	Porque Makoto-kun me hizo una promesa... sin importar cuantas veces lo hacía con otras chicas, él me amaría más que a nadie.	01:32:08;
+
+[PlayVoice]=01:23:07	Voice05/05-KC/05-KC-B00/05-KC-B00-0350	0	kot	01:32:08;
+
+[CreateBG]=01:23:08	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-006	01:32:11;
+
+[PrintText]=01:32:08	Sekai	...	01:33:06;
+
+[PlayVoice]=01:32:08	Voice05/05-KC/05-KC-B00/05-KC-B00-0360	0	xxx	01:33:06;
+
+[CreateBG]=01:32:11	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-003	01:44:10;
+
+[PrintText]=01:33:07	Kotonoha	Puedes hacerlo con él si quieres, no me molesta.	01:37:13;
+
+[PlayVoice]=01:33:07	Voice05/05-KC/05-KC-B00/05-KC-B00-0370	0	kot	01:37:13;
+
+[PrintText]=01:37:12	Sekai	Eso...	01:39:06;
+
+[PlayVoice]=01:37:12	Voice05/05-KC/05-KC-B00/05-KC-B00-0380	0	sek	01:39:06;
+
+[PrintText]=01:39:06	Kotonoha	Si no puedes aceptarlo, entonces te pido que te alejes de él.	01:43:01;
+
+[PlayVoice]=01:39:06	Voice05/05-KC/05-KC-B00/05-KC-B00-0390	0	kot	01:43:01;
+
+[PrintText]=01:43:01	Sekai	Kuh...	01:44:09;
+
+[PlayVoice]=01:43:01	Voice05/05-KC/05-KC-B00/05-KC-B00-0400	0	sek	01:44:09;
+
+[CreateBG]=01:44:10	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-006	01:55:08;
+
+[PrintText]=01:44:10	Kotonoha	Le daré a Makoto-kun lo que quiere. Si el quiere un trío, entonces haré eso... y mucho más si lo pide.	01:55:08;
+
+[PlayVoice]=01:44:10	Voice05/05-KC/05-KC-B00/05-KC-B00-0410	0	kot	01:55:08;
+
+[PrintText]=01:55:07	Sekai	Yo... también haré todo por él.	01:58:11;
+
+[PlayVoice]=01:55:07	Voice05/05-KC/05-KC-B00/05-KC-B00-0420	0	sek	01:58:11;
+
+[CreateBG]=01:55:08	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-004	01:58:12;
+
+[CreateBG]=01:58:12	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-011	02:12:14;
+
+[PrintText]=01:58:12	Kotonoha	Haz lo que quieras.	02:00:00;
+
+[PlayVoice]=01:58:12	Voice05/05-KC/05-KC-B00/05-KC-B00-0430	0	kot	02:00:00;
+
+[PrintText]=01:59:23	Sekai	...	02:01:03;
+
+[PlayVoice]=01:59:23	Voice05/05-KC/05-KC-B00/05-KC-B00-0440	0	xxx	02:01:03;
+
+[PrintText]=02:01:03	Kotonoha	Makoto-kun... era tan duro... mi cuerpo todavía se siente caliente... ufufuf...	02:11:08;
+
+[PlayVoice]=02:01:03	Voice05/05-KC/05-KC-B00/05-KC-B00-0450	0	kot	02:11:08;
+
+[PrintText]=02:11:07	Sekai	...	02:12:13;
+
+[PlayVoice]=02:11:07	Voice05/05-KC/05-KC-B00/05-KC-B00-0470	0	xxx	02:12:13;
+
+[PrintText]=02:12:13	Kotonoha	Creo que voy a dar un largo paseo por la orilla del mar en el camino a casa. Tomarás el tren ¿No es así?^	02:19:20;
+
+[PlayVoice]=02:12:13	Voice05/05-KC/05-KC-B00/05-KC-B00-0480	0	kot	02:19:20;
+
+[CreateBG]=02:12:14	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-006	02:19:21;
+
+[PrintText]=02:19:20	Sekai	Sí.	02:20:20;
+
+[PlayVoice]=02:19:20	Voice05/05-KC/05-KC-B00/05-KC-B00-0490	0	sek	02:20:20;
+
+[CreateBG]=02:19:21	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-007	02:20:21;
+
+[CreateBG]=02:20:21	BGS	Event05/05-KC/05-KC-B00/05-KC-B00-022	02:26:14;
+
+[PrintText]=02:20:21	Kotonoha	Bien, entonces aquí es donde nos separamos. Buenas noches.	02:24:17;
+
+[PlayVoice]=02:20:21	Voice05/05-KC/05-KC-B00/05-KC-B00-0500	0	kot	02:24:17;
+
+[PrintText]=02:24:16	Sekai	...Buenas noches.	02:26:05;
+
+[PlayVoice]=02:24:16	Voice05/05-KC/05-KC-B00/05-KC-B00-0510	0	sek	02:26:05;
+
+ ;
+
+[Next]=02:26:14;
+
+
+
+

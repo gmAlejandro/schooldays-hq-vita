@@ -1,0 +1,141 @@
+﻿[SkipFRAME]=01:28:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	01:28:01;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-001	00:12:13;
+
+[PrintText]=00:00:00	Makoto	Haah... haah...	00:09:22;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-A04/05-SD-A04-0040	1	mak	00:09:22;
+
+[PrintText]=00:09:23	Setsuna	Phew...	00:12:13;
+
+[PlayVoice]=00:09:23	Voice05/05-SD/05-SD-A04/05-SD-A04-0050	0	set	00:12:13;
+
+[PrintText]=00:12:12	Makoto	Kiyoura... ¿Fue tu primera vez?^	00:17:01;
+
+[PlayVoice]=00:12:12	Voice05/05-SD/05-SD-A04/05-SD-A04-0060	1	mak	00:17:01;
+
+[CreateBG]=00:12:13	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-003	00:20:22;
+
+[PrintText]=00:17:01	Setsuna	...Uh-huh.	00:18:05;
+
+[PlayVoice]=00:17:01	Voice05/05-SD/05-SD-A04/05-SD-A04-0070	0	set	00:18:05;
+
+[PrintText]=00:18:05	Makoto	Hey... esto no va a...	00:20:19;
+
+[PlayVoice]=00:18:05	Voice05/05-SD/05-SD-A04/05-SD-A04-0080	1	mak	00:20:19;
+
+[PrintText]=00:20:20	Setsuna	Uh-huh. He fallado.	00:24:01;
+
+[PlayVoice]=00:20:20	Voice05/05-SD/05-SD-A04/05-SD-A04-0090	0	set	00:24:01;
+
+[CreateBG]=00:20:22	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-004	00:29:02;
+
+[PrintText]=00:24:01	Makoto	¿Eh?^	00:24:15;
+
+[PlayVoice]=00:24:01	Voice05/05-SD/05-SD-A04/05-SD-A04-0100	1	mak	00:24:15;
+
+[PrintText]=00:24:16	Setsuna	Pensé que ella te quería más.	00:29:02;
+
+[PlayVoice]=00:24:16	Voice05/05-SD/05-SD-A04/05-SD-A04-0110	0	set	00:29:02;
+
+[PrintText]=00:29:01	Makoto	¿D-De qué hablas?^	00:31:10;
+
+[PlayVoice]=00:29:01	Voice05/05-SD/05-SD-A04/05-SD-A04-0120	1	mak	00:31:10;
+
+[CreateBG]=00:29:02	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-005	00:31:13;
+
+[PrintText]=00:31:10	Setsuna	Haah... si esto no funciona, entonces ella...	00:38:17;
+
+[PlayVoice]=00:31:10	Voice05/05-SD/05-SD-A04/05-SD-A04-0130	0	set	00:38:17;
+
+[CreateBG]=00:31:13	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-006	00:49:22;
+
+[PrintText]=00:38:17	Makoto	P-Pero ustedes son muy amigas ¿No?^	00:41:20;
+
+[PlayVoice]=00:38:17	Voice05/05-SD/05-SD-A04/05-SD-A04-0140	1	mak	00:41:20;
+
+[PrintText]=00:41:21	Setsuna	¿Tu crees?^	00:42:21;
+
+[PlayVoice]=00:41:21	Voice05/05-SD/05-SD-A04/05-SD-A04-0150	0	set	00:42:21;
+
+[PrintText]=00:42:20	Makoto	Solo un poco más, y tal vez ella lo reconsidere. Vamos a intentarlo de nuevo...	00:50:00;
+
+[PlayVoice]=00:42:20	Voice05/05-SD/05-SD-A04/05-SD-A04-0160	1	mak	00:50:00;
+
+[CreateBG]=00:49:22	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-007	00:59:22;
+
+[PrintText]=00:50:00	Setsuna	¿Otra vez?^	00:51:10;
+
+[PlayVoice]=00:50:00	Voice05/05-SD/05-SD-A04/05-SD-A04-0170	0	set	00:51:10;
+
+[PrintText]=00:51:10	Makoto	Sí.	00:52:09;
+
+[PlayVoice]=00:51:10	Voice05/05-SD/05-SD-A04/05-SD-A04-0180	1	mak	00:52:09;
+
+[PrintText]=00:52:10	Setsuna	...Mientras que sea una chica, no te importa quien sea ¿Verdad?^	00:56:01;
+
+[PlayVoice]=00:52:10	Voice05/05-SD/05-SD-A04/05-SD-A04-0190	0	set	00:56:01;
+
+[PrintText]=00:56:01	Makoto	¡Qu--! ¡N-no!	00:58:20;
+
+[PlayVoice]=00:56:01	Voice05/05-SD/05-SD-A04/05-SD-A04-0200	1	mak	00:58:20;
+
+[PrintText]=00:58:20	Setsuna	Si tú lo dices.	01:00:00;
+
+[PlayVoice]=00:58:20	Voice05/05-SD/05-SD-A04/05-SD-A04-0210	0	set	01:00:00;
+
+[CreateBG]=00:59:22	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-006	01:17:13;
+
+[PrintText]=01:00:00	Makoto	¡E-Es verdad. Yo creo que eres muy linda! Ah, y eso no es algo que le digo a las demás chicas.	01:08:00;
+
+[PlayVoice]=01:00:00	Voice05/05-SD/05-SD-A04/05-SD-A04-0220	1	mak	01:08:00;
+
+[PrintText]=01:08:00	Makoto	Es por eso que...	01:09:05;
+
+[PlayVoice]=01:08:00	Voice05/05-SD/05-SD-A04/05-SD-A04-0221	1	mak	01:09:05;
+
+[PrintText]=01:09:06	Setsuna	¿...Qué hay de Sekai?^	01:10:10;
+
+[PlayVoice]=01:09:06	Voice05/05-SD/05-SD-A04/05-SD-A04-0230	0	set	01:10:10;
+
+[PrintText]=01:10:10	Makoto	Yo... Yo amo a Sekai. Por eso es que acepté tu plan ¿No crees?^	01:17:11;
+
+[PlayVoice]=01:10:10	Voice05/05-SD/05-SD-A04/05-SD-A04-0240	1	mak	01:17:11;
+
+[PrintText]=01:17:12	Setsuna	...	01:18:14;
+
+[PlayVoice]=01:17:12	Voice05/05-SD/05-SD-A04/05-SD-A04-0250	0	xxx	01:18:14;
+
+[CreateBG]=01:17:13	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-009	01:22:09;
+
+[PrintText]=01:18:14	Makoto	¿Qué pasa con esa mirada?^	01:21:01;
+
+[PlayVoice]=01:18:14	Voice05/05-SD/05-SD-A04/05-SD-A04-0260	1	mak	01:21:01;
+
+[PrintText]=01:21:02	Setsuna	...Eres inútil.	01:22:09;
+
+[PlayVoice]=01:21:02	Voice05/05-SD/05-SD-A04/05-SD-A04-0270	0	set	01:22:09;
+
+[CreateBG]=01:22:09	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-010	01:24:08;
+
+[PrintText]=01:22:09	Makoto	¡H-hey, eso no es bueno de tu parte!	01:24:07;
+
+[PlayVoice]=01:22:09	Voice05/05-SD/05-SD-A04/05-SD-A04-0280	1	mak	01:24:07;
+
+[CreateBG]=01:24:08	BGS	Event05/05-SD/05-SD-A04/05-SD-A04-011	01:28:01;
+
+[PrintText]=01:25:05	Setsuna	Sekai...	01:26:07;
+
+[PlayVoice]=01:25:05	Voice05/05-SD/05-SD-A04/05-SD-A04-0290	0	set	01:26:07;
+
+[BlackFade]=01:27:01	OUT	01:28:01;
+
+ ;
+
+[Next]=01:28:01;
+
+
+
+

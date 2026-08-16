@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:16:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:16:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-004	00:04:22;
+
+[PrintText]=00:00:12	Makoto	Tengo algo importante que hacer.	00:01:20;
+
+[PlayVoice]=00:00:12	Voice05/05-5O/05-5O-H06/05-5O-H06-0030	1	mak	00:01:20;
+
+[PrintText]=00:02:05	Kotonoha	¿Qué tan importante?^	00:03:18;
+
+[PlayVoice]=00:02:05	Voice05/05-5O/05-5O-H06/05-5O-H06-0040	0	kot	00:03:18;
+
+[PrintText]=00:04:03	Makoto	...	00:04:13;
+
+[PlayVoice]=00:04:03	Voice05/05-5O/05-5O-H06/05-5O-H06-0050	1	xxx	00:04:13;
+
+[CreateBG]=00:04:22	BGS	Event05/05-5O/05-5O-H06/05-5O-H06-002	00:08:06;
+
+[PrintText]=00:04:23	Kotonoha	¿Algo que no puedo saber? ¿Me equivoco?^	00:08:03;
+
+[PlayVoice]=00:04:23	Voice05/05-5O/05-5O-H06/05-5O-H06-0060	0	kot	00:08:03;
+
+[CreateBG]=00:08:06	BGS	Event05/05-5O/05-5O-H02/05-5O-H02-003	00:10:16;
+
+[PrintText]=00:08:13	Makoto	Iré a visitar a Sekai.	00:10:06;
+
+[PlayVoice]=00:08:13	Voice05/05-5O/05-5O-H06/05-5O-H06-0070	1	mak	00:10:06;
+
+[CreateBG]=00:10:16	BGS	Event05/05-5O/05-5O-H04/05-5O-H04-002	00:12:02;
+
+[PrintText]=00:10:19	Kotonoha	¿Eh...?^	00:11:23;
+
+[PlayVoice]=00:10:19	Voice05/05-5O/05-5O-H06/05-5O-H06-0080	0	kot	00:11:23;
+
+[CreateBG]=00:12:02	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-001	00:16:05;
+
+[PrintText]=00:12:05	Makoto	Adiós.	00:12:21;
+
+[PlayVoice]=00:12:05	Voice05/05-5O/05-5O-H06/05-5O-H06-0090	1	mak	00:12:21;
+
+[PrintText]=00:13:00	Kotonoha	...	00:15:17;
+
+[PlayVoice]=00:13:00	Voice05/05-5O/05-5O-H06/05-5O-H06-0110	0	xxx	00:15:17;
+
+ ;
+
+[Next]=00:16:05;
+
+

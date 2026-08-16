@@ -1,0 +1,125 @@
+﻿[SkipFRAME]=02:02:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-F00/04-SC-F00-001	00:10:13;
+
+[PlayBgm]=00:00:14	BGM/SD_BGM/sdbgm20	02:02:00;
+
+[PrintText]=00:01:21	Kotonoha	Está mintiendo.... Kanroji-san a sido siempre molestosa desde la primaria. Solo está tratando de herirme con esas cosas...	00:14:12;
+
+[PlayVoice]=00:01:21	Voice04/04-SC/04-SC-F00/04-SC-F00-0040	0	kot	00:14:12;
+
+[PlayMovie]=00:10:13	Movie04/04-SC/04-SC-F00/04-SC-F00-003	0	00:19:23;
+
+[PrintText]=00:15:00	Kotonoha	Apuesto a que me vio hablando con Saionji-san y llego a esa conclusión.	00:21:23;
+
+[PlayVoice]=00:15:00	Voice04/04-SC/04-SC-F00/04-SC-F00-0050	0	kot	00:21:23;
+
+[PlayMovie]=00:19:23	Movie04/04-SC/04-SC-F00/04-SC-F00-003	0	00:29:08;
+
+[PrintText]=00:22:09	Kotonoha	No hay manera de que Saionji-san y Makoto estén 'prácticamente viviendo juntos'... incluso... yo lo he besado... una vez...	00:33:12;
+
+[PlayVoice]=00:22:09	Voice04/04-SC/04-SC-F00/04-SC-F00-0060	0	kot	00:33:12;
+
+[PlayMovie]=00:29:08	Movie04/04-SC/04-SC-F00/04-SC-F00-003	0	00:38:17;
+
+[PrintText]=00:37:01	Kotonoha	No. ¡Makoto-kun no es esa clase de persona! Makoto-kun a sido siempre un caballero. Él nunca haría algo indecente co...	00:45:20;
+
+[PlayVoice]=00:37:01	Voice04/04-SC/04-SC-F00/04-SC-F00-0100	0	kot	00:45:20;
+
+[CreateBG]=00:38:17	BGS	Event04/04-SC/04-SC-F00/04-SC-F00-001	00:51:08;
+
+[PrintText]=00:47:07	Sekai	¡No... nn...!	00:51:05;
+
+[PlayVoice]=00:47:07	Voice04/04-SC/04-SC-F00/04-SC-F00-0120	0	sek	00:51:05;
+
+[CreateBG]=00:51:08	BGS	Event04/04-SC/04-SC-F00/04-SC-F00-009	00:52:11;
+
+[PrintText]=00:51:08	Kotonoha	Ah...	00:52:05;
+
+[PlayVoice]=00:51:08	Voice04/04-SC/04-SC-F00/04-SC-F00-0140	0	kot	00:52:05;
+
+[PlayMovie]=00:52:11	Movie03/03-SB/03-SB-A00/03-SB-A00-001	0	00:58:11;
+
+[MoveSom]=00:52:11	3	01:00:21;
+
+[PrintText]=00:52:21	Sekai	¡Ah... Makoto...! ¡Más... nn...Nn...!	01:00:13;
+
+[PlayVoice]=00:52:21	Voice04/04-SC/04-SC-F00/04-SC-F00-0150	0	sek	01:00:13;
+
+[PlayMovie]=00:58:11	Movie03/03-SB/03-SB-A00/03-SB-A00-001	0	01:00:21;
+
+[CreateBG]=01:00:21	BGS	Event04/04-SC/04-SC-F00/04-SC-F00-011	01:02:17;
+
+[MoveSom]=01:00:21	2	01:02:17;
+
+[PrintText]=01:01:00	Kotonoha	¿Por qué...?^	01:02:12;
+
+[PlayVoice]=01:01:00	Voice04/04-SC/04-SC-F00/04-SC-F00-0160	0	kot	01:02:12;
+
+[PlayMovie]=01:02:17	Movie03/03-SB/03-SB-A03/03-SB-A03-002	0	01:08:17;
+
+[MoveSom]=01:02:17	3	01:12:19;
+
+[PrintText]=01:02:22	Sekai	Makoto... hey... juntos... estás a punto de venirte también ¿No?!	01:12:14;
+
+[PlayVoice]=01:02:22	Voice04/04-SC/04-SC-F00/04-SC-F00-0170	0	sek	01:12:14;
+
+[PlayMovie]=01:08:17	Movie03/03-SB/03-SB-A03/03-SB-A03-002	0	01:12:19;
+
+[PrintText]=01:12:18	Kotonoha	Saionji-san... ¿Ella realmente...?^	01:16:21;
+
+[PlayVoice]=01:12:18	Voice04/04-SC/04-SC-F00/04-SC-F00-0180	0	kot	01:16:21;
+
+[CreateBG]=01:12:19	BGS	Event04/04-SC/04-SC-F00/04-SC-F00-013	01:17:04;
+
+[MoveSom]=01:12:19	2	01:17:04;
+
+[PlayMovie]=01:17:04	Movie03/03-SB/03-SB-A03/03-SB-A03-002	0	01:23:04;
+
+[MoveSom]=01:17:04	3	01:34:08;
+
+[PrintText]=01:17:11	Sekai	¡Está bien...! ¡Correte...! ¡Todo... dentro mio...!	01:27:08;
+
+[PlayVoice]=01:17:11	Voice04/04-SC/04-SC-F00/04-SC-F00-0190	0	sek	01:27:08;
+
+[PlayMovie]=01:23:04	Movie03/03-SB/03-SB-A03/03-SB-A03-002	0	01:29:04;
+
+[PrintText]=01:24:09	Makoto	Ahí voy.	01:34:06;
+
+[PlayVoice]=01:24:09	Voice04/04-SC/04-SC-F00/04-SC-F00-0200	1	mak	01:34:06;
+
+[PlayMovie]=01:29:04	Movie03/03-SB/03-SB-A03/03-SB-A03-002	0	01:34:08;
+
+[CreateBG]=01:34:08	BGS	Event04/04-SC/04-SC-F00/04-SC-F00-015	01:40:08;
+
+[MoveSom]=01:34:08	2	01:40:14;
+
+[PrintText]=01:34:12	Kotonoha	Makoto-kun... ¿Por qué...?^	01:40:10;
+
+[PlayVoice]=01:34:12	Voice04/04-SC/04-SC-F00/04-SC-F00-0210	0	kot	01:40:10;
+
+[PlayMovie]=01:40:08	Movie03/03-SB/03-SB-A03/03-SB-A03-002	0	01:46:08;
+
+[PrintText]=01:40:11	Sekai	¡Nnah... Yo... voy... a ...v-ve... venirme..! Ahah... ah... haah... aaaah!	01:51:11;
+
+[PlayVoice]=01:40:11	Voice04/04-SC/04-SC-F00/04-SC-F00-0220	0	sek	01:51:11;
+
+[MoveSom]=01:40:14	3	01:52:08;
+
+[PlayMovie]=01:46:08	Movie03/03-SB/03-SB-A03/03-SB-A03-002	0	01:52:08;
+
+[PlayMovie]=01:52:08	Movie03/03-SB/03-SB-A03/03-SB-A03-002	0	01:54:08;
+
+[MoveSom]=01:52:08	2	01:54:11;
+
+[PlayMovie]=01:54:08	Movie04/04-SC/04-SC-F00/04-SC-F00-017	0	02:02:00;
+
+[PrintText]=01:54:08	Kotonoha	¡Makoto-kun...!	02:01:11;
+
+[PlayVoice]=01:54:08	Voice04/04-SC/04-SC-F00/04-SC-F00-0240	0	kot	02:01:11;
+
+ ;
+
+[Next]=02:02:00;
+
+

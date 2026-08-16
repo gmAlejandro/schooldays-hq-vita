@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:03:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:03:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E09/04-SA-E09-001	00:03:11;
+
+[PrintText]=00:00:08	Makoto	Sí.	00:01:01;
+
+[PlayVoice]=00:00:08	Voice04/04-SA/04-SA-E09/04-SA-E09-0030	1	mak	00:01:01;
+
+[PrintText]=00:01:03	Sekai	Está bien, lo diré entonces.	00:02:21;
+
+[PlayVoice]=00:01:03	Voice04/04-SA/04-SA-E09/04-SA-E09-0040	0	sek	00:02:21;
+
+ ;
+
+[Next]=00:03:11;
+
+

@@ -1,0 +1,137 @@
+﻿[SkipFRAME]=01:03:19;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/kyousitu_rouka	01:03:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-001A	00:01:19;
+
+[PrintText]=00:00:00	Makoto	Espera un segundo.	00:01:19;
+
+[PlayVoice]=00:00:00	Voice05/05-KG/05-KG-C07/05-KG-C07-0030	1	mak	00:01:19;
+
+[CreateBG]=00:01:19	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-001B	00:02:17;
+
+[PrintText]=00:01:19	Sekai	¿Eh?^	00:02:17;
+
+[PlayVoice]=00:01:19	Voice05/05-KG/05-KG-C07/05-KG-C07-0040	0	sek	00:02:17;
+
+[CreateBG]=00:02:17	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-002	00:02:18;
+
+[CreateBG]=00:02:18	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-003	00:04:00;
+
+[PrintText]=00:02:18	Sekai	Makoto...	00:04:07;
+
+[PlayVoice]=00:02:18	Voice05/05-KG/05-KG-C07/05-KG-C07-0060	0	sek	00:04:07;
+
+[CreateBG]=00:04:00	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-004	00:05:12;
+
+[PrintText]=00:04:07	Nanami	¡Es ella!	00:05:11;
+
+[PlayVoice]=00:04:07	Voice05/05-KG/05-KG-C07/05-KG-C07-0080	0	nan	00:05:11;
+
+[CreateBG]=00:05:12	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-005	00:14:09;
+
+[PrintText]=00:05:12	Sekai	¿Eh?^	00:06:15;
+
+[PlayVoice]=00:05:12	Voice05/05-KG/05-KG-C07/05-KG-C07-0090	0	sek	00:06:15;
+
+[PrintText]=00:06:15	Nanami	Mira, es Katsura. Ahí.	00:09:05;
+
+[PlayVoice]=00:06:15	Voice05/05-KG/05-KG-C07/05-KG-C07-0100	0	nan	00:09:05;
+
+[PrintText]=00:09:06	Sekai	S-Sí, ya sé...	00:12:01;
+
+[PlayVoice]=00:09:06	Voice05/05-KG/05-KG-C07/05-KG-C07-0110	0	sek	00:12:01;
+
+[PlaySe]=00:11:18	1	Se05/05-KG/05-KG-C07/SE05-KG-C07-001	00:17:23;
+
+[PrintText]=00:12:02	Nanami	¡Esto es malo! ¡Te lo va a quitar!	00:14:09;
+
+[PlayVoice]=00:12:02	Voice05/05-KG/05-KG-C07/05-KG-C07-0120	0	nan	00:14:09;
+
+[CreateBG]=00:14:09	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-006	00:17:23;
+
+[PrintText]=00:14:09	Sekai	No puede...	00:15:18;
+
+[PlayVoice]=00:14:09	Voice05/05-KG/05-KG-C07/05-KG-C07-0130	0	sek	00:15:18;
+
+[PrintText]=00:17:02	Makoto	Dijo que quería hablar de algo, así que la traje aquí.	00:21:11;
+
+[PlayVoice]=00:17:02	Voice05/05-KG/05-KG-C07/05-KG-C07-0150	1	mak	00:21:11;
+
+[CreateBG]=00:17:23	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-007	00:23:11;
+
+[PrintText]=00:21:12	Kotonoha	Ho-Hola.	00:23:10;
+
+[PlayVoice]=00:21:12	Voice05/05-KG/05-KG-C07/05-KG-C07-0160	0	kot	00:23:10;
+
+[CreateBG]=00:23:11	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-008	00:25:03;
+
+[PrintText]=00:23:11	Sekai	He-Hey.	00:24:23;
+
+[PlayVoice]=00:23:11	Voice05/05-KG/05-KG-C07/05-KG-C07-0170	0	sek	00:24:23;
+
+[CreateBG]=00:25:03	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-010A	00:31:11;
+
+[PrintText]=00:25:06	Makoto	¿De qué querías hablar?^	00:28:20;
+
+[PlayVoice]=00:25:06	Voice05/05-KG/05-KG-C07/05-KG-C07-0190	1	mak	00:28:20;
+
+[PrintText]=00:28:21	Kotonoha	B-Bueno... quiero hablar con Saionji-san y Makoto-kun...	00:35:07;
+
+[PlayVoice]=00:28:21	Voice05/05-KG/05-KG-C07/05-KG-C07-0200	0	kot	00:35:07;
+
+[CreateBG]=00:31:11	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-010B	00:36:09;
+
+[PrintText]=00:35:03	Nanami	¿Qué? ¿Me dices que no soy bienvenida?^	00:38:05;
+
+[PlayVoice]=00:35:03	Voice05/05-KG/05-KG-C07/05-KG-C07-0210	0	nan	00:38:05;
+
+[CreateBG]=00:36:09	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-010C	00:42:23;
+
+[PrintText]=00:38:09	Kotonoha	Ah, no. En ese caso puedes quedarte...	00:42:12;
+
+[PlayVoice]=00:38:09	Voice05/05-KG/05-KG-C07/05-KG-C07-0220	0	kot	00:42:12;
+
+[PrintText]=00:42:08	Nanami	Olvídalo. No quiero estar en el mismo lugar que tú.	00:45:10;
+
+[PlayVoice]=00:42:08	Voice05/05-KG/05-KG-C07/05-KG-C07-0230	0	nan	00:45:10;
+
+[CreateBG]=00:42:23	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-010D	00:45:13;
+
+[CreateBG]=00:45:13	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-011	00:51:17;
+
+[PrintText]=00:45:15	Kotonoha	Ah...	00:46:18;
+
+[PlayVoice]=00:45:15	Voice05/05-KG/05-KG-C07/05-KG-C07-0250	0	kot	00:46:18;
+
+[PrintText]=00:46:19	Kotonoha	Uh... bueno, como decía, quería hablar con ustedes dos.	00:52:00;
+
+[PlayVoice]=00:46:19	Voice05/05-KG/05-KG-C07/05-KG-C07-0260	0	kot	00:52:00;
+
+[CreateBG]=00:51:17	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-012	00:52:22;
+
+[PrintText]=00:51:20	Sekai	¿De?^	00:52:17;
+
+[PlayVoice]=00:51:20	Voice05/05-KG/05-KG-C07/05-KG-C07-0270	0	sek	00:52:17;
+
+[PrintText]=00:52:21	Kotonoha	¿Quieren... que almorcemos juntos?^	00:57:03;
+
+[PlayVoice]=00:52:21	Voice05/05-KG/05-KG-C07/05-KG-C07-0280	0	kot	00:57:03;
+
+[CreateBG]=00:52:22	BGS	Event05/05-KG/05-KG-C07/05-KG-C07-013	01:03:19;
+
+[PrintText]=00:57:00	Sekai	¿Eh?^	00:58:00;
+
+[PlayVoice]=00:57:00	Voice05/05-KG/05-KG-C07/05-KG-C07-0290	0	sek	00:58:00;
+
+[PrintText]=00:58:04	Kotonoha	Pensé... que sería bueno que los tres almorzáramos juntos, como buenos amigos...	01:03:12;
+
+[PlayVoice]=00:58:04	Voice05/05-KG/05-KG-C07/05-KG-C07-0300	0	kot	01:03:12;
+
+ ;
+
+[Next]=01:03:19;
+
+
+
+

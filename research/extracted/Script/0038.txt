@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:12:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:18:15;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-D02/SE01-00-D02-001	00:18:15;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-D02/01-00-D02-001	00:05:22;
+
+[PrintText]=00:00:12	Makoto	Sí, tienes razón.	00:01:15;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-D02/01-00-D02-0030	1	mak	00:01:15;
+
+[PrintText]=00:01:20	Sekai	...	00:02:08;
+
+[PlayVoice]=00:01:20	Voice01/01-00/01-00-D02/01-00-D02-0040	0	xxx	00:02:08;
+
+[PrintText]=00:02:19	Makoto	Debo de ir a comer con Katsura solamente ¿No?^	00:06:01;
+
+[PlayVoice]=00:02:19	Voice01/01-00/01-00-D02/01-00-D02-0050	1	mak	00:06:01;
+
+[CreateBG]=00:05:22	BGS	Event01/01-00/01-00-D02/01-00-D02-002	00:07:06;
+
+[PrintText]=00:05:22	Sekai	Claro.	00:07:01;
+
+[PlayVoice]=00:05:22	Voice01/01-00/01-00-D02/01-00-D02-0060	0	sek	00:07:01;
+
+[CreateBG]=00:07:06	BGS	Event01/01-00/01-00-D02/01-00-D02-003	00:09:21;
+
+[PrintText]=00:07:11	Makoto	Eso es lo que es salir con alguien ¿No?^	00:09:20;
+
+[PlayVoice]=00:07:11	Voice01/01-00/01-00-D02/01-00-D02-0070	1	mak	00:09:20;
+
+[CreateBG]=00:09:21	BGS	Event01/01-00/01-00-D02/01-00-D02-004	00:11:08;
+
+[PrintText]=00:09:21	Sekai	Pues claro...	00:10:23;
+
+[PlayVoice]=00:09:21	Voice01/01-00/01-00-D02/01-00-D02-0080	0	sek	00:10:23;
+
+[CreateBG]=00:11:08	BGS	Event01/01-00/01-00-D02/01-00-D02-005	00:18:15;
+
+[PrintText]=00:11:08	Makoto	Pero igual...esto se siente...	00:13:09;
+
+[PlayVoice]=00:11:08	Voice01/01-00/01-00-D02/01-00-D02-0090	1	mak	00:13:09;
+
+[SetSELECT]=00:12:15	'Restrictivo'	'Incómodo'	00:17:15;
+
+ ;
+
+[Next]=00:18:15;
+
+
+
+

@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:21:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:21:04;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-U03/SE02-2S-U03-001	00:21:04;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-U03/02-2S-U03-001	00:02:01;
+
+[PrintText]=00:00:00	Coordinador	No hay suficientes copias aquí. Oh, y envía los escritorios de nuevo a la sala de equipos.	00:05:12;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-U03/02-2S-U03-0040	1	iin	00:05:12;
+
+[PlaySe]=00:02:01	2	Se02/02-2S/02-2S-U03/SE02-2S-U03-002	00:08:22;
+
+[PlayMovie]=00:02:01	Movie02/02-2S/02-2S-U03/02-2S-U03-002	0	00:07:01;
+
+[PlayMovie]=00:07:01	Movie02/02-2S/02-2S-U03/02-2S-U03-003	0	00:19:15;
+
+[PrintText]=00:07:01	Setsuna	Um...	00:07:20;
+
+[PlayVoice]=00:07:01	Voice02/02-2S/02-2S-U03/02-2S-U03-0060	0	set	00:07:20;
+
+[PrintText]=00:08:00	Coordinador	¿Sí?^	00:08:13;
+
+[PlayVoice]=00:08:00	Voice02/02-2S/02-2S-U03/02-2S-U03-0070	1	iin	00:08:13;
+
+[PrintText]=00:08:21	Setsuna	¿La representante de la clase 4 aún no llega?^	00:11:17;
+
+[PlayVoice]=00:08:21	Voice02/02-2S/02-2S-U03/02-2S-U03-0080	0	set	00:11:17;
+
+[PrintText]=00:11:17	Coordinador	Entró, terminó rápido y se fue, parecía estar apurada.	00:17:14;
+
+[PlayVoice]=00:11:17	Voice02/02-2S/02-2S-U03/02-2S-U03-0090	1	iin	00:17:14;
+
+[PrintText]=00:17:15	Setsuna	Ah... Gracias.	00:19:14;
+
+[PlayVoice]=00:17:15	Voice02/02-2S/02-2S-U03/02-2S-U03-0100	0	set	00:19:14;
+
+[PlayMovie]=00:19:15	Movie02/02-2S/02-2S-U03/02-2S-U03-004	0	00:21:04;
+
+[PlaySe]=00:20:04	2	Se00/00-00/00-00-A01/SE00-00-A01-002	00:20:10;
+
+ ;
+
+[Next]=00:21:04;
+
+
+
+

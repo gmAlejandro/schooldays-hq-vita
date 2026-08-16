@@ -1,0 +1,115 @@
+﻿[SkipFRAME]=00:50:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:56:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-001	00:06:16;
+
+[PrintText]=00:00:00	Makoto	Déjame tocar tus senos, entonces...	00:01:23;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-C00/04-KB-C00-0030	1	mak	00:01:23;
+
+[PrintText]=00:01:23	Sekai	¿Eh?^	00:02:14;
+
+[PlayVoice]=00:01:23	Voice04/04-KB/04-KB-C00/04-KB-C00-0040	0	sek	00:02:14;
+
+[PrintText]=00:02:14	Makoto	¡N-No! ¡No es nada!	00:05:19;
+
+[PlayVoice]=00:02:14	Voice04/04-KB/04-KB-C00/04-KB-C00-0050	1	mak	00:05:19;
+
+[PrintText]=00:05:19	Sekai	¿Senos...?^	00:06:16;
+
+[PlayVoice]=00:05:19	Voice04/04-KB/04-KB-C00/04-KB-C00-0060	0	sek	00:06:16;
+
+[CreateBG]=00:06:16	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-002	00:12:03;
+
+[PrintText]=00:06:16	Makoto	¡Te dije que nada! ¡Olvídalo!	00:09:07;
+
+[PlayVoice]=00:06:16	Voice04/04-KB/04-KB-C00/04-KB-C00-0070	1	mak	00:09:07;
+
+[PrintText]=00:09:08	Sekai	Mis senos, huh...	00:10:17;
+
+[PlayVoice]=00:09:08	Voice04/04-KB/04-KB-C00/04-KB-C00-0080	0	sek	00:10:17;
+
+[PrintText]=00:10:17	Makoto	¡Te dije que lo olvides!	00:12:03;
+
+[PlayVoice]=00:10:17	Voice04/04-KB/04-KB-C00/04-KB-C00-0090	1	mak	00:12:03;
+
+[CreateBG]=00:12:03	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-003	00:12:23;
+
+[PrintText]=00:12:03	Sekai	...Vale.	00:12:23;
+
+[PlayVoice]=00:12:03	Voice04/04-KB/04-KB-C00/04-KB-C00-0100	0	sek	00:12:23;
+
+[CreateBG]=00:12:23	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-004	00:17:07;
+
+[PrintText]=00:12:23	Makoto	¿Eh?^	00:13:18;
+
+[PlayVoice]=00:12:23	Voice04/04-KB/04-KB-C00/04-KB-C00-0110	1	mak	00:13:18;
+
+[PrintText]=00:13:18	Sekai	Si estás bien con los míos.	00:15:08;
+
+[PlayVoice]=00:13:18	Voice04/04-KB/04-KB-C00/04-KB-C00-0120	0	sek	00:15:08;
+
+[PrintText]=00:15:07	Makoto	¡Ah... Por supuesto! Quiero decir, huh, um...	00:21:07;
+
+[PlayVoice]=00:15:07	Voice04/04-KB/04-KB-C00/04-KB-C00-0130	1	mak	00:21:07;
+
+[CreateBG]=00:17:07	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-005	00:26:15;
+
+[PrintText]=00:21:07	Sekai	¿Quieres tocarlos no? Pero no son tan grandes como los de Kotonoha-san.	00:26:15;
+
+[PlayVoice]=00:21:07	Voice04/04-KB/04-KB-C00/04-KB-C00-0140	0	sek	00:26:15;
+
+[CreateBG]=00:26:15	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-006	00:28:06;
+
+[PrintText]=00:26:15	Makoto	No es por el tamaño.	00:28:06;
+
+[PlayVoice]=00:26:15	Voice04/04-KB/04-KB-C00/04-KB-C00-0150	1	mak	00:28:06;
+
+[CreateBG]=00:28:06	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-007	00:38:02;
+
+[PrintText]=00:28:07	Sekai	Eso suena a mentira. Si no es por el tamaño, ¿Qué ES lo qué pasa?^	00:33:03;
+
+[PlayVoice]=00:28:07	Voice04/04-KB/04-KB-C00/04-KB-C00-0160	0	sek	00:33:03;
+
+[PrintText]=00:33:03	Makoto	Uh... tú sabes, como son suaves y esas cosas...	00:38:01;
+
+[PlayVoice]=00:33:03	Voice04/04-KB/04-KB-C00/04-KB-C00-0170	1	mak	00:38:01;
+
+[PrintText]=00:38:01	Sekai	¡Uwah! ¡Hablando como pervertido!	00:40:13;
+
+[PlayVoice]=00:38:01	Voice04/04-KB/04-KB-C00/04-KB-C00-0180	0	sek	00:40:13;
+
+[CreateBG]=00:38:02	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-008	00:46:04;
+
+[PrintText]=00:40:13	Makoto	Uuh... esto no está ayudando...	00:43:12;
+
+[PlayVoice]=00:40:13	Voice04/04-KB/04-KB-C00/04-KB-C00-0190	1	mak	00:43:12;
+
+[PrintText]=00:43:13	Sekai	...Bueno, Como sea.	00:46:04;
+
+[PlayVoice]=00:43:13	Voice04/04-KB/04-KB-C00/04-KB-C00-0200	0	sek	00:46:04;
+
+[CreateBG]=00:46:04	BGS	Event04/04-KB/04-KB-C00/04-KB-C00-009	00:46:19;
+
+[PrintText]=00:46:04	Makoto	¿Eh...?^	00:46:18;
+
+[PlayVoice]=00:46:04	Voice04/04-KB/04-KB-C00/04-KB-C00-0210	1	mak	00:46:18;
+
+[PrintText]=00:46:18	Sekai	Te animarás si las tocas, ¿No?^	00:49:15;
+
+[PlayVoice]=00:46:18	Voice04/04-KB/04-KB-C00/04-KB-C00-0220	0	sek	00:49:15;
+
+[PlayMovie]=00:46:19	Movie04/04-KB/04-KB-C00/04-KB-C00-010	0	00:56:10;
+
+[PrintText]=00:49:15	Makoto	Ah...	00:50:09;
+
+[PlayVoice]=00:49:15	Voice04/04-KB/04-KB-C00/04-KB-C00-0230	1	mak	00:50:09;
+
+[SetSELECT]=00:50:09	*Debería parar*	null	00:55:09;
+
+ ;
+
+[Next]=00:56:10;
+
+

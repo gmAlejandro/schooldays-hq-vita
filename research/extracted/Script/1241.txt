@@ -1,0 +1,287 @@
+﻿[SkipFRAME]=03:00:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	02:12:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-001	00:09:17;
+
+[PrintText]=00:00:00	Makoto	¿De qué quieres hablar?^	00:02:01;
+
+[PlayVoice]=00:00:00	Voice04/04-SC/04-SC-D00/04-SC-D00-0040	1	mak	00:02:01;
+
+[PrintText]=00:02:01	Sekai	...	00:02:20;
+
+[PlayVoice]=00:02:01	Voice04/04-SC/04-SC-D00/04-SC-D00-0050	0	xxx	00:02:20;
+
+[PrintText]=00:02:20	Makoto	...	00:03:19;
+
+[PlayVoice]=00:02:20	Voice04/04-SC/04-SC-D00/04-SC-D00-0060	1	xxx	00:03:19;
+
+[PrintText]=00:03:19	Sekai	Escucha...	00:05:01;
+
+[PlayVoice]=00:03:19	Voice04/04-SC/04-SC-D00/04-SC-D00-0070	0	sek	00:05:01;
+
+[PrintText]=00:05:00	Makoto	Dime.	00:05:18;
+
+[PlayVoice]=00:05:00	Voice04/04-SC/04-SC-D00/04-SC-D00-0080	1	mak	00:05:18;
+
+[PrintText]=00:05:18	Sekai	Creo que no debí hacer el almuerzo después de todo ¿huh? haha.	00:09:17;
+
+[PlayVoice]=00:05:18	Voice04/04-SC/04-SC-D00/04-SC-D00-0090	0	sek	00:09:17;
+
+[CreateBG]=00:09:17	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-002	01:05:00;
+
+[PrintText]=00:09:17	Makoto	...Perdón.	00:12:09;
+
+[PlayVoice]=00:09:17	Voice04/04-SC/04-SC-D00/04-SC-D00-0100	1	mak	00:12:09;
+
+[PrintText]=00:12:09	Sekai	...	00:13:08;
+
+[PlayVoice]=00:12:09	Voice04/04-SC/04-SC-D00/04-SC-D00-0110	0	xxx	00:13:08;
+
+[PrintText]=00:13:09	Makoto	Yo... olvidé lo del almuerzo.	00:16:06;
+
+[PlayVoice]=00:13:09	Voice04/04-SC/04-SC-D00/04-SC-D00-0120	1	mak	00:16:06;
+
+[PrintText]=00:16:06	Makoto	Lo recordé después, y pensé en decírtelo, pero parecías tan feliz que lo olvidé...	00:24:05;
+
+[PlayVoice]=00:16:06	Voice04/04-SC/04-SC-D00/04-SC-D00-0121	1	mak	00:24:05;
+
+[PrintText]=00:24:06	Sekai	...	00:25:05;
+
+[PlayVoice]=00:24:06	Voice04/04-SC/04-SC-D00/04-SC-D00-0130	0	xxx	00:25:05;
+
+[PrintText]=00:25:05	Makoto	Realmente quería probar tu almuerzo, pero...	00:30:20;
+
+[PlayVoice]=00:25:05	Voice04/04-SC/04-SC-D00/04-SC-D00-0140	1	mak	00:30:20;
+
+[PrintText]=00:30:20	Sekai	Está bien.	00:32:05;
+
+[PlayVoice]=00:30:20	Voice04/04-SC/04-SC-D00/04-SC-D00-0150	0	sek	00:32:05;
+
+[PrintText]=00:32:04	Makoto	Sekai. Dije que lo siento....	00:34:15;
+
+[PlayVoice]=00:32:04	Voice04/04-SC/04-SC-D00/04-SC-D00-0160	1	mak	00:34:15;
+
+[PrintText]=00:34:15	Sekai	Solo traje mi almuerzo, e hice un poco más, eso es todo.	00:40:13;
+
+[PlayVoice]=00:34:15	Voice04/04-SC/04-SC-D00/04-SC-D00-0170	0	sek	00:40:13;
+
+[PrintText]=00:40:14	Makoto	...	00:41:22;
+
+[PlayVoice]=00:40:14	Voice04/04-SC/04-SC-D00/04-SC-D00-0180	1	xxx	00:41:22;
+
+[PrintText]=00:41:22	Sekai	Estaba pensando en compartir algo contigo, sin embargo...	00:45:00;
+
+[PlayVoice]=00:41:22	Voice04/04-SC/04-SC-D00/04-SC-D00-0190	0	sek	00:45:00;
+
+[PrintText]=00:45:00	Makoto	Asegurate de hacerlo la próxima vez.	00:48:04;
+
+[PlayVoice]=00:45:00	Voice04/04-SC/04-SC-D00/04-SC-D00-0210	1	mak	00:48:04;
+
+[PrintText]=00:48:04	Sekai	...	00:49:11;
+
+[PlayVoice]=00:48:04	Voice04/04-SC/04-SC-D00/04-SC-D00-0220	0	xxx	00:49:11;
+
+[PrintText]=00:49:11	Makoto	Me gustaría probarlo.	00:53:00;
+
+[PlayVoice]=00:49:11	Voice04/04-SC/04-SC-D00/04-SC-D00-0230	1	mak	00:53:00;
+
+[PrintText]=00:53:00	Sekai	...	00:53:22;
+
+[PlayVoice]=00:53:00	Voice04/04-SC/04-SC-D00/04-SC-D00-0240	0	xxx	00:53:22;
+
+[PrintText]=00:53:22	Makoto	Sekai...	00:54:23;
+
+[PlayVoice]=00:53:22	Voice04/04-SC/04-SC-D00/04-SC-D00-0250	1	mak	00:54:23;
+
+[PlayVoice]=00:54:23	Voice04/04-SC/04-SC-D00/04-SC-D00-0260			00:57:01;
+
+[PrintText]=00:57:02	Sekai	Ah...	00:58:02;
+
+[PlayVoice]=00:57:02	Voice04/04-SC/04-SC-D00/04-SC-D00-0270	0	sek	00:58:02;
+
+[PrintText]=00:58:02	Makoto	Huele bien... tu...	01:01:21;
+
+[PlayVoice]=00:58:02	Voice04/04-SC/04-SC-D00/04-SC-D00-0280	1	mak	01:01:21;
+
+[PrintText]=01:01:20	Sekai	¡No...!	01:02:20;
+
+[PlayVoice]=01:01:20	Voice04/04-SC/04-SC-D00/04-SC-D00-0290	0	sek	01:02:20;
+
+[PrintText]=01:02:21	Makoto	Tú también hueles bien...	01:04:08;
+
+[PlayVoice]=01:02:21	Voice04/04-SC/04-SC-D00/04-SC-D00-0310	1	mak	01:04:08;
+
+[PrintText]=01:04:08	Makoto	Ah...	01:04:22;
+
+[PlayVoice]=01:04:08	Voice04/04-SC/04-SC-D00/04-SC-D00-0320	1	mak	01:04:22;
+
+[PrintText]=01:04:22	Sekai	Por eso es que no quise venir.	01:07:13;
+
+[PlayVoice]=01:04:22	Voice04/04-SC/04-SC-D00/04-SC-D00-0330	0	sek	01:07:13;
+
+[CreateBG]=01:05:00	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-004	01:08:10;
+
+[PrintText]=01:07:13	Makoto	...	01:08:11;
+
+[PlayVoice]=01:07:13	Voice04/04-SC/04-SC-D00/04-SC-D00-0350	1	xxx	01:08:11;
+
+[CreateBG]=01:08:10	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-005	01:12:16;
+
+[PrintText]=01:08:11	Sekai	Yo... estuve pensando en que... ¿Debo seguir siendo la chica que duerme contigo mientras nos escondemos de Katsura-san...?^	01:18:04;
+
+[PlayVoice]=01:08:11	Voice04/04-SC/04-SC-D00/04-SC-D00-0360	0	sek	01:18:04;
+
+[CreateBG]=01:12:16	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-006	01:42:14;
+
+[PrintText]=01:18:04	Makoto	...	01:19:09;
+
+[PlayVoice]=01:18:04	Voice04/04-SC/04-SC-D00/04-SC-D00-0370	1	xxx	01:19:09;
+
+[PrintText]=01:19:09	Sekai	No quiero eso. Me hace sentir culpable.	01:24:03;
+
+[PlayVoice]=01:19:09	Voice04/04-SC/04-SC-D00/04-SC-D00-0380	0	sek	01:24:03;
+
+[PrintText]=01:24:03	Makoto	Ya veo...	01:25:02;
+
+[PlayVoice]=01:24:03	Voice04/04-SC/04-SC-D00/04-SC-D00-0390	1	mak	01:25:02;
+
+[PrintText]=01:25:02	Sekai	Al principio, estaba feliz con solo dormir contigo....	01:28:21;
+
+[PlayVoice]=01:25:02	Voice04/04-SC/04-SC-D00/04-SC-D00-0400	0	sek	01:28:21;
+
+[PrintText]=01:28:21	Sekai	y después, el sexo se sentía bien también. Quiero dormir contigo porque te amo, pero...	01:37:20;
+
+[PlayVoice]=01:28:21	Voice04/04-SC/04-SC-D00/04-SC-D00-0401	0	sek	01:37:20;
+
+[PrintText]=01:37:21	Makoto	Uh-huh...	01:38:13;
+
+[PlayVoice]=01:37:21	Voice04/04-SC/04-SC-D00/04-SC-D00-0410	1	mak	01:38:13;
+
+[PrintText]=01:38:13	Sekai	¿Esto... está bien? Después de todo, solo soy una sustituta porque Katsura-san no quiere hacerlo contigo ¿No?^	01:49:06;
+
+[PlayVoice]=01:38:13	Voice04/04-SC/04-SC-D00/04-SC-D00-0420	0	sek	01:49:06;
+
+[CreateBG]=01:42:14	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-007	01:53:11;
+
+[PrintText]=01:49:07	Makoto	Te equivocas... yo...	01:51:12;
+
+[PlayVoice]=01:49:07	Voice04/04-SC/04-SC-D00/04-SC-D00-0430	1	mak	01:51:12;
+
+[PrintText]=01:51:12	Sekai	¡No, No lo soy! ¡Si lo fuera, entonces almorzarías conmigo!	01:56:06;
+
+[PlayVoice]=01:51:12	Voice04/04-SC/04-SC-D00/04-SC-D00-0440	0	sek	01:56:06;
+
+[CreateBG]=01:53:11	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-008	01:56:19;
+
+[PrintText]=01:56:06	Makoto	Ah...	01:56:22;
+
+[PlayVoice]=01:56:06	Voice04/04-SC/04-SC-D00/04-SC-D00-0450	1	mak	01:56:22;
+
+[CreateBG]=01:56:19	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-009	01:58:01;
+
+[PrintText]=01:56:22	Sekai	...	01:58:01;
+
+[PlayVoice]=01:56:22	Voice04/04-SC/04-SC-D00/04-SC-D00-0460	0	xxx	01:58:01;
+
+[CreateBG]=01:58:01	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-010	02:00:05;
+
+[PrintText]=01:58:01	Makoto	Sí...	02:00:06;
+
+[PlayVoice]=01:58:01	Voice04/04-SC/04-SC-D00/04-SC-D00-0470	1	mak	02:00:06;
+
+[CreateBG]=02:00:05	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-011	02:07:17;
+
+[PrintText]=02:00:06	Sekai	Makoto...	02:01:18;
+
+[PlayVoice]=02:00:06	Voice04/04-SC/04-SC-D00/04-SC-D00-0480	0	sek	02:01:18;
+
+[PrintText]=02:01:18	Makoto	Discúlpame.	02:02:21;
+
+[PlayVoice]=02:01:18	Voice04/04-SC/04-SC-D00/04-SC-D00-0490	1	mak	02:02:21;
+
+[PrintText]=02:02:21	Sekai	¿Eh?^	02:03:20;
+
+[PlayVoice]=02:02:21	Voice04/04-SC/04-SC-D00/04-SC-D00-0510	0	sek	02:03:20;
+
+[PrintText]=02:03:20	Makoto	Te he hecho muchas cosas horribles ¿No?... Discúlpame.	02:07:17;
+
+[PlayVoice]=02:03:20	Voice04/04-SC/04-SC-D00/04-SC-D00-0520	1	mak	02:07:17;
+
+[CreateBG]=02:07:17	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-012	02:09:06;
+
+[PrintText]=02:07:23	Sekai	Ah...	02:08:21;
+
+[PlayVoice]=02:07:23	Voice04/04-SC/04-SC-D00/04-SC-D00-0540	0	sek	02:08:21;
+
+[CreateBG]=02:09:06	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-013	02:12:12;
+
+[PrintText]=02:09:08	Makoto	No pasará de nuevo. Adiós.	02:13:09;
+
+[PlayVoice]=02:09:08	Voice04/04-SC/04-SC-D00/04-SC-D00-0550	1	mak	02:13:09;
+
+[CreateBG]=02:12:12	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-014	02:13:17;
+
+[CreateBG]=02:13:17	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-015	02:19:23;
+
+[PrintText]=02:14:12	Sekai	¡...Espera!	02:15:20;
+
+[PlayVoice]=02:14:12	Voice04/04-SC/04-SC-D00/04-SC-D00-0560	0	sek	02:15:20;
+
+[PlayBgm]=02:15:21	BGM/SD_BGM/sdbgm08	03:00:17;
+
+[PrintText]=02:16:13	Sekai	¡Solo bromeaba! Eheheh.	02:19:01;
+
+[PlayVoice]=02:16:13	Voice04/04-SC/04-SC-D00/04-SC-D00-0580	0	sek	02:19:01;
+
+[PrintText]=02:19:01	Makoto	...	02:19:20;
+
+[PlayVoice]=02:19:01	Voice04/04-SC/04-SC-D00/04-SC-D00-0590	1	xxx	02:19:20;
+
+[CreateBG]=02:19:23	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-016	02:30:15;
+
+[PrintText]=02:19:23	Sekai	Lo siento ¿Vale? Tal vez estaba un poco irritada porque no dormí muy bien.	02:24:20;
+
+[PlayVoice]=02:19:23	Voice04/04-SC/04-SC-D00/04-SC-D00-0600	0	sek	02:24:20;
+
+[PrintText]=02:24:21	Makoto	...	02:26:02;
+
+[PlayVoice]=02:24:21	Voice04/04-SC/04-SC-D00/04-SC-D00-0610	1	xxx	02:26:02;
+
+[PrintText]=02:26:02	Sekai	No es lo que quería decir. La verdad es que... sí. Yo pienso... que también quiero hacerlo.	02:38:14;
+
+[PlayVoice]=02:26:02	Voice04/04-SC/04-SC-D00/04-SC-D00-0620	0	sek	02:38:14;
+
+[PlayMovie]=02:30:15	Movie04/04-SC/04-SC-D00/04-SC-D00-019B	0	02:39:17;
+
+[PrintText]=02:38:17	Makoto	¿Tú quieres...?^	02:39:17;
+
+[PlayVoice]=02:38:17	Voice04/04-SC/04-SC-D00/04-SC-D00-0630	1	mak	02:39:17;
+
+[PlayMovie]=02:39:17	Movie04/04-SC/04-SC-D00/04-SC-D00-019C	0	02:58:06;
+
+[PrintText]=02:39:17	Sekai	¡Sí! ¡Vamos, vamos a continuar donde lo dejamos!	02:43:15;
+
+[PlayVoice]=02:39:17	Voice04/04-SC/04-SC-D00/04-SC-D00-0640	0	sek	02:43:15;
+
+[PrintText]=02:43:15	Sekai	¡Anímate!	02:46:17;
+
+[PlayVoice]=02:43:15	Voice04/04-SC/04-SC-D00/04-SC-D00-0660	0	sek	02:46:17;
+
+[PrintText]=02:47:04	Sekai	Solo olvida lo que dije... venga, vamos...	02:52:03;
+
+[PlayVoice]=02:47:04	Voice04/04-SC/04-SC-D00/04-SC-D00-0680	0	sek	02:52:03;
+
+[PrintText]=02:52:03	Makoto	Sekai...	02:53:05;
+
+[PlayVoice]=02:52:03	Voice04/04-SC/04-SC-D00/04-SC-D00-0700	1	mak	02:53:05;
+
+[PlayVoice]=02:57:03	Voice04/04-SC/04-SC-D00/04-SC-D00-0670			02:57:13;
+
+[CreateBG]=02:58:06	BGS	Event04/04-SC/04-SC-D00/04-SC-D00-020	03:00:17;
+
+ ;
+
+[Next]=03:00:17;
+
+

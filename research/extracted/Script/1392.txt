@@ -1,0 +1,103 @@
+﻿[SkipFRAME]=01:36:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:36:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-A0/05-A0-H04/05-A0-H04-001	00:10:14;
+
+[PrintText]=00:00:00	Nanami	A diferencia de Hikari, a mí no me importaba que estés saliendo con Sekai.	00:07:01;
+
+[PlayVoice]=00:00:00	Voice05/05-A0/05-A0-H04/05-A0-H04-0040	0	nan	00:07:01;
+
+[PrintText]=00:07:01	Nanami	Sabía que le gustabas desde la ceremonia de entrada....	00:10:14;
+
+[PlayVoice]=00:07:01	Voice05/05-A0/05-A0-H04/05-A0-H04-0050	0	nan	00:10:14;
+
+[CreateBG]=00:10:14	BGS	Event05/05-A0/05-A0-H04/05-A0-H04-002	00:17:15;
+
+[PrintText]=00:10:14	Nanami	y siempre la veía contenta cuando hablaba de ti.	00:17:15;
+
+[PlayVoice]=00:10:14	Voice05/05-A0/05-A0-H04/05-A0-H04-0051	0	nan	00:17:15;
+
+[CreateBG]=00:17:15	BGS	Event05/05-A0/05-A0-H04/05-A0-H04-001	00:25:14;
+
+[PrintText]=00:17:16	Nanami	¡Pero entonces... empezaste a comer con ella y salir juntos... y mira lo que pasó!	00:25:14;
+
+[PlayVoice]=00:17:16	Voice05/05-A0/05-A0-H04/05-A0-H04-0060	0	nan	00:25:14;
+
+[PrintText]=00:25:12	Makoto	Sekai y yo no...	00:29:22;
+
+[PlayVoice]=00:25:12	Voice05/05-A0/05-A0-H04/05-A0-H04-0070	1	mak	00:29:22;
+
+[CreateBG]=00:25:14	BGS	Event05/05-A0/05-A0-H04/05-A0-H04-004	00:28:13;
+
+[CreateBG]=00:28:13	BGS	Event05/05-A0/05-A0-H04/05-A0-H04-005	00:39:17;
+
+[PrintText]=00:28:15	Nanami	¡Incluso cuando empezó a salir contigo, se veía tan feliz todo el tiempo!	00:33:21;
+
+[PlayVoice]=00:28:15	Voice05/05-A0/05-A0-H04/05-A0-H04-0080	0	nan	00:33:21;
+
+[PrintText]=00:33:21	Nanami	Eres su novio ¿No? ¿Acaso no empezaste a salir con ella porque la querías?^	00:39:19;
+
+[PlayVoice]=00:33:21	Voice05/05-A0/05-A0-H04/05-A0-H04-0081	0	nan	00:39:19;
+
+[PlayMovie]=00:39:17	Movie05/05-A0/05-A0-H04/05-A0-H04-006	0	00:44:17;
+
+[PrintText]=00:39:18	Makoto	...	00:42:09;
+
+[PlayVoice]=00:39:18	Voice05/05-A0/05-A0-H04/05-A0-H04-0100	1	xxx	00:42:09;
+
+[CreateBG]=00:44:17	BGS	Event05/05-A0/05-A0-H04/05-A0-H04-005	01:16:01;
+
+[PrintText]=00:44:20	Nanami	La amas ¿No?^	00:48:19;
+
+[PlayVoice]=00:44:20	Voice05/05-A0/05-A0-H04/05-A0-H04-0110	0	nan	00:48:19;
+
+[PrintText]=00:48:21	Makoto	...	00:51:20;
+
+[PlayVoice]=00:48:21	Voice05/05-A0/05-A0-H04/05-A0-H04-0120	1	xxx	00:51:20;
+
+[PrintText]=00:51:17	Nanami	Si es así ¿Por qué no la haces feliz?!	00:56:15;
+
+[PlayVoice]=00:51:17	Voice05/05-A0/05-A0-H04/05-A0-H04-0130	0	nan	00:56:15;
+
+[PrintText]=00:56:13	Makoto	Yo...	00:59:12;
+
+[PlayVoice]=00:56:13	Voice05/05-A0/05-A0-H04/05-A0-H04-0140	1	mak	00:59:12;
+
+[PrintText]=00:58:10	Nanami	¡¿Por qué?!	00:59:12;
+
+[PlayVoice]=00:58:10	Voice05/05-A0/05-A0-H04/05-A0-H04-0150	0	nan	00:59:12;
+
+[PrintText]=01:03:16	Nanami	¡¿Por qué no la haces sonreír?!	01:08:01;
+
+[PlayVoice]=01:03:16	Voice05/05-A0/05-A0-H04/05-A0-H04-0160	0	nan	01:08:01;
+
+[PrintText]=01:08:02	Nanami	¡Ahora llora todo el tiempo! ¡No quiero verla así, sabes! Jamás te reconoceré como su novio.	01:19:10;
+
+[PlayVoice]=01:08:02	Voice05/05-A0/05-A0-H04/05-A0-H04-0170	0	nan	01:19:10;
+
+[CreateBG]=01:16:01	BGS	Event05/05-A0/05-A0-H04/05-A0-H04-008	01:27:22;
+
+[PrintText]=01:19:17	Makoto	Uuh...	01:21:16;
+
+[PlayVoice]=01:19:17	Voice05/05-A0/05-A0-H04/05-A0-H04-0190	1	mak	01:21:16;
+
+[PrintText]=01:21:20	Nanami	Si la lastimas una vez más... no te lo perdonaré.	01:27:23;
+
+[PlayVoice]=01:21:20	Voice05/05-A0/05-A0-H04/05-A0-H04-0200	0	nan	01:27:23;
+
+[CreateBG]=01:27:22	BGS	Event05/05-A0/05-A0-H04/05-A0-H04-010	01:36:08;
+
+[PrintText]=01:27:22	Makoto	...	01:32:21;
+
+[PlayVoice]=01:27:22	Voice05/05-A0/05-A0-H04/05-A0-H04-0220	1	xxx	01:32:21;
+
+[PrintText]=01:33:11	Makoto	Yo...	01:35:23;
+
+[PlayVoice]=01:33:11	Voice05/05-A0/05-A0-H04/05-A0-H04-0240	1	mak	01:35:23;
+
+ ;
+
+[Next]=01:36:08;
+
+

@@ -1,0 +1,80 @@
+﻿[SkipFRAME]=00:41:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:41:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:41:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-006	00:05:16;
+
+[PrintText]=00:00:00	Makoto	Aún así... Sería demasiado para nosotros tomar el té en tu casa ¿No es así?^	00:05:15;
+
+[PlayVoice]=00:00:00	Voice05/05-SA/05-SA-E01/05-SA-E01-0030	1	mak	00:05:15;
+
+[CreateBG]=00:05:16	BGS	Event05/05-SA/05-SA-E01/05-SA-E01-002	00:07:00;
+
+[PrintText]=00:06:02	Sekai	¿Eh?^	00:06:18;
+
+[PlayVoice]=00:06:02	Voice05/05-SA/05-SA-E01/05-SA-E01-0040	0	sek	00:06:18;
+
+[CreateBG]=00:07:00	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-006	00:10:15;
+
+[PrintText]=00:07:00	Makoto	Juntos a tu madre.	00:10:15;
+
+[PlayVoice]=00:07:00	Voice05/05-SA/05-SA-E01/05-SA-E01-0050	1	mak	00:10:15;
+
+[CreateBG]=00:10:15	BGS	Event05/05-SA/05-SA-E00/05-SA-E00-006	00:12:12;
+
+[PrintText]=00:10:15	Sekai	Sí, creo que tienes razón.	00:12:11;
+
+[PlayVoice]=00:10:15	Voice05/05-SA/05-SA-E01/05-SA-E01-0060	0	sek	00:12:11;
+
+[PrintText]=00:12:02	Makoto	Tal vez debería llevar algún aperitivo.	00:15:08;
+
+[PlayVoice]=00:12:02	Voice05/05-SA/05-SA-E01/05-SA-E01-0070	1	mak	00:15:08;
+
+[CreateBG]=00:12:12	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-006	00:15:08;
+
+[CreateBG]=00:15:08	BGS	Event05/05-SA/05-SA-E01/05-SA-E01-006	00:18:08;
+
+[PrintText]=00:15:08	Sekai	¿Eh ¿Puedes cocinar?^	00:18:08;
+
+[PlayVoice]=00:15:08	Voice05/05-SA/05-SA-E01/05-SA-E01-0080	0	sek	00:18:08;
+
+[PrintText]=00:18:06	Makoto	No subestimes a alguien de mi estilo familiar.	00:22:06;
+
+[PlayVoice]=00:18:06	Voice05/05-SA/05-SA-E01/05-SA-E01-0090	1	mak	00:22:06;
+
+[CreateBG]=00:18:08	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-004	00:21:17;
+
+[CreateBG]=00:21:17	BGS	Event05/05-SA/05-SA-E00/05-SA-E00-004	00:24:14;
+
+[PrintText]=00:21:17	Sekai	Ahaha, ahora lo espero con ansias.	00:24:13;
+
+[PlayVoice]=00:21:17	Voice05/05-SA/05-SA-E01/05-SA-E01-0100	0	sek	00:24:13;
+
+[PrintText]=00:24:13	Makoto	Bueno, nunca he cocinado para nadie a excepción de Itaru, así que no será algo como chef gourmet. solo sigo la receta.	00:34:05;
+
+[PlayVoice]=00:24:13	Voice05/05-SA/05-SA-E01/05-SA-E01-0110	1	mak	00:34:05;
+
+[CreateBG]=00:24:14	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-004	00:34:05;
+
+[CreateBG]=00:34:05	BGS	Event05/05-SA/05-SA-E00/05-SA-E00-006	00:38:08;
+
+[PrintText]=00:34:05	Sekai	Está bien. Solo me gustaría probar tu aperitivo.	00:38:07;
+
+[PlayVoice]=00:34:05	Voice05/05-SA/05-SA-E01/05-SA-E01-0120	0	sek	00:38:07;
+
+[PrintText]=00:38:07	Makoto	Llevaré algo la próxima vez entonces.	00:40:12;
+
+[PlayVoice]=00:38:07	Voice05/05-SA/05-SA-E01/05-SA-E01-0130	1	mak	00:40:12;
+
+[CreateBG]=00:38:08	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-006	00:41:06;
+
+[BlackFade]=00:40:06	OUT	00:41:06;
+
+ ;
+
+[Next]=00:41:06;
+
+
+

@@ -1,0 +1,231 @@
+﻿[SkipFRAME]=02:11:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/aqua_square	02:17:20;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-001	00:02:00;
+
+[PrintText]=00:01:20	Taisuke	Whoa, esto es increíble.	00:04:23;
+
+[PlayVoice]=00:01:20	Voice04/04-SA/04-SA-N10/04-SA-N10-0040	1	tai	00:04:23;
+
+[CreateBG]=00:02:00	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-002	00:16:09;
+
+[PrintText]=00:04:23	Kotonoha	Una piscina así, con tobogán... hay muchas cosas aquí ¿No?^	00:11:09;
+
+[PlayVoice]=00:04:23	Voice04/04-SA/04-SA-N10/04-SA-N10-0050	0	kot	00:11:09;
+
+[PrintText]=00:11:09	Taisuke	¡Pues bien! ¿Por dónde empezamos?^	00:14:04;
+
+[PlayVoice]=00:11:09	Voice04/04-SA/04-SA-N10/04-SA-N10-0060	1	tai	00:14:04;
+
+[PrintText]=00:14:04	Kotonoha	Creo que iré a los toboganes.	00:16:09;
+
+[PlayVoice]=00:14:04	Voice04/04-SA/04-SA-N10/04-SA-N10-0070	0	kot	00:16:09;
+
+[CreateBG]=00:16:09	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-003	00:17:14;
+
+[PrintText]=00:16:09	Taisuke	Empecemos por ese entonces!	00:17:13;
+
+[PlayVoice]=00:16:09	Voice04/04-SA/04-SA-N10/04-SA-N10-0080	1	tai	00:17:13;
+
+[PrintText]=00:17:13	Hikari	...	00:18:14;
+
+[PlayVoice]=00:17:13	Voice04/04-SA/04-SA-N10/04-SA-N10-0090	0	xxx	00:18:14;
+
+[CreateBG]=00:17:14	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-004	00:18:14;
+
+[CreateBG]=00:18:14	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-005	00:23:17;
+
+[PrintText]=00:18:14	Makoto	Hey, Taisuke.	00:19:19;
+
+[PlayVoice]=00:18:14	Voice04/04-SA/04-SA-N10/04-SA-N10-0110	1	mak	00:19:19;
+
+[PrintText]=00:19:19	Taisuke	¿Sí?^	00:20:13;
+
+[PlayVoice]=00:19:19	Voice04/04-SA/04-SA-N10/04-SA-N10-0120	1	tai	00:20:13;
+
+[PrintText]=00:20:13	Makoto	Quiero hablar con Kotonoha de algo.	00:23:17;
+
+[PlayVoice]=00:20:13	Voice04/04-SA/04-SA-N10/04-SA-N10-0130	1	mak	00:23:17;
+
+[CreateBG]=00:23:17	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-006	00:30:08;
+
+[PrintText]=00:23:17	Taisuke	¿Eh?^	00:24:07;
+
+[PlayVoice]=00:23:17	Voice04/04-SA/04-SA-N10/04-SA-N10-0140	1	tai	00:24:07;
+
+[PrintText]=00:24:07	Makoto	¿Por qué no te adelantas con Kuroda? Te alcanzaremos en un momento.	00:28:16;
+
+[PlayVoice]=00:24:07	Voice04/04-SA/04-SA-N10/04-SA-N10-0150	1	mak	00:28:16;
+
+[PrintText]=00:28:16	Taisuke	¿Es de Saionji?^	00:30:07;
+
+[PlayVoice]=00:28:16	Voice04/04-SA/04-SA-N10/04-SA-N10-0160	1	tai	00:30:07;
+
+[PrintText]=00:30:07	Makoto	Uh... pues, de muchas cosas, pero eso también.	00:34:00;
+
+[PlayVoice]=00:30:07	Voice04/04-SA/04-SA-N10/04-SA-N10-0170	1	mak	00:34:00;
+
+[CreateBG]=00:30:08	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-007	00:34:00;
+
+[PrintText]=00:33:23	Taisuke	Ya veo. Bueno, tómense su tiempo, vengan con nosotros después.	00:38:03;
+
+[PlayVoice]=00:33:23	Voice04/04-SA/04-SA-N10/04-SA-N10-0180	1	tai	00:38:03;
+
+[CreateBG]=00:34:01	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-008	00:38:13;
+
+[PrintText]=00:38:04	Makoto	Vale.	00:38:20;
+
+[PlayVoice]=00:38:04	Voice04/04-SA/04-SA-N10/04-SA-N10-0190	1	mak	00:38:20;
+
+[CreateBG]=00:38:13	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-009	00:42:07;
+
+[PrintText]=00:38:20	Makoto	¡Da tu mejor esfuerzo!	00:39:16;
+
+[PlayVoice]=00:38:20	Voice04/04-SA/04-SA-N10/04-SA-N10-0210	1	mak	00:39:16;
+
+[PrintText]=00:39:16	Hikari	¡V-Vale, Gracias!	00:42:07;
+
+[PlayVoice]=00:39:16	Voice04/04-SA/04-SA-N10/04-SA-N10-0220	0	hik	00:42:07;
+
+[PrintText]=00:42:06	Kotonoha	...	00:42:23;
+
+[PlayVoice]=00:42:06	Voice04/04-SA/04-SA-N10/04-SA-N10-0230	0	xxx	00:42:23;
+
+[CreateBG]=00:42:07	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-010	00:43:00;
+
+[CreateBG]=00:43:00	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-011a	00:55:08;
+
+[PrintText]=00:43:00	Makoto	Kuroda... oh, quiero decir, esa chica. Es Kuroda.	00:47:18;
+
+[PlayVoice]=00:43:00	Voice04/04-SA/04-SA-N10/04-SA-N10-0250	1	mak	00:47:18;
+
+[PrintText]=00:47:17	Kotonoha	Sawanaga-san nos presento antes. Son de la misma primaria ¿No?^	00:54:14;
+
+[PlayVoice]=00:47:17	Voice04/04-SA/04-SA-N10/04-SA-N10-0260	0	kot	00:54:14;
+
+[PrintText]=00:54:14	Makoto	Sí, todo este tiempo, ella a tenido sus ojos fijados en él... por eso la estoy ayudando.	01:01:10;
+
+[PlayVoice]=00:54:14	Voice04/04-SA/04-SA-N10/04-SA-N10-0270	1	mak	01:01:10;
+
+[CreateBG]=00:55:08	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-011b	01:01:09;
+
+[CreateBG]=01:01:09	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-011c	01:19:20;
+
+[PrintText]=01:01:10	Kotonoha	Ah... Ya veo.	01:04:07;
+
+[PlayVoice]=01:01:10	Voice04/04-SA/04-SA-N10/04-SA-N10-0280	0	kot	01:04:07;
+
+[PrintText]=01:04:07	Makoto	No quiero meterme en su camino, así que vamos a relajarnos a algún lado, Si paseamos probablemente nos encontremos con ellos.	01:14:06;
+
+[PlayVoice]=01:04:07	Voice04/04-SA/04-SA-N10/04-SA-N10-0290	1	mak	01:14:06;
+
+[PrintText]=01:14:06	Kotonoha	Sí, es verdad.	01:15:11;
+
+[PlayVoice]=01:14:06	Voice04/04-SA/04-SA-N10/04-SA-N10-0300	0	kot	01:15:11;
+
+[PrintText]=01:15:11	Makoto	Vale, vamos por ese lado de la piscina, entonces.	01:19:04;
+
+[PlayVoice]=01:15:11	Voice04/04-SA/04-SA-N10/04-SA-N10-0310	1	mak	01:19:04;
+
+[PrintText]=01:19:04	Kotonoha	Está bien.	01:19:20;
+
+[PlayVoice]=01:19:04	Voice04/04-SA/04-SA-N10/04-SA-N10-0320	0	kot	01:19:20;
+
+[CreateBG]=01:19:20	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-012	01:25:11;
+
+[PrintText]=01:19:20	Makoto	¿Quieres algo de beber?^	01:21:14;
+
+[PlayVoice]=01:19:20	Voice04/04-SA/04-SA-N10/04-SA-N10-0330	1	mak	01:21:14;
+
+[PrintText]=01:21:14	Kotonoha	...Un Té de Jazmín, por favor.	01:24:14;
+
+[PlayVoice]=01:21:14	Voice04/04-SA/04-SA-N10/04-SA-N10-0340	0	kot	01:24:14;
+
+[PrintText]=01:24:14	Makoto	Vale.	01:25:11;
+
+[PlayVoice]=01:24:14	Voice04/04-SA/04-SA-N10/04-SA-N10-0350	1	mak	01:25:11;
+
+[CreateBG]=01:25:11	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-013	01:33:19;
+
+[PrintText]=01:25:11	Kotonoha	¡Ah...! Makoto-kun.	01:27:17;
+
+[PlayVoice]=01:25:11	Voice04/04-SA/04-SA-N10/04-SA-N10-0360	0	kot	01:27:17;
+
+[PrintText]=01:27:17	Makoto	¿Hmn?^	01:28:05;
+
+[PlayVoice]=01:27:17	Voice04/04-SA/04-SA-N10/04-SA-N10-0370	1	mak	01:28:05;
+
+[PrintText]=01:28:05	Kotonoha	Estoy feliz... de que tengamos un momento para hablar así.	01:33:18;
+
+[PlayVoice]=01:28:05	Voice04/04-SA/04-SA-N10/04-SA-N10-0380	0	kot	01:33:18;
+
+[CreateBG]=01:33:19	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-014	01:43:10;
+
+[PrintText]=01:33:19	Makoto	Ah...	01:34:10;
+
+[PlayVoice]=01:33:19	Voice04/04-SA/04-SA-N10/04-SA-N10-0390	1	mak	01:34:10;
+
+[PrintText]=01:34:10	Kotonoha	Desde el festival... he estado nerviosa, preguntándome por qué me evitabas...	01:42:12;
+
+[PlayVoice]=01:34:10	Voice04/04-SA/04-SA-N10/04-SA-N10-0400	0	kot	01:42:12;
+
+[PrintText]=01:42:12	Makoto	...	01:43:10;
+
+[PlayVoice]=01:42:12	Voice04/04-SA/04-SA-N10/04-SA-N10-0410	1	xxx	01:43:10;
+
+[CreateBG]=01:43:10	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-015	01:50:03;
+
+[PrintText]=01:43:10	Kotonoha	Estaba segura... que te he hecho daño...	01:50:04;
+
+[PlayVoice]=01:43:10	Voice04/04-SA/04-SA-N10/04-SA-N10-0420	0	kot	01:50:04;
+
+[CreateBG]=01:50:03	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-016	01:59:18;
+
+[PrintText]=01:50:04	Makoto	...	01:51:06;
+
+[PlayVoice]=01:50:04	Voice04/04-SA/04-SA-N10/04-SA-N10-0430	1	xxx	01:51:06;
+
+[PrintText]=01:51:06	Kotonoha	Y ahora... me siento un feliz....	01:57:15;
+
+[PlayVoice]=01:51:06	Voice04/04-SA/04-SA-N10/04-SA-N10-0440	0	kot	01:57:15;
+
+[PrintText]=01:57:15	Makoto	... Iré a comprar las bebidas.	01:59:18;
+
+[PlayVoice]=01:57:15	Voice04/04-SA/04-SA-N10/04-SA-N10-0450	1	mak	01:59:18;
+
+[CreateBG]=01:59:18	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-017	02:01:15;
+
+[PrintText]=01:59:18	Kotonoha	...Makoto-kun.	02:00:21;
+
+[PlayVoice]=01:59:18	Voice04/04-SA/04-SA-N10/04-SA-N10-0490	0	kot	02:00:21;
+
+[PrintText]=02:00:21	Makoto	¿Sí?^	02:01:15;
+
+[PlayVoice]=02:00:21	Voice04/04-SA/04-SA-N10/04-SA-N10-0500	1	mak	02:01:15;
+
+[CreateBG]=02:01:15	BGS	Event04/04-SA/04-SA-N10/04-SA-N10-018	02:17:20;
+
+[PrintText]=02:01:15	Kotonoha	¿Tu... quieres hacerlo?^	02:05:07;
+
+[PlayVoice]=02:01:15	Voice04/04-SA/04-SA-N10/04-SA-N10-0510	0	kot	02:05:07;
+
+[PrintText]=02:05:06	Makoto	¿Eh?^	02:06:00;
+
+[PlayVoice]=02:05:06	Voice04/04-SA/04-SA-N10/04-SA-N10-0520	1	mak	02:06:00;
+
+[PrintText]=02:05:23	Kotonoha	¿Quieres... tocarme... y hacer cosas indecentes conmigo?^	02:10:19;
+
+[PlayVoice]=02:05:23	Voice04/04-SA/04-SA-N10/04-SA-N10-0530	0	kot	02:10:19;
+
+[PrintText]=02:10:20	Makoto	...	02:11:16;
+
+[PlayVoice]=02:10:20	Voice04/04-SA/04-SA-N10/04-SA-N10-0540	1	xxx	02:11:16;
+
+[SetSELECT]=02:11:16	'No si quieres que lo haga'	'Sí'	02:16:16;
+
+ ;
+
+[Next]=02:17:20;
+
+

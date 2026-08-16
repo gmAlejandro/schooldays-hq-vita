@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=00:37:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:37:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-D00/05-KG-D00-001	00:04:18;
+
+[PrintText]=00:00:00	Makoto	Y... ¿De qué querías hablar?^	00:02:22;
+
+[PlayVoice]=00:00:00	Voice05/05-KG/05-KG-D00/05-KG-D00-0030	1	mak	00:02:22;
+
+[PrintText]=00:03:00	Taisuke	...Me terminaron.	00:04:06;
+
+[PlayVoice]=00:03:00	Voice05/05-KG/05-KG-D00/05-KG-D00-0040	1	tai	00:04:06;
+
+[PrintText]=00:04:06	Makoto	¿Eh?^	00:05:11;
+
+[PlayVoice]=00:04:06	Voice05/05-KG/05-KG-D00/05-KG-D00-0050	1	mak	00:05:11;
+
+[CreateBG]=00:04:18	BGS	Event05/05-KG/05-KG-D00/05-KG-D00-002	00:09:18;
+
+[PrintText]=00:05:13	Taisuke	¡Fui rechazado!	00:10:04;
+
+[PlayVoice]=00:05:13	Voice05/05-KG/05-KG-D00/05-KG-D00-0060	1	tai	00:10:04;
+
+[CreateBG]=00:09:18	BGS	Event05/05-KG/05-KG-D00/05-KG-D00-003A	00:14:18;
+
+[PrintText]=00:10:04	Makoto	¡¿Eh?! ¿T-Te refieres a Kotonoha?^	00:14:16;
+
+[PlayVoice]=00:10:04	Voice05/05-KG/05-KG-D00/05-KG-D00-0070	1	mak	00:14:16;
+
+[PrintText]=00:14:17	Taisuke	Sí ¡¿A quién más?!	00:16:20;
+
+[PlayVoice]=00:14:17	Voice05/05-KG/05-KG-D00/05-KG-D00-0080	1	tai	00:16:20;
+
+[CreateBG]=00:14:18	BGS	Event05/05-KG/05-KG-D00/05-KG-D00-004	00:19:18;
+
+[PrintText]=00:16:21	Makoto	Ya veo...	00:19:12;
+
+[PlayVoice]=00:16:21	Voice05/05-KG/05-KG-D00/05-KG-D00-0090	1	mak	00:19:12;
+
+[PrintText]=00:19:14	Taisuke	Me llamó en la noche y dijo '¡No puedo renunciar a la persona que amo!' o algo así...	00:28:10;
+
+[PlayVoice]=00:19:14	Voice05/05-KG/05-KG-D00/05-KG-D00-0100	1	tai	00:28:10;
+
+[CreateBG]=00:19:18	BGS	Event05/05-KG/05-KG-D00/05-KG-D00-005	00:24:18;
+
+[CreateBG]=00:24:18	BGS	Event05/05-KG/05-KG-D00/05-KG-D00-006	00:31:03;
+
+[PrintText]=00:28:11	Makoto	¿La persona que ama...?^	00:31:22;
+
+[PlayVoice]=00:28:11	Voice05/05-KG/05-KG-D00/05-KG-D00-0110	1	mak	00:31:22;
+
+[CreateBG]=00:31:03	BGS	Event05/05-KG/05-KG-D00/05-KG-D00-007	00:37:18;
+
+[PrintText]=00:31:22	Taisuke	¡Makoto!	00:33:20;
+
+[PlayVoice]=00:31:22	Voice05/05-KG/05-KG-D00/05-KG-D00-0120	1	tai	00:33:20;
+
+[PrintText]=00:33:20	Makoto	A-A sí.	00:36:09;
+
+[PlayVoice]=00:33:20	Voice05/05-KG/05-KG-D00/05-KG-D00-0130	1	mak	00:36:09;
+
+ ;
+
+[Next]=00:37:18;
+
+
+
+

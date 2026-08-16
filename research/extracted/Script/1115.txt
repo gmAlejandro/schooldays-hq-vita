@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:11:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:11:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-H06/04-SA-H06-001	00:04:01;
+
+[PrintText]=00:00:04	Makoto	Uwah... Kuroda nos matará si interrumpimos.	00:04:01;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-H06/04-SA-H06-0030	1	mak	00:04:01;
+
+[CreateBG]=00:04:01	BGS	Event04/04-SA/04-SA-H06/04-SA-H06-002	00:05:17;
+
+[PrintText]=00:04:08	Sekai	Por supuesto.	00:05:17;
+
+[PlayVoice]=00:04:08	Voice04/04-SA/04-SA-H06/04-SA-H06-0040	0	sek	00:05:17;
+
+[CreateBG]=00:05:17	BGS	Event04/04-SA/04-SA-H06/04-SA-H06-003	00:09:17;
+
+[PrintText]=00:06:00	Makoto	Es inevitable. Comeremos los tres, como antes.	00:09:15;
+
+[PlayVoice]=00:06:00	Voice04/04-SA/04-SA-H06/04-SA-H06-0050	1	mak	00:09:15;
+
+[CreateBG]=00:09:17	BGS	Event04/04-SA/04-SA-H06/04-SA-H06-004	00:11:16;
+
+[PrintText]=00:09:22	Sekai	Sí.	00:11:02;
+
+[PlayVoice]=00:09:22	Voice04/04-SA/04-SA-H06/04-SA-H06-0060	0	sek	00:11:02;
+
+ ;
+
+[Next]=00:11:16;
+
+

@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:15:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:15:06;
+
+[PlaySe]=00:00:00	1	Se00/00-00/00-00-A06/SE00-00-A06-001	00:00:16;
+
+[PlaySe]=00:00:00	2	Voice00/00-00/00-00-A03/00-00-A03-0342	00:10:10;
+
+[CreateBG]=00:00:00	BGS	Ini/Event00/00-00/00-00-A06/00-00-A06-001	00:03:02;
+
+#[PrintText]=00:00:00	Sekai	"El conjuro es de 3 semanas, \n¿Cuantos días llevas?" 	00:03:02;
+
+[PlayMovie]=00:03:02	Movie00/00-00/00-00-A06/00-00-A06-002	0	00:06:00;
+
+[PlaySe]=00:05:22	1	Se00/00-00/00-00-A06/SE00-00-A06-001	00:06:14;
+
+[PlayMovie]=00:06:00	Ini/Movie00/00-00/00-00-A06/00-00-A06-003	0	00:12:06;
+
+#[PrintText]=00:06:00	Makoto	"¿Qué? \nPrimer día....".	00:09:23;
+
+[PlaySe]=00:09:17	1	Se00/00-00/00-00-A06/SE00-00-A06-001	00:10:09;
+
+#[PrintText]=00:09:23	Sekai	"¡Perdón! \nNo interferiré la próxima vez.".	00:12:06;
+
+[PlaySe]=00:10:12	3	Voice00/00-00/00-00-A03/00-00-A03-0343	00:15:06;
+
+[PlayMovie]=00:12:06	Movie00/00-00/00-00-A06/00-00-A06-004	0	00:15:06;
+
+[PrintText]=00:12:06	Makoto	Ya te dije, no es como crees...	00:14:13;
+
+[PlayVoice]=00:12:11	Voice00/00-00/00-00-A06/00-00-A06-0060	1	xxx	00:14:13;
+
+ ;
+
+[Next]=00:15:06;
+
+
+
+

@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:14:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:14:23;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/start_bell	00:00:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-I02/04-KE-I02-001	00:02:00;
+
+[PrintText]=00:00:14	Sekai	...	00:01:03;
+
+[PlayVoice]=00:00:14	Voice04/04-KE/04-KE-I02/04-KE-I02-0030	0	xxx	00:01:03;
+
+[PlaySe]=00:00:20	2	SysSe/SE_all/station_train/train_door_close	00:02:07;
+
+[CreateBG]=00:02:00	BGS	Event04/04-KE/04-KE-I02/04-KE-I02-002	00:04:00;
+
+[PlaySe]=00:02:12	1	SysSe/SE_all/station_train/train_start	00:14:23;
+
+[PlayMovie]=00:04:00	Movie04/04-KE/04-KE-I02/04-KE-I02-002	0	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event04/04-KE/04-KE-I02/04-KE-I02-003	00:12:00;
+
+[CreateBG]=00:12:00	BGS	Event04/04-KE/04-KE-I02/04-KE-I02-004	00:14:23;
+
+[PrintText]=00:12:18	Makoto	...	00:14:17;
+
+[PlayVoice]=00:12:18	Voice04/04-KE/04-KE-I02/04-KE-I02-0050	1	xxx	00:14:17;
+
+ ;
+
+[Next]=00:14:23;
+
+

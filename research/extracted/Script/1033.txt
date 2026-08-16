@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:24:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:24:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-E06/04-KC-E06-001	00:01:04;
+
+[PrintText]=00:00:00	Makoto	No lo sé.	00:01:04;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-E06/04-KC-E06-0030	1	mak	00:01:04;
+
+[CreateBG]=00:01:04	BGS	Event04/04-KC/04-KC-E06/04-KC-E06-002	00:10:19;
+
+[PrintText]=00:01:04	Kotonoha	Sí, como no te sientes bien, no debes estar enterado de Saionji-san.	00:09:04;
+
+[PlayVoice]=00:01:04	Voice04/04-KC/04-KC-E06/04-KC-E06-0040	0	kot	00:09:04;
+
+[PrintText]=00:09:04	Makoto	S-Sí.	00:10:20;
+
+[PlayVoice]=00:09:04	Voice04/04-KC/04-KC-E06/04-KC-E06-0050	1	mak	00:10:20;
+
+[CreateBG]=00:10:19	BGS	Event04/04-KC/04-KC-E06/04-KC-E06-003	00:24:09;
+
+[PrintText]=00:10:21	Kotonoha	Tal vez fue alguna bebida que tomo en la piscina.	00:18:15;
+
+[PlayVoice]=00:10:21	Voice04/04-KC/04-KC-E06/04-KC-E06-0060	0	kot	00:18:15;
+
+[PrintText]=00:18:14	Makoto	S-Sí, tal vez.	00:19:21;
+
+[PlayVoice]=00:18:14	Voice04/04-KC/04-KC-E06/04-KC-E06-0070	1	mak	00:19:21;
+
+[PrintText]=00:19:22	Kotonoha	Que arriesgado. Ten cuidado.	00:22:19;
+
+[PlayVoice]=00:19:22	Voice04/04-KC/04-KC-E06/04-KC-E06-0080	0	kot	00:22:19;
+
+[PrintText]=00:22:18	Makoto	Sí...	00:23:10;
+
+[PlayVoice]=00:22:18	Voice04/04-KC/04-KC-E06/04-KC-E06-0090	1	mak	00:23:10;
+
+ ;
+
+[Next]=00:24:09;
+
+

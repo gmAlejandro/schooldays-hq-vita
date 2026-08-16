@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:18:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:18:07;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C01/SE02-2S-C01-001	00:18:07;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C01/02-2S-C01-001	00:05:16;
+
+[PrintText]=00:00:00	Makoto	Tenemos que decírselo a Kotonoha.	00:02:07;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-C01/02-2S-C01-0030	1	mak	00:02:07;
+
+[PrintText]=00:02:08	Sekai	Sí, tienes razón.	00:03:09;
+
+[PlayVoice]=00:02:08	Voice02/02-2S/02-2S-C01/02-2S-C01-0040	0	sek	00:03:09;
+
+[PrintText]=00:03:08	Makoto	Puede que se moleste, pero tengo que decirle como me siento.	00:08:12;
+
+[PlayVoice]=00:03:08	Voice02/02-2S/02-2S-C01/02-2S-C01-0050	1	mak	00:08:12;
+
+[CreateBG]=00:05:16	BGS	Event02/02-2S/02-2S-C01/02-2S-C01-002	00:08:12;
+
+[CreateBG]=00:08:12	BGS	Event02/02-2S/02-2S-C01/02-2S-C01-003	00:15:20;
+
+[PrintText]=00:08:12	Sekai	Iré contigo.	00:10:12;
+
+[PlayVoice]=00:08:12	Voice02/02-2S/02-2S-C01/02-2S-C01-0060	0	sek	00:10:12;
+
+[PrintText]=00:10:13	Makoto	Sekai.	00:11:12;
+
+[PlayVoice]=00:10:13	Voice02/02-2S/02-2S-C01/02-2S-C01-0070	1	mak	00:11:12;
+
+[PrintText]=00:11:12	Sekai	Soy la que hizo que la conocieras... por eso quiero ver como terminarán las cosas.	00:15:19;
+
+[PlayVoice]=00:11:12	Voice02/02-2S/02-2S-C01/02-2S-C01-0080	0	sek	00:15:19;
+
+[CreateBG]=00:15:20	BGS	Event02/02-2S/02-2S-C01/02-2S-C01-004	00:18:07;
+
+[PrintText]=00:15:20	Makoto	...	00:16:23;
+
+[PlayVoice]=00:15:20	Voice02/02-2S/02-2S-C01/02-2S-C01-0090	1	xxx	00:16:23;
+
+[PrintText]=00:16:23	Sekai	No te importa ¿No?^	00:17:20;
+
+[PlayVoice]=00:16:23	Voice02/02-2S/02-2S-C01/02-2S-C01-0100	0	sek	00:17:20;
+
+ ;
+
+[Next]=00:18:07;
+
+
+
+

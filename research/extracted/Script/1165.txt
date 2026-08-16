@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:19:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:19:14;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O06/04-SA-O06-001	00:01:08;
+
+[PrintText]=00:00:00	Makoto	Ya no estamos saliendo.	00:01:07;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O06/04-SA-O06-0030	1	mak	00:01:07;
+
+[CreateBG]=00:01:08	BGS	Event04/04-SA/04-SA-O06/04-SA-O06-002	00:05:21;
+
+[PrintText]=00:01:08	Sekai	Mentiroso.	00:02:04;
+
+[PlayVoice]=00:01:08	Voice04/04-SA/04-SA-O06/04-SA-O06-0040	0	sek	00:02:04;
+
+[PrintText]=00:02:04	Makoto	No es mentira.	00:03:16;
+
+[PlayVoice]=00:02:04	Voice04/04-SA/04-SA-O06/04-SA-O06-0050	1	mak	00:03:16;
+
+[PrintText]=00:03:16	Sekai	...	00:05:20;
+
+[PlayVoice]=00:03:16	Voice04/04-SA/04-SA-O06/04-SA-O06-0060	0	xxx	00:05:20;
+
+[PrintText]=00:05:20	Makoto	Las cosas han ido extrañas desde antes del festival... y hasta ahora.	00:10:01;
+
+[PlayVoice]=00:05:20	Voice04/04-SA/04-SA-O06/04-SA-O06-0070	1	mak	00:10:01;
+
+[CreateBG]=00:05:21	BGS	Event04/04-SA/04-SA-O06/04-SA-O06-003	00:10:01;
+
+[CreateBG]=00:10:01	BGS	Event04/04-SA/04-SA-O06/04-SA-O06-004	00:12:01;
+
+[PrintText]=00:10:01	Sekai	Lo sé, pero...	00:12:00;
+
+[PlayVoice]=00:10:01	Voice04/04-SA/04-SA-O06/04-SA-O06-0080	0	sek	00:12:00;
+
+[PrintText]=00:12:00	Makoto	Fue... muy raro.	00:15:08;
+
+[PlayVoice]=00:12:00	Voice04/04-SA/04-SA-O06/04-SA-O06-0090	1	mak	00:15:08;
+
+[CreateBG]=00:12:01	BGS	Event04/04-SA/04-SA-O06/04-SA-O06-005	00:15:11;
+
+[CreateBG]=00:15:11	BGS	Event04/04-SA/04-SA-O06/04-SA-O06-005B	00:16:18;
+
+[PrintText]=00:15:11	Sekai	Ya veo...	00:16:08;
+
+[PlayVoice]=00:15:11	Voice04/04-SA/04-SA-O06/04-SA-O06-0100	0	sek	00:16:08;
+
+[PrintText]=00:16:17	Makoto	No puedo estar sin ti, Sekai.	00:19:14;
+
+[PlayVoice]=00:16:17	Voice04/04-SA/04-SA-O06/04-SA-O06-0110	1	mak	00:19:14;
+
+[CreateBG]=00:16:18	BGS	Event04/04-SA/04-SA-O06/04-SA-O06-005	00:19:14;
+
+ ;
+
+[Next]=00:19:14;
+
+

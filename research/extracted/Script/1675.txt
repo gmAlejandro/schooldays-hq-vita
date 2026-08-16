@@ -1,0 +1,193 @@
+﻿[SkipFRAME]=02:34:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-001A	00:06:12;
+
+[PrintText]=00:00:12	Makoto	Bien, vamos a comer.	00:02:10;
+
+[PlayVoice]=00:00:12	Voice05/05-KI/05-KI-L03/05-KI-L03-0050	1	mak	00:02:10;
+
+[PrintText]=00:02:06	Kotonoha	Sí.	00:03:00;
+
+[PlayVoice]=00:02:06	Voice05/05-KI/05-KI-L03/05-KI-L03-0060	0	kot	00:03:00;
+
+[PrintText]=00:03:03	Makoto	Veamos.	00:06:14;
+
+[PlayVoice]=00:03:03	Voice05/05-KI/05-KI-L03/05-KI-L03-0070	1	mak	00:06:14;
+
+[CreateBG]=00:06:12	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-001B	00:07:12;
+
+[PrintText]=00:06:13	Kotonoha	¿Cómo está?^	00:07:17;
+
+[PlayVoice]=00:06:13	Voice05/05-KI/05-KI-L03/05-KI-L03-0080	0	kot	00:07:17;
+
+[PrintText]=00:07:11	Makoto	...	00:10:23;
+
+[PlayVoice]=00:07:11	Voice05/05-KI/05-KI-L03/05-KI-L03-0090	1	xxx	00:10:23;
+
+[CreateBG]=00:07:12	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-001C	00:11:07;
+
+[CreateBG]=00:11:07	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-003	00:19:13;
+
+[PrintText]=00:12:14	Kotonoha	Mwah.	00:13:08;
+
+[PlayVoice]=00:12:14	Voice05/05-KI/05-KI-L03/05-KI-L03-0110	0	kot	00:13:08;
+
+[PrintText]=00:12:23	Makoto	¡Pfft... hahahaha!	00:18:21;
+
+[PlayVoice]=00:12:23	Voice05/05-KI/05-KI-L03/05-KI-L03-0120	1	mak	00:18:21;
+
+[PrintText]=00:18:06	Kotonoha	¿Qué pasa...?^	00:20:05;
+
+[PlayVoice]=00:18:06	Voice05/05-KI/05-KI-L03/05-KI-L03-0130	0	kot	00:20:05;
+
+[PrintText]=00:19:12	Makoto	Mezclaste el azúcar con la sal... haha...	00:24:21;
+
+[PlayVoice]=00:19:12	Voice05/05-KI/05-KI-L03/05-KI-L03-0140	1	mak	00:24:21;
+
+[CreateBG]=00:19:13	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-004	00:24:13;
+
+[PrintText]=00:23:23	Kotonoha	¿Entonces el almuerzo de ayer también...?^	00:26:22;
+
+[PlayVoice]=00:23:23	Voice05/05-KI/05-KI-L03/05-KI-L03-0150	0	kot	00:26:22;
+
+[CreateBG]=00:24:13	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-005	00:26:18;
+
+[CreateBG]=00:26:18	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-006	00:29:10;
+
+[PrintText]=00:26:18	Makoto	Creo que debo agradecerles a las chicas de la clase 4.	00:30:01;
+
+[PlayVoice]=00:26:18	Voice05/05-KI/05-KI-L03/05-KI-L03-0160	1	mak	00:30:01;
+
+[CreateBG]=00:29:10	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-007	00:32:20;
+
+[PrintText]=00:29:10	Kotonoha	Ooh... por favor no digas eso. Ah! Makoto-kun... ¿Lo sabías?^	00:36:12;
+
+[PlayVoice]=00:29:10	Voice05/05-KI/05-KI-L03/05-KI-L03-0170	0	kot	00:36:12;
+
+[CreateBG]=00:32:20	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-008	00:46:08;
+
+[PrintText]=00:36:06	Makoto	Está bien. Solo sigue practicando, paso por paso.	00:40:15;
+
+[PlayVoice]=00:36:06	Voice05/05-KI/05-KI-L03/05-KI-L03-0180	1	mak	00:40:15;
+
+[PrintText]=00:40:12	Kotonoha	Pero...	00:41:22;
+
+[PlayVoice]=00:40:12	Voice05/05-KI/05-KI-L03/05-KI-L03-0190	0	kot	00:41:22;
+
+[PrintText]=00:41:13	Makoto	Tenemos bastante tiempo. El suficiente para que pueda quedar como este.	00:49:16;
+
+[PlayVoice]=00:41:13	Voice05/05-KI/05-KI-L03/05-KI-L03-0200	1	mak	00:49:16;
+
+[CreateBG]=00:46:08	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-010	00:56:21;
+
+[PrintText]=00:50:06	Kotonoha	¡Mm... uwah, está delicioso!	00:55:15;
+
+[PlayVoice]=00:50:06	Voice05/05-KI/05-KI-L03/05-KI-L03-0220	0	kot	00:55:15;
+
+[PrintText]=00:55:15	Makoto	¿Cómo está?^	00:56:14;
+
+[PlayVoice]=00:55:15	Voice05/05-KI/05-KI-L03/05-KI-L03-0230	1	mak	00:56:14;
+
+[CreateBG]=00:56:21	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-010B	01:03:12;
+
+[PrintText]=00:56:21	Kotonoha	Ooh... comparado con este, el mio...	01:00:17;
+
+[PlayVoice]=00:56:21	Voice05/05-KI/05-KI-L03/05-KI-L03-0240	0	kot	01:00:17;
+
+[PrintText]=01:00:04	Makoto	¡Hey, como te dije, no te desanimes!	01:03:11;
+
+[PlayVoice]=01:00:04	Voice05/05-KI/05-KI-L03/05-KI-L03-0250	1	mak	01:03:11;
+
+[PrintText]=01:03:08	Kotonoha	¡Vale, entonces... seguiré esforzándome!	01:07:15;
+
+[PlayVoice]=01:03:08	Voice05/05-KI/05-KI-L03/05-KI-L03-0260	0	kot	01:07:15;
+
+[CreateBG]=01:03:12	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-010D	01:08:06;
+
+[PrintText]=01:07:06	Makoto	Sí.	01:08:20;
+
+[PlayVoice]=01:07:06	Voice05/05-KI/05-KI-L03/05-KI-L03-0270	1	mak	01:08:20;
+
+[CreateBG]=01:08:06	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-001A	01:12:14;
+
+[PlaySe]=01:08:16	1	SysSe/SE_all/gaya/okujou	01:51:08;
+
+[PrintText]=01:09:02	Makoto	Delicioso.	01:12:00;
+
+[PlayVoice]=01:09:02	Voice05/05-KI/05-KI-L03/05-KI-L03-0290	1	mak	01:12:00;
+
+[PrintText]=01:11:15	Kotonoha	Ah...	01:12:11;
+
+[PlayVoice]=01:11:15	Voice05/05-KI/05-KI-L03/05-KI-L03-0300	0	kot	01:12:11;
+
+[CreateBG]=01:12:14	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-010C	01:20:09;
+
+[PrintText]=01:12:20	Makoto	¿Qué?^	01:14:08;
+
+[PlayVoice]=01:12:20	Voice05/05-KI/05-KI-L03/05-KI-L03-0310	1	mak	01:14:08;
+
+[PrintText]=01:14:10	Kotonoha	Un beso indirecto...	01:16:03;
+
+[PlayVoice]=01:14:10	Voice05/05-KI/05-KI-L03/05-KI-L03-0320	0	kot	01:16:03;
+
+[PrintText]=01:16:01	Makoto	Haha...	01:18:23;
+
+[PlayVoice]=01:16:01	Voice05/05-KI/05-KI-L03/05-KI-L03-0330	1	mak	01:18:23;
+
+[PrintText]=01:18:12	Kotonoha	...	01:20:06;
+
+[PlayVoice]=01:18:12	Voice05/05-KI/05-KI-L03/05-KI-L03-0340	0	xxx	01:20:06;
+
+[CreateBG]=01:20:09	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-011	01:37:11;
+
+[PrintText]=01:20:11	Makoto	Ahora que lo pienso, no hemos ido más allá de un beso ¿No?^	01:27:09;
+
+[PlayVoice]=01:20:11	Voice05/05-KI/05-KI-L03/05-KI-L03-0370	1	mak	01:27:09;
+
+[PrintText]=01:27:09	Kotonoha	¿Huh?^	01:28:02;
+
+[PlayVoice]=01:27:09	Voice05/05-KI/05-KI-L03/05-KI-L03-0380	0	kot	01:28:02;
+
+[PrintText]=01:28:06	Makoto	Olvídalo.	01:31:16;
+
+[PlayVoice]=01:28:06	Voice05/05-KI/05-KI-L03/05-KI-L03-0390	1	mak	01:31:16;
+
+[PrintText]=01:31:07	Kotonoha	¿Qué pasó? ¡Dime por favor!	01:33:23;
+
+[PlayVoice]=01:31:07	Voice05/05-KI/05-KI-L03/05-KI-L03-0400	0	kot	01:33:23;
+
+[PrintText]=01:33:07	Makoto	Estaba pensando en que... aún no hemos ido más allá de un beso.	01:37:17;
+
+[PlayVoice]=01:33:07	Voice05/05-KI/05-KI-L03/05-KI-L03-0410	1	mak	01:37:17;
+
+[PrintText]=01:37:09	Kotonoha	¿Más allá de un beso...? ¡Ah!	01:40:20;
+
+[PlayVoice]=01:37:09	Voice05/05-KI/05-KI-L03/05-KI-L03-0420	0	kot	01:40:20;
+
+[CreateBG]=01:37:11	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-012	01:51:08;
+
+[PrintText]=01:40:19	Makoto	No puedo esperar a lo que vendrá después... cuando pasé.	01:48:09;
+
+[PlayVoice]=01:40:19	Voice05/05-KI/05-KI-L03/05-KI-L03-0430	1	mak	01:48:09;
+
+[PrintText]=01:48:13	Kotonoha	Ah...	01:49:06;
+
+[PlayVoice]=01:48:13	Voice05/05-KI/05-KI-L03/05-KI-L03-0440	0	kot	01:49:06;
+
+[EndBGM]=01:49:06	BGM/Vocal/SDV07	03:51:17;
+
+[BlackFade]=01:50:08	OUT	01:51:08;
+
+[CreateBG]=01:51:08	BGS	Ini/EndRoll/05-12	01:54:00;
+
+[EndRoll]=01:54:00	Ini/EndRoll/GOOD	02:34:00;
+
+ ;
+
+[Next]=02:34:00;
+
+
+
+

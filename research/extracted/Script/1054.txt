@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:09:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:09:12;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-B01/04-KE-B01-001	00:01:02;
+
+[PrintText]=00:00:00	Makoto	Sí.	00:01:01;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-B01/04-KE-B01-0030	1	mak	00:01:01;
+
+[PlayMovie]=00:01:02	Movie04/04-KE/04-KE-B01/04-KE-B01-002	0	00:09:12;
+
+[PrintText]=00:03:08	Kotonoha	Nn...	00:03:20;
+
+[PlayVoice]=00:03:08	Voice04/04-KE/04-KE-B01/04-KE-B01-0050	0	kot	00:03:20;
+
+ ;
+
+[Next]=00:09:12;
+
+

@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:53:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:53:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KC/05-KC-C01/05-KC-C01-001	00:05:15;
+
+[PrintText]=00:00:00	Makoto	Fwah...	00:04:06;
+
+[PlayVoice]=00:00:00	Voice05/05-KC/05-KC-C01/05-KC-C01-0030	1	mak	00:04:06;
+
+[PrintText]=00:04:06	Taisuke	¡Ah! ¡Makoto!	00:05:14;
+
+[PlayVoice]=00:04:06	Voice05/05-KC/05-KC-C01/05-KC-C01-0040	1	tai	00:05:14;
+
+[PrintText]=00:05:14	Makoto	Mmn... buen día, Taisuke.	00:12:14;
+
+[PlayVoice]=00:05:14	Voice05/05-KC/05-KC-C01/05-KC-C01-0050	1	mak	00:12:14;
+
+[CreateBG]=00:05:15	BGS	Event05/05-KC/05-KC-C01/05-KC-C01-002A	00:18:08;
+
+[PrintText]=00:12:13	Taisuke	¿Por qué tan pasado?^	00:14:12;
+
+[PlayVoice]=00:12:13	Voice05/05-KC/05-KC-C01/05-KC-C01-0060	1	tai	00:14:12;
+
+[PrintText]=00:14:13	Makoto	Bueno, sabes... es sábado, siento que estuviera a punto de romper un record personal...	00:22:03;
+
+[PlayVoice]=00:14:13	Voice05/05-KC/05-KC-C01/05-KC-C01-0070	1	mak	00:22:03;
+
+[CreateBG]=00:18:08	BGS	Event05/05-KC/05-KC-C01/05-KC-C01-002B	00:30:12;
+
+[PrintText]=00:21:00	Taisuke	Como sea hombre... más importante ¿Escuchaste lo último?^	00:24:17;
+
+[PlayVoice]=00:21:00	Voice05/05-KC/05-KC-C01/05-KC-C01-0080	1	tai	00:24:17;
+
+[PrintText]=00:24:00	Makoto	¿Qué pasa?^	00:26:17;
+
+[PlayVoice]=00:24:00	Voice05/05-KC/05-KC-C01/05-KC-C01-0090	1	mak	00:26:17;
+
+[PrintText]=00:26:18	Taisuke	Dicen que... Saionji dejó la escuela.	00:29:21;
+
+[PlayVoice]=00:26:18	Voice05/05-KC/05-KC-C01/05-KC-C01-0100	1	tai	00:29:21;
+
+[PrintText]=00:30:00	Makoto	¿Eh?^	00:31:18;
+
+[PlayVoice]=00:30:00	Voice05/05-KC/05-KC-C01/05-KC-C01-0110	1	mak	00:31:18;
+
+[CreateBG]=00:30:12	BGS	Event05/05-KC/05-KC-C01/05-KC-C01-003	00:32:22;
+
+[BlackFade]=00:31:09	OUT	00:32:22;
+
+[CreateBG]=00:32:22	BGS	Event05/05-KC/05-KC-C01/05-KC-C01-004	00:53:00;
+
+[PrintText]=00:32:22	Makoto	Justo después de que dejó la escuela, Sekai se fue de su casa y desapareció.	00:38:12;
+
+[PlayVoice]=00:32:22	Voice05/05-KC/05-KC-C01/05-KC-C01-0140	1	xxx	00:38:12;
+
+[PrintText]=00:40:00	Makoto	Naturalmente, no me dijo nada, ni a Taisuke ni a nadie de la clase.	00:46:17;
+
+[PlayVoice]=00:40:00	Voice05/05-KC/05-KC-C01/05-KC-C01-0150	1	xxx	00:46:17;
+
+[PrintText]=00:47:12	Makoto	Simplemente se fue.	00:51:05;
+
+[PlayVoice]=00:47:12	Voice05/05-KC/05-KC-C01/05-KC-C01-0160	1	xxx	00:51:05;
+
+ ;
+
+[Next]=00:53:00;
+
+
+
+

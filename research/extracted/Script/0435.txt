@@ -1,0 +1,367 @@
+﻿[SkipFRAME]=03:08:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	03:08:19;
+
+[PlaySe]=00:00:00	1	Se03/03-A1/03-A1-J00/SE03-A1-J00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-002	00:06:14;
+
+[PrintText]=00:03:00	Setsuna	Ah...	00:03:19;
+
+[PlayVoice]=00:03:00	Voice03/03-A1/03-A1-J00/03-A1-J00-0030	0	set	00:03:19;
+
+[PrintText]=00:03:23	Makoto	¿Qué te parece?^	00:04:20;
+
+[PlayVoice]=00:03:23	Voice03/03-A1/03-A1-J00/03-A1-J00-0040	1	mak	00:04:20;
+
+[PrintText]=00:05:05	Setsuna	El tejado...	00:06:09;
+
+[PlayVoice]=00:05:05	Voice03/03-A1/03-A1-J00/03-A1-J00-0050	0	set	00:06:09;
+
+[CreateBG]=00:06:14	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-003	00:10:07;
+
+[PrintText]=00:06:14	Makoto	¿Bastante genial, no? No está abierto para todos los estudiantes, sabes.	00:10:02;
+
+[PlayVoice]=00:06:14	Voice03/03-A1/03-A1-J00/03-A1-J00-0060	1	mak	00:10:02;
+
+[CreateBG]=00:10:07	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-004	00:15:07;
+
+[PrintText]=00:10:07	Setsuna	Le pediste a Sekai la llave del club de Astronomía ¿No?^	00:15:07;
+
+[PlayVoice]=00:10:07	Voice03/03-A1/03-A1-J00/03-A1-J00-0070	0	set	00:15:07;
+
+[CreateBG]=00:15:07	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-005A	00:19:12;
+
+[PrintText]=00:15:07	Makoto	Ah... sí, lo sabías.	00:19:11;
+
+[PlayVoice]=00:15:07	Voice03/03-A1/03-A1-J00/03-A1-J00-0080	1	mak	00:19:11;
+
+[CreateBG]=00:19:12	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-005B	00:27:12;
+
+[PrintText]=00:19:13	Setsuna	He comido aquí antes. Solo unas o dos veces en el primer semestre, con Sekai, Nanami y las demás.	00:26:04;
+
+[PlayVoice]=00:19:13	Voice03/03-A1/03-A1-J00/03-A1-J00-0090	0	set	00:26:04;
+
+[PrintText]=00:26:07	Makoto	Ya veo.	00:27:05;
+
+[PlayVoice]=00:26:07	Voice03/03-A1/03-A1-J00/03-A1-J00-0100	1	mak	00:27:05;
+
+[CreateBG]=00:27:12	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-005C	00:31:08;
+
+[PrintText]=00:27:16	Setsuna	A pasado mucho tiempo... pero la vista es muy agradable.	00:31:06;
+
+[PlayVoice]=00:27:16	Voice03/03-A1/03-A1-J00/03-A1-J00-0110	0	set	00:31:06;
+
+[CreateBG]=00:31:08	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-006	00:32:07;
+
+[PrintText]=00:31:09	Makoto	Lo es ¿No?^	00:32:02;
+
+[PlayVoice]=00:31:09	Voice03/03-A1/03-A1-J00/03-A1-J00-0120	1	mak	00:32:02;
+
+[CreateBG]=00:32:07	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-007	00:34:07;
+
+[PrintText]=00:32:12	Setsuna	Para Sekai...	00:34:05;
+
+[PlayVoice]=00:32:12	Voice03/03-A1/03-A1-J00/03-A1-J00-0130	0	set	00:34:05;
+
+[CreateBG]=00:34:07	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-008	00:35:07;
+
+[PrintText]=00:34:08	Makoto	¿Hmn?^	00:34:21;
+
+[PlayVoice]=00:34:08	Voice03/03-A1/03-A1-J00/03-A1-J00-0140	1	mak	00:34:21;
+
+[CreateBG]=00:35:07	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-009	00:37:12;
+
+[PrintText]=00:35:11	Setsuna	Nada.	00:36:15;
+
+[PlayVoice]=00:35:11	Voice03/03-A1/03-A1-J00/03-A1-J00-0150	0	set	00:36:15;
+
+[CreateBG]=00:37:12	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-010	00:42:12;
+
+[PrintText]=00:37:14	Makoto	Escucha... esto es un poco difícil para mi decirlo, pero...	00:42:08;
+
+[PlayVoice]=00:37:14	Voice03/03-A1/03-A1-J00/03-A1-J00-0160	1	mak	00:42:08;
+
+[CreateBG]=00:42:12	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-011	00:43:18;
+
+[PrintText]=00:42:16	Setsuna	Uh-huh.	00:43:06;
+
+[PlayVoice]=00:42:16	Voice03/03-A1/03-A1-J00/03-A1-J00-0170	0	set	00:43:06;
+
+[CreateBG]=00:43:18	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-012	00:48:00;
+
+[PrintText]=00:43:21	Makoto	Acerca de lo que pasó ayer... es un secreto para los demás ¿Vale?^	00:47:19;
+
+[PlayVoice]=00:43:21	Voice03/03-A1/03-A1-J00/03-A1-J00-0180	1	mak	00:47:19;
+
+[CreateBG]=00:48:00	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-013	00:49:11;
+
+[PrintText]=00:48:05	Setsuna	Ayer...	00:49:03;
+
+[PlayVoice]=00:48:05	Voice03/03-A1/03-A1-J00/03-A1-J00-0190	0	set	00:49:03;
+
+[CreateBG]=00:49:11	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-012	00:55:08;
+
+[PrintText]=00:49:17	Makoto	Conociéndote, no creo que le digas a los demás... pero solo en el caso.	00:55:05;
+
+[PlayVoice]=00:49:17	Voice03/03-A1/03-A1-J00/03-A1-J00-0200	1	mak	00:55:05;
+
+[CreateBG]=00:55:08	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-015	00:56:15;
+
+[PrintText]=00:55:11	Setsuna	No lo haré.	00:56:09;
+
+[PlayVoice]=00:55:11	Voice03/03-A1/03-A1-J00/03-A1-J00-0210	0	set	00:56:09;
+
+[CreateBG]=00:56:15	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-016	00:59:00;
+
+[PrintText]=00:56:20	Makoto	Gracias.	00:57:20;
+
+[PlayVoice]=00:56:20	Voice03/03-A1/03-A1-J00/03-A1-J00-0220	1	mak	00:57:20;
+
+[PrintText]=00:58:00	Setsuna	...	00:58:18;
+
+[PlayVoice]=00:58:00	Voice03/03-A1/03-A1-J00/03-A1-J00-0230	0	xxx	00:58:18;
+
+[CreateBG]=00:59:00	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-017	01:03:11;
+
+[PrintText]=00:59:03	Makoto	Haah... Lindo día ¿No?^	01:03:09;
+
+[PlayVoice]=00:59:03	Voice03/03-A1/03-A1-J00/03-A1-J00-0240	1	mak	01:03:09;
+
+[CreateBG]=01:03:11	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-007	01:09:10;
+
+[PrintText]=01:03:13	Setsuna	Uh-huh...	01:04:04;
+
+[PlayVoice]=01:03:13	Voice03/03-A1/03-A1-J00/03-A1-J00-0250	0	set	01:04:04;
+
+[PrintText]=01:04:23	Makoto	Me gustaría quedarme aquí así... y tal vez tomar una siesta.	01:09:08;
+
+[PlayVoice]=01:04:23	Voice03/03-A1/03-A1-J00/03-A1-J00-0260	1	mak	01:09:08;
+
+[PlaySe]=01:09:03	2	Se03/03-A1/03-A1-J00/SE03-A1-J00-001	02:18:08;
+
+[CreateBG]=01:09:10	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-018	01:12:09;
+
+[PrintText]=01:09:12	Setsuna	Uh-huh...	01:10:03;
+
+[PlayVoice]=01:09:12	Voice03/03-A1/03-A1-J00/03-A1-J00-0270	0	set	01:10:03;
+
+[PrintText]=01:10:19	Makoto	...	01:11:18;
+
+[PlayVoice]=01:10:19	Voice03/03-A1/03-A1-J00/03-A1-J00-0280	1	xxx	01:11:18;
+
+[CreateBG]=01:12:09	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-020	01:20:16;
+
+[PrintText]=01:12:14	Setsuna	...Itou.	01:13:11;
+
+[PlayVoice]=01:12:14	Voice03/03-A1/03-A1-J00/03-A1-J00-0290	0	set	01:13:11;
+
+[PrintText]=01:13:13	Makoto	¿Qué pasa?^	01:14:09;
+
+[PlayVoice]=01:13:13	Voice03/03-A1/03-A1-J00/03-A1-J00-0300	1	mak	01:14:09;
+
+[PrintText]=01:14:18	Setsuna	¿Recuerdas lo que pasó en la ceremonia de entrada?^	01:18:10;
+
+[PlayVoice]=01:14:18	Voice03/03-A1/03-A1-J00/03-A1-J00-0310	0	set	01:18:10;
+
+[PrintText]=01:18:13	Makoto	¿Huh?^	01:19:05;
+
+[PlayVoice]=01:18:13	Voice03/03-A1/03-A1-J00/03-A1-J00-0320	1	mak	01:19:05;
+
+[PrintText]=01:19:14	Setsuna	...	01:20:08;
+
+[PlayVoice]=01:19:14	Voice03/03-A1/03-A1-J00/03-A1-J00-0330	0	xxx	01:20:08;
+
+[CreateBG]=01:20:16	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-021	01:26:08;
+
+[PrintText]=01:20:19	Makoto	Oh... la ceremonia de entrada, creo que...	01:26:06;
+
+[PlayVoice]=01:20:19	Voice03/03-A1/03-A1-J00/03-A1-J00-0340	1	mak	01:26:06;
+
+[CreateBG]=01:26:08	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-022	01:34:03;
+
+[PrintText]=01:26:13	Setsuna	...	01:27:06;
+
+[PlayVoice]=01:26:13	Voice03/03-A1/03-A1-J00/03-A1-J00-0350	0	xxx	01:27:06;
+
+[PrintText]=01:27:17	Makoto	Sí, es cierto. Tohyama y Matsuhira estaban molestándote por tu tamaño.	01:34:00;
+
+[PlayVoice]=01:27:17	Voice03/03-A1/03-A1-J00/03-A1-J00-0360	1	mak	01:34:00;
+
+[CreateBG]=01:34:03	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-020	01:45:02;
+
+[PrintText]=01:34:08	Setsuna	Uh-huh. Y luego, me salvaste.	01:38:12;
+
+[PlayVoice]=01:34:08	Voice03/03-A1/03-A1-J00/03-A1-J00-0370	0	set	01:38:12;
+
+[PrintText]=01:38:19	Makoto	Yo, 'Salvarte' creo que es mucho.	01:40:17;
+
+[PlayVoice]=01:38:19	Voice03/03-A1/03-A1-J00/03-A1-J00-0380	1	mak	01:40:17;
+
+[PrintText]=01:41:00	Setsuna	No, me salvaste.	01:44:22;
+
+[PlayVoice]=01:41:00	Voice03/03-A1/03-A1-J00/03-A1-J00-0390	0	set	01:44:22;
+
+[CreateBG]=01:45:02	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-017	01:53:08;
+
+[PrintText]=01:45:03	Makoto	Tohyama y Hiramatsu son viejos amigos de mi antigua escuela.	01:49:00;
+
+[PlayVoice]=01:45:03	Voice03/03-A1/03-A1-J00/03-A1-J00-0400	1	mak	01:53:07;
+
+[PrintText]=01:49:00	Makoto	No quería verlos hacer algo estúpido como molestar a una chica.	01:53:07;
+
+[CreateBG]=01:53:08	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-026	01:56:21;
+
+[PrintText]=01:53:09	Setsuna	Aún así... me hizo feliz.	01:56:18;
+
+[PlayVoice]=01:53:09	Voice03/03-A1/03-A1-J00/03-A1-J00-0410	0	set	01:56:18;
+
+[CreateBG]=01:56:21	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-027	02:00:09;
+
+[PrintText]=01:56:23	Makoto	¿En serio? Pues acepto las gracias.	02:00:08;
+
+[PlayVoice]=01:56:23	Voice03/03-A1/03-A1-J00/03-A1-J00-0420	1	mak	02:00:08;
+
+[CreateBG]=02:00:09	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-026	02:04:07;
+
+[PrintText]=02:00:10	Setsuna	Uh-huh. Estoy muy agradecida.	02:04:04;
+
+[PlayVoice]=02:00:10	Voice03/03-A1/03-A1-J00/03-A1-J00-0430	0	set	02:04:04;
+
+[CreateBG]=02:04:07	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-029A	02:16:07;
+
+[PrintText]=02:04:08	Makoto	Haha... es raro.	02:06:09;
+
+[PlayVoice]=02:04:08	Voice03/03-A1/03-A1-J00/03-A1-J00-0440	1	mak	02:06:09;
+
+[PrintText]=02:06:18	Setsuna	...	02:07:14;
+
+[PlayVoice]=02:06:18	Voice03/03-A1/03-A1-J00/03-A1-J00-0450	0	xxx	02:07:14;
+
+[PrintText]=02:07:20	Makoto	Siempre pensé que eras algo extraña,	02:11:07;
+
+[PlayVoice]=02:07:20	Voice03/03-A1/03-A1-J00/03-A1-J00-0460	1	mak	02:16:03;
+
+[PrintText]=02:11:07	Makoto	pero ciertamente no esperaba que me agradecieras por lo de la ceremonia de entrada.	02:16:03;
+
+[CreateBG]=02:16:07	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-029B	02:17:06;
+
+[PrintText]=02:16:11	Setsuna	Uh-huh.	02:17:02;
+
+[PlayVoice]=02:16:11	Voice03/03-A1/03-A1-J00/03-A1-J00-0470	0	set	02:17:02;
+
+[CreateBG]=02:17:06	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-029C	02:23:18;
+
+[PrintText]=02:17:10	Makoto	Ahora que me has hecho recordar la ceremonia, estaré esperando la próxima ceremonia ...	02:25:17;
+
+[PlayVoice]=02:17:10	Voice03/03-A1/03-A1-J00/03-A1-J00-0480	1	mak	02:25:17;
+
+[PlaySe]=02:18:06	1	Se03/03-A1/03-A1-J00/SE03-A1-J00-001	03:08:19;
+
+[CreateBG]=02:23:18	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-029D	02:27:06;
+
+[PrintText]=02:26:02	Setsuna	...	02:26:21;
+
+[PlayVoice]=02:26:02	Voice03/03-A1/03-A1-J00/03-A1-J00-0490	0	xxx	02:26:21;
+
+[CreateBG]=02:27:06	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-029A	02:39:12;
+
+[PrintText]=02:27:14	Makoto	Fwah... Ahora que he comido, tengo sueño. No pude dormir la noche anterior, así que no he dormido lo suficiente.	02:39:10;
+
+[PlayVoice]=02:27:14	Voice03/03-A1/03-A1-J00/03-A1-J00-0500	1	mak	02:39:10;
+
+[CreateBG]=02:39:12	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-030	02:40:14;
+
+[PrintText]=02:39:15	Setsuna	...Itou.	02:40:11;
+
+[PlayVoice]=02:39:15	Voice03/03-A1/03-A1-J00/03-A1-J00-0510	0	set	02:40:11;
+
+[CreateBG]=02:40:14	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-031	02:44:10;
+
+[PrintText]=02:40:16	Makoto	¿Qué pasa?^	02:41:18;
+
+[PlayVoice]=02:40:16	Voice03/03-A1/03-A1-J00/03-A1-J00-0520	1	mak	02:41:18;
+
+[PrintText]=02:42:00	Setsuna	Yo...	02:43:03;
+
+[PlayVoice]=02:42:00	Voice03/03-A1/03-A1-J00/03-A1-J00-0530	0	set	02:43:03;
+
+[PrintText]=02:43:10	Makoto	Sí...	02:44:06;
+
+[PlayVoice]=02:43:10	Voice03/03-A1/03-A1-J00/03-A1-J00-0540	1	mak	02:44:06;
+
+[CreateBG]=02:44:10	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-030	02:46:00;
+
+[PrintText]=02:44:13	Setsuna	Um...	02:45:13;
+
+[PlayVoice]=02:44:13	Voice03/03-A1/03-A1-J00/03-A1-J00-0550	0	set	02:45:13;
+
+[CreateBG]=02:46:00	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-033	02:50:20;
+
+[PrintText]=02:46:01	Makoto	...	02:46:19;
+
+[PlayVoice]=02:46:01	Voice03/03-A1/03-A1-J00/03-A1-J00-0570	1	xxx	02:46:19;
+
+[PrintText]=02:47:02	Setsuna	...	02:47:23;
+
+[PlayVoice]=02:47:02	Voice03/03-A1/03-A1-J00/03-A1-J00-0580	0	xxx	02:47:23;
+
+[PrintText]=02:48:18	Makoto	Bueno... ¿Cuál es el problema?^	02:50:17;
+
+[PlayVoice]=02:48:18	Voice03/03-A1/03-A1-J00/03-A1-J00-0590	1	mak	02:50:17;
+
+[CreateBG]=02:50:20	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-034	02:52:03;
+
+[PrintText]=02:50:22	Setsuna	...	02:51:16;
+
+[PlayVoice]=02:50:22	Voice03/03-A1/03-A1-J00/03-A1-J00-0600	0	xxx	02:51:16;
+
+[CreateBG]=02:52:03	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-035	02:58:10;
+
+[PrintText]=02:52:07	Makoto	¿...Kiyoura?^	02:53:09;
+
+[PlayVoice]=02:52:07	Voice03/03-A1/03-A1-J00/03-A1-J00-0610	1	mak	02:53:09;
+
+[PrintText]=02:53:11	Setsuna	...	02:54:11;
+
+[PlayVoice]=02:53:11	Voice03/03-A1/03-A1-J00/03-A1-J00-0620	0	xxx	02:54:11;
+
+[PrintText]=02:55:07	Makoto	¿Um...?^	02:56:16;
+
+[PlayVoice]=02:55:07	Voice03/03-A1/03-A1-J00/03-A1-J00-0630	1	mak	02:56:16;
+
+[PrintText]=02:57:01	Setsuna	...	02:58:04;
+
+[PlayVoice]=02:57:01	Voice03/03-A1/03-A1-J00/03-A1-J00-0640	0	xxx	02:58:04;
+
+[CreateBG]=02:58:10	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-036	03:02:06;
+
+[PrintText]=02:58:15	Makoto	...	02:59:15;
+
+[PlayVoice]=02:58:15	Voice03/03-A1/03-A1-J00/03-A1-J00-0650	1	xxx	02:59:15;
+
+[PrintText]=03:00:11	Setsuna	...	03:01:17;
+
+[PlayVoice]=03:00:11	Voice03/03-A1/03-A1-J00/03-A1-J00-0660	0	xxx	03:01:17;
+
+[CreateBG]=03:02:06	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-037	03:05:10;
+
+[PrintText]=03:02:10	Makoto	¿...Deberíamos regresar?^	03:05:07;
+
+[PlayVoice]=03:02:10	Voice03/03-A1/03-A1-J00/03-A1-J00-0670	1	mak	03:05:07;
+
+[CreateBG]=03:05:10	BGS	Event03/03-A1/03-A1-J00/03-A1-J00-035	03:08:19;
+
+[PrintText]=03:05:12	Setsuna	U... uh-huh.	03:07:12;
+
+[PlayVoice]=03:05:12	Voice03/03-A1/03-A1-J00/03-A1-J00-0680	0	set	03:07:12;
+
+[BlackFade]=03:07:19	OUT	03:08:19;
+
+ ;
+
+[Next]=03:08:19;
+
+

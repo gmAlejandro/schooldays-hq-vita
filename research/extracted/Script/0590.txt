@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:17:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:17:02;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-J02/SE03-KA-J02-001	00:17:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-J02/03-KA-J02-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-J02/03-KA-J02-002	00:06:18;
+
+[PrintText]=00:03:01	Representante de comite	¡Buen trabajo a todos!	00:04:18;
+
+[PlayVoice]=00:03:01	Voice03/03-KA/03-KA-J02/03-KA-J02-0030	0	jin	00:04:18;
+
+[PrintText]=00:04:16	Makoto	¡Buen trabajo, chicos!	00:06:09;
+
+[PlayVoice]=00:04:16	Voice03/03-KA/03-KA-J02/03-KA-J02-0040	1	mak	00:06:09;
+
+[CreateBG]=00:06:18	BGS	Event03/03-KA/03-KA-J02/03-KA-J02-003	00:13:10;
+
+[PrintText]=00:06:20	Makoto	Phew... Me terminaron ayudando los de segundo año con esto, y justo a tiempo.	00:13:05;
+
+[PlayVoice]=00:06:20	Voice03/03-KA/03-KA-J02/03-KA-J02-0050	1	mak	00:13:05;
+
+[CreateBG]=00:13:10	BGS	Event03/03-KA/03-KA-J02/03-KA-J02-004A	00:16:04;
+
+[PrintText]=00:13:16	Makoto	Supongo que me iré a casa... ¿hmm?^	00:16:18;
+
+[PlayVoice]=00:13:16	Voice03/03-KA/03-KA-J02/03-KA-J02-0060	1	mak	00:16:18;
+
+[CreateBG]=00:16:04	BGS	Event03/03-KA/03-KA-J02/03-KA-J02-004B	00:17:02;
+
+ ;
+
+[Next]=00:17:02;
+
+

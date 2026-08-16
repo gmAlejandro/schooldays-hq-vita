@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:37:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:37:00;
+
+[PlaySe]=00:00:00	2	Se02/02-2S/02-2S-V00/SE02-2S-V00-001	00:37:00;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-001	00:02:21;
+
+[CreateBG]=00:02:21	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-002	00:05:23;
+
+[CreateBG]=00:05:23	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-003	00:08:13;
+
+[PrintText]=00:06:05	Otome	Ah...	00:06:22;
+
+[PlayVoice]=00:06:05	Voice02/02-2S/02-2S-V00/02-2S-V00-0050	0	oto	00:06:22;
+
+[PrintText]=00:07:05	Makoto	Hey, Katou. ¿Sigues en las actividades del club?^	00:09:20;
+
+[PlayVoice]=00:07:05	Voice02/02-2S/02-2S-V00/02-2S-V00-0060	1	mak	00:09:20;
+
+[CreateBG]=00:08:13	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-004	00:15:14;
+
+[PrintText]=00:09:21	Otome	S...Sí...	00:11:09;
+
+[PlayVoice]=00:09:21	Voice02/02-2S/02-2S-V00/02-2S-V00-0070	0	oto	00:11:09;
+
+[PrintText]=00:11:09	Makoto	¿Qué pasa? Te ves decaída.	00:13:18;
+
+[PlayVoice]=00:11:09	Voice02/02-2S/02-2S-V00/02-2S-V00-0080	1	mak	00:13:18;
+
+[PrintText]=00:13:16	Otome	No realmente.	00:15:14;
+
+[PlayVoice]=00:13:16	Voice02/02-2S/02-2S-V00/02-2S-V00-0090	0	oto	00:15:14;
+
+[CreateBG]=00:15:14	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-005	00:19:20;
+
+[PrintText]=00:15:15	Makoto	¿Sí? Bueno... nos vemos.	00:18:03;
+
+[PlayVoice]=00:15:15	Voice02/02-2S/02-2S-V00/02-2S-V00-0100	1	mak	00:18:03;
+
+[PrintText]=00:18:15	Otome	¡Ah, Itou!	00:19:23;
+
+[PlayVoice]=00:18:15	Voice02/02-2S/02-2S-V00/02-2S-V00-0110	0	oto	00:19:23;
+
+[CreateBG]=00:19:20	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-006	00:23:05;
+
+[PrintText]=00:19:20	Makoto	¿Qué pasó?^	00:21:02;
+
+[PlayVoice]=00:19:20	Voice02/02-2S/02-2S-V00/02-2S-V00-0120	1	mak	00:21:02;
+
+[PrintText]=00:21:08	Otome	Itou, tú y... no, olvídalo.	00:27:11;
+
+[PlayVoice]=00:21:08	Voice02/02-2S/02-2S-V00/02-2S-V00-0130	0	oto	00:27:11;
+
+[CreateBG]=00:23:05	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-007	00:25:01;
+
+[CreateBG]=00:25:01	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-008	00:33:16;
+
+[PrintText]=00:27:06	Makoto	¿Hmn? Bueno, nos vemos, entonces. Buena suerte con lo de tu club.	00:32:13;
+
+[PlayVoice]=00:27:06	Voice02/02-2S/02-2S-V00/02-2S-V00-0140	1	mak	00:32:13;
+
+[PrintText]=00:32:15	Otome	Sí...	00:33:09;
+
+[PlayVoice]=00:32:15	Voice02/02-2S/02-2S-V00/02-2S-V00-0150	0	oto	00:33:09;
+
+[PlaySe]=00:33:16	1	Voice02/02-2S/02-2S-V00/02-2S-V00-0160	00:37:00;
+
+[CreateBG]=00:33:16	BGS	Event02/02-2S/02-2S-V00/02-2S-V00-009	00:37:00;
+
+ ;
+
+[Next]=00:37:00;
+
+
+
+

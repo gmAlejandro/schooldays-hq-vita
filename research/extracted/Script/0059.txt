@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:36:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:36:01;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-G02/01-00-G02-001	00:02:20;
+
+[PrintText]=00:00:06	Makoto	...¿Trataba de decirme algo importante?^	00:01:22;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-G02/01-00-G02-0030	1	xxx	00:01:22;
+
+[WhiteFade]=00:02:08	OUT	00:02:20;
+
+[PlayMovie]=00:02:20	Movie01/01-00/01-00-G02/01-00-G02-002	0	00:11:10;
+
+[WhiteFade]=00:02:20	IN	00:03:08;
+
+[PrintText]=00:03:12	Makoto	Una de las cosas acerca de Katsura, es que es un poco callada...	00:07:18;
+
+[PrintText]=00:07:18	Makoto	Ella es muy tímida como para saber lo que está pensando.	00:10:21;
+
+[PlayVoice]=00:03:12	Voice01/01-00/01-00-G02/01-00-G02-0040	1	xxx	00:10:21;
+
+[WhiteFade]=00:10:21	OUT	00:11:09;
+
+[CreateBG]=00:11:09	BGS	Event01/01-00/01-00-G02/01-00-G02-005	00:16:09;
+
+[WhiteFade]=00:11:09	IN	00:11:21;
+
+[PrintText]=00:12:03	Makoto	Tal vez ella intentaba decirme algo importante, pero no pudo.	00:16:01;
+
+[PlayVoice]=00:12:03	Voice01/01-00/01-00-G02/01-00-G02-0050	1	xxx	00:16:01;
+
+[CreateBG]=00:16:09	BGS	Ini/Event01/01-00/01-00-G02/01-00-G02-006	00:22:17;
+
+[PrintText]=00:17:09	Makoto	'Ko'... eso es todo lo que dijo.	00:22:02;
+
+[PlayVoice]=00:17:09	Voice01/01-00/01-00-G02/01-00-G02-0060	1	xxx	00:22:02;
+
+[CreateBG]=00:22:17	BGS	Event01/01-00/01-00-G02/01-00-G02-007	00:36:01;
+
+[PrintText]=00:23:11	Makoto	'Ko', huh... me pregunto qué quiso decir.	00:28:15;
+
+[PlayVoice]=00:23:11	Voice01/01-00/01-00-G02/01-00-G02-0070	1	xxx	00:28:15;
+
+[PrintText]=00:30:04	Makoto	Le preguntaré después de clase, antes de la reunión del consejo estudiantil.	00:34:00;
+
+[PlayVoice]=00:30:04	Voice01/01-00/01-00-G02/01-00-G02-0080	1	xxx	00:34:00;
+
+[BlackFade]=00:35:01	OUT	00:36:01;
+
+ ;
+
+[Next]=00:36:01;
+
+
+
+

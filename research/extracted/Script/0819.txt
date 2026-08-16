@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:11:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:11:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-D02/03-SB-D02-001	00:03:23;
+
+[PrintText]=00:00:00	Makoto	Perdón, tengo una llamada en espera.	00:01:21;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-D02/03-SB-D02-0030	1	mak	00:01:21;
+
+[PrintText]=00:01:21	Sekai	¿Eh? Ah, vale.	00:04:04;
+
+[PlayVoice]=00:01:21	Voice03/03-SB/03-SB-D02/03-SB-D02-0040	0	sek	00:04:04;
+
+[CreateBG]=00:03:23	BGS	Event03/03-SB/03-SB-D02/03-SB-D02-002	00:05:06;
+
+[PrintText]=00:04:04	Makoto	Te llamaré después...	00:05:06;
+
+[PlayVoice]=00:04:04	Voice03/03-SB/03-SB-D02/03-SB-D02-0050	1	mak	00:05:06;
+
+[CreateBG]=00:05:06	BGS	Event03/03-SB/03-SB-D02/03-SB-D02-002B	00:07:23;
+
+[PrintText]=00:05:06	Sekai	Está bien, me iré a dar un baño ahora.	00:07:23;
+
+[PlayVoice]=00:05:06	Voice03/03-SB/03-SB-D02/03-SB-D02-0060	0	sek	00:07:23;
+
+[CreateBG]=00:07:22	BGS	Event03/03-SB/03-SB-D02/03-SB-D02-002C	00:09:10;
+
+[PrintText]=00:07:23	Makoto	Asegúrate de lavarte también ahí adentro.	00:09:14;
+
+[PlayVoice]=00:07:23	Voice03/03-SB/03-SB-D02/03-SB-D02-0070	1	mak	00:09:14;
+
+[CreateBG]=00:09:10	BGS	Event03/03-SB/03-SB-D02/03-SB-D02-002D	00:11:23;
+
+[PrintText]=00:09:13	Sekai	Tonto.	00:10:10;
+
+[PlayVoice]=00:09:13	Voice03/03-SB/03-SB-D02/03-SB-D02-0080	0	sek	00:10:10;
+
+[PrintText]=00:10:10	Makoto	Haha. Te llamó después.	00:11:22;
+
+[PlayVoice]=00:10:10	Voice03/03-SB/03-SB-D02/03-SB-D02-0090	1	mak	00:11:22;
+
+ ;
+
+[Next]=00:11:23;
+
+

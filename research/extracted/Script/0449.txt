@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:58:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:14:23;
+
+[PlaySe]=00:00:00	1	Se03/03-B0/03-B0-C00/SE03-B0-C00-001	00:15:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-B0/03-B0-C00/03-B0-C00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KB/03-KB-M06/03-KB-M06-009	00:04:00;
+
+[CreateBG]=00:04:00	BGS	Event03/03-B0/03-B0-C00/03-B0-C00-003	00:05:15;
+
+[PrintText]=00:04:08	Sekai	...	00:04:20;
+
+[PlayVoice]=00:04:08	Voice03/03-B0/03-B0-C00/03-B0-C00-0040	0	xxx	00:04:20;
+
+[PlayMovie]=00:05:15	Movie03/03-B0/03-B0-C00/03-B0-C00-004	0	00:07:13;
+
+[PlayMovie]=00:07:13	Movie03/03-B0/03-B0-C00/03-B0-C00-005	0	00:09:23;
+
+[CreateBG]=00:09:23	BGS	Event03/03-B0/03-B0-C00/03-B0-C00-006	00:11:18;
+
+[PrintText]=00:10:05	Sekai	Ah...	00:10:21;
+
+[PlayVoice]=00:10:05	Voice03/03-B0/03-B0-C00/03-B0-C00-0060	0	sek	00:10:21;
+
+[PlayMovie]=00:11:18	Movie03/03-B0/03-B0-C00/03-B0-C00-007	0	00:15:17;
+
+[EndBGM]=00:13:05	BGM/Vocal/SDV04	02:23:22;
+
+[PrintText]=00:13:15	Sekai	...	00:14:03;
+
+[PlayVoice]=00:13:15	Voice03/03-B0/03-B0-C00/03-B0-C00-0080	0	xxx	00:14:03;
+
+[BlackFade]=00:14:17	OUT	00:15:17;
+
+[CreateBG]=00:15:17	BGS	Ini/EndRoll/03-02	00:18:00;
+
+[EndRoll]=00:18:00	Ini/EndRoll/NORMAL	00:58:00;
+
+ ;
+
+[Next]=00:58:00;
+
+

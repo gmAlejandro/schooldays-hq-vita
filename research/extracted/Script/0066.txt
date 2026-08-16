@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:14:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:06;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H04/SE01-00-H04-001	00:14:06;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H04/01-00-H04-001	00:01:10;
+
+[PrintText]=00:00:06	Makoto	¡Por supuesto que no!	00:01:21;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-H04/01-00-H04-0030	1	mak	00:01:21;
+
+[CreateBG]=00:01:10	BGS	Event01/01-00/01-00-H00/01-00-H00-003	00:03:19;
+
+[PrintText]=00:01:10	Sekai	¡Wah!	00:02:09;
+
+[PlayVoice]=00:01:10	Voice01/01-00/01-00-H04/01-00-H04-0040	0	sek	00:02:09;
+
+[PrintText]=00:02:17	Makoto	Ah... Perdón.	00:04:16;
+
+[PlayVoice]=00:02:17	Voice01/01-00/01-00-H04/01-00-H04-0050	1	mak	00:04:16;
+
+[CreateBG]=00:03:19	BGS	Event01/01-00/01-00-H04/01-00-H04-004	00:04:22;
+
+[CreateBG]=00:04:22	BGS	Event01/01-00/01-00-H04/01-00-H04-005	00:09:13;
+
+[PrintText]=00:05:02	Sekai	No tienes que gritármelo, ya lo se.	00:08:00;
+
+[PlayVoice]=00:05:02	Voice01/01-00/01-00-H04/01-00-H04-0060	0	sek	00:08:00;
+
+[PrintText]=00:08:06	Makoto	...	00:09:04;
+
+[PlayVoice]=00:08:06	Voice01/01-00/01-00-H04/01-00-H04-0070	1	xxx	00:09:04;
+
+[CreateBG]=00:09:13	BGS	Event01/01-00/01-00-H04/01-00-H04-006	00:14:06;
+
+[PrintText]=00:09:16	Sekai	Solo fue una broma, sabes.	00:11:17;
+
+[PlayVoice]=00:09:16	Voice01/01-00/01-00-H04/01-00-H04-0080	0	sek	00:11:17;
+
+[PrintText]=00:12:00	Makoto	Perdóname.	00:13:04;
+
+[PlayVoice]=00:12:00	Voice01/01-00/01-00-H04/01-00-H04-0090	1	mak	00:13:04;
+
+[PrintText]=00:13:09	Sekai	Vale.	00:14:00;
+
+[PlayVoice]=00:13:09	Voice01/01-00/01-00-H04/01-00-H04-0100	0	sek	00:14:00;
+
+ ;
+
+[Next]=00:14:06;
+
+
+
+

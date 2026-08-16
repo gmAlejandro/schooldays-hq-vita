@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:04:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-B2/03-B2-A03/03-B2-A03-001	00:02:00;
+
+[PrintText]=00:00:00	Makoto	No creo que pueda ir.	00:02:00;
+
+[PlayVoice]=00:00:00	Voice03/03-B2/03-B2-A03/03-B2-A03-0040	1	mak	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-B2/03-B2-A03/03-B2-A03-002	00:04:21;
+
+[PrintText]=00:02:00	Kotonoha	Pero...	00:03:10;
+
+[PlayVoice]=00:02:00	Voice03/03-B2/03-B2-A03/03-B2-A03-0050	0	kot	00:03:10;
+
+[BlackFade]=00:03:21	OUT	00:04:21;
+
+ ;
+
+[Next]=00:04:21;
+
+

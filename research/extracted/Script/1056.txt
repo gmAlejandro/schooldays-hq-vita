@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:04:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:10:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-008	00:01:03;
+
+[PrintText]=00:00:00	Kotonoha	Makoto-kun...	00:01:02;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-B03/04-KE-B03-0030	0	kot	00:01:02;
+
+[PlayMovie]=00:01:03	Movie04/04-KE/04-KE-B03/04-KE-B03-002	0	00:10:07;
+
+[PrintText]=00:03:14	Makoto	Ah...	00:04:15;
+
+[PlayVoice]=00:03:14	Voice04/04-KE/04-KE-B03/04-KE-B03-0050	1	mak	00:04:15;
+
+[SetSELECT]=00:04:03	*Besarla*	*No hacer nada*	00:09:03;
+
+ ;
+
+[Next]=00:10:07;
+
+

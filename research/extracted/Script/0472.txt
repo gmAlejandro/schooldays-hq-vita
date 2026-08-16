@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:07:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:07:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-A04/03-BK-A04-001	00:07:14;
+
+[PrintText]=00:00:00	Makoto	Sekai...	00:01:10;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-A04/03-BK-A04-0030	1	mak	00:01:10;
+
+[PrintText]=00:02:03	Makoto	¿Eso es lo que ella quiere...? Después de todo lo que a pasado...	00:05:07;
+
+[PlayVoice]=00:02:03	Voice03/03-BK/03-BK-A04/03-BK-A04-0040	1	mak	00:05:07;
+
+[PrintText]=00:05:23	Makoto	Haah...	00:07:01;
+
+[PlayVoice]=00:05:23	Voice03/03-BK/03-BK-A04/03-BK-A04-0050	1	mak	00:07:01;
+
+ ;
+
+[Next]=00:07:14;
+
+

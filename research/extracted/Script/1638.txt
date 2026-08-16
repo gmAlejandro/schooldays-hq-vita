@@ -1,0 +1,151 @@
+﻿[SkipFRAME]=01:21:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	01:21:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-001	00:02:22;
+
+[PrintText]=00:00:00	Kotonoha	...	00:00:22;
+
+[PlayVoice]=00:00:00	Voice05/05-KI/05-KI-C00/05-KI-C00-0050	0	xxx	00:00:22;
+
+[PrintText]=00:00:23	Sekai	¿De qué quieres hablar?^	00:02:22;
+
+[PlayVoice]=00:00:23	Voice05/05-KI/05-KI-C00/05-KI-C00-0060	0	sek	00:02:22;
+
+[CreateBG]=00:02:22	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-002	00:04:15;
+
+[PrintText]=00:02:22	Kotonoha	Es acerca de Makoto-kun.	00:04:14;
+
+[PlayVoice]=00:02:22	Voice05/05-KI/05-KI-C00/05-KI-C00-0080	0	kot	00:04:14;
+
+[CreateBG]=00:04:15	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-003	00:05:03;
+
+[PrintText]=00:04:15	Sekai	...	00:05:02;
+
+[PlayVoice]=00:04:15	Voice05/05-KI/05-KI-C00/05-KI-C00-0090	0	xxx	00:05:02;
+
+[PrintText]=00:05:02	Kotonoha	¡Por favor... deja... de s-seducirlo!	00:10:09;
+
+[PlayVoice]=00:05:02	Voice05/05-KI/05-KI-C00/05-KI-C00-0100	0	kot	00:10:09;
+
+[CreateBG]=00:05:03	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-004	00:10:10;
+
+[CreateBG]=00:10:10	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-005	00:13:08;
+
+[PrintText]=00:10:10	Sekai	¿Seducirlo..? ¿De qué estás hablando?^	00:13:08;
+
+[PlayVoice]=00:10:10	Voice05/05-KI/05-KI-C00/05-KI-C00-0110	0	sek	00:13:08;
+
+[CreateBG]=00:13:08	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-006	00:21:04;
+
+[PrintText]=00:13:08	Kotonoha	¡El no es la persona que crees...la verdad es que, está enamorado de mí!	00:21:04;
+
+[PlayVoice]=00:13:08	Voice05/05-KI/05-KI-C00/05-KI-C00-0120	0	kot	00:21:04;
+
+[CreateBG]=00:21:04	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-007	00:22:20;
+
+[PrintText]=00:21:04	Sekai	¿Eso es lo que él dijo?^	00:22:20;
+
+[PlayVoice]=00:21:04	Voice05/05-KI/05-KI-C00/05-KI-C00-0130	0	sek	00:22:20;
+
+[CreateBG]=00:22:20	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-008	00:24:07;
+
+[PrintText]=00:22:20	Kotonoha	...	00:24:06;
+
+[PlayVoice]=00:22:20	Voice05/05-KI/05-KI-C00/05-KI-C00-0140	0	xxx	00:24:06;
+
+[CreateBG]=00:24:07	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-009A	00:32:00;
+
+[PrintText]=00:24:07	Sekai	Siempre pensé que no podía hacer nada, porque tú eras la que estaba enamorada de él.	00:30:22;
+
+[PlayVoice]=00:24:07	Voice05/05-KI/05-KI-C00/05-KI-C00-0150	0	sek	00:30:22;
+
+[PrintText]=00:30:22	Kotonoha	Ah...	00:31:23;
+
+[PlayVoice]=00:30:22	Voice05/05-KI/05-KI-C00/05-KI-C00-0160	0	kot	00:31:23;
+
+[CreateBG]=00:32:00	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-009B	00:55:10;
+
+[PrintText]=00:32:00	Sekai	Pero... si él ya no te ama... entonces no retrocederé.	00:41:22;
+
+[PlayVoice]=00:32:00	Voice05/05-KI/05-KI-C00/05-KI-C00-0170	0	sek	00:41:22;
+
+[PrintText]=00:41:22	Kotonoha	¿Saionji-san... qué estás...?^	00:47:15;
+
+[PlayVoice]=00:41:22	Voice05/05-KI/05-KI-C00/05-KI-C00-0180	0	kot	00:47:15;
+
+[PrintText]=00:47:15	Sekai	Incluso desde la ceremonia de entrada... estaba enamorada de él.	00:55:10;
+
+[PlayVoice]=00:47:15	Voice05/05-KI/05-KI-C00/05-KI-C00-0190	0	sek	00:55:10;
+
+[CreateBG]=00:55:10	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-010	00:57:02;
+
+[PrintText]=00:55:10	Kotonoha	...	00:57:02;
+
+[PlayVoice]=00:55:10	Voice05/05-KI/05-KI-C00/05-KI-C00-0200	0	xxx	00:57:02;
+
+[CreateBG]=00:57:02	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-011	01:00:21;
+
+[PrintText]=00:57:02	Kotonoha	¿Saionji... san?^	01:00:21;
+
+[PlayVoice]=00:57:02	Voice05/05-KI/05-KI-C00/05-KI-C00-0230	0	kot	01:00:21;
+
+[CreateBG]=01:00:21	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-012	01:03:20;
+
+[PrintText]=01:00:21	Sekai	Por eso ya no lo ocultaré más.	01:03:19;
+
+[PlayVoice]=01:00:21	Voice05/05-KI/05-KI-C00/05-KI-C00-0240	0	sek	01:03:19;
+
+[CreateBG]=01:03:20	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-013	01:05:02;
+
+[PrintText]=01:03:20	Kotonoha	No...	01:05:02;
+
+[PlayVoice]=01:03:20	Voice05/05-KI/05-KI-C00/05-KI-C00-0250	0	kot	01:05:02;
+
+[CreateBG]=01:05:02	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-014	01:07:22;
+
+[PrintText]=01:05:02	Sekai	No voy a rendirme.	01:07:21;
+
+[PlayVoice]=01:05:02	Voice05/05-KI/05-KI-C00/05-KI-C00-0260	0	sek	01:07:21;
+
+[PrintText]=01:07:21	Kotonoha	Cállate...	01:09:00;
+
+[PlayVoice]=01:07:21	Voice05/05-KI/05-KI-C00/05-KI-C00-0270	0	kot	01:09:00;
+
+[CreateBG]=01:07:22	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-015	01:09:01;
+
+[CreateBG]=01:09:01	BGS	Event05/05-KI/05-KI-C00/05-KI-C00-014	01:10:06;
+
+[PrintText]=01:09:01	Sekai	Ya no huiré.	01:10:20;
+
+[PlayVoice]=01:09:01	Voice05/05-KI/05-KI-C00/05-KI-C00-0280	0	sek	01:10:20;
+
+[PlayMovie]=01:10:06	Movie05/05-KI/05-KI-C00/05-KI-C00-015	0	01:12:08;
+
+[PrintText]=01:10:20	Kotonoha	¡Para!	01:12:07;
+
+[PlayVoice]=01:10:20	Voice05/05-KI/05-KI-C00/05-KI-C00-0290	0	kot	01:12:07;
+
+[PlaySe]=01:12:03	1	SysSe/SE_all/action/hirate1	01:12:21;
+
+[PlayMovie]=01:12:08	Movie05/05-KI/05-KI-C00/05-KI-C00-016	0	01:21:18;
+
+[PrintText]=01:12:08	Sekai	...	01:13:07;
+
+[PlayVoice]=01:12:08	Voice05/05-KI/05-KI-C00/05-KI-C00-0310	0	xxx	01:13:07;
+
+[PrintText]=01:13:07	Kotonoha	¡Haah... haah...!	01:17:21;
+
+[PlayVoice]=01:13:07	Voice05/05-KI/05-KI-C00/05-KI-C00-0320	0	kot	01:17:21;
+
+[PrintText]=01:17:22	Sekai	Ya... no dudaré.	01:20:14;
+
+[PlayVoice]=01:17:22	Voice05/05-KI/05-KI-C00/05-KI-C00-0330	0	sek	01:20:14;
+
+ ;
+
+[Next]=01:21:18;
+
+
+
+

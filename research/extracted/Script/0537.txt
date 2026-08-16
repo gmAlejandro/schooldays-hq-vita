@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:03:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:03:11;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C06/SE03-KA-C06-001	00:03:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C06/03-KA-C06-001	00:03:11;
+
+[PrintText]=00:00:00	Makoto	Me iré a la cafetería.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-C06/03-KA-C06-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:13	Setsuna	Uh-huh.	00:02:04;
+
+[PlayVoice]=00:01:13	Voice03/03-KA/03-KA-C06/03-KA-C06-0040	0	set	00:02:04;
+
+[BlackFade]=00:02:11	OUT	00:03:11;
+
+ ;
+
+[Next]=00:03:11;
+
+

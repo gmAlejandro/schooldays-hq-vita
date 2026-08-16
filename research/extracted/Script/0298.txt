@@ -1,0 +1,115 @@
+﻿[SkipFRAME]=01:08:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:08:17;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C06/SE02-2S-C06-001	01:08:14;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C06/02-2S-C06-001	00:10:00;
+
+[PrintText]=00:00:00	Makoto	Díselo tú.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-C06/02-2S-C06-0030	1	mak	00:01:14;
+
+[PrintText]=00:01:14	Sekai	¡¿Ehh?! ¿Yo?^	00:03:17;
+
+[PlayVoice]=00:01:14	Voice02/02-2S/02-2S-C06/02-2S-C06-0040	0	sek	00:03:17;
+
+[PrintText]=00:03:18	Makoto	Sí. D-Después de todo, fuiste tú la que hizo que nos conociéramos.	00:08:07;
+
+[PlayVoice]=00:03:18	Voice02/02-2S/02-2S-C06/02-2S-C06-0050	1	mak	00:08:07;
+
+[PrintText]=00:08:08	Sekai	¡¿Ah! ¡Eso no es justo! ¡¿Es mi culpa ahora?!	00:11:22;
+
+[PlayVoice]=00:08:08	Voice02/02-2S/02-2S-C06/02-2S-C06-0060	0	sek	00:11:22;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2S/02-2S-C06/02-2S-C06-002	00:20:00;
+
+[PrintText]=00:11:21	Makoto	Bueno, no del todo, pero tú estás involucrada en esto también...	00:16:03;
+
+[PlayVoice]=00:11:21	Voice02/02-2S/02-2S-C06/02-2S-C06-0070	1	mak	00:16:03;
+
+[PrintText]=00:16:03	Sekai	Eso no quiere decir que debo ir sola... a-además, no sabría qué decirle.	00:25:21;
+
+[PlayVoice]=00:16:03	Voice02/02-2S/02-2S-C06/02-2S-C06-0080	0	sek	00:25:21;
+
+[CreateBG]=00:20:00	BGS	Event02/02-2S/02-2S-C06/02-2S-C06-003	00:30:00;
+
+[PrintText]=00:25:21	Makoto	¡P-por supuesto que sí!	00:28:12;
+
+[PlayVoice]=00:25:21	Voice02/02-2S/02-2S-C06/02-2S-C06-0090	1	mak	00:28:12;
+
+[PrintText]=00:28:13	Sekai	¡No!	00:29:22;
+
+[PlayVoice]=00:28:13	Voice02/02-2S/02-2S-C06/02-2S-C06-0100	0	sek	00:29:22;
+
+[PrintText]=00:29:22	Makoto	Y...Ya sabes, como 'Nosotros sentimos lo mismo'.	00:35:10;
+
+[PlayVoice]=00:29:22	Voice02/02-2S/02-2S-C06/02-2S-C06-0110	1	mak	00:35:10;
+
+[CreateBG]=00:30:00	BGS	Event02/02-2S/02-2S-C06/02-2S-C06-004	00:40:00;
+
+[PrintText]=00:35:11	Sekai	¿Por qué no se lo dices, entonces?^	00:38:06;
+
+[PlayVoice]=00:35:11	Voice02/02-2S/02-2S-C06/02-2S-C06-0120	0	sek	00:38:06;
+
+[PrintText]=00:38:05	Makoto	B-bien...	00:41:10;
+
+[PlayVoice]=00:38:05	Voice02/02-2S/02-2S-C06/02-2S-C06-0130	1	mak	00:41:10;
+
+[CreateBG]=00:40:00	BGS	Event02/02-2S/02-2S-C01/02-2S-C01-004	00:50:00;
+
+[PrintText]=00:41:11	Sekai	En ese caso...	00:42:15;
+
+[PlayVoice]=00:41:11	Voice02/02-2S/02-2S-C06/02-2S-C06-0140	0	sek	00:42:15;
+
+[PrintText]=00:42:15	Makoto	¿En ese caso...?^	00:43:13;
+
+[PlayVoice]=00:42:15	Voice02/02-2S/02-2S-C06/02-2S-C06-0150	1	mak	00:43:13;
+
+[PrintText]=00:43:13	Sekai	¿Se lo decimos... juntos?^	00:45:20;
+
+[PlayVoice]=00:43:13	Voice02/02-2S/02-2S-C06/02-2S-C06-0160	0	sek	00:45:20;
+
+[PrintText]=00:45:20	Makoto	¿Juntos ...?^	00:46:15;
+
+[PlayVoice]=00:45:20	Voice02/02-2S/02-2S-C06/02-2S-C06-0170	1	mak	00:46:15;
+
+[PrintText]=00:46:15	Sekai	Uh-huh.	00:47:08;
+
+[PlayVoice]=00:46:15	Voice02/02-2S/02-2S-C06/02-2S-C06-0180	0	sek	00:47:08;
+
+[PrintText]=00:47:08	Makoto	Juntos eh ...^	00:49:03;
+
+[PlayVoice]=00:47:08	Voice02/02-2S/02-2S-C06/02-2S-C06-0190	1	mak	00:49:03;
+
+[PrintText]=00:49:03	Sekai	Después de todo, esto nos preocupa a los dos.	00:51:23;
+
+[PlayVoice]=00:49:03	Voice02/02-2S/02-2S-C06/02-2S-C06-0200	0	sek	00:51:23;
+
+[CreateBG]=00:50:00	BGS	Event02/02-2S/02-2S-C06/02-2S-C06-006	01:00:00;
+
+[PrintText]=00:51:23	Makoto	Sí... supongo que tienes razón.	00:55:17;
+
+[PlayVoice]=00:51:23	Voice02/02-2S/02-2S-C06/02-2S-C06-0210	1	mak	00:55:17;
+
+[PrintText]=00:55:18	Sekai	Vamos a decírselo juntos entonces ¿Vale?^	00:59:10;
+
+[PlayVoice]=00:55:18	Voice02/02-2S/02-2S-C06/02-2S-C06-0220	0	sek	00:59:10;
+
+[PrintText]=00:59:10	Makoto	Sí.	01:00:01;
+
+[PlayVoice]=00:59:10	Voice02/02-2S/02-2S-C06/02-2S-C06-0230	1	mak	01:00:01;
+
+[CreateBG]=01:00:00	BGS	Event02/02-2S/02-2S-C06/02-2S-C06-007	01:08:17;
+
+[PrintText]=01:00:01	Sekai	Bien, está dicho.	01:00:20;
+
+[PlayVoice]=01:00:01	Voice02/02-2S/02-2S-C06/02-2S-C06-0240	0	sek	01:00:20;
+
+ ;
+
+[Next]=01:08:17;
+
+
+
+

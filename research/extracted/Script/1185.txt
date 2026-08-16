@@ -1,0 +1,121 @@
+﻿[SkipFRAME]=00:45:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	00:27:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-001	00:03:01;
+
+[CreateBG]=00:03:01	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-002	00:04:23;
+
+[PrintText]=00:03:01	Taisuke	¡Buen día!	00:05:07;
+
+[PlayVoice]=00:03:01	Voice04/04-SB/04-SB-B04/04-SB-B04-0030	1	tai	00:05:07;
+
+[CreateBG]=00:04:23	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-003	00:06:03;
+
+[PrintText]=00:04:23	Makoto	Te ves de buenas hoy...	00:06:10;
+
+[PlayVoice]=00:04:23	Voice04/04-SB/04-SB-B04/04-SB-B04-0040	1	mak	00:06:10;
+
+[CreateBG]=00:06:03	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-004	00:10:13;
+
+[PrintText]=00:06:03	Taisuke	¡Sí! ¡Mi vida es, como decirlo... hermosa!	00:09:15;
+
+[PlayVoice]=00:06:03	Voice04/04-SB/04-SB-B04/04-SB-B04-0050	1	tai	00:09:15;
+
+[PrintText]=00:09:10	Makoto	Pareces estar trabajando mucho...	00:10:18;
+
+[PlayVoice]=00:09:10	Voice04/04-SB/04-SB-B04/04-SB-B04-0060	1	mak	00:10:18;
+
+[CreateBG]=00:10:13	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-004A	00:12:08;
+
+[PrintText]=00:10:13	Taisuke	¡Uwahahaha!	00:12:02;
+
+[PlayVoice]=00:10:13	Voice04/04-SB/04-SB-B04/04-SB-B04-0070	1	tai	00:12:02;
+
+[CreateBG]=00:12:08	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-004B	00:17:17;
+
+[PrintText]=00:12:09	Makoto	¿... Kotonoha y tú se llevan bien?^	00:15:10;
+
+[PlayVoice]=00:12:09	Voice04/04-SB/04-SB-B04/04-SB-B04-0080	1	mak	00:15:10;
+
+[PrintText]=00:14:05	Taisuke	Sí!	00:16:04;
+
+[PlayVoice]=00:14:05	Voice04/04-SB/04-SB-B04/04-SB-B04-0090	1	tai	00:16:04;
+
+[PrintText]=00:16:13	Makoto	Ya veo.	00:17:12;
+
+[PlayVoice]=00:16:13	Voice04/04-SB/04-SB-B04/04-SB-B04-0100	1	mak	00:17:12;
+
+[CreateBG]=00:17:17	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-004C	00:20:20;
+
+[PrintText]=00:17:21	Taisuke	Hoy, en el almuerzo, vamos a... mwahaha!	00:20:23;
+
+[PlayVoice]=00:17:21	Voice04/04-SB/04-SB-B04/04-SB-B04-0110	1	tai	00:20:23;
+
+[CreateBG]=00:20:20	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-005	00:21:23;
+
+[PrintText]=00:20:20	Makoto	¿Almuerzo?^	00:21:21;
+
+[PlayVoice]=00:20:20	Voice04/04-SB/04-SB-B04/04-SB-B04-0120	1	mak	00:21:21;
+
+[CreateBG]=00:21:23	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-006	00:23:22;
+
+[PrintText]=00:22:01	Taisuke	Oh, ¡Olvídalo!	00:23:19;
+
+[PlayVoice]=00:22:01	Voice04/04-SB/04-SB-B04/04-SB-B04-0130	1	tai	00:23:19;
+
+[CreateBG]=00:23:22	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-007	00:25:01;
+
+[PrintText]=00:24:01	Makoto	...	00:24:23;
+
+[PlayVoice]=00:24:01	Voice04/04-SB/04-SB-B04/04-SB-B04-0140	1	xxx	00:24:23;
+
+[CreateBG]=00:25:01	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-008	00:27:09;
+
+[BlackFade]=00:26:21	OUT	00:27:09;
+
+[CreateBG]=00:27:09	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-009	00:31:15;
+
+[PlaySe]=00:28:01	2	SysSe/SE_all/school/chime	00:45:15;
+
+[BlackFade]=00:31:06	OUT	00:31:15;
+
+[CreateBG]=00:31:15	BGS	System/Screen/Black	00:32:07;
+
+[PlaySe]=00:32:07	1	SysSe/SE_all/gaya/kyousitu_rouka	00:45:15;
+
+[CreateBG]=00:32:07	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-010	00:33:19;
+
+[BlackFade]=00:32:07	IN	00:32:16;
+
+[PrintText]=00:32:10	Taisuke	¡Pues, entonces!	00:33:15;
+
+[PlayVoice]=00:32:10	Voice04/04-SB/04-SB-B04/04-SB-B04-0180	1	tai	00:33:15;
+
+[CreateBG]=00:33:19	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-011	00:35:11;
+
+[CreateBG]=00:35:11	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-012	00:39:00;
+
+[PrintText]=00:35:15	Makoto	Ah...	00:36:11;
+
+[PlayVoice]=00:35:15	Voice04/04-SB/04-SB-B04/04-SB-B04-0190	1	mak	00:36:11;
+
+[PrintText]=00:36:11	Sekai	Hey, Makoto, ¡Por qué no almor.... ah!	00:40:07;
+
+[PlayVoice]=00:36:11	Voice04/04-SB/04-SB-B04/04-SB-B04-0200	0	sek	00:40:07;
+
+[CreateBG]=00:39:00	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-013	00:41:05;
+
+[CreateBG]=00:41:05	BGS	Event04/04-SB/04-SB-B04/04-SB-B04-014	00:45:15;
+
+[PrintText]=00:41:14	Sekai	¿...?^	00:42:05;
+
+[PlayVoice]=00:41:14	Voice04/04-SB/04-SB-B04/04-SB-B04-0220	0	sek	00:42:05;
+
+[BlackFade]=00:44:15	OUT	00:45:15;
+
+ ;
+
+[Next]=00:45:15;
+
+

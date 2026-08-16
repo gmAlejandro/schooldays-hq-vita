@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:15:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:15:07;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-P07/SE02-2S-P07-001	00:15:07;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-P07/02-2S-P07-001	00:09:08;
+
+[PrintText]=00:00:00	Makoto	No me atrevo a odiarla.	00:02:07;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-P07/02-2S-P07-0030	1	mak	00:02:07;
+
+[PrintText]=00:02:13	Sekai	...	00:03:00;
+
+[PlayVoice]=00:02:13	Voice02/02-2S/02-2S-P07/02-2S-P07-0040	0	xxx	00:03:00;
+
+[PrintText]=00:03:10	Makoto	Pero tú eres la única a la que amo, Sekai.	00:07:21;
+
+[PlayVoice]=00:03:10	Voice02/02-2S/02-2S-P07/02-2S-P07-0050	1	mak	00:07:21;
+
+[PrintText]=00:08:01	Sekai	...	00:09:03;
+
+[PlayVoice]=00:08:01	Voice02/02-2S/02-2S-P07/02-2S-P07-0060	0	xxx	00:09:03;
+
+[CreateBG]=00:09:08	BGS	Event02/02-2S/02-2S-P07/02-2S-P07-002	00:15:07;
+
+[PrintText]=00:09:13	Makoto	Todo esto es verdad, lo juro. Créeme.	00:13:12;
+
+[PlayVoice]=00:09:13	Voice02/02-2S/02-2S-P07/02-2S-P07-0070	1	mak	00:13:12;
+
+[PrintText]=00:13:17	Sekai	Makoto...	00:14:19;
+
+[PlayVoice]=00:13:17	Voice02/02-2S/02-2S-P07/02-2S-P07-0080	0	sek	00:14:19;
+
+ ;
+
+[Next]=00:15:07;
+
+
+
+

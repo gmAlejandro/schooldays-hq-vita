@@ -1,0 +1,113 @@
+﻿[SkipFRAME]=00:39:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:39:23;
+
+[PlaySe]=00:00:00	2	Se04/04-KA/04-KA-D08/SE04-KA-D08-001	00:24:09;
+
+[PlayMovie]=00:00:00	Movie04/04-KA/04-KA-D05/04-KA-D05-005	0	00:02:04;
+
+[PrintText]=00:00:00	Makoto	¡Para ya!	00:01:03;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-D08/04-KA-D08-0030	1	mak	00:01:03;
+
+[MoveSom]=00:00:00	2	00:03:22;
+
+[PrintText]=00:01:03	Kotonoha	...	00:02:03;
+
+[PlayVoice]=00:01:03	Voice04/04-KA/04-KA-D08/04-KA-D08-0050	0	xxx	00:02:03;
+
+[PrintText]=00:02:03	Makoto	¿Por qué haces esto?^	00:03:21;
+
+[PlayVoice]=00:02:03	Voice04/04-KA/04-KA-D08/04-KA-D08-0060	1	mak	00:03:21;
+
+[PlayMovie]=00:02:04	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:03:22;
+
+[PrintText]=00:03:21	Kotonoha	... Se ve que lo disfrutas.	00:06:07;
+
+[PlayVoice]=00:03:21	Voice04/04-KA/04-KA-D08/04-KA-D08-0070	0	kot	00:06:07;
+
+[PlayMovie]=00:03:22	Movie04/04-KA/04-KA-D08/H4-KA-D08-003	0	00:09:15;
+
+[MoveSom]=00:03:22	4	00:09:15;
+
+[PrintText]=00:06:07	Makoto	¿Eh?^	00:07:04;
+
+[PlayVoice]=00:06:07	Voice04/04-KA/04-KA-D08/04-KA-D08-0080	1	mak	00:07:04;
+
+[PrintText]=00:07:04	Kotonoha	Porque... se ve que lo disfrutas.	00:09:14;
+
+[PlayVoice]=00:07:04	Voice04/04-KA/04-KA-D08/04-KA-D08-0090	0	kot	00:09:14;
+
+[PrintText]=00:09:14	Makoto	... Eso no es verdad.	00:11:07;
+
+[PlayVoice]=00:09:14	Voice04/04-KA/04-KA-D08/04-KA-D08-0100	1	mak	00:11:07;
+
+[PlayMovie]=00:09:15	Movie04/04-KA/04-KA-D08/04-KA-D08-004	0	00:18:12;
+
+[MoveSom]=00:09:15	2	00:17:04;
+
+[PrintText]=00:11:07	Kotonoha	Realmente no te disgustan las cosas como estas ¿No?^	00:14:08;
+
+[PlayVoice]=00:11:07	Voice04/04-KA/04-KA-D08/04-KA-D08-0110	0	kot	00:14:08;
+
+[PrintText]=00:14:08	Makoto	Tal vez no, pero... ¿En un lugar como esté?^	00:18:11;
+
+[PlayVoice]=00:14:08	Voice04/04-KA/04-KA-D08/04-KA-D08-0120	1	mak	00:18:11;
+
+[MoveSom]=00:17:04	1	00:22:16;
+
+[PrintText]=00:18:11	Kotonoha	¿No te importa es aquí?^	00:20:12;
+
+[PlayVoice]=00:18:11	Voice04/04-KA/04-KA-D08/04-KA-D08-0130	0	kot	00:20:12;
+
+[PlayMovie]=00:18:12	Movie04/04-KA/04-KA-D08/04-KA-D08-005	0	00:21:16;
+
+[PrintText]=00:20:12	Makoto	...	00:21:16;
+
+[PlayVoice]=00:20:12	Voice04/04-KA/04-KA-D08/04-KA-D08-0140	1	xxx	00:21:16;
+
+[PlaySe]=00:21:10	1	Se04/04-KA/04-KA-D08/SE04-KA-D08-002	00:26:23;
+
+[PrintText]=00:21:15	Kotonoha	En ese caso...	00:22:20;
+
+[PlayVoice]=00:21:15	Voice04/04-KA/04-KA-D08/04-KA-D08-0150	0	kot	00:22:20;
+
+[PlayMovie]=00:21:16	Movie04/04-KA/04-KA-D08/04-KA-D08-006	0	00:25:11;
+
+[PlayVoice]=00:22:21	Voice04/04-KA/04-KA-D08/04-KA-D08-0160	1	ana	00:25:11;
+
+[CreateBG]=00:25:11	BGS	Event04/04-KA/04-KA-D05/04-KA-D05-015	00:27:20;
+
+[PrintText]=00:25:11	Makoto	¿En serio tú no...?^	00:27:17;
+
+[PlayVoice]=00:25:11	Voice04/04-KA/04-KA-D08/04-KA-D08-0180	1	mak	00:27:17;
+
+[PlaySe]=00:25:18	2	Se04/04-KA/04-KA-D08/SE04-KA-D08-003	00:27:19;
+
+[PrintText]=00:27:17	Kotonoha	Iré a tu casa.	00:30:00;
+
+[PlayVoice]=00:27:17	Voice04/04-KA/04-KA-D08/04-KA-D08-0200	0	kot	00:30:00;
+
+[PlayMovie]=00:27:20	Movie04/04-KA/04-KA-D08/04-KA-D08-008	0	00:37:04;
+
+[PrintText]=00:30:01	Makoto	¿Eh?^	00:30:23;
+
+[PlayVoice]=00:30:01	Voice04/04-KA/04-KA-D08/04-KA-D08-0210	1	mak	00:30:23;
+
+[PrintText]=00:30:23	Kotonoha	Si no quieres hacerlo aquí... entonces iré a tu cuarto.	00:37:03;
+
+[PlayVoice]=00:30:23	Voice04/04-KA/04-KA-D08/04-KA-D08-0220	0	kot	00:37:03;
+
+[PrintText]=00:37:03	Makoto	Uuh...	00:39:16;
+
+[PlayVoice]=00:37:03	Voice04/04-KA/04-KA-D08/04-KA-D08-0240	1	mak	00:39:16;
+
+[CreateBG]=00:37:04	BGS	Event04/04-KA/04-KA-D08/04-KA-D08-009	00:39:23;
+
+[BlackFade]=00:38:23	OUT	00:39:23;
+
+ ;
+
+[Next]=00:39:23;
+
+

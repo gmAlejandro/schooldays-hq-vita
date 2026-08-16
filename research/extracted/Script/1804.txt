@@ -1,0 +1,88 @@
+﻿[SkipFRAME]=00:28:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:28:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-001	00:01:06;
+
+[CreateBG]=00:01:06	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-002	00:02:19;
+
+[PrintText]=00:01:06	Setsuna	...	00:02:18;
+
+[PlayVoice]=00:01:06	Voice05/05-SD/05-SD-H00/05-SD-H00-0040	0	xxx	00:02:18;
+
+[CreateBG]=00:02:19	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-002B	00:04:04;
+
+[PrintText]=00:02:19	Makoto	Kiyoura.	00:03:19;
+
+[PlayVoice]=00:02:19	Voice05/05-SD/05-SD-H00/05-SD-H00-0050	1	mak	00:03:19;
+
+[CreateBG]=00:04:04	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-003	00:05:20;
+
+[PrintText]=00:04:04	Setsuna	Itou...	00:05:03;
+
+[PlayVoice]=00:04:04	Voice05/05-SD/05-SD-H00/05-SD-H00-0070	0	set	00:05:03;
+
+[CreateBG]=00:05:20	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-004	00:09:09;
+
+[PrintText]=00:05:20	Makoto	¿No vendrá?^	00:08:13;
+
+[PlayVoice]=00:05:20	Voice05/05-SD/05-SD-H00/05-SD-H00-0080	1	mak	00:08:13;
+
+[PrintText]=00:08:13	Setsuna	Así es...	00:09:04;
+
+[PlayVoice]=00:08:13	Voice05/05-SD/05-SD-H00/05-SD-H00-0090	0	set	00:09:04;
+
+[CreateBG]=00:09:09	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-005	00:11:02;
+
+[PrintText]=00:09:11	Makoto	Como pensaba.	00:10:05;
+
+[PlayVoice]=00:09:11	Voice05/05-SD/05-SD-H00/05-SD-H00-0100	1	mak	00:10:05;
+
+[PrintText]=00:10:08	Setsuna	Vamos.	00:11:00;
+
+[PlayVoice]=00:10:08	Voice05/05-SD/05-SD-H00/05-SD-H00-0110	0	set	00:11:00;
+
+[CreateBG]=00:11:02	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-005B	00:12:07;
+
+[PrintText]=00:11:09	Makoto	¿Eh?^	00:11:23;
+
+[PlayVoice]=00:11:09	Voice05/05-SD/05-SD-H00/05-SD-H00-0120	1	mak	00:11:23;
+
+[CreateBG]=00:12:07	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-005	00:13:13;
+
+[PrintText]=00:12:07	Setsuna	Vamos a tu casa.	00:13:13;
+
+[PlayVoice]=00:12:07	Voice05/05-SD/05-SD-H00/05-SD-H00-0130	0	set	00:13:13;
+
+[CreateBG]=00:13:13	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-006	00:14:13;
+
+[PrintText]=00:13:13	Makoto	Pero...	00:14:13;
+
+[PlayVoice]=00:13:13	Voice05/05-SD/05-SD-H00/05-SD-H00-0140	1	mak	00:14:13;
+
+[CreateBG]=00:14:13	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-007	00:18:11;
+
+[PrintText]=00:14:13	Setsuna	Lo haremos. Tenemos que.	00:18:11;
+
+[PlayVoice]=00:14:13	Voice05/05-SD/05-SD-H00/05-SD-H00-0150	0	set	00:18:11;
+
+[CreateBG]=00:18:11	BGS	Event05/05-SD/05-SD-H00/05-SD-H00-008	00:28:00;
+
+[PrintText]=00:18:11	Makoto	Kiyoura...	00:20:01;
+
+[PlayVoice]=00:18:11	Voice05/05-SD/05-SD-H00/05-SD-H00-0160	1	mak	00:20:01;
+
+[PrintText]=00:20:01	Setsuna	Itou... abrázame.	00:23:16;
+
+[PlayVoice]=00:20:01	Voice05/05-SD/05-SD-H00/05-SD-H00-0170	0	set	00:23:16;
+
+[PrintText]=00:23:16	Makoto	...Vale.	00:27:15;
+
+[PlayVoice]=00:23:16	Voice05/05-SD/05-SD-H00/05-SD-H00-0180	1	mak	00:27:15;
+
+ ;
+
+[Next]=00:28:00;
+
+
+

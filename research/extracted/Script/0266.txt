@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:12:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:12:09;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-N01/SE02-2K-N01-001	00:12:09;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-N01/02-2K-N01-001	00:01:04;
+
+[PrintText]=00:00:00	Makoto	Kotonoha.	00:01:07;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-N01/02-2K-N01-0030	1	mak	00:01:07;
+
+[CreateBG]=00:01:04	BGS	Event02/02-2K/02-2K-N01/02-2K-N01-002	00:06:10;
+
+[PrintText]=00:01:07	Kotonoha	Ah... Makoto-kun.	00:03:17;
+
+[PlayVoice]=00:01:07	Voice02/02-2K/02-2K-N01/02-2K-N01-0040	0	kot	00:03:17;
+
+[PrintText]=00:03:17	Makoto	Quiero hablar contigo de algo.	00:06:10;
+
+[PlayVoice]=00:03:17	Voice02/02-2K/02-2K-N01/02-2K-N01-0050	1	mak	00:06:10;
+
+[CreateBG]=00:06:10	BGS	Event02/02-2K/02-2K-N01/02-2K-N01-003	00:09:12;
+
+[PrintText]=00:06:10	Kotonoha	¿Eh? Pero tengo una reunión del consejo hoy...	00:09:12;
+
+[PlayVoice]=00:06:10	Voice02/02-2K/02-2K-N01/02-2K-N01-0060	0	kot	00:09:12;
+
+[PrintText]=00:08:17	Makoto	Solo tomará un minuto.	00:10:00;
+
+[PlayVoice]=00:08:17	Voice02/02-2K/02-2K-N01/02-2K-N01-0070	1	mak	00:10:00;
+
+[CreateBG]=00:09:12	BGS	Event02/02-2K/02-2K-N01/02-2K-N01-004	00:12:09;
+
+[PrintText]=00:09:14	Kotonoha	Ah...	00:10:13;
+
+[PlayVoice]=00:09:14	Voice02/02-2K/02-2K-N01/02-2K-N01-0080	0	kot	00:10:13;
+
+[BlackFade]=00:11:09	OUT	00:12:09;
+
+ ;
+
+[Next]=00:12:09;
+
+
+
+

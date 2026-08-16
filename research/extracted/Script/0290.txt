@@ -1,0 +1,109 @@
+﻿[SkipFRAME]=00:56:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:56:07;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-001	00:03:08;
+
+[PrintText]=00:02:05	Kotonoha	Estoy en casa.	00:03:07;
+
+[PlayVoice]=00:02:05	Voice02/02-2S/02-2S-A03/02-2S-A03-0040	0	kot	00:03:07;
+
+[CreateBG]=00:03:08	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-002	00:06:01;
+
+[PrintText]=00:03:08	Madre de Kotonoha	Bienvenida a casa.	00:04:06;
+
+[PlayVoice]=00:03:08	Voice02/02-2S/02-2S-A03/02-2S-A03-0050	0	man	00:04:06;
+
+[PrintText]=00:04:06	Kotonoha	Ah, mamá. Te regreso las entradas.	00:07:06;
+
+[PlayVoice]=00:04:06	Voice02/02-2S/02-2S-A03/02-2S-A03-0060	0	kot	00:07:06;
+
+[CreateBG]=00:06:01	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-003	00:13:19;
+
+[PrintText]=00:07:06	Madre de Kotonoha	¿Me los regresas? Nos los usaré porque vencen hoy sabes.	00:12:05;
+
+[PlayVoice]=00:07:06	Voice02/02-2S/02-2S-A03/02-2S-A03-0070	0	man	00:12:05;
+
+[PrintText]=00:12:05	Kotonoha	Es verdad.	00:13:19;
+
+[PlayVoice]=00:12:05	Voice02/02-2S/02-2S-A03/02-2S-A03-0080	0	kot	00:13:19;
+
+[CreateBG]=00:13:19	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-004	00:18:19;
+
+[PrintText]=00:13:19	Madre de Kotonoha	¿Qué?, ¿No quiso?^	00:15:20;
+
+[PlayVoice]=00:13:19	Voice02/02-2S/02-2S-A03/02-2S-A03-0090	0	man	00:15:20;
+
+[PrintText]=00:15:20	Kotonoha	N-o, N-o e-s a-s-í. Makoto-kun dijo que tenía que ir a ver a su hermana.	00:22:06;
+
+[PlayVoice]=00:15:20	Voice02/02-2S/02-2S-A03/02-2S-A03-0100	0	kot	00:22:06;
+
+[CreateBG]=00:18:19	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-005	00:25:07;
+
+[PrintText]=00:22:06	Madre de Kotonoha	Oh, su nombre es Makoto-kun.	00:25:06;
+
+[PlayVoice]=00:22:06	Voice02/02-2S/02-2S-A03/02-2S-A03-0110	0	man	00:25:06;
+
+[PrintText]=00:25:06	Kotonoha	Ah.	00:26:04;
+
+[PlayVoice]=00:25:06	Voice02/02-2S/02-2S-A03/02-2S-A03-0120	0	kot	00:26:04;
+
+[CreateBG]=00:25:07	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-005B	00:27:00;
+
+[PrintText]=00:26:04	Madre de Kotonoha	Qué vergüenza, pero no te ves triste.	00:30:12;
+
+[PlayVoice]=00:26:04	Voice02/02-2S/02-2S-A03/02-2S-A03-0130	0	man	00:30:12;
+
+[CreateBG]=00:27:00	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-005C	00:27:18;
+
+[CreateBG]=00:27:18	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-002	00:32:23;
+
+[PrintText]=00:30:12	Kotonoha	Sí, algo bueno pasó.	00:32:22;
+
+[PlayVoice]=00:30:12	Voice02/02-2S/02-2S-A03/02-2S-A03-0140	0	kot	00:32:22;
+
+[CreateBG]=00:32:23	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-007	00:41:04;
+
+[PrintText]=00:32:23	Madre de Kotonoha	¿En serio? Me alegro de oírlo.	00:34:20;
+
+[PlayVoice]=00:32:23	Voice02/02-2S/02-2S-A03/02-2S-A03-0150	0	man	00:34:20;
+
+[PrintText]=00:34:20	Kotonoha	Le diré a Makoto-kun, también.	00:38:00;
+
+[PlayVoice]=00:34:20	Voice02/02-2S/02-2S-A03/02-2S-A03-0160	0	kot	00:38:00;
+
+[PrintText]=00:38:00	Madre de Kotonoha	Asegúrate de traer a 'Makoto-Kun' a la casa algún día ¿Vale?^	00:41:03;
+
+[PlayVoice]=00:38:00	Voice02/02-2S/02-2S-A03/02-2S-A03-0170	0	man	00:41:03;
+
+[PrintText]=00:41:03	Kotonoha	¿Ehhh?^	00:42:13;
+
+[PlayVoice]=00:41:03	Voice02/02-2S/02-2S-A03/02-2S-A03-0180	0	kot	00:42:13;
+
+[CreateBG]=00:41:04	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-008	00:56:07;
+
+[PrintText]=00:42:13	Madre de Kotonoha	Estaba al teléfono con tu padre, y me dijo que le gustaría conocerlo también.	00:47:00;
+
+[PlayVoice]=00:42:13	Voice02/02-2S/02-2S-A03/02-2S-A03-0190	0	man	00:47:00;
+
+[PrintText]=00:47:00	Kotonoha	De ninguna manera. No quiero que mi papá lo conozca.	00:49:19;
+
+[PlayVoice]=00:47:00	Voice02/02-2S/02-2S-A03/02-2S-A03-0200	0	kot	00:49:19;
+
+[PrintText]=00:49:19	Madre de Kotonoha	Fufuh... Solo tráelo.	00:52:18;
+
+[PlayVoice]=00:49:19	Voice02/02-2S/02-2S-A03/02-2S-A03-0210	0	man	00:52:18;
+
+[PrintText]=00:52:19	Kotonoha	Mmn... lo pensaré.	00:55:07;
+
+[PlayVoice]=00:52:19	Voice02/02-2S/02-2S-A03/02-2S-A03-0220	0	kot	00:55:07;
+
+[BlackFade]=00:55:07	OUT	00:56:07;
+
+ ;
+
+[Next]=00:56:07;
+
+
+
+

@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=01:13:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm10	00:25:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-K02/04-SE-K02-001	00:01:13;
+
+[PrintText]=00:00:00	Makoto	La persona que amo...	00:01:13;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-K02/04-SE-K02-0030	1	mak	00:01:13;
+
+[PrintText]=00:01:12	Sekai	¡Kyah!	00:02:12;
+
+[PlayVoice]=00:01:12	Voice04/04-SE/04-SE-K02/04-SE-K02-0050	0	sek	00:02:12;
+
+[CreateBG]=00:01:13	BGS	Event04/04-SE/04-SE-K02/04-SE-K02-002	00:02:14;
+
+[PrintText]=00:02:13	Makoto	...es ella.	00:03:18;
+
+[PlayVoice]=00:02:13	Voice04/04-SE/04-SE-K02/04-SE-K02-0060	1	mak	00:03:18;
+
+[CreateBG]=00:02:14	BGS	Event04/04-SE/04-SE-K02/04-SE-K02-004	00:03:20;
+
+[PrintText]=00:03:18	Kotonoha	¿Eh...?^	00:04:15;
+
+[PlayVoice]=00:03:18	Voice04/04-SE/04-SE-K02/04-SE-K02-0070	0	kot	00:04:15;
+
+[CreateBG]=00:03:20	BGS	Event04/04-SE/04-SE-K02/04-SE-K02-005	00:21:15;
+
+[PrintText]=00:04:15	Sekai	Makoto...	00:06:00;
+
+[PlayVoice]=00:04:15	Voice04/04-SE/04-SE-K02/04-SE-K02-0080	0	sek	00:06:00;
+
+[PrintText]=00:06:00	Makoto	No es Katou. La chica que besé en la piscina fue ella.	00:11:16;
+
+[PlayVoice]=00:06:00	Voice04/04-SE/04-SE-K02/04-SE-K02-0090	1	mak	00:11:16;
+
+[PrintText]=00:11:16	Kotonoha	No...	00:12:20;
+
+[PlayVoice]=00:11:16	Voice04/04-SE/04-SE-K02/04-SE-K02-0100	0	kot	00:12:20;
+
+[PrintText]=00:12:21	Makoto	Perdón... por no decírtelo.	00:16:13;
+
+[PlayVoice]=00:12:21	Voice04/04-SE/04-SE-K02/04-SE-K02-0110	1	mak	00:16:13;
+
+[PrintText]=00:16:13	Kotonoha	...	00:18:09;
+
+[PlayVoice]=00:16:13	Voice04/04-SE/04-SE-K02/04-SE-K02-0120	0	xxx	00:18:09;
+
+[PrintText]=00:18:09	Makoto	Sekai.	00:19:06;
+
+[PlayVoice]=00:18:09	Voice04/04-SE/04-SE-K02/04-SE-K02-0130	1	mak	00:19:06;
+
+[PrintText]=00:19:06	Sekai	S-Sí.	00:21:15;
+
+[PlayVoice]=00:19:06	Voice04/04-SE/04-SE-K02/04-SE-K02-0140	0	sek	00:21:15;
+
+[CreateBG]=00:21:15	BGS	Event04/04-SE/04-SE-K02/04-SE-K02-006	00:30:05;
+
+[PrintText]=00:21:15	Makoto	Por favor... cree en mis sentimientos.	00:25:05;
+
+[PlayVoice]=00:21:15	Voice04/04-SE/04-SE-K02/04-SE-K02-0150	1	mak	00:25:05;
+
+[EndBGM]=00:24:21	BGM/Vocal/SDV04	02:35:14;
+
+[PrintText]=00:25:05	Sekai	¡Vale!	00:26:10;
+
+[PlayVoice]=00:25:05	Voice04/04-SE/04-SE-K02/04-SE-K02-0160	0	sek	00:26:10;
+
+[PrintText]=00:26:10	Kotonoha	...	00:29:11;
+
+[PlayVoice]=00:26:10	Voice04/04-SE/04-SE-K02/04-SE-K02-0170	0	xxx	00:29:11;
+
+[CreateBG]=00:30:05	BGS	Ini/EndRoll/04-22	00:33:00;
+
+[EndRoll]=00:33:00	Ini/EndRoll/NORMAL	01:13:00;
+
+ ;
+
+[Next]=01:13:00;
+
+

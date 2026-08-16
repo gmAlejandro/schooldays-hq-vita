@@ -1,0 +1,30 @@
+﻿[SkipFRAME]=00:10:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:10:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-C08/05-SE-C08-003	00:10:10;
+
+[PrintText]=00:00:00	Makoto	...	00:01:04;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-P01/05-SE-P01-0030	1	xxx	00:01:04;
+
+[PrintText]=00:01:12	Sekai	Makoto...	00:02:17;
+
+[PlayVoice]=00:01:12	Voice05/05-SE/05-SE-P01/05-SE-P01-0040	0	sek	00:02:17;
+
+[PrintText]=00:03:04	Makoto	Mmn. No es nada. Olvídalo.	00:08:00;
+
+[PlayVoice]=00:03:04	Voice05/05-SE/05-SE-P01/05-SE-P01-0050	1	mak	00:08:00;
+
+[PrintText]=00:08:06	Sekai	...	00:09:03;
+
+[PlayVoice]=00:08:06	Voice05/05-SE/05-SE-P01/05-SE-P01-0060	0	xxx	00:09:03;
+
+[BlackFade]=00:09:10	OUT	00:10:10;
+
+ ;
+
+[Next]=00:10:10;
+
+
+

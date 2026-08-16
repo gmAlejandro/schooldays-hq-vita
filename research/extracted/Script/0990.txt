@@ -1,0 +1,215 @@
+﻿[SkipFRAME]=02:27:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:27:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-001	00:01:21;
+
+[CreateBG]=00:01:22	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-002	00:13:04;
+
+[PrintText]=00:02:08	Sekai	¿Bueno?^	00:03:13;
+
+[PlayVoice]=00:02:08	Voice04/04-KB/04-KB-E03/04-KB-E03-0040	0	sek	00:03:13;
+
+[PrintText]=00:03:14	Kotonoha	Hola, es Katsura.	00:06:15;
+
+[PlayVoice]=00:03:14	Voice04/04-KB/04-KB-E03/04-KB-E03-0050	0	kot	00:06:15;
+
+[PrintText]=00:06:16	Sekai	Uh-huh. ¿Qué pasó?^	00:08:23;
+
+[PlayVoice]=00:06:16	Voice04/04-KB/04-KB-E03/04-KB-E03-0060	0	sek	00:08:23;
+
+[PrintText]=00:08:23	Kotonoha	Um... tengo que pedirte algo.	00:13:03;
+
+[PlayVoice]=00:08:23	Voice04/04-KB/04-KB-E03/04-KB-E03-0070	0	kot	00:13:03;
+
+[CreateBG]=00:13:04	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-003	00:32:05;
+
+[PrintText]=00:13:11	Sekai	¿Oh? ¿Hay algo que quieras discutir? He echado de menos la escuela, y no estoy segura de ayudar con el trabajo.	00:21:04;
+
+[PlayVoice]=00:13:11	Voice04/04-KB/04-KB-E03/04-KB-E03-0080	0	sek	00:21:04;
+
+[PrintText]=00:21:05	Kotonoha	No... eso no... es un petición.	00:26:04;
+
+[PlayVoice]=00:21:05	Voice04/04-KB/04-KB-E03/04-KB-E03-0090	0	kot	00:26:04;
+
+[PrintText]=00:26:04	Sekai	¿Una petición? ¿Qué es?^	00:28:17;
+
+[PlayVoice]=00:26:04	Voice04/04-KB/04-KB-E03/04-KB-E03-0100	0	sek	00:28:17;
+
+[PrintText]=00:28:17	Kotonoha	Por favor, dile a Makoto que lo odias.	00:32:03;
+
+[PlayVoice]=00:28:17	Voice04/04-KB/04-KB-E03/04-KB-E03-0110	0	kot	00:32:03;
+
+[CreateBG]=00:32:05	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-004	00:50:10;
+
+[PrintText]=00:32:11	Sekai	¿Huh...?^	00:33:03;
+
+[PlayVoice]=00:32:11	Voice04/04-KB/04-KB-E03/04-KB-E03-0120	0	sek	00:33:03;
+
+[PrintText]=00:33:04	Kotonoha	¡Quiero que le digas que no sientes nada por él, y que no se ilusione contigo!	00:39:18;
+
+[PlayVoice]=00:33:04	Voice04/04-KB/04-KB-E03/04-KB-E03-0130	0	kot	00:39:18;
+
+[PrintText]=00:39:18	Sekai	E-Espera un minuto.	00:41:21;
+
+[PlayVoice]=00:39:18	Voice04/04-KB/04-KB-E03/04-KB-E03-0140	0	sek	00:41:21;
+
+[PrintText]=00:41:22	Kotonoha	Solo dile lo que realmente piensas.	00:46:04;
+
+[PlayVoice]=00:41:22	Voice04/04-KB/04-KB-E03/04-KB-E03-0150	0	kot	00:46:04;
+
+[PrintText]=00:46:04	Sekai	¿Lo que realmente pienso? ¿Qué está pasando, Katsura-san?^	00:50:10;
+
+[PlayVoice]=00:46:04	Voice04/04-KB/04-KB-E03/04-KB-E03-0160	0	sek	00:50:10;
+
+[CreateBG]=00:50:10	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-005	01:11:21;
+
+[PrintText]=00:50:17	Kotonoha	¡Dícelo... por favor!	00:53:18;
+
+[PlayVoice]=00:50:17	Voice04/04-KB/04-KB-E03/04-KB-E03-0170	0	kot	00:53:18;
+
+[PrintText]=00:53:18	Sekai	¿No sería extraño si de repente le digo 'Hey, te odio.'?^	00:58:09;
+
+[PlayVoice]=00:53:18	Voice04/04-KB/04-KB-E03/04-KB-E03-0180	0	sek	00:58:09;
+
+[PrintText]=00:58:10	Kotonoha	¿No lo harías... o es que te gusta?^	01:03:02;
+
+[PlayVoice]=00:58:10	Voice04/04-KB/04-KB-E03/04-KB-E03-0190	0	kot	01:03:02;
+
+[PrintText]=01:03:01	Sekai	Mira calmate...	01:05:22;
+
+[PlayVoice]=01:03:01	Voice04/04-KB/04-KB-E03/04-KB-E03-0200	0	sek	01:05:22;
+
+[PrintText]=01:05:22	Kotonoha	...	01:09:01;
+
+[PlayVoice]=01:05:22	Voice04/04-KB/04-KB-E03/04-KB-E03-0210	0	xxx	01:09:01;
+
+[PrintText]=01:09:00	Sekai	¿Pasó algo entre tú y Makoto?^	01:11:22;
+
+[PlayVoice]=01:09:00	Voice04/04-KB/04-KB-E03/04-KB-E03-0220	0	sek	01:11:22;
+
+[CreateBG]=01:11:21	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-006	01:20:04;
+
+[PrintText]=01:12:09	Kotonoha	...	01:13:10;
+
+[PlayVoice]=01:12:09	Voice04/04-KB/04-KB-E03/04-KB-E03-0230	0	xxx	01:13:10;
+
+[PrintText]=01:13:10	Sekai	No haré nada si no me dices.	01:15:08;
+
+[PlayVoice]=01:13:10	Voice04/04-KB/04-KB-E03/04-KB-E03-0240	0	sek	01:15:08;
+
+[PrintText]=01:15:10	Kotonoha	...Makoto-kun dijo que estaba enamorado de ti.	01:20:05;
+
+[PlayVoice]=01:15:10	Voice04/04-KB/04-KB-E03/04-KB-E03-0250	0	kot	01:20:05;
+
+[CreateBG]=01:20:04	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-007	01:26:01;
+
+[PrintText]=01:20:13	Sekai	¿Eh...?^	01:21:10;
+
+[PlayVoice]=01:20:13	Voice04/04-KB/04-KB-E03/04-KB-E03-0260	0	sek	01:21:10;
+
+[PrintText]=01:21:11	Kotonoha	Dijo que estaba cansado de estar conmigo.	01:24:22;
+
+[PlayVoice]=01:21:11	Voice04/04-KB/04-KB-E03/04-KB-E03-0270	0	kot	01:24:22;
+
+[PrintText]=01:24:23	Sekai	Makoto...	01:26:01;
+
+[PlayVoice]=01:24:23	Voice04/04-KB/04-KB-E03/04-KB-E03-0280	0	sek	01:26:01;
+
+[CreateBG]=01:26:01	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-008	01:58:01;
+
+[PrintText]=01:26:09	Kotonoha	Estaba... sorprendida que no pude decir nada. Makoto está un poco cansado ¿No?^	01:36:16;
+
+[PlayVoice]=01:26:09	Voice04/04-KB/04-KB-E03/04-KB-E03-0290	0	kot	01:36:16;
+
+[PrintText]=01:36:16	Kotonoha	Las cosas han estado un poco intensas entre nosotros, así que el solo necesita tiempo ¿Cierto?^	01:43:08;
+
+[PlayVoice]=01:36:16	Voice04/04-KB/04-KB-E03/04-KB-E03-0291	0	kot	01:43:08;
+
+[PrintText]=01:43:08	Sekai	No lo sé...	01:44:23;
+
+[PlayVoice]=01:43:08	Voice04/04-KB/04-KB-E03/04-KB-E03-0300	0	sek	01:44:23;
+
+[PrintText]=01:44:22	Kotonoha	No hay manera de que Makoto-kun esté enamorado de ti.	01:48:14;
+
+[PlayVoice]=01:44:22	Voice04/04-KB/04-KB-E03/04-KB-E03-0310	0	kot	01:48:14;
+
+[PrintText]=01:48:14	Sekai	...	01:49:18;
+
+[PlayVoice]=01:48:14	Voice04/04-KB/04-KB-E03/04-KB-E03-0320	0	xxx	01:49:18;
+
+[PrintText]=01:49:18	Kotonoha	Y es lo mismo para ti ¿No? No lo quieres ¿No? No lo verías de esa manera ¿Cierto?^	01:57:11;
+
+[PlayVoice]=01:49:18	Voice04/04-KB/04-KB-E03/04-KB-E03-0330	0	kot	01:57:11;
+
+[PrintText]=01:57:11	Sekai	...	01:57:23;
+
+[PlayVoice]=01:57:11	Voice04/04-KB/04-KB-E03/04-KB-E03-0340	0	xxx	01:57:23;
+
+[CreateBG]=01:58:01	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-009	02:15:10;
+
+[PrintText]=01:58:06	Kotonoha	¿Sai... onji... san?^	02:01:09;
+
+[PlayVoice]=01:58:06	Voice04/04-KB/04-KB-E03/04-KB-E03-0350	0	kot	02:01:09;
+
+[PrintText]=02:01:11	Sekai	Yo...	02:02:14;
+
+[PlayVoice]=02:01:11	Voice04/04-KB/04-KB-E03/04-KB-E03-0360	0	sek	02:02:14;
+
+[PrintText]=02:02:15	Kotonoha	...	02:04:04;
+
+[PlayVoice]=02:02:15	Voice04/04-KB/04-KB-E03/04-KB-E03-0370	0	xxx	02:04:04;
+
+[PrintText]=02:04:05	Sekai	...	02:04:22;
+
+[PlayVoice]=02:04:05	Voice04/04-KB/04-KB-E03/04-KB-E03-0380	0	xxx	02:04:22;
+
+[PrintText]=02:04:23	Kotonoha	No puedes estar hablando en serio.	02:08:10;
+
+[PlayVoice]=02:04:23	Voice04/04-KB/04-KB-E03/04-KB-E03-0390	0	kot	02:08:10;
+
+[PrintText]=02:08:12	Sekai	...	02:09:00;
+
+[PlayVoice]=02:08:12	Voice04/04-KB/04-KB-E03/04-KB-E03-0400	0	xxx	02:09:00;
+
+[PrintText]=02:09:00	Kotonoha	¿Tu también?^	02:11:04;
+
+[PlayVoice]=02:09:00	Voice04/04-KB/04-KB-E03/04-KB-E03-0410	0	kot	02:11:04;
+
+[PrintText]=02:11:03	Sekai	...	02:11:17;
+
+[PlayVoice]=02:11:03	Voice04/04-KB/04-KB-E03/04-KB-E03-0420	0	xxx	02:11:17;
+
+[PrintText]=02:11:18	Kotonoha	con Makoto-kun...	02:14:18;
+
+[PlayVoice]=02:11:18	Voice04/04-KB/04-KB-E03/04-KB-E03-0430	0	kot	02:14:18;
+
+[PrintText]=02:14:19	Sekai	...	02:15:06;
+
+[PlayVoice]=02:14:19	Voice04/04-KB/04-KB-E03/04-KB-E03-0440	0	xxx	02:15:06;
+
+[CreateBG]=02:15:10	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-005	02:22:16;
+
+[PrintText]=02:15:14	Kotonoha	¿...Es verdad?^	02:17:09;
+
+[PlayVoice]=02:15:14	Voice04/04-KB/04-KB-E03/04-KB-E03-0450	0	kot	02:17:09;
+
+[PrintText]=02:17:10	Sekai	...Lo siento.	02:18:10;
+
+[PlayVoice]=02:17:10	Voice04/04-KB/04-KB-E03/04-KB-E03-0460	0	sek	02:18:10;
+
+[PrintText]=02:18:12	Kotonoha	...	02:20:21;
+
+[PlayVoice]=02:18:12	Voice04/04-KB/04-KB-E03/04-KB-E03-0470	0	xxx	02:20:21;
+
+[CreateBG]=02:22:16	BGS	Event04/04-KB/04-KB-E03/04-KB-E03-012	02:27:23;
+
+[PrintText]=02:23:09	Sekai	...	02:24:00;
+
+[PlayVoice]=02:23:09	Voice04/04-KB/04-KB-E03/04-KB-E03-0490	0	xxx	02:24:00;
+
+ ;
+
+[Next]=02:27:23;
+
+

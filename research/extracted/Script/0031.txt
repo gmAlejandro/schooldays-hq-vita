@@ -1,0 +1,50 @@
+﻿[SkipFRAME]=00:18:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:25:02;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-C02/01-00-C02-001	00:07:07;
+
+[PrintText]=00:00:12	Makoto	Creo que a mi...	00:02:12;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-C02/01-00-C02-0030	1	xxx	00:02:12;
+
+[PrintText]=00:03:19	Makoto	...me gusta Sekai después de todo.	00:06:18;
+
+[PlayVoice]=00:03:19	Voice01/01-00/01-00-C02/01-00-C02-0040	1	xxx	00:06:18;
+
+[WhiteFade]=00:06:19	OUT	00:07:07;
+
+[CreateBG]=00:07:07	BGS	Event01/01-00/01-00-C02/01-00-C02-002	00:13:09;
+
+[WhiteFade]=00:07:07	IN	00:07:19;
+
+[PrintText]=00:07:21	Makoto	Y creo que la razón por la que me a ayudado todo este tiempo... debe ser por...	00:12:19;
+
+[PlayVoice]=00:07:21	Voice01/01-00/01-00-C02/01-00-C02-0050	1	xxx	00:12:19;
+
+[WhiteFade]=00:12:21	OUT	00:13:09;
+
+[CreateBG]=00:13:09	BGS	Event01/01-00/01-00-C02/01-00-C02-003	00:18:16;
+
+[WhiteFade]=00:13:09	IN	00:13:21;
+
+[PrintText]=00:14:02	Makoto	...Pero si fuera así, ¿Por qué...?^	00:18:08;
+
+[PlayVoice]=00:14:02	Voice01/01-00/01-00-C02/01-00-C02-0060	1	xxx	00:18:08;
+
+[CreateBG]=00:18:16	BGS	Event01/01-00/01-00-C02/01-00-C02-004	00:25:02;
+
+[SetSELECT]=00:18:16	'Me gusta Sekai después de todo'	null	00:23:16;
+
+[PrintText]=00:19:23	Makoto	Yo...	00:20:20;
+
+[PlayVoice]=00:19:23	Voice01/01-00/01-00-C02/01-00-C02-0070	1	xxx	00:20:20;
+
+ ;
+
+[Next]=00:25:02;
+
+
+
+
+

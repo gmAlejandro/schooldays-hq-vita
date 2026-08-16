@@ -1,0 +1,127 @@
+﻿[SkipFRAME]=01:29:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:35:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-001	00:02:01;
+
+[CreateBG]=00:02:01	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-002	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-003	00:08:07;
+
+[PrintText]=00:05:00	Kotonoha	Makoto-kun.	00:06:01;
+
+[PlayVoice]=00:05:00	Voice05/05-KF/05-KF-G00/05-KF-G00-0040	0	kot	00:06:01;
+
+[PrintText]=00:06:01	Makoto	Ah... Kotonoha.	00:10:01;
+
+[PlayVoice]=00:06:01	Voice05/05-KF/05-KF-G00/05-KF-G00-0050	1	mak	00:10:01;
+
+[CreateBG]=00:08:07	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-004	00:19:18;
+
+[PrintText]=00:10:02	Kotonoha	Sí.	00:10:18;
+
+[PlayVoice]=00:10:02	Voice05/05-KF/05-KF-G00/05-KF-G00-0060	0	kot	00:10:18;
+
+[PrintText]=00:10:18	Makoto	Te iba a llamar en cuanto llegue a casa.	00:14:14;
+
+[PlayVoice]=00:10:18	Voice05/05-KF/05-KF-G00/05-KF-G00-0070	1	mak	00:14:14;
+
+[PrintText]=00:14:15	Kotonoha	También quería hablar contigo.	00:17:22;
+
+[PlayVoice]=00:14:15	Voice05/05-KF/05-KF-G00/05-KF-G00-0080	0	kot	00:17:22;
+
+[PrintText]=00:17:22	Makoto	Ya veo...	00:19:17;
+
+[PlayVoice]=00:17:22	Voice05/05-KF/05-KF-G00/05-KF-G00-0090	1	mak	00:19:17;
+
+[PrintText]=00:19:17	Kotonoha	...	00:20:07;
+
+[PlayVoice]=00:19:17	Voice05/05-KF/05-KF-G00/05-KF-G00-0100	0	xxx	00:20:07;
+
+[CreateBG]=00:19:18	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-005	00:36:20;
+
+[PrintText]=00:20:07	Makoto	Vale, primero tú entonces.	00:24:01;
+
+[PlayVoice]=00:20:07	Voice05/05-KF/05-KF-G00/05-KF-G00-0110	1	mak	00:24:01;
+
+[PrintText]=00:25:00	Kotonoha	Quiero disculparme por lo que pasó en el almuerzo.	00:29:09;
+
+[PlayVoice]=00:25:00	Voice05/05-KF/05-KF-G00/05-KF-G00-0120	0	kot	00:29:09;
+
+[PrintText]=00:29:10	Makoto	¿Eh?^	00:30:22;
+
+[PlayVoice]=00:29:10	Voice05/05-KF/05-KF-G00/05-KF-G00-0130	1	mak	00:30:22;
+
+[PrintText]=00:30:22	Kotonoha	Te dije muchas cosas sin pensar en cómo te sentías.	00:36:20;
+
+[PlayVoice]=00:30:22	Voice05/05-KF/05-KF-G00/05-KF-G00-0140	0	kot	00:36:20;
+
+[CreateBG]=00:36:20	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-006	00:59:18;
+
+[PrintText]=00:36:20	Makoto	Eso no...	00:38:19;
+
+[PlayVoice]=00:36:20	Voice05/05-KF/05-KF-G00/05-KF-G00-0150	1	mak	00:38:19;
+
+[PrintText]=00:38:18	Kotonoha	Estabas molesto, y aún así terminé saliendo del tejado. Lo siento mucho.	00:49:08;
+
+[PlayVoice]=00:38:18	Voice05/05-KF/05-KF-G00/05-KF-G00-0160	0	kot	00:49:08;
+
+[PrintText]=00:49:08	Makoto	E-Está bien. No necesitas disculparte por eso.	00:53:23;
+
+[PlayVoice]=00:49:08	Voice05/05-KF/05-KF-G00/05-KF-G00-0170	1	mak	00:53:23;
+
+[PrintText]=00:53:22	Kotonoha	No, tengo que hacerlo.	00:56:08;
+
+[PlayVoice]=00:53:22	Voice05/05-KF/05-KF-G00/05-KF-G00-0180	0	kot	00:56:08;
+
+[PrintText]=00:56:08	Makoto	...	00:59:16;
+
+[PlayVoice]=00:56:08	Voice05/05-KF/05-KF-G00/05-KF-G00-0190	1	xxx	00:59:16;
+
+[PrintText]=00:59:15	Kotonoha	Es natural que tengas que molestar. Fue desconsiderado de mi parte tratar de mostrarte como mi novio...	01:11:03;
+
+[PlayVoice]=00:59:15	Voice05/05-KF/05-KF-G00/05-KF-G00-0200	0	kot	01:11:03;
+
+[CreateBG]=00:59:18	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-008	01:10:15;
+
+[CreateBG]=01:10:15	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-009	01:12:12;
+
+[PrintText]=01:10:15	Makoto	¡Te dije que no necesitas disculparte!	01:12:12;
+
+[PlayVoice]=01:10:15	Voice05/05-KF/05-KF-G00/05-KF-G00-0210	1	mak	01:12:12;
+
+[CreateBG]=01:12:12	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-010	01:35:21;
+
+[PrintText]=01:12:13	Kotonoha	Ah...	01:13:04;
+
+[PlayVoice]=01:12:13	Voice05/05-KF/05-KF-G00/05-KF-G00-0220	0	kot	01:13:04;
+
+[PrintText]=01:13:03	Makoto	...Perdóname.	01:15:02;
+
+[PlayVoice]=01:13:03	Voice05/05-KF/05-KF-G00/05-KF-G00-0230	1	mak	01:15:02;
+
+[PrintText]=01:15:03	Kotonoha	N-no, estoy feliz de que me hayas perdonado.	01:20:05;
+
+[PlayVoice]=01:15:03	Voice05/05-KF/05-KF-G00/05-KF-G00-0240	0	kot	01:20:05;
+
+[PrintText]=01:20:04	Makoto	...	01:21:12;
+
+[PlayVoice]=01:20:04	Voice05/05-KF/05-KF-G00/05-KF-G00-0250	1	xxx	01:21:12;
+
+[PrintText]=01:21:13	Kotonoha	U-um... entonces ¿De qué querías hablar...?^	01:27:07;
+
+[PlayVoice]=01:21:13	Voice05/05-KF/05-KF-G00/05-KF-G00-0260	0	kot	01:27:07;
+
+[PrintText]=01:27:07	Makoto	Pues...	01:30:07;
+
+[PlayVoice]=01:27:07	Voice05/05-KF/05-KF-G00/05-KF-G00-0270	1	mak	01:30:07;
+
+[SetSELECT]=01:29:21	'Deberíamos terminar'	'Olvídalo'	01:34:21;
+
+ ;
+
+[Next]=01:35:21;
+
+
+
+

@@ -1,0 +1,197 @@
+﻿[SkipFRAME]=02:01:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:49:12;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-001	00:04:00;
+
+[PrintText]=00:00:00	Makoto	Esto... a pasado mucho tiempo desde que vine a tu casa ¿No?^	00:03:07;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-E04/04-KC-E04-0040	1	mak	00:03:07;
+
+[PrintText]=00:03:07	Sekai	Uh-huh.	00:03:23;
+
+[PlayVoice]=00:03:07	Voice04/04-KC/04-KC-E04/04-KC-E04-0050	0	sek	00:03:23;
+
+[CreateBG]=00:04:00	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-002	00:09:00;
+
+[PrintText]=00:04:00	Makoto	¿Recuerdas la primera vez que vine?^	00:09:08;
+
+[PlayVoice]=00:04:00	Voice04/04-KC/04-KC-E04/04-KC-E04-0060	1	mak	00:09:08;
+
+[CreateBG]=00:09:00	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-003	00:20:02;
+
+[PrintText]=00:09:08	Sekai	Sí, lo recuerdo.	00:10:10;
+
+[PlayVoice]=00:09:08	Voice04/04-KC/04-KC-E04/04-KC-E04-0070	0	sek	00:10:10;
+
+[PrintText]=00:10:10	Makoto	Estaba con todos mis problemas, y te ofreciste a practicar conmigo...	00:15:18;
+
+[PlayVoice]=00:10:10	Voice04/04-KC/04-KC-E04/04-KC-E04-0080	1	mak	00:15:18;
+
+[PrintText]=00:15:17	Sekai	Solo tenía que ser práctica, pero de alguna manera, terminamos durmiendo juntos.	00:20:03;
+
+[PlayVoice]=00:15:17	Voice04/04-KC/04-KC-E04/04-KC-E04-0090	0	sek	00:20:03;
+
+[CreateBG]=00:20:02	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-004	00:32:13;
+
+[PrintText]=00:20:03	Makoto	Solo podía hacerlo así... no había remedio.	00:26:10;
+
+[PlayVoice]=00:20:03	Voice04/04-KC/04-KC-E04/04-KC-E04-0100	1	mak	00:26:10;
+
+[PrintText]=00:26:10	Sekai	Es cierto, incluso cuando suponía ser practica, solo has dormido conmigo, así que esto...	00:32:13;
+
+[PlayVoice]=00:26:10	Voice04/04-KC/04-KC-E04/04-KC-E04-0110	0	sek	00:32:13;
+
+[CreateBG]=00:32:13	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-005	00:37:13;
+
+[PrintText]=00:32:13	Sekai	Ah... no, aún no.	00:36:20;
+
+[PlayVoice]=00:32:13	Voice04/04-KC/04-KC-E04/04-KC-E04-0130	0	sek	00:36:20;
+
+[PrintText]=00:36:20	Makoto	Vale...	00:37:14;
+
+[PlayVoice]=00:36:20	Voice04/04-KC/04-KC-E04/04-KC-E04-0140	1	mak	00:37:14;
+
+[PlayMovie]=00:37:13	Movie04/04-KC/04-KC-E04/04-KC-E04-006	0	00:39:02;
+
+[PrintText]=00:37:15	Sekai	Nn...	00:39:03;
+
+[PlayVoice]=00:37:15	Voice04/04-KC/04-KC-E04/04-KC-E04-0160	0	sek	00:39:03;
+
+[CreateBG]=00:39:02	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-007	00:44:18;
+
+[PrintText]=00:39:03	Makoto	Sekai...	00:40:03;
+
+[PlayVoice]=00:39:03	Voice04/04-KC/04-KC-E04/04-KC-E04-0170	1	mak	00:40:03;
+
+[PrintText]=00:40:03	Sekai	Cielos... espera hasta que lleguemos a la cama.	00:44:01;
+
+[PlayVoice]=00:40:03	Voice04/04-KC/04-KC-E04/04-KC-E04-0180	0	sek	00:44:01;
+
+[PrintText]=00:44:01	Makoto	Vale.	00:44:19;
+
+[PlayVoice]=00:44:01	Voice04/04-KC/04-KC-E04/04-KC-E04-0190	1	mak	00:44:19;
+
+[CreateBG]=00:44:18	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-009	00:48:20;
+
+[PrintText]=00:44:19	Sekai	Podemos hacer lo que tú quieras cuando estemos en la cama...	00:47:11;
+
+[PlayVoice]=00:44:19	Voice04/04-KC/04-KC-E04/04-KC-E04-0200	0	sek	00:47:11;
+
+[PlayVoice]=00:47:11	Voice04/04-KC/04-KC-E04/04-KC-E04-0210			00:48:14;
+
+[BlackFade]=00:47:20	OUT	00:48:20;
+
+[CreateBG]=00:48:20	BGS	System/Screen/Black	00:50:21;
+
+[CreateBG]=00:50:21	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-011	01:09:02;
+
+[BlackFade]=00:50:21	IN	00:51:22;
+
+[PlayBgm]=00:51:02	BGM/SD_BGM/sdbgm21	02:07:01;
+
+[PrintText]=00:51:05	Sekai	Haah...	00:53:01;
+
+[PlayVoice]=00:51:05	Voice04/04-KC/04-KC-E04/04-KC-E04-0250	0	sek	00:53:01;
+
+[PrintText]=00:53:01	Makoto	Phew...	00:54:04;
+
+[PlayVoice]=00:53:01	Voice04/04-KC/04-KC-E04/04-KC-E04-0270	1	mak	00:54:04;
+
+[PrintText]=00:54:04	Sekai	Debes estar muy estresado... hehe...	00:59:06;
+
+[PlayVoice]=00:54:04	Voice04/04-KC/04-KC-E04/04-KC-E04-0280	0	sek	00:59:06;
+
+[PrintText]=00:59:05	Makoto	Vamos... ¿Esta bien? ¿Vale?^	01:01:23;
+
+[PlayVoice]=00:59:05	Voice04/04-KC/04-KC-E04/04-KC-E04-0290	1	mak	01:01:23;
+
+[PrintText]=01:01:23	Sekai	Sí, ahora esta bien.	01:04:02;
+
+[PlayVoice]=01:01:23	Voice04/04-KC/04-KC-E04/04-KC-E04-0300	0	sek	01:04:02;
+
+[PrintText]=01:04:02	Makoto	Eres asombrosa. Eso es lo que me enciende.	01:10:09;
+
+[PlayVoice]=01:04:02	Voice04/04-KC/04-KC-E04/04-KC-E04-0310	1	mak	01:10:09;
+
+[PlayMovie]=01:09:02	Movie04/04-KC/04-KC-E04/04-KC-E04-012A	0	01:19:02;
+
+[PrintText]=01:10:09	Sekai	Ah... ¿Vamos a hacerlo de nuevo?^	01:13:07;
+
+[PlayVoice]=01:10:09	Voice04/04-KC/04-KC-E04/04-KC-E04-0330	0	sek	01:13:07;
+
+[PrintText]=01:13:07	Makoto	¿No quieres?^	01:14:08;
+
+[PlayVoice]=01:13:07	Voice04/04-KC/04-KC-E04/04-KC-E04-0340	1	mak	01:14:08;
+
+[PrintText]=01:14:07	Sekai	No es que no quiera... pero lo hemos hecho muchas veces ya.	01:18:14;
+
+[PlayVoice]=01:14:07	Voice04/04-KC/04-KC-E04/04-KC-E04-0350	0	sek	01:18:14;
+
+[PrintText]=01:18:14	Makoto	Solo una vez más, entonces.	01:21:05;
+
+[PlayVoice]=01:18:14	Voice04/04-KC/04-KC-E04/04-KC-E04-0370	1	mak	01:21:05;
+
+[CreateBG]=01:19:02	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-012	01:27:02;
+
+[PrintText]=01:21:04	Sekai	Vale...	01:22:06;
+
+[PlayVoice]=01:21:04	Voice04/04-KC/04-KC-E04/04-KC-E04-0380	0	sek	01:22:06;
+
+[PlaySe]=01:22:11	1	SysSe/SE_all/keitai/tyakusin_makoto	01:27:02;
+
+[PrintText]=01:24:10	Makoto	Ah...	01:25:01;
+
+[PlayVoice]=01:24:10	Voice04/04-KC/04-KC-E04/04-KC-E04-0410	1	mak	01:25:01;
+
+[CreateBG]=01:27:02	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-013	01:32:09;
+
+[PrintText]=01:27:17	Kotonoha	¿Hola, Makoto-kun?^	01:29:20;
+
+[PlayVoice]=01:27:17	Voice04/04-KC/04-KC-E04/04-KC-E04-0430	0	kot	01:29:20;
+
+[PrintText]=01:29:17	Makoto	Ah... Sí.	01:32:08;
+
+[PlayVoice]=01:29:17	Voice04/04-KC/04-KC-E04/04-KC-E04-0440	1	mak	01:32:08;
+
+[CreateBG]=01:32:09	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-014	01:42:05;
+
+[PrintText]=01:32:11	Kotonoha	¡Me enviaste un correo diciendo que no te sentías bien, y estaba preocupada por ti!	01:36:06;
+
+[PlayVoice]=01:32:11	Voice04/04-KC/04-KC-E04/04-KC-E04-0450	0	kot	01:36:06;
+
+[PrintText]=01:36:03	Makoto	S-Sí... estoy acostado justo ahora.	01:42:04;
+
+[PlayVoice]=01:36:03	Voice04/04-KC/04-KC-E04/04-KC-E04-0460	1	mak	01:42:04;
+
+[CreateBG]=01:42:05	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-015	01:50:23;
+
+[PrintText]=01:42:07	Kotonoha	¿En serio? ¿Estás bien?^	01:46:01;
+
+[PlayVoice]=01:42:07	Voice04/04-KC/04-KC-E04/04-KC-E04-0480	0	kot	01:46:01;
+
+[PrintText]=01:45:22	Makoto	S-Sí, estoy bien.	01:48:22;
+
+[PlayVoice]=01:45:22	Voice04/04-KC/04-KC-E04/04-KC-E04-0490	1	mak	01:48:22;
+
+[PrintText]=01:49:00	Kotonoha	Gracias a dios... oh, ¿Escuchaste? Saionji-san también se fue temprano, no se sentía bien.	01:57:18;
+
+[PlayVoice]=01:49:00	Voice04/04-KC/04-KC-E04/04-KC-E04-0500	0	kot	01:57:18;
+
+[CreateBG]=01:50:23	BGS	Event04/04-KC/04-KC-E04/04-KC-E04-016	02:07:01;
+
+[PrintText]=01:57:15	Makoto	No...	01:58:10;
+
+[PlayVoice]=01:57:15	Voice04/04-KC/04-KC-E04/04-KC-E04-0510	1	mak	01:58:10;
+
+[PrintText]=01:58:14	Kotonoha	¿Me pregunto qué pasó...?^	02:00:13;
+
+[PlayVoice]=01:58:14	Voice04/04-KC/04-KC-E04/04-KC-E04-0520	0	kot	02:00:13;
+
+[SetSELECT]=02:01:00	'Ella está aquí conmigo'	'No lo sé'	02:06:00;
+
+ ;
+
+[Next]=02:07:01;
+
+

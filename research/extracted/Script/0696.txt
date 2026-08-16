@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=02:28:09;
+
+[PlaySe]=00:00:00	2	Se03/03-KB/03-KB-M05/SE03-KB-M05-002	01:51:08;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-M06/03-KB-M06-001	0	01:51:11;
+
+[BlackFade]=01:48:11	OUT	01:51:11;
+
+[PlaySe]=01:51:11	1	Se03/03-KB/03-KB-M06/SE03-KB-M06-001	02:28:09;
+
+[CreateBG]=01:51:11	BGS	Event03/03-KB/03-KB-M06/03-KB-M06-008	01:55:03;
+
+[PrintText]=01:51:13	Sekai	Haah... eso fue divertido.	01:54:09;
+
+[PlayVoice]=01:51:13	Voice03/03-KB/03-KB-M06/03-KB-M06-0070	0	sek	01:54:09;
+
+[PrintText]=01:54:09	Makoto	Sí.	01:55:02;
+
+[PlayVoice]=01:54:09	Voice03/03-KB/03-KB-M06/03-KB-M06-0080	1	mak	01:55:02;
+
+[CreateBG]=01:55:03	BGS	Event03/03-KB/03-KB-M06/03-KB-M06-009	02:02:16;
+
+[PrintText]=01:55:03	Sekai	U-um... escucha...	01:57:16;
+
+[PlayVoice]=01:55:03	Voice03/03-KB/03-KB-M06/03-KB-M06-0090	0	sek	01:57:16;
+
+[PrintText]=01:57:16	Makoto	¿Qué pasa?^	01:58:06;
+
+[PlayVoice]=01:57:16	Voice03/03-KB/03-KB-M06/03-KB-M06-0100	1	mak	01:58:06;
+
+[PrintText]=01:58:06	Sekai	Lo que significa el baile folk...	02:02:15;
+
+[PlayVoice]=01:58:06	Voice03/03-KB/03-KB-M06/03-KB-M06-0110	0	sek	02:02:15;
+
+[PrintText]=02:02:15	Makoto	...	02:03:09;
+
+[PlayVoice]=02:02:15	Voice03/03-KB/03-KB-M06/03-KB-M06-0120	1	xxx	02:03:09;
+
+[CreateBG]=02:02:16	BGS	Event03/03-KB/03-KB-M06/03-KB-M06-010	02:12:17;
+
+[PrintText]=02:03:09	Sekai	Eheheh... olvídalo.	02:06:07;
+
+[PlayVoice]=02:03:09	Voice03/03-KB/03-KB-M06/03-KB-M06-0130	0	sek	02:06:07;
+
+[PrintText]=02:06:07	Makoto	...	02:07:01;
+
+[PlayVoice]=02:06:07	Voice03/03-KB/03-KB-M06/03-KB-M06-0140	1	xxx	02:07:01;
+
+[PrintText]=02:07:01	Sekai	¿Cómo van las cosas con Katsura-san? ¿Siguen discutiendo?^	02:10:21;
+
+[PlayVoice]=02:07:01	Voice03/03-KB/03-KB-M06/03-KB-M06-0150	0	sek	02:10:21;
+
+[PrintText]=02:10:21	Makoto	Realmente no, pero...	02:12:16;
+
+[PlayVoice]=02:10:21	Voice03/03-KB/03-KB-M06/03-KB-M06-0160	1	mak	02:12:16;
+
+[PrintText]=02:12:16	Sekai	¿Ya se fue a casa?^	02:14:06;
+
+[PlayVoice]=02:12:16	Voice03/03-KB/03-KB-M06/03-KB-M06-0170	0	sek	02:14:06;
+
+[CreateBG]=02:12:17	BGS	Event03/03-KB/03-KB-M06/03-KB-M06-011	02:15:01;
+
+[PrintText]=02:14:07	Makoto	No...	02:15:01;
+
+[PlayVoice]=02:14:07	Voice03/03-KB/03-KB-M06/03-KB-M06-0180	1	mak	02:15:01;
+
+[PrintText]=02:15:00	Sekai	¿Pasa algo?^	02:16:10;
+
+[PlayVoice]=02:15:00	Voice03/03-KB/03-KB-M06/03-KB-M06-0190	0	sek	02:16:10;
+
+[CreateBG]=02:15:01	BGS	Event03/03-KB/03-KB-M06/03-KB-M06-012	02:23:09;
+
+[PrintText]=02:16:10	Makoto	Es solo... que no quiero verla ahora.	02:19:18;
+
+[PlayVoice]=02:16:10	Voice03/03-KB/03-KB-M06/03-KB-M06-0200	1	mak	02:19:18;
+
+[PrintText]=02:19:18	Sekai	¿Eh?^	02:20:07;
+
+[PlayVoice]=02:19:18	Voice03/03-KB/03-KB-M06/03-KB-M06-0210	0	sek	02:20:07;
+
+[PrintText]=02:20:07	Makoto	Kotonoha y yo... ya no...	02:23:08;
+
+[PlayVoice]=02:20:07	Voice03/03-KB/03-KB-M06/03-KB-M06-0220	1	mak	02:23:08;
+
+[CreateBG]=02:23:09	BGS	Event03/03-KB/03-KB-M06/03-KB-M06-013	02:28:09;
+
+[PrintText]=02:23:09	Sekai	Ya... Ya veo...	02:25:15;
+
+[PlayVoice]=02:23:09	Voice03/03-KB/03-KB-M06/03-KB-M06-0230	0	sek	02:25:15;
+
+ ;
+
+[Next]=02:28:09;
+
+

@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:09:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:09:15;
+
+[PlayMovie]=00:00:00	Movie05/05-5O/05-5O-D08/05-5O-D08-001	0	00:07:01;
+
+[PrintText]=00:00:00	Itaru	Me da miedo.	00:01:13;
+
+[PlayVoice]=00:00:00	Voice05/05-5O/05-5O-D08/05-5O-D08-0030	0	ita	00:01:13;
+
+[PrintText]=00:01:10	Makoto	¿Eh?^	00:02:07;
+
+[PlayVoice]=00:01:10	Voice05/05-5O/05-5O-D08/05-5O-D08-0040	1	mak	00:02:07;
+
+[PrintText]=00:02:05	Itaru	No sé por qué... pero no me agrada.	00:06:19;
+
+[PlayVoice]=00:02:05	Voice05/05-5O/05-5O-D08/05-5O-D08-0050	0	ita	00:06:19;
+
+[CreateBG]=00:07:01	BGS	Event05/05-5O/05-5O-D07/05-5O-D07-002	00:09:15;
+
+[PrintText]=00:07:11	Makoto	Ya veo...	00:08:14;
+
+[PlayVoice]=00:07:11	Voice05/05-5O/05-5O-D08/05-5O-D08-0060	1	mak	00:08:14;
+
+[PrintText]=00:08:10	Itaru	Uh-huh.	00:09:09;
+
+[PlayVoice]=00:08:10	Voice05/05-5O/05-5O-D08/05-5O-D08-0070	0	ita	00:09:09;
+
+ ;
+
+[Next]=00:09:15;
+
+

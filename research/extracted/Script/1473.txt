@@ -1,0 +1,62 @@
+﻿[SkipFRAME]=00:23:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:23:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-B09/05-KA-B09-001	00:01:09;
+
+[CreateBG]=00:01:09	BGS	Event05/05-KA/05-KA-B09/05-KA-B09-002	00:04:10;
+
+[PrintText]=00:01:09	Makoto	Buen día...	00:02:12;
+
+[PlayVoice]=00:01:09	Voice05/05-KA/05-KA-B09/05-KA-B09-0030	1	mak	00:02:12;
+
+[PrintText]=00:02:14	Nanami	...	00:03:05;
+
+[PlayVoice]=00:02:14	Voice05/05-KA/05-KA-B09/05-KA-B09-0040	0	xxx	00:03:05;
+
+[PrintText]=00:03:05	Setsuna	...	00:04:08;
+
+[PlayVoice]=00:03:05	Voice05/05-KA/05-KA-B09/05-KA-B09-0050	0	xxx	00:04:08;
+
+[CreateBG]=00:04:10	BGS	Event05/05-KA/05-KA-B09/05-KA-B09-003	00:06:18;
+
+[PrintText]=00:04:10	Makoto	...	00:05:13;
+
+[PlayVoice]=00:04:10	Voice05/05-KA/05-KA-B09/05-KA-B09-0070	1	xxx	00:05:13;
+
+[PrintText]=00:05:14	Makoto	Haah...	00:06:17;
+
+[PlayVoice]=00:05:14	Voice05/05-KA/05-KA-B09/05-KA-B09-0090	1	mak	00:06:17;
+
+[PlaySe]=00:06:18	2	SysSe/SE_all/school/chime	00:23:06;
+
+[CreateBG]=00:06:18	BGS	Event05/05-KA/05-KA-B09/05-KA-B09-004	00:13:20;
+
+[BlackFade]=00:06:18	OUT	00:07:06;
+
+[PrintText]=00:11:12	Makoto	...Hora del almuerzo ¿huh?^	00:12:20;
+
+[PlayVoice]=00:11:12	Voice05/05-KA/05-KA-B09/05-KA-B09-0120	1	mak	00:12:20;
+
+[CreateBG]=00:13:20	BGS	Event05/05-KA/05-KA-B09/05-KA-B09-005	00:17:19;
+
+[PrintText]=00:14:05	Makoto	Es algo triste, pero... Si Kotonoha no viene...	00:18:00;
+
+[PlayVoice]=00:14:05	Voice05/05-KA/05-KA-B09/05-KA-B09-0130	1	mak	00:18:00;
+
+[CreateBG]=00:17:19	BGS	Event05/05-KA/05-KA-B09/05-KA-B09-006	00:20:10;
+
+[PrintText]=00:18:21	Makoto	...Tendré que irme de aquí.	00:21:16;
+
+[PlayVoice]=00:18:21	Voice05/05-KA/05-KA-B09/05-KA-B09-0150	1	mak	00:21:16;
+
+[CreateBG]=00:20:10	BGS	Event05/05-KA/05-KA-B09/05-KA-B09-007	00:23:06;
+
+[BlackFade]=00:22:06	OUT	00:23:06;
+
+ ;
+
+[Next]=00:23:06;
+
+
+

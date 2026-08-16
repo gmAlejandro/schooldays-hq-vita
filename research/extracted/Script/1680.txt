@@ -1,0 +1,94 @@
+﻿[SkipFRAME]=00:49:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:49:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:49:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-001	00:05:19;
+
+[PrintText]=00:00:00	Makoto	...	00:04:11;
+
+[PlayVoice]=00:00:00	Voice05/05-SA/05-SA-C00/05-SA-C00-0040	1	xxx	00:04:11;
+
+[PrintText]=00:04:12	Sekai	¡Buen día!	00:05:19;
+
+[PlayVoice]=00:04:12	Voice05/05-SA/05-SA-C00/05-SA-C00-0050	0	sek	00:05:19;
+
+[CreateBG]=00:05:19	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-002	00:08:07;
+
+[PrintText]=00:05:19	Makoto	Hey, buen día.	00:09:05;
+
+[PlayVoice]=00:05:19	Voice05/05-SA/05-SA-C00/05-SA-C00-0060	1	mak	00:09:05;
+
+[CreateBG]=00:08:07	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-003	00:10:03;
+
+[PrintText]=00:08:07	Sekai	Hoy es un bonito día ¿No?^	00:09:19;
+
+[PlayVoice]=00:08:07	Voice05/05-SA/05-SA-C00/05-SA-C00-0070	0	sek	00:09:19;
+
+[PrintText]=00:09:06	Makoto	Sí, creo. Por cierto, esta mañana Kotonoha estaba...	00:16:09;
+
+[PlayVoice]=00:09:06	Voice05/05-SA/05-SA-C00/05-SA-C00-0080	1	mak	00:16:09;
+
+[CreateBG]=00:10:03	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-004	00:15:12;
+
+[CreateBG]=00:15:12	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-005	00:19:08;
+
+[PrintText]=00:15:12	Sekai	¡Ah! Hey, ¿Estás libre en el almuerzo?^	00:19:07;
+
+[PlayVoice]=00:15:12	Voice05/05-SA/05-SA-C00/05-SA-C00-0090	0	sek	00:19:07;
+
+[PrintText]=00:18:13	Makoto	¿Huh? Oh, sí.	00:22:10;
+
+[PlayVoice]=00:18:13	Voice05/05-SA/05-SA-C00/05-SA-C00-0100	1	mak	00:22:10;
+
+[CreateBG]=00:19:08	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-006	00:27:13;
+
+[PrintText]=00:22:00	Sekai	¿Quieres que almorcemos juntos?^	00:24:04;
+
+[PlayVoice]=00:22:00	Voice05/05-SA/05-SA-C00/05-SA-C00-0110	0	sek	00:24:04;
+
+[PrintText]=00:24:00	Makoto	Seguro, pero hace frío hoy, así que descartemos el tejado o el patio.	00:31:00;
+
+[PlayVoice]=00:24:00	Voice05/05-SA/05-SA-C00/05-SA-C00-0120	1	mak	00:31:00;
+
+[CreateBG]=00:27:13	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-006B	00:32:09;
+
+[PrintText]=00:29:12	Sekai	No lo haría en un lugar tan obvio como ese.	00:32:08;
+
+[PlayVoice]=00:29:12	Voice05/05-SA/05-SA-C00/05-SA-C00-0130	0	sek	00:32:08;
+
+[PrintText]=00:31:18	Makoto	¿Obvio...?^	00:34:16;
+
+[PlayVoice]=00:31:18	Voice05/05-SA/05-SA-C00/05-SA-C00-0140	1	mak	00:34:16;
+
+[CreateBG]=00:32:09	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-007	00:38:08;
+
+[PrintText]=00:33:20	Sekai	Oh, olvídalo.	00:36:15;
+
+[PlayVoice]=00:33:20	Voice05/05-SA/05-SA-C00/05-SA-C00-0150	0	sek	00:36:15;
+
+[PrintText]=00:36:00	Makoto	¿...?^	00:38:07;
+
+[PlayVoice]=00:36:00	Voice05/05-SA/05-SA-C00/05-SA-C00-0160	1	mak	00:38:07;
+
+[CreateBG]=00:38:08	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-008	00:44:00;
+
+[PrintText]=00:38:08	Sekai	¡Cómo sea, tengo un buen lugar en mente, así que almorzaremos ahí!	00:43:18;
+
+[PlayVoice]=00:38:08	Voice05/05-SA/05-SA-C00/05-SA-C00-0170	0	sek	00:43:18;
+
+[PrintText]=00:43:00	Makoto	V-Vale.	00:46:13;
+
+[PlayVoice]=00:43:00	Voice05/05-SA/05-SA-C00/05-SA-C00-0180	1	mak	00:46:13;
+
+[CreateBG]=00:44:00	BGS	Event05/05-SA/05-SA-C00/05-SA-C00-009	00:49:03;
+
+[BlackFade]=00:47:15	OUT	00:49:03;
+
+ ;
+
+[Next]=00:49:04;
+
+
+

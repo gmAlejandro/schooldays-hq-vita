@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:34:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:34:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-F02/03-KB-F02-001	00:07:05;
+
+[PrintText]=00:00:00	Sekai	No puedo.	00:02:01;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-F02/03-KB-F02-0030	0	sek	00:02:01;
+
+[PrintText]=00:02:01	Setsuna	Solo hazlo.	00:03:04;
+
+[PlayVoice]=00:02:01	Voice03/03-KB/03-KB-F02/03-KB-F02-0040	0	set	00:03:04;
+
+[PrintText]=00:03:03	Sekai	No tengo el valor.	00:05:04;
+
+[PlayVoice]=00:03:03	Voice03/03-KB/03-KB-F02/03-KB-F02-0050	0	sek	00:05:04;
+
+[PrintText]=00:05:04	Setsuna	¿En serio?^	00:06:02;
+
+[PlayVoice]=00:05:04	Voice03/03-KB/03-KB-F02/03-KB-F02-0060	0	set	00:06:02;
+
+[PrintText]=00:06:02	Sekai	Uh-huh.	00:07:04;
+
+[PlayVoice]=00:06:02	Voice03/03-KB/03-KB-F02/03-KB-F02-0070	0	sek	00:07:04;
+
+[PrintText]=00:07:04	Setsuna	Si van a ser así las cosas, entonces otro chica irá por él.	00:11:12;
+
+[PlayVoice]=00:07:04	Voice03/03-KB/03-KB-F02/03-KB-F02-0080	0	set	00:11:12;
+
+[CreateBG]=00:07:05	BGS	Event03/03-KB/03-KB-F02/03-KB-F02-002	00:11:12;
+
+[PrintText]=00:11:11	Sekai	Eso parece ser lo que le sucede siempre a él...	00:13:19;
+
+[PlayVoice]=00:11:11	Voice03/03-KB/03-KB-F02/03-KB-F02-0090	0	sek	00:13:19;
+
+[CreateBG]=00:11:12	BGS	Event03/03-KB/03-KB-F02/03-KB-F02-003	00:13:20;
+
+[PrintText]=00:13:19	Setsuna	Alguien estaba diciendo que vieron a Itou con una chica en Sakakino-cho. ¿Eras tú?^	00:22:07;
+
+[PlayVoice]=00:13:19	Voice03/03-KB/03-KB-F02/03-KB-F02-0100	0	set	00:22:07;
+
+[CreateBG]=00:13:20	BGS	Event03/03-KB/03-KB-F02/03-KB-F02-004	00:22:08;
+
+[PrintText]=00:22:07	Sekai	Mmn...	00:23:08;
+
+[PlayVoice]=00:22:07	Voice03/03-KB/03-KB-F02/03-KB-F02-0110	0	sek	00:23:08;
+
+[CreateBG]=00:22:08	BGS	Event02/02-2K/02-2K-Q03/02-2K-Q03-001	00:28:13;
+
+[PrintText]=00:23:08	Setsuna	Dijeron que era una chica de cabello largo, así que no lo creo.	00:28:12;
+
+[PlayVoice]=00:23:08	Voice03/03-KB/03-KB-F02/03-KB-F02-0120	0	set	00:28:12;
+
+[CreateBG]=00:28:13	BGS	Event03/03-KB/03-KB-F02/03-KB-F02-006	00:34:05;
+
+[PrintText]=00:28:13	Sekai	Haha...	00:30:03;
+
+[PlayVoice]=00:28:13	Voice03/03-KB/03-KB-F02/03-KB-F02-0130	0	sek	00:30:03;
+
+[PrintText]=00:30:03	Setsuna	Bueno, supongo que no es importante.	00:33:09;
+
+[PlayVoice]=00:30:03	Voice03/03-KB/03-KB-F02/03-KB-F02-0150	0	set	00:33:09;
+
+[PrintText]=00:33:09	Sekai	...	00:34:05;
+
+[PlayVoice]=00:33:09	Voice03/03-KB/03-KB-F02/03-KB-F02-0160	0	xxx	00:34:05;
+
+ ;
+
+[Next]=00:34:05;
+
+

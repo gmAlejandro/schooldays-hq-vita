@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:19:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:25:13;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-N02/03-KB-N02-001	0	00:25:13;
+
+[PrintText]=00:00:00	Makoto	¿Eres virgen?^	00:00:20;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-N02/03-KB-N02-0030	1	mak	00:00:20;
+
+[PrintText]=00:00:20	Kotonoha	...Sí.	00:06:09;
+
+[PlayVoice]=00:00:20	Voice03/03-KB/03-KB-N02/03-KB-N02-0040	0	kot	00:06:09;
+
+[PrintText]=00:06:09	Makoto	Lo suponía.	00:07:17;
+
+[PlayVoice]=00:06:09	Voice03/03-KB/03-KB-N02/03-KB-N02-0050	1	mak	00:07:17;
+
+[PrintText]=00:07:17	Kotonoha	Lo siento...	00:09:23;
+
+[PlayVoice]=00:07:17	Voice03/03-KB/03-KB-N02/03-KB-N02-0060	0	kot	00:09:23;
+
+[PrintText]=00:09:23	Makoto	¿Huh? ¿Por qué?^	00:12:04;
+
+[PlayVoice]=00:09:23	Voice03/03-KB/03-KB-N02/03-KB-N02-0070	1	mak	00:12:04;
+
+[PrintText]=00:12:05	Kotonoha	Es mi primera vez... por lo que podría no hacer las cosas bien...	00:17:00;
+
+[PlayVoice]=00:12:05	Voice03/03-KB/03-KB-N02/03-KB-N02-0080	0	kot	00:17:00;
+
+[PrintText]=00:16:23	Makoto	Estarás bien.	00:18:06;
+
+[PlayVoice]=00:16:23	Voice03/03-KB/03-KB-N02/03-KB-N02-0090	1	mak	00:18:06;
+
+[PrintText]=00:18:06	Kotonoha	Pero...	00:19:06;
+
+[PlayVoice]=00:18:06	Voice03/03-KB/03-KB-N02/03-KB-N02-0100	0	kot	00:19:06;
+
+[SetSELECT]=00:19:06	'También es mi primera vez'	'Te guiaré'	00:24:06;
+
+ ;
+
+[Next]=00:25:13;
+
+

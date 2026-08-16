@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=00:24:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:24:18;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C08/SE02-2S-C08-001	00:24:18;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C08/02-2S-C08-001	00:03:02;
+
+[PrintText]=00:00:00	Makoto	...	00:01:10;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-C08/02-2S-C08-0030	1	xxx	00:01:10;
+
+[PrintText]=00:01:11	Sekai	¿Makoto?^	00:02:09;
+
+[PlayVoice]=00:01:11	Voice02/02-2S/02-2S-C08/02-2S-C08-0040	0	sek	00:02:09;
+
+[PrintText]=00:02:09	Makoto	Mmn ...	00:03:01;
+
+[PlayVoice]=00:02:09	Voice02/02-2S/02-2S-C08/02-2S-C08-0050	1	mak	00:03:01;
+
+[CreateBG]=00:03:02	BGS	Event02/02-2S/02-2S-C08/02-2S-C08-002	00:09:13;
+
+[PrintText]=00:03:02	Sekai	Mira, se lo diré.	00:06:21;
+
+[PlayVoice]=00:03:02	Voice02/02-2S/02-2S-C08/02-2S-C08-0060	0	sek	00:06:21;
+
+[PrintText]=00:06:20	Makoto	...	00:07:15;
+
+[PlayVoice]=00:06:20	Voice02/02-2S/02-2S-C08/02-2S-C08-0070	1	xxx	00:07:15;
+
+[PrintText]=00:07:15	Sekai	Se lo diré por mí misma.	00:09:12;
+
+[PlayVoice]=00:07:15	Voice02/02-2S/02-2S-C08/02-2S-C08-0080	0	sek	00:09:12;
+
+[PrintText]=00:09:12	Makoto	E-Espera...	00:11:14;
+
+[PlayVoice]=00:09:12	Voice02/02-2S/02-2S-C08/02-2S-C08-0090	1	mak	00:11:14;
+
+[CreateBG]=00:09:13	BGS	Event02/02-2S/02-2S-C08/02-2S-C08-003	00:18:04;
+
+[PrintText]=00:11:14	Sekai	No te preocupes, no habrá ningún problema.	00:13:22;
+
+[PlayVoice]=00:11:14	Voice02/02-2S/02-2S-C08/02-2S-C08-0100	0	sek	00:13:22;
+
+[PrintText]=00:13:22	Makoto	Si esa es la alternativa, prefiero ir también.	00:18:04;
+
+[PlayVoice]=00:13:22	Voice02/02-2S/02-2S-C08/02-2S-C08-0110	1	mak	00:18:04;
+
+[CreateBG]=00:18:04	BGS	Event02/02-2S/02-2S-C08/02-2S-C08-004	00:24:18;
+
+[PrintText]=00:18:04	Sekai	¿Estás seguro?^	00:19:00;
+
+[PlayVoice]=00:18:04	Voice02/02-2S/02-2S-C08/02-2S-C08-0120	0	sek	00:19:00;
+
+[PrintText]=00:19:00	Makoto	Sí.	00:19:16;
+
+[PlayVoice]=00:19:00	Voice02/02-2S/02-2S-C08/02-2S-C08-0130	1	mak	00:19:16;
+
+[PrintText]=00:20:08	Sekai	Bien. Vamos juntos, entonces.	00:24:05;
+
+[PlayVoice]=00:20:08	Voice02/02-2S/02-2S-C08/02-2S-C08-0140	0	sek	00:24:05;
+
+ ;
+
+[Next]=00:24:18;
+
+
+
+

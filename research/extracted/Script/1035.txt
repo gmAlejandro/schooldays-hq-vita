@@ -1,0 +1,173 @@
+﻿[SkipFRAME]=02:05:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:05:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-001	00:11:00;
+
+[PrintText]=00:00:00	Kotonoha	Ah... Sawanaga-san a venido. ¿Quieres hablar con él?^	00:04:12;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-E08/04-KC-E08-0030	0	kot	00:04:12;
+
+[PrintText]=00:04:12	Makoto	No, estaré bien.	00:06:00;
+
+[PlayVoice]=00:04:12	Voice04/04-KC/04-KC-E08/04-KC-E08-0040	1	mak	00:06:00;
+
+[PrintText]=00:06:00	Kotonoha	Colgare ahora, entonces. Cuidate Makoto-kun.	00:11:00;
+
+[PlayVoice]=00:06:00	Voice04/04-KC/04-KC-E08/04-KC-E08-0050	0	kot	00:11:00;
+
+[CreateBG]=00:11:00	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-002	00:16:04;
+
+[PrintText]=00:11:00	Makoto	Sí.	00:11:18;
+
+[PlayVoice]=00:11:00	Voice04/04-KC/04-KC-E08/04-KC-E08-0060	1	mak	00:11:18;
+
+[PrintText]=00:13:01	Makoto	...	00:13:23;
+
+[PlayVoice]=00:13:01	Voice04/04-KC/04-KC-E08/04-KC-E08-0080	1	xxx	00:13:23;
+
+[PrintText]=00:14:08	Sekai	¿Katsura-san?^	00:15:10;
+
+[PlayVoice]=00:14:08	Voice04/04-KC/04-KC-E08/04-KC-E08-0090	0	sek	00:15:10;
+
+[PrintText]=00:15:14	Makoto	...Sí.	00:16:08;
+
+[PlayVoice]=00:15:14	Voice04/04-KC/04-KC-E08/04-KC-E08-0100	1	mak	00:16:08;
+
+[CreateBG]=00:16:04	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-003	00:22:10;
+
+[PrintText]=00:16:09	Sekai	La has preocupado después de todo.	00:20:10;
+
+[PlayVoice]=00:16:09	Voice04/04-KC/04-KC-E08/04-KC-E08-0110	0	sek	00:20:10;
+
+[PrintText]=00:20:09	Makoto	Sí...	00:21:04;
+
+[PlayVoice]=00:20:09	Voice04/04-KC/04-KC-E08/04-KC-E08-0120	1	mak	00:21:04;
+
+[PrintText]=00:21:04	Sekai	Haha...	00:22:11;
+
+[PlayVoice]=00:21:04	Voice04/04-KC/04-KC-E08/04-KC-E08-0130	0	sek	00:22:11;
+
+[CreateBG]=00:22:10	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-004	00:28:13;
+
+[PrintText]=00:22:11	Makoto	Esto no es justo para ti, tampoco... soy un...	00:28:17;
+
+[PlayVoice]=00:22:11	Voice04/04-KC/04-KC-E08/04-KC-E08-0140	1	mak	00:28:17;
+
+[CreateBG]=00:28:13	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-006	00:44:11;
+
+[PrintText]=00:28:17	Sekai	¡E-Está bien! ¡Me gusta tener sexo contigo!	00:33:10;
+
+[PlayVoice]=00:28:17	Voice04/04-KC/04-KC-E08/04-KC-E08-0150	0	sek	00:33:10;
+
+[PrintText]=00:33:10	Makoto	¿En serio?^	00:34:16;
+
+[PlayVoice]=00:33:10	Voice04/04-KC/04-KC-E08/04-KC-E08-0160	1	mak	00:34:16;
+
+[PrintText]=00:34:17	Sekai	Uh-huh. Se siente bien... decían que iba a doler la primera vez, pero ahora se siente realmente bien, ¿No es genial?^	00:46:15;
+
+[PlayVoice]=00:34:17	Voice04/04-KC/04-KC-E08/04-KC-E08-0170	0	sek	00:46:15;
+
+[CreateBG]=00:44:11	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-007	00:49:06;
+
+[PrintText]=00:46:14	Makoto	También se siente bien para mí.	00:49:12;
+
+[PlayVoice]=00:46:14	Voice04/04-KC/04-KC-E08/04-KC-E08-0180	1	mak	00:49:12;
+
+[CreateBG]=00:49:06	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-008	01:02:21;
+
+[PrintText]=00:49:13	Sekai	Está bien entonces ¿No? Podemos hacerlo si sentimos lo mismo.	00:55:17;
+
+[PlayVoice]=00:49:13	Voice04/04-KC/04-KC-E08/04-KC-E08-0190	0	sek	00:55:17;
+
+[PrintText]=00:55:17	Makoto	Sí, pero...	00:58:13;
+
+[PlayVoice]=00:55:17	Voice04/04-KC/04-KC-E08/04-KC-E08-0200	1	mak	00:58:13;
+
+[PrintText]=00:58:13	Sekai	Sabes, personalmente, estoy bien con cosas así.	01:02:22;
+
+[PlayVoice]=00:58:13	Voice04/04-KC/04-KC-E08/04-KC-E08-0210	0	sek	01:02:22;
+
+[CreateBG]=01:02:21	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-009	01:15:22;
+
+[PrintText]=01:02:22	Makoto	¿Eh...?^	01:03:13;
+
+[PlayVoice]=01:02:22	Voice04/04-KC/04-KC-E08/04-KC-E08-0220	1	mak	01:03:13;
+
+[PrintText]=01:03:13	Sekai	Te sentías frustrado porque no podías acostarte con Katsura-san ¿No? Entonces seré su reemplazo.	01:13:14;
+
+[PlayVoice]=01:03:13	Voice04/04-KC/04-KC-E08/04-KC-E08-0230	0	sek	01:13:14;
+
+[PrintText]=01:13:15	Makoto	Pero entonces, tú estás...	01:16:04;
+
+[PlayVoice]=01:13:15	Voice04/04-KC/04-KC-E08/04-KC-E08-0240	1	mak	01:16:04;
+
+[CreateBG]=01:15:22	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-010	01:25:11;
+
+[PrintText]=01:16:04	Sekai	¡Ahora, tal vez también tendré que buscar a alguien que me guste, solo vamos a mantener las cosas así!	01:22:20;
+
+[PlayVoice]=01:16:04	Voice04/04-KC/04-KC-E08/04-KC-E08-0250	0	sek	01:22:20;
+
+[PrintText]=01:22:20	Makoto	Vale...	01:23:23;
+
+[PlayVoice]=01:22:20	Voice04/04-KC/04-KC-E08/04-KC-E08-0260	1	mak	01:23:23;
+
+[PrintText]=01:23:23	Sekai	Hehe...	01:25:16;
+
+[PlayVoice]=01:23:23	Voice04/04-KC/04-KC-E08/04-KC-E08-0270	0	sek	01:25:16;
+
+[CreateBG]=01:25:11	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-011	01:34:02;
+
+[PrintText]=01:25:16	Makoto	Pero, si encuentras a alguien... probablemente me ponga celoso.	01:34:08;
+
+[PlayVoice]=01:25:16	Voice04/04-KC/04-KC-E08/04-KC-E08-0280	1	mak	01:34:08;
+
+[CreateBG]=01:34:02	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-012	01:41:04;
+
+[PrintText]=01:34:07	Sekai	¿Eh...?^	01:34:21;
+
+[PlayVoice]=01:34:07	Voice04/04-KC/04-KC-E08/04-KC-E08-0290	0	sek	01:34:21;
+
+[PrintText]=01:34:22	Makoto	Pensar que harás cosas como estas con él.	01:40:06;
+
+[PlayVoice]=01:34:22	Voice04/04-KC/04-KC-E08/04-KC-E08-0300	1	mak	01:40:06;
+
+[PrintText]=01:40:06	Sekai	Uh-huh...	01:41:09;
+
+[PlayVoice]=01:40:06	Voice04/04-KC/04-KC-E08/04-KC-E08-0310	0	sek	01:41:09;
+
+[CreateBG]=01:41:04	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-012B	01:47:00;
+
+[PrintText]=01:41:08	Makoto	Haha... Estoy siendo muy egoísta ¿No?^	01:47:04;
+
+[PlayVoice]=01:41:08	Voice04/04-KC/04-KC-E08/04-KC-E08-0320	1	mak	01:47:04;
+
+[CreateBG]=01:47:00	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-014	01:51:12;
+
+[PrintText]=01:47:04	Sekai	Sin bromas, terminarás siendo apuñalado uno de estos días si sigues así.	01:51:09;
+
+[PlayVoice]=01:47:04	Voice04/04-KC/04-KC-E08/04-KC-E08-0330	0	sek	01:51:09;
+
+[PrintText]=01:51:10	Makoto	Uwah, suena horrible.	01:53:03;
+
+[PlayVoice]=01:51:10	Voice04/04-KC/04-KC-E08/04-KC-E08-0340	1	mak	01:53:03;
+
+[CreateBG]=01:51:12	BGS	Event04/04-KC/04-KC-E08/04-KC-E08-015	02:05:00;
+
+[PrintText]=01:53:02	Sekai	Ahaha...	01:54:12;
+
+[PlayVoice]=01:53:02	Voice04/04-KC/04-KC-E08/04-KC-E08-0350	0	sek	01:54:12;
+
+[PrintText]=01:54:13	Makoto	Haha... Bueno, es hora de ir a casa.	02:01:06;
+
+[PlayVoice]=01:54:13	Voice04/04-KC/04-KC-E08/04-KC-E08-0360	1	mak	02:01:06;
+
+[PrintText]=02:01:06	Sekai	Vale. Nos vemos afuera.	02:03:01;
+
+[PlayVoice]=02:01:06	Voice04/04-KC/04-KC-E08/04-KC-E08-0370	0	sek	02:03:01;
+
+ ;
+
+[Next]=02:05:02;
+
+

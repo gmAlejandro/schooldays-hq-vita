@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:06:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:06:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F04/05-5O-F04-001	00:06:00;
+
+[PrintText]=00:01:02	Makoto	No tengo ganas de ir a ningún lado...	00:03:16;
+
+[PlayVoice]=00:01:02	Voice05/05-5O/05-5O-F04/05-5O-F04-0030	1	mak	00:03:16;
+
+[PrintText]=00:04:16	Makoto	Haah...	00:05:10;
+
+[PlayVoice]=00:04:16	Voice05/05-5O/05-5O-F04/05-5O-F04-0040	1	mak	00:05:10;
+
+ ;
+
+[Next]=00:06:00;
+
+

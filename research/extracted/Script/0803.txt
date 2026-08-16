@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:59:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:59:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-A08/SE03-SB-A08-001	00:59:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-A08/03-SB-A08-001	00:12:11;
+
+[PrintText]=00:00:00	Bocina	Los preparativos para la fogata han culminado... los asistentes, favor de acercarse al recinto... además...	00:09:01;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-A08/03-SB-A08-0030	1	kou	00:09:01;
+
+[CreateBG]=00:12:10	BGS	Event03/03-SB/03-SB-A08/03-SB-A08-002	00:20:00;
+
+[PrintText]=00:12:10	Sekai	El festival está ya por terminar...	00:15:07;
+
+[PlayVoice]=00:12:10	Voice03/03-SB/03-SB-A08/03-SB-A08-0040	0	sek	00:15:07;
+
+[PrintText]=00:15:06	Makoto	Fue muy rápido ¿Eh?^	00:16:22;
+
+[PlayVoice]=00:15:06	Voice03/03-SB/03-SB-A08/03-SB-A08-0050	1	mak	00:16:22;
+
+[PrintText]=00:16:22	Sekai	Pero... hay ALGO de satisfactorio en esto.	00:19:23;
+
+[PlayVoice]=00:16:22	Voice03/03-SB/03-SB-A08/03-SB-A08-0060	0	sek	00:19:23;
+
+[PrintText]=00:19:23	Makoto	¿En serio?^	00:20:23;
+
+[PlayVoice]=00:19:23	Voice03/03-SB/03-SB-A08/03-SB-A08-0070	1	mak	00:20:23;
+
+[CreateBG]=00:20:00	BGS	Event03/03-SB/03-SB-A08/03-SB-A08-003	00:21:00;
+
+[PrintText]=00:20:23	Sekai	¿Sabías que si un chico y una chica van durante el festival juntos, son oficialmente una pareja?^	00:26:10;
+
+[PlayVoice]=00:20:23	Voice03/03-SB/03-SB-A08/03-SB-A08-0080	0	sek	00:26:10;
+
+[CreateBG]=00:21:00	BGS	Event03/03-SB/03-SB-A08/03-SB-A08-004	00:31:09;
+
+[PrintText]=00:26:10	Makoto	Una pareja, huh.	00:27:18;
+
+[PlayVoice]=00:26:10	Voice03/03-SB/03-SB-A08/03-SB-A08-0090	1	mak	00:27:18;
+
+[PrintText]=00:27:18	Sekai	Solo por hoy, he sentido que eramos una verdadera pareja.	00:31:09;
+
+[PlayVoice]=00:27:18	Voice03/03-SB/03-SB-A08/03-SB-A08-0100	0	sek	00:31:09;
+
+[CreateBG]=00:31:09	BGS	Event03/03-SB/03-SB-A08/03-SB-A08-005	00:32:01;
+
+[PrintText]=00:31:09	Makoto	...	00:32:02;
+
+[PlayVoice]=00:31:09	Voice03/03-SB/03-SB-A08/03-SB-A08-0110	1	xxx	00:32:02;
+
+[CreateBG]=00:32:01	BGS	Event03/03-SB/03-SB-A08/03-SB-A08-006	00:41:03;
+
+[PrintText]=00:32:02	Sekai	Ahaha... en realidad, quisiera ir contigo al baile, pero eso sería ir muy lejos.	00:41:04;
+
+[PlayVoice]=00:32:02	Voice03/03-SB/03-SB-A08/03-SB-A08-0120	0	sek	00:41:04;
+
+[CreateBG]=00:41:03	BGS	Event03/03-SB/03-SB-A08/03-SB-A08-007	00:49:23;
+
+[PrintText]=00:41:04	Sekai	¿Sabías? Hay una superstición que dice, que si una pareja baila en la fogata, estarán juntos durante todo el año.	00:49:22;
+
+[PlayVoice]=00:41:04	Voice03/03-SB/03-SB-A08/03-SB-A08-0130	0	sek	00:49:22;
+
+[PrintText]=00:49:22	Makoto	...	00:50:17;
+
+[PlayVoice]=00:49:22	Voice03/03-SB/03-SB-A08/03-SB-A08-0140	1	xxx	00:50:17;
+
+[CreateBG]=00:49:23	BGS	Event03/03-SB/03-SB-A08/03-SB-A08-008	00:59:00;
+
+[PrintText]=00:50:18	Sekai	Hay algo creíble en esa parte de 'todo el año' ¿No? ¿Qué piensas?^	00:56:07;
+
+[PlayVoice]=00:50:18	Voice03/03-SB/03-SB-A08/03-SB-A08-0150	0	sek	00:56:07;
+
+[PrintText]=00:56:06	Makoto	...	00:56:22;
+
+[PlayVoice]=00:56:06	Voice03/03-SB/03-SB-A08/03-SB-A08-0160	1	xxx	00:56:22;
+
+[PrintText]=00:56:22	Sekai	¿Makoto?^	00:57:18;
+
+[PlayVoice]=00:56:22	Voice03/03-SB/03-SB-A08/03-SB-A08-0170	0	sek	00:57:18;
+
+[PrintText]=00:57:18	Makoto	Yo...	00:58:14;
+
+[PlayVoice]=00:57:18	Voice03/03-SB/03-SB-A08/03-SB-A08-0180	1	mak	00:58:14;
+
+ ;
+
+[Next]=00:59:00;
+
+

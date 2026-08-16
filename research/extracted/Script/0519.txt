@@ -1,0 +1,99 @@
+﻿[SkipFRAME]=00:50:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	00:50:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-001	00:02:19;
+
+[PrintText]=00:00:00	Makoto	Juguemos.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-A06/03-KA-A06-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:06	Kotonoha	Tú también no, Makoto-kun.	00:02:23;
+
+[PlayVoice]=00:01:06	Voice03/03-KA/03-KA-A06/03-KA-A06-0040	0	kot	00:02:23;
+
+[CreateBG]=00:02:19	BGS	Event03/03-KA/03-KA-A05/03-KA-A05-013	00:07:22;
+
+[PrintText]=00:02:19	Makoto	Tu hermana quiere que juguemos, no quiero ser malo con ella.	00:07:23;
+
+[PlayVoice]=00:02:19	Voice03/03-KA/03-KA-A06/03-KA-A06-0050	1	mak	00:07:23;
+
+[CreateBG]=00:07:22	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-003	00:12:05;
+
+[PrintText]=00:08:00	Kotonoha	Uuu... eres tan blando.	00:12:05;
+
+[PlayVoice]=00:08:00	Voice03/03-KA/03-KA-A06/03-KA-A06-0060	0	kot	00:12:05;
+
+[CreateBG]=00:12:05	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-004	00:18:04;
+
+[PrintText]=00:12:06	Makoto	¿En serio? Bueno, supongo que soy así por Itaru... creo que tienes razón.	00:18:01;
+
+[PlayVoice]=00:12:06	Voice03/03-KA/03-KA-A06/03-KA-A06-0070	1	mak	00:18:01;
+
+[CreateBG]=00:18:04	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-005	00:24:15;
+
+[PrintText]=00:18:04	Kokoro	¿Quién es Itaru?^	00:20:01;
+
+[PlayVoice]=00:18:04	Voice03/03-KA/03-KA-A06/03-KA-A06-0080	0	kok	00:20:01;
+
+[PrintText]=00:19:21	Makoto	Oh, mi hermana pequeña.	00:21:11;
+
+[PlayVoice]=00:19:21	Voice03/03-KA/03-KA-A06/03-KA-A06-0090	1	mak	00:21:11;
+
+[PrintText]=00:21:16	Kokoro	¿Ehh? ¡¿Tienes una hermana pequeña?! ¡Hey! ¿Es más grande que yo?^	00:26:23;
+
+[PlayVoice]=00:21:16	Voice03/03-KA/03-KA-A06/03-KA-A06-0100	0	kok	00:26:23;
+
+[CreateBG]=00:24:15	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-006	00:29:05;
+
+[PrintText]=00:26:21	Makoto	Es más pequeña que tú, Kokoro-chan.	00:29:15;
+
+[PlayVoice]=00:26:21	Voice03/03-KA/03-KA-A06/03-KA-A06-0110	1	mak	00:29:15;
+
+[CreateBG]=00:29:05	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-007	00:30:21;
+
+[PrintText]=00:29:05	Kokoro	¡...!	00:30:01;
+
+[PlayVoice]=00:29:05	Voice03/03-KA/03-KA-A06/03-KA-A06-0120	0	kok	00:30:01;
+
+[CreateBG]=00:30:21	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-006	00:33:03;
+
+[PrintText]=00:30:22	Makoto	¿Hmn? ¿Pasa algo?^	00:33:01;
+
+[PlayVoice]=00:30:22	Voice03/03-KA/03-KA-A06/03-KA-A06-0130	1	mak	00:33:01;
+
+[CreateBG]=00:33:03	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-003	00:38:10;
+
+[PrintText]=00:33:04	Kokoro	Hey, onee-chan ¡El me llamó 'Kokoro-chan'! ¡Uwaah! ¡Uwaah!	00:38:16;
+
+[PlayVoice]=00:33:04	Voice03/03-KA/03-KA-A06/03-KA-A06-0140	0	kok	00:38:16;
+
+[CreateBG]=00:38:10	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-010	00:40:23;
+
+[PrintText]=00:38:11	Makoto	¿Eh? ¿Eh? ¿Eh?^	00:40:21;
+
+[PlayVoice]=00:38:11	Voice03/03-KA/03-KA-A06/03-KA-A06-0150	1	mak	00:40:21;
+
+[PrintText]=00:40:05	Kokoro	¡Esto es tan emocionante! ¡El novio de onee-chan es un buen chico!	00:46:09;
+
+[PlayVoice]=00:40:05	Voice03/03-KA/03-KA-A06/03-KA-A06-0160	0	kok	00:46:09;
+
+[CreateBG]=00:40:23	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-011	00:46:07;
+
+[CreateBG]=00:46:07	BGS	Event03/03-KA/03-KA-A06/03-KA-A06-012	00:50:20;
+
+[PrintText]=00:46:10	Makoto	¿Um...?^	00:48:09;
+
+[PlayVoice]=00:46:10	Voice03/03-KA/03-KA-A06/03-KA-A06-0170	1	mak	00:48:09;
+
+[PrintText]=00:48:07	Kotonoha	Oh, cielos...	00:49:11;
+
+[PlayVoice]=00:48:07	Voice03/03-KA/03-KA-A06/03-KA-A06-0180	0	kot	00:49:11;
+
+[BlackFade]=00:49:20	OUT	00:50:20;
+
+ ;
+
+[Next]=00:50:20;
+
+

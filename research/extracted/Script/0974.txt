@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:18:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:24:21;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-B09/04-KB-B09-001	00:11:22;
+
+[PrintText]=00:00:00	Sekai	Puedes decirme, sabes.	00:02:16;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-B09/04-KB-B09-0030	0	sek	00:02:16;
+
+[PrintText]=00:02:16	Makoto	...	00:03:09;
+
+[PlayVoice]=00:02:16	Voice04/04-KB/04-KB-B09/04-KB-B09-0040	1	xxx	00:03:09;
+
+[PrintText]=00:03:09	Sekai	Dices que me apoyas ¿No?^	00:07:09;
+
+[PlayVoice]=00:03:09	Voice04/04-KB/04-KB-B09/04-KB-B09-0050	0	sek	00:07:09;
+
+[PrintText]=00:07:08	Makoto	Sí.	00:08:05;
+
+[PlayVoice]=00:07:08	Voice04/04-KB/04-KB-B09/04-KB-B09-0060	1	mak	00:08:05;
+
+[PrintText]=00:08:05	Sekai	En ese caso, yo también te apoyaré.	00:11:21;
+
+[PlayVoice]=00:08:05	Voice04/04-KB/04-KB-B09/04-KB-B09-0070	0	sek	00:11:21;
+
+[PrintText]=00:11:21	Makoto	...Sekai.	00:13:00;
+
+[PlayVoice]=00:11:21	Voice04/04-KB/04-KB-B09/04-KB-B09-0080	1	mak	00:13:00;
+
+[CreateBG]=00:11:22	BGS	Event04/04-KB/04-KB-B09/04-KB-B09-002	00:24:21;
+
+[PrintText]=00:13:00	Sekai	Ehehehe... ¿Eso sonó arrogante?^	00:15:23;
+
+[PlayVoice]=00:13:00	Voice04/04-KB/04-KB-B09/04-KB-B09-0090	0	sek	00:15:23;
+
+[PrintText]=00:15:23	Makoto	No...	00:16:18;
+
+[PlayVoice]=00:15:23	Voice04/04-KB/04-KB-B09/04-KB-B09-0100	1	mak	00:16:18;
+
+[PrintText]=00:16:18	Sekai	Entonces dime.	00:18:18;
+
+[PlayVoice]=00:16:18	Voice04/04-KB/04-KB-B09/04-KB-B09-0110	0	sek	00:18:18;
+
+[SetSELECT]=00:18:18	*Contárselo*	null	00:23:18;
+
+ ;
+
+[Next]=00:24:21;
+
+

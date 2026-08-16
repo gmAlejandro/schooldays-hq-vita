@@ -1,0 +1,88 @@
+﻿[SkipFRAME]=00:34:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:34:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-M04/05-SE-M04-001	00:06:23;
+
+[PrintText]=00:00:00	Makoto	Entonces, después de todo te importa Taisuke.	00:01:23;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-M04/05-SE-M04-0030	1	mak	00:01:23;
+
+[PrintText]=00:01:23	Sekai	¡¿Eh?!	00:02:14;
+
+[PlayVoice]=00:01:23	Voice05/05-SE/05-SE-M04/05-SE-M04-0040	0	sek	00:02:14;
+
+[PrintText]=00:02:14	Makoto	Lo amas, por eso quieres tener al bebé.	00:06:22;
+
+[PlayVoice]=00:02:14	Voice05/05-SE/05-SE-M04/05-SE-M04-0050	1	mak	00:06:22;
+
+[PrintText]=00:06:22	Sekai	¡N-no!	00:08:23;
+
+[PlayVoice]=00:06:22	Voice05/05-SE/05-SE-M04/05-SE-M04-0060	0	sek	00:08:23;
+
+[CreateBG]=00:06:23	BGS	Event05/05-SE/05-SE-M04/05-SE-M04-002	00:12:00;
+
+[PrintText]=00:08:23	Makoto	¡Entonces puedes abortarlo!	00:10:15;
+
+[PlayVoice]=00:08:23	Voice05/05-SE/05-SE-M04/05-SE-M04-0070	1	mak	00:10:15;
+
+[PrintText]=00:10:16	Sekai	No, no puedo.	00:11:23;
+
+[PlayVoice]=00:10:16	Voice05/05-SE/05-SE-M04/05-SE-M04-0080	0	sek	00:11:23;
+
+[PrintText]=00:11:23	Makoto	...He tenido suficiente.	00:13:04;
+
+[PlayVoice]=00:11:23	Voice05/05-SE/05-SE-M04/05-SE-M04-0090	1	mak	00:13:04;
+
+[CreateBG]=00:12:00	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-014	00:19:03;
+
+[PrintText]=00:13:04	Sekai	Makoto...	00:14:15;
+
+[PlayVoice]=00:13:04	Voice05/05-SE/05-SE-M04/05-SE-M04-0100	0	sek	00:14:15;
+
+[PrintText]=00:14:14	Makoto	Taisuke y tú pueden decidir que hacer.	00:17:10;
+
+[PlayVoice]=00:14:14	Voice05/05-SE/05-SE-M04/05-SE-M04-0110	1	mak	00:17:10;
+
+[PrintText]=00:17:10	Sekai	¿De qué hablas?^	00:19:02;
+
+[PlayVoice]=00:17:10	Voice05/05-SE/05-SE-M04/05-SE-M04-0120	0	sek	00:19:02;
+
+[PrintText]=00:19:02	Makoto	Digo que deberías hablar con el padre. Soy solo una tercera persona, no son mis asuntos.	00:25:14;
+
+[PlayVoice]=00:19:02	Voice05/05-SE/05-SE-M04/05-SE-M04-0130	1	mak	00:25:14;
+
+[CreateBG]=00:19:03	BGS	Event05/05-SE/05-SE-M04/05-SE-M04-004	00:29:16;
+
+[PrintText]=00:25:14	Sekai	¿Una tercer persona...? No digas cosas así.	00:29:15;
+
+[PlayVoice]=00:25:14	Voice05/05-SE/05-SE-M04/05-SE-M04-0140	0	sek	00:29:15;
+
+[PrintText]=00:29:15	Makoto	¡Dije que no son mis asuntos!	00:31:09;
+
+[PlayVoice]=00:29:15	Voice05/05-SE/05-SE-M04/05-SE-M04-0150	1	mak	00:31:09;
+
+[CreateBG]=00:29:16	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-002	00:32:08;
+
+[PrintText]=00:31:09	Sekai	¡Ah!	00:32:08;
+
+[PlayVoice]=00:31:09	Voice05/05-SE/05-SE-M04/05-SE-M04-0160	0	sek	00:32:08;
+
+[CreateBG]=00:32:08	BGS	Event05/05-SE/05-SE-M01/05-SE-M01-011	00:33:10;
+
+[PrintText]=00:32:08	Makoto	...Adiós.	00:33:10;
+
+[PlayVoice]=00:32:08	Voice05/05-SE/05-SE-M04/05-SE-M04-0180	1	mak	00:33:10;
+
+[CreateBG]=00:33:10	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-004	00:34:08;
+
+[PrintText]=00:33:10	Sekai	¿Eh...?^	00:34:08;
+
+[PlayVoice]=00:33:10	Voice05/05-SE/05-SE-M04/05-SE-M04-0190	0	sek	00:34:08;
+
+ ;
+
+[Next]=00:34:08;
+
+
+

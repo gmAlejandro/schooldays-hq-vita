@@ -1,0 +1,193 @@
+﻿[SkipFRAME]=01:32:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm11	00:42:17;
+
+[CreateBG]=00:00:00	BGS	Ini/FIX/CINEMA	00:01:08;
+
+[PrintText]=00:00:00	Makoto	Ahaha... Ese Nemo es un idiota.	00:03:21;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-E03/01-1K-E03-0050	1	mak	00:03:21;
+
+[CreateBG]=00:01:08	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-002	00:20:13;
+
+[PrintText]=00:03:22	Kotonoha	...	00:04:15;
+
+[PlayVoice]=00:03:22	Voice01/01-1K/01-1K-E03/01-1K-E03-0060	0	xxx	00:04:15;
+
+[PrintText]=00:04:14	Makoto	¿Kotonoha?^	00:05:13;
+
+[PlayVoice]=00:04:14	Voice01/01-1K/01-1K-E03/01-1K-E03-0070	1	mak	00:05:13;
+
+[PrintText]=00:05:13	Kotonoha	Ah... Sí, tienes razón.	00:08:12;
+
+[PlayVoice]=00:05:13	Voice01/01-1K/01-1K-E03/01-1K-E03-0080	0	kot	00:08:12;
+
+[PrintText]=00:08:12	Makoto	¡Ah! Mira, ahí va de nuevo.	00:11:09;
+
+[PlayVoice]=00:08:12	Voice01/01-1K/01-1K-E03/01-1K-E03-0090	1	mak	00:11:09;
+
+[PrintText]=00:11:09	Kotonoha	S-Sí.	00:12:10;
+
+[PlayVoice]=00:11:09	Voice01/01-1K/01-1K-E03/01-1K-E03-0100	0	kot	00:12:10;
+
+[PrintText]=00:12:10	Makoto	¿No lo estás disfrutando?^	00:13:13;
+
+[PlayVoice]=00:12:10	Voice01/01-1K/01-1K-E03/01-1K-E03-0110	1	mak	00:13:13;
+
+[PrintText]=00:13:13	Kotonoha	N-No es eso, pero es que se ve muy para niños.	00:19:02;
+
+[PlayVoice]=00:13:13	Voice01/01-1K/01-1K-E03/01-1K-E03-0120	0	kot	00:19:02;
+
+[PrintText]=00:19:02	Makoto	Sí, es cierto.	00:20:14;
+
+[PlayVoice]=00:19:02	Voice01/01-1K/01-1K-E03/01-1K-E03-0130	1	mak	00:20:14;
+
+[CreateBG]=00:20:13	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-003	00:30:08;
+
+[PrintText]=00:20:14	Kotonoha	Pero tiene algo de interesante.	00:23:20;
+
+[PlayVoice]=00:20:14	Voice01/01-1K/01-1K-E03/01-1K-E03-0140	0	kot	00:23:20;
+
+[PrintText]=00:23:20	Makoto	¿Ves? de todas maneras, acaba de empezar, así que veremos como termina.	00:28:16;
+
+[PlayVoice]=00:23:20	Voice01/01-1K/01-1K-E03/01-1K-E03-0150	1	mak	00:28:16;
+
+[PrintText]=00:28:17	Kotonoha	Sí.	00:29:08;
+
+[PlayVoice]=00:28:17	Voice01/01-1K/01-1K-E03/01-1K-E03-0160	0	kot	00:29:08;
+
+[BlackFade]=00:29:08	OUT	00:30:08;
+
+[CreateBG]=00:30:08	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-004	00:32:17;
+
+[PrintText]=00:30:08	Makoto	¡Ahaha! Hey, Kotonoha.	00:34:21;
+
+[PlayVoice]=00:30:08	Voice01/01-1K/01-1K-E03/01-1K-E03-0180	1	mak	00:34:21;
+
+[CreateBG]=00:32:17	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-005	00:42:17;
+
+[PrintText]=00:34:19	Kotonoha	...	00:36:06;
+
+[PlayVoice]=00:34:19	Voice01/01-1K/01-1K-E03/01-1K-E03-0190	0	xxx	00:36:06;
+
+[PrintText]=00:36:06	Makoto	Ah...	00:36:18;
+
+[PlayVoice]=00:36:06	Voice01/01-1K/01-1K-E03/01-1K-E03-0210	1	mak	00:36:18;
+
+[PrintText]=00:37:01	Kotonoha	Zzz... Zzz...	00:37:23;
+
+[PlayVoice]=00:37:01	Voice01/01-1K/01-1K-E03/01-1K-E03-0220	0	kot	00:37:23;
+
+[PrintText]=00:38:05	Makoto	...	00:39:00;
+
+[PlayVoice]=00:38:05	Voice01/01-1K/01-1K-E03/01-1K-E03-0230	1	xxx	00:39:00;
+
+[PrintText]=00:39:11	Makoto	Tal vez fue una película aburrida...	00:42:14;
+
+[PlayVoice]=00:39:11	Voice01/01-1K/01-1K-E03/01-1K-E03-0240	1	xxx	00:42:14;
+
+[CreateBG]=00:42:17	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-006	00:58:03;
+
+[PrintText]=00:42:17	Makoto	...	00:43:16;
+
+[PlayVoice]=00:42:17	Voice01/01-1K/01-1K-E03/01-1K-E03-0260	1	xxx	00:43:16;
+
+[PrintText]=00:44:02	Makoto	...	00:44:18;
+
+[PlayVoice]=00:44:02	Voice01/01-1K/01-1K-E03/01-1K-E03-0280	1	xxx	00:44:18;
+
+[PlayBgm]=00:45:11	BGM/SD_BGM/sdbgm20	01:02:05;
+
+[PrintText]=00:45:11	Sekai	Se trata de los dos sentados en la ardiente oscuridad,...	00:47:14;
+
+[PlayVoice]=00:45:11	Voice01/01-1K/01-1K-E03/01-1K-E03-0310	0	sek	00:47:14;
+
+[PrintText]=00:48:05	Sekai	Sostienes su mano, y transmiten sus sentimientos a través de como se sujetan y después...	00:53:22;
+
+[PlayVoice]=00:48:05	Voice01/01-1K/01-1K-E03/01-1K-E03-0330	0	sek	00:53:22;
+
+[PrintText]=00:54:10	Sekai	¡Se besuquean!	00:56:18;
+
+[PlayVoice]=00:54:10	Voice01/01-1K/01-1K-E03/01-1K-E03-0350	0	sek	00:56:18;
+
+[PrintText]=00:57:00	Makoto	...	00:57:16;
+
+[PlayVoice]=00:57:00	Voice01/01-1K/01-1K-E03/01-1K-E03-0380	1	xxx	00:57:16;
+
+[PlayMovie]=00:58:03	Movie01/01-1K/01-1K-E03/01-1K-E03-007	0	01:03:17;
+
+[PrintText]=00:58:03	Makoto	Haah...	00:59:01;
+
+[PlayVoice]=00:58:03	Voice01/01-1K/01-1K-E03/01-1K-E03-0400	1	mak	00:59:01;
+
+[PrintText]=00:59:23	Makoto	¡...!	01:00:21;
+
+[PlayVoice]=00:59:23	Voice01/01-1K/01-1K-E03/01-1K-E03-0420	1	mak	01:00:21;
+
+[PrintText]=01:02:05	Kotonoha	¡Kyaah!	01:03:06;
+
+[PlayVoice]=01:02:05	Voice01/01-1K/01-1K-E03/01-1K-E03-0440	0	kot	01:03:06;
+
+[CreateBG]=01:03:17	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-008	01:25:15;
+
+[PrintText]=01:03:17	Kotonoha	Ah...	01:05:13;
+
+[PlayVoice]=01:03:17	Voice01/01-1K/01-1K-E03/01-1K-E03-0470	0	kot	01:05:13;
+
+[PrintText]=01:05:22	Makoto	...	01:06:22;
+
+[PlayVoice]=01:05:22	Voice01/01-1K/01-1K-E03/01-1K-E03-0480	1	xxx	01:06:22;
+
+[PrintText]=01:07:05	Kotonoha	P-Perdóname.	01:10:08;
+
+[PlayVoice]=01:07:05	Voice01/01-1K/01-1K-E03/01-1K-E03-0490	0	kot	01:10:08;
+
+[PrintText]=01:10:13	Makoto	...	01:11:13;
+
+[PlayVoice]=01:10:13	Voice01/01-1K/01-1K-E03/01-1K-E03-0500	1	xxx	01:11:13;
+
+[PrintText]=01:11:17	Kotonoha	Debo haberme quedado dormida...	01:15:20;
+
+[PlayVoice]=01:11:17	Voice01/01-1K/01-1K-E03/01-1K-E03-0510	0	kot	01:15:20;
+
+[PrintText]=01:15:20	Makoto	...	01:16:23;
+
+[PlayVoice]=01:15:20	Voice01/01-1K/01-1K-E03/01-1K-E03-0520	1	xxx	01:16:23;
+
+[PrintText]=01:17:04	Kotonoha	Me levantaste ¿No?^	01:21:01;
+
+[PlayVoice]=01:17:04	Voice01/01-1K/01-1K-E03/01-1K-E03-0530	0	kot	01:21:01;
+
+[PrintText]=01:21:01	Makoto	B-Bueno...	01:23:04;
+
+[PlayVoice]=01:21:01	Voice01/01-1K/01-1K-E03/01-1K-E03-0540	1	mak	01:23:04;
+
+[PrintText]=01:23:03	Kotonoha	Perdóname...	01:24:07;
+
+[PlayVoice]=01:23:03	Voice01/01-1K/01-1K-E03/01-1K-E03-0550	0	kot	01:24:07;
+
+[BlackFade]=01:24:15	OUT	01:25:15;
+
+[PlayBgm]=01:25:15	BGM/SD_BGM/sdbgm11	01:32:19;
+
+[CreateBG]=01:25:15	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-009	01:28:17;
+
+[CreateBG]=01:28:17	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-010	01:30:12;
+
+[PlayVoice]=01:29:00	Voice01/01-1K/01-1K-E03/01-1K-E03-0580			01:30:03;
+
+[CreateBG]=01:30:12	BGS	Event01/01-1K/01-1K-E03/01-1K-E03-011	01:32:19;
+
+[PrintText]=01:31:00	Makoto	...	01:31:18;
+
+[PlayVoice]=01:31:00	Voice01/01-1K/01-1K-E03/01-1K-E03-0600	1	xxx	01:31:18;
+
+[BlackFade]=01:31:19	OUT	01:32:19;
+
+ ;
+
+[Next]=01:32:19;
+
+
+
+

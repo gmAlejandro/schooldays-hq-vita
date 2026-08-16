@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:31:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:31:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-A00/05-5O-A00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-A00/05-5O-A00-002	00:13:09;
+
+[PrintText]=00:03:10	Sekai	¿Me pregunto si me odia...?^	00:08:13;
+
+[PlayVoice]=00:03:10	Voice05/05-5O/05-5O-A00/05-5O-A00-0040	0	sek	00:08:13;
+
+[PrintText]=00:08:18	Setsuna	No.	00:09:14;
+
+[PlayVoice]=00:08:18	Voice05/05-5O/05-5O-A00/05-5O-A00-0050	0	set	00:09:14;
+
+[PrintText]=00:09:22	Sekai	Pero... pienso que lo hace.	00:13:04;
+
+[PlayVoice]=00:09:22	Voice05/05-5O/05-5O-A00/05-5O-A00-0060	0	sek	00:13:04;
+
+[CreateBG]=00:13:09	BGS	Event05/05-5O/05-5O-A00/05-5O-A00-003	00:20:12;
+
+[PrintText]=00:13:15	Setsuna	No es verdad.	00:14:23;
+
+[PlayVoice]=00:13:15	Voice05/05-5O/05-5O-A00/05-5O-A00-0070	0	set	00:14:23;
+
+[PrintText]=00:15:09	Sekai	Lo haría ¿No crees? Una chica como yo...	00:19:00;
+
+[PlayVoice]=00:15:09	Voice05/05-5O/05-5O-A00/05-5O-A00-0080	0	sek	00:19:00;
+
+[PrintText]=00:19:08	Setsuna	Está bien.	00:20:09;
+
+[PlayVoice]=00:19:08	Voice05/05-5O/05-5O-A00/05-5O-A00-0090	0	set	00:20:09;
+
+[CreateBG]=00:20:12	BGS	Event05/05-5O/05-5O-A00/05-5O-A00-004	00:31:11;
+
+[PrintText]=00:20:18	Sekai	No, estoy segura que cree que soy horrible.	00:26:11;
+
+[PlayVoice]=00:20:18	Voice05/05-5O/05-5O-A00/05-5O-A00-0100	0	sek	00:26:11;
+
+[PrintText]=00:27:00	Setsuna	Piensas mucho al respecto, Sekai.	00:29:16;
+
+[PlayVoice]=00:27:00	Voice05/05-5O/05-5O-A00/05-5O-A00-0110	0	set	00:29:16;
+
+[PrintText]=00:29:22	Sekai	...	00:30:08;
+
+[PlayVoice]=00:29:22	Voice05/05-5O/05-5O-A00/05-5O-A00-0120	0	xxx	00:30:08;
+
+[BlackFade]=00:30:11	OUT	00:31:11;
+
+ ;
+
+[Next]=00:31:11;
+
+

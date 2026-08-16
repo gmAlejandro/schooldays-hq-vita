@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:11:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:11:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/keitai/tyakusin_kotonoha	00:08:19;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-L00/02-2K-L00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event02/02-2K/02-2K-L00/02-2K-L00-002	00:05:03;
+
+[CreateBG]=00:05:03	BGS	Event02/02-2K/02-2K-L00/02-2K-L00-003	00:07:07;
+
+[PrintText]=00:05:19	Kotonoha	Haah...	00:06:12;
+
+[PlayVoice]=00:05:19	Voice02/02-2K/02-2K-L00/02-2K-L00-0040	0	kot	00:06:12;
+
+[CreateBG]=00:07:07	BGS	Event02/02-2K/02-2K-L00/02-2K-L00-004	00:08:16;
+
+[PrintText]=00:07:07	Kotonoha	Ah...	00:07:19;
+
+[PlayVoice]=00:07:07	Voice02/02-2K/02-2K-L00/02-2K-L00-0060	0	kot	00:07:19;
+
+[CreateBG]=00:08:16	BGS	Event02/02-2K/02-2K-L00/02-2K-L00-005	00:11:10;
+
+[PlaySe]=00:08:23	2	SysSe/SE_all/keitai/keitai_push2	00:09:01;
+
+[PrintText]=00:09:05	Kotonoha	¿Sí, Makoto-kun?^	00:11:09;
+
+[PlayVoice]=00:09:05	Voice02/02-2K/02-2K-L00/02-2K-L00-0080	0	kot	00:11:09;
+
+ ;
+
+[Next]=00:11:10;
+
+
+
+

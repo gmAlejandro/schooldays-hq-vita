@@ -1,0 +1,87 @@
+﻿[SkipFRAME]=00:45:14;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:45:14;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-G03/05-5O-G03-001	00:07:20;
+
+[PrintText]=00:00:12	Makoto	...	00:02:04;
+
+[PlayVoice]=00:00:12	Voice05/05-5O/05-5O-G03/05-5O-G03-0030	1	xxx	00:02:04;
+
+[PrintText]=00:02:12	Otome	Yo...	00:03:17;
+
+[PlayVoice]=00:02:12	Voice05/05-5O/05-5O-G03/05-5O-G03-0040	0	oto	00:03:17;
+
+[PrintText]=00:04:03	Makoto	Eres una buena amiga, Katou.	00:07:16;
+
+[PlayVoice]=00:04:03	Voice05/05-5O/05-5O-G03/05-5O-G03-0050	1	mak	00:07:16;
+
+[CreateBG]=00:07:20	BGS	Event05/05-5O/05-5O-G03/05-5O-G03-002	00:23:08;
+
+[PrintText]=00:07:22	Otome	¿Eh?^	00:08:18;
+
+[PlayVoice]=00:07:22	Voice05/05-5O/05-5O-G03/05-5O-G03-0060	0	oto	00:08:18;
+
+[PrintText]=00:09:08	Makoto	Aprecio bastante que intentes ayudarme así.	00:13:10;
+
+[PlayVoice]=00:09:08	Voice05/05-5O/05-5O-G03/05-5O-G03-0070	1	mak	00:13:10;
+
+[PrintText]=00:13:19	Otome	¡Eso no es lo que...!	00:15:20;
+
+[PlayVoice]=00:13:19	Voice05/05-5O/05-5O-G03/05-5O-G03-0080	0	oto	00:15:20;
+
+[PrintText]=00:16:09	Makoto	Pero... hazme un favor, y mantén esas cosas en secreto.	00:21:17;
+
+[PlayVoice]=00:16:09	Voice05/05-5O/05-5O-G03/05-5O-G03-0090	1	mak	00:21:17;
+
+[PrintText]=00:22:00	Otome	¿Eh...?^	00:23:00;
+
+[PlayVoice]=00:22:00	Voice05/05-5O/05-5O-G03/05-5O-G03-0100	0	oto	00:23:00;
+
+[CreateBG]=00:23:08	BGS	Event05/05-5O/05-5O-G03/05-5O-G03-003	00:26:17;
+
+[PrintText]=00:23:13	Makoto	Bueno, en realidad... creo que es muy tarde...	00:26:15;
+
+[PlayVoice]=00:23:13	Voice05/05-5O/05-5O-G03/05-5O-G03-0110	1	mak	00:26:15;
+
+[CreateBG]=00:26:17	BGS	Event05/05-5O/05-5O-G03/05-5O-G03-004	00:29:11;
+
+[PrintText]=00:26:19	Otome	¿Por qué?^	00:29:04;
+
+[PlayVoice]=00:26:19	Voice05/05-5O/05-5O-G03/05-5O-G03-0120	0	oto	00:29:04;
+
+[CreateBG]=00:29:11	BGS	Event05/05-5O/05-5O-G03/05-5O-G03-005	00:37:04;
+
+[PrintText]=00:29:14	Makoto	Todos ya te escucharon...	00:32:13;
+
+[PlayVoice]=00:29:14	Voice05/05-5O/05-5O-G03/05-5O-G03-0130	1	mak	00:32:13;
+
+[PrintText]=00:32:23	Otome	Ah...	00:34:11;
+
+[PlayVoice]=00:32:23	Voice05/05-5O/05-5O-G03/05-5O-G03-0150	0	oto	00:34:11;
+
+[PrintText]=00:34:21	Makoto	Es natural, dado lo que pasó ayer...	00:37:00;
+
+[PlayVoice]=00:34:21	Voice05/05-5O/05-5O-G03/05-5O-G03-0160	1	mak	00:37:00;
+
+[CreateBG]=00:37:04	BGS	Event05/05-5O/05-5O-G03/05-5O-G03-006	00:45:14;
+
+[PrintText]=00:37:10	Otome	Sí...	00:38:10;
+
+[PlayVoice]=00:37:10	Voice05/05-5O/05-5O-G03/05-5O-G03-0170	0	oto	00:38:10;
+
+[PrintText]=00:38:16	Makoto	...Vamos a comer.	00:42:17;
+
+[PlayVoice]=00:38:16	Voice05/05-5O/05-5O-G03/05-5O-G03-0180	1	mak	00:42:17;
+
+[PrintText]=00:42:22	Otome	Sí.	00:44:10;
+
+[PlayVoice]=00:42:22	Voice05/05-5O/05-5O-G03/05-5O-G03-0190	0	oto	00:44:10;
+
+[BlackFade]=00:44:14	OUT	00:45:14;
+
+ ;
+
+[Next]=00:45:14;
+
+

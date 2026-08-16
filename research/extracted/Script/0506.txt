@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:15:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:15:07;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-J00/SE03-BK-J00-001	00:15:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-J00/03-BK-J00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-BK/03-BK-J00/03-BK-J00-002	00:07:15;
+
+[PrintText]=00:03:00	Taisuke	Bueno, te veo después.	00:04:00;
+
+[PlayVoice]=00:03:00	Voice03/03-BK/03-BK-J00/03-BK-J00-0030	1	tai	00:04:00;
+
+[PrintText]=00:03:18	Makoto	Sí.	00:05:04;
+
+[PlayVoice]=00:03:18	Voice03/03-BK/03-BK-J00/03-BK-J00-0040	1	mak	00:05:04;
+
+[PrintText]=00:04:13	Taisuke	Nos hemos divertido hoy ¿huh?^	00:06:20;
+
+[PlayVoice]=00:04:13	Voice03/03-BK/03-BK-J00/03-BK-J00-0050	1	tai	00:06:20;
+
+[PrintText]=00:06:07	Sekai	¡Sí!	00:08:00;
+
+[PlayVoice]=00:06:07	Voice03/03-BK/03-BK-J00/03-BK-J00-0060	0	sek	00:08:00;
+
+[CreateBG]=00:07:15	BGS	Event03/03-BK/03-BK-J00/03-BK-J00-003	00:15:07;
+
+[PrintText]=00:07:15	Kotonoha	Sí...	00:08:11;
+
+[PlayVoice]=00:07:15	Voice03/03-BK/03-BK-J00/03-BK-J00-0070	0	kot	00:08:11;
+
+[PrintText]=00:08:21	Taisuke	Bien, nos vamos entonces.	00:10:16;
+
+[PlayVoice]=00:08:21	Voice03/03-BK/03-BK-J00/03-BK-J00-0080	1	tai	00:10:16;
+
+[PrintText]=00:10:13	Makoto	Sí, nos vemos.	00:12:06;
+
+[PlayVoice]=00:10:13	Voice03/03-BK/03-BK-J00/03-BK-J00-0090	1	mak	00:12:06;
+
+[PrintText]=00:11:23	Taisuke	Sí.	00:12:20;
+
+[PlayVoice]=00:11:23	Voice03/03-BK/03-BK-J00/03-BK-J00-0100	1	tai	00:12:20;
+
+[PrintText]=00:12:19	Sekai	Nos vemos mañana.	00:14:06;
+
+[PlayVoice]=00:12:19	Voice03/03-BK/03-BK-J00/03-BK-J00-0110	0	sek	00:14:06;
+
+[BlackFade]=00:14:07	OUT	00:15:07;
+
+ ;
+
+[Next]=00:15:07;
+
+

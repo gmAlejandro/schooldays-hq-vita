@@ -1,0 +1,87 @@
+﻿[SkipFRAME]=00:41:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:41:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-L08/04-SA-L08-001	00:04:13;
+
+[PrintText]=00:00:18	Setsuna	¿Tienes algo que ver con la representante de la clase 4?^	00:04:14;
+
+[PlayVoice]=00:00:18	Voice04/04-SA/04-SA-L08/04-SA-L08-0050	0	set	00:04:14;
+
+[CreateBG]=00:04:13	BGS	Event04/04-SA/04-SA-L08/04-SA-L08-001B	00:05:22;
+
+[PrintText]=00:04:14	Sekai	¿Eh?^	00:05:04;
+
+[PlayVoice]=00:04:14	Voice04/04-SA/04-SA-L08/04-SA-L08-0060	0	sek	00:05:04;
+
+[CreateBG]=00:05:22	BGS	Event04/04-SA/04-SA-L08/04-SA-L08-002	00:23:22;
+
+[PrintText]=00:05:22	Setsuna	...	00:06:08;
+
+[PlayVoice]=00:05:22	Voice04/04-SA/04-SA-L08/04-SA-L08-0080	0	xxx	00:06:08;
+
+[PrintText]=00:06:23	Sekai	No realmente...	00:08:00;
+
+[PlayVoice]=00:06:23	Voice04/04-SA/04-SA-L08/04-SA-L08-0090	0	sek	00:08:00;
+
+[PrintText]=00:08:11	Setsuna	Parece que algo ha pasado entre ella e Itou.	00:12:08;
+
+[PlayVoice]=00:08:11	Voice04/04-SA/04-SA-L08/04-SA-L08-0100	0	set	00:12:08;
+
+[PrintText]=00:12:09	Sekai	Uh-huh...	00:13:04;
+
+[PlayVoice]=00:12:09	Voice04/04-SA/04-SA-L08/04-SA-L08-0110	0	sek	00:13:04;
+
+[PrintText]=00:13:03	Setsuna	Entonces, lo sabías.	00:14:09;
+
+[PlayVoice]=00:13:03	Voice04/04-SA/04-SA-L08/04-SA-L08-0120	0	set	00:14:09;
+
+[PrintText]=00:15:07	Setsuna	...	00:16:08;
+
+[PlayVoice]=00:15:07	Voice04/04-SA/04-SA-L08/04-SA-L08-0130	0	sek	00:16:08;
+
+[PrintText]=00:16:09	Sekai	No, yo...	00:17:04;
+
+[PlayVoice]=00:16:09	Voice04/04-SA/04-SA-L08/04-SA-L08-0140	0	xxx	00:17:04;
+
+[PrintText]=00:17:05	Setsuna	¿No es esa la razón por la cual estás así entonces?^	00:20:16;
+
+[PlayVoice]=00:17:05	Voice04/04-SA/04-SA-L08/04-SA-L08-0160	0	set	00:20:16;
+
+[PrintText]=00:22:11	Setsuna	...No es que a mí me importe.	00:23:22;
+
+[PlayVoice]=00:22:11	Voice04/04-SA/04-SA-L08/04-SA-L08-0180	0	set	00:23:22;
+
+[CreateBG]=00:23:22	BGS	Event04/04-SA/04-SA-L08/04-SA-L08-003	00:26:17;
+
+[CreateBG]=00:26:17	BGS	Event04/04-SA/04-SA-L08/04-SA-L08-004	00:32:00;
+
+[PrintText]=00:27:01	Sekai	Ah... ya veo.	00:29:07;
+
+[PlayVoice]=00:27:01	Voice04/04-SA/04-SA-L08/04-SA-L08-0220	0	sek	00:29:07;
+
+[PrintText]=00:29:22	Sekai	¿Ella lo hizo por mi bien...?^	00:32:02;
+
+[PlayVoice]=00:29:22	Voice04/04-SA/04-SA-L08/04-SA-L08-0230	0	sek	00:32:02;
+
+[CreateBG]=00:32:00	BGS	Event04/04-SA/04-SA-L08/04-SA-L08-005	00:36:00;
+
+[PrintText]=00:32:10	Kotonoha	¿Huh?^	00:33:03;
+
+[PlayVoice]=00:32:10	Voice04/04-SA/04-SA-L08/04-SA-L08-0240	0	kot	00:33:03;
+
+[PrintText]=00:33:05	Sekai	O-oh, nada...	00:36:00;
+
+[PlayVoice]=00:33:05	Voice04/04-SA/04-SA-L08/04-SA-L08-0250	0	sek	00:36:00;
+
+[CreateBG]=00:36:00	BGS	Event04/04-SA/04-SA-L08/04-SA-L08-006	00:41:00;
+
+[PrintText]=00:38:13	Sekai	Setsuna...	00:39:17;
+
+[PlayVoice]=00:38:13	Voice04/04-SA/04-SA-L08/04-SA-L08-0260	0	sek	00:39:17;
+
+ ;
+
+[Next]=00:41:07;
+
+

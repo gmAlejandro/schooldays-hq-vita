@@ -1,0 +1,124 @@
+﻿[SkipFRAME]=01:10:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:54:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-001	00:02:10;
+
+[CreateBG]=00:02:10	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-002	00:03:15;
+
+[PrintText]=00:02:17	Makoto	¿...Huh?^	00:03:08;
+
+[PlayVoice]=00:02:17	Voice05/05-SA/05-SA-S00/05-SA-S00-0030	1	mak	00:03:08;
+
+[CreateBG]=00:03:15	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-003	00:10:02;
+
+[PrintText]=00:03:15	Taisuke	¿Qué pasa?^	00:04:13;
+
+[PlayVoice]=00:03:15	Voice05/05-SA/05-SA-S00/05-SA-S00-0040	1	tai	00:04:13;
+
+[PrintText]=00:04:14	Makoto	¿Dónde está Sekai?^	00:05:12;
+
+[PlayVoice]=00:04:14	Voice05/05-SA/05-SA-S00/05-SA-S00-0050	1	mak	00:05:12;
+
+[PrintText]=00:05:13	Hikari	No se sentía bien, y se fue temprano.	00:08:16;
+
+[PlayVoice]=00:05:13	Voice05/05-SA/05-SA-S00/05-SA-S00-0060	0	hik	00:08:16;
+
+[PrintText]=00:08:16	Makoto	¿No se sentía bien?^	00:10:01;
+
+[PlayVoice]=00:08:16	Voice05/05-SA/05-SA-S00/05-SA-S00-0070	1	mak	00:10:01;
+
+[CreateBG]=00:10:02	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-004	00:12:09;
+
+[PrintText]=00:10:02	Hikari	Estaba de descanso en Educación Física, pero empezó a sentirse peor, y se fue a la enfermería.	00:17:18;
+
+[PlayVoice]=00:10:02	Voice05/05-SA/05-SA-S00/05-SA-S00-0080	0	hik	00:17:18;
+
+[CreateBG]=00:12:09	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-005	00:17:19;
+
+[PrintText]=00:17:18	Makoto	Ya veo. Eso es preocupante.	00:20:16;
+
+[PlayVoice]=00:17:18	Voice05/05-SA/05-SA-S00/05-SA-S00-0090	1	mak	00:20:16;
+
+[CreateBG]=00:17:19	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-006	00:20:17;
+
+[CreateBG]=00:20:17	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-006B	00:24:10;
+
+[PrintText]=00:20:17	Hikari	Si estás tan preocupado por ella ¿Por qué no vas a visitarla más tarde?^	00:24:10;
+
+[PlayVoice]=00:20:17	Voice05/05-SA/05-SA-S00/05-SA-S00-0100	0	hik	00:24:10;
+
+[PrintText]=00:24:09	Makoto	S-Sí.	00:25:19;
+
+[PlayVoice]=00:24:09	Voice05/05-SA/05-SA-S00/05-SA-S00-0110	1	mak	00:25:19;
+
+[CreateBG]=00:24:10	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-006C	00:39:18;
+
+[PrintText]=00:25:20	Hikari	Si eres su novio, entonces tienes que actuar como tal y verla.	00:31:03;
+
+[PlayVoice]=00:25:20	Voice05/05-SA/05-SA-S00/05-SA-S00-0120	0	hik	00:31:03;
+
+[PrintText]=00:31:03	Makoto	¡¿Eh...?! ¿Qué has dicho?^	00:33:00;
+
+[PlayVoice]=00:31:03	Voice05/05-SA/05-SA-S00/05-SA-S00-0130	1	mak	00:33:00;
+
+[PrintText]=00:33:00	Hikari	Me duele decirlo, pero reconozco su relación. Son una pareja.	00:39:17;
+
+[PlayVoice]=00:33:00	Voice05/05-SA/05-SA-S00/05-SA-S00-0140	0	hik	00:39:17;
+
+[PrintText]=00:39:17	Makoto	Kuroda... gracias.	00:42:21;
+
+[PlayVoice]=00:39:17	Voice05/05-SA/05-SA-S00/05-SA-S00-0150	1	mak	00:42:21;
+
+[CreateBG]=00:39:18	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-007	00:42:22;
+
+[CreateBG]=00:42:22	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-008	00:52:03;
+
+[PrintText]=00:42:22	Hikari	¡Hmph. Venga Taisuke! ¡Vamos a comer!	00:47:09;
+
+[PlayVoice]=00:42:22	Voice05/05-SA/05-SA-S00/05-SA-S00-0160	0	hik	00:47:09;
+
+[PrintText]=00:47:08	Taisuke	¡¿Eh?! ¡V-Vale, espera Hikari!	00:52:01;
+
+[PlayVoice]=00:47:08	Voice05/05-SA/05-SA-S00/05-SA-S00-0180	1	tai	00:52:01;
+
+[PlaySe]=00:52:02	2	SysSe/SE_all/school/chime	01:04:18;
+
+[CreateBG]=00:52:03	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-009	00:53:23;
+
+[PrintText]=00:52:13	Makoto	...	00:53:04;
+
+[PlayVoice]=00:52:13	Voice05/05-SA/05-SA-S00/05-SA-S00-0200	1	xxx	00:53:04;
+
+[BlackFade]=00:53:11	OUT	00:53:23;
+
+[CreateBG]=00:53:23	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-010	01:03:02;
+
+[CreateBG]=01:03:02	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-011	01:04:18;
+
+[PrintText]=01:03:04	Makoto	...	01:05:19;
+
+[PlayVoice]=01:03:04	Voice05/05-SA/05-SA-S00/05-SA-S00-0240	1	xxx	01:05:19;
+
+[CreateBG]=01:04:18	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-012	01:06:06;
+
+[PrintText]=01:06:05	Kotonoha	Makoto-kun. Vamos a casa.	01:08:13;
+
+[PlayVoice]=01:06:05	Voice05/05-SA/05-SA-S00/05-SA-S00-0260	0	kot	01:08:13;
+
+[CreateBG]=01:06:06	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-013	01:08:19;
+
+[CreateBG]=01:08:19	BGS	Event05/05-SA/05-SA-S00/05-SA-S00-013B	01:10:21;
+
+[PrintText]=01:08:19	Makoto	...Sí.	01:09:12;
+
+[PlayVoice]=01:08:19	Voice05/05-SA/05-SA-S00/05-SA-S00-0270	1	mak	01:09:12;
+
+[BlackFade]=01:09:21	OUT	01:10:21;
+
+ ;
+
+[Next]=01:10:21;
+
+
+

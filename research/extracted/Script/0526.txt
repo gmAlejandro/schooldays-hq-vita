@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:09:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:09:22;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-B03/SE03-KA-B03-001	00:09:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-B03/03-KA-B03-001	00:09:22;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-B03/03-KA-B03-0030	1	xxx	00:00:23;
+
+[PrintText]=00:01:21	Makoto	Supongo que no hay razón para deprimirse.	00:05:10;
+
+[PlayVoice]=00:01:21	Voice03/03-KA/03-KA-B03/03-KA-B03-0040	1	mak	00:05:10;
+
+[PrintText]=00:06:05	Makoto	Volveré a clases.	00:08:16;
+
+[PlayVoice]=00:06:05	Voice03/03-KA/03-KA-B03/03-KA-B03-0050	1	mak	00:08:16;
+
+[BlackFade]=00:08:22	OUT	00:09:22;
+
+ ;
+
+[Next]=00:09:22;
+
+

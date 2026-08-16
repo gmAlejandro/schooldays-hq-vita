@@ -1,0 +1,195 @@
+﻿[SkipFRAME]=01:37:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:43:03;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-001	00:03:01;
+
+[CreateBG]=00:03:01	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-002	00:18:20;
+
+[PrintText]=00:03:01	Kotonoha	Hace calor hoy.	00:05:08;
+
+[PlayVoice]=00:03:01	Voice04/04-KE/04-KE-B00/04-KE-B00-0050	0	kot	00:05:08;
+
+[PrintText]=00:05:09	Makoto	Sí.	00:06:03;
+
+[PlayVoice]=00:05:09	Voice04/04-KE/04-KE-B00/04-KE-B00-0060	1	mak	00:06:03;
+
+[PrintText]=00:06:03	Kotonoha	So empieza a hacer frío, ya no podremos almorzar en el tejado.	00:11:22;
+
+[PlayVoice]=00:06:03	Voice04/04-KE/04-KE-B00/04-KE-B00-0070	0	kot	00:11:22;
+
+[PrintText]=00:11:22	Makoto	Sí.	00:12:15;
+
+[PlayVoice]=00:11:22	Voice04/04-KE/04-KE-B00/04-KE-B00-0080	1	mak	00:12:15;
+
+[PrintText]=00:12:16	Kotonoha	¿A dónde podremos ir?^	00:15:17;
+
+[PlayVoice]=00:12:16	Voice04/04-KE/04-KE-B00/04-KE-B00-0090	0	kot	00:15:17;
+
+[PrintText]=00:15:17	Makoto	Sí...	00:16:14;
+
+[PlayVoice]=00:15:17	Voice04/04-KE/04-KE-B00/04-KE-B00-0100	1	mak	00:16:14;
+
+[PrintText]=00:16:14	Kotonoha	...Makoto-kun.	00:17:18;
+
+[PlayVoice]=00:16:14	Voice04/04-KE/04-KE-B00/04-KE-B00-0110	0	kot	00:17:18;
+
+[PrintText]=00:17:18	Makoto	...	00:18:17;
+
+[PlayVoice]=00:17:18	Voice04/04-KE/04-KE-B00/04-KE-B00-0120	1	xxx	00:18:17;
+
+[PrintText]=00:18:17	Kotonoha	¿Makoto-kun?^	00:19:19;
+
+[PlayVoice]=00:18:17	Voice04/04-KE/04-KE-B00/04-KE-B00-0130	0	kot	00:19:19;
+
+[CreateBG]=00:18:20	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-003	00:20:12;
+
+[PrintText]=00:19:19	Makoto	¿Huh? O-oh. ¿Qué?^	00:23:09;
+
+[PlayVoice]=00:19:19	Voice04/04-KE/04-KE-B00/04-KE-B00-0140	1	mak	00:23:09;
+
+[CreateBG]=00:20:12	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-004	00:30:14;
+
+[PrintText]=00:23:09	Kotonoha	¿Estás pensando en algo?^	00:24:23;
+
+[PlayVoice]=00:23:09	Voice04/04-KE/04-KE-B00/04-KE-B00-0150	0	kot	00:24:23;
+
+[PrintText]=00:24:23	Makoto	Ah... sí, en algo...	00:27:21;
+
+[PlayVoice]=00:24:23	Voice04/04-KE/04-KE-B00/04-KE-B00-0160	1	mak	00:27:21;
+
+[PrintText]=00:27:21	Kotonoha	Te ves completamente distraído.	00:29:09;
+
+[PlayVoice]=00:27:21	Voice04/04-KE/04-KE-B00/04-KE-B00-0170	0	kot	00:29:09;
+
+[PrintText]=00:29:09	Makoto	Perdón.	00:30:14;
+
+[PlayVoice]=00:29:09	Voice04/04-KE/04-KE-B00/04-KE-B00-0180	1	mak	00:30:14;
+
+[CreateBG]=00:30:14	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-005	00:33:18;
+
+[PrintText]=00:30:14	Kotonoha	¿Debería adivinar qué es?^	00:32:09;
+
+[PlayVoice]=00:30:14	Voice04/04-KE/04-KE-B00/04-KE-B00-0190	0	kot	00:32:09;
+
+[PrintText]=00:32:08	Makoto	¡¿Eh?!	00:33:17;
+
+[PlayVoice]=00:32:08	Voice04/04-KE/04-KE-B00/04-KE-B00-0200	1	mak	00:33:17;
+
+[CreateBG]=00:33:18	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-004	00:44:03;
+
+[PrintText]=00:33:18	Kotonoha	Mmm... puedo notarlo. ¡Puedo notarlo!	00:39:20;
+
+[PlayVoice]=00:33:18	Voice04/04-KE/04-KE-B00/04-KE-B00-0210	0	kot	00:39:20;
+
+[PrintText]=00:39:20	Makoto	...	00:41:03;
+
+[PlayVoice]=00:39:20	Voice04/04-KE/04-KE-B00/04-KE-B00-0220	1	xxx	00:41:03;
+
+[PrintText]=00:41:03	Kotonoha	Déjame ver. ¡Tiene que ver con Saionji-san!	00:44:03;
+
+[PlayVoice]=00:41:03	Voice04/04-KE/04-KE-B00/04-KE-B00-0230	0	kot	00:44:03;
+
+[PrintText]=00:44:02	Makoto	¿Eh?^	00:44:18;
+
+[PlayVoice]=00:44:02	Voice04/04-KE/04-KE-B00/04-KE-B00-0240	1	mak	00:44:18;
+
+[CreateBG]=00:44:03	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-007	00:54:17;
+
+[PrintText]=00:44:18	Kotonoha	Saionji-san era amiga de Kiyoura-san, que se ha transferido.	00:49:09;
+
+[PlayVoice]=00:44:18	Voice04/04-KE/04-KE-B00/04-KE-B00-0250	0	kot	00:49:09;
+
+[PrintText]=00:49:09	Makoto	¿Eh?^	00:50:11;
+
+[PlayVoice]=00:49:09	Voice04/04-KE/04-KE-B00/04-KE-B00-0260	1	mak	00:50:11;
+
+[PrintText]=00:50:12	Kotonoha	Escuche que por eso estaba faltando mucho a clase.	00:54:19;
+
+[PlayVoice]=00:50:12	Voice04/04-KE/04-KE-B00/04-KE-B00-0270	0	kot	00:54:19;
+
+[CreateBG]=00:54:17	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-008	01:10:12;
+
+[PrintText]=00:54:19	Makoto	Ya veo... por eso se veía algo triste.	00:59:04;
+
+[PlayVoice]=00:54:19	Voice04/04-KE/04-KE-B00/04-KE-B00-0280	1	mak	00:59:04;
+
+[PrintText]=00:59:04	Kotonoha	Sí, ha estado muy triste y deprimida, traté de animarla, pero...	01:07:03;
+
+[PlayVoice]=00:59:04	Voice04/04-KE/04-KE-B00/04-KE-B00-0290	0	kot	01:07:03;
+
+[PrintText]=01:07:04	Makoto	Sí, ya veo.	01:09:15;
+
+[PlayVoice]=01:07:04	Voice04/04-KE/04-KE-B00/04-KE-B00-0300	1	mak	01:09:15;
+
+[PrintText]=01:09:15	Kotonoha	Sí.	01:10:12;
+
+[PlayVoice]=01:09:15	Voice04/04-KE/04-KE-B00/04-KE-B00-0310	0	kot	01:10:12;
+
+[CreateBG]=01:10:12	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-009	01:18:05;
+
+[PrintText]=01:10:12	Makoto	Pero, ¿Es por eso que está deprimida?^	01:15:11;
+
+[PlayVoice]=01:10:12	Voice04/04-KE/04-KE-B00/04-KE-B00-0320	1	mak	01:15:11;
+
+[PrintText]=01:15:11	Kotonoha	Ya lo creo, aunque Sawanaga-san ha intentado animarla.	01:22:22;
+
+[PlayVoice]=01:15:11	Voice04/04-KE/04-KE-B00/04-KE-B00-0330	0	kot	01:22:22;
+
+[CreateBG]=01:18:05	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-002	01:34:00;
+
+[PrintText]=01:22:22	Makoto	Suena como algo que él haría.	01:25:11;
+
+[PlayVoice]=01:22:22	Voice04/04-KE/04-KE-B00/04-KE-B00-0340	1	mak	01:25:11;
+
+[PrintText]=01:25:11	Kotonoha	Así es ¿No?^	01:26:17;
+
+[PlayVoice]=01:25:11	Voice04/04-KE/04-KE-B00/04-KE-B00-0350	0	kot	01:26:17;
+
+[PrintText]=01:26:17	Makoto	...	01:27:12;
+
+[PlayVoice]=01:26:17	Voice04/04-KE/04-KE-B00/04-KE-B00-0360	1	xxx	01:27:12;
+
+[PrintText]=01:27:13	Kotonoha	...	01:29:08;
+
+[PlayVoice]=01:27:13	Voice04/04-KE/04-KE-B00/04-KE-B00-0370	0	xxx	01:29:08;
+
+[PrintText]=01:29:08	Makoto	...	01:30:21;
+
+[PlayVoice]=01:29:08	Voice04/04-KE/04-KE-B00/04-KE-B00-0380	1	xxx	01:30:21;
+
+[PrintText]=01:30:21	Kotonoha	...Makoto-kun.	01:31:23;
+
+[PlayVoice]=01:30:21	Voice04/04-KE/04-KE-B00/04-KE-B00-0390	0	kot	01:31:23;
+
+[PrintText]=01:31:23	Makoto	¿Sí?^	01:32:17;
+
+[PlayVoice]=01:31:23	Voice04/04-KE/04-KE-B00/04-KE-B00-0400	1	mak	01:32:17;
+
+[PrintText]=01:32:17	Kotonoha	¿Podemos?^	01:33:23;
+
+[PlayVoice]=01:32:17	Voice04/04-KE/04-KE-B00/04-KE-B00-0410	0	kot	01:33:23;
+
+[PrintText]=01:33:23	Makoto	¿Eh?^	01:34:15;
+
+[PlayVoice]=01:33:23	Voice04/04-KE/04-KE-B00/04-KE-B00-0420	1	mak	01:34:15;
+
+[CreateBG]=01:34:00	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-007	01:43:03;
+
+[PrintText]=01:34:15	Kotonoha	Tener sexo.	01:35:12;
+
+[PlayVoice]=01:34:15	Voice04/04-KE/04-KE-B00/04-KE-B00-0430	0	kot	01:35:12;
+
+[PrintText]=01:35:12	Makoto	Ah...	01:37:04;
+
+[PlayVoice]=01:35:12	Voice04/04-KE/04-KE-B00/04-KE-B00-0440	1	mak	01:37:04;
+
+[SetSELECT]=01:37:03	'Sí'	'No'	01:42:03;
+
+[PlayVoice]=01:37:04	Voice04/04-KE/04-KE-B00/04-KE-B00-0450			01:38:07;
+
+ ;
+
+[Next]=01:43:03;
+
+

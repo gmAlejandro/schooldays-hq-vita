@@ -1,0 +1,107 @@
+﻿[SkipFRAME]=00:44:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:44:09;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-F00/04-KB-F00-001	00:01:15;
+
+[CreateBG]=00:01:15	BGS	Event04/04-KB/04-KB-F00/04-KB-F00-002	00:07:15;
+
+[PrintText]=00:01:18	Nanami	¡Sekai! ¿Qué harás para el almuerzo?^	00:04:06;
+
+[PlayVoice]=00:01:18	Voice04/04-KB/04-KB-F00/04-KB-F00-0040	0	nan	00:04:06;
+
+[PrintText]=00:04:07	Sekai	Um...	00:06:01;
+
+[PlayVoice]=00:04:07	Voice04/04-KB/04-KB-F00/04-KB-F00-0050	0	sek	00:06:01;
+
+[PrintText]=00:06:03	Hikari	Vayamos a la cafetería.	00:07:13;
+
+[PlayVoice]=00:06:03	Voice04/04-KB/04-KB-F00/04-KB-F00-0060	0	hik	00:07:13;
+
+[CreateBG]=00:07:15	BGS	Event04/04-KB/04-KB-F00/04-KB-F00-003	00:08:19;
+
+[PrintText]=00:07:21	Sekai	Ah...	00:08:19;
+
+[PlayVoice]=00:07:21	Voice04/04-KB/04-KB-F00/04-KB-F00-0070	0	sek	00:08:19;
+
+[CreateBG]=00:08:19	BGS	Event04/04-KB/04-KB-F00/04-KB-F00-004	00:25:05;
+
+[PrintText]=00:09:03	Kotonoha	¡Ah!¡Saionji-san!	00:11:02;
+
+[PlayVoice]=00:09:03	Voice04/04-KB/04-KB-F00/04-KB-F00-0090	0	kot	00:11:02;
+
+[PrintText]=00:11:05	Sekai	¿Qué pasa?^	00:12:11;
+
+[PlayVoice]=00:11:05	Voice04/04-KB/04-KB-F00/04-KB-F00-0100	0	sek	00:12:11;
+
+[PrintText]=00:12:14	Kotonoha	Um...	00:13:23;
+
+[PlayVoice]=00:12:14	Voice04/04-KB/04-KB-F00/04-KB-F00-0110	0	kot	00:13:23;
+
+[PrintText]=00:13:23	Sekai	Si vienes a ver a Makoto, fue a una reunión con Sawanaga.	00:16:21;
+
+[PlayVoice]=00:13:23	Voice04/04-KB/04-KB-F00/04-KB-F00-0120	0	sek	00:16:21;
+
+[PrintText]=00:16:23	Kotonoha	No... vine por ti.	00:20:18;
+
+[PlayVoice]=00:16:23	Voice04/04-KB/04-KB-F00/04-KB-F00-0130	0	kot	00:20:18;
+
+[PrintText]=00:20:20	Sekai	¿Por mí?^	00:21:20;
+
+[PlayVoice]=00:20:20	Voice04/04-KB/04-KB-F00/04-KB-F00-0140	0	sek	00:21:20;
+
+[PrintText]=00:22:11	Kotonoha	Hay algo que quiero hablar contigo.	00:25:04;
+
+[PlayVoice]=00:22:11	Voice04/04-KB/04-KB-F00/04-KB-F00-0150	0	kot	00:25:04;
+
+[CreateBG]=00:25:05	BGS	Event04/04-KB/04-KB-F00/04-KB-F00-005	00:26:23;
+
+[PrintText]=00:25:13	Sekai	Vale, claro...	00:26:23;
+
+[PlayVoice]=00:25:13	Voice04/04-KB/04-KB-F00/04-KB-F00-0160	0	sek	00:26:23;
+
+[CreateBG]=00:26:23	BGS	Event04/04-KB/04-KB-F00/04-KB-F00-006	00:39:06;
+
+[PrintText]=00:27:10	Nanami	¿Por qué te retiene, Sekai?^	00:29:00;
+
+[PlayVoice]=00:27:10	Voice04/04-KB/04-KB-F00/04-KB-F00-0170	0	nan	00:29:00;
+
+[PrintText]=00:29:00	Sekai	¡Disculpen, hoy no podre!	00:31:04;
+
+[PlayVoice]=00:29:00	Voice04/04-KB/04-KB-F00/04-KB-F00-0180	0	sek	00:31:04;
+
+[PrintText]=00:31:05	Nanami	¡Ooh, cielos!	00:32:09;
+
+[PlayVoice]=00:31:05	Voice04/04-KB/04-KB-F00/04-KB-F00-0190	0	nan	00:32:09;
+
+[PrintText]=00:32:10	Sekai	Mañana, estoy segura!	00:33:23;
+
+[PlayVoice]=00:32:10	Voice04/04-KB/04-KB-F00/04-KB-F00-0200	0	sek	00:33:23;
+
+[PrintText]=00:33:21	Hikari	¡Y lo harás también!	00:35:14;
+
+[PlayVoice]=00:33:21	Voice04/04-KB/04-KB-F00/04-KB-F00-0210	0	hik	00:35:14;
+
+[PrintText]=00:35:13	Sekai	Uwah, no.	00:37:21;
+
+[PlayVoice]=00:35:13	Voice04/04-KB/04-KB-F00/04-KB-F00-0220	0	sek	00:37:21;
+
+[PrintText]=00:37:21	Nanami	Ahahah.	00:39:05;
+
+[PlayVoice]=00:37:21	Voice04/04-KB/04-KB-F00/04-KB-F00-0230	0	nan	00:39:05;
+
+[CreateBG]=00:39:06	BGS	Event04/04-KB/04-KB-F00/04-KB-F00-007	00:44:09;
+
+[PrintText]=00:39:15	Sekai	Bueno, ¿Vamos?^	00:41:13;
+
+[PlayVoice]=00:39:15	Voice04/04-KB/04-KB-F00/04-KB-F00-0250	0	sek	00:41:13;
+
+[PrintText]=00:41:16	Kotonoha	Sí, gracias.	00:44:07;
+
+[PlayVoice]=00:41:16	Voice04/04-KB/04-KB-F00/04-KB-F00-0260	0	kot	00:44:07;
+
+ ;
+
+[Next]=00:44:09;
+
+

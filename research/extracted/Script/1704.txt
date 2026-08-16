@@ -1,0 +1,72 @@
+﻿[SkipFRAME]=00:46:20;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:46:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-B01/05-SB-B01-001	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event05/05-SB/05-SB-B01/05-SB-B01-002	00:06:21;
+
+[CreateBG]=00:06:21	BGS	Event05/05-SB/05-SB-B01/05-SB-B01-003	00:09:21;
+
+[CreateBG]=00:09:21	BGS	Ini/Event05/05-SB/05-SB-B01/05-SB-B01-004	00:12:06;
+
+#[PrintText]=00:09:21	Celular	'Vale. te veo después de clases'.	00:12:06;
+
+[CreateBG]=00:12:06	BGS	Event05/05-SB/05-SB-B01/05-SB-B01-005	00:14:23;
+
+[CreateBG]=00:14:23	BGS	Event05/05-SB/05-SB-B01/05-SB-B01-006	00:27:07;
+
+[PrintText]=00:15:01	Minami	¡Katsura! ¿A quién entrego esto?^	00:18:02;
+
+[PlayVoice]=00:15:01	Voice05/05-SB/05-SB-B01/05-SB-B01-0090	0	min	00:18:02;
+
+[PrintText]=00:18:02	Kotonoha	¡Ah! ¡Lo-Lo siento! Por favor entrégaselo a Asano-sensei.	00:23:20;
+
+[PlayVoice]=00:18:02	Voice05/05-SB/05-SB-B01/05-SB-B01-0100	0	kot	00:23:20;
+
+[PrintText]=00:23:21	Minami	Qué aburrido. ve y entrégaselo tú Katsura.	00:27:07;
+
+[PlayVoice]=00:23:21	Voice05/05-SB/05-SB-B01/05-SB-B01-0110	0	min	00:27:07;
+
+[CreateBG]=00:27:07	BGS	Event05/05-SB/05-SB-B01/05-SB-B01-007	00:37:11;
+
+[PrintText]=00:27:07	Kotonoha	Ah, vale, no importa.	00:30:03;
+
+[PlayVoice]=00:27:07	Voice05/05-SB/05-SB-B01/05-SB-B01-0120	0	kot	00:30:03;
+
+[PrintText]=00:30:03	Minami	¿Eh...? ¿En serio?^	00:32:02;
+
+[PlayVoice]=00:30:03	Voice05/05-SB/05-SB-B01/05-SB-B01-0130	0	min	00:32:02;
+
+[PrintText]=00:32:03	Kotonoha	No tengo planes para el almuerzo, así  que no hay problema. Bueno, me voy.	00:37:11;
+
+[PlayVoice]=00:32:03	Voice05/05-SB/05-SB-B01/05-SB-B01-0140	0	kot	00:37:11;
+
+[CreateBG]=00:37:11	BGS	Event05/05-SB/05-SB-B01/05-SB-B01-008	00:46:20;
+
+[PrintText]=00:37:11	Minami	¿Qué le pasa últimamente?^	00:39:05;
+
+[PlayVoice]=00:37:11	Voice05/05-SB/05-SB-B01/05-SB-B01-0160	0	min	00:39:05;
+
+[PrintText]=00:39:05	Natsumi	A estado algo animada... ¿No?^	00:41:18;
+
+[PlayVoice]=00:39:05	Voice05/05-SB/05-SB-B01/05-SB-B01-0170	0	nat	00:41:18;
+
+[PrintText]=00:41:19	Kumi	¿Crees que... sea por un chico?^	00:44:06;
+
+[PlayVoice]=00:41:19	Voice05/05-SB/05-SB-B01/05-SB-B01-0180	0	kum	00:44:06;
+
+[PrintText]=00:44:06	Minami	De ninguna manera.	00:45:10;
+
+[PlayVoice]=00:44:06	Voice05/05-SB/05-SB-B01/05-SB-B01-0190	0	min	00:45:10;
+
+[PrintText]=00:45:11	Natsumi	Hmm...	00:46:19;
+
+[PlayVoice]=00:45:11	Voice05/05-SB/05-SB-B01/05-SB-B01-0200	0	nat	00:46:19;
+
+ ;
+
+[Next]=00:46:20;
+
+
+

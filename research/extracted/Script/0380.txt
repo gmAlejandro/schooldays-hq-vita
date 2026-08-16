@@ -1,0 +1,383 @@
+﻿[SkipFRAME]=04:00:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	04:00:07;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-U01/SE02-2S-U01-001	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-001	00:03:01;
+
+[CreateBG]=00:03:01	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-002	00:07:12;
+
+[PrintText]=00:03:01	Kotonoha	Haah...	00:03:19;
+
+[PlayVoice]=00:03:01	Voice02/02-2S/02-2S-U01/02-2S-U01-0050	0	kot	00:03:19;
+
+[PrintText]=00:03:19	Natsumi	Y luego, extenderle la mano así y lo invitas.	00:07:11;
+
+[PlayVoice]=00:03:19	Voice02/02-2S/02-2S-U01/02-2S-U01-0080	0	nat	00:07:11;
+
+[PlayMovie]=00:07:12	Movie02/02-2S/02-2S-U01/02-2S-U01-002	0	00:31:02;
+
+[PrintText]=00:07:12	Kumi	¿Qué? La chica hace la invitación ¿En serio?^	00:10:14;
+
+[PlayVoice]=00:07:12	Voice02/02-2S/02-2S-U01/02-2S-U01-0090	0	kum	00:10:14;
+
+[PrintText]=00:10:07	Natsumi	Totalmente. Si el chico toma tu mano, significa que aceptó tu confesión.	00:15:02;
+
+[PlayVoice]=00:10:07	Voice02/02-2S/02-2S-U01/02-2S-U01-0100	0	nat	00:15:02;
+
+[PrintText]=00:14:22	Minami	¡Uwah!	00:16:05;
+
+[PlayVoice]=00:14:22	Voice02/02-2S/02-2S-U01/02-2S-U01-0110	0	min	00:16:05;
+
+[PrintText]=00:16:01	Natsumi	Pero primero, tienes que tener a alguien a quién invitar.	00:18:17;
+
+[PlayVoice]=00:16:01	Voice02/02-2S/02-2S-U01/02-2S-U01-0120	0	nat	00:18:17;
+
+[PrintText]=00:18:06	Kumi	¿De qué estás hablando? No es como si tuvieras a alguien tampoco.	00:23:06;
+
+[PlayVoice]=00:18:06	Voice02/02-2S/02-2S-U01/02-2S-U01-0130	0	kum	00:23:06;
+
+[PrintText]=00:23:01	Minami	Oh, vamos. Sabes que ninguna de nosotros tiene.	00:26:02;
+
+[PlayVoice]=00:23:01	Voice02/02-2S/02-2S-U01/02-2S-U01-0140	0	min	00:26:02;
+
+[PrintText]=00:26:08	Otome	...	00:27:07;
+
+[PlayVoice]=00:26:08	Voice02/02-2S/02-2S-U01/02-2S-U01-0150	0	xxx	00:27:07;
+
+[PrintText]=00:27:08	Kumi	Ah, Otome-chan tiene alguien. Está escrito en toda su cara.	00:30:15;
+
+[PlayVoice]=00:27:08	Voice02/02-2S/02-2S-U01/02-2S-U01-0160	0	kum	00:30:15;
+
+[PrintText]=00:30:12	Otome	¿Eh?^	00:31:09;
+
+[PlayVoice]=00:30:12	Voice02/02-2S/02-2S-U01/02-2S-U01-0170	0	oto	00:31:09;
+
+[CreateBG]=00:31:01	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-004	00:34:02;
+
+[PrintText]=00:31:01	Natsumi	¡¿En serio?! ¿Tienes uno Otome? ¡Tienes que invitarlo!	00:34:00;
+
+[PlayVoice]=00:31:01	Voice02/02-2S/02-2S-U01/02-2S-U01-0180	0	nat	00:34:00;
+
+[CreateBG]=00:34:02	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-005	00:47:09;
+
+[PrintText]=00:34:02	Otome	B-bueno, algo así, pero ...se puede tratar de invitarlos incluso si sabes que no hay esperanza ¿no?^	00:39:18;
+
+[PlayVoice]=00:34:02	Voice02/02-2S/02-2S-U01/02-2S-U01-0190	0	oto	00:39:18;
+
+[PrintText]=00:39:05	Natsumi	Pues sí.	00:40:09;
+
+[PlayVoice]=00:39:05	Voice02/02-2S/02-2S-U01/02-2S-U01-0200	0	nat	00:40:09;
+
+[PrintText]=00:40:13	Otome	En ese caso, creo... ahora que lo pienso, voy a ser rechazada...	00:45:20;
+
+[PlayVoice]=00:40:13	Voice02/02-2S/02-2S-U01/02-2S-U01-0210	0	oto	00:45:20;
+
+[PrintText]=00:45:15	Kumi	Fwaah...	00:47:05;
+
+[PlayVoice]=00:45:15	Voice02/02-2S/02-2S-U01/02-2S-U01-0220	0	kum	00:47:05;
+
+[CreateBG]=00:47:09	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-006	01:01:23;
+
+[PrintText]=00:47:09	Minami	¿Hey, quién es? ¿Quién es tu objetivo, Otome?^	00:50:21;
+
+[PlayVoice]=00:47:09	Voice02/02-2S/02-2S-U01/02-2S-U01-0230	0	min	00:50:21;
+
+[PrintText]=00:50:17	Otome	¿'Objetivo'? ¿huh...? Bueno, ni siquiera me habla. Es un caso perdido.	00:58:02;
+
+[PlayVoice]=00:50:17	Voice02/02-2S/02-2S-U01/02-2S-U01-0240	0	oto	00:58:02;
+
+[PrintText]=00:57:19	Minami	¡Vamos, Dinos!	01:00:10;
+
+[PlayVoice]=00:57:19	Voice02/02-2S/02-2S-U01/02-2S-U01-0250	0	min	01:00:10;
+
+[PrintText]=01:00:02	Otome	De ninguna manera, no lo voy a decir.	01:01:19;
+
+[PlayVoice]=01:00:02	Voice02/02-2S/02-2S-U01/02-2S-U01-0260	0	oto	01:01:19;
+
+[CreateBG]=01:01:23	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-007	01:09:04;
+
+[PrintText]=01:01:23	Natsumi	¡Quiero saber!	01:03:12;
+
+[PlayVoice]=01:01:23	Voice02/02-2S/02-2S-U01/02-2S-U01-0270	0	nat	01:03:12;
+
+[PrintText]=01:03:08	Minami	¡Hey! Danos una pista. Trataremos de adivinar....	01:06:07;
+
+[PlayVoice]=01:03:08	Voice02/02-2S/02-2S-U01/02-2S-U01-0280	0	min	01:06:07;
+
+[PrintText]=01:06:01	Otome	Olvídenlo.	01:07:14;
+
+[PlayVoice]=01:06:01	Voice02/02-2S/02-2S-U01/02-2S-U01-0290	0	oto	01:07:14;
+
+[PrintText]=01:07:07	Minami	¡Solo una pista, vamos!	01:09:01;
+
+[PlayVoice]=01:07:07	Voice02/02-2S/02-2S-U01/02-2S-U01-0300	0	min	01:09:01;
+
+[CreateBG]=01:09:04	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-008	01:19:00;
+
+[PrintText]=01:09:04	Otome	...	01:10:12;
+
+[PlayVoice]=01:09:04	Voice02/02-2S/02-2S-U01/02-2S-U01-0310	0	xxx	01:10:12;
+
+[PrintText]=01:10:09	Kumi	Nos encantaría una pista.	01:12:14;
+
+[PlayVoice]=01:10:09	Voice02/02-2S/02-2S-U01/02-2S-U01-0320	0	kum	01:12:14;
+
+[PrintText]=01:12:19	Otome	...íbamos juntos en la primaria.	01:16:00;
+
+[PlayVoice]=01:12:19	Voice02/02-2S/02-2S-U01/02-2S-U01-0330	0	oto	01:16:00;
+
+[PrintText]=01:15:15	Natsumi	¡¿Eh?! ¿Un chico de nuestra clase?^	01:18:07;
+
+[PlayVoice]=01:15:15	Voice02/02-2S/02-2S-U01/02-2S-U01-0340	0	nat	01:18:07;
+
+[PrintText]=01:18:02	Otome	No.	01:19:03;
+
+[PlayVoice]=01:18:02	Voice02/02-2S/02-2S-U01/02-2S-U01-0350	0	oto	01:19:03;
+
+[CreateBG]=01:19:00	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-009	01:35:14;
+
+[PrintText]=01:19:00	Kumi	¡Fwaah! Me pregunto quién es ¿Quién podría ser, Natsumi-chan?^	01:23:22;
+
+[PlayVoice]=01:19:00	Voice02/02-2S/02-2S-U01/02-2S-U01-0360	0	kum	01:23:22;
+
+[PrintText]=01:23:21	Natsumi	Veamos...no hay muchos chicos de la escuela de Harami, ¡Ah!, ya sé, es ese chico de la clase 3...	01:32:13;
+
+[PlayVoice]=01:23:21	Voice02/02-2S/02-2S-U01/02-2S-U01-0370	0	nat	01:32:13;
+
+[PrintText]=01:31:22	Otome	¡Waaah! ¡Tiempo Tiempo! ¡Cielos!	01:36:19;
+
+[PlayVoice]=01:31:22	Voice02/02-2S/02-2S-U01/02-2S-U01-0380	0	oto	01:36:19;
+
+[CreateBG]=01:35:14	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-009B	01:42:16;
+
+[PrintText]=01:37:10	Minami	¿Qué estás mirando?^	01:38:18;
+
+[PlayVoice]=01:37:10	Voice02/02-2S/02-2S-U01/02-2S-U01-0400	0	min	01:38:18;
+
+[PrintText]=01:38:12	Kotonoha	¡¿Eh?! U... um... Disculpen.	01:42:20;
+
+[PlayVoice]=01:38:12	Voice02/02-2S/02-2S-U01/02-2S-U01-0410	0	kot	01:42:20;
+
+[PlayMovie]=01:42:16	Movie02/02-2S/02-2S-U01/02-2S-U01-010	0	01:59:18;
+
+[PrintText]=01:42:16	Otome	¿Qué pasó?^	01:43:19;
+
+[PlayVoice]=01:42:16	Voice02/02-2S/02-2S-U01/02-2S-U01-0420	0	oto	01:43:19;
+
+[PrintText]=01:43:18	Minami	Katsura nos estuvo mirando todo este tiempo.	01:47:04;
+
+[PlayVoice]=01:43:18	Voice02/02-2S/02-2S-U01/02-2S-U01-0430	0	min	01:47:04;
+
+[PrintText]=01:47:01	Otome	¿Katsura?^	01:48:05;
+
+[PlayVoice]=01:47:01	Voice02/02-2S/02-2S-U01/02-2S-U01-0440	0	oto	01:48:05;
+
+[PrintText]=01:48:08	Kotonoha	Realmente no... estamos en el salón, y pensé en unirme a la conversación.	01:55:05;
+
+[PlayVoice]=01:48:08	Voice02/02-2S/02-2S-U01/02-2S-U01-0450	0	kot	01:55:05;
+
+[PrintText]=01:54:21	Minami	¿De qué hablas? Somos las únicas hablando aquí.	01:59:18;
+
+[PlayVoice]=01:54:21	Voice02/02-2S/02-2S-U01/02-2S-U01-0460	0	min	01:59:18;
+
+[PlaySe]=01:59:04	2	Se02/02-2S/02-2S-U01/SE02-2S-U01-001	03:58:08;
+
+[CreateBG]=01:59:18	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-011	02:10:18;
+
+[PrintText]=01:59:18	Kotonoha	...Lo siento.	02:01:18;
+
+[PlayVoice]=01:59:18	Voice02/02-2S/02-2S-U01/02-2S-U01-0470	0	kot	02:01:18;
+
+[PrintText]=02:01:20	Natsumi	¿Por qué te disculpas?^	02:03:22;
+
+[PlayVoice]=02:01:20	Voice02/02-2S/02-2S-U01/02-2S-U01-0480	0	nat	02:03:22;
+
+[PrintText]=02:03:23	Otome	...	02:04:22;
+
+[PlayVoice]=02:03:23	Voice02/02-2S/02-2S-U01/02-2S-U01-0490	0	xxx	02:04:22;
+
+[PrintText]=02:04:22	Kotonoha	Lo Siento...	02:06:02;
+
+[PlayVoice]=02:04:22	Voice02/02-2S/02-2S-U01/02-2S-U01-0500	0	kot	02:06:02;
+
+[PrintText]=02:06:03	Otome	Aww, Cielos... después de escucharla, ya no tengo ganas de hacer nada.	02:10:17;
+
+[PlayVoice]=02:06:03	Voice02/02-2S/02-2S-U01/02-2S-U01-0510	0	oto	02:10:17;
+
+[CreateBG]=02:10:18	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-012	02:24:04;
+
+[PrintText]=02:10:18	Kotonoha	¡¿Eh?!	02:11:15;
+
+[PlayVoice]=02:10:18	Voice02/02-2S/02-2S-U01/02-2S-U01-0520	0	kot	02:11:15;
+
+[PrintText]=02:11:15	Otome	Anda y ayuda con la casa embrujada que nadie está interesado en esas cosas ahora.	02:16:11;
+
+[PlayVoice]=02:11:15	Voice02/02-2S/02-2S-U01/02-2S-U01-0530	0	oto	02:16:11;
+
+[PrintText]=02:16:09	Kumi	¿Ehh? Estaba esperando por eso.	02:19:03;
+
+[PlayVoice]=02:16:09	Voice02/02-2S/02-2S-U01/02-2S-U01-0540	0	kum	02:19:03;
+
+[PrintText]=02:18:23	Natsumi	¡Shh!	02:19:15;
+
+[PlayVoice]=02:18:23	Voice02/02-2S/02-2S-U01/02-2S-U01-0550	0	nat	02:19:15;
+
+[PrintText]=02:20:04	Otome	Sabes, creo que realmente no podemos ayudar.	02:23:07;
+
+[PlayVoice]=02:20:04	Voice02/02-2S/02-2S-U01/02-2S-U01-0560	0	oto	02:23:07;
+
+[PrintText]=02:23:05	Minami	Sí...	02:24:04;
+
+[PlayVoice]=02:23:05	Voice02/02-2S/02-2S-U01/02-2S-U01-0570	0	min	02:24:04;
+
+[CreateBG]=02:24:04	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-013	02:33:08;
+
+[PrintText]=02:24:04	Kotonoha	Pero...	02:25:14;
+
+[PlayVoice]=02:24:04	Voice02/02-2S/02-2S-U01/02-2S-U01-0580	0	kot	02:25:14;
+
+[PrintText]=02:25:14	Otome	No podemos trabajar con alguien que llama la atención de los chicos todo el día.	02:29:18;
+
+[PlayVoice]=02:25:14	Voice02/02-2S/02-2S-U01/02-2S-U01-0590	0	oto	02:29:18;
+
+[PrintText]=02:29:08	Natsumi	Sí... Sí...	02:30:22;
+
+[PlayVoice]=02:29:08	Voice02/02-2S/02-2S-U01/02-2S-U01-0600	0	nat	02:30:22;
+
+[PrintText]=02:30:16	Kotonoha	No estoy llamando la atención de nadie.	02:33:05;
+
+[PlayVoice]=02:30:16	Voice02/02-2S/02-2S-U01/02-2S-U01-0610	0	kot	02:33:05;
+
+[CreateBG]=02:33:08	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-014	02:42:00;
+
+[PrintText]=02:33:11	Otome	¿Realmente piensas que nadie te mira?^	02:36:23;
+
+[PlayVoice]=02:33:11	Voice02/02-2S/02-2S-U01/02-2S-U01-0620	0	oto	02:36:23;
+
+[PrintText]=02:36:20	Kotonoha	Yo en realidad...	02:38:05;
+
+[PlayVoice]=02:36:20	Voice02/02-2S/02-2S-U01/02-2S-U01-0630	0	kot	02:38:05;
+
+[PrintText]=02:37:23	Otome	Te vi hacer un movimiento con Itou de la clase 3 ¿Vale?^	02:42:04;
+
+[PlayVoice]=02:37:23	Voice02/02-2S/02-2S-U01/02-2S-U01-0640	0	oto	02:42:04;
+
+[CreateBG]=02:42:00	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-015	02:47:08;
+
+[PrintText]=02:42:00	Kotonoha	¡Ah!	02:42:22;
+
+[PlayVoice]=02:42:00	Voice02/02-2S/02-2S-U01/02-2S-U01-0650	0	kot	02:42:22;
+
+[PrintText]=02:42:15	Otome	¿Lo ves?^	02:43:17;
+
+[PlayVoice]=02:42:15	Voice02/02-2S/02-2S-U01/02-2S-U01-0660	0	oto	02:43:17;
+
+[PrintText]=02:43:23	Otome	Odio preguntar esto, pero ¿Podrias mantenerte lejos de Itou?^	02:47:08;
+
+[PlayVoice]=02:43:23	Voice02/02-2S/02-2S-U01/02-2S-U01-0670	0	oto	02:47:08;
+
+[CreateBG]=02:47:08	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-016	02:59:08;
+
+[PrintText]=02:47:08	Otome	Si estás dispuesta a trabajar en serio, deja de hipnotizar a los chicos de la clase de al lado, y te ayudaremos.	02:53:09;
+
+[PlayVoice]=02:47:08	Voice02/02-2S/02-2S-U01/02-2S-U01-0671	0	oto	02:53:09;
+
+[PrintText]=02:53:07	Kumi	Itou de la escuela Harami ¿No? Eso significa que ...	02:58:18;
+
+[PlayVoice]=02:53:07	Voice02/02-2S/02-2S-U01/02-2S-U01-0680	0	kum	02:58:18;
+
+[PrintText]=02:58:12	Natsumi	¡Shh!	02:59:04;
+
+[PlayVoice]=02:58:12	Voice02/02-2S/02-2S-U01/02-2S-U01-0690	0	nat	02:59:04;
+
+[CreateBG]=02:59:08	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-017	03:04:20;
+
+[PrintText]=02:59:10	Kumi	Ya veo, A Otome-chan le gusta...	03:04:00;
+
+[PlayVoice]=02:59:10	Voice02/02-2S/02-2S-U01/02-2S-U01-0700	0	kum	03:04:00;
+
+[PrintText]=03:03:18	Natsumi	¡Shhh!	03:04:15;
+
+[PlayVoice]=03:03:18	Voice02/02-2S/02-2S-U01/02-2S-U01-0710	0	nat	03:04:15;
+
+[CreateBG]=03:04:20	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-018	03:17:10;
+
+[PrintText]=03:04:20	Kotonoha	Te gusta Makoto-kun, ¿No?^	03:09:01;
+
+[PlayVoice]=03:04:20	Voice02/02-2S/02-2S-U01/02-2S-U01-0730	0	kot	03:09:01;
+
+[PrintText]=03:08:13	Otome	¡¿Qu-?! ¡Eso no es lo que estoy diciendo en absoluto!	03:11:12;
+
+[PlayVoice]=03:08:13	Voice02/02-2S/02-2S-U01/02-2S-U01-0740	0	oto	03:11:12;
+
+[PrintText]=03:11:05	Kotonoha	¿No es así? ¿Esa no es la razón por la que estás arremetiendo contra mí?^	03:17:16;
+
+[PlayVoice]=03:11:05	Voice02/02-2S/02-2S-U01/02-2S-U01-0750	0	kot	03:17:16;
+
+[CreateBG]=03:17:10	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-019	03:23:13;
+
+[PrintText]=03:17:10	Otome	Te estoy diciendo que no es así.	03:19:09;
+
+[PlayVoice]=03:17:10	Voice02/02-2S/02-2S-U01/02-2S-U01-0760	0	oto	03:19:09;
+
+[PrintText]=03:19:01	Kotonoha	Creo que es injusto que te escondas detrás de algo así.	03:22:20;
+
+[PlayVoice]=03:19:01	Voice02/02-2S/02-2S-U01/02-2S-U01-0770	0	kot	03:22:20;
+
+[PrintText]=03:22:07	Otome	¡Katsura!	03:23:15;
+
+[PlayVoice]=03:22:07	Voice02/02-2S/02-2S-U01/02-2S-U01-0780	0	oto	03:23:15;
+
+[CreateBG]=03:23:13	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-020	03:26:23;
+
+[PrintText]=03:23:13	Kotonoha	Makoto-kun y yo estamos saliendo.	03:27:04;
+
+[PlayVoice]=03:23:13	Voice02/02-2S/02-2S-U01/02-2S-U01-0790	0	kot	03:27:04;
+
+[CreateBG]=03:26:23	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-021	03:45:19;
+
+[PrintText]=03:26:23	Otome	¿Eh?!	03:27:10;
+
+[PlayVoice]=03:26:23	Voice02/02-2S/02-2S-U01/02-2S-U01-0800	0	oto	03:27:10;
+
+[PrintText]=03:27:19	Kotonoha	Empezamos a salir después que se me confesó, así tampoco lo 'hipnoticé' como dices.	03:34:14;
+
+[PlayVoice]=03:27:19	Voice02/02-2S/02-2S-U01/02-2S-U01-0810	0	kot	03:34:14;
+
+[PrintText]=03:34:15	Otome	...	03:36:03;
+
+[PlayVoice]=03:34:15	Voice02/02-2S/02-2S-U01/02-2S-U01-0820	0	xxx	03:36:03;
+
+[PrintText]=03:36:04	Kotonoha	Entiendo que te gusta, pero si las cosas son así, no te ayudaré.	03:43:17;
+
+[PlayVoice]=03:36:04	Voice02/02-2S/02-2S-U01/02-2S-U01-0830	0	kot	03:43:17;
+
+[PrintText]=03:43:17	Otome	...	03:45:13;
+
+[PlayVoice]=03:43:17	Voice02/02-2S/02-2S-U01/02-2S-U01-0840	0	xxx	03:45:13;
+
+[CreateBG]=03:45:19	BGS	Event02/02-2S/02-2S-U01/02-2S-U01-022	03:53:16;
+
+[PrintText]=03:45:19	Minami	¡E-Espera, Otome...!	03:48:04;
+
+[PlayVoice]=03:45:19	Voice02/02-2S/02-2S-U01/02-2S-U01-0850	0	min	03:48:04;
+
+[PrintText]=03:48:15	Kotonoha	Si me disculpas. Iré a realizar algunas impresionas para el consejo estudiantil.	03:53:11;
+
+[PlayVoice]=03:48:15	Voice02/02-2S/02-2S-U01/02-2S-U01-0860	0	kot	03:53:11;
+
+[PlaySe]=03:53:16	3	SysSe/SE_all/footsteps/asioto_school	03:57:12;
+
+[PlayMovie]=03:53:16	Movie02/02-2S/02-2S-U01/02-2S-U01-023	0	04:00:07;
+
+[PlaySe]=03:57:12	4	SysSe/SE_all/door/door_kyousitu	04:00:07;
+
+[PlaySe]=03:58:07	1	Se02/02-2S/02-2S-U01/SE02-2S-U01-001	04:00:07;
+
+ ;
+
+[Next]=04:00:07;
+
+

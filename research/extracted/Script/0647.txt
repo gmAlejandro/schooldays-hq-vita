@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:15:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:15:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E04/03-KB-E04-001	00:14:00;
+
+[PrintText]=00:00:00	Makoto	Es cierto.	00:01:01;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E04/03-KB-E04-0030	1	mak	00:01:01;
+
+[PrintText]=00:01:00	Taisuke	...	00:02:01;
+
+[PlayVoice]=00:01:00	Voice03/03-KB/03-KB-E04/03-KB-E04-0040	1	xxx	00:02:01;
+
+[PrintText]=00:02:01	Makoto	¿Qué puedo hacer? Sekai fue la quiso salir conmigo.Pero después de que yo le dije que la amaba... por eso es...	00:13:23;
+
+[PlayVoice]=00:02:01	Voice03/03-KB/03-KB-E04/03-KB-E04-0050	1	mak	00:13:23;
+
+[PrintText]=00:13:23	Taisuke	Makoto.	00:15:01;
+
+[PlayVoice]=00:13:23	Voice03/03-KB/03-KB-E04/03-KB-E04-0060	1	tai	00:15:01;
+
+[CreateBG]=00:14:00	BGS	Event03/03-KB/03-KB-E04/03-KB-E04-002	00:15:19;
+
+[PrintText]=00:15:02	Makoto	¿S-Sí?^	00:15:18;
+
+[PlayVoice]=00:15:02	Voice03/03-KB/03-KB-E04/03-KB-E04-0070	1	mak	00:15:18;
+
+ ;
+
+[Next]=00:15:19;
+
+

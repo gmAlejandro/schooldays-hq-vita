@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:08:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:08:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F05/05-5O-F05-001	00:03:14;
+
+[PrintText]=00:00:07	Makoto	Buen d... ah.	00:03:09;
+
+[PlayVoice]=00:00:07	Voice05/05-5O/05-5O-F05/05-5O-F05-0030	1	mak	00:03:09;
+
+[CreateBG]=00:03:14	BGS	Event05/05-5O/05-5O-F05/05-5O-F05-002	00:08:06;
+
+[PrintText]=00:03:18	Sekai	Buen día.	00:04:17;
+
+[PlayVoice]=00:03:18	Voice05/05-5O/05-5O-F05/05-5O-F05-0050	0	sek	00:04:17;
+
+[PrintText]=00:05:00	Makoto	¿Te sientes mejor?^	00:07:07;
+
+[PlayVoice]=00:05:00	Voice05/05-5O/05-5O-F05/05-5O-F05-0060	1	mak	00:07:07;
+
+[PrintText]=00:07:13	Sekai	Uh-huh.	00:08:06;
+
+[PlayVoice]=00:07:13	Voice05/05-5O/05-5O-F05/05-5O-F05-0070	0	sek	00:08:06;
+
+ ;
+
+[Next]=00:08:06;
+
+

@@ -1,0 +1,118 @@
+﻿[SkipFRAME]=01:35:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:35:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-001	00:07:14;
+
+[PrintText]=00:00:00	Nanami	A diferencia de Hikari, a mi no me importaba que estés saliendo con Sekai.	00:07:01;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-H04/05-SB-H04-0030	0	nan	00:07:01;
+
+[CreateBG]=00:07:14	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-009	00:14:08;
+
+[PrintText]=00:08:07	Nanami	Sabía que le gustabas desde la ceremonia de entrada....	00:11:19;
+
+[PlayVoice]=00:08:07	Voice05/05-SB/05-SB-H04/05-SB-H04-0040	0	nan	00:11:19;
+
+[PrintText]=00:11:20	Nanami	y siempre la veía contenta cuando hablaba de ti.	00:18:22;
+
+[PlayVoice]=00:11:20	Voice05/05-SB/05-SB-H04/05-SB-H04-0041	0	nan	00:18:22;
+
+[CreateBG]=00:14:08	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-011	00:21:09;
+
+[PrintText]=00:20:03	Nanami	¡Pero entonces... empezaste a comer con ella y salir juntos... y mira lo que pasó!	00:28:01;
+
+[PlayVoice]=00:20:03	Voice05/05-SB/05-SB-H04/05-SB-H04-0050	0	nan	00:28:01;
+
+[CreateBG]=00:21:09	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-001	00:27:12;
+
+[CreateBG]=00:27:12	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-002	00:32:17;
+
+[PrintText]=00:27:12	Makoto	Sekai y yo no...	00:31:22;
+
+[PlayVoice]=00:27:12	Voice05/05-SB/05-SB-H04/05-SB-H04-0060	1	mak	00:31:22;
+
+[PrintText]=00:30:08	Nanami	¡Incluso cuando empezó a salir contigo, se veía tan feliz todo el tiempo!	00:35:14;
+
+[PlayVoice]=00:30:08	Voice05/05-SB/05-SB-H04/05-SB-H04-0070	0	nan	00:35:14;
+
+[CreateBG]=00:32:17	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-010	00:41:15;
+
+[PrintText]=00:35:14	Nanami	Eres su novio ¿No? ¿Acaso no empezaste a salir con ella porque la querías?^	00:41:12;
+
+[PlayVoice]=00:35:14	Voice05/05-SB/05-SB-H04/05-SB-H04-0071	0	nan	00:41:12;
+
+[CreateBG]=00:41:15	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-009	00:48:09;
+
+[PrintText]=00:41:17	Makoto	...	00:44:08;
+
+[PlayVoice]=00:41:17	Voice05/05-SB/05-SB-H04/05-SB-H04-0080	1	xxx	00:44:08;
+
+[PrintText]=00:44:07	Nanami	La amas ¿No?^	00:48:06;
+
+[PlayVoice]=00:44:07	Voice05/05-SB/05-SB-H04/05-SB-H04-0090	0	nan	00:48:06;
+
+[PrintText]=00:48:07	Makoto	...	00:51:06;
+
+[PlayVoice]=00:48:07	Voice05/05-SB/05-SB-H04/05-SB-H04-0100	1	xxx	00:51:06;
+
+[CreateBG]=00:48:10	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-011	00:56:11;
+
+[PrintText]=00:51:12	Nanami	Si es así ¡¿Por qué no la haces feliz?!	00:56:10;
+
+[PlayVoice]=00:51:12	Voice05/05-SB/05-SB-H04/05-SB-H04-0110	0	nan	00:56:10;
+
+[CreateBG]=00:56:11	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-004	00:59:02;
+
+[PrintText]=00:56:11	Makoto	Yo...	00:59:10;
+
+[PlayVoice]=00:56:11	Voice05/05-SB/05-SB-H04/05-SB-H04-0120	1	mak	00:59:10;
+
+[PlaySe]=00:58:23	1	Se05/05-SB/05-SB-H04/SE05-SB-H04-001	00:59:07;
+
+[PlayMovie]=00:59:02	Movie05/05-SB/05-SB-H04/05-SB-H04-005	0	01:17:20;
+
+[PrintText]=00:59:02	Nanami	¡¿Por qué?!	01:00:03;
+
+[PlayVoice]=00:59:02	Voice05/05-SB/05-SB-H04/05-SB-H04-0140	0	nan	01:00:03;
+
+[PrintText]=01:01:04	Nanami	¡¿Por qué no la haces sonreír?!	01:05:13;
+
+[PlayVoice]=01:01:04	Voice05/05-SB/05-SB-H04/05-SB-H04-0150	0	nan	01:05:13;
+
+[PrintText]=01:06:09	Nanami	¡Ahora llora todo el tiempo! ¡No quiero verla así, sabes! Jamás te reconoceré como su novio.	01:17:17;
+
+[PlayVoice]=01:06:09	Voice05/05-SB/05-SB-H04/05-SB-H04-0160	0	nan	01:17:17;
+
+[PrintText]=01:17:18	Makoto	Uuh...	01:19:17;
+
+[PlayVoice]=01:17:18	Voice05/05-SB/05-SB-H04/05-SB-H04-0170	1	mak	01:19:17;
+
+[CreateBG]=01:17:20	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-006	01:18:21;
+
+[CreateBG]=01:18:21	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-007	01:25:03;
+
+[PrintText]=01:19:00	Nanami	Si la lastimas una vez más... no te lo perdonaré.	01:25:03;
+
+[PlayVoice]=01:19:00	Voice05/05-SB/05-SB-H04/05-SB-H04-0180	0	nan	01:25:03;
+
+[CreateBG]=01:25:03	BGS	Event05/05-SB/05-SB-H04/05-SB-H04-008	01:35:05;
+
+[PrintText]=01:25:03	Makoto	...	01:30:02;
+
+[PlayVoice]=01:25:03	Voice05/05-SB/05-SB-H04/05-SB-H04-0200	1	xxx	01:30:02;
+
+[PlaySe]=01:25:21	1	SysSe/SE_all/footsteps/asioto_out_walk	01:31:05;
+
+[PrintText]=01:31:05	Makoto	Yo...	01:33:17;
+
+[PlayVoice]=01:31:05	Voice05/05-SB/05-SB-H04/05-SB-H04-0220	1	mak	01:33:17;
+
+[BlackFade]=01:34:05	OUT	01:35:05;
+
+ ;
+
+[Next]=01:35:05;
+
+
+

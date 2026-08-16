@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:20:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:20:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-Q02/04-SA-Q02-001	00:05:07;
+
+[PrintText]=00:00:00	Makoto	Ah... no tenemos suficientes entradas.	00:02:17;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-Q02/04-SA-Q02-0030	1	mak	00:02:17;
+
+[PrintText]=00:02:17	Taisuke	Sí.	00:03:17;
+
+[PlayVoice]=00:02:17	Voice04/04-SA/04-SA-Q02/04-SA-Q02-0040	1	tai	00:03:17;
+
+[PrintText]=00:03:17	Kotonoha	Pero todo está bien.	00:05:02;
+
+[PlayVoice]=00:03:17	Voice04/04-SA/04-SA-Q02/04-SA-Q02-0050	0	kot	00:05:02;
+
+[PrintText]=00:05:01	Taisuke	¿Eh?^	00:05:16;
+
+[PlayVoice]=00:05:01	Voice04/04-SA/04-SA-Q02/04-SA-Q02-0060	1	tai	00:05:16;
+
+[CreateBG]=00:05:07	BGS	Event04/04-SA/04-SA-Q02/04-SA-Q02-002	00:10:07;
+
+[PrintText]=00:05:16	Kotonoha	Pensé que esto podía pasar, así que conseguí una entrada extra por mi padre.	00:11:07;
+
+[PlayVoice]=00:05:16	Voice04/04-SA/04-SA-Q02/04-SA-Q02-0070	0	kot	00:11:07;
+
+[CreateBG]=00:10:07	BGS	Event04/04-SA/04-SA-Q02/04-SA-Q02-003	00:15:07;
+
+[PrintText]=00:11:07	Hikari	¿Tu padre...?^	00:12:18;
+
+[PlayVoice]=00:11:07	Voice04/04-SA/04-SA-Q02/04-SA-Q02-0080	0	hik	00:12:18;
+
+[PrintText]=00:12:18	Kotonoha	Sí. Mi padre tienes unas conexiones aquí, y pudo conseguir una entrada.	00:19:04;
+
+[PlayVoice]=00:12:18	Voice04/04-SA/04-SA-Q02/04-SA-Q02-0090	0	kot	00:19:04;
+
+[CreateBG]=00:15:07	BGS	Event04/04-SA/04-SA-Q02/04-SA-Q02-004	00:20:07;
+
+ ;
+
+[Next]=00:20:07;
+
+

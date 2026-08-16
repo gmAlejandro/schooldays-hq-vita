@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:07:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	00:13:23;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-F04/SE02-2K-F04-001	00:13:23;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-F04/02-2K-F04-001	00:13:23;
+
+[PrintText]=00:00:00	Makoto	Hueles bien.	00:02:15;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-F04/02-2K-F04-0030	1	mak	00:02:15;
+
+[PrintText]=00:02:16	Kotonoha	G-Gracias.	00:04:22;
+
+[PlayVoice]=00:02:16	Voice02/02-2K/02-2K-F04/02-2K-F04-0040	0	kot	00:04:22;
+
+[PrintText]=00:04:22	Makoto	Kotonoha...	00:06:00;
+
+[PlayVoice]=00:04:22	Voice02/02-2K/02-2K-F04/02-2K-F04-0050	1	mak	00:06:00;
+
+[PrintText]=00:06:00	Kotonoha	¿S...Sí?^	00:07:09;
+
+[PlayVoice]=00:06:00	Voice02/02-2K/02-2K-F04/02-2K-F04-0060	0	kot	00:07:09;
+
+[SetSELECT]=00:07:19	'Te amo'	null	00:12:19;
+
+ ;
+
+[Next]=00:13:23;
+
+
+
+

@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:10:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:10:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-D01/03-SB-D01-001	00:03:20;
+
+[PrintText]=00:00:00	Makoto	Es de Kotonoha.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-D01/03-SB-D01-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:08	Sekai	¿Eh...?^	00:01:20;
+
+[PlayVoice]=00:01:08	Voice03/03-SB/03-SB-D01/03-SB-D01-0040	0	sek	00:01:20;
+
+[PrintText]=00:01:20	Makoto	Lo siento, te llamaré después.	00:03:19;
+
+[PlayVoice]=00:01:20	Voice03/03-SB/03-SB-D01/03-SB-D01-0050	1	mak	00:03:19;
+
+[CreateBG]=00:03:20	BGS	Event03/03-SB/03-SB-D01/03-SB-D01-001B	00:06:21;
+
+[PrintText]=00:03:20	Sekai	E-Está bien, iré a darme un baño ahora.	00:06:21;
+
+[PlayVoice]=00:03:20	Voice03/03-SB/03-SB-D01/03-SB-D01-0060	0	sek	00:06:21;
+
+[CreateBG]=00:06:21	BGS	Event03/03-SB/03-SB-D01/03-SB-D01-001C	00:08:19;
+
+[PrintText]=00:06:21	Makoto	Asegúrate de lavarte también ahí adentro.	00:08:18;
+
+[PlayVoice]=00:06:21	Voice03/03-SB/03-SB-D01/03-SB-D01-0070	1	mak	00:08:18;
+
+[PrintText]=00:08:18	Sekai	Pervertido.	00:09:17;
+
+[PlayVoice]=00:08:18	Voice03/03-SB/03-SB-D01/03-SB-D01-0080	0	sek	00:09:17;
+
+[CreateBG]=00:08:19	BGS	Event03/03-SB/03-SB-D01/03-SB-D01-001D	00:10:00;
+
+ ;
+
+[Next]=00:10:00;
+
+

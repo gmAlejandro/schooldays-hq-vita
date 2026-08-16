@@ -1,0 +1,135 @@
+﻿[SkipFRAME]=01:21:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	01:21:04;
+
+[PlaySe]=00:00:00	1	Se01/01-1K/01-1K-E01/SE01-1K-E01-001	01:21:04;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-E01/01-1K-E01-001	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Event01/01-1K/01-1K-E01/01-1K-E01-001B	00:04:07;
+
+[PrintText]=00:01:00	Kotonoha	U-um, Makoto-kun...	00:04:16;
+
+[PlayVoice]=00:01:00	Voice01/01-1K/01-1K-E01/01-1K-E01-0060	0	kot	00:04:16;
+
+[CreateBG]=00:04:07	BGS	Event01/01-1K/01-1K-E01/01-1K-E01-001C	00:24:11;
+
+[PrintText]=00:04:07	Makoto	¿Hmn?^	00:04:20;
+
+[PlayVoice]=00:04:07	Voice01/01-1K/01-1K-E01/01-1K-E01-0070	1	mak	00:04:20;
+
+[PrintText]=00:05:05	Kotonoha	¿E-es esto lo que vamos a ver?^	00:07:14;
+
+[PlayVoice]=00:05:05	Voice01/01-1K/01-1K-E01/01-1K-E01-0080	0	kot	00:07:14;
+
+[PrintText]=00:07:12	Makoto	¿Se ve interesante no?^	00:08:16;
+
+[PlayVoice]=00:07:12	Voice01/01-1K/01-1K-E01/01-1K-E01-0090	1	mak	00:08:16;
+
+[PrintText]=00:08:22	Kotonoha	Sí... Supongo.	00:11:21;
+
+[PlayVoice]=00:08:22	Voice01/01-1K/01-1K-E01/01-1K-E01-0100	0	kot	00:11:21;
+
+[PrintText]=00:12:01	Makoto	Bueno, yo pienso que se ve interesante...	00:14:05;
+
+[PlayVoice]=00:12:01	Voice01/01-1K/01-1K-E01/01-1K-E01-0110	1	mak	00:14:05;
+
+[PrintText]=00:14:09	Kotonoha	Ya veo...	00:15:23;
+
+[PlayVoice]=00:14:09	Voice01/01-1K/01-1K-E01/01-1K-E01-0120	0	kot	00:15:23;
+
+[PrintText]=00:16:00	Makoto	Venga... Vamos.	00:17:07;
+
+[PlayVoice]=00:16:00	Voice01/01-1K/01-1K-E01/01-1K-E01-0130	1	mak	00:17:07;
+
+[PrintText]=00:17:06	Kotonoha	Ah, Makoto-kun.	00:19:12;
+
+[PlayVoice]=00:17:06	Voice01/01-1K/01-1K-E01/01-1K-E01-0140	0	kot	00:19:12;
+
+[PrintText]=00:19:04	Makoto	¿Hmn?^	00:19:17;
+
+[PlayVoice]=00:19:04	Voice01/01-1K/01-1K-E01/01-1K-E01-0150	1	mak	00:19:17;
+
+[PrintText]=00:20:02	Kotonoha	Acabo de ver el anuncio.	00:22:13;
+
+[PlayVoice]=00:20:02	Voice01/01-1K/01-1K-E01/01-1K-E01-0160	0	kot	00:22:13;
+
+[PrintText]=00:22:10	Makoto	¿Eh? ¿Qué dice?^	00:24:08;
+
+[PlayVoice]=00:22:10	Voice01/01-1K/01-1K-E01/01-1K-E01-0170	1	mak	00:24:08;
+
+[CreateBG]=00:24:11	BGS	Event01/01-1K/01-1K-E01/01-1K-E01-001	00:51:07;
+
+[PrintText]=00:24:13	Kotonoha	Dice, 'No estudiantes'...	00:26:19;
+
+[PlayVoice]=00:24:13	Voice01/01-1K/01-1K-E01/01-1K-E01-0180	0	kot	00:26:19;
+
+[PrintText]=00:26:23	Makoto	Hmmn... 'Los estudiantes y homosexuales no están admitidos, busquen su posición.' ...¿Qué es eso de posición?^	00:40:09;
+
+[PlayVoice]=00:26:23	Voice01/01-1K/01-1K-E01/01-1K-E01-0190	1	mak	00:40:09;
+
+[PrintText]=00:40:14	Kotonoha	¿Quién sabe...? de cualquier manera, eso significa que no podremos entrar.	00:46:10;
+
+[PlayVoice]=00:40:14	Voice01/01-1K/01-1K-E01/01-1K-E01-0200	0	kot	00:46:10;
+
+[PrintText]=00:46:12	Makoto	Sí... tenemos que ver otro.	00:49:17;
+
+[PlayVoice]=00:46:12	Voice01/01-1K/01-1K-E01/01-1K-E01-0210	1	mak	00:49:17;
+
+[PrintText]=00:49:21	Kotonoha	Phew.	00:51:05;
+
+[PlayVoice]=00:49:21	Voice01/01-1K/01-1K-E01/01-1K-E01-0220	0	kot	00:51:05;
+
+[CreateBG]=00:51:07	BGS	Event01/01-1K/01-1K-E01/01-1K-E01-001E	00:54:02;
+
+[PrintText]=00:51:07	Makoto	En ese caso... veamos Nemo.	00:54:03;
+
+[PlayVoice]=00:51:07	Voice01/01-1K/01-1K-E01/01-1K-E01-0230	1	mak	00:54:03;
+
+[CreateBG]=00:54:02	BGS	Event01/01-1K/01-1K-E01/01-1K-E01-001F	01:15:16;
+
+[PrintText]=00:54:02	Kotonoha	¿Eh? ¿Nemo?^	00:56:06;
+
+[PlayVoice]=00:54:02	Voice01/01-1K/01-1K-E01/01-1K-E01-0240	0	kot	00:56:06;
+
+[PrintText]=00:56:05	Makoto	'Peleando con Nemo'. Es una parodia acerca de un capitán pirata, parece bueno.	01:01:05;
+
+[PlayVoice]=00:56:05	Voice01/01-1K/01-1K-E01/01-1K-E01-0250	1	mak	01:01:05;
+
+[PrintText]=01:01:07	Kotonoha	Ah... en ese caso, está bien.	01:04:10;
+
+[PlayVoice]=01:01:07	Voice01/01-1K/01-1K-E01/01-1K-E01-0260	0	kot	01:04:10;
+
+[PrintText]=01:04:12	Makoto	Aunque es un poco infantil.	01:07:14;
+
+[PlayVoice]=01:04:12	Voice01/01-1K/01-1K-E01/01-1K-E01-0270	1	mak	01:07:14;
+
+[PrintText]=01:07:13	Kotonoha	¿Sí?^	01:08:22;
+
+[PlayVoice]=01:07:13	Voice01/01-1K/01-1K-E01/01-1K-E01-0280	0	kot	01:08:22;
+
+[PrintText]=01:09:06	Makoto	Pero, Sekai me dijo que estaba bien, así que de seguro será interesante.	01:13:12;
+
+[PlayVoice]=01:09:06	Voice01/01-1K/01-1K-E01/01-1K-E01-0290	1	mak	01:13:12;
+
+[PrintText]=01:13:18	Kotonoha	Saionji-san...	01:15:11;
+
+[PlayVoice]=01:13:18	Voice01/01-1K/01-1K-E01/01-1K-E01-0300	0	kot	01:15:11;
+
+[CreateBG]=01:15:16	BGS	Event01/01-1K/01-1K-E01/01-1K-E01-001	01:21:04;
+
+[PrintText]=01:15:17	Makoto	Venga, Vamos. No falta mucho para que empiece 'Peleando con Nemo'.	01:19:13;
+
+[PlayVoice]=01:15:17	Voice01/01-1K/01-1K-E01/01-1K-E01-0310	1	mak	01:19:13;
+
+[PrintText]=01:19:14	Kotonoha	Ah, está bien.	01:20:22;
+
+[PlayVoice]=01:19:14	Voice01/01-1K/01-1K-E01/01-1K-E01-0320	0	kot	01:20:22;
+
+ ;
+
+[Next]=01:21:04;
+
+
+
+

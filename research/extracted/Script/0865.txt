@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=00:27:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:27:22;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-K00/SE03-SB-K00-001	00:27:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-L00/03-SB-L00-001	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Event03/03-SB/03-SB-K00/03-SB-K00-002	00:04:15;
+
+[PrintText]=00:01:00	Makoto	¿Vamos?^	00:02:09;
+
+[PlayVoice]=00:01:00	Voice03/03-SB/03-SB-K00/03-SB-K00-0030	1	mak	00:02:09;
+
+[PrintText]=00:02:09	Sekai	Bueno... se está haciendo tarde, y no hay mucho que hacer.	00:08:16;
+
+[PlayVoice]=00:02:09	Voice03/03-SB/03-SB-K00/03-SB-K00-0040	0	sek	00:08:16;
+
+[CreateBG]=00:04:15	BGS	Event03/03-SB/03-SB-K00/03-SB-K00-002B	00:08:17;
+
+[PrintText]=00:08:16	Makoto	Sí...	00:10:03;
+
+[PlayVoice]=00:08:16	Voice03/03-SB/03-SB-K00/03-SB-K00-0050	1	mak	00:10:03;
+
+[CreateBG]=00:08:17	BGS	Event03/03-SB/03-SB-K00/03-SB-K00-002C	00:11:19;
+
+[PrintText]=00:10:03	Sekai	Hmmn.	00:11:18;
+
+[PlayVoice]=00:10:03	Voice03/03-SB/03-SB-K00/03-SB-K00-0060	0	sek	00:11:18;
+
+[PrintText]=00:11:18	Makoto	Bueno, un lugar calmada sería ideal.	00:15:17;
+
+[PlayVoice]=00:11:18	Voice03/03-SB/03-SB-K00/03-SB-K00-0070	1	mak	00:15:17;
+
+[CreateBG]=00:11:19	BGS	Event03/03-SB/03-SB-K00/03-SB-K00-003	00:15:18;
+
+[PrintText]=00:15:17	Sekai	Un lugar calmado, huh... ah, ya sé.	00:20:03;
+
+[PlayVoice]=00:15:17	Voice03/03-SB/03-SB-K00/03-SB-K00-0080	0	sek	00:20:03;
+
+[CreateBG]=00:15:18	BGS	Event03/03-SB/03-SB-K00/03-SB-K00-004	00:20:03;
+
+[PrintText]=00:20:02	Makoto	¿Hmn? ¿Hay un lugar así?^	00:22:07;
+
+[PlayVoice]=00:20:02	Voice03/03-SB/03-SB-K00/03-SB-K00-0090	1	mak	00:22:07;
+
+[CreateBG]=00:20:03	BGS	Event03/03-SB/03-SB-K00/03-SB-K00-005	00:22:08;
+
+[PrintText]=00:22:07	Sekai	Uh-huh.	00:22:23;
+
+[PlayVoice]=00:22:07	Voice03/03-SB/03-SB-K00/03-SB-K00-0100	0	sek	00:22:23;
+
+[CreateBG]=00:22:08	BGS	Event03/03-SB/03-SB-K00/03-SB-K00-006	00:23:19;
+
+[PrintText]=00:22:23	Makoto	¿Dónde?^	00:23:18;
+
+[PlayVoice]=00:22:23	Voice03/03-SB/03-SB-K00/03-SB-K00-0110	1	mak	00:23:18;
+
+[PrintText]=00:23:18	Sekai	Ufufu... el lugar de siempre.	00:26:14;
+
+[PlayVoice]=00:23:18	Voice03/03-SB/03-SB-K00/03-SB-K00-0120	0	sek	00:26:14;
+
+[CreateBG]=00:23:19	BGS	Event03/03-SB/03-SB-K00/03-SB-K00-007	00:27:22;
+
+ ;
+
+[Next]=00:27:22;
+
+

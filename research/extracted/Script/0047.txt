@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:23:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:23:17;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E04/SE01-00-E04-001	00:23:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-E04/01-00-E04-001	00:09:18;
+
+[PrintText]=00:00:12	Kotonoha	¿Algo pasó con Saionji-san?^	00:03:13;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-E04/01-00-E04-0030	0	kot	00:03:13;
+
+[PrintText]=00:03:21	Makoto	Realmente no, pero está actuando extraña.	00:08:14;
+
+[PlayVoice]=00:03:21	Voice01/01-00/01-00-E04/01-00-E04-0040	1	mak	00:08:14;
+
+[PrintText]=00:08:17	Kotonoha	¿Extraña?^	00:09:15;
+
+[PlayVoice]=00:08:17	Voice01/01-00/01-00-E04/01-00-E04-0050	0	kot	00:09:15;
+
+[CreateBG]=00:09:18	BGS	Event01/01-00/01-00-E04/01-00-E04-002	00:17:16;
+
+[PrintText]=00:09:20	Makoto	Ella insistió en no venir, tal vez ya no le caigo bien.	00:14:08;
+
+[PlayVoice]=00:09:20	Voice01/01-00/01-00-E04/01-00-E04-0060	1	mak	00:14:08;
+
+[PrintText]=00:14:05	Kotonoha	Yo no lo creo.	00:16:12;
+
+[PlayVoice]=00:14:05	Voice01/01-00/01-00-E04/01-00-E04-0070	0	kot	00:16:12;
+
+[PrintText]=00:16:12	Makoto	¿En serio?^	00:17:10;
+
+[PlayVoice]=00:16:12	Voice01/01-00/01-00-E04/01-00-E04-0080	1	mak	00:17:10;
+
+[CreateBG]=00:17:16	BGS	Event01/01-00/01-00-E04/01-00-E04-003	00:21:10;
+
+[PrintText]=00:17:21	Kotonoha	Creo que Saionji-san está solo...	00:20:19;
+
+[PlayVoice]=00:17:21	Voice01/01-00/01-00-E04/01-00-E04-0090	0	kot	00:20:19;
+
+[CreateBG]=00:21:10	BGS	Event01/01-00/01-00-E04/01-00-E04-004	00:23:17;
+
+[PrintText]=00:21:10	Makoto	¿...?^	00:22:00;
+
+[PlayVoice]=00:21:10	Voice01/01-00/01-00-E04/01-00-E04-0110	1	mak	00:22:00;
+
+[BlackFade]=00:22:17	OUT	00:23:17;
+
+ ;
+
+[Next]=00:23:17;
+
+
+
+

@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:16:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:16:20;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G02/SE03-KA-G02-001	00:16:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G02/03-KA-G02-001	00:02:06;
+
+[PrintText]=00:00:11	Makoto	Bien.	00:01:21;
+
+[PlayVoice]=00:00:11	Voice03/03-KA/03-KA-G02/03-KA-G02-0030	1	mak	00:01:21;
+
+[CreateBG]=00:02:06	BGS	Event03/03-KA/03-KA-G02/03-KA-G02-002	00:04:17;
+
+[CreateBG]=00:04:17	BGS	Event03/03-KA/03-KA-G02/03-KA-G02-003	00:05:23;
+
+[CreateBG]=00:05:23	BGS	Ini/Event03/03-KA/03-KA-G02/03-KA-G02-004	00:09:22;
+
+#[PrintText]=00:05:23	Makoto	Para: Katsura Kotonoha\nMsg: Perdón\nTengo una Reunión. No creo que pueda estar en el almuerzo. Lo siento.	00:09:21;
+
+[CreateBG]=00:09:22	BGS	Event03/03-KA/03-KA-G02/03-KA-G02-006	00:14:22;
+
+[PrintText]=00:10:05	Setsuna	...¿Listo?^	00:11:00;
+
+[PlayVoice]=00:10:05	Voice03/03-KA/03-KA-G02/03-KA-G02-0070	0	set	00:11:00;
+
+[PlayMovie]=00:14:22	Movie03/03-KA/03-KA-G02/03-KA-G02-006	0	00:16:20;
+
+[PrintText]=00:15:02	Makoto	Sí.	00:15:19;
+
+[PlayVoice]=00:15:02	Voice03/03-KA/03-KA-G02/03-KA-G02-0080	1	mak	00:15:19;
+
+[BlackFade]=00:15:20	OUT	00:16:20;
+
+ ;
+
+[Next]=00:16:20;
+
+

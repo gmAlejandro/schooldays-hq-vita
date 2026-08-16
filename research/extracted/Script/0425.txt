@@ -1,0 +1,115 @@
+﻿[SkipFRAME]=01:07:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:07:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-E03/03-A1-E03-001	00:05:03;
+
+[PrintText]=00:00:00	Makoto	...	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-E03/03-A1-E03-0030	1	xxx	00:01:00;
+
+[PrintText]=00:01:00	Setsuna	Bestia.	00:02:05;
+
+[PlayVoice]=00:01:00	Voice03/03-A1/03-A1-E03/03-A1-E03-0040	0	set	00:02:05;
+
+[PrintText]=00:02:05	Makoto	¡No hice nada de lo que te imaginas!	00:05:03;
+
+[PlayVoice]=00:02:05	Voice03/03-A1/03-A1-E03/03-A1-E03-0050	1	mak	00:05:03;
+
+[CreateBG]=00:05:03	BGS	Event03/03-A1/03-A1-E01/03-A1-E01-003	00:09:18;
+
+[PrintText]=00:05:03	Setsuna	¿Y qué estoy imaginando?^	00:07:14;
+
+[PlayVoice]=00:05:03	Voice03/03-A1/03-A1-E03/03-A1-E03-0060	0	set	00:07:14;
+
+[PrintText]=00:07:14	Makoto	...	00:09:18;
+
+[PlayVoice]=00:07:14	Voice03/03-A1/03-A1-E03/03-A1-E03-0070	1	xxx	00:09:18;
+
+[PrintText]=00:09:17	Setsuna	Entonces, ¿Katsura-san se asustó y se resintió después de que la agrediste, por lo que empezaste a salir con Sekai?^	00:16:17;
+
+[PlayVoice]=00:09:17	Voice03/03-A1/03-A1-E03/03-A1-E03-0080	0	set	00:16:17;
+
+[CreateBG]=00:09:18	BGS	Event03/03-A1/03-A1-E03/03-A1-E03-003	00:23:06;
+
+[PrintText]=00:16:17	Makoto	No la agre... espera ¿Qué?^	00:21:04;
+
+[PlayVoice]=00:16:17	Voice03/03-A1/03-A1-E03/03-A1-E03-0090	1	mak	00:21:04;
+
+[PrintText]=00:21:04	Setsuna	¿Recordaste cuando la agrediste?^	00:23:05;
+
+[PlayVoice]=00:21:04	Voice03/03-A1/03-A1-E03/03-A1-E03-0100	0	set	00:23:05;
+
+[PrintText]=00:23:05	Makoto	No, lo has entendido mal.	00:26:23;
+
+[PlayVoice]=00:23:05	Voice03/03-A1/03-A1-E03/03-A1-E03-0110	1	mak	00:26:23;
+
+[CreateBG]=00:23:06	BGS	Event03/03-A1/03-A1-E03/03-A1-E03-004	00:27:23;
+
+[PrintText]=00:26:23	Setsuna	¿Qué entendí mal?^	00:27:22;
+
+[PlayVoice]=00:26:23	Voice03/03-A1/03-A1-E03/03-A1-E03-0120	0	set	00:27:22;
+
+[CreateBG]=00:27:23	BGS	Event03/03-A1/03-A1-E03/03-A1-E03-005	00:33:23;
+
+[PrintText]=00:27:23	Makoto	Lo único que a pasado es que, empecé a salir con Kotonoha después de que Sekai me dejara.	00:33:01;
+
+[PlayVoice]=00:27:23	Voice03/03-A1/03-A1-E03/03-A1-E03-0130	1	mak	00:33:01;
+
+[PrintText]=00:33:00	Setsuna	¿Eh...?^	00:33:16;
+
+[PlayVoice]=00:33:00	Voice03/03-A1/03-A1-E03/03-A1-E03-0140	0	set	00:33:16;
+
+[WhiteFade]=00:33:17	OUT	00:33:23;
+
+[CreateBG]=00:33:23	BGS	Event03/03-A1/03-A1-E03/03-A1-E03-006	00:44:14;
+
+[WhiteFade]=00:33:23	IN	00:34:05;
+
+[PrintText]=00:34:05	Makoto	Regresando a cuando Sekai me ayudo con Kotonoha, y estábamos muy distantes cuando empezamos a salir...	00:39:03;
+
+[PlayVoice]=00:34:05	Voice03/03-A1/03-A1-E03/03-A1-E03-0150	1	mak	00:43:07;
+
+[PrintText]=00:39:03	Makoto	Supe que realmente quería a Sekai...	00:43:07;
+
+[PrintText]=00:43:04	Setsuna	¿Te ayudo...?^	00:44:07;
+
+[PlayVoice]=00:43:04	Voice03/03-A1/03-A1-E03/03-A1-E03-0160	0	set	00:44:07;
+
+[WhiteFade]=00:44:08	OUT	00:44:14;
+
+[CreateBG]=00:44:14	BGS	Event03/03-A1/03-A1-E03/03-A1-E03-007	00:57:11;
+
+[WhiteFade]=00:44:14	IN	00:44:20;
+
+[PrintText]=00:44:20	Makoto	Cuando le dije a Sekai que la quería, ella dijo que también sentía lo mismo por mí,	00:50:05;
+
+[PlayVoice]=00:44:20	Voice03/03-A1/03-A1-E03/03-A1-E03-0170	1	mak	00:50:05;
+
+[PrintText]=00:50:14	Makoto	Pero cuando supo que Kotonoha realmente sentía algo por mí, Sekai me dijo que saliera con ella...	00:55:21;
+
+[PlayVoice]=00:50:14	Voice03/03-A1/03-A1-E03/03-A1-E03-0171	1	mak	00:55:21;
+
+[PrintText]=00:55:23	Setsuna	Qué complicado.	00:57:08;
+
+[PlayVoice]=00:55:23	Voice03/03-A1/03-A1-E03/03-A1-E03-0180	0	set	00:57:08;
+
+[CreateBG]=00:57:11	BGS	Event03/03-A1/03-A1-E03/03-A1-E03-008	01:07:17;
+
+[PrintText]=00:57:14	Makoto	Sí... también lo creo así.	01:03:20;
+
+[PlayVoice]=00:57:14	Voice03/03-A1/03-A1-E03/03-A1-E03-0190	1	mak	01:03:20;
+
+[PrintText]=01:03:18	Setsuna	¿Y entonces?^	01:04:17;
+
+[PlayVoice]=01:03:18	Voice03/03-A1/03-A1-E03/03-A1-E03-0200	0	set	01:04:17;
+
+[PrintText]=01:05:00	Makoto	Oh, cierto.	01:07:08;
+
+[PlayVoice]=01:05:00	Voice03/03-A1/03-A1-E03/03-A1-E03-0210	1	mak	01:07:08;
+
+ ;
+
+[Next]=01:07:17;
+
+

@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:15:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:15:14;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-B07/04-KB-B07-001	00:01:00;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-B07/04-KB-B07-0030	1	xxx	00:00:23;
+
+[PrintText]=00:00:23	Makoto	Sus pechos son tan grandes y suaves, y están justo en frente de mí... pero...	00:05:23;
+
+[PlayVoice]=00:00:23	Voice04/04-KB/04-KB-B07/04-KB-B07-0040	1	xxx	00:05:23;
+
+[CreateBG]=00:01:00	BGS	Event04/04-KB/04-KB-B07/04-KB-B07-002	00:10:14;
+
+[PrintText]=00:05:23	Makoto	Ella no me deja hacer nada desde el festival...	00:10:13;
+
+[PlayVoice]=00:05:23	Voice04/04-KB/04-KB-B07/04-KB-B07-0050	1	xxx	00:10:13;
+
+[PrintText]=00:10:13	Kotonoha	¿...Makoto-kun?^	00:11:17;
+
+[PlayVoice]=00:10:13	Voice04/04-KB/04-KB-B07/04-KB-B07-0060	0	kot	00:11:17;
+
+[PlayMovie]=00:10:14	Movie04/04-KB/04-KB-B07/04-KB-B07-003	0	00:15:14;
+
+[PrintText]=00:14:12	Kotonoha	¿Eh?!	00:15:08;
+
+[PlayVoice]=00:14:12	Voice04/04-KB/04-KB-B07/04-KB-B07-0080	0	kot	00:15:08;
+
+ ;
+
+[Next]=00:15:14;
+
+

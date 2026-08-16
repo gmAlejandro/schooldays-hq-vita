@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:27:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:27:16;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-D02/05-SE-D02-001	00:10:20;
+
+[PrintText]=00:00:00	Makoto	No gracias.	00:02:16;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-D02/05-KF-D02-0030	1	mak	00:02:16;
+
+[PrintText]=00:02:16	Kotonoha	¿Eh?^	00:03:12;
+
+[PlayVoice]=00:02:16	Voice05/05-KF/05-KF-D02/05-KF-D02-0040	0	kot	00:03:12;
+
+[PrintText]=00:03:12	Makoto	¿Por qué debería ir a la clase 4 y comer en frente de Katou y sus amigas?^	00:10:21;
+
+[PlayVoice]=00:03:12	Voice05/05-KF/05-KF-D02/05-KF-D02-0050	1	mak	00:10:21;
+
+[CreateBG]=00:10:20	BGS	Event05/05-SE/05-SE-D02/05-SE-D02-002	00:19:20;
+
+[PrintText]=00:10:21	Kotonoha	Ah... bueno, no estarías comiendo con ellas.	00:15:04;
+
+[PlayVoice]=00:10:21	Voice05/05-KF/05-KF-D02/05-KF-D02-0060	0	kot	00:15:04;
+
+[PrintText]=00:15:04	Makoto	No hablo de eso.	00:19:01;
+
+[PlayVoice]=00:15:04	Voice05/05-KF/05-KF-D02/05-KF-D02-0070	1	mak	00:19:01;
+
+[PrintText]=00:19:01	Kotonoha	...Vale.	00:19:21;
+
+[PlayVoice]=00:19:01	Voice05/05-KF/05-KF-D02/05-KF-D02-0080	0	kot	00:19:21;
+
+[CreateBG]=00:19:20	BGS	Event02/02-2S/02-2S-H00/02-2S-H00-001	00:27:16;
+
+[PrintText]=00:19:21	Makoto	Prefiero no ir a hacer un espectáculo de mi mismo.	00:23:18;
+
+[PlayVoice]=00:19:21	Voice05/05-KF/05-KF-D02/05-KF-D02-0090	1	mak	00:23:18;
+
+[PrintText]=00:23:18	Kotonoha	...vale.	00:24:12;
+
+[PlayVoice]=00:23:18	Voice05/05-KF/05-KF-D02/05-KF-D02-0100	0	kot	00:24:12;
+
+[PrintText]=00:24:12	Makoto	Eso es todo.	00:26:19;
+
+[PlayVoice]=00:24:12	Voice05/05-KF/05-KF-D02/05-KF-D02-0110	1	mak	00:26:19;
+
+[PrintText]=00:26:19	Kotonoha	...	00:27:07;
+
+[PlayVoice]=00:26:19	Voice05/05-KF/05-KF-D02/05-KF-D02-0120	0	xxx	00:27:07;
+
+ ;
+
+[Next]=00:27:16;
+
+
+
+

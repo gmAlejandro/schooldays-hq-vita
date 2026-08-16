@@ -1,0 +1,165 @@
+﻿[SkipFRAME]=02:23:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	01:47:17;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-K05/SE03-BK-K05-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-001	00:05:14;
+
+[PrintText]=00:00:00	Makoto	Será difícil volver a clases.	00:02:03;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-K05/03-BK-K05-0030	1	mak	00:02:03;
+
+[PrintText]=00:02:03	Kotonoha	¿Deberíamos saltarnos las clases entonces?^	00:05:14;
+
+[PlayVoice]=00:02:03	Voice03/03-BK/03-BK-K05/03-BK-K05-0040	0	kot	00:05:14;
+
+[CreateBG]=00:05:14	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-002	00:14:03;
+
+[PrintText]=00:05:14	Makoto	Hey, ahora...	00:06:20;
+
+[PlayVoice]=00:05:14	Voice03/03-BK/03-BK-K05/03-BK-K05-0050	1	mak	00:06:20;
+
+[PrintText]=00:06:20	Kotonoha	Yo estaría feliz de estar aquí, contigo, siempre.	00:11:10;
+
+[PlayVoice]=00:06:20	Voice03/03-BK/03-BK-K05/03-BK-K05-0060	0	kot	00:11:10;
+
+[PrintText]=00:11:10	Makoto	Eso no es algo que una representante de clase pueda decir.	00:14:02;
+
+[PlayVoice]=00:11:10	Voice03/03-BK/03-BK-K05/03-BK-K05-0070	1	mak	00:14:02;
+
+[PrintText]=00:14:02	Kotonoha	Ser tu novia está antes de ser representante de clase.	00:18:03;
+
+[PlayVoice]=00:14:02	Voice03/03-BK/03-BK-K05/03-BK-K05-0080	0	kot	00:18:03;
+
+[CreateBG]=00:14:03	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-003	00:24:09;
+
+[PrintText]=00:18:03	Makoto	Haha... Pues bien. Saltémonos la clase.	00:24:09;
+
+[PlayVoice]=00:18:03	Voice03/03-BK/03-BK-K05/03-BK-K05-0090	1	mak	00:24:09;
+
+[CreateBG]=00:24:09	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	00:37:12;
+
+[PrintText]=00:24:09	Kotonoha	Sin embargo, hay una cosa...	00:27:01;
+
+[PlayVoice]=00:24:09	Voice03/03-BK/03-BK-K05/03-BK-K05-0100	0	kot	00:27:01;
+
+[PrintText]=00:27:01	Makoto	¿Hmn?^	00:27:15;
+
+[PlayVoice]=00:27:01	Voice03/03-BK/03-BK-K05/03-BK-K05-0110	1	mak	00:27:15;
+
+[PrintText]=00:28:04	Kotonoha	Por favor, prométeme una cosa. Si lo haces, estaré feliz de saltarme las clases contigo.	00:35:07;
+
+[PlayVoice]=00:28:04	Voice03/03-BK/03-BK-K05/03-BK-K05-0120	0	kot	00:35:07;
+
+[PrintText]=00:35:07	Makoto	Haha... ¿Qué pasa?^	00:37:03;
+
+[PlayVoice]=00:35:07	Voice03/03-BK/03-BK-K05/03-BK-K05-0130	1	mak	00:37:03;
+
+[CreateBG]=00:37:12	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-005	00:52:15;
+
+[PrintText]=00:37:16	Kotonoha	...No beses a nadie más que a mí.	00:40:21;
+
+[PlayVoice]=00:37:16	Voice03/03-BK/03-BK-K05/03-BK-K05-0140	0	kot	00:40:21;
+
+[PrintText]=00:41:00	Makoto	¿Huh?^	00:41:14;
+
+[PlayVoice]=00:41:00	Voice03/03-BK/03-BK-K05/03-BK-K05-0150	1	mak	00:41:14;
+
+[PrintText]=00:42:00	Kotonoha	Besaste a alguien... en la piscina.	00:47:08;
+
+[PlayVoice]=00:42:00	Voice03/03-BK/03-BK-K05/03-BK-K05-0160	0	kot	00:47:08;
+
+[PrintText]=00:47:11	Makoto	E-Eso fue...	00:49:16;
+
+[PlayVoice]=00:47:11	Voice03/03-BK/03-BK-K05/03-BK-K05-0170	1	mak	00:49:16;
+
+[PrintText]=00:49:03	Kotonoha	Lo sé. Te forzaron...	00:52:12;
+
+[PlayVoice]=00:49:03	Voice03/03-BK/03-BK-K05/03-BK-K05-0180	0	kot	00:52:12;
+
+[CreateBG]=00:52:15	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-006	01:00:08;
+
+[PrintText]=00:52:18	Makoto	...	00:53:21;
+
+[PlayVoice]=00:52:18	Voice03/03-BK/03-BK-K05/03-BK-K05-0190	1	xxx	00:53:21;
+
+[PrintText]=00:54:02	Kotonoha	Pero aún así... eso me hace sentir horrible.	00:57:15;
+
+[PlayVoice]=00:54:02	Voice03/03-BK/03-BK-K05/03-BK-K05-0200	0	kot	00:57:15;
+
+[PrintText]=00:57:20	Makoto	Perdóname.	00:58:15;
+
+[PlayVoice]=00:57:20	Voice03/03-BK/03-BK-K05/03-BK-K05-0210	1	mak	00:58:15;
+
+[PrintText]=00:59:00	Kotonoha	...	01:00:02;
+
+[PlayVoice]=00:59:00	Voice03/03-BK/03-BK-K05/03-BK-K05-0220	0	xxx	01:00:02;
+
+[CreateBG]=01:00:08	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-007	01:08:02;
+
+[PrintText]=01:00:10	Makoto	Te prometo que no besaré a nadie más.	01:03:04;
+
+[PlayVoice]=01:00:10	Voice03/03-BK/03-BK-K05/03-BK-K05-0230	1	mak	01:03:04;
+
+[PrintText]=01:03:08	Kotonoha	Bien.	01:04:01;
+
+[PlayVoice]=01:03:08	Voice03/03-BK/03-BK-K05/03-BK-K05-0240	0	kot	01:04:01;
+
+[PrintText]=01:04:19	Makoto	¿Es por eso que estabas molesta ayer?^	01:07:22;
+
+[PlayVoice]=01:04:19	Voice03/03-BK/03-BK-K05/03-BK-K05-0250	1	mak	01:07:22;
+
+[PlaySe]=01:07:23	2	Se03/03-BK/03-BK-K05/SE03-BK-K05-001	01:40:18;
+
+[CreateBG]=01:08:02	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-008	01:10:10;
+
+[PlayVoice]=01:08:03	Voice03/03-BK/03-BK-K05/03-BK-K05-0260			01:08:16;
+
+[PrintText]=01:08:22	Makoto	Ya veo...	01:10:01;
+
+[PlayVoice]=01:08:22	Voice03/03-BK/03-BK-K05/03-BK-K05-0270	1	mak	01:10:01;
+
+[CreateBG]=01:10:10	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	01:20:00;
+
+[PrintText]=01:10:11	Kotonoha	...está bien, después de todo me amas.	01:17:14;
+
+[PlayVoice]=01:10:11	Voice03/03-BK/03-BK-K05/03-BK-K05-0280	0	kot	01:17:14;
+
+[PrintText]=01:17:16	Makoto	Haha...	01:18:16;
+
+[PlayVoice]=01:17:16	Voice03/03-BK/03-BK-K05/03-BK-K05-0290	1	mak	01:18:16;
+
+[PrintText]=01:18:11	Kotonoha	Ufufu...	01:19:21;
+
+[PlayVoice]=01:18:11	Voice03/03-BK/03-BK-K05/03-BK-K05-0300	0	kot	01:19:21;
+
+[CreateBG]=01:20:00	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-010	01:26:08;
+
+[PrintText]=01:20:04	Makoto	Ese día, los dos no fuimos a clase y nos divertimos...	01:25:20;
+
+[PlayVoice]=01:20:04	Voice03/03-BK/03-BK-K05/03-BK-K05-0310	1	xxx	01:25:20;
+
+[CreateBG]=01:26:08	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-011	01:33:01;
+
+[PrintText]=01:26:20	Makoto	Al siguiente día, fuimos regañados por los profesores.	01:31:15;
+
+[PlayVoice]=01:26:20	Voice03/03-BK/03-BK-K05/03-BK-K05-0320	1	xxx	01:38:20;
+
+[PrintText]=01:31:15	Makoto	A partir de entonces, toda la escuela sabe que Kotonoha y yo somos pareja...	01:38:20;
+
+[CreateBG]=01:33:01	BGS	Event03/03-BK/03-BK-K05/03-BK-K05-012	01:40:20;
+
+[EndBGM]=01:38:02	BGM/Vocal/SDV04	03:48:19;
+
+[BlackFade]=01:38:20	OUT	01:40:20;
+
+[CreateBG]=01:40:20	BGS	Ini/EndRoll/03-06	01:43:00;
+
+[EndRoll]=01:43:00	Ini/EndRoll/NORMAL	02:23:00;
+
+ ;
+
+[Next]=02:23:00;
+
+

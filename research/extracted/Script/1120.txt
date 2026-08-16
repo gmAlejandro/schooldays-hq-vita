@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:28:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:34:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-I04/04-SA-I04-001	00:02:05;
+
+[PrintText]=00:01:10	Itaru	¡Onii-chan! ¡Gracias!	00:03:09;
+
+[PlayVoice]=00:01:10	Voice04/04-SA/04-SA-I04/04-SA-I04-0040	0	ita	00:03:09;
+
+[CreateBG]=00:02:05	BGS	Event04/04-SA/04-SA-I04/04-SA-I04-002	00:05:04;
+
+[PrintText]=00:03:09	Makoto	De nada.	00:04:10;
+
+[PlayVoice]=00:03:09	Voice04/04-SA/04-SA-I04/04-SA-I04-0050	1	mak	00:04:10;
+
+[PrintText]=00:04:10	Itaru	¡Oso!	00:05:05;
+
+[PlayVoice]=00:04:10	Voice04/04-SA/04-SA-I04/04-SA-I04-0060	0	ita	00:05:05;
+
+[CreateBG]=00:05:04	BGS	Event04/04-SA/04-SA-I04/04-SA-I04-003	00:12:09;
+
+[PrintText]=00:05:05	Makoto	Sí, es un oso. Es lo que querías ¿No?^	00:08:19;
+
+[PlayVoice]=00:05:05	Voice04/04-SA/04-SA-I04/04-SA-I04-0070	1	mak	00:08:19;
+
+[PrintText]=00:08:18	Itaru	¡Uh-huh!	00:09:11;
+
+[PlayVoice]=00:08:18	Voice04/04-SA/04-SA-I04/04-SA-I04-0080	0	ita	00:09:11;
+
+[PrintText]=00:09:11	Makoto	Que bueno.	00:10:11;
+
+[PlayVoice]=00:09:11	Voice04/04-SA/04-SA-I04/04-SA-I04-0090	1	mak	00:10:11;
+
+[PrintText]=00:10:11	Itaru	¡Uh-huh!	00:11:05;
+
+[PlayVoice]=00:10:11	Voice04/04-SA/04-SA-I04/04-SA-I04-0100	0	ita	00:11:05;
+
+[PrintText]=00:11:05	Makoto	Haha.	00:12:13;
+
+[PlayVoice]=00:11:05	Voice04/04-SA/04-SA-I04/04-SA-I04-0110	1	mak	00:12:13;
+
+[CreateBG]=00:12:09	BGS	Event04/04-SA/04-SA-I04/04-SA-I04-004	00:17:09;
+
+[PrintText]=00:12:16	Itaru	Um... Itaru lo tratará como si fuera onii-chan y cuidara mucho de él.	00:17:12;
+
+[PlayVoice]=00:12:16	Voice04/04-SA/04-SA-I04/04-SA-I04-0120	0	ita	00:17:12;
+
+[CreateBG]=00:17:09	BGS	Event04/04-SA/04-SA-I04/04-SA-I04-005	00:22:12;
+
+[PrintText]=00:17:16	Makoto	¿Qué se supone que quieres decir, huh?^	00:19:13;
+
+[PlayVoice]=00:17:16	Voice04/04-SA/04-SA-I04/04-SA-I04-0130	1	mak	00:19:13;
+
+[PrintText]=00:19:01	Itaru	Eheheh...	00:20:17;
+
+[PlayVoice]=00:19:01	Voice04/04-SA/04-SA-I04/04-SA-I04-0140	0	ita	00:20:17;
+
+[PrintText]=00:20:19	Makoto	Cuídalo bien ¿Vale?^	00:22:12;
+
+[PlayVoice]=00:20:19	Voice04/04-SA/04-SA-I04/04-SA-I04-0150	1	mak	00:22:12;
+
+[CreateBG]=00:22:12	BGS	Event04/04-SA/04-SA-I04/04-SA-I04-006	00:25:12;
+
+[PrintText]=00:22:13	Itaru	¡Uh-huh! Sí, ¿Onii-chan?^	00:25:12;
+
+[PlayVoice]=00:22:13	Voice04/04-SA/04-SA-I04/04-SA-I04-0160	0	ita	00:25:12;
+
+[PlaySe]=00:25:04	1	SysSe/SE_all/keitai/tyakusin_makoto	00:34:02;
+
+[CreateBG]=00:25:12	BGS	Event04/04-SA/04-SA-I04/04-SA-I04-006B	00:34:02;
+
+[PrintText]=00:25:22	Makoto	¡Ah! Um...	00:28:05;
+
+[PlayVoice]=00:25:22	Voice04/04-SA/04-SA-I04/04-SA-I04-0180	1	mak	00:28:05;
+
+[SetSELECT]=00:28:01	*Contestar*	null	00:33:01;
+
+ ;
+
+[Next]=00:34:02;
+
+

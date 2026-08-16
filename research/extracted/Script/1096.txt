@@ -1,0 +1,191 @@
+﻿[SkipFRAME]=01:45:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:45:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-001	00:01:01;
+
+[PrintText]=00:00:08	Makoto	...	00:01:03;
+
+[PlayVoice]=00:00:08	Voice04/04-SA/04-SA-E10/04-SA-E10-0030	1	xxx	00:01:03;
+
+[CreateBG]=00:01:01	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-002	00:08:14;
+
+[PrintText]=00:01:05	Sekai	...Está bien, si tú no...	00:04:02;
+
+[PlayVoice]=00:01:05	Voice04/04-SA/04-SA-E10/04-SA-E10-0040	0	sek	00:04:02;
+
+[PrintText]=00:04:02	Makoto	No hagas conclusiones. Estoy libre.	00:06:22;
+
+[PlayVoice]=00:04:02	Voice04/04-SA/04-SA-E10/04-SA-E10-0050	1	mak	00:06:22;
+
+[PrintText]=00:06:20	Sekai	Aw, solo olvídalo.	00:08:16;
+
+[PlayVoice]=00:06:20	Voice04/04-SA/04-SA-E10/04-SA-E10-0060	0	sek	00:08:16;
+
+[CreateBG]=00:08:14	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-003	00:13:07;
+
+[PrintText]=00:08:19	Makoto	Lo estaba pensando. Y me preguntaba si me hermana pequeña iba a estar la próxima semana.	00:13:09;
+
+[PlayVoice]=00:08:19	Voice04/04-SA/04-SA-E10/04-SA-E10-0070	1	mak	00:13:09;
+
+[CreateBG]=00:13:07	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-004	00:21:06;
+
+[PrintText]=00:13:12	Sekai	Así que... tienes una hermana menor.	00:15:03;
+
+[PlayVoice]=00:13:12	Voice04/04-SA/04-SA-E10/04-SA-E10-0080	0	sek	00:15:03;
+
+[PrintText]=00:15:03	Makoto	Mis padres se divorciaron, y ella se queda con mi padre.	00:20:01;
+
+[PlayVoice]=00:15:03	Voice04/04-SA/04-SA-E10/04-SA-E10-0090	1	mak	00:20:01;
+
+[PrintText]=00:20:02	Sekai	Ya veo.	00:21:07;
+
+[PlayVoice]=00:20:02	Voice04/04-SA/04-SA-E10/04-SA-E10-0100	0	sek	00:21:07;
+
+[CreateBG]=00:21:06	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-005	00:32:00;
+
+[PrintText]=00:21:10	Makoto	Pero una vez al mes, ella siempre viene a casa para jugar.	00:25:15;
+
+[PlayVoice]=00:21:10	Voice04/04-SA/04-SA-E10/04-SA-E10-0110	1	mak	00:25:15;
+
+[PrintText]=00:25:15	Sekai	Wow... ¿Es linda?^	00:27:17;
+
+[PlayVoice]=00:25:15	Voice04/04-SA/04-SA-E10/04-SA-E10-0120	0	sek	00:27:17;
+
+[PrintText]=00:27:17	Makoto	'Linda' no es lo mejor para describirla. Te desmayarías si la vieras.	00:32:00;
+
+[PlayVoice]=00:27:17	Voice04/04-SA/04-SA-E10/04-SA-E10-0130	1	mak	00:32:00;
+
+[CreateBG]=00:32:00	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-006	00:44:23;
+
+[PrintText]=00:32:09	Sekai	Amor fraternal, ¿huh?^	00:34:01;
+
+[PlayVoice]=00:32:09	Voice04/04-SA/04-SA-E10/04-SA-E10-0140	0	sek	00:34:01;
+
+[PrintText]=00:34:01	Makoto	Su nombre es Itaru, y como es aún pequeña, comprendo que nos extrañe.	00:43:10;
+
+[PlayVoice]=00:34:01	Voice04/04-SA/04-SA-E10/04-SA-E10-0150	1	mak	00:43:10;
+
+[PrintText]=00:43:11	Sekai	Sí.	00:45:01;
+
+[PlayVoice]=00:43:11	Voice04/04-SA/04-SA-E10/04-SA-E10-0160	0	sek	00:45:01;
+
+[CreateBG]=00:44:23	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-007	00:52:08;
+
+[PrintText]=00:45:09	Makoto	Entonces, estaba pensando de cuando me vendrá a visitar.	00:49:13;
+
+[PlayVoice]=00:45:09	Voice04/04-SA/04-SA-E10/04-SA-E10-0170	1	mak	00:49:13;
+
+[PrintText]=00:49:15	Sekai	¿Cuando?^	00:50:19;
+
+[PlayVoice]=00:49:15	Voice04/04-SA/04-SA-E10/04-SA-E10-0180	0	sek	00:50:19;
+
+[PrintText]=00:50:21	Makoto	Estaba pensando, y vendrá mañana.	00:52:11;
+
+[PlayVoice]=00:50:21	Voice04/04-SA/04-SA-E10/04-SA-E10-0190	1	mak	00:52:11;
+
+[CreateBG]=00:52:08	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-008	00:58:11;
+
+[PrintText]=00:52:14	Sekai	¿Mañana?^	00:53:12;
+
+[PlayVoice]=00:52:14	Voice04/04-SA/04-SA-E10/04-SA-E10-0200	0	sek	00:53:12;
+
+[PrintText]=00:53:12	Makoto	Sí.	00:54:05;
+
+[PlayVoice]=00:53:12	Voice04/04-SA/04-SA-E10/04-SA-E10-0210	1	mak	00:54:05;
+
+[PrintText]=00:54:07	Sekai	Debe vivir cerca para que venga seguido ¿No?^	00:58:11;
+
+[PlayVoice]=00:54:07	Voice04/04-SA/04-SA-E10/04-SA-E10-0220	0	sek	00:58:11;
+
+[CreateBG]=00:58:11	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-009	01:06:21;
+
+[PrintText]=00:58:16	Makoto	No, vive muy lejos.	01:00:14;
+
+[PlayVoice]=00:58:16	Voice04/04-SA/04-SA-E10/04-SA-E10-0230	1	mak	01:00:14;
+
+[PrintText]=01:00:15	Sekai	¿Se está tomando el día libre entonces?^	01:02:21;
+
+[PlayVoice]=01:00:15	Voice04/04-SA/04-SA-E10/04-SA-E10-0240	0	sek	01:02:21;
+
+[PrintText]=01:02:22	Makoto	Solo por este mes, parece.	01:05:07;
+
+[PlayVoice]=01:02:22	Voice04/04-SA/04-SA-E10/04-SA-E10-0250	1	mak	01:05:07;
+
+[PrintText]=01:05:07	Sekai	¿Solo este mes?^	01:07:01;
+
+[PlayVoice]=01:05:07	Voice04/04-SA/04-SA-E10/04-SA-E10-0260	0	sek	01:07:01;
+
+[CreateBG]=01:06:21	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-009B	01:09:17;
+
+[PrintText]=01:07:06	Makoto	Es su cumpleaños mañana, sabes.	01:09:20;
+
+[PlayVoice]=01:07:06	Voice04/04-SA/04-SA-E10/04-SA-E10-0270	1	mak	01:09:20;
+
+[CreateBG]=01:09:17	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-009C	01:22:07;
+
+[PrintText]=01:10:00	Sekai	Su cumpleaños, huh.	01:11:18;
+
+[PlayVoice]=01:10:00	Voice04/04-SA/04-SA-E10/04-SA-E10-0280	0	sek	01:11:18;
+
+[PrintText]=01:11:18	Makoto	Le dije que le iba a regalar un peluche enorme. Y estaba tan feliz que dijo que vendría.	01:19:21;
+
+[PlayVoice]=01:11:18	Voice04/04-SA/04-SA-E10/04-SA-E10-0290	1	mak	01:19:21;
+
+[PrintText]=01:19:22	Sekai	Wow... suena bien.	01:22:08;
+
+[PlayVoice]=01:19:22	Voice04/04-SA/04-SA-E10/04-SA-E10-0300	0	sek	01:22:08;
+
+[CreateBG]=01:22:07	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-009D	01:27:10;
+
+[PrintText]=01:22:12	Makoto	Estaba ahorrando. Y después de comprar este peluche, estaré pobre por un tiempo.	01:27:09;
+
+[PlayVoice]=01:22:12	Voice04/04-SA/04-SA-E10/04-SA-E10-0310	1	mak	01:27:09;
+
+[CreateBG]=01:27:10	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-010	01:33:05;
+
+[PrintText]=01:27:20	Sekai	Aún así, la envidio.	01:31:04;
+
+[PlayVoice]=01:27:20	Voice04/04-SA/04-SA-E10/04-SA-E10-0320	0	sek	01:31:04;
+
+[PrintText]=01:31:04	Makoto	¿En serio..?^	01:32:09;
+
+[PlayVoice]=01:31:04	Voice04/04-SA/04-SA-E10/04-SA-E10-0330	1	mak	01:32:09;
+
+[PrintText]=01:32:10	Sekai	Uh-huh.	01:33:08;
+
+[PlayVoice]=01:32:10	Voice04/04-SA/04-SA-E10/04-SA-E10-0340	0	sek	01:33:08;
+
+[CreateBG]=01:33:05	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-011	01:40:06;
+
+[PrintText]=01:33:10	Makoto	Bueno, dejemos eso.	01:35:18;
+
+[PlayVoice]=01:33:10	Voice04/04-SA/04-SA-E10/04-SA-E10-0350	1	mak	01:35:18;
+
+[PrintText]=01:35:18	Sekai	Entonces, mañana tu hermana...	01:39:16;
+
+[PlayVoice]=01:35:18	Voice04/04-SA/04-SA-E10/04-SA-E10-0360	0	sek	01:39:16;
+
+[PrintText]=01:39:16	Makoto	Sí.	01:40:09;
+
+[PlayVoice]=01:39:16	Voice04/04-SA/04-SA-E10/04-SA-E10-0370	1	mak	01:40:09;
+
+[CreateBG]=01:40:06	BGS	Event04/04-SA/04-SA-E10/04-SA-E10-012	01:45:01;
+
+[PrintText]=01:40:13	Sekai	¿... Estás libre este fin de semana?^	01:42:01;
+
+[PlayVoice]=01:40:13	Voice04/04-SA/04-SA-E10/04-SA-E10-0380	0	sek	01:42:01;
+
+[PrintText]=01:42:01	Makoto	Pues sí.	01:43:14;
+
+[PlayVoice]=01:42:01	Voice04/04-SA/04-SA-E10/04-SA-E10-0390	1	mak	01:43:14;
+
+[PrintText]=01:43:15	Sekai	En ese caso, lo diré.	01:44:15;
+
+[PlayVoice]=01:43:15	Voice04/04-SA/04-SA-E10/04-SA-E10-0400	0	sek	01:44:15;
+
+ ;
+
+[Next]=01:45:01;
+
+

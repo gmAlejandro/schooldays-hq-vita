@@ -1,0 +1,210 @@
+﻿[SkipFRAME]=02:01:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:01:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-001	00:02:08;
+
+[PrintText]=00:00:00	Sekai	¿Por qué?^	00:01:00;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-C04/05-KA-C04-0030	0	sek	00:01:00;
+
+[PrintText]=00:01:04	Makoto	...	00:02:08;
+
+[PlayVoice]=00:01:04	Voice05/05-KA/05-KA-C04/05-KA-C04-0040	1	xxx	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-002	00:04:11;
+
+[PrintText]=00:02:08	Sekai	¿Por qué tuviste sexo con Katsura-san?^	00:04:07;
+
+[PlayVoice]=00:02:08	Voice05/05-KA/05-KA-C04/05-KA-C04-0050	0	sek	00:04:07;
+
+[CreateBG]=00:04:11	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-003	00:05:15;
+
+[PrintText]=00:04:11	Makoto	Por qué...	00:05:13;
+
+[PlayVoice]=00:04:11	Voice05/05-KA/05-KA-C04/05-KA-C04-0060	1	mak	00:05:13;
+
+[CreateBG]=00:05:15	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-004A	00:07:21;
+
+[PrintText]=00:05:15	Sekai	¿La amas más que a mí...?^	00:07:20;
+
+[PlayVoice]=00:05:15	Voice05/05-KA/05-KA-C04/05-KA-C04-0070	0	sek	00:07:20;
+
+[CreateBG]=00:07:21	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-004B	00:09:00;
+
+[PrintText]=00:08:00	Makoto	...	00:09:00;
+
+[PlayVoice]=00:08:00	Voice05/05-KA/05-KA-C04/05-KA-C04-0080	1	xxx	00:09:00;
+
+[CreateBG]=00:09:00	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-004C	00:12:17;
+
+[PrintText]=00:09:00	Sekai	Si ese es el caso... podías habérmelo dicho.	00:12:16;
+
+[PlayVoice]=00:09:00	Voice05/05-KA/05-KA-C04/05-KA-C04-0090	0	sek	00:12:16;
+
+[CreateBG]=00:12:17	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-004D	00:14:00;
+
+[PrintText]=00:12:18	Makoto	Sekai...	00:13:22;
+
+[PlayVoice]=00:12:18	Voice05/05-KA/05-KA-C04/05-KA-C04-0100	1	mak	00:13:22;
+
+[CreateBG]=00:14:00	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-004E	00:19:10;
+
+[PrintText]=00:14:00	Sekai	Estaba tan feliz... cuando me elegiste.	00:19:09;
+
+[PlayVoice]=00:14:00	Voice05/05-KA/05-KA-C04/05-KA-C04-0110	0	sek	00:19:09;
+
+[CreateBG]=00:19:10	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-013	00:32:22;
+
+[PrintText]=00:19:10	Sekai	Yo había pensado que te gustaba Katsura-san....	00:23:14;
+
+[PlayVoice]=00:19:10	Voice05/05-KA/05-KA-C04/05-KA-C04-0120	0	sek	00:23:14;
+
+[PrintText]=00:23:15	Sekai	pero aún así, quería que algo entre nosotros, aún así pequeño. Me haga feliz.	00:32:21;
+
+[PlayVoice]=00:23:15	Voice05/05-KA/05-KA-C04/05-KA-C04-0121	0	sek	00:32:21;
+
+[CreateBG]=00:32:22	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-006	00:51:12;
+
+[PrintText]=00:32:22	Sekai	y entonces, escogiste acostarte conmigo, y no con Katsura-san... y me dijiste que me amabas...	00:42:13;
+
+[PlayVoice]=00:32:22	Voice05/05-KA/05-KA-C04/05-KA-C04-0130	0	sek	00:42:13;
+
+[PrintText]=00:42:14	Sekai	...me hizo tan feliz.	00:45:02;
+
+[PlayVoice]=00:42:14	Voice05/05-KA/05-KA-C04/05-KA-C04-0140	0	sek	00:45:02;
+
+[PrintText]=00:45:05	Sekai	Pero...	00:46:10;
+
+[PlayVoice]=00:45:05	Voice05/05-KA/05-KA-C04/05-KA-C04-0150	0	sek	00:46:10;
+
+[PrintText]=00:46:10	Sekai	Tuviste sexo con Katsura-san a mis espaldas.	00:51:11;
+
+[PlayVoice]=00:46:10	Voice05/05-KA/05-KA-C04/05-KA-C04-0160	0	sek	00:51:11;
+
+[CreateBG]=00:51:12	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-010	00:56:00;
+
+[PrintText]=00:51:12	Makoto	...	00:52:15;
+
+[PlayVoice]=00:51:12	Voice05/05-KA/05-KA-C04/05-KA-C04-0170	1	xxx	00:52:15;
+
+[PrintText]=00:52:17	Sekai	¿Soy el reemplazo de Katsura-san?^	00:56:00;
+
+[PlayVoice]=00:52:17	Voice05/05-KA/05-KA-C04/05-KA-C04-0180	0	sek	00:56:00;
+
+[CreateBG]=00:56:00	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-012	00:57:08;
+
+[PrintText]=00:56:02	Makoto	N-no.	00:57:07;
+
+[PlayVoice]=00:56:02	Voice05/05-KA/05-KA-C04/05-KA-C04-0190	1	mak	00:57:07;
+
+[CreateBG]=00:57:08	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-013	01:00:20;
+
+[PrintText]=00:57:08	Sekai	¿Fui su reemplazo mientras que ella estaba muy asustada como para dormir contigo?^	01:00:19;
+
+[PlayVoice]=00:57:08	Voice05/05-KA/05-KA-C04/05-KA-C04-0200	0	sek	01:00:19;
+
+[CreateBG]=01:00:20	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-014	01:10:06;
+
+[PrintText]=01:00:23	Makoto	No...	01:02:01;
+
+[PlayVoice]=01:00:23	Voice05/05-KA/05-KA-C04/05-KA-C04-0210	1	mak	01:02:01;
+
+[PrintText]=01:02:02	Sekai	¿Ya no soy útil para ti ya que puedes hacerlo con ella?^	01:06:11;
+
+[PlayVoice]=01:02:02	Voice05/05-KA/05-KA-C04/05-KA-C04-0220	0	sek	01:06:11;
+
+[PrintText]=01:06:15	Makoto	No es así...	01:07:23;
+
+[PlayVoice]=01:06:15	Voice05/05-KA/05-KA-C04/05-KA-C04-0230	1	mak	01:07:23;
+
+[PlaySe]=01:07:18	3	SysSe/SE_all/gaya/okujou	02:01:03;
+
+[PrintText]=01:08:00	Sekai	¿O quieres seguir teniendo mi cuerpo?^	01:10:05;
+
+[PlayVoice]=01:08:00	Voice05/05-KA/05-KA-C04/05-KA-C04-0240	0	sek	01:10:05;
+
+[CreateBG]=01:10:06	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-012	01:11:10;
+
+[PrintText]=01:10:08	Makoto	Sekai...	01:11:09;
+
+[PlayVoice]=01:10:08	Voice05/05-KA/05-KA-C04/05-KA-C04-0250	1	mak	01:11:09;
+
+[CreateBG]=01:11:10	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-013	01:18:19;
+
+[PrintText]=01:11:10	Sekai	Debo haberme visto... tan estúpida... patética...	01:18:19;
+
+[PlayVoice]=01:11:10	Voice05/05-KA/05-KA-C04/05-KA-C04-0260	0	sek	01:18:19;
+
+[CreateBG]=01:18:19	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-020	01:21:10;
+
+[PrintText]=01:18:23	Makoto	Sekai... Yo...	01:21:10;
+
+[PlayVoice]=01:18:23	Voice05/05-KA/05-KA-C04/05-KA-C04-0270	1	mak	01:21:10;
+
+[CreateBG]=01:21:10	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-021	01:33:12;
+
+[PrintText]=01:21:10	Sekai	Estaba emocionada cuando cuando me sostuviste, pensando...	01:27:07;
+
+[PlayVoice]=01:21:10	Voice05/05-KA/05-KA-C04/05-KA-C04-0280	0	sek	01:27:07;
+
+[PrintText]=01:27:11	Sekai	'Él es mi novio'... fui tan estúpida...	01:33:10;
+
+[PlayVoice]=01:27:11	Voice05/05-KA/05-KA-C04/05-KA-C04-0281	0	sek	01:33:10;
+
+[CreateBG]=01:33:12	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-022	01:36:20;
+
+[PrintText]=01:33:12	Makoto	La verdad es que... yo...	01:36:20;
+
+[PlayVoice]=01:33:12	Voice05/05-KA/05-KA-C04/05-KA-C04-0290	1	mak	01:36:20;
+
+[CreateBG]=01:36:20	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-023	01:37:19;
+
+[PrintText]=01:36:20	Sekai	...Te odio.	01:37:20;
+
+[PlayVoice]=01:36:20	Voice05/05-KA/05-KA-C04/05-KA-C04-0300	0	sek	01:37:20;
+
+[CreateBG]=01:37:19	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-024	01:38:15;
+
+[PrintText]=01:37:20	Makoto	...	01:38:15;
+
+[PlayVoice]=01:37:20	Voice05/05-KA/05-KA-C04/05-KA-C04-0310	1	xxx	01:38:15;
+
+[CreateBG]=01:38:15	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-025	01:48:06;
+
+[PrintText]=01:38:15	Sekai	¡Te odio... TE ODIO! Te odio tanto. A ti... a Katsura-san... a todos... los odios a todos...	01:46:23;
+
+[PlayVoice]=01:38:15	Voice05/05-KA/05-KA-C04/05-KA-C04-0320	0	sek	01:46:23;
+
+[PrintText]=01:47:00	Makoto	Sekai...	01:48:01;
+
+[PlayVoice]=01:47:00	Voice05/05-KA/05-KA-C04/05-KA-C04-0330	1	mak	01:48:01;
+
+[CreateBG]=01:48:06	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-026A	01:48:23;
+
+[PrintText]=01:48:06	Sekai	¡LOS ODIO A TODOS!	01:49:12;
+
+[PlayVoice]=01:48:06	Voice05/05-KA/05-KA-C04/05-KA-C04-0340	0	sek	01:49:12;
+
+[PlaySe]=01:48:23	1	Se05/05-KA/05-KA-C04/SE05-KA-C04-001	01:51:21;
+
+[CreateBG]=01:48:23	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-026B	01:53:14;
+
+[PlaySe]=01:51:20	2	Se05/05-KA/05-KA-C04/SE05-KA-C04-002	01:54:05;
+
+[CreateBG]=01:53:14	BGS	Event05/05-KA/05-KA-C04/05-KA-C04-027	02:01:03;
+
+[PrintText]=01:56:07	Makoto	...Soy un idiota.	01:59:09;
+
+[PlayVoice]=01:56:07	Voice05/05-KA/05-KA-C04/05-KA-C04-0370	1	mak	01:59:09;
+
+[BlackFade]=02:00:03	OUT	02:01:03;
+
+ ;
+
+[Next]=02:01:06;
+
+
+

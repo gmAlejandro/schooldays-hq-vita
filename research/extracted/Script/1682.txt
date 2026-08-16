@@ -1,0 +1,120 @@
+﻿[SkipFRAME]=01:01:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:01:05;
+
+[CreateBG]=00:00:04	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-001	00:05:03;
+
+[PrintText]=00:05:03	Makoto	Fwah... para otro día.	00:10:23;
+
+[PlayVoice]=00:05:03	Voice05/05-SA/05-SA-C02/05-SA-C02-0050	1	mak	00:10:23;
+
+[CreateBG]=00:05:04	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-002	00:11:00;
+
+[PrintText]=00:10:23	Sekai	Cielos... te ves muy cansado.	00:13:19;
+
+[PlayVoice]=00:10:23	Voice05/05-SA/05-SA-C02/05-SA-C02-0060	0	sek	00:13:19;
+
+[CreateBG]=00:11:00	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-003	00:20:10;
+
+[PrintText]=00:13:19	Makoto	Por esta vez, pienso que es que tuve mucho para el almuerzo.	00:18:22;
+
+[PlayVoice]=00:13:19	Voice05/05-SA/05-SA-C02/05-SA-C02-0070	1	mak	00:18:22;
+
+[PrintText]=00:18:21	Sekai	Sí, tal vez.	00:20:10;
+
+[PlayVoice]=00:18:21	Voice05/05-SA/05-SA-C02/05-SA-C02-0080	0	sek	00:20:10;
+
+[CreateBG]=00:20:10	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-004	00:25:17;
+
+[PrintText]=00:20:10	Taisuke	Hey, Makoto.	00:22:07;
+
+[PlayVoice]=00:20:10	Voice05/05-SA/05-SA-C02/05-SA-C02-0090	1	tai	00:22:07;
+
+[PrintText]=00:22:07	Makoto	Hey.	00:23:23;
+
+[PlayVoice]=00:22:07	Voice05/05-SA/05-SA-C02/05-SA-C02-0100	1	mak	00:23:23;
+
+[PrintText]=00:23:22	Taisuke	Katsura-san te está llamando.	00:25:16;
+
+[PlayVoice]=00:23:22	Voice05/05-SA/05-SA-C02/05-SA-C02-0110	1	tai	00:25:16;
+
+[CreateBG]=00:25:17	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-005	00:29:10;
+
+[PrintText]=00:25:17	Makoto	¿Eh? Oh, es cierto.	00:29:09;
+
+[PlayVoice]=00:25:17	Voice05/05-SA/05-SA-C02/05-SA-C02-0120	1	mak	00:29:09;
+
+[PrintText]=00:29:09	Sekai	¿Hiciste planes con Katsura-san?^	00:31:17;
+
+[PlayVoice]=00:29:09	Voice05/05-SA/05-SA-C02/05-SA-C02-0130	0	sek	00:31:17;
+
+[CreateBG]=00:29:10	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-006	00:31:17;
+
+[CreateBG]=00:31:17	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-007	00:36:16;
+
+[PrintText]=00:31:17	Makoto	Sí. Me pidió que le haga compañía después de clases...	00:36:15;
+
+[PlayVoice]=00:31:17	Voice05/05-SA/05-SA-C02/05-SA-C02-0140	1	mak	00:36:15;
+
+[PrintText]=00:36:15	Sekai	¡No puedes!	00:37:20;
+
+[PlayVoice]=00:36:15	Voice05/05-SA/05-SA-C02/05-SA-C02-0150	0	sek	00:37:20;
+
+[PlayMovie]=00:36:16	Movie05/05-SA/05-SA-C02/05-SA-C02-008	0	00:37:20;
+
+[CreateBG]=00:37:20	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-009	00:40:13;
+
+[PrintText]=00:37:20	Makoto	¿Eh...?^	00:39:09;
+
+[PlayVoice]=00:37:20	Voice05/05-SA/05-SA-C02/05-SA-C02-0160	1	mak	00:39:09;
+
+[PrintText]=00:39:09	Sekai	Ah...	00:40:13;
+
+[PlayVoice]=00:39:09	Voice05/05-SA/05-SA-C02/05-SA-C02-0180	0	sek	00:40:13;
+
+[PrintText]=00:40:12	Makoto	Sekai...	00:42:16;
+
+[PlayVoice]=00:40:12	Voice05/05-SA/05-SA-C02/05-SA-C02-0190	1	mak	00:42:16;
+
+[CreateBG]=00:40:13	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-010	00:42:16;
+
+[PrintText]=00:42:15	Sekai	No...	00:44:02;
+
+[PlayVoice]=00:42:15	Voice05/05-SA/05-SA-C02/05-SA-C02-0200	0	sek	00:44:02;
+
+[CreateBG]=00:42:16	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-011	00:48:02;
+
+[PrintText]=00:44:02	Makoto	...	00:46:14;
+
+[PlayVoice]=00:44:02	Voice05/05-SA/05-SA-C02/05-SA-C02-0210	1	xxx	00:46:14;
+
+[PrintText]=00:46:14	Sekai	...	00:48:02;
+
+[PlayVoice]=00:46:14	Voice05/05-SA/05-SA-C02/05-SA-C02-0220	0	xxx	00:48:02;
+
+[CreateBG]=00:48:02	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-012	00:59:12;
+
+[PrintText]=00:48:02	Makoto	Bien.	00:50:15;
+
+[PlayVoice]=00:48:02	Voice05/05-SA/05-SA-C02/05-SA-C02-0230	1	mak	00:50:15;
+
+[PrintText]=00:50:15	Sekai	¡¿Eh?!	00:51:12;
+
+[PlayVoice]=00:50:15	Voice05/05-SA/05-SA-C02/05-SA-C02-0240	0	sek	00:51:12;
+
+[PrintText]=00:51:12	Makoto	No creí que dirías algo así... pero si quieres que me quede, lo haré.	00:59:12;
+
+[PlayVoice]=00:51:12	Voice05/05-SA/05-SA-C02/05-SA-C02-0250	1	mak	00:59:12;
+
+[CreateBG]=00:59:12	BGS	Event05/05-SA/05-SA-C02/05-SA-C02-013	01:01:05;
+
+[PrintText]=00:59:12	Sekai	Makoto...	01:01:05;
+
+[PlayVoice]=00:59:12	Voice05/05-SA/05-SA-C02/05-SA-C02-0260	0	sek	01:01:05;
+
+ ;
+
+[Next]=01:01:05;
+
+
+

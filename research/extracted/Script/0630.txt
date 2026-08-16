@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:05:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:11:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-C04/03-KB-C04-001	00:02:03;
+
+[PrintText]=00:00:06	Makoto	...	00:02:00;
+
+[PlayVoice]=00:00:06	Voice03/03-KB/03-KB-C04/03-KB-C04-0040	1	xxx	00:02:00;
+
+[CreateBG]=00:02:03	BGS	Event03/03-KB/03-KB-C04/03-KB-C04-002	00:11:18;
+
+[PrintText]=00:02:06	Makoto	¿A dónde voy...?^	00:05:00;
+
+[PlayVoice]=00:02:06	Voice03/03-KB/03-KB-C04/03-KB-C04-0050	1	mak	00:05:00;
+
+[PrintText]=00:05:05	Makoto	¿Qué hago...?^	00:06:08;
+
+[PlayVoice]=00:05:05	Voice03/03-KB/03-KB-C04/03-KB-C04-0060	1	mak	00:06:08;
+
+[SetSELECT]=00:05:17	*Ir al campo*	null	00:10:17;
+
+ ;
+
+[Next]=00:11:18;
+
+

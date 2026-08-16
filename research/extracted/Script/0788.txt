@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:50:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:50:20;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-J04/SE03-SA-J04-001	00:50:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-J04/03-SA-J04-001	00:03:06;
+
+[PrintText]=00:00:00	Makoto	Estoy enamorado de Sekai.	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-J04/03-SA-J04-0030	1	mak	00:01:13;
+
+[PrintText]=00:01:13	Kotonoha	No, no puedes...	00:03:06;
+
+[PlayVoice]=00:01:13	Voice03/03-SA/03-SA-J04/03-SA-J04-0040	0	kot	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event03/03-SA/03-SA-J04/03-SA-J04-002	00:20:13;
+
+[PrintText]=00:03:06	Makoto	Lo estoy. Yo...	00:04:21;
+
+[PlayVoice]=00:03:06	Voice03/03-SA/03-SA-J04/03-SA-J04-0050	1	mak	00:04:21;
+
+[PrintText]=00:04:21	Kotonoha	¡Perdón por estar asustada y por evadirte! ¡Todo esto a terminado así por mi culpa... eso es todo!	00:20:12;
+
+[PlayVoice]=00:04:21	Voice03/03-SA/03-SA-J04/03-SA-J04-0060	0	kot	00:20:12;
+
+[CreateBG]=00:20:13	BGS	Event03/03-SA/03-SA-J04/03-SA-J04-003	00:34:18;
+
+[PrintText]=00:20:13	Kotonoha	¡Así no es... como verdaderamente te sientes!	00:33:08;
+
+[PlayVoice]=00:20:13	Voice03/03-SA/03-SA-J04/03-SA-J04-0080	0	kot	00:33:08;
+
+[PrintText]=00:33:07	Makoto	Kotonoha...	00:34:17;
+
+[PlayVoice]=00:33:07	Voice03/03-SA/03-SA-J04/03-SA-J04-0090	1	mak	00:34:17;
+
+[PrintText]=00:34:17	Kotonoha	Por favor... déjame seguir siendo tu novia.	00:39:16;
+
+[PlayVoice]=00:34:17	Voice03/03-SA/03-SA-J04/03-SA-J04-0100	0	kot	00:39:16;
+
+[CreateBG]=00:34:18	BGS	Event03/03-SA/03-SA-J04/03-SA-J04-004	00:40:19;
+
+[PrintText]=00:39:16	Makoto	...	00:40:18;
+
+[PlayVoice]=00:39:16	Voice03/03-SA/03-SA-J04/03-SA-J04-0110	1	xxx	00:40:18;
+
+[PrintText]=00:40:18	Kotonoha	Por... favor...	00:46:10;
+
+[PlayVoice]=00:40:18	Voice03/03-SA/03-SA-J04/03-SA-J04-0120	0	kot	00:46:10;
+
+[PlayMovie]=00:40:19	Movie03/03-SA/03-SA-J04/03-SA-J04-005	0	00:50:20;
+
+ ;
+
+[Next]=00:50:20;
+
+

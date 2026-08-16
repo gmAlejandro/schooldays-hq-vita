@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:18:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:18:07;
+
+[PlayMovie]=00:00:00	Movie03/03-A1/03-A1-E04/03-A1-E04-001	0	00:04:04;
+
+[PrintText]=00:00:06	Setsuna	Está bien.	00:01:04;
+
+[PlayVoice]=00:00:06	Voice03/03-A1/03-A1-E04/03-A1-E04-0040	0	set	00:01:04;
+
+[PrintText]=00:00:23	Makoto	...	00:01:20;
+
+[PlayVoice]=00:00:23	Voice03/03-A1/03-A1-E04/03-A1-E04-0050	1	xxx	00:01:20;
+
+[PrintText]=00:02:01	Setsuna	Puedes llorar, vamos.	00:02:23;
+
+[PlayVoice]=00:02:01	Voice03/03-A1/03-A1-E04/03-A1-E04-0060	0	set	00:02:23;
+
+[PrintText]=00:02:21	Makoto	Ah...	00:04:00;
+
+[PlayVoice]=00:02:21	Voice03/03-A1/03-A1-E04/03-A1-E04-0070	1	mak	00:04:00;
+
+[CreateBG]=00:04:04	BGS	Event03/03-A1/03-A1-E04/03-A1-E04-002	00:18:07;
+
+[PlayVoice]=00:04:07	Voice03/03-A1/03-A1-E04/03-A1-E04-0080			00:18:06;
+
+ ;
+
+[Next]=00:18:07;
+
+

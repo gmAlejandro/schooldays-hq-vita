@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:37:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:37:15;
+
+[PlaySe]=00:00:00	1	Se04/04-C0/04-C0-A05/SE04-C0-A05-001	00:37:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C0/04-C0-A05/04-C0-A05-001	00:02:19;
+
+[PrintText]=00:00:00	Makoto	Porque te odio.	00:01:19;
+
+[PlayVoice]=00:00:00	Voice04/04-C0/04-C0-A05/04-C0-A05-0030	1	mak	00:01:19;
+
+[PrintText]=00:01:19	Kotonoha	¡¿Eh...?!	00:02:19;
+
+[PlayVoice]=00:01:19	Voice04/04-C0/04-C0-A05/04-C0-A05-0040	0	kot	00:02:19;
+
+[CreateBG]=00:02:19	BGS	Event04/04-C0/04-C0-A05/04-C0-A05-002	00:19:04;
+
+[PrintText]=00:02:19	Makoto	Te odio. Así son las cosas. Lo he callado durante mucho, pero ahora... ya no puedo ocultarlo más. Terminemos esto aquí.	00:14:23;
+
+[PlayVoice]=00:02:19	Voice04/04-C0/04-C0-A05/04-C0-A05-0050	1	mak	00:14:23;
+
+[PrintText]=00:14:23	Kotonoha	¿Eh...? pero...	00:18:02;
+
+[PlayVoice]=00:14:23	Voice04/04-C0/04-C0-A05/04-C0-A05-0060	0	kot	00:18:02;
+
+[PrintText]=00:18:02	Makoto	Anda a casa.	00:19:04;
+
+[PlayVoice]=00:18:02	Voice04/04-C0/04-C0-A05/04-C0-A05-0070	1	mak	00:19:04;
+
+[CreateBG]=00:19:04	BGS	Event04/04-C0/04-C0-A05/04-C0-A05-003	00:23:21;
+
+[PrintText]=00:19:04	Kotonoha	C-Cambiaré...Si solo hubiera sabido que me amabas...	00:23:21;
+
+[PlayVoice]=00:19:04	Voice04/04-C0/04-C0-A05/04-C0-A05-0080	0	kot	00:23:21;
+
+[PrintText]=00:23:20	Makoto	...Adiós.	00:26:02;
+
+[PlayVoice]=00:23:20	Voice04/04-C0/04-C0-A05/04-C0-A05-0090	1	mak	00:26:02;
+
+[CreateBG]=00:23:21	BGS	Event04/04-C0/04-C0-A05/04-C0-A05-004	00:26:02;
+
+[CreateBG]=00:26:02	BGS	Event04/04-C0/04-C0-A05/04-C0-A05-005	00:27:12;
+
+[CreateBG]=00:27:12	BGS	Event04/04-C0/04-C0-A05/04-C0-A05-006	00:37:15;
+
+[PrintText]=00:27:12	Kotonoha	¡Uuh... kuh... ah...!	00:34:18;
+
+[PlayVoice]=00:27:12	Voice04/04-C0/04-C0-A05/04-C0-A05-0120	0	kot	00:34:18;
+
+[PrintText]=00:34:19	Makoto	...	00:35:22;
+
+[PlayVoice]=00:34:19	Voice04/04-C0/04-C0-A05/04-C0-A05-0130	1	xxx	00:35:22;
+
+ ;
+
+[Next]=00:37:15;
+
+

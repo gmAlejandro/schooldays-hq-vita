@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:23:14;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-B08/SE03-SA-B08-001	00:23:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B08/03-SA-B08-001	00:01:21;
+
+[PrintText]=00:00:00	Hikari	¡Ah! ¡Sekai!	00:01:20;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-B08/03-SA-B08-0040	0	hik	00:01:20;
+
+[PrintText]=00:01:20	Sekai	Eheheh... gracias por su ayuda, chicos.	00:04:11;
+
+[PlayVoice]=00:01:20	Voice03/03-SA/03-SA-B08/03-SA-B08-0050	0	sek	00:04:11;
+
+[CreateBG]=00:01:21	BGS	Event03/03-SA/03-SA-B08/03-SA-B08-002	00:04:11;
+
+[PrintText]=00:04:10	Hikari	¿Podemos comenzar?^	00:05:21;
+
+[PlayVoice]=00:04:10	Voice03/03-SA/03-SA-B08/03-SA-B08-0060	0	hik	00:05:21;
+
+[CreateBG]=00:04:11	BGS	Event03/03-SA/03-SA-B08/03-SA-B08-003	00:14:16;
+
+[PrintText]=00:05:21	Sekai	¿Pasó algo?^	00:07:04;
+
+[PlayVoice]=00:05:21	Voice03/03-SA/03-SA-B08/03-SA-B08-0070	0	sek	00:07:04;
+
+[PrintText]=00:07:04	Hikari	Nanami se fue con su novio. Y no hay mucho personal.	00:11:16;
+
+[PlayVoice]=00:07:04	Voice03/03-SA/03-SA-B08/03-SA-B08-0080	0	hik	00:11:16;
+
+[PrintText]=00:11:16	Sekai	Vale, déjamelo a mí.	00:13:12;
+
+[PlayVoice]=00:11:16	Voice03/03-SA/03-SA-B08/03-SA-B08-0090	0	sek	00:13:12;
+
+[PrintText]=00:13:12	Hikari	¡Cuento contigo!	00:14:15;
+
+[PlayVoice]=00:13:12	Voice03/03-SA/03-SA-B08/03-SA-B08-0100	0	hik	00:14:15;
+
+[PrintText]=00:14:15	Makoto	¿También puedo ayudar?^	00:15:22;
+
+[PlayVoice]=00:14:15	Voice03/03-SA/03-SA-B08/03-SA-B08-0120	1	mak	00:15:22;
+
+[CreateBG]=00:14:16	BGS	Event03/03-SA/03-SA-B08/03-SA-B08-004	00:18:14;
+
+[PrintText]=00:15:22	Hikari	Estamos bien en la cocina.	00:17:14;
+
+[PlayVoice]=00:15:22	Voice03/03-SA/03-SA-B08/03-SA-B08-0130	0	hik	00:17:14;
+
+[PrintText]=00:17:14	Makoto	Ya veo...	00:18:13;
+
+[PlayVoice]=00:17:14	Voice03/03-SA/03-SA-B08/03-SA-B08-0140	1	mak	00:18:13;
+
+[PrintText]=00:18:13	Makoto	¿Hmn...? ¿Qué pasa?^	00:20:19;
+
+[PlayVoice]=00:18:13	Voice03/03-SA/03-SA-B08/03-SA-B08-0160	1	mak	00:20:19;
+
+[CreateBG]=00:18:14	BGS	Event03/03-SA/03-SA-B08/03-SA-B08-005	00:23:14;
+
+[PrintText]=00:20:19	Hikari	No tenga idea.	00:21:23;
+
+[PlayVoice]=00:20:19	Voice03/03-SA/03-SA-B08/03-SA-B08-0170	0	hik	00:21:23;
+
+[PrintText]=00:21:23	Makoto	Iré a ver que pasa.	00:23:10;
+
+[PlayVoice]=00:21:23	Voice03/03-SA/03-SA-B08/03-SA-B08-0180	1	mak	00:23:10;
+
+ ;
+
+[Next]=00:23:14;
+
+

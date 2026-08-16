@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:11:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:11:15;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-C06/05-KG-C06-001	00:03:12;
+
+[PrintText]=00:00:00	Makoto	Vamos a llamarla.	00:02:05;
+
+[PlayVoice]=00:00:00	Voice05/05-KG/05-KG-C06/05-KG-C06-0030	1	mak	00:02:05;
+
+[PrintText]=00:02:06	Sekai	¿Eh?!	00:03:02;
+
+[PlayVoice]=00:02:06	Voice05/05-KG/05-KG-C06/05-KG-C06-0040	0	sek	00:03:02;
+
+[PrintText]=00:03:01	Makoto	¡Hey! ¡Kotonoha!	00:06:14;
+
+[PlayVoice]=00:03:01	Voice05/05-KG/05-KG-C06/05-KG-C06-0050	1	mak	00:06:14;
+
+[CreateBG]=00:03:12	BGS	Event05/05-KG/05-KG-C06/05-KG-C06-002	00:08:11;
+
+[PrintText]=00:06:15	Sekai	Ah... hey.	00:08:10;
+
+[PlayVoice]=00:06:15	Voice05/05-KG/05-KG-C06/05-KG-C06-0060	0	sek	00:08:10;
+
+[PrintText]=00:08:10	Makoto	¡Ven aquí!	00:10:15;
+
+[PlayVoice]=00:08:10	Voice05/05-KG/05-KG-C06/05-KG-C06-0070	1	mak	00:10:15;
+
+[CreateBG]=00:08:11	BGS	Event05/05-KG/05-KG-C06/05-KG-C06-007	00:11:15;
+
+[BlackFade]=00:10:20	OUT	00:11:15;
+
+ ;
+
+[Next]=00:11:15;
+
+
+
+

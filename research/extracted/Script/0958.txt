@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:12:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:12:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-J00/04-KA-J00-001	00:01:07;
+
+[CreateBG]=00:01:07	BGS	Event04/04-KA/04-KA-J00/04-KA-J00-002	00:07:02;
+
+[PrintText]=00:01:14	Makoto	Hey.	00:02:23;
+
+[PlayVoice]=00:01:14	Voice04/04-KA/04-KA-J00/04-KA-J00-0040	1	mak	00:02:23;
+
+[PrintText]=00:03:02	Sekai	¿Qué?^	00:03:23;
+
+[PlayVoice]=00:03:02	Voice04/04-KA/04-KA-J00/04-KA-J00-0050	0	sek	00:03:23;
+
+[PrintText]=00:04:00	Makoto	¿Quieres almorzar en el tejado hoy?^	00:07:10;
+
+[PlayVoice]=00:04:00	Voice04/04-KA/04-KA-J00/04-KA-J00-0060	1	mak	00:07:10;
+
+[CreateBG]=00:07:02	BGS	Event04/04-KA/04-KA-J00/04-KA-J00-003	00:10:16;
+
+[PrintText]=00:07:10	Sekai	Seguro.	00:08:05;
+
+[PlayVoice]=00:07:10	Voice04/04-KA/04-KA-J00/04-KA-J00-0070	0	sek	00:08:05;
+
+[PrintText]=00:08:09	Makoto	Vale, te veo arriba.	00:09:19;
+
+[PlayVoice]=00:08:09	Voice04/04-KA/04-KA-J00/04-KA-J00-0080	1	mak	00:09:19;
+
+[PrintText]=00:09:22	Sekai	Sip.	00:10:12;
+
+[PlayVoice]=00:09:22	Voice04/04-KA/04-KA-J00/04-KA-J00-0090	0	sek	00:10:12;
+
+[CreateBG]=00:10:16	BGS	Event04/04-KA/04-KA-J00/04-KA-J00-002	00:12:08;
+
+[BlackFade]=00:11:08	OUT	00:12:08;
+
+ ;
+
+[Next]=00:12:08;
+
+

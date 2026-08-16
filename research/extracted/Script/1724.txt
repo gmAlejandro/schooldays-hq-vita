@@ -1,0 +1,28 @@
+﻿[SkipFRAME]=00:14:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:14:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-H03/05-SB-H03-001	00:14:09;
+
+[PrintText]=00:00:00	Nanami	¿No puedes responder?^	00:01:14;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-H03/05-SB-H03-0030	0	nan	00:01:14;
+
+[PrintText]=00:01:14	Makoto	...	00:05:02;
+
+[PlayVoice]=00:01:14	Voice05/05-SB/05-SB-H03/05-SB-H03-0040	1	xxx	00:05:02;
+
+[PrintText]=00:05:02	Nanami	Te quedarás con la respuesta ¿No?^	00:09:13;
+
+[PlayVoice]=00:05:02	Voice05/05-SB/05-SB-H03/05-SB-H03-0050	0	nan	00:09:13;
+
+[PrintText]=00:09:14	Makoto	...	00:14:09;
+
+[PlayVoice]=00:09:14	Voice05/05-SB/05-SB-H03/05-SB-H03-0060	1	xxx	00:14:09;
+
+ ;
+
+[Next]=00:14:09;
+
+
+

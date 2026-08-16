@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:55:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:09:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-B04/05-5O-B04-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-B04/05-5O-B04-002	00:04:12;
+
+[CreateBG]=00:04:12	BGS	Event05/05-5O/05-5O-C01/05-5O-C01-002B	00:06:21;
+
+[PrintText]=00:04:15	Kotonoha	...	00:05:12;
+
+[PlayVoice]=00:04:15	Voice05/05-5O/05-5O-B04/05-5O-B04-0050	0	xxx	00:05:12;
+
+[BlackFade]=00:05:21	OUT	00:06:21;
+
+[CreateBG]=00:06:21	BGS	Event05/05-5O/05-5O-B04/05-5O-B04-004	00:08:23;
+
+[PrintText]=00:07:02	Makoto	Kotonoha.	00:08:01;
+
+[PlayVoice]=00:07:02	Voice05/05-5O/05-5O-B04/05-5O-B04-0080	1	mak	00:08:01;
+
+[CreateBG]=00:08:23	BGS	Event05/05-5O/05-5O-B04/05-5O-B04-005	00:12:04;
+
+[PrintText]=00:09:01	Kotonoha	Makoto-kun...	00:12:04;
+
+[PlayVoice]=00:09:01	Voice05/05-5O/05-5O-B04/05-5O-B04-0100	0	kot	00:12:04;
+
+[EndBGM]=00:09:22	BGM/Vocal/SDV07	02:12:03;
+
+[BlackFade]=00:11:04	OUT	00:12:04;
+
+[CreateBG]=00:12:04	BGS	Ini/EndRoll/05-17	00:15:00;
+
+[EndRoll]=00:15:00	Ini/EndRoll/GOOD	00:55:00;
+
+ ;
+
+[Next]=00:55:00;
+
+

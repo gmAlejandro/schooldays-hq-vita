@@ -1,0 +1,125 @@
+﻿[SkipFRAME]=01:01:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:01:03;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-B06/SE01-00-B06-001	01:01:03;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-B06/01-00-B06-001	00:02:06;
+
+[PrintText]=00:00:12	Makoto	Buen D...¿huh?^	00:03:01;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-B06/01-00-B06-0030	1	mak	00:03:01;
+
+[CreateBG]=00:02:06	BGS	Event01/01-00/01-00-B06/01-00-B06-002	00:06:07;
+
+[PrintText]=00:03:06	Taisuke	Hey, Buen día.	00:04:12;
+
+[PlayVoice]=00:03:06	Voice01/01-00/01-00-B06/01-00-B06-0060	1	tai	00:04:12;
+
+[PrintText]=00:04:11	Makoto	Ah, Buen día.	00:06:05;
+
+[PlayVoice]=00:04:11	Voice01/01-00/01-00-B06/01-00-B06-0070	1	mak	00:06:05;
+
+[CreateBG]=00:06:07	BGS	Event01/01-00/01-00-B06/01-00-B06-003	00:11:04;
+
+[PrintText]=00:06:12	Makoto	¿Sekai se habrá quedado dormida?^	00:08:14;
+
+[PlayVoice]=00:06:12	Voice01/01-00/01-00-B06/01-00-B06-0090	1	mak	00:08:14;
+
+[PrintText]=00:08:07	Sekai	¿Que me he quedado dormida?^	00:11:15;
+
+[PlayVoice]=00:08:07	Voice01/01-00/01-00-B06/01-00-B06-0110	0	sek	00:11:15;
+
+[CreateBG]=00:11:04	BGS	Event01/01-00/01-00-B06/01-00-B06-004	00:17:21;
+
+[PrintText]=00:11:04	Makoto	Uwah...¿Viniste?^	00:13:14;
+
+[PlayVoice]=00:11:04	Voice01/01-00/01-00-B06/01-00-B06-0120	1	mak	00:13:14;
+
+[PrintText]=00:13:08	Sekai	Phew... bueno, acabo de llegar, ya es tarde.	00:18:09;
+
+[PlayVoice]=00:13:08	Voice01/01-00/01-00-B06/01-00-B06-0130	0	sek	00:18:09;
+
+[CreateBG]=00:17:21	BGS	Event01/01-00/01-00-B06/01-00-B06-005	00:21:23;
+
+[PrintText]=00:17:21	Makoto	Pft... y entonces ¿Que quiere decir eso?^	00:20:07;
+
+[PlayVoice]=00:17:21	Voice01/01-00/01-00-B06/01-00-B06-0140	1	mak	00:20:07;
+
+[PrintText]=00:20:01	Sekai	No significa que me haya quedado dormida, ¿Vale?^	00:22:08;
+
+[PlayVoice]=00:20:01	Voice01/01-00/01-00-B06/01-00-B06-0150	0	sek	00:22:08;
+
+[CreateBG]=00:21:23	BGS	Event01/01-00/01-00-B06/01-00-B06-006	00:25:20;
+
+[PrintText]=00:22:01	Makoto	Entonces, ¿Qué pasó?^	00:23:03;
+
+[PlayVoice]=00:22:01	Voice01/01-00/01-00-B06/01-00-B06-0160	1	mak	00:23:03;
+
+[PrintText]=00:23:02	Sekai	Estaba escuchando la radio, y de pronto, ya iba a ser de día.	00:26:00;
+
+[PlayVoice]=00:23:02	Voice01/01-00/01-00-B06/01-00-B06-0170	0	sek	00:26:00;
+
+[CreateBG]=00:25:20	BGS	Event01/01-00/01-00-B06/01-00-B06-007	00:36:10;
+
+[PrintText]=00:25:20	Makoto	Entonces te quedaste dormida.	00:26:22;
+
+[PlayVoice]=00:25:20	Voice01/01-00/01-00-B06/01-00-B06-0180	1	mak	00:26:22;
+
+[PrintText]=00:26:16	Sekai	Ya te dije que no.	00:30:08;
+
+[PlayVoice]=00:26:16	Voice01/01-00/01-00-B06/01-00-B06-0190	0	sek	00:30:08;
+
+[PrintText]=00:30:04	Makoto	Haah... ¿Te quedaste despierta toda la noche?^	00:32:16;
+
+[PlayVoice]=00:30:04	Voice01/01-00/01-00-B06/01-00-B06-0200	1	mak	00:32:16;
+
+[PrintText]=00:32:13	Sekai	Fwah... me siento cansada...	00:35:16;
+
+[PlayVoice]=00:32:13	Voice01/01-00/01-00-B06/01-00-B06-0210	0	sek	00:35:16;
+
+[CreateBG]=00:36:10	BGS	Event01/01-00/01-00-B06/01-00-B06-008	00:40:07;
+
+[PrintText]=00:36:12	Sekai	Hafuh... por cierto...	00:40:10;
+
+[PlayVoice]=00:36:12	Voice01/01-00/01-00-B06/01-00-B06-0230	0	sek	00:40:10;
+
+[CreateBG]=00:40:07	BGS	Event01/01-00/01-00-B06/01-00-B06-009	00:42:23;
+
+[PrintText]=00:40:11	Makoto	Oh, quieres saber que paso con Katsura, ¿No?^	00:42:23;
+
+[PlayVoice]=00:40:11	Voice01/01-00/01-00-B06/01-00-B06-0240	1	mak	00:42:23;
+
+[CreateBG]=00:42:23	BGS	Event01/01-00/01-00-B06/01-00-B06-008	00:48:04;
+
+[PrintText]=00:42:23	Sekai	Hmn ¿Qué? ¿Y toda esta actitud super confidencial?^	00:48:05;
+
+[PlayVoice]=00:42:23	Voice01/01-00/01-00-B06/01-00-B06-0250	0	sek	00:48:05;
+
+[CreateBG]=00:48:04	BGS	Event01/01-00/01-00-B06/01-00-B06-011	00:54:17;
+
+[PrintText]=00:48:04	Makoto	Heh... Me disculpe con ella. Todo está bien ahora, está perfecto.	00:53:11;
+
+[PlayVoice]=00:48:04	Voice01/01-00/01-00-B06/01-00-B06-0260	1	mak	00:53:11;
+
+[PrintText]=00:53:10	Sekai	Ooh...	00:54:18;
+
+[PlayVoice]=00:53:10	Voice01/01-00/01-00-B06/01-00-B06-0270	0	sek	00:54:18;
+
+[CreateBG]=00:54:17	BGS	Event01/01-00/01-00-B06/01-00-B06-012	01:01:03;
+
+[PrintText]=00:54:17	Makoto	Sí. No soy dejar las cosas a medias.	00:56:21;
+
+[PlayVoice]=00:54:17	Voice01/01-00/01-00-B06/01-00-B06-0280	1	mak	00:56:21;
+
+[PrintText]=00:56:19	Sekai	Ahaha... no es la gran cosa.	01:00:02;
+
+[PlayVoice]=00:56:19	Voice01/01-00/01-00-B06/01-00-B06-0290	0	sek	01:00:02;
+
+ ;
+
+[Next]=01:01:03;
+
+
+
+

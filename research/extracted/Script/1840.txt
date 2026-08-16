@@ -1,0 +1,54 @@
+﻿[SkipFRAME]=00:17:21;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/kyousitu_rouka	00:17:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-002	00:07:10;
+
+[PrintText]=00:00:00	Makoto	...	00:01:17;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-M03/05-SE-M03-0030	1	xxx	00:01:17;
+
+[PrintText]=00:01:16	Sekai	Makoto...	00:02:18;
+
+[PlayVoice]=00:01:16	Voice05/05-SE/05-SE-M03/05-SE-M03-0040	0	sek	00:02:18;
+
+[PrintText]=00:02:18	Makoto	...	00:03:22;
+
+[PlayVoice]=00:02:18	Voice05/05-SE/05-SE-M03/05-SE-M03-0050	1	xxx	00:03:22;
+
+[PrintText]=00:03:22	Sekai	Hey... ¿Makoto...?^	00:06:05;
+
+[PlayVoice]=00:03:22	Voice05/05-SE/05-SE-M03/05-SE-M03-0060	0	sek	00:06:05;
+
+[PrintText]=00:06:05	Makoto	...	00:07:10;
+
+[PlayVoice]=00:06:05	Voice05/05-SE/05-SE-M03/05-SE-M03-0070	1	xxx	00:07:10;
+
+[PrintText]=00:07:09	Sekai	¿Huh? ¿M-Makoto? ¡Hey!	00:10:11;
+
+[PlayVoice]=00:07:09	Voice05/05-SE/05-SE-M03/05-SE-M03-0090	0	sek	00:10:11;
+
+[CreateBG]=00:07:10	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-014	00:10:11;
+
+[PlaySe]=00:10:03	1	SysSe/SE_all/school/standup	00:11:15;
+
+[CreateBG]=00:10:11	BGS	Event05/05-SE/05-SE-M03/05-SE-M03-003	00:17:21;
+
+[PrintText]=00:10:18	Makoto	...Adiós.	00:11:20;
+
+[PlayVoice]=00:10:18	Voice05/05-SE/05-SE-M03/05-SE-M03-0100	1	mak	00:11:20;
+
+[PrintText]=00:11:13	Sekai	¡No! Es broma ¿Verdad? ¡No! ¡Makoto!	00:16:22;
+
+[PlayVoice]=00:11:13	Voice05/05-SE/05-SE-M03/05-SE-M03-0110	0	sek	00:16:22;
+
+[PrintText]=00:16:22	Makoto	...	00:17:20;
+
+[PlayVoice]=00:16:22	Voice05/05-SE/05-SE-M03/05-SE-M03-0120	1	xxx	00:17:20;
+
+ ;
+
+[Next]=00:17:21;
+
+
+

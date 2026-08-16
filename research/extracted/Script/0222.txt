@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:19:17;
+
+[PlaySe]=00:00:00	2	Se02/02-2K/02-2K-F10/SE02-2K-F10-001	00:19:16;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-F10/02-2K-F10-001	00:06:04;
+
+[PrintText]=00:00:00	Makoto	Te Amo.	00:00:21;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-F10/02-2K-F10-0020	1	mak	00:00:21;
+
+[PrintText]=00:01:06	Kotonoha	Yo...también.	00:04:15;
+
+[PlayVoice]=00:01:06	Voice02/02-2K/02-2K-F10/02-2K-F10-0030	0	kot	00:04:15;
+
+[PrintText]=00:04:19	Makoto	Uh-huh...	00:05:12;
+
+[PlayVoice]=00:04:19	Voice02/02-2K/02-2K-F10/02-2K-F10-0040	1	mak	00:05:12;
+
+[PrintText]=00:06:03	Kotonoha	Makoto-kun.	00:07:15;
+
+[PlayVoice]=00:06:03	Voice02/02-2K/02-2K-F10/02-2K-F10-0050	0	kot	00:07:15;
+
+[CreateBG]=00:06:04	BGS	Event02/02-2K/02-2K-F10/02-2K-F10-002	00:13:17;
+
+[PrintText]=00:07:16	Makoto	Uh-huh.	00:08:11;
+
+[PlayVoice]=00:07:16	Voice02/02-2K/02-2K-F10/02-2K-F10-0060	1	mak	00:08:11;
+
+[PrintText]=00:08:11	Kotonoha	¿P-Podemos... parar ya?^	00:10:23;
+
+[PlayVoice]=00:08:11	Voice02/02-2K/02-2K-F10/02-2K-F10-0070	0	kot	00:10:23;
+
+[PrintText]=00:10:23	Makoto	¡¿Eh?!	00:11:13;
+
+[PlayVoice]=00:10:23	Voice02/02-2K/02-2K-F10/02-2K-F10-0080	1	mak	00:11:13;
+
+[PrintText]=00:11:13	Kotonoha	Esto es un poco...	00:13:16;
+
+[PlayVoice]=00:11:13	Voice02/02-2K/02-2K-F10/02-2K-F10-0090	0	kot	00:13:16;
+
+[CreateBG]=00:13:17	BGS	Event02/02-2K/02-2K-F10/02-2K-F10-003	00:17:01;
+
+[PrintText]=00:13:17	Makoto	Ah...	00:14:07;
+
+[PlayVoice]=00:13:17	Voice02/02-2K/02-2K-F10/02-2K-F10-0100	1	mak	00:14:07;
+
+[PlaySe]=00:14:05	1	Voice02/02-2K/02-2K-F10/02-2K-F10-0110	00:15:18;
+
+[PrintText]=00:15:16	Makoto	Vale.	00:16:16;
+
+[PlayVoice]=00:15:16	Voice02/02-2K/02-2K-F10/02-2K-F10-0120	1	mak	00:16:16;
+
+[CreateBG]=00:17:01	BGS	Event02/02-2K/02-2K-F03/02-2K-F03-003	00:19:17;
+
+[PrintText]=00:17:06	Kotonoha	...	00:18:11;
+
+[PlayVoice]=00:17:06	Voice02/02-2K/02-2K-F10/02-2K-F10-0130	0	xxx	00:18:11;
+
+ ;
+
+[Next]=00:19:17;
+
+
+
+

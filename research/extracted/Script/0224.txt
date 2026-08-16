@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:10:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:10:20;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-G01/SE02-2K-G01-001	00:10:20;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-G01/02-2K-G01-001	00:04:04;
+
+[PrintText]=00:00:00	Makoto	Aún tenemos tiempo.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-G01/02-2K-G01-0030	1	mak	00:01:14;
+
+[PrintText]=00:01:15	Kotonoha	R-Recordé que tengo algo que hacer...	00:04:04;
+
+[PlayVoice]=00:01:15	Voice02/02-2K/02-2K-G01/02-2K-G01-0040	0	kot	00:04:04;
+
+[PrintText]=00:04:03	Makoto	Ya veo.	00:04:22;
+
+[PlayVoice]=00:04:03	Voice02/02-2K/02-2K-G01/02-2K-G01-0050	1	mak	00:04:22;
+
+[CreateBG]=00:04:04	BGS	Event02/02-2K/02-2K-G01/02-2K-G01-002	00:07:03;
+
+[PrintText]=00:04:23	Kotonoha	Bueno... iré adelantándome.	00:07:02;
+
+[PlayVoice]=00:04:23	Voice02/02-2K/02-2K-G01/02-2K-G01-0060	0	kot	00:07:02;
+
+[PrintText]=00:07:02	Makoto	S-Sí.	00:09:00;
+
+[PlayVoice]=00:07:02	Voice02/02-2K/02-2K-G01/02-2K-G01-0070	1	mak	00:09:00;
+
+[CreateBG]=00:07:03	BGS	Event02/02-2S/02-2S-T02/02-2S-T02-006	00:10:20;
+
+[BlackFade]=00:09:20	OUT	00:10:20;
+
+ ;
+
+[Next]=00:10:20;
+
+
+
+

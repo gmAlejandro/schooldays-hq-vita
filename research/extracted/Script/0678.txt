@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:09:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm14	00:09:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/footsteps/asioto_out_run	00:01:22;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-J01/03-KB-J01-001	0	00:04:09;
+
+[PrintText]=00:00:00	Makoto	Haah... haah...	00:04:09;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-J01/03-KB-J01-0030	1	mak	00:04:09;
+
+[PlaySe]=00:01:07	2	SysSe/SE_all/footsteps/asioto_out_run	00:04:14;
+
+[BlackFade]=00:03:21	OUT	00:04:09;
+
+[CreateBG]=00:04:09	BGS	Event03/03-KB/03-KB-J01/03-KB-J01-002	00:09:21;
+
+[PrintText]=00:04:09	Makoto	¿Huh...?^	00:05:12;
+
+[PlayVoice]=00:04:09	Voice03/03-KB/03-KB-J01/03-KB-J01-0040	1	mak	00:05:12;
+
+[BlackFade]=00:04:09	IN	00:04:21;
+
+[PrintText]=00:05:12	Makoto	Estoy seguro de que fue por aquí.	00:07:17;
+
+[PlayVoice]=00:05:12	Voice03/03-KB/03-KB-J01/03-KB-J01-0050	1	mak	00:07:17;
+
+[PrintText]=00:07:17	Makoto	¿Será por otro lugar...?^	00:09:20;
+
+[PlayVoice]=00:07:17	Voice03/03-KB/03-KB-J01/03-KB-J01-0060	1	mak	00:09:20;
+
+[BlackFade]=00:09:09	OUT	00:09:21;
+
+ ;
+
+[Next]=00:09:21;
+
+

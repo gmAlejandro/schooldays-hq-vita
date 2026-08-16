@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:14:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:07;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-R07/SE02-2S-R07-001	00:14:07;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:14:07;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-R07/02-2S-R07-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event02/02-2S/02-2S-R07/02-2S-R07-002	00:05:04;
+
+[PrintText]=00:04:04	Sekai	Uh-huh.	00:04:22;
+
+[PlayVoice]=00:04:04	Voice02/02-2S/02-2S-R07/02-2S-R07-0050	0	sek	00:04:22;
+
+[CreateBG]=00:05:04	BGS	Event02/02-2S/02-2S-R07/02-2S-R07-003	00:14:07;
+
+[PrintText]=00:05:11	Makoto	Yo... Quiero que vengas conmigo hoy. Estoy seguro que...	00:12:08;
+
+[PlayVoice]=00:05:11	Voice02/02-2S/02-2S-R07/02-2S-R07-0060	1	mak	00:12:08;
+
+[PrintText]=00:10:00	Makoto	Sekai.	00:10:21;
+
+[PlayVoice]=00:10:00	Voice02/02-2S/02-2S-R07/02-2S-R07-0040	1	mak	00:10:21;
+
+[PrintText]=00:13:03	Sekai	...Bien...	00:13:20;
+
+[PlayVoice]=00:13:03	Voice02/02-2S/02-2S-R07/02-2S-R07-0070	0	sek	00:13:20;
+
+ ;
+
+[Next]=00:14:07;
+
+
+
+

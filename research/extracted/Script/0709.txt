@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:27:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:27:13;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-N10/03-KB-N10-001	0	00:27:13;
+
+[PrintText]=00:00:00	Kotonoha	¿Lo hiciste, no...?^	00:01:17;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-N10/03-KB-N10-0030	0	kot	00:01:17;
+
+[PrintText]=00:01:17	Makoto	...	00:03:00;
+
+[PlayVoice]=00:01:17	Voice03/03-KB/03-KB-N10/03-KB-N10-0040	1	xxx	00:03:00;
+
+[PrintText]=00:02:23	Kotonoha	Después de todo, Saionji-san y tú ya...	00:06:16;
+
+[PlayVoice]=00:02:23	Voice03/03-KB/03-KB-N10/03-KB-N10-0050	0	kot	00:06:16;
+
+[PrintText]=00:06:16	Makoto	¡¿Eh?!	00:07:15;
+
+[PlayVoice]=00:06:16	Voice03/03-KB/03-KB-N10/03-KB-N10-0060	1	mak	00:07:15;
+
+[PrintText]=00:07:15	Kotonoha	Yo... no creo poder hacerlo tan bien como Saionji-san...	00:13:06;
+
+[PlayVoice]=00:07:15	Voice03/03-KB/03-KB-N10/03-KB-N10-0070	0	kot	00:13:06;
+
+[PrintText]=00:13:06	Makoto	¿D-De qué hablas? Sekai y yo nunca...	00:17:23;
+
+[PlayVoice]=00:13:06	Voice03/03-KB/03-KB-N10/03-KB-N10-0080	1	mak	00:17:23;
+
+[PrintText]=00:17:22	Kotonoha	Sawanaga-san me dijo que... te habías confesado a Saionji-san...	00:26:12;
+
+[PlayVoice]=00:17:22	Voice03/03-KB/03-KB-N10/03-KB-N10-0090	0	kot	00:26:12;
+
+[PrintText]=00:26:12	Makoto	Kuh...	00:27:13;
+
+[PlayVoice]=00:26:12	Voice03/03-KB/03-KB-N10/03-KB-N10-0100	1	mak	00:27:13;
+
+ ;
+
+[Next]=00:27:13;
+
+

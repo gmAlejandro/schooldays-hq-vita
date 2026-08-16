@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:41:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:41:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-B0/05-B0-A01/05-B0-A01-001	00:03:00;
+
+[PlaySe]=00:00:12	1	SysSe/SE_all/door/door_room	00:02:08;
+
+[CreateBG]=00:03:00	BGS	Event05/05-B0/05-B0-A01/05-B0-A01-002	00:13:04;
+
+[PrintText]=00:03:01	Kokoro	Onee-chan.	00:04:05;
+
+[PlayVoice]=00:03:01	Voice05/05-B0/05-B0-A01/05-B0-A01-0040	0	kok	00:04:05;
+
+[PrintText]=00:04:05	Kokoro	¿A dónde vas a estas horas de la noche?^	00:06:23;
+
+[PlayVoice]=00:04:05	Voice05/05-B0/05-B0-A01/05-B0-A01-0060	0	kok	00:06:23;
+
+[PrintText]=00:06:23	Kotonoha	¿Por qué me preguntas?^	00:08:04;
+
+[PlayVoice]=00:06:23	Voice05/05-B0/05-B0-A01/05-B0-A01-0070	0	kot	00:08:04;
+
+[PrintText]=00:08:04	Kokoro	¿Por qué? Porque estás actuando extraña últimamente.	00:13:02;
+
+[PlayVoice]=00:08:04	Voice05/05-B0/05-B0-A01/05-B0-A01-0080	0	kok	00:13:02;
+
+[CreateBG]=00:13:04	BGS	Event05/05-B0/05-B0-A01/05-B0-A01-003	00:18:08;
+
+[PrintText]=00:13:05	Kotonoha	No, no lo esto.	00:15:01;
+
+[PlayVoice]=00:13:05	Voice05/05-B0/05-B0-A01/05-B0-A01-0090	0	kot	00:15:01;
+
+[PrintText]=00:15:02	Kokoro	...	00:16:07;
+
+[PlayVoice]=00:15:02	Voice05/05-B0/05-B0-A01/05-B0-A01-0100	0	xxx	00:16:07;
+
+[PrintText]=00:16:07	Kotonoha	Iré a ver a mi novio.	00:18:07;
+
+[PlayVoice]=00:16:07	Voice05/05-B0/05-B0-A01/05-B0-A01-0110	0	kot	00:18:07;
+
+[CreateBG]=00:18:08	BGS	Event05/05-B0/05-B0-A01/05-B0-A01-004	00:21:11;
+
+[PrintText]=00:18:08	Kokoro	Ya veo... te vas a una cita.	00:21:10;
+
+[PlayVoice]=00:18:08	Voice05/05-B0/05-B0-A01/05-B0-A01-0120	0	kok	00:21:10;
+
+[CreateBG]=00:21:11	BGS	Event05/05-B0/05-B0-A01/05-B0-A01-005	00:38:02;
+
+[PrintText]=00:21:11	Kotonoha	No se lo digas a mamá ¿Vale?^	00:23:05;
+
+[PlayVoice]=00:21:11	Voice05/05-B0/05-B0-A01/05-B0-A01-0140	0	kot	00:23:05;
+
+[PrintText]=00:23:05	Kokoro	Seguro, no diré nada.	00:25:02;
+
+[PlayVoice]=00:23:05	Voice05/05-B0/05-B0-A01/05-B0-A01-0150	0	kok	00:25:02;
+
+[PrintText]=00:25:03	Kotonoha	Gracias, Kokoro.	00:26:20;
+
+[PlayVoice]=00:25:03	Voice05/05-B0/05-B0-A01/05-B0-A01-0160	0	kot	00:26:20;
+
+[PrintText]=00:26:20	Kokoro	Oh, así que ahí es a donde vas. Puedo estar tranquila ahora que sé que irás a ver a tu novio. ¿Es... amable?^	00:38:01;
+
+[PlayVoice]=00:26:20	Voice05/05-B0/05-B0-A01/05-B0-A01-0170	0	kok	00:38:01;
+
+[CreateBG]=00:38:01	BGS	Event05/05-B0/05-B0-A01/05-B0-A01-006	00:41:00;
+
+[PrintText]=00:38:04	Kotonoha	Mucho.	00:39:04;
+
+[PlayVoice]=00:38:04	Voice05/05-B0/05-B0-A01/05-B0-A01-0180	0	kot	00:39:04;
+
+[BlackFade]=00:40:00	OUT	00:41:00;
+
+ ;
+
+[Next]=00:41:00;
+
+

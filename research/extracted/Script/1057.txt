@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:05:17;
+
+[PlayMovie]=00:00:00	Movie04/04-KE/04-KE-B04/04-KE-B04-001	0	00:05:17;
+
+[PrintText]=00:00:00	Makoto	...Kotonoha.	00:01:06;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-B04/04-KE-B04-0030	1	mak	00:01:06;
+
+[PrintText]=00:02:05	Kotonoha	...	00:02:18;
+
+[PlayVoice]=00:02:05	Voice04/04-KE/04-KE-B04/04-KE-B04-0040	0	xxx	00:02:18;
+
+[PrintText]=00:02:18	Kotonoha	Mmn...	00:04:09;
+
+[PlayVoice]=00:02:18	Voice04/04-KE/04-KE-B04/04-KE-B04-0060	0	kot	00:04:09;
+
+ ;
+
+[Next]=00:05:17;
+
+

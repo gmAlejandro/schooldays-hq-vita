@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:08:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:08:17;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H05/SE03-KA-H05-001	00:08:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H05/03-KA-H05-001	00:05:00;
+
+[PrintText]=00:00:00	Makoto	¿Y qué?^	00:01:17;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H05/03-KA-H05-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:17	Setsuna	...	00:02:09;
+
+[PlayVoice]=00:01:17	Voice03/03-KA/03-KA-H05/03-KA-H05-0040	0	xxx	00:02:09;
+
+[PrintText]=00:02:09	Makoto	¿Q-Qué?^	00:03:23;
+
+[PlayVoice]=00:02:09	Voice03/03-KA/03-KA-H05/03-KA-H05-0050	1	mak	00:03:23;
+
+[PrintText]=00:03:23	Setsuna	Nada.	00:06:22;
+
+[PlayVoice]=00:03:23	Voice03/03-KA/03-KA-H05/03-KA-H05-0060	0	set	00:06:22;
+
+[CreateBG]=00:05:00	BGS	Event03/03-KA/03-KA-H05/03-KA-H05-002	00:08:17;
+
+[BlackFade]=00:07:17	OUT	00:08:17;
+
+ ;
+
+[Next]=00:08:17;
+
+

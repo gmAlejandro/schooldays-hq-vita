@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:15:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:15:05;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-K00/SE02-2S-K00-001	00:15:05;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:15:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-K00/02-2S-K00-001	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2S/02-2S-K00/02-2S-K00-002	00:15:05;
+
+[PrintText]=00:13:04	Makoto	Ah...espera.	00:14:13;
+
+[PlayVoice]=00:13:04	Voice02/02-2S/02-2S-K00/02-2S-K00-0060	1	mak	00:14:13;
+
+ ;
+
+[Next]=00:15:05;
+
+
+
+

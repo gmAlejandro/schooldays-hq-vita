@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:01:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:07:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-N04/01-00-N04-001	00:07:20;
+
+[PrintText]=00:00:18	Makoto	Yo...	00:01:15;
+
+[PlayVoice]=00:00:18	Voice01/01-00/01-00-N04/01-00-N04-0030	1	mak	00:01:15;
+
+[SetSELECT]=00:01:20	*Intentar llamarla*	*Hablar con ella Mañana*	00:06:20;
+
+ ;
+
+[Next]=00:07:20;
+
+
+
+

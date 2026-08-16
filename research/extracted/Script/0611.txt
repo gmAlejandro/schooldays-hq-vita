@@ -1,0 +1,35 @@
+[SkipFRAME]=02:04:20;
+
+[PlaySe]=00:00:00	1	BGM/Vocal/SDV03	02:04:20;
+
+[PlayMovie]=00:00:00	System/OP/SDHQ_SETSUNA	0	02:04:20; 
+
+[PrintText]=00:00:00	Juego	Amor y paz, lo deseo sobre la rosa Perla Negra^\n♪Rabu and Peace... Kuroshinju no hana ni negau♪^	00:08:20;
+
+[PrintText]=00:09:00	Juego	Luna mística, encuentra a la persona adecuada para mí^\n♪Mystic moon... imasugu ano hito ni awa sete♪^	00:17:00;
+
+[PrintText]=00:36:00	Juego	No soy tan sensible, ni tan fuerte como la personas creen^\n♪Hito ga iu hodo same tenai tsuyoi wakede mo nai♪^	00:43:00;
+
+[PrintText]=00:45:00	Juego	Solo he decido ocultar las lagrimas de mi rostro^\n♪Nakigao wa misenai to kime teru dake♪^	00:51:00;
+
+[PrintText]=00:52:00	Juego	Pero has aceptado mis facetas, mi verdadera naturaleza^\n♪Son’na watashi no sugao-goto uketomete kureta♪^	00:58:00;
+
+[PrintText]=01:00:00	Juego	Y me has dicho que ya no debo llorar más en soledad^\n♪Moohitori de nakanakute mo iinda yotte♪^	01:06:20;
+
+[PrintText]=01:07:00	Juego	Inconscientemente entre nosotros, esto es más que una amistad^\n♪Tomodachi ijoo no sain shirazushirazu nage atte♪^	01:14:20;
+
+[PrintText]=01:15:00	Juego	Y si incluso aceptáramos ¿Quién podría salir herido?^\n♪Kyatchi sureba taisetsuna dareka kizutsukeru♪^	01:23:00;
+
+[PrintText]=01:24:00	Juego	Amor y paz, mientras abrazo la rosa Perla Negra^\n♪Rabu and peace, kuroshinju no hana o daite♪^	01:30:00;
+
+[PrintText]=01:32:00	Juego	Luna mística, busco a la luna mágica oscura^\n♪Mystic moon, maboroshi no kuroi tsuki o yobu♪^	01:39:00;
+
+[PrintText]=01:40:00	Juego	Persiguiéndolo y aislándolo hasta el rincón del mundo^\n♪Sekainohate made oitsumete♪^	01:47:00;
+
+[PrintText]=01:48:00	Juego	Busco al amor, que tomó forma dentro de ti^\n♪Watashi dake no ainokatachi sagasu no♪^	01:53:00;
+
+[PrintText]=01:56:00	Juego	Aún te amo...^\n♪Still I love you...♪^	02:01:00;
+
+ ;
+
+[Next]=02:04:20; 

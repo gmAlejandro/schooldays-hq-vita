@@ -1,0 +1,115 @@
+﻿[SkipFRAME]=00:48:23;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:48:23;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-001	00:02:00;
+
+[PrintText]=00:01:16	Makoto	Ah... Sekai.	00:04:19;
+
+[PlayVoice]=00:01:16	Voice05/05-KF/05-KF-C07/05-KF-C07-0040	1	mak	00:04:19;
+
+[CreateBG]=00:02:00	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-002	00:05:22;
+
+[PrintText]=00:04:19	Sekai	Makoto...	00:05:21;
+
+[PlayVoice]=00:04:19	Voice05/05-KF/05-KF-C07/05-KF-C07-0050	0	sek	00:05:21;
+
+[PrintText]=00:05:21	Makoto	...	00:07:16;
+
+[PlayVoice]=00:05:21	Voice05/05-KF/05-KF-C07/05-KF-C07-0060	1	xxx	00:07:16;
+
+[CreateBG]=00:05:22	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-003	00:07:12;
+
+[PlaySe]=00:06:02	2	SysSe/SE_all/school/tyakuseki	00:07:11;
+
+[CreateBG]=00:07:12	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-004	00:10:00;
+
+[PrintText]=00:07:16	Sekai	Hablé con Katsura-san.	00:09:22;
+
+[PlayVoice]=00:07:16	Voice05/05-KF/05-KF-C07/05-KF-C07-0070	0	sek	00:09:22;
+
+[PrintText]=00:09:23	Makoto	¿Eh?^	00:11:06;
+
+[PlayVoice]=00:09:23	Voice05/05-KF/05-KF-C07/05-KF-C07-0080	1	mak	00:11:06;
+
+[CreateBG]=00:10:00	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-005	00:14:05;
+
+[PrintText]=00:11:06	Sekai	...	00:12:02;
+
+[PlayVoice]=00:11:06	Voice05/05-KF/05-KF-C07/05-KF-C07-0090	0	xxx	00:12:02;
+
+[PrintText]=00:12:02	Makoto	Ya veo.	00:14:04;
+
+[PlayVoice]=00:12:02	Voice05/05-KF/05-KF-C07/05-KF-C07-0100	1	mak	00:14:04;
+
+[CreateBG]=00:14:05	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-006	00:21:18;
+
+[PrintText]=00:14:05	Sekai	¿Te envió un mensaje?^	00:16:01;
+
+[PlayVoice]=00:14:05	Voice05/05-KF/05-KF-C07/05-KF-C07-0110	0	sek	00:16:01;
+
+[PrintText]=00:16:00	Makoto	Sí.	00:17:19;
+
+[PlayVoice]=00:16:00	Voice05/05-KF/05-KF-C07/05-KF-C07-0120	1	mak	00:17:19;
+
+[PrintText]=00:17:19	Sekai	Bien.	00:18:19;
+
+[PlayVoice]=00:17:19	Voice05/05-KF/05-KF-C07/05-KF-C07-0130	0	sek	00:18:19;
+
+[PrintText]=00:18:19	Makoto	...	00:20:18;
+
+[PlayVoice]=00:18:19	Voice05/05-KF/05-KF-C07/05-KF-C07-0140	1	xxx	00:20:18;
+
+[PrintText]=00:20:18	Sekai	Makoto.	00:21:19;
+
+[PlayVoice]=00:20:18	Voice05/05-KF/05-KF-C07/05-KF-C07-0150	0	sek	00:21:19;
+
+[CreateBG]=00:21:18	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-004	00:42:05;
+
+[PrintText]=00:21:19	Makoto	¿Sí?^	00:23:11;
+
+[PlayVoice]=00:21:19	Voice05/05-KF/05-KF-C07/05-KF-C07-0160	1	mak	00:23:11;
+
+[PrintText]=00:23:10	Sekai	Te estaré esperando en la Víspera de Navidad.	00:28:08;
+
+[PlayVoice]=00:23:10	Voice05/05-KF/05-KF-C07/05-KF-C07-0170	0	sek	00:28:08;
+
+[PrintText]=00:28:09	Makoto	¿Huh...?^	00:30:05;
+
+[PlayVoice]=00:28:09	Voice05/05-KF/05-KF-C07/05-KF-C07-0180	1	mak	00:30:05;
+
+[PrintText]=00:30:05	Sekai	El paradero... en la estación.	00:33:00;
+
+[PlayVoice]=00:30:05	Voice05/05-KF/05-KF-C07/05-KF-C07-0190	0	sek	00:33:00;
+
+[PrintText]=00:33:00	Makoto	...	00:35:05;
+
+[PlayVoice]=00:33:00	Voice05/05-KF/05-KF-C07/05-KF-C07-0200	1	xxx	00:35:05;
+
+[PrintText]=00:35:05	Sekai	El lugar donde nos besamos por primera vez... te estaré esperando.	00:42:12;
+
+[PlayVoice]=00:35:05	Voice05/05-KF/05-KF-C07/05-KF-C07-0210	0	sek	00:42:12;
+
+[CreateBG]=00:42:05	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-005	00:44:20;
+
+[PrintText]=00:42:12	Makoto	...	00:44:20;
+
+[PlayVoice]=00:42:12	Voice05/05-KF/05-KF-C07/05-KF-C07-0220	1	xxx	00:44:20;
+
+[CreateBG]=00:44:20	BGS	Event05/05-KF/05-KF-C07/05-KF-C07-003	00:48:23;
+
+[PrintText]=00:44:21	Sekai	Estaré ahí, esperándote.	00:47:01;
+
+[PlayVoice]=00:44:21	Voice05/05-KF/05-KF-C07/05-KF-C07-0230	0	sek	00:47:01;
+
+[PrintText]=00:47:01	Makoto	...	00:48:22;
+
+[PlayVoice]=00:47:01	Voice05/05-KF/05-KF-C07/05-KF-C07-0240	1	xxx	00:48:22;
+
+ ;
+
+[Next]=00:48:23;
+
+
+
+

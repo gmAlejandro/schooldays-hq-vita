@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:16:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:16:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-A0/05-A0-H02/05-A0-H02-001	00:02:10;
+
+[PrintText]=00:00:09	Makoto	Sí, te equivocas.	00:02:09;
+
+[PlayVoice]=00:00:09	Voice05/05-A0/05-A0-H02/05-A0-H02-0040	1	mak	00:02:09;
+
+[CreateBG]=00:02:10	BGS	Event05/05-A0/05-A0-H02/05-A0-H02-002	00:06:22;
+
+[PrintText]=00:02:10	Nanami	¿Vas a seguir jugando como idiota?^	00:04:03;
+
+[PlayVoice]=00:02:10	Voice05/05-A0/05-A0-H02/05-A0-H02-0050	0	nan	00:04:03;
+
+[PrintText]=00:04:11	Makoto	...	00:06:20;
+
+[PlayVoice]=00:04:11	Voice05/05-A0/05-A0-H02/05-A0-H02-0060	1	xxx	00:06:20;
+
+[PrintText]=00:06:21	Nanami	Cuando Sekai estaba llorando, podía escucharla susurrar tu nombre.	00:13:09;
+
+[PlayVoice]=00:06:21	Voice05/05-A0/05-A0-H02/05-A0-H02-0070	0	nan	00:13:09;
+
+[CreateBG]=00:06:22	BGS	Event05/05-A0/05-A0-H02/05-A0-H02-003	00:16:12;
+
+[PrintText]=00:13:11	Makoto	...	00:15:22;
+
+[PlayVoice]=00:13:11	Voice05/05-A0/05-A0-H02/05-A0-H02-0080	1	xxx	00:15:22;
+
+ ;
+
+[Next]=00:16:12;
+
+

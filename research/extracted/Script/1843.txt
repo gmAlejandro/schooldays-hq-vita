@@ -1,0 +1,146 @@
+﻿[SkipFRAME]=01:09:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	01:09:15;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-001	00:04:11;
+
+[PrintText]=00:04:10	Makoto	¡Haah...!	00:19:05;
+
+[PlayVoice]=00:04:10	Voice05/05-SE/05-SE-N00/05-SE-N00-0060	1	mak	00:19:05;
+
+[PlaySe]=00:04:11	1	SysSe/SE_all/h/h_05	00:13:08;
+
+[PlayMovie]=00:04:11	Movie05/05-SE/05-SE-N00/05-SE-N00-002	0	00:06:18;
+
+[MoveSom]=00:04:11	5	00:06:18;
+
+[PlaySe]=00:05:08	2	SysSe/SE_all/h/h_04	00:13:08;
+
+[PlayMovie]=00:06:18	Movie05/05-SE/05-SE-N00/05-SE-N00-003	0	00:09:13;
+
+[MoveSom]=00:06:18	4	00:09:12;
+
+[PlayMovie]=00:09:13	Movie05/05-SE/05-SE-N00/05-SE-N00-005	0	00:13:08;
+
+[MoveSom]=00:09:13	5	00:13:07;
+
+[PlayMovie]=00:13:08	Movie05/05-SE/05-SE-N00/05-SE-N00-008	0	00:18:22;
+
+[MoveSom]=00:13:08	2	00:16:07;
+
+[PlaySe]=00:15:02	1	SysSe/SE_all/h/h_01	00:16:07;
+
+[WhiteFade]=00:17:20	OUT	00:18:22;
+
+[CreateBG]=00:18:22	BGS	System/Screen/White	00:23:11;
+
+[PrintText]=00:19:06	Kotonoha	Haah... haah...	00:23:11;
+
+[PlayVoice]=00:19:06	Voice05/05-SE/05-SE-N00/05-SE-N00-0070	0	kot	00:23:11;
+
+[CreateBG]=00:23:11	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-001	00:27:04;
+
+[PrintText]=00:23:11	Makoto	Phew...	00:27:03;
+
+[PlayVoice]=00:23:11	Voice05/05-SE/05-SE-N00/05-SE-N00-0080	1	mak	00:27:03;
+
+[CreateBG]=00:27:04	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-010	00:30:20;
+
+[PrintText]=00:27:04	Kotonoha	Eheheh... a sido mucho.	00:30:20;
+
+[PlayVoice]=00:27:04	Voice05/05-SE/05-SE-N00/05-SE-N00-0090	0	kot	00:30:20;
+
+[PrintText]=00:30:19	Makoto	Sí.	00:32:01;
+
+[PlayVoice]=00:30:19	Voice05/05-SE/05-SE-N00/05-SE-N00-0100	1	mak	00:32:01;
+
+[CreateBG]=00:30:20	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-011	00:32:02;
+
+[PrintText]=00:32:01	Kotonoha	Espero tener uno.	00:33:18;
+
+[PlayVoice]=00:32:01	Voice05/05-SE/05-SE-N00/05-SE-N00-0110	0	kot	00:33:18;
+
+[CreateBG]=00:32:02	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-012	00:41:05;
+
+[PrintText]=00:33:18	Makoto	¿Huh?^	00:34:09;
+
+[PlayVoice]=00:33:18	Voice05/05-SE/05-SE-N00/05-SE-N00-0120	1	mak	00:34:09;
+
+[PrintText]=00:34:09	Kotonoha	Un bebé.	00:35:08;
+
+[PlayVoice]=00:34:09	Voice05/05-SE/05-SE-N00/05-SE-N00-0130	0	kot	00:35:08;
+
+[PrintText]=00:35:08	Makoto	P-Pero...	00:37:00;
+
+[PlayVoice]=00:35:08	Voice05/05-SE/05-SE-N00/05-SE-N00-0140	1	mak	00:37:00;
+
+[PrintText]=00:37:00	Kotonoha	Quiero tener uno.	00:41:04;
+
+[PlayVoice]=00:37:00	Voice05/05-SE/05-SE-N00/05-SE-N00-0150	0	kot	00:41:04;
+
+[PrintText]=00:41:04	Makoto	Uh...	00:42:02;
+
+[PlayVoice]=00:41:04	Voice05/05-SE/05-SE-N00/05-SE-N00-0160	1	mak	00:42:02;
+
+[CreateBG]=00:41:05	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-013	01:00:20;
+
+[PrintText]=00:42:01	Kotonoha	Tienes a alguien que es devota a ti. No como Saionji-san, que tiene el bebé de otro.	00:48:10;
+
+[PlayVoice]=00:42:01	Voice05/05-SE/05-SE-N00/05-SE-N00-0170	0	kot	00:48:10;
+
+[PrintText]=00:48:10	Kotonoha	Quiero que entiendas eso.	00:53:01;
+
+[PlayVoice]=00:48:10	Voice05/05-SE/05-SE-N00/05-SE-N00-0171	0	kot	00:53:01;
+
+[PrintText]=00:53:01	Makoto	...Sí, lo sé.	00:55:05;
+
+[PlayVoice]=00:53:01	Voice05/05-SE/05-SE-N00/05-SE-N00-0180	1	mak	00:55:05;
+
+[PrintText]=00:55:05	Kotonoha	Si tenemos un bebé... estoy segura que lo entenderás mejor.	01:00:19;
+
+[PlayVoice]=00:55:05	Voice05/05-SE/05-SE-N00/05-SE-N00-0190	0	kot	01:00:19;
+
+[PrintText]=01:00:19	Makoto	¿Tú lo crees?^	01:02:10;
+
+[PlayVoice]=01:00:19	Voice05/05-SE/05-SE-N00/05-SE-N00-0200	1	mak	01:02:10;
+
+[CreateBG]=01:00:20	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-014	01:05:20;
+
+[PrintText]=01:02:10	Kotonoha	Estoy segura de eso.	01:03:19;
+
+[PlayVoice]=01:02:10	Voice05/05-SE/05-SE-N00/05-SE-N00-0210	0	kot	01:03:19;
+
+[PrintText]=01:03:19	Makoto	Sí, ya lo creo.	01:05:01;
+
+[PlayVoice]=01:03:19	Voice05/05-SE/05-SE-N00/05-SE-N00-0220	1	mak	01:05:01;
+
+[PrintText]=01:05:01	Kotonoha	Sí.	01:05:19;
+
+[PlayVoice]=01:05:01	Voice05/05-SE/05-SE-N00/05-SE-N00-0230	0	kot	01:05:19;
+
+[PrintText]=01:05:19	Makoto	Kotonoha.	01:06:18;
+
+[PlayVoice]=01:05:19	Voice05/05-SE/05-SE-N00/05-SE-N00-0240	1	mak	01:06:18;
+
+[CreateBG]=01:05:20	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-015	01:07:10;
+
+[PrintText]=01:06:18	Kotonoha	¿Sí?^	01:07:09;
+
+[PlayVoice]=01:06:18	Voice05/05-SE/05-SE-N00/05-SE-N00-0250	0	kot	01:07:09;
+
+[CreateBG]=01:07:10	BGS	Event05/05-SE/05-SE-N00/05-SE-N00-016	01:09:15;
+
+[PrintText]=01:07:10	Makoto	Te amo.	01:08:12;
+
+[PlayVoice]=01:07:10	Voice05/05-SE/05-SE-N00/05-SE-N00-0260	1	mak	01:08:12;
+
+[PrintText]=01:08:12	Kotonoha	Makoto-kun...	01:09:14;
+
+[PlayVoice]=01:08:12	Voice05/05-SE/05-SE-N00/05-SE-N00-0270	0	kot	01:09:14;
+
+ ;
+
+[Next]=01:09:15;
+
+
+

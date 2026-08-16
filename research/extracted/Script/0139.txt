@@ -1,0 +1,147 @@
+﻿[SkipFRAME]=01:10:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:10:19;
+
+[PlaySe]=00:00:00	1	Se01/01-1K/01-1K-B00/SE01-1K-B00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-002	00:04:14;
+
+[PrintText]=00:03:00	Makoto	Vamos a comer.	00:04:18;
+
+[PlayVoice]=00:03:00	Voice01/01-1K/01-1K-B00/01-1K-B00-0040	1	mak	00:04:18;
+
+[CreateBG]=00:04:14	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-003	00:06:20;
+
+[PrintText]=00:04:14	Kotonoha	Ah, ¿Qué pasó con Saionji-san?^	00:06:20;
+
+[PlayVoice]=00:04:14	Voice01/01-1K/01-1K-B00/01-1K-B00-0050	0	kot	00:06:20;
+
+[CreateBG]=00:06:20	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-009	00:17:01;
+
+[PrintText]=00:06:20	Makoto	Me dijo que iba a ir a la cafetería con Kiyoura y las otras.	00:12:01;
+
+[PlayVoice]=00:06:20	Voice01/01-1K/01-1K-B00/01-1K-B00-0060	1	mak	00:17:01;
+
+[PrintText]=00:12:01	Makoto	Dijo algo como '¡Me he apartado de ellas últimamente, así que voy a ir a restaurar mi amistad!'.	00:17:01;
+
+[CreateBG]=00:17:01	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-005	00:20:01;
+
+[PrintText]=00:17:01	Kotonoha	Ya veo...	00:18:13;
+
+[PlayVoice]=00:17:01	Voice01/01-1K/01-1K-B00/01-1K-B00-0070	0	kot	00:18:13;
+
+[PrintText]=00:18:18	Makoto	Y hay algo más...	00:19:23;
+
+[PlayVoice]=00:18:18	Voice01/01-1K/01-1K-B00/01-1K-B00-0080	1	mak	00:19:23;
+
+[CreateBG]=00:20:01	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-006	00:23:03;
+
+[PrintText]=00:20:01	Kotonoha	¿Sí?^	00:20:18;
+
+[PlayVoice]=00:20:01	Voice01/01-1K/01-1K-B00/01-1K-B00-0090	0	kot	00:20:18;
+
+[PrintText]=00:20:17	Makoto	Ella me dio esto.	00:23:01;
+
+[PlayVoice]=00:20:17	Voice01/01-1K/01-1K-B00/01-1K-B00-0100	1	mak	00:23:01;
+
+[CreateBG]=00:23:03	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-007	00:40:16;
+
+[PrintText]=00:23:03	Kotonoha	Película...	00:24:08;
+
+[PlayVoice]=00:23:03	Voice01/01-1K/01-1K-B00/01-1K-B00-0110	0	kot	00:24:08;
+
+[PrintText]=00:24:10	Makoto	¡Cupones de descuento!	00:26:04;
+
+[PrintText]=00:26:04	Makoto	La tienda donde trabaja Sekai a medio tiempo, tiene conexiones con algunos cines, dijo que podíamos usarlo.	00:32:11;
+
+[PlayVoice]=00:24:10	Voice01/01-1K/01-1K-B00/01-1K-B00-0120	1	mak	00:32:11;
+
+[PrintText]=00:32:12	Kotonoha	Wow.	00:33:18;
+
+[PlayVoice]=00:32:12	Voice01/01-1K/01-1K-B00/01-1K-B00-0130	0	kot	00:33:18;
+
+[PrintText]=00:34:00	Makoto	Así es como es ella, dándonos cupones de descuento, cuando podría habernos dado las entradas.	00:38:22;
+
+[PlayVoice]=00:34:00	Voice01/01-1K/01-1K-B00/01-1K-B00-0140	1	mak	00:38:22;
+
+[PrintText]=00:38:20	Kotonoha	Ufufu...	00:40:08;
+
+[PlayVoice]=00:38:20	Voice01/01-1K/01-1K-B00/01-1K-B00-0150	0	kot	00:40:08;
+
+[CreateBG]=00:40:16	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-008	00:51:22;
+
+[PrintText]=00:40:16	Makoto	Entonces ¿Qué dices?^	00:44:07;
+
+[PlayVoice]=00:40:16	Voice01/01-1K/01-1K-B00/01-1K-B00-0160	1	mak	00:44:07;
+
+[PrintText]=00:44:06	Kotonoha	La Película ¿No?^	00:45:12;
+
+[PlayVoice]=00:44:06	Voice01/01-1K/01-1K-B00/01-1K-B00-0170	0	kot	00:45:12;
+
+[PrintText]=00:45:13	Makoto	S-Sí.	00:47:09;
+
+[PlayVoice]=00:45:13	Voice01/01-1K/01-1K-B00/01-1K-B00-0180	1	mak	00:47:09;
+
+[PrintText]=00:47:17	Kotonoha	¿Cuando?^	00:48:19;
+
+[PlayVoice]=00:47:17	Voice01/01-1K/01-1K-B00/01-1K-B00-0190	0	kot	00:48:19;
+
+[PrintText]=00:48:22	Makoto	Cualquier día que estés libre...	00:51:15;
+
+[PlayVoice]=00:48:22	Voice01/01-1K/01-1K-B00/01-1K-B00-0200	1	mak	00:51:15;
+
+[CreateBG]=00:51:22	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-009	01:02:02;
+
+[PrintText]=00:51:22	Kotonoha	...	00:52:21;
+
+[PlayVoice]=00:51:22	Voice01/01-1K/01-1K-B00/01-1K-B00-0210	0	xxx	00:52:21;
+
+[PrintText]=00:53:06	Makoto	Eh bueno, quiero decir... por ejemplo, tal vez este Sábado.	00:58:19;
+
+[PlayVoice]=00:53:06	Voice01/01-1K/01-1K-B00/01-1K-B00-0220	1	mak	00:58:19;
+
+[PrintText]=00:59:00	Kotonoha	¿El Sábado?^	01:00:15;
+
+[PlayVoice]=00:59:00	Voice01/01-1K/01-1K-B00/01-1K-B00-0230	0	kot	01:00:15;
+
+[PrintText]=01:00:07	Makoto	Sí.	01:01:00;
+
+[PlayVoice]=01:00:07	Voice01/01-1K/01-1K-B00/01-1K-B00-0240	1	mak	01:01:00;
+
+[PrintText]=01:01:12	Kotonoha	...	01:02:02;
+
+[PlayVoice]=01:01:12	Voice01/01-1K/01-1K-B00/01-1K-B00-0250	0	xxx	01:02:02;
+
+[CreateBG]=01:02:02	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-010	01:05:21;
+
+[PrintText]=01:02:02	Makoto	Sí no puedes, entonces otro día...	01:04:12;
+
+[PlayVoice]=01:02:02	Voice01/01-1K/01-1K-B00/01-1K-B00-0260	1	mak	01:04:12;
+
+[PrintText]=01:04:08	Kotonoha	Está bien.	01:05:20;
+
+[PlayVoice]=01:04:08	Voice01/01-1K/01-1K-B00/01-1K-B00-0270	0	kot	01:05:20;
+
+[CreateBG]=01:05:21	BGS	Event01/01-1K/01-1K-B00/01-1K-B00-011	01:10:19;
+
+[PrintText]=01:05:21	Makoto	¡¿Eh?!	01:06:18;
+
+[PlayVoice]=01:05:21	Voice01/01-1K/01-1K-B00/01-1K-B00-0280	1	mak	01:06:18;
+
+[PrintText]=01:06:23	Kotonoha	El Sábado. Suena bien.	01:09:09;
+
+[PlayVoice]=01:06:23	Voice01/01-1K/01-1K-B00/01-1K-B00-0300	0	kot	01:09:09;
+
+[PlaySe]=01:09:05	2	Se01/01-1K/01-1K-B00/SE01-1K-B00-001	01:10:19;
+
+[BlackFade]=01:09:19	OUT	01:10:19;
+
+ ;
+
+[Next]=01:10:19;
+
+
+
+

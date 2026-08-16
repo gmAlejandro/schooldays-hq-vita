@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:10:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:10:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F09/05-5O-F09-001	00:02:03;
+
+[PrintText]=00:00:03	Makoto	Kotonoha... creo.	00:01:23;
+
+[PlayVoice]=00:00:03	Voice05/05-5O/05-5O-F10/05-5O-F10-0030	1	mak	00:01:23;
+
+[CreateBG]=00:02:03	BGS	Event05/05-5O/05-5O-F10/05-5O-F10-002	00:03:11;
+
+[PrintText]=00:02:08	Sekai	No puede ser...	00:03:05;
+
+[PlayVoice]=00:02:08	Voice05/05-5O/05-5O-F10/05-5O-F10-0040	0	sek	00:03:05;
+
+[CreateBG]=00:03:11	BGS	Event05/05-5O/05-5O-F10/05-5O-F10-003	00:07:11;
+
+[PrintText]=00:03:12	Makoto	Kotonoha. Vamos.	00:06:09;
+
+[PlayVoice]=00:03:12	Voice05/05-5O/05-5O-F10/05-5O-F10-0050	1	mak	00:06:09;
+
+[PrintText]=00:06:08	Kotonoha	¡Vale!	00:07:08;
+
+[PlayVoice]=00:06:08	Voice05/05-5O/05-5O-F10/05-5O-F10-0060	0	kot	00:07:08;
+
+[CreateBG]=00:07:11	BGS	Event05/05-5O/05-5O-F10/05-5O-F10-002	00:10:05;
+
+[PrintText]=00:07:14	Sekai	Makoto...	00:09:00;
+
+[PlayVoice]=00:07:14	Voice05/05-5O/05-5O-F10/05-5O-F10-0070	0	sek	00:09:00;
+
+[BlackFade]=00:09:05	OUT	00:10:05;
+
+ ;
+
+[Next]=00:10:05;
+
+

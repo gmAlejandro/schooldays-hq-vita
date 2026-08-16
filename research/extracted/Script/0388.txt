@@ -1,0 +1,135 @@
+﻿[SkipFRAME]=01:21:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	01:21:22;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-X00/SE02-2S-X00-001	01:11:10;
+
+[PlaySe]=00:00:00	2	Se02/02-2S/02-2S-X00/SE02-2S-X00-002	01:15:02;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-X00/02-2S-X00-001	00:02:11;
+
+[PrintText]=00:00:00	Makoto	Fwaah...	00:02:11;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-X00/02-2S-X00-0040	1	mak	00:02:11;
+
+[CreateBG]=00:02:11	BGS	Event02/02-2S/02-2S-X00/02-2S-X00-002	00:08:08;
+
+[PrintText]=00:02:11	Sekai	Ahí vas, bostezando de nuevo. Tú fuiste el que nos sugirió que vayamos a esta hora.	00:08:08;
+
+[PlayVoice]=00:02:11	Voice02/02-2S/02-2S-X00/02-2S-X00-0050	0	sek	00:08:08;
+
+[CreateBG]=00:08:08	BGS	Event02/02-2S/02-2S-X00/02-2S-X00-003	00:21:14;
+
+[PrintText]=00:08:08	Makoto	Nnn ... Sí, pero no puedo evitar tener sueño.	00:14:21;
+
+[PlayVoice]=00:08:08	Voice02/02-2S/02-2S-X00/02-2S-X00-0060	1	mak	00:14:21;
+
+[PrintText]=00:14:21	Sekai	Nunca has estado en la escuela tan temprano ¿No?^	00:19:05;
+
+[PlayVoice]=00:14:21	Voice02/02-2S/02-2S-X00/02-2S-X00-0070	0	sek	00:19:05;
+
+[PrintText]=00:19:06	Makoto	Nunca...	00:21:14;
+
+[PlayVoice]=00:19:06	Voice02/02-2S/02-2S-X00/02-2S-X00-0080	1	mak	00:21:14;
+
+[CreateBG]=00:21:14	BGS	Event02/02-2S/02-2S-X00/02-2S-X00-004	00:29:10;
+
+[PrintText]=00:21:14	Sekai	A esto es a lo que le llaman 'Viaje a casa por la mañana' huh.	00:25:08;
+
+[PlayVoice]=00:21:14	Voice02/02-2S/02-2S-X00/02-2S-X00-0090	0	sek	00:25:08;
+
+[PrintText]=00:25:08	Makoto	Sí, pero aún vamos en la escuela.	00:28:05;
+
+[PlayVoice]=00:25:08	Voice02/02-2S/02-2S-X00/02-2S-X00-0100	1	mak	00:28:05;
+
+[PrintText]=00:28:05	Sekai	Es verdad.	00:29:10;
+
+[PlayVoice]=00:28:05	Voice02/02-2S/02-2S-X00/02-2S-X00-0110	0	sek	00:29:10;
+
+[CreateBG]=00:29:10	BGS	Event02/02-2S/02-2S-X00/02-2S-X00-004B	00:32:21;
+
+[PrintText]=00:29:10	Makoto	Tal vez también deberíamos decirle algo a Kiyoura.	00:33:13;
+
+[PlayVoice]=00:29:10	Voice02/02-2S/02-2S-X00/02-2S-X00-0120	1	mak	00:33:13;
+
+[CreateBG]=00:32:21	BGS	Event02/02-2S/02-2S-X00/02-2S-X00-004C	00:46:21;
+
+[PrintText]=00:32:21	Sekai	¡Wah... N-no..! No te preocupes. Se lo diré yo misma.	00:37:22;
+
+[PlayVoice]=00:32:21	Voice02/02-2S/02-2S-X00/02-2S-X00-0130	0	sek	00:37:22;
+
+[PrintText]=00:37:17	Makoto	¿Lo harás?^	00:38:17;
+
+[PlayVoice]=00:37:17	Voice02/02-2S/02-2S-X00/02-2S-X00-0140	1	mak	00:38:17;
+
+[PrintText]=00:38:17	Sekai	No queremos que ella lo entienda mal.	00:41:03;
+
+[PlayVoice]=00:38:17	Voice02/02-2S/02-2S-X00/02-2S-X00-0150	0	sek	00:41:03;
+
+[PrintText]=00:41:02	Makoto	¿Entienda mal?^	00:41:21;
+
+[PlayVoice]=00:41:02	Voice02/02-2S/02-2S-X00/02-2S-X00-0160	1	mak	00:41:21;
+
+[PrintText]=00:41:23	Sekai	Sospecha de que estamos saliendo.	00:46:23;
+
+[PlayVoice]=00:41:23	Voice02/02-2S/02-2S-X00/02-2S-X00-0170	0	sek	00:46:23;
+
+[PrintText]=00:46:20	Makoto	¿Eso es un malentendido?^	00:48:20;
+
+[PlayVoice]=00:46:20	Voice02/02-2S/02-2S-X00/02-2S-X00-0180	1	mak	00:48:20;
+
+[CreateBG]=00:46:21	BGS	Event02/02-2S/02-2S-X00/02-2S-X00-005	00:55:09;
+
+[PrintText]=00:49:06	Sekai	....Ya no más, supongo.	00:52:21;
+
+[PlayVoice]=00:49:06	Voice02/02-2S/02-2S-X00/02-2S-X00-0190	0	sek	00:52:21;
+
+[PrintText]=00:53:02	Makoto	¿No lo crees así?^	00:55:18;
+
+[PlayVoice]=00:53:02	Voice02/02-2S/02-2S-X00/02-2S-X00-0210	1	mak	00:55:18;
+
+[PlaySe]=00:55:09	3	Se02/02-2S/02-2S-X00/SE02-2S-X00-003	01:03:21;
+
+[PlayMovie]=00:55:09	Movie02/02-2S/02-2S-X00/02-2S-X00-006	0	01:03:21;
+
+[PrintText]=00:56:06	Sekai	...	00:56:23;
+
+[PlayVoice]=00:56:06	Voice02/02-2S/02-2S-X00/02-2S-X00-0220	0	xxx	00:56:23;
+
+[PrintText]=00:57:08	Makoto	¿...Sekai?^	00:58:05;
+
+[PlayVoice]=00:57:08	Voice02/02-2S/02-2S-X00/02-2S-X00-0230	1	mak	00:58:05;
+
+[PlayMovie]=01:03:21	Movie02/02-2S/02-2S-X00/02-2S-X00-007	0	01:10:01;
+
+[PrintText]=01:04:09	Sekai	Vamos a estar en problemas si no lo hacemos como tal.	01:07:11;
+
+[PlayVoice]=01:04:09	Voice02/02-2S/02-2S-X00/02-2S-X00-0240	0	sek	01:07:11;
+
+[PrintText]=01:08:19	Makoto	¿Por qué?^	01:11:16;
+
+[PlayVoice]=01:08:19	Voice02/02-2S/02-2S-X00/02-2S-X00-0260	1	mak	01:11:16;
+
+[PlaySe]=01:09:23	4	Se02/02-2S/02-2S-X00/SE02-2S-X00-001	01:21:22;
+
+[PlayMovie]=01:10:01	Movie02/02-2S/02-2S-X00/02-2S-X00-008	0	01:21:22;
+
+[PrintText]=01:11:18	Sekai	Si no lo hacemos, Katsura-san va a ...	01:14:18;
+
+[PlayVoice]=01:11:18	Voice02/02-2S/02-2S-X00/02-2S-X00-0270	0	sek	01:14:18;
+
+[PlaySe]=01:13:15	3	Se02/02-2S/02-2S-X00/SE02-2S-X00-002	01:21:22;
+
+[PrintText]=01:15:04	Makoto	...	01:18:11;
+
+[PlayVoice]=01:15:04	Voice02/02-2S/02-2S-X00/02-2S-X00-0300	1	xxx	01:18:11;
+
+[BlackFade]=01:20:22	OUT	01:21:22;
+
+ ;
+
+[Next]=01:21:22;
+
+
+
+

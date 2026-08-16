@@ -1,0 +1,232 @@
+﻿[SkipFRAME]=05:23:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	04:32:15;
+
+[PlaySe]=00:00:00	1	Se05/05-SB/05-SB-I02/SE05-SB-I02-001	04:40:04;
+
+[PlayMovie]=00:00:00	Movie05/05-SB/05-SB-I02/05-SB-I02-001	0	00:03:00;
+
+[PrintText]=00:00:20	Makoto	Kotonoha... eres muy hermosa.	00:03:20;
+
+[PlayVoice]=00:00:20	Voice05/05-SB/05-SB-I02/05-SB-I02-0040	1	mak	00:03:20;
+
+[PlayMovie]=00:03:00	Movie05/05-SB/05-SB-I02/05-SB-I02-002	0	00:10:11;
+
+[PrintText]=00:04:00	Kotonoha	Qué vergüenza...	00:05:16;
+
+[PlayVoice]=00:04:00	Voice05/05-SB/05-SB-I02/05-SB-I02-0050	0	kot	00:05:16;
+
+[PrintText]=00:07:00	Makoto	¡Kotonoha...!	00:08:04;
+
+[PlayVoice]=00:07:00	Voice05/05-SB/05-SB-I02/05-SB-I02-0060	1	mak	00:08:04;
+
+[PrintText]=00:08:13	Kotonoha	Makoto-kun...	00:09:18;
+
+[PlayVoice]=00:08:13	Voice05/05-SB/05-SB-I02/05-SB-I02-0070	0	kot	00:09:18;
+
+[PlayMovie]=00:10:11	Movie05/05-SB/05-SB-I02/05-SB-I02-003	0	00:14:11;
+
+[PlayMovie]=00:14:11	Movie05/05-SB/05-SB-I02/05-SB-I02-004	0	00:21:00;
+
+[PrintText]=00:14:15	Kotonoha	Makoto-kun...	00:15:17;
+
+[PlayVoice]=00:14:15	Voice05/05-SB/05-SB-I02/05-SB-I02-0080	0	kot	00:15:17;
+
+[PrintText]=00:17:20	Makoto	Te amo tanto...	00:18:20;
+
+[PlayVoice]=00:17:20	Voice05/05-SB/05-SB-I02/05-SB-I02-0090	1	mak	00:18:20;
+
+[CreateBG]=00:21:00	BGS	Event05/05-SB/05-SB-I02/05-SB-I02-005	00:24:00;
+
+[PlayMovie]=00:24:00	Movie05/05-SB/05-SB-I02/05-SB-I02-006	0	00:27:00;
+
+[PlayMovie]=00:27:00	Movie05/05-SB/05-SB-I02/05-SB-I02-007	0	00:33:00;
+
+[PlayMovie]=00:33:00	Movie05/05-SB/05-SB-I02/05-SB-I02-008	0	00:35:11;
+
+[PlayMovie]=00:35:11	Movie05/05-SB/05-SB-I02/05-SB-I02-009	0	00:42:11;
+
+[PlayMovie]=00:42:11	Movie05/05-SB/05-SB-I02/05-SB-I02-010	0	00:48:05;
+
+[PlayMovie]=00:48:05	Movie05/05-SB/05-SB-I02/05-SB-I02-011	0	00:51:23;
+
+[PlayMovie]=00:51:23	Movie05/05-SB/05-SB-I02/05-SB-I02-012	0	00:56:11;
+
+[PrintText]=00:52:00	Makoto	Te amo Kotonoha.	00:55:12;
+
+[PlayMovie]=00:56:11	Movie05/05-SB/05-SB-I02/05-SB-I02-013	0	01:00:17;
+
+[PlayMovie]=01:00:17	Movie05/05-SB/05-SB-I02/05-SB-I02-014	0	01:04:11;
+
+[PlayMovie]=01:04:11	Movie05/05-SB/05-SB-I02/05-SB-I02-015	0	01:09:11;
+
+[PrintText]=01:04:15	Makoto	Ahora sé... que te amo más que a nadie.	01:09:05;
+
+[PlayMovie]=01:09:11	Movie05/05-SB/05-SB-I02/05-SB-I02-016	0	01:19:11;
+
+[PrintText]=01:11:20	Kotonoha	También te amo...	01:13:00;
+
+[PlayMovie]=01:19:11	Movie05/05-SB/05-SB-I02/05-SB-I02-017	0	01:23:05;
+
+[PrintText]=01:21:03	Makoto	No importa cuanto te he lastimado... jamás dejaré de amarte.	01:28:22;
+
+[PlayMovie]=01:23:05	Movie05/05-SB/05-SB-I02/05-SB-I02-019	0	01:28:17;
+
+[PlayMovie]=01:28:17	Movie05/05-SB/05-SB-I02/05-SB-I02-020	0	01:38:17;
+
+[MoveSom]=01:28:17	2	01:38:17;
+
+[PlayMovie]=01:38:17	Movie05/05-SB/05-SB-I02/05-SB-I02-021	0	01:48:17;
+
+[MoveSom]=01:38:17	1	01:53:23;
+
+[PlayMovie]=01:48:17	Movie05/05-SB/05-SB-I02/05-SB-I02-022	0	01:53:23;
+
+[PrintText]=01:50:07	Kotonoha	¿Lastimado...?^	01:51:09;
+
+[PlayMovie]=01:53:23	Movie05/05-SB/05-SB-I02/05-SB-I02-023	0	01:58:23;
+
+[MoveSom]=01:53:23	2	02:03:11;
+
+[PlayMovie]=01:58:23	Movie05/05-SB/05-SB-I02/05-SB-I02-024	0	02:03:11;
+
+[PrintText]=01:59:12	Makoto	No necesitas preocuparte por eso.	02:02:16;
+
+[PlayMovie]=02:03:11	Movie05/05-SB/05-SB-I02/05-SB-I02-025	0	02:07:05;
+
+[MoveSom]=02:03:11	1	02:13:17;
+
+[PlayMovie]=02:07:05	Movie05/05-SB/05-SB-I02/05-SB-I02-026	0	02:13:17;
+
+[PrintText]=02:07:09	Makoto	A sido una señal... de mi voluntad.	02:11:14;
+
+[PrintText]=02:12:12	Kotonoha	Sí...	02:13:17;
+
+[PlayMovie]=02:13:17	Movie05/05-SB/05-SB-I02/05-SB-I02-027	0	02:18:17;
+
+[MoveSom]=02:13:17	2	02:18:17;
+
+[PlayMovie]=02:18:17	Movie05/05-SB/05-SB-I02/05-SB-I02-028	0	02:32:17;
+
+[PrintText]=02:24:21	Makoto	Mi voluntad para amarte... y solo a ti... por el resto de mi vida.	02:38:07;
+
+[CreateBG]=02:32:17	BGS	Event05/05-SB/05-SB-I02/05-SB-I02-029	02:34:17;
+
+[PlayMovie]=02:34:17	Movie05/05-SB/05-SB-I02/05-SB-I02-031	0	02:39:05;
+
+[PlayMovie]=02:39:05	Movie05/05-SB/05-SB-I02/05-SB-I02-032	0	02:40:17;
+
+[MoveSom]=02:39:15	1	02:42:11;
+
+[PlayMovie]=02:40:17	Movie05/05-SB/05-SB-I02/05-SB-I02-033	0	02:44:05;
+
+[PrintText]=02:41:17	Kotonoha	¡Lo sé... y juro también amarte... Makoto-kun!	02:49:17;
+
+[MoveSom]=02:42:11	2	02:45:23;
+
+[PlayMovie]=02:44:05	Movie05/05-SB/05-SB-I02/05-SB-I02-034	0	02:50:05;
+
+[MoveSom]=02:45:23	5	02:51:23;
+
+[PlayMovie]=02:50:05	Movie05/05-SB/05-SB-I02/05-SB-I02-035	0	02:54:23;
+
+[MoveSom]=02:51:23	4	02:54:03;
+
+[MoveSom]=02:54:03	3	02:56:17;
+
+[PlayMovie]=02:54:23	Movie05/05-SB/05-SB-I02/05-SB-I02-036	0	02:57:17;
+
+[MoveSom]=02:56:17	5	03:04:11;
+
+[PlayMovie]=02:57:17	Movie05/05-SB/05-SB-I02/05-SB-I02-037	0	03:02:17;
+
+[PlayMovie]=03:02:17	Movie05/05-SB/05-SB-I02/05-SB-I02-038	0	03:07:05;
+
+[MoveSom]=03:04:11	3	03:08:23;
+
+[PlayMovie]=03:07:05	Movie05/05-SB/05-SB-I02/05-SB-I02-039	0	03:10:17;
+
+[MoveSom]=03:08:23	4	03:18:11;
+
+[PlayMovie]=03:10:17	Movie05/05-SB/05-SB-I02/05-SB-I02-040	0	03:16:17;
+
+[PlayMovie]=03:16:17	Movie05/05-SB/05-SB-I02/05-SB-I02-041	0	03:18:23;
+
+[MoveSom]=03:18:11	5	03:28:23;
+
+[PlayMovie]=03:18:23	Movie05/05-SB/05-SB-I02/05-SB-I02-042	0	03:27:11;
+
+[PlayMovie]=03:27:11	Movie05/05-SB/05-SB-I02/05-SB-I02-043	0	03:34:23;
+
+[PlayMovie]=03:34:23	Movie05/05-SB/05-SB-I02/05-SB-I02-044	0	03:44:23;
+
+[PlayMovie]=03:44:23	Movie05/05-SB/05-SB-I02/05-SB-I02-045	0	03:51:10;
+
+[PlayMovie]=03:51:10	Movie05/05-SB/05-SB-I02/05-SB-I02-046	0	03:55:10;
+
+[PlayMovie]=03:55:10	Movie05/05-SB/05-SB-I02/05-SB-I02-047	0	04:01:05;
+
+[WhiteFade]=04:00:05	OUT	04:01:05;
+
+[CreateBG]=04:01:05	BGS	System/Screen/White	04:04:04;
+
+[PrintText]=04:02:21	Kotonoha	Hasta ahora...	04:03:22;
+
+[PlayVoice]=04:02:21	Voice05/05-SB/05-SB-I02/05-SB-I02-0240	0	kot	04:03:22;
+
+[PlayMovie]=04:04:05	Movie05/05-SB/05-SB-I02/05-SB-I02-052B	0	04:13:02;
+
+[PrintText]=04:04:05	Makoto	¿Hmn?^	04:04:20;
+
+[PlayVoice]=04:04:05	Voice05/05-SB/05-SB-I02/05-SB-I02-0250	1	mak	04:04:20;
+
+[PrintText]=04:05:22	Kotonoha	Todo el miedo que tenía hasta ahora... parece que a desaparecido.	04:09:09;
+
+[PlayVoice]=04:05:22	Voice05/05-SB/05-SB-I02/05-SB-I02-0260	0	kot	04:09:09;
+
+[PrintText]=04:10:12	Makoto	¿En serio?^	04:11:17;
+
+[PlayVoice]=04:10:12	Voice05/05-SB/05-SB-I02/05-SB-I02-0270	1	mak	04:11:17;
+
+[PlayMovie]=04:13:02	Movie05/05-SB/05-SB-I02/05-SB-I02-053	0	04:25:23;
+
+[PrintText]=04:13:06	Kotonoha	No tenía idea de lo maravilloso que se sentía hacerlo con alguien que amas.	04:20:03;
+
+[PlayVoice]=04:13:06	Voice05/05-SB/05-SB-I02/05-SB-I02-0280	0	kot	04:20:03;
+
+[PrintText]=04:20:18	Makoto	Uh-huh.	04:21:08;
+
+[PlayVoice]=04:20:18	Voice05/05-SB/05-SB-I02/05-SB-I02-0290	1	mak	04:21:08;
+
+[PrintText]=04:21:22	Kotonoha	Quiero estar contigo así... siempre.	04:25:17;
+
+[PlayVoice]=04:21:22	Voice05/05-SB/05-SB-I02/05-SB-I02-0300	0	kot	04:25:17;
+
+[PlayMovie]=04:25:23	Movie05/05-SB/05-SB-I02/05-SB-I02-055	0	04:27:09;
+
+[PrintText]=04:26:02	Makoto	Yo también...	04:26:22;
+
+[PlayVoice]=04:26:02	Voice05/05-SB/05-SB-I02/05-SB-I02-0310	1	mak	04:26:22;
+
+[PlayMovie]=04:27:09	Movie05/05-SB/05-SB-I02/05-SB-I02-054	0	04:32:13;
+
+[PrintText]=04:28:03	Kotonoha	Makoto-kun... Te amo.	04:32:07;
+
+[PlayVoice]=04:28:03	Voice05/05-SB/05-SB-I02/05-SB-I02-0320	0	kot	04:32:07;
+
+[PlayMovie]=04:32:14	Movie05/05-SB/05-SB-I02/05-SB-I02-054B	0	04:40:05;
+
+[EndBGM]=04:32:16	BGM/Vocal/SDV09	06:58:03;
+
+[BlackFade]=04:39:05	OUT	04:40:05;
+
+[CreateBG]=04:40:05	BGS	Ini/EndRoll/05-16	04:43:00;
+
+[EndRoll]=04:43:00	Ini/EndRoll/GOOD	05:23:00;
+
+ ;
+
+[Next]=05:23:00;
+
+
+

@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:28:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:28:08;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-H02/00-00-H02-001	00:08:06;
+
+[PrintText]=00:00:06	Makoto	¿Qué te parece Sakakino-cho?^	00:02:04;
+
+[PlayVoice]=00:00:06	Voice00/00-00/00-00-H02/00-00-H02-0030	1	mak	00:02:04;
+
+[PrintText]=00:01:23	Sekai	Claro, suena bien.	00:03:14;
+
+[PlayVoice]=00:01:23	Voice00/00-00/00-00-H02/00-00-H02-0040	0	sek	00:03:14;
+
+[PrintText]=00:03:12	Makoto	Puede que me rechace, pero daré todo de mí.	00:07:11;
+
+[PlayVoice]=00:03:12	Voice00/00-00/00-00-H02/00-00-H02-0050	1	mak	00:07:11;
+
+[PrintText]=00:07:09	Sekai	...	00:08:00;
+
+[PlayVoice]=00:07:09	Voice00/00-00/00-00-H02/00-00-H02-0060	0	xxx	00:08:00;
+
+[PlayMovie]=00:08:06	Movie00/00-00/00-00-H02/00-00-H02-002	0	00:26:11;
+
+[PrintText]=00:08:06	Makoto	Pase lo que pase, quiero agradecerte, Sekai.	00:14:05;
+
+[PlayVoice]=00:08:06	Voice00/00-00/00-00-H02/00-00-H02-0070	1	mak	00:14:05;
+
+[PrintText]=00:14:15	Makoto	Sentía que tenía que contártelo...	00:18:17;
+
+[PlayVoice]=00:14:15	Voice00/00-00/00-00-H02/00-00-H02-0071	1	mak	00:18:17;
+
+[PrintText]=00:18:19	Sekai	...Makoto.	00:19:21;
+
+[PlayVoice]=00:18:19	Voice00/00-00/00-00-H02/00-00-H02-0080	0	sek	00:19:21;
+
+[PrintText]=00:20:02	Makoto	Sí...	00:20:15;
+
+[PlayVoice]=00:20:02	Voice00/00-00/00-00-H02/00-00-H02-0090	1	mak	00:20:15;
+
+[PrintText]=00:20:16	Sekai	...	00:22:22;
+
+[PlayVoice]=00:20:16	Voice00/00-00/00-00-H02/00-00-H02-0100	0	xxx	00:22:22;
+
+[PrintText]=00:22:21	Makoto	...¿Sekai?^	00:23:18;
+
+[PlayVoice]=00:22:21	Voice00/00-00/00-00-H02/00-00-H02-0110	1	mak	00:23:18;
+
+[PrintText]=00:23:17	Sekai	Estarás bien, Makoto.	00:25:13;
+
+[PlayVoice]=00:23:17	Voice00/00-00/00-00-H02/00-00-H02-0120	0	sek	00:25:13;
+
+[PrintText]=00:25:12	Makoto	Gracias.	00:26:08;
+
+[PlayVoice]=00:25:12	Voice00/00-00/00-00-H02/00-00-H02-0130	1	mak	00:26:08;
+
+[PrintText]=00:26:08	Sekai	Da lo mejor de ti.	00:27:12;
+
+[PlayVoice]=00:26:08	Voice00/00-00/00-00-H02/00-00-H02-0140	0	sek	00:27:12;
+
+[CreateBG]=00:26:11	BGS	Event00/00-00/00-00-H02/00-00-H02-003	00:28:08;
+
+[PrintText]=00:27:08	Makoto	Vale.	00:27:21;
+
+[PlayVoice]=00:27:08	Voice00/00-00/00-00-H02/00-00-H02-0150	1	mak	00:27:21;
+
+[BlackFade]=00:27:20	OUT	00:28:08;
+
+ ;
+
+[Next]=00:28:08;
+
+
+
+

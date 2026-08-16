@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:30:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:30:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-E01/03-A1-E01-001	00:02:20;
+
+[PrintText]=00:00:00	Makoto	Sí.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-E01/03-A1-E01-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:16	Setsuna	...	00:02:12;
+
+[PlayVoice]=00:01:16	Voice03/03-A1/03-A1-E01/03-A1-E01-0040	0	xxx	00:02:12;
+
+[CreateBG]=00:02:20	BGS	Event03/03-A1/03-A1-E01/03-A1-E01-002	00:07:03;
+
+[PrintText]=00:02:22	Makoto	P-Pero cualquier chico normal actuaría así ¿No?^	00:07:03;
+
+[PlayVoice]=00:02:22	Voice03/03-A1/03-A1-E01/03-A1-E01-0050	1	mak	00:07:03;
+
+[CreateBG]=00:07:03	BGS	Event03/03-A1/03-A1-E01/03-A1-E01-003	00:08:18;
+
+[PrintText]=00:07:04	Setsuna	Bestia.	00:08:02;
+
+[PlayVoice]=00:07:04	Voice03/03-A1/03-A1-E01/03-A1-E01-0060	0	set	00:08:02;
+
+[PrintText]=00:07:21	Makoto	¡Cállate!	00:08:15;
+
+[PlayVoice]=00:07:21	Voice03/03-A1/03-A1-E01/03-A1-E01-0070	1	mak	00:08:15;
+
+[CreateBG]=00:08:18	BGS	Event03/03-A1/03-A1-E01/03-A1-E01-004	00:17:10;
+
+[PrintText]=00:08:21	Setsuna	¿...entonces, Katsura-san termino odiándote, y empezaste a salir con Sekai?^	00:15:10;
+
+[PlayVoice]=00:08:21	Voice03/03-A1/03-A1-E01/03-A1-E01-0080	0	set	00:15:10;
+
+[PrintText]=00:15:10	Makoto	¿Huh...?^	00:16:01;
+
+[PlayVoice]=00:15:10	Voice03/03-A1/03-A1-E01/03-A1-E01-0090	1	mak	00:16:01;
+
+[PrintText]=00:16:07	Setsuna	¿Me equivoco?^	00:17:05;
+
+[PlayVoice]=00:16:07	Voice03/03-A1/03-A1-E01/03-A1-E01-0100	0	set	00:17:05;
+
+[CreateBG]=00:17:10	BGS	Event03/03-A1/03-A1-D00/03-A1-D00-003	00:30:06;
+
+[PrintText]=00:17:10	Makoto	Es al revés. Sekai me dejó y me dijo que fuera con Kotonoha... por lo que traté de hacer precisamente eso.	00:25:21;
+
+[PlayVoice]=00:17:10	Voice03/03-A1/03-A1-E01/03-A1-E01-0110	1	mak	00:25:21;
+
+[PrintText]=00:25:20	Setsuna	¿Sekai te dejó?^	00:27:12;
+
+[PlayVoice]=00:25:20	Voice03/03-A1/03-A1-E01/03-A1-E01-0120	0	set	00:27:12;
+
+[PrintText]=00:27:16	Makoto	Sí.	00:28:08;
+
+[PlayVoice]=00:27:16	Voice03/03-A1/03-A1-E01/03-A1-E01-0130	1	mak	00:28:08;
+
+[PrintText]=00:28:17	Setsuna	...	00:29:21;
+
+[PlayVoice]=00:28:17	Voice03/03-A1/03-A1-E01/03-A1-E01-0140	0	xxx	00:29:21;
+
+ ;
+
+[Next]=00:30:06;
+
+

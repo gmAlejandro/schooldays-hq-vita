@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:05:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:05:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-H04/05-5O-H04-001	00:01:07;
+
+[PrintText]=00:00:08	Makoto	...	00:00:17;
+
+[PlayVoice]=00:00:08	Voice05/05-5O/05-5O-H04/05-5O-H04-0030	1	xxx	00:00:17;
+
+[CreateBG]=00:01:07	BGS	Event05/05-5O/05-5O-H04/05-5O-H04-002	00:03:02;
+
+[PrintText]=00:01:08	Kotonoha	¿U-um?^	00:02:23;
+
+[PlayVoice]=00:01:08	Voice05/05-5O/05-5O-H04/05-5O-H04-0040	0	kot	00:02:23;
+
+[CreateBG]=00:03:02	BGS	Event05/05-5O/05-5O-H04/05-5O-H04-003	00:04:02;
+
+[PrintText]=00:03:05	Makoto	...	00:03:23;
+
+[PlayVoice]=00:03:05	Voice05/05-5O/05-5O-H04/05-5O-H04-0050	1	xxx	00:03:23;
+
+[CreateBG]=00:04:02	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-001	00:05:15;
+
+[PrintText]=00:04:03	Kotonoha	Iré contigo.	00:05:11;
+
+[PlayVoice]=00:04:03	Voice05/05-5O/05-5O-H04/05-5O-H04-0060	0	kot	00:05:11;
+
+ ;
+
+[Next]=00:05:15;
+
+

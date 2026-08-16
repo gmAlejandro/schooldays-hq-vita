@@ -1,0 +1,309 @@
+﻿[SkipFRAME]=03:11:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	03:17:06;
+
+[PlaySe]=00:00:00	2	Se03/03-SA/03-SA-H01/SE03-SA-H01-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-001	00:20:11;
+
+[PrintText]=00:00:00	Sekai	Este vestido no puede ensuciarse...	00:03:05;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-H01/03-SA-H01-0030	0	sek	00:03:05;
+
+[PrintText]=00:03:05	Makoto	Tendré cuidado de no ensuciarlo...	00:05:02;
+
+[PlayVoice]=00:03:05	Voice03/03-SA/03-SA-H01/03-SA-H01-0040	1	mak	00:05:02;
+
+[PrintText]=00:05:03	Sekai	Mentiroso...	00:06:07;
+
+[PlayVoice]=00:05:03	Voice03/03-SA/03-SA-H01/03-SA-H01-0050	0	sek	00:06:07;
+
+[PrintText]=00:06:07	Makoto	No miento. Me aseguraré de...	00:09:04;
+
+[PlayVoice]=00:06:07	Voice03/03-SA/03-SA-H01/03-SA-H01-0060	1	mak	00:09:04;
+
+[PrintText]=00:09:04	Makoto	...sacarte la ropa sin ensuciarla.	00:11:09;
+
+[PlayVoice]=00:09:04	Voice03/03-SA/03-SA-H01/03-SA-H01-0080	1	mak	00:11:09;
+
+[PrintText]=00:11:09	Sekai	Ooh... tonto.	00:13:18;
+
+[PlayVoice]=00:11:09	Voice03/03-SA/03-SA-H01/03-SA-H01-0090	0	sek	00:13:18;
+
+[PrintText]=00:13:19	Makoto	Eres tan linda.	00:14:23;
+
+[PlayVoice]=00:13:19	Voice03/03-SA/03-SA-H01/03-SA-H01-0100	1	mak	00:14:23;
+
+[PlayVoice]=00:14:23	Voice03/03-SA/03-SA-H01/03-SA-H01-0110			00:17:18;
+
+[PrintText]=00:17:18	Sekai	¡Ah... mmn...!	00:20:10;
+
+[PlayVoice]=00:17:18	Voice03/03-SA/03-SA-H01/03-SA-H01-0120	0	sek	00:20:10;
+
+[PlaySe]=00:18:02	3	SysSe/SE_all/h/h_03	00:42:01;
+
+[CreateBG]=00:20:11	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-002	00:29:09;
+
+[PrintText]=00:20:11	Makoto	Nn...	00:21:15;
+
+[PlayVoice]=00:20:11	Voice03/03-SA/03-SA-H01/03-SA-H01-0130	1	mak	00:21:15;
+
+[PrintText]=00:21:15	Sekai	Haah... mmn... ah...	00:26:11;
+
+[PlayVoice]=00:21:15	Voice03/03-SA/03-SA-H01/03-SA-H01-0150	0	sek	00:26:11;
+
+[PrintText]=00:26:11	Makoto	Ya estás toda mojada.	00:29:08;
+
+[PlayVoice]=00:26:11	Voice03/03-SA/03-SA-H01/03-SA-H01-0160	1	mak	00:29:08;
+
+[CreateBG]=00:29:09	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-003	00:42:12;
+
+[PrintText]=00:29:09	Sekai	Es porque...	00:31:07;
+
+[PlayVoice]=00:29:09	Voice03/03-SA/03-SA-H01/03-SA-H01-0170	0	sek	00:31:07;
+
+[PrintText]=00:31:07	Makoto	En ese caso...podremos hacerlo de nuevo sin hacernos tarde.	00:34:16;
+
+[PlayVoice]=00:31:07	Voice03/03-SA/03-SA-H01/03-SA-H01-0180	1	mak	00:34:16;
+
+[PrintText]=00:34:16	Sekai	Idiota... ya no hablaré más contigo.	00:38:20;
+
+[PlayVoice]=00:34:16	Voice03/03-SA/03-SA-H01/03-SA-H01-0190	0	sek	00:38:20;
+
+[PrintText]=00:38:20	Makoto	¿No quieres apostar a ello?^	00:40:09;
+
+[PlayVoice]=00:38:20	Voice03/03-SA/03-SA-H01/03-SA-H01-0200	1	mak	00:40:09;
+
+[PrintText]=00:40:10	Sekai	No...	00:42:11;
+
+[PlayVoice]=00:40:10	Voice03/03-SA/03-SA-H01/03-SA-H01-0210	0	sek	00:42:11;
+
+[CreateBG]=00:42:12	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-004	01:01:16;
+
+[PrintText]=00:42:12	Makoto	Lo dices así, pero...	00:44:10;
+
+[PlayVoice]=00:42:12	Voice03/03-SA/03-SA-H01/03-SA-H01-0220	1	mak	00:44:10;
+
+[PlaySe]=00:43:17	3	SysSe/SE_all/h/nuno2	00:44:18;
+
+[PlaySe]=00:44:02	1	SysSe/SE_all/h/h_03	01:06:05;
+
+[PrintText]=00:44:10	Sekai	¡Haah...! ¡Ahh! ¡...Ahí...! ¡Ahhh...!	00:51:21;
+
+[PlayVoice]=00:44:10	Voice03/03-SA/03-SA-H01/03-SA-H01-0230	0	sek	00:51:21;
+
+[PrintText]=00:51:21	Makoto	¿Lo ves...?^	00:52:21;
+
+[PlayVoice]=00:51:21	Voice03/03-SA/03-SA-H01/03-SA-H01-0240	1	mak	00:52:21;
+
+[PrintText]=00:52:22	Sekai	Uh-huh... ahhh...! Kuh...	00:57:18;
+
+[PlayVoice]=00:52:22	Voice03/03-SA/03-SA-H01/03-SA-H01-0250	0	sek	00:57:18;
+
+[PrintText]=00:57:18	Sekai	Haah... haah...	01:01:16;
+
+[PlayVoice]=00:57:18	Voice03/03-SA/03-SA-H01/03-SA-H01-0260	0	sek	01:01:16;
+
+[CreateBG]=01:01:16	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-005	01:11:03;
+
+[PrintText]=01:01:16	Sekai	Por favor...	01:06:05;
+
+[PlayVoice]=01:01:16	Voice03/03-SA/03-SA-H01/03-SA-H01-0280	0	sek	01:06:05;
+
+[PrintText]=01:06:06	Makoto	¿Qué deseas que haga?^	01:07:12;
+
+[PlayVoice]=01:06:06	Voice03/03-SA/03-SA-H01/03-SA-H01-0300	1	mak	01:07:12;
+
+[PrintText]=01:07:12	Sekai	Quiero que me toques...	01:11:02;
+
+[PlayVoice]=01:07:12	Voice03/03-SA/03-SA-H01/03-SA-H01-0310	0	sek	01:11:02;
+
+[PlaySe]=01:08:15	3	Se03/03-SA/03-SA-H01/SE03-SA-H01-001	02:17:20;
+
+[CreateBG]=01:11:03	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-006	01:20:00;
+
+[PrintText]=01:11:03	Makoto	¿Que te toque y..?^	01:14:00;
+
+[PlayVoice]=01:11:03	Voice03/03-SA/03-SA-H01/03-SA-H01-0320	1	mak	01:14:00;
+
+[PlaySe]=01:13:06	2	SysSe/SE_all/h/h_03	01:36:01;
+
+[PrintText]=01:14:00	Sekai	Nn...	01:15:10;
+
+[PlayVoice]=01:14:00	Voice03/03-SA/03-SA-H01/03-SA-H01-0330	0	sek	01:15:10;
+
+[PrintText]=01:15:10	Sekai	¡Nhaah...! ¡Haah... hazlo...!	01:24:15;
+
+[PlayVoice]=01:15:10	Voice03/03-SA/03-SA-H01/03-SA-H01-0350	0	sek	01:24:15;
+
+[PlayMovie]=01:20:00	Movie03/03-SA/03-SA-H01/H3-SA-H01-007	0	01:36:13;
+
+[PrintText]=01:24:16	Makoto	Vale.	01:25:09;
+
+[PlayVoice]=01:24:16	Voice03/03-SA/03-SA-H01/03-SA-H01-0360	1	mak	01:25:09;
+
+[PlaySe]=01:25:10	1	Voice03/03-SA/03-SA-H01/03-SA-H01-0360A	01:29:09;
+
+[PrintText]=01:29:08	Sekai	¡Haah... haah... ah...!	01:33:19;
+
+[PlayVoice]=01:29:08	Voice03/03-SA/03-SA-H01/03-SA-H01-0370	0	sek	01:33:19;
+
+[PrintText]=01:34:01	Sekai	¡Ahh...!	01:35:20;
+
+[PlayVoice]=01:34:01	Voice03/03-SA/03-SA-H01/03-SA-H01-0400	0	sek	01:35:20;
+
+[WhiteFade]=01:35:13	OUT	01:36:13;
+
+[CreateBG]=01:36:13	BGS	System/Screen/White	01:37:19;
+
+[CreateBG]=01:37:19	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-008	01:38:21;
+
+[PrintText]=01:37:19	Makoto	Haah...	01:38:21;
+
+[PlayVoice]=01:37:19	Voice03/03-SA/03-SA-H01/03-SA-H01-0440	1	mak	01:38:21;
+
+[WhiteFade]=01:37:19	IN	01:38:07;
+
+[CreateBG]=01:38:21	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-009	01:41:21;
+
+[PrintText]=01:38:21	Sekai	El festival está a punto de terminar ¿Eh?^	01:41:21;
+
+[PlayVoice]=01:38:21	Voice03/03-SA/03-SA-H01/03-SA-H01-0450	0	sek	01:41:21;
+
+[CreateBG]=01:41:21	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-010	01:43:11;
+
+[PrintText]=01:41:21	Makoto	Sí, estamos en problemas.	01:43:10;
+
+[PlayVoice]=01:41:21	Voice03/03-SA/03-SA-H01/03-SA-H01-0460	1	mak	01:43:10;
+
+[CreateBG]=01:43:11	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-011	01:55:01;
+
+[PrintText]=01:43:11	Sekai	Todo porque querías hacerlo muchas veces.	01:46:11;
+
+[PlayVoice]=01:43:11	Voice03/03-SA/03-SA-H01/03-SA-H01-0470	0	sek	01:46:11;
+
+[PrintText]=01:46:12	Makoto	Me he encendido mucho al verte con ese vestido.	01:50:01;
+
+[PlayVoice]=01:46:12	Voice03/03-SA/03-SA-H01/03-SA-H01-0480	1	mak	01:50:01;
+
+[PrintText]=01:50:01	Sekai	Cielos... me pregunto si se quitará cuando volvamos a clases.	01:55:01;
+
+[PlayVoice]=01:50:01	Voice03/03-SA/03-SA-H01/03-SA-H01-0490	0	sek	01:55:01;
+
+[CreateBG]=01:55:01	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-012	01:56:12;
+
+[PrintText]=01:55:01	Makoto	¿'Quitarse'...?^	01:56:11;
+
+[PlayVoice]=01:55:01	Voice03/03-SA/03-SA-H01/03-SA-H01-0500	1	mak	01:56:11;
+
+[PrintText]=01:56:11	Sekai	Porque esparciste mucho, hasta en la ropa...	02:01:03;
+
+[PlayVoice]=01:56:11	Voice03/03-SA/03-SA-H01/03-SA-H01-0510	0	sek	02:01:03;
+
+[CreateBG]=01:56:12	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-013	02:01:03;
+
+[PrintText]=02:01:03	Makoto	¿Debería llenarlo hasta taparlo entonces?^	02:04:08;
+
+[PlayVoice]=02:01:03	Voice03/03-SA/03-SA-H01/03-SA-H01-0520	1	mak	02:04:08;
+
+[CreateBG]=02:01:04	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-014	02:12:14;
+
+[PrintText]=02:04:08	Sekai	Eso fue sucio, Makoto.	02:06:07;
+
+[PlayVoice]=02:04:08	Voice03/03-SA/03-SA-H01/03-SA-H01-0530	0	sek	02:06:07;
+
+[PrintText]=02:06:08	Makoto	Haha...	02:07:10;
+
+[PlayVoice]=02:06:08	Voice03/03-SA/03-SA-H01/03-SA-H01-0540	1	mak	02:07:10;
+
+[PrintText]=02:07:10	Sekai	Bueno, me adelantaré. Puedes estar tranquilo, iré sola.	02:12:14;
+
+[PlayVoice]=02:07:10	Voice03/03-SA/03-SA-H01/03-SA-H01-0550	0	sek	02:12:14;
+
+[CreateBG]=02:12:14	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-015	02:17:01;
+
+[PrintText]=02:12:14	Makoto	¿En serio? Puedo ir contigo.	02:15:13;
+
+[PlayVoice]=02:12:14	Voice03/03-SA/03-SA-H01/03-SA-H01-0560	1	mak	02:15:13;
+
+[PrintText]=02:15:13	Sekai	Estaré bien. Ah, pero ven a la fogata ¿vale?^	02:19:17;
+
+[PlayVoice]=02:15:13	Voice03/03-SA/03-SA-H01/03-SA-H01-0570	0	sek	02:19:17;
+
+[PlaySe]=02:16:08	2	Se03/03-SA/03-SA-H02/SE03-SA-H02-002	03:17:06;
+
+[CreateBG]=02:17:01	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-016	02:23:20;
+
+[PrintText]=02:19:18	Makoto	¿Me hablas del baile folk?^	02:23:05;
+
+[PlayVoice]=02:19:18	Voice03/03-SA/03-SA-H01/03-SA-H01-0580	1	mak	02:23:05;
+
+[PrintText]=02:23:05	Sekai	Sip.	02:23:20;
+
+[PlayVoice]=02:23:05	Voice03/03-SA/03-SA-H01/03-SA-H01-0590	0	sek	02:23:20;
+
+[CreateBG]=02:23:20	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-017	02:27:12;
+
+[PrintText]=02:23:20	Makoto	El baile Folk, huh... suena una tortura.	02:27:11;
+
+[PlayVoice]=02:23:20	Voice03/03-SA/03-SA-H01/03-SA-H01-0600	1	mak	02:27:11;
+
+[CreateBG]=02:27:12	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-018	02:34:07;
+
+[PrintText]=02:27:12	Sekai	Vamos, aunque sea.	02:29:04;
+
+[PlayVoice]=02:27:12	Voice03/03-SA/03-SA-H01/03-SA-H01-0610	0	sek	02:29:04;
+
+[PrintText]=02:29:05	Makoto	¿Hay algo de especial en ello?^	02:30:13;
+
+[PlayVoice]=02:29:05	Voice03/03-SA/03-SA-H01/03-SA-H01-0620	1	mak	02:30:13;
+
+[PrintText]=02:30:12	Sekai	Hay un significado detrás del baile folk en la fogata.	02:34:07;
+
+[PlayVoice]=02:30:12	Voice03/03-SA/03-SA-H01/03-SA-H01-0630	0	sek	02:34:07;
+
+[CreateBG]=02:34:07	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-019	02:47:12;
+
+[PrintText]=02:34:07	Makoto	¿Significado? ¿Quieres decir que las parejas que bailen en la fogata no terminarán?^	02:39:07;
+
+[PlayVoice]=02:34:07	Voice03/03-SA/03-SA-H01/03-SA-H01-0640	1	mak	02:39:07;
+
+[PrintText]=02:39:07	Sekai	También, pero el baile folk es como un evento para presentar oficialmente a las parejas.	02:45:10;
+
+[PlayVoice]=02:39:07	Voice03/03-SA/03-SA-H01/03-SA-H01-0650	0	sek	02:45:10;
+
+[PrintText]=02:45:10	Makoto	¿'Presentar'...?^	02:46:20;
+
+[PlayVoice]=02:45:10	Voice03/03-SA/03-SA-H01/03-SA-H01-0660	1	mak	02:46:20;
+
+[PrintText]=02:46:21	Sekai	...Sip.	02:47:11;
+
+[PlayVoice]=02:46:21	Voice03/03-SA/03-SA-H01/03-SA-H01-0670	0	sek	02:47:11;
+
+[CreateBG]=02:47:12	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-020	03:02:22;
+
+[PrintText]=02:47:12	Makoto	¿Te refieres a que anunciamos ante todo la escuela que estamos saliendo?^	02:51:23;
+
+[PlayVoice]=02:47:12	Voice03/03-SA/03-SA-H01/03-SA-H01-0680	1	mak	02:51:23;
+
+[PrintText]=02:51:23	Sekai	Quiero hacerlo. Sé que es realmente egoísta al pensarlo, pero... en el fondo de mi corazón, tú...	03:02:21;
+
+[PlayVoice]=02:51:23	Voice03/03-SA/03-SA-H01/03-SA-H01-0690	0	sek	03:02:21;
+
+[CreateBG]=03:02:22	BGS	Event03/03-SA/03-SA-H01/03-SA-H01-021	03:17:06;
+
+[PrintText]=03:02:22	Makoto	...	03:03:20;
+
+[PlayVoice]=03:02:22	Voice03/03-SA/03-SA-H01/03-SA-H01-0700	1	xxx	03:03:20;
+
+[PrintText]=03:03:20	Sekai	Así que ¡Por favor! Quiero que ser una novia legítima.	03:10:04;
+
+[PlayVoice]=03:03:20	Voice03/03-SA/03-SA-H01/03-SA-H01-0710	0	sek	03:10:04;
+
+[SetSELECT]=03:11:06	'Vale'	'Pensaré en ello'	03:16:06;
+
+ ;
+
+[Next]=03:17:06;
+
+

@@ -1,0 +1,89 @@
+﻿[SkipFRAME]=00:41:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:41:22;
+
+[PlaySe]=00:00:00	3	Se01/01-00/01-00-M05/SE01-00-M05-001	00:41:22;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-M05/01-00-M05-001	00:03:22;
+
+[PrintText]=00:00:00	Makoto	Me gusta Katsura, y aún...	00:03:04;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-M05/01-00-M05-0030	1	mak	00:03:04;
+
+[PrintText]=00:03:04	Sekai	Uh-huh...	00:03:21;
+
+[PlayVoice]=00:03:04	Voice01/01-00/01-00-M05/01-00-M05-0040	0	sek	00:03:21;
+
+[PrintText]=00:03:21	Makoto	Sí fueras tú con la que saldría, no estaría sufriendo como ahora.	00:08:22;
+
+[PlayVoice]=00:03:21	Voice01/01-00/01-00-M05/01-00-M05-0050	1	mak	00:08:22;
+
+[CreateBG]=00:03:22	BGS	Event01/01-00/01-00-M05/01-00-M05-002	00:14:04;
+
+[PrintText]=00:08:22	Sekai	Idiota. Ese sufrimiento es lo que llamas 'Amor'.	00:14:03;
+
+[PlayVoice]=00:08:22	Voice01/01-00/01-00-M05/01-00-M05-0060	0	sek	00:14:03;
+
+[PlaySe]=00:11:01	1	Se01/01-00/01-00-M05/SE01-00-M05-002	00:19:13;
+
+[PrintText]=00:14:03	Makoto	Amor, huh... ¿Realmente lo crees?^	00:17:22;
+
+[PlayVoice]=00:14:03	Voice01/01-00/01-00-M05/01-00-M05-0070	1	mak	00:17:22;
+
+[CreateBG]=00:14:04	BGS	Event01/01-00/01-00-M05/01-00-M05-003	00:19:00;
+
+[PrintText]=00:17:22	Sekai	Sí.	00:18:23;
+
+[PlayVoice]=00:17:22	Voice01/01-00/01-00-M05/01-00-M05-0080	0	sek	00:18:23;
+
+[CreateBG]=00:19:00	BGS	Event01/01-00/01-00-M05/01-00-M05-004	00:20:16;
+
+[PrintText]=00:19:00	Sekai	Bueno... Me voy a casa.	00:20:15;
+
+[PlayVoice]=00:19:00	Voice01/01-00/01-00-M05/01-00-M05-0100	0	sek	00:20:15;
+
+[PlaySe]=00:19:06	2	Se01/01-00/01-00-M05/SE01-00-M05-004	00:21:07;
+
+[PrintText]=00:20:15	Makoto	Vale... ¿Sekai?^	00:25:12;
+
+[PlayVoice]=00:20:15	Voice01/01-00/01-00-M05/01-00-M05-0110	1	mak	00:25:12;
+
+[CreateBG]=00:20:16	BGS	Event01/01-00/01-00-M05/01-00-M05-005	00:27:01;
+
+[PlaySe]=00:22:02	1	Se01/01-00/01-00-M05/SE01-00-M05-007	00:24:13;
+
+[PrintText]=00:25:12	Sekai	¿Hmn?^	00:26:01;
+
+[PlayVoice]=00:25:12	Voice01/01-00/01-00-M05/01-00-M05-0120	0	sek	00:26:01;
+
+[PrintText]=00:26:02	Makoto	Gracias.	00:27:01;
+
+[PlayVoice]=00:26:02	Voice01/01-00/01-00-M05/01-00-M05-0130	1	mak	00:27:01;
+
+[CreateBG]=00:27:01	BGS	Event01/01-00/01-00-M05/01-00-M05-006	00:34:02;
+
+[PrintText]=00:27:03	Sekai	Idiota.	00:28:12;
+
+[PlayVoice]=00:27:03	Voice01/01-00/01-00-M05/01-00-M05-0140	0	sek	00:28:12;
+
+[PlaySe]=00:27:18	2	Se01/01-00/01-00-M05/SE01-00-M05-003	00:32:13;
+
+[PlayVoice]=00:28:19	Voice01/01-00/01-00-M05/01-00-M05-0150			00:29:21;
+
+[PlaySe]=00:31:11	1	Se01/01-00/01-00-M05/SE01-00-M05-005	00:41:22;
+
+[PlayMovie]=00:34:02	Movie00/00-00/00-00-L00/00-00-L00-027	0	00:41:22;
+
+[PlaySe]=00:36:15	2	Se01/01-00/01-00-M05/SE01-00-M05-006	00:41:22;
+
+[PrintText]=00:38:10	Sekai	...Idiota.	00:39:03;
+
+[PlayVoice]=00:38:10	Voice01/01-00/01-00-M05/01-00-M05-0180	0	sek	00:39:03;
+
+ ;
+
+[Next]=00:41:22;
+
+
+
+

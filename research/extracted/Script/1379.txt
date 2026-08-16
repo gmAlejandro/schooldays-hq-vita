@@ -1,0 +1,231 @@
+﻿[SkipFRAME]=02:15:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	01:40:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-001	00:02:21;
+
+[PrintText]=00:01:20	Taisuke	Ah...	00:02:10;
+
+[PlayVoice]=00:01:20	Voice05/05-5O/05-5O-N00/05-5O-N00-0040	1	tai	00:02:10;
+
+[CreateBG]=00:02:21	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-002	00:04:22;
+
+[PrintText]=00:03:01	Kotonoha	Sawanaga-san...	00:04:13;
+
+[PlayVoice]=00:03:01	Voice05/05-5O/05-5O-N00/05-5O-N00-0060	0	kot	00:04:13;
+
+[CreateBG]=00:04:22	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-003	00:06:18;
+
+[PrintText]=00:05:01	Taisuke	¿Te vas?^	00:06:15;
+
+[PlayVoice]=00:05:01	Voice05/05-5O/05-5O-N00/05-5O-N00-0070	1	tai	00:06:15;
+
+[CreateBG]=00:06:18	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-004	00:08:20;
+
+[PrintText]=00:06:21	Kotonoha	Um... Iré a la casa de Makoto-kun.	00:10:20;
+
+[PlayVoice]=00:06:21	Voice05/05-5O/05-5O-N00/05-5O-N00-0080	0	kot	00:10:20;
+
+[CreateBG]=00:08:20	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-004B	00:12:09;
+
+[PrintText]=00:11:01	Hikari	¡¿Eh?!	00:12:00;
+
+[PlayVoice]=00:11:01	Voice05/05-5O/05-5O-N00/05-5O-N00-0090	0	hik	00:12:00;
+
+[CreateBG]=00:12:09	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-005	00:16:08;
+
+[PrintText]=00:12:09	Kotonoha	Le dije que... iría hoy.	00:16:03;
+
+[PlayVoice]=00:12:09	Voice05/05-5O/05-5O-N00/05-5O-N00-0100	0	kot	00:16:03;
+
+[CreateBG]=00:16:08	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-006	00:22:11;
+
+[PrintText]=00:16:12	Hikari	¡E-Eso...! ¡¿Itou aceptó?!	00:19:20;
+
+[PlayVoice]=00:16:12	Voice05/05-5O/05-5O-N00/05-5O-N00-0110	0	hik	00:19:20;
+
+[PrintText]=00:20:03	Kotonoha	Sí.	00:20:20;
+
+[PlayVoice]=00:20:03	Voice05/05-5O/05-5O-N00/05-5O-N00-0120	0	kot	00:20:20;
+
+[PrintText]=00:21:02	Hikari	¡No puede ser!	00:22:08;
+
+[PlayVoice]=00:21:02	Voice05/05-5O/05-5O-N00/05-5O-N00-0130	0	hik	00:22:08;
+
+[CreateBG]=00:22:11	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-007	00:24:13;
+
+[PrintText]=00:22:14	Kotonoha	¿Por qué lo dices?^	00:24:10;
+
+[PlayVoice]=00:22:14	Voice05/05-5O/05-5O-N00/05-5O-N00-0140	0	kot	00:24:10;
+
+[CreateBG]=00:24:13	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-008	00:28:18;
+
+[PrintText]=00:24:16	Hikari	Porque Itou fue a ver a Sekai.	00:28:15;
+
+[PlayVoice]=00:24:16	Voice05/05-5O/05-5O-N00/05-5O-N00-0150	0	hik	00:28:15;
+
+[CreateBG]=00:28:18	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-009	00:30:17;
+
+[PrintText]=00:28:20	Kotonoha	¡¿Eh?!	00:30:14;
+
+[PlayVoice]=00:28:20	Voice05/05-5O/05-5O-N00/05-5O-N00-0160	0	kot	00:30:14;
+
+[CreateBG]=00:30:17	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-010	00:38:03;
+
+[PrintText]=00:30:20	Hikari	¡Él no saldría con alguien como tú!	00:33:20;
+
+[PlayVoice]=00:30:20	Voice05/05-5O/05-5O-N00/05-5O-N00-0170	0	hik	00:33:20;
+
+[PrintText]=00:33:23	Taisuke	¡H-hey, cálmate, Hikari!	00:36:08;
+
+[PlayVoice]=00:33:23	Voice05/05-5O/05-5O-N00/05-5O-N00-0180	1	tai	00:36:08;
+
+[PrintText]=00:36:14	Hikari	¡Phew!	00:38:01;
+
+[PlayVoice]=00:36:14	Voice05/05-5O/05-5O-N00/05-5O-N00-0190	0	hik	00:38:01;
+
+[CreateBG]=00:38:03	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-011	00:47:18;
+
+[PrintText]=00:38:06	Kotonoha	Um... ¿Es verdad?^	00:41:19;
+
+[PlayVoice]=00:38:06	Voice05/05-5O/05-5O-N00/05-5O-N00-0200	0	kot	00:41:19;
+
+[PrintText]=00:42:00	Taisuke	¡¿Eh?!	00:42:14;
+
+[PlayVoice]=00:42:00	Voice05/05-5O/05-5O-N00/05-5O-N00-0210	1	tai	00:42:14;
+
+[PrintText]=00:42:21	Kotonoha	¿Es verdad que Makoto-kun... a ido a ver a Saionji-san?^	00:47:14;
+
+[PlayVoice]=00:42:21	Voice05/05-5O/05-5O-N00/05-5O-N00-0220	0	kot	00:47:14;
+
+[CreateBG]=00:47:18	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-012	01:06:21;
+
+[PrintText]=00:47:21	Taisuke	...	00:48:18;
+
+[PlayVoice]=00:47:21	Voice05/05-5O/05-5O-N00/05-5O-N00-0230	1	xxx	00:48:18;
+
+[PrintText]=00:49:04	Kotonoha	Lo es ¿No?^	00:52:05;
+
+[PlayVoice]=00:49:04	Voice05/05-5O/05-5O-N00/05-5O-N00-0240	0	kot	00:52:05;
+
+[PrintText]=00:52:18	Taisuke	Bueno, Saionji le dijo que vaya, así que no sé a dónde iba a ir en realidad.	00:58:09;
+
+[PlayVoice]=00:52:18	Voice05/05-5O/05-5O-N00/05-5O-N00-0250	1	tai	00:58:09;
+
+[PlayVoice]=00:58:21	Voice05/05-5O/05-5O-N00/05-5O-N00-0260			01:00:19;
+
+[PrintText]=01:01:12	Taisuke	Pero, parecía que estaba luchando por tomar una decisión... no lo sé.	01:06:17;
+
+[PlayVoice]=01:01:12	Voice05/05-5O/05-5O-N00/05-5O-N00-0270	1	tai	01:06:17;
+
+[CreateBG]=01:06:21	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-013	01:08:19;
+
+[PrintText]=01:07:05	Kotonoha	¿Eh...?^	01:08:11;
+
+[PlayVoice]=01:07:05	Voice05/05-5O/05-5O-N00/05-5O-N00-0280	0	kot	01:08:11;
+
+[CreateBG]=01:08:19	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-014	01:20:08;
+
+[PrintText]=01:09:04	Taisuke	Si has hecho planes con él, entonces es probable que no vaya a ver a Saionji, pero...	01:14:10;
+
+[PlayVoice]=01:09:04	Voice05/05-5O/05-5O-N00/05-5O-N00-0290	1	tai	01:14:10;
+
+[PrintText]=01:15:02	Hikari	¿Realmente has hecho planes con él?^	01:17:03;
+
+[PlayVoice]=01:15:02	Voice05/05-5O/05-5O-N00/05-5O-N00-0300	0	hik	01:17:03;
+
+[PrintText]=01:17:13	Kotonoha	...Creo.	01:18:12;
+
+[PlayVoice]=01:17:13	Voice05/05-5O/05-5O-N00/05-5O-N00-0310	0	kot	01:18:12;
+
+[PrintText]=01:19:00	Hikari	¿Crees?^	01:20:02;
+
+[PlayVoice]=01:19:00	Voice05/05-5O/05-5O-N00/05-5O-N00-0320	0	hik	01:20:02;
+
+[CreateBG]=01:20:08	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-015	01:31:05;
+
+[PrintText]=01:20:14	Kotonoha	Yo... le dije que vendría. Pero no respondió...	01:27:16;
+
+[PlayVoice]=01:20:14	Voice05/05-5O/05-5O-N00/05-5O-N00-0330	0	kot	01:27:16;
+
+[PrintText]=01:28:01	Taisuke	Katsura-san.	01:29:01;
+
+[PlayVoice]=01:28:01	Voice05/05-5O/05-5O-N00/05-5O-N00-0340	1	tai	01:29:01;
+
+[PrintText]=01:29:11	Kotonoha	¿Sí?^	01:30:23;
+
+[PlayVoice]=01:29:11	Voice05/05-5O/05-5O-N00/05-5O-N00-0350	0	kot	01:30:23;
+
+[CreateBG]=01:31:05	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-016	01:46:14;
+
+[PrintText]=01:31:08	Taisuke	Si él realmente te ama... entonces vendrá.	01:37:05;
+
+[PlayVoice]=01:31:08	Voice05/05-5O/05-5O-N00/05-5O-N00-0360	1	tai	01:37:05;
+
+[PrintText]=01:37:14	Kotonoha	...Sí.	01:39:08;
+
+[PlayVoice]=01:37:14	Voice05/05-5O/05-5O-N00/05-5O-N00-0370	0	kot	01:39:08;
+
+[PlaySe]=01:38:21	2	SysSe/SE_all/station_train/gakuenmae_yuugata	02:15:10;
+
+[PrintText]=01:39:18	Taisuke	Pero si no ¿Por qué no te rindes?^	01:46:09;
+
+[PlayVoice]=01:39:18	Voice05/05-5O/05-5O-N00/05-5O-N00-0380	1	tai	01:46:09;
+
+[CreateBG]=01:46:14	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-017	01:48:12;
+
+[PrintText]=01:46:18	Kotonoha	¿Eh...?^	01:48:06;
+
+[PlayVoice]=01:46:18	Voice05/05-5O/05-5O-N00/05-5O-N00-0390	0	kot	01:48:06;
+
+[CreateBG]=01:48:12	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-018	01:53:17;
+
+[PrintText]=01:48:16	Taisuke	Quiero que respetes la decisión que tomará, está pensándolo bastante.	01:53:07;
+
+[PlayVoice]=01:48:16	Voice05/05-5O/05-5O-N00/05-5O-N00-0400	1	tai	01:53:07;
+
+[CreateBG]=01:53:17	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-019	01:58:02;
+
+[PrintText]=01:53:22	Kotonoha	...	01:55:09;
+
+[PlayVoice]=01:53:22	Voice05/05-5O/05-5O-N00/05-5O-N00-0410	0	xxx	01:55:09;
+
+[PrintText]=01:55:17	Taisuke	Por favor.	01:56:14;
+
+[PlayVoice]=01:55:17	Voice05/05-5O/05-5O-N00/05-5O-N00-0420	1	tai	01:56:14;
+
+[PrintText]=01:57:01	Kotonoha	...Bien.	01:57:19;
+
+[PlayVoice]=01:57:01	Voice05/05-5O/05-5O-N00/05-5O-N00-0430	0	kot	01:57:19;
+
+[CreateBG]=01:58:02	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-020	02:11:10;
+
+[PrintText]=01:58:07	Taisuke	Bueno, me voy... espero que te elija a ti.	02:04:06;
+
+[PlayVoice]=01:58:07	Voice05/05-5O/05-5O-N00/05-5O-N00-0440	1	tai	02:04:06;
+
+[PrintText]=02:04:21	Hikari	¡Yo no!	02:06:20;
+
+[PlayVoice]=02:04:21	Voice05/05-5O/05-5O-N00/05-5O-N00-0450	0	hik	02:06:20;
+
+[PrintText]=02:07:05	Taisuke	Venga, vamos.	02:08:17;
+
+[PlayVoice]=02:07:05	Voice05/05-5O/05-5O-N00/05-5O-N00-0460	1	tai	02:08:17;
+
+[PrintText]=02:08:23	Hikari	¡Ah... espera!	02:11:06;
+
+[PlayVoice]=02:08:23	Voice05/05-5O/05-5O-N00/05-5O-N00-0470	0	hik	02:11:06;
+
+[CreateBG]=02:11:10	BGS	Event05/05-5O/05-5O-N00/05-5O-N00-021	02:15:10;
+
+[PrintText]=02:11:14	Kotonoha	...	02:13:16;
+
+[PlayVoice]=02:11:14	Voice05/05-5O/05-5O-N00/05-5O-N00-0480	0	xxx	02:13:16;
+
+[BlackFade]=02:14:10	OUT	02:15:10;
+
+ ;
+
+[Next]=02:15:10;
+
+

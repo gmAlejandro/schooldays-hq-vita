@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:19:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:19:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E01/04-SA-E01-001	00:05:19;
+
+[PrintText]=00:00:08	Makoto	Sí, tal vez.	00:01:10;
+
+[PlayVoice]=00:00:08	Voice04/04-SA/04-SA-E01/04-SA-E01-0030	1	mak	00:01:10;
+
+[PrintText]=00:01:11	Taisuke	¿Cierto? Entonces, hay algo que quiero discutir contigo.	00:05:01;
+
+[PlayVoice]=00:01:11	Voice04/04-SA/04-SA-E01/04-SA-E01-0040	1	tai	00:05:01;
+
+[PrintText]=00:05:01	Makoto	¿Discutir?^	00:05:22;
+
+[PlayVoice]=00:05:01	Voice04/04-SA/04-SA-E01/04-SA-E01-0050	1	mak	00:05:22;
+
+[CreateBG]=00:05:19	BGS	Event04/04-SA/04-SA-E01/04-SA-E01-002	00:19:05;
+
+[PrintText]=00:06:02	Taisuke	Sí, tengo una entrada para la piscina en Sakakino Hills.	00:11:15;
+
+[PlayVoice]=00:06:02	Voice04/04-SA/04-SA-E01/04-SA-E01-0060	1	tai	00:11:15;
+
+[PrintText]=00:11:12	Makoto	El Balneario, he oído que es muy popular, con un montón de piscinas en ella.	00:16:03;
+
+[PlayVoice]=00:11:12	Voice04/04-SA/04-SA-E01/04-SA-E01-0070	1	mak	00:16:03;
+
+[PrintText]=00:16:03	Taisuke	¡Y mira... tengo CUATRO entradas!	00:19:04;
+
+[PlayVoice]=00:16:03	Voice04/04-SA/04-SA-E01/04-SA-E01-0080	1	tai	00:19:04;
+
+ ;
+
+[Next]=00:19:05;
+
+

@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:49:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	00:41:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-B01/05-KF-B01-001	00:01:20;
+
+[PlaySe]=00:01:20	1	SysSe/SE_all/keitai/tyakusin_makoto	00:04:19;
+
+[CreateBG]=00:01:20	BGS	Event05/05-KF/05-KF-B01/05-KF-B01-002	00:04:21;
+
+[CreateBG]=00:04:21	BGS	Event05/05-KF/05-KF-B01/05-KF-B01-003	00:22:16;
+
+[PrintText]=00:04:21	Makoto	¿Sí?^	00:05:19;
+
+[PlayVoice]=00:04:21	Voice05/05-KF/05-KF-B01/05-KF-B01-0040	1	mak	00:05:19;
+
+[PrintText]=00:05:16	Taisuke	¡Makoto!	00:08:07;
+
+[PlayVoice]=00:05:16	Voice05/05-KF/05-KF-B01/05-KF-B01-0050	1	tai	00:08:07;
+
+[PrintText]=00:07:12	Makoto	Taisuke...	00:08:17;
+
+[PlayVoice]=00:07:12	Voice05/05-KF/05-KF-B01/05-KF-B01-0060	1	mak	00:08:17;
+
+[PrintText]=00:08:17	Taisuke	¡Hey... no te imaginas!	00:11:04;
+
+[PlayVoice]=00:08:17	Voice05/05-KF/05-KF-B01/05-KF-B01-0070	1	tai	00:11:04;
+
+[PrintText]=00:10:13	Makoto	¿Sí?^	00:11:20;
+
+[PlayVoice]=00:10:13	Voice05/05-KF/05-KF-B01/05-KF-B01-0080	1	mak	00:11:20;
+
+[PrintText]=00:11:20	Taisuke	¡Me terminaron!	00:16:07;
+
+[PlayVoice]=00:11:20	Voice05/05-KF/05-KF-B01/05-KF-B01-0090	1	tai	00:16:07;
+
+[PrintText]=00:15:23	Makoto	...	00:16:19;
+
+[PlayVoice]=00:15:23	Voice05/05-KF/05-KF-B01/05-KF-B01-0100	1	mak	00:16:19;
+
+[PrintText]=00:17:01	Taisuke	Después de clases... Sekai de repente terminó conmigo.	00:21:03;
+
+[PlayVoice]=00:17:01	Voice05/05-KF/05-KF-B01/05-KF-B01-0110	1	tai	00:21:03;
+
+[PrintText]=00:21:02	Makoto	¿En serio?^	00:23:04;
+
+[PlayVoice]=00:21:02	Voice05/05-KF/05-KF-B01/05-KF-B01-0120	1	mak	00:23:04;
+
+[CreateBG]=00:22:16	BGS	Event00/00-00/00-00-H01/00-00-H01-001	00:49:01;
+
+[PrintText]=00:23:00	Taisuke	Solo me decía que había alguien a quien quería. No lo entiendo... uuh...	00:33:01;
+
+[PlayVoice]=00:23:00	Voice05/05-KF/05-KF-B01/05-KF-B01-0130	1	tai	00:33:01;
+
+[PrintText]=00:33:01	Makoto	...	00:36:03;
+
+[PlayVoice]=00:33:01	Voice05/05-KF/05-KF-B01/05-KF-B01-0140	1	xxx	00:36:03;
+
+[PrintText]=00:36:13	Taisuke	¡Makoto! ¿Te dijo quién le gustaba?^	00:41:01;
+
+[PlayVoice]=00:36:13	Voice05/05-KF/05-KF-B01/05-KF-B01-0150	1	tai	00:41:01;
+
+[PrintText]=00:40:15	Makoto	¿Huh?^	00:41:16;
+
+[PlayVoice]=00:40:15	Voice05/05-KF/05-KF-B01/05-KF-B01-0160	1	mak	00:41:16;
+
+[PrintText]=00:41:19	Taisuke	Eres muy cercano a ella ¿No es así?!	00:45:11;
+
+[PlayVoice]=00:41:19	Voice05/05-KF/05-KF-B01/05-KF-B01-0170	1	tai	00:45:11;
+
+[PrintText]=00:45:16	Makoto	...	00:48:18;
+
+[PlayVoice]=00:45:16	Voice05/05-KF/05-KF-B01/05-KF-B01-0180	1	xxx	00:48:18;
+
+ ;
+
+[Next]=00:49:01;
+
+
+
+

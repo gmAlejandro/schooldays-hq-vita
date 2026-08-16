@@ -1,0 +1,297 @@
+﻿[SkipFRAME]=03:36:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-001	00:02:14;
+
+[PrintText]=00:00:10	Makoto	Buen día.	00:02:14;
+
+[PlayVoice]=00:00:10	Voice05/05-KC/05-KC-C00/05-KC-C00-0040	1	mak	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-002	00:04:11;
+
+[PrintText]=00:02:14	Sekai	Ah... Sí.	00:04:11;
+
+[PlayVoice]=00:02:14	Voice05/05-KC/05-KC-C00/05-KC-C00-0050	0	sek	00:04:11;
+
+[PrintText]=00:04:10	Makoto	¿Te... sorprendí ayer?^	00:08:03;
+
+[PlayVoice]=00:04:10	Voice05/05-KC/05-KC-C00/05-KC-C00-0070	1	mak	00:08:03;
+
+[CreateBG]=00:04:11	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-003	00:08:04;
+
+[PrintText]=00:08:02	Sekai	Uh-huh...	00:08:22;
+
+[PlayVoice]=00:08:02	Voice05/05-KC/05-KC-C00/05-KC-C00-0080	0	sek	00:08:22;
+
+[CreateBG]=00:08:04	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-004	00:09:08;
+
+[PrintText]=00:08:22	Makoto	Perdón. Solo quería darte una pequeña sorpresa.	00:13:05;
+
+[PlayVoice]=00:08:22	Voice05/05-KC/05-KC-C00/05-KC-C00-0090	1	mak	00:13:05;
+
+[CreateBG]=00:09:08	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-005	00:13:06;
+
+[PrintText]=00:13:05	Sekai	Eso no fue una 'pequeña' sorpresa...	00:15:07;
+
+[PlayVoice]=00:13:05	Voice05/05-KC/05-KC-C00/05-KC-C00-0100	0	sek	00:15:07;
+
+[CreateBG]=00:13:06	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-006	00:15:07;
+
+[CreateBG]=00:15:07	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-007	00:17:09;
+
+[PrintText]=00:15:07	Makoto	Ya veo.	00:17:08;
+
+[PlayVoice]=00:15:07	Voice05/05-KC/05-KC-C00/05-KC-C00-0110	1	mak	00:17:08;
+
+[PrintText]=00:17:08	Sekai	Katsura-san lo sabía todo este tiempo ¿No es así?^	00:21:08;
+
+[PlayVoice]=00:17:08	Voice05/05-KC/05-KC-C00/05-KC-C00-0120	0	sek	00:21:08;
+
+[CreateBG]=00:17:09	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-008	00:33:22;
+
+[PrintText]=00:21:08	Makoto	... Sí, así parece.	00:23:19;
+
+[PlayVoice]=00:21:08	Voice05/05-KC/05-KC-C00/05-KC-C00-0130	1	mak	00:23:19;
+
+[PrintText]=00:23:19	Sekai	¿Te estás burlando de mí?^	00:29:02;
+
+[PlayVoice]=00:23:19	Voice05/05-KC/05-KC-C00/05-KC-C00-0140	0	sek	00:29:02;
+
+[PrintText]=00:29:02	Makoto	No. Solo me enteré hace poco.	00:33:21;
+
+[PlayVoice]=00:29:02	Voice05/05-KC/05-KC-C00/05-KC-C00-0150	1	mak	00:33:21;
+
+[CreateBG]=00:33:22	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-009	00:35:12;
+
+[PrintText]=00:33:22	Sekai	Ya veo...	00:34:19;
+
+[PlayVoice]=00:33:22	Voice05/05-KC/05-KC-C00/05-KC-C00-0160	0	sek	00:34:19;
+
+[PrintText]=00:35:00	Makoto	Kotonoha no dijo nada malo de ti.	00:39:16;
+
+[PlayVoice]=00:35:00	Voice05/05-KC/05-KC-C00/05-KC-C00-0170	1	mak	00:39:16;
+
+[CreateBG]=00:35:12	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-010	00:57:01;
+
+[PrintText]=00:39:15	Sekai	...	00:40:14;
+
+[PlayVoice]=00:39:15	Voice05/05-KC/05-KC-C00/05-KC-C00-0180	0	xxx	00:40:14;
+
+[PrintText]=00:40:14	Makoto	Solo soltó una pequeña risa y dijo que fue su culpa...	00:49:09;
+
+[PlayVoice]=00:40:14	Voice05/05-KC/05-KC-C00/05-KC-C00-0190	1	mak	00:49:09;
+
+[PrintText]=00:49:09	Makoto	que te perdonaría por todo. Para ser honesto, me sentía bastante culpable. Por eso sus palabras dieron en el punto.	00:57:00;
+
+[PlayVoice]=00:49:09	Voice05/05-KC/05-KC-C00/05-KC-C00-0191	1	mak	00:57:00;
+
+[PrintText]=00:57:00	Sekai	¿No será toda su estrategia?^	00:59:13;
+
+[PlayVoice]=00:57:00	Voice05/05-KC/05-KC-C00/05-KC-C00-0200	0	sek	00:59:13;
+
+[CreateBG]=00:57:01	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-011	00:59:13;
+
+[CreateBG]=00:59:13	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-012	01:08:10;
+
+[PrintText]=00:59:13	Makoto	¿Estrategia..? No lo mires así. Le hemos hecho más daño a ella que ella a nosotros.	01:08:09;
+
+[PlayVoice]=00:59:13	Voice05/05-KC/05-KC-C00/05-KC-C00-0210	1	mak	01:08:09;
+
+[PrintText]=01:08:09	Sekai	...	01:09:15;
+
+[PlayVoice]=01:08:09	Voice05/05-KC/05-KC-C00/05-KC-C00-0220	0	xxx	01:09:15;
+
+[CreateBG]=01:08:10	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-013	01:09:16;
+
+[PrintText]=01:09:15	Makoto	Por eso es que... pienso que está bien.	01:16:03;
+
+[PlayVoice]=01:09:15	Voice05/05-KC/05-KC-C00/05-KC-C00-0230	1	mak	01:16:03;
+
+[CreateBG]=01:09:16	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-010	01:32:11;
+
+[PrintText]=01:16:03	Sekai	¿Eh...?^	01:17:01;
+
+[PlayVoice]=01:16:03	Voice05/05-KC/05-KC-C00/05-KC-C00-0240	0	sek	01:17:01;
+
+[PrintText]=01:17:01	Makoto	No odio a Kotonoha... y a ti te amo.	01:24:00;
+
+[PlayVoice]=01:17:01	Voice05/05-KC/05-KC-C00/05-KC-C00-0250	1	mak	01:24:00;
+
+[PrintText]=01:24:00	Sekai	Uh-huh...	01:26:00;
+
+[PlayVoice]=01:24:00	Voice05/05-KC/05-KC-C00/05-KC-C00-0260	0	sek	01:26:00;
+
+[PrintText]=01:26:01	Makoto	Entonces no sería tan mal para nosotros ser tres, como dijo...	01:32:10;
+
+[PlayVoice]=01:26:01	Voice05/05-KC/05-KC-C00/05-KC-C00-0270	1	mak	01:32:10;
+
+[PrintText]=01:32:10	Sekai	¿De qué estás hablando Makoto...?^	01:34:18;
+
+[PlayVoice]=01:32:10	Voice05/05-KC/05-KC-C00/05-KC-C00-0280	0	sek	01:34:18;
+
+[CreateBG]=01:32:11	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-015A	01:41:20;
+
+[PrintText]=01:34:18	Makoto	¿No suena bien para ti?^	01:37:06;
+
+[PlayVoice]=01:34:18	Voice05/05-KC/05-KC-C00/05-KC-C00-0290	1	mak	01:37:06;
+
+[PrintText]=01:37:05	Sekai	Por supuesto que no. Quiero decir, tres personas... no es normal.	01:44:12;
+
+[PlayVoice]=01:37:05	Voice05/05-KC/05-KC-C00/05-KC-C00-0300	0	sek	01:44:12;
+
+[CreateBG]=01:41:20	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-015B	01:52:13;
+
+[PrintText]=01:44:12	Makoto	Ya veo... bueno, supongo que no puedo hacer nada.	01:50:10;
+
+[PlayVoice]=01:44:12	Voice05/05-KC/05-KC-C00/05-KC-C00-0310	1	mak	01:50:10;
+
+[PrintText]=01:50:11	Sekai	¿No puedes hacer nada...?^	01:52:12;
+
+[PlayVoice]=01:50:11	Voice05/05-KC/05-KC-C00/05-KC-C00-0320	0	sek	01:52:12;
+
+[PrintText]=01:52:12	Makoto	A Kotonoha y a mi nos gusta como van las cosas, si no quieres... pues podemos dejarte ir.	02:05:14;
+
+[PlayVoice]=01:52:12	Voice05/05-KC/05-KC-C00/05-KC-C00-0330	1	mak	02:05:14;
+
+[CreateBG]=01:52:13	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-016	02:05:14;
+
+[PrintText]=02:05:13	Sekai	¡Espera... ¿Cómo es que eso funciona?!	02:09:01;
+
+[PlayVoice]=02:05:13	Voice05/05-KC/05-KC-C00/05-KC-C00-0340	0	sek	02:09:01;
+
+[CreateBG]=02:05:14	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-017	02:09:02;
+
+[PrintText]=02:09:01	Makoto	Es como lo acabo de decir.	02:13:16;
+
+[PlayVoice]=02:09:01	Voice05/05-KC/05-KC-C00/05-KC-C00-0350	1	mak	02:13:16;
+
+[CreateBG]=02:09:02	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-016	02:13:17;
+
+[PrintText]=02:13:16	Sekai	No lo entiendo. ¿Es que... ya no me amarás?^	02:19:06;
+
+[PlayVoice]=02:13:16	Voice05/05-KC/05-KC-C00/05-KC-C00-0360	0	sek	02:19:06;
+
+[CreateBG]=02:13:17	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-017	02:19:07;
+
+[PrintText]=02:19:06	Makoto	¿Puedes decirselo en la cara a Kotonoha?^	02:24:09;
+
+[PlayVoice]=02:19:06	Voice05/05-KC/05-KC-C00/05-KC-C00-0370	1	mak	02:24:09;
+
+[CreateBG]=02:19:07	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-020A	02:24:09;
+
+[CreateBG]=02:24:09	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-020B	02:25:11;
+
+[PrintText]=02:24:09	Sekai	...	02:25:11;
+
+[PlayVoice]=02:24:09	Voice05/05-KC/05-KC-C00/05-KC-C00-0380	0	xxx	02:25:11;
+
+[CreateBG]=02:25:11	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-021A	02:33:05;
+
+[PrintText]=02:25:11	Makoto	No puedes decirle nada a ella... y aún así... ¿Me estás culpando?^	02:33:05;
+
+[PlayVoice]=02:25:11	Voice05/05-KC/05-KC-C00/05-KC-C00-0390	1	mak	02:33:05;
+
+[CreateBG]=02:33:05	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-021B	02:43:13;
+
+[PrintText]=02:33:05	Sekai	...	02:34:16;
+
+[PlayVoice]=02:33:05	Voice05/05-KC/05-KC-C00/05-KC-C00-0400	0	xxx	02:34:16;
+
+[PrintText]=02:34:15	Makoto	Mira, solo olvídalo.	02:37:23;
+
+[PlayVoice]=02:34:15	Voice05/05-KC/05-KC-C00/05-KC-C00-0410	1	mak	02:37:23;
+
+[PrintText]=02:37:23	Sekai	Ah...	02:39:10;
+
+[PlayVoice]=02:37:23	Voice05/05-KC/05-KC-C00/05-KC-C00-0420	0	sek	02:39:10;
+
+[PrintText]=02:39:10	Makoto	...	02:41:17;
+
+[PlayVoice]=02:39:10	Voice05/05-KC/05-KC-C00/05-KC-C00-0430	1	xxx	02:41:17;
+
+[BlackFade]=02:43:03	OUT	02:43:13;
+
+[CreateBG]=02:43:13	BGS	System/Screen/Black	02:43:21;
+
+[PlayBgm]=02:43:21	BGM/SD_BGM/sdbgm20	03:02:10;
+
+[CreateBG]=02:43:21	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-023	02:53:07;
+
+[BlackFade]=02:43:21	IN	02:44:08;
+
+[PlayVoice]=02:45:00	Voice05/05-KC/05-KC-C00/05-KC-C00-0480	1	gnk	02:50:11;
+
+[PlayVoice]=02:50:17	Voice05/05-KC/05-KC-C00/05-KC-C00-0481	1	gnk	03:02:10;
+
+[CreateBG]=02:53:07	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-024	03:01:16;
+
+[PrintText]=02:57:21	Sekai	Haah...	02:59:03;
+
+[PlayVoice]=02:57:21	Voice05/05-KC/05-KC-C00/05-KC-C00-0510	0	sek	02:59:03;
+
+[BlackFade]=03:01:00	OUT	03:01:16;
+
+[CreateBG]=03:01:16	BGS	System/Screen/Black	03:03:04;
+
+[PlaySe]=03:02:04	2	SysSe/SE_all/school/chime	03:20:14;
+
+[CreateBG]=03:03:04	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-027	03:19:14;
+
+[BlackFade]=03:03:04	IN	03:03:17;
+
+[PrintText]=03:04:20	Makoto	Sekai.	03:06:23;
+
+[PlayVoice]=03:04:20	Voice05/05-KC/05-KC-C00/05-KC-C00-0540	1	mak	03:06:23;
+
+[PrintText]=03:07:02	Sekai	¿Sí?^	03:07:21;
+
+[PlayVoice]=03:07:02	Voice05/05-KC/05-KC-C00/05-KC-C00-0550	0	sek	03:07:21;
+
+[PlaySe]=03:07:12	1	SysSe/SE_all/gaya/kyousitu_rouka	03:36:07;
+
+[PrintText]=03:07:21	Makoto	Iré al tejado para almorzar... ¿Vienes?^	03:12:02;
+
+[PlayVoice]=03:07:21	Voice05/05-KC/05-KC-C00/05-KC-C00-0560	1	mak	03:12:02;
+
+[PrintText]=03:12:02	Sekai	¿Eh...? Sí.	03:14:17;
+
+[PlayVoice]=03:12:02	Voice05/05-KC/05-KC-C00/05-KC-C00-0570	0	sek	03:14:17;
+
+[PrintText]=03:14:17	Makoto	Solo para que lo sepas... Kotonoha también viene.	03:18:08;
+
+[PlayVoice]=03:14:17	Voice05/05-KC/05-KC-C00/05-KC-C00-0580	1	mak	03:18:08;
+
+[PrintText]=03:18:08	Sekai	Iré.	03:19:14;
+
+[PlayVoice]=03:18:08	Voice05/05-KC/05-KC-C00/05-KC-C00-0590	0	sek	03:19:14;
+
+[CreateBG]=03:19:14	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-016	03:26:19;
+
+[PrintText]=03:19:14	Makoto	Tal vez no sea solo para almorzar... ¿Quieres aún así venir?^	03:25:20;
+
+[PlayVoice]=03:19:14	Voice05/05-KC/05-KC-C00/05-KC-C00-0600	1	mak	03:25:20;
+
+[PrintText]=03:25:20	Sekai	¿Eh...?^	03:26:18;
+
+[PlayVoice]=03:25:20	Voice05/05-KC/05-KC-C00/05-KC-C00-0610	0	sek	03:26:18;
+
+[CreateBG]=03:26:19	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-020A	03:29:17;
+
+[PrintText]=03:26:19	Makoto	No tienes que si no quieres...	03:29:17;
+
+[PlayVoice]=03:26:19	Voice05/05-KC/05-KC-C00/05-KC-C00-0620	1	mak	03:29:17;
+
+[CreateBG]=03:29:17	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-029	03:32:03;
+
+[PrintText]=03:32:02	Sekai	...	03:34:15;
+
+[PlayVoice]=03:32:02	Voice05/05-KC/05-KC-C00/05-KC-C00-0640	0	xxx	03:34:15;
+
+[CreateBG]=03:32:03	BGS	Event05/05-KC/05-KC-C00/05-KC-C00-030	03:36:07;
+
+ ;
+
+[Next]=03:36:07;
+
+
+
+

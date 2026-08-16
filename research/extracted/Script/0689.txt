@@ -1,0 +1,225 @@
+﻿[SkipFRAME]=02:17:21;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-L00/SE03-KB-L00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-001	00:09:14;
+
+[PrintText]=00:00:00	Makoto	Haah... hemos ido a muchos lugar.	00:03:16;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-L00/03-KB-L00-0030	1	mak	00:03:16;
+
+[PrintText]=00:03:16	Otome	Sí.	00:04:14;
+
+[PlayVoice]=00:03:16	Voice03/03-KB/03-KB-L00/03-KB-L00-0040	0	oto	00:04:14;
+
+[PrintText]=00:04:14	Makoto	¿A dónde deberíamos ir ahora? No hay mucho tiempo...	00:09:13;
+
+[PlayVoice]=00:04:14	Voice03/03-KB/03-KB-L00/03-KB-L00-0050	1	mak	00:09:13;
+
+[PrintText]=00:09:13	Otome	El sol se está poniendo... qué hermoso.	00:13:01;
+
+[PlayVoice]=00:09:13	Voice03/03-KB/03-KB-L00/03-KB-L00-0070	0	oto	00:13:01;
+
+[CreateBG]=00:09:14	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-002	00:13:22;
+
+[PrintText]=00:13:01	Makoto	Sí.	00:13:22;
+
+[PlayVoice]=00:13:01	Voice03/03-KB/03-KB-L00/03-KB-L00-0080	1	mak	00:13:22;
+
+[PrintText]=00:13:21	Otome	El tejado no suele estar abierto, venir aquí se siente un poco especial ¿No?^	00:20:10;
+
+[PlayVoice]=00:13:21	Voice03/03-KB/03-KB-L00/03-KB-L00-0090	0	oto	00:20:10;
+
+[CreateBG]=00:13:22	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-003	00:23:08;
+
+[PrintText]=00:20:11	Makoto	¡¿Eh?! ...O-oh, sí.	00:23:07;
+
+[PlayVoice]=00:20:11	Voice03/03-KB/03-KB-L00/03-KB-L00-0100	1	mak	00:23:07;
+
+[PrintText]=00:23:07	Otome	Me pregunto desde hace cuanto no nos hemos reunido así.	00:27:11;
+
+[PlayVoice]=00:23:07	Voice03/03-KB/03-KB-L00/03-KB-L00-0110	0	oto	00:27:11;
+
+[CreateBG]=00:23:08	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-004	00:34:16;
+
+[PrintText]=00:27:11	Makoto	Desde la primaria ¿No? Eramos muy terribles con los otros chicos en ese entonces.	00:33:09;
+
+[PlayVoice]=00:27:11	Voice03/03-KB/03-KB-L00/03-KB-L00-0120	1	mak	00:33:09;
+
+[PrintText]=00:33:09	Otome	Sí, lo eramos.	00:34:15;
+
+[PlayVoice]=00:33:09	Voice03/03-KB/03-KB-L00/03-KB-L00-0130	0	oto	00:34:15;
+
+[PrintText]=00:34:15	Makoto	Pero ahora las cosas son diferentes, tú estás en un club. No hay manera de estar muy juntos ¿No?^	00:39:15;
+
+[PlayVoice]=00:34:15	Voice03/03-KB/03-KB-L00/03-KB-L00-0140	1	mak	00:39:15;
+
+[CreateBG]=00:34:16	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-005	00:43:21;
+
+[PrintText]=00:39:16	Otome	No es verdad, si la hay.	00:42:18;
+
+[PlayVoice]=00:39:16	Voice03/03-KB/03-KB-L00/03-KB-L00-0150	0	oto	00:42:18;
+
+[PrintText]=00:42:18	Makoto	¿Tú lo crees?^	00:43:21;
+
+[PlayVoice]=00:42:18	Voice03/03-KB/03-KB-L00/03-KB-L00-0160	1	mak	00:43:21;
+
+[PlayMovie]=00:43:21	Movie03/03-KB/03-KB-L00/03-KB-L00-006	0	01:22:00;
+
+[PrintText]=00:43:21	Otome	Uh-huh. Incluso si somos de diferentes clases... va a ver algo entre nosotros.	00:48:21;
+
+[PlayVoice]=00:43:21	Voice03/03-KB/03-KB-L00/03-KB-L00-0170	0	oto	00:48:21;
+
+[PrintText]=00:48:21	Makoto	Bueno, si tú lo dices. Aún hay suficiente tiempo para algo más ¿A dónde deberíamos ir?^	00:55:01;
+
+[PlayVoice]=00:48:21	Voice03/03-KB/03-KB-L00/03-KB-L00-0180	1	mak	00:55:01;
+
+[PrintText]=00:55:01	Otome	¡¿Eh...?!	00:55:18;
+
+[PlayVoice]=00:55:01	Voice03/03-KB/03-KB-L00/03-KB-L00-0190	0	oto	00:55:18;
+
+[PrintText]=00:55:18	Makoto	Ah, no tienes que hacerlo si estás cansada. Yo también estoy muy cansado.	01:00:06;
+
+[PlayVoice]=00:55:18	Voice03/03-KB/03-KB-L00/03-KB-L00-0200	1	mak	01:00:06;
+
+[PrintText]=01:00:06	Otome	Ah, estás cansado...	01:01:20;
+
+[PlayVoice]=01:00:06	Voice03/03-KB/03-KB-L00/03-KB-L00-0210	0	oto	01:01:20;
+
+[PrintText]=01:01:20	Makoto	Bueno, no tan cansado...	01:03:20;
+
+[PlayVoice]=01:01:20	Voice03/03-KB/03-KB-L00/03-KB-L00-0220	1	mak	01:03:20;
+
+[PrintText]=01:03:20	Otome	...	01:05:00;
+
+[PlayVoice]=01:03:20	Voice03/03-KB/03-KB-L00/03-KB-L00-0230	0	xxx	01:05:00;
+
+[PrintText]=01:05:00	Makoto	¿Quieres volver con la clase, entonces?^	01:07:04;
+
+[PlayVoice]=01:05:00	Voice03/03-KB/03-KB-L00/03-KB-L00-0240	1	mak	01:07:04;
+
+[PrintText]=01:07:04	Otome	U-um, escucha, hay un lugar donde podemos ir a descansar.	01:12:10;
+
+[PlayVoice]=01:07:04	Voice03/03-KB/03-KB-L00/03-KB-L00-0250	0	oto	01:12:10;
+
+[PlaySe]=01:08:16	2	Se03/03-KB/03-KB-L00/SE03-KB-L00-001	02:17:21;
+
+[PrintText]=01:12:10	Makoto	¿Eh?^	01:13:00;
+
+[PlayVoice]=01:12:10	Voice03/03-KB/03-KB-L00/03-KB-L00-0260	1	mak	01:13:00;
+
+[PrintText]=01:13:00	Otome	Hay un cuarto de descanso, detrás de nuestra casa embrujada.	01:17:11;
+
+[PlayVoice]=01:13:00	Voice03/03-KB/03-KB-L00/03-KB-L00-0270	0	oto	01:17:11;
+
+[PrintText]=01:17:11	Makoto	¿En serio?^	01:18:19;
+
+[PlayVoice]=01:17:11	Voice03/03-KB/03-KB-L00/03-KB-L00-0280	1	mak	01:18:19;
+
+[PrintText]=01:18:19	Otome	Si tú quieres, podemos...	01:22:00;
+
+[PlayVoice]=01:18:19	Voice03/03-KB/03-KB-L00/03-KB-L00-0290	0	oto	01:22:00;
+
+[CreateBG]=01:22:00	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-007	01:33:16;
+
+[PrintText]=01:22:00	Makoto	Espera, ¿No necesitabas ayuda con la casa embrujada?^	01:25:21;
+
+[PlayVoice]=01:22:00	Voice03/03-KB/03-KB-L00/03-KB-L00-0310	1	mak	01:25:21;
+
+[PrintText]=01:25:22	Otome	¿Eh?^	01:26:16;
+
+[PlayVoice]=01:25:22	Voice03/03-KB/03-KB-L00/03-KB-L00-0320	0	oto	01:26:16;
+
+[PrintText]=01:26:16	Makoto	Ahora que lo pienso, si tú y las otras chicas estaban conmigo en la tarde ¿Tú no has estado ayudando en nada?^	01:33:15;
+
+[PlayVoice]=01:26:16	Voice03/03-KB/03-KB-L00/03-KB-L00-0330	1	mak	01:33:15;
+
+[PrintText]=01:33:15	Otome	Eso no es problema.	01:35:19;
+
+[PlayVoice]=01:33:15	Voice03/03-KB/03-KB-L00/03-KB-L00-0340	0	oto	01:35:19;
+
+[CreateBG]=01:33:16	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-008	01:41:09;
+
+[PrintText]=01:35:19	Makoto	¿No es un problema?^	01:37:01;
+
+[PlayVoice]=01:35:19	Voice03/03-KB/03-KB-L00/03-KB-L00-0350	1	mak	01:37:01;
+
+[PrintText]=01:37:01	Otome	Nuestra representante de clase lo hace...	01:39:19;
+
+[PlayVoice]=01:37:01	Voice03/03-KB/03-KB-L00/03-KB-L00-0360	0	oto	01:39:19;
+
+[PrintText]=01:39:19	Makoto	¿Representante de clase? ¿Quieres decir...?^	01:41:09;
+
+[PlayVoice]=01:39:19	Voice03/03-KB/03-KB-L00/03-KB-L00-0370	1	mak	01:41:09;
+
+[CreateBG]=01:41:09	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-009	02:02:09;
+
+[PrintText]=01:41:09	Otome	Ya sabes, esa chica que estuvo casi todo el día sentada en la recepción.	01:48:10;
+
+[PlayVoice]=01:41:09	Voice03/03-KB/03-KB-L00/03-KB-L00-0380	0	oto	01:48:10;
+
+[PrintText]=01:48:10	Makoto	...	01:49:15;
+
+[PlayVoice]=01:48:10	Voice03/03-KB/03-KB-L00/03-KB-L00-0390	1	xxx	01:49:15;
+
+[PrintText]=01:49:15	Otome	Todos quieren ir a divertirse, así que todos le dejaron el trabajo y se fueron a divertir.	01:56:05;
+
+[PlayVoice]=01:49:15	Voice03/03-KB/03-KB-L00/03-KB-L00-0400	0	oto	01:56:05;
+
+[PrintText]=01:56:05	Makoto	¿'Todos'...? ¿Me dices toda la clase...?^	02:02:08;
+
+[PlayVoice]=01:56:05	Voice03/03-KB/03-KB-L00/03-KB-L00-0410	1	mak	02:02:08;
+
+[CreateBG]=02:02:09	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-008	02:06:05;
+
+[PrintText]=02:02:09	Otome	Sip. ¡Por eso es que no tienes por qué preocuparte!	02:05:02;
+
+[PlayVoice]=02:02:09	Voice03/03-KB/03-KB-L00/03-KB-L00-0420	0	oto	02:05:02;
+
+[PrintText]=02:05:01	Makoto	...	02:06:04;
+
+[PlayVoice]=02:05:01	Voice03/03-KB/03-KB-L00/03-KB-L00-0430	1	xxx	02:06:04;
+
+[PrintText]=02:06:04	Otome	Entonces, um... podemos...	02:10:08;
+
+[PlayVoice]=02:06:04	Voice03/03-KB/03-KB-L00/03-KB-L00-0440	0	oto	02:10:08;
+
+[CreateBG]=02:06:05	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-011	02:09:00;
+
+[PlayMovie]=02:09:00	Movie03/03-KB/03-KB-L00/03-KB-L00-012	0	02:16:21;
+
+[PrintText]=02:10:07	Makoto	Perdón, Katou.	02:12:06;
+
+[PlayVoice]=02:10:07	Voice03/03-KB/03-KB-L00/03-KB-L00-0460	1	mak	02:12:06;
+
+[PlaySe]=02:11:16	3	SysSe/SE_all/footsteps/asioto_out_run	02:13:16;
+
+[PrintText]=02:12:06	Otome	¡¿Eh?!	02:13:03;
+
+[PlayVoice]=02:12:06	Voice03/03-KB/03-KB-L00/03-KB-L00-0470	0	oto	02:13:03;
+
+[PlaySe]=02:13:02	1	SysSe/SE_all/door/okujou_door_open	02:16:23;
+
+[PrintText]=02:13:02	Makoto	Te veré después.	02:13:23;
+
+[PlayVoice]=02:13:02	Voice03/03-KB/03-KB-L00/03-KB-L00-0480	1	mak	02:13:23;
+
+[PrintText]=02:13:23	Otome	¡¿Qu-?!	02:14:23;
+
+[PlayVoice]=02:13:23	Voice03/03-KB/03-KB-L00/03-KB-L00-0490	0	oto	02:14:23;
+
+[PlayVoice]=02:14:23	Voice03/03-KB/03-KB-L00/03-KB-L00-0500			02:15:20;
+
+[PlaySe]=02:15:20	3	SysSe/SE_all/door/okujou_door_close	02:17:21;
+
+[PrintText]=02:15:20	Otome	¿Itou...?^	02:16:20;
+
+[PlayVoice]=02:15:20	Voice03/03-KB/03-KB-L00/03-KB-L00-0510	0	oto	02:16:20;
+
+[CreateBG]=02:16:21	BGS	Event03/03-KB/03-KB-L00/03-KB-L00-011	02:17:21;
+
+ ;
+
+[Next]=02:17:21;
+
+

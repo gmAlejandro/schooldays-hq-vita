@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:18:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:18:14;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-D06/SE01-00-D06-001	00:18:14;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-D06/01-00-D06-001	00:06:07;
+
+[PrintText]=00:00:12	Sekai	¿Qué pasa?^	00:02:14;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-D06/01-00-D06-0030	0	sek	00:02:14;
+
+[PrintText]=00:02:18	Makoto	No, no pasa nada.	00:04:23;
+
+[PlayVoice]=00:02:18	Voice01/01-00/01-00-D06/01-00-D06-0040	1	mak	00:04:23;
+
+[PrintText]=00:05:01	Sekai	¿Qué?^	00:06:03;
+
+[PlayVoice]=00:05:01	Voice01/01-00/01-00-D06/01-00-D06-0050	0	sek	00:06:03;
+
+[CreateBG]=00:06:07	BGS	Event01/01-00/01-00-D06/01-00-D06-002	00:10:05;
+
+[PrintText]=00:06:15	Makoto	Debe ser difícil... salir con alguien.	00:10:07;
+
+[PlayVoice]=00:06:15	Voice01/01-00/01-00-D06/01-00-D06-0060	1	mak	00:10:07;
+
+[CreateBG]=00:10:05	BGS	Event01/01-00/01-00-D06/01-00-D06-003	00:12:18;
+
+[PrintText]=00:10:05	Sekai	Tienes razón, es difícil.	00:12:19;
+
+[PlayVoice]=00:10:05	Voice01/01-00/01-00-D06/01-00-D06-0070	0	sek	00:12:19;
+
+[CreateBG]=00:12:18	BGS	Event01/01-00/01-00-D06/01-00-D06-004	00:18:14;
+
+[PrintText]=00:12:18	Makoto	Haha... Bueno, Iré.	00:15:22;
+
+[PlayVoice]=00:12:18	Voice01/01-00/01-00-D06/01-00-D06-0080	1	mak	00:15:22;
+
+[PrintText]=00:15:20	Sekai	Vale. Buena suerte.	00:17:09;
+
+[PlayVoice]=00:15:20	Voice01/01-00/01-00-D06/01-00-D06-0090	0	sek	00:17:09;
+
+[BlackFade]=00:17:14	OUT	00:18:14;
+
+ ;
+
+[Next]=00:18:14;
+
+
+
+

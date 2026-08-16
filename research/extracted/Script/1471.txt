@@ -1,0 +1,46 @@
+﻿[SkipFRAME]=00:10:07;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:10:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-B07/05-KA-B07-001	00:02:21;
+
+[PrintText]=00:00:00	Nanami	Itou.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-B07/05-KA-B07-0030	0	nan	00:00:20;
+
+[PrintText]=00:00:22	Makoto	Ah...	00:01:15;
+
+[PlayVoice]=00:00:22	Voice05/05-KA/05-KA-B07/05-KA-B07-0040	1	mak	00:01:15;
+
+[PrintText]=00:01:17	Nanami	Tenemos que hablar.	00:02:21;
+
+[PlayVoice]=00:01:17	Voice05/05-KA/05-KA-B07/05-KA-B07-0050	0	nan	00:02:21;
+
+[PrintText]=00:02:20	Makoto	¿De qué?^	00:03:21;
+
+[PlayVoice]=00:02:20	Voice05/05-KA/05-KA-B07/05-KA-B07-0060	1	mak	00:03:21;
+
+[CreateBG]=00:02:21	BGS	Event05/05-KA/05-KA-B07/05-KA-B07-002	00:03:23;
+
+[CreateBG]=00:03:23	BGS	Event05/05-KA/05-KA-B07/05-KA-B07-003	00:07:03;
+
+[PrintText]=00:03:23	Nanami	Deberías de saberlo... de Sekai.	00:07:03;
+
+[PlayVoice]=00:03:23	Voice05/05-KA/05-KA-B07/05-KA-B07-0070	0	nan	00:07:03;
+
+[CreateBG]=00:07:03	BGS	Event05/05-KA/05-KA-B07/05-KA-B07-004	00:08:11;
+
+[PrintText]=00:07:03	Makoto	...Sí.	00:07:21;
+
+[PlayVoice]=00:07:03	Voice05/05-KA/05-KA-B07/05-KA-B07-0080	1	mak	00:07:21;
+
+[CreateBG]=00:08:11	BGS	Event05/05-KA/05-KA-B07/05-KA-B07-005	00:10:07;
+
+[BlackFade]=00:09:07	OUT	00:10:07;
+
+ ;
+
+[Next]=00:10:07;
+
+
+

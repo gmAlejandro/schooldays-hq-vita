@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:13:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:19:16;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-G05/05-KF-G05-001	00:02:12;
+
+[PrintText]=00:00:00	Makoto	Por favor entiende...	00:02:10;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G05/05-KF-G05-0030	1	mak	00:02:10;
+
+[PrintText]=00:02:10	Kotonoha	No lo entiendo!	00:04:03;
+
+[PlayVoice]=00:02:10	Voice05/05-KF/05-KF-G05/05-KF-G05-0040	0	kot	00:04:03;
+
+[CreateBG]=00:02:12	BGS	Event05/05-KF/05-KF-G05/05-KF-G05-002	00:04:06;
+
+[PrintText]=00:04:03	Makoto	Kotonoha...	00:06:16;
+
+[PlayVoice]=00:04:03	Voice05/05-KF/05-KF-G05/05-KF-G05-0050	1	mak	00:06:16;
+
+[CreateBG]=00:04:06	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-015	00:19:16;
+
+[PrintText]=00:06:16	Kotonoha	¿Ya... no te gusto?^	00:11:05;
+
+[PlayVoice]=00:06:16	Voice05/05-KF/05-KF-G05/05-KF-G05-0060	0	kot	00:11:05;
+
+[PrintText]=00:11:05	Makoto	...	00:13:15;
+
+[PlayVoice]=00:11:05	Voice05/05-KF/05-KF-G05/05-KF-G05-0070	1	xxx	00:13:15;
+
+[SetSELECT]=00:13:15	'Así es'	'No es así'	00:18:16;
+
+ ;
+
+[Next]=00:19:16;
+
+
+
+

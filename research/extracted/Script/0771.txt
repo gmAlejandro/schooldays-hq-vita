@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:04:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:04:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G05/SE03-SA-G05-001	00:04:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G05/03-SA-G05-001	00:04:00;
+
+[PrintText]=00:00:00	Makoto	Eres tan linda.	00:01:11;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-G05/03-SA-G05-0030	1	mak	00:01:11;
+
+[PrintText]=00:01:12	Sekai	Eheheheh...	00:03:05;
+
+[PlayVoice]=00:01:12	Voice03/03-SA/03-SA-G05/03-SA-G05-0040	0	sek	00:03:05;
+
+ ;
+
+[Next]=00:04:00;
+
+

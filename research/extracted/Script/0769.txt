@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:26:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:32:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G03/SE03-SA-G03-001	00:32:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-002	00:03:15;
+
+[PrintText]=00:02:00	Sekai	Haah...	00:03:15;
+
+[PlayVoice]=00:02:00	Voice03/03-SA/03-SA-G03/03-SA-G03-0040	0	sek	00:03:15;
+
+[CreateBG]=00:03:15	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-003	00:05:10;
+
+[PrintText]=00:03:15	Makoto	Bienvenido al club de astronomía.	00:05:10;
+
+[PlayVoice]=00:03:15	Voice03/03-SA/03-SA-G03/03-SA-G03-0050	1	mak	00:05:10;
+
+[CreateBG]=00:05:10	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-004	00:08:22;
+
+[PrintText]=00:05:10	Sekai	Eheheh... soy la presidenta.	00:08:21;
+
+[PlayVoice]=00:05:10	Voice03/03-SA/03-SA-G03/03-SA-G03-0060	0	sek	00:08:21;
+
+[CreateBG]=00:08:22	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-005	00:11:15;
+
+[PrintText]=00:08:22	Makoto	¿Eres la presidenta?^	00:10:15;
+
+[PlayVoice]=00:08:22	Voice03/03-SA/03-SA-G03/03-SA-G03-0070	1	mak	00:10:15;
+
+[PrintText]=00:10:15	Sekai	¿Soy buena o no?^	00:11:14;
+
+[PlayVoice]=00:10:15	Voice03/03-SA/03-SA-G03/03-SA-G03-0080	0	sek	00:11:14;
+
+[CreateBG]=00:11:15	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-006	00:13:03;
+
+[PrintText]=00:11:15	Makoto	Sip, está bien que lo seas.	00:13:03;
+
+[PlayVoice]=00:11:15	Voice03/03-SA/03-SA-G03/03-SA-G03-0090	1	mak	00:13:03;
+
+[CreateBG]=00:13:04	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-008	00:15:00;
+
+[CreateBG]=00:15:00	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-009	00:16:00;
+
+[PrintText]=00:15:00	Sekai	Ah...	00:16:00;
+
+[PlayVoice]=00:15:00	Voice03/03-SA/03-SA-G03/03-SA-G03-0110	0	sek	00:16:00;
+
+[CreateBG]=00:16:00	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-010	00:23:00;
+
+[PrintText]=00:16:00	Makoto	Gracias a ti, tenemos un buen lugar para estar durante el festival.	00:23:00;
+
+[PlayVoice]=00:16:00	Voice03/03-SA/03-SA-G03/03-SA-G03-0120	1	mak	00:23:00;
+
+[CreateBG]=00:23:00	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-011	00:24:02;
+
+[PrintText]=00:23:00	Sekai	Hazme un cumplido.	00:24:02;
+
+[PlayVoice]=00:23:00	Voice03/03-SA/03-SA-G03/03-SA-G03-0130	0	sek	00:24:02;
+
+[CreateBG]=00:24:02	BGS	Event03/03-SA/03-SA-G03/03-SA-G03-012	00:32:00;
+
+[PrintText]=00:24:02	Makoto	Eres muy...	00:25:04;
+
+[PlayVoice]=00:24:02	Voice03/03-SA/03-SA-G03/03-SA-G03-0140	1	mak	00:25:04;
+
+[SetSELECT]=00:26:00	'Buena'	'Linda'	00:31:00;
+
+ ;
+
+[Next]=00:32:00;
+
+

@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:13:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:13:20;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-K04/SE03-BK-K04-001	00:13:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-K04/03-BK-K04-001	00:04:02;
+
+[BlackFade]=00:00:00	IN	00:02:00;
+
+[CreateBG]=00:04:02	BGS	Event03/03-BK/03-BK-K03/03-BK-K03-002	00:09:05;
+
+[PrintText]=00:04:11	Makoto	Haah... El almuerzo terminó hace mucho ¿No?^	00:11:09;
+
+[PlayVoice]=00:04:11	Voice03/03-BK/03-BK-K04/03-BK-K04-0070	1	mak	00:11:09;
+
+[CreateBG]=00:09:05	BGS	Event03/03-BK/03-BK-K04/03-BK-K04-004	00:13:20;
+
+[PrintText]=00:11:20	Kotonoha	Sí, tienes razón.	00:13:07;
+
+[PlayVoice]=00:11:20	Voice03/03-BK/03-BK-K04/03-BK-K04-0080	0	kot	00:13:07;
+
+ ;
+
+[Next]=00:13:20;
+
+

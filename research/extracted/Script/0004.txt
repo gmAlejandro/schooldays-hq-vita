@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:12:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:12:21;
+
+[PlaySe]=00:00:00	2	Voice00/00-00/00-00-A03/00-00-A03-0342	00:10:10;
+
+[PlayMovie]=00:00:00	Ini/Movie00/00-00/00-00-A04/00-00-A04-001	0	00:12:21;
+
+[PlaySe]=00:00:13	1	Se00/00-00/00-00-A04/SE00-00-A04-001	00:01:05;
+
+#[PrintText]=00:00:17	Makoto	"¿Y qué si lo hago?" 	00:04:01;
+
+[PlaySe]=00:03:23	1	Se00/00-00/00-00-A04/SE00-00-A04-001	00:04:15;
+
+#[PrintText]=00:04:01	Sekai	"Lo siento, creo que fui metiche...".	00:06:23;
+
+[PlaySe]=00:06:23	1	Se00/00-00/00-00-A04/SE00-00-A04-001	00:07:15;
+
+#[PrintText]=00:06:23	Makoto	"Realmente no importa.".	00:10:03;
+
+[BlackFade]=00:10:03	OUT	00:12:21;
+
+ ;
+
+[Next]=00:12:21;
+
+
+
+

@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=01:17:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:30:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-K03/04-SE-K03-001	00:09:09;
+
+[PrintText]=00:00:00	Makoto	Bueno...	00:01:03;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-K03/04-SE-K03-0030	1	mak	00:01:03;
+
+[PrintText]=00:01:03	Sekai	Ah...	00:02:04;
+
+[PlayVoice]=00:01:03	Voice04/04-SE/04-SE-K03/04-SE-K03-0040	0	sek	00:02:04;
+
+[PrintText]=00:02:04	Makoto	Pensé que estaba enamorado de Sekai... pero ahora ya no lo sé.	00:09:09;
+
+[PlayVoice]=00:02:04	Voice04/04-SE/04-SE-K03/04-SE-K03-0050	1	mak	00:09:09;
+
+[CreateBG]=00:09:09	BGS	Event04/04-SE/04-SE-K03/04-SE-K03-002	00:18:16;
+
+[PrintText]=00:09:09	Sekai	Ah...	00:11:03;
+
+[PlayVoice]=00:09:09	Voice04/04-SE/04-SE-K03/04-SE-K03-0060	0	sek	00:11:03;
+
+[PrintText]=00:11:03	Makoto	Yo... aún no podría decidir si saldré contigo....	00:17:03;
+
+[PlayVoice]=00:11:03	Voice04/04-SE/04-SE-K03/04-SE-K03-0070	1	mak	00:17:03;
+
+[PrintText]=00:17:03	Kotonoha	Quiero que lo hagas.	00:18:16;
+
+[PlayVoice]=00:17:03	Voice04/04-SE/04-SE-K03/04-SE-K03-0080	0	kot	00:18:16;
+
+[CreateBG]=00:18:16	BGS	Event04/04-SE/04-SE-K03/04-SE-K03-003	00:24:12;
+
+[PrintText]=00:18:16	Makoto	...No te odio, Kotonoha, pero...	00:21:11;
+
+[PlayVoice]=00:18:16	Voice04/04-SE/04-SE-K03/04-SE-K03-0090	1	mak	00:21:11;
+
+[PrintText]=00:21:11	Kotonoha	Entonces...	00:22:13;
+
+[PlayVoice]=00:21:11	Voice04/04-SE/04-SE-K03/04-SE-K03-0100	0	kot	00:22:13;
+
+[PrintText]=00:22:13	Makoto	Dame un poco de tiempo para considerarlo.	00:24:10;
+
+[PlayVoice]=00:22:13	Voice04/04-SE/04-SE-K03/04-SE-K03-0110	1	mak	00:24:10;
+
+[PrintText]=00:24:10	Kotonoha	Vale.	00:25:05;
+
+[PlayVoice]=00:24:10	Voice04/04-SE/04-SE-K03/04-SE-K03-0120	0	kot	00:25:05;
+
+[CreateBG]=00:24:12	BGS	Event04/04-SE/04-SE-K03/04-SE-K03-004	00:32:07;
+
+[PrintText]=00:25:05	Makoto	Buscaré una respuesta apropiada... y podré decir a quien amo.	00:30:09;
+
+[PlayVoice]=00:25:05	Voice04/04-SE/04-SE-K03/04-SE-K03-0130	1	mak	00:30:09;
+
+[PrintText]=00:30:09	Sekai	Makoto...	00:31:14;
+
+[PlayVoice]=00:30:09	Voice04/04-SE/04-SE-K03/04-SE-K03-0140	0	sek	00:31:14;
+
+[EndBGM]=00:31:05	BGM/Vocal/SDV04	02:41:22;
+
+[CreateBG]=00:32:07	BGS	Event04/04-SE/04-SE-K03/04-SE-K03-005	00:34:16;
+
+[CreateBG]=00:34:16	BGS	Ini/EndRoll/04-23	00:37:00;
+
+[EndRoll]=00:37:00	Ini/EndRoll/NORMAL	01:17:00;
+
+ ;
+
+[Next]=01:17:00;
+
+

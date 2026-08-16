@@ -1,0 +1,219 @@
+﻿[SkipFRAME]=02:25:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:25:11;
+
+[PlayMovie]=00:00:00	Movie04/04-KA/04-KA-B03/04-KA-B03-001	0	00:10:07;
+
+[PrintText]=00:00:13	Makoto	¡...!	00:01:11;
+
+[PlayVoice]=00:00:13	Voice04/04-KA/04-KA-B03/04-KA-B03-0040	1	mak	00:01:11;
+
+[PrintText]=00:02:06	Kotonoha	No digas otra palabra...	00:09:01;
+
+[PlayVoice]=00:02:06	Voice04/04-KA/04-KA-B03/04-KA-B03-0050	0	kot	00:09:01;
+
+[PrintText]=00:08:22	Makoto	Pero...	00:10:02;
+
+[PlayVoice]=00:08:22	Voice04/04-KA/04-KA-B03/04-KA-B03-0060	1	mak	00:10:02;
+
+[PlaySe]=00:09:01	1	SysSe/SE_all/action/standup1	00:10:14;
+
+[PrintText]=00:10:02	Makoto	...	00:11:02;
+
+[PlayVoice]=00:10:02	Voice04/04-KA/04-KA-B03/04-KA-B03-0080	1	xxx	00:11:02;
+
+[PlayMovie]=00:10:07	Movie04/04-KA/04-KA-B03/04-KA-B03-002	0	00:14:01;
+
+[PlaySe]=00:13:02	2	SysSe/SE_all/h/nuno3	00:13:10;
+
+[PlayMovie]=00:14:01	Movie04/04-KA/04-KA-B03/04-KA-B03-003	0	00:18:07;
+
+[PlaySe]=00:15:11	2	SysSe/SE_all/h/nuno1	00:17:01;
+
+[PlayMovie]=00:18:07	Movie04/04-KA/04-KA-B03/04-KA-B03-004	0	00:25:03;
+
+[PrintText]=00:19:09	Kotonoha	Vamos... a continuar donde lo habíamos dejado.	00:22:08;
+
+[PlayVoice]=00:19:09	Voice04/04-KA/04-KA-B03/04-KA-B03-0100	0	kot	00:22:08;
+
+[PlaySe]=00:22:07	1	SysSe/SE_all/h/nuno2	00:23:09;
+
+[PrintText]=00:23:10	Kotonoha	Ah...	00:25:00;
+
+[PlayVoice]=00:23:10	Voice04/04-KA/04-KA-B03/04-KA-B03-0120	0	kot	00:25:00;
+
+[PlayMovie]=00:25:03	Movie04/04-KA/04-KA-B03/04-KA-B03-005	0	00:33:20;
+
+[PrintText]=00:25:15	Kotonoha	Hey...	00:26:11;
+
+[PlayVoice]=00:25:15	Voice04/04-KA/04-KA-B03/04-KA-B03-0150	0	kot	00:26:11;
+
+[PlaySe]=00:26:18	1	SysSe/SE_all/footsteps/asioto_room	00:27:23;
+
+[PrintText]=00:26:22	Makoto	Pero...	00:28:00;
+
+[PlayVoice]=00:26:22	Voice04/04-KA/04-KA-B03/04-KA-B03-0160	1	mak	00:28:00;
+
+[PrintText]=00:28:03	Kotonoha	Tienes que ser honesto contigo mismo... Si realmente sientes que me quieres...	00:38:11;
+
+[PlayVoice]=00:28:03	Voice04/04-KA/04-KA-B03/04-KA-B03-0170	0	kot	00:38:11;
+
+[PlayMovie]=00:33:20	Movie04/04-KA/04-KA-B03/04-KA-B03-006	0	00:50:23;
+
+[PlaySe]=00:36:00	1	SysSe/SE_all/h/nuno4	00:37:01;
+
+[PlaySe]=00:36:22	2	SysSe/SE_all/h/nuno1	00:38:12;
+
+[PrintText]=00:40:19	Kotonoha	Eso es todo lo que quiero.	00:42:23;
+
+[PlayVoice]=00:40:19	Voice04/04-KA/04-KA-B03/04-KA-B03-0180	0	kot	00:42:23;
+
+[PrintText]=00:43:11	Kotonoha	¿Tu no... quieres?^	00:47:02;
+
+[PlayVoice]=00:43:11	Voice04/04-KA/04-KA-B03/04-KA-B03-0190	0	kot	00:47:02;
+
+[PlayMovie]=00:50:23	Movie04/04-KA/04-KA-B03/04-KA-B03-006B	0	00:59:07;
+
+[PrintText]=00:51:15	Kotonoha	Lame... mis pechos...	00:53:20;
+
+[PlayVoice]=00:51:15	Voice04/04-KA/04-KA-B03/04-KA-B03-0200	0	kot	00:53:20;
+
+[PlaySe]=00:52:18	1	SysSe/SE_all/h/nuno3	00:53:02;
+
+[PlaySe]=00:54:04	1	SysSe/SE_all/h/nuno3	00:54:12;
+
+[PlayMovie]=00:59:07	Movie04/04-KA/04-KA-B03/04-KA-B03-007	0	01:02:04;
+
+[PlaySe]=01:02:04	1	Voice04/04-KA/04-KA-B03/04-KA-B03-0201	01:03:23;
+
+[PlayMovie]=01:02:04	Movie04/04-KA/04-KA-B03/04-KA-B03-008	0	01:06:05;
+
+[WhiteFade]=01:04:05	OUT	01:06:05;
+
+[CreateBG]=01:06:05	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-009	01:08:18;
+
+[WhiteFade]=01:06:05	IN	01:07:17;
+
+[PrintText]=01:07:21	Makoto	Nn...	01:08:13;
+
+[PlayVoice]=01:07:21	Voice04/04-KA/04-KA-B03/04-KA-B03-0230	1	mak	01:08:13;
+
+[CreateBG]=01:08:18	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-011	01:13:03;
+
+[PlaySe]=01:09:17	2	SysSe/SE_all/h/nuno1	01:11:07;
+
+[PrintText]=01:10:16	Kotonoha	Buen día.	01:12:23;
+
+[PlayVoice]=01:10:16	Voice04/04-KA/04-KA-B03/04-KA-B03-0240	0	kot	01:12:23;
+
+[CreateBG]=01:13:03	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-012	01:15:07;
+
+[PrintText]=01:13:17	Makoto	Sí...	01:14:17;
+
+[PlayVoice]=01:13:17	Voice04/04-KA/04-KA-B03/04-KA-B03-0260	1	mak	01:14:17;
+
+[CreateBG]=01:15:07	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-013	01:31:12;
+
+[PrintText]=01:15:12	Kotonoha	¿Quieres algo de desayuno? ... Por supuesto, es algo que había dejado de mamá.	01:22:14;
+
+[PlayVoice]=01:15:12	Voice04/04-KA/04-KA-B03/04-KA-B03-0270	0	kot	01:22:14;
+
+[PrintText]=01:22:23	Makoto	Sí...	01:23:19;
+
+[PlayVoice]=01:22:23	Voice04/04-KA/04-KA-B03/04-KA-B03-0280	1	mak	01:23:19;
+
+[PrintText]=01:24:00	Kotonoha	¿Y qué... haremos hoy?^	01:26:16;
+
+[PlayVoice]=01:24:00	Voice04/04-KA/04-KA-B03/04-KA-B03-0290	0	kot	01:26:16;
+
+[PrintText]=01:26:23	Makoto	¿Eh...?^	01:27:13;
+
+[PlayVoice]=01:26:23	Voice04/04-KA/04-KA-B03/04-KA-B03-0300	1	mak	01:27:13;
+
+[PrintText]=01:28:05	Kotonoha	Ya son las 10 en punto, después de todo.	01:29:20;
+
+[PlayVoice]=01:28:05	Voice04/04-KA/04-KA-B03/04-KA-B03-0310	0	kot	01:29:20;
+
+[PrintText]=01:30:15	Makoto	¡¿Eh?!	01:31:07;
+
+[PlayVoice]=01:30:15	Voice04/04-KA/04-KA-B03/04-KA-B03-0320	1	mak	01:31:07;
+
+[CreateBG]=01:31:12	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-014	01:35:19;
+
+[PrintText]=01:31:18	Makoto	¿Por qué no me levantaste?^	01:34:12;
+
+[PlayVoice]=01:31:18	Voice04/04-KA/04-KA-B03/04-KA-B03-0340	1	mak	01:34:12;
+
+[PrintText]=01:34:15	Kotonoha	Porque dormías muy profundamente... y además, recién acabo de levantarme.	01:43:21;
+
+[PlayVoice]=01:34:15	Voice04/04-KA/04-KA-B03/04-KA-B03-0350	0	kot	01:43:21;
+
+[PlayMovie]=01:35:19	Movie04/04-KA/04-KA-B03/04-KA-B03-015	0	01:52:04;
+
+[PlaySe]=01:37:23	1	SysSe/SE_all/h/nuno1	01:39:13;
+
+[PrintText]=01:44:03	Makoto	...	01:45:20;
+
+[PlayVoice]=01:44:03	Voice04/04-KA/04-KA-B03/04-KA-B03-0370	1	xxx	01:45:20;
+
+[PrintText]=01:45:15	Kotonoha	Tu mamá estará en casa durante el día ... se enojará, ¿no es así?^	01:52:07;
+
+[PlayVoice]=01:45:15	Voice04/04-KA/04-KA-B03/04-KA-B03-0380	0	kot	01:52:07;
+
+[CreateBG]=01:52:04	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-013	02:02:09;
+
+[PrintText]=01:52:12	Makoto	Sí...	01:53:10;
+
+[PlayVoice]=01:52:12	Voice04/04-KA/04-KA-B03/04-KA-B03-0390	1	mak	01:53:10;
+
+[PrintText]=01:54:14	Kotonoha	Hey, Makoto-kun. ¿Por qué no vienes a mi casa?^	01:59:18;
+
+[PlayVoice]=01:54:14	Voice04/04-KA/04-KA-B03/04-KA-B03-0400	0	kot	01:59:18;
+
+[PrintText]=02:00:07	Makoto	¿Tu casa?^	02:02:08;
+
+[PlayVoice]=02:00:07	Voice04/04-KA/04-KA-B03/04-KA-B03-0410	1	mak	02:02:08;
+
+[CreateBG]=02:02:09	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-017	02:08:20;
+
+[PrintText]=02:02:09	Kotonoha	Ahora, mis padres no están en casa. Ambos están en un viaje de negocios.	02:08:20;
+
+[PlayVoice]=02:02:09	Voice04/04-KA/04-KA-B03/04-KA-B03-0420	0	kot	02:08:20;
+
+[PrintText]=02:08:19	Makoto	¿Eh...?^	02:09:10;
+
+[PlayVoice]=02:08:19	Voice04/04-KA/04-KA-B03/04-KA-B03-0430	1	mak	02:09:10;
+
+[CreateBG]=02:08:20	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-018	02:10:03;
+
+[CreateBG]=02:10:03	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-019	02:22:11;
+
+[PrintText]=02:10:03	Kotonoha	Y mi hermana no está por ahora...	02:13:17;
+
+[PlayVoice]=02:10:03	Voice04/04-KA/04-KA-B03/04-KA-B03-0440	0	kot	02:13:17;
+
+[PrintText]=02:13:12	Makoto	...	02:14:08;
+
+[PlayVoice]=02:13:12	Voice04/04-KA/04-KA-B03/04-KA-B03-0450	1	xxx	02:14:08;
+
+[PrintText]=02:15:10	Kotonoha	Vamos a continuar donde nos quedamos... en mi casa.	02:20:01;
+
+[PlayVoice]=02:15:10	Voice04/04-KA/04-KA-B03/04-KA-B03-0460	0	kot	02:20:01;
+
+[PrintText]=02:20:06	Makoto	...	02:21:08;
+
+[PlayVoice]=02:20:06	Voice04/04-KA/04-KA-B03/04-KA-B03-0470	1	xxx	02:21:08;
+
+[CreateBG]=02:22:11	BGS	Event04/04-KA/04-KA-B03/04-KA-B03-018	02:25:11;
+
+[PrintText]=02:22:14	Makoto	Sí..., está bien...	02:23:22;
+
+[PlayVoice]=02:22:14	Voice04/04-KA/04-KA-B03/04-KA-B03-0500	1	mak	02:23:22;
+
+[BlackFade]=02:24:11	OUT	02:25:11;
+
+ ;
+
+[Next]=02:25:11;
+
+

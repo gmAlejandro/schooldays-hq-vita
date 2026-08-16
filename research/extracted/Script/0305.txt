@@ -1,0 +1,103 @@
+﻿[SkipFRAME]=00:54:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:54:12;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-G00/SE02-2S-G00-001	00:54:12;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-G00/02-2S-G00-001	00:03:06;
+
+[PrintText]=00:00:00	Sekai	E...Estoy un poco nerviosa.	00:03:05;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-G00/02-2S-G00-0040	0	sek	00:03:05;
+
+[CreateBG]=00:03:06	BGS	Event02/02-2S/02-2S-G00/02-2S-G00-002	00:11:00;
+
+[PrintText]=00:03:06	Makoto	¿Tú también? Me siento igual.	00:06:11;
+
+[PlayVoice]=00:03:06	Voice02/02-2S/02-2S-G00/02-2S-G00-0050	1	mak	00:06:11;
+
+[PrintText]=00:06:11	Sekai	...Esto empieza a dar un poco de miedo...después de todo...	00:10:07;
+
+[PlayVoice]=00:06:11	Voice02/02-2S/02-2S-G00/02-2S-G00-0060	0	sek	00:10:07;
+
+[PrintText]=00:10:07	Kotonoha	¡Ah! Makoto-kun.	00:12:02;
+
+[PlayVoice]=00:10:07	Voice02/02-2S/02-2S-G00/02-2S-G00-0070	0	kot	00:12:02;
+
+[CreateBG]=00:11:00	BGS	Event02/02-2S/02-2S-G00/02-2S-G00-003	00:14:06;
+
+[PrintText]=00:12:03	Makoto	Ah...	00:13:10;
+
+[PlayVoice]=00:12:03	Voice02/02-2S/02-2S-G00/02-2S-G00-0090	1	mak	00:13:10;
+
+[PrintText]=00:13:11	Kotonoha	Saionji-san también está aquí. Ufufu...	00:17:19;
+
+[PlayVoice]=00:13:11	Voice02/02-2S/02-2S-G00/02-2S-G00-0100	0	kot	00:17:19;
+
+[CreateBG]=00:14:06	BGS	Event02/02-2S/02-2S-G00/02-2S-G00-004	00:17:12;
+
+[CreateBG]=00:17:12	BGS	Event02/02-2S/02-2S-G00/02-2S-G00-005	00:28:19;
+
+[PrintText]=00:17:19	Makoto	Ah... Sí.	00:20:05;
+
+[PlayVoice]=00:17:19	Voice02/02-2S/02-2S-G00/02-2S-G00-0110	1	mak	00:20:05;
+
+[PrintText]=00:20:06	Kotonoha	Eheheh... has venido en el día más indicado.	00:23:07;
+
+[PlayVoice]=00:20:06	Voice02/02-2S/02-2S-G00/02-2S-G00-0120	0	kot	00:23:07;
+
+[PrintText]=00:23:07	Makoto	¿Día indicado?^	00:24:18;
+
+[PlayVoice]=00:23:07	Voice02/02-2S/02-2S-G00/02-2S-G00-0130	1	mak	00:24:18;
+
+[PrintText]=00:24:19	Kotonoha	He traído algo fuera de lo usual.	00:27:02;
+
+[PlayVoice]=00:24:19	Voice02/02-2S/02-2S-G00/02-2S-G00-0140	0	kot	00:27:02;
+
+[PrintText]=00:27:03	Makoto	¿Traído?^	00:28:19;
+
+[PlayVoice]=00:27:03	Voice02/02-2S/02-2S-G00/02-2S-G00-0150	1	mak	00:28:19;
+
+[CreateBG]=00:28:19	BGS	Event02/02-2S/02-2S-G00/02-2S-G00-006	00:46:10;
+
+[PrintText]=00:28:19	Kotonoha	Limonada caliente, te calentará.	00:31:20;
+
+[PlayVoice]=00:28:19	Voice02/02-2S/02-2S-G00/02-2S-G00-0160	0	kot	00:31:20;
+
+[PrintText]=00:31:21	Makoto	Wow.	00:33:03;
+
+[PlayVoice]=00:31:21	Voice02/02-2S/02-2S-G00/02-2S-G00-0170	1	mak	00:33:03;
+
+[PrintText]=00:33:03	Kotonoha	Hacía frío ayer ¿no? Así que pensé que sería bueno traer algo caliente.	00:40:00;
+
+[PlayVoice]=00:33:03	Voice02/02-2S/02-2S-G00/02-2S-G00-0180	0	kot	00:40:00;
+
+[PrintText]=00:40:00	Makoto	S-Sí...	00:41:20;
+
+[PlayVoice]=00:40:00	Voice02/02-2S/02-2S-G00/02-2S-G00-0190	1	mak	00:41:20;
+
+[PrintText]=00:41:21	Kotonoha	Por favor también toma, Saionji-san. Hay suficiente para todos.	00:46:10;
+
+[PlayVoice]=00:41:21	Voice02/02-2S/02-2S-G00/02-2S-G00-0200	0	kot	00:46:10;
+
+[CreateBG]=00:46:10	BGS	Event02/02-2S/02-2S-G00/02-2S-G00-007	00:54:12;
+
+[PrintText]=00:46:10	Sekai	¡¿Eh?! Ah... Sí, Gracias.	00:50:15;
+
+[PlayVoice]=00:46:10	Voice02/02-2S/02-2S-G00/02-2S-G00-0210	0	sek	00:50:15;
+
+[PrintText]=00:50:16	Kotonoha	Fufuh... bueno, vamos.	00:53:04;
+
+[PlayVoice]=00:50:16	Voice02/02-2S/02-2S-G00/02-2S-G00-0220	0	kot	00:53:04;
+
+[PrintText]=00:53:04	Makoto	Sí....	00:53:21;
+
+[PlayVoice]=00:53:04	Voice02/02-2S/02-2S-G00/02-2S-G00-0230	1	mak	00:53:21;
+
+ ;
+
+[Next]=00:54:12;
+
+
+
+

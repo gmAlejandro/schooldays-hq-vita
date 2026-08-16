@@ -1,0 +1,36 @@
+﻿[SkipFRAME]=00:06:03;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:06:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-B05/05-KA-B05-001A	00:01:10;
+
+[CreateBG]=00:01:10	BGS	Event05/05-KA/05-KA-B05/05-KA-B05-001B	00:02:12;
+
+[PrintText]=00:01:10	Makoto	...Bueno día.	00:02:12;
+
+[PlayVoice]=00:01:10	Voice05/05-KA/05-KA-B05/05-KA-B05-0030	1	mak	00:02:12;
+
+[CreateBG]=00:02:12	BGS	Event05/05-KA/05-KA-B05/05-KA-B05-001C	00:03:21;
+
+[PrintText]=00:02:12	Taisuke	Hey, buen día...	00:03:19;
+
+[PlayVoice]=00:02:12	Voice05/05-KA/05-KA-B05/05-KA-B05-0040	1	tai	00:03:19;
+
+[CreateBG]=00:03:21	BGS	Event05/05-KA/05-KA-B05/05-KA-B05-002	00:05:08;
+
+[PrintText]=00:03:21	Makoto	Phew...	00:04:19;
+
+[PlayVoice]=00:03:21	Voice05/05-KA/05-KA-B05/05-KA-B05-0060	1	mak	00:04:19;
+
+[CreateBG]=00:05:08	BGS	Event05/05-KA/05-KA-B05/05-KA-B05-003	00:06:03;
+
+[PrintText]=00:05:08	Makoto	Ah...	00:06:01;
+
+[PlayVoice]=00:05:08	Voice05/05-KA/05-KA-B05/05-KA-B05-0080	1	mak	00:06:01;
+
+ ;
+
+[Next]=00:06:03;
+
+
+

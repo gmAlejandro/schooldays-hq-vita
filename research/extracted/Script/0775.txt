@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:10:20;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G09/SE03-SA-G09-001	00:10:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G08/03-SA-G08-003	00:10:20;
+
+[PrintText]=00:00:00	Makoto	El vestido que llevas es muy bonito.	00:02:03;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-G09/03-SA-G09-0030	1	mak	00:02:03;
+
+[PrintText]=00:02:04	Sekai	¡No...! ¡Incluso si dices eso... haahn!	00:07:17;
+
+[PlayVoice]=00:02:04	Voice03/03-SA/03-SA-G09/03-SA-G09-0040	0	sek	00:07:17;
+
+[PrintText]=00:07:17	Makoto	Está bien...	00:09:02;
+
+[PlayVoice]=00:07:17	Voice03/03-SA/03-SA-G09/03-SA-G09-0050	1	mak	00:09:02;
+
+[PrintText]=00:09:03	Sekai	¡Mmn...!	00:10:19;
+
+[PlayVoice]=00:09:03	Voice03/03-SA/03-SA-G09/03-SA-G09-0060	0	sek	00:10:19;
+
+ ;
+
+[Next]=00:10:20;
+
+

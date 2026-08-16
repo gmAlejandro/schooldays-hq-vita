@@ -1,0 +1,26 @@
+﻿[SkipFRAME]=00:18:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:18:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-E02/05-SB-E02-001	00:03:00;
+
+[PlayMovie]=00:03:00	Movie05/05-SB/05-SB-E01/05-SB-E01-002	0	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SB/05-SB-E02/05-SB-E02-003	00:08:12;
+
+[PrintText]=00:06:08	Sekai	...Adiós.	00:07:12;
+
+[PlayVoice]=00:06:08	Voice05/05-SB/05-SB-E02/05-SB-E02-0050	0	sek	00:07:12;
+
+[PlayMovie]=00:08:12	Movie05/05-SB/05-SB-E02/05-SB-E02-004	0	00:18:03;
+
+[PlayVoice]=00:08:12	Voice05/05-SB/05-SB-E02/05-SB-E02-0060			00:18:02;
+
+[BlackFade]=00:15:03	OUT	00:18:03;
+
+ ;
+
+[Next]=00:18:03;
+
+
+

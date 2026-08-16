@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:22:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:22:06;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-L02/SE02-2S-L02-001	00:22:06;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-L02/02-2S-L02-001	00:01:12;
+
+[PrintText]=00:00:00	Makoto	Perdón.	00:00:18;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-L02/02-2S-L02-0030	1	mak	00:00:18;
+
+[PrintText]=00:00:18	Kotonoha	¡¿Eh?!	00:01:11;
+
+[PlayVoice]=00:00:18	Voice02/02-2S/02-2S-L02/02-2S-L02-0040	0	kot	00:01:11;
+
+[PrintText]=00:01:11	Makoto	Quiero hablar con Kiyoura.	00:03:08;
+
+[PlayVoice]=00:01:11	Voice02/02-2S/02-2S-L02/02-2S-L02-0050	1	mak	00:03:08;
+
+[CreateBG]=00:01:12	BGS	Event02/02-2S/02-2S-L02/02-2S-L02-002	00:04:18;
+
+[PrintText]=00:03:09	Kotonoha	¡Ah! S-Sí, es cierto. Está en tu clase ¿No?^	00:08:11;
+
+[PlayVoice]=00:03:09	Voice02/02-2S/02-2S-L02/02-2S-L02-0060	0	kot	00:08:11;
+
+[CreateBG]=00:04:19	BGS	Event02/02-2S/02-2S-L02/02-2S-L02-003	00:14:11;
+
+[PrintText]=00:08:11	Makoto	Mmn... Sí.	00:11:03;
+
+[PlayVoice]=00:08:11	Voice02/02-2S/02-2S-L02/02-2S-L02-0070	1	mak	00:11:03;
+
+[PrintText]=00:11:03	Kotonoha	Está bien. Me iré primero entonces. Nos vemos mañana.	00:16:15;
+
+[PlayVoice]=00:11:03	Voice02/02-2S/02-2S-L02/02-2S-L02-0080	0	kot	00:16:15;
+
+[CreateBG]=00:14:11	BGS	Event02/02-2S/02-2S-L02/02-2S-L02-004	00:18:00;
+
+[CreateBG]=00:18:00	BGS	Event02/02-2S/02-2S-L02/02-2S-L02-005	00:22:06;
+
+[PrintText]=00:18:00	Makoto	Kiyoura.	00:19:00;
+
+[PlayVoice]=00:18:00	Voice02/02-2S/02-2S-L02/02-2S-L02-0100	1	mak	00:19:00;
+
+[PrintText]=00:19:01	Setsuna	¿Qué?^	00:19:21;
+
+[PlayVoice]=00:19:01	Voice02/02-2S/02-2S-L02/02-2S-L02-0110	0	set	00:19:21;
+
+[PrintText]=00:20:06	Makoto	Tengo que pedirte un favor.	00:21:12;
+
+[PlayVoice]=00:20:06	Voice02/02-2S/02-2S-L02/02-2S-L02-0120	1	mak	00:21:12;
+
+ ;
+
+[Next]=00:22:06;
+
+
+
+

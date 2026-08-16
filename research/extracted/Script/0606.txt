@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:30:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:30:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-M01/03-KA-M01-001	00:08:21;
+
+[PrintText]=00:00:00	Makoto	La extraño.	00:01:03;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-M01/03-KA-M01-0030	1	xxx	00:01:03;
+
+[PrintText]=00:02:01	Makoto	¿Así es como se siente estar enamorado...?^	00:06:12;
+
+[PlayVoice]=00:02:01	Voice03/03-KA/03-KA-M01/03-KA-M01-0040	1	xxx	00:06:12;
+
+[PrintText]=00:07:14	Makoto	No lo sé.	00:08:14;
+
+[PlayVoice]=00:07:14	Voice03/03-KA/03-KA-M01/03-KA-M01-0050	1	xxx	00:08:14;
+
+[CreateBG]=00:08:21	BGS	Event03/03-KA/03-KA-M01/03-KA-M01-002	00:21:23;
+
+[PrintText]=00:09:15	Makoto	Hay un hormigueo, una sensación de cosquilleo cerca a mi corazón que me dice que debo verla y hablar con ella.	00:18:08;
+
+[PlayVoice]=00:09:15	Voice03/03-KA/03-KA-M01/03-KA-M01-0060	1	xxx	00:18:08;
+
+[PrintText]=00:19:13	Makoto	Solo de pensar en encontrarme con ella en la reunión después de clases, es suficiente para que mi corazón palpite rápido.	00:28:17;
+
+[PlayVoice]=00:19:13	Voice03/03-KA/03-KA-M01/03-KA-M01-0070	1	xxx	00:28:17;
+
+[CreateBG]=00:21:23	BGS	Event03/03-KA/03-KA-M01/03-KA-M01-003	00:30:11;
+
+[BlackFade]=00:29:11	OUT	00:30:11;
+
+ ;
+
+[Next]=00:30:11;
+
+

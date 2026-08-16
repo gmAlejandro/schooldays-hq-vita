@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:15:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:15:22;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-D01/SE01-00-D01-001	00:15:22;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-D01/01-00-D01-001	00:03:16;
+
+[PrintText]=00:00:12	Makoto	¡Deberías venir!	00:02:00;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-D01/01-00-D01-0030	1	mak	00:02:00;
+
+[PrintText]=00:01:21	Sekai	¿De qué hablas?^	00:04:00;
+
+[PlayVoice]=00:01:21	Voice01/01-00/01-00-D01/01-00-D01-0040	0	sek	00:04:00;
+
+[CreateBG]=00:03:16	BGS	Event01/01-00/01-00-D01/01-00-D01-002	00:04:21;
+
+[PrintText]=00:03:17	Makoto	¡Solo ven!	00:04:22;
+
+[PlayVoice]=00:03:17	Voice01/01-00/01-00-D01/01-00-D01-0050	1	mak	00:04:22;
+
+[PrintText]=00:04:09	Sekai	¡No! ya te dije, ya no puedo ir.	00:07:14;
+
+[PlayVoice]=00:04:09	Voice01/01-00/01-00-D01/01-00-D01-0060	0	sek	00:07:14;
+
+[CreateBG]=00:04:21	BGS	Event01/01-00/01-00-D01/01-00-D01-003	00:10:19;
+
+[PrintText]=00:06:23	Makoto	Sí no vienes, no sabré de qué hablar con ella.	00:11:05;
+
+[PlayVoice]=00:06:23	Voice01/01-00/01-00-D01/01-00-D01-0070	1	mak	00:11:05;
+
+[CreateBG]=00:10:19	BGS	Event01/01-00/01-00-D01/01-00-D01-004	00:15:22;
+
+[PrintText]=00:10:19	Sekai	¡Ah! ¡Ahí vas de nuevo! ¡No hagas eso!	00:14:16;
+
+[PlayVoice]=00:10:19	Voice01/01-00/01-00-D01/01-00-D01-0080	0	sek	00:14:16;
+
+ ;
+
+[Next]=00:15:22;
+
+
+
+

@@ -1,0 +1,166 @@
+﻿[SkipFRAME]=02:04:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:04:15;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-001	00:01:01;
+
+[PrintText]=00:00:22	Kotonoha	¿Por qué?^	00:02:02;
+
+[PlayVoice]=00:00:22	Voice05/05-SG/05-SG-A00/05-SG-A00-0010	0	kot	00:02:02;
+
+[CreateBG]=00:01:01	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-002	00:02:02;
+
+[CreateBG]=00:02:02	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-003	00:02:13;
+
+[PrintText]=00:02:02	Sekai	...	00:02:12;
+
+[PlayVoice]=00:02:02	Voice05/05-SG/05-SG-A00/05-SG-A00-0020	0	xxx	00:02:12;
+
+[PrintText]=00:02:12	Kotonoha	¿Por qué besaste a Makoto-kun?^	00:06:05;
+
+[PlayVoice]=00:02:12	Voice05/05-SG/05-SG-A00/05-SG-A00-0030	0	kot	00:06:05;
+
+[CreateBG]=00:02:13	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-004	00:15:17;
+
+[PrintText]=00:06:05	Sekai	...	00:06:22;
+
+[PlayVoice]=00:06:05	Voice05/05-SG/05-SG-A00/05-SG-A00-0040	0	xxx	00:06:22;
+
+[PrintText]=00:06:23	Kotonoha	¡Sabes que estoy saliendo con él, pero sigues ahí abrazándolo como si fuera tu novio! Él no sabe qué hacer.	00:15:17;
+
+[PlayVoice]=00:06:23	Voice05/05-SG/05-SG-A00/05-SG-A00-0050	0	kot	00:15:17;
+
+[PrintText]=00:15:16	Sekai	Es porque lo amo.	00:20:22;
+
+[PlayVoice]=00:15:16	Voice05/05-SG/05-SG-A00/05-SG-A00-0060	0	sek	00:20:22;
+
+[CreateBG]=00:15:17	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-005	00:20:22;
+
+[CreateBG]=00:20:22	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-006	00:22:02;
+
+[PrintText]=00:20:22	Kotonoha	...	00:22:01;
+
+[PlayVoice]=00:20:22	Voice05/05-SG/05-SG-A00/05-SG-A00-0070	0	xxx	00:22:01;
+
+[PrintText]=00:22:01	Sekai	¡Lo abrazo porque lo amo! ¡Por eso también lo beso! ¡Quiero que él me abrace! ¡Que me ame!	00:29:03;
+
+[PlayVoice]=00:22:01	Voice05/05-SG/05-SG-A00/05-SG-A00-0080	0	sek	00:29:03;
+
+[CreateBG]=00:22:02	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-007	00:40:20;
+
+[PrintText]=00:29:03	Sekai	Y siempre que él quiere hacer algo conmigo... yo aceptaré...	00:36:09;
+
+[PlayVoice]=00:29:03	Voice05/05-SG/05-SG-A00/05-SG-A00-0081	0	sek	00:36:09;
+
+[PrintText]=00:36:09	Sekai	¡Siento que él también me ama!	00:40:19;
+
+[PlayVoice]=00:36:09	Voice05/05-SG/05-SG-A00/05-SG-A00-0082	0	sek	00:40:19;
+
+[CreateBG]=00:40:20	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-008	00:51:22;
+
+[PrintText]=00:40:20	Kotonoha	¿De qué estás hablando...?^	00:42:13;
+
+[PlayVoice]=00:40:20	Voice05/05-SG/05-SG-A00/05-SG-A00-0090	0	kot	00:42:13;
+
+[PrintText]=00:42:13	Sekai	Por eso es que... sea lo que él quiera hacer, yo estaré ahí...	00:50:11;
+
+[PlayVoice]=00:42:13	Voice05/05-SG/05-SG-A00/05-SG-A00-0100	0	sek	00:50:11;
+
+[PrintText]=00:50:10	Kotonoha	...	00:51:21;
+
+[PlayVoice]=00:50:10	Voice05/05-SG/05-SG-A00/05-SG-A00-0110	0	xxx	00:51:21;
+
+[PrintText]=00:51:21	Sekai	Yo... siempre he estado enamorada de él.	00:56:05;
+
+[PlayVoice]=00:51:21	Voice05/05-SG/05-SG-A00/05-SG-A00-0120	0	sek	00:56:05;
+
+[CreateBG]=00:51:22	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-009	01:09:08;
+
+[PrintText]=00:56:04	Kotonoha	Saionji-san...	00:59:02;
+
+[PlayVoice]=00:56:04	Voice05/05-SG/05-SG-A00/05-SG-A00-0130	0	kot	00:59:02;
+
+[PrintText]=00:59:01	Sekai	Todo este tiempo, siempre lo he callado, lo he querido desde antes que lo conocieras.	01:09:07;
+
+[PlayVoice]=00:59:01	Voice05/05-SG/05-SG-A00/05-SG-A00-0140	0	sek	01:09:07;
+
+[CreateBG]=01:09:08	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-010	01:10:20;
+
+[PrintText]=01:09:08	Kotonoha	No...	01:10:20;
+
+[PlayVoice]=01:09:08	Voice05/05-SG/05-SG-A00/05-SG-A00-0150	0	kot	01:10:20;
+
+[PrintText]=01:10:19	Sekai	Y aún así... me he mentido, diciendo que la persona con la que sales, te ama.	01:28:09;
+
+[PlayVoice]=01:10:19	Voice05/05-SG/05-SG-A00/05-SG-A00-0160	0	sek	01:28:09;
+
+[CreateBG]=01:10:20	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-011	01:28:09;
+
+[CreateBG]=01:28:09	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-012	01:29:13;
+
+[PrintText]=01:28:09	Kotonoha	No puedo creerlo...	01:29:12;
+
+[PlayVoice]=01:28:09	Voice05/05-SG/05-SG-A00/05-SG-A00-0180	0	kot	01:29:12;
+
+[PrintText]=01:29:12	Sekai	He ignorado mis sentimientos, incluso con los sentimientos de Makoto. Vacilé... Estaba herida, triste, perdida...	01:41:17;
+
+[PlayVoice]=01:29:12	Voice05/05-SG/05-SG-A00/05-SG-A00-0190	0	sek	01:41:17;
+
+[CreateBG]=01:29:13	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-013	01:41:17;
+
+[CreateBG]=01:41:17	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-014	01:43:17;
+
+[PrintText]=01:41:17	Kotonoha	¿Saionji... san?^	01:43:16;
+
+[PlayVoice]=01:41:17	Voice05/05-SG/05-SG-A00/05-SG-A00-0200	0	kot	01:43:16;
+
+[PrintText]=01:43:16	Sekai	Por eso ya no lo ocultaré más.	01:46:15;
+
+[PlayVoice]=01:43:16	Voice05/05-SG/05-SG-A00/05-SG-A00-0210	0	sek	01:46:15;
+
+[CreateBG]=01:43:17	BGS	Event05/05-SG/05-SG-A00/05-SG-A00-015	01:53:02;
+
+[PrintText]=01:46:15	Kotonoha	No...	01:47:22;
+
+[PlayVoice]=01:46:15	Voice05/05-SG/05-SG-A00/05-SG-A00-0220	0	kot	01:47:22;
+
+[PrintText]=01:47:22	Sekai	No voy a rendirme.	01:50:18;
+
+[PlayVoice]=01:47:22	Voice05/05-SG/05-SG-A00/05-SG-A00-0230	0	sek	01:50:18;
+
+[PrintText]=01:50:18	Kotonoha	Cállate...	01:51:21;
+
+[PlayVoice]=01:50:18	Voice05/05-SG/05-SG-A00/05-SG-A00-0240	0	kot	01:51:21;
+
+[PrintText]=01:51:21	Sekai	Ya no huiré.	01:53:17;
+
+[PlayVoice]=01:51:21	Voice05/05-SG/05-SG-A00/05-SG-A00-0250	0	sek	01:53:17;
+
+[PlayMovie]=01:53:02	Movie05/05-SA/05-SA-A00/05-SA-A00-022	0	01:56:09;
+
+[PrintText]=01:53:17	Kotonoha	¡Para!	01:55:06;
+
+[PlayVoice]=01:53:17	Voice05/05-SG/05-SG-A00/05-SG-A00-0260	0	kot	01:55:06;
+
+[PlaySe]=01:55:05	1	Se01/01-1K/01-1K-F00/SE01-1K-F00-004	01:55:20;
+
+[PrintText]=01:55:06	Sekai	...	01:56:05;
+
+[PlayVoice]=01:55:06	Voice05/05-SG/05-SG-A00/05-SG-A00-0280	0	xxx	01:56:05;
+
+[PrintText]=01:56:05	Kotonoha	¡Haah... haah...!	02:01:22;
+
+[PlayVoice]=01:56:05	Voice05/05-SG/05-SG-A00/05-SG-A00-0290	0	kot	02:01:22;
+
+[PlayMovie]=01:56:09	Movie05/05-SG/05-SG-A00/05-SG-A00-023	0	02:04:15;
+
+[PrintText]=02:01:22	Sekai	Ya... no dudaré.	02:04:15;
+
+[PlayVoice]=02:01:22	Voice05/05-SG/05-SG-A00/05-SG-A00-0300	0	sek	02:04:15;
+
+ ;
+
+[Next]=02:04:15;
+
+
+

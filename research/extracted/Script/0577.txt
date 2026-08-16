@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:17:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:17:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I00/03-KA-I00-001A	00:12:10;
+
+[PrintText]=00:00:00	Representante de comite	Uhh... ahora, echen un vistazo a la copia.	00:03:07;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I00/03-KA-I00-0030	0	jin	00:12:09;
+
+[PrintText]=00:03:07	Representante de comite	Uhh... Vamos a comenzar con los puntos principales sobre la construcción, estás son las reglas...	00:12:09;
+
+[CreateBG]=00:12:10	BGS	Event03/03-KA/03-KA-I00/03-KA-I00-001B	00:17:04;
+
+[PrintText]=00:12:10	Makoto	Fwah...	00:16:03;
+
+[PlayVoice]=00:12:10	Voice03/03-KA/03-KA-I00/03-KA-I00-0050	1	mak	00:16:03;
+
+[BlackFade]=00:16:04	OUT	00:17:04;
+
+ ;
+
+[Next]=00:17:04;
+
+

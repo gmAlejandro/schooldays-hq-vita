@@ -1,0 +1,139 @@
+﻿[SkipFRAME]=01:37:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	01:43:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-N00/03-KB-N00-001	00:03:21;
+
+[PrintText]=00:01:20	Kotonoha	Haah...	00:03:20;
+
+[PlayVoice]=00:01:20	Voice03/03-KB/03-KB-N00/03-KB-N00-0030	0	kot	00:03:20;
+
+[PlayMovie]=00:03:21	Movie03/03-KB/03-KB-N00/H3-KB-N00-002	0	00:20:19;
+
+[PrintText]=00:03:21	Kotonoha	Nn... Makoto-kun...	00:08:03;
+
+[PlayVoice]=00:03:21	Voice03/03-KB/03-KB-N00/03-KB-N00-0050	0	kot	00:08:03;
+
+[PrintText]=00:06:16	Makoto	Nn...	00:12:22;
+
+[PlayVoice]=00:06:16	Voice03/03-KB/03-KB-N00/03-KB-N00-0060	1	mak	00:12:22;
+
+[PrintText]=00:13:01	Kotonoha	Esto...es un poco vergonzoso...	00:17:00;
+
+[PlayVoice]=00:13:01	Voice03/03-KB/03-KB-N00/03-KB-N00-0070	0	kot	00:17:00;
+
+[PrintText]=00:16:22	Makoto	Nadie está mirando... soy solo yo.	00:20:16;
+
+[PlayVoice]=00:16:22	Voice03/03-KB/03-KB-N00/03-KB-N00-0080	1	mak	00:20:16;
+
+[PlayMovie]=00:20:19	Movie03/03-KB/03-KB-N00/H3-KB-N00-003	0	00:45:23;
+
+[PrintText]=00:21:00	Kotonoha	¡Pero aún así... mmn!	00:25:03;
+
+[PlayVoice]=00:21:00	Voice03/03-KB/03-KB-N00/03-KB-N00-0090	0	kot	00:25:03;
+
+[PlaySe]=00:21:20	1	SysSe/SE_all/h/h_03	01:31:08;
+
+[PrintText]=00:23:19	Makoto	Kotonoha...	00:26:08;
+
+[PlayVoice]=00:23:19	Voice03/03-KB/03-KB-N00/03-KB-N00-0100	1	mak	00:26:08;
+
+[PrintText]=00:26:10	Kotonoha	Nmn... haah... haah...	00:31:07;
+
+[PlayVoice]=00:26:10	Voice03/03-KB/03-KB-N00/03-KB-N00-0110	0	kot	00:31:07;
+
+[PrintText]=00:29:00	Makoto	Eres... tan hermosa...	00:32:09;
+
+[PlayVoice]=00:29:00	Voice03/03-KB/03-KB-N00/03-KB-N00-0120	1	mak	00:32:09;
+
+[PrintText]=00:32:21	Kotonoha	Eso no... nn!	00:35:09;
+
+[PlayVoice]=00:32:21	Voice03/03-KB/03-KB-N00/03-KB-N00-0130	0	kot	00:35:09;
+
+[PrintText]=00:36:00	Kotonoha	¡Fwah...! ¡Ah...! ¡Eso...!	00:39:12;
+
+[PlayVoice]=00:36:00	Voice03/03-KB/03-KB-N00/03-KB-N00-0150	0	kot	00:39:12;
+
+[PrintText]=00:40:03	Makoto	Uh-huh.	00:41:07;
+
+[PlayVoice]=00:40:03	Voice03/03-KB/03-KB-N00/03-KB-N00-0160	1	mak	00:41:07;
+
+[PrintText]=00:40:17	Kotonoha	Ahí no... no puedes... mmm!	00:44:07;
+
+[PlayVoice]=00:40:17	Voice03/03-KB/03-KB-N00/03-KB-N00-0170	0	kot	00:44:07;
+
+[PrintText]=00:44:06	Makoto	Puedo...	00:46:08;
+
+[PlayVoice]=00:44:06	Voice03/03-KB/03-KB-N00/03-KB-N00-0180	1	mak	00:46:08;
+
+[PrintText]=00:45:18	Kotonoha	Es muy indecente...	00:49:16;
+
+[PlayVoice]=00:45:18	Voice03/03-KB/03-KB-N00/03-KB-N00-0190	0	kot	00:49:16;
+
+[PlayMovie]=00:45:23	Movie03/03-KB/03-KB-N00/H3-KB-N00-004	0	00:55:22;
+
+[PrintText]=00:49:13	Makoto	No es verdad.	00:51:17;
+
+[PlayVoice]=00:49:13	Voice03/03-KB/03-KB-N00/03-KB-N00-0200	1	mak	00:51:17;
+
+[PrintText]=00:51:03	Kotonoha	¡Nn...! ¡No...! ¡No... toques... mmn!	00:56:09;
+
+[PlayVoice]=00:51:03	Voice03/03-KB/03-KB-N00/03-KB-N00-0210	0	kot	00:56:09;
+
+[PlayMovie]=00:55:22	Movie03/03-KB/03-KB-N00/03-KB-N00-005	0	01:35:03;
+
+[PrintText]=00:56:02	Makoto	Pero mira... estás toda mojada...	01:00:13;
+
+[PlayVoice]=00:56:02	Voice03/03-KB/03-KB-N00/03-KB-N00-0220	1	mak	01:00:13;
+
+[PrintText]=01:00:06	Kotonoha	¡Ahh! ¡Ah...! Ah...	01:04:15;
+
+[PlayVoice]=01:00:06	Voice03/03-KB/03-KB-N00/03-KB-N00-0230	0	kot	01:04:15;
+
+[PrintText]=01:03:07	Makoto	Nn...	01:05:18;
+
+[PlayVoice]=01:03:07	Voice03/03-KB/03-KB-N00/03-KB-N00-0240	1	mak	01:05:18;
+
+[PrintText]=01:05:13	Kotonoha	Ah... no... no...	01:10:10;
+
+[PlayVoice]=01:05:13	Voice03/03-KB/03-KB-N00/03-KB-N00-0250	0	kot	01:10:10;
+
+[PrintText]=01:10:14	Makoto	Pero si me detengo... no vamos a ningún lado.	01:16:06;
+
+[PlayVoice]=01:10:14	Voice03/03-KB/03-KB-N00/03-KB-N00-0260	1	mak	01:16:06;
+
+[PrintText]=01:15:11	Kotonoha	Nn... ¿A... ningún lado...?^	01:19:08;
+
+[PlayVoice]=01:15:11	Voice03/03-KB/03-KB-N00/03-KB-N00-0270	0	kot	01:19:08;
+
+[PrintText]=01:19:06	Makoto	Sí... después de todo, vamos a usar esto ¿No?^	01:25:04;
+
+[PlayVoice]=01:19:06	Voice03/03-KB/03-KB-N00/03-KB-N00-0280	1	mak	01:25:04;
+
+[PrintText]=01:24:18	Kotonoha	Ah... eso...	01:27:07;
+
+[PlayVoice]=01:24:18	Voice03/03-KB/03-KB-N00/03-KB-N00-0300	0	kot	01:27:07;
+
+[PrintText]=01:27:16	Makoto	Usaré esto, y...	01:31:18;
+
+[PlayVoice]=01:27:16	Voice03/03-KB/03-KB-N00/03-KB-N00-0310	1	mak	01:31:18;
+
+[PlaySe]=01:29:08	2	SysSe/SE_all/h/h_03	01:38:14;
+
+[PrintText]=01:30:07	Kotonoha	Haah... haah... uh-huh...	01:35:03;
+
+[PlayVoice]=01:30:07	Voice03/03-KB/03-KB-N00/03-KB-N00-0320	0	kot	01:35:03;
+
+[CreateBG]=01:35:03	BGS	Event03/03-KB/03-KB-N00/03-KB-N00-002	01:43:23;
+
+[PrintText]=01:36:08	Makoto	Kotonoha...	01:37:17;
+
+[PlayVoice]=01:36:08	Voice03/03-KB/03-KB-N00/03-KB-N00-0330	1	mak	01:37:17;
+
+[SetSELECT]=01:37:20	'¿Eres virgen?'	'Eres muy pervertida'	01:42:20;
+
+ ;
+
+[Next]=01:43:23;
+
+

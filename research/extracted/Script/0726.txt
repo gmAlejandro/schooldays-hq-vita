@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:17:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:17:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B03/03-SA-B03-003	00:01:07;
+
+[PrintText]=00:00:00	Makoto	Nada mal.	00:01:06;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-B02/03-SA-B02-0030	1	mak	00:01:06;
+
+[CreateBG]=00:01:07	BGS	Event03/03-SA/03-SA-B02/03-SA-B02-001B	00:03:01;
+
+[PrintText]=00:01:07	Sekai	Eheheh...	00:03:01;
+
+[PlayVoice]=00:01:07	Voice03/03-SA/03-SA-B02/03-SA-B02-0040	0	sek	00:03:01;
+
+[CreateBG]=00:03:01	BGS	Event03/03-SA/03-SA-B02/03-SA-B02-002A	00:05:21;
+
+[PrintText]=00:03:01	Hikari	¡Hey, se supone que tienes que elogiarla!	00:05:20;
+
+[PlayVoice]=00:03:01	Voice03/03-SA/03-SA-B02/03-SA-B02-0050	0	hik	00:05:20;
+
+[PrintText]=00:05:20	Makoto	Uwah, Kuroda.	00:07:12;
+
+[PlayVoice]=00:05:20	Voice03/03-SA/03-SA-B02/03-SA-B02-0070	1	mak	00:07:12;
+
+[CreateBG]=00:05:21	BGS	Event03/03-SA/03-SA-B02/03-SA-B02-002B	00:07:12;
+
+[CreateBG]=00:07:12	BGS	Event03/03-SA/03-SA-B02/03-SA-B02-003	00:13:12;
+
+[PrintText]=00:07:12	Hikari	No le prestes atención, Sekai. Solo está avergonzado.	00:10:19;
+
+[PlayVoice]=00:07:12	Voice03/03-SA/03-SA-B02/03-SA-B02-0080	0	hik	00:10:19;
+
+[PrintText]=00:10:20	Sekai	Ahaha, ya sé.	00:13:12;
+
+[PlayVoice]=00:10:20	Voice03/03-SA/03-SA-B02/03-SA-B02-0090	0	sek	00:13:12;
+
+[CreateBG]=00:13:12	BGS	Event03/03-SA/03-SA-B02/03-SA-B02-004	00:17:18;
+
+[PrintText]=00:13:12	Hikari	Cielos... estos chicos de nuestra clase son...	00:15:21;
+
+[PlayVoice]=00:13:12	Voice03/03-SA/03-SA-B02/03-SA-B02-0100	0	hik	00:15:21;
+
+[PrintText]=00:15:21	Makoto	Haha...	00:17:18;
+
+[PlayVoice]=00:15:21	Voice03/03-SA/03-SA-B02/03-SA-B02-0110	1	mak	00:17:18;
+
+ ;
+
+[Next]=00:17:18;
+
+

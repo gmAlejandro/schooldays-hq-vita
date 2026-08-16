@@ -1,0 +1,151 @@
+﻿[SkipFRAME]=01:02:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	01:08:08;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-C04/SE03-SB-C04-001	00:26:07;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-C04/03-SB-C04-001	0	00:03:00;
+
+[PlaySe]=00:02:10	2	Se03/03-SB/03-SB-C04/SE03-SB-C04-002	00:04:15;
+
+[PlayMovie]=00:03:00	Movie03/03-SB/03-SB-C04/03-SB-C04-007	0	00:04:15;
+
+[PlayMovie]=00:04:15	Movie03/03-SB/03-SB-C04/03-SB-C04-003	0	00:07:13;
+
+[PrintText]=00:04:18	Kotonoha	Buen día.	00:06:15;
+
+[PlayVoice]=00:04:18	Voice03/03-SB/03-SB-C04/03-SB-C04-0040	0	kot	00:06:15;
+
+[PrintText]=00:06:11	Makoto	Buen día.	00:07:09;
+
+[PlayVoice]=00:06:11	Voice03/03-SB/03-SB-C04/03-SB-C04-0050	1	mak	00:07:09;
+
+[PrintText]=00:07:11	Kotonoha	Te llamé ayer, pero tu línea estaba ocupada. Pensé en llamarte de nuevo, pero estaba ya muy cansada.	00:13:10;
+
+[PlayVoice]=00:07:11	Voice03/03-SB/03-SB-C04/03-SB-C04-0060	0	kot	00:13:10;
+
+[PlayMovie]=00:07:13	Movie05/05-KG/05-KG-B00/05-KG-B00-002	0	00:12:04;
+
+[PlayMovie]=00:12:04	Movie05/05-KG/05-KG-B00/05-KG-B00-002	0	00:15:11;
+
+[PrintText]=00:13:08	Makoto	Ah... lo siento.	00:15:08;
+
+[PlayVoice]=00:13:08	Voice03/03-SB/03-SB-C04/03-SB-C04-0070	1	mak	00:15:08;
+
+[PrintText]=00:15:10	Kotonoha	Todo bien. No es nada urgente, porque puedo verte en la mañana.	00:19:16;
+
+[PlayVoice]=00:15:10	Voice03/03-SB/03-SB-C04/03-SB-C04-0080	0	kot	00:19:16;
+
+[PlayMovie]=00:15:11	Movie03/03-SB/03-SB-C04/03-SB-C04-005	0	00:19:17;
+
+[PrintText]=00:19:14	Makoto	Ya veo.	00:20:12;
+
+[PlayVoice]=00:19:14	Voice03/03-SB/03-SB-C04/03-SB-C04-0090	1	mak	00:20:12;
+
+[CreateBG]=00:19:17	BGS	Event03/03-SB/03-SB-C04/03-SB-C04-006	00:20:14;
+
+[PlayMovie]=00:20:14	Movie03/03-SB/03-SB-C04/03-SB-C04-007	0	00:22:21;
+
+[PrintText]=00:20:14	Kotonoha	Pues, quería hablarte de...	00:22:12;
+
+[PlayVoice]=00:20:14	Voice03/03-SB/03-SB-C04/03-SB-C04-0100	0	kot	00:22:12;
+
+[PrintText]=00:22:05	Makoto	Sí.	00:22:20;
+
+[PlayVoice]=00:22:05	Voice03/03-SB/03-SB-C04/03-SB-C04-0110	1	mak	00:22:20;
+
+[PlayMovie]=00:22:21	Movie03/03-SB/03-SB-C04/03-SB-C04-008	0	00:32:11;
+
+[PrintText]=00:22:21	Kotonoha	El festival escolar es mañana ¿No?^	00:25:10;
+
+[PlayVoice]=00:22:21	Voice03/03-SB/03-SB-C04/03-SB-C04-0120	0	kot	00:25:10;
+
+[PrintText]=00:25:10	Makoto	Sí, hoy son los preparativos.	00:28:09;
+
+[PlayVoice]=00:25:10	Voice03/03-SB/03-SB-C04/03-SB-C04-0130	1	mak	00:28:09;
+
+[PlaySe]=00:26:08	2	Se03/03-SB/03-SB-C04/SE03-SB-C04-001	00:42:08;
+
+[PrintText]=00:28:09	Kotonoha	Así es. Nuestra clase está muy ocupada.	00:32:08;
+
+[PlayVoice]=00:28:09	Voice03/03-SB/03-SB-C04/03-SB-C04-0140	0	kot	00:32:08;
+
+[PrintText]=00:32:08	Makoto	Igual. ¿Por qué siempre dejan todo a última hora?^	00:37:16;
+
+[PlayVoice]=00:32:08	Voice03/03-SB/03-SB-C04/03-SB-C04-0150	1	mak	00:37:16;
+
+[PlayMovie]=00:32:11	Movie03/03-SB/03-SB-C04/03-SB-C04-009	0	00:39:10;
+
+[PrintText]=00:37:17	Kotonoha	Sí, ya lo creo.	00:39:14;
+
+[PlayVoice]=00:37:17	Voice03/03-SB/03-SB-C04/03-SB-C04-0160	0	kot	00:39:14;
+
+[PlayMovie]=00:39:10	Movie03/03-SB/03-SB-C04/03-SB-C04-010	0	00:44:13;
+
+[PrintText]=00:39:14	Makoto	Yo estaré cortando pasteles y haciendo té mañana en la cocina.	00:44:17;
+
+[PlayVoice]=00:39:14	Voice03/03-SB/03-SB-C04/03-SB-C04-0170	1	mak	00:44:17;
+
+[PlaySe]=00:42:07	1	Se03/03-SB/03-SB-C04/SE03-SB-C04-001	01:08:08;
+
+[CreateBG]=00:44:13	BGS	Event03/03-SB/03-SB-C04/03-SB-C04-011	00:47:15;
+
+[PrintText]=00:44:17	Kotonoha	Ah... ¿Entonces estarás ocupado?^	00:47:14;
+
+[PlayVoice]=00:44:17	Voice03/03-SB/03-SB-C04/03-SB-C04-0180	0	kot	00:47:14;
+
+[PrintText]=00:47:14	Makoto	Tú estás en el comité de preparación ¿También estarás ocupada?^	00:50:08;
+
+[PlayVoice]=00:47:14	Voice03/03-SB/03-SB-C04/03-SB-C04-0190	1	mak	00:50:08;
+
+[PlayMovie]=00:47:15	Movie03/03-SB/03-SB-C04/03-SB-C04-012	0	00:53:05;
+
+[PrintText]=00:50:08	Kotonoha	Sí, es verdad, pero...	00:52:09;
+
+[PlayVoice]=00:50:08	Voice03/03-SB/03-SB-C04/03-SB-C04-0200	0	kot	00:52:09;
+
+[PrintText]=00:52:07	Makoto	¿Pasó algo?^	00:53:08;
+
+[PlayVoice]=00:52:07	Voice03/03-SB/03-SB-C04/03-SB-C04-0210	1	mak	00:53:08;
+
+[PlayMovie]=00:53:05	Movie03/03-SB/03-SB-C04/03-SB-C04-013	0	00:58:02;
+
+[PrintText]=00:53:07	Kotonoha	U... um, bueno...	00:57:10;
+
+[PlayVoice]=00:53:07	Voice03/03-SB/03-SB-C04/03-SB-C04-0220	0	kot	00:57:10;
+
+[PrintText]=00:57:11	Makoto	¿Sí?^	00:58:03;
+
+[PlayVoice]=00:57:11	Voice03/03-SB/03-SB-C04/03-SB-C04-0230	1	mak	00:58:03;
+
+[PlayMovie]=00:58:02	Movie03/03-SB/03-SB-C04/03-SB-C04-014	0	01:00:07;
+
+[PrintText]=00:58:03	Kotonoha	¿Quieres que caminemos juntos mañana?^	01:00:07;
+
+[PlayVoice]=00:58:03	Voice03/03-SB/03-SB-C04/03-SB-C04-0240	0	kot	01:00:07;
+
+[CreateBG]=01:00:07	BGS	Event03/03-SB/03-SB-C04/03-SB-C04-015	01:02:10;
+
+[PrintText]=01:00:07	Makoto	¿Eh? ¿Por el festival?^	01:02:10;
+
+[PlayVoice]=01:00:07	Voice03/03-SB/03-SB-C04/03-SB-C04-0250	1	mak	01:02:10;
+
+[SetSELECT]=01:02:08	'Sí'	'No puedo'	01:07:08;
+
+[PrintText]=01:02:09	Kotonoha	¡Sí!	01:03:10;
+
+[PlayVoice]=01:02:09	Voice03/03-SB/03-SB-C04/03-SB-C04-0260	0	kot	01:03:10;
+
+[CreateBG]=01:02:10	BGS	Event03/03-SB/03-SB-C04/03-SB-C04-016	01:04:03;
+
+[PlayMovie]=01:04:03	Movie05/05-KG/05-KG-B00/05-KG-B00-002	0	01:08:08;
+
+[PrintText]=01:04:03	Makoto	El festival, huh...	01:06:00;
+
+[PlayVoice]=01:04:03	Voice03/03-SB/03-SB-C04/03-SB-C04-0270	1	mak	01:06:00;
+
+ ;
+
+[Next]=01:08:08;
+
+

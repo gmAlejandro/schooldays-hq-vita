@@ -1,0 +1,309 @@
+﻿[SkipFRAME]=03:08:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	03:08:00;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	00:18:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-001	00:22:04;
+
+[PrintText]=00:01:00	Sekai	¿Bajo la hinchazón?^	00:03:09;
+
+[PlayVoice]=00:01:00	Voice03/03-BK/03-BK-I06/03-BK-I06-0040	0	sek	00:03:09;
+
+[PrintText]=00:03:09	Makoto	Sí. Ya no puedo decir nada.	00:07:03;
+
+[PlayVoice]=00:03:09	Voice03/03-BK/03-BK-I06/03-BK-I06-0050	1	mak	00:07:03;
+
+[PrintText]=00:07:03	Sekai	Pero lo harás en cuanto mi base se vaya, supongo que no podré entrar a la piscina.	00:12:21;
+
+[PlayVoice]=00:07:03	Voice03/03-BK/03-BK-I06/03-BK-I06-0060	0	sek	00:12:21;
+
+[PrintText]=00:12:21	Makoto	Hmmn. El maquillaje es increíble ¿Lo sueles usar siempre?^	00:20:05;
+
+[PlayVoice]=00:12:21	Voice03/03-BK/03-BK-I06/03-BK-I06-0070	1	mak	00:20:05;
+
+[PlaySe]=00:17:20	2	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	00:36:17;
+
+[PrintText]=00:20:05	Sekai	No en la escuela.	00:22:03;
+
+[PlayVoice]=00:20:05	Voice03/03-BK/03-BK-I06/03-BK-I06-0080	0	sek	00:22:03;
+
+[PrintText]=00:22:02	Makoto	Lo suponía.	00:23:04;
+
+[PlayVoice]=00:22:02	Voice03/03-BK/03-BK-I06/03-BK-I06-0090	1	mak	00:23:04;
+
+[CreateBG]=00:22:04	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-002	00:31:13;
+
+[PrintText]=00:23:04	Sekai	Haah... Sí sabía que esto iba a pasar, hubiera traído algo resistente al agua.	00:29:21;
+
+[PlayVoice]=00:23:04	Voice03/03-BK/03-BK-I06/03-BK-I06-0100	0	sek	00:29:21;
+
+[PrintText]=00:29:21	Makoto	Eh? ¿Agua?^	00:32:07;
+
+[PlayVoice]=00:29:21	Voice03/03-BK/03-BK-I06/03-BK-I06-0110	1	mak	00:32:07;
+
+[CreateBG]=00:31:13	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-003	00:37:08;
+
+[PrintText]=00:32:07	Sekai	Hablo del maquillaje.	00:34:01;
+
+[PlayVoice]=00:32:07	Voice03/03-BK/03-BK-I06/03-BK-I06-0120	0	sek	00:34:01;
+
+[PrintText]=00:34:00	Makoto	Hmmn. Suena complicado.	00:38:17;
+
+[PlayVoice]=00:34:00	Voice03/03-BK/03-BK-I06/03-BK-I06-0130	1	mak	00:38:17;
+
+[PlaySe]=00:36:16	1	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	00:55:13;
+
+[CreateBG]=00:37:08	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-004	01:02:16;
+
+[PrintText]=00:38:17	Sekai	Fufu... entonces ahora.	00:41:20;
+
+[PlayVoice]=00:38:17	Voice03/03-BK/03-BK-I06/03-BK-I06-0140	0	sek	00:41:20;
+
+[PrintText]=00:41:20	Makoto	¿Hmn?^	00:42:14;
+
+[PlayVoice]=00:41:20	Voice03/03-BK/03-BK-I06/03-BK-I06-0150	1	mak	00:42:14;
+
+[PrintText]=00:42:13	Sekai	Es hora de ir a donde Sawanaga.	00:45:20;
+
+[PlayVoice]=00:42:13	Voice03/03-BK/03-BK-I06/03-BK-I06-0160	0	sek	00:45:20;
+
+[PrintText]=00:45:20	Makoto	¿Eh?^	00:46:11;
+
+[PlayVoice]=00:45:20	Voice03/03-BK/03-BK-I06/03-BK-I06-0170	1	mak	00:46:11;
+
+[PrintText]=00:46:11	Sekai	Es una doble cita ¿No? Debo actuar como la novia de Taisuke.	00:52:12;
+
+[PlayVoice]=00:46:11	Voice03/03-BK/03-BK-I06/03-BK-I06-0180	0	sek	00:52:12;
+
+[PrintText]=00:52:12	Makoto	O-oh, sí...	00:54:16;
+
+[PlayVoice]=00:52:12	Voice03/03-BK/03-BK-I06/03-BK-I06-0190	1	mak	00:54:16;
+
+[PrintText]=00:54:15	Sekai	Pero antes de eso. Tengo que animarme.	00:59:08;
+
+[PlayVoice]=00:54:15	Voice03/03-BK/03-BK-I06/03-BK-I06-0200	0	sek	00:59:08;
+
+[PlaySe]=00:55:12	2	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	01:14:09;
+
+[PrintText]=00:59:08	Makoto	Es verdad. Taisuke se preocupará si te ve así y...	01:03:05;
+
+[PlayVoice]=00:59:08	Voice03/03-BK/03-BK-I06/03-BK-I06-0210	1	mak	01:03:05;
+
+[PlayMovie]=01:02:16	Movie02/02-2K/02-2K-Q05/02-2K-Q05-004	0	01:07:03;
+
+[PlayVoice]=01:02:16	Voice03/03-BK/03-BK-I06/03-BK-I06-0220			01:07:03;
+
+[BlackFade]=01:05:03	OUT	01:07:03;
+
+[PrintText]=01:05:23	Makoto	Nn...	01:06:15;
+
+[PlayVoice]=01:05:23	Voice03/03-BK/03-BK-I06/03-BK-I06-0230	1	mak	01:06:15;
+
+[CreateBG]=01:07:03	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-006	01:10:07;
+
+[PrintText]=01:08:00	Sekai	Lo siento, ahora no puedo rendirme.	01:12:10;
+
+[PlayVoice]=01:08:00	Voice03/03-BK/03-BK-I06/03-BK-I06-0250	0	sek	01:12:10;
+
+[CreateBG]=01:10:07	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-007	01:19:20;
+
+[PrintText]=01:13:00	Makoto	¿Eh...?^	01:13:21;
+
+[PlayVoice]=01:13:00	Voice03/03-BK/03-BK-I06/03-BK-I06-0260	1	mak	01:13:21;
+
+[PlaySe]=01:14:09	1	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	01:33:05;
+
+[PrintText]=01:14:10	Sekai	Bien. Ahora me siento mejor. ¡Me voy!	01:19:06;
+
+[PlayVoice]=01:14:10	Voice03/03-BK/03-BK-I06/03-BK-I06-0270	0	sek	01:19:06;
+
+[PrintText]=01:19:13	Makoto	V-Vale...	01:21:18;
+
+[PlayVoice]=01:19:13	Voice03/03-BK/03-BK-I06/03-BK-I06-0280	1	mak	01:21:18;
+
+[CreateBG]=01:19:20	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-008	01:33:17;
+
+[PrintText]=01:25:11	Mujer A	Hey, ¿Viste eso?^	01:27:16;
+
+[PlayVoice]=01:25:11	Voice03/03-BK/03-BK-I06/03-BK-I06-0310	0	ona	01:27:16;
+
+[PrintText]=01:27:11	Mujer B	Sí, una pareja en plena piscina.	01:30:14;
+
+[PlayVoice]=01:27:11	Voice03/03-BK/03-BK-I06/03-BK-I06-0320	0	onb	01:30:14;
+
+[PrintText]=01:30:11	Man A	¿Qué es esto? ¿Pasó algo?^	01:32:08;
+
+[PlayVoice]=01:30:11	Voice03/03-BK/03-BK-I06/03-BK-I06-0330	1	ota	01:32:08;
+
+[PrintText]=01:32:05	Mujer A	Se estaban besando.	01:33:18;
+
+[PlayVoice]=01:32:05	Voice03/03-BK/03-BK-I06/03-BK-I06-0340	0	ona	01:33:18;
+
+[PlaySe]=01:33:05	2	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	01:52:02;
+
+[PrintText]=01:33:15	Mujer B	Probablemente son estudiantes. Kuh... hablo de una inocente pareja.	01:39:21;
+
+[PlayVoice]=01:33:15	Voice03/03-BK/03-BK-I06/03-BK-I06-0350	0	onb	01:39:21;
+
+[CreateBG]=01:33:17	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-009	01:48:00;
+
+[PrintText]=01:39:14	Mujer A	Debe ser lindo, tener una chica que lo besa a la fuerza. A sido genial.	01:46:00;
+
+[PlayVoice]=01:39:14	Voice03/03-BK/03-BK-I06/03-BK-I06-0360	0	ona	01:46:00;
+
+[PrintText]=01:45:20	Mujer B	¡Totalmente! Las cosas se pondrán muy calientes entre esos dos.	01:49:21;
+
+[PlayVoice]=01:45:20	Voice03/03-BK/03-BK-I06/03-BK-I06-0370	0	onb	01:49:21;
+
+[CreateBG]=01:48:00	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-010	01:53:03;
+
+[PrintText]=01:50:12	Kotonoha	¿...?^	01:51:04;
+
+[PlayVoice]=01:50:12	Voice03/03-BK/03-BK-I06/03-BK-I06-0390	0	kot	01:51:04;
+
+[PlaySe]=01:51:12	1	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	02:10:09;
+
+[PrintText]=01:52:01	Kotonoha	Makoto-kun.	01:53:02;
+
+[PlayVoice]=01:52:01	Voice03/03-BK/03-BK-I06/03-BK-I06-0410	0	kot	01:53:02;
+
+[CreateBG]=01:53:03	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-011	02:01:22;
+
+[PrintText]=01:53:03	Makoto	Kotonoha...	01:54:04;
+
+[PlayVoice]=01:53:03	Voice03/03-BK/03-BK-I06/03-BK-I06-0420	1	mak	01:54:04;
+
+[PrintText]=01:54:05	Kotonoha	¿Dónde está Saionji-san?^	01:55:18;
+
+[PlayVoice]=01:54:05	Voice03/03-BK/03-BK-I06/03-BK-I06-0440	0	kot	01:55:18;
+
+[PrintText]=01:55:23	Makoto	Oh, fue a buscar a Taisuke. Se fue, así que debes haberla encontrado en el camino.	02:01:21;
+
+[PlayVoice]=01:55:23	Voice03/03-BK/03-BK-I06/03-BK-I06-0450	1	mak	02:01:21;
+
+[PrintText]=02:01:21	Kotonoha	¿Se fue...? ...Ya veo.	02:05:09;
+
+[PlayVoice]=02:01:21	Voice03/03-BK/03-BK-I06/03-BK-I06-0460	0	kot	02:05:09;
+
+[CreateBG]=02:01:22	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-012	02:20:12;
+
+[PrintText]=02:05:12	Makoto	Sí, trajo tres bebidas. Uno fue tomado sin embargo.	02:12:07;
+
+[PlayVoice]=02:05:12	Voice03/03-BK/03-BK-I06/03-BK-I06-0470	1	mak	02:12:07;
+
+[PlaySe]=02:10:01	2	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	02:28:22;
+
+[PrintText]=02:12:06	Kotonoha	Oh, está bien.	02:14:18;
+
+[PlayVoice]=02:12:06	Voice03/03-BK/03-BK-I06/03-BK-I06-0480	0	kot	02:14:18;
+
+[PrintText]=02:14:21	Kotonoha	¿Hubo otra persona a parte de Saionji-san?^	02:18:10;
+
+[PlayVoice]=02:14:21	Voice03/03-BK/03-BK-I06/03-BK-I06-0500	0	kot	02:18:10;
+
+[PrintText]=02:18:09	Makoto	¿Huh? No.	02:20:06;
+
+[PlayVoice]=02:18:09	Voice03/03-BK/03-BK-I06/03-BK-I06-0510	1	mak	02:20:06;
+
+[PrintText]=02:20:10	Kotonoha	¿Solo estabas tú entonces?^	02:23:13;
+
+[PlayVoice]=02:20:10	Voice03/03-BK/03-BK-I06/03-BK-I06-0520	0	kot	02:23:13;
+
+[CreateBG]=02:20:12	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-013	02:37:10;
+
+[PrintText]=02:23:11	Makoto	Sí.	02:24:05;
+
+[PlayVoice]=02:23:11	Voice03/03-BK/03-BK-I06/03-BK-I06-0530	1	mak	02:24:05;
+
+[PrintText]=02:24:10	Kotonoha	¿No había nadie más... alguna pareja, por ejemplo?^	02:28:13;
+
+[PlayVoice]=02:24:10	Voice03/03-BK/03-BK-I06/03-BK-I06-0540	0	kot	02:28:13;
+
+[PlaySe]=02:28:12	1	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	02:47:09;
+
+[PrintText]=02:28:12	Makoto	No, no realmente. Todos están ahora en los toboganes, así que prácticamente tenemos este lugar para nosotros.	02:37:03;
+
+[PlayVoice]=02:28:12	Voice03/03-BK/03-BK-I06/03-BK-I06-0550	1	mak	02:37:03;
+
+[PrintText]=02:37:08	Kotonoha	Ya veo...	02:38:21;
+
+[PlayVoice]=02:37:08	Voice03/03-BK/03-BK-I06/03-BK-I06-0560	0	kot	02:38:21;
+
+[CreateBG]=02:37:10	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-014	02:45:14;
+
+[PrintText]=02:38:17	Makoto	¿Qué pasó?^	02:39:16;
+
+[PlayVoice]=02:38:17	Voice03/03-BK/03-BK-I06/03-BK-I06-0570	1	mak	02:39:16;
+
+[PrintText]=02:39:21	Kotonoha	¿Alguien vino aquí?^	02:42:09;
+
+[PlayVoice]=02:39:21	Voice03/03-BK/03-BK-I06/03-BK-I06-0580	0	kot	02:42:09;
+
+[PrintText]=02:42:04	Makoto	Como te dije, nadie.	02:44:08;
+
+[PlayVoice]=02:42:04	Voice03/03-BK/03-BK-I06/03-BK-I06-0590	1	mak	02:44:08;
+
+[PrintText]=02:44:07	Kotonoha	¿En serio?^	02:45:14;
+
+[PlayVoice]=02:44:07	Voice03/03-BK/03-BK-I06/03-BK-I06-0600	0	kot	02:45:14;
+
+[PrintText]=02:45:11	Makoto	¿Esperabas reunirte con alguien aquí?^	02:47:02;
+
+[PlayVoice]=02:45:11	Voice03/03-BK/03-BK-I06/03-BK-I06-0610	1	mak	02:47:02;
+
+[CreateBG]=02:45:14	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-015	02:54:15;
+
+[PlaySe]=02:47:00	2	Se03/03-BK/03-BK-I06/SE03-BK-I06-001	03:08:00;
+
+[PrintText]=02:47:00	Kotonoha	No...	02:49:00;
+
+[PlayVoice]=02:47:00	Voice03/03-BK/03-BK-I06/03-BK-I06-0620	0	kot	02:49:00;
+
+[PrintText]=02:48:16	Makoto	¿Ver a alguien?^	02:50:10;
+
+[PlayVoice]=02:48:16	Voice03/03-BK/03-BK-I06/03-BK-I06-0630	1	mak	02:50:10;
+
+[PrintText]=02:50:09	Kotonoha	Sí, una chica.	02:51:21;
+
+[PlayVoice]=02:50:09	Voice03/03-BK/03-BK-I06/03-BK-I06-0640	0	kot	02:51:21;
+
+[PrintText]=02:51:20	Makoto	¿Una chica? ¿Qué clase de chica?^	02:54:07;
+
+[PlayVoice]=02:51:20	Voice03/03-BK/03-BK-I06/03-BK-I06-0650	1	mak	02:54:07;
+
+[PrintText]=02:54:13	Kotonoha	...No lo sé.	02:57:06;
+
+[PlayVoice]=02:54:13	Voice03/03-BK/03-BK-I06/03-BK-I06-0660	0	kot	02:57:06;
+
+[CreateBG]=02:54:15	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-016	02:59:18;
+
+[PrintText]=02:57:06	Makoto	En ese caso, será imposible encontrarla...	02:59:11;
+
+[PlayVoice]=02:57:06	Voice03/03-BK/03-BK-I06/03-BK-I06-0670	1	mak	02:59:11;
+
+[PrintText]=02:59:16	Kotonoha	...	03:01:01;
+
+[PlayVoice]=02:59:16	Voice03/03-BK/03-BK-I06/03-BK-I06-0680	0	xxx	03:01:01;
+
+[CreateBG]=02:59:18	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-017	03:03:14;
+
+[PrintText]=03:01:06	Makoto	¿Q-Qué?^	03:03:09;
+
+[PlayVoice]=03:01:06	Voice03/03-BK/03-BK-I06/03-BK-I06-0700	1	mak	03:03:09;
+
+[CreateBG]=03:03:14	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-018	03:06:00;
+
+[PrintText]=03:03:14	Kotonoha	Olvídalo.	03:05:02;
+
+[PlayVoice]=03:03:14	Voice03/03-BK/03-BK-I06/03-BK-I06-0710	0	kot	03:05:02;
+
+[CreateBG]=03:06:00	BGS	Event03/03-BK/03-BK-I06/03-BK-I06-019	03:08:00;
+
+[BlackFade]=03:07:00	OUT	03:08:00;
+
+ ;
+
+[Next]=03:08:00;
+
+

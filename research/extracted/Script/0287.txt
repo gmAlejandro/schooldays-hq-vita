@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=01:02:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	01:02:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-A00/02-2S-A00-001	00:05:08;
+
+[PrintText]=00:00:00	Kotonoha	Mamá ¿Donde pusiste nuestro termo?^	00:03:20;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-A00/02-2S-A00-0060	0	kot	00:03:20;
+
+[PrintText]=00:03:20	Madre de Kotonoha	¿Qué es todo esto, de repente?^	00:05:07;
+
+[PlayVoice]=00:03:20	Voice02/02-2S/02-2S-A00/02-2S-A00-0070	0	man	00:05:07;
+
+[PrintText]=00:05:07	Kotonoha	¿Tenemos un termo vació no?^	00:08:12;
+
+[PlayVoice]=00:05:07	Voice02/02-2S/02-2S-A00/02-2S-A00-0080	0	kot	00:08:12;
+
+[CreateBG]=00:05:08	BGS	Event02/02-2S/02-2S-A00/02-2S-A00-002	00:11:17;
+
+[PrintText]=00:08:12	Madre de Kotonoha	Está en la parte de atrás del armario, a la izquierda ¿Qué vas a hacer con el?^	00:11:16;
+
+[PlayVoice]=00:08:12	Voice02/02-2S/02-2S-A00/02-2S-A00-0090	0	man	00:11:16;
+
+[PrintText]=00:11:16	Kotonoha	Parece que va hacer frío mañana, así que llevare algo de agua caliente.	00:16:15;
+
+[PlayVoice]=00:11:16	Voice02/02-2S/02-2S-A00/02-2S-A00-0100	0	kot	00:16:15;
+
+[CreateBG]=00:11:17	BGS	Event02/02-2S/02-2S-A00/02-2S-A00-003	00:18:04;
+
+[PrintText]=00:16:16	Madre de Kotonoha	Eso es raro de ti.	00:18:04;
+
+[PlayVoice]=00:16:16	Voice02/02-2S/02-2S-A00/02-2S-A00-0110	0	man	00:18:04;
+
+[CreateBG]=00:18:04	BGS	Event02/02-2S/02-2S-A00/02-2S-A00-004	00:30:01;
+
+[PrintText]=00:18:04	Kokoro	Onee-Chan está actuando extraña últimamente, leyendo libros de cocina y costura.	00:24:10;
+
+[PlayVoice]=00:18:04	Voice02/02-2S/02-2S-A00/02-2S-A00-0120	0	kok	00:24:10;
+
+[PrintText]=00:24:10	Madre de Kotonoha	Ya veo, entonces Kotonoha ya está en esa etapa.	00:28:08;
+
+[PlayVoice]=00:24:10	Voice02/02-2S/02-2S-A00/02-2S-A00-0140	0	man	00:28:08;
+
+[PrintText]=00:28:09	Kokoro	¿'Etapa'?^	00:30:00;
+
+[PlayVoice]=00:28:09	Voice02/02-2S/02-2S-A00/02-2S-A00-0150	0	kok	00:30:00;
+
+[CreateBG]=00:30:01	BGS	Event02/02-2S/02-2S-A00/02-2S-A00-005	00:35:01;
+
+[PrintText]=00:30:01	Madre de Kotonoha	Kotonoha. ¿Qué intentas hacer?^	00:32:21;
+
+[PlayVoice]=00:30:01	Voice02/02-2S/02-2S-A00/02-2S-A00-0170	0	man	00:32:21;
+
+[PrintText]=00:32:21	Kotonoha	No lo sé... ¿Algo de te negro?^	00:37:22;
+
+[PlayVoice]=00:32:21	Voice02/02-2S/02-2S-A00/02-2S-A00-0180	0	kot	00:37:22;
+
+[CreateBG]=00:35:01	BGS	Event02/02-2S/02-2S-A00/02-2S-A00-006	00:42:07;
+
+[PrintText]=00:37:23	Madre de Kotonoha	¿Le gustan las cosas dulces?^	00:39:15;
+
+[PlayVoice]=00:37:23	Voice02/02-2S/02-2S-A00/02-2S-A00-0190	0	man	00:39:15;
+
+[PrintText]=00:39:14	Kotonoha	No lo sé... ¡¿eh?!	00:43:12;
+
+[PlayVoice]=00:39:14	Voice02/02-2S/02-2S-A00/02-2S-A00-0200	0	kot	00:43:12;
+
+[CreateBG]=00:42:07	BGS	Event02/02-2S/02-2S-A00/02-2S-A00-007	00:52:17;
+
+[PrintText]=00:43:13	Madre de Kotonoha	Fufuh... déjamelo a mí.	00:46:02;
+
+[PlayVoice]=00:43:13	Voice02/02-2S/02-2S-A00/02-2S-A00-0210	0	man	00:52:16;
+
+[PrintText]=00:46:02	Madre de Kotonoha	Te voy a enseñar mi receta para hacer limonada. Estoy segura que a tu novio le encantará.	00:52:16;
+
+[PrintText]=00:52:16	Kotonoha	¿'N-Novio'? Eso... no es. Yo solo...	00:59:20;
+
+[PlayVoice]=00:52:16	Voice02/02-2S/02-2S-A00/02-2S-A00-0220	0	kot	00:59:20;
+
+[CreateBG]=00:52:17	BGS	Event02/02-2S/02-2S-A00/02-2S-A00-007B	01:02:10;
+
+[PrintText]=00:59:21	Madre de Kotonoha	Oh... No te preocupes por eso.	01:01:09;
+
+[PlayVoice]=00:59:21	Voice02/02-2S/02-2S-A00/02-2S-A00-0230	0	man	01:01:09;
+
+[BlackFade]=01:01:10	OUT	01:02:10;
+
+ ;
+
+[Next]=01:02:10;
+
+
+
+

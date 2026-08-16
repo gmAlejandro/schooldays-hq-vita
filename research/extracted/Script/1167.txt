@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:17:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:17:19;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O08/04-SA-O08-001	00:01:03;
+
+[PrintText]=00:00:04	Sekai	¿Eh...?^	00:00:16;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-O08/04-SA-O08-0030	0	sek	00:00:16;
+
+[CreateBG]=00:01:03	BGS	Event04/04-SA/04-SA-O08/04-SA-O08-001B	00:02:22;
+
+[PrintText]=00:01:03	Makoto	¿Y bien?^	00:01:19;
+
+[PlayVoice]=00:01:03	Voice04/04-SA/04-SA-O08/04-SA-O08-0040	1	mak	00:01:19;
+
+[PrintText]=00:02:02	Sekai	...Vale.	00:02:19;
+
+[PlayVoice]=00:02:02	Voice04/04-SA/04-SA-O08/04-SA-O08-0050	0	sek	00:02:19;
+
+[CreateBG]=00:02:22	BGS	Event04/04-SA/04-SA-O08/04-SA-O08-002	00:07:04;
+
+[PrintText]=00:02:23	Makoto	Haah ... Voy a contar contigo la próxima vez.	00:07:00;
+
+[PlayVoice]=00:02:23	Voice04/04-SA/04-SA-O08/04-SA-O08-0060	1	mak	00:07:00;
+
+[CreateBG]=00:07:04	BGS	Event04/04-SA/04-SA-O08/04-SA-O08-003	00:10:14;
+
+[PrintText]=00:07:05	Sekai	¿La próxima vez ...? ¿No piensas volver?^	00:10:12;
+
+[PlayVoice]=00:07:05	Voice04/04-SA/04-SA-O08/04-SA-O08-0070	0	sek	00:10:12;
+
+[CreateBG]=00:10:14	BGS	Event04/04-SA/04-SA-O08/04-SA-O08-004	00:14:06;
+
+[PrintText]=00:10:16	Makoto	Volviendo ahora sería un poco... sabes. Me voy a casa.	00:14:04;
+
+[PlayVoice]=00:10:16	Voice04/04-SA/04-SA-O08/04-SA-O08-0080	1	mak	00:14:04;
+
+[CreateBG]=00:14:06	BGS	Event04/04-SA/04-SA-O08/04-SA-O08-005	00:17:19;
+
+[PrintText]=00:14:08	Sekai	¿Quieres tomar un té, entonces?^	00:16:22;
+
+[PlayVoice]=00:14:08	Voice04/04-SA/04-SA-O08/04-SA-O08-0090	0	sek	00:16:22;
+
+[PrintText]=00:17:01	Makoto	¿Eh?^	00:17:15;
+
+[PlayVoice]=00:17:01	Voice04/04-SA/04-SA-O08/04-SA-O08-0100	1	mak	00:17:15;
+
+ ;
+
+[Next]=00:17:19;
+
+

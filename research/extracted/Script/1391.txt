@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:14:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:14:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-A0/05-A0-H02/05-A0-H02-001	00:05:00;
+
+[PrintText]=00:00:00	Nanami	¿No puedes responder?^	00:01:14;
+
+[PlayVoice]=00:00:00	Voice05/05-A0/05-A0-H03/05-A0-H03-0040	0	nan	00:01:14;
+
+[PrintText]=00:01:15	Makoto	...	00:05:03;
+
+[PlayVoice]=00:01:15	Voice05/05-A0/05-A0-H03/05-A0-H03-0050	1	xxx	00:05:03;
+
+[CreateBG]=00:05:00	BGS	Event05/05-A0/05-A0-H02/05-A0-H02-002	00:14:17;
+
+[PrintText]=00:05:05	Nanami	Te quedarás con la respuesta ¿No?^	00:09:15;
+
+[PlayVoice]=00:05:05	Voice05/05-A0/05-A0-H03/05-A0-H03-0060	0	nan	00:09:15;
+
+[PrintText]=00:09:15	Makoto	...	00:14:10;
+
+[PlayVoice]=00:09:15	Voice05/05-A0/05-A0-H03/05-A0-H03-0070	1	xxx	00:14:10;
+
+ ;
+
+[Next]=00:14:17;
+
+

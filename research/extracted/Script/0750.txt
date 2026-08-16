@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:10:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:10:10;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-E05/SE03-SA-E05-001	00:10:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-E05/03-SA-E05-001	00:02:08;
+
+[PrintText]=00:00:00	Makoto	Vale.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-E05/03-SA-E05-0030	1	mak	00:00:20;
+
+[PrintText]=00:00:21	Sekai	¡¿Ehh?!	00:02:07;
+
+[PlayVoice]=00:00:21	Voice03/03-SA/03-SA-E05/03-SA-E05-0040	0	sek	00:02:07;
+
+[PrintText]=00:02:07	Makoto	Ah...	00:02:20;
+
+[PlayVoice]=00:02:07	Voice03/03-SA/03-SA-E05/03-SA-E05-0050	1	mak	00:02:20;
+
+[CreateBG]=00:02:08	BGS	Event03/03-SA/03-SA-E05/03-SA-E05-003	00:06:23;
+
+[PrintText]=00:02:20	Otome	¿Um...?^	00:04:07;
+
+[PlayVoice]=00:02:20	Voice03/03-SA/03-SA-E05/03-SA-E05-0060	0	oto	00:04:07;
+
+[PrintText]=00:04:08	Makoto	Lo siento. No puedo después de todo.	00:06:22;
+
+[PlayVoice]=00:04:08	Voice03/03-SA/03-SA-E05/03-SA-E05-0070	1	mak	00:06:22;
+
+[CreateBG]=00:06:23	BGS	Event03/03-SA/03-SA-E05/03-SA-E05-004	00:09:02;
+
+[PrintText]=00:06:23	Sekai	¡No solo 'No puedes'!	00:09:01;
+
+[PlayVoice]=00:06:23	Voice03/03-SA/03-SA-E05/03-SA-E05-0080	0	sek	00:09:01;
+
+[PrintText]=00:09:01	Makoto	C-Cierto.	00:10:09;
+
+[PlayVoice]=00:09:01	Voice03/03-SA/03-SA-E05/03-SA-E05-0090	1	mak	00:10:09;
+
+[CreateBG]=00:09:02	BGS	Event03/03-SA/03-SA-E05/03-SA-E05-005	00:10:10;
+
+ ;
+
+[Next]=00:10:10;
+
+

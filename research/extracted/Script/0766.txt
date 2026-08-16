@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:31:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:30:15;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G00/SE03-SA-G00-001	00:31:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-002	00:03:13;
+
+[PrintText]=00:02:00	Sekai	Esa chica es de la clase 4 ¿No?^	00:03:13;
+
+[PlayVoice]=00:02:00	Voice03/03-SA/03-SA-G00/03-SA-G00-0030	0	sek	00:03:13;
+
+[CreateBG]=00:03:13	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-003	00:06:02;
+
+[PrintText]=00:03:13	Makoto	Sí.	00:04:06;
+
+[PlayVoice]=00:03:13	Voice03/03-SA/03-SA-G00/03-SA-G00-0040	1	mak	00:04:06;
+
+[PrintText]=00:04:06	Sekai	Se ven muy cercanos.	00:06:01;
+
+[PlayVoice]=00:04:06	Voice03/03-SA/03-SA-G00/03-SA-G00-0050	0	sek	00:06:01;
+
+[CreateBG]=00:06:02	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-004	00:08:18;
+
+[PrintText]=00:06:02	Makoto	Nos conocemos desde la primaria.	00:08:18;
+
+[PlayVoice]=00:06:02	Voice03/03-SA/03-SA-G00/03-SA-G00-0060	1	mak	00:08:18;
+
+[PrintText]=00:08:17	Sekai	¿Tu ex-novia?^	00:10:06;
+
+[PlayVoice]=00:08:17	Voice03/03-SA/03-SA-G00/03-SA-G00-0070	0	sek	00:10:06;
+
+[CreateBG]=00:08:18	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-005	00:10:07;
+
+[CreateBG]=00:10:07	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-006	00:18:13;
+
+[PrintText]=00:10:07	Makoto	No, tonta. Alguien con quien solía divertirme.	00:15:03;
+
+[PlayVoice]=00:10:07	Voice03/03-SA/03-SA-G00/03-SA-G00-0090	1	mak	00:15:03;
+
+[PrintText]=00:15:03	Sekai	Ya veo.	00:16:11;
+
+[PlayVoice]=00:15:03	Voice03/03-SA/03-SA-G00/03-SA-G00-0100	0	sek	00:16:11;
+
+[PrintText]=00:16:12	Makoto	Ya no nos vemos.	00:18:12;
+
+[PlayVoice]=00:16:12	Voice03/03-SA/03-SA-G00/03-SA-G00-0110	1	mak	00:18:12;
+
+[PrintText]=00:18:12	Sekai	Hmmn.	00:19:23;
+
+[PlayVoice]=00:18:12	Voice03/03-SA/03-SA-G00/03-SA-G00-0120	0	sek	00:19:23;
+
+[CreateBG]=00:18:13	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-007	00:19:23;
+
+[CreateBG]=00:19:23	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-008	00:22:21;
+
+[PrintText]=00:19:23	Makoto	Así que no te molestes.	00:22:20;
+
+[PlayVoice]=00:19:23	Voice03/03-SA/03-SA-G00/03-SA-G00-0130	1	mak	00:22:20;
+
+[PrintText]=00:22:20	Sekai	¡N-No estoy molesta para nada!	00:26:07;
+
+[PlayVoice]=00:22:20	Voice03/03-SA/03-SA-G00/03-SA-G00-0140	0	sek	00:26:07;
+
+[CreateBG]=00:22:21	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-009	00:26:07;
+
+[CreateBG]=00:26:07	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-010	00:27:10;
+
+[PrintText]=00:26:07	Makoto	¡Haha!	00:27:10;
+
+[PlayVoice]=00:26:07	Voice03/03-SA/03-SA-G00/03-SA-G00-0150	1	mak	00:27:10;
+
+[CreateBG]=00:27:10	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-011	00:28:12;
+
+[PrintText]=00:27:10	Sekai	Cielos...	00:28:11;
+
+[PlayVoice]=00:27:10	Voice03/03-SA/03-SA-G00/03-SA-G00-0160	0	sek	00:28:11;
+
+[CreateBG]=00:28:12	BGS	Event03/03-SA/03-SA-G00/03-SA-G00-012	00:29:09;
+
+[PrintText]=00:28:12	Makoto	Sekai.	00:29:09;
+
+[PlayVoice]=00:28:12	Voice03/03-SA/03-SA-G00/03-SA-G00-0170	1	mak	00:29:09;
+
+[PrintText]=00:29:08	Sekai	Ah...	00:30:09;
+
+[PlayVoice]=00:29:08	Voice03/03-SA/03-SA-G00/03-SA-G00-0180	0	sek	00:30:09;
+
+[PlayMovie]=00:29:09	Movie03/03-SA/03-SA-G00/03-SA-G00-013	0	00:30:15;
+
+ ;
+
+[Next]=00:31:08;
+
+

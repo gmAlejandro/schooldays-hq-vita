@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:27:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:33:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-F01/03-SB-F01-001	00:02:15;
+
+[PrintText]=00:00:00	Kotonoha	Ah, Makoto-kun.	00:01:22;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-F01/03-SB-F01-0030	0	kot	00:01:22;
+
+[PrintText]=00:01:22	Makoto	Uh-huh.	00:02:15;
+
+[PlayVoice]=00:01:22	Voice03/03-SB/03-SB-F01/03-SB-F01-0040	1	mak	00:02:15;
+
+[CreateBG]=00:02:15	BGS	Event03/03-SB/03-SB-F01/03-SB-F01-002	00:13:00;
+
+[PrintText]=00:02:15	Kotonoha	Lo siento ¿Tienes un momento?^	00:05:18;
+
+[PlayVoice]=00:02:15	Voice03/03-SB/03-SB-F01/03-SB-F01-0050	0	kot	00:05:18;
+
+[PrintText]=00:05:17	Makoto	Sí.	00:06:18;
+
+[PlayVoice]=00:05:17	Voice03/03-SB/03-SB-F01/03-SB-F01-0060	1	mak	00:06:18;
+
+[PrintText]=00:06:18	Kotonoha	Um... mañana son los preparativos del festival ¿No?^	00:12:03;
+
+[PlayVoice]=00:06:18	Voice03/03-SB/03-SB-F01/03-SB-F01-0070	0	kot	00:12:03;
+
+[PrintText]=00:12:04	Makoto	Sí.	00:13:04;
+
+[PlayVoice]=00:12:04	Voice03/03-SB/03-SB-F01/03-SB-F01-0080	1	mak	00:13:04;
+
+[CreateBG]=00:13:00	BGS	Event03/03-SB/03-SB-F01/03-SB-F01-003	00:17:08;
+
+[PrintText]=00:13:03	Kotonoha	Y al día siguiente es el festival ¿Cierto?^	00:16:18;
+
+[PlayVoice]=00:13:03	Voice03/03-SB/03-SB-F01/03-SB-F01-0090	0	kot	00:16:18;
+
+[PrintText]=00:16:18	Makoto	Sí...	00:17:11;
+
+[PlayVoice]=00:16:18	Voice03/03-SB/03-SB-F01/03-SB-F01-0100	1	mak	00:17:11;
+
+[CreateBG]=00:17:08	BGS	Event03/03-SB/03-SB-F01/03-SB-F01-004	00:20:03;
+
+[PrintText]=00:17:10	Kotonoha	Entonces, estuve pensando...	00:19:07;
+
+[PlayVoice]=00:17:10	Voice03/03-SB/03-SB-F01/03-SB-F01-0110	0	kot	00:19:07;
+
+[PrintText]=00:19:06	Makoto	¿Estabas pensando y...?^	00:20:03;
+
+[PlayVoice]=00:19:06	Voice03/03-SB/03-SB-F01/03-SB-F01-0120	1	mak	00:20:03;
+
+[CreateBG]=00:20:03	BGS	Event03/03-SB/03-SB-F01/03-SB-F01-005	00:33:05;
+
+[PrintText]=00:20:03	Kotonoha	¿Quieres ir... y caminar juntos durante el festival?^	00:24:10;
+
+[PlayVoice]=00:20:03	Voice03/03-SB/03-SB-F01/03-SB-F01-0130	0	kot	00:24:10;
+
+[PrintText]=00:24:10	Makoto	¿Eh...?^	00:25:02;
+
+[PlayVoice]=00:24:10	Voice03/03-SB/03-SB-F01/03-SB-F01-0140	1	mak	00:25:02;
+
+[PrintText]=00:25:01	Kotonoha	...	00:27:04;
+
+[PlayVoice]=00:25:01	Voice03/03-SB/03-SB-F01/03-SB-F01-0150	0	xxx	00:27:04;
+
+[SetSELECT]=00:27:04	'Sí'	'No puedo'	00:32:04;
+
+ ;
+
+[Next]=00:33:05;
+
+

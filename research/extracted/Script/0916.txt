@@ -1,0 +1,15 @@
+﻿[SkipFRAME]=00:02:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:02:14;
+
+[CreateBG]=00:00:00	BGS	Ini/FIX/04-KA-C00-001	00:02:14;
+
+[PrintText]=00:00:12	Makoto	¡Me quedé dormido!	00:01:21;
+
+[PlayVoice]=00:00:12	Voice04/04-KA/04-KA-C00/04-KA-C00-0030	1	mak	00:01:21;
+
+ ;
+
+[Next]=00:02:14;
+
+

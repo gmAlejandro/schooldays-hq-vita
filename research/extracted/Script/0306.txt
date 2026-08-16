@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:30:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:36:05;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-H00/SE02-2S-H00-001	00:36:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-H00/02-2S-H00-001	00:02:22;
+
+[CreateBG]=00:02:22	BGS	Event02/02-2S/02-2S-H00/02-2S-H00-002	00:05:20;
+
+[CreateBG]=00:05:20	BGS	Event02/02-2S/02-2S-H00/02-2S-H00-003	00:07:16;
+
+[PrintText]=00:06:02	Kotonoha	Vamos a comer.	00:07:08;
+
+[PlayVoice]=00:06:02	Voice02/02-2S/02-2S-H00/02-2S-H00-0050	0	kot	00:07:08;
+
+[CreateBG]=00:07:16	BGS	Event02/02-2S/02-2S-H00/02-2S-H00-004	00:10:17;
+
+[PrintText]=00:07:22	Sekai	V-Vamos a comer.	00:10:12;
+
+[PlayVoice]=00:07:22	Voice02/02-2S/02-2S-H00/02-2S-H00-0060	0	sek	00:10:12;
+
+[CreateBG]=00:10:17	BGS	Event02/02-2S/02-2S-H00/02-2S-H00-005	00:13:00;
+
+[PrintText]=00:10:20	Makoto	...Vamos a comer.	00:12:19;
+
+[PlayVoice]=00:10:20	Voice02/02-2S/02-2S-H00/02-2S-H00-0070	1	mak	00:12:19;
+
+[CreateBG]=00:13:00	BGS	Event02/02-2S/02-2S-H00/02-2S-H00-006	00:19:17;
+
+[PrintText]=00:13:07	Kotonoha	Ten, Makoto-kun. Algo de limonada.	00:16:04;
+
+[PlayVoice]=00:13:07	Voice02/02-2S/02-2S-H00/02-2S-H00-0080	0	kot	00:16:04;
+
+[PrintText]=00:16:06	Makoto	Ah, gracias.	00:18:14;
+
+[PlayVoice]=00:16:06	Voice02/02-2S/02-2S-H00/02-2S-H00-0090	1	mak	00:18:14;
+
+[PrintText]=00:18:09	Kotonoha	Ufufu...	00:19:14;
+
+[PlayVoice]=00:18:09	Voice02/02-2S/02-2S-H00/02-2S-H00-0100	0	kot	00:19:14;
+
+[CreateBG]=00:19:17	BGS	Event02/02-2S/02-2S-H00/02-2S-H00-007	00:36:05;
+
+[PrintText]=00:19:17	Makoto	¿Q-Qué debería hacer...?^	00:22:01;
+
+[PlayVoice]=00:19:17	Voice02/02-2S/02-2S-H00/02-2S-H00-0110	1	xxx	00:22:01;
+
+[PrintText]=00:22:11	Makoto	No sé por qué, pero Kotonoha se ve feliz hoy.	00:29:05;
+
+[PlayVoice]=00:22:11	Voice02/02-2S/02-2S-H00/02-2S-H00-0120	1	xxx	00:29:05;
+
+[PrintText]=00:29:17	Makoto	Tal vez...	00:31:00;
+
+[PlayVoice]=00:29:17	Voice02/02-2S/02-2S-H00/02-2S-H00-0130	1	xxx	00:31:00;
+
+[SetSELECT]=00:30:00	'No hay que decírselo después de todo'	null	00:35:00;
+
+ ;
+
+[Next]=00:36:05;
+
+
+
+

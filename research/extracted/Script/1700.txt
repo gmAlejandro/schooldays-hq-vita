@@ -1,0 +1,426 @@
+﻿[SkipFRAME]=06:02:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:21:02;
+
+[PlayMovie]=00:00:00	Movie05/05-SA/05-SA-T00/05-SA-T00-001_002	0	00:11:07;
+
+[PrintText]=00:00:12	Sekai	Eu... uh... uhh...	00:06:09;
+
+[PlayVoice]=00:00:12	Voice05/05-SA/05-SA-T00/05-SA-T00-0040	0	sek	00:06:09;
+
+[PlaySe]=00:07:04	1	Voice05/05-SA/05-SA-T00/05-SA-T00-0040	00:13:01;
+
+[CreateBG]=00:11:07	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-003	00:20:05;
+
+[PrintText]=00:15:11	Sekai	Mmn...	00:17:07;
+
+[PlayVoice]=00:15:11	Voice05/05-SA/05-SA-T00/05-SA-T00-0060	0	sek	00:17:07;
+
+[PrintText]=00:19:02	Sekai	¿...?^	00:20:06;
+
+[PlayVoice]=00:19:02	Voice05/05-SA/05-SA-T00/05-SA-T00-0090	0	sek	00:20:06;
+
+[CreateBG]=00:20:05	BGS	System/Screen/Black	00:21:01;
+
+[CreateBG]=00:21:01	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-004	00:24:05;
+
+[PlayMovie]=00:24:05	Movie05/05-SA/05-SA-T00/05-SA-T00-005	0	00:30:23;
+
+[CreateBG]=00:30:23	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-006	00:32:02;
+
+[PlayBgm]=00:32:02	BGM/SD_BGM/sdbgm18	01:38:05;
+
+[CreateBG]=00:32:02	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-007	00:33:15;
+
+[CreateBG]=00:33:15	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-008	00:35:10;
+
+[PrintText]=00:34:14	Sekai	...Vete.	00:35:13;
+
+[PlayVoice]=00:34:14	Voice05/05-SA/05-SA-T00/05-SA-T00-0110	0	sek	00:35:13;
+
+[CreateBG]=00:35:10	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-009	00:37:05;
+
+[PrintText]=00:36:06	Makoto	¿Sekai? ¿Estás ahí?^	00:38:08;
+
+[PlayVoice]=00:36:06	Voice05/05-SA/05-SA-T00/05-SA-T00-0120	1	mak	00:38:08;
+
+[CreateBG]=00:37:05	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-010	00:48:03;
+
+[PrintText]=00:38:14	Sekai	Vete.	00:39:18;
+
+[PlayVoice]=00:38:14	Voice05/05-SA/05-SA-T00/05-SA-T00-0130	0	sek	00:39:18;
+
+[PrintText]=00:40:04	Makoto	¡Sekai! ¡Abre! Yo...	00:42:21;
+
+[PlayVoice]=00:40:04	Voice05/05-SA/05-SA-T00/05-SA-T00-0140	1	mak	00:42:21;
+
+[PrintText]=00:42:21	Sekai	¡Que te vayas!	00:44:07;
+
+[PlayVoice]=00:42:21	Voice05/05-SA/05-SA-T00/05-SA-T00-0150	0	sek	00:44:07;
+
+[PrintText]=00:45:01	Makoto	...	00:46:01;
+
+[PlayVoice]=00:45:01	Voice05/05-SA/05-SA-T00/05-SA-T00-0160	1	xxx	00:46:01;
+
+[PrintText]=00:46:11	Sekai	Olvídame... y ve a donde Katsura-san.	00:50:13;
+
+[PlayVoice]=00:46:11	Voice05/05-SA/05-SA-T00/05-SA-T00-0170	0	sek	00:50:13;
+
+[CreateBG]=00:48:03	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-011	00:56:12;
+
+[PrintText]=00:51:02	Makoto	Perdóname, yo...	00:53:13;
+
+[PlayVoice]=00:51:02	Voice05/05-SA/05-SA-T00/05-SA-T00-0180	1	mak	00:53:13;
+
+[PrintText]=00:53:22	Sekai	Olvídame y ve a donde Katsura-san.	00:59:08;
+
+[PlayVoice]=00:53:22	Voice05/05-SA/05-SA-T00/05-SA-T00-0190	0	sek	00:59:08;
+
+[CreateBG]=00:56:12	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-012	01:03:00;
+
+[PrintText]=01:00:06	Makoto	No puedo... no, no lo haré.	01:04:09;
+
+[PlayVoice]=01:00:06	Voice05/05-SA/05-SA-T00/05-SA-T00-0200	1	mak	01:04:09;
+
+[PlayMovie]=01:03:00	Movie05/05-SA/05-SA-T00/05-SA-T00-013	0	01:04:06;
+
+[CreateBG]=01:04:06	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-014	01:05:17;
+
+[PrintText]=01:04:10	Sekai	Solo ve.	01:05:23;
+
+[PlayVoice]=01:04:10	Voice05/05-SA/05-SA-T00/05-SA-T00-0210	0	sek	01:05:23;
+
+[PrintText]=01:05:12	Makoto	¡No!	01:06:22;
+
+[PlayVoice]=01:05:12	Voice05/05-SA/05-SA-T00/05-SA-T00-0220	1	mak	01:06:22;
+
+[PlayMovie]=01:05:17	Movie05/05-SA/05-SA-T00/05-SA-T00-015	0	01:06:18;
+
+[PlayMovie]=01:06:18	Movie05/05-SA/05-SA-T00/05-SA-T00-016	0	01:11:15;
+
+[PlaySe]=01:07:00	1	Voice05/05-SA/05-SA-T00/05-SA-T00-0310	01:09:06;
+
+[PrintText]=01:09:06	Sekai	Es... mejor si lo haces.	01:11:11;
+
+[PlayVoice]=01:09:06	Voice05/05-SA/05-SA-T00/05-SA-T00-0230	0	sek	01:11:11;
+
+[CreateBG]=01:11:15	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-017	01:37:01;
+
+[PlaySe]=01:11:20	1	Voice05/05-SA/05-SA-T00/05-SA-T00-0310	01:18:06;
+
+[PrintText]=01:15:09	Makoto	No me iré de aquí hasta que no me perdones.	01:18:17;
+
+[PlayVoice]=01:15:09	Voice05/05-SA/05-SA-T00/05-SA-T00-0240	1	mak	01:18:17;
+
+[PrintText]=01:18:19	Sekai	No te perdonaré... no lo haré.	01:23:06;
+
+[PlayVoice]=01:18:19	Voice05/05-SA/05-SA-T00/05-SA-T00-0250	0	sek	01:23:06;
+
+[PrintText]=01:23:07	Makoto	Perdóname.	01:24:03;
+
+[PlayVoice]=01:23:07	Voice05/05-SA/05-SA-T00/05-SA-T00-0260	1	mak	01:24:03;
+
+[PrintText]=01:23:16	Sekai	No... te perdonaré....	01:28:23;
+
+[PlayVoice]=01:23:16	Voice05/05-SA/05-SA-T00/05-SA-T00-0270	0	sek	01:28:23;
+
+[PrintText]=01:28:19	Makoto	...	01:29:18;
+
+[PlayVoice]=01:28:19	Voice05/05-SA/05-SA-T00/05-SA-T00-0280	1	xxx	01:29:18;
+
+[PrintText]=01:29:10	Sekai	Uuh... uh... uuh...	01:35:20;
+
+[PlayVoice]=01:29:10	Voice05/05-SA/05-SA-T00/05-SA-T00-0310	0	sek	01:35:20;
+
+[BlackFade]=01:36:01	OUT	01:37:01;
+
+[CreateBG]=01:37:01	BGS	System/Screen/Black	01:40:15;
+
+[PlaySe]=01:39:18	1	SysSe/SE_all/keitai/tyakusin_sekai	01:51:10;
+
+[PlayMovie]=01:40:15	Movie05/05-SA/05-SA-T00/05-SA-T00-019	0	01:48:12;
+
+[BlackFade]=01:40:15	IN	01:41:03;
+
+[CreateBG]=01:48:12	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-020	01:52:11;
+
+[CreateBG]=01:52:11	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-021	01:56:11;
+
+[PlaySe]=01:52:19	1	SysSe/SE_all/keitai/tyakusin_sekai	02:02:06;
+
+[CreateBG]=01:56:11	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-023	02:02:06;
+
+[BlackFade]=02:00:18	IN	02:02:06;
+
+[CreateBG]=02:02:06	BGS	System/Screen/Black	02:07:19;
+
+[PrintText]=02:05:01	Madre de Sekai	Estoy en casa.	02:06:08;
+
+[PlayVoice]=02:05:01	Voice05/05-SA/05-SA-T00/05-SA-T00-0330	0	yko	02:06:08;
+
+[CreateBG]=02:07:19	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-023	02:11:05;
+
+[PrintText]=02:10:01	Sekai	...	02:11:07;
+
+[PlayVoice]=02:10:01	Voice05/05-SA/05-SA-T00/05-SA-T00-0340	0	xxx	02:11:07;
+
+[CreateBG]=02:11:05	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-026	02:14:23;
+
+[PrintText]=02:12:01	Madre de Sekai	Oh por.... ¿Estás dormida?^	02:14:06;
+
+[PlayVoice]=02:12:01	Voice05/05-SA/05-SA-T00/05-SA-T00-0360	0	yko	02:14:06;
+
+[CreateBG]=02:14:23	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-024	02:25:12;
+
+[PrintText]=02:16:10	Sekai	Mmn...	02:17:22;
+
+[PlayVoice]=02:16:10	Voice05/05-SA/05-SA-T00/05-SA-T00-0370	0	sek	02:17:22;
+
+[PrintText]=02:18:02	Madre de Sekai	Ten un regalo ¿Quieres bavarois?^	02:20:15;
+
+[PlayVoice]=02:18:02	Voice05/05-SA/05-SA-T00/05-SA-T00-0380	0	yko	02:20:15;
+
+[PrintText]=02:21:05	Sekai	...Uh-huh.	02:23:14;
+
+[PlayVoice]=02:21:05	Voice05/05-SA/05-SA-T00/05-SA-T00-0390	0	sek	02:23:14;
+
+[CreateBG]=02:25:12	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-028	02:53:11;
+
+[PrintText]=02:26:06	Madre de Sekai	Haah... delicioso.	02:28:19;
+
+[PlayVoice]=02:26:06	Voice05/05-SA/05-SA-T00/05-SA-T00-0410	0	yko	02:28:19;
+
+[PrintText]=02:27:13	Sekai	...Uh-huh.	02:30:01;
+
+[PlayVoice]=02:27:13	Voice05/05-SA/05-SA-T00/05-SA-T00-0420	0	sek	02:30:01;
+
+[PrintText]=02:30:09	Madre de Sekai	¿Sabías? Compré este bavarois de una tienda famosa en la ciudad.	02:36:13;
+
+[PlayVoice]=02:30:09	Voice05/05-SA/05-SA-T00/05-SA-T00-0430	0	yko	02:36:13;
+
+[PrintText]=02:36:20	Sekai	...Uh-huh.	02:37:15;
+
+[PlayVoice]=02:36:20	Voice05/05-SA/05-SA-T00/05-SA-T00-0440	0	sek	02:37:15;
+
+[PrintText]=02:42:09	Madre de Sekai	Tienen un pastel del limón delicioso, pero vi que hoy el bavarois era su producto especial del día y no pude contenerme.	02:52:06;
+
+[PlayVoice]=02:42:09	Voice05/05-SA/05-SA-T00/05-SA-T00-0450	0	yko	02:52:06;
+
+[PrintText]=02:48:04	Sekai	...Uh-huh.	02:49:11;
+
+[PlayVoice]=02:48:04	Voice05/05-SA/05-SA-T00/05-SA-T00-0460	0	sek	02:49:11;
+
+[PrintText]=02:50:09	Madre de Sekai	...Te ves muy preocupada por algo.	02:53:20;
+
+[PlayVoice]=02:50:09	Voice05/05-SA/05-SA-T00/05-SA-T00-0470	0	yko	02:53:20;
+
+[PrintText]=02:53:09	Sekai	...no es nada.	02:55:02;
+
+[PlayVoice]=02:53:09	Voice05/05-SA/05-SA-T00/05-SA-T00-0480	0	sek	02:55:02;
+
+[CreateBG]=02:53:11	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-029	02:55:03;
+
+[PlayBgm]=02:53:14	BGM/SD_BGM/sdbgm33	04:19:02;
+
+[CreateBG]=02:55:03	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-027	03:04:22;
+
+[PrintText]=02:55:18	Madre de Sekai	Pero al menos estás escuchando lo que digo ¿No?^	02:58:04;
+
+[PlayVoice]=02:55:18	Voice05/05-SA/05-SA-T00/05-SA-T00-0490	0	yko	02:58:04;
+
+[PrintText]=02:58:16	Sekai	...Uh-huh.	02:59:09;
+
+[PlayVoice]=02:58:16	Voice05/05-SA/05-SA-T00/05-SA-T00-0500	0	sek	02:59:09;
+
+[PrintText]=03:00:23	Madre de Sekai	...Tus ojos están rojos e hinchados.	03:02:21;
+
+[PlayVoice]=03:00:23	Voice05/05-SA/05-SA-T00/05-SA-T00-0510	0	yko	03:02:21;
+
+[PrintText]=03:03:20	Sekai	...Uh-huh.	03:04:15;
+
+[PlayVoice]=03:03:20	Voice05/05-SA/05-SA-T00/05-SA-T00-0520	0	sek	03:04:15;
+
+[CreateBG]=03:04:22	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-031	03:16:09;
+
+[PrintText]=03:05:10	Madre de Sekai	Aww... bueno, hay más. ¿Te importaría si le doy un poco?^	03:10:11;
+
+[PlayVoice]=03:05:10	Voice05/05-SA/05-SA-T00/05-SA-T00-0530	0	yko	03:10:11;
+
+[PrintText]=03:10:19	Sekai	¿Darle...?^	03:11:21;
+
+[PlayVoice]=03:10:19	Voice05/05-SA/05-SA-T00/05-SA-T00-0540	0	sek	03:11:21;
+
+[PrintText]=03:11:13	Madre de Sekai	Claro, en unos segundos puedes comértelo tú sola.	03:16:05;
+
+[PlayVoice]=03:11:13	Voice05/05-SA/05-SA-T00/05-SA-T00-0550	0	yko	03:16:05;
+
+[CreateBG]=03:16:09	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-029	03:19:05;
+
+[PrintText]=03:16:13	Sekai	¿Darle... a quién?^	03:19:05;
+
+[PlayVoice]=03:16:13	Voice05/05-SA/05-SA-T00/05-SA-T00-0560	0	sek	03:19:05;
+
+[CreateBG]=03:19:05	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-030	03:24:05;
+
+[PrintText]=03:19:13	Madre de Sekai	A tu novio ¿A quién más?^	03:23:07;
+
+[PlayVoice]=03:19:13	Voice05/05-SA/05-SA-T00/05-SA-T00-0570	0	yko	03:23:07;
+
+[PrintText]=03:23:05	Sekai	¡¿Eh...?!	03:24:09;
+
+[PlayVoice]=03:23:05	Voice05/05-SA/05-SA-T00/05-SA-T00-0580	0	sek	03:24:09;
+
+[CreateBG]=03:24:05	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-031	03:32:03;
+
+[PrintText]=03:24:22	Madre de Sekai	No sé qué a pasado, pero él no quiso entrar cuando le pregunté.	03:29:05;
+
+[PlayVoice]=03:24:22	Voice05/05-SA/05-SA-T00/05-SA-T00-0590	0	yko	03:29:05;
+
+[PrintText]=03:29:22	Madre de Sekai	'Todo es mi culpa. No me moveré de aquí hasta que me perdone' así dijo. Cielos...	03:35:08;
+
+[PlayVoice]=03:29:22	Voice05/05-SA/05-SA-T00/05-SA-T00-0591	0	yko	03:35:08;
+
+[CreateBG]=03:32:03	BGS	System/Screen/Black	03:34:09;
+
+[PlayMovie]=03:34:09	Movie04/04-SB/04-SB-M00/04-SB-M00-008	0	03:55:15;
+
+[PrintText]=03:35:09	Sekai	Makoto...	03:36:18;
+
+[PlayVoice]=03:35:09	Voice05/05-SA/05-SA-T00/05-SA-T00-0600	0	sek	03:36:18;
+
+[PrintText]=03:36:08	Madre de Sekai	De verdad, tienes que escoger a un novio menos terco. ¡¿Cómo puede rechazar la invitación de una hermosa mujer?!	03:45:18;
+
+[PlayVoice]=03:36:08	Voice05/05-SA/05-SA-T00/05-SA-T00-0610	0	yko	03:45:18;
+
+[PrintText]=03:45:10	Sekai	...Ahí es donde te equivocas.	03:47:14;
+
+[PlayVoice]=03:45:10	Voice05/05-SA/05-SA-T00/05-SA-T00-0620	0	sek	03:47:14;
+
+[PrintText]=03:47:15	Madre de Sekai	Oh ¿A sí? ¿El no te ha hizo llorar con todas las cosas que ha hecho?^	03:52:22;
+
+[PlayVoice]=03:47:15	Voice05/05-SA/05-SA-T00/05-SA-T00-0630	0	yko	03:52:22;
+
+[PrintText]=03:53:03	Sekai	...también hay buenas cosas en él.	03:54:21;
+
+[PlayVoice]=03:53:03	Voice05/05-SA/05-SA-T00/05-SA-T00-0640	0	sek	03:54:21;
+
+[PrintText]=03:55:04	Madre de Sekai	¿Por qué no me lo dijiste entonces?^	03:57:12;
+
+[PlayVoice]=03:55:04	Voice05/05-SA/05-SA-T00/05-SA-T00-0650	0	yko	03:57:12;
+
+[PlayMovie]=03:55:15	Movie05/05-SA/05-SA-T00/05-SA-T00-037	0	03:57:07;
+
+[CreateBG]=03:57:07	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-034	03:58:23;
+
+[PrintText]=03:57:12	Sekai	...	03:58:19;
+
+[PlayVoice]=03:57:12	Voice05/05-SA/05-SA-T00/05-SA-T00-0660	0	xxx	03:58:19;
+
+[PrintText]=03:58:16	Madre de Sekai	Ya que ahora, está ahí sentado pensando que es un bueno para nada...	04:04:09;
+
+[PlayVoice]=03:58:16	Voice05/05-SA/05-SA-T00/05-SA-T00-0670	0	yko	04:04:09;
+
+[PlayMovie]=03:58:23	Movie05/05-SA/05-SA-T00/05-SA-T00-039	0	04:05:20;
+
+[PrintText]=04:04:10	Sekai	...	04:05:12;
+
+[PlayVoice]=04:04:10	Voice05/05-SA/05-SA-T00/05-SA-T00-0680	0	xxx	04:05:12;
+
+[CreateBG]=04:05:20	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-036	04:08:08;
+
+[PrintText]=04:06:03	Madre de Sekai	¿Y bien?^	04:07:08;
+
+[PlayVoice]=04:06:03	Voice05/05-SA/05-SA-T00/05-SA-T00-0690	0	yko	04:07:08;
+
+[CreateBG]=04:08:08	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-034	04:12:00;
+
+[PrintText]=04:08:19	Sekai	... Me pregunto si le gustara el bavarois.	04:11:08;
+
+[PlayVoice]=04:08:19	Voice05/05-SA/05-SA-T00/05-SA-T00-0710	0	sek	04:11:08;
+
+[PrintText]=04:11:06	Madre de Sekai	Apuesto a que es su favorito.	04:13:13;
+
+[PlayVoice]=04:11:06	Voice05/05-SA/05-SA-T00/05-SA-T00-0720	0	yko	04:13:13;
+
+[PlayMovie]=04:12:00	Movie05/05-SA/05-SA-T00/05-SA-T00-037	0	04:13:18;
+
+[CreateBG]=04:13:18	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-038	04:24:12;
+
+[PrintText]=04:15:08	Sekai	¡Le daré un poco!	04:16:17;
+
+[PlayVoice]=04:15:08	Voice05/05-SA/05-SA-T00/05-SA-T00-0740	0	sek	04:16:17;
+
+[PlayVoice]=04:16:17	Voice05/05-SA/05-SA-T00/05-SA-T00-0750			04:17:17;
+
+[PrintText]=04:20:01	Madre de Sekai	Cielos... que hija tan problemática.	04:23:06;
+
+[PlayVoice]=04:20:01	Voice05/05-SA/05-SA-T00/05-SA-T00-0760	0	yko	04:23:06;
+
+[BlackFade]=04:23:18	OUT	04:24:12;
+
+[CreateBG]=04:24:12	BGS	System/Screen/Black	04:25:14;
+
+[CreateBG]=04:25:14	BGS	Event05/05-SA/05-SA-T00/05-SA-T00-041	04:28:23;
+
+[BlackFade]=04:25:14	IN	04:26:03;
+
+[PlayBgm]=04:26:03	BGM/SD_BGM/sdbgm10	05:12:22;
+
+[PrintText]=04:27:00	Sekai	¡Makoto!	04:28:10;
+
+[PlayVoice]=04:27:00	Voice05/05-SA/05-SA-T00/05-SA-T00-0810	0	sek	04:28:10;
+
+[PrintText]=04:28:08	Makoto	¡Lo siento... Yo... Todo fue mi culpa. Me dejo llevar muy rápido... pero te amo! Es la verdad!	04:44:09;
+
+[PlayVoice]=04:28:08	Voice05/05-SA/05-SA-T00/05-SA-T00-0820	1	mak	04:44:09;
+
+[PlayMovie]=04:28:23	Movie05/05-SA/05-SA-T00/05-SA-T00-042_043	0	05:19:11;
+
+[PrintText]=04:46:08	Sekai	¡Sí...! ¡Lo sé..! ¡Lo sé..!	04:51:14;
+
+[PlayVoice]=04:46:08	Voice05/05-SA/05-SA-T00/05-SA-T00-0830	0	sek	04:51:14;
+
+[PrintText]=04:51:19	Makoto	¡Sekai! ¡Nunca más te dejaré ir!	04:57:18;
+
+[PlayVoice]=04:51:19	Voice05/05-SA/05-SA-T00/05-SA-T00-0840	1	mak	04:57:18;
+
+[PrintText]=04:58:07	Makoto	¡Entonces...!	04:59:02;
+
+[PlayVoice]=04:58:07	Voice05/05-SA/05-SA-T00/05-SA-T00-0850	1	mak	04:59:02;
+
+[PrintText]=04:59:03	Sekai	¡Sí! ¡Sí! Makoto...	05:06:03;
+
+[PlayVoice]=04:59:03	Voice05/05-SA/05-SA-T00/05-SA-T00-0860	0	sek	05:06:03;
+
+[PrintText]=05:06:23	Sekai	Hey... Makoto.	05:11:07;
+
+[PlayVoice]=05:06:23	Voice05/05-SA/05-SA-T00/05-SA-T00-0870	0	sek	05:11:07;
+
+[PrintText]=05:11:12	Makoto	¿Hmn?^	05:12:02;
+
+[PlayVoice]=05:11:12	Voice05/05-SA/05-SA-T00/05-SA-T00-0880	1	mak	05:12:02;
+
+[PrintText]=05:13:00	Sekai	¿Te gusta... el bavarois?^	05:15:21;
+
+[PlayVoice]=05:13:00	Voice05/05-SA/05-SA-T00/05-SA-T00-0890	0	sek	05:15:21;
+
+[EndBGM]=05:15:15	BGM/Vocal/SDV03	07:20:10;
+
+[PrintText]=05:15:21	Makoto	¡Sí!	05:16:12;
+
+[PlayVoice]=05:15:21	Voice05/05-SA/05-SA-T00/05-SA-T00-0900	1	mak	05:16:12;
+
+[PrintText]=05:18:04	Makoto	¡Yo...!	05:19:02;
+
+[PlayVoice]=05:18:04	Voice05/05-SA/05-SA-T00/05-SA-T00-0910	1	mak	05:19:02;
+
+[CreateBG]=05:19:11	BGS	Ini/EndRoll/05-14	05:22:00;
+
+[EndRoll]=05:22:00	Ini/EndRoll/GOOD	06:02:00;
+
+ ;
+
+[Next]=06:02:00;
+
+
+

@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:30:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:30:06;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/kyousitu_rouka	00:30:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-D01/05-KG-D01-001	00:05:00;
+
+[PrintText]=00:00:00	Taisuke	¡Hey! ¿Kotonoha-san te dijo algo?^	00:02:23;
+
+[PlayVoice]=00:00:00	Voice05/05-KG/05-KG-D01/05-KG-D01-0030	1	tai	00:02:23;
+
+[PrintText]=00:03:00	Makoto	N-no...	00:05:02;
+
+[PlayVoice]=00:03:00	Voice05/05-KG/05-KG-D01/05-KG-D01-0040	1	mak	00:05:02;
+
+[CreateBG]=00:05:00	BGS	Event05/05-KG/05-KG-D01/05-KG-D01-002	00:10:00;
+
+[PrintText]=00:05:03	Taisuke	Tú eres la persona que ella ama ¡¿No?! ¡Tienes que ser tú!	00:11:12;
+
+[PlayVoice]=00:05:03	Voice05/05-KG/05-KG-D01/05-KG-D01-0050	1	tai	00:11:12;
+
+[CreateBG]=00:10:00	BGS	Event05/05-KG/05-KG-D01/05-KG-D01-003	00:15:00;
+
+[PrintText]=00:11:13	Makoto	Tú lo dices así, pero no sé que puedo haber hecho...	00:17:05;
+
+[PlayVoice]=00:11:13	Voice05/05-KG/05-KG-D01/05-KG-D01-0060	1	mak	00:17:05;
+
+[CreateBG]=00:15:00	BGS	Event05/05-KG/05-KG-D01/05-KG-D01-004	00:20:00;
+
+[PrintText]=00:17:05	Taisuke	¡Mentiroso! ¡Tienes que haber hecho algo!	00:20:16;
+
+[PlayVoice]=00:17:05	Voice05/05-KG/05-KG-D01/05-KG-D01-0070	1	tai	00:20:16;
+
+[CreateBG]=00:20:00	BGS	Event05/05-KG/05-KG-D01/05-KG-D01-005	00:25:00;
+
+[PrintText]=00:20:16	Makoto	¡Y-Ya te dije que no lo sé!	00:23:10;
+
+[PlayVoice]=00:20:16	Voice05/05-KG/05-KG-D01/05-KG-D01-0080	1	mak	00:23:10;
+
+[PrintText]=00:23:11	Taisuke	¡Uwaaaaaah!	00:27:03;
+
+[PlayVoice]=00:23:11	Voice05/05-KG/05-KG-D01/05-KG-D01-0090	1	tai	00:27:03;
+
+[PlaySe]=00:24:23	1	Se05/05-KG/05-KG-D01/SE05-KG-D01-001	00:28:17;
+
+[CreateBG]=00:25:00	BGS	Event05/05-KG/05-KG-D01/05-KG-D01-006	00:30:06;
+
+[PrintText]=00:26:10	Makoto	Ah...	00:29:16;
+
+[PlayVoice]=00:26:10	Voice05/05-KG/05-KG-D01/05-KG-D01-0110	1	mak	00:29:16;
+
+ ;
+
+[Next]=00:30:06;
+
+
+
+

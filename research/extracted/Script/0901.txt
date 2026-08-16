@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:25:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:25:02;
+
+[PlaySe]=00:00:00	1	Se04/04-C1/04-C1-G01/SE04-C1-G01-001	00:25:02;
+
+[PlaySe]=00:00:00	2	Se04/04-C1/04-C1-G01/SE04-C1-G01-002	00:23:09;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C1/04-C1-G01/04-C1-G01-001	00:02:13;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice04/04-C1/04-C1-G01/04-C1-G01-0040	1	xxx	00:00:23;
+
+[PrintText]=00:00:23	Sekai	Ah...	00:02:03;
+
+[PlayVoice]=00:00:23	Voice04/04-C1/04-C1-G01/04-C1-G01-0050	0	sek	00:02:03;
+
+[PlayMovie]=00:02:13	Movie04/04-C1/04-C1-G01/04-C1-G01-002	0	00:07:09;
+
+[PrintText]=00:02:13	Makoto	Te llamaré esta noche.	00:04:23;
+
+[PlayVoice]=00:02:13	Voice04/04-C1/04-C1-G01/04-C1-G01-0060	1	mak	00:04:23;
+
+[PlaySe]=00:03:02	3	SysSe/SE_all/station_train/train_door_close	00:07:21;
+
+[PrintText]=00:05:00	Sekai	Vale.	00:05:16;
+
+[PlayVoice]=00:05:00	Voice04/04-C1/04-C1-G01/04-C1-G01-0070	0	sek	00:05:16;
+
+[CreateBG]=00:07:09	BGS	Event04/04-C1/04-C1-G01/04-C1-G01-004	00:10:20;
+
+[PrintText]=00:07:11	Makoto	Haha... esa Sekai.	00:10:07;
+
+[PlayVoice]=00:07:11	Voice04/04-C1/04-C1-G01/04-C1-G01-0100	1	mak	00:10:07;
+
+[PlaySe]=00:08:08	3	SysSe/SE_all/station_train/train_start	00:25:02;
+
+[CreateBG]=00:10:20	BGS	Event04/04-C1/04-C1-G01/04-C1-G01-005	00:13:18;
+
+[PrintText]=00:11:08	Kotonoha	Makoto-kun...	00:12:21;
+
+[PlayVoice]=00:11:08	Voice04/04-C1/04-C1-G01/04-C1-G01-0120	0	kot	00:12:21;
+
+[CreateBG]=00:13:18	BGS	Event04/04-C1/04-C1-G01/04-C1-G01-007	00:14:12;
+
+[PrintText]=00:13:20	Kotonoha	Ah...	00:14:18;
+
+[PlayVoice]=00:13:20	Voice04/04-C1/04-C1-G01/04-C1-G01-0140	0	kot	00:14:18;
+
+[CreateBG]=00:14:12	BGS	Event04/04-C1/04-C1-G01/04-C1-G01-008	00:23:08;
+
+[PrintText]=00:14:16	Hikari	Disculpa, ¿Por qué buscas a Itou?^	00:17:17;
+
+[PlayVoice]=00:14:16	Voice04/04-C1/04-C1-G01/04-C1-G01-0150	0	hik	00:17:17;
+
+[PrintText]=00:17:22	Kotonoha	¿Lo Busco?^	00:19:20;
+
+[PlayVoice]=00:17:22	Voice04/04-C1/04-C1-G01/04-C1-G01-0160	0	kot	00:19:20;
+
+[PrintText]=00:19:13	Hikari	¿No te das cuenta? Él y Sekai están saliendo.	00:23:02;
+
+[PlayVoice]=00:19:13	Voice04/04-C1/04-C1-G01/04-C1-G01-0170	0	hik	00:23:02;
+
+[CreateBG]=00:23:08	BGS	Event04/04-C1/04-C1-G01/04-C1-G01-009	00:25:02;
+
+[PrintText]=00:23:16	Kotonoha	Ah...	00:25:01;
+
+[PlayVoice]=00:23:16	Voice04/04-C1/04-C1-G01/04-C1-G01-0190	0	kot	00:25:01;
+
+ ;
+
+[Next]=00:25:02;
+
+

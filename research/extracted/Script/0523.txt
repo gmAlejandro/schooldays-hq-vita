@@ -1,0 +1,511 @@
+﻿[SkipFRAME]=04:55:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	05:01:00;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-B00/SE03-KA-B00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	00:02:11;
+
+[PrintText]=00:00:00	Makoto	Haah... estaba delicioso.	00:02:10;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-B00/03-KA-B00-0040	1	mak	00:02:10;
+
+[CreateBG]=00:02:11	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-002	00:07:22;
+
+[PrintText]=00:02:12	Kotonoha	Aquí, ten algo de té.	00:04:19;
+
+[PlayVoice]=00:02:12	Voice03/03-KA/03-KA-B00/03-KA-B00-0050	0	kot	00:04:19;
+
+[PrintText]=00:05:03	Makoto	Ah... Té verde tostado.	00:08:01;
+
+[PlayVoice]=00:05:03	Voice03/03-KA/03-KA-B00/03-KA-B00-0060	1	mak	00:08:01;
+
+[CreateBG]=00:07:22	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-003	00:09:07;
+
+[PrintText]=00:07:22	Kotonoha	¿No te gusta?^	00:09:06;
+
+[PlayVoice]=00:07:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0070	0	kot	00:09:06;
+
+[CreateBG]=00:09:07	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-004	00:11:21;
+
+[PrintText]=00:09:07	Makoto	Lo contrario. Amo el té verde tostado.	00:11:20;
+
+[PlayVoice]=00:09:07	Voice03/03-KA/03-KA-B00/03-KA-B00-0080	1	mak	00:11:20;
+
+[CreateBG]=00:11:21	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-005	00:23:15;
+
+[PrintText]=00:11:22	Kotonoha	Gracias al cielo.	00:13:10;
+
+[PlayVoice]=00:11:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0090	0	kot	00:13:10;
+
+[PrintText]=00:13:15	Kotonoha	Mi madre me dijo que trajera té verde hoy, usualmente tenemos té negro,	00:20:00;
+
+[PlayVoice]=00:13:15	Voice03/03-KA/03-KA-B00/03-KA-B00-0091	0	kot	00:20:00;
+
+[PrintText]=00:20:04	Kotonoha	y estaba preocupada de que tal vez no te gustara.	00:23:13;
+
+[PlayVoice]=00:20:04	Voice03/03-KA/03-KA-B00/03-KA-B00-0092	0	kot	00:23:13;
+
+[CreateBG]=00:23:15	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-006	00:29:09;
+
+[PrintText]=00:23:18	Makoto	También me gusta el té negro.	00:25:11;
+
+[PlayVoice]=00:23:18	Voice03/03-KA/03-KA-B00/03-KA-B00-0100	1	mak	00:25:11;
+
+[PrintText]=00:25:13	Kotonoha	Ah, ¿Quieres más?^	00:28:01;
+
+[PlayVoice]=00:25:13	Voice03/03-KA/03-KA-B00/03-KA-B00-0110	0	kot	00:28:01;
+
+[PrintText]=00:27:23	Makoto	Ah, seguro.	00:29:06;
+
+[PlayVoice]=00:27:23	Voice03/03-KA/03-KA-B00/03-KA-B00-0120	1	mak	00:29:06;
+
+[CreateBG]=00:29:09	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-007	00:33:19;
+
+[PrintText]=00:29:12	Kotonoha	Aquí tienes.	00:33:14;
+
+[PlayVoice]=00:29:12	Voice03/03-KA/03-KA-B00/03-KA-B00-0130	0	kot	00:33:14;
+
+[PrintText]=00:33:11	Makoto	Gracias.	00:34:18;
+
+[PlayVoice]=00:33:11	Voice03/03-KA/03-KA-B00/03-KA-B00-0140	1	mak	00:34:18;
+
+[CreateBG]=00:33:19	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-004	00:35:05;
+
+[BlackFade]=00:34:17	OUT	00:35:05;
+
+[CreateBG]=00:35:05	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	00:38:15;
+
+[BlackFade]=00:35:05	IN	00:35:17;
+
+[PrintText]=00:35:17	Makoto	...Entonces, es mañana, uh.	00:37:03;
+
+[PlayVoice]=00:35:17	Voice03/03-KA/03-KA-B00/03-KA-B00-0160	1	mak	00:37:03;
+
+[PrintText]=00:37:01	Kotonoha	¿Lo esperas con ansias no?^	00:38:13;
+
+[PlayVoice]=00:37:01	Voice03/03-KA/03-KA-B00/03-KA-B00-0170	0	kot	00:38:13;
+
+[CreateBG]=00:38:15	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-010	00:45:12;
+
+[PrintText]=00:38:17	Makoto	¿Ansioso uh...? Bueno, supongo, pero... me siento un poco nervioso ¿Sabes?^	00:45:13;
+
+[PlayVoice]=00:38:17	Voice03/03-KA/03-KA-B00/03-KA-B00-0180	1	mak	00:45:13;
+
+[CreateBG]=00:45:12	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-011	00:47:08;
+
+[PrintText]=00:45:12	Kotonoha	Ufufu...	00:47:09;
+
+[PlayVoice]=00:45:12	Voice03/03-KA/03-KA-B00/03-KA-B00-0190	0	kot	00:47:09;
+
+[CreateBG]=00:47:08	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	00:58:00;
+
+[PrintText]=00:47:08	Makoto	¿Cómo es tu casa?^	00:50:15;
+
+[PlayVoice]=00:47:08	Voice03/03-KA/03-KA-B00/03-KA-B00-0200	1	mak	00:50:15;
+
+[PrintText]=00:50:16	Kotonoha	Es solo normal, una casa promedio.	00:52:15;
+
+[PlayVoice]=00:50:16	Voice03/03-KA/03-KA-B00/03-KA-B00-0210	0	kot	00:52:15;
+
+[PrintText]=00:52:15	Makoto	¿En serio? Nosotros vivimos en un apartamento, admiramos las casas.	00:58:00;
+
+[PlayVoice]=00:52:15	Voice03/03-KA/03-KA-B00/03-KA-B00-0220	1	mak	00:58:00;
+
+[CreateBG]=00:58:00	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-013	01:07:03;
+
+[PrintText]=00:58:00	Kotonoha	¿Sí?^	00:59:07;
+
+[PlayVoice]=00:58:00	Voice03/03-KA/03-KA-B00/03-KA-B00-0230	0	kot	00:59:07;
+
+[PrintText]=00:59:08	Makoto	Bueno, Solo somos mi madre y yo, estamos bien incluso en un apartamento.	01:04:07;
+
+[PlayVoice]=00:59:08	Voice03/03-KA/03-KA-B00/03-KA-B00-0240	1	mak	01:04:07;
+
+[PrintText]=01:04:06	Kotonoha	¿Vives solo con tu madre?^	01:07:03;
+
+[PlayVoice]=01:04:06	Voice03/03-KA/03-KA-B00/03-KA-B00-0250	0	kot	01:07:03;
+
+[CreateBG]=01:07:03	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-014	01:11:08;
+
+[PrintText]=01:07:03	Makoto	¿Oh? ¿No te dije? Somos una familia monoparental.	01:11:10;
+
+[PlayVoice]=01:07:03	Voice03/03-KA/03-KA-B00/03-KA-B00-0260	1	mak	01:11:10;
+
+[PlaySe]=01:07:07	2	Se03/03-KA/03-KA-B00/SE03-KA-B00-001	02:16:12;
+
+[CreateBG]=01:11:08	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-015	01:15:08;
+
+[PrintText]=01:11:08	Kotonoha	Lo siento... no sabía.	01:15:10;
+
+[PlayVoice]=01:11:08	Voice03/03-KA/03-KA-B00/03-KA-B00-0270	0	kot	01:15:10;
+
+[CreateBG]=01:15:08	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-004	01:19:18;
+
+[PrintText]=01:15:08	Makoto	Haha... no es la gran cosa. Hay muchos de ellos por aquí, ya sabes.	01:19:18;
+
+[PlayVoice]=01:15:08	Voice03/03-KA/03-KA-B00/03-KA-B00-0280	1	mak	01:19:18;
+
+[CreateBG]=01:19:18	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-002	01:23:15;
+
+[PrintText]=01:19:18	Kotonoha	Pero...	01:21:06;
+
+[PlayVoice]=01:19:18	Voice03/03-KA/03-KA-B00/03-KA-B00-0290	0	kot	01:21:06;
+
+[PrintText]=01:21:06	Makoto	Además, mis padres están divorciados, pero mi hermana pequeña viene a vernos cada mes.	01:26:11;
+
+[PlayVoice]=01:21:06	Voice03/03-KA/03-KA-B00/03-KA-B00-0300	1	mak	01:26:11;
+
+[CreateBG]=01:23:15	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-018	01:30:02;
+
+[PrintText]=01:26:20	Makoto	Y yo puedo ir a ver a mi padre también, y no es que quiera sin embargo.	01:32:02;
+
+[PlayVoice]=01:26:20	Voice03/03-KA/03-KA-B00/03-KA-B00-0301	1	mak	01:32:02;
+
+[CreateBG]=01:30:02	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-019	01:32:05;
+
+[CreateBG]=01:32:05	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-020	01:37:22;
+
+[PrintText]=01:32:08	Kotonoha	Ya veo... ah, tienes una hermana pequeña ¿No?^	01:38:00;
+
+[PlayVoice]=01:32:08	Voice03/03-KA/03-KA-B00/03-KA-B00-0310	0	kot	01:38:00;
+
+[CreateBG]=01:37:22	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-021	01:47:12;
+
+[PrintText]=01:37:22	Makoto	Sí, pero aún es muy joven.	01:39:12;
+
+[PlayVoice]=01:37:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0320	1	mak	01:39:12;
+
+[PrintText]=01:39:17	Makoto	Su nombre es 'Itaru'. Somos muy unidos también.	01:43:11;
+
+[PlayVoice]=01:39:17	Voice03/03-KA/03-KA-B00/03-KA-B00-0321	1	mak	01:47:13;
+
+[PrintText]=01:43:11	Makoto	Ella viene cada mes incluso cuando mi madre no puede estar ahí por el trabajo.	01:47:13;
+
+[CreateBG]=01:47:12	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-022A	01:50:06;
+
+[PrintText]=01:47:12	Kotonoha	Wah... suena bien.	01:50:07;
+
+[PlayVoice]=01:47:12	Voice03/03-KA/03-KA-B00/03-KA-B00-0330	0	kot	01:50:07;
+
+[CreateBG]=01:50:06	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-022B	01:55:04;
+
+[PrintText]=01:50:06	Makoto	Siempre es difícil cuando sale, porque siempre dice que no quiere dejarme.	01:55:06;
+
+[PlayVoice]=01:50:06	Voice03/03-KA/03-KA-B00/03-KA-B00-0340	1	mak	01:55:06;
+
+[CreateBG]=01:55:04	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-022C	01:56:19;
+
+[PrintText]=01:55:04	Kotonoha	Ufufu...	01:56:17;
+
+[PlayVoice]=01:55:04	Voice03/03-KA/03-KA-B00/03-KA-B00-0350	0	kot	01:56:17;
+
+[CreateBG]=01:56:19	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-022D	02:03:22;
+
+[PrintText]=01:56:20	Makoto	¿Qué hay de ti, Kotonoha? ¿Tienes hermanos?^	01:59:11;
+
+[PlayVoice]=01:56:20	Voice03/03-KA/03-KA-B00/03-KA-B00-0360	1	mak	01:59:11;
+
+[PrintText]=01:59:15	Kotonoha	Solo mi pequeña hermana, se llama 'Kokoro'.	02:04:01;
+
+[PlayVoice]=01:59:15	Voice03/03-KA/03-KA-B00/03-KA-B00-0370	0	kot	02:04:01;
+
+[CreateBG]=02:03:22	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-023	02:07:21;
+
+[PrintText]=02:03:22	Makoto	¿El nombre de tu hermana es 'Kokoro'?^	02:06:23;
+
+[PlayVoice]=02:03:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0380	1	mak	02:06:23;
+
+[PrintText]=02:06:22	Kotonoha	Sí.	02:07:14;
+
+[PlayVoice]=02:06:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0390	0	kot	02:07:14;
+
+[CreateBG]=02:07:21	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-002	02:18:15;
+
+[PrintText]=02:08:04	Makoto	'Kotonoha' y 'Kokoro', huh... me pregunto si para tus padres sus nombres significan mucho.	02:16:09;
+
+[PlayVoice]=02:08:04	Voice03/03-KA/03-KA-B00/03-KA-B00-0400	1	mak	02:16:09;
+
+[PlaySe]=02:14:16	1	Se03/03-KA/03-KA-B00/SE03-KA-B00-001	03:23:21;
+
+[PrintText]=02:16:14	Kotonoha	Supongo que si.	02:18:12;
+
+[PlayVoice]=02:16:14	Voice03/03-KA/03-KA-B00/03-KA-B00-0410	0	kot	02:18:12;
+
+[CreateBG]=02:18:15	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-021	02:23:23;
+
+[PrintText]=02:18:22	Makoto	Entonces, tienes una hermana... ¿Es linda?^	02:23:21;
+
+[PlayVoice]=02:18:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0420	1	mak	02:23:21;
+
+[CreateBG]=02:23:23	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-026	02:32:19;
+
+[PrintText]=02:23:23	Kotonoha	Es muy mala, siempre me hace molestar.	02:28:01;
+
+[PlayVoice]=02:23:23	Voice03/03-KA/03-KA-B00/03-KA-B00-0430	0	kot	02:28:01;
+
+[PrintText]=02:28:02	Makoto	¿Molestar?^	02:29:06;
+
+[PlayVoice]=02:28:02	Voice03/03-KA/03-KA-B00/03-KA-B00-0440	1	mak	02:29:06;
+
+[PrintText]=02:29:05	Kotonoha	Ella con mi madre... por ti...	02:35:00;
+
+[PlayVoice]=02:29:05	Voice03/03-KA/03-KA-B00/03-KA-B00-0450	0	kot	02:35:00;
+
+[CreateBG]=02:32:19	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-027	02:34:19;
+
+[CreateBG]=02:34:19	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-028	02:51:04;
+
+[PrintText]=02:34:19	Makoto	¿Por mí?^	02:35:19;
+
+[PlayVoice]=02:34:19	Voice03/03-KA/03-KA-B00/03-KA-B00-0460	1	mak	02:35:19;
+
+[PrintText]=02:36:03	Kotonoha	Después de todo, es la primera vez que salgo con un chico...	02:41:00;
+
+[PlayVoice]=02:36:03	Voice03/03-KA/03-KA-B00/03-KA-B00-0470	0	kot	02:46:18;
+
+[PrintText]=02:41:00	Kotonoha	y cuando le pedí a mi mamá por consejos, ella le dijo a Kokoro, así que ellas dos...	02:46:18;
+
+[PrintText]=02:46:17	Makoto	Haha...	02:47:18;
+
+[PlayVoice]=02:46:17	Voice03/03-KA/03-KA-B00/03-KA-B00-0480	1	mak	02:47:18;
+
+[PrintText]=02:48:05	Kotonoha	¿Dijo algo gracioso ayer?^	02:51:03;
+
+[PlayVoice]=02:48:05	Voice03/03-KA/03-KA-B00/03-KA-B00-0490	0	kot	02:51:03;
+
+[CreateBG]=02:51:04	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-014	02:55:13;
+
+[PrintText]=02:51:04	Makoto	No... aunque me hizo muchas preguntas.	02:55:14;
+
+[PlayVoice]=02:51:04	Voice03/03-KA/03-KA-B00/03-KA-B00-0500	1	mak	02:55:14;
+
+[CreateBG]=02:55:13	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-015	02:56:22;
+
+[PrintText]=02:55:13	Kotonoha	Lo sabía...	02:56:23;
+
+[PlayVoice]=02:55:13	Voice03/03-KA/03-KA-B00/03-KA-B00-0510	0	kot	02:56:23;
+
+[CreateBG]=02:56:22	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	03:05:10;
+
+[PrintText]=02:56:22	Makoto	¿Pasó algo?^	02:58:02;
+
+[PlayVoice]=02:56:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0520	1	mak	02:58:02;
+
+[PrintText]=02:58:05	Kotonoha	Cuando salí de mi casa esta mañana, tenía una sonrisa mientras decía "¡Esto será perfecto para hoy!".	03:05:10;
+
+[PlayVoice]=02:58:05	Voice03/03-KA/03-KA-B00/03-KA-B00-0530	0	kot	03:05:10;
+
+[CreateBG]=03:05:10	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-014	03:07:17;
+
+[PrintText]=03:05:10	Makoto	Ah... ¿El té verde tostado?^	03:07:19;
+
+[PlayVoice]=03:05:10	Voice03/03-KA/03-KA-B00/03-KA-B00-0540	1	mak	03:07:19;
+
+[CreateBG]=03:07:17	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-033	03:15:19;
+
+[PrintText]=03:07:17	Kotonoha	Sí. Creí que era extraño. Pero te escucho ayer ¿No?^	03:15:20;
+
+[PlayVoice]=03:07:17	Voice03/03-KA/03-KA-B00/03-KA-B00-0550	0	kot	03:15:20;
+
+[CreateBG]=03:15:19	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-034	03:19:18;
+
+[PrintText]=03:15:19	Makoto	Ahora que lo pienso, ella mencionó si me gustaba el té verde tostado.	03:19:20;
+
+[PlayVoice]=03:15:19	Voice03/03-KA/03-KA-B00/03-KA-B00-0560	1	mak	03:19:20;
+
+[CreateBG]=03:19:18	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-035	03:23:03;
+
+[PrintText]=03:19:18	Kotonoha	Lo sabía, Oh... mamá...	03:23:04;
+
+[PlayVoice]=03:19:18	Voice03/03-KA/03-KA-B00/03-KA-B00-0570	0	kot	03:23:04;
+
+[PlaySe]=03:22:09	2	Se03/03-KA/03-KA-B00/SE03-KA-B00-001	04:24:14;
+
+[CreateBG]=03:23:03	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-018	03:27:22;
+
+[PrintText]=03:23:03	Makoto	Bueno, fue lo mejor de todas maneras. Estoy feliz de que lo hizo.	03:27:21;
+
+[PlayVoice]=03:23:03	Voice03/03-KA/03-KA-B00/03-KA-B00-0580	1	mak	03:27:21;
+
+[CreateBG]=03:27:22	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-037	03:29:21;
+
+[PrintText]=03:27:22	Kotonoha	Sí, pero...	03:29:18;
+
+[PlayVoice]=03:27:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0590	0	kot	03:29:18;
+
+[CreateBG]=03:29:21	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-038	03:31:03;
+
+[PrintText]=03:30:00	Makoto	...	03:31:02;
+
+[PlayVoice]=03:30:00	Voice03/03-KA/03-KA-B00/03-KA-B00-0610	1	xxx	03:31:02;
+
+[CreateBG]=03:31:03	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-039	03:31:09;
+
+[PlayMovie]=03:31:09	Movie03/03-KA/03-KA-B00/03-KA-B00-040	0	03:35:09;
+
+[PrintText]=03:33:09	Kotonoha	Ah...	03:33:22;
+
+[PlayVoice]=03:33:09	Voice03/03-KA/03-KA-B00/03-KA-B00-0630	0	kot	03:33:22;
+
+[CreateBG]=03:35:08	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-041	03:36:08;
+
+[CreateBG]=03:36:08	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-042	03:40:18;
+
+[PrintText]=03:36:13	Kotonoha	¿Um... Makoto-kun?^	03:39:15;
+
+[PlayVoice]=03:36:13	Voice03/03-KA/03-KA-B00/03-KA-B00-0650	0	kot	03:39:15;
+
+[PrintText]=03:39:18	Makoto	Uh-huh...	03:40:10;
+
+[PlayVoice]=03:39:18	Voice03/03-KA/03-KA-B00/03-KA-B00-0660	1	mak	03:40:10;
+
+[CreateBG]=03:40:18	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-043	03:48:09;
+
+[PrintText]=03:40:22	Kotonoha	U-um... um, escucha...	03:44:20;
+
+[PlayVoice]=03:40:22	Voice03/03-KA/03-KA-B00/03-KA-B00-0670	0	kot	03:44:20;
+
+[PrintText]=03:44:20	Makoto	Kotonoha... Yo...	03:48:10;
+
+[PlayVoice]=03:44:20	Voice03/03-KA/03-KA-B00/03-KA-B00-0680	1	mak	03:48:10;
+
+[CreateBG]=03:48:09	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-044	03:48:19;
+
+[CreateBG]=03:48:19	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-046	03:54:14;
+
+[PrintText]=03:48:21	Kotonoha	¡...!	03:50:12;
+
+[PlayVoice]=03:48:21	Voice03/03-KA/03-KA-B00/03-KA-B00-0700	0	kot	03:50:12;
+
+[PlaySe]=03:49:08	1	SysSe/SE_all/bed/bed_suwaru	03:50:03;
+
+[PrintText]=03:50:06	Makoto	Ah...	03:50:22;
+
+[PlayVoice]=03:50:06	Voice03/03-KA/03-KA-B00/03-KA-B00-0720	1	mak	03:50:22;
+
+[PrintText]=03:51:11	Kotonoha	¡Haah...! Haah... haah...	03:54:11;
+
+[PlayVoice]=03:51:11	Voice03/03-KA/03-KA-B00/03-KA-B00-0730	0	kot	03:54:11;
+
+[CreateBG]=03:54:14	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-047	04:05:02;
+
+[PrintText]=03:54:19	Makoto	...	03:56:03;
+
+[PlayVoice]=03:54:19	Voice03/03-KA/03-KA-B00/03-KA-B00-0740	1	xxx	03:56:03;
+
+[PrintText]=03:56:07	Kotonoha	...	03:58:07;
+
+[PlayVoice]=03:56:07	Voice03/03-KA/03-KA-B00/03-KA-B00-0750	0	xxx	03:58:07;
+
+[PrintText]=03:58:13	Makoto	...	04:00:01;
+
+[PlayVoice]=03:58:13	Voice03/03-KA/03-KA-B00/03-KA-B00-0760	1	xxx	04:00:01;
+
+[PrintText]=04:00:08	Kotonoha	...Lo siento.	04:03:13;
+
+[PlayVoice]=04:00:08	Voice03/03-KA/03-KA-B00/03-KA-B00-0770	0	kot	04:03:13;
+
+[PrintText]=04:03:14	Makoto	...	04:04:20;
+
+[PlayVoice]=04:03:14	Voice03/03-KA/03-KA-B00/03-KA-B00-0780	1	xxx	04:04:20;
+
+[CreateBG]=04:05:02	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-048	04:07:14;
+
+[PrintText]=04:05:06	Kotonoha	Aún estoy asustada...	04:07:10;
+
+[PlayVoice]=04:05:06	Voice03/03-KA/03-KA-B00/03-KA-B00-0790	0	kot	04:07:10;
+
+[CreateBG]=04:07:14	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-049	04:08:18;
+
+[PrintText]=04:07:18	Makoto	Está bien...	04:08:11;
+
+[PlayVoice]=04:07:18	Voice03/03-KA/03-KA-B00/03-KA-B00-0800	1	mak	04:08:11;
+
+[CreateBG]=04:08:18	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-050	04:11:05;
+
+[PrintText]=04:08:20	Kotonoha	...	04:09:12;
+
+[PlayVoice]=04:08:20	Voice03/03-KA/03-KA-B00/03-KA-B00-0820	0	xxx	04:09:12;
+
+[PrintText]=04:09:17	Makoto	...	04:10:18;
+
+[PlayVoice]=04:09:17	Voice03/03-KA/03-KA-B00/03-KA-B00-0830	1	xxx	04:10:18;
+
+[CreateBG]=04:11:05	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-051	04:21:08;
+
+[PrintText]=04:11:05	Kotonoha	Tengo reunión hoy, y no podremos ir a casa juntos... pero te estaré esperando mañana.	04:18:12;
+
+[PlayVoice]=04:11:05	Voice03/03-KA/03-KA-B00/03-KA-B00-0840	0	kot	04:18:12;
+
+[PrintText]=04:18:16	Makoto	...Vale.	04:19:08;
+
+[PlayVoice]=04:18:16	Voice03/03-KA/03-KA-B00/03-KA-B00-0850	1	mak	04:19:08;
+
+[PrintText]=04:19:14	Kotonoha	Nos vemos mañana...	04:21:02;
+
+[PlayVoice]=04:19:14	Voice03/03-KA/03-KA-B00/03-KA-B00-0860	0	kot	04:21:02;
+
+[CreateBG]=04:21:08	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-0052	04:21:22;
+
+[CreateBG]=04:21:22	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-053	04:27:14;
+
+[PrintText]=04:22:01	Makoto	...	04:23:21;
+
+[PlayVoice]=04:22:01	Voice03/03-KA/03-KA-B00/03-KA-B00-0880	1	xxx	04:23:21;
+
+[PrintText]=04:24:10	Makoto	...¿Qué estoy haciendo?^	04:27:02;
+
+[PlayVoice]=04:24:10	Voice03/03-KA/03-KA-B00/03-KA-B00-0890	1	mak	04:27:02;
+
+[BlackFade]=04:27:02	OUT	04:27:14;
+
+[CreateBG]=04:27:14	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-054	04:32:04;
+
+[BlackFade]=04:27:14	IN	04:28:02;
+
+[PrintText]=04:27:19	Makoto	A pasado una semana desde que Sekai desapareció.	04:31:15;
+
+[PlayVoice]=04:27:19	Voice03/03-KA/03-KA-B00/03-KA-B00-0900	1	xxx	04:31:15;
+
+[BlackFade]=04:31:16	OUT	04:32:04;
+
+[CreateBG]=04:32:04	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-055	04:42:06;
+
+[BlackFade]=04:32:04	IN	04:32:16;
+
+[PrintText]=04:32:19	Makoto	He estado con Kotonoha todo este tiempo...	04:38:02;
+
+[PlayVoice]=04:32:19	Voice03/03-KA/03-KA-B00/03-KA-B00-0910	1	xxx	04:47:10;
+
+[PrintText]=04:38:02	Makoto	Pero lo único que hemos hecho es ir a ver una película, almorzar juntos y llamarnos antes de ir a dormir.	04:47:10;
+
+[WhiteFade]=04:41:18	OUT	04:42:06;
+
+[CreateBG]=04:42:06	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-056	04:47:23;
+
+[WhiteFade]=04:42:06	IN	04:42:18;
+
+[WhiteFade]=04:47:11	OUT	04:47:23;
+
+[PlaySe]=04:47:23	1	Se03/03-KA/03-KA-B00/SE03-KA-B00-001	05:01:00;
+
+[CreateBG]=04:47:23	BGS	Event03/03-KA/03-KA-B00/03-KA-B00-053	05:01:00;
+
+[WhiteFade]=04:47:23	IN	04:48:11;
+
+[PrintText]=04:48:11	Makoto	La toque por un segundo... y mira lo que pasa.	04:52:13;
+
+[PlayVoice]=04:48:11	Voice03/03-KA/03-KA-B00/03-KA-B00-0920	1	mak	04:52:13;
+
+[PrintText]=04:53:02	Makoto	Haah...	04:54:04;
+
+[PlayVoice]=04:53:02	Voice03/03-KA/03-KA-B00/03-KA-B00-0930	1	mak	04:54:04;
+
+[SetSELECT]=04:55:00	'Hubiera preferido a Sekai...'	'Mañana con Kotonoha...'	05:00:00;
+
+ ;
+
+[Next]=05:01:00;
+
+

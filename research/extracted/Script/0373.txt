@@ -1,0 +1,281 @@
+﻿[SkipFRAME]=02:52:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	02:52:05;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-T00/SE02-2S-T00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-001	00:08:23;
+
+[PrintText]=00:00:00	Sekai	Katsura-san no está aquí, ¿verdad?^	00:02:13;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-T00/02-2S-T00-0050	0	sek	00:02:13;
+
+[PrintText]=00:02:14	Makoto	Phew...	00:03:10;
+
+[PlayVoice]=00:02:14	Voice02/02-2S/02-2S-T00/02-2S-T00-0060	1	mak	00:03:10;
+
+[PrintText]=00:04:09	Sekai	Tal vez está ocupada con su salón.	00:07:03;
+
+[PlayVoice]=00:04:09	Voice02/02-2S/02-2S-T00/02-2S-T00-0070	0	sek	00:07:03;
+
+[PrintText]=00:07:10	Makoto	Sí, Tal vez...	00:08:16;
+
+[PlayVoice]=00:07:10	Voice02/02-2S/02-2S-T00/02-2S-T00-0080	1	mak	00:08:16;
+
+[CreateBG]=00:08:23	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-002	00:22:16;
+
+[PrintText]=00:08:23	Sekai	Hehe...	00:10:15;
+
+[PlayVoice]=00:08:23	Voice02/02-2S/02-2S-T00/02-2S-T00-0090	0	sek	00:10:15;
+
+[PrintText]=00:10:14	Makoto	¿Hmn?^	00:11:03;
+
+[PlayVoice]=00:10:14	Voice02/02-2S/02-2S-T00/02-2S-T00-0100	1	mak	00:11:03;
+
+[PrintText]=00:11:09	Sekai	Estás tan cálido...	00:12:12;
+
+[PlayVoice]=00:11:09	Voice02/02-2S/02-2S-T00/02-2S-T00-0110	0	sek	00:12:12;
+
+[PrintText]=00:13:04	Makoto	Hey, es mejor que te alejes. No pasará mucho antes de ...	00:19:10;
+
+[PlayVoice]=00:13:04	Voice02/02-2S/02-2S-T00/02-2S-T00-0120	1	mak	00:19:10;
+
+[PrintText]=00:19:00	Sekai	Uh-uh. No hasta que llegue Katsura-san.	00:22:16;
+
+[PlayVoice]=00:19:00	Voice02/02-2S/02-2S-T00/02-2S-T00-0130	0	sek	00:22:16;
+
+[CreateBG]=00:22:16	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-003	00:31:23;
+
+[PrintText]=00:22:16	Makoto	Pero si nos ve así...	00:25:03;
+
+[PlayVoice]=00:22:16	Voice02/02-2S/02-2S-T00/02-2S-T00-0140	1	mak	00:25:03;
+
+[PrintText]=00:24:19	Sekai	Podemos saber desde aquí si se abre la puerta.	00:28:10;
+
+[PlayVoice]=00:24:19	Voice02/02-2S/02-2S-T00/02-2S-T00-0150	0	sek	00:28:10;
+
+[PrintText]=00:28:14	Makoto	Hmm...	00:31:19;
+
+[PlayVoice]=00:28:14	Voice02/02-2S/02-2S-T00/02-2S-T00-0160	1	mak	00:31:19;
+
+[CreateBG]=00:31:23	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-004	00:33:18;
+
+[PrintText]=00:31:23	Sekai	Nn...	00:32:13;
+
+[PlayVoice]=00:31:23	Voice02/02-2S/02-2S-T00/02-2S-T00-0180	0	sek	00:32:13;
+
+[PlaySe]=00:33:12	2	Se02/02-2S/02-2S-T00/SE02-2S-T00-002	00:34:12;
+
+[PlaySe]=00:33:18	3	Se02/02-2S/02-2S-T00/SE02-2S-T00-003	00:35:09;
+
+[PlayMovie]=00:33:18	Movie02/02-2S/02-2S-T00/02-2S-T00-005	0	00:35:00;
+
+[PrintText]=00:34:11	Makoto	¡Wah!	00:35:07;
+
+[PlayVoice]=00:34:11	Voice02/02-2S/02-2S-T00/02-2S-T00-0230	1	mak	00:35:07;
+
+[PlayMovie]=00:35:00	Movie02/02-2S/02-2S-T00/02-2S-T00-006	0	00:35:14;
+
+[PrintText]=00:35:00	Sekai	Ah...	00:36:01;
+
+[PlayVoice]=00:35:00	Voice02/02-2S/02-2S-T00/02-2S-T00-0250	0	sek	00:36:01;
+
+[CreateBG]=00:35:14	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-007	00:37:12;
+
+[PrintText]=00:36:05	Kotonoha	¿Makoto-kun?^	00:37:07;
+
+[PlayVoice]=00:36:05	Voice02/02-2S/02-2S-T00/02-2S-T00-0270	0	kot	00:37:07;
+
+[CreateBG]=00:37:12	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-008	00:39:12;
+
+[PrintText]=00:37:16	Makoto	H-hola.	00:39:07;
+
+[PlayVoice]=00:37:16	Voice02/02-2S/02-2S-T00/02-2S-T00-0280	1	mak	00:39:07;
+
+[PrintText]=00:39:10	Kotonoha	Makoto-kun...	00:41:00;
+
+[PlayVoice]=00:39:10	Voice02/02-2S/02-2S-T00/02-2S-T00-0290	0	kot	00:41:00;
+
+[PlayMovie]=00:39:12	Movie02/02-2S/02-2S-T00/02-2S-T00-009	0	00:47:15;
+
+[PrintText]=00:41:07	Makoto	¿...Kotonoha?^	00:42:07;
+
+[PlayVoice]=00:41:07	Voice02/02-2S/02-2S-T00/02-2S-T00-0300	1	mak	00:42:07;
+
+[PrintText]=00:42:18	Kotonoha	¡Makoto-kun!	00:47:03;
+
+[PlayVoice]=00:42:18	Voice02/02-2S/02-2S-T00/02-2S-T00-0310	0	kot	00:47:03;
+
+[PrintText]=00:45:11	Makoto	¡Wah!	00:46:04;
+
+[PlayVoice]=00:45:11	Voice02/02-2S/02-2S-T00/02-2S-T00-0330	1	mak	00:46:04;
+
+[PrintText]=00:47:04	Kotonoha	Makoto-kuuun...	00:54:17;
+
+[PlayVoice]=00:47:04	Voice02/02-2S/02-2S-T00/02-2S-T00-0340	0	kot	00:54:17;
+
+[PlayMovie]=00:47:15	Movie02/02-2S/02-2S-T00/02-2S-T00-010	0	00:51:03;
+
+[CreateBG]=00:51:03	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-011	00:54:18;
+
+[BlackFade]=00:53:18	OUT	00:54:18;
+
+[CreateBG]=00:54:18	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-012	01:00:16;
+
+[PrintText]=00:55:06	Makoto	...Ya veo, así que eso es lo que pasó.	00:59:11;
+
+[PlayVoice]=00:55:06	Voice02/02-2S/02-2S-T00/02-2S-T00-0380	1	mak	00:59:11;
+
+[PrintText]=00:59:12	Kotonoha	Sí...	01:00:08;
+
+[PlayVoice]=00:59:12	Voice02/02-2S/02-2S-T00/02-2S-T00-0390	0	kot	01:00:08;
+
+[CreateBG]=01:00:16	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-013	01:15:08;
+
+[PrintText]=01:00:16	Makoto	La clase 4 está que se pone a trabajar bastante ¿No?^	01:05:00;
+
+[PlayVoice]=01:00:16	Voice02/02-2S/02-2S-T00/02-2S-T00-0400	1	mak	01:09:22;
+
+[PrintText]=01:05:00	Makoto	El festival de la escuela está cerca y se están haciendo muchos cambios.	01:09:22;
+
+[PlaySe]=01:08:23	2	Se02/02-2S/02-2S-T00/SE02-2S-T00-001	02:18:04;
+
+[PrintText]=01:09:22	Kotonoha	Y... ellas no escuchaban nada de lo que decía.	01:15:02;
+
+[PlayVoice]=01:09:22	Voice02/02-2S/02-2S-T00/02-2S-T00-0410	0	kot	01:15:02;
+
+[CreateBG]=01:15:08	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-014	01:21:02;
+
+[PrintText]=01:15:08	Makoto	No es como si pudiéramos ayudar, ya que somos de la clase 3... ¿no?  ¿Sekai?^	01:22:15;
+
+[PlayVoice]=01:15:08	Voice02/02-2S/02-2S-T00/02-2S-T00-0420	1	mak	01:22:15;
+
+[CreateBG]=01:21:02	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-015	01:28:14;
+
+[PrintText]=01:22:17	Sekai	Sí, Cierto...	01:24:11;
+
+[PlayVoice]=01:22:17	Voice02/02-2S/02-2S-T00/02-2S-T00-0430	0	sek	01:24:11;
+
+[PrintText]=01:24:11	Kotonoha	Está bien... solo estoy feliz de haberlo conversado con alguien.	01:28:09;
+
+[PlayVoice]=01:24:11	Voice02/02-2S/02-2S-T00/02-2S-T00-0440	0	kot	01:28:09;
+
+[CreateBG]=01:28:15	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-016	01:32:08;
+
+[PrintText]=01:28:23	Makoto	¿Quién es el mandón, por cierto?^	01:31:15;
+
+[PlayVoice]=01:28:23	Voice02/02-2S/02-2S-T00/02-2S-T00-0450	1	mak	01:31:15;
+
+[PrintText]=01:31:16	Kotonoha	¿Eh...?^	01:32:10;
+
+[PlayVoice]=01:31:16	Voice02/02-2S/02-2S-T00/02-2S-T00-0460	0	kot	01:32:10;
+
+[CreateBG]=01:32:08	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-017	01:46:05;
+
+[PrintText]=01:32:08	Makoto	Tengo una amiga en la clase 4, tal vez pueda hablar con ella.	01:37:11;
+
+[PlayVoice]=01:32:08	Voice02/02-2S/02-2S-T00/02-2S-T00-0470	1	mak	01:37:11;
+
+[PrintText]=01:37:09	Kotonoha	Haah...	01:38:06;
+
+[PlayVoice]=01:37:09	Voice02/02-2S/02-2S-T00/02-2S-T00-0480	0	kot	01:38:06;
+
+[PrintText]=01:38:09	Makoto	Ella está en el club de baloncesto, estuvimos en la secundaria, así que será fácil hablar con ella...	01:43:18;
+
+[PlayVoice]=01:38:09	Voice02/02-2S/02-2S-T00/02-2S-T00-0490	1	mak	01:46:05;
+
+[PrintText]=01:43:18	Makoto	Creo que nos oiría.	01:46:05;
+
+[CreateBG]=01:46:05	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-018	02:00:13;
+
+[PrintText]=01:46:05	Kotonoha	¿Club de baloncesto?^	01:48:04;
+
+[PlayVoice]=01:46:05	Voice02/02-2S/02-2S-T00/02-2S-T00-0500	0	kot	01:48:04;
+
+[PrintText]=01:48:04	Makoto	¿Hmn?^	01:48:16;
+
+[PlayVoice]=01:48:04	Voice02/02-2S/02-2S-T00/02-2S-T00-0510	1	mak	01:48:16;
+
+[PrintText]=01:48:17	Kotonoha	N-no, no es nada.	01:51:06;
+
+[PlayVoice]=01:48:17	Voice02/02-2S/02-2S-T00/02-2S-T00-0520	0	kot	01:51:06;
+
+[PrintText]=01:51:07	Makoto	¿Qué te parece? Podría ayudarte.	01:53:15;
+
+[PlayVoice]=01:51:07	Voice02/02-2S/02-2S-T00/02-2S-T00-0530	1	mak	01:53:15;
+
+[PrintText]=01:53:17	Kotonoha	Todo está bien. Me siento mejor hablando contigo.	01:58:04;
+
+[PlayVoice]=01:53:17	Voice02/02-2S/02-2S-T00/02-2S-T00-0540	0	kot	01:58:04;
+
+[PrintText]=01:58:04	Makoto	Bueno, está bien, entonces...	02:00:05;
+
+[PlayVoice]=01:58:04	Voice02/02-2S/02-2S-T00/02-2S-T00-0550	1	mak	02:00:05;
+
+[CreateBG]=02:00:13	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-019	02:26:18;
+
+[PrintText]=02:00:15	Kotonoha	En realidad, no estaba pensando en quejarme, al contrario...	02:04:21;
+
+[PlayVoice]=02:00:15	Voice02/02-2S/02-2S-T00/02-2S-T00-0560	0	kot	02:04:21;
+
+[PrintText]=02:04:21	Makoto	¿Al Contrario?^	02:05:19;
+
+[PlayVoice]=02:04:21	Voice02/02-2S/02-2S-T00/02-2S-T00-0570	1	mak	02:05:19;
+
+[PrintText]=02:05:19	Kotonoha	Um... este fin de semana, el Sábado o Domingo... ¿Estarás libre?^	02:13:05;
+
+[PlayVoice]=02:05:19	Voice02/02-2S/02-2S-T00/02-2S-T00-0580	0	kot	02:13:05;
+
+[PrintText]=02:13:06	Makoto	¿Huh...? Sí.	02:16:15;
+
+[PlayVoice]=02:13:06	Voice02/02-2S/02-2S-T00/02-2S-T00-0590	1	mak	02:16:15;
+
+[PrintText]=02:16:15	Kotonoha	Sé que hemos estado allí últimamente... pero ¿Te gustaría ver otra película?^	02:23:08;
+
+[PlayVoice]=02:16:15	Voice02/02-2S/02-2S-T00/02-2S-T00-0600	0	kot	02:23:08;
+
+[PlaySe]=02:17:07	1	Se02/02-2S/02-2S-T00/SE02-2S-T00-001	02:52:05;
+
+[PrintText]=02:23:07	Makoto	¡¿Ehh?!	02:23:23;
+
+[PlayVoice]=02:23:07	Voice02/02-2S/02-2S-T00/02-2S-T00-0610	1	mak	02:23:23;
+
+[PrintText]=02:24:09	Kotonoha	Mi mamá me dio unas entradas. Mira.	02:27:16;
+
+[PlayVoice]=02:24:09	Voice02/02-2S/02-2S-T00/02-2S-T00-0620	0	kot	02:27:16;
+
+[CreateBG]=02:26:18	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-020	02:37:17;
+
+[PrintText]=02:27:20	Makoto	Vamos a ver ... un romance ¿eh? Parece que éstos expiran hoy.	02:36:15;
+
+[PlayVoice]=02:27:20	Voice02/02-2S/02-2S-T00/02-2S-T00-0630	1	mak	02:36:15;
+
+[PrintText]=02:36:18	Kotonoha	Sí...	02:37:11;
+
+[PlayVoice]=02:36:18	Voice02/02-2S/02-2S-T00/02-2S-T00-0640	0	kot	02:37:11;
+
+[CreateBG]=02:37:17	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-021	02:40:05;
+
+[PrintText]=02:37:17	Makoto	Ya veo...	02:39:09;
+
+[PlayVoice]=02:37:17	Voice02/02-2S/02-2S-T00/02-2S-T00-0650	1	mak	02:39:09;
+
+[CreateBG]=02:40:05	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-022	02:43:08;
+
+[CreateBG]=02:43:08	BGS	Event02/02-2S/02-2S-T00/02-2S-T00-023	02:52:05;
+
+[PrintText]=02:43:12	Kotonoha	Sé que es otra película, pero ya que tengo las entradas...	02:50:00;
+
+[PlayVoice]=02:43:12	Voice02/02-2S/02-2S-T00/02-2S-T00-0680	0	kot	02:50:00;
+
+[PrintText]=02:50:08	Makoto	Bien...	02:51:14;
+
+[PlayVoice]=02:50:08	Voice02/02-2S/02-2S-T00/02-2S-T00-0690	1	mak	02:51:14;
+
+ ;
+
+[Next]=02:52:05;
+
+
+
+

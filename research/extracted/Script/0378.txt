@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:55:00;
+
+[PlaySe]=00:00:00	1	Voice02/02-2S/02-2S-T03/02-2S-T03-0170	00:01:19;
+
+[PlaySe]=00:00:00	2	Se02/02-2S/02-2S-T05/SE02-2S-T05-001	00:12:02;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/gaya/okujou	00:04:00;
+
+[PlayMovie]=00:00:00	Movie02/02-2S/02-2S-T05/02-2S-T05-001	0	00:01:20;
+
+[PlaySe]=00:01:13	3	Se02/02-2S/02-2S-T00/SE02-2S-T00-002	00:02:13;
+
+[PrintText]=00:01:19	Kotonoha	¡Makoto-kun!	00:02:21;
+
+[PlayVoice]=00:01:19	Voice02/02-2S/02-2S-T05/02-2S-T05-0030	0	kot	00:02:21;
+
+[PlaySe]=00:01:20	4	Se02/02-2S/02-2S-T00/SE02-2S-T00-003	00:04:05;
+
+[PlayMovie]=00:01:20	Movie02/02-2S/02-2S-T05/02-2S-T05-002	0	00:05:20;
+
+[CreateBG]=00:05:20	BGS	Event02/02-2S/02-2S-T05/02-2S-T05-003	00:06:13;
+
+[PrintText]=00:05:20	Makoto	Ah...	00:06:11;
+
+[PlayVoice]=00:05:20	Voice02/02-2S/02-2S-T05/02-2S-T05-0050	1	mak	00:06:11;
+
+[EndBGM]=00:06:02	BGM/Vocal/SDV04	02:16:19;
+
+[PlayMovie]=00:06:13	Movie02/02-2S/02-2S-T05/02-2S-T05-004	0	00:08:08;
+
+[PlaySe]=00:08:08	3	SysSe/SE_all/keitai/mail_sekai	00:12:02;
+
+[PlayMovie]=00:08:08	Movie02/02-2S/02-2S-T05/02-2S-T05-005	0	00:12:02;
+
+[BlackFade]=00:11:02	OUT	00:12:02;
+
+[CreateBG]=00:12:02	BGS	Ini/EndRoll/02-03	00:15:00;
+
+[EndRoll]=00:15:00	Ini/EndRoll/NORMAL	00:55:00;
+
+ ;
+
+[Next]=00:55:00;
+
+
+
+

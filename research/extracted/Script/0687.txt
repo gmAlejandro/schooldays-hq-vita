@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:08:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:14:16;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-K09/03-KB-K09-001	0	00:06:16;
+
+[PrintText]=00:00:00	Makoto	Pero...	00:00:21;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-K09/03-KB-K09-0030	1	xxx	00:00:21;
+
+[PrintText]=00:01:19	Makoto	Kotonoha.	00:02:22;
+
+[PlayVoice]=00:01:19	Voice03/03-KB/03-KB-K09/03-KB-K09-0040	1	mak	00:02:22;
+
+[PrintText]=00:02:18	Kotonoha	¿Sí.	00:03:15;
+
+[PlayVoice]=00:02:18	Voice03/03-KB/03-KB-K09/03-KB-K09-0050	0	kot	00:03:15;
+
+[PrintText]=00:04:02	Makoto	Yo...	00:04:21;
+
+[PlayVoice]=00:04:02	Voice03/03-KB/03-KB-K09/03-KB-K09-0060	1	mak	00:04:21;
+
+[PrintText]=00:05:05	Kotonoha	...	00:06:10;
+
+[PlayVoice]=00:05:05	Voice03/03-KB/03-KB-K09/03-KB-K09-0070	0	xxx	00:06:10;
+
+[CreateBG]=00:06:16	BGS	Event03/03-KB/03-KB-K09/03-KB-K09-002	00:14:16;
+
+[PrintText]=00:06:22	Makoto	Yo...	00:09:04;
+
+[PlayVoice]=00:06:22	Voice03/03-KB/03-KB-K09/03-KB-K09-0080	1	mak	00:09:04;
+
+[SetSELECT]=00:08:14	'Te amo después de todo'	null	00:13:14;
+
+ ;
+
+[Next]=00:14:16;
+
+

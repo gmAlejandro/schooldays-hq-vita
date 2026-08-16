@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:48:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:48:11;
+
+[CreateBG]=00:00:00	BGS	Movie04/04-KE/04-KE-E03/H4-KE-E03-001	00:19:12;
+
+[PrintText]=00:00:00	Makoto	Haah... haah...	00:05:02;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-E03/04-KE-E03-0040	1	mak	00:05:02;
+
+[WhiteFade]=00:00:00	IN	00:01:00;
+
+[PrintText]=00:05:02	Makoto	Haah... haah...	00:09:05;
+
+[PlayVoice]=00:05:02	Voice04/04-KE/04-KE-E03/04-KE-E03-0060	1	mak	00:09:05;
+
+[PrintText]=00:09:05	Makoto	Fue Taisuke quien quería tocarla... no yo...	00:19:11;
+
+[PlayVoice]=00:09:05	Voice04/04-KE/04-KE-E03/04-KE-E03-0070	1	mak	00:19:11;
+
+[WhiteFade]=00:19:00	OUT	00:19:12;
+
+[PrintText]=00:19:11	Makoto	Pero ella estaba tan... caliente...	00:24:05;
+
+[PlayVoice]=00:19:11	Voice04/04-KE/04-KE-E03/04-KE-E03-0080	1	mak	00:24:05;
+
+[CreateBG]=00:19:12	BGS	Movie04/04-KE/04-KE-E03/H4-KE-E03-002	00:24:05;
+
+[WhiteFade]=00:19:12	IN	00:20:00;
+
+[CreateBG]=00:24:05	BGS	Event04/04-KE/04-KE-E03/04-KE-E03-003	00:33:07;
+
+[PrintText]=00:24:05	Makoto	Sekai... estaba...	00:33:07;
+
+[PlayVoice]=00:24:05	Voice04/04-KE/04-KE-E03/04-KE-E03-0090	1	mak	00:33:07;
+
+[WhiteFade]=00:32:19	OUT	00:33:07;
+
+[CreateBG]=00:33:07	BGS	Event04/04-KE/04-KE-E01/04-KE-E01-006	00:48:11;
+
+[PrintText]=00:33:07	Makoto	¡Se... uh!	00:41:17;
+
+[PlayVoice]=00:33:07	Voice04/04-KE/04-KE-E03/04-KE-E03-0100	1	mak	00:41:17;
+
+[WhiteFade]=00:33:07	IN	00:33:19;
+
+[PrintText]=00:41:17	Makoto	¡Haah...!	00:48:10;
+
+[PlayVoice]=00:41:17	Voice04/04-KE/04-KE-E03/04-KE-E03-0110	1	mak	00:48:10;
+
+[WhiteFade]=00:43:11	OUT	00:48:11;
+
+ ;
+
+[Next]=00:48:11;
+
+

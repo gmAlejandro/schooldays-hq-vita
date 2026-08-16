@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:18:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:24:15;
+
+[PlaySe]=00:00:00	1	Voice02/02-2S/02-2S-R03/02-2S-R03-0030	00:12:06;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-R03/02-2S-R03-001	00:01:19;
+
+[CreateBG]=00:01:19	BGS	Event02/02-2S/02-2S-R03/02-2S-R03-002	00:07:01;
+
+[PrintText]=00:02:01	Makoto	Sekai ... a pesar de todo, aún me ama.	00:06:21;
+
+[PlayVoice]=00:02:01	Voice02/02-2S/02-2S-R03/02-2S-R03-0050	1	xxx	00:06:21;
+
+[CreateBG]=00:07:01	BGS	Event02/02-2S/02-2S-R03/02-2S-R03-003	00:12:09;
+
+[PrintText]=00:07:04	Makoto	He decidido que seré fiel a mis propios sentimientos.	00:12:05;
+
+[PlayVoice]=00:07:04	Voice02/02-2S/02-2S-R03/02-2S-R03-0060	1	xxx	00:12:05;
+
+[PlaySe]=00:12:06	2	Voice02/02-2S/02-2S-R03/02-2S-R03-0031	00:24:15;
+
+[CreateBG]=00:12:09	BGS	Event02/02-2S/02-2S-R03/02-2S-R03-004	00:18:02;
+
+[PrintText]=00:12:13	Makoto	Sin embargo, no puedo hablar aún con Kotonoha.	00:17:22;
+
+[PlayVoice]=00:12:13	Voice02/02-2S/02-2S-R03/02-2S-R03-0070	1	xxx	00:17:22;
+
+[CreateBG]=00:18:02	BGS	Event02/02-2S/02-2S-R03/02-2S-R03-005	00:24:15;
+
+[PrintText]=00:18:05	Makoto	Yo... Yo...	00:21:22;
+
+[PlayVoice]=00:18:05	Voice02/02-2S/02-2S-R03/02-2S-R03-0080	1	xxx	00:21:22;
+
+[SetSELECT]=00:18:14	'¿No amo a Sekai?'	'¿Tengo miedo que Kotonoha me odie?'	00:23:14;
+
+ ;
+
+[Next]=00:24:15;
+
+
+
+

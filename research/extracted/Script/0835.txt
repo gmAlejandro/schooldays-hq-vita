@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:09:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:09:12;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-G02/SE03-SB-G02-001	00:09:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G02/03-SB-G02-001	00:09:12;
+
+[PrintText]=00:00:00	Makoto	Disculpa.	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-G02/03-SB-G02-0030	1	mak	00:00:22;
+
+[PrintText]=00:00:22	Taisuke	¡Geh! C-Cierto. Ahora que lo pienso, tienes novia ¿No?...Tsk. Apúrate y ve.	00:08:15;
+
+[PlayVoice]=00:00:22	Voice03/03-SB/03-SB-G02/03-SB-G02-0040	1	tai	00:08:15;
+
+[PrintText]=00:08:14	Makoto	Vale.	00:09:08;
+
+[PlayVoice]=00:08:14	Voice03/03-SB/03-SB-G02/03-SB-G02-0050	1	mak	00:09:08;
+
+ ;
+
+[Next]=00:09:12;
+
+

@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:14:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:14:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-B01/05-KA-B01-001A	00:01:23;
+
+[CreateBG]=00:01:23	BGS	Event05/05-KA/05-KA-B01/05-KA-B01-001B	00:03:00;
+
+[PrintText]=00:01:23	Makoto	Buen día.	00:02:23;
+
+[PlayVoice]=00:01:23	Voice05/05-KA/05-KA-B01/05-KA-B01-0030	1	mak	00:02:23;
+
+[CreateBG]=00:03:00	BGS	Event05/05-KA/05-KA-B01/05-KA-B01-001C	00:14:21;
+
+[PrintText]=00:03:02	Taisuke	Hey. Veo que has llegado tarde.	00:05:09;
+
+[PlayVoice]=00:03:02	Voice05/05-KA/05-KA-B01/05-KA-B01-0040	1	tai	00:05:09;
+
+[PrintText]=00:05:09	Makoto	Bueno, no es como si la primera clase fuera importante.	00:09:05;
+
+[PlayVoice]=00:05:09	Voice05/05-KA/05-KA-B01/05-KA-B01-0050	1	mak	00:09:05;
+
+[PrintText]=00:09:05	Taisuke	Sí, Matemática con Nogi... todos se ven con sueño.	00:13:07;
+
+[PlayVoice]=00:09:05	Voice05/05-KA/05-KA-B01/05-KA-B01-0060	1	tai	00:13:07;
+
+[PrintText]=00:13:06	Makoto	Ya lo creo.	00:14:09;
+
+[PlayVoice]=00:13:06	Voice05/05-KA/05-KA-B01/05-KA-B01-0070	1	mak	00:14:09;
+
+ ;
+
+[Next]=00:14:21;
+
+

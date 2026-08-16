@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:33:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:33:17;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-J03/SE01-00-J03-001	00:33:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-J03/01-00-J03-001	00:02:13;
+
+[PrintText]=00:00:06	Makoto	¿Estuvo aburrido el almuerzo hoy?^	00:02:16;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-J03/01-00-J03-0030	1	mak	00:02:16;
+
+[CreateBG]=00:02:13	BGS	Event01/01-00/01-00-J03/01-00-J03-002	00:03:14;
+
+[PrintText]=00:02:18	Kotonoha	¿Eh...?^	00:03:09;
+
+[PlayVoice]=00:02:18	Voice01/01-00/01-00-J03/01-00-J03-0040	0	kot	00:03:09;
+
+[CreateBG]=00:03:14	BGS	Event01/01-00/01-00-J03/01-00-J03-003	00:16:03;
+
+[PrintText]=00:03:16	Makoto	Ahh... Bueno, tú sabes, estaba hablando con Sekai todo el tiempo, y no hablamos mucho.	00:10:22;
+
+[PlayVoice]=00:03:16	Voice01/01-00/01-00-J03/01-00-J03-0050	1	mak	00:10:22;
+
+[PrintText]=00:11:02	Kotonoha	N-no, no te preocupes por eso, no es así del todo...	00:16:05;
+
+[PlayVoice]=00:11:02	Voice01/01-00/01-00-J03/01-00-J03-0060	0	kot	00:16:05;
+
+[CreateBG]=00:16:03	BGS	Event01/01-00/01-00-J03/01-00-J03-004	00:27:03;
+
+[PrintText]=00:16:03	Makoto	Pero así es como te notaba.	00:18:20;
+
+[PlayVoice]=00:16:03	Voice01/01-00/01-00-J03/01-00-J03-0070	1	mak	00:18:20;
+
+[PrintText]=00:19:08	Kotonoha	Fue porque tú...	00:22:04;
+
+[PlayVoice]=00:19:08	Voice01/01-00/01-00-J03/01-00-J03-0080	0	kot	00:22:04;
+
+[PrintText]=00:22:04	Makoto	¿Lo ves?^	00:23:01;
+
+[PlayVoice]=00:22:04	Voice01/01-00/01-00-J03/01-00-J03-0090	1	mak	00:23:01;
+
+[PrintText]=00:23:00	Kotonoha	No es como crees. No es sobre la conversación... Q-Quiero decir...mmm...	00:29:10;
+
+[PlayVoice]=00:23:00	Voice01/01-00/01-00-J03/01-00-J03-0100	0	kot	00:29:10;
+
+[CreateBG]=00:27:03	BGS	Event01/01-00/01-00-J03/01-00-J03-005	00:33:17;
+
+[PrintText]=00:30:01	Makoto	Katsura.	00:30:23;
+
+[PlayVoice]=00:30:01	Voice01/01-00/01-00-J03/01-00-J03-0110	1	mak	00:30:23;
+
+[PrintText]=00:31:15	Kotonoha	...	00:33:05;
+
+[PlayVoice]=00:31:15	Voice01/01-00/01-00-J03/01-00-J03-0120	0	xxx	00:33:05;
+
+ ;
+
+[Next]=00:33:17;
+
+
+
+

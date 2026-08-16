@@ -1,0 +1,111 @@
+﻿[SkipFRAME]=01:04:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:04:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-D05/05-KB-D05-001	00:04:16;
+
+[PrintText]=00:00:00	Makoto	Estoy feliz de que lo hicieras.	00:02:19;
+
+[PlayVoice]=00:00:00	Voice05/05-G0/05-G0-D05/05-G0-D05-0030	1	mak	00:02:19;
+
+[PrintText]=00:02:19	Kotonoha	¿En serio?^	00:04:17;
+
+[PlayVoice]=00:02:19	Voice05/05-G0/05-G0-D05/05-G0-D05-0040	0	kot	00:04:17;
+
+[CreateBG]=00:04:16	BGS	Event05/05-G0/05-G0-D05/05-G0-D05-002	00:06:09;
+
+[PrintText]=00:04:17	Makoto	...Sí.	00:06:09;
+
+[PlayVoice]=00:04:17	Voice05/05-G0/05-G0-D05/05-G0-D05-0050	1	mak	00:06:09;
+
+[CreateBG]=00:06:09	BGS	Event05/05-KB/05-KB-D05/05-KB-D05-003	00:10:23;
+
+[PrintText]=00:06:09	Kotonoha	Gracias al cielo...	00:08:16;
+
+[PlayVoice]=00:06:09	Voice05/05-G0/05-G0-D05/05-G0-D05-0060	0	kot	00:08:16;
+
+[PrintText]=00:08:17	Makoto	...	00:10:23;
+
+[PlayVoice]=00:08:17	Voice05/05-G0/05-G0-D05/05-G0-D05-0070	1	xxx	00:10:23;
+
+[CreateBG]=00:10:23	BGS	Event05/05-KB/05-KB-D05/05-KB-D05-005	00:35:08;
+
+[PrintText]=00:10:23	Kotonoha	Gracias...	00:17:14;
+
+[PlayVoice]=00:10:23	Voice05/05-G0/05-G0-D05/05-G0-D05-0080	0	kot	00:17:14;
+
+[PrintText]=00:17:14	Makoto	H-hey.	00:19:20;
+
+[PlayVoice]=00:17:14	Voice05/05-G0/05-G0-D05/05-G0-D05-0100	1	mak	00:19:20;
+
+[PrintText]=00:19:21	Kotonoha	Lo siento... solo estoy muy feliz...	00:23:06;
+
+[PlayVoice]=00:19:21	Voice05/05-G0/05-G0-D05/05-G0-D05-0110	0	kot	00:23:06;
+
+[PrintText]=00:23:06	Makoto	Ah...	00:25:20;
+
+[PlayVoice]=00:23:06	Voice05/05-G0/05-G0-D05/05-G0-D05-0120	1	mak	00:25:20;
+
+[PrintText]=00:25:20	Kotonoha	Estaba asustada... porque pensé que ya no hablaría contigo.	00:32:08;
+
+[PlayVoice]=00:25:20	Voice05/05-G0/05-G0-D05/05-G0-D05-0130	0	kot	00:32:08;
+
+[PrintText]=00:32:08	Makoto	Lo siento.	00:34:12;
+
+[PlayVoice]=00:32:08	Voice05/05-G0/05-G0-D05/05-G0-D05-0140	1	mak	00:34:12;
+
+[PrintText]=00:34:13	Kotonoha	Está bien.	00:35:07;
+
+[PlayVoice]=00:34:13	Voice05/05-G0/05-G0-D05/05-G0-D05-0150	0	kot	00:35:07;
+
+[PrintText]=00:35:07	Makoto	...Entiendo.	00:37:06;
+
+[PlayVoice]=00:35:07	Voice05/05-G0/05-G0-D05/05-G0-D05-0160	1	mak	00:37:06;
+
+[CreateBG]=00:35:08	BGS	Event05/05-KB/05-KB-D05/05-KB-D05-006	00:39:17;
+
+[PrintText]=00:37:07	Kotonoha	...	00:39:17;
+
+[PlayVoice]=00:37:07	Voice05/05-G0/05-G0-D05/05-G0-D05-0170	0	xxx	00:39:17;
+
+[CreateBG]=00:39:17	BGS	Event05/05-KB/05-KB-D05/05-KB-D05-007A	01:04:03;
+
+[PrintText]=00:39:17	Makoto	Hey, vas a casa ¿No?^	00:43:15;
+
+[PlayVoice]=00:39:17	Voice05/05-G0/05-G0-D05/05-G0-D05-0180	1	mak	00:43:15;
+
+[PrintText]=00:43:16	Kotonoha	Sí.	00:45:14;
+
+[PlayVoice]=00:43:16	Voice05/05-G0/05-G0-D05/05-G0-D05-0190	0	kot	00:45:14;
+
+[PrintText]=00:45:14	Makoto	Te acompaño.	00:47:12;
+
+[PlayVoice]=00:45:14	Voice05/05-G0/05-G0-D05/05-G0-D05-0200	1	mak	00:47:12;
+
+[PrintText]=00:47:12	Kotonoha	¿Eh?! Pero ya es tarde...	00:50:22;
+
+[PlayVoice]=00:47:12	Voice05/05-G0/05-G0-D05/05-G0-D05-0210	0	kot	00:50:22;
+
+[PrintText]=00:50:22	Makoto	Por eso te acompañaré. Es peligroso por aquí en la noche.	00:55:19;
+
+[PlayVoice]=00:50:22	Voice05/05-G0/05-G0-D05/05-G0-D05-0220	1	mak	00:55:19;
+
+[PrintText]=00:55:19	Kotonoha	Sí, pero...	00:57:15;
+
+[PlayVoice]=00:55:19	Voice05/05-G0/05-G0-D05/05-G0-D05-0230	0	kot	00:57:15;
+
+[PrintText]=00:57:15	Makoto	Venga, vamos.	01:01:03;
+
+[PlayVoice]=00:57:15	Voice05/05-G0/05-G0-D05/05-G0-D05-0240	1	mak	01:01:03;
+
+[PrintText]=01:01:04	Kotonoha	¡Ah! ¡Espérame!	01:03:03;
+
+[PlayVoice]=01:01:04	Voice05/05-G0/05-G0-D05/05-G0-D05-0250	0	kot	01:03:03;
+
+[BlackFade]=01:03:03	OUT	01:04:03;
+
+ ;
+
+[Next]=01:04:03;
+
+

@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:05:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:11:09;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-P01/SE02-2S-P01-001	00:11:09;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-P01/02-2S-P01-001	00:11:09;
+
+[PrintText]=00:00:00	Makoto	Sekai, tú...	00:01:12;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-P01/02-2S-P01-0030	1	mak	00:01:12;
+
+[PrintText]=00:01:12	Sekai	Uh-huh.	00:02:02;
+
+[PlayVoice]=00:01:12	Voice02/02-2S/02-2S-P01/02-2S-P01-0040	0	sek	00:02:02;
+
+[PrintText]=00:02:17	Makoto	Pues...	00:05:16;
+
+[PlayVoice]=00:02:17	Voice02/02-2S/02-2S-P01/02-2S-P01-0050	1	mak	00:05:16;
+
+[SetSELECT]=00:05:07	'Debería olvidarte'	'Significas mucho para mí'	00:10:07;
+
+ ;
+
+[Next]=00:11:09;
+
+
+
+

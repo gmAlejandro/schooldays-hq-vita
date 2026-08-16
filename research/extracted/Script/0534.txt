@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:38:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:38:05;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C03/SE03-KA-C03-001	00:38:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-014	00:04:00;
+
+[PrintText]=00:00:00	Makoto	...	00:01:19;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-C03/03-KA-C03-0030	1	xxx	00:01:19;
+
+[PrintText]=00:01:15	Hikari	¿Qué pasa?^	00:02:19;
+
+[PlayVoice]=00:01:15	Voice03/03-KA/03-KA-C03/03-KA-C03-0040	0	hik	00:02:19;
+
+[PrintText]=00:02:21	Makoto	Nada...	00:03:22;
+
+[PlayVoice]=00:02:21	Voice03/03-KA/03-KA-C03/03-KA-C03-0050	1	mak	00:03:22;
+
+[CreateBG]=00:04:00	BGS	Event03/03-KA/03-KA-C03/03-KA-C03-002	00:07:12;
+
+[PrintText]=00:04:02	Hikari	Ya sé. Lo harás señor miembro del comité.	00:07:18;
+
+[PlayVoice]=00:04:02	Voice03/03-KA/03-KA-C03/03-KA-C03-0060	0	hik	00:07:18;
+
+[CreateBG]=00:07:12	BGS	Event03/03-KA/03-KA-C03/03-KA-C03-003	00:11:18;
+
+[PrintText]=00:07:12	Makoto	¿Pero q...?^	00:08:04;
+
+[PlayVoice]=00:07:12	Voice03/03-KA/03-KA-C03/03-KA-C03-0070	1	mak	00:08:04;
+
+[PrintText]=00:08:08	Hikari	Parece que lo tienes todo bajo control ¿No?^	00:10:04;
+
+[PlayVoice]=00:08:08	Voice03/03-KA/03-KA-C03/03-KA-C03-0080	0	hik	00:10:04;
+
+[PrintText]=00:10:06	Makoto	Bueno, no realmente...	00:12:04;
+
+[PlayVoice]=00:10:06	Voice03/03-KA/03-KA-C03/03-KA-C03-0090	1	mak	00:12:04;
+
+[CreateBG]=00:11:18	BGS	Event03/03-KA/03-KA-C03/03-KA-C03-004	00:16:16;
+
+[PrintText]=00:11:18	Hikari	No tienes nada que hacer, y por eso es que estás siempre detrás de Sekai, escucha ¡Tienes que hacerlo!	00:16:15;
+
+[PlayVoice]=00:11:18	Voice03/03-KA/03-KA-C03/03-KA-C03-0100	0	hik	00:16:15;
+
+[CreateBG]=00:16:16	BGS	Event03/03-KA/03-KA-C03/03-KA-C03-005	00:19:13;
+
+[PrintText]=00:16:16	Makoto	Vale, realmente no importa...	00:19:15;
+
+[PlayVoice]=00:16:16	Voice03/03-KA/03-KA-C03/03-KA-C03-0110	1	mak	00:19:15;
+
+[CreateBG]=00:19:13	BGS	Event03/03-KA/03-KA-C03/03-KA-C03-006	00:26:17;
+
+[PrintText]=00:19:13	Hikari	Eh... ¿Vas en serio?^	00:21:06;
+
+[PlayVoice]=00:19:13	Voice03/03-KA/03-KA-C03/03-KA-C03-0120	0	hik	00:21:06;
+
+[PrintText]=00:21:08	Makoto	Uh... Bueno, es solo hasta que Tanaka salga del hospital ¿No?^	00:26:21;
+
+[PlayVoice]=00:21:08	Voice03/03-KA/03-KA-C03/03-KA-C03-0130	1	mak	00:26:21;
+
+[CreateBG]=00:26:17	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-006	00:28:18;
+
+[PrintText]=00:26:17	Hikari	Vale. ¡Setsuna! ¡Itou será el reemplazo!	00:30:16;
+
+[PlayVoice]=00:26:17	Voice03/03-KA/03-KA-C03/03-KA-C03-0140	0	hik	00:30:16;
+
+[CreateBG]=00:28:18	BGS	Event03/03-KA/03-KA-C03/03-KA-C03-007	00:30:21;
+
+[CreateBG]=00:30:21	BGS	Event03/03-KA/03-KA-C03/03-KA-C03-008	00:38:05;
+
+[PrintText]=00:30:22	Makoto	Bueno, desde que soy miembro del comité, también puedo ver a Kotonoha... así que todo va bien.	00:36:22;
+
+[PlayVoice]=00:30:22	Voice03/03-KA/03-KA-C03/03-KA-C03-0160	1	mak	00:36:22;
+
+[BlackFade]=00:37:05	OUT	00:38:05;
+
+ ;
+
+[Next]=00:38:05;
+
+

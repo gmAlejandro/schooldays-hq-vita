@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:16:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:16:08;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-H00/00-00-H00-002	00:01:22;
+
+[PrintText]=00:00:00	Makoto	Veamos la película de terror.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C07/01-1K-C07-0030	1	mak	00:01:14;
+
+[CreateBG]=00:01:22	BGS	Event01/01-1K/01-1K-C07/01-1K-C07-002	00:12:02;
+
+[PrintText]=00:02:07	Makoto	Es una película de terror, por lo que podrá ella gritar '¡Kyah!' en la oscuridad y se aferrara a mí.	00:07:15;
+
+[PlayVoice]=00:02:07	Voice01/01-1K/01-1K-C07/01-1K-C07-0040	1	mak	00:07:15;
+
+[PrintText]=00:07:22	Makoto	Uwah... e-eso seria genial.	00:11:22;
+
+[PlayVoice]=00:07:22	Voice01/01-1K/01-1K-C07/01-1K-C07-0050	1	mak	00:11:22;
+
+[CreateBG]=00:12:02	BGS	Event01/01-1K/01-1K-C07/01-1K-C07-003	00:16:08;
+
+[PrintText]=00:12:11	Makoto	Sip, escoger la película de terror.	00:15:01;
+
+[PlayVoice]=00:12:11	Voice01/01-1K/01-1K-C07/01-1K-C07-0060	1	mak	00:15:01;
+
+[BlackFade]=00:15:08	OUT	00:16:08;
+
+ ;
+
+[Next]=00:16:08;
+
+
+
+

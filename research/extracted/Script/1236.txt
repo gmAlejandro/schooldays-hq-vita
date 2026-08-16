@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:13:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:13:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-C04/04-SC-C04-001	00:01:08;
+
+[CreateBG]=00:01:08	BGS	Event04/04-SC/04-SC-C04/04-SC-C04-002	00:05:02;
+
+[PrintText]=00:01:10	Nanami	Aún así, me pregunto en que pensará Katsura.	00:05:05;
+
+[PlayVoice]=00:01:10	Voice04/04-SC/04-SC-C04/04-SC-C04-0040	0	nan	00:05:05;
+
+[CreateBG]=00:05:02	BGS	Event04/04-SC/04-SC-C04/04-SC-C04-003	00:09:13;
+
+[PrintText]=00:05:05	Hikari	Sí. Setsuna dijo que era muy peligrosa, también.	00:09:16;
+
+[PlayVoice]=00:05:05	Voice04/04-SC/04-SC-C04/04-SC-C04-0050	0	hik	00:09:16;
+
+[CreateBG]=00:09:13	BGS	Event04/04-SC/04-SC-C04/04-SC-C04-004	00:13:01;
+
+[PrintText]=00:09:16	Sekai	¿Setsuna?^	00:10:23;
+
+[PlayVoice]=00:09:16	Voice04/04-SC/04-SC-C04/04-SC-C04-0060	0	sek	00:10:23;
+
+[PrintText]=00:10:23	Hikari	Sí ¿No?^	00:12:16;
+
+[PlayVoice]=00:10:23	Voice04/04-SC/04-SC-C04/04-SC-C04-0070	0	hik	00:12:16;
+
+ ;
+
+[Next]=00:13:01;
+
+

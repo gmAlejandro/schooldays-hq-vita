@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:44:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm09	00:35:03;
+
+[CreateBG]=00:00:00	BGS	Ini/FIX/CINEMA	00:04:03;
+
+[PrintText]=00:00:12	Makoto	...¿Me pregunto qué clase de película es?^	00:04:01;
+
+[PlayVoice]=00:00:12	Voice01/01-1K/01-1K-E05/01-1K-E05-0040	1	mak	00:04:01;
+
+[CreateBG]=00:04:03	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-002	00:10:09;
+
+[PrintText]=00:04:03	Kotonoha	Está basada en una novela escrita a finales del siglo 19, por un profesor inglés.	00:10:07;
+
+[PlayVoice]=00:04:03	Voice01/01-1K/01-1K-E05/01-1K-E05-0060	0	kot	00:10:07;
+
+[CreateBG]=00:10:09	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-003	00:13:05;
+
+[PrintText]=00:10:09	Makoto	Sabes mucho de esto.	00:12:00;
+
+[PlayVoice]=00:10:09	Voice01/01-1K/01-1K-E05/01-1K-E05-0070	1	mak	00:12:00;
+
+[PrintText]=00:12:01	Kotonoha	Eheheh... Recientemente, leí el libro en el que está basado.	00:16:22;
+
+[PlayVoice]=00:12:01	Voice01/01-1K/01-1K-E05/01-1K-E05-0080	0	kot	00:16:22;
+
+[CreateBG]=00:13:05	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-004	00:20:08;
+
+[PrintText]=00:16:19	Makoto	Wow.	00:17:22;
+
+[PlayVoice]=00:16:19	Voice01/01-1K/01-1K-E05/01-1K-E05-0090	1	mak	00:17:22;
+
+[PrintText]=00:18:01	Kotonoha	Fue antes de conocernos, se siente como si ese libro fue traído para nosotros.	00:24:20;
+
+[PlayVoice]=00:18:01	Voice01/01-1K/01-1K-E05/01-1K-E05-0100	0	kot	00:24:20;
+
+[CreateBG]=00:20:08	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-005	00:28:04;
+
+[PrintText]=00:24:23	Makoto	Ah...	00:27:16;
+
+[PlayVoice]=00:24:23	Voice01/01-1K/01-1K-E05/01-1K-E05-0110	1	mak	00:27:16;
+
+[CreateBG]=00:28:04	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-006	00:35:03;
+
+[PrintText]=00:28:11	Kotonoha	Estoy segura que la película será interesante, también.	00:31:16;
+
+[PlayVoice]=00:28:11	Voice01/01-1K/01-1K-E05/01-1K-E05-0130	0	kot	00:31:16;
+
+[PrintText]=00:31:22	Makoto	Sí, tienes razón.	00:33:21;
+
+[PlayVoice]=00:31:22	Voice01/01-1K/01-1K-E05/01-1K-E05-0140	1	mak	00:33:21;
+
+[BlackFade]=00:34:03	OUT	00:35:03;
+
+[PlayBgm]=00:35:03	BGM/SD_BGM/sdbgm20	00:44:14;
+
+[CreateBG]=00:35:03	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-007	00:39:09;
+
+[PrintText]=00:35:03	Hada A	¿Los dragones y el Dios de la muerte vendrán a hacernos daño...?^	00:39:12;
+
+[PlayVoice]=00:35:03	Voice01/01-1K/01-1K-E05/01-1K-E05-0170	0	yoa	00:39:12;
+
+[CreateBG]=00:39:09	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-008	00:42:08;
+
+[PrintText]=00:39:09	Hada B	¿Qué dices?^	00:41:00;
+
+[PlayVoice]=00:39:09	Voice01/01-1K/01-1K-E05/01-1K-E05-0180	0	yob	00:41:00;
+
+[PrintText]=00:41:02	Hada A	Bueno... yo...	00:44:00;
+
+[PlayVoice]=00:41:02	Voice01/01-1K/01-1K-E05/01-1K-E05-0190	0	yoa	00:44:00;
+
+[CreateBG]=00:42:08	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-009	00:44:14;
+
+ ;
+
+[Next]=00:44:14;
+
+
+
+

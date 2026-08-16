@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:21:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:21:17;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E03/SE01-00-E03-001	00:21:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-E02/01-00-E02-001	00:02:22;
+
+[PrintText]=00:00:06	Makoto	Olvídala.	00:01:23;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-E03/01-00-E03-0030	1	mak	00:01:23;
+
+[PrintText]=00:01:18	Kotonoha	¡¿Ehh?!	00:02:17;
+
+[PlayVoice]=00:01:18	Voice01/01-00/01-00-E03/01-00-E03-0040	0	kot	00:02:17;
+
+[CreateBG]=00:02:22	BGS	Event01/01-00/01-00-E03/01-00-E03-002	00:08:16;
+
+[PrintText]=00:03:02	Makoto	Sekai está actuando extraño... todo así de repente, se rehusó a venir.	00:08:13;
+
+[PlayVoice]=00:03:02	Voice01/01-00/01-00-E03/01-00-E03-0050	1	mak	00:08:13;
+
+[CreateBG]=00:08:16	BGS	Event01/01-00/01-00-E03/01-00-E03-003	00:10:22;
+
+[PrintText]=00:08:22	Kotonoha	¿Rehusó...?^	00:10:18;
+
+[PlayVoice]=00:08:22	Voice01/01-00/01-00-E03/01-00-E03-0060	0	kot	00:10:18;
+
+[CreateBG]=00:10:22	BGS	Event01/01-00/01-00-E03/01-00-E03-004	00:16:17;
+
+[PrintText]=00:11:03	Makoto	Se está haciendo la idea equivocada, nos divertimos con ella.	00:16:12;
+
+[PlayVoice]=00:11:03	Voice01/01-00/01-00-E03/01-00-E03-0070	1	mak	00:16:12;
+
+[CreateBG]=00:16:17	BGS	Event01/01-00/01-00-E03/01-00-E03-005	00:21:17;
+
+[PrintText]=00:17:18	Kotonoha	Sí, estoy de acuerdo.	00:19:19;
+
+[PlayVoice]=00:17:18	Voice01/01-00/01-00-E03/01-00-E03-0080	0	kot	00:19:19;
+
+[BlackFade]=00:20:17	OUT	00:21:17;
+
+ ;
+
+[Next]=00:21:17;
+
+
+
+

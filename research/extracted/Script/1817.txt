@@ -1,0 +1,70 @@
+﻿[SkipFRAME]=00:29:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:29:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-C06/05-KF-C06-001	00:03:03;
+
+[CreateBG]=00:03:03	BGS	Event05/05-KF/05-KF-C06/05-KF-C06-002	00:05:18;
+
+[PrintText]=00:03:03	Sekai	Buen día.	00:04:07;
+
+[PlayVoice]=00:03:03	Voice05/05-KF/05-KF-C06/05-KF-C06-0030	0	sek	00:04:07;
+
+[PrintText]=00:03:13	Makoto	Buen día.	00:05:17;
+
+[PlayVoice]=00:03:13	Voice05/05-KF/05-KF-C06/05-KF-C06-0040	1	mak	00:05:17;
+
+[CreateBG]=00:05:18	BGS	Event05/05-SE/05-SE-C06/05-SE-C06-003	00:17:09;
+
+[PrintText]=00:05:18	Sekai	Eheheh... ¿Has dormido bien?^	00:08:20;
+
+[PlayVoice]=00:05:18	Voice05/05-KF/05-KF-C06/05-KF-C06-0050	0	sek	00:08:20;
+
+[PrintText]=00:07:20	Makoto	Sí. ¿Estás segura que estará bien irte a casa a esta hora?^	00:14:13;
+
+[PlayVoice]=00:07:20	Voice05/05-KF/05-KF-C06/05-KF-C06-0060	1	mak	00:14:13;
+
+[PrintText]=00:13:22	Sekai	Mi mamá tiene el último turno esta noche, no hay problema.	00:17:16;
+
+[PlayVoice]=00:13:22	Voice05/05-KF/05-KF-C06/05-KF-C06-0070	0	sek	00:17:16;
+
+[PrintText]=00:16:18	Makoto	Cierto...	00:19:00;
+
+[PlayVoice]=00:16:18	Voice05/05-KF/05-KF-C06/05-KF-C06-0080	1	mak	00:19:00;
+
+[CreateBG]=00:17:09	BGS	Event05/05-SE/05-SE-C06/05-SE-C06-004	00:19:01;
+
+[PlaySe]=00:17:20	1	SysSe/SE_all/keitai/mail_sekai	00:19:11;
+
+[PrintText]=00:19:00	Sekai	...	00:20:00;
+
+[PlayVoice]=00:19:00	Voice05/05-KF/05-KF-C06/05-KF-C06-0100	0	xxx	00:20:00;
+
+[CreateBG]=00:19:01	BGS	Event05/05-KF/05-KF-C06/05-KF-C06-005	00:20:13;
+
+[PrintText]=00:20:01	Makoto	¿Hmn? ¿Qué pasa?^	00:22:20;
+
+[PlayVoice]=00:20:01	Voice05/05-KF/05-KF-C06/05-KF-C06-0110	1	mak	00:22:20;
+
+[CreateBG]=00:20:13	BGS	Event05/05-KF/05-KF-C06/05-KF-C06-006	00:29:00;
+
+[PrintText]=00:22:19	Sekai	O-oh, no es nada.	00:25:09;
+
+[PlayVoice]=00:22:19	Voice05/05-KF/05-KF-C06/05-KF-C06-0120	0	sek	00:25:09;
+
+[PrintText]=00:25:10	Makoto	Vale...	00:27:09;
+
+[PlayVoice]=00:25:10	Voice05/05-KF/05-KF-C06/05-KF-C06-0130	1	mak	00:27:09;
+
+[PrintText]=00:27:08	Sekai	...	00:28:02;
+
+[PlayVoice]=00:27:08	Voice05/05-KF/05-KF-C06/05-KF-C06-0140	0	xxx	00:28:02;
+
+[BlackFade]=00:28:00	OUT	00:29:00;
+
+ ;
+
+[Next]=00:29:00;
+
+
+

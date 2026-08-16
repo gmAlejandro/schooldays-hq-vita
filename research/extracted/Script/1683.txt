@@ -1,0 +1,34 @@
+﻿[SkipFRAME]=00:15:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:15:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-D00/05-SA-D00-001	00:01:00;
+
+[PrintText]=00:00:00	Makoto	Espera ¿Vamos fuera del colegio?^	00:04:07;
+
+[PlayVoice]=00:00:00	Voice05/05-SA/05-SA-D00/05-SA-D00-0030	1	mak	00:04:07;
+
+[CreateBG]=00:01:00	BGS	Event05/05-SA/05-SA-D00/05-SA-D00-002	00:04:07;
+
+[CreateBG]=00:04:07	BGS	Event05/05-SA/05-SA-D00/05-SA-D00-003	00:09:22;
+
+[PrintText]=00:04:07	Sekai	¡Shh! Quiero pretender que vamos a la tienda que está cerca, nadie lo sospechará.	00:09:21;
+
+[PlayVoice]=00:04:07	Voice05/05-SA/05-SA-D00/05-SA-D00-0040	0	sek	00:09:21;
+
+[PrintText]=00:09:21	Makoto	Entonces ¿Vamos a ir a un lugar más lejos de lo usual?^	00:14:08;
+
+[PlayVoice]=00:09:21	Voice05/05-SA/05-SA-D00/05-SA-D00-0050	1	mak	00:14:08;
+
+[CreateBG]=00:09:22	BGS	Event05/05-SA/05-SA-D00/05-SA-D00-004	00:15:12;
+
+[PrintText]=00:14:08	Sekai	Solo sígueme.	00:15:12;
+
+[PlayVoice]=00:14:08	Voice05/05-SA/05-SA-D00/05-SA-D00-0060	0	sek	00:15:12;
+
+ ;
+
+[Next]=00:15:12;
+
+
+

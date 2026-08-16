@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=00:29:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	00:29:06;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-M08/SE01-00-M08-001	00:29:06;
+
+[PlayMovie]=00:00:00	Movie01/01-00/01-00-M08/01-00-M08-001	0	00:02:12;
+
+[CreateBG]=00:02:12	BGS	Event01/01-00/01-00-M08/01-00-M08-002	00:04:03;
+
+[PrintText]=00:04:02	Makoto	Hace un poco de frío ¿No?^	00:05:23;
+
+[PlayVoice]=00:04:02	Voice01/01-00/01-00-M08/01-00-M08-0040	1	mak	00:05:23;
+
+[CreateBG]=00:04:03	BGS	Event01/01-00/01-00-M08/01-00-M08-003	00:07:13;
+
+[PrintText]=00:06:01	Kotonoha	Sí... tienes razón.	00:07:12;
+
+[PlayVoice]=00:06:01	Voice01/01-00/01-00-M08/01-00-M08-0050	0	kot	00:07:12;
+
+[CreateBG]=00:07:13	BGS	Event01/01-00/01-00-M08/01-00-M08-004	00:09:04;
+
+[CreateBG]=00:09:04	BGS	Event01/01-00/01-00-M08/01-00-M08-005	00:11:04;
+
+[PrintText]=00:10:01	Kotonoha	Um...	00:11:05;
+
+[PlayVoice]=00:10:01	Voice01/01-00/01-00-M08/01-00-M08-0070	0	kot	00:11:05;
+
+[PrintText]=00:11:03	Makoto	¿Hmn?^	00:11:16;
+
+[PlayVoice]=00:11:03	Voice01/01-00/01-00-M08/01-00-M08-0080	1	mak	00:11:16;
+
+[CreateBG]=00:11:04	BGS	Event01/01-00/01-00-M08/01-00-M08-006	00:13:20;
+
+[PrintText]=00:11:18	Kotonoha	De lo que pasó ayer...	00:13:20;
+
+[PlayVoice]=00:11:18	Voice01/01-00/01-00-M08/01-00-M08-0090	0	kot	00:13:20;
+
+[PrintText]=00:13:18	Makoto	Ayer...te refieres a...	00:15:03;
+
+[PlayVoice]=00:13:18	Voice01/01-00/01-00-M08/01-00-M08-0100	1	mak	00:15:03;
+
+[CreateBG]=00:13:20	BGS	Event01/01-00/01-00-M08/01-00-M08-007	00:24:06;
+
+[PrintText]=00:15:05	Kotonoha	Acerca de lo que quería decirte ayer en el almuerzo...	00:17:16;
+
+[PlayVoice]=00:15:05	Voice01/01-00/01-00-M08/01-00-M08-0110	0	kot	00:17:16;
+
+[PrintText]=00:17:15	Makoto	O-oh, ya todo está bien.	00:21:04;
+
+[PlayVoice]=00:17:15	Voice01/01-00/01-00-M08/01-00-M08-0120	1	mak	00:21:04;
+
+[PrintText]=00:21:06	Kotonoha	No... Quiero escucharlo.	00:24:06;
+
+[PlayVoice]=00:21:06	Voice01/01-00/01-00-M08/01-00-M08-0130	0	kot	00:24:06;
+
+[CreateBG]=00:24:06	BGS	Event01/01-00/01-00-M08/01-00-M08-008	00:29:06;
+
+[PrintText]=00:24:06	Makoto	Eh...	00:24:19;
+
+[PlayVoice]=00:24:06	Voice01/01-00/01-00-M08/01-00-M08-0140	1	mak	00:24:19;
+
+ ;
+
+[Next]=00:29:06;
+
+
+
+

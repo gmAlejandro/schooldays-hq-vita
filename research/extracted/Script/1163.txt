@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:36:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:42:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O04/04-SA-O04-001	00:02:03;
+
+[PrintText]=00:00:00	Makoto	Por cierto...	00:01:08;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O04/04-SA-O04-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:08	Sekai	Uh-huh.	00:02:02;
+
+[PlayVoice]=00:01:08	Voice04/04-SA/04-SA-O04/04-SA-O04-0040	0	sek	00:02:02;
+
+[PrintText]=00:02:02	Makoto	¿Por qué no viniste?^	00:03:20;
+
+[PlayVoice]=00:02:02	Voice04/04-SA/04-SA-O04/04-SA-O04-0050	1	mak	00:03:20;
+
+[CreateBG]=00:02:03	BGS	Event04/04-SA/04-SA-O04/04-SA-O04-002	00:09:07;
+
+[PrintText]=00:03:20	Sekai	No me sentía bien.	00:05:15;
+
+[PlayVoice]=00:03:20	Voice04/04-SA/04-SA-O04/04-SA-O04-0060	0	sek	00:05:15;
+
+[PrintText]=00:05:15	Makoto	No mientas, estás perfectamente bien ahora.	00:09:06;
+
+[PlayVoice]=00:05:15	Voice04/04-SA/04-SA-O04/04-SA-O04-0070	1	mak	00:09:06;
+
+[PrintText]=00:09:06	Sekai	Me sentía mal esta mañana.	00:11:16;
+
+[PlayVoice]=00:09:06	Voice04/04-SA/04-SA-O04/04-SA-O04-0080	0	sek	00:11:16;
+
+[CreateBG]=00:09:08	BGS	Event04/04-SA/04-SA-O04/04-SA-O04-003	00:14:11;
+
+[PrintText]=00:11:15	Makoto	Vamos entonces.	00:13:08;
+
+[PlayVoice]=00:11:15	Voice04/04-SA/04-SA-O04/04-SA-O04-0090	1	mak	00:13:08;
+
+[PrintText]=00:13:08	Sekai	Está bien...	00:14:10;
+
+[PlayVoice]=00:13:08	Voice04/04-SA/04-SA-O04/04-SA-O04-0100	0	sek	00:14:10;
+
+[CreateBG]=00:14:11	BGS	Event04/04-SA/04-SA-O04/04-SA-O04-004	00:21:17;
+
+[PrintText]=00:14:11	Makoto	...Es porque no tienes el ticket ¿No?^	00:17:16;
+
+[PlayVoice]=00:14:11	Voice04/04-SA/04-SA-O04/04-SA-O04-0110	1	mak	00:17:16;
+
+[PrintText]=00:17:16	Sekai	No hay necesidad de que yo esté allí.	00:20:00;
+
+[PlayVoice]=00:17:16	Voice04/04-SA/04-SA-O04/04-SA-O04-0120	0	sek	00:20:00;
+
+[PrintText]=00:20:00	Makoto	Por supuesto que lo es.	00:21:17;
+
+[PlayVoice]=00:20:00	Voice04/04-SA/04-SA-O04/04-SA-O04-0130	1	mak	00:21:17;
+
+[CreateBG]=00:21:17	BGS	Event04/04-SA/04-SA-O04/04-SA-O04-005	00:35:18;
+
+[PrintText]=00:21:17	Sekai	No, no lo es. Se supone que es una cita entre Sawanaga y Hikari.	00:26:05;
+
+[PlayVoice]=00:21:17	Voice04/04-SA/04-SA-O04/04-SA-O04-0140	0	sek	00:26:05;
+
+[PrintText]=00:26:05	Makoto	Si, verdad.	00:27:21;
+
+[PlayVoice]=00:26:05	Voice04/04-SA/04-SA-O04/04-SA-O04-0150	1	mak	00:27:21;
+
+[PrintText]=00:27:22	Sekai	Y además... Katsura-san y tú están saliendo, y tienen que estar juntos.	00:35:18;
+
+[PlayVoice]=00:27:22	Voice04/04-SA/04-SA-O04/04-SA-O04-0160	0	sek	00:35:18;
+
+[CreateBG]=00:35:18	BGS	Event04/04-SA/04-SA-O04/04-SA-O04-006	00:42:11;
+
+[PrintText]=00:36:03	Makoto	...	00:37:06;
+
+[PlayVoice]=00:36:03	Voice04/04-SA/04-SA-O04/04-SA-O04-0170	1	xxx	00:37:06;
+
+[SetSELECT]=00:36:08	'Estamos distanciados'	'Ya no estamos saliendo'	00:41:08;
+
+ ;
+
+[Next]=00:42:11;
+
+

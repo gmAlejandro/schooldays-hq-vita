@@ -1,0 +1,211 @@
+﻿[SkipFRAME]=03:58:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	03:58:19;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-O09/SE03-KB-O09-902	03:52:02;
+
+[PlaySe]=00:00:00	2	Se03/03-KB/03-KB-O09/SE03-KB-O09-903	03:52:02;
+
+[PlaySe]=00:00:00	3	Se03/03-KB/03-KB-O09/SE03-KB-O09-901	03:52:02;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-O09/03-KB-O09-001	0	00:02:17;
+
+[PrintText]=00:01:01	Makoto	¡Haah...!	00:02:05;
+
+[PlayVoice]=00:01:01	Voice03/03-KB/03-KB-O09/03-KB-O09-0040	1	mak	00:02:05;
+
+[PlayMovie]=00:02:17	Movie03/03-KB/03-KB-O09/H3-KB-O09-002	0	00:08:19;
+
+[PrintText]=00:03:15	Kotonoha	Va... ¿Así?^	00:06:10;
+
+[PlayVoice]=00:03:15	Voice03/03-KB/03-KB-O09/03-KB-O09-0050	0	kot	00:06:10;
+
+[PrintText]=00:06:23	Makoto	Sí.	00:09:11;
+
+[PlayVoice]=00:06:23	Voice03/03-KB/03-KB-O09/03-KB-O09-0060	1	mak	00:09:11;
+
+[PlayMovie]=00:08:19	Movie03/03-KB/03-KB-O09/03-KB-O09-003	0	00:11:18;
+
+[PlayMovie]=00:11:18	Movie03/03-KB/03-KB-N02/03-KB-N02-001	0	00:23:15;
+
+[PrintText]=00:12:21	Kotonoha	...	00:13:09;
+
+[PlayVoice]=00:12:21	Voice03/03-KB/03-KB-O09/03-KB-O09-0070	0	xxx	00:13:09;
+
+[PrintText]=00:13:22	Makoto	Kotonoha... ¿Estás lista?^	00:20:09;
+
+[PlayVoice]=00:13:22	Voice03/03-KB/03-KB-O09/03-KB-O09-0080	1	mak	00:20:09;
+
+[PrintText]=00:19:19	Kotonoha	¡S-Sí!	00:21:17;
+
+[PlayVoice]=00:19:19	Voice03/03-KB/03-KB-O09/03-KB-O09-0090	0	kot	00:21:17;
+
+[PlayMovie]=00:23:15	Movie03/03-KB/03-KB-O09/H3-KB-O09-005	0	00:52:04;
+
+[PrintText]=00:23:23	Makoto	¡Nn...!	00:27:10;
+
+[PlayVoice]=00:23:23	Voice03/03-KB/03-KB-O09/03-KB-O09-0100	1	mak	00:27:10;
+
+[MoveSom]=00:24:06	1	00:52:05;
+
+[PlaySe]=00:24:07	4	SysSe/SE_all/h/h_04	00:46:02;
+
+[PrintText]=00:28:00	Kotonoha	¡Kuh...!	00:30:20;
+
+[PlayVoice]=00:28:00	Voice03/03-KB/03-KB-O09/03-KB-O09-0120	0	kot	00:30:20;
+
+[PrintText]=00:30:20	Makoto	Haah... ah...	00:37:00;
+
+[PlayVoice]=00:30:20	Voice03/03-KB/03-KB-O09/03-KB-O09-0130	1	mak	00:37:00;
+
+[PrintText]=00:33:23	Kotonoha	Haah...	00:36:13;
+
+[PlayVoice]=00:33:23	Voice03/03-KB/03-KB-O09/03-KB-O09-0140	0	kot	00:36:13;
+
+[PrintText]=00:37:17	Kotonoha	Nn...	00:38:15;
+
+[PlayVoice]=00:37:17	Voice03/03-KB/03-KB-O09/03-KB-O09-0160	0	kot	00:38:15;
+
+[PrintText]=00:39:08	Makoto	Ah... uh...	00:47:03;
+
+[PlayVoice]=00:39:08	Voice03/03-KB/03-KB-O09/03-KB-O09-0150	1	mak	00:47:03;
+
+[PlaySe]=00:44:12	5	SysSe/SE_all/h/h_04	00:53:17;
+
+[PlayVoice]=00:46:16	Voice03/03-KB/03-KB-O09/03-KB-O09-0180			00:47:04;
+
+[PrintText]=00:47:03	Makoto	¿Está... ahí?^	00:52:01;
+
+[PlayVoice]=00:47:03	Voice03/03-KB/03-KB-O09/03-KB-O09-0170	1	mak	00:52:01;
+
+[PlayMovie]=00:52:04	Movie03/03-KB/03-KB-O09/H3-KB-O09-008	0	01:02:04;
+
+[MoveSom]=00:52:05	3	01:02:16;
+
+[PrintText]=00:52:06	Makoto	Nn...	00:55:11;
+
+[PlayVoice]=00:52:06	Voice03/03-KB/03-KB-O09/03-KB-O09-0190	1	mak	00:55:11;
+
+[PlaySe]=00:53:21	4	SysSe/SE_all/h/gucho1	00:56:13;
+
+[PrintText]=00:54:07	Kotonoha	¡Hyah!	00:56:06;
+
+[PlayVoice]=00:54:07	Voice03/03-KB/03-KB-O09/03-KB-O09-0200	0	kot	00:56:06;
+
+[PlaySe]=00:56:17	5	SysSe/SE_all/h/h_04	01:18:12;
+
+[PrintText]=00:56:17	Makoto	Haah...	00:58:17;
+
+[PlayVoice]=00:56:17	Voice03/03-KB/03-KB-O09/03-KB-O09-0210	1	mak	00:58:17;
+
+[PrintText]=00:58:11	Kotonoha	Hngh... nn...	01:01:14;
+
+[PlayVoice]=00:58:11	Voice03/03-KB/03-KB-O09/03-KB-O09-0220	0	kot	01:01:14;
+
+[PlayMovie]=01:02:04	Movie03/03-KB/03-KB-O09/H3-KB-O09-005	0	01:19:21;
+
+[MoveSom]=01:02:16	2	01:20:09;
+
+[PrintText]=01:02:17	Makoto	Haah... está dentro...	01:08:19;
+
+[PlayVoice]=01:02:17	Voice03/03-KB/03-KB-O09/03-KB-O09-0230	1	mak	01:08:19;
+
+[PrintText]=01:08:21	Kotonoha	Haah... nn...	01:17:00;
+
+[PlayVoice]=01:08:21	Voice03/03-KB/03-KB-O09/03-KB-O09-0240	0	kot	01:17:00;
+
+[PrintText]=01:17:00	Makoto	Está dentro...	01:19:20;
+
+[PlayVoice]=01:17:00	Voice03/03-KB/03-KB-O09/03-KB-O09-0250	1	mak	01:19:20;
+
+[PlaySe]=01:18:07	4	SysSe/SE_all/h/h_04	01:40:02;
+
+[PrintText]=01:19:00	Kotonoha	Uh-huh!	01:21:15;
+
+[PlayVoice]=01:19:00	Voice03/03-KB/03-KB-O09/03-KB-O09-0260	0	kot	01:21:15;
+
+[PlayMovie]=01:19:21	Movie03/03-KB/03-KB-O09/03-KB-O09-007	0	01:35:14;
+
+[MoveSom]=01:20:09	1	01:56:07;
+
+[PrintText]=01:21:10	Makoto	Duele... ¿No es así?^	01:25:13;
+
+[PlayVoice]=01:21:10	Voice03/03-KB/03-KB-O09/03-KB-O09-0270	1	mak	01:25:13;
+
+[PrintText]=01:26:17	Makoto	Pero... está tan caliente...	01:33:10;
+
+[PlayVoice]=01:26:17	Voice03/03-KB/03-KB-O09/03-KB-O09-0290	1	mak	01:33:10;
+
+[PlayVoice]=01:27:06	Voice03/03-KB/03-KB-O09/03-KB-O09-0280			01:28:11;
+
+[PrintText]=01:32:08	Kotonoha	Uh-huh...	01:32:21;
+
+[PlayVoice]=01:32:08	Voice03/03-KB/03-KB-O09/03-KB-O09-0300	0	kot	01:32:21;
+
+[PlayMovie]=01:35:14	Movie03/03-KB/03-KB-O09/H3-KB-O09-008	0	01:45:14;
+
+[PrintText]=01:36:18	Makoto	¿Estás lista?^	01:39:04;
+
+[PlayVoice]=01:36:18	Voice03/03-KB/03-KB-O09/03-KB-O09-0310	1	mak	01:39:04;
+
+[PrintText]=01:38:13	Kotonoha	¿Huh...?^	01:39:12;
+
+[PlayVoice]=01:38:13	Voice03/03-KB/03-KB-O09/03-KB-O09-0320	0	kot	01:39:12;
+
+[PrintText]=01:40:03	Makoto	Empezaré a moverme.	01:44:22;
+
+[PlayVoice]=01:40:03	Voice03/03-KB/03-KB-O09/03-KB-O09-0330	1	mak	01:44:22;
+
+[PlayMovie]=01:45:14	Movie03/03-KB/03-KB-N04/03-KB-N04-001	0	01:56:07;
+
+[PrintText]=01:46:22	Kotonoha	Por favor... has lo que quieras...	01:54:02;
+
+[PlayVoice]=01:46:22	Voice03/03-KB/03-KB-O09/03-KB-O09-0340	0	kot	01:54:02;
+
+[PrintText]=01:54:18	Makoto	Nn...	01:58:06;
+
+[PlayVoice]=01:54:18	Voice03/03-KB/03-KB-O09/03-KB-O09-0350	1	mak	01:58:06;
+
+[PlayMovie]=01:56:07	Movie03/03-KB/03-KB-O09/03-KB-O09-010	0	02:06:18;
+
+[MoveSom]=01:56:07	2	02:06:18;
+
+[PlayMovie]=02:06:18	Movie03/03-KB/03-KB-O09/03-KB-O09-011	0	02:23:12;
+
+[MoveSom]=02:06:18	4	02:23:12;
+
+[PlayMovie]=02:23:12	Movie03/03-KB/03-KB-O09/03-KB-O09-012	0	02:46:05;
+
+[MoveSom]=02:23:12	3	02:46:05;
+
+[PlayMovie]=02:46:05	Movie03/03-KB/03-KB-O09/03-KB-O09-011	0	03:02:23;
+
+[MoveSom]=02:46:05	4	03:02:23;
+
+[PlayMovie]=03:02:23	Movie03/03-KB/03-KB-O09/H3-KB-O09-008	0	03:12:23;
+
+[MoveSom]=03:02:23	2	03:12:23;
+
+[PlayVoice]=03:10:18	Voice03/03-KB/03-KB-O09/03-KB-O09-0390			03:13:06;
+
+[PlayMovie]=03:12:23	Movie03/03-KB/03-KB-O09/03-KB-O09-010	0	03:23:10;
+
+[MoveSom]=03:12:23	3	03:28:02;
+
+[PlayMovie]=03:23:10	Movie03/03-KB/03-KB-O09/H3-KB-O09-008	0	03:28:02;
+
+[WhiteFade]=03:25:12	OUT	03:32:18;
+
+[PlayMovie]=03:28:02	Movie03/03-KB/03-KB-O09/H3-KB-O09-008	0	03:32:18;
+
+[PlayMovie]=03:32:18	Movie03/03-KB/03-KB-O09/03-KB-O09-007	0	03:53:19;
+
+[CreateBG]=03:53:19	BGS	Event03/03-KB/03-KB-O09/03-KB-O09-020	03:58:19;
+
+[BlackFade]=03:56:20	OUT	03:58:19;
+
+ ;
+
+[Next]=03:58:19;
+
+

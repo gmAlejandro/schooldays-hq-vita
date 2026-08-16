@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:28:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:34:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-D09/03-KB-D09-001	00:14:05;
+
+[PrintText]=00:00:00	Makoto	Yo estoy enamorado de Sekai.	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-D09/03-KB-D09-0030	1	mak	00:01:13;
+
+[PrintText]=00:01:13	Taisuke	Ah...	00:02:06;
+
+[PlayVoice]=00:01:13	Voice03/03-KB/03-KB-D09/03-KB-D09-0040	1	tai	00:02:06;
+
+[PrintText]=00:02:06	Makoto	...	00:03:10;
+
+[PlayVoice]=00:02:06	Voice03/03-KB/03-KB-D09/03-KB-D09-0050	1	xxx	00:03:10;
+
+[PrintText]=00:03:10	Taisuke	Y-Ya veo, Sí, están saliendo después de todo...	00:09:18;
+
+[PlayVoice]=00:03:10	Voice03/03-KB/03-KB-D09/03-KB-D09-0060	1	tai	00:09:18;
+
+[PrintText]=00:09:18	Makoto	Bueno... en realidad, no.	00:14:04;
+
+[PlayVoice]=00:09:18	Voice03/03-KB/03-KB-D09/03-KB-D09-0070	1	mak	00:14:04;
+
+[CreateBG]=00:14:05	BGS	Event03/03-KB/03-KB-D09/03-KB-D09-002	00:27:17;
+
+[PrintText]=00:14:05	Taisuke	¿Eh...?^	00:15:01;
+
+[PlayVoice]=00:14:05	Voice03/03-KB/03-KB-D09/03-KB-D09-0080	1	tai	00:15:01;
+
+[PrintText]=00:15:01	Makoto	Así es como me siento con ella... pero ella no siente lo mismo.	00:23:23;
+
+[PlayVoice]=00:15:01	Voice03/03-KB/03-KB-D09/03-KB-D09-0090	1	mak	00:23:23;
+
+[PrintText]=00:23:23	Taisuke	¿Es por eso que empezaste a salir con otra chica?^	00:27:17;
+
+[PlayVoice]=00:23:23	Voice03/03-KB/03-KB-D09/03-KB-D09-0100	1	tai	00:27:17;
+
+[PrintText]=00:27:16	Makoto	¿Eh...?^	00:28:11;
+
+[PlayVoice]=00:27:16	Voice03/03-KB/03-KB-D09/03-KB-D09-0110	1	mak	00:28:11;
+
+[CreateBG]=00:27:17	BGS	Event03/03-KB/03-KB-D09/03-KB-D09-003	00:34:12;
+
+[SetSELECT]=00:28:11	'Así es'	'No'	00:33:12;
+
+ ;
+
+[Next]=00:34:12;
+
+

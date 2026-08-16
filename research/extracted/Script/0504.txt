@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:28:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:28:00;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-I05/SE03-BK-I05-001	00:28:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-B01/04-KB-B01-003	00:11:09;
+
+[PrintText]=00:00:00	Sekai	No... tienes que decir nada ¿No?^	00:03:14;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-I05/03-BK-I05-0030	0	sek	00:03:14;
+
+[PrintText]=00:03:14	Makoto	...	00:04:09;
+
+[PlayVoice]=00:03:14	Voice03/03-BK/03-BK-I05/03-BK-I05-0040	1	xxx	00:04:09;
+
+[PrintText]=00:04:09	Sekai	Sí... después de todo... todo esto es mi culpa.	00:10:13;
+
+[PlayVoice]=00:04:09	Voice03/03-BK/03-BK-I05/03-BK-I05-0050	0	sek	00:10:13;
+
+[PrintText]=00:10:13	Makoto	No...	00:11:09;
+
+[PlayVoice]=00:10:13	Voice03/03-BK/03-BK-I05/03-BK-I05-0060	1	mak	00:11:09;
+
+[PrintText]=00:11:08	Sekai	Lo siento... lo siento mucho... uuu...	00:25:11;
+
+[PlayVoice]=00:11:08	Voice03/03-BK/03-BK-I05/03-BK-I05-0070	0	sek	00:25:11;
+
+[CreateBG]=00:11:09	BGS	Event03/03-BK/03-BK-I02/03-BK-I02-015	00:28:00;
+
+[PrintText]=00:26:00	Makoto	...	00:26:18;
+
+[PlayVoice]=00:26:00	Voice03/03-BK/03-BK-I05/03-BK-I05-0080	1	xxx	00:26:18;
+
+ ;
+
+[Next]=00:28:00;
+
+

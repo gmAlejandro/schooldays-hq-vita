@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:23:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:23:12;
+
+[CreateBG]=00:00:00	BGS	System/Screen/Black	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event04/04-SE/04-SE-B03/04-SE-B03-001	00:14:00;
+
+[PrintText]=00:02:00	Makoto	Tal ves debería llamarla.	00:03:23;
+
+[PlayVoice]=00:02:00	Voice04/04-SE/04-SE-B03/04-SE-B03-0030	1	mak	00:03:23;
+
+[PlaySe]=00:04:23	1	SysSe/SE_all/keitai/yobidasi	00:13:18;
+
+[PrintText]=00:09:02	Makoto	...	00:10:07;
+
+[PlayVoice]=00:09:02	Voice04/04-SE/04-SE-B03/04-SE-B03-0060	1	xxx	00:10:07;
+
+[CreateBG]=00:14:00	BGS	Event04/04-SE/04-SE-B03/04-SE-B03-004	00:18:16;
+
+[PrintText]=00:14:07	Casilla	Conectando con la casilla de voz. El teléfono está...	00:18:04;
+
+[PlayVoice]=00:14:07	Voice04/04-SE/04-SE-B03/04-SE-B03-0070	1	rus	00:18:04;
+
+[PlaySe]=00:18:02	1	SysSe/SE_all/keitai/keitai_sousa	00:18:04;
+
+[CreateBG]=00:18:16	BGS	Event04/04-SE/04-SE-B03/04-SE-B03-003	00:23:12;
+
+[PrintText]=00:19:00	Makoto	Haah... ¿Se habrá quedado dormida?^	00:22:01;
+
+[PlayVoice]=00:19:00	Voice04/04-SE/04-SE-B03/04-SE-B03-0090	1	mak	00:22:01;
+
+[BlackFade]=00:22:12	OUT	00:23:12;
+
+ ;
+
+[Next]=00:23:12;
+
+

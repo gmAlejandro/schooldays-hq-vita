@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:21:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:21:14;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-H00/04-KA-H00-001	00:04:05;
+
+[PlaySe]=00:04:05	1	SysSe/SE_all/station_train/train_stpo	00:12:17;
+
+[PlayMovie]=00:04:05	Movie04/04-KA/04-KA-H00/04-KA-H00-002	0	00:16:05;
+
+[PrintText]=00:13:08	Kotonoha	Huele igual que Makoto-kun...	00:20:13;
+
+[PlayVoice]=00:13:08	Voice04/04-KA/04-KA-H00/04-KA-H00-0050	0	kot	00:20:13;
+
+[CreateBG]=00:16:05	BGS	Event04/04-KA/04-KA-H00/04-KA-H00-002B	00:21:14;
+
+[BlackFade]=00:20:14	OUT	00:21:14;
+
+ ;
+
+[Next]=00:21:14;
+
+

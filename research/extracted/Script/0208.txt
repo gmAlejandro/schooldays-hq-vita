@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:28:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:28:08;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E07/02-2K-E07-001	00:03:00;
+
+[PlaySe]=00:03:00	1	Voice02/02-2K/02-2K-E07/02-2K-E07-0040	00:15:15;
+
+[CreateBG]=00:03:00	BGS	Event02/02-2K/02-2K-E07/02-2K-E07-002	00:15:16;
+
+[PlayMovie]=00:15:16	Movie02/02-2K/02-2K-E07/02-2K-E07-003	0	00:19:14;
+
+[CreateBG]=00:19:14	BGS	Event02/02-2K/02-2K-E07/02-2K-E07-004	00:25:11;
+
+[PrintText]=00:20:09	Makoto	...	00:24:21;
+
+[PlayVoice]=00:20:09	Voice02/02-2K/02-2K-E07/02-2K-E07-0040A	1	mak	00:24:21;
+
+[CreateBG]=00:25:11	BGS	Event02/02-2K/02-2K-E07/02-2K-E07-005	00:28:08;
+
+[PrintText]=00:25:19	Sekai	¿...?^	00:26:10;
+
+[PlayVoice]=00:25:19	Voice02/02-2K/02-2K-E07/02-2K-E07-0060	0	sek	00:26:10;
+
+[BlackFade]=00:27:08	OUT	00:28:08;
+
+ ;
+
+[Next]=00:28:08;
+
+
+
+

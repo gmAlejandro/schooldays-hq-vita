@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=01:57:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:30:04;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-J00/SE03-SB-J00-001	00:31:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-J00/03-SB-J00-001	00:06:03;
+
+[PlaySe]=00:01:12	2	Se03/03-SB/03-SB-J00/SE03-SB-J00-002	00:07:15;
+
+[PrintText]=00:03:00	Makoto	¡Haah... haah!	00:06:03;
+
+[PlayVoice]=00:03:00	Voice03/03-SB/03-SB-J00/03-SB-J00-0040	1	mak	00:06:03;
+
+[PrintText]=00:06:02	Kotonoha	Ah...	00:07:04;
+
+[PlayVoice]=00:06:02	Voice03/03-SB/03-SB-J00/03-SB-J00-0050	0	kot	00:07:04;
+
+[CreateBG]=00:06:03	BGS	Event03/03-SB/03-SB-J00/03-SB-J00-002	00:10:12;
+
+[PrintText]=00:07:04	Makoto	Phew... perdón por hacerte esperar.	00:11:11;
+
+[PlayVoice]=00:07:04	Voice03/03-SB/03-SB-J00/03-SB-J00-0060	1	mak	00:11:11;
+
+[CreateBG]=00:10:12	BGS	Event03/03-SB/03-SB-J00/03-SB-J00-003	00:15:14;
+
+[PrintText]=00:11:11	Kotonoha	¡E-Está bien! ¿Pero cómo...?^	00:15:13;
+
+[PlayVoice]=00:11:11	Voice03/03-SB/03-SB-J00/03-SB-J00-0070	0	kot	00:15:13;
+
+[CreateBG]=00:15:14	BGS	Event03/03-SB/03-SB-J00/03-SB-J00-004	00:20:22;
+
+[PrintText]=00:15:14	Makoto	No pude estar contigo durante el día, así que tenía que venir ahora.	00:19:16;
+
+[PlayVoice]=00:15:14	Voice03/03-SB/03-SB-J00/03-SB-J00-0080	1	mak	00:19:16;
+
+[PrintText]=00:19:16	Kotonoha	Ah...	00:20:22;
+
+[PlayVoice]=00:19:16	Voice03/03-SB/03-SB-J00/03-SB-J00-0090	0	kot	00:20:22;
+
+[CreateBG]=00:20:22	BGS	Event03/03-SB/03-SB-J00/03-SB-J00-005	00:25:08;
+
+[PrintText]=00:20:22	Makoto	Y tú dijiste que era un evento para parejas...	00:23:07;
+
+[PlayVoice]=00:20:22	Voice03/03-SB/03-SB-J00/03-SB-J00-0100	1	mak	00:23:07;
+
+[PrintText]=00:23:07	Kotonoha	¡S... Sí!	00:25:07;
+
+[PlayVoice]=00:23:07	Voice03/03-SB/03-SB-J00/03-SB-J00-0110	0	kot	00:25:07;
+
+[PrintText]=00:25:07	Makoto	Ven, vamos a bailar.	00:28:06;
+
+[PlayVoice]=00:25:07	Voice03/03-SB/03-SB-J00/03-SB-J00-0120	1	mak	00:28:06;
+
+[CreateBG]=00:25:08	BGS	Event03/03-SB/03-SB-J00/03-SB-J00-005B	00:28:06;
+
+[CreateBG]=00:28:06	BGS	Event03/03-SB/03-SB-J00/03-SB-J00-005C	00:31:04;
+
+[PrintText]=00:28:06	Kotonoha	¡Sí!	00:29:05;
+
+[PlayVoice]=00:28:06	Voice03/03-SB/03-SB-J00/03-SB-J00-0130	0	kot	00:29:05;
+
+[PlayVoice]=00:29:05	Voice03/03-SB/03-SB-J00/03-SB-J00-0140			00:30:04;
+
+[BlackFade]=00:30:04	OUT	00:31:04;
+
+[PlaySe]=00:30:07	2	Se03/03-SB/03-SB-J00/SE03-SB-J00-003	01:00:02;
+
+[PlayMovie]=00:31:04	Movie03/03-SB/03-SB-J00/03-SB-J00-005	0	01:14:09;
+
+[EndBGM]=00:59:05	BGM/Vocal/SDV04	03:09:22;
+
+[BlackFade]=01:12:09	OUT	01:14:09;
+
+[CreateBG]=01:14:09	BGS	Ini/EndRoll/03-14	01:17:00;
+
+[EndRoll]=01:17:00	Ini/EndRoll/NORMAL	01:57:00;
+
+ ;
+
+[Next]=01:57:00;
+
+

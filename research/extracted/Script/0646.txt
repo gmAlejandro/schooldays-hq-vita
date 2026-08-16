@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:27:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:27:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E03/03-KB-E03-001	00:17:04;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E03/03-KB-E03-0040	1	xxx	00:00:23;
+
+[PrintText]=00:00:23	Makoto	Taisuke va por... Sekai...	00:05:08;
+
+[PlayVoice]=00:00:23	Voice03/03-KB/03-KB-E03/03-KB-E03-0050	1	mak	00:05:08;
+
+[PrintText]=00:05:08	Makoto	Sí, es cierto. Sekai es muy popular entre los chicos. Siempre fue extraño estar juntos.	00:17:04;
+
+[PlayVoice]=00:05:08	Voice03/03-KB/03-KB-E03/03-KB-E03-0060	1	mak	00:17:04;
+
+[CreateBG]=00:17:04	BGS	Event03/03-KB/03-KB-E03/03-KB-E03-002	00:19:14;
+
+[PrintText]=00:17:04	Makoto	Es natural que Taisuke quiera invitarla...	00:21:00;
+
+[PlayVoice]=00:17:04	Voice03/03-KB/03-KB-E03/03-KB-E03-0070	1	mak	00:21:00;
+
+[CreateBG]=00:19:14	BGS	Event03/03-KB/03-KB-E03/03-KB-E03-003	00:27:01;
+
+[PrintText]=00:21:00	Makoto	...	00:23:05;
+
+[PlayVoice]=00:21:00	Voice03/03-KB/03-KB-E03/03-KB-E03-0080	1	xxx	00:23:05;
+
+[PrintText]=00:23:05	Makoto	¿Qué demonios... estoy haciendo?^	00:27:00;
+
+[PlayVoice]=00:23:05	Voice03/03-KB/03-KB-E03/03-KB-E03-0090	1	mak	00:27:00;
+
+ ;
+
+[Next]=00:27:01;
+
+

@@ -1,0 +1,103 @@
+﻿[SkipFRAME]=00:47:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:53:09;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-G00/SE04-KA-G00-001	00:53:09;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-001	00:03:01;
+
+[CreateBG]=00:03:01	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-001B	00:04:03;
+
+[PrintText]=00:03:03	Makoto	Buen día.	00:04:06;
+
+[PlayVoice]=00:03:03	Voice04/04-KA/04-KA-F00/04-KA-F00-0030	1	mak	00:04:06;
+
+[PrintText]=00:04:02	Taisuke	Hey, Makoto, el aula ya terminó.	00:07:06;
+
+[PlayVoice]=00:04:02	Voice04/04-KA/04-KA-F00/04-KA-F00-0040	1	tai	00:07:06;
+
+[CreateBG]=00:04:03	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-001C	00:08:18;
+
+[PrintText]=00:07:03	Makoto	Lo sé.	00:08:16;
+
+[PlayVoice]=00:07:03	Voice04/04-KA/04-KA-F00/04-KA-F00-0050	1	mak	00:08:16;
+
+[CreateBG]=00:08:18	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-002	00:11:08;
+
+[PrintText]=00:08:19	Taisuke	Festejaron demasiado anoche y dormiste mucho, ¿eh?^	00:11:11;
+
+[PlayVoice]=00:08:19	Voice04/04-KA/04-KA-F00/04-KA-F00-0060	1	tai	00:11:11;
+
+[CreateBG]=00:11:08	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-003	00:17:17;
+
+[PrintText]=00:11:08	Makoto	Oh... Cállate. ¿Qué hay de ti?^	00:14:09;
+
+[PlayVoice]=00:11:08	Voice04/04-KA/04-KA-F00/04-KA-F00-0070	1	mak	00:14:09;
+
+[PrintText]=00:14:05	Taisuke	Oh, Mi festival solo estaba comenzando.	00:16:12;
+
+[PlayVoice]=00:14:05	Voice04/04-KA/04-KA-F00/04-KA-F00-0080	1	tai	00:16:12;
+
+[PrintText]=00:16:08	Makoto	¿Solo comenzando?^	00:17:16;
+
+[PlayVoice]=00:16:08	Voice04/04-KA/04-KA-F00/04-KA-F00-0090	1	mak	00:17:16;
+
+[CreateBG]=00:17:17	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-004	00:22:16;
+
+[PrintText]=00:17:18	Taisuke	Hoy limpiamos ¿No?^	00:19:04;
+
+[PlayVoice]=00:17:18	Voice04/04-KA/04-KA-F00/04-KA-F00-0100	1	tai	00:19:04;
+
+[PrintText]=00:19:00	Makoto	Sí.	00:19:20;
+
+[PlayVoice]=00:19:00	Voice04/04-KA/04-KA-F00/04-KA-F00-0110	1	mak	00:19:20;
+
+[PrintText]=00:19:18	Taisuke	Bueno... Una vez que limpiemos todo ¿Sabes cómo será el partido?^	00:22:14;
+
+[PlayVoice]=00:19:18	Voice04/04-KA/04-KA-F00/04-KA-F00-0120	1	tai	00:22:14;
+
+[CreateBG]=00:22:16	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-005	00:26:03;
+
+[PrintText]=00:22:17	Makoto	Ah... Sí. Supongo.	00:26:04;
+
+[PlayVoice]=00:22:17	Voice04/04-KA/04-KA-F00/04-KA-F00-0130	1	mak	00:26:04;
+
+[CreateBG]=00:26:03	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-006	00:29:22;
+
+[PrintText]=00:26:03	Taisuke	Probablemente habrá mas mujeres que hombres allí ¿No?^	00:29:22;
+
+[PlayVoice]=00:26:03	Voice04/04-KA/04-KA-F00/04-KA-F00-0140	1	tai	00:29:22;
+
+[CreateBG]=00:29:22	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-007	00:35:11;
+
+[PrintText]=00:29:22	Makoto	¡Tsk! Ya es la segunda mitad del segundo semestre.¿Te has tomado todo este tiempo para ir tras las chicas de nuestra clase?^	00:35:10;
+
+[PlayVoice]=00:29:22	Voice04/04-KA/04-KA-F00/04-KA-F00-0150	1	mak	00:35:10;
+
+[CreateBG]=00:35:11	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-002	00:45:19;
+
+[PrintText]=00:35:11	Taisuke	Bueno... después de que las vi en esos uniformes, creo que re descubrí lo buenas que están, ¿sabes?^	00:41:21;
+
+[PlayVoice]=00:35:11	Voice04/04-KA/04-KA-F00/04-KA-F00-0160	1	tai	00:41:21;
+
+[PrintText]=00:41:19	Makoto	¿En serio?^	00:43:01;
+
+[PlayVoice]=00:41:19	Voice04/04-KA/04-KA-F00/04-KA-F00-0170	1	mak	00:43:01;
+
+[PrintText]=00:43:04	Taisuke	Estarás allí también, ¿No?^	00:45:15;
+
+[PlayVoice]=00:43:04	Voice04/04-KA/04-KA-F00/04-KA-F00-0180	1	tai	00:45:15;
+
+[CreateBG]=00:45:19	BGS	Event04/04-KA/04-KA-F00/04-KA-F00-001	00:53:09;
+
+[PrintText]=00:46:01	Makoto	Hmm... No lo sé...	00:47:15;
+
+[PlayVoice]=00:46:01	Voice04/04-KA/04-KA-F00/04-KA-F00-0190	1	mak	00:47:15;
+
+[SetSELECT]=00:47:03	'No estoy seguro'	'No iré'	00:52:03;
+
+ ;
+
+[Next]=00:53:09;
+
+

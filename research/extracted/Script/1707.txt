@@ -1,0 +1,32 @@
+﻿[SkipFRAME]=00:09:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:09:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-D01/05-SB-D01-001	00:04:15;
+
+[PrintText]=00:00:00	Makoto	Vale, ya voy.	00:03:01;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-D01/05-SB-D01-0030	1	mak	00:03:01;
+
+[PrintText]=00:03:01	Nanami	¡Genial, está decidido!	00:04:17;
+
+[PlayVoice]=00:03:01	Voice05/05-SB/05-SB-D01/05-SB-D01-0040	0	nan	00:04:17;
+
+[CreateBG]=00:04:15	BGS	Event05/05-SB/05-SB-D01/05-SB-D01-002A	00:05:12;
+
+[PlaySe]=00:05:12	1	SysSe/SE_all/keitai/keitai_sousa	00:05:14;
+
+[CreateBG]=00:05:12	BGS	Event05/05-SB/05-SB-D01/05-SB-D01-002B	00:07:00;
+
+[PlaySe]=00:05:18	1	SysSe/SE_all/keitai/keitai_sousa	00:05:20;
+
+[PlaySe]=00:06:02	1	SysSe/SE_all/keitai/keitai_sousa	00:06:04;
+
+[CreateBG]=00:07:00	BGS	Event05/05-SB/05-SB-D01/05-SB-D01-002C	00:09:00;
+
+ ;
+
+[Next]=00:09:00;
+
+
+

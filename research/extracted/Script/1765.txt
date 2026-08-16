@@ -1,0 +1,42 @@
+﻿[SkipFRAME]=00:15:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:15:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-I00/05-KB-I00-001	00:02:23;
+
+[PlayMovie]=00:02:23	Movie05/05-KB/05-KB-I00/05-KB-I00-002	0	00:06:10;
+
+[PrintText]=00:03:07	Kotonoha	Makoto-kun... ¿Dónde podrás estar...?^	00:06:10;
+
+[PlayVoice]=00:03:07	Voice05/05-KB/05-KB-I00/05-KB-I00-0040	0	kot	00:06:10;
+
+[CreateBG]=00:06:10	BGS	Event05/05-KB/05-KB-I00/05-KB-I00-003	00:08:12;
+
+[PrintText]=00:06:10	Kotonoha	¡Ah!	00:07:04;
+
+[PlayVoice]=00:06:10	Voice05/05-KB/05-KB-I00/05-KB-I00-0050	0	kot	00:07:04;
+
+[PrintText]=00:07:09	Kotonoha	Makoto-ku...	00:08:12;
+
+[PlayVoice]=00:07:09	Voice05/05-KB/05-KB-I00/05-KB-I00-0060	0	kot	00:08:12;
+
+[PlayMovie]=00:08:12	Movie05/05-KB/05-KB-I00/05-KB-I00-004	0	00:12:20;
+
+[PrintText]=00:08:12	Kotonoha	...	00:10:04;
+
+[PlayVoice]=00:08:12	Voice05/05-KB/05-KB-I00/05-KB-I00-0090	0	xxx	00:10:04;
+
+[CreateBG]=00:12:20	BGS	Event05/05-KB/05-KB-I00/05-KB-I00-004	00:15:18;
+
+[PrintText]=00:13:07	Kotonoha	Makoto-kun...	00:14:19;
+
+[PlayVoice]=00:13:07	Voice05/05-KB/05-KB-I00/05-KB-I00-0110	0	kot	00:14:19;
+
+[BlackFade]=00:15:06	OUT	00:15:18;
+
+ ;
+
+[Next]=00:15:18;
+
+
+

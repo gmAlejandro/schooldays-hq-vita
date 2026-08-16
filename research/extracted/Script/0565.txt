@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:14:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:03;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G10/SE03-KA-G10-001	00:14:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G10/03-KA-G10-001	00:01:21;
+
+[PrintText]=00:00:00	Makoto	...	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-G10/03-KA-G10-0030	1	xxx	00:01:00;
+
+[CreateBG]=00:01:21	BGS	Event03/03-KA/03-KA-G10/03-KA-G10-002	00:03:05;
+
+[PrintText]=00:02:04	Setsuna	Lo suponía.	00:03:04;
+
+[PlayVoice]=00:02:04	Voice03/03-KA/03-KA-G10/03-KA-G10-0040	0	set	00:03:04;
+
+[CreateBG]=00:03:05	BGS	Event03/03-KA/03-KA-G10/03-KA-G10-003	00:07:19;
+
+[PrintText]=00:03:05	Makoto	Hey, escucha...	00:04:09;
+
+[PlayVoice]=00:03:05	Voice03/03-KA/03-KA-G10/03-KA-G10-0050	1	mak	00:04:09;
+
+[PrintText]=00:04:07	Setsuna	Solo porque Katsura-san y tú...	00:05:22;
+
+[PlayVoice]=00:04:07	Voice03/03-KA/03-KA-G10/03-KA-G10-0060	0	set	00:05:22;
+
+[PrintText]=00:05:10	Makoto	Comeré aquí, también.	00:07:21;
+
+[PlayVoice]=00:05:10	Voice03/03-KA/03-KA-G10/03-KA-G10-0070	1	mak	00:07:21;
+
+[CreateBG]=00:07:19	BGS	Event03/03-KA/03-KA-G10/03-KA-G10-004	00:08:23;
+
+[PrintText]=00:08:05	Setsuna	¡¿Eh?!	00:08:19;
+
+[PlayVoice]=00:08:05	Voice03/03-KA/03-KA-G10/03-KA-G10-0080	0	set	00:08:19;
+
+[CreateBG]=00:08:23	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-005A	00:14:03;
+
+[PrintText]=00:08:23	Makoto	Está bien. Deja de hablar y come.	00:11:19;
+
+[PlayVoice]=00:08:23	Voice03/03-KA/03-KA-G10/03-KA-G10-0090	1	mak	00:11:19;
+
+[PrintText]=00:12:03	Setsuna	Está bien...	00:12:19;
+
+[PlayVoice]=00:12:03	Voice03/03-KA/03-KA-G10/03-KA-G10-0100	0	set	00:12:19;
+
+[BlackFade]=00:13:03	OUT	00:14:03;
+
+ ;
+
+[Next]=00:14:03;
+
+

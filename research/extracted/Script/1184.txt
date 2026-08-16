@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:24:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-B03/04-SB-B03-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-SB/04-SB-B03/04-SB-B03-002	00:05:18;
+
+[PrintText]=00:03:02	Makoto	Bueno, creo que es hora de ir a casa...	00:05:07;
+
+[PlayVoice]=00:03:02	Voice04/04-SB/04-SB-B03/04-SB-B03-0040	1	mak	00:05:07;
+
+[CreateBG]=00:05:18	BGS	Event04/04-SB/04-SB-B03/04-SB-B03-003	00:09:23;
+
+[PrintText]=00:05:18	Makoto	Sekai.	00:06:16;
+
+[PlayVoice]=00:05:18	Voice04/04-SB/04-SB-B03/04-SB-B03-0050	1	mak	00:06:16;
+
+[PrintText]=00:06:16	Sekai	¿Sí?^	00:07:11;
+
+[PlayVoice]=00:06:16	Voice04/04-SB/04-SB-B03/04-SB-B03-0060	0	sek	00:07:11;
+
+[PrintText]=00:07:11	Makoto	¿Quieres ir a algún lado antes de ir a casa?^	00:09:23;
+
+[PlayVoice]=00:07:11	Voice04/04-SB/04-SB-B03/04-SB-B03-0070	1	mak	00:09:23;
+
+[PlaySe]=00:09:23	2	SysSe/SE_all/gaya/kyousitu_rouka	00:24:12;
+
+[CreateBG]=00:09:23	BGS	Event04/04-SB/04-SB-B03/04-SB-B03-004	00:12:20;
+
+[PrintText]=00:09:23	Sekai	Ah... lo siento, no puedo hoy.	00:12:20;
+
+[PlayVoice]=00:09:23	Voice04/04-SB/04-SB-B03/04-SB-B03-0080	0	sek	00:12:20;
+
+[CreateBG]=00:12:20	BGS	Event04/04-SB/04-SB-B03/04-SB-B03-005	00:13:22;
+
+[PrintText]=00:12:20	Makoto	¿Tienes algo que hacer?^	00:14:02;
+
+[PlayVoice]=00:12:20	Voice04/04-SB/04-SB-B03/04-SB-B03-0090	1	mak	00:14:02;
+
+[CreateBG]=00:13:22	BGS	Event04/04-SB/04-SB-B03/04-SB-B03-006	00:18:07;
+
+[PrintText]=00:14:02	Sekai	Hikari... quiero decir, las chicas y yo saldremos juntos.	00:18:07;
+
+[PlayVoice]=00:14:02	Voice04/04-SB/04-SB-B03/04-SB-B03-0100	0	sek	00:18:07;
+
+[CreateBG]=00:18:07	BGS	Event04/04-SB/04-SB-B03/04-SB-B03-007	00:21:18;
+
+[PrintText]=00:18:07	Makoto	Ya veo, pues, me iré antes entonces.	00:21:21;
+
+[PlayVoice]=00:18:07	Voice04/04-SB/04-SB-B03/04-SB-B03-0110	1	mak	00:21:21;
+
+[CreateBG]=00:21:18	BGS	Event04/04-SB/04-SB-B03/04-SB-B03-007A	00:24:12;
+
+[PrintText]=00:21:21	Sekai	Vale, nos vemos mañana.	00:23:08;
+
+[PlayVoice]=00:21:21	Voice04/04-SB/04-SB-B03/04-SB-B03-0120	0	sek	00:23:08;
+
+[BlackFade]=00:23:12	OUT	00:24:12;
+
+ ;
+
+[Next]=00:24:12;
+
+

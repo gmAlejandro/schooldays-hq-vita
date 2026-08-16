@@ -1,0 +1,74 @@
+﻿[SkipFRAME]=00:35:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:35:14;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:35:14;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-E00/05-SA-E00-002	00:02:03;
+
+[PrintText]=00:00:06	Sekai	Tampoco tengo dinero...	00:02:06;
+
+[PlayVoice]=00:00:06	Voice05/05-SA/05-SA-E02/05-SA-E02-0030	0	sek	00:02:06;
+
+[CreateBG]=00:02:03	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-002	00:05:21;
+
+[PrintText]=00:02:03	Makoto	¿Huh? ¿No habías dicho que tenías algo de tu trabajo de medio tiempo?^	00:05:23;
+
+[PlayVoice]=00:02:03	Voice05/05-SA/05-SA-E02/05-SA-E02-0040	1	mak	00:05:23;
+
+[CreateBG]=00:05:21	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-003	00:10:14;
+
+[PrintText]=00:05:21	Sekai	¡Lo gasté todo en el abrigo!	00:10:21;
+
+[PlayVoice]=00:05:21	Voice05/05-SA/05-SA-E02/05-SA-E02-0050	0	sek	00:10:21;
+
+[PrintText]=00:10:13	Makoto	Hahaha, ya veo.	00:12:18;
+
+[PlayVoice]=00:10:13	Voice05/05-SA/05-SA-E02/05-SA-E02-0060	1	mak	00:12:18;
+
+[CreateBG]=00:10:14	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-004	00:12:18;
+
+[PrintText]=00:12:17	Sekai	Ooh... si hubiera ido por uno más cómodo... aunque siempre he querido ese...	00:22:11;
+
+[PlayVoice]=00:12:17	Voice05/05-SA/05-SA-E02/05-SA-E02-0070	0	sek	00:22:11;
+
+[CreateBG]=00:12:18	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-005	00:22:10;
+
+[CreateBG]=00:22:10	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-006	00:23:17;
+
+[PrintText]=00:22:13	Makoto	¿Cómo es?^	00:23:17;
+
+[PlayVoice]=00:22:13	Voice05/05-SA/05-SA-E02/05-SA-E02-0080	1	mak	00:23:17;
+
+[CreateBG]=00:23:17	BGS	Event05/05-SA/05-SA-E00/05-SA-E00-004	00:28:02;
+
+[PrintText]=00:23:17	Sekai	Es uno muy bonito, lo llevaré a la escuela.	00:28:01;
+
+[PlayVoice]=00:23:17	Voice05/05-SA/05-SA-E02/05-SA-E02-0090	0	sek	00:28:01;
+
+[CreateBG]=00:28:02	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-006	00:29:23;
+
+[PrintText]=00:28:02	Makoto	Ya llego la temporada ¿No?^	00:30:05;
+
+[PlayVoice]=00:28:02	Voice05/05-SA/05-SA-E02/05-SA-E02-0100	1	mak	00:30:05;
+
+[CreateBG]=00:29:22	BGS	Event05/05-SA/05-SA-E00/05-SA-E00-004	00:32:18;
+
+[PrintText]=00:30:01	Sekai	Sí. Pronto hará mucho frío.	00:32:18;
+
+[PlayVoice]=00:30:01	Voice05/05-SA/05-SA-E02/05-SA-E02-0110	0	sek	00:32:18;
+
+[CreateBG]=00:32:18	BGS	Event05/05-SA/05-SA-E02/05-SA-E02-009	00:35:14;
+
+[PrintText]=00:33:01	Makoto	No me extrañe que ya empiece...	00:34:10;
+
+[PlayVoice]=00:33:01	Voice05/05-SA/05-SA-E02/05-SA-E02-0120	1	mak	00:34:10;
+
+[BlackFade]=00:34:14	OUT	00:35:14;
+
+ ;
+
+[Next]=00:35:14;
+
+
+

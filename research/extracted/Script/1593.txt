@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:45:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:45:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/footsteps/asioto_okugai	00:10:20;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/beach1	00:39:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-001	00:10:20;
+
+[PrintText]=00:00:00	Makoto	Bueno... yo se lo dije.	00:04:10;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-H01/05-KF-H01-0030	1	mak	00:04:10;
+
+[PrintText]=00:03:18	Sekai	¿Eh?^	00:04:14;
+
+[PlayVoice]=00:03:18	Voice05/05-KF/05-KF-H01/05-KF-H01-0040	0	sek	00:04:14;
+
+[PrintText]=00:04:10	Makoto	Él me pregunto por quien te gustaba...	00:09:23;
+
+[PlayVoice]=00:04:10	Voice05/05-KF/05-KF-H01/05-KF-H01-0050	1	mak	00:09:23;
+
+[CreateBG]=00:10:20	BGS	Event05/05-KF/05-KF-H01/05-KF-H01-002	00:45:00;
+
+[PrintText]=00:10:20	Sekai	Entonces le dijiste.	00:12:02;
+
+[PlayVoice]=00:10:20	Voice05/05-KF/05-KF-H01/05-KF-H01-0060	0	sek	00:12:02;
+
+[PrintText]=00:12:02	Makoto	Creí que como amigo, no podía ocultárselo más.	00:22:03;
+
+[PlayVoice]=00:12:02	Voice05/05-KF/05-KF-H01/05-KF-H01-0070	1	mak	00:22:03;
+
+[PrintText]=00:22:04	Sekai	Sí...	00:23:06;
+
+[PlayVoice]=00:22:04	Voice05/05-KF/05-KF-H01/05-KF-H01-0080	0	sek	00:23:06;
+
+[PrintText]=00:23:06	Makoto	Pero cuando se lo dije, se molesto bastante. Creo que más de lo que debería.	00:34:23;
+
+[PlayVoice]=00:23:06	Voice05/05-KF/05-KF-H01/05-KF-H01-0090	1	mak	00:34:23;
+
+[PrintText]=00:34:23	Sekai	Lo siento... todo es mi culpa.	00:38:02;
+
+[PlayVoice]=00:34:23	Voice05/05-KF/05-KF-H01/05-KF-H01-0100	0	sek	00:38:02;
+
+[PrintText]=00:38:03	Makoto	No, se lo dije por tenía que.	00:43:04;
+
+[PlayVoice]=00:38:03	Voice05/05-KF/05-KF-H01/05-KF-H01-0110	1	mak	00:43:04;
+
+[PlaySe]=00:39:09	3	SysSe/SE_all/gaya/beach1	00:45:00;
+
+[PrintText]=00:43:04	Sekai	Uh-huh...	00:44:11;
+
+[PlayVoice]=00:43:04	Voice05/05-KF/05-KF-H01/05-KF-H01-0120	0	sek	00:44:11;
+
+ ;
+
+[Next]=00:45:00;
+
+
+
+

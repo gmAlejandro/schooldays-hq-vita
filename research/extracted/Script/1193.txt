@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:32:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	00:32:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-C01/04-SB-C01-006	00:01:05;
+
+[PrintText]=00:00:00	Makoto	Haah...	00:01:05;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-C06/04-SB-C06-0030	1	mak	00:01:05;
+
+[CreateBG]=00:01:05	BGS	Event04/04-SB/04-SB-C06/04-SB-C06-002	00:03:11;
+
+[PrintText]=00:01:07	Makoto	...	00:02:06;
+
+[PlayVoice]=00:01:07	Voice04/04-SB/04-SB-C06/04-SB-C06-0070	1	xxx	00:02:06;
+
+[PrintText]=00:02:06	Kotonoha	¿...Makoto-kun?^	00:03:11;
+
+[PlayVoice]=00:02:06	Voice04/04-SB/04-SB-C06/04-SB-C06-0090	0	kot	00:03:11;
+
+[CreateBG]=00:03:11	BGS	Event04/04-SB/04-SB-C06/04-SB-C06-003	00:09:01;
+
+[PrintText]=00:03:11	Makoto	Kotonoha...	00:05:03;
+
+[PlayVoice]=00:03:11	Voice04/04-SB/04-SB-C06/04-SB-C06-0110	1	mak	00:05:03;
+
+[PrintText]=00:05:02	Kotonoha	¿Vas a casa?^	00:07:00;
+
+[PlayVoice]=00:05:02	Voice04/04-SB/04-SB-C06/04-SB-C06-0130	0	kot	00:07:00;
+
+[PrintText]=00:07:00	Makoto	Sí.	00:07:18;
+
+[PlayVoice]=00:07:00	Voice04/04-SB/04-SB-C06/04-SB-C06-0140	1	mak	00:07:18;
+
+[PrintText]=00:07:18	Kotonoha	Ya veo.	00:09:00;
+
+[PlayVoice]=00:07:18	Voice04/04-SB/04-SB-C06/04-SB-C06-0150	0	kot	00:09:00;
+
+[PrintText]=00:09:00	Makoto	...	00:10:01;
+
+[PlayVoice]=00:09:00	Voice04/04-SB/04-SB-C06/04-SB-C06-0160	1	xxx	00:10:01;
+
+[CreateBG]=00:09:01	BGS	Event04/04-SB/04-SB-C06/04-SB-C06-004	00:10:12;
+
+[PrintText]=00:10:01	Kotonoha	...	00:10:12;
+
+[PlayVoice]=00:10:01	Voice04/04-SB/04-SB-C06/04-SB-C06-0170	0	xxx	00:10:12;
+
+[CreateBG]=00:10:12	BGS	Event01/01-00/01-00-L00/01-00-L00-001	00:16:16;
+
+[PrintText]=00:10:12	Makoto	Estaba... sorprendido cuando escuche que tú y Taisuke estaban saliendo.	00:16:04;
+
+[PlayVoice]=00:10:12	Voice04/04-SB/04-SB-C06/04-SB-C06-0180	1	mak	00:16:04;
+
+[PrintText]=00:16:03	Kotonoha	...	00:16:16;
+
+[PlayVoice]=00:16:03	Voice04/04-SB/04-SB-C06/04-SB-C06-0190	0	xxx	00:16:16;
+
+[CreateBG]=00:16:16	BGS	Event04/04-SB/04-SB-C06/04-SB-C06-006	00:19:04;
+
+[PrintText]=00:16:16	Makoto	Quiero decir, es un idiota... pero no es un mal chico. A-Así que, ¿Qué te gusta de él?^	00:30:03;
+
+[PlayVoice]=00:16:16	Voice04/04-SB/04-SB-C06/04-SB-C06-0200	1	mak	00:30:03;
+
+[CreateBG]=00:19:04	BGS	Event04/04-SB/04-SB-C06/04-SB-C06-007	00:30:04;
+
+[CreateBG]=00:30:04	BGS	Event04/04-SB/04-SB-C06/04-SB-C06-008	00:31:17;
+
+[PrintText]=00:30:04	Kotonoha	...Él no me gusta.	00:31:18;
+
+[PlayVoice]=00:30:04	Voice04/04-SB/04-SB-C06/04-SB-C06-0210	0	kot	00:31:18;
+
+[CreateBG]=00:31:17	BGS	Event04/04-SB/04-SB-C06/04-SB-C06-009	00:32:11;
+
+[PrintText]=00:31:17	Makoto	¿Eh...?^	00:32:09;
+
+[PlayVoice]=00:31:17	Voice04/04-SB/04-SB-C06/04-SB-C06-0220	1	mak	00:32:09;
+
+ ;
+
+[Next]=00:32:11;
+
+

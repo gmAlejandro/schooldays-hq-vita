@@ -1,0 +1,160 @@
+﻿[SkipFRAME]=02:10:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	01:05:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-001	00:01:18;
+
+[PrintText]=00:00:00	Makoto	...Entonces así es como es.	00:01:17;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-E01/05-SD-E01-0040	1	mak	00:01:17;
+
+[CreateBG]=00:01:18	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-002	00:06:18;
+
+[PrintText]=00:01:18	Setsuna	Uh-huh.	00:02:09;
+
+[PlayVoice]=00:01:18	Voice05/05-SD/05-SD-E01/05-SD-E01-0050	0	set	00:02:09;
+
+[PrintText]=00:02:10	Sekai	Setsuna... ¿Entonces te vas?^	00:06:19;
+
+[PlayVoice]=00:02:10	Voice05/05-SD/05-SD-E01/05-SD-E01-0060	0	sek	00:06:19;
+
+[CreateBG]=00:06:18	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-003	00:16:05;
+
+[PrintText]=00:06:19	Setsuna	Uh-huh.	00:07:12;
+
+[PlayVoice]=00:06:19	Voice05/05-SD/05-SD-E01/05-SD-E01-0070	0	set	00:07:12;
+
+[PrintText]=00:07:13	Sekai	¿Por qué...?^	00:08:15;
+
+[PlayVoice]=00:07:13	Voice05/05-SD/05-SD-E01/05-SD-E01-0080	0	sek	00:08:15;
+
+[PrintText]=00:08:15	Setsuna	Después de que convenciste a tu mamá de quedarse, mi mamá se ofreció.	00:16:05;
+
+[PlayVoice]=00:08:15	Voice05/05-SD/05-SD-E01/05-SD-E01-0090	0	set	00:16:05;
+
+[CreateBG]=00:16:05	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-004	00:19:06;
+
+[PrintText]=00:16:05	Sekai	Lo sé, pero...	00:19:05;
+
+[PlayVoice]=00:16:05	Voice05/05-SD/05-SD-E01/05-SD-E01-0100	0	sek	00:19:05;
+
+[CreateBG]=00:19:06	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-005	00:22:05;
+
+[PrintText]=00:19:06	Setsuna	Quiero ser una buena hija.	00:22:05;
+
+[PlayVoice]=00:19:06	Voice05/05-SD/05-SD-E01/05-SD-E01-0110	0	set	00:22:05;
+
+[CreateBG]=00:22:05	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-006	00:27:20;
+
+[PrintText]=00:22:05	Sekai	¿Eh?^	00:23:00;
+
+[PlayVoice]=00:22:05	Voice05/05-SD/05-SD-E01/05-SD-E01-0120	0	sek	00:23:00;
+
+[PrintText]=00:23:00	Setsuna	Cuando vi a mi mamá llorando, tenía la necesidad de seguirla a París.	00:27:20;
+
+[PlayVoice]=00:23:00	Voice05/05-SD/05-SD-E01/05-SD-E01-0130	0	set	00:27:20;
+
+[CreateBG]=00:27:20	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-007	00:34:10;
+
+[PrintText]=00:27:21	Sekai	¿Ehh?^	00:28:23;
+
+[PlayVoice]=00:27:21	Voice05/05-SD/05-SD-E01/05-SD-E01-0150	0	sek	00:28:23;
+
+[PrintText]=00:28:23	Setsuna	Por favor, no dejes que te moleste.	00:31:22;
+
+[PlayVoice]=00:28:23	Voice05/05-SD/05-SD-E01/05-SD-E01-0160	0	set	00:31:22;
+
+[PrintText]=00:31:23	Sekai	V-Vale...	00:34:10;
+
+[PlayVoice]=00:31:23	Voice05/05-SD/05-SD-E01/05-SD-E01-0170	0	sek	00:34:10;
+
+[CreateBG]=00:34:10	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-008	00:38:23;
+
+[PrintText]=00:34:10	Setsuna	Sekai.	00:35:07;
+
+[PlayVoice]=00:34:10	Voice05/05-SD/05-SD-E01/05-SD-E01-0180	0	set	00:35:07;
+
+[PrintText]=00:35:08	Sekai	Uh-huh.	00:36:04;
+
+[PlayVoice]=00:35:08	Voice05/05-SD/05-SD-E01/05-SD-E01-0190	0	sek	00:36:04;
+
+[PrintText]=00:36:04	Setsuna	Recuerda ser buena con Itou.	00:38:23;
+
+[PlayVoice]=00:36:04	Voice05/05-SD/05-SD-E01/05-SD-E01-0200	0	set	00:38:23;
+
+[CreateBG]=00:38:23	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-009	00:50:18;
+
+[PrintText]=00:38:23	Sekai	Lo sé.	00:40:06;
+
+[PlayVoice]=00:38:23	Voice05/05-SD/05-SD-E01/05-SD-E01-0210	0	sek	00:40:06;
+
+[PrintText]=00:40:06	Makoto	Cuídate Kiyoura.	00:43:09;
+
+[PlayVoice]=00:40:06	Voice05/05-SD/05-SD-E01/05-SD-E01-0220	1	mak	00:43:09;
+
+[PrintText]=00:43:09	Setsuna	Tú también Itou.	00:44:09;
+
+[PlayVoice]=00:43:09	Voice05/05-SD/05-SD-E01/05-SD-E01-0230	0	set	00:44:09;
+
+[PrintText]=00:44:09	Makoto	Haha, lo haré. Cuando vuelvas, hagamos cosas más pervertidas por teléfono.	00:50:18;
+
+[PlayVoice]=00:44:09	Voice05/05-SD/05-SD-E01/05-SD-E01-0240	1	mak	00:50:18;
+
+[CreateBG]=00:50:18	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-010	00:56:02;
+
+[PrintText]=00:50:18	Setsuna	Sí, la próxima vez será aún mejor.	00:54:17;
+
+[PlayVoice]=00:50:18	Voice05/05-SD/05-SD-E01/05-SD-E01-0250	0	set	00:54:17;
+
+[PrintText]=00:54:17	Makoto	¿Mejor?^	00:56:02;
+
+[PlayVoice]=00:54:17	Voice05/05-SD/05-SD-E01/05-SD-E01-0260	1	mak	00:56:02;
+
+[CreateBG]=00:56:02	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-011	00:59:14;
+
+[PrintText]=00:56:02	Setsuna	Espera a verlo.	00:58:02;
+
+[PlayVoice]=00:56:02	Voice05/05-SD/05-SD-E01/05-SD-E01-0270	0	set	00:58:02;
+
+[PrintText]=00:58:02	Makoto	V-Vale.	00:59:14;
+
+[PlayVoice]=00:58:02	Voice05/05-SD/05-SD-E01/05-SD-E01-0280	1	mak	00:59:14;
+
+[CreateBG]=00:59:14	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-012	01:02:14;
+
+[PrintText]=00:59:14	Sekai	¡¿Vale?! ¡Será mejor que no!	01:02:13;
+
+[PlayVoice]=00:59:14	Voice05/05-SD/05-SD-E01/05-SD-E01-0290	0	sek	01:02:13;
+
+[PrintText]=01:02:13	Makoto	¡Wah! O-oh, sí...	01:05:02;
+
+[PlayVoice]=01:02:13	Voice05/05-SD/05-SD-E01/05-SD-E01-0300	1	mak	01:05:02;
+
+[CreateBG]=01:02:14	BGS	Event05/05-SD/05-SD-E01/05-SD-E01-013	01:10:15;
+
+[PrintText]=01:05:03	Setsuna	Bueno... es mejor que me vaya.	01:06:01;
+
+[PlayVoice]=01:05:03	Voice05/05-SD/05-SD-E01/05-SD-E01-0320	0	set	01:06:01;
+
+[PrintText]=01:06:02	Sekai	¡Sí!	01:09:06;
+
+[PlayVoice]=01:06:02	Voice05/05-SD/05-SD-E01/05-SD-E01-0330	0	sek	01:09:06;
+
+[PrintText]=01:09:06	Setsuna	Adiós.	01:10:15;
+
+[PlayVoice]=01:09:06	Voice05/05-SD/05-SD-E01/05-SD-E01-0350	0	set	01:10:15;
+
+[EndBGM]=01:09:12	BGM/Vocal/SDV06	04:02:16;
+
+[PlayMovie]=01:10:15	Movie05/05-SD/05-SD-E01/05-SD-E01-014	0	01:26:15;
+
+[CreateBG]=01:26:15	BGS	Ini/EndRoll/05-19	01:30:00;
+
+[EndRoll]=01:30:00	Ini/EndRoll/GOOD	02:10:00;
+
+ ;
+
+[Next]=02:10:00;
+
+
+

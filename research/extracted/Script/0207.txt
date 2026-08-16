@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:23:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:23:15;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-E06/SE02-2K-E06-001	00:23:15;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E06/02-2K-E06-001	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2K/02-2K-E06/02-2K-E06-002	00:11:19;
+
+[PrintText]=00:10:06	Makoto	Sekai.	00:11:02;
+
+[PlayVoice]=00:10:06	Voice02/02-2K/02-2K-E06/02-2K-E06-0060	1	mak	00:11:02;
+
+[PrintText]=00:11:02	Sekai	Uh-huh.	00:11:19;
+
+[PlayVoice]=00:11:02	Voice02/02-2K/02-2K-E06/02-2K-E06-0070	0	sek	00:11:19;
+
+[CreateBG]=00:11:19	BGS	Event02/02-2K/02-2K-E06/02-2K-E06-003	00:15:06;
+
+[PrintText]=00:11:19	Makoto	...Gracias.	00:14:15;
+
+[PlayVoice]=00:11:19	Voice02/02-2K/02-2K-E06/02-2K-E06-0080	1	mak	00:14:15;
+
+[PrintText]=00:14:15	Sekai	Uh-huh.	00:15:06;
+
+[PlayVoice]=00:14:15	Voice02/02-2K/02-2K-E06/02-2K-E06-0090	0	sek	00:15:06;
+
+[CreateBG]=00:15:06	BGS	Event02/02-2K/02-2K-E06/02-2K-E06-004	00:17:11;
+
+[PrintText]=00:15:06	Makoto	Voy a dar mi mejor esfuerzo.	00:16:12;
+
+[PlayVoice]=00:15:06	Voice02/02-2K/02-2K-E06/02-2K-E06-0100	1	mak	00:16:12;
+
+[PrintText]=00:16:12	Sekai	Uh-huh.	00:17:05;
+
+[PlayVoice]=00:16:12	Voice02/02-2K/02-2K-E06/02-2K-E06-0110	0	sek	00:17:05;
+
+[CreateBG]=00:17:11	BGS	Event02/02-2K/02-2K-E06/02-2K-E06-005	00:20:11;
+
+[CreateBG]=00:20:11	BGS	Event02/02-2K/02-2K-E06/02-2K-E06-006	00:23:15;
+
+[BlackFade]=00:22:15	OUT	00:23:15;
+
+ ;
+
+[Next]=00:23:15;
+
+
+
+

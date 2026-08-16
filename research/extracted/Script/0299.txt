@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:08:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:08:14;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C07/SE02-2S-C07-001	00:08:14;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C07/02-2S-C07-001	00:08:14;
+
+[PrintText]=00:00:00	Makoto	... Vamos a ir a la hora del almuerzo, entonces.	00:02:21;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-C07/02-2S-C07-0030	1	mak	00:02:21;
+
+[PrintText]=00:02:22	Sekai	¿Nos veremos con Katsura-san en el tejado?^	00:06:08;
+
+[PlayVoice]=00:02:22	Voice02/02-2S/02-2S-C07/02-2S-C07-0040	0	sek	00:06:08;
+
+[PrintText]=00:06:08	Makoto	Sí.	00:06:23;
+
+[PlayVoice]=00:06:08	Voice02/02-2S/02-2S-C07/02-2S-C07-0050	1	mak	00:06:23;
+
+[BlackFade]=00:07:14	OUT	00:08:14;
+
+ ;
+
+[Next]=00:08:14;
+
+
+
+

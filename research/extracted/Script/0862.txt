@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:09;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-I09/SE03-SB-I09-001	00:12:09;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-I09/03-SB-I09-001	0	00:12:09;
+
+[PrintText]=00:00:00	Makoto	Es muy sexy.	00:01:11;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-I09/03-SB-I09-0030	1	mak	00:01:11;
+
+[PrintText]=00:01:11	Sekai	¿E-En serio?^	00:03:08;
+
+[PlayVoice]=00:01:11	Voice03/03-SB/03-SB-I09/03-SB-I09-0040	0	sek	00:03:08;
+
+[PrintText]=00:03:08	Makoto	Y la falda... es bastante chica.	00:05:13;
+
+[PlayVoice]=00:03:08	Voice03/03-SB/03-SB-I09/03-SB-I09-0050	1	mak	00:05:13;
+
+[PrintText]=00:05:12	Sekai	Ooh, pervertido.	00:07:23;
+
+[PlayVoice]=00:05:12	Voice03/03-SB/03-SB-I09/03-SB-I09-0060	0	sek	00:07:23;
+
+[PrintText]=00:07:23	Makoto	Haha, lo siento, eh... por cierto, Sekai...	00:12:04;
+
+[PlayVoice]=00:07:23	Voice03/03-SB/03-SB-I09/03-SB-I09-0070	1	mak	00:12:04;
+
+ ;
+
+[Next]=00:12:09;
+
+

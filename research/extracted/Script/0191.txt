@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:33:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:33:04;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-N00/SE01-1S-N00-001	00:33:04;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-002	00:05:21;
+
+[CreateBG]=00:05:21	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-003	00:08:10;
+
+[PrintText]=00:05:21	Kotonoha	Makoto-kun.	00:06:22;
+
+[PlayVoice]=00:05:21	Voice01/01-1S/01-1S-N00/01-1S-N00-0040	0	kot	00:06:22;
+
+[PrintText]=00:07:05	Makoto	Kotonoha...	00:08:04;
+
+[PlayVoice]=00:07:05	Voice01/01-1S/01-1S-N00/01-1S-N00-0050	1	mak	00:08:04;
+
+[CreateBG]=00:08:10	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-004	00:17:03;
+
+[PrintText]=00:08:18	Kotonoha	¿Qué deberíamos hacer hoy para almorzar? Hace frío y está nevando ¿Debería comprar algo caliente para tomar?^	00:16:23;
+
+[PlayVoice]=00:08:18	Voice01/01-1S/01-1S-N00/01-1S-N00-0060	0	kot	00:16:23;
+
+[CreateBG]=00:17:03	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-005	00:19:00;
+
+[PrintText]=00:17:13	Makoto	Hoy...	00:18:15;
+
+[PlayVoice]=00:17:13	Voice01/01-1S/01-1S-N00/01-1S-N00-0070	1	mak	00:18:15;
+
+[CreateBG]=00:19:00	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-006	00:22:22;
+
+[PrintText]=00:19:03	Kotonoha	¿Sí?^	00:20:00;
+
+[PlayVoice]=00:19:03	Voice01/01-1S/01-1S-N00/01-1S-N00-0080	0	kot	00:20:00;
+
+[PrintText]=00:20:04	Makoto	Perdón, pero hoy...	00:22:01;
+
+[PlayVoice]=00:20:04	Voice01/01-1S/01-1S-N00/01-1S-N00-0090	1	mak	00:22:01;
+
+[PrintText]=00:22:01	Kotonoha	¿Eh?^	00:22:14;
+
+[PlayVoice]=00:22:01	Voice01/01-1S/01-1S-N00/01-1S-N00-0100	0	kot	00:22:14;
+
+[CreateBG]=00:22:22	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-007	00:26:05;
+
+[PrintText]=00:23:02	Makoto	Hay... algo que debo buscar.	00:26:08;
+
+[PlayVoice]=00:23:02	Voice01/01-1S/01-1S-N00/01-1S-N00-0110	1	mak	00:26:08;
+
+[CreateBG]=00:26:05	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-008	00:30:08;
+
+[PrintText]=00:26:05	Kotonoha	¿En serio?^	00:27:18;
+
+[PlayVoice]=00:26:05	Voice01/01-1S/01-1S-N00/01-1S-N00-0120	0	kot	00:27:18;
+
+[PrintText]=00:28:02	Makoto	Perdóname.	00:28:21;
+
+[PlayVoice]=00:28:02	Voice01/01-1S/01-1S-N00/01-1S-N00-0130	1	mak	00:28:21;
+
+[PrintText]=00:28:20	Kotonoha	Está bien.	00:30:02;
+
+[PlayVoice]=00:28:20	Voice01/01-1S/01-1S-N00/01-1S-N00-0140	0	kot	00:30:02;
+
+[CreateBG]=00:30:08	BGS	Event01/01-1S/01-1S-N00/01-1S-N00-009	00:33:04;
+
+[BlackFade]=00:32:04	OUT	00:33:04;
+
+ ;
+
+[Next]=00:33:04;
+
+
+
+

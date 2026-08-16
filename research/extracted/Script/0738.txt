@@ -1,0 +1,187 @@
+﻿[SkipFRAME]=02:04:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:04:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-002	00:05:10;
+
+[PrintText]=00:02:00	Sekai	...	00:02:13;
+
+[PlayVoice]=00:02:00	Voice03/03-SA/03-SA-C03/03-SA-C03-0040	0	xxx	00:02:13;
+
+[PrintText]=00:02:14	Makoto	Gracias por esperar.	00:03:19;
+
+[PlayVoice]=00:02:14	Voice03/03-SA/03-SA-C03/03-SA-C03-0050	1	mak	00:03:19;
+
+[PrintText]=00:03:18	Sekai	...	00:04:06;
+
+[PlayVoice]=00:03:18	Voice03/03-SA/03-SA-C03/03-SA-C03-0070	0	xxx	00:04:06;
+
+[PrintText]=00:04:07	Makoto	Lo siento, espero no haberte hecho esperar tanto. Espera, no hay nadie. Creo que ya es tarde como creí.	00:12:09;
+
+[PlayVoice]=00:04:07	Voice03/03-SA/03-SA-C03/03-SA-C03-0080	1	mak	00:12:09;
+
+[CreateBG]=00:05:10	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-003	00:13:12;
+
+[PrintText]=00:12:09	Sekai	No.	00:13:11;
+
+[PlayVoice]=00:12:09	Voice03/03-SA/03-SA-C03/03-SA-C03-0090	0	sek	00:13:11;
+
+[CreateBG]=00:13:12	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-004	00:27:19;
+
+[PrintText]=00:13:12	Makoto	¿Sekai?^	00:14:09;
+
+[PlayVoice]=00:13:12	Voice03/03-SA/03-SA-C03/03-SA-C03-0110	1	mak	00:14:09;
+
+[PrintText]=00:14:09	Sekai	Esto no está bien para nada...	00:17:02;
+
+[PlayVoice]=00:14:09	Voice03/03-SA/03-SA-C03/03-SA-C03-0120	0	sek	00:17:02;
+
+[PrintText]=00:17:03	Makoto	¡¿Eh?!	00:17:17;
+
+[PlayVoice]=00:17:03	Voice03/03-SA/03-SA-C03/03-SA-C03-0130	1	mak	00:17:17;
+
+[PrintText]=00:17:16	Sekai	No deberíamos hacer esto...	00:22:17;
+
+[PlayVoice]=00:17:16	Voice03/03-SA/03-SA-C03/03-SA-C03-0140	0	sek	00:22:17;
+
+[PrintText]=00:22:18	Makoto	¿De qué hablas? Venga, vamos a la fogata. Lo prometimos ¿No?^	00:27:18;
+
+[PlayVoice]=00:22:18	Voice03/03-SA/03-SA-C03/03-SA-C03-0150	1	mak	00:27:18;
+
+[PrintText]=00:27:18	Sekai	¡No iré!	00:29:00;
+
+[PlayVoice]=00:27:18	Voice03/03-SA/03-SA-C03/03-SA-C03-0170	0	sek	00:29:00;
+
+[CreateBG]=00:27:19	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-005	00:29:00;
+
+[CreateBG]=00:29:00	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-006	00:29:17;
+
+[PrintText]=00:29:00	Makoto	¡...!	00:29:16;
+
+[PlayVoice]=00:29:00	Voice03/03-SA/03-SA-C03/03-SA-C03-0190	1	mak	00:29:16;
+
+[PrintText]=00:29:16	Sekai	No iré... porque no puedo.	00:32:18;
+
+[PlayVoice]=00:29:16	Voice03/03-SA/03-SA-C03/03-SA-C03-0200	0	sek	00:32:18;
+
+[CreateBG]=00:29:17	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-007	00:41:23;
+
+[PrintText]=00:32:19	Makoto	¿Qué quieres decir con 'No puedo'? ¡¿Pasó algo?!	00:36:15;
+
+[PlayVoice]=00:32:19	Voice03/03-SA/03-SA-C03/03-SA-C03-0210	1	mak	00:36:15;
+
+[PrintText]=00:36:18	Sekai	...Katsura-san.	00:38:00;
+
+[PlayVoice]=00:36:18	Voice03/03-SA/03-SA-C03/03-SA-C03-0220	0	sek	00:38:00;
+
+[PrintText]=00:38:04	Makoto	¿Kotonoha...?^	00:39:10;
+
+[PlayVoice]=00:38:04	Voice03/03-SA/03-SA-C03/03-SA-C03-0230	1	mak	00:39:10;
+
+[PrintText]=00:39:10	Sekai	Ella estaba llorando...	00:40:11;
+
+[PlayVoice]=00:39:10	Voice03/03-SA/03-SA-C03/03-SA-C03-0240	0	sek	00:40:11;
+
+[PrintText]=00:40:16	Makoto	...	00:41:15;
+
+[PlayVoice]=00:40:16	Voice03/03-SA/03-SA-C03/03-SA-C03-0250	1	xxx	00:41:15;
+
+[CreateBG]=00:41:23	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-008	00:59:19;
+
+[PrintText]=00:41:23	Sekai	Lloraba... mientras escuchaba a las chicas de su clase... que ella mentía...	00:47:17;
+
+[PlayVoice]=00:41:23	Voice03/03-SA/03-SA-C03/03-SA-C03-0260	0	sek	00:47:17;
+
+[PrintText]=00:47:19	Makoto	¿Se metían con ella...?^	00:49:09;
+
+[PlayVoice]=00:47:19	Voice03/03-SA/03-SA-C03/03-SA-C03-0270	1	mak	00:49:09;
+
+[PrintText]=00:49:13	Sekai	¡No, Eso no!	00:51:12;
+
+[PlayVoice]=00:49:13	Voice03/03-SA/03-SA-C03/03-SA-C03-0280	0	sek	00:51:12;
+
+[PrintText]=00:51:13	Makoto	¿Eh?^	00:52:06;
+
+[PlayVoice]=00:51:13	Voice03/03-SA/03-SA-C03/03-SA-C03-0290	1	mak	00:52:06;
+
+[PrintText]=00:52:14	Sekai	Katsura-san dijo que está saliendo contigo, y todos querían una prueba... entonces...	01:01:00;
+
+[PlayVoice]=00:52:14	Voice03/03-SA/03-SA-C03/03-SA-C03-0300	0	sek	01:01:00;
+
+[CreateBG]=00:59:19	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-009	01:02:14;
+
+[PrintText]=01:01:02	Makoto	Ah...	01:02:02;
+
+[PlayVoice]=01:01:02	Voice03/03-SA/03-SA-C03/03-SA-C03-0310	1	mak	01:02:02;
+
+[CreateBG]=01:02:14	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-010	01:16:18;
+
+[PrintText]=01:02:14	Sekai	¡Ella decía 'Makoto va a venir', pero no lo hiciste... y ella seguía creyendo en ti!	01:12:03;
+
+[PlayVoice]=01:02:14	Voice03/03-SA/03-SA-C03/03-SA-C03-0320	0	sek	01:16:02;
+
+[PrintText]=01:12:03	Sekai	...creyendo en ti... mientras lloraba...	01:16:02;
+
+[PrintText]=01:16:02	Makoto	...	01:16:18;
+
+[PlayVoice]=01:16:02	Voice03/03-SA/03-SA-C03/03-SA-C03-0330	1	xxx	01:16:18;
+
+[CreateBG]=01:16:18	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-011	01:39:15;
+
+[PrintText]=01:16:18	Sekai	Y estoy aquí... pisando todos sus sentimientos aquí contigo...	01:25:23;
+
+[PlayVoice]=01:16:18	Voice03/03-SA/03-SA-C03/03-SA-C03-0340	0	sek	01:25:23;
+
+[PrintText]=01:26:00	Sekai	¡Es horrible! Soy un persona detestable! Soy...	01:32:14;
+
+[PlayVoice]=01:26:00	Voice03/03-SA/03-SA-C03/03-SA-C03-0350	0	sek	01:32:14;
+
+[PrintText]=01:32:15	Sekai	Soy... alguien... que ha hecho cosas horribles como estas...	01:39:15;
+
+[PlayVoice]=01:32:15	Voice03/03-SA/03-SA-C03/03-SA-C03-0360	0	sek	01:39:15;
+
+[PlayMovie]=01:39:15	Movie03/03-SA/03-SA-C03/03-SA-C03	0	01:59:12;
+
+[PrintText]=01:39:15	Sekai	...y me... he llegado a odiar a mi misma por ello.	01:44:10;
+
+[PlayVoice]=01:39:15	Voice03/03-SA/03-SA-C03/03-SA-C03-0370	0	sek	01:44:10;
+
+[PlayVoice]=01:44:10	Voice03/03-SA/03-SA-C03/03-SA-C03-0380			01:47:01;
+
+[PrintText]=01:47:01	Makoto	Sekai...	01:48:02;
+
+[PlayVoice]=01:47:01	Voice03/03-SA/03-SA-C03/03-SA-C03-0390	1	mak	01:48:02;
+
+[PrintText]=01:48:04	Sekai	¡Aléjate de mí!	01:49:19;
+
+[PlayVoice]=01:48:04	Voice03/03-SA/03-SA-C03/03-SA-C03-0420	0	sek	01:49:19;
+
+[PrintText]=01:49:11	Makoto	¡...!	01:50:10;
+
+[PlayVoice]=01:49:11	Voice03/03-SA/03-SA-C03/03-SA-C03-0430	1	mak	01:50:10;
+
+[PrintText]=01:50:12	Sekai	No podemos...	01:51:22;
+
+[PlayVoice]=01:50:12	Voice03/03-SA/03-SA-C03/03-SA-C03-0440	0	sek	01:51:22;
+
+[PrintText]=01:51:19	Makoto	¿Por qué no...?^	01:53:00;
+
+[PlayVoice]=01:51:19	Voice03/03-SA/03-SA-C03/03-SA-C03-0450	1	mak	01:53:00;
+
+[PrintText]=01:53:04	Sekai	¡Tienes que ir a ver a Katsura-san!	01:59:10;
+
+[PlayVoice]=01:53:04	Voice03/03-SA/03-SA-C03/03-SA-C03-0460	0	sek	01:59:10;
+
+[CreateBG]=01:59:12	BGS	Event03/03-SA/03-SA-C03/03-SA-C03-013	02:04:12;
+
+[PrintText]=01:59:12	Makoto	...	02:00:13;
+
+[PlayVoice]=01:59:12	Voice03/03-SA/03-SA-C03/03-SA-C03-0470	1	xxx	02:00:13;
+
+ ;
+
+[Next]=02:04:12;
+
+

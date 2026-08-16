@@ -1,0 +1,93 @@
+﻿[SkipFRAME]=01:00:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	01:00:18;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O07/04-SA-O07-001	00:01:06;
+
+[PrintText]=00:00:00	Makoto	...	00:01:06;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O07/04-SA-O07-0030	1	xxx	00:01:06;
+
+[CreateBG]=00:01:06	BGS	Event04/04-SA/04-SA-O07/04-SA-O07-002	00:08:16;
+
+[PrintText]=00:01:06	Sekai	Lo siento. Estoy siento egoísta, y no tiene sentido.	00:07:21;
+
+[PlayVoice]=00:01:06	Voice04/04-SA/04-SA-O07/04-SA-O07-0040	0	sek	00:07:21;
+
+[PrintText]=00:07:21	Makoto	¿Eh...?^	00:08:16;
+
+[PlayVoice]=00:07:21	Voice04/04-SA/04-SA-O07/04-SA-O07-0050	1	mak	00:08:16;
+
+[CreateBG]=00:08:16	BGS	Event04/04-SA/04-SA-O07/04-SA-O07-003	00:21:16;
+
+[PrintText]=00:08:16	Sekai	La verdad es que, no quiero preocuparte, pude haber ido a la piscina fingiendo no saber nada.	00:14:11;
+
+[PlayVoice]=00:08:16	Voice04/04-SA/04-SA-O07/04-SA-O07-0060	0	sek	00:14:11;
+
+[PrintText]=00:14:11	Sekai	Ayudando a Hikari y mantenterlos lejos.	00:20:03;
+
+[PlayVoice]=00:14:11	Voice04/04-SA/04-SA-O07/04-SA-O07-0061	0	sek	00:20:03;
+
+[PrintText]=00:20:02	Makoto	Uuh...	00:21:15;
+
+[PlayVoice]=00:20:02	Voice04/04-SA/04-SA-O07/04-SA-O07-0070	1	mak	00:21:15;
+
+[PrintText]=00:21:15	Sekai	Pero no quiero verlos a ustedes dos llevándose tan bien...	00:27:12;
+
+[PlayVoice]=00:21:15	Voice04/04-SA/04-SA-O07/04-SA-O07-0080	0	sek	00:27:12;
+
+[CreateBG]=00:21:16	BGS	Event04/04-SA/04-SA-O07/04-SA-O07-004	00:28:11;
+
+[PrintText]=00:27:12	Makoto	...	00:28:11;
+
+[PlayVoice]=00:27:12	Voice04/04-SA/04-SA-O07/04-SA-O07-0090	1	xxx	00:28:11;
+
+[CreateBG]=00:28:11	BGS	Event04/04-SA/04-SA-O07/04-SA-O07-005	00:32:06;
+
+[PrintText]=00:28:11	Sekai	Lo siento...	00:29:11;
+
+[PlayVoice]=00:28:11	Voice04/04-SA/04-SA-O07/04-SA-O07-0100	0	sek	00:29:11;
+
+[PrintText]=00:29:11	Makoto	No, soy yo el que se tiene que disculpar.	00:32:05;
+
+[PlayVoice]=00:29:11	Voice04/04-SA/04-SA-O07/04-SA-O07-0110	1	mak	00:32:05;
+
+[PrintText]=00:32:05	Sekai	Ahaha... triste, ¿No? Por eso es que me encierro aquí, pero mi mamá se va y lo arruina. ¡Cielos!	00:43:23;
+
+[PlayVoice]=00:32:05	Voice04/04-SA/04-SA-O07/04-SA-O07-0120	0	sek	00:43:23;
+
+[CreateBG]=00:32:06	BGS	Event04/04-SA/04-SA-O07/04-SA-O07-006	00:44:00;
+
+[CreateBG]=00:44:00	BGS	Event04/04-SA/04-SA-O07/04-SA-O07-007	00:52:03;
+
+[PrintText]=00:44:00	Makoto	Estoy realmente agradecido con ella.	00:48:02;
+
+[PlayVoice]=00:44:00	Voice04/04-SA/04-SA-O07/04-SA-O07-0130	1	mak	00:48:02;
+
+[PrintText]=00:48:02	Sekai	¿Cómo puedes decir eso?^	00:50:03;
+
+[PlayVoice]=00:48:02	Voice04/04-SA/04-SA-O07/04-SA-O07-0140	0	sek	00:50:03;
+
+[PrintText]=00:50:03	Makoto	Haha, perdón.	00:52:03;
+
+[PlayVoice]=00:50:03	Voice04/04-SA/04-SA-O07/04-SA-O07-0150	1	mak	00:52:03;
+
+[CreateBG]=00:52:03	BGS	Event04/04-SA/04-SA-O07/04-SA-O07-008	01:00:18;
+
+[PrintText]=00:52:03	Sekai	Hey, Makoto.	00:53:21;
+
+[PlayVoice]=00:52:03	Voice04/04-SA/04-SA-O07/04-SA-O07-0160	0	sek	00:53:21;
+
+[PrintText]=00:53:21	Makoto	¿Sí?^	00:54:15;
+
+[PlayVoice]=00:53:21	Voice04/04-SA/04-SA-O07/04-SA-O07-0170	1	mak	00:54:15;
+
+[PrintText]=00:54:14	Sekai	¿Por qué no entras? ¿No quieres tomar un té?^	01:00:05;
+
+[PlayVoice]=00:54:14	Voice04/04-SA/04-SA-O07/04-SA-O07-0180	0	sek	01:00:05;
+
+ ;
+
+[Next]=01:00:18;
+
+

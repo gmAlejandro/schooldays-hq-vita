@@ -1,0 +1,299 @@
+﻿[SkipFRAME]=03:12:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	03:12:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-001	00:01:01;
+
+[CreateBG]=00:01:01	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-002	00:02:05;
+
+[PrintText]=00:01:07	Makoto	Hey.	00:02:01;
+
+[PlayVoice]=00:01:07	Voice04/04-KB/04-KB-H00/04-KB-H00-0040	1	mak	00:02:01;
+
+[CreateBG]=00:02:05	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-003	00:08:12;
+
+[PrintText]=00:02:10	Sekai	Ah, Makoto.	00:04:10;
+
+[PlayVoice]=00:02:10	Voice04/04-KB/04-KB-H00/04-KB-H00-0060	0	sek	00:04:10;
+
+[PrintText]=00:04:10	Makoto	Te ves triste.	00:06:12;
+
+[PlayVoice]=00:04:10	Voice04/04-KB/04-KB-H00/04-KB-H00-0080	1	mak	00:06:12;
+
+[PrintText]=00:06:12	Sekai	No es así.	00:08:11;
+
+[PlayVoice]=00:06:12	Voice04/04-KB/04-KB-H00/04-KB-H00-0090	0	sek	00:08:11;
+
+[CreateBG]=00:08:12	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-002	00:15:06;
+
+[PrintText]=00:08:16	Makoto	¿En serio?^	00:09:15;
+
+[PlayVoice]=00:08:16	Voice04/04-KB/04-KB-H00/04-KB-H00-0100	1	mak	00:09:15;
+
+[PrintText]=00:09:16	Sekai	Sip, me siento genial... ¿Qué hay de ti, Makoto?^	00:14:13;
+
+[PlayVoice]=00:09:16	Voice04/04-KB/04-KB-H00/04-KB-H00-0110	0	sek	00:14:13;
+
+[PrintText]=00:14:14	Makoto	¿Yo?^	00:15:05;
+
+[PlayVoice]=00:14:14	Voice04/04-KB/04-KB-H00/04-KB-H00-0120	1	mak	00:15:05;
+
+[CreateBG]=00:15:06	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-005	00:25:21;
+
+[PrintText]=00:15:12	Sekai	Por lo de Katsura-san, quiero decir, estaban hablando de ella en la piscina.	00:19:13;
+
+[PlayVoice]=00:15:12	Voice04/04-KB/04-KB-H00/04-KB-H00-0130	0	sek	00:19:13;
+
+[PrintText]=00:19:14	Makoto	Oh...	00:20:14;
+
+[PlayVoice]=00:19:14	Voice04/04-KB/04-KB-H00/04-KB-H00-0140	1	mak	00:20:14;
+
+[PrintText]=00:20:16	Sekai	¿No habrás hecho algún movimiento en ella no?^	00:23:04;
+
+[PlayVoice]=00:20:16	Voice04/04-KB/04-KB-H00/04-KB-H00-0150	0	sek	00:23:04;
+
+[PrintText]=00:23:05	Makoto	No lo he vuelto a hacer.	00:24:20;
+
+[PlayVoice]=00:23:05	Voice04/04-KB/04-KB-H00/04-KB-H00-0160	1	mak	00:24:20;
+
+[PrintText]=00:25:00	Sekai	Vale.	00:25:22;
+
+[PlayVoice]=00:25:00	Voice04/04-KB/04-KB-H00/04-KB-H00-0170	0	sek	00:25:22;
+
+[CreateBG]=00:25:21	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-006	00:49:20;
+
+[PrintText]=00:26:07	Makoto	Ahora que lo pienso... no la he visto últimamente.	00:31:00;
+
+[PlayVoice]=00:26:07	Voice04/04-KB/04-KB-H00/04-KB-H00-0180	1	mak	00:31:00;
+
+[PrintText]=00:31:01	Sekai	¿Lo ves?^	00:32:05;
+
+[PlayVoice]=00:31:01	Voice04/04-KB/04-KB-H00/04-KB-H00-0190	0	sek	00:32:05;
+
+[PrintText]=00:32:04	Makoto	No hemos peleado ni nada. Es solo que cuando la veo, me dan ganas de besarla y esas cosas...	00:43:17;
+
+[PlayVoice]=00:32:04	Voice04/04-KB/04-KB-H00/04-KB-H00-0200	1	mak	00:43:17;
+
+[PrintText]=00:43:18	Makoto	Y a ella no le gusta, así que solo hemos empezado a hablar por teléfono o correo.	00:49:18;
+
+[PlayVoice]=00:43:18	Voice04/04-KB/04-KB-H00/04-KB-H00-0210	1	mak	00:49:18;
+
+[CreateBG]=00:49:20	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-007	00:57:17;
+
+[PrintText]=00:50:04	Sekai	Lo estás haciendo de nuevo, entonces.	00:51:19;
+
+[PlayVoice]=00:50:04	Voice04/04-KB/04-KB-H00/04-KB-H00-0220	0	sek	00:51:19;
+
+[PrintText]=00:51:18	Makoto	Bueno, como cualquier hombre.	00:55:07;
+
+[PlayVoice]=00:51:18	Voice04/04-KB/04-KB-H00/04-KB-H00-0230	1	mak	00:55:07;
+
+[PrintText]=00:55:11	Sekai	Sí, sí. Como buen chico.	00:57:18;
+
+[PlayVoice]=00:55:11	Voice04/04-KB/04-KB-H00/04-KB-H00-0240	0	sek	00:57:18;
+
+[CreateBG]=00:57:17	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-008	01:09:10;
+
+[PrintText]=00:58:02	Makoto	Haha... tal vez, pero sigo preguntándome si las cosas van bien así.	01:07:05;
+
+[PlayVoice]=00:58:02	Voice04/04-KB/04-KB-H00/04-KB-H00-0250	1	mak	01:07:05;
+
+[PrintText]=01:07:11	Sekai	¿Así?^	01:08:14;
+
+[PlayVoice]=01:07:11	Voice04/04-KB/04-KB-H00/04-KB-H00-0260	0	sek	01:08:14;
+
+[PrintText]=01:08:16	Makoto	Sí.	01:09:09;
+
+[PlayVoice]=01:08:16	Voice04/04-KB/04-KB-H00/04-KB-H00-0270	1	mak	01:09:09;
+
+[PlayMovie]=01:09:10	Movie04/04-KB/04-KB-H00/04-KB-H00-009	0	01:19:11;
+
+[PrintText]=01:09:20	Sekai	¡Entonces no dudes, y hazlo con ella!	01:13:02;
+
+[PlayVoice]=01:09:20	Voice04/04-KB/04-KB-H00/04-KB-H00-0280	0	sek	01:13:02;
+
+[PrintText]=01:13:02	Makoto	Vamos, no hables así... como si lo fuera a hacer.	01:17:12;
+
+[PlayVoice]=01:13:02	Voice04/04-KB/04-KB-H00/04-KB-H00-0290	1	mak	01:17:12;
+
+[PrintText]=01:17:17	Sekai	Tú quieres ¿No?^	01:19:04;
+
+[PlayVoice]=01:17:17	Voice04/04-KB/04-KB-H00/04-KB-H00-0300	0	sek	01:19:04;
+
+[CreateBG]=01:19:11	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-006	01:43:16;
+
+[PrintText]=01:19:16	Makoto	Escucha... pienso que no podemos si ambos no queremos.	01:25:17;
+
+[PlayVoice]=01:19:16	Voice04/04-KB/04-KB-H00/04-KB-H00-0310	1	mak	01:25:17;
+
+[PrintText]=01:25:18	Makoto	No está bien forzarla a hacer cualquier cosa.	01:29:18;
+
+[PlayVoice]=01:25:18	Voice04/04-KB/04-KB-H00/04-KB-H00-0311	1	mak	01:29:18;
+
+[PrintText]=01:29:22	Sekai	Ah...	01:30:14;
+
+[PlayVoice]=01:29:22	Voice04/04-KB/04-KB-H00/04-KB-H00-0320	0	sek	01:30:14;
+
+[PrintText]=01:30:15	Makoto	Incluso si ya hice conexión con ella, estaría mal si es algo que ella no quiere hacer.., probablemente.	01:37:15;
+
+[PlayVoice]=01:30:15	Voice04/04-KB/04-KB-H00/04-KB-H00-0330	1	mak	01:37:15;
+
+[PrintText]=01:37:16	Sekai	Probablemente... huh...	01:39:04;
+
+[PlayVoice]=01:37:16	Voice04/04-KB/04-KB-H00/04-KB-H00-0340	0	sek	01:39:04;
+
+[PrintText]=01:39:04	Makoto	¡Es inevitable! ... Nunca antes lo había hecho.	01:43:12;
+
+[PlayVoice]=01:39:04	Voice04/04-KB/04-KB-H00/04-KB-H00-0350	1	mak	01:43:12;
+
+[CreateBG]=01:43:16	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-001	01:57:20;
+
+[PrintText]=01:43:20	Sekai	Entonces, no lo has hecho.	01:44:20;
+
+[PlayVoice]=01:43:20	Voice04/04-KB/04-KB-H00/04-KB-H00-0360	0	sek	01:44:20;
+
+[PrintText]=01:44:20	Makoto	Oh, Cállate, oh me veré obligado a tener EXPERIENCIA contigo.	01:48:11;
+
+[PlayVoice]=01:44:20	Voice04/04-KB/04-KB-H00/04-KB-H00-0370	1	mak	01:48:11;
+
+[PrintText]=01:48:14	Sekai	¡Kyaah! ¡Qué miedo!	01:51:12;
+
+[PlayVoice]=01:48:14	Voice04/04-KB/04-KB-H00/04-KB-H00-0380	0	sek	01:51:12;
+
+[PrintText]=01:51:15	Makoto	Cielos...	01:52:13;
+
+[PlayVoice]=01:51:15	Voice04/04-KB/04-KB-H00/04-KB-H00-0390	1	mak	01:52:13;
+
+[PrintText]=01:52:17	Sekai	Sí... aún así, es bueno saberlo.	01:56:10;
+
+[PlayVoice]=01:52:17	Voice04/04-KB/04-KB-H00/04-KB-H00-0400	0	sek	01:56:10;
+
+[PrintText]=01:56:08	Makoto	¿Hmn?^	01:57:14;
+
+[PlayVoice]=01:56:08	Voice04/04-KB/04-KB-H00/04-KB-H00-0410	1	mak	01:57:14;
+
+[CreateBG]=01:57:20	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-012	02:19:21;
+
+[PrintText]=01:58:05	Sekai	No has cambiando ni un poco.	02:00:07;
+
+[PlayVoice]=01:58:05	Voice04/04-KB/04-KB-H00/04-KB-H00-0420	0	sek	02:00:07;
+
+[PrintText]=02:00:09	Makoto	¿En serio?^	02:01:08;
+
+[PlayVoice]=02:00:09	Voice04/04-KB/04-KB-H00/04-KB-H00-0430	1	mak	02:01:08;
+
+[PrintText]=02:01:09	Sekai	Eres igual a como cuando empezó el segundo semestre...	02:04:20;
+
+[PlayVoice]=02:01:09	Voice04/04-KB/04-KB-H00/04-KB-H00-0440	0	sek	02:04:20;
+
+[PrintText]=02:04:23	Makoto	¿Lo crees..?^	02:06:06;
+
+[PlayVoice]=02:04:23	Voice04/04-KB/04-KB-H00/04-KB-H00-0450	1	mak	02:06:06;
+
+[PrintText]=02:06:07	Sekai	Me hace un poco feliz.	02:07:18;
+
+[PlayVoice]=02:06:07	Voice04/04-KB/04-KB-H00/04-KB-H00-0460	0	sek	02:07:18;
+
+[PrintText]=02:07:18	Makoto	Hmn.	02:08:21;
+
+[PlayVoice]=02:07:18	Voice04/04-KB/04-KB-H00/04-KB-H00-0470	1	mak	02:08:21;
+
+[PrintText]=02:08:21	Sekai	Pues entonces, no caerás en tentación, incluso si una chica además de Katsura-san te dice que te ama y quiere dormir contigo.	02:19:17;
+
+[PlayVoice]=02:08:21	Voice04/04-KB/04-KB-H00/04-KB-H00-0480	0	sek	02:19:17;
+
+[CreateBG]=02:19:21	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-002	02:28:13;
+
+[PrintText]=02:20:03	Makoto	Por supuesto que no... haha.	02:23:20;
+
+[PlayVoice]=02:20:03	Voice04/04-KB/04-KB-H00/04-KB-H00-0490	1	mak	02:23:20;
+
+[PrintText]=02:23:22	Sekai	Ooh, wow.	02:26:09;
+
+[PlayVoice]=02:23:22	Voice04/04-KB/04-KB-H00/04-KB-H00-0500	0	sek	02:26:09;
+
+[PrintText]=02:26:08	Makoto	Bueno...	02:28:09;
+
+[PlayVoice]=02:26:08	Voice04/04-KB/04-KB-H00/04-KB-H00-0510	1	mak	02:28:09;
+
+[CreateBG]=02:28:13	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-005	02:29:13;
+
+[PrintText]=02:28:18	Sekai	¿Hmn?^	02:29:07;
+
+[PlayVoice]=02:28:18	Voice04/04-KB/04-KB-H00/04-KB-H00-0520	0	sek	02:29:07;
+
+[CreateBG]=02:29:13	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-015	02:37:00;
+
+[PrintText]=02:29:18	Makoto	...Tal vez si viniera de ti.	02:33:07;
+
+[PlayVoice]=02:29:18	Voice04/04-KB/04-KB-H00/04-KB-H00-0530	1	mak	02:33:07;
+
+[PrintText]=02:33:09	Sekai	¿Eh?^	02:33:22;
+
+[PlayVoice]=02:33:09	Voice04/04-KB/04-KB-H00/04-KB-H00-0540	0	sek	02:33:22;
+
+[PrintText]=02:33:22	Makoto	Maldición, ¡¿Qué estoy diciendo?!	02:36:17;
+
+[PlayVoice]=02:33:22	Voice04/04-KB/04-KB-H00/04-KB-H00-0550	1	mak	02:36:17;
+
+[CreateBG]=02:37:00	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-003	02:51:21;
+
+[PrintText]=02:37:06	Sekai	S-Sí...	02:38:19;
+
+[PlayVoice]=02:37:06	Voice04/04-KB/04-KB-H00/04-KB-H00-0560	0	sek	02:38:19;
+
+[PrintText]=02:38:18	Makoto	Creo que dije algo malo... lo siento... haha.	02:43:09;
+
+[PlayVoice]=02:38:18	Voice04/04-KB/04-KB-H00/04-KB-H00-0570	1	mak	02:43:09;
+
+[PrintText]=02:43:09	Sekai	Me asustaste.	02:45:04;
+
+[PlayVoice]=02:43:09	Voice04/04-KB/04-KB-H00/04-KB-H00-0580	0	sek	02:45:04;
+
+[PrintText]=02:45:03	Makoto	Bueno, ¿Qué puedo decir? siempre he estado haciendo eso, así que ya estoy acostumbrado.	02:50:08;
+
+[PlayVoice]=02:45:03	Voice04/04-KB/04-KB-H00/04-KB-H00-0590	1	mak	02:50:08;
+
+[PrintText]=02:50:09	Sekai	¿Qué se supone que quieres decir eso?^	02:51:17;
+
+[PlayVoice]=02:50:09	Voice04/04-KB/04-KB-H00/04-KB-H00-0600	0	sek	02:51:17;
+
+[CreateBG]=02:51:21	BGS	Event04/04-KB/04-KB-H00/04-KB-H00-001	03:05:07;
+
+[PrintText]=02:52:05	Makoto	Pues, cuando me rechazaste, me sorprendí porque creí ya no iba a poder hablar contigo.	02:57:16;
+
+[PlayVoice]=02:52:05	Voice04/04-KB/04-KB-H00/04-KB-H00-0610	1	mak	02:57:16;
+
+[PlaySe]=02:55:09	1	Se04/04-KB/04-KB-H00/SE04-KB-H00-001	03:02:10;
+
+[PrintText]=02:57:18	Sekai	No, yo...	02:59:16;
+
+[PlayVoice]=02:57:18	Voice04/04-KB/04-KB-H00/04-KB-H00-0620	0	sek	02:59:16;
+
+[PrintText]=03:00:03	Makoto	Ah... ya llego. Hablamos después.	03:03:19;
+
+[PlayVoice]=03:00:03	Voice04/04-KB/04-KB-H00/04-KB-H00-0640	1	mak	03:03:19;
+
+[PlaySe]=03:02:01	2	Se04/04-KB/04-KB-H00/SE04-KB-H00-002	03:04:02;
+
+[PlaySe]=03:03:13	1	Se04/04-KB/04-KB-H00/SE04-KB-H00-004	03:05:07;
+
+[PlayMovie]=03:05:07	Movie04/04-KB/04-KB-H00/04-KB-H00-018	0	03:12:15;
+
+[PrintText]=03:05:15	Sekai	S-Sí, hablamos después.	03:07:21;
+
+[PlayVoice]=03:05:15	Voice04/04-KB/04-KB-H00/04-KB-H00-0650	0	sek	03:07:21;
+
+[PlaySe]=03:06:00	2	Se04/04-KB/04-KB-H00/SE04-KB-H00-003	03:10:19;
+
+[PrintText]=03:11:06	Sekai	...	03:11:17;
+
+[PlayVoice]=03:11:06	Voice04/04-KB/04-KB-H00/04-KB-H00-0670	0	xxx	03:11:17;
+
+[BlackFade]=03:11:15	OUT	03:12:15;
+
+ ;
+
+[Next]=03:12:15;
+
+

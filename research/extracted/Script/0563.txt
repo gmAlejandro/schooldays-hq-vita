@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:12:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:12:02;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G08/SE03-KA-G08-001	00:12:02;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G08/03-KA-G08-001	00:01:10;
+
+[PrintText]=00:00:00	Makoto	...	00:01:02;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-G08/03-KA-G08-0030	1	xxx	00:01:02;
+
+[CreateBG]=00:01:10	BGS	Event03/03-KA/03-KA-G08/03-KA-G08-002	00:04:06;
+
+[PrintText]=00:01:15	Setsuna	No tienes que decirme.	00:04:07;
+
+[PlayVoice]=00:01:15	Voice03/03-KA/03-KA-G08/03-KA-G08-0040	0	set	00:04:07;
+
+[CreateBG]=00:04:06	BGS	Event03/03-KA/03-KA-G08/03-KA-G08-003	00:08:00;
+
+[PrintText]=00:04:06	Makoto	¿Eh?^	00:04:21;
+
+[PlayVoice]=00:04:06	Voice03/03-KA/03-KA-G08/03-KA-G08-0050	1	mak	00:04:21;
+
+[PrintText]=00:05:01	Setsuna	Solo tú te conoces.	00:07:23;
+
+[PlayVoice]=00:05:01	Voice03/03-KA/03-KA-G08/03-KA-G08-0060	0	set	00:07:23;
+
+[CreateBG]=00:08:00	BGS	Event03/03-KA/03-KA-G08/03-KA-G08-001	00:12:02;
+
+[PrintText]=00:08:01	Makoto	Ah...	00:08:17;
+
+[PlayVoice]=00:08:01	Voice03/03-KA/03-KA-G08/03-KA-G08-0070	1	mak	00:08:17;
+
+[PrintText]=00:08:18	Setsuna	...	00:09:07;
+
+[PlayVoice]=00:08:18	Voice03/03-KA/03-KA-G08/03-KA-G08-0080	0	xxx	00:09:07;
+
+[PrintText]=00:10:03	Makoto	...Sí.	00:10:20;
+
+[PlayVoice]=00:10:03	Voice03/03-KA/03-KA-G08/03-KA-G08-0090	1	mak	00:10:20;
+
+[BlackFade]=00:11:02	OUT	00:12:02;
+
+ ;
+
+[Next]=00:12:02;
+
+

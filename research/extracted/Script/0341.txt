@@ -1,0 +1,125 @@
+﻿[SkipFRAME]=00:51:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:51:19;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-L04/SE02-2S-L04-001	00:51:19;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-L04/02-2S-L04-001	00:03:23;
+
+[PrintText]=00:00:00	Makoto	...	00:00:18;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-L04/02-2S-L04-0030	1	xxx	00:00:18;
+
+[PrintText]=00:00:18	Kotonoha	¿Qué pasó?^	00:02:05;
+
+[PlayVoice]=00:00:18	Voice02/02-2S/02-2S-L04/02-2S-L04-0040	0	kot	00:02:05;
+
+[PrintText]=00:02:05	Makoto	Yo...	00:03:01;
+
+[PlayVoice]=00:02:05	Voice02/02-2S/02-2S-L04/02-2S-L04-0050	1	mak	00:03:01;
+
+[PrintText]=00:03:01	Setsuna	¿Itou?^	00:03:23;
+
+[PlayVoice]=00:03:01	Voice02/02-2S/02-2S-L04/02-2S-L04-0060	0	set	00:03:23;
+
+[CreateBG]=00:03:23	BGS	Event02/02-2S/02-2S-L04/02-2S-L04-002	00:12:15;
+
+[PrintText]=00:03:23	Makoto	Kiyoura.	00:04:23;
+
+[PlayVoice]=00:03:23	Voice02/02-2S/02-2S-L04/02-2S-L04-0080	1	mak	00:04:23;
+
+[PrintText]=00:04:23	Setsuna	¿Qué estás haciendo aquí a estás horas?^	00:08:12;
+
+[PlayVoice]=00:04:23	Voice02/02-2S/02-2S-L04/02-2S-L04-0090	0	set	00:08:12;
+
+[PrintText]=00:08:12	Makoto	Hay algo que quiero preguntarte.	00:11:01;
+
+[PlayVoice]=00:08:12	Voice02/02-2S/02-2S-L04/02-2S-L04-0100	1	mak	00:11:01;
+
+[PrintText]=00:11:01	Setsuna	¿A mí?^	00:12:00;
+
+[PlayVoice]=00:11:01	Voice02/02-2S/02-2S-L04/02-2S-L04-0110	0	set	00:12:00;
+
+[PrintText]=00:12:00	Makoto	Sí.	00:12:15;
+
+[PlayVoice]=00:12:00	Voice02/02-2S/02-2S-L04/02-2S-L04-0120	1	mak	00:12:15;
+
+[CreateBG]=00:12:15	BGS	Event02/02-2S/02-2S-L04/02-2S-L04-003	00:22:03;
+
+[PrintText]=00:12:15	Kotonoha	¡Ah! S-Sí, es cierto. Está en tu clase, ¿No?^	00:18:04;
+
+[PlayVoice]=00:12:15	Voice02/02-2S/02-2S-L04/02-2S-L04-0130	0	kot	00:18:04;
+
+[PrintText]=00:18:05	Makoto	...	00:19:01;
+
+[PlayVoice]=00:18:05	Voice02/02-2S/02-2S-L04/02-2S-L04-0140	1	xxx	00:19:01;
+
+[PrintText]=00:19:01	Kotonoha	Está bien. Me iré primero entonces. Nos vemos mañana.	00:23:06;
+
+[PlayVoice]=00:19:01	Voice02/02-2S/02-2S-L04/02-2S-L04-0150	0	kot	00:23:06;
+
+[CreateBG]=00:22:03	BGS	Event02/02-2S/02-2S-L04/02-2S-L04-004	00:24:04;
+
+[CreateBG]=00:24:04	BGS	Event02/02-2S/02-2S-L04/02-2S-L04-005	00:30:03;
+
+[PrintText]=00:24:04	Setsuna	¿Eres amigo de la chica de la clase 4?^	00:26:04;
+
+[PlayVoice]=00:24:04	Voice02/02-2S/02-2S-L04/02-2S-L04-0170	0	set	00:26:04;
+
+[PrintText]=00:26:04	Makoto	No es de tu incumbencia.	00:27:10;
+
+[PlayVoice]=00:26:04	Voice02/02-2S/02-2S-L04/02-2S-L04-0180	1	mak	00:27:10;
+
+[PrintText]=00:27:11	Setsuna	Tal vez tienes razón. Como no tengo nada que ver contigo, me iré a casa.	00:33:00;
+
+[PlayVoice]=00:27:11	Voice02/02-2S/02-2S-L04/02-2S-L04-0190	0	set	00:33:00;
+
+[CreateBG]=00:30:03	BGS	Event02/02-2S/02-2S-L04/02-2S-L04-006	00:40:09;
+
+[PrintText]=00:33:00	Makoto	¡Hey, espera! Te dije que quería preguntarte algo.	00:36:18;
+
+[PlayVoice]=00:33:00	Voice02/02-2S/02-2S-L04/02-2S-L04-0200	1	mak	00:36:18;
+
+[PrintText]=00:36:18	Setsuna	No es de mi incumbencia.	00:38:03;
+
+[PlayVoice]=00:36:18	Voice02/02-2S/02-2S-L04/02-2S-L04-0210	0	set	00:38:03;
+
+[PrintText]=00:38:03	Makoto	¡...!	00:39:04;
+
+[PlayVoice]=00:38:03	Voice02/02-2S/02-2S-L04/02-2S-L04-0230	1	mak	00:39:04;
+
+[CreateBG]=00:40:09	BGS	Event02/02-2S/02-2S-L04/02-2S-L04-007	00:44:02;
+
+[PrintText]=00:40:09	Makoto	P-Perdón, no debí decir eso.	00:44:01;
+
+[PlayVoice]=00:40:09	Voice02/02-2S/02-2S-L04/02-2S-L04-0240	1	mak	00:44:01;
+
+[PrintText]=00:44:01	Makoto	...	00:45:07;
+
+[PlayVoice]=00:44:01	Voice02/02-2S/02-2S-L04/02-2S-L04-0260	1	xxx	00:45:07;
+
+[CreateBG]=00:44:02	BGS	Event02/02-2S/02-2S-L04/02-2S-L04-007B	00:51:19;
+
+[PrintText]=00:45:07	Setsuna	¿Qué pasa?^	00:46:02;
+
+[PlayVoice]=00:45:07	Voice02/02-2S/02-2S-L04/02-2S-L04-0270	0	set	00:46:02;
+
+[PrintText]=00:46:02	Makoto	¡¿Eh?!	00:46:16;
+
+[PlayVoice]=00:46:02	Voice02/02-2S/02-2S-L04/02-2S-L04-0280	1	mak	00:46:16;
+
+[PrintText]=00:46:16	Setsuna	¿Qué pasó?^	00:48:06;
+
+[PlayVoice]=00:46:16	Voice02/02-2S/02-2S-L04/02-2S-L04-0290	0	set	00:48:06;
+
+[PrintText]=00:48:05	Makoto	O... oh, cierto...	00:51:12;
+
+[PlayVoice]=00:48:05	Voice02/02-2S/02-2S-L04/02-2S-L04-0300	1	mak	00:51:12;
+
+ ;
+
+[Next]=00:51:19;
+
+
+
+

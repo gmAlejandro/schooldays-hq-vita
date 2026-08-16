@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:20:05;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-F02/SE01-00-F02-001	00:20:05;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-F02/01-00-F02-001	00:01:23;
+
+[PrintText]=00:00:06	Makoto	Deberías venir con nosotros mañana.	00:01:23;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-F02/01-00-F02-0030	1	mak	00:01:23;
+
+[CreateBG]=00:01:23	BGS	Event01/01-00/01-00-F02/01-00-F02-002	00:04:09;
+
+[PrintText]=00:01:23	Sekai	¡¿Huh?! ¡¿De qué hablas?!	00:04:23;
+
+[PlayVoice]=00:01:23	Voice01/01-00/01-00-F02/01-00-F02-0040	0	sek	00:04:23;
+
+[CreateBG]=00:04:09	BGS	Event01/01-00/01-00-F02/01-00-F02-003	00:05:23;
+
+[PrintText]=00:04:09	Makoto	Mira... solo ven.	00:05:22;
+
+[PlayVoice]=00:04:09	Voice01/01-00/01-00-F02/01-00-F02-0050	1	mak	00:05:22;
+
+[CreateBG]=00:05:23	BGS	Event01/01-00/01-00-F02/01-00-F02-004	00:10:05;
+
+[PrintText]=00:06:00	Sekai	Idiota.	00:06:19;
+
+[PlayVoice]=00:06:00	Voice01/01-00/01-00-F02/01-00-F02-0060	0	sek	00:06:19;
+
+[PrintText]=00:06:21	Makoto	¿Y? Soy un idiota. Ven de todas maneras.	00:08:06;
+
+[PlayVoice]=00:06:21	Voice01/01-00/01-00-F02/01-00-F02-0070	1	mak	00:08:06;
+
+[PrintText]=00:08:10	Sekai	Eres un gran...	00:10:02;
+
+[PlayVoice]=00:08:10	Voice01/01-00/01-00-F02/01-00-F02-0080	0	sek	00:10:02;
+
+[CreateBG]=00:10:05	BGS	Event01/01-00/01-00-F02/01-00-F02-005	00:12:23;
+
+[PrintText]=00:10:08	Makoto	...Por favor.	00:12:19;
+
+[PlayVoice]=00:10:08	Voice01/01-00/01-00-F02/01-00-F02-0090	1	mak	00:12:19;
+
+[CreateBG]=00:12:23	BGS	Event01/01-00/01-00-F02/01-00-F02-006	00:15:18;
+
+[PrintText]=00:13:02	Sekai	Ah... Está bien.	00:15:14;
+
+[PlayVoice]=00:13:02	Voice01/01-00/01-00-F02/01-00-F02-0100	0	sek	00:15:14;
+
+[CreateBG]=00:15:18	BGS	Event01/01-00/01-00-F02/01-00-F02-007	00:20:05;
+
+[PrintText]=00:15:21	Makoto	Gracias.	00:16:14;
+
+[PlayVoice]=00:15:21	Voice01/01-00/01-00-F02/01-00-F02-0110	1	mak	00:16:14;
+
+[PrintText]=00:16:23	Sekai	E-Está bien.	00:18:13;
+
+[PlayVoice]=00:16:23	Voice01/01-00/01-00-F02/01-00-F02-0120	0	sek	00:18:13;
+
+[BlackFade]=00:19:05	OUT	00:20:05;
+
+ ;
+
+[Next]=00:20:05;
+
+
+
+

@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:05:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:05:06;
+
+[PlaySe]=00:00:00	1	Voice01/01-00/01-00-R00/01-00-R00-0057	00:05:06;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-R09/01-00-R09-001	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Ini/Event01/01-00/01-00-R09/01-00-R09-002	00:03:02;
+
+#[PrintText]=00:01:02	Makoto	"Hablaré con ella en cuanto la vea.".	00:03:04;
+
+[CreateBG]=00:03:02	BGS	Ini/Event01/01-00/01-00-R09/01-00-R09-003	00:05:06;
+
+[PrintText]=00:03:04	Sekai	¡Sí, Sí!	00:04:04;
+
+[PlayVoice]=00:03:04	Voice01/01-00/01-00-R09/01-00-R09-0040	0	sek	00:04:04;
+
+[BlackFade]=00:04:18	OUT	00:05:06;
+
+ ;
+
+[Next]=00:05:06;
+
+
+
+

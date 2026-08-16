@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:20:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:20:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-Q01/04-SA-Q01-001	00:05:00;
+
+[PrintText]=00:00:00	Kotonoha	Aquí, Makoto-kun.	00:01:20;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-Q01/04-SA-Q01-0030	0	kot	00:01:20;
+
+[PrintText]=00:01:20	Makoto	Ah... gracias.	00:04:05;
+
+[PlayVoice]=00:01:20	Voice04/04-SA/04-SA-Q01/04-SA-Q01-0050	1	mak	00:04:05;
+
+[PrintText]=00:04:05	Taisuke	¿Hmn? ¿Qué paso, Makoto?^	00:06:07;
+
+[PlayVoice]=00:04:05	Voice04/04-SA/04-SA-Q01/04-SA-Q01-0060	1	tai	00:06:07;
+
+[CreateBG]=00:05:00	BGS	Event04/04-SA/04-SA-Q01/04-SA-Q01-002	00:10:00;
+
+[PrintText]=00:06:07	Hikari	¿Itou compro su entrada?^	00:08:10;
+
+[PlayVoice]=00:06:07	Voice04/04-SA/04-SA-Q01/04-SA-Q01-0070	0	hik	00:08:10;
+
+[PrintText]=00:08:10	Makoto	Ah... Bueno, somos más de lo que esperábamos.	00:13:09;
+
+[PlayVoice]=00:08:10	Voice04/04-SA/04-SA-Q01/04-SA-Q01-0080	1	mak	00:13:09;
+
+[CreateBG]=00:10:00	BGS	Event04/04-SA/04-SA-Q01/04-SA-Q01-003	00:15:00;
+
+[PrintText]=00:13:09	Kotonoha	Mi padre tiene conexiones aquí, por eso nos dieron una entrada extra.	00:18:09;
+
+[PlayVoice]=00:13:09	Voice04/04-SA/04-SA-Q01/04-SA-Q01-0090	0	kot	00:18:09;
+
+[CreateBG]=00:15:00	BGS	Event04/04-SA/04-SA-Q01/04-SA-Q01-004	00:20:00;
+
+ ;
+
+[Next]=00:20:00;
+
+

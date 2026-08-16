@@ -1,0 +1,314 @@
+﻿[SkipFRAME]=04:43:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:15:08;
+
+[PlaySe]=00:00:00	2	Se05/05-SE/05-SE-S00/SE05-SE-S00-008	00:15:06;
+
+[PlayMovie]=00:00:00	Movie05/05-SE/05-SE-S00/05-SE-S00-001	0	00:05:06;
+
+[BlackFade]=00:00:00	IN	00:01:00;
+
+[PlayMovie]=00:05:06	Movie05/05-SE/05-SE-S00/05-SE-S00-002	0	00:15:06;
+
+[BlackFade]=00:12:18	OUT	00:15:06;
+
+[PlaySe]=00:15:06	1	Se05/05-SE/05-SE-S00/SE05-SE-S00-001	01:15:06;
+
+[CreateBG]=00:15:06	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-003	00:20:00;
+
+[BlackFade]=00:15:06	IN	00:17:18;
+
+[PlaySe]=00:20:00	2	Se05/05-SE/05-SE-S00/SE05-SE-S00-011	00:22:11;
+
+[PlayMovie]=00:20:00	Movie05/05-SE/05-SE-S00/05-SE-S00-004	0	00:21:06;
+
+[PrintText]=00:20:07	Kotonoha	Makoto-kun.	00:21:10;
+
+[PlayVoice]=00:20:07	Voice05/05-SE/05-SE-S00/05-SE-S00-0040	0	kot	00:21:10;
+
+[PrintText]=00:20:23	Makoto	Ah. Buen día Kotonoha.	00:24:02;
+
+[PlayVoice]=00:20:23	Voice05/05-SE/05-SE-S00/05-SE-S00-0050	1	mak	00:24:02;
+
+[CreateBG]=00:21:06	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-005	00:25:21;
+
+[PrintText]=00:24:03	Kotonoha	Buen día.	00:25:15;
+
+[PlayVoice]=00:24:03	Voice05/05-SE/05-SE-S00/05-SE-S00-0060	0	kot	00:25:15;
+
+[CreateBG]=00:25:21	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-003	00:29:13;
+
+[PrintText]=00:26:02	Makoto	Hable con Sekai ayer.	00:28:22;
+
+[PlayVoice]=00:26:02	Voice05/05-SE/05-SE-S00/05-SE-S00-0070	1	mak	00:28:22;
+
+[PrintText]=00:28:18	Kotonoha	¿Eh?^	00:29:13;
+
+[PlayVoice]=00:28:18	Voice05/05-SE/05-SE-S00/05-SE-S00-0080	0	kot	00:29:13;
+
+[PlayBgm]=00:29:13	BGM/SD_BGM/sdbgm28	02:42:19;
+
+[CreateBG]=00:29:13	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-007	00:35:04;
+
+[PrintText]=00:29:21	Makoto	Me llamó anoche preguntándome para ir a la obstetra con ella.	00:34:18;
+
+[PlayVoice]=00:29:21	Voice05/05-SE/05-SE-S00/05-SE-S00-0090	1	mak	00:34:18;
+
+[CreateBG]=00:35:04	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-008	00:41:12;
+
+[PrintText]=00:35:11	Kotonoha	¿Irás?^	00:36:20;
+
+[PlayVoice]=00:35:11	Voice05/05-SE/05-SE-S00/05-SE-S00-0100	0	kot	00:36:20;
+
+[PrintText]=00:37:06	Makoto	No. Le dije que ya no podía estar más con ella.	00:41:06;
+
+[PlayVoice]=00:37:06	Voice05/05-SE/05-SE-S00/05-SE-S00-0110	1	mak	00:41:06;
+
+[CreateBG]=00:41:12	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-009	00:50:23;
+
+[PrintText]=00:41:21	Makoto	No es correcto que la arrastre a todo esto, especialmente por el bebé.	00:49:03;
+
+[PlayVoice]=00:41:21	Voice05/05-SE/05-SE-S00/05-SE-S00-0111	1	mak	00:49:03;
+
+[PrintText]=00:49:07	Kotonoha	Ya veo.	00:50:19;
+
+[PlayVoice]=00:49:07	Voice05/05-SE/05-SE-S00/05-SE-S00-0120	0	kot	00:50:19;
+
+[CreateBG]=00:50:23	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-008	01:09:09;
+
+[PrintText]=00:51:02	Makoto	Entonces dijo que estabas manipulandome. No sé que tan lejos irá. Si ella te dice algo después, perdóname.	01:02:18;
+
+[PlayVoice]=00:51:02	Voice05/05-SE/05-SE-S00/05-SE-S00-0130	1	mak	01:02:18;
+
+[PrintText]=01:03:05	Kotonoha	Para nada. Yo soy la que reveló su secreto.	01:09:08;
+
+[PlayVoice]=01:03:05	Voice05/05-SE/05-SE-S00/05-SE-S00-0140	0	kot	01:09:08;
+
+[PrintText]=01:08:14	Makoto	No es verdad. Se iba a saber tarde o temprano. No hiciste nada malo.	01:17:02;
+
+[PlayVoice]=01:08:14	Voice05/05-SE/05-SE-S00/05-SE-S00-0150	1	mak	01:17:02;
+
+[CreateBG]=01:09:09	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-011	01:17:00;
+
+[PlaySe]=01:13:21	2	Se05/05-SE/05-SE-S00/SE05-SE-S00-001	02:13:21;
+
+[PlayMovie]=01:17:00	Movie05/05-SE/05-SE-S00/05-SE-S00-012	0	01:21:19;
+
+[PrintText]=01:17:00	Kotonoha	Pero...	01:18:06;
+
+[PlayVoice]=01:17:00	Voice05/05-SE/05-SE-S00/05-SE-S00-0160	0	kot	01:18:06;
+
+[PrintText]=01:17:12	Makoto	Además ¿No te dije antes? Tú eres la única persona que tendrá mi atención ahora. La única a la que amo.	01:29:14;
+
+[PlayVoice]=01:17:12	Voice05/05-SE/05-SE-S00/05-SE-S00-0170	1	mak	01:29:14;
+
+[PlayMovie]=01:21:19	Movie05/05-SE/05-SE-S00/05-SE-S00-013_014	0	01:33:04;
+
+[PrintText]=01:30:00	Kotonoha	Sí...	01:30:18;
+
+[PlayVoice]=01:30:00	Voice05/05-SE/05-SE-S00/05-SE-S00-0180	0	kot	01:30:18;
+
+[PrintText]=01:31:09	Makoto	Lo que me preocupa es si Sekai te culpe por todo lo que a pasado.	01:38:14;
+
+[PlayVoice]=01:31:09	Voice05/05-SE/05-SE-S00/05-SE-S00-0190	1	mak	01:38:14;
+
+[PlayMovie]=01:33:04	Movie05/05-SE/05-SE-S00/05-SE-S00-001	0	01:38:10;
+
+[PlayMovie]=01:38:10	Movie05/05-SE/05-SE-S00/05-SE-S00-015	0	01:54:02;
+
+[PrintText]=01:38:14	Kotonoha	Sí... si eso pasa, no se podrá evitar.	01:43:11;
+
+[PlayVoice]=01:38:14	Voice05/05-SE/05-SE-S00/05-SE-S00-0200	0	kot	01:43:11;
+
+[PrintText]=01:43:16	Makoto	Sí.	01:44:13;
+
+[PlayVoice]=01:43:16	Voice05/05-SE/05-SE-S00/05-SE-S00-0210	1	mak	01:44:13;
+
+[PrintText]=01:45:00	Kotonoha	No importa quien tenga razón...	01:48:20;
+
+[PlayVoice]=01:45:00	Voice05/05-SE/05-SE-S00/05-SE-S00-0220	0	kot	01:48:20;
+
+[PrintText]=01:49:03	Kotonoha	Si hay alguien que amas te abandona, y sabes que es por una causa. ¿No es natural que esa persona te odie?^	01:58:01;
+
+[PlayVoice]=01:49:03	Voice05/05-SE/05-SE-S00/05-SE-S00-0221	0	kot	01:58:01;
+
+[PlayMovie]=01:54:02	Movie05/05-SE/05-SE-S00/05-SE-S00-016	0	01:59:16;
+
+[PrintText]=01:58:13	Makoto	Sí.	01:59:07;
+
+[PlayVoice]=01:58:13	Voice05/05-SE/05-SE-S00/05-SE-S00-0230	1	mak	01:59:07;
+
+[CreateBG]=01:59:16	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-017	02:21:19;
+
+[PrintText]=02:00:00	Kotonoha	Voy a disculparme tanto como pueda con Saionji-san. No solucionará las cosas, pero es lo que puedo hacer.	02:09:08;
+
+[PlayVoice]=02:00:00	Voice05/05-SE/05-SE-S00/05-SE-S00-0240	0	kot	02:09:08;
+
+[PrintText]=02:09:18	Kotonoha	No creo que me perdone...	02:12:16;
+
+[PlayVoice]=02:09:18	Voice05/05-SE/05-SE-S00/05-SE-S00-0250	0	kot	02:12:16;
+
+[PlaySe]=02:12:12	3	Se05/05-SE/05-SE-S00/SE05-SE-S00-001	02:21:19;
+
+[PrintText]=02:12:16	Kotonoha	Pero aún así, si me disculpo, creo que llegará el día en que entienda nuestra relación.	02:20:18;
+
+[PlayVoice]=02:12:16	Voice05/05-SE/05-SE-S00/05-SE-S00-0251	0	kot	02:20:18;
+
+[PrintText]=02:20:23	Makoto	Sí.	02:21:14;
+
+[PlayVoice]=02:20:23	Voice05/05-SE/05-SE-S00/05-SE-S00-0260	1	mak	02:21:14;
+
+[WhiteFade]=02:21:07	OUT	02:21:19;
+
+[CreateBG]=02:21:19	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-018	02:28:12;
+
+[WhiteFade]=02:21:19	IN	02:22:07;
+
+[PrintText]=02:22:02	Kotonoha	Saionji-san la gran amiga que nos ha unido...	02:28:09;
+
+[PlayVoice]=02:22:02	Voice05/05-SE/05-SE-S00/05-SE-S00-0270	0	kot	02:28:09;
+
+[WhiteFade]=02:28:00	OUT	02:28:12;
+
+[PlaySe]=02:28:12	3	Se05/05-SE/05-SE-S00/SE05-SE-S00-001	02:31:16;
+
+[PlayMovie]=02:28:12	Movie05/05-SE/05-SE-S00/05-SE-S00-020	0	02:31:16;
+
+[WhiteFade]=02:28:12	IN	02:29:00;
+
+[WhiteFade]=02:31:04	OUT	02:31:16;
+
+[CreateBG]=02:31:16	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-020	02:42:19;
+
+[PrintText]=02:31:16	Kotonoha	Sí un día, ella siente que debe perdonarme, entonces deseo que podamos estar como antes entre risas y bromas...	02:41:00;
+
+[PlayVoice]=02:31:16	Voice05/05-SE/05-SE-S00/05-SE-S00-0280	0	kot	02:41:00;
+
+[WhiteFade]=02:31:16	IN	02:32:04;
+
+[PrintText]=02:41:06	Makoto	Sí...	02:42:03;
+
+[PlayVoice]=02:41:06	Voice05/05-SE/05-SE-S00/05-SE-S00-0290	1	mak	02:42:03;
+
+[WhiteFade]=02:42:07	OUT	02:42:19;
+
+[PlaySe]=02:42:19	3	Se05/05-SE/05-SE-S00/SE05-SE-S00-001	02:53:14;
+
+[PlayMovie]=02:42:19	Movie05/05-SE/05-SE-S00/05-SE-S00-021	0	02:48:06;
+
+[WhiteFade]=02:42:19	IN	02:43:07;
+
+[PlaySe]=02:43:07	1	Voice05/05-SE/05-SE-S00/05-SE-S00-0300	02:49:22;
+
+[PlaySe]=02:47:23	2	Se05/05-SE/05-SE-S00/SE05-SE-S00-003	02:53:14;
+
+[PlayMovie]=02:48:06	Movie05/05-SE/05-SE-S00/05-SE-S00-022	0	02:52:22;
+
+[PrintText]=02:49:19	Makoto	Aléjate, Kotonoha. Es peligroso...	02:52:18;
+
+[PlayVoice]=02:49:19	Voice05/05-SE/05-SE-S00/05-SE-S00-0310	1	mak	02:52:18;
+
+[PlaySe]=02:52:16	1	Se05/05-SE/05-SE-S00/SE05-SE-S00-002	02:53:04;
+
+[PlaySe]=02:52:22	4	Se05/05-SE/05-SE-S00/SE05-SE-S00-009	02:53:05;
+
+[PlayMovie]=02:52:22	Movie05/05-SE/05-SE-S00/05-SE-S00-023	0	02:53:22;
+
+[PrintText]=02:52:22	Kotonoha	Ah...	02:53:23;
+
+[PlayVoice]=02:52:22	Voice05/05-SE/05-SE-S00/05-SE-S00-0380	0	kot	02:53:23;
+
+[PlaySe]=02:53:00	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-010	02:53:09;
+
+[PlaySe]=02:53:08	4	Se05/05-SE/05-SE-S00/SE05-SE-S00-009	02:53:15;
+
+[PlayMovie]=02:53:22	Movie05/05-SE/05-SE-S00/05-SE-S00-024	0	03:01:10;
+
+[PlaySe]=02:56:13	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-012	02:57:05;
+
+[PlaySe]=02:59:10	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-012	03:00:02;
+
+[PlayMovie]=03:01:10	Movie05/05-SE/05-SE-S00/05-SE-S00-025	0	03:03:22;
+
+[PlaySe]=03:02:07	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-012	03:02:23;
+
+[PlayMovie]=03:03:22	Movie05/05-SE/05-SE-S00/05-SE-S00-026	0	03:06:10;
+
+[PlaySe]=03:05:02	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-012	03:05:18;
+
+[PlayMovie]=03:06:10	Movie05/05-SE/05-SE-S00/05-SE-S00-027	0	03:09:10;
+
+[PlaySe]=03:08:01	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-012	03:08:17;
+
+[PlayMovie]=03:09:10	Movie05/05-SE/05-SE-S00/05-SE-S00-028	0	03:12:04;
+
+[PlaySe]=03:10:20	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-012	03:11:12;
+
+[PlayMovie]=03:12:04	Movie05/05-SE/05-SE-S00/05-SE-S00-029	0	03:14:22;
+
+[PlaySe]=03:13:21	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-012	03:14:13;
+
+[PlayMovie]=03:14:22	Movie05/05-SE/05-SE-S00/05-SE-S00-030	0	03:21:22;
+
+[PrintText]=03:21:01	Sekai	Adiós.	03:22:00;
+
+[PlayVoice]=03:21:01	Voice05/05-SE/05-SE-S00/05-SE-S00-0360	0	sek	03:22:00;
+
+[PlayMovie]=03:21:22	Movie05/05-SE/05-SE-S00/05-SE-S00-031	0	03:23:10;
+
+[PlayMovie]=03:23:10	Movie05/05-SE/05-SE-S00/05-SE-S00-032	0	03:24:16;
+
+[PlayMovie]=03:24:16	Movie05/05-SE/05-SE-S00/05-SE-S00-033	0	03:26:08;
+
+[PlayMovie]=03:26:08	Movie05/05-SE/05-SE-S00/05-SE-S00-034	0	03:27:12;
+
+[PlaySe]=03:27:02	3	Se05/05-SE/05-SE-S00/SE05-SE-S00-006	03:28:04;
+
+[PlaySe]=03:27:02	4	Se05/05-SE/05-SE-S00/SE05-SE-S00-007	03:44:00;
+
+[PlaySe]=03:27:04	5	Se05/05-SE/05-SE-S00/SE05-SE-S00-001	03:41:10;
+
+[PlaySe]=03:27:08	2	Se05/05-SE/05-SE-S00/SE05-SE-S00-005	03:37:03;
+
+[PlayMovie]=03:27:12	Movie05/05-SE/05-SE-S00/05-SE-S00-035	0	03:34:12;
+
+[PlayMovie]=03:34:12	Movie05/05-SE/05-SE-S00/05-SE-S00-036	0	03:37:00;
+
+[PrintText]=03:35:08	Makoto	Esto no puede...	03:36:09;
+
+[PlayVoice]=03:35:08	Voice05/05-SE/05-SE-S00/05-SE-S00-0430	1	mak	03:36:09;
+
+[PrintText]=03:36:23	Makoto	¿Kotonoha...?^	03:38:00;
+
+[PlayVoice]=03:36:23	Voice05/05-SE/05-SE-S00/05-SE-S00-0431	1	mak	03:38:00;
+
+[CreateBG]=03:37:00	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-037	03:38:00;
+
+[PrintText]=03:37:19	Sekai	Ahah... haha... haha... hahaha... Todo es tu culpa, Katsura-san. Tú... y Makoto... haha...	03:52:00;
+
+[PlayVoice]=03:37:19	Voice05/05-SE/05-SE-S00/05-SE-S00-0440	0	sek	03:52:00;
+
+[PlayMovie]=03:38:00	Movie05/05-SE/05-SE-S00/05-SE-S00-038	0	03:49:00;
+
+[EndBGM]=03:44:12	BGM/Vocal/SDV10	06:31:20;
+
+[CreateBG]=03:49:00	BGS	Event05/05-SE/05-SE-S00/05-SE-S00-038	03:54:00;
+
+[PlayMovie]=03:54:00	Movie05/05-SE/05-SE-S00/05-SE-S00-040	0	04:00:00;
+
+[PrintText]=03:54:05	Makoto	¡Kotonoha!	03:56:00;
+
+[PlayVoice]=03:54:05	Voice05/05-SE/05-SE-S00/05-SE-S00-0450	1	mak	03:56:00;
+
+[BlackFade]=03:57:00	OUT	04:00:00;
+
+[PlayMovie]=04:00:00	Ini/EndRoll/05-20	0	04:03:00;
+
+[EndRoll]=04:03:00	Ini/EndRoll/BAD	04:43:00;
+
+ ;
+
+[Next]=04:43:00;
+
+
+

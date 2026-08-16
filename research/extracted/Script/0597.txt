@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:10:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:17:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L02/03-KA-L02-003A	00:02:15;
+
+[WhiteFade]=00:02:02	OUT	00:02:15;
+
+[CreateBG]=00:02:15	BGS	Event03/03-KA/03-KA-L03/03-KA-L03-001	00:07:12;
+
+[WhiteFade]=00:02:15	IN	00:03:05;
+
+[PrintText]=00:02:21	Makoto	Kotonoha...	00:04:11;
+
+[PlayVoice]=00:02:21	Voice03/03-KA/03-KA-L03/03-KA-L03-0030	1	xxx	00:04:11;
+
+[PrintText]=00:04:16	Makoto	Está en mi mente.	00:05:21;
+
+[PlayVoice]=00:04:16	Voice03/03-KA/03-KA-L03/03-KA-L03-0040	1	xxx	00:05:21;
+
+[PrintText]=00:06:05	Makoto	No.	00:07:02;
+
+[PlayVoice]=00:06:05	Voice03/03-KA/03-KA-L03/03-KA-L03-0050	1	xxx	00:07:02;
+
+[WhiteFade]=00:06:22	OUT	00:07:12;
+
+[CreateBG]=00:07:12	BGS	Event03/03-KA/03-KA-L03/03-KA-L03-003	00:17:01;
+
+[WhiteFade]=00:07:12	IN	00:08:02;
+
+[PrintText]=00:07:21	Makoto	Más que eso, Yo...	00:11:11;
+
+[PlayVoice]=00:07:21	Voice03/03-KA/03-KA-L03/03-KA-L03-0060	1	xxx	00:11:11;
+
+[SetSELECT]=00:10:21	'Quiero abrazarla'	'Quiero verla'	00:15:21;
+
+ ;
+
+[Next]=00:17:01;
+
+

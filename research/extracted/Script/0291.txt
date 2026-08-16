@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:24:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:24:05;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-B00/SE02-2S-B00-001	00:24:05;
+
+[PlayMovie]=00:00:00	Movie02/02-2S/02-2S-B00/02-2S-B00-001	0	00:02:23;
+
+[PlayMovie]=00:02:23	Movie02/02-2S/02-2S-B00/02-2S-B00-002	0	00:03:23;
+
+[PrintText]=00:03:00	Setsuna	Sekai.	00:03:22;
+
+[PlayVoice]=00:03:00	Voice02/02-2S/02-2S-B00/02-2S-B00-0050	0	set	00:03:22;
+
+[PlayMovie]=00:03:23	Movie02/02-2S/02-2S-B00/02-2S-B00-003	0	00:07:01;
+
+[PrintText]=00:03:23	Sekai	¿Hmn?^	00:04:14;
+
+[PlayVoice]=00:03:23	Voice02/02-2S/02-2S-B00/02-2S-B00-0060	0	sek	00:04:14;
+
+[PrintText]=00:05:03	Setsuna	Estoy feliz por ti.	00:06:07;
+
+[PlayVoice]=00:05:03	Voice02/02-2S/02-2S-B00/02-2S-B00-0070	0	set	00:06:07;
+
+[PrintText]=00:06:03	Sekai	¡¿Eh?!	00:06:22;
+
+[PlayVoice]=00:06:03	Voice02/02-2S/02-2S-B00/02-2S-B00-0080	0	sek	00:06:22;
+
+[PlayMovie]=00:07:01	Movie02/02-2S/02-2S-B00/02-2S-B00-004	0	00:15:15;
+
+[PrintText]=00:07:06	Setsuna	Algo bueno pasó ¿No?^	00:08:20;
+
+[PlayVoice]=00:07:06	Voice02/02-2S/02-2S-B00/02-2S-B00-0090	0	set	00:08:20;
+
+[PrintText]=00:08:22	Sekai	...No estoy segura.	00:11:12;
+
+[PlayVoice]=00:08:22	Voice02/02-2S/02-2S-B00/02-2S-B00-0100	0	sek	00:11:12;
+
+[PrintText]=00:11:23	Setsuna	No me decías nada, y estaba preocupada por ti.	00:15:15;
+
+[PlayVoice]=00:11:23	Voice02/02-2S/02-2S-B00/02-2S-B00-0110	0	set	00:15:15;
+
+[CreateBG]=00:15:15	BGS	Event02/02-2S/02-2S-B00/02-2S-B00-005	00:24:05;
+
+[PrintText]=00:16:02	Sekai	Perdóname.	00:16:23;
+
+[PlayVoice]=00:16:02	Voice02/02-2S/02-2S-B00/02-2S-B00-0120	0	sek	00:16:23;
+
+[PrintText]=00:17:05	Setsuna	Está bien. Después de todo, veo que te sientes mejor.	00:21:03;
+
+[PlayVoice]=00:17:05	Voice02/02-2S/02-2S-B00/02-2S-B00-0130	0	set	00:21:03;
+
+[PrintText]=00:21:19	Sekai	Gracias...	00:22:21;
+
+[PlayVoice]=00:21:19	Voice02/02-2S/02-2S-B00/02-2S-B00-0140	0	sek	00:22:21;
+
+[BlackFade]=00:23:05	OUT	00:24:05;
+
+ ;
+
+[Next]=00:24:05;
+
+
+
+

@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:10:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:10:08;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-C09/01-1K-C09-001	00:04:19;
+
+[PrintText]=00:00:00	Makoto	¡¡Hmm... No puedo decidirme!!	00:04:05;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C09/01-1K-C09-0030	1	mak	00:04:05;
+
+[CreateBG]=00:04:19	BGS	Event00/00-00/00-00-H00/00-00-H00-002	00:10:08;
+
+[PrintText]=00:05:07	Makoto	En momentos como estos... necesito a Sekai después de todo.	00:10:07;
+
+[PlayVoice]=00:05:07	Voice01/01-1K/01-1K-C09/01-1K-C09-0040	1	mak	00:10:07;
+
+ ;
+
+[Next]=00:10:08;
+
+
+
+

@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:18:23;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I07/SE03-KB-I07-001	00:18:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I07/03-KB-I07-001	00:13:23;
+
+[PrintText]=00:00:00	Taisuke	Ahora que lo pienso, no tengo el número de Saionji.	00:06:11;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-I07/03-KB-I07-0030	1	tai	00:11:09;
+
+[PrintText]=00:06:11	Taisuke	Dada la situación, creo que invitarla a salir sería demasiado para mi después de todo.	00:11:09;
+
+[PrintText]=00:11:09	Kotonoha	No, eso no es verdad.	00:13:22;
+
+[PlayVoice]=00:11:09	Voice03/03-KB/03-KB-I07/03-KB-I07-0040	0	kot	00:13:22;
+
+[CreateBG]=00:13:23	BGS	Event03/03-KB/03-KB-I07/03-KB-I07-002	00:18:23;
+
+[PrintText]=00:13:23	Taisuke	¿Tú lo crees?^	00:15:06;
+
+[PlayVoice]=00:13:23	Voice03/03-KB/03-KB-I07/03-KB-I07-0050	1	tai	00:15:06;
+
+ ;
+
+[Next]=00:18:23;
+
+

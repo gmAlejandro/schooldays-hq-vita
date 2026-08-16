@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:26:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:26:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-001	00:01:23;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-F02/04-KB-F02-0050	0	hik	00:18:19;
+
+[CreateBG]=00:01:23	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-002	00:07:02;
+
+[CreateBG]=00:07:02	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-003	00:09:10;
+
+[CreateBG]=00:09:10	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-004	00:12:07;
+
+[PrintText]=00:10:23	Makoto	Hmn...?^	00:11:14;
+
+[PlayVoice]=00:10:23	Voice04/04-KB/04-KB-F02/04-KB-F02-0070	1	mak	00:11:14;
+
+[PlayMovie]=00:12:07	Movie00/00-00/00-00-A02/00-00-A02-002	0	00:14:08;
+
+[CreateBG]=00:14:08	BGS	Ini/Event04/04-KB/04-KB-F02/04-KB-F02-006	00:16:17;
+
+#[PrintText]=00:14:08	Celular	001 - De: Katsura Kotonoha\nMsg: Buen día.\n002 - De: Katsura Kotonoha\nMsg: Acerca de ayer.	00:15:17;
+
+#[PrintText]=00:15:17	Celular	003 - De: Katsura Kotonoha\nMsg: Almorcemos hoy.	00:16:16;
+
+[PlayVoice]=00:14:22	Voice04/04-KB/04-KB-F02/04-KB-F02-0090	1	xxx	00:15:23;
+
+[CreateBG]=00:16:17	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-007	00:18:20;
+
+[PrintText]=00:16:23	Makoto	...	00:18:01;
+
+[PlayVoice]=00:16:23	Voice04/04-KB/04-KB-F02/04-KB-F02-0110	1	xxx	00:18:01;
+
+[BlackFade]=00:18:08	OUT	00:18:20;
+
+[CreateBG]=00:18:20	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-008	00:19:16;
+
+[PrintText]=00:18:22	Kotonoha	...Ah.	00:19:11;
+
+[PlayVoice]=00:18:22	Voice04/04-KB/04-KB-F02/04-KB-F02-0150	0	kot	00:19:11;
+
+[CreateBG]=00:19:16	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-008B	00:20:12;
+
+[PrintText]=00:20:09	Kotonoha	¿Huh..?^	00:21:04;
+
+[PlayVoice]=00:20:09	Voice04/04-KB/04-KB-F02/04-KB-F02-0170	0	kot	00:21:04;
+
+[PlayMovie]=00:20:12	Movie04/04-KB/04-KB-F02/04-KB-F02-009	0	00:21:12;
+
+[CreateBG]=00:21:12	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-010	00:22:08;
+
+[PlayMovie]=00:22:08	Ini/Movie04/04-KB/04-KB-F02/04-KB-F02-011	0	00:25:05;
+
+#[PrintText]=00:22:08	Kotonoha	'No se puede enviar el mensaje.'\n¿Huh... huh...?^	00:25:05;
+
+[PlayVoice]=00:22:08	Voice04/04-KB/04-KB-F02/04-KB-F02-0200	0	kot	00:25:05;
+
+[CreateBG]=00:25:05	BGS	Event04/04-KB/04-KB-F02/04-KB-F02-012	00:26:05;
+
+ ;
+
+[Next]=00:26:05;
+
+

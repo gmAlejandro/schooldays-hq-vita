@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:12:18;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:12:18;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-J02/04-SA-J02-001	00:06:00;
+
+[PrintText]=00:00:04	Makoto	Aún así... puedo manejarlo. Es solo la piscina, después de todo.	00:05:09;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-J02/04-SA-J02-0030	1	mak	00:05:09;
+
+[CreateBG]=00:06:00	BGS	Event04/04-SA/04-SA-J02/04-SA-J02-001B	00:12:18;
+
+[PrintText]=00:06:11	Makoto	...creo que iré a casa.	00:08:09;
+
+[PlayVoice]=00:06:11	Voice04/04-SA/04-SA-J02/04-SA-J02-0040	1	mak	00:08:09;
+
+[PrintText]=00:08:21	Makoto	No puedo esperar por ver la cara que pondrá Itaru...	00:11:19;
+
+[PlayVoice]=00:08:21	Voice04/04-SA/04-SA-J02/04-SA-J02-0050	1	mak	00:11:19;
+
+ ;
+
+[Next]=00:12:18;
+
+

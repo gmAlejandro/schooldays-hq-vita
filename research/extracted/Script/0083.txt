@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:18:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:24:19;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-M00/SE01-00-M00-001	00:24:19;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-M00/01-00-M00-001	00:02:06;
+
+[CreateBG]=00:02:06	BGS	Event01/01-00/01-00-M00/01-00-M00-002	00:05:03;
+
+[CreateBG]=00:05:03	BGS	Event01/01-00/01-00-M00/01-00-M00-003	00:08:06;
+
+[CreateBG]=00:08:06	BGS	Event01/01-00/01-00-M00/01-00-M00-004	00:10:02;
+
+[PrintText]=00:08:06	Sekai	¿Por qué estás deprimido?^	00:10:02;
+
+[PlayVoice]=00:08:06	Voice01/01-00/01-00-M00/01-00-M00-0040	0	sek	00:10:02;
+
+[CreateBG]=00:10:02	BGS	Event01/01-00/01-00-M00/01-00-M00-005	00:12:20;
+
+[PrintText]=00:10:02	Makoto	Yo no... estoy deprimido.	00:12:19;
+
+[PlayVoice]=00:10:02	Voice01/01-00/01-00-M00/01-00-M00-0050	1	mak	00:12:19;
+
+[CreateBG]=00:12:20	BGS	Event01/01-00/01-00-M00/01-00-M00-006	00:14:22;
+
+[PrintText]=00:12:20	Sekai	Pero te ves deprimido, mira tu cara.	00:14:21;
+
+[PlayVoice]=00:12:20	Voice01/01-00/01-00-M00/01-00-M00-0060	0	sek	00:14:21;
+
+[CreateBG]=00:14:22	BGS	Event01/01-00/01-00-M00/01-00-M00-007	00:24:19;
+
+[PrintText]=00:14:22	Makoto	Mira, yo no estoy dep... Bueno...	00:18:17;
+
+[PlayVoice]=00:14:22	Voice01/01-00/01-00-M00/01-00-M00-0070	1	mak	00:18:17;
+
+[SetSELECT]=00:18:19	*Mantenerla alejada de esto*	*Contarle*	00:23:19;
+
+ ;
+
+[Next]=00:24:19;
+
+
+
+

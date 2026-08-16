@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:18:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-D05/03-KB-D05-001	00:05:21;
+
+[PrintText]=00:00:00	Makoto	¿Quién te dijo eso?^	00:01:16;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-D05/03-KB-D05-0030	1	mak	00:01:16;
+
+[PrintText]=00:01:16	Taisuke	¿'Quién'...? Es... un rumor.	00:05:21;
+
+[PlayVoice]=00:01:16	Voice03/03-KB/03-KB-D05/03-KB-D05-0040	1	tai	00:05:21;
+
+[CreateBG]=00:05:21	BGS	Event03/03-KB/03-KB-D05/03-KB-D05-002	00:18:11;
+
+[PrintText]=00:05:21	Makoto	¿De unas chicas de nuestra clase?^	00:07:17;
+
+[PlayVoice]=00:05:21	Voice03/03-KB/03-KB-D05/03-KB-D05-0050	1	mak	00:07:17;
+
+[PrintText]=00:07:17	Taisuke	Bueno, sí... algo así.	00:11:17;
+
+[PlayVoice]=00:07:17	Voice03/03-KB/03-KB-D05/03-KB-D05-0060	1	tai	00:11:17;
+
+[PrintText]=00:11:16	Makoto	Cielos... esas chicas hablando sin pensar.	00:17:07;
+
+[PlayVoice]=00:11:16	Voice03/03-KB/03-KB-D05/03-KB-D05-0070	1	mak	00:17:07;
+
+[PrintText]=00:17:07	Taisuke	Haha...	00:18:10;
+
+[PlayVoice]=00:17:07	Voice03/03-KB/03-KB-D05/03-KB-D05-0080	1	tai	00:18:10;
+
+ ;
+
+[Next]=00:18:11;
+
+

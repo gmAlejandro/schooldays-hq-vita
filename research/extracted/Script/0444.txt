@@ -1,0 +1,117 @@
+﻿[SkipFRAME]=01:49:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	01:49:18;
+
+[PlaySe]=00:00:00	1	Se03/03-AS/03-AS-B00/SE03-AS-B00-001	00:16:16;
+
+[PlayMovie]=00:00:00	Movie03/03-AS/03-AS-B00/03-AS-B00-001	0	00:30:09;
+
+[PlaySe]=00:16:16	2	Se03/03-AS/03-AS-B00/SE03-AS-B00-002	00:30:09;
+
+[WhiteFade]=00:29:21	OUT	00:30:09;
+
+[CreateBG]=00:30:09	BGS	Event03/03-AS/03-AS-B00/03-AS-B00-002	00:34:01;
+
+[WhiteFade]=00:30:09	IN	00:30:21;
+
+[PrintText]=00:31:09	Sekai	Eheheh... Ya lo he visto.	00:34:01;
+
+[PlayVoice]=00:31:09	Voice03/03-AS/03-AS-B00/03-AS-B00-0070	0	sek	00:34:01;
+
+[CreateBG]=00:34:01	BGS	Event03/03-AS/03-AS-B00/03-AS-B00-003	01:10:12;
+
+[PrintText]=00:34:01	Setsuna	Ooh... No tenías que hacerlo sabes.	00:36:08;
+
+[PlayVoice]=00:34:01	Voice03/03-AS/03-AS-B00/03-AS-B00-0080	0	set	00:36:08;
+
+[PrintText]=00:36:09	Sekai	No hay nada malo en él sin embargo.	00:37:22;
+
+[PlayVoice]=00:36:09	Voice03/03-AS/03-AS-B00/03-AS-B00-0090	0	sek	00:37:22;
+
+[PrintText]=00:37:22	Sekai	Hey, sabes, parece que Yamagata-san es de la misma primaria que Itou.	00:42:23;
+
+[PlayVoice]=00:37:22	Voice03/03-AS/03-AS-B00/03-AS-B00-0091	0	sek	00:47:17;
+
+[PrintText]=00:42:23	Sekai	Ah, pero ella fue transferida durante el tercer grado,	00:47:17;
+
+[PrintText]=00:47:17	Sekai	Y solo estuvieron juntos por un año, así que ella no lo conoce muy bien, pero escucha...	00:54:07;
+
+[PlayVoice]=00:47:17	Voice03/03-AS/03-AS-B00/03-AS-B00-0092	0	sek	00:54:07;
+
+[PrintText]=00:54:07	Setsuna	Uh-huh.	00:54:23;
+
+[PlayVoice]=00:54:07	Voice03/03-AS/03-AS-B00/03-AS-B00-0100	0	set	00:54:23;
+
+[PrintText]=00:54:23	Sekai	Este 'Itou' parece ser un buen chico. Eheheh...	01:00:12;
+
+[PlayVoice]=00:54:23	Voice03/03-AS/03-AS-B00/03-AS-B00-0110	0	sek	01:00:12;
+
+[PrintText]=01:00:12	Setsuna	Uh-huh.	01:01:06;
+
+[PlayVoice]=01:00:12	Voice03/03-AS/03-AS-B00/03-AS-B00-0120	0	set	01:01:06;
+
+[PrintText]=01:01:06	Sekai	Pero salvando a una chica no hace en realidad que sepamos todo de él ¿No?^	01:09:19;
+
+[PlayVoice]=01:01:06	Voice03/03-AS/03-AS-B00/03-AS-B00-0130	0	sek	01:09:19;
+
+[PrintText]=01:09:19	Setsuna	Uh-huh.	01:10:11;
+
+[PlayVoice]=01:09:19	Voice03/03-AS/03-AS-B00/03-AS-B00-0140	0	set	01:10:11;
+
+[CreateBG]=01:10:12	BGS	Event03/03-AS/03-AS-B00/03-AS-B00-004	01:25:15;
+
+[PrintText]=01:10:12	Sekai	¡El puede ser como tú o como yo!	01:13:06;
+
+[PlayVoice]=01:10:12	Voice03/03-AS/03-AS-B00/03-AS-B00-0150	0	sek	01:13:06;
+
+[PrintText]=01:13:06	Setsuna	¡Pfft! E-Eso es imposible.	01:16:06;
+
+[PlayVoice]=01:13:06	Voice03/03-AS/03-AS-B00/03-AS-B00-0160	0	set	01:16:06;
+
+[PrintText]=01:16:06	Sekai	Ahaha... 'como' puede ser tal vez mucho, pero él siente algo por ti ¿No?^	01:22:10;
+
+[PlayVoice]=01:16:06	Voice03/03-AS/03-AS-B00/03-AS-B00-0170	0	sek	01:22:10;
+
+[PrintText]=01:22:10	Setsuna	N-no, no es así.	01:24:13;
+
+[PlayVoice]=01:22:10	Voice03/03-AS/03-AS-B00/03-AS-B00-0180	0	set	01:24:13;
+
+[PrintText]=01:24:13	Sekai	¿En seriooooooo?^	01:25:15;
+
+[PlayVoice]=01:24:13	Voice03/03-AS/03-AS-B00/03-AS-B00-0190	0	sek	01:25:15;
+
+[CreateBG]=01:25:15	BGS	Event03/03-AS/03-AS-B00/03-AS-B00-005	01:46:04;
+
+[PrintText]=01:25:15	Setsuna	Uh-huh. Después de todo... desde ahí no hemos hablado.	01:31:15;
+
+[PlayVoice]=01:25:15	Voice03/03-AS/03-AS-B00/03-AS-B00-0200	0	set	01:31:15;
+
+[PrintText]=01:31:15	Sekai	¿A sí? Pero no creo que no le gustes.	01:36:02;
+
+[PlayVoice]=01:31:15	Voice03/03-AS/03-AS-B00/03-AS-B00-0210	0	sek	01:36:02;
+
+[PrintText]=01:36:02	Setsuna	Eres muy persistente, Sekai.	01:38:15;
+
+[PlayVoice]=01:36:02	Voice03/03-AS/03-AS-B00/03-AS-B00-0220	0	set	01:38:15;
+
+[PrintText]=01:38:15	Sekai	Ahaha... Si escucho algo de Itou Makoto, te lo haré saber.	01:44:18;
+
+[PlayVoice]=01:38:15	Voice03/03-AS/03-AS-B00/03-AS-B00-0230	0	sek	01:44:18;
+
+[PrintText]=01:44:17	Setsuna	Cielos.	01:45:15;
+
+[PlayVoice]=01:44:17	Voice03/03-AS/03-AS-B00/03-AS-B00-0240	0	set	01:45:15;
+
+[WhiteFade]=01:45:16	OUT	01:46:04;
+
+[CreateBG]=01:46:04	BGS	Event03/03-AS/03-AS-B00/03-AS-B00-006	01:49:18;
+
+[WhiteFade]=01:46:04	IN	01:46:16;
+
+[BlackFade]=01:48:18	OUT	01:49:18;
+
+ ;
+
+[Next]=01:49:18;
+
+

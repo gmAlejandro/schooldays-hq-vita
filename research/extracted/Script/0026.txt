@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:30:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:30:22;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-B04/SE01-00-B04-001	00:30:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-B04/01-00-B04-001	00:06:04;
+
+[PrintText]=00:00:12	Sekai	Ahaha...Pues, acerca de eso...	00:02:10;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-B04/01-00-B04-0030	0	sek	00:02:10;
+
+[PrintText]=00:02:09	Makoto	Sí...	00:02:23;
+
+[PlayVoice]=00:02:09	Voice01/01-00/01-00-B04/01-00-B04-0040	1	mak	00:02:23;
+
+[PrintText]=00:03:06	Sekai	¿Por qué esa cara? Oh, ¡Ah! ya sé lo que estás pensando.	00:08:16;
+
+[PlayVoice]=00:03:06	Voice01/01-00/01-00-B04/01-00-B04-0050	0	sek	00:08:16;
+
+[CreateBG]=00:06:04	BGS	Event01/01-00/01-00-B04/01-00-B04-002	00:16:19;
+
+[PrintText]=00:08:19	Sekai	Creo que has pensado cosas como 'Amor prohibido', igual que en esos shows cursis de TV ¿No?^	00:13:13;
+
+[PlayVoice]=00:08:19	Voice01/01-00/01-00-B04/01-00-B04-0051	0	sek	00:13:13;
+
+[PrintText]=00:13:10	Makoto	¿Eh?^	00:13:23;
+
+[PlayVoice]=00:13:10	Voice01/01-00/01-00-B04/01-00-B04-0060	1	mak	00:13:23;
+
+[PrintText]=00:14:07	Sekai	Mira, creo que te has confundido.	00:16:20;
+
+[PlayVoice]=00:14:07	Voice01/01-00/01-00-B04/01-00-B04-0070	0	sek	00:16:20;
+
+[CreateBG]=00:16:19	BGS	Event01/01-00/01-00-B04/01-00-B04-003	00:30:22;
+
+[PrintText]=00:16:19	Makoto	¿Confundido...?^	00:18:02;
+
+[PlayVoice]=00:16:19	Voice01/01-00/01-00-B04/01-00-B04-0080	1	mak	00:18:02;
+
+[PrintText]=00:18:02	Sekai	Piensas que te gusto, ¿no? Bueno, si me gustas, pero como un amigo...	00:24:12;
+
+[PlayVoice]=00:18:02	Voice01/01-00/01-00-B04/01-00-B04-0090	0	sek	00:24:12;
+
+[PrintText]=00:25:01	Sekai	pero no pienses que te estoy haciendo mi novio o algo así.	00:29:01;
+
+[PlayVoice]=00:25:01	Voice01/01-00/01-00-B04/01-00-B04-0091	0	sek	00:29:01;
+
+[PrintText]=00:29:09	Makoto	Sekai...	00:30:09;
+
+[PlayVoice]=00:29:09	Voice01/01-00/01-00-B04/01-00-B04-0100	1	mak	00:30:09;
+
+ ;
+
+[Next]=00:30:22;
+
+
+
+

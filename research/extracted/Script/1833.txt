@@ -1,0 +1,96 @@
+﻿[SkipFRAME]=01:00:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	01:00:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-H02/05-SE-H02-001	00:11:22;
+
+[PrintText]=00:00:00	Makoto	Esto va a ser un problema.	00:01:04;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-H02/05-SE-H02-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:04	Sekai	¿Eh?^	00:02:07;
+
+[PlayVoice]=00:01:04	Voice05/05-SE/05-SE-H02/05-SE-H02-0040	0	sek	00:02:07;
+
+[PrintText]=00:02:07	Makoto	Somos estudiantes... y de primer año. Serán al menos dos años más para graduarnos y casarnos.	00:11:21;
+
+[PlayVoice]=00:02:07	Voice05/05-SE/05-SE-H02/05-SE-H02-0050	1	mak	00:11:21;
+
+[PrintText]=00:11:21	Sekai	Entonces... saldré de la escuela.	00:16:03;
+
+[PlayVoice]=00:11:21	Voice05/05-SE/05-SE-H02/05-SE-H02-0060	0	sek	00:16:03;
+
+[CreateBG]=00:11:22	BGS	Event05/05-SE/05-SE-H02/05-SE-H02-002	00:33:18;
+
+[PrintText]=00:16:03	Makoto	¿Eh?^	00:17:05;
+
+[PlayVoice]=00:16:03	Voice05/05-SE/05-SE-H02/05-SE-H02-0070	1	mak	00:17:05;
+
+[PrintText]=00:17:05	Sekai	Saldré de la escuela, y tendré al bebé y lo criaré.	00:20:12;
+
+[PlayVoice]=00:17:05	Voice05/05-SE/05-SE-H02/05-SE-H02-0080	0	sek	00:20:12;
+
+[PrintText]=00:20:12	Makoto	¿Criarlo? ¿Tú crees que tu madre lo aceptará?!	00:24:07;
+
+[PlayVoice]=00:20:12	Voice05/05-SE/05-SE-H02/05-SE-H02-0090	1	mak	00:24:07;
+
+[PrintText]=00:24:06	Sekai	Mi madre me tuvo cuando tenía esta edad, así que dijo que si quería tenerlo, no tendría problema.	00:33:17;
+
+[PlayVoice]=00:24:06	Voice05/05-SE/05-SE-H02/05-SE-H02-0100	0	sek	00:33:17;
+
+[PrintText]=00:33:17	Makoto	¿Ella sabe que estás embarazada?^	00:37:18;
+
+[PlayVoice]=00:33:17	Voice05/05-SE/05-SE-H02/05-SE-H02-0110	1	mak	00:37:18;
+
+[CreateBG]=00:33:18	BGS	Event05/05-SE/05-SE-H02/05-SE-H02-003	00:42:20;
+
+[PrintText]=00:37:18	Sekai	Sí.	00:38:11;
+
+[PlayVoice]=00:37:18	Voice05/05-SE/05-SE-H02/05-SE-H02-0120	0	sek	00:38:11;
+
+[PrintText]=00:38:11	Makoto	¿Y qué hay de mí?^	00:39:15;
+
+[PlayVoice]=00:38:11	Voice05/05-SE/05-SE-H02/05-SE-H02-0130	1	mak	00:39:15;
+
+[PrintText]=00:39:16	Sekai	...S-Sí, un poco.	00:42:20;
+
+[PlayVoice]=00:39:16	Voice05/05-SE/05-SE-H02/05-SE-H02-0140	0	sek	00:42:20;
+
+[CreateBG]=00:42:20	BGS	Event05/05-SE/05-SE-H02/05-SE-H02-004	00:55:20;
+
+[PrintText]=00:42:20	Makoto	¿Huh? ¿Un poco?^	00:44:20;
+
+[PlayVoice]=00:42:20	Voice05/05-SE/05-SE-H02/05-SE-H02-0150	1	mak	00:44:20;
+
+[PrintText]=00:44:20	Sekai	¡T-Te la presentaré! Todo lo que le he dicho es que estoy saliendo con alguien.	00:51:15;
+
+[PlayVoice]=00:44:20	Voice05/05-SE/05-SE-H02/05-SE-H02-0160	0	sek	00:51:15;
+
+[PrintText]=00:51:15	Makoto	Ya veo...	00:53:02;
+
+[PlayVoice]=00:51:15	Voice05/05-SE/05-SE-H02/05-SE-H02-0170	1	mak	00:53:02;
+
+[PrintText]=00:53:02	Sekai	Vamos, ya es suficiente. Volvamos.	00:55:19;
+
+[PlayVoice]=00:53:02	Voice05/05-SE/05-SE-H02/05-SE-H02-0180	0	sek	00:55:19;
+
+[PrintText]=00:55:19	Makoto	Sí. No es bueno para el bebé este frío ¿Verdad?^	00:59:04;
+
+[PlayVoice]=00:55:19	Voice05/05-SE/05-SE-H02/05-SE-H02-0190	1	mak	00:59:04;
+
+[CreateBG]=00:55:20	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-001	01:00:20;
+
+[PrintText]=00:59:04	Sekai	Sí.	00:59:18;
+
+[PlayVoice]=00:59:04	Voice05/05-SE/05-SE-H02/05-SE-H02-0200	0	sek	00:59:18;
+
+[PrintText]=00:59:19	Makoto	Vamos.	01:00:17;
+
+[PlayVoice]=00:59:19	Voice05/05-SE/05-SE-H02/05-SE-H02-0210	1	mak	01:00:17;
+
+ ;
+
+[Next]=01:00:20;
+
+
+

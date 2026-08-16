@@ -1,0 +1,10 @@
+[SkipFRAME]=00:03:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:03:01;
+
+[CreateBG]=00:00:00	BGS	Ini/Event04/04-SE/04-SE-H00/04-SE-H00-001	00:03:09;
+
+ ;
+
+[Next]=00:03:09;
+

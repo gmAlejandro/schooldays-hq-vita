@@ -1,0 +1,93 @@
+﻿[SkipFRAME]=00:25:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:25:13;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-C03/SE03-KB-C03-001	00:25:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-001	00:01:03;
+
+[PrintText]=00:00:03	Setsuna	¡Itou!	00:00:23;
+
+[PlayVoice]=00:00:03	Voice03/03-KB/03-KB-C03/03-KB-C03-0030	0	set	00:00:23;
+
+[PrintText]=00:01:02	Makoto	Kiyoura...	00:04:02;
+
+[PlayVoice]=00:01:02	Voice03/03-KB/03-KB-C03/03-KB-C03-0050	1	mak	00:04:02;
+
+[CreateBG]=00:01:03	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-002	00:04:20;
+
+[PrintText]=00:04:02	Setsuna	...	00:04:19;
+
+[PlayVoice]=00:04:02	Voice03/03-KB/03-KB-C03/03-KB-C03-0060	0	xxx	00:04:19;
+
+[PrintText]=00:04:19	Makoto	¿Qué pasa? Estoy apurado ahora, nos vemos después.	00:09:02;
+
+[PlayVoice]=00:04:19	Voice03/03-KB/03-KB-C03/03-KB-C03-0070	1	mak	00:09:02;
+
+[CreateBG]=00:04:20	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-003	00:09:03;
+
+[PrintText]=00:09:02	Setsuna	Después está bien entonces.	00:11:09;
+
+[PlayVoice]=00:09:02	Voice03/03-KB/03-KB-C03/03-KB-C03-0080	0	set	00:11:09;
+
+[CreateBG]=00:09:03	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-004	00:12:11;
+
+[PrintText]=00:11:09	Makoto	Vale, entonces, adiós.	00:12:10;
+
+[PlayVoice]=00:11:09	Voice03/03-KB/03-KB-C03/03-KB-C03-0090	1	mak	00:12:10;
+
+[PrintText]=00:12:10	Setsuna	Ven al campo.	00:14:04;
+
+[PlayVoice]=00:12:10	Voice03/03-KB/03-KB-C03/03-KB-C03-0100	0	set	00:14:04;
+
+[CreateBG]=00:12:11	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-005	00:14:05;
+
+[PrintText]=00:14:04	Makoto	¿Al campo?^	00:15:13;
+
+[PlayVoice]=00:14:04	Voice03/03-KB/03-KB-C03/03-KB-C03-0110	1	mak	00:15:13;
+
+[CreateBG]=00:14:05	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-006	00:15:14;
+
+[PrintText]=00:15:13	Setsuna	El baile folk está por empezar.	00:17:17;
+
+[PlayVoice]=00:15:13	Voice03/03-KB/03-KB-C03/03-KB-C03-0120	0	set	00:17:17;
+
+[CreateBG]=00:15:14	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-005	00:17:18;
+
+[PrintText]=00:17:17	Makoto	Ah, pero yo...	00:19:10;
+
+[PlayVoice]=00:17:17	Voice03/03-KB/03-KB-C03/03-KB-C03-0130	1	mak	00:19:10;
+
+[CreateBG]=00:17:18	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-008	00:19:10;
+
+[CreateBG]=00:19:10	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-009	00:23:01;
+
+[PrintText]=00:19:10	Setsuna	...y Sekai está ahí, esperándote.	00:21:05;
+
+[PlayVoice]=00:19:10	Voice03/03-KB/03-KB-C03/03-KB-C03-0140	0	set	00:21:05;
+
+[PrintText]=00:21:05	Makoto	¿Eh...?^	00:21:20;
+
+[PlayVoice]=00:21:05	Voice03/03-KB/03-KB-C03/03-KB-C03-0150	1	mak	00:21:20;
+
+[PrintText]=00:21:20	Setsuna	Considéralo como una notificación.	00:23:00;
+
+[PlayVoice]=00:21:20	Voice03/03-KB/03-KB-C03/03-KB-C03-0160	0	set	00:23:00;
+
+[PrintText]=00:23:00	Makoto	¡Ah...! ¡Espera...!	00:24:09;
+
+[PlayVoice]=00:23:00	Voice03/03-KB/03-KB-C03/03-KB-C03-0180	1	mak	00:24:09;
+
+[CreateBG]=00:23:01	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-010	00:24:09;
+
+[PrintText]=00:24:08	Makoto	...	00:25:13;
+
+[PlayVoice]=00:24:08	Voice03/03-KB/03-KB-C03/03-KB-C03-0190	1	xxx	00:25:13;
+
+[CreateBG]=00:24:09	BGS	Event03/03-KB/03-KB-C03/03-KB-C03-006	00:25:13;
+
+ ;
+
+[Next]=00:25:13;
+
+

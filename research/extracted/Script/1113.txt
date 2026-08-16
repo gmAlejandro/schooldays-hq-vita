@@ -1,0 +1,93 @@
+﻿[SkipFRAME]=00:49:23;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:49:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-H04/04-SA-H04-001	00:01:21;
+
+[PrintText]=00:00:03	Makoto	Buen día.	00:00:23;
+
+[PlayVoice]=00:00:03	Voice04/04-SA/04-SA-H04/04-SA-H04-0030	1	mak	00:00:23;
+
+[PrintText]=00:00:23	Sekai	Buen día.	00:01:19;
+
+[PlayVoice]=00:00:23	Voice04/04-SA/04-SA-H04/04-SA-H04-0040	0	sek	00:01:19;
+
+[CreateBG]=00:01:21	BGS	Event04/04-SA/04-SA-H04/04-SA-H04-002	00:05:07;
+
+[PrintText]=00:02:00	Makoto	Hey, Sekai.	00:03:01;
+
+[PlayVoice]=00:02:00	Voice04/04-SA/04-SA-H04/04-SA-H04-0060	1	mak	00:03:01;
+
+[PrintText]=00:03:02	Sekai	¿Hmn?^	00:03:20;
+
+[PlayVoice]=00:03:02	Voice04/04-SA/04-SA-H04/04-SA-H04-0070	0	sek	00:03:20;
+
+[PrintText]=00:03:20	Makoto	¿Estás libre para el almuerzo?^	00:05:11;
+
+[PlayVoice]=00:03:20	Voice04/04-SA/04-SA-H04/04-SA-H04-0080	1	mak	00:05:11;
+
+[CreateBG]=00:05:07	BGS	Event04/04-SA/04-SA-H04/04-SA-H04-003	00:08:16;
+
+[PrintText]=00:05:11	Sekai	¿Por qué? ¿Quieres que almorcemos?^	00:08:19;
+
+[PlayVoice]=00:05:11	Voice04/04-SA/04-SA-H04/04-SA-H04-0090	0	sek	00:08:19;
+
+[CreateBG]=00:08:16	BGS	Event04/04-SA/04-SA-H04/04-SA-H04-004	00:13:16;
+
+[PrintText]=00:08:21	Makoto	Bueno, sí...	00:12:17;
+
+[PlayVoice]=00:08:21	Voice04/04-SA/04-SA-H04/04-SA-H04-0100	1	mak	00:12:17;
+
+[PrintText]=00:12:18	Sekai	¿Pasó algo?^	00:13:16;
+
+[PlayVoice]=00:12:18	Voice04/04-SA/04-SA-H04/04-SA-H04-0110	0	sek	00:13:16;
+
+[CreateBG]=00:13:16	BGS	Event04/04-SA/04-SA-H04/04-SA-H04-005	00:19:09;
+
+[PrintText]=00:13:18	Makoto	Kotonoha pregunto por ti, Taisuke y los otros quieren comer juntos.	00:19:11;
+
+[PlayVoice]=00:13:18	Voice04/04-SA/04-SA-H04/04-SA-H04-0120	1	mak	00:19:11;
+
+[CreateBG]=00:19:09	BGS	Event04/04-SA/04-SA-H04/04-SA-H04-006	00:21:07;
+
+[PrintText]=00:19:12	Sekai	¿Eh?!	00:20:04;
+
+[PlayVoice]=00:19:12	Voice04/04-SA/04-SA-H04/04-SA-H04-0130	0	sek	00:20:04;
+
+[PrintText]=00:20:04	Makoto	¿...No?^	00:21:08;
+
+[PlayVoice]=00:20:04	Voice04/04-SA/04-SA-H04/04-SA-H04-0140	1	mak	00:21:08;
+
+[CreateBG]=00:21:07	BGS	Event04/04-SA/04-SA-H04/04-SA-H04-007	00:28:12;
+
+[PrintText]=00:21:14	Sekai	No es que no quiera, pero...	00:24:02;
+
+[PlayVoice]=00:21:14	Voice04/04-SA/04-SA-H04/04-SA-H04-0150	0	sek	00:24:02;
+
+[PrintText]=00:24:01	Makoto	Taisuke probablemente acepte, ¿Kuroda es el problema?^	00:28:12;
+
+[PlayVoice]=00:24:01	Voice04/04-SA/04-SA-H04/04-SA-H04-0160	1	mak	00:28:12;
+
+[CreateBG]=00:28:12	BGS	Event04/04-SA/04-SA-H04/04-SA-H04-008	00:49:23;
+
+[PrintText]=00:28:13	Sekai	No... pero parece que la otra noche, Hikari lo llamó.	00:36:23;
+
+[PlayVoice]=00:28:13	Voice04/04-SA/04-SA-H04/04-SA-H04-0170	0	sek	00:36:23;
+
+[PrintText]=00:36:23	Makoto	¿Ehh?^	00:37:16;
+
+[PlayVoice]=00:36:23	Voice04/04-SA/04-SA-H04/04-SA-H04-0180	1	mak	00:37:16;
+
+[PrintText]=00:37:18	Sekai	Al principio, solo estaba charlando de lo emocionaba que estaba por ir a la piscina,	00:42:06;
+
+[PlayVoice]=00:37:18	Voice04/04-SA/04-SA-H04/04-SA-H04-0190	0	sek	00:42:06;
+
+[PrintText]=00:42:10	Sekai	pero después, empezaron a ir mas allá, hasta se las arreglo para almorzar juntos, estaba muy feliz.	00:48:22;
+
+[PlayVoice]=00:42:10	Voice04/04-SA/04-SA-H04/04-SA-H04-0191	0	sek	00:48:22;
+
+ ;
+
+[Next]=00:49:23;
+
+

@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:13:03;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:19:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-F06/04-SA-F06-001	00:09:01;
+
+[PrintText]=00:00:05	Makoto	Creo que no se puede evitar. Te explicaré...	00:03:09;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-F06/04-SA-F06-0030	1	xxx	00:03:09;
+
+[PrintText]=00:03:09	Sekai	¿Es algo de Taisuke?^	00:05:00;
+
+[PlayVoice]=00:03:09	Voice04/04-SA/04-SA-F06/04-SA-F06-0040	0	sek	00:05:00;
+
+[PrintText]=00:05:00	Makoto	Aún así... será muy cruel decírselo a Kuroda...	00:09:07;
+
+[PlayVoice]=00:05:00	Voice04/04-SA/04-SA-F06/04-SA-F06-0050	1	xxx	00:09:07;
+
+[CreateBG]=00:09:01	BGS	Event04/04-SA/04-SA-F06/04-SA-F06-002	00:19:05;
+
+[PrintText]=00:09:15	Hikari	¿Por qué te quedas callado?^	00:11:16;
+
+[PlayVoice]=00:09:15	Voice04/04-SA/04-SA-F06/04-SA-F06-0060	0	hik	00:11:16;
+
+[PrintText]=00:11:16	Makoto	Uuh...	00:13:05;
+
+[PlayVoice]=00:11:16	Voice04/04-SA/04-SA-F06/04-SA-F06-0070	1	mak	00:13:05;
+
+[SetSELECT]=00:13:03	*Decírselo solamente a Sekai*	null	00:18:03;
+
+ ;
+
+[Next]=00:19:05;
+
+

@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:11:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:17:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L09/03-KA-L09-001	00:17:12;
+
+[PrintText]=00:00:06	Makoto	No he almorzado con ella ni ayer ni yo.	00:05:06;
+
+[PlayVoice]=00:00:06	Voice03/03-KA/03-KA-L09/03-KA-L09-0030	1	xxx	00:05:06;
+
+[PrintText]=00:06:17	Makoto	Han sido solo dos días, pero... aún así.	00:10:18;
+
+[PlayVoice]=00:06:17	Voice03/03-KA/03-KA-L09/03-KA-L09-0040	1	xxx	00:10:18;
+
+[SetSELECT]=00:11:06	'Empiezo a olvidarla'	'La extraño'	00:16:06;
+
+ ;
+
+[Next]=00:17:12;
+
+

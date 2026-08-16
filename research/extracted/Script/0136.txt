@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:21:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:25:22;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-T00/01-00-T00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event01/01-00/01-00-T00/01-00-T00-002	00:04:00;
+
+[PlaySe]=00:03:23	1	Se01/01-00/01-00-T00/SE01-00-T00-001	00:06:09;
+
+[PlayMovie]=00:04:00	Movie01/01-00/01-00-T00/01-00-T00-003	0	00:07:14;
+
+[PlayMovie]=00:07:14	Movie01/01-00/01-00-A00/01-00-A00-002	0	00:09:14;
+
+[PlaySe]=00:07:19	1	Se01/01-00/01-00-T00/SE01-00-T00-001	00:10:05;
+
+[PlayMovie]=00:09:14	Movie01/01-00/01-00-T00/01-00-T00-005	0	00:11:20;
+
+[PlaySe]=00:11:12	1	Se01/01-00/01-00-T00/SE01-00-T00-001	00:13:22;
+
+[PlayMovie]=00:11:20	Movie01/01-00/01-00-T00/01-00-T00-006	0	00:15:02;
+
+[CreateBG]=00:15:02	BGS	Event01/01-00/01-00-T00/01-00-T00-007	00:17:03;
+
+[PlaySe]=00:15:18	1	Se01/01-00/01-00-T00/SE01-00-T00-002	00:15:23;
+
+[CreateBG]=00:17:03	BGS	Ini/Event01/01-00/01-00-T00/01-00-T00-008	00:21:22;
+
+#[PrintText]=00:17:03	Kotonoha	"Muchas gracias por lo de hoy. Parece que tengo esa costumbre de actuar sin pensar y dejar una mala impresión en la gente...que vergüenza.".	00:20:22;
+
+[PlayVoice]=00:20:01	Voice01/01-00/01-00-T00/01-00-T00-0110	0	sek	00:20:18;
+
+#[PrintText]=00:20:22	Kotonoha	"Pero cuando me disculpé con Makoto-kun, me perdonó de inmediato. Estaba hablando con él, y sugirió que deberías unirte a nosotros para...".	00:25:22;
+
+[CreateBG]=00:21:22	BGS	Event01/01-00/01-00-T00/01-00-T00-009	00:25:22;
+
+[BlackFade]=00:24:22	OUT	00:25:22;
+
+ ;
+
+[Next]=00:21:22;
+
+
+
+

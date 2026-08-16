@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:07:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:07:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-N05/03-KB-N05-001	00:07:18;
+
+[PrintText]=00:00:00	Makoto	También es mi primera vez.	00:03:15;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-N05/03-KB-N05-0030	1	mak	00:03:15;
+
+[PrintText]=00:03:15	Kotonoha	¿Eso es... verdad?^	00:06:11;
+
+[PlayVoice]=00:03:15	Voice03/03-KB/03-KB-N05/03-KB-N05-0040	0	kot	00:06:11;
+
+[PrintText]=00:06:11	Makoto	Uh-huh.	00:07:04;
+
+[PlayVoice]=00:06:11	Voice03/03-KB/03-KB-N05/03-KB-N05-0050	1	mak	00:07:04;
+
+ ;
+
+[Next]=00:07:18;
+
+

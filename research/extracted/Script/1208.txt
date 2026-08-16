@@ -1,0 +1,17 @@
+﻿[SkipFRAME]=00:04:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G04/04-SB-G04-001	00:04:08;
+
+[PrintText]=00:00:06	Makoto	Debería regresar a clases.	00:02:03;
+
+[PlayVoice]=00:00:06	Voice04/04-SB/04-SB-G04/04-SB-G04-0030	1	mak	00:02:03;
+
+[PrintText]=00:02:23	Makoto	Haah...	00:03:23;
+
+[PlayVoice]=00:02:23	Voice04/04-SB/04-SB-G04/04-SB-G04-0040	1	mak	00:03:23;
+
+ ;
+
+[Next]=00:04:08;
+
+

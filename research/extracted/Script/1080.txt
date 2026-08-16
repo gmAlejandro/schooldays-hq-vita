@@ -1,0 +1,177 @@
+﻿[SkipFRAME]=01:40:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	01:40:14;
+
+[PlayMovie]=00:00:00	Movie04/04-SA/04-SA-A00/04-SA-A00-001	0	00:03:01;
+
+[PrintText]=00:01:22	Makoto	Ahí va...	00:03:01;
+
+[PlayVoice]=00:01:22	Voice04/04-SA/04-SA-A00/04-SA-A00-0040	1	mak	00:03:01;
+
+[CreateBG]=00:03:01	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-002	00:06:05;
+
+[PrintText]=00:03:06	Hikari	Sí.	00:04:13;
+
+[PlayVoice]=00:03:06	Voice04/04-SA/04-SA-A00/04-SA-A00-0050	0	hik	00:04:13;
+
+[PrintText]=00:04:20	Makoto	París, huh... me pregunto que presentes traerá.	00:08:08;
+
+[PlayVoice]=00:04:20	Voice04/04-SA/04-SA-A00/04-SA-A00-0060	1	mak	00:08:08;
+
+[CreateBG]=00:06:05	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-003	00:17:20;
+
+[PrintText]=00:08:12	Hikari	Presentes, huh... un perfume estaría bien.	00:12:16;
+
+[PlayVoice]=00:08:12	Voice04/04-SA/04-SA-A00/04-SA-A00-0070	0	hik	00:12:16;
+
+[PrintText]=00:12:19	Makoto	No me importaría un Leclerc.	00:15:05;
+
+[PlayVoice]=00:12:19	Voice04/04-SA/04-SA-A00/04-SA-A00-0080	1	mak	00:15:05;
+
+[PrintText]=00:15:03	Hikari	¿Qué es un Leclerc?^	00:16:19;
+
+[PlayVoice]=00:15:03	Voice04/04-SA/04-SA-A00/04-SA-A00-0090	0	hik	00:16:19;
+
+[PrintText]=00:16:19	Makoto	Un tanque francés.	00:18:02;
+
+[PlayVoice]=00:16:19	Voice04/04-SA/04-SA-A00/04-SA-A00-0100	1	mak	00:18:02;
+
+[PrintText]=00:17:15	Hikari	¡Como si pudiera comprar uno de esos!	00:20:09;
+
+[PlayVoice]=00:17:15	Voice04/04-SA/04-SA-A00/04-SA-A00-0110	0	hik	00:20:09;
+
+[CreateBG]=00:17:20	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-004	00:20:04;
+
+[CreateBG]=00:20:04	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-005	00:37:08;
+
+[PrintText]=00:20:04	Makoto	¿Tu no lo crees?^	00:21:08;
+
+[PlayVoice]=00:20:04	Voice04/04-SA/04-SA-A00/04-SA-A00-0120	1	mak	00:21:08;
+
+[PrintText]=00:21:00	Hikari	Además, ¿Regalos?! Se irá con su madre, nueva escuela y todo. ¡No volverá!	00:28:09;
+
+[PlayVoice]=00:21:00	Voice04/04-SA/04-SA-A00/04-SA-A00-0130	0	hik	00:28:09;
+
+[PrintText]=00:28:11	Makoto	Lo sé. Pero no estaría mal pensar que si volviera traería presentes...	00:37:06;
+
+[PlayVoice]=00:28:11	Voice04/04-SA/04-SA-A00/04-SA-A00-0140	1	mak	00:37:06;
+
+[CreateBG]=00:37:08	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-003	00:49:03;
+
+[PrintText]=00:37:09	Hikari	Bueno... estaría genial.	00:43:05;
+
+[PlayVoice]=00:37:09	Voice04/04-SA/04-SA-A00/04-SA-A00-0150	0	hik	00:43:05;
+
+[PrintText]=00:43:04	Makoto	¿Lo ves.	00:44:00;
+
+[PlayVoice]=00:43:04	Voice04/04-SA/04-SA-A00/04-SA-A00-0160	1	mak	00:44:00;
+
+[PrintText]=00:44:00	Hikari	Espera, ¿Por qué estoy aquí contigo hablando después de todo?^	00:49:06;
+
+[PlayVoice]=00:44:00	Voice04/04-SA/04-SA-A00/04-SA-A00-0170	0	hik	00:49:06;
+
+[CreateBG]=00:49:03	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-007	00:59:20;
+
+[PrintText]=00:49:08	Makoto	Bueno, Sekai se encerró en su casa, Kanroji está en el club y Taisuke se quedo dormido.	00:55:09;
+
+[PlayVoice]=00:49:08	Voice04/04-SA/04-SA-A00/04-SA-A00-0180	1	mak	00:55:09;
+
+[PrintText]=00:55:07	Hikari	¡De eso no estoy hablando! Escucha, T-.	00:58:21;
+
+[PlayVoice]=00:55:07	Voice04/04-SA/04-SA-A00/04-SA-A00-0190	0	hik	00:58:21;
+
+[PrintText]=00:58:08	Makoto	Me odias ¿No?^	01:00:03;
+
+[PlayVoice]=00:58:08	Voice04/04-SA/04-SA-A00/04-SA-A00-0200	1	mak	01:00:03;
+
+[CreateBG]=00:59:20	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-008	01:07:16;
+
+[PrintText]=01:00:01	Hikari	E-Es verdad. Por ti es que Sekai...	01:04:11;
+
+[PlayVoice]=01:00:01	Voice04/04-SA/04-SA-A00/04-SA-A00-0210	0	hik	01:04:11;
+
+[PrintText]=01:04:14	Makoto	¿Está triste?^	01:06:01;
+
+[PlayVoice]=01:04:14	Voice04/04-SA/04-SA-A00/04-SA-A00-0220	1	mak	01:06:01;
+
+[PrintText]=01:06:04	Hikari	Sí.	01:07:12;
+
+[PlayVoice]=01:06:04	Voice04/04-SA/04-SA-A00/04-SA-A00-0230	0	hik	01:07:12;
+
+[CreateBG]=01:07:16	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-009	01:14:06;
+
+[PrintText]=01:07:21	Makoto	Tal vez tengas razón...	01:10:05;
+
+[PlayVoice]=01:07:21	Voice04/04-SA/04-SA-A00/04-SA-A00-0240	1	mak	01:10:05;
+
+[PrintText]=01:10:00	Hikari	Entonces, sabes lo que estás haciendo.	01:11:15;
+
+[PlayVoice]=01:10:00	Voice04/04-SA/04-SA-A00/04-SA-A00-0250	0	hik	01:11:15;
+
+[PrintText]=01:11:13	Makoto	Setsuna me lo dijo.	01:12:20;
+
+[PlayVoice]=01:11:13	Voice04/04-SA/04-SA-A00/04-SA-A00-0260	1	mak	01:12:20;
+
+[PrintText]=01:13:01	Hikari	Ya veo...	01:14:02;
+
+[PlayVoice]=01:13:01	Voice04/04-SA/04-SA-A00/04-SA-A00-0270	0	hik	01:14:02;
+
+[CreateBG]=01:14:06	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-010	01:23:16;
+
+[PrintText]=01:14:11	Makoto	Una cosa más.	01:15:09;
+
+[PlayVoice]=01:14:11	Voice04/04-SA/04-SA-A00/04-SA-A00-0280	1	mak	01:15:09;
+
+[PrintText]=01:15:09	Hikari	¿Qué?^	01:16:10;
+
+[PlayVoice]=01:15:09	Voice04/04-SA/04-SA-A00/04-SA-A00-0290	0	hik	01:16:10;
+
+[PrintText]=01:16:20	Makoto	Taisuke y tú fueron a la misma primaria ¿No?^	01:20:06;
+
+[PlayVoice]=01:16:20	Voice04/04-SA/04-SA-A00/04-SA-A00-0300	1	mak	01:20:06;
+
+[PrintText]=01:20:03	Hikari	¿...Qué hay con eso?^	01:21:22;
+
+[PlayVoice]=01:20:03	Voice04/04-SA/04-SA-A00/04-SA-A00-0310	0	hik	01:21:22;
+
+[PrintText]=01:22:02	Makoto	Escuche que te ha estado gustando todo este tiempo.	01:24:02;
+
+[PlayVoice]=01:22:02	Voice04/04-SA/04-SA-A00/04-SA-A00-0320	1	mak	01:24:02;
+
+[CreateBG]=01:23:16	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-010B	01:27:14;
+
+[PrintText]=01:23:16	Hikari	¡Gyah! ¡T-Tú..! ¡Como es... ah! ¿Setsuna?^	01:29:13;
+
+[PlayVoice]=01:23:16	Voice04/04-SA/04-SA-A00/04-SA-A00-0330	0	hik	01:29:13;
+
+[CreateBG]=01:27:14	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-011	01:35:17;
+
+[PrintText]=01:29:09	Makoto	Pues, sí.	01:30:07;
+
+[PlayVoice]=01:29:09	Voice04/04-SA/04-SA-A00/04-SA-A00-0340	1	mak	01:30:07;
+
+[PrintText]=01:30:15	Hikari	¿Qué es esto? ¿Chantaje?^	01:33:08;
+
+[PlayVoice]=01:30:15	Voice04/04-SA/04-SA-A00/04-SA-A00-0350	0	hik	01:33:08;
+
+[PrintText]=01:33:01	Makoto	Sip.	01:33:20;
+
+[PlayVoice]=01:33:01	Voice04/04-SA/04-SA-A00/04-SA-A00-0360	1	mak	01:33:20;
+
+[PrintText]=01:33:23	Hikari	¿Qué planeas hacer..?^	01:35:10;
+
+[PlayVoice]=01:33:23	Voice04/04-SA/04-SA-A00/04-SA-A00-0370	0	hik	01:35:10;
+
+[CreateBG]=01:35:17	BGS	Event04/04-SA/04-SA-A00/04-SA-A00-012	01:40:14;
+
+[PrintText]=01:36:04	Makoto	Hay algo en que quiero que me ayudes.	01:38:18;
+
+[PlayVoice]=01:36:04	Voice04/04-SA/04-SA-A00/04-SA-A00-0380	1	mak	01:38:18;
+
+[BlackFade]=01:39:14	OUT	01:40:14;
+
+ ;
+
+[Next]=01:40:14;
+
+

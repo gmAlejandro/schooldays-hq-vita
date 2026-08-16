@@ -1,0 +1,113 @@
+﻿[SkipFRAME]=00:48:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:48:01;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-M03/SE03-KB-M03-001	00:48:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-001	00:01:02;
+
+[PrintText]=00:00:00	Sekai	...	00:01:01;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-M03/03-KB-M03-0040	0	xxx	00:01:01;
+
+[PrintText]=00:01:01	Taisuke	Saionji.	00:02:08;
+
+[PlayVoice]=00:01:01	Voice03/03-KB/03-KB-M03/03-KB-M03-0060	1	tai	00:02:08;
+
+[CreateBG]=00:01:02	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-002	00:02:09;
+
+[CreateBG]=00:02:09	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-003	00:06:21;
+
+[PrintText]=00:02:09	Sekai	¿Qué pasa?^	00:03:16;
+
+[PlayVoice]=00:02:09	Voice03/03-KB/03-KB-M03/03-KB-M03-0080	0	sek	00:03:16;
+
+[PrintText]=00:03:16	Taisuke	¿Por qué no bailamos juntos?^	00:04:23;
+
+[PlayVoice]=00:03:16	Voice03/03-KB/03-KB-M03/03-KB-M03-0090	1	tai	00:04:23;
+
+[PrintText]=00:04:23	Sekai	No me apetece.	00:06:20;
+
+[PlayVoice]=00:04:23	Voice03/03-KB/03-KB-M03/03-KB-M03-0100	0	sek	00:06:20;
+
+[PrintText]=00:06:20	Taisuke	Ven, hoy es la noche.	00:09:08;
+
+[PlayVoice]=00:06:20	Voice03/03-KB/03-KB-M03/03-KB-M03-0110	1	tai	00:09:08;
+
+[CreateBG]=00:06:21	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-004	00:09:09;
+
+[PrintText]=00:09:08	Sekai	No Gracias.	00:10:07;
+
+[PlayVoice]=00:09:08	Voice03/03-KB/03-KB-M03/03-KB-M03-0120	0	sek	00:10:07;
+
+[CreateBG]=00:09:09	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-005	00:10:07;
+
+[CreateBG]=00:10:07	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-006	00:23:14;
+
+[PrintText]=00:10:07	Taisuke	Sé que he causado un malentendido con Katsura-san hoy, pero ahora vengo a decírtelo en persona.	00:17:09;
+
+[PlayVoice]=00:10:07	Voice03/03-KB/03-KB-M03/03-KB-M03-0130	1	tai	00:17:09;
+
+[PrintText]=00:17:09	Sekai	¿Eh?^	00:17:23;
+
+[PlayVoice]=00:17:09	Voice03/03-KB/03-KB-M03/03-KB-M03-0140	0	sek	00:17:23;
+
+[PrintText]=00:17:23	Taisuke	Quiero bailar contigo.	00:20:10;
+
+[PlayVoice]=00:17:23	Voice03/03-KB/03-KB-M03/03-KB-M03-0150	1	tai	00:20:10;
+
+[PrintText]=00:20:09	Sekai	¿Te refieres a...?^	00:21:20;
+
+[PlayVoice]=00:20:09	Voice03/03-KB/03-KB-M03/03-KB-M03-0160	0	sek	00:21:20;
+
+[PrintText]=00:21:20	Taisuke	S-Sí.	00:23:14;
+
+[PlayVoice]=00:21:20	Voice03/03-KB/03-KB-M03/03-KB-M03-0170	1	tai	00:23:14;
+
+[PrintText]=00:23:13	Sekai	Pero...	00:24:15;
+
+[PlayVoice]=00:23:13	Voice03/03-KB/03-KB-M03/03-KB-M03-0180	0	sek	00:24:15;
+
+[CreateBG]=00:23:14	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-007	00:24:16;
+
+[PrintText]=00:24:15	Taisuke	Yo... siempre he estado interesado en ti. Así que si no estás saliendo con alguien ahora...	00:34:06;
+
+[PlayVoice]=00:24:15	Voice03/03-KB/03-KB-M03/03-KB-M03-0190	1	tai	00:34:06;
+
+[CreateBG]=00:24:16	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-008	00:34:06;
+
+[CreateBG]=00:34:06	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-009	00:42:08;
+
+[PrintText]=00:34:06	Nanami	¡Ahh! Ahí estás Sekai. Ven aquí.	00:38:20;
+
+[PlayVoice]=00:34:06	Voice03/03-KB/03-KB-M03/03-KB-M03-0210	0	nan	00:38:20;
+
+[PrintText]=00:38:20	Hikari	Sí, bailemos.	00:41:09;
+
+[PlayVoice]=00:38:20	Voice03/03-KB/03-KB-M03/03-KB-M03-0220	0	hik	00:41:09;
+
+[PrintText]=00:41:08	Setsuna	Sekai...	00:42:08;
+
+[PlayVoice]=00:41:08	Voice03/03-KB/03-KB-M03/03-KB-M03-0230	0	set	00:42:08;
+
+[CreateBG]=00:42:08	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-008	00:43:01;
+
+[PrintText]=00:42:08	Taisuke	¿Qué dices?^	00:43:00;
+
+[PlayVoice]=00:42:08	Voice03/03-KB/03-KB-M03/03-KB-M03-0240	1	tai	00:43:00;
+
+[PrintText]=00:43:00	Sekai	...Bien.	00:44:05;
+
+[PlayVoice]=00:43:00	Voice03/03-KB/03-KB-M03/03-KB-M03-0270	0	sek	00:44:05;
+
+[CreateBG]=00:43:01	BGS	Event03/03-KB/03-KB-M03/03-KB-M03-011	00:48:01;
+
+[PrintText]=00:44:05	Sekai	...	00:45:01;
+
+[PlayVoice]=00:44:05	Voice03/03-KB/03-KB-M03/03-KB-M03-0310	0	xxx	00:45:01;
+
+ ;
+
+[Next]=00:48:01;
+
+

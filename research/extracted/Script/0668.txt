@@ -1,0 +1,129 @@
+﻿[SkipFRAME]=01:04:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	01:04:06;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I02/SE03-KB-I02-001	01:04:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-001	00:05:00;
+
+[PrintText]=00:00:00	Taisuke	¿Hmm? ¿Qué pasa?^	00:01:14;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-I02/03-KB-I02-0030	1	tai	00:01:14;
+
+[PrintText]=00:01:15	Makoto	Es mejor que vuelvas ¿Vale?^	00:04:06;
+
+[PlayVoice]=00:01:15	Voice03/03-KB/03-KB-I02/03-KB-I02-0040	1	mak	00:04:06;
+
+[PrintText]=00:04:06	Taisuke	¿Qué?^	00:04:23;
+
+[PlayVoice]=00:04:06	Voice03/03-KB/03-KB-I02/03-KB-I02-0050	1	tai	00:04:23;
+
+[CreateBG]=00:05:00	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-002	00:14:10;
+
+[PrintText]=00:05:00	Makoto	¿Entiendes la situación? Torii y Hasegawa no están aquí hoy, y eres el único, sabes.	00:12:09;
+
+[PlayVoice]=00:05:00	Voice03/03-KB/03-KB-I02/03-KB-I02-0060	1	mak	00:12:09;
+
+[PrintText]=00:12:09	Taisuke	¿En serio?^	00:13:14;
+
+[PlayVoice]=00:12:09	Voice03/03-KB/03-KB-I02/03-KB-I02-0070	1	tai	00:13:14;
+
+[PrintText]=00:13:13	Makoto	Sí.	00:14:10;
+
+[PlayVoice]=00:13:13	Voice03/03-KB/03-KB-I02/03-KB-I02-0080	1	mak	00:14:10;
+
+[CreateBG]=00:14:10	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-003	00:19:18;
+
+[PrintText]=00:14:10	Taisuke	Esos dos estaban ayer. No creo que de pronto se hayan enfermado ¿No?^	00:19:18;
+
+[PlayVoice]=00:14:10	Voice03/03-KB/03-KB-I02/03-KB-I02-0090	1	tai	00:19:18;
+
+[CreateBG]=00:19:18	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-004	00:24:06;
+
+[PrintText]=00:19:18	Makoto	Dijeron que era todo un problema esto del festival escolar. Así que por eso han faltado.	00:24:06;
+
+[PlayVoice]=00:19:18	Voice03/03-KB/03-KB-I02/03-KB-I02-0100	1	mak	00:24:06;
+
+[CreateBG]=00:24:06	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-005	00:27:21;
+
+[PrintText]=00:24:06	Taisuke	¿Sí? Entonces también debería irme a casa ¿No crees?^	00:27:21;
+
+[PlayVoice]=00:24:06	Voice03/03-KB/03-KB-I02/03-KB-I02-0110	1	tai	00:27:21;
+
+[CreateBG]=00:27:21	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-006	00:28:23;
+
+[PrintText]=00:27:21	Makoto	¡Hey!	00:28:22;
+
+[PlayVoice]=00:27:21	Voice03/03-KB/03-KB-I02/03-KB-I02-0120	1	mak	00:28:22;
+
+[PrintText]=00:28:22	Taisuke	Hey, solo bromeo.	00:31:00;
+
+[PlayVoice]=00:28:22	Voice03/03-KB/03-KB-I02/03-KB-I02-0130	1	tai	00:31:00;
+
+[CreateBG]=00:28:23	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-005	00:31:00;
+
+[PrintText]=00:30:23	Makoto	Haah... eso me pasa cuando quiero faltar a la escuela.	00:35:07;
+
+[PlayVoice]=00:30:23	Voice03/03-KB/03-KB-I02/03-KB-I02-0140	1	mak	00:35:07;
+
+[CreateBG]=00:31:00	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-008	00:41:15;
+
+[PrintText]=00:35:08	Taisuke	¿Tienes planes para ir por ahí con tu novia?^	00:37:17;
+
+[PlayVoice]=00:35:08	Voice03/03-KB/03-KB-I02/03-KB-I02-0150	1	tai	00:37:17;
+
+[PrintText]=00:37:16	Makoto	Si hubiera hecho planes, estaría muriéndome por venir a la escuela.	00:41:15;
+
+[PlayVoice]=00:37:16	Voice03/03-KB/03-KB-I02/03-KB-I02-0160	1	mak	00:41:15;
+
+[CreateBG]=00:41:15	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-005	00:49:21;
+
+[PrintText]=00:41:15	Taisuke	Haha... es verdad.	00:43:15;
+
+[PlayVoice]=00:41:15	Voice03/03-KB/03-KB-I02/03-KB-I02-0170	1	tai	00:43:15;
+
+[PrintText]=00:43:15	Makoto	Hubiera sido un verdadero problema si no venías hoy a la escuela también.	00:46:10;
+
+[PlayVoice]=00:43:15	Voice03/03-KB/03-KB-I02/03-KB-I02-0180	1	mak	00:46:10;
+
+[PrintText]=00:46:11	Taisuke	No te preocupes, no había manera de que falte.	00:49:20;
+
+[PlayVoice]=00:46:11	Voice03/03-KB/03-KB-I02/03-KB-I02-0190	1	tai	00:49:20;
+
+[PrintText]=00:49:20	Makoto	¿Eh?^	00:50:11;
+
+[PlayVoice]=00:49:20	Voice03/03-KB/03-KB-I02/03-KB-I02-0200	1	mak	00:50:11;
+
+[CreateBG]=00:49:21	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-010	00:50:12;
+
+[CreateBG]=00:50:12	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-011	00:58:00;
+
+[PrintText]=00:50:12	Taisuke	Te lo dije ¿No? Voy a invitar a Saionji.	00:52:18;
+
+[PlayVoice]=00:50:12	Voice03/03-KB/03-KB-I02/03-KB-I02-0210	1	tai	00:52:18;
+
+[PrintText]=00:52:18	Makoto	Ah...	00:53:21;
+
+[PlayVoice]=00:52:18	Voice03/03-KB/03-KB-I02/03-KB-I02-0220	1	mak	00:53:21;
+
+[PrintText]=00:53:21	Taisuke	Solo mírame. Iré por ella ahora.	00:57:23;
+
+[PlayVoice]=00:53:21	Voice03/03-KB/03-KB-I02/03-KB-I02-0230	1	tai	00:57:23;
+
+[PrintText]=00:57:23	Makoto	¡Ah, hey!	00:59:06;
+
+[PlayVoice]=00:57:23	Voice03/03-KB/03-KB-I02/03-KB-I02-0240	1	mak	00:59:06;
+
+[CreateBG]=00:58:00	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-012	00:59:06;
+
+[CreateBG]=00:59:06	BGS	Event03/03-KB/03-KB-I02/03-KB-I02-013	01:04:06;
+
+[PrintText]=00:59:06	Makoto	...	01:00:05;
+
+[PlayVoice]=00:59:06	Voice03/03-KB/03-KB-I02/03-KB-I02-0260	1	xxx	01:00:05;
+
+ ;
+
+[Next]=01:04:06;
+
+

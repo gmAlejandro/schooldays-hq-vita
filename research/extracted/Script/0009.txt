@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:29:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:29:07;
+
+[PlaySe]=00:00:00	3	Voice00/00-00/00-00-B01/00-00-B01-0071	00:18:19;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-B01/00-00-B01-001	00:03:00;
+
+[PlayMovie]=00:03:00	Movie00/00-00/00-00-B01/00-00-B01-002	0	00:11:00;
+
+[PrintText]=00:03:09	Makoto	...	00:04:13;
+
+[PlayVoice]=00:03:09	Voice00/00-00/00-00-B01/00-00-B01-0090	1	xxx	00:04:13;
+
+[PrintText]=00:04:14	Makoto	¿Qué es lo que quiere exactamente...?^ 	00:06:03;
+
+[PlayVoice]=00:04:14	Voice00/00-00/00-00-B01/00-00-B01-0100	1	xxx	00:06:03;
+
+[PrintText]=00:06:18	Makoto	¿Le habrá dicho a alguien...?^ 	00:10:01;
+
+[PlayVoice]=00:06:18	Voice00/00-00/00-00-B01/00-00-B01-0110	1	xxx	00:10:01;
+
+[PlayMovie]=00:11:00	Ini/Movie00/00-00/00-00-B01/00-00-B01-003	0	00:16:12;
+
+#[PrintText]=00:11:14	Makoto	"¿No le has dicho a nadie no?" 	00:16:12;
+
+[PlaySe]=00:11:08	1	Se00/00-00/00-00-B01/SE00-00-B01-001	00:12:00;
+
+[PlayMovie]=00:16:12	Movie00/00-00/00-00-B01/00-00-B01-004	0	00:18:16;
+
+[PlaySe]=00:16:23	1	Se00/00-00/00-00-B01/SE00-00-B01-002	00:17:18;
+
+[PlaySe]=00:17:21	2	Se00/00-00/00-00-B01/SE00-00-B01-003	00:20:20;
+
+[PlayMovie]=00:18:16	Movie00/00-00/00-00-B01/00-00-B01-005	0	00:21:10;
+
+[PlaySe]=00:18:19	3	Voice00/00-00/00-00-B01/00-00-B01-0072	00:29:07;
+
+[PrintText]=00:19:21	Makoto	¡Hey, hey, hey!	00:21:12;
+
+[PlayVoice]=00:19:21	Voice00/00-00/00-00-B01/00-00-B01-0140	1	xxx	00:21:12;
+
+[PlayMovie]=00:21:10	Ini/Movie00/00-00/00-00-B01/00-00-B01-006	0	00:24:21;
+
+#[PrintText]=00:21:12	Sekai	"¡Es un secreto!".	00:24:21;
+
+[CreateBG]=00:24:21	BGS	Event00/00-00/00-00-B01/00-00-B01-007	00:29:07;
+
+[PrintText]=00:25:05	Makoto	...	00:26:15;
+
+[PlayVoice]=00:25:05	Voice00/00-00/00-00-B01/00-00-B01-0170	1	mak	00:26:15;
+
+[BlackFade]=00:28:19	OUT	00:29:07;
+
+ ;
+
+[Next]=00:29:07;
+
+
+
+

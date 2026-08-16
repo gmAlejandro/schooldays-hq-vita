@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:26:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:26:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-002	00:06:20;
+
+[PrintText]=00:03:01	Sekai	Haah...	00:04:01;
+
+[PlayVoice]=00:03:01	Voice03/03-KA/03-KA-K00/03-KA-K00-0050	0	sek	00:04:01;
+
+[PrintText]=00:04:12	Setsuna	Sekai.	00:05:12;
+
+[PlayVoice]=00:04:12	Voice03/03-KA/03-KA-K00/03-KA-K00-0060	0	set	00:05:12;
+
+[PrintText]=00:05:19	Sekai	Uh-huh.	00:06:15;
+
+[PlayVoice]=00:05:19	Voice03/03-KA/03-KA-K00/03-KA-K00-0070	0	sek	00:06:15;
+
+[CreateBG]=00:06:20	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-003A	00:10:11;
+
+[PrintText]=00:06:22	Setsuna	¿Tienes algo que hacer con la presidente de la clase 4?^	00:10:18;
+
+[PlayVoice]=00:06:22	Voice03/03-KA/03-KA-K00/03-KA-K00-0080	0	set	00:10:18;
+
+[CreateBG]=00:10:11	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-003B	00:12:01;
+
+[PrintText]=00:10:11	Sekai	¡¿Eh?!	00:11:00;
+
+[PlayVoice]=00:10:11	Voice03/03-KA/03-KA-K00/03-KA-K00-0090	0	sek	00:11:00;
+
+[PrintText]=00:11:10	Setsuna	...	00:11:20;
+
+[PlayVoice]=00:11:10	Voice03/03-KA/03-KA-K00/03-KA-K00-0110	0	xxx	00:11:20;
+
+[CreateBG]=00:12:01	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-002	00:13:10;
+
+[PrintText]=00:12:03	Sekai	Realmente no...	00:13:04;
+
+[PlayVoice]=00:12:03	Voice03/03-KA/03-KA-K00/03-KA-K00-0120	0	sek	00:13:04;
+
+[CreateBG]=00:13:10	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-005	00:21:02;
+
+[PrintText]=00:13:12	Setsuna	Parece que esa chica e Itou están haciendo algo juntos.	00:17:09;
+
+[PlayVoice]=00:13:12	Voice03/03-KA/03-KA-K00/03-KA-K00-0130	0	set	00:17:09;
+
+[PrintText]=00:17:14	Sekai	Uh-huh...	00:18:09;
+
+[PlayVoice]=00:17:14	Voice03/03-KA/03-KA-K00/03-KA-K00-0140	0	sek	00:18:09;
+
+[PrintText]=00:18:14	Setsuna	Lo sabía.	00:19:21;
+
+[PlayVoice]=00:18:14	Voice03/03-KA/03-KA-K00/03-KA-K00-0150	0	set	00:19:21;
+
+[PrintText]=00:19:21	Sekai	No lo sé...	00:20:22;
+
+[PlayVoice]=00:19:21	Voice03/03-KA/03-KA-K00/03-KA-K00-0160	0	sek	00:20:22;
+
+[CreateBG]=00:21:02	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-006	00:21:20;
+
+[PrintText]=00:21:04	Setsuna	pero Itou...	00:22:10;
+
+[PlayVoice]=00:21:04	Voice03/03-KA/03-KA-K00/03-KA-K00-0170	0	set	00:22:10;
+
+[CreateBG]=00:21:20	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-007A	00:23:23;
+
+[PrintText]=00:21:20	Sekai	¡Ya te dije, no lo sé!	00:23:17;
+
+[PlayVoice]=00:21:20	Voice03/03-KA/03-KA-K00/03-KA-K00-0180	0	sek	00:23:17;
+
+[CreateBG]=00:23:23	BGS	Event03/03-KA/03-KA-K00/03-KA-K00-007B	00:26:15;
+
+[PrintText]=00:24:09	Setsuna	...	00:25:04;
+
+[PlayVoice]=00:24:09	Voice03/03-KA/03-KA-K00/03-KA-K00-0190	0	xxx	00:25:04;
+
+[BlackFade]=00:25:15	OUT	00:26:15;
+
+ ;
+
+[Next]=00:26:15;
+
+

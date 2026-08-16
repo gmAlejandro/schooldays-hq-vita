@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:15:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:21:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-F02/03-KA-F02-001	00:14:07;
+
+[PrintText]=00:00:00	Makoto	'Quiero que vayamos más lejos.'.	00:06:17;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-F02/03-KA-F02-0030	1	mak	00:06:17;
+
+[PrintText]=00:07:18	Makoto	'No solo besándonos...' Veamos...	00:13:21;
+
+[PlayVoice]=00:07:18	Voice03/03-KA/03-KA-F02/03-KA-F02-0040	1	mak	00:13:21;
+
+[CreateBG]=00:14:07	BGS	Event03/03-KA/03-KA-F02/03-KA-F02-002	00:21:23;
+
+[PrintText]=00:14:22	Makoto	¿Qué deberíamos hacer...?^	00:16:09;
+
+[PlayVoice]=00:14:22	Voice03/03-KA/03-KA-F02/03-KA-F02-0050	1	mak	00:16:09;
+
+[SetSELECT]=00:15:18	'Quiero abrazarte'	'Hacer cosas pervertidas..'	00:20:18;
+
+ ;
+
+[Next]=00:21:23;
+
+

@@ -1,0 +1,175 @@
+﻿[SkipFRAME]=02:01:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:01:17;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-001	00:24:14;
+
+[PrintText]=00:00:00	Sekai	Hey, Nanami.	00:01:12;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-H02/04-SE-H02-0040	0	sek	00:01:12;
+
+[PrintText]=00:01:12	Nanami	¿Sí?^	00:02:11;
+
+[PlayVoice]=00:01:12	Voice04/04-SE/04-SE-H02/04-SE-H02-0050	0	nan	00:02:11;
+
+[PrintText]=00:02:10	Sekai	¿Conoces a Katou-san de la clase 4?^	00:06:05;
+
+[PlayVoice]=00:02:10	Voice04/04-SE/04-SE-H02/04-SE-H02-0060	0	sek	00:06:05;
+
+[PrintText]=00:06:04	Nanami	Sí. Estamos juntas en el club de baloncesto.	00:08:15;
+
+[PlayVoice]=00:06:04	Voice04/04-SE/04-SE-H02/04-SE-H02-0070	0	nan	00:08:15;
+
+[PrintText]=00:08:15	Sekai	...¿Cómo es ella?^	00:09:21;
+
+[PlayVoice]=00:08:15	Voice04/04-SE/04-SE-H02/04-SE-H02-0080	0	sek	00:09:21;
+
+[PrintText]=00:09:21	Nanami	¿Cómo es ella? Es una buena chica. Suele ser competitiva, así que es como la cabeza de las chicas de la clase 4. Hey Otome.	00:19:00;
+
+[PlayVoice]=00:09:21	Voice04/04-SE/04-SE-H02/04-SE-H02-0090	0	nan	00:19:00;
+
+[PrintText]=00:19:00	Sekai	¡Wawah! No la traigas aquí.	00:21:11;
+
+[PlayVoice]=00:19:00	Voice04/04-SE/04-SE-H02/04-SE-H02-0100	0	sek	00:21:11;
+
+[PrintText]=00:21:10	Otome	¿Qué?^	00:22:10;
+
+[PlayVoice]=00:21:10	Voice04/04-SE/04-SE-H02/04-SE-H02-0110	0	oto	00:22:10;
+
+[PrintText]=00:22:10	Nanami	Ella es Katou Otome.	00:24:13;
+
+[PlayVoice]=00:22:10	Voice04/04-SE/04-SE-H02/04-SE-H02-0120	0	nan	00:24:13;
+
+[PrintText]=00:24:13	Sekai	Um... Hola.	00:27:20;
+
+[PlayVoice]=00:24:13	Voice04/04-SE/04-SE-H02/04-SE-H02-0130	0	sek	00:27:20;
+
+[CreateBG]=00:24:14	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-002	00:38:06;
+
+[PrintText]=00:27:20	Otome	Hola... ah, tú eres la chica que conocí ayer.	00:32:18;
+
+[PlayVoice]=00:27:20	Voice04/04-SE/04-SE-H02/04-SE-H02-0140	0	oto	00:32:18;
+
+[PrintText]=00:32:17	Nanami	Ya veo.	00:33:22;
+
+[PlayVoice]=00:32:17	Voice04/04-SE/04-SE-H02/04-SE-H02-0150	0	nan	00:33:22;
+
+[PrintText]=00:33:22	Otome	Almuerzas con Itou ¿No?^	00:36:11;
+
+[PlayVoice]=00:33:22	Voice04/04-SE/04-SE-H02/04-SE-H02-0160	0	oto	00:36:11;
+
+[PrintText]=00:36:11	Sekai	Ah... sí.	00:38:04;
+
+[PlayVoice]=00:36:11	Voice04/04-SE/04-SE-H02/04-SE-H02-0170	0	sek	00:38:04;
+
+[PrintText]=00:38:04	Nanami	¿Qué? ¿Conoces a Itou?^	00:41:03;
+
+[PlayVoice]=00:38:04	Voice04/04-SE/04-SE-H02/04-SE-H02-0180	0	nan	00:41:03;
+
+[CreateBG]=00:38:06	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-003	01:07:14;
+
+[PrintText]=00:41:03	Otome	Solíamos ir a todos lados juntos.	00:42:21;
+
+[PlayVoice]=00:41:03	Voice04/04-SE/04-SE-H02/04-SE-H02-0190	0	oto	00:42:21;
+
+[PrintText]=00:42:21	Nanami	Ah... y ahora que estás en el club de baloncesto, ¿Estás muy ocupada?^	00:47:12;
+
+[PlayVoice]=00:42:21	Voice04/04-SE/04-SE-H02/04-SE-H02-0200	0	nan	00:47:12;
+
+[PrintText]=00:47:13	Otome	No es eso, pero a sido difícil reunirme con mis amigos de la primaria ahora que estamos en la primaria.	00:53:15;
+
+[PlayVoice]=00:47:13	Voice04/04-SE/04-SE-H02/04-SE-H02-0210	0	oto	00:53:15;
+
+[PrintText]=00:53:22	Nanami	¡Ah, ya sé a qué te refieres!	00:56:04;
+
+[PlayVoice]=00:53:22	Voice04/04-SE/04-SE-H02/04-SE-H02-0220	0	nan	00:56:04;
+
+[PrintText]=00:55:23	Otome	¿No eras tú la única con una beca deportiva en la primaria de Harami?^	00:59:11;
+
+[PlayVoice]=00:55:23	Voice04/04-SE/04-SE-H02/04-SE-H02-0230	0	oto	00:59:11;
+
+[PrintText]=00:59:11	Nanami	Eso no tiene nada que ver con la amistad. Awww, me siento tan sola. Venga... los ex-compañeros...	01:07:17;
+
+[PlayVoice]=00:59:11	Voice04/04-SE/04-SE-H02/04-SE-H02-0240	0	nan	01:07:17;
+
+[CreateBG]=01:07:14	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-004	01:17:03;
+
+[PrintText]=01:07:17	Otome	Más importante, ¿Viste la lista de actividad del club hoy?^	01:11:00;
+
+[PlayVoice]=01:07:17	Voice04/04-SE/04-SE-H02/04-SE-H02-0250	0	oto	01:11:00;
+
+[PrintText]=01:11:00	Nanami	Sí, Lo sé. ¿Qué hay con eso? Está difícil.	01:15:08;
+
+[PlayVoice]=01:11:00	Voice04/04-SE/04-SE-H02/04-SE-H02-0260	0	nan	01:15:08;
+
+[PrintText]=01:15:08	Sekai	Haah...	01:17:04;
+
+[PlayVoice]=01:15:08	Voice04/04-SE/04-SE-H02/04-SE-H02-0280	0	sek	01:17:04;
+
+[CreateBG]=01:17:03	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-005	01:25:19;
+
+[PrintText]=01:17:04	Kotonoha	Estaba mirando.	01:18:07;
+
+[PlayVoice]=01:17:04	Voice04/04-SE/04-SE-H02/04-SE-H02-0300	0	kot	01:18:07;
+
+[PrintText]=01:18:07	Sekai	Uh-huh...	01:19:04;
+
+[PlayVoice]=01:18:07	Voice04/04-SE/04-SE-H02/04-SE-H02-0310	0	sek	01:19:04;
+
+[PrintText]=01:19:04	Kotonoha	Katou-san... Ella realmente tiene ese aire de ser amiga suya ¿No?^	01:23:20;
+
+[PlayVoice]=01:19:04	Voice04/04-SE/04-SE-H02/04-SE-H02-0320	0	kot	01:23:20;
+
+[PrintText]=01:23:20	Sekai	Uuh...	01:25:21;
+
+[PlayVoice]=01:23:20	Voice04/04-SE/04-SE-H02/04-SE-H02-0330	0	sek	01:25:21;
+
+[CreateBG]=01:25:19	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-006	01:37:01;
+
+[PrintText]=01:25:21	Kotonoha	Ella a estado aún más alegre desde que empezó a salir con Makoto-kun... no se compararía con nada.	01:34:11;
+
+[PlayVoice]=01:25:21	Voice04/04-SE/04-SE-H02/04-SE-H02-0340	0	kot	01:34:11;
+
+[PrintText]=01:34:11	Sekai	Ya veo...	01:35:22;
+
+[PlayVoice]=01:34:11	Voice04/04-SE/04-SE-H02/04-SE-H02-0350	0	sek	01:35:22;
+
+[CreateBG]=01:37:01	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-007	01:52:01;
+
+[PrintText]=01:37:05	Sekai	Ella es... linda ¿No?^	01:40:04;
+
+[PlayVoice]=01:37:05	Voice04/04-SE/04-SE-H02/04-SE-H02-0370	0	sek	01:40:04;
+
+[PrintText]=01:40:04	Kotonoha	¿Eh...? ¿Tú lo crees?^	01:42:14;
+
+[PlayVoice]=01:40:04	Voice04/04-SE/04-SE-H02/04-SE-H02-0380	0	kot	01:42:14;
+
+[PrintText]=01:42:14	Sekai	Uh-huh... ella es bonita y delgada por jugar baloncesto, y también son de la misma altura. Se ven bien juntos.	01:52:02;
+
+[PlayVoice]=01:42:14	Voice04/04-SE/04-SE-H02/04-SE-H02-0390	0	sek	01:52:02;
+
+[CreateBG]=01:52:01	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-008	01:57:13;
+
+[PrintText]=01:52:02	Kotonoha	Eso no es verdad.	01:53:20;
+
+[PlayVoice]=01:52:02	Voice04/04-SE/04-SE-H02/04-SE-H02-0400	0	kot	01:53:20;
+
+[PrintText]=01:53:20	Sekai	¿Lo crees así?^	01:55:02;
+
+[PlayVoice]=01:53:20	Voice04/04-SE/04-SE-H02/04-SE-H02-0410	0	sek	01:55:02;
+
+[PrintText]=01:55:02	Kotonoha	Katou-san no puede.	01:57:10;
+
+[PlayVoice]=01:55:02	Voice04/04-SE/04-SE-H02/04-SE-H02-0420	0	kot	01:57:10;
+
+[CreateBG]=01:57:13	BGS	Event04/04-SE/04-SE-H02/04-SE-H02-009	02:01:17;
+
+[PrintText]=01:58:01	Sekai	Uh-huh...	01:58:20;
+
+[PlayVoice]=01:58:01	Voice04/04-SE/04-SE-H02/04-SE-H02-0430	0	sek	01:58:20;
+
+ ;
+
+[Next]=02:01:17;
+
+

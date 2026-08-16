@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:16:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:22:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-D03/03-A1-D03-001	00:02:12;
+
+[PrintText]=00:00:00	Makoto	...	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-D03/03-A1-D03-0030	1	xxx	00:00:22;
+
+[PrintText]=00:00:23	Setsuna	Estás saliendo con...	00:03:02;
+
+[PlayVoice]=00:00:23	Voice03/03-A1/03-A1-D03/03-A1-D03-0040	0	set	00:03:02;
+
+[CreateBG]=00:02:12	BGS	Event03/03-A1/03-A1-D03/03-A1-D03-002	00:04:02;
+
+[PrintText]=00:02:12	Makoto	¡Ya te escuche!	00:03:23;
+
+[PlayVoice]=00:02:12	Voice03/03-A1/03-A1-D03/03-A1-D03-0050	1	mak	00:03:23;
+
+[CreateBG]=00:04:02	BGS	Event03/03-A1/03-A1-D03/03-A1-D03-003A	00:08:08;
+
+[PrintText]=00:04:06	Setsuna	... ¿No quieres responder?^	00:05:20;
+
+[PlayVoice]=00:04:06	Voice03/03-A1/03-A1-D03/03-A1-D03-0060	0	set	00:05:20;
+
+[PrintText]=00:05:16	Makoto	Pues no.	00:07:02;
+
+[PlayVoice]=00:05:16	Voice03/03-A1/03-A1-D03/03-A1-D03-0070	1	mak	00:07:02;
+
+[PrintText]=00:07:04	Setsuna	...	00:08:06;
+
+[PlayVoice]=00:07:04	Voice03/03-A1/03-A1-D03/03-A1-D03-0080	0	xxx	00:08:06;
+
+[CreateBG]=00:08:08	BGS	Event03/03-A1/03-A1-D03/03-A1-D03-003B	00:09:20;
+
+[PrintText]=00:08:08	Makoto	No te ves contenta.	00:09:17;
+
+[PlayVoice]=00:08:08	Voice03/03-A1/03-A1-D03/03-A1-D03-0090	1	mak	00:09:17;
+
+[CreateBG]=00:09:20	BGS	Event03/03-A1/03-A1-D03/03-A1-D03-003C	00:10:21;
+
+[PrintText]=00:09:21	Setsuna	Lo estoy.	00:10:20;
+
+[PlayVoice]=00:09:21	Voice03/03-A1/03-A1-D03/03-A1-D03-0100	0	set	00:10:20;
+
+[CreateBG]=00:10:21	BGS	Event03/03-A1/03-A1-D03/03-A1-D03-001	00:14:17;
+
+[PrintText]=00:10:23	Makoto	Esto es personal. Déjame solo.	00:14:15;
+
+[PlayVoice]=00:10:23	Voice03/03-A1/03-A1-D03/03-A1-D03-0110	1	mak	00:14:15;
+
+[CreateBG]=00:14:17	BGS	Event03/03-A1/03-A1-D03/03-A1-D03-005	00:16:10;
+
+[PrintText]=00:14:18	Setsuna	No quiero.	00:16:07;
+
+[PlayVoice]=00:14:18	Voice03/03-A1/03-A1-D03/03-A1-D03-0120	0	set	00:16:07;
+
+[CreateBG]=00:16:10	BGS	Event03/03-A1/03-A1-D03/03-A1-D03-006	00:22:20;
+
+[PrintText]=00:16:12	Makoto	...	00:17:06;
+
+[PlayVoice]=00:16:12	Voice03/03-A1/03-A1-D03/03-A1-D03-0130	1	xxx	00:17:06;
+
+[SetSELECT]=00:16:17	*Decirlo lo que pasó*	null	00:21:17;
+
+ ;
+
+[Next]=00:22:20;
+
+

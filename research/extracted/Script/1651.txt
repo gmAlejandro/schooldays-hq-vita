@@ -1,0 +1,52 @@
+﻿[SkipFRAME]=00:16:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:16:13;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:16:13;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-F03/05-KB-F03-001	00:01:20;
+
+[PrintText]=00:00:00	Makoto	¿Kotonoha?^	00:01:20;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-F03/05-KB-F03-0030	1	mak	00:01:20;
+
+[CreateBG]=00:01:20	BGS	Event05/05-KB/05-KB-F03/05-KB-F03-002	00:06:00;
+
+[PrintText]=00:01:20	Kotonoha	Makoto-kun.	00:03:02;
+
+[PlayVoice]=00:01:20	Voice05/05-KB/05-KB-F03/05-KB-F03-0040	0	kot	00:03:02;
+
+[PrintText]=00:03:03	Makoto	¿Pasa algo?^	00:05:23;
+
+[PlayVoice]=00:03:03	Voice05/05-KB/05-KB-F03/05-KB-F03-0050	1	mak	00:05:23;
+
+[CreateBG]=00:06:00	BGS	Event05/05-KB/05-KB-F03/05-KB-F03-003	00:09:19;
+
+[PrintText]=00:07:19	Kotonoha	No, nada...	00:09:19;
+
+[PlayVoice]=00:07:19	Voice05/05-KB/05-KB-F03/05-KB-F03-0070	0	kot	00:09:19;
+
+[PrintText]=00:09:18	Makoto	¿En serio?^	00:11:13;
+
+[PlayVoice]=00:09:18	Voice05/05-KB/05-KB-F03/05-KB-F03-0080	1	mak	00:11:13;
+
+[CreateBG]=00:09:19	BGS	Event05/05-KB/05-KB-F03/05-KB-F03-005	00:13:00;
+
+[PrintText]=00:11:13	Nanami	A-Así que, ¿Vieron ayer la TV?^	00:14:17;
+
+[PlayVoice]=00:11:13	Voice05/05-KB/05-KB-F03/05-KB-F03-0090	0	nan	00:14:17;
+
+[CreateBG]=00:13:00	BGS	Event05/05-KB/05-KB-F03/05-KB-F03-006	00:16:13;
+
+[PrintText]=00:14:17	Makoto	¿Qúe hubo?^	00:16:11;
+
+[PlayVoice]=00:14:17	Voice05/05-KB/05-KB-F03/05-KB-F03-0100	1	mak	00:16:11;
+
+ ;
+
+[Next]=00:16:13;
+
+
+
+
+

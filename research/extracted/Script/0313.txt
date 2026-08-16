@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:18:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:24:09;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-H08/SE02-2S-H08-001	00:24:09;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-H08/02-2S-H08-001	00:02:13;
+
+[PrintText]=00:00:00	Makoto	...	00:01:03;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-H08/02-2S-H08-0030	1	xxx	00:01:03;
+
+[PrintText]=00:01:04	Sekai	Gracias por la comida.	00:02:13;
+
+[PlayVoice]=00:01:04	Voice02/02-2S/02-2S-H08/02-2S-H08-0040	0	sek	00:02:13;
+
+[CreateBG]=00:02:13	BGS	Event02/02-2S/02-2S-H08/02-2S-H08-002	00:09:20;
+
+[PrintText]=00:02:13	Kotonoha	¿Ya no vas a comer?^	00:04:12;
+
+[PlayVoice]=00:02:13	Voice02/02-2S/02-2S-H08/02-2S-H08-0050	0	kot	00:04:12;
+
+[PrintText]=00:04:12	Sekai	Nop, Realmente no tengo hambre.	00:08:09;
+
+[PlayVoice]=00:04:12	Voice02/02-2S/02-2S-H08/02-2S-H08-0060	0	sek	00:08:09;
+
+[PrintText]=00:08:10	Kotonoha	Ya veo.	00:09:20;
+
+[PlayVoice]=00:08:10	Voice02/02-2S/02-2S-H08/02-2S-H08-0070	0	kot	00:09:20;
+
+[CreateBG]=00:09:20	BGS	Event02/02-2S/02-2S-H08/02-2S-H08-003	00:24:09;
+
+[PrintText]=00:09:20	Sekai	Bueno, volveré a clases.	00:12:20;
+
+[PlayVoice]=00:09:20	Voice02/02-2S/02-2S-H08/02-2S-H08-0080	0	sek	00:12:20;
+
+[PrintText]=00:12:20	Makoto	Recién acabamos de empezar.	00:15:04;
+
+[PlayVoice]=00:12:20	Voice02/02-2S/02-2S-H08/02-2S-H08-0090	1	mak	00:15:04;
+
+[PrintText]=00:15:04	Sekai	Sip, ustedes pueden continuar.	00:18:00;
+
+[PlayVoice]=00:15:04	Voice02/02-2S/02-2S-H08/02-2S-H08-0100	0	sek	00:18:00;
+
+[PrintText]=00:18:00	Makoto	Pero...	00:18:23;
+
+[PlayVoice]=00:18:00	Voice02/02-2S/02-2S-H08/02-2S-H08-0110	1	mak	00:18:23;
+
+[SetSELECT]=00:18:09	*Ir con ella*	*Ir Todos*	00:23:09;
+
+ ;
+
+[Next]=00:24:09;
+
+
+
+

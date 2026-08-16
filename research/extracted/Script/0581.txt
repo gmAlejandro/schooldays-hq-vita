@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:18:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:18:15;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-I04/SE03-KA-I04-001	00:18:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I04/03-KA-I04-001	00:03:23;
+
+[PrintText]=00:00:00	Makoto	...	00:01:05;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I04/03-KA-I04-0030	1	xxx	00:01:05;
+
+[PrintText]=00:01:12	Kotonoha	Makoto-kun...	00:02:14;
+
+[PlayVoice]=00:01:12	Voice03/03-KA/03-KA-I04/03-KA-I04-0040	0	kot	00:02:14;
+
+[PrintText]=00:02:21	Setsuna	Itou.	00:03:17;
+
+[PlayVoice]=00:02:21	Voice03/03-KA/03-KA-I04/03-KA-I04-0050	0	set	00:03:17;
+
+[CreateBG]=00:03:23	BGS	Event03/03-KA/03-KA-I04/03-KA-I04-002	00:12:01;
+
+[PrintText]=00:04:00	Makoto	Uuu... ¿Estoy jodido aquí...?^	00:08:02;
+
+[PlayVoice]=00:04:00	Voice03/03-KA/03-KA-I04/03-KA-I04-0060	1	xxx	00:08:02;
+
+[PrintText]=00:07:23	Comite	¡Hey! ¿Puede alguien de primer año ayudarme a mover algo aquí?^	00:12:10;
+
+[PlayVoice]=00:07:23	Voice03/03-KA/03-KA-I04/03-KA-I04-0070	0	jin	00:12:10;
+
+[CreateBG]=00:12:01	BGS	Event03/03-KA/03-KA-I04/03-KA-I04-003	00:13:22;
+
+[PrintText]=00:12:01	Makoto	¡Ah! ¡Sí!	00:14:11;
+
+[PlayVoice]=00:12:01	Voice03/03-KA/03-KA-I04/03-KA-I04-0080	1	mak	00:14:11;
+
+[CreateBG]=00:13:22	BGS	Event03/03-KA/03-KA-I04/03-KA-I04-004	00:18:15;
+
+[PrintText]=00:14:01	Kotonoha	¡Ah...!	00:14:19;
+
+[PlayVoice]=00:14:01	Voice03/03-KA/03-KA-I04/03-KA-I04-0100	0	kot	00:14:19;
+
+[PrintText]=00:15:01	Setsuna	Mmn. Se fue...	00:17:09;
+
+[PlayVoice]=00:15:01	Voice03/03-KA/03-KA-I04/03-KA-I04-0110	0	set	00:17:09;
+
+[BlackFade]=00:17:15	OUT	00:18:15;
+
+ ;
+
+[Next]=00:18:15;
+
+

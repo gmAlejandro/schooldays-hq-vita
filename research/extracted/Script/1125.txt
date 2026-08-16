@@ -1,0 +1,179 @@
+﻿[SkipFRAME]=03:00:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	03:00:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-001	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-002	00:07:15;
+
+[PrintText]=00:01:09	Makoto	¿Qué pasa?^	00:02:23;
+
+[PlayVoice]=00:01:09	Voice04/04-SA/04-SA-I09/04-SA-I09-0030	1	mak	00:02:23;
+
+[PrintText]=00:03:00	Itaru	Un fantasma.	00:04:21;
+
+[PlayVoice]=00:03:00	Voice04/04-SA/04-SA-I09/04-SA-I09-0040	0	ita	00:04:21;
+
+[PrintText]=00:04:22	Makoto	¿Fantasma?^	00:06:02;
+
+[PlayVoice]=00:04:22	Voice04/04-SA/04-SA-I09/04-SA-I09-0050	1	mak	00:06:02;
+
+[PrintText]=00:06:03	Itaru	¡Lo he visto!	00:07:15;
+
+[PlayVoice]=00:06:03	Voice04/04-SA/04-SA-I09/04-SA-I09-0060	0	ita	00:07:15;
+
+[CreateBG]=00:07:15	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-002B	00:15:03;
+
+[PrintText]=00:08:00	Makoto	¿Dónde?^	00:09:05;
+
+[PlayVoice]=00:08:00	Voice04/04-SA/04-SA-I09/04-SA-I09-0070	1	mak	00:09:05;
+
+[PrintText]=00:09:09	Itaru	Por la ventana... estaba colgando.	00:12:09;
+
+[PlayVoice]=00:09:09	Voice04/04-SA/04-SA-I09/04-SA-I09-0080	0	ita	00:12:09;
+
+[PrintText]=00:12:09	Makoto	Es solo la ropa.	00:15:04;
+
+[PlayVoice]=00:12:09	Voice04/04-SA/04-SA-I09/04-SA-I09-0090	1	mak	00:15:04;
+
+[CreateBG]=00:15:03	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-002C	00:23:03;
+
+[PrintText]=00:15:11	Itaru	¡No es solo la ropa! ¡Había un fantasma también!	00:19:15;
+
+[PlayVoice]=00:15:11	Voice04/04-SA/04-SA-I09/04-SA-I09-0100	0	ita	00:19:15;
+
+[PrintText]=00:19:15	Makoto	¿En serio?^	00:20:18;
+
+[PlayVoice]=00:19:15	Voice04/04-SA/04-SA-I09/04-SA-I09-0110	1	mak	00:20:18;
+
+[PrintText]=00:20:20	Itaru	Uh-huh... tengo miedo.	00:23:04;
+
+[PlayVoice]=00:20:20	Voice04/04-SA/04-SA-I09/04-SA-I09-0120	0	ita	00:23:04;
+
+[CreateBG]=00:23:03	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-002D	00:30:05;
+
+[PrintText]=00:23:13	Makoto	Creo que no se puede evitar... dormiré contigo.	00:28:10;
+
+[PlayVoice]=00:23:13	Voice04/04-SA/04-SA-I09/04-SA-I09-0130	1	mak	00:28:10;
+
+[PrintText]=00:28:11	Itaru	¿En serio?^	00:29:14;
+
+[PlayVoice]=00:28:11	Voice04/04-SA/04-SA-I09/04-SA-I09-0140	0	ita	00:29:14;
+
+[PrintText]=00:29:09	Makoto	Sí, con eso estará bien ¿No?^	00:31:21;
+
+[PlayVoice]=00:29:09	Voice04/04-SA/04-SA-I09/04-SA-I09-0150	1	mak	00:31:21;
+
+[CreateBG]=00:30:05	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-003	00:37:10;
+
+[PrintText]=00:31:21	Itaru	¡Señor oso también!	00:33:15;
+
+[PlayVoice]=00:31:21	Voice04/04-SA/04-SA-I09/04-SA-I09-0160	0	ita	00:33:15;
+
+[PrintText]=00:33:16	Makoto	Sí. Señor oso también.	00:37:09;
+
+[PlayVoice]=00:33:16	Voice04/04-SA/04-SA-I09/04-SA-I09-0170	1	mak	00:37:09;
+
+[CreateBG]=00:37:10	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-004	00:41:04;
+
+[PrintText]=00:37:14	Itaru	Y entonces...	00:38:18;
+
+[PlayVoice]=00:37:14	Voice04/04-SA/04-SA-I09/04-SA-I09-0180	0	ita	00:38:18;
+
+[PrintText]=00:38:13	Makoto	¿Qué? ¿Hay más?^	00:39:22;
+
+[PlayVoice]=00:38:13	Voice04/04-SA/04-SA-I09/04-SA-I09-0190	1	mak	00:39:22;
+
+[PrintText]=00:39:22	Itaru	Léeme un libro.	00:41:07;
+
+[PlayVoice]=00:39:22	Voice04/04-SA/04-SA-I09/04-SA-I09-0200	0	ita	00:41:07;
+
+[CreateBG]=00:41:04	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-005	00:42:23;
+
+[PrintText]=00:41:08	Makoto	Un libro, huh.	00:43:00;
+
+[PlayVoice]=00:41:08	Voice04/04-SA/04-SA-I09/04-SA-I09-0210	1	mak	00:43:00;
+
+[CreateBG]=00:42:23	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-006	00:45:18;
+
+[PrintText]=00:43:06	Itaru	¡Léelo!	00:44:10;
+
+[PlayVoice]=00:43:06	Voice04/04-SA/04-SA-I09/04-SA-I09-0220	0	ita	00:44:10;
+
+[PrintText]=00:44:07	Makoto	Vale. Cogeré un libro infantil al azar, veamos... este está bien.	00:52:09;
+
+[PlayVoice]=00:44:07	Voice04/04-SA/04-SA-I09/04-SA-I09-0230	1	mak	00:52:09;
+
+[CreateBG]=00:45:18	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-010	00:50:14;
+
+[PlaySe]=00:48:18	1	Se04/04-SA/04-SA-I09/SE04-SA-I09-001	00:49:03;
+
+[PlaySe]=00:49:08	2	Se04/04-SA/04-SA-I09/SE04-SA-I09-001	00:50:07;
+
+[CreateBG]=00:50:14	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-008	00:53:05;
+
+[PrintText]=00:52:07	Itaru	Kufufu...	00:53:06;
+
+[PlayVoice]=00:52:07	Voice04/04-SA/04-SA-I09/04-SA-I09-0240	0	ita	00:53:06;
+
+[CreateBG]=00:53:05	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-009	02:46:09;
+
+[PrintText]=00:53:06	Makoto	Uh... 'Allí estaba en Shanghai previas horas al amanecer, enterrado bajo una densa niebla amarilla.'.	01:12:23;
+
+[PlayVoice]=00:53:06	Voice04/04-SA/04-SA-I09/04-SA-I09-0270	1	mak	01:12:23;
+
+[PrintText]=01:12:23	Makoto	'Había cerrado firmemente cada una de las gruesas persianas de la casa y sellado los restantes huecos con cinta.'.	01:26:21;
+
+[PlayVoice]=01:12:23	Voice04/04-SA/04-SA-I09/04-SA-I09-0271	1	mak	01:26:21;
+
+[PrintText]=01:26:21	Makoto	'Pero aún así la niebla llegó a rodearlo, apareciendo de la nada y haciéndolo como un sueño borroso.'.	01:41:14;
+
+[PlayVoice]=01:26:21	Voice04/04-SA/04-SA-I09/04-SA-I09-0272	1	mak	01:41:14;
+
+[PrintText]=01:41:14	Makoto	'¡¡El olor único de la niebla de Shanghai ya había penetrado en la habitación!!'.	01:50:12;
+
+[PlayVoice]=01:41:14	Voice04/04-SA/04-SA-I09/04-SA-I09-0273	1	mak	01:50:12;
+
+[PrintText]=01:50:11	Itaru	Nnn...	01:51:21;
+
+[PlayVoice]=01:50:11	Voice04/04-SA/04-SA-I09/04-SA-I09-0280	0	ita	01:51:21;
+
+[PrintText]=01:51:21	Makoto	'"¡Oh, Green 18, nuestro vice-líder!" El líder se quitó la máscara y acunó el cuerpo de la señora.'.	02:06:21;
+
+[PlayVoice]=01:51:21	Voice04/04-SA/04-SA-I09/04-SA-I09-0300	1	mak	02:06:21;
+
+[PrintText]=02:06:21	Makoto	'Como era de esperar, fue el Embajador Di Schuler. El cuerpo de la Madam Lau todavía estaba caliente.'.	02:24:11;
+
+[PlayVoice]=02:06:21	Voice04/04-SA/04-SA-I09/04-SA-I09-0301	1	mak	02:24:11;
+
+[PrintText]=02:24:11	Makoto	'Pero para cuando el líder volvió a buscarme,'.	02:31:11;
+
+[PlayVoice]=02:24:11	Voice04/04-SA/04-SA-I09/04-SA-I09-0302	1	mak	02:44:05;
+
+[PrintText]=02:31:11	Makoto	'Yo ya estaba en un avión con el camarada Lin Tien, muy por encima de los cielos de Shanghai.'.	02:42:11;
+
+[PrintText]=02:42:11	Makoto	'El fin.'.	02:44:05;
+
+[PrintText]=02:44:05	Itaru	Zzz... zzz...	02:46:12;
+
+[PlayVoice]=02:44:05	Voice04/04-SA/04-SA-I09/04-SA-I09-0310	0	ita	02:46:12;
+
+[CreateBG]=02:46:09	BGS	Event04/04-SA/04-SA-I09/04-SA-I09-010	03:00:02;
+
+[PrintText]=02:46:12	Makoto	Estaba muy interesante, pero es muy maduro para Itaru.	02:53:12;
+
+[PlayVoice]=02:46:12	Voice04/04-SA/04-SA-I09/04-SA-I09-0320	1	mak	02:53:12;
+
+[PrintText]=02:53:11	Itaru	Mnyah... onii-cha...	02:56:14;
+
+[PlayVoice]=02:53:11	Voice04/04-SA/04-SA-I09/04-SA-I09-0330	0	ita	02:56:14;
+
+[PrintText]=02:56:14	Makoto	...debería ir a dormir también.	03:00:01;
+
+[PlayVoice]=02:56:14	Voice04/04-SA/04-SA-I09/04-SA-I09-0340	1	mak	03:00:01;
+
+ ;
+
+[Next]=03:00:02;
+
+

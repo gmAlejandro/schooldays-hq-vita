@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:21:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:21:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E08/03-KB-E08-001	00:15:14;
+
+[PrintText]=00:00:00	Makoto	...probablemente diga que sí.	00:01:19;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E08/03-KB-E08-0030	1	mak	00:01:19;
+
+[PrintText]=00:01:19	Taisuke	¿E-En serio?^	00:03:20;
+
+[PlayVoice]=00:01:19	Voice03/03-KB/03-KB-E08/03-KB-E08-0040	1	tai	00:03:20;
+
+[PrintText]=00:03:19	Makoto	Sí. Conociéndote, estarás bien.	00:08:05;
+
+[PlayVoice]=00:03:19	Voice03/03-KB/03-KB-E08/03-KB-E08-0050	1	mak	00:08:05;
+
+[PrintText]=00:08:05	Taisuke	Haha... es un verdadero alivio hablar contigo.	00:13:14;
+
+[PlayVoice]=00:08:05	Voice03/03-KB/03-KB-E08/03-KB-E08-0060	1	tai	00:13:14;
+
+[PrintText]=00:13:14	Makoto	Uh-huh.	00:14:06;
+
+[PlayVoice]=00:13:14	Voice03/03-KB/03-KB-E08/03-KB-E08-0070	1	mak	00:14:06;
+
+[PrintText]=00:14:06	Taisuke	Bien, nos vemos mañana.	00:15:14;
+
+[PlayVoice]=00:14:06	Voice03/03-KB/03-KB-E08/03-KB-E08-0080	1	tai	00:15:14;
+
+[PrintText]=00:15:13	Makoto	Sí.	00:16:04;
+
+[PlayVoice]=00:15:13	Voice03/03-KB/03-KB-E08/03-KB-E08-0090	1	mak	00:16:04;
+
+[CreateBG]=00:15:14	BGS	Event03/03-KB/03-KB-E08/03-KB-E08-002	00:21:21;
+
+[PrintText]=00:16:04	Makoto	Haah...	00:16:21;
+
+[PlayVoice]=00:16:04	Voice03/03-KB/03-KB-E08/03-KB-E08-0110	1	mak	00:16:21;
+
+[PlaySe]=00:16:21	1	SysSe/SE_all/keitai/keitai_sousa	00:16:23;
+
+[PrintText]=00:16:21	Makoto	He... hecho lo correcto.	00:19:21;
+
+[PlayVoice]=00:16:21	Voice03/03-KB/03-KB-E08/03-KB-E08-0120	1	mak	00:19:21;
+
+ ;
+
+[Next]=00:21:21;
+
+

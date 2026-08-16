@@ -1,0 +1,13 @@
+﻿[SkipFRAME]=00:05:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-H00/04-SB-H00-001	00:05:00;
+
+[PrintText]=00:00:00	Makoto	¿Arriba...?^	00:00:18;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-H00/04-SB-H00-0030	1	mak	00:00:18;
+
+ ;
+
+[Next]=00:05:00;
+
+

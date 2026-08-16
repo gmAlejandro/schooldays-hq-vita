@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:13:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:13:03;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G02/SE03-SA-G02-001	00:13:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G02/03-SA-G02-001	00:04:12;
+
+[PrintText]=00:00:00	Sekai	...	00:00:11;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-G02/03-SA-G02-0030	0	xxx	00:00:11;
+
+[PrintText]=00:00:11	Makoto	¿Recuerdas desde cuando somos así?^	00:03:12;
+
+[PlayVoice]=00:00:11	Voice03/03-SA/03-SA-G02/03-SA-G02-0040	1	mak	00:03:12;
+
+[PrintText]=00:03:13	Sekai	...Sí.	00:04:11;
+
+[PlayVoice]=00:03:13	Voice03/03-SA/03-SA-G02/03-SA-G02-0050	0	sek	00:04:11;
+
+[CreateBG]=00:04:12	BGS	Event03/03-SA/03-SA-G02/03-SA-G02-002	00:05:19;
+
+[PrintText]=00:04:12	Makoto	Que bueno.	00:05:19;
+
+[PlayVoice]=00:04:12	Voice03/03-SA/03-SA-G02/03-SA-G02-0060	1	mak	00:05:19;
+
+[PrintText]=00:05:18	Sekai	¿Puedes decir como me siento también?^	00:08:11;
+
+[PlayVoice]=00:05:18	Voice03/03-SA/03-SA-G02/03-SA-G02-0070	0	sek	00:08:11;
+
+[CreateBG]=00:05:19	BGS	Event03/03-SA/03-SA-G02/03-SA-G02-003	00:08:11;
+
+[CreateBG]=00:08:11	BGS	Event03/03-SA/03-SA-G02/03-SA-G02-002	00:11:23;
+
+[PrintText]=00:08:11	Makoto	Me amas.	00:10:01;
+
+[PlayVoice]=00:08:11	Voice03/03-SA/03-SA-G02/03-SA-G02-0080	1	mak	00:10:01;
+
+[PrintText]=00:10:02	Sekai	...Bingo.	00:10:23;
+
+[PlayVoice]=00:10:02	Voice03/03-SA/03-SA-G02/03-SA-G02-0090	0	sek	00:10:23;
+
+[PrintText]=00:10:23	Makoto	Yo también te amo.	00:11:23;
+
+[PlayVoice]=00:10:23	Voice03/03-SA/03-SA-G02/03-SA-G02-0100	1	mak	00:11:23;
+
+[CreateBG]=00:11:23	BGS	Event03/03-SA/03-SA-G02/03-SA-G02-005	00:13:03;
+
+[PrintText]=00:11:23	Sekai	Uh-huh...	00:13:02;
+
+[PlayVoice]=00:11:23	Voice03/03-SA/03-SA-G02/03-SA-G02-0110	0	sek	00:13:02;
+
+ ;
+
+[Next]=00:13:03;
+
+

@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:31:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:31:11;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-O02/03-KB-O02-001	0	00:31:11;
+
+[PrintText]=00:00:00	Kotonoha	Hey... Makoto-kun...	00:02:18;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-O02/03-KB-O02-0030	0	kot	00:02:18;
+
+[PrintText]=00:02:18	Makoto	¿Hmn?^	00:03:10;
+
+[PlayVoice]=00:02:18	Voice03/03-KB/03-KB-O02/03-KB-O02-0040	1	mak	00:03:10;
+
+[PrintText]=00:03:10	Kotonoha	¿Lo has hecho antes?^	00:04:20;
+
+[PlayVoice]=00:03:10	Voice03/03-KB/03-KB-O02/03-KB-O02-0050	0	kot	00:04:20;
+
+[PrintText]=00:04:20	Makoto	¿Eh?^	00:05:10;
+
+[PlayVoice]=00:04:20	Voice03/03-KB/03-KB-O02/03-KB-O02-0060	1	mak	00:05:10;
+
+[PrintText]=00:05:10	Kotonoha	Con Saionji-san...	00:07:00;
+
+[PlayVoice]=00:05:10	Voice03/03-KB/03-KB-O02/03-KB-O02-0070	0	kot	00:07:00;
+
+[PrintText]=00:07:00	Makoto	¿Con Sekai?^	00:08:06;
+
+[PlayVoice]=00:07:00	Voice03/03-KB/03-KB-O02/03-KB-O02-0080	1	mak	00:08:06;
+
+[PrintText]=00:08:05	Kotonoha	Estas cosas...	00:09:12;
+
+[PlayVoice]=00:08:05	Voice03/03-KB/03-KB-O02/03-KB-O02-0090	0	kot	00:09:12;
+
+[PrintText]=00:09:12	Makoto	N-no. ¿Por qué?^	00:12:20;
+
+[PlayVoice]=00:09:12	Voice03/03-KB/03-KB-O02/03-KB-O02-0100	1	mak	00:12:20;
+
+[PrintText]=00:12:20	Kotonoha	...	00:13:13;
+
+[PlayVoice]=00:12:20	Voice03/03-KB/03-KB-O02/03-KB-O02-0110	0	xxx	00:13:13;
+
+[PrintText]=00:13:13	Makoto	Nunca he hecho esto antes. Créeme.	00:17:18;
+
+[PlayVoice]=00:13:13	Voice03/03-KB/03-KB-O02/03-KB-O02-0120	1	mak	00:17:18;
+
+[PrintText]=00:17:18	Kotonoha	...	00:18:22;
+
+[PlayVoice]=00:17:18	Voice03/03-KB/03-KB-O02/03-KB-O02-0130	0	xxx	00:18:22;
+
+[PrintText]=00:18:22	Makoto	Kotonoha.	00:20:07;
+
+[PlayVoice]=00:18:22	Voice03/03-KB/03-KB-O02/03-KB-O02-0140	1	mak	00:20:07;
+
+[PrintText]=00:20:06	Kotonoha	Sawanaga-san me dijo que te habías confesado a Saionji-san... le dijiste que la amabas...	00:30:02;
+
+[PlayVoice]=00:20:06	Voice03/03-KB/03-KB-O02/03-KB-O02-0150	0	kot	00:30:02;
+
+[PrintText]=00:30:03	Makoto	Eso...	00:31:11;
+
+[PlayVoice]=00:30:03	Voice03/03-KB/03-KB-O02/03-KB-O02-0160	1	mak	00:31:11;
+
+ ;
+
+[Next]=00:31:11;
+
+

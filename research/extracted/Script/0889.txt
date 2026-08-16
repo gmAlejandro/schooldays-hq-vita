@@ -1,0 +1,105 @@
+﻿[SkipFRAME]=01:52:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:52:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C1/04-C1-A00/04-C1-A00-001	00:10:03;
+
+[PrintText]=00:01:22	Kotonoha	Haah...	00:02:20;
+
+[PlayVoice]=00:01:22	Voice04/04-C1/04-C1-A00/04-C1-A00-0030	0	kot	00:02:20;
+
+[PlaySe]=00:02:22	1	Se04/04-C1/04-C1-A00/SE04-C1-A00-001	00:32:22;
+
+[PrintText]=00:03:19	Kotonoha	Makoto-kun...	00:06:03;
+
+[PlayVoice]=00:03:19	Voice04/04-C1/04-C1-A00/04-C1-A00-0050	0	kot	00:06:03;
+
+[PrintText]=00:06:15	Kotonoha	¿Todo fue... mi culpa?^	00:09:09;
+
+[PlayVoice]=00:06:15	Voice04/04-C1/04-C1-A00/04-C1-A00-0060	0	kot	00:09:09;
+
+[CreateBG]=00:10:03	BGS	Event04/04-C1/04-C1-A00/04-C1-A00-002	00:37:07;
+
+[PrintText]=00:10:11	Kotonoha	O es porque tú... ¿Amas más a Saionji-san que a mí?^	00:15:07;
+
+[PlayVoice]=00:10:11	Voice04/04-C1/04-C1-A00/04-C1-A00-0070	0	kot	00:15:07;
+
+[PrintText]=00:15:19	Kotonoha	No... eso no es verdad... no hay manera... de que sea verdad.	00:22:18;
+
+[PlayVoice]=00:15:19	Voice04/04-C1/04-C1-A00/04-C1-A00-0080	0	kot	00:22:18;
+
+[PrintText]=00:23:16	Kotonoha	Después de todo... él me ama... incluso Saionji-san lo dijo, cuando me dijo que de lo mejor...	00:33:21;
+
+[PlayVoice]=00:23:16	Voice04/04-C1/04-C1-A00/04-C1-A00-0090	0	kot	00:33:21;
+
+[PlaySe]=00:32:17	2	Se04/04-C1/04-C1-A00/SE04-C1-A00-001	01:02:17;
+
+[PrintText]=00:34:21	Kotonoha	Uuh...	00:36:00;
+
+[PlayVoice]=00:34:21	Voice04/04-C1/04-C1-A00/04-C1-A00-0100	0	kot	00:36:00;
+
+[CreateBG]=00:37:07	BGS	Event04/04-C1/04-C1-A00/04-C1-A00-003	01:28:16;
+
+[PrintText]=00:37:13	Kotonoha	Makoto-kun... Me pregunto si ahora me odia.	00:43:12;
+
+[PlayVoice]=00:37:13	Voice04/04-C1/04-C1-A00/04-C1-A00-0110	0	kot	00:43:12;
+
+[PrintText]=00:43:23	Kotonoha	Porque... no quería hacer... las cosas que hacía con Saionji-san.	00:53:07;
+
+[PlayVoice]=00:43:23	Voice04/04-C1/04-C1-A00/04-C1-A00-0120	0	kot	00:53:07;
+
+[PrintText]=00:54:15	Kotonoha	...Ya veo.	00:56:01;
+
+[PlayVoice]=00:54:15	Voice04/04-C1/04-C1-A00/04-C1-A00-0130	0	kot	00:56:01;
+
+[PrintText]=00:57:03	Kotonoha	Es eso...	00:58:21;
+
+[PlayVoice]=00:57:03	Voice04/04-C1/04-C1-A00/04-C1-A00-0140	0	kot	00:58:21;
+
+[PrintText]=00:59:06	Kotonoha	Por eso es que... él y Saionji-san...	01:01:22;
+
+[PlayVoice]=00:59:06	Voice04/04-C1/04-C1-A00/04-C1-A00-0150	0	kot	01:01:22;
+
+[PlaySe]=01:02:14	1	Se04/04-C1/04-C1-A00/SE04-C1-A00-001	01:32:14;
+
+[PrintText]=01:03:21	Kotonoha	Porque yo no quise... él estuvo pensando en mí...	01:09:10;
+
+[PlayVoice]=01:03:21	Voice04/04-C1/04-C1-A00/04-C1-A00-0160	0	kot	01:09:10;
+
+[PrintText]=01:10:08	Kotonoha	Y aún, Yo...	01:13:06;
+
+[PlayVoice]=01:10:08	Voice04/04-C1/04-C1-A00/04-C1-A00-0170	0	kot	01:13:06;
+
+[PrintText]=01:13:23	Kotonoha	Sí... dependía de mí satisfacerlo... no es su culpa...	01:22:01;
+
+[PlayVoice]=01:13:23	Voice04/04-C1/04-C1-A00/04-C1-A00-0180	0	kot	01:22:01;
+
+[PrintText]=01:22:19	Kotonoha	Si hubiera hechos las cosas por él... estoy segura que él...	01:28:08;
+
+[PlayVoice]=01:22:19	Voice04/04-C1/04-C1-A00/04-C1-A00-0190	0	kot	01:28:08;
+
+[CreateBG]=01:28:16	BGS	Event04/04-C1/04-C1-A00/04-C1-A00-002	01:52:00;
+
+[PrintText]=01:30:05	Kotonoha	Nn...	01:31:10;
+
+[PlayVoice]=01:30:05	Voice04/04-C1/04-C1-A00/04-C1-A00-0210	0	kot	01:31:10;
+
+[PlaySe]=01:32:08	2	Se04/04-C1/04-C1-A00/SE04-C1-A00-001	01:52:00;
+
+[PrintText]=01:32:19	Kotonoha	Haah... haah...	01:37:23;
+
+[PlayVoice]=01:32:19	Voice04/04-C1/04-C1-A00/04-C1-A00-0230	0	kot	01:37:23;
+
+[PrintText]=01:38:17	Kotonoha	Nn... nn... Makoto-kun... mnn... nn...	01:47:18;
+
+[PlayVoice]=01:38:17	Voice04/04-C1/04-C1-A00/04-C1-A00-0240	0	kot	01:47:18;
+
+[PrintText]=01:48:10	Kotonoha	Ah...	01:49:03;
+
+[PlayVoice]=01:48:10	Voice04/04-C1/04-C1-A00/04-C1-A00-0250	0	kot	01:49:03;
+
+ ;
+
+[Next]=01:52:00;
+
+

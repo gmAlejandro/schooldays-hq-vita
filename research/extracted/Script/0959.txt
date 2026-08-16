@@ -1,0 +1,195 @@
+﻿[SkipFRAME]=01:26:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:26:06;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-001	00:02:12;
+
+[CreateBG]=00:02:12	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-002	00:04:20;
+
+[PrintText]=00:02:12	Makoto	...	00:03:09;
+
+[PlayVoice]=00:02:12	Voice04/04-KA/04-KA-J01/04-KA-J01-0060	1	xxx	00:03:09;
+
+[CreateBG]=00:04:20	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-003	00:06:14;
+
+[CreateBG]=00:06:14	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-004	00:07:22;
+
+[CreateBG]=00:07:22	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-005	00:14:06;
+
+[PrintText]=00:07:22	Makoto	Sekai.	00:09:05;
+
+[PlayVoice]=00:07:22	Voice04/04-KA/04-KA-J01/04-KA-J01-0090	1	mak	00:09:05;
+
+[PrintText]=00:09:09	Sekai	...	00:10:06;
+
+[PlayVoice]=00:09:09	Voice04/04-KA/04-KA-J01/04-KA-J01-0100	0	xxx	00:10:06;
+
+[PrintText]=00:10:06	Makoto	Hey... ¿Puedo ir a tu casa hoy?^	00:14:10;
+
+[PlayVoice]=00:10:06	Voice04/04-KA/04-KA-J01/04-KA-J01-0110	1	mak	00:14:10;
+
+[CreateBG]=00:14:06	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-006	00:15:05;
+
+[PrintText]=00:14:11	Sekai	No.	00:15:07;
+
+[PlayVoice]=00:14:11	Voice04/04-KA/04-KA-J01/04-KA-J01-0120	0	sek	00:15:07;
+
+[CreateBG]=00:15:05	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-002	00:24:19;
+
+[PrintText]=00:15:08	Makoto	Cielos... vamos, alegrate.	00:18:15;
+
+[PlayVoice]=00:15:08	Voice04/04-KA/04-KA-J01/04-KA-J01-0130	1	mak	00:18:15;
+
+[PrintText]=00:18:16	Sekai	¿Qué quieres decir?^	00:19:22;
+
+[PlayVoice]=00:18:16	Voice04/04-KA/04-KA-J01/04-KA-J01-0140	0	sek	00:19:22;
+
+[PrintText]=00:19:22	Makoto	¿Qué quiero decir? Estás molesta ¿No?^	00:24:19;
+
+[PlayVoice]=00:19:22	Voice04/04-KA/04-KA-J01/04-KA-J01-0150	1	mak	00:24:19;
+
+[CreateBG]=00:24:19	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-008	00:25:16;
+
+[PrintText]=00:24:20	Sekai	...	00:25:16;
+
+[PlayVoice]=00:24:20	Voice04/04-KA/04-KA-J01/04-KA-J01-0160	0	xxx	00:25:16;
+
+[CreateBG]=00:25:16	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-009	00:31:09;
+
+[PrintText]=00:25:18	Makoto	Si se trata de lo que pasó durante el día, Perdóname... y por lo que pasó durante el festival, también.	00:31:08;
+
+[PlayVoice]=00:25:18	Voice04/04-KA/04-KA-J01/04-KA-J01-0170	1	mak	00:31:08;
+
+[PrintText]=00:31:08	Sekai	No te disculpes como si lo pudieras hacer tarde.	00:34:01;
+
+[PlayVoice]=00:31:08	Voice04/04-KA/04-KA-J01/04-KA-J01-0180	0	sek	00:34:01;
+
+[CreateBG]=00:31:09	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-010	00:36:17;
+
+[PrintText]=00:34:02	Makoto	...	00:35:03;
+
+[PlayVoice]=00:34:02	Voice04/04-KA/04-KA-J01/04-KA-J01-0190	1	xxx	00:35:03;
+
+[PrintText]=00:35:12	Sekai	...	00:36:00;
+
+[PlayVoice]=00:35:12	Voice04/04-KA/04-KA-J01/04-KA-J01-0200	0	xxx	00:36:00;
+
+[CreateBG]=00:36:17	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-011	00:39:22;
+
+[PrintText]=00:36:18	Nanami	¿Qué? ¿Siguen peleando?^	00:40:00;
+
+[PlayVoice]=00:36:18	Voice04/04-KA/04-KA-J01/04-KA-J01-0210	0	nan	00:40:00;
+
+[CreateBG]=00:39:22	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-012	00:44:12;
+
+[PrintText]=00:39:23	Makoto	Cállate.	00:41:10;
+
+[PlayVoice]=00:39:23	Voice04/04-KA/04-KA-J01/04-KA-J01-0220	1	mak	00:41:10;
+
+[PrintText]=00:41:11	Nanami	Vale, Vale. No quiero ser pateada por un caballo, así que iré al partido del club de baloncesto.	00:47:21;
+
+[PlayVoice]=00:41:11	Voice04/04-KA/04-KA-J01/04-KA-J01-0230	0	nan	00:47:21;
+
+[CreateBG]=00:44:12	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-012A	00:49:23;
+
+[PrintText]=00:47:21	Sekai	¡Ah, Nanami!	00:49:03;
+
+[PlayVoice]=00:47:21	Voice04/04-KA/04-KA-J01/04-KA-J01-0240	0	sek	00:49:03;
+
+[PrintText]=00:49:03	Nanami	¿Qué?^	00:50:00;
+
+[PlayVoice]=00:49:03	Voice04/04-KA/04-KA-J01/04-KA-J01-0250	0	nan	00:50:00;
+
+[CreateBG]=00:49:23	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-012B	00:53:04;
+
+[PrintText]=00:50:00	Sekai	Me gustaría ir al partido también.	00:52:09;
+
+[PlayVoice]=00:50:00	Voice04/04-KA/04-KA-J01/04-KA-J01-0260	0	sek	00:52:09;
+
+[PrintText]=00:52:09	Nanami	¿Eh?^	00:53:04;
+
+[PlayVoice]=00:52:09	Voice04/04-KA/04-KA-J01/04-KA-J01-0270	0	nan	00:53:04;
+
+[PrintText]=00:53:03	Sekai	No fui de la reunión de la clase, porque me sentía un poco mal.	00:56:20;
+
+[PlayVoice]=00:53:03	Voice04/04-KA/04-KA-J01/04-KA-J01-0280	0	sek	00:56:20;
+
+[CreateBG]=00:53:04	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-012	00:59:13;
+
+[PrintText]=00:56:20	Nanami	Ya veo, Vale, seguro.	00:58:22;
+
+[PlayVoice]=00:56:20	Voice04/04-KA/04-KA-J01/04-KA-J01-0290	0	nan	00:58:22;
+
+[PrintText]=00:58:20	Sekai	Gracias.	00:59:16;
+
+[PlayVoice]=00:58:20	Voice04/04-KA/04-KA-J01/04-KA-J01-0300	0	sek	00:59:16;
+
+[CreateBG]=00:59:13	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-008	01:02:08;
+
+[PrintText]=00:59:15	Makoto	H-hey.	01:00:21;
+
+[PlayVoice]=00:59:15	Voice04/04-KA/04-KA-J01/04-KA-J01-0310	1	mak	01:00:21;
+
+[PrintText]=01:00:21	Sekai	Tengo que hacer algo, ahora.	01:02:08;
+
+[PlayVoice]=01:00:21	Voice04/04-KA/04-KA-J01/04-KA-J01-0320	0	sek	01:02:08;
+
+[PrintText]=01:02:07	Makoto	Kanroji.	01:03:09;
+
+[PlayVoice]=01:02:07	Voice04/04-KA/04-KA-J01/04-KA-J01-0330	1	mak	01:03:09;
+
+[CreateBG]=01:02:08	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-014	01:07:00;
+
+[PrintText]=01:03:09	Nanami	¿Qué?^	01:04:08;
+
+[PlayVoice]=01:03:09	Voice04/04-KA/04-KA-J01/04-KA-J01-0340	0	nan	01:04:08;
+
+[PrintText]=01:04:07	Makoto	¿Puedo ir también? Al partido...	01:08:13;
+
+[PlayVoice]=01:04:07	Voice04/04-KA/04-KA-J01/04-KA-J01-0350	1	mak	01:08:13;
+
+[CreateBG]=01:07:00	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-014B	01:10:18;
+
+[PrintText]=01:08:22	Nanami	¿El Partido del club de baloncesto?^	01:10:01;
+
+[PlayVoice]=01:08:22	Voice04/04-KA/04-KA-J01/04-KA-J01-0360	0	nan	01:10:01;
+
+[PrintText]=01:10:01	Makoto	Sí.	01:10:18;
+
+[PlayVoice]=01:10:01	Voice04/04-KA/04-KA-J01/04-KA-J01-0370	1	mak	01:10:18;
+
+[CreateBG]=01:10:18	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-015	01:17:10;
+
+[PrintText]=01:10:18	Nanami	Ahaha, de ninguna manera. No se permiten chicos.	01:14:08;
+
+[PlayVoice]=01:10:18	Voice04/04-KA/04-KA-J01/04-KA-J01-0380	0	nan	01:14:08;
+
+[PrintText]=01:14:09	Makoto	Uuh... Ya veo.	01:17:09;
+
+[PlayVoice]=01:14:09	Voice04/04-KA/04-KA-J01/04-KA-J01-0390	1	mak	01:17:09;
+
+[PrintText]=01:17:09	Nanami	Solo es para chicas. Bueno, vamos , Sekai.	01:21:11;
+
+[PlayVoice]=01:17:09	Voice04/04-KA/04-KA-J01/04-KA-J01-0400	0	nan	01:21:11;
+
+[CreateBG]=01:17:10	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-004	01:22:12;
+
+[PrintText]=01:21:11	Sekai	Vale.	01:22:02;
+
+[PlayVoice]=01:21:11	Voice04/04-KA/04-KA-J01/04-KA-J01-0410	0	sek	01:22:02;
+
+[CreateBG]=01:22:12	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-017	01:24:00;
+
+[PrintText]=01:22:12	Makoto	...	01:23:09;
+
+[PlayVoice]=01:22:12	Voice04/04-KA/04-KA-J01/04-KA-J01-0430	1	xxx	01:23:09;
+
+[CreateBG]=01:24:00	BGS	Event04/04-KA/04-KA-J01/04-KA-J01-018	01:26:06;
+
+[BlackFade]=01:25:06	OUT	01:26:06;
+
+ ;
+
+[Next]=01:26:06;
+
+

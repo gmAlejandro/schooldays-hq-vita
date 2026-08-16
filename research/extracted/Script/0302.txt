@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:19:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:19:12;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C10/SE02-2S-C10-001	00:19:12;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C10/02-2S-C10-001	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2S/02-2S-C10/02-2S-C10-002	00:12:03;
+
+[PrintText]=00:10:06	Makoto	Vamos.	00:11:00;
+
+[PlayVoice]=00:10:06	Voice02/02-2S/02-2S-C10/02-2S-C10-0030	1	mak	00:11:00;
+
+[PrintText]=00:11:08	Sekai	Vale. Espera un segundo.	00:13:22;
+
+[PlayVoice]=00:11:08	Voice02/02-2S/02-2S-C10/02-2S-C10-0040	0	sek	00:13:22;
+
+[CreateBG]=00:12:03	BGS	Event02/02-2S/02-2S-C10/02-2S-C10-003	00:16:02;
+
+[CreateBG]=00:16:02	BGS	Event02/02-2S/02-2S-C10/02-2S-C10-004	00:19:12;
+
+[BlackFade]=00:18:12	OUT	00:19:12;
+
+ ;
+
+[Next]=00:19:12;
+
+
+
+

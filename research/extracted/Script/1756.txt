@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:12:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:19:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:19:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-F06/05-KB-F06-001	00:03:00;
+
+[PrintText]=00:00:00	Makoto	Bueno, Kotonoha me visitó ayer, y pues...	00:03:09;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-F06/05-KB-F06-0030	1	mak	00:03:09;
+
+[CreateBG]=00:03:00	BGS	Event05/05-KB/05-KB-F06/05-KB-F06-002	00:03:21;
+
+[PrintText]=00:03:00	Nanami	¡¿Eh?!	00:03:21;
+
+[PlayVoice]=00:03:00	Voice05/05-KB/05-KB-F06/05-KB-F06-0040	0	nan	00:03:21;
+
+[PrintText]=00:03:10	Makoto	Ah... no, mira...	00:07:05;
+
+[PlayVoice]=00:03:10	Voice05/05-KB/05-KB-F06/05-KB-F06-0050	1	mak	00:07:05;
+
+[CreateBG]=00:03:21	BGS	Event05/05-KB/05-KB-F06/05-KB-F06-003	00:07:16;
+
+[CreateBG]=00:07:16	BGS	Event05/05-KB/05-KB-F06/05-KB-F06-004	00:10:04;
+
+[PrintText]=00:07:16	Nanami	Así que, vino a tu casa y...	00:10:04;
+
+[PlayVoice]=00:07:16	Voice05/05-KB/05-KB-F06/05-KB-F06-0060	0	nan	00:10:04;
+
+[PrintText]=00:09:17	Makoto	Mira, yo...	00:11:23;
+
+[PlayVoice]=00:09:17	Voice05/05-KB/05-KB-F06/05-KB-F06-0070	1	mak	00:11:23;
+
+[CreateBG]=00:10:04	BGS	Event05/05-KB/05-KB-F06/05-KB-F06-005	00:19:00;
+
+[SetSELECT]=00:12:21	'La envié a casa..'	null	00:17:21;
+
+ ;
+
+[Next]=00:19:00;
+
+
+
+

@@ -1,0 +1,185 @@
+﻿[SkipFRAME]=02:43:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	02:47:11;
+
+[PlayMovie]=00:00:00	Movie04/04-SB/04-SB-D00/04-SB-D00-001	0	00:03:06;
+
+[PrintText]=00:00:00	Makoto	...	00:00:17;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-D00/04-SB-D00-0050	1	xxx	00:00:17;
+
+[PrintText]=00:01:12	Kotonoha	...	00:02:18;
+
+[PlayVoice]=00:01:12	Voice04/04-SB/04-SB-D00/04-SB-D00-0060	0	xxx	00:02:18;
+
+[CreateBG]=00:03:06	BGS	Event04/04-SB/04-SB-D00/04-SB-D00-002	00:16:07;
+
+[PrintText]=00:03:12	Makoto	...Estás saliendo con Taisuke.	00:06:01;
+
+[PlayVoice]=00:03:12	Voice04/04-SB/04-SB-D00/04-SB-D00-0070	1	mak	00:06:01;
+
+[PrintText]=00:06:09	Kotonoha	...Sí.	00:10:03;
+
+[PlayVoice]=00:06:09	Voice04/04-SB/04-SB-D00/04-SB-D00-0080	0	kot	00:10:03;
+
+[PrintText]=00:10:18	Makoto	¿Fue porque... no estuve durante el festival?^	00:14:18;
+
+[PlayVoice]=00:10:18	Voice04/04-SB/04-SB-D00/04-SB-D00-0090	1	mak	00:14:18;
+
+[PrintText]=00:15:04	Kotonoha	...	00:15:15;
+
+[PlayVoice]=00:15:04	Voice04/04-SB/04-SB-D00/04-SB-D00-0100	0	xxx	00:15:15;
+
+[PlayMovie]=00:16:07	Movie04/04-SB/04-SB-D00/04-SB-D00-003	0	00:56:01;
+
+[PrintText]=00:16:11	Makoto	Lo es ¿No?^	00:18:05;
+
+[PlayVoice]=00:16:11	Voice04/04-SB/04-SB-D00/04-SB-D00-0110	1	mak	00:18:05;
+
+[PrintText]=00:18:16	Kotonoha	Makoto-kun... Saionji-san y tú están saliendo.	00:23:12;
+
+[PlayVoice]=00:18:16	Voice04/04-SB/04-SB-D00/04-SB-D00-0120	0	kot	00:23:12;
+
+[PrintText]=00:23:11	Makoto	¿Eh...?^	00:24:01;
+
+[PlayVoice]=00:23:11	Voice04/04-SB/04-SB-D00/04-SB-D00-0130	1	mak	00:24:01;
+
+[PrintText]=00:24:12	Kotonoha	No quería admitirlo durante el festival..., mejor dicho, no quería.	00:32:20;
+
+[PlayVoice]=00:24:12	Voice04/04-SB/04-SB-D00/04-SB-D00-0140	0	kot	00:32:20;
+
+[PrintText]=00:33:03	Makoto	...	00:33:19;
+
+[PlayVoice]=00:33:03	Voice04/04-SB/04-SB-D00/04-SB-D00-0150	1	xxx	00:33:19;
+
+[PrintText]=00:34:10	Kotonoha	Y entonces, cuando el festival estaba a punto de comenzar, le dije a mi clase que estaba saliendo contigo.	00:44:20;
+
+[PlayVoice]=00:34:10	Voice04/04-SB/04-SB-D00/04-SB-D00-0160	0	kot	00:44:20;
+
+[PrintText]=00:44:20	Kotonoha	Quiero decir, eso es lo que se cree aquí, ¿No?, Que una pareja se anuncia durante el festival...	00:55:03;
+
+[PlayVoice]=00:44:20	Voice04/04-SB/04-SB-D00/04-SB-D00-0170	0	kot	00:55:03;
+
+[PrintText]=00:55:01	Makoto	Sí...	00:55:18;
+
+[PlayVoice]=00:55:01	Voice04/04-SB/04-SB-D00/04-SB-D00-0180	1	mak	00:55:18;
+
+[PlayMovie]=00:56:01	Movie04/04-SB/04-SB-D00/04-SB-D00-004	0	01:11:08;
+
+[PrintText]=00:56:09	Kotonoha	Otra superstición es...	00:59:04;
+
+[PlayVoice]=00:56:09	Voice04/04-SB/04-SB-D00/04-SB-D00-0190	0	kot	00:59:04;
+
+[PrintText]=00:59:05	Kotonoha	Que hay un lugar donde la chica invita al chico a un cuarto. Me dijeron que me creerían si te invitaba a ese lugar...	01:09:16;
+
+[PlayVoice]=00:59:05	Voice04/04-SB/04-SB-D00/04-SB-D00-0191	0	kot	01:09:16;
+
+[PrintText]=01:09:16	Kotonoha	Y entonces...	01:11:01;
+
+[PlayVoice]=01:09:16	Voice04/04-SB/04-SB-D00/04-SB-D00-0200	0	kot	01:11:01;
+
+[PlayMovie]=01:11:08	Movie04/04-SB/04-SB-D00/04-SB-D00-005	0	01:19:05;
+
+[PrintText]=01:11:16	Makoto	Y entonces, esa mañana...	01:13:19;
+
+[PlayVoice]=01:11:16	Voice04/04-SB/04-SB-D00/04-SB-D00-0210	1	mak	01:13:19;
+
+[PrintText]=01:14:02	Kotonoha	Qué ridículo ¿No? Fui tan tonta.	01:17:16;
+
+[PlayVoice]=01:14:02	Voice04/04-SB/04-SB-D00/04-SB-D00-0220	0	kot	01:17:16;
+
+[PrintText]=01:18:00	Makoto	No...	01:18:21;
+
+[PlayVoice]=01:18:00	Voice04/04-SB/04-SB-D00/04-SB-D00-0230	1	mak	01:18:21;
+
+[CreateBG]=01:19:05	BGS	Event04/04-SB/04-SB-D00/04-SB-D00-002	01:42:18;
+
+[PrintText]=01:19:12	Kotonoha	Ahora que lo pienso, era obvio. Quiero decir, si tenías que ir como pareja, por supuesto tenías que irte con Saionji-san.	01:32:05;
+
+[PlayVoice]=01:19:12	Voice04/04-SB/04-SB-D00/04-SB-D00-0240	0	kot	01:32:05;
+
+[PrintText]=01:32:11	Makoto	...	01:33:02;
+
+[PlayVoice]=01:32:11	Voice04/04-SB/04-SB-D00/04-SB-D00-0250	1	xxx	01:33:02;
+
+[PrintText]=01:33:20	Kotonoha	Y aún así... tuve la sensación de que volverías...	01:42:15;
+
+[PlayVoice]=01:33:20	Voice04/04-SB/04-SB-D00/04-SB-D00-0260	0	kot	01:42:15;
+
+[PlayMovie]=01:42:18	Movie04/04-SB/04-SB-D00/04-SB-D00-007	0	01:58:09;
+
+[PrintText]=01:43:00	Makoto	Yo...	01:43:18;
+
+[PlayVoice]=01:43:00	Voice04/04-SB/04-SB-D00/04-SB-D00-0270	1	mak	01:43:18;
+
+[PrintText]=01:44:06	Kotonoha	Lo sé. Lo escuché de mucha gente en mi clase. La verdad es que, los vi desde lejos, Saionji-san y tú estaban bailando.	01:56:18;
+
+[PlayVoice]=01:44:06	Voice04/04-SB/04-SB-D00/04-SB-D00-0280	0	kot	01:56:18;
+
+[PrintText]=01:57:00	Makoto	...	01:58:01;
+
+[PlayVoice]=01:57:00	Voice04/04-SB/04-SB-D00/04-SB-D00-0290	1	xxx	01:58:01;
+
+[CreateBG]=01:58:09	BGS	Event04/04-SB/04-SB-D00/04-SB-D00-002	02:07:21;
+
+[PrintText]=01:58:11	Kotonoha	Por eso es que Sawanaga-san se me acercó y me dijo, '¡Sal conmigo!'.	02:06:03;
+
+[PlayVoice]=01:58:11	Voice04/04-SB/04-SB-D00/04-SB-D00-0300	0	kot	02:06:03;
+
+[PrintText]=02:06:11	Makoto	Taisuke...	02:07:17;
+
+[PlayVoice]=02:06:11	Voice04/04-SB/04-SB-D00/04-SB-D00-0310	1	mak	02:07:17;
+
+[PlayMovie]=02:07:21	Movie04/04-SB/04-SB-D00/04-SB-D00-009	0	02:13:08;
+
+[PrintText]=02:08:00	Kotonoha	Eso... fue un poco forzado por parte de él ¿No?^	02:11:20;
+
+[PlayVoice]=02:08:00	Voice04/04-SB/04-SB-D00/04-SB-D00-0320	0	kot	02:11:20;
+
+[PrintText]=02:12:03	Makoto	...	02:12:18;
+
+[PlayVoice]=02:12:03	Voice04/04-SB/04-SB-D00/04-SB-D00-0330	1	xxx	02:12:18;
+
+[CreateBG]=02:13:08	BGS	Event04/04-SB/04-SB-D00/04-SB-D00-002	02:20:01;
+
+[PrintText]=02:13:14	Kotonoha	Y tú ya no estabas ahí...	02:18:11;
+
+[PlayVoice]=02:13:14	Voice04/04-SB/04-SB-D00/04-SB-D00-0340	0	kot	02:18:11;
+
+[PrintText]=02:18:17	Makoto	...	02:19:23;
+
+[PlayVoice]=02:18:17	Voice04/04-SB/04-SB-D00/04-SB-D00-0350	1	xxx	02:19:23;
+
+[PlayMovie]=02:20:01	Movie04/04-SB/04-SB-D00/04-SB-D00-011	0	02:37:04;
+
+[PrintText]=02:20:03	Kotonoha	Yo... estaba... tan sola... y no sabía que hacer...	02:28:01;
+
+[PlayVoice]=02:20:03	Voice04/04-SB/04-SB-D00/04-SB-D00-0360	0	kot	02:28:01;
+
+[PrintText]=02:28:14	Kotonoha	Creí que tal vez ya no tenía oportunidad alguna...	02:31:09;
+
+[PlayVoice]=02:28:14	Voice04/04-SB/04-SB-D00/04-SB-D00-0370	0	kot	02:31:09;
+
+[PrintText]=02:31:18	Kotonoha	Que tal vez debía rendirme...	02:37:01;
+
+[PlayVoice]=02:31:18	Voice04/04-SB/04-SB-D00/04-SB-D00-0380	0	kot	02:37:01;
+
+[PlayMovie]=02:37:04	Movie04/04-SB/04-SB-D00/04-SB-D00-012	0	02:49:09;
+
+[PrintText]=02:37:07	Kotonoha	Yo... pensé que...	02:42:09;
+
+[PlayVoice]=02:37:07	Voice04/04-SB/04-SB-D00/04-SB-D00-0390	0	kot	02:42:09;
+
+[PrintText]=02:42:12	Makoto	Kotonoha...	02:43:19;
+
+[PlayVoice]=02:42:12	Voice04/04-SB/04-SB-D00/04-SB-D00-0410	1	mak	02:43:19;
+
+[SetSELECT]=02:43:05	*Disculparse*	null	02:48:05;
+
+[PlaySe]=02:47:11	2	SysSe/SE_all/station_train/train_in	02:49:09;
+
+ ;
+
+[Next]=02:49:09;
+
+

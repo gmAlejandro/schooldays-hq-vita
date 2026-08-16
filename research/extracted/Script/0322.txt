@@ -1,0 +1,151 @@
+﻿[SkipFRAME]=01:25:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:25:11;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-I06/SE02-2S-I06-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-001	00:03:11;
+
+[PrintText]=00:00:00	Sekai	¡Ah, esa limonada se ve deliciosa!	00:03:11;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-I06/02-2S-I06-0030	0	sek	00:03:11;
+
+[CreateBG]=00:03:11	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-002	00:09:00;
+
+[PrintText]=00:03:11	Kotonoha	Toma un poco, Saionji-san.	00:05:15;
+
+[PlayVoice]=00:03:11	Voice02/02-2S/02-2S-I06/02-2S-I06-0050	0	kot	00:05:15;
+
+[PrintText]=00:05:15	Sekai	Seguro, aquí tengo un vaso también.	00:08:23;
+
+[PlayVoice]=00:05:15	Voice02/02-2S/02-2S-I06/02-2S-I06-0060	0	sek	00:08:23;
+
+[CreateBG]=00:09:00	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-003	00:16:07;
+
+[PrintText]=00:09:00	Kotonoha	Aquí.	00:12:15;
+
+[PlayVoice]=00:09:00	Voice02/02-2S/02-2S-I06/02-2S-I06-0080	0	kot	00:12:15;
+
+[PrintText]=00:12:15	Sekai	Mmn... huele bien.	00:16:06;
+
+[PlayVoice]=00:12:15	Voice02/02-2S/02-2S-I06/02-2S-I06-0090	0	sek	00:16:06;
+
+[CreateBG]=00:16:07	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-004	00:25:18;
+
+[PrintText]=00:16:07	Kotonoha	Ufufu...	00:17:14;
+
+[PlayVoice]=00:16:07	Voice02/02-2S/02-2S-I06/02-2S-I06-0100	0	kot	00:17:14;
+
+[PrintText]=00:17:14	Sekai	¡Pfff... pfff... mmmn... delicioso!	00:26:22;
+
+[PlayVoice]=00:17:14	Voice02/02-2S/02-2S-I06/02-2S-I06-0110	0	sek	00:26:22;
+
+[CreateBG]=00:25:18	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-005	00:37:11;
+
+[PrintText]=00:26:22	Kotonoha	¿En serio?^	00:28:04;
+
+[PlayVoice]=00:26:22	Voice02/02-2S/02-2S-I06/02-2S-I06-0120	0	kot	00:28:04;
+
+[PrintText]=00:28:04	Sekai	¡Sí! Dulce, con esa usual fragancia. ¡Está genial!	00:32:15;
+
+[PlayVoice]=00:28:04	Voice02/02-2S/02-2S-I06/02-2S-I06-0130	0	sek	00:32:15;
+
+[PrintText]=00:32:16	Kotonoha	¿Tu lo crees?^	00:33:21;
+
+[PlayVoice]=00:32:16	Voice02/02-2S/02-2S-I06/02-2S-I06-0140	0	kot	00:33:21;
+
+[PrintText]=00:33:21	Sekai	¡Y es perfecta para esta temporada, también!	00:37:10;
+
+[PlayVoice]=00:33:21	Voice02/02-2S/02-2S-I06/02-2S-I06-0150	0	sek	00:37:10;
+
+[CreateBG]=00:37:11	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-006	00:45:00;
+
+[PrintText]=00:37:11	Kotonoha	Eheheh... Aprendí la receta de mi mamá.	00:42:16;
+
+[PlayVoice]=00:37:11	Voice02/02-2S/02-2S-I06/02-2S-I06-0160	0	kot	00:42:16;
+
+[PrintText]=00:42:16	Sekai	¿Wow, en serio?^	00:45:00;
+
+[PlayVoice]=00:42:16	Voice02/02-2S/02-2S-I06/02-2S-I06-0170	0	sek	00:45:00;
+
+[CreateBG]=00:45:00	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-007	00:51:13;
+
+[PrintText]=00:45:00	Kotonoha	En realidad, cuando le dije a mamá sobre Makoto-kun, ella me dijo que debía hacer limonada.	00:51:13;
+
+[PlayVoice]=00:45:00	Voice02/02-2S/02-2S-I06/02-2S-I06-0190	0	kot	00:51:13;
+
+[CreateBG]=00:51:13	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-008	01:00:09;
+
+[PrintText]=00:51:13	Sekai	Ya veo... tu madre te dijo.	00:54:14;
+
+[PlayVoice]=00:51:13	Voice02/02-2S/02-2S-I06/02-2S-I06-0200	0	sek	00:54:14;
+
+[PrintText]=00:54:14	Kotonoha	Ella dijo: 'Solía llevar limonada a las citas con tu padre, y lo usé para hacerlo mío.'.	01:00:08;
+
+[PlayVoice]=00:54:14	Voice02/02-2S/02-2S-I06/02-2S-I06-0210	0	kot	01:00:08;
+
+[PrintText]=01:00:08	Sekai	Entonces realmente funcionó, ¿verdad?^	01:03:13;
+
+[PlayVoice]=01:00:08	Voice02/02-2S/02-2S-I06/02-2S-I06-0220	0	sek	01:03:13;
+
+[CreateBG]=01:00:09	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-009	01:04:22;
+
+[PrintText]=01:03:14	Kotonoha	¿Lo crees así?^	01:04:21;
+
+[PlayVoice]=01:03:14	Voice02/02-2S/02-2S-I06/02-2S-I06-0230	0	kot	01:04:21;
+
+[PrintText]=01:04:21	Sekai	Creo que Makoto quedo satisfecho.	01:08:00;
+
+[PlayVoice]=01:04:21	Voice02/02-2S/02-2S-I06/02-2S-I06-0240	0	sek	01:08:00;
+
+[CreateBG]=01:04:22	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-010	01:10:22;
+
+[PrintText]=01:08:00	Kotonoha	Pensé que podría ser el caso, también.	01:10:22;
+
+[PlayVoice]=01:08:00	Voice02/02-2S/02-2S-I06/02-2S-I06-0250	0	kot	01:10:22;
+
+[PlaySe]=01:09:03	2	Se02/02-2S/02-2S-I06/SE02-2S-I06-001	01:25:11;
+
+[CreateBG]=01:10:22	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-011	01:13:03;
+
+[PrintText]=01:10:22	Makoto	Hey, ¿De qué están hablando?^	01:13:02;
+
+[PlayVoice]=01:10:22	Voice02/02-2S/02-2S-I06/02-2S-I06-0260	1	mak	01:13:02;
+
+[CreateBG]=01:13:03	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-012	01:20:14;
+
+[PrintText]=01:13:03	Kotonoha	¡W-wah! Nada.	01:15:16;
+
+[PlayVoice]=01:13:03	Voice02/02-2S/02-2S-I06/02-2S-I06-0270	0	kot	01:15:16;
+
+[PrintText]=01:15:16	Makoto	¿...?^	01:16:09;
+
+[PlayVoice]=01:15:16	Voice02/02-2S/02-2S-I06/02-2S-I06-0280	1	mak	01:16:09;
+
+[PrintText]=01:16:09	Sekai	Secretos de chicas, ¿No?, Katsura-san.	01:19:18;
+
+[PlayVoice]=01:16:09	Voice02/02-2S/02-2S-I06/02-2S-I06-0290	0	sek	01:19:18;
+
+[PrintText]=01:19:19	Kotonoha	Sí.	01:20:13;
+
+[PlayVoice]=01:19:19	Voice02/02-2S/02-2S-I06/02-2S-I06-0300	0	kot	01:20:13;
+
+[PrintText]=01:20:13	Makoto	¿Hmm ...?^	01:21:23;
+
+[PlayVoice]=01:20:13	Voice02/02-2S/02-2S-I06/02-2S-I06-0310	1	mak	01:21:23;
+
+[CreateBG]=01:20:14	BGS	Event02/02-2S/02-2S-I06/02-2S-I06-013	01:25:11;
+
+[PrintText]=01:22:00	Sekai	Haha...	01:23:12;
+
+[PlayVoice]=01:22:00	Voice02/02-2S/02-2S-I06/02-2S-I06-0320	0	sek	01:23:12;
+
+[BlackFade]=01:24:11	OUT	01:25:11;
+
+ ;
+
+[Next]=01:25:11;
+
+
+
+

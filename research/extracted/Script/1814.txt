@@ -1,0 +1,82 @@
+﻿[SkipFRAME]=00:45:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:45:01;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-010	00:08:03;
+
+[PrintText]=00:00:00	Makoto	...	00:02:16;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-C03/05-KF-C03-0030	1	xxx	00:02:16;
+
+[PrintText]=00:02:16	Sekai	...Se lo diré.	00:03:18;
+
+[PlayVoice]=00:02:16	Voice05/05-KF/05-KF-C03/05-KF-C03-0040	0	sek	00:03:18;
+
+[PrintText]=00:03:18	Makoto	...Lo sé.	00:06:02;
+
+[PlayVoice]=00:03:18	Voice05/05-KF/05-KF-C03/05-KF-C03-0050	1	mak	00:06:02;
+
+[PrintText]=00:06:02	Sekai	Tú también deberías...	00:08:00;
+
+[PlayVoice]=00:06:02	Voice05/05-KF/05-KF-C03/05-KF-C03-0060	0	sek	00:08:00;
+
+[PrintText]=00:08:00	Makoto	¡Te dije que lo sé!	00:10:20;
+
+[PlayVoice]=00:08:00	Voice05/05-KF/05-KF-C03/05-KF-C03-0070	1	mak	00:10:20;
+
+[CreateBG]=00:08:03	BGS	Event05/05-KF/05-KF-C03/05-KF-C03-002	00:17:03;
+
+[PrintText]=00:10:21	Sekai	No te molestes.	00:13:03;
+
+[PlayVoice]=00:10:21	Voice05/05-KF/05-KF-C03/05-KF-C03-0080	0	sek	00:13:03;
+
+[PrintText]=00:13:02	Makoto	No estoy molesto.	00:15:18;
+
+[PlayVoice]=00:13:02	Voice05/05-KF/05-KF-C03/05-KF-C03-0090	1	mak	00:15:18;
+
+[PrintText]=00:15:17	Sekai	Sí lo estás.	00:17:03;
+
+[PlayVoice]=00:15:17	Voice05/05-KF/05-KF-C03/05-KF-C03-0100	0	sek	00:17:03;
+
+[CreateBG]=00:17:03	BGS	Event05/05-KF/05-KF-C03/05-KF-C03-003	00:23:08;
+
+[PrintText]=00:17:03	Makoto	Es solo que... no estoy seguro de lo que debería hacer...	00:22:02;
+
+[PlayVoice]=00:17:03	Voice05/05-KF/05-KF-C03/05-KF-C03-0110	1	mak	00:22:02;
+
+[PrintText]=00:22:02	Sekai	Estará bien.	00:23:07;
+
+[PlayVoice]=00:22:02	Voice05/05-KF/05-KF-C03/05-KF-C03-0120	0	sek	00:23:07;
+
+[PrintText]=00:23:07	Makoto	¿Tú crees?^	00:26:03;
+
+[PlayVoice]=00:23:07	Voice05/05-KF/05-KF-C03/05-KF-C03-0130	1	mak	00:26:03;
+
+[CreateBG]=00:23:08	BGS	Event05/05-KF/05-KF-C03/05-KF-C03-004	00:35:16;
+
+[PrintText]=00:26:03	Sekai	Cuando dos personas se aman de la misma manera, todo irá bien.	00:32:20;
+
+[PlayVoice]=00:26:03	Voice05/05-KF/05-KF-C03/05-KF-C03-0140	0	sek	00:32:20;
+
+[PrintText]=00:32:20	Makoto	Eso no es mucho para ser una razón.	00:35:16;
+
+[PlayVoice]=00:32:20	Voice05/05-KF/05-KF-C03/05-KF-C03-0150	1	mak	00:35:16;
+
+[CreateBG]=00:35:16	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-009	00:45:01;
+
+[PrintText]=00:35:16	Sekai	Lo es.	00:37:01;
+
+[PlayVoice]=00:35:16	Voice05/05-KF/05-KF-C03/05-KF-C03-0160	0	sek	00:37:01;
+
+[PrintText]=00:37:01	Makoto	...Vale.	00:43:02;
+
+[PlayVoice]=00:37:01	Voice05/05-KF/05-KF-C03/05-KF-C03-0170	1	mak	00:43:02;
+
+[BlackFade]=00:44:02	OUT	00:45:01;
+
+ ;
+
+[Next]=00:45:01;
+
+
+

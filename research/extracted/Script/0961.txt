@@ -1,0 +1,615 @@
+﻿[SkipFRAME]=07:05:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:56:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-001	00:02:03;
+
+[PlaySe]=00:01:06	2	SysSe/SE_all/door/door_kyousitu	00:03:12;
+
+[CreateBG]=00:02:03	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-002	00:18:23;
+
+[PrintText]=00:03:10	Sekai	Entonces, han pedido prestado el salón de Video.	00:05:17;
+
+[PlayVoice]=00:03:10	Voice04/04-KA/04-KA-L00/04-KA-L00-0050	0	sek	00:05:17;
+
+[PrintText]=00:05:13	Nanami	Bueno, es una reunión para todo el club. La habitación del club es muy pequeño, por lo que parece que han reservado este lugar.	00:10:09;
+
+[PlayVoice]=00:05:13	Voice04/04-KA/04-KA-L00/04-KA-L00-0060	0	nan	00:10:09;
+
+[PrintText]=00:10:07	Sekai	Wow.	00:11:14;
+
+[PlayVoice]=00:10:07	Voice04/04-KA/04-KA-L00/04-KA-L00-0070	0	sek	00:11:14;
+
+[PrintText]=00:11:11	Nanami	No podemos relajarnos con un profesor aquí, así que nos dijeron que el supervisor no vendría. Los que no son miembros están totalmente bienvenidos, sin embargo.	00:19:06;
+
+[PlayVoice]=00:11:11	Voice04/04-KA/04-KA-L00/04-KA-L00-0080	0	nan	00:19:06;
+
+[CreateBG]=00:18:23	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-003A	00:53:09;
+
+[PrintText]=00:18:23	Sekai	Sí, lo veo hay algunas chicas de la clase 3, también. ¿Quién es el supervisor del club de baloncesto de las chicas?^	00:25:10;
+
+[PlayVoice]=00:18:23	Voice04/04-KA/04-KA-L00/04-KA-L00-0090	0	sek	00:25:10;
+
+[PrintText]=00:25:02	Nanami	Nogi, el profesor de matemática.	00:26:07;
+
+[PlayVoice]=00:25:02	Voice04/04-KA/04-KA-L00/04-KA-L00-0100	0	nan	00:26:07;
+
+[PrintText]=00:26:08	Sekai	Ahh... uno que parece que estuviera a punto de llorar.	00:30:06;
+
+[PlayVoice]=00:26:08	Voice04/04-KA/04-KA-L00/04-KA-L00-0110	0	sek	00:30:06;
+
+[PrintText]=00:29:22	Nanami	Sip. Por lo general podemos salirnos con la nuestra en la mayoría de las cosas, si vamos como ahora.	00:36:05;
+
+[PlayVoice]=00:29:22	Voice04/04-KA/04-KA-L00/04-KA-L00-0120	0	nan	00:36:05;
+
+[PrintText]=00:36:04	Sekai	Ahaha, eso es terrible.	00:38:21;
+
+[PlayVoice]=00:36:04	Voice04/04-KA/04-KA-L00/04-KA-L00-0130	0	sek	00:38:21;
+
+[PrintText]=00:38:13	Nanami	Aún así, hacemos la práctica correctamente, y ganamos todos los partidos.	00:43:13;
+
+[PlayVoice]=00:38:13	Voice04/04-KA/04-KA-L00/04-KA-L00-0140	0	nan	00:43:13;
+
+[PrintText]=00:43:06	Sekai	Uh-huh. El equipo de baloncesto de nuestras chicas es muy bueno, ¿Verdad? ... ¿Eh? Parece que van a mostrar una película.	00:52:02;
+
+[PlayVoice]=00:43:06	Voice04/04-KA/04-KA-L00/04-KA-L00-0150	0	sek	00:52:02;
+
+[PrintText]=00:52:06	Nanami	Tienes razón. Me pregunto si hay algún tipo de evento.	00:54:16;
+
+[PlayVoice]=00:52:06	Voice04/04-KA/04-KA-L00/04-KA-L00-0160	0	nan	00:54:16;
+
+[PlayMovie]=00:53:09	Movie04/04-KA/04-KA-L00/04-KA-L00-003B	0	00:55:09;
+
+[PrintText]=00:54:17	Sekai	¿Ehh? ¿Qué?^	00:56:04;
+
+[PlayVoice]=00:54:17	Voice04/04-KA/04-KA-L00/04-KA-L00-0200	0	sek	00:56:04;
+
+[CreateBG]=00:55:09	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-003C	00:59:09;
+
+[PrintText]=00:56:10	Nanami	No lo sé ... ah, bueno, Otome.	00:59:13;
+
+[PlayVoice]=00:56:10	Voice04/04-KA/04-KA-L00/04-KA-L00-0210	0	nan	00:59:13;
+
+[PlayBgm]=00:57:11	BGM/SD_BGM/sdbgm21	02:59:13;
+
+[CreateBG]=00:59:09	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-004	01:16:19;
+
+[PrintText]=00:59:09	Otome	Nanami.	01:00:14;
+
+[PlayVoice]=00:59:09	Voice04/04-KA/04-KA-L00/04-KA-L00-0220	0	oto	01:00:14;
+
+[PrintText]=01:00:16	Nanami	¿Estamos aquí para una reunión?^	01:02:02;
+
+[PlayVoice]=01:00:16	Voice04/04-KA/04-KA-L00/04-KA-L00-0230	0	nan	01:02:02;
+
+[PrintText]=01:02:00	Otome	Sí... pero parece que van a mostrar alguna clase de video.	01:06:21;
+
+[PlayVoice]=01:02:00	Voice04/04-KA/04-KA-L00/04-KA-L00-0240	0	oto	01:06:21;
+
+[PrintText]=01:07:01	Nanami	¿Video?^	01:08:03;
+
+[PlayVoice]=01:07:01	Voice04/04-KA/04-KA-L00/04-KA-L00-0250	0	nan	01:08:03;
+
+[PrintText]=01:07:19	Otome	Parece ser algo que Ashikaga-senpai estaba haciendo durante el festival.	01:11:23;
+
+[PlayVoice]=01:07:19	Voice04/04-KA/04-KA-L00/04-KA-L00-0260	0	oto	01:11:23;
+
+[PrintText]=01:11:23	Nanami	¿En serio?^	01:13:03;
+
+[PlayVoice]=01:11:23	Voice04/04-KA/04-KA-L00/04-KA-L00-0270	0	nan	01:13:03;
+
+[PrintText]=01:12:17	Otome	No se los detalles. Mai y Ruka lo prepararon.	01:16:19;
+
+[PlayVoice]=01:12:17	Voice04/04-KA/04-KA-L00/04-KA-L00-0280	0	oto	01:16:19;
+
+[CreateBG]=01:16:19	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-005	01:34:18;
+
+[PrintText]=01:16:20	Nanami	Esas chicas, huh...	01:18:09;
+
+[PlayVoice]=01:16:20	Voice04/04-KA/04-KA-L00/04-KA-L00-0290	0	nan	01:18:09;
+
+[PrintText]=01:18:14	Sekai	¿Y bien?^	01:19:15;
+
+[PlayVoice]=01:18:14	Voice04/04-KA/04-KA-L00/04-KA-L00-0300	0	sek	01:19:15;
+
+[PrintText]=01:19:12	Nanami	Dijo que íbamos a ver un video del festival.	01:21:22;
+
+[PlayVoice]=01:19:12	Voice04/04-KA/04-KA-L00/04-KA-L00-0310	0	nan	01:21:22;
+
+[PrintText]=01:21:15	Sekai	Wow... suena como una reunión importante.	01:24:07;
+
+[PlayVoice]=01:21:15	Voice04/04-KA/04-KA-L00/04-KA-L00-0320	0	sek	01:24:07;
+
+[PrintText]=01:24:05	Nanami	Hmmn...	01:26:02;
+
+[PlayVoice]=01:24:05	Voice04/04-KA/04-KA-L00/04-KA-L00-0330	0	nan	01:26:02;
+
+[PrintText]=01:26:07	Sekai	¿Qué pasa?^	01:27:18;
+
+[PlayVoice]=01:26:07	Voice04/04-KA/04-KA-L00/04-KA-L00-0340	0	sek	01:27:18;
+
+[PrintText]=01:27:12	Nanami	Oh, es sólo que no soy una gran fan de las cosas como estas.	01:34:00;
+
+[PlayVoice]=01:27:12	Voice04/04-KA/04-KA-L00/04-KA-L00-0350	0	nan	01:34:00;
+
+[PrintText]=01:33:14	Sekai	Ya veo.	01:34:21;
+
+[PlayVoice]=01:33:14	Voice04/04-KA/04-KA-L00/04-KA-L00-0360	0	sek	01:34:21;
+
+[CreateBG]=01:34:18	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-006	01:37:21;
+
+[PrintText]=01:34:18	Nanami	Está bien, que no te incomode.	01:36:20;
+
+[PlayVoice]=01:34:18	Voice04/04-KA/04-KA-L00/04-KA-L00-0370	0	nan	01:36:20;
+
+[PrintText]=01:37:01	Sekai	Vale.	01:37:19;
+
+[PlayVoice]=01:37:01	Voice04/04-KA/04-KA-L00/04-KA-L00-0380	0	sek	01:37:19;
+
+[CreateBG]=01:37:21	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-007	02:10:19;
+
+[PrintText]=01:38:00	Ashikaga	Uh... Vale, a todos, buen trabajo en el festival.	01:43:03;
+
+[PlayVoice]=01:38:00	Voice04/04-KA/04-KA-L00/04-KA-L00-0390	0	tie	01:43:03;
+
+[PrintText]=01:43:06	Ashikaga	Estoy especialmente agradecida a todos aquellos que lograron usar el cuarto de descanso sin que los profesores se enteren.	01:49:18;
+
+[PlayVoice]=01:43:06	Voice04/04-KA/04-KA-L00/04-KA-L00-0410	0	tie	01:49:18;
+
+[PrintText]=01:49:22	Ashikaga	Ahora, para ser sincera... grabamos en secreto lo que paso en el cuarto de descanso.	01:56:22;
+
+[PlayVoice]=01:49:22	Voice04/04-KA/04-KA-L00/04-KA-L00-0430	0	tie	01:56:22;
+
+[PrintText]=01:56:22	Ashikaga	y para el evento principal de hoy, veremos tranquilamente el video.	02:02:22;
+
+[PlayVoice]=01:56:22	Voice04/04-KA/04-KA-L00/04-KA-L00-0431	0	tie	02:02:22;
+
+[PrintText]=02:03:03	Ashikaga	Aquellas que tienen novios pueden revivir recuerdos, y las que no, disfruten viéndolo...	02:11:03;
+
+[PlayVoice]=02:03:03	Voice04/04-KA/04-KA-L00/04-KA-L00-0450	0	tie	02:11:03;
+
+[CreateBG]=02:10:19	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-008	02:27:03;
+
+[PrintText]=02:10:19	Nanami	¿Qué? ¡Espera un segundo! ¡Quieres decir que... ¿Grabaste lo que pasó en el cuarto de descanso?!	02:17:10;
+
+[PlayVoice]=02:10:19	Voice04/04-KA/04-KA-L00/04-KA-L00-0460	0	nan	02:17:10;
+
+[PrintText]=02:16:19	Ashikaga	Oh, Kanroji-san.	02:18:17;
+
+[PlayVoice]=02:16:19	Voice04/04-KA/04-KA-L00/04-KA-L00-0470	0	tie	02:18:17;
+
+[PrintText]=02:18:10	Nanami	¿Y bien?^	02:19:16;
+
+[PlayVoice]=02:18:10	Voice04/04-KA/04-KA-L00/04-KA-L00-0480	0	nan	02:19:16;
+
+[PrintText]=02:19:07	Ashikaga	Todo, también tu, gimiendo 'onii-chan'.	02:24:10;
+
+[PlayVoice]=02:19:07	Voice04/04-KA/04-KA-L00/04-KA-L00-0490	0	tie	02:24:10;
+
+[PrintText]=02:24:05	Nanami	...	02:25:22;
+
+[PlayVoice]=02:24:05	Voice04/04-KA/04-KA-L00/04-KA-L00-0510	0	xxx	02:25:22;
+
+[PrintText]=02:25:20	Otome	Ashikaga...	02:27:04;
+
+[PlayVoice]=02:25:20	Voice04/04-KA/04-KA-L00/04-KA-L00-0520	0	oto	02:27:04;
+
+[CreateBG]=02:27:03	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-009	02:30:13;
+
+[PrintText]=02:27:03	Sekai	U-um... ¿Quién es Ashikaga-senpai?^	02:30:15;
+
+[PlayVoice]=02:27:03	Voice04/04-KA/04-KA-L00/04-KA-L00-0530	0	sek	02:30:15;
+
+[CreateBG]=02:30:13	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-010	02:43:02;
+
+[PrintText]=02:30:13	Otome	Ella es del tipo que le encanta ser voz de mando, aunque ya no sea la presidenta,	02:35:23;
+
+[PlayVoice]=02:30:13	Voice04/04-KA/04-KA-L00/04-KA-L00-0540	0	oto	02:38:16;
+
+[PrintText]=02:35:23	Otome	siempre está molestando a los miembros del club con sus novios.	02:38:15;
+
+[PrintText]=02:38:15	Sekai	Uwah... que horrible.	02:41:02;
+
+[PlayVoice]=02:38:15	Voice04/04-KA/04-KA-L00/04-KA-L00-0550	0	sek	02:41:02;
+
+[PrintText]=02:41:07	Otome	Sí... en serio.	02:43:00;
+
+[PlayVoice]=02:41:07	Voice04/04-KA/04-KA-L00/04-KA-L00-0560	0	oto	02:43:00;
+
+[CreateBG]=02:43:02	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-003C	02:52:13;
+
+[PrintText]=02:43:03	Ashikaga	Ahora, disfruten todos... y hagan lo que hagan, no le digan nada a los chicos.	02:50:03;
+
+[PlayVoice]=02:43:03	Voice04/04-KA/04-KA-L00/04-KA-L00-0580	0	tie	02:50:03;
+
+[PrintText]=02:50:09	Otome	Lo usaste , ¿Nanami?^	02:52:20;
+
+[PlayVoice]=02:50:09	Voice04/04-KA/04-KA-L00/04-KA-L00-0590	0	oto	02:52:20;
+
+[CreateBG]=02:52:13	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-012	02:58:07;
+
+[PrintText]=02:52:13	Nanami	Solo una vez en la clase 4, con mi novio.	02:55:20;
+
+[PlayVoice]=02:52:13	Voice04/04-KA/04-KA-L00/04-KA-L00-0600	0	nan	02:55:20;
+
+[PrintText]=02:55:08	Otome	¿Y qué hay de 'onii-chan'? ¿No era tu novio Kasannoin-senpai?^	02:58:06;
+
+[PlayVoice]=02:55:08	Voice04/04-KA/04-KA-L00/04-KA-L00-0610	0	oto	02:58:06;
+
+[CreateBG]=02:58:07	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-013	02:59:22;
+
+[PrintText]=02:58:12	Nanami	...	02:59:22;
+
+[PlayVoice]=02:58:12	Voice04/04-KA/04-KA-L00/04-KA-L00-0620	0	xxx	02:59:22;
+
+[PlayBgm]=02:59:11	BGM/SD_BGM/sdbgm26	07:05:08;
+
+[CreateBG]=02:59:22	BGS	System/Screen/Black	03:01:14;
+
+[PrintText]=03:00:02	Sekai	Nanami...	03:01:06;
+
+[PlayVoice]=03:00:02	Voice04/04-KA/04-KA-L00/04-KA-L00-0630	0	sek	03:01:06;
+
+[PlayMovie]=03:01:14	Movie04/04-KA/04-KA-L00/04-KA-L00-015	0	03:39:01;
+
+[PrintText]=03:01:19	Otome	Ah... están empezando con Nanami.	03:04:15;
+
+[PlayVoice]=03:01:19	Voice04/04-KA/04-KA-L00/04-KA-L00-0670	0	oto	03:04:15;
+
+[PrintText]=03:04:16	Sekai	¿Eh...?^	03:05:12;
+
+[PlayVoice]=03:04:16	Voice04/04-KA/04-KA-L00/04-KA-L00-0680	0	sek	03:05:12;
+
+[PrintText]=03:05:05	Nanami	Senpai...	03:06:19;
+
+[PlayVoice]=03:05:05	Voice04/04-KA/04-KA-L00/04-KA-L00-0710	0	nan	03:06:19;
+
+[PrintText]=03:07:05	Nanami	Ahh... mmn... Puedo sentirlo...	03:09:10;
+
+[PlayVoice]=03:07:05	Voice04/04-KA/04-KA-L00/04-KA-L00-0720	0	nan	03:09:10;
+
+[PrintText]=03:09:16	Kasannoin	Nanami.	03:10:11;
+
+[PlayVoice]=03:09:16	Voice04/04-KA/04-KA-L00/04-KA-L00-0730	1	kas	03:10:11;
+
+[PrintText]=03:10:03	Nanami	Hey... todo estará bien si lo hacemos aquí.	03:12:20;
+
+[PlayVoice]=03:10:03	Voice04/04-KA/04-KA-L00/04-KA-L00-0740	0	nan	03:12:20;
+
+[PrintText]=03:12:21	Kasannoin	No tenía idea de que un lugar como éste existía... te encantan este tipo de cosas, ¿no?^	03:18:14;
+
+[PlayVoice]=03:12:21	Voice04/04-KA/04-KA-L00/04-KA-L00-0750	1	kas	03:18:14;
+
+[PrintText]=03:18:08	Nanami	Aw, Para ya.	03:19:21;
+
+[PlayVoice]=03:18:08	Voice04/04-KA/04-KA-L00/04-KA-L00-0760	0	nan	03:19:21;
+
+[PrintText]=03:19:09	Kasannoin	Aquí, lámelo.	03:21:15;
+
+[PlayVoice]=03:19:09	Voice04/04-KA/04-KA-L00/04-KA-L00-0770	1	kas	03:21:15;
+
+[PrintText]=03:21:14	Nanami	Vale...	03:22:03;
+
+[PlayVoice]=03:21:14	Voice04/04-KA/04-KA-L00/04-KA-L00-0790	0	nan	03:22:03;
+
+[MoveSom]=03:21:19	1	03:39:01;
+
+[PrintText]=03:22:08	Sekai	...	03:23:01;
+
+[PlayVoice]=03:22:08	Voice04/04-KA/04-KA-L00/04-KA-L00-0820	0	xxx	03:23:01;
+
+[PrintText]=03:23:01	Nanami	Nn... nnh... ngh...	03:25:13;
+
+[PlayVoice]=03:23:01	Voice04/04-KA/04-KA-L00/04-KA-L00-0830	0	nan	03:25:13;
+
+[PrintText]=03:24:16	Kasannoin	Haah... haah... qué genial... Nanami...	03:29:22;
+
+[PlayVoice]=03:24:16	Voice04/04-KA/04-KA-L00/04-KA-L00-0840	1	kas	03:29:22;
+
+[PrintText]=03:30:02	Nanami	Uh-huh...	03:31:02;
+
+[PlayVoice]=03:30:02	Voice04/04-KA/04-KA-L00/04-KA-L00-0850	0	nan	03:31:02;
+
+[PrintText]=03:31:08	Kasannoin	Kuh...	03:32:23;
+
+[PlayVoice]=03:31:08	Voice04/04-KA/04-KA-L00/04-KA-L00-0860	1	kas	03:32:23;
+
+[PrintText]=03:31:15	Nanami	Mmn...	03:32:17;
+
+[PlayVoice]=03:31:15	Voice04/04-KA/04-KA-L00/04-KA-L00-0870	0	nan	03:32:17;
+
+[PrintText]=03:33:02	Kasannoin	Vamos, Nanami... dilo como siempre lo haces.	03:36:23;
+
+[PlayVoice]=03:33:02	Voice04/04-KA/04-KA-L00/04-KA-L00-0880	1	kas	03:36:23;
+
+[PrintText]=03:36:19	Nanami	¿Eh...?^	03:37:10;
+
+[PlayVoice]=03:36:19	Voice04/04-KA/04-KA-L00/04-KA-L00-0890	0	nan	03:37:10;
+
+[PrintText]=03:37:06	Kasannoin	Dilo.	03:38:05;
+
+[PlayVoice]=03:37:06	Voice04/04-KA/04-KA-L00/04-KA-L00-0900	1	kas	03:38:05;
+
+[PrintText]=03:38:05	Nanami	Vale...	03:38:17;
+
+[PlayVoice]=03:38:05	Voice04/04-KA/04-KA-L00/04-KA-L00-0910	0	nan	03:38:17;
+
+[CreateBG]=03:39:01	BGS	System/Screen/Black	03:55:08;
+
+[PrintText]=03:39:07	Kasannoin	Abre las piernas.	03:40:15;
+
+[PlayVoice]=03:39:07	Voice04/04-KA/04-KA-L00/04-KA-L00-0920	1	kas	03:40:15;
+
+[PrintText]=03:40:22	Nanami	Vale...	03:41:22;
+
+[PlayVoice]=03:40:22	Voice04/04-KA/04-KA-L00/04-KA-L00-0940	0	nan	03:41:22;
+
+[PrintText]=03:41:12	Kasannoin	Ábrelas de esta manera... así podre ver como estás mojada.	03:46:10;
+
+[PlayVoice]=03:41:12	Voice04/04-KA/04-KA-L00/04-KA-L00-0950	1	kas	03:46:10;
+
+[PrintText]=03:46:17	Nanami	¿Así?^	03:48:10;
+
+[PlayVoice]=03:46:17	Voice04/04-KA/04-KA-L00/04-KA-L00-0960	0	nan	03:48:10;
+
+[PrintText]=03:47:18	Kasannoin	Estás mas mojada de lo usual.	03:50:22;
+
+[PlayVoice]=03:47:18	Voice04/04-KA/04-KA-L00/04-KA-L00-0970	1	kas	03:50:22;
+
+[PrintText]=03:51:03	Nanami	Nn... esto hace que me excite para hacerlo aquí.	03:55:09;
+
+[PlayVoice]=03:51:03	Voice04/04-KA/04-KA-L00/04-KA-L00-0980	0	nan	03:55:09;
+
+[MoveSom]=03:55:00	3	04:36:06;
+
+[PrintText]=03:55:07	Kasannoin	Uwah...	03:57:06;
+
+[PlayVoice]=03:55:07	Voice04/04-KA/04-KA-L00/04-KA-L00-0990	1	kas	03:57:06;
+
+[PlayMovie]=03:55:08	Movie04/04-KA/04-KA-L00/04-KA-L00-017	0	05:26:09;
+
+[PrintText]=03:57:10	Nanami	Haah... nn...	03:58:12;
+
+[PlayVoice]=03:57:10	Voice04/04-KA/04-KA-L00/04-KA-L00-1000	0	nan	03:58:12;
+
+[PrintText]=03:58:08	Kasannoin	Vamos, empieza diciéndolo. Dime 'onii-chan'.	04:03:14;
+
+[PlayVoice]=03:58:08	Voice04/04-KA/04-KA-L00/04-KA-L00-1010	1	kas	04:03:14;
+
+[PrintText]=04:03:17	Nanami	Nn... onii-chan... Mételo todo aquí...	04:09:19;
+
+[PlayVoice]=04:03:17	Voice04/04-KA/04-KA-L00/04-KA-L00-1020	0	nan	04:09:19;
+
+[PrintText]=04:09:16	Kasannoin	Vale.	04:10:09;
+
+[PlayVoice]=04:09:16	Voice04/04-KA/04-KA-L00/04-KA-L00-1030	1	kas	04:10:09;
+
+[PrintText]=04:10:05	Nanami	¡Kyah...! ¡Ah... nn! ¡Senpai...! Es asomb...	04:14:20;
+
+[PlayVoice]=04:10:05	Voice04/04-KA/04-KA-L00/04-KA-L00-1040	0	nan	04:14:20;
+
+[PlaySe]=04:10:06	1	SysSe/SE_all/h/h_03_sichoukaku	04:58:02;
+
+[PrintText]=04:14:13	Kasannoin	Te dije que me llamaras 'onii-chan'.	04:16:10;
+
+[PlayVoice]=04:14:13	Voice04/04-KA/04-KA-L00/04-KA-L00-1050	1	kas	04:16:10;
+
+[PrintText]=04:16:02	Nanami	V-Vale... onii-chan... onii-chan... ¡Sí! ¡...Fwah!	04:22:15;
+
+[PlayVoice]=04:16:02	Voice04/04-KA/04-KA-L00/04-KA-L00-1060	0	nan	04:22:15;
+
+[PrintText]=04:22:14	Kasannoin	Haah... haah...	04:25:21;
+
+[PlayVoice]=04:22:14	Voice04/04-KA/04-KA-L00/04-KA-L00-1070	1	kas	04:25:21;
+
+[PrintText]=04:26:06	Nanami	¡Aah... nhaah! Ahah... aah...	04:30:07;
+
+[PlayVoice]=04:26:06	Voice04/04-KA/04-KA-L00/04-KA-L00-1080	0	nan	04:30:07;
+
+[PrintText]=04:30:06	Kasannoin	¡Haah... haah... haah...!	04:33:17;
+
+[PlayVoice]=04:30:06	Voice04/04-KA/04-KA-L00/04-KA-L00-1090	1	kas	04:33:17;
+
+[PrintText]=04:33:11	Nanami	¡Aaah...! ¡Ah...! ¡Ah...! ¡Aah...!	04:36:22;
+
+[PlayVoice]=04:33:11	Voice04/04-KA/04-KA-L00/04-KA-L00-1100	0	nan	04:36:22;
+
+[MoveSom]=04:36:06	5	04:58:06;
+
+[PrintText]=04:36:19	Kasannoin	¡Nanami...!	04:38:02;
+
+[PlayVoice]=04:36:19	Voice04/04-KA/04-KA-L00/04-KA-L00-1110	1	kas	04:38:02;
+
+[PrintText]=04:37:21	Nanami	¡Nnn...! ¡Onii-chan...! ¡Que bien se siente...! ¡Ahhh!	04:41:20;
+
+[PlayVoice]=04:37:21	Voice04/04-KA/04-KA-L00/04-KA-L00-1120	0	nan	04:41:20;
+
+[PrintText]=04:42:01	Kasannoin	¡Kuh... haah...! ¡Haah...!	04:44:18;
+
+[PlayVoice]=04:42:01	Voice04/04-KA/04-KA-L00/04-KA-L00-1130	1	kas	04:44:18;
+
+[PrintText]=04:44:02	Nanami	¡Aah... ahah... aaah! ¡Ah...! ¡Nn...!	04:47:17;
+
+[PlayVoice]=04:44:02	Voice04/04-KA/04-KA-L00/04-KA-L00-1140	0	nan	04:47:17;
+
+[PrintText]=04:47:21	Kasannoin	¡Voy a...!	04:50:05;
+
+[PlayVoice]=04:47:21	Voice04/04-KA/04-KA-L00/04-KA-L00-1150	1	kas	04:50:05;
+
+[PrintText]=04:49:06	Nanami	¡Ah... nn...! ¡Yo también...! Ah!	04:52:13;
+
+[PlayVoice]=04:49:06	Voice04/04-KA/04-KA-L00/04-KA-L00-1160	0	nan	04:52:13;
+
+[PrintText]=04:52:16	Kasannoin	¡Kuh...!	04:53:11;
+
+[PlayVoice]=04:52:16	Voice04/04-KA/04-KA-L00/04-KA-L00-1170	1	kas	04:53:11;
+
+[PrintText]=04:53:08	Nanami	¡Nnah... ah... O... onii-chaaaan!	04:58:10;
+
+[PlayVoice]=04:53:08	Voice04/04-KA/04-KA-L00/04-KA-L00-1180	0	nan	04:58:10;
+
+[PrintText]=04:59:13	Nanami	Haah... haah...	05:02:21;
+
+[PlayVoice]=04:59:13	Voice04/04-KA/04-KA-L00/04-KA-L00-1200	0	nan	05:02:21;
+
+[PrintText]=05:01:18	Kasannoin	Haah... haah...	05:06:02;
+
+[PlayVoice]=05:01:18	Voice04/04-KA/04-KA-L00/04-KA-L00-1210	1	kas	05:06:02;
+
+[PrintText]=05:05:21	Nanami	Senpai... ¿Estuvo bueno para ti...?^	05:09:03;
+
+[PlayVoice]=05:05:21	Voice04/04-KA/04-KA-L00/04-KA-L00-1220	0	nan	05:09:03;
+
+[PrintText]=05:08:22	Kasannoin	Se sintió bien...	05:10:18;
+
+[PlayVoice]=05:08:22	Voice04/04-KA/04-KA-L00/04-KA-L00-1230	1	kas	05:10:18;
+
+[PrintText]=05:11:08	Nanami	También para mí...	05:12:11;
+
+[PlayVoice]=05:11:08	Voice04/04-KA/04-KA-L00/04-KA-L00-1240	0	nan	05:12:11;
+
+[PrintText]=05:13:20	Kasannoin	Hagamos la del "Amo" la próxima vez.	05:16:22;
+
+[PlayVoice]=05:13:20	Voice04/04-KA/04-KA-L00/04-KA-L00-1250	1	kas	05:16:22;
+
+[PrintText]=05:16:18	Nanami	¿Eh?^	05:17:08;
+
+[PlayVoice]=05:16:18	Voice04/04-KA/04-KA-L00/04-KA-L00-1260	0	nan	05:17:08;
+
+[PrintText]=05:17:05	Kasannoin	Cuando me paguen, te compraré un vestido de sirvienta.	05:20:19;
+
+[PlayVoice]=05:17:05	Voice04/04-KA/04-KA-L00/04-KA-L00-1270	1	kas	05:20:19;
+
+[PrintText]=05:20:16	Nanami	¿Ehh?^	05:21:23;
+
+[PlayVoice]=05:20:16	Voice04/04-KA/04-KA-L00/04-KA-L00-1280	0	nan	05:21:23;
+
+[PrintText]=05:21:18	Kasannoin	¿No quieres?^	05:22:19;
+
+[PlayVoice]=05:21:18	Voice04/04-KA/04-KA-L00/04-KA-L00-1290	1	kas	05:22:19;
+
+[PrintText]=05:23:07	Nanami	...Amo.	05:24:13;
+
+[PlayVoice]=05:23:07	Voice04/04-KA/04-KA-L00/04-KA-L00-1310	0	nan	05:24:13;
+
+[PrintText]=05:24:14	Kasannoin	¡Ah... Que chica!	05:26:08;
+
+[PlayVoice]=05:24:14	Voice04/04-KA/04-KA-L00/04-KA-L00-1320	1	kas	05:26:08;
+
+[PlayMovie]=05:26:09	Movie04/04-KA/04-KA-L00/04-KA-L00-018	0	05:50:02;
+
+[PrintText]=05:26:09	Nanami	...	05:34:14;
+
+[PlayVoice]=05:26:09	Voice04/04-KA/04-KA-L00/04-KA-L00-1340	0	xxx	05:34:14;
+
+[PrintText]=05:34:23	Otome	Nanami...	05:36:07;
+
+[PlayVoice]=05:34:23	Voice04/04-KA/04-KA-L00/04-KA-L00-1360	0	oto	05:36:07;
+
+[PrintText]=05:36:17	Sekai	Ven, Nanami. Vámonos.	05:40:22;
+
+[PlayVoice]=05:36:17	Voice04/04-KA/04-KA-L00/04-KA-L00-1370	0	sek	05:40:22;
+
+[PrintText]=05:40:18	Nanami	...	05:42:23;
+
+[PlayVoice]=05:40:18	Voice04/04-KA/04-KA-L00/04-KA-L00-1380	0	xxx	05:42:23;
+
+[PrintText]=05:43:02	Otome	Tiene razón, Nanami. Es mejor irnos.	05:47:08;
+
+[PlayVoice]=05:43:02	Voice04/04-KA/04-KA-L00/04-KA-L00-1390	0	oto	05:47:08;
+
+[PrintText]=05:47:15	Nanami	...	05:51:02;
+
+[PlayVoice]=05:47:15	Voice04/04-KA/04-KA-L00/04-KA-L00-1410	0	xxx	05:51:02;
+
+[CreateBG]=05:50:02	BGS	Event04/04-KA/04-KA-L00/04-KA-L00-007	06:14:16;
+
+[PlayVoice]=05:51:17	Voice04/04-KA/04-KA-L00/04-KA-L00-1450	0	kot	06:16:23;
+
+[PrintText]=05:52:06	Natsuki	Uwah, ¿No es increíble?^	05:55:00;
+
+[PlayVoice]=05:52:06	Voice04/04-KA/04-KA-L00/04-KA-L00-1470	0	bue	05:55:00;
+
+[PrintText]=05:55:01	Roka	¿Quién habría pensado que tendríamos una chica así en el primer año?^	05:58:11;
+
+[PlayVoice]=05:55:01	Voice04/04-KA/04-KA-L00/04-KA-L00-1480	0	rok	05:58:11;
+
+[PrintText]=05:58:09	Ruka	Sus pechos... son enormes.	06:01:07;
+
+[PlayVoice]=05:58:09	Voice04/04-KA/04-KA-L00/04-KA-L00-1490	0	buc	06:01:07;
+
+[PrintText]=06:01:07	Mugi	Es de la clase 4 ¿No?^	06:04:04;
+
+[PlayVoice]=06:01:07	Voice04/04-KA/04-KA-L00/04-KA-L00-1500	0	bud	06:04:04;
+
+[PrintText]=06:04:00	Natsuki	Ya veo. Él es su novio ¿Verdad?^	06:06:13;
+
+[PlayVoice]=06:04:00	Voice04/04-KA/04-KA-L00/04-KA-L00-1510	0	bue	06:06:13;
+
+[PrintText]=06:06:07	Roka	Su Novio... es de la clase 3.	06:09:14;
+
+[PlayVoice]=06:06:07	Voice04/04-KA/04-KA-L00/04-KA-L00-1520	0	rok	06:09:14;
+
+[PrintText]=06:09:12	Ruka	Este es el favorito de Roka, ¿verdad?^	06:13:02;
+
+[PlayVoice]=06:09:12	Voice04/04-KA/04-KA-L00/04-KA-L00-1530	0	buc	06:13:02;
+
+[PrintText]=06:12:20	Roka	Así que tiene una novia... que sorpresa.	06:16:15;
+
+[PlayVoice]=06:12:20	Voice04/04-KA/04-KA-L00/04-KA-L00-1540	0	rok	06:16:15;
+
+[PlayMovie]=06:14:16	Movie04/04-KA/04-KA-L00/H4-KA-L00-020	0	06:26:14;
+
+[PrintText]=06:16:10	Natsuki	Que manera tan indecente de besarse.	06:19:07;
+
+[PlayVoice]=06:16:10	Voice04/04-KA/04-KA-L00/04-KA-L00-1550	0	bue	06:19:07;
+
+[MoveSom]=06:16:18	5	06:37:12;
+
+[PlaySe]=06:16:23	1	Voice04/04-KA/04-KA-L00/04-KA-L00-1450	06:27:05;
+
+[PrintText]=06:19:04	Roka	Uwaaah, ya no quiero ver más.	06:22:08;
+
+[PlayVoice]=06:19:04	Voice04/04-KA/04-KA-L00/04-KA-L00-1560	0	rok	06:22:08;
+
+[PrintText]=06:22:03	Mugi	Oh, Vamos.	06:23:12;
+
+[PlayVoice]=06:22:03	Voice04/04-KA/04-KA-L00/04-KA-L00-1570	0	bud	06:23:12;
+
+[PrintText]=06:23:05	Natsuki	Entonces, ¿El es él chico que rompió tu corazón?^	06:26:20;
+
+[PlayVoice]=06:23:05	Voice04/04-KA/04-KA-L00/04-KA-L00-1580	0	bue	06:26:20;
+
+[PlayMovie]=06:26:14	Movie04/04-KA/04-KA-L00/04-KA-L00-021	0	06:39:08;
+
+[PrintText]=06:26:19	Roka	No me gustaba tanto... pero aún así es una sorpresa.	06:31:02;
+
+[PlayVoice]=06:26:19	Voice04/04-KA/04-KA-L00/04-KA-L00-1590	0	rok	06:31:02;
+
+[PlaySe]=06:28:15	2	SysSe/SE_all/h/h_03_sichoukaku	07:05:08;
+
+[PlaySe]=06:29:23	1	Se04/04-KA/04-KA-L00/SE04-KA-L00-001	07:05:08;
+
+[PrintText]=06:31:02	Ruka	Si no me equivoco... ah, es cierto. Es Itou de la clase 3.	06:36:13;
+
+[PlayVoice]=06:31:02	Voice04/04-KA/04-KA-L00/04-KA-L00-1600	0	buc	06:36:13;
+
+[PrintText]=06:36:09	Sekai	¿Eh?^	06:37:06;
+
+[PlayVoice]=06:36:09	Voice04/04-KA/04-KA-L00/04-KA-L00-1610	0	sek	06:37:06;
+
+[PrintText]=06:38:02	Sekai	¿Makoto...?!	06:39:07;
+
+[PlayVoice]=06:38:02	Voice04/04-KA/04-KA-L00/04-KA-L00-1640	0	sek	06:39:07;
+
+[PlayMovie]=06:39:08	Movie04/04-KA/04-KA-L00/04-KA-L00-022	0	07:00:02;
+
+[PlayMovie]=07:00:02	Movie04/04-KA/04-KA-L00/04-KA-L00-023	0	07:05:08;
+
+[BlackFade]=07:03:08	OUT	07:05:08;
+
+ ;
+
+[Next]=07:05:08;
+
+

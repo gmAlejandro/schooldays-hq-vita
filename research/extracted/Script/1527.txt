@@ -1,0 +1,148 @@
+﻿[SkipFRAME]=01:34:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	01:34:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-001	00:05:11;
+
+[PrintText]=00:00:00	Makoto	Phew... eso dio un poco de miedo.	00:05:07;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-H02/05-KB-H02-0040	1	mak	00:05:07;
+
+[PrintText]=00:05:08	Kotonoha	Makoto-kun... estuviste asombroso.	00:08:17;
+
+[PlayVoice]=00:05:08	Voice05/05-KB/05-KB-H02/05-KB-H02-0050	0	kot	00:08:17;
+
+[CreateBG]=00:05:11	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-002	00:19:12;
+
+[PrintText]=00:08:17	Makoto	Haha... bueno, Katou y yo nos conocemos, pensé que estaría bien.	00:14:11;
+
+[PlayVoice]=00:08:17	Voice05/05-KB/05-KB-H02/05-KB-H02-0060	1	mak	00:14:11;
+
+[PrintText]=00:14:11	Kotonoha	Y... me llamaste tu novia.	00:19:12;
+
+[PlayVoice]=00:14:11	Voice05/05-KB/05-KB-H02/05-KB-H02-0070	0	kot	00:19:12;
+
+[CreateBG]=00:19:12	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-003	00:33:18;
+
+[PrintText]=00:19:12	Makoto	¿Es muy pronto?^	00:21:21;
+
+[PlayVoice]=00:19:12	Voice05/05-KB/05-KB-H02/05-KB-H02-0080	1	mak	00:21:21;
+
+[PrintText]=00:21:21	Kotonoha	¿Eh?^	00:22:16;
+
+[PlayVoice]=00:21:21	Voice05/05-KB/05-KB-H02/05-KB-H02-0090	0	kot	00:22:16;
+
+[PrintText]=00:22:16	Makoto	¿Aún somos amigos?^	00:26:01;
+
+[PlayVoice]=00:22:16	Voice05/05-KB/05-KB-H02/05-KB-H02-0100	1	mak	00:26:01;
+
+[PrintText]=00:26:01	Kotonoha	No. También... me gustaría ser tu novia.	00:32:00;
+
+[PlayVoice]=00:26:01	Voice05/05-KB/05-KB-H02/05-KB-H02-0110	0	kot	00:32:00;
+
+[PrintText]=00:32:00	Makoto	Vale.	00:33:17;
+
+[PlayVoice]=00:32:00	Voice05/05-KB/05-KB-H02/05-KB-H02-0120	1	mak	00:33:17;
+
+[PrintText]=00:33:17	Kotonoha	Ah.	00:34:15;
+
+[PlayVoice]=00:33:17	Voice05/05-KB/05-KB-H02/05-KB-H02-0130	0	kot	00:34:15;
+
+[CreateBG]=00:33:18	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-004	00:37:03;
+
+[PrintText]=00:34:15	Makoto	...	00:37:02;
+
+[PlayVoice]=00:34:15	Voice05/05-KB/05-KB-H02/05-KB-H02-0150	1	xxx	00:37:02;
+
+[PrintText]=00:37:02	Sekai	Lo... Lo siento... Yo... no tenía idea...	00:45:10;
+
+[PlayVoice]=00:37:02	Voice05/05-KB/05-KB-H02/05-KB-H02-0170	0	sek	00:45:10;
+
+[CreateBG]=00:37:03	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-005	00:51:02;
+
+[PrintText]=00:45:10	Nanami	¡Lo siento! ¡Todo fue mi idea, Sekai no tenía nada que ver! ¡Así que..!	00:51:02;
+
+[PlayVoice]=00:45:10	Voice05/05-KB/05-KB-H02/05-KB-H02-0180	0	nan	00:51:02;
+
+[CreateBG]=00:51:02	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-006	00:55:11;
+
+[PrintText]=00:51:02	Makoto	¡Por supuesto que no lo hizo! Ese tipo de cosas son...	00:55:10;
+
+[PlayVoice]=00:51:02	Voice05/05-KB/05-KB-H02/05-KB-H02-0190	1	mak	00:55:10;
+
+[PrintText]=00:55:10	Kotonoha	Makoto-kun.	00:56:20;
+
+[PlayVoice]=00:55:10	Voice05/05-KB/05-KB-H02/05-KB-H02-0200	0	kot	00:56:20;
+
+[PlayMovie]=00:55:11	Movie05/05-KB/05-KB-H02/05-KB-H02-007	0	01:04:01;
+
+[PrintText]=00:56:19	Makoto	Kotonoha...	00:59:08;
+
+[PlayVoice]=00:56:19	Voice05/05-KB/05-KB-H02/05-KB-H02-0210	1	mak	00:59:08;
+
+[PrintText]=00:59:08	Kotonoha	Está bien.	01:01:04;
+
+[PlayVoice]=00:59:08	Voice05/05-KB/05-KB-H02/05-KB-H02-0220	0	kot	01:01:04;
+
+[PrintText]=01:01:04	Makoto	...Vale.	01:04:00;
+
+[PlayVoice]=01:01:04	Voice05/05-KB/05-KB-H02/05-KB-H02-0230	1	mak	01:04:00;
+
+[PrintText]=01:04:00	Sekai	Lo siento...	01:13:08;
+
+[PlayVoice]=01:04:00	Voice05/05-KB/05-KB-H02/05-KB-H02-0240	0	sek	01:13:08;
+
+[PlayMovie]=01:04:01	Movie05/05-KB/05-KB-H02/05-KB-H02-008	0	01:13:08;
+
+[CreateBG]=01:13:08	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-009	01:15:11;
+
+[PrintText]=01:13:08	Makoto	Kuh...	01:15:11;
+
+[PlayVoice]=01:13:08	Voice05/05-KB/05-KB-H02/05-KB-H02-0260	1	mak	01:15:11;
+
+[CreateBG]=01:15:11	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-010	01:17:00;
+
+[PrintText]=01:15:11	Kotonoha	Saionji-san...	01:17:00;
+
+[PlayVoice]=01:15:11	Voice05/05-KB/05-KB-H02/05-KB-H02-0270	0	kot	01:17:00;
+
+[PlayMovie]=01:17:00	Movie05/05-KB/05-KB-H02/05-KB-H02-011	0	01:22:05;
+
+[PrintText]=01:17:00	Makoto	Vamos, Kotonoha.	01:21:02;
+
+[PlayVoice]=01:17:00	Voice05/05-KB/05-KB-H02/05-KB-H02-0280	1	mak	01:21:02;
+
+[PlaySe]=01:19:20	2	SysSe/SE_all/footsteps/asioto_school	01:25:18;
+
+[PlaySe]=01:20:20	1	Voice05/05-KB/05-KB-H02/05-KB-H02-0310A	01:23:01;
+
+[PlayMovie]=01:22:05	Movie05/05-KB/05-KB-H02/05-KB-H02-012	0	01:23:10;
+
+[PrintText]=01:22:05	Kotonoha	...	01:22:18;
+
+[PlayVoice]=01:22:05	Voice05/05-KB/05-KB-H02/05-KB-H02-0290	0	xxx	01:22:18;
+
+[CreateBG]=01:23:10	BGS	Event05/05-KB/05-KB-H02/05-KB-H02-013	01:29:15;
+
+[PrintText]=01:26:12	Makoto	¡Kotonoha!	01:28:18;
+
+[PlayVoice]=01:26:12	Voice05/05-KB/05-KB-H02/05-KB-H02-0310	1	mak	01:28:18;
+
+[PrintText]=01:27:21	Kotonoha	Ah... sí.	01:29:14;
+
+[PlayVoice]=01:27:21	Voice05/05-KB/05-KB-H02/05-KB-H02-0320	0	kot	01:29:14;
+
+[PlaySe]=01:29:15	2	SysSe/SE_all/footsteps/asioto_out_run	01:33:09;
+
+[PlayMovie]=01:29:15	Movie05/05-KB/05-KB-H02/05-KB-H02-014	0	01:34:05;
+
+[BlackFade]=01:33:17	OUT	01:34:05;
+
+ ;
+
+[Next]=01:34:05;
+
+
+
+
+

@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:11:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:11:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:02:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-I00/01-1K-I00-001	00:02:17;
+
+[PlaySe]=00:02:17	2	SysSe/SE_all/gaya/kyousitu_rouka	00:11:21;
+
+[CreateBG]=00:02:17	BGS	Event01/01-1K/01-1K-I00/01-1K-I00-002	00:05:16;
+
+[CreateBG]=00:05:17	BGS	Event01/01-1K/01-1K-I00/01-1K-I00-003	00:08:11;
+
+[PrintText]=00:06:10	Makoto	Haah...	00:07:13;
+
+[PlayVoice]=00:06:10	Voice01/01-1K/01-1K-I00/01-1K-I00-0030	1	mak	00:07:13;
+
+[CreateBG]=00:08:11	BGS	Event01/01-1K/01-1K-I00/01-1K-I00-004	00:11:21;
+
+[BlackFade]=00:10:21	OUT	00:11:21;
+
+ ;
+
+[Next]=00:11:21;
+
+
+
+

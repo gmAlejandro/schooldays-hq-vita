@@ -1,0 +1,157 @@
+﻿[SkipFRAME]=02:23:00;
+
+[PlaySe]=00:00:00	1	Se05/05-B0/05-B0-F00/SE05-B0-F00-001	01:44:22;
+
+[PlayMovie]=00:00:00	Movie05/05-KB/05-KB-F10/05-KB-F10-004	0	00:08:00;
+
+[CreateBG]=00:08:00	BGS	Event05/05-B0/05-B0-F00/05-B0-F00-002	00:11:12;
+
+[PrintText]=00:08:15	Sekai	¡Buen día!	00:09:12;
+
+[PlayVoice]=00:08:15	Voice05/05-B0/05-B0-F00/05-B0-F00-0030	0	sek	00:09:12;
+
+[PrintText]=00:09:11	Nanami	Buen día.	00:10:08;
+
+[PlayVoice]=00:09:11	Voice05/05-B0/05-B0-F00/05-B0-F00-0040	0	nan	00:10:08;
+
+[PrintText]=00:10:08	Hikari	¡Buen día!	00:11:05;
+
+[PlayVoice]=00:10:08	Voice05/05-B0/05-B0-F00/05-B0-F00-0050	0	hik	00:11:05;
+
+[PrintText]=00:11:07	Sekai	Eheheh... Lindo día ¿No?^	00:14:04;
+
+[PlayVoice]=00:11:07	Voice05/05-B0/05-B0-F00/05-B0-F00-0060	0	sek	00:14:04;
+
+[CreateBG]=00:11:12	BGS	Event05/05-B0/05-B0-F00/05-B0-F00-003	00:19:07;
+
+[PrintText]=00:13:19	Nanami	¿Es solo el clima el que te tiene de tan buen humor?^	00:16:21;
+
+[PlayVoice]=00:13:19	Voice05/05-B0/05-B0-F00/05-B0-F00-0070	0	nan	00:16:21;
+
+[PrintText]=00:17:00	Sekai	¿Eh?! ¿Qué quieres decir?^	00:19:04;
+
+[PlayVoice]=00:17:00	Voice05/05-B0/05-B0-F00/05-B0-F00-0080	0	sek	00:19:04;
+
+[PlayMovie]=00:19:07	Movie05/05-B0/05-B0-F00/05-B0-F00-004	0	00:26:11;
+
+[PrintText]=00:20:00	Sekai	¡Heheh... bueno, puedes decir lo que quieras!	00:22:17;
+
+[PlayVoice]=00:20:00	Voice05/05-B0/05-B0-F00/05-B0-F00-0090	0	sek	00:22:17;
+
+[PlayMovie]=00:26:11	Movie05/05-B0/05-B0-F00/05-B0-F00-005	0	00:36:05;
+
+[PrintText]=00:26:18	Makoto	¡Ahahah!	00:28:08;
+
+[PlayVoice]=00:26:18	Voice05/05-B0/05-B0-F00/05-B0-F00-0100	1	mak	00:28:08;
+
+[PrintText]=00:28:18	Makoto	Ah...	00:29:10;
+
+[PlayVoice]=00:28:18	Voice05/05-B0/05-B0-F00/05-B0-F00-0110	1	mak	00:29:10;
+
+[PrintText]=00:31:11	Sekai	¿Eh? ¿Katsura-san...?^	00:33:12;
+
+[PlayVoice]=00:31:11	Voice05/05-B0/05-B0-F00/05-B0-F00-0120	0	sek	00:33:12;
+
+[PrintText]=00:34:07	Sekai	...	00:35:07;
+
+[PlayVoice]=00:34:07	Voice05/05-B0/05-B0-F00/05-B0-F00-0130	0	xxx	00:35:07;
+
+[PlayMovie]=00:36:05	Movie05/05-B0/05-B0-F00/05-B0-F00-006	0	00:46:02;
+
+[PrintText]=00:36:05	Kotonoha	Saionji-san.	00:37:13;
+
+[PlayVoice]=00:36:05	Voice05/05-B0/05-B0-F00/05-B0-F00-0140	0	kot	00:37:13;
+
+[PrintText]=00:37:20	Sekai	¡...Sí!	00:38:21;
+
+[PlayVoice]=00:37:20	Voice05/05-B0/05-B0-F00/05-B0-F00-0150	0	sek	00:38:21;
+
+[PrintText]=00:39:10	Sekai	Ah... um...	00:41:10;
+
+[PlayVoice]=00:39:10	Voice05/05-B0/05-B0-F00/05-B0-F00-0160	0	sek	00:41:10;
+
+[PrintText]=00:42:01	Sekai	Largo tiempo sin verte, Katsura-san. Que...	00:48:03;
+
+[PlayVoice]=00:42:01	Voice05/05-B0/05-B0-F00/05-B0-F00-0170	0	sek	00:48:03;
+
+[PlayMovie]=00:46:02	Movie05/05-B0/05-B0-F00/05-B0-F00-007	0	00:48:06;
+
+[PlayMovie]=00:48:06	Movie05/05-B0/05-B0-F00/05-B0-F00-008	0	00:51:13;
+
+[PrintText]=00:49:21	Sekai	¿... Tal...?^	00:50:15;
+
+[PlayVoice]=00:49:21	Voice05/05-B0/05-B0-F00/05-B0-F00-0190	0	sek	00:50:15;
+
+[PlayMovie]=00:51:13	Movie05/05-B0/05-B0-F00/05-B0-F00-009	0	00:55:07;
+
+[PrintText]=00:53:03	Kotonoha	Muere.	00:55:02;
+
+[PlayVoice]=00:53:03	Voice05/05-B0/05-B0-F00/05-B0-F00-0180	0	kot	00:55:02;
+
+[PlayMovie]=00:55:07	Movie05/05-B0/05-B0-F00/05-B0-F00-010	0	01:05:06;
+
+[PrintText]=00:56:19	Sekai	¿Eh...?^	00:58:02;
+
+[PlayVoice]=00:56:19	Voice05/05-B0/05-B0-F00/05-B0-F00-0200	0	sek	00:58:02;
+
+[PrintText]=00:59:17	Sekai	¿Qué...?^	01:00:19;
+
+[PlayVoice]=00:59:17	Voice05/05-B0/05-B0-F00/05-B0-F00-0210	0	sek	01:00:19;
+
+[PlayMovie]=01:05:06	Movie05/05-B0/05-B0-F00/05-B0-F00-011	0	01:12:15;
+
+[PrintText]=01:05:17	Sekai	E-Esto no...	01:08:02;
+
+[PlayVoice]=01:05:17	Voice05/05-B0/05-B0-F00/05-B0-F00-0220	0	sek	01:08:02;
+
+[PrintText]=01:08:03	Makoto	...	01:08:23;
+
+[PlayVoice]=01:08:03	Voice05/05-B0/05-B0-F00/05-B0-F00-0230	1	xxx	01:08:23;
+
+[EndBGM]=01:08:10	BGM/Vocal/SDV10	03:55:18;
+
+[PlayMovie]=01:12:15	Movie05/05-B0/05-B0-F00/05-B0-F00-012	0	01:15:03;
+
+[PrintText]=01:12:15	Makoto	¡¿Sekai?!	01:13:20;
+
+[PlayVoice]=01:12:15	Voice05/05-B0/05-B0-F00/05-B0-F00-0240	1	mak	01:13:20;
+
+[PlayVoice]=01:14:14	Voice05/05-B0/05-B0-F00/05-B0-F00-0250	0	kot	01:23:07;
+
+[PlayMovie]=01:15:03	Movie05/05-B0/05-B0-F00/05-B0-F00-013	0	01:16:12;
+
+[PlayVoice]=01:15:16	Voice05/05-B0/05-B0-F00/05-B0-F00-0260	0	hik	01:17:20;
+
+[PlayMovie]=01:16:12	Movie05/05-B0/05-B0-F00/05-B0-F00-014	0	01:23:10;
+
+[PlayVoice]=01:17:03	Voice05/05-B0/05-B0-F00/05-B0-F00-0270	0	nan	01:18:00;
+
+[CreateBG]=01:23:10	BGS	Event05/05-B0/05-B0-F00/05-B0-F00-015	01:28:20;
+
+[PrintText]=01:23:10	Makoto	Koto...no...ha...	01:28:01;
+
+[PlayVoice]=01:23:10	Voice05/05-B0/05-B0-F00/05-B0-F00-0290	1	mak	01:28:01;
+
+[PlayVoice]=01:23:13	Voice05/05-B0/05-B0-F00/05-B0-F00-0280	0	kot	01:28:05;
+
+[PlayVoice]=01:28:00	Voice05/05-B0/05-B0-F00/05-B0-F00-0300	0	nan	01:30:21;
+
+[PlayMovie]=01:28:20	Movie05/05-B0/05-B0-F00/05-B0-F00-016	0	01:40:10;
+
+[PlayVoice]=01:31:05	Voice05/05-B0/05-B0-F00/05-B0-F00-0310	0	hik	01:34:15;
+
+[BlackFade]=01:37:10	OUT	01:40:10;
+
+[PrintText]=01:40:10	Sekai	Ma...koto...	01:43:00;
+
+[PlayVoice]=01:40:10	Voice05/05-B0/05-B0-F00/05-B0-F00-0320	0	sek	01:43:00;
+
+[PlayMovie]=01:43:10	Ini/EndRoll/05-07	0	01:48:00;
+
+[EndRoll]=01:48:00	Ini/EndRoll/BAD	02:28:00;
+
+ ;
+
+[Next]=02:23:00;
+
+

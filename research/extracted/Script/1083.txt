@@ -1,0 +1,213 @@
+﻿[SkipFRAME]=01:59:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/keitai/tyakusin_sekai	00:05:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-001	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-002	00:04:06;
+
+[PlayMovie]=00:04:06	Movie04/04-SA/04-SA-B02/04-SA-B02-003	0	00:04:21;
+
+[CreateBG]=00:04:21	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-004	00:05:20;
+
+[CreateBG]=00:05:20	BGS	System/Screen/White	00:06:07;
+
+[PlaySe]=00:05:22	2	SysSe/SE_all/keitai/keitai_sousa	00:06:00;
+
+[CreateBG]=00:06:07	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-006	00:07:10;
+
+[PrintText]=00:06:08	Sekai	¡Hola!	00:07:13;
+
+[PlayVoice]=00:06:08	Voice04/04-SA/04-SA-B02/04-SA-B02-0060	0	sek	00:07:13;
+
+[CreateBG]=00:07:10	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-007	00:11:22;
+
+[PlayBgm]=00:07:18	BGM/SD_BGM/sdbgm08	01:59:04;
+
+[PrintText]=00:07:18	Makoto	¿Sekai?^	00:08:15;
+
+[PlayVoice]=00:07:18	Voice04/04-SA/04-SA-B02/04-SA-B02-0070	1	mak	00:08:15;
+
+[PrintText]=00:08:14	Sekai	¡Sip!	00:09:14;
+
+[PlayVoice]=00:08:14	Voice04/04-SA/04-SA-B02/04-SA-B02-0080	0	sek	00:09:14;
+
+[PrintText]=00:09:15	Makoto	¿Estabas despierta?^	00:10:15;
+
+[PlayVoice]=00:09:15	Voice04/04-SA/04-SA-B02/04-SA-B02-0090	1	mak	00:10:15;
+
+[PrintText]=00:10:16	Sekai	Lo estaba.	00:12:00;
+
+[PlayVoice]=00:10:16	Voice04/04-SA/04-SA-B02/04-SA-B02-0100	0	sek	00:12:00;
+
+[CreateBG]=00:11:22	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-008	00:25:20;
+
+[PrintText]=00:12:05	Makoto	Escucha... hay algo que quiero hablar contigo.	00:15:09;
+
+[PlayVoice]=00:12:05	Voice04/04-SA/04-SA-B02/04-SA-B02-0110	1	mak	00:15:09;
+
+[PrintText]=00:15:09	Sekai	¿Qué?^	00:16:04;
+
+[PlayVoice]=00:15:09	Voice04/04-SA/04-SA-B02/04-SA-B02-0120	0	sek	00:16:04;
+
+[PrintText]=00:16:04	Makoto	La verdad... es algo que puede ser incomodo para ti después de todo...	00:21:02;
+
+[PlayVoice]=00:16:04	Voice04/04-SA/04-SA-B02/04-SA-B02-0130	1	mak	00:21:02;
+
+[PrintText]=00:21:03	Sekai	¿Qué pasa?^	00:22:09;
+
+[PlayVoice]=00:21:03	Voice04/04-SA/04-SA-B02/04-SA-B02-0140	0	sek	00:22:09;
+
+[PrintText]=00:22:10	Makoto	Verás, tenemos un problema.	00:25:23;
+
+[PlayVoice]=00:22:10	Voice04/04-SA/04-SA-B02/04-SA-B02-0150	1	mak	00:25:23;
+
+[CreateBG]=00:25:20	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-009	00:41:04;
+
+[PrintText]=00:26:03	Sekai	¿Problema?^	00:27:13;
+
+[PlayVoice]=00:26:03	Voice04/04-SA/04-SA-B02/04-SA-B02-0160	0	sek	00:27:13;
+
+[PrintText]=00:27:15	Makoto	Es Taisuke... al parece invito a una chica en el almuerzo, y ella dijo que sí.	00:36:11;
+
+[PlayVoice]=00:27:15	Voice04/04-SA/04-SA-B02/04-SA-B02-0180	1	mak	00:36:11;
+
+[PrintText]=00:36:11	Sekai	¿Sawanaga?^	00:38:09;
+
+[PlayVoice]=00:36:11	Voice04/04-SA/04-SA-B02/04-SA-B02-0190	0	sek	00:38:09;
+
+[PrintText]=00:38:09	Makoto	... esta también es tu reacción.	00:41:00;
+
+[PlayVoice]=00:38:09	Voice04/04-SA/04-SA-B02/04-SA-B02-0200	1	mak	00:41:00;
+
+[CreateBG]=00:41:04	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-009B	00:50:06;
+
+[PrintText]=00:41:09	Sekai	Sí. Sawanaga no es mal chico,.. pero no es de la clase que invita a una chica de la nada y que después de todo esta acepte.	00:50:12;
+
+[PlayVoice]=00:41:09	Voice04/04-SA/04-SA-B02/04-SA-B02-0210	0	sek	00:50:12;
+
+[CreateBG]=00:50:06	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-009	00:57:00;
+
+[PrintText]=00:50:17	Makoto	No tienes que ser así. Puedes decirlo, él no es popular con las chicas.	00:55:16;
+
+[PlayVoice]=00:50:17	Voice04/04-SA/04-SA-B02/04-SA-B02-0220	1	mak	00:55:16;
+
+[PrintText]=00:55:17	Sekai	Ahaha...	00:57:04;
+
+[PlayVoice]=00:55:17	Voice04/04-SA/04-SA-B02/04-SA-B02-0230	0	sek	00:57:04;
+
+[CreateBG]=00:57:00	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-010	01:13:03;
+
+[PrintText]=00:57:11	Makoto	Como sea... ahora esta misteriosa chica irá a la piscina, y tenemos 4 entradas...	01:04:02;
+
+[PlayVoice]=00:57:11	Voice04/04-SA/04-SA-B02/04-SA-B02-0240	1	mak	01:04:02;
+
+[PrintText]=01:04:02	Sekai	¿Debería salir entonces?^	01:06:18;
+
+[PlayVoice]=01:04:02	Voice04/04-SA/04-SA-B02/04-SA-B02-0250	0	sek	01:06:18;
+
+[PrintText]=01:06:19	Makoto	No podemos hacer eso.	01:09:06;
+
+[PlayVoice]=01:06:19	Voice04/04-SA/04-SA-B02/04-SA-B02-0260	1	mak	01:09:06;
+
+[PrintText]=01:09:06	Sekai	Pero el punto aquí es que Hikari y Taisuke salgan juntos.	01:13:05;
+
+[PlayVoice]=01:09:06	Voice04/04-SA/04-SA-B02/04-SA-B02-0270	0	sek	01:13:05;
+
+[CreateBG]=01:13:03	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-007	01:22:14;
+
+[PrintText]=01:13:10	Makoto	Si ese es el caso, tener a otra chica podrá ser un problema.	01:18:09;
+
+[PlayVoice]=01:13:10	Voice04/04-SA/04-SA-B02/04-SA-B02-0280	1	mak	01:18:09;
+
+[PrintText]=01:18:09	Sekai	Ah... Ya veo.	01:20:17;
+
+[PlayVoice]=01:18:09	Voice04/04-SA/04-SA-B02/04-SA-B02-0290	0	sek	01:20:17;
+
+[PrintText]=01:20:18	Makoto	Por eso es que...	01:21:18;
+
+[PlayVoice]=01:20:18	Voice04/04-SA/04-SA-B02/04-SA-B02-0300	1	mak	01:21:18;
+
+[PrintText]=01:21:18	Sekai	Lo sé.	01:22:18;
+
+[PlayVoice]=01:21:18	Voice04/04-SA/04-SA-B02/04-SA-B02-0330	0	sek	01:22:18;
+
+[CreateBG]=01:22:14	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-012	01:27:18;
+
+[PrintText]=01:22:22	Makoto	¿Eh?^	01:23:13;
+
+[PlayVoice]=01:22:22	Voice04/04-SA/04-SA-B02/04-SA-B02-0340	1	mak	01:23:13;
+
+[PrintText]=01:23:13	Sekai	Déjamelo a mí, tengo un gran plan.	01:26:14;
+
+[PlayVoice]=01:23:13	Voice04/04-SA/04-SA-B02/04-SA-B02-0350	0	sek	01:26:14;
+
+[PrintText]=01:26:15	Makoto	¿Plan?^	01:27:23;
+
+[PlayVoice]=01:26:15	Voice04/04-SA/04-SA-B02/04-SA-B02-0360	1	mak	01:27:23;
+
+[CreateBG]=01:27:18	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-013	01:35:00;
+
+[PrintText]=01:28:03	Sekai	Espera y verás.	01:31:09;
+
+[PlayVoice]=01:28:03	Voice04/04-SA/04-SA-B02/04-SA-B02-0370	0	sek	01:31:09;
+
+[PrintText]=01:31:10	Makoto	Entonces es un secreto.	01:33:02;
+
+[PlayVoice]=01:31:10	Voice04/04-SA/04-SA-B02/04-SA-B02-0380	1	mak	01:33:02;
+
+[PrintText]=01:33:02	Sekai	Sip, un secreto.	01:34:23;
+
+[PlayVoice]=01:33:02	Voice04/04-SA/04-SA-B02/04-SA-B02-0390	0	sek	01:34:23;
+
+[CreateBG]=01:35:00	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-009	01:53:12;
+
+[PrintText]=01:35:22	Sekai	Bueno, todo bien, entonces.	01:37:06;
+
+[PlayVoice]=01:35:22	Voice04/04-SA/04-SA-B02/04-SA-B02-0410	0	sek	01:37:06;
+
+[PrintText]=01:37:12	Makoto	Ah... hey, Sekai.	01:40:10;
+
+[PlayVoice]=01:37:12	Voice04/04-SA/04-SA-B02/04-SA-B02-0420	1	mak	01:40:10;
+
+[PrintText]=01:40:11	Sekai	¿Hmn?^	01:41:01;
+
+[PlayVoice]=01:40:11	Voice04/04-SA/04-SA-B02/04-SA-B02-0430	0	sek	01:41:01;
+
+[PrintText]=01:41:03	Makoto	¿Vendras a la escuela de nuevo, mañana?^	01:44:12;
+
+[PlayVoice]=01:41:03	Voice04/04-SA/04-SA-B02/04-SA-B02-0440	1	mak	01:44:12;
+
+[PrintText]=01:44:12	Sekai	Bueno, viendo lo que ha pasado. No puedo tomarme el día otra ves...	01:48:12;
+
+[PlayVoice]=01:44:12	Voice04/04-SA/04-SA-B02/04-SA-B02-0450	0	sek	01:48:12;
+
+[PrintText]=01:48:13	Makoto	Ya veo...	01:49:12;
+
+[PlayVoice]=01:48:13	Voice04/04-SA/04-SA-B02/04-SA-B02-0460	1	mak	01:49:12;
+
+[PrintText]=01:50:03	Sekai	Vale, nos vemos después.	01:51:11;
+
+[PlayVoice]=01:50:03	Voice04/04-SA/04-SA-B02/04-SA-B02-0470	0	sek	01:51:11;
+
+[PrintText]=01:51:16	Makoto	Sí, nos vemos...	01:53:15;
+
+[PlayVoice]=01:51:16	Voice04/04-SA/04-SA-B02/04-SA-B02-0480	1	mak	01:53:15;
+
+[CreateBG]=01:53:12	BGS	System/Screen/Black	01:55:00;
+
+[PlaySe]=01:54:02	1	SysSe/SE_all/keitai/keitai_sousa	01:54:04;
+
+[CreateBG]=01:55:00	BGS	Event04/04-SA/04-SA-B02/04-SA-B02-017	01:59:04;
+
+[PrintText]=01:55:14	Sekai	...ese idiota.	01:57:11;
+
+[PlayVoice]=01:55:14	Voice04/04-SA/04-SA-B02/04-SA-B02-0510	0	sek	01:57:11;
+
+[BlackFade]=01:58:04	OUT	01:59:04;
+
+ ;
+
+[Next]=01:59:04;
+
+

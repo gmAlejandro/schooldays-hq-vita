@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:36:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:36:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-B00/05-5O-B00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-B00/05-5O-B00-002	00:15:23;
+
+[PrintText]=00:03:06	Kotonoha	Haah...	00:04:01;
+
+[PlayVoice]=00:03:06	Voice05/05-5O/05-5O-B00/05-5O-B00-0040	0	kot	00:04:01;
+
+[PrintText]=00:05:04	Kotonoha	Saionji-san y Katou-san... a ambas le gusta Makoto-kun...	00:12:14;
+
+[PlayVoice]=00:05:04	Voice05/05-5O/05-5O-B00/05-5O-B00-0050	0	kot	00:12:14;
+
+[PrintText]=00:13:18	Kotonoha	Makoto-kun...	00:15:02;
+
+[PlayVoice]=00:13:18	Voice05/05-5O/05-5O-B00/05-5O-B00-0060	0	kot	00:15:02;
+
+[CreateBG]=00:15:23	BGS	Event05/05-5O/05-5O-B00/05-5O-B00-003	00:33:09;
+
+[PrintText]=00:15:23	Kotonoha	No puedo hacer nada, y él ahora tampoco sabe que hacer...	00:20:14;
+
+[PlayVoice]=00:15:23	Voice05/05-5O/05-5O-B00/05-5O-B00-0070	0	kot	00:20:14;
+
+[PrintText]=00:20:17	Kotonoha	Bueno, si ese es el caso... le daré mi apoyo...	00:25:19;
+
+[PlayVoice]=00:20:17	Voice05/05-5O/05-5O-B00/05-5O-B00-0080	0	kot	00:25:19;
+
+[PrintText]=00:25:23	Kotonoha	Seré fuerte... porque soy su novia.	00:32:17;
+
+[PlayVoice]=00:25:23	Voice05/05-5O/05-5O-B00/05-5O-B00-0090	0	kot	00:32:17;
+
+[CreateBG]=00:33:09	BGS	Event05/05-5O/05-5O-B00/05-5O-B00-004B	00:36:18;
+
+[PrintText]=00:34:00	Kotonoha	Makoto-kun...	00:35:03;
+
+[PlayVoice]=00:34:00	Voice05/05-5O/05-5O-B00/05-5O-B00-0100	0	kot	00:35:03;
+
+[BlackFade]=00:35:18	OUT	00:36:18;
+
+ ;
+
+[Next]=00:36:18;
+
+

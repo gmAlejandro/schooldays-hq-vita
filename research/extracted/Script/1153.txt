@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:08:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/aqua_square	00:08:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N05/04-SA-N05-001	00:05:00;
+
+[PrintText]=00:00:00	Makoto	Sí, si quiero.	00:00:22;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N05/04-SA-N05-0030	1	mak	00:00:22;
+
+[PrintText]=00:00:22	Kotonoha	...Sí, claro.	00:02:02;
+
+[PlayVoice]=00:00:22	Voice04/04-SA/04-SA-N05/04-SA-N05-0040	0	kot	00:02:02;
+
+[PrintText]=00:02:02	Makoto	Por supuesto que lo haría. Soy un chico.	00:05:00;
+
+[PlayVoice]=00:02:02	Voice04/04-SA/04-SA-N05/04-SA-N05-0050	1	mak	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event04/04-SA/04-SA-N05/04-SA-N05-002	00:05:20;
+
+[PrintText]=00:05:00	Kotonoha	Sí...	00:05:20;
+
+[PlayVoice]=00:05:00	Voice04/04-SA/04-SA-N05/04-SA-N05-0060	0	kot	00:05:20;
+
+[CreateBG]=00:05:20	BGS	Event04/04-SA/04-SA-N05/04-SA-N05-003	00:06:11;
+
+[PrintText]=00:05:20	Makoto	Hmph...	00:06:10;
+
+[PlayVoice]=00:05:20	Voice04/04-SA/04-SA-N05/04-SA-N05-0070	1	mak	00:06:10;
+
+[PrintText]=00:06:10	Kotonoha	...	00:07:08;
+
+[PlayVoice]=00:06:10	Voice04/04-SA/04-SA-N05/04-SA-N05-0090	0	xxx	00:07:08;
+
+[CreateBG]=00:06:11	BGS	Event04/04-SA/04-SA-N05/04-SA-N05-004	00:07:08;
+
+[CreateBG]=00:07:08	BGS	Event04/04-SA/04-SA-N05/04-SA-N05-005	00:08:00;
+
+ ;
+
+[Next]=00:08:00;
+
+

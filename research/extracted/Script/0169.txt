@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:11:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:11:20;
+
+[PlaySe]=00:00:00	1	Se01/01-1K/01-1K-K06/SE01-1K-K06-001	00:11:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-K05/01-1K-K05-001	00:02:08;
+
+[PrintText]=00:00:00	Makoto	Eso también pasó cuando me le confesé.	00:02:07;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-K06/01-1K-K06-0030	1	mak	00:02:07;
+
+[CreateBG]=00:02:08	BGS	Event01/01-1K/01-1K-K05/01-1K-K05-002	00:11:20;
+
+[PrintText]=00:02:08	Sekai	¿Hmn?^	00:02:22;
+
+[PlayVoice]=00:02:08	Voice01/01-1K/01-1K-K06/01-1K-K06-0040	0	sek	00:02:22;
+
+[PrintText]=00:03:14	Makoto	Sin ti, creo que nada de esto podría haber pasado.	00:08:22;
+
+[PlayVoice]=00:03:14	Voice01/01-1K/01-1K-K06/01-1K-K06-0050	1	mak	00:08:22;
+
+[PrintText]=00:08:18	Sekai	Ahaha... tal vez tengas razón.	00:11:13;
+
+[PlayVoice]=00:08:18	Voice01/01-1K/01-1K-K06/01-1K-K06-0060	0	sek	00:11:13;
+
+ ;
+
+[Next]=00:11:20;
+
+
+
+

@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:09:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:15:09;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-D08/03-A1-D08-001A	00:05:04;
+
+[PrintText]=00:00:00	Makoto	Ahora, si la llamo, tal vez quedaría en shock.	00:05:04;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-D08/03-A1-D08-0030	1	mak	00:05:04;
+
+[CreateBG]=00:05:04	BGS	Event03/03-A1/03-A1-D08/03-A1-D08-001B	00:08:10;
+
+[PrintText]=00:05:04	Setsuna	¿Has hecho algo... para asustarla?^	00:08:09;
+
+[PlayVoice]=00:05:04	Voice03/03-A1/03-A1-D08/03-A1-D08-0040	0	set	00:08:09;
+
+[PrintText]=00:08:09	Makoto	Pues...	00:09:09;
+
+[PlayVoice]=00:08:09	Voice03/03-A1/03-A1-D08/03-A1-D08-0050	1	mak	00:09:09;
+
+[CreateBG]=00:08:10	BGS	Event03/03-A1/03-A1-D08/03-A1-D08-001C	00:15:09;
+
+[SetSELECT]=00:09:04	'Sí'	'¡No!'	00:14:04;
+
+ ;
+
+[Next]=00:15:09;
+
+

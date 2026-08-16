@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:07:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:07:05;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-H00/00-00-H00-002	00:07:05;
+
+[PrintText]=00:00:00	Makoto	Esto es difícil...	00:01:21;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C06/01-1K-C06-0030	1	mak	00:01:21;
+
+[PrintText]=00:02:09	Makoto	No puedo decidirme por uno... oh, ya sé.	00:07:05;
+
+[PlayVoice]=00:02:09	Voice01/01-1K/01-1K-C06/01-1K-C06-0040	1	mak	00:07:05;
+
+ ;
+
+[Next]=00:07:05;
+
+
+
+

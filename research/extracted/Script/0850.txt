@@ -1,0 +1,125 @@
+﻿[SkipFRAME]=00:48:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:48:07;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H07/SE03-SB-H07-001	00:48:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-001	00:01:01;
+
+[PrintText]=00:00:07	Sekai	Ah...	00:01:01;
+
+[PlayVoice]=00:00:07	Voice03/03-SB/03-SB-H07/03-SB-H07-0040	0	sek	00:01:01;
+
+[CreateBG]=00:01:01	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-002	00:08:15;
+
+[PrintText]=00:01:01	Makoto	Sekai.	00:02:01;
+
+[PlayVoice]=00:01:01	Voice03/03-SB/03-SB-H07/03-SB-H07-0050	1	mak	00:02:01;
+
+[PrintText]=00:02:01	Sekai	Makoto. ¿Me estabas esperando? Estoy a punto de...	00:06:16;
+
+[PlayVoice]=00:02:01	Voice03/03-SB/03-SB-H07/03-SB-H07-0060	0	sek	00:06:16;
+
+[PrintText]=00:06:16	Kotonoha	Ah, Saionji-san.	00:08:20;
+
+[PlayVoice]=00:06:16	Voice03/03-SB/03-SB-H07/03-SB-H07-0070	0	kot	00:08:20;
+
+[CreateBG]=00:08:15	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-003	00:10:01;
+
+[PrintText]=00:08:20	Sekai	Katsura... san.	00:10:17;
+
+[PlayVoice]=00:08:20	Voice03/03-SB/03-SB-H07/03-SB-H07-0080	0	sek	00:10:17;
+
+[CreateBG]=00:10:01	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-004	00:10:18;
+
+[PrintText]=00:10:17	Kotonoha	La clase 3 es asombrosa... ¿No? Son tan populares que no pueden con todas las ordenes.	00:16:03;
+
+[PlayVoice]=00:10:17	Voice03/03-SB/03-SB-H07/03-SB-H07-0090	0	kot	00:16:03;
+
+[CreateBG]=00:10:18	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-005	00:16:04;
+
+[CreateBG]=00:16:04	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-006	00:18:19;
+
+[PrintText]=00:16:04	Sekai	S-Sí...	00:17:17;
+
+[PlayVoice]=00:16:04	Voice03/03-SB/03-SB-H07/03-SB-H07-0100	0	sek	00:17:17;
+
+[PrintText]=00:17:17	Kotonoha	¿Fuiste a buscar más suministros?^	00:20:21;
+
+[PlayVoice]=00:17:17	Voice03/03-SB/03-SB-H07/03-SB-H07-0110	0	kot	00:20:21;
+
+[CreateBG]=00:18:19	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-007	00:22:01;
+
+[PrintText]=00:20:21	Sekai	Sí.	00:22:01;
+
+[PlayVoice]=00:20:21	Voice03/03-SB/03-SB-H07/03-SB-H07-0120	0	sek	00:22:01;
+
+[CreateBG]=00:22:01	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-008	00:24:11;
+
+[PrintText]=00:22:01	Kotonoha	Debe ser un trabajo duro.	00:23:13;
+
+[PlayVoice]=00:22:01	Voice03/03-SB/03-SB-H07/03-SB-H07-0130	0	kot	00:23:13;
+
+[PrintText]=00:23:12	Sekai	Lo es.	00:24:12;
+
+[PlayVoice]=00:23:12	Voice03/03-SB/03-SB-H07/03-SB-H07-0140	0	sek	00:24:12;
+
+[CreateBG]=00:24:11	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-009	00:32:13;
+
+[PrintText]=00:24:12	Kotonoha	Estábamos pensando en ordenar algo de té, pero parece que estás ocupada, así que iremos otro lugar.	00:33:00;
+
+[PlayVoice]=00:24:12	Voice03/03-SB/03-SB-H07/03-SB-H07-0150	0	kot	00:33:00;
+
+[CreateBG]=00:32:13	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-010	00:35:08;
+
+[PrintText]=00:33:00	Sekai	Ya veo...	00:34:08;
+
+[PlayVoice]=00:33:00	Voice03/03-SB/03-SB-H07/03-SB-H07-0160	0	sek	00:34:08;
+
+[PrintText]=00:34:08	Kotonoha	Sí.	00:35:08;
+
+[PlayVoice]=00:34:08	Voice03/03-SB/03-SB-H07/03-SB-H07-0170	0	kot	00:35:08;
+
+[CreateBG]=00:35:08	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-011	00:37:16;
+
+[PrintText]=00:35:08	Makoto	...	00:35:22;
+
+[PlayVoice]=00:35:08	Voice03/03-SB/03-SB-H07/03-SB-H07-0180	1	xxx	00:35:22;
+
+[PrintText]=00:35:22	Kotonoha	Bueno, da tu mejor esfuerzo Saionji-san.	00:39:09;
+
+[PlayVoice]=00:35:22	Voice03/03-SB/03-SB-H07/03-SB-H07-0190	0	kot	00:39:09;
+
+[CreateBG]=00:37:16	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-012	00:39:09;
+
+[CreateBG]=00:39:09	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-013	00:41:02;
+
+[PrintText]=00:39:09	Sekai	S-Sí.	00:41:02;
+
+[PlayVoice]=00:39:09	Voice03/03-SB/03-SB-H07/03-SB-H07-0200	0	sek	00:41:02;
+
+[CreateBG]=00:41:02	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-014	00:42:02;
+
+[PrintText]=00:41:02	Makoto	Sekai...	00:42:02;
+
+[PlayVoice]=00:41:02	Voice03/03-SB/03-SB-H07/03-SB-H07-0210	1	mak	00:42:02;
+
+[CreateBG]=00:42:02	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-015	00:45:05;
+
+[PrintText]=00:42:02	Sekai	Haha... pueden irse entonces.	00:44:12;
+
+[PlayVoice]=00:42:02	Voice03/03-SB/03-SB-H07/03-SB-H07-0220	0	sek	00:44:12;
+
+[PrintText]=00:44:12	Kotonoha	¡Sí!	00:45:12;
+
+[PlayVoice]=00:44:12	Voice03/03-SB/03-SB-H07/03-SB-H07-0230	0	kot	00:45:12;
+
+[CreateBG]=00:45:05	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-016	00:46:11;
+
+[CreateBG]=00:46:11	BGS	Event03/03-SB/03-SB-H07/03-SB-H07-017	00:48:07;
+
+ ;
+
+[Next]=00:48:07;
+
+

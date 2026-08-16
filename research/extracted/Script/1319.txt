@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:10:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:10:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-A03/03-BK-A03-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-D00/05-5O-D00-002	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event05/05-5O/05-5O-D00/05-5O-D00-003	00:10:15;
+
+[PrintText]=00:06:08	Makoto	...	00:09:13;
+
+[PlayVoice]=00:06:08	Voice05/05-5O/05-5O-D00/05-5O-D00-0040	1	xxx	00:09:13;
+
+ ;
+
+[Next]=00:10:15;
+
+

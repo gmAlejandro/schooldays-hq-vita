@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:10:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:10:00;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-N09/03-KB-N09-001	0	00:04:15;
+
+[PrintText]=00:00:00	Kotonoha	Entonces...	00:02:09;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-N09/03-KB-N09-0030	0	kot	00:02:09;
+
+[PrintText]=00:02:15	Makoto	¿Hmn?^	00:03:03;
+
+[PlayVoice]=00:02:15	Voice03/03-KB/03-KB-N09/03-KB-N09-0040	1	mak	00:03:03;
+
+[PrintText]=00:03:07	Kotonoha	...Estamos en las misma situación.	00:04:10;
+
+[PlayVoice]=00:03:07	Voice03/03-KB/03-KB-N09/03-KB-N09-0050	0	kot	00:04:10;
+
+[CreateBG]=00:04:15	BGS	Event03/03-KB/03-KB-N09/03-KB-N09-002	00:10:00;
+
+[PrintText]=00:05:10	Makoto	Sí.	00:07:01;
+
+[PlayVoice]=00:05:10	Voice03/03-KB/03-KB-N09/03-KB-N09-0060	1	mak	00:07:01;
+
+[PrintText]=00:07:05	Kotonoha	Estoy feliz de que sea así.	00:08:11;
+
+[PlayVoice]=00:07:05	Voice03/03-KB/03-KB-N09/03-KB-N09-0070	0	kot	00:08:11;
+
+[PrintText]=00:08:17	Makoto	Yo también...	00:09:14;
+
+[PlayVoice]=00:08:17	Voice03/03-KB/03-KB-N09/03-KB-N09-0080	1	mak	00:09:14;
+
+ ;
+
+[Next]=00:10:00;
+
+

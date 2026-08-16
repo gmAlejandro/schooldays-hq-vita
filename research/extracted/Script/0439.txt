@@ -1,0 +1,123 @@
+﻿[SkipFRAME]=00:54:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:54:01;
+
+[PlaySe]=00:00:00	1	Se03/03-AK/03-AK-A00/SE03-AK-A00-001	00:29:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-002	00:07:04;
+
+[PrintText]=00:03:00	Makoto	¡Bien! ¡Dos pedazos de torta con té negro!	00:05:05;
+
+[PlayVoice]=00:03:00	Voice03/03-AK/03-AK-A00/03-AK-A00-0050	1	mak	00:05:05;
+
+[PrintText]=00:05:05	Hikari	¡Vamos, el que sigue, el que sigue!	00:07:04;
+
+[PlayVoice]=00:05:05	Voice03/03-AK/03-AK-A00/03-AK-A00-0060	0	hik	00:07:04;
+
+[CreateBG]=00:07:04	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-003	00:14:01;
+
+[PrintText]=00:07:04	Makoto	Veamos... tres tazas de café, un pastel de crema, dos pasteles de manzana.	00:13:16;
+
+[PlayVoice]=00:07:04	Voice03/03-AK/03-AK-A00/03-AK-A00-0070	1	mak	00:13:16;
+
+[PrintText]=00:13:00	Hikari	Un poco rápido ¿No?^	00:14:07;
+
+[PlayVoice]=00:13:00	Voice03/03-AK/03-AK-A00/03-AK-A00-0080	0	hik	00:14:07;
+
+[CreateBG]=00:14:01	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-004	00:20:17;
+
+[PrintText]=00:14:01	Makoto	¡Ya sé!	00:15:15;
+
+[PlayVoice]=00:14:01	Voice03/03-AK/03-AK-A00/03-AK-A00-0090	1	mak	00:15:15;
+
+[PrintText]=00:16:00	Makoto	Maldición, esto es mucha presión...	00:18:22;
+
+[PlayVoice]=00:16:00	Voice03/03-AK/03-AK-A00/03-AK-A00-0100	1	mak	00:18:22;
+
+[PrintText]=00:18:20	Taisuke	¡Perdón, llegué tarde!	00:20:21;
+
+[PlayVoice]=00:18:20	Voice03/03-AK/03-AK-A00/03-AK-A00-0110	1	tai	00:20:21;
+
+[CreateBG]=00:20:17	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-005	00:35:21;
+
+[PrintText]=00:20:17	Makoto	Gracias al cielo... ¿Es hora del cambio?^	00:24:08;
+
+[PlayVoice]=00:20:17	Voice03/03-AK/03-AK-A00/03-AK-A00-0120	1	mak	00:24:08;
+
+[PrintText]=00:24:04	Taisuke	Sí. Solo ve y déjame el resto a mí.	00:27:01;
+
+[PlayVoice]=00:24:04	Voice03/03-AK/03-AK-A00/03-AK-A00-0130	1	tai	00:27:01;
+
+[PrintText]=00:26:22	Makoto	Hey.	00:27:16;
+
+[PlayVoice]=00:26:22	Voice03/03-AK/03-AK-A00/03-AK-A00-0140	1	mak	00:27:16;
+
+[PrintText]=00:27:15	Taisuke	¿Qué?^	00:28:09;
+
+[PlayVoice]=00:27:15	Voice03/03-AK/03-AK-A00/03-AK-A00-0150	1	tai	00:28:09;
+
+[PrintText]=00:28:14	Makoto	¿Dónde estabas?^	00:30:19;
+
+[PlayVoice]=00:28:14	Voice03/03-AK/03-AK-A00/03-AK-A00-0160	1	mak	00:30:19;
+
+[PlaySe]=00:29:03	2	Se03/03-AK/03-AK-A00/SE03-AK-A00-001	00:54:01;
+
+[PrintText]=00:30:14	Taisuke	Oh. Fui al gimnasio... y a ver una película.	00:36:02;
+
+[PlayVoice]=00:30:14	Voice03/03-AK/03-AK-A00/03-AK-A00-0170	1	tai	00:36:02;
+
+[CreateBG]=00:35:21	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-006	00:36:23;
+
+[PrintText]=00:35:21	Makoto	¿En serio... Tú?^	00:37:02;
+
+[PlayVoice]=00:35:21	Voice03/03-AK/03-AK-A00/03-AK-A00-0180	1	mak	00:37:02;
+
+[CreateBG]=00:36:23	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-007	00:39:11;
+
+[PrintText]=00:36:23	Taisuke	Cállate. Solo déjalo.	00:38:09;
+
+[PlayVoice]=00:36:23	Voice03/03-AK/03-AK-A00/03-AK-A00-0190	1	tai	00:38:09;
+
+[PrintText]=00:38:06	Makoto	Ya veo...	00:39:12;
+
+[PlayVoice]=00:38:06	Voice03/03-AK/03-AK-A00/03-AK-A00-0200	1	mak	00:39:12;
+
+[CreateBG]=00:39:11	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-009	00:50:17;
+
+[PrintText]=00:39:11	Taisuke	¿Qué pasa con esa mirada de compasión?^	00:42:02;
+
+[PlayVoice]=00:39:11	Voice03/03-AK/03-AK-A00/03-AK-A00-0210	1	tai	00:42:02;
+
+[PrintText]=00:41:23	Makoto	Nada.	00:42:23;
+
+[PlayVoice]=00:41:23	Voice03/03-AK/03-AK-A00/03-AK-A00-0220	1	mak	00:42:23;
+
+[PrintText]=00:43:01	Taisuke	¿Qué hay de ti entonces?^	00:45:17;
+
+[PlayVoice]=00:43:01	Voice03/03-AK/03-AK-A00/03-AK-A00-0230	1	tai	00:45:17;
+
+[PrintText]=00:45:14	Makoto	Bueno... será lo mismo supongo.	00:48:02;
+
+[PlayVoice]=00:45:14	Voice03/03-AK/03-AK-A00/03-AK-A00-0250	1	mak	00:48:02;
+
+[PrintText]=00:48:00	Taisuke	Cielos... no me asustes así.	00:50:15;
+
+[PlayVoice]=00:48:00	Voice03/03-AK/03-AK-A00/03-AK-A00-0260	1	tai	00:50:15;
+
+[CreateBG]=00:50:17	BGS	Event03/03-AK/03-AK-A00/03-AK-A00-010	00:54:01;
+
+[PrintText]=00:50:17	Makoto	Haha... bueno, iré a pasear.	00:53:04;
+
+[PlayVoice]=00:50:17	Voice03/03-AK/03-AK-A00/03-AK-A00-0270	1	mak	00:53:04;
+
+[PrintText]=00:53:02	Taisuke	Vale.	00:53:18;
+
+[PlayVoice]=00:53:02	Voice03/03-AK/03-AK-A00/03-AK-A00-0280	1	tai	00:53:18;
+
+ ;
+
+[Next]=00:54:01;
+
+

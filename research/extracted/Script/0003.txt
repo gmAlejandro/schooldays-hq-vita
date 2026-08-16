@@ -1,0 +1,109 @@
+﻿[SkipFRAME]=01:01:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:09:00;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-A03/00-00-A03-001	00:02:00;
+
+[PlayVoice]=00:01:04	Voice00/00-00/00-00-A03/00-00-A03-0030	1	ham	00:12:09;
+
+[PlayMovie]=00:02:00	Ini/Movie00/00-00/00-00-A03/00-00-A03-002	0	00:16:17;
+
+[PrintText]=00:05:04	Makoto	Hey.	00:06:12;
+
+[PlayVoice]=00:05:04	Voice00/00-00/00-00-A03/00-00-A03-0060	1	mak	00:05:21;
+
+#[PrintText]=00:07:05	Makoto	"Deja de hacer eso." 	00:10:00;
+
+[PlaySe]=00:06:21	1	Se00/00-00/00-00-A03/SE00-00-A03-001	00:07:13;
+
+[PlayVoice]=00:08:09	Voice00/00-00/00-00-A03/00-00-A03-0080	1	mak	00:09:15;
+
+[PlaySe]=00:12:02	1	Se00/00-00/00-00-A03/SE00-00-A03-001	00:12:18;
+
+#[PrintText]=00:12:03	Sekai	"¡No tienes que ocultarlo, después de todo es muy linda!" 	00:14:05;
+
+[PlayVoice]=00:12:19	Voice00/00-00/00-00-A03/00-00-A03-0031	1	ham	00:21:09;
+
+#[PrintText]=00:14:05	Makoto	"No estoy ocultando nada" 	00:15:08;
+
+#[PrintText]=00:15:08	Sekai	¿"Eso quiere decir que estás saliendo con ella? ¡¡Hyuu-hyuu-!!" 	00:16:16;
+
+[PlayMovie]=00:16:17	Ini/Movie00/00-00/00-00-A03/00-00-A03-003	0	00:32:03;
+
+#[PrintText]=00:16:17	Makoto	"¡Como llegaste a esa conclusión!" 	00:18:06;
+
+#[PrintText]=00:18:06	Sekai	"¿Te gusta no?, si no lo estás ocultando \nentonces estás saliendo con ella, ¿correcto?"  	00:22:05;
+
+#[PrintText]=00:22:05	Makoto	"No saldré con ella de todas maneras "\n- ...Aww, cielos.	00:25:05;
+
+[PlayVoice]=00:22:01	Voice00/00-00/00-00-A03/00-00-A03-0032	1	ham	00:30:07;
+
+[PrintText]=00:22:21	Makoto	...Aww, cielos.	00:24:10;
+
+[PlayVoice]=00:22:21	Voice00/00-00/00-00-A03/00-00-A03-0210	1	xxx	00:24:10;
+
+#[PrintText]=00:26:06	Sekai	"Entonces...¿Es solo por un lado?".	00:27:17;
+
+#[PrintText]=00:27:17	Makoto	"¡No es eso!" 	00:30:05;
+
+#[PrintText]=00:30:05	Sekai	"Entonces... \n¿Qué es?" 	00:32:03;
+
+[PlayVoice]=00:31:12	Voice00/00-00/00-00-A03/00-00-A03-0033	1	ham	00:37:03;
+
+[PlayMovie]=00:32:03	Movie00/00-00/00-00-A03/00-00-A03-004	0	00:34:09;
+
+[PlaySe]=00:32:08	1	Se00/00-00/00-00-A03/SE00-00-A03-002	00:33:13;
+
+[PlayMovie]=00:34:09	Movie00/00-00/00-00-A03/00-00-A03-005	0	00:37:21;
+
+[PlayMovie]=00:37:21	Movie00/00-00/00-00-A03/00-00-A03-006	0	00:39:14;
+
+[PlayVoice]=00:37:23	Voice00/00-00/00-00-A03/00-00-A03-0034	1	ham	00:40:12;
+
+[PrintText]=00:39:06	Makoto	¿Desde cuando t...?!	00:41:04;
+
+[PlayVoice]=00:39:06	Voice00/00-00/00-00-A03/00-00-A03-0290	1	mak	00:41:04;
+
+[PlayMovie]=00:39:14	Movie00/00-00/00-00-A03/00-00-A03-007	0	00:41:14;
+
+[PlayVoice]=00:41:04	Voice00/00-00/00-00-A03/00-00-A03-0310	1	ham	00:42:05;
+
+[PrintText]=00:41:04	Hamaguchi	¡Usted, el de ahí!	00:42:05;
+
+[CreateBG]=00:41:14	BGS	Event00/00-00/00-00-A03/00-00-A03-008	00:44:15;
+
+[PrintText]=00:42:10	Makoto	Ah... disculpe.	00:45:16;
+
+[PlayVoice]=00:42:10	Voice00/00-00/00-00-A03/00-00-A03-0320	1	mak	00:45:16;
+
+[CreateBG]=00:44:15	BGS	Event00/00-00/00-00-A03/00-00-A03-008B	00:45:13;
+
+[CreateBG]=00:45:13	BGS	Event00/00-00/00-00-A03/00-00-A03-008C	00:48:14;
+
+[PlayVoice]=00:45:14	Voice00/00-00/00-00-A03/00-00-A03-0330	1	ham	00:54:01;
+
+[PlayMovie]=00:48:14	Ini/Movie00/00-00/00-00-A03/00-00-A03-009	0	00:52:03;
+
+[PlaySe]=00:48:17	1	Se00/00-00/00-00-A03/SE00-00-A03-001	00:49:09;
+
+#[PrintText]=00:48:19	Sekai	"¿Cuantos días?" 	00:52:03;
+
+[PlayMovie]=00:52:03	Ini/Movie00/00-00/00-00-A03/00-00-A03-010	0	01:01:10;
+
+#[PrintText]=00:52:23	Makoto	"¿Qué?".	00:56:19;
+
+[PlayVoice]=00:54:05	Voice00/00-00/00-00-A03/00-00-A03-0340	0	nan	01:05:07;
+
+#[PrintText]=00:56:19	Sekai	"Estás haciendo el conjuro ¿no?".	00:58:10;
+
+[CreateBG]=01:00:00	BGS	Event00/00-00/00-00-A04/00-00-A04-001A	01:07:10;
+
+[SetSELECT]=01:01:09	'Sí ¿Y qué?'	'No'	01:07:10;
+
+ ;
+
+[Next]=01:07:10;
+
+
+
+

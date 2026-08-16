@@ -1,0 +1,121 @@
+﻿[SkipFRAME]=01:08:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	01:08:14;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-I06/04-SA-I06-001	00:02:11;
+
+[PrintText]=00:00:05	Makoto	...	00:01:06;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-I06/04-SA-I06-0030	1	xxx	00:01:06;
+
+[PrintText]=00:01:06	Itaru	Teléfono...	00:02:12;
+
+[PlayVoice]=00:01:06	Voice04/04-SA/04-SA-I06/04-SA-I06-0040	0	ita	00:02:12;
+
+[CreateBG]=00:02:11	BGS	Event04/04-SA/04-SA-I06/04-SA-I06-002	00:10:19;
+
+[PrintText]=00:02:18	Makoto	Está bien.	00:03:23;
+
+[PlayVoice]=00:02:18	Voice04/04-SA/04-SA-I06/04-SA-I06-0050	1	mak	00:03:23;
+
+[PrintText]=00:03:23	Itaru	¿En serio?^	00:05:16;
+
+[PlayVoice]=00:03:23	Voice04/04-SA/04-SA-I06/04-SA-I06-0060	0	ita	00:05:16;
+
+[PrintText]=00:05:16	Makoto	Sí.	00:06:08;
+
+[PlayVoice]=00:05:16	Voice04/04-SA/04-SA-I06/04-SA-I06-0070	1	mak	00:06:08;
+
+[PrintText]=00:06:10	Itaru	Dejo de sonar...	00:07:15;
+
+[PlayVoice]=00:06:10	Voice04/04-SA/04-SA-I06/04-SA-I06-0090	0	ita	00:07:15;
+
+[PrintText]=00:07:15	Makoto	Entonces ¿De qué estábamos hablando?^	00:10:18;
+
+[PlayVoice]=00:07:15	Voice04/04-SA/04-SA-I06/04-SA-I06-0100	1	mak	00:10:18;
+
+[CreateBG]=00:10:19	BGS	Event04/04-SA/04-SA-I06/04-SA-I06-003	00:20:15;
+
+[PrintText]=00:10:23	Itaru	¡Ah! Cierto! ¡Hey, hey, hey! ¡Onii-chan!	00:13:17;
+
+[PlayVoice]=00:10:23	Voice04/04-SA/04-SA-I06/04-SA-I06-0110	0	ita	00:13:17;
+
+[PrintText]=00:13:17	Makoto	¿Hmn?^	00:14:11;
+
+[PlayVoice]=00:13:17	Voice04/04-SA/04-SA-I06/04-SA-I06-0120	1	mak	00:14:11;
+
+[PrintText]=00:14:10	Itaru	¿Puedo tomar un baño con él?^	00:16:22;
+
+[PlayVoice]=00:14:10	Voice04/04-SA/04-SA-I06/04-SA-I06-0130	0	ita	00:16:22;
+
+[PrintText]=00:16:22	Makoto	¿Eh?^	00:17:13;
+
+[PlayVoice]=00:16:22	Voice04/04-SA/04-SA-I06/04-SA-I06-0140	1	mak	00:17:13;
+
+[PrintText]=00:17:15	Itaru	¡Nos bañaremos y dormiremos juntos!	00:20:15;
+
+[PlayVoice]=00:17:15	Voice04/04-SA/04-SA-I06/04-SA-I06-0150	0	ita	00:20:15;
+
+[CreateBG]=00:20:15	BGS	Event04/04-SA/04-SA-I06/04-SA-I06-004	00:26:23;
+
+[PrintText]=00:20:20	Makoto	Bueno, puedes dormir con él, pero bañarte con él no. Puede ser un problema si se moja.	00:26:23;
+
+[PlayVoice]=00:20:20	Voice04/04-SA/04-SA-I06/04-SA-I06-0160	1	mak	00:26:23;
+
+[CreateBG]=00:26:23	BGS	Event04/04-SA/04-SA-I06/04-SA-I06-005	00:47:04;
+
+[PrintText]=00:27:04	Itaru	¿Ehh? ¡Estará bien!	00:30:08;
+
+[PlayVoice]=00:27:04	Voice04/04-SA/04-SA-I06/04-SA-I06-0170	0	ita	00:30:08;
+
+[PrintText]=00:30:08	Makoto	Tomaré el baño contigo en su lugar ¿Qué tal?^	00:34:18;
+
+[PlayVoice]=00:30:08	Voice04/04-SA/04-SA-I06/04-SA-I06-0180	1	mak	00:34:18;
+
+[PrintText]=00:34:02	Itaru	Onii-chan y el oso pueden venir juntos...	00:39:04;
+
+[PlayVoice]=00:34:02	Voice04/04-SA/04-SA-I06/04-SA-I06-0190	0	ita	00:39:04;
+
+[PrintText]=00:39:05	Makoto	No funcionaría... hey, una vez que vayas a casa, ese oso será mi remplazo ¿No?^	00:46:09;
+
+[PlayVoice]=00:39:05	Voice04/04-SA/04-SA-I06/04-SA-I06-0200	1	mak	00:46:09;
+
+[PrintText]=00:46:09	Itaru	Uh-huh.	00:47:03;
+
+[PlayVoice]=00:46:09	Voice04/04-SA/04-SA-I06/04-SA-I06-0210	0	ita	00:47:03;
+
+[CreateBG]=00:47:04	BGS	Event04/04-SA/04-SA-I06/04-SA-I06-006	00:55:11;
+
+[PrintText]=00:47:08	Makoto	En ese caso, ¿Por qué no soy su reemplazo para el baño?^	00:52:04;
+
+[PlayVoice]=00:47:08	Voice04/04-SA/04-SA-I06/04-SA-I06-0220	1	mak	00:52:04;
+
+[PrintText]=00:52:04	Itaru	¿Serás el oso?^	00:54:14;
+
+[PlayVoice]=00:52:04	Voice04/04-SA/04-SA-I06/04-SA-I06-0230	0	ita	00:54:14;
+
+[PrintText]=00:54:14	Makoto	Sí.	00:55:10;
+
+[PlayVoice]=00:54:14	Voice04/04-SA/04-SA-I06/04-SA-I06-0240	1	mak	00:55:10;
+
+[CreateBG]=00:55:11	BGS	Event04/04-SA/04-SA-I06/04-SA-I06-006B	00:59:23;
+
+[PrintText]=00:55:15	Itaru	Entonces... ¡Itaru será el cazador! ¡Bang!	00:59:22;
+
+[PlayVoice]=00:55:15	Voice04/04-SA/04-SA-I06/04-SA-I06-0250	0	ita	00:59:22;
+
+[CreateBG]=00:59:23	BGS	Event04/04-SA/04-SA-I06/04-SA-I06-006C	01:08:14;
+
+[PrintText]=01:00:04	Makoto	Bueno, es hora de que el oso contraataque! Vamos al baño!	01:05:05;
+
+[PlayVoice]=01:00:04	Voice04/04-SA/04-SA-I06/04-SA-I06-0260	1	mak	01:05:05;
+
+[PrintText]=01:05:06	Itaru	¡Vale! ¡Espera, Señor oso! Kyaaafuu!	01:08:14;
+
+[PlayVoice]=01:05:06	Voice04/04-SA/04-SA-I06/04-SA-I06-0270	0	ita	01:08:14;
+
+ ;
+
+[Next]=01:08:14;
+
+

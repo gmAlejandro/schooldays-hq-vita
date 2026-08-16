@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:12:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:12:19;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-D04/SE03-BK-D04-001	00:12:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-D04/03-BK-D04-001	00:01:20;
+
+[PrintText]=00:00:12	Makoto	...	00:01:12;
+
+[PlayVoice]=00:00:12	Voice03/03-BK/03-BK-D04/03-BK-D04-0030	1	xxx	00:01:12;
+
+[CreateBG]=00:01:20	BGS	Event03/03-BK/03-BK-D04/03-BK-D04-002	00:12:19;
+
+[PrintText]=00:02:00	Taisuke	¿Q-Qué pasa? ¿Por qué de repente te quedaste callado?^	00:05:12;
+
+[PlayVoice]=00:02:00	Voice03/03-BK/03-BK-D04/03-BK-D04-0040	1	tai	00:05:12;
+
+[PrintText]=00:06:12	Taisuke	¿Q-Qué es lo que pasa? Me pregunto cual es su problema.	00:10:14;
+
+[PlayVoice]=00:06:12	Voice03/03-BK/03-BK-D04/03-BK-D04-0060	1	tai	00:10:14;
+
+[PrintText]=00:10:19	Sekai	Sí...	00:11:13;
+
+[PlayVoice]=00:10:19	Voice03/03-BK/03-BK-D04/03-BK-D04-0070	0	sek	00:11:13;
+
+[BlackFade]=00:11:19	OUT	00:12:19;
+
+ ;
+
+[Next]=00:12:19;
+
+

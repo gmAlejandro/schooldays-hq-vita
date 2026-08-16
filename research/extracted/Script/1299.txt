@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:39:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:39:08;
+
+[PlayMovie]=00:00:00	Movie05/05-5H/05-5H-C07/05-5H-C07-001	0	00:08:12;
+
+[MoveSom]=00:00:00	5	00:08:12;
+
+[PrintText]=00:00:10	Makoto	Voy a...!	00:04:18;
+
+[PlayVoice]=00:00:10	Voice05/05-5H/05-5H-C07/05-5H-C07-0030	1	mak	00:04:18;
+
+[PrintText]=00:05:04	Hikari	Ah...	00:07:16;
+
+[PlayVoice]=00:05:04	Voice05/05-5H/05-5H-C07/05-5H-C07-0040	0	hik	00:07:16;
+
+[WhiteFade]=00:07:12	OUT	00:08:12;
+
+[CreateBG]=00:08:12	BGS	Event05/05-5H/05-5H-C07/05-5H-C07-002	00:16:19;
+
+[WhiteFade]=00:08:12	IN	00:09:12;
+
+[PrintText]=00:08:14	Makoto	Phew...	00:18:05;
+
+[PlayVoice]=00:08:14	Voice05/05-5H/05-5H-C07/05-5H-C07-0050	1	mak	00:18:05;
+
+[PlayMovie]=00:16:19	Movie05/05-5H/05-5H-C07/05-5H-C07-003	0	00:25:01;
+
+[PrintText]=00:16:20	Hikari	Se siente... tan caliente dentro de mí.	00:27:11;
+
+[PlayVoice]=00:16:20	Voice05/05-5H/05-5H-C07/05-5H-C07-0060	0	hik	00:27:11;
+
+[PlaySe]=00:25:01	1	SysSe/SE_all/h/h_03	00:26:21;
+
+[PlayMovie]=00:25:01	Movie05/05-5H/05-5H-C07/H5-5H-C07-004	0	00:34:20;
+
+[MoveSom]=00:25:02	1	00:28:04;
+
+[PrintText]=00:27:04	Makoto	Sí.	00:28:12;
+
+[PlayVoice]=00:27:04	Voice05/05-5H/05-5H-C07/05-5H-C07-0070	1	mak	00:28:12;
+
+[PrintText]=00:28:12	Hikari	Me muestra... como te sientes.	00:36:08;
+
+[PlayVoice]=00:28:12	Voice05/05-5H/05-5H-C07/05-5H-C07-0080	0	hik	00:36:08;
+
+[PlayMovie]=00:34:20	Movie05/05-5H/05-5H-C07/05-5H-C07-005	0	00:39:08;
+
+[PrintText]=00:36:13	Makoto	¿En serio...?^	00:37:22;
+
+[PlayVoice]=00:36:13	Voice05/05-5H/05-5H-C07/05-5H-C07-0090	1	mak	00:37:22;
+
+[BlackFade]=00:38:08	OUT	00:39:08;
+
+ ;
+
+[Next]=00:39:08;
+
+

@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:08:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:14:16;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E02/05-5O-E02-001	00:03:23;
+
+[PrintText]=00:00:14	Makoto	No puedo.	00:01:16;
+
+[PlayVoice]=00:00:14	Voice05/05-5O/05-5O-E02/05-5O-E02-0030	1	mak	00:01:16;
+
+[PrintText]=00:02:05	Setsuna	¿Por qué?^	00:03:05;
+
+[PlayVoice]=00:02:05	Voice05/05-5O/05-5O-E02/05-5O-E02-0040	0	set	00:03:05;
+
+[PrintText]=00:03:09	Makoto	...	00:03:20;
+
+[PlayVoice]=00:03:09	Voice05/05-5O/05-5O-E02/05-5O-E02-0050	1	xxx	00:03:20;
+
+[CreateBG]=00:03:23	BGS	Event05/05-5O/05-5O-E02/05-5O-E02-002	00:07:09;
+
+[PrintText]=00:03:23	Setsuna	Sekai te está esperando.	00:06:14;
+
+[PlayVoice]=00:03:23	Voice05/05-5O/05-5O-E02/05-5O-E02-0060	0	set	00:06:14;
+
+[PrintText]=00:06:22	Makoto	...	00:07:08;
+
+[PlayVoice]=00:06:22	Voice05/05-5O/05-5O-E02/05-5O-E02-0070	1	xxx	00:07:08;
+
+[CreateBG]=00:07:09	BGS	Event05/05-5O/05-5O-E02/05-5O-E02-003	00:14:16;
+
+[PrintText]=00:07:12	Setsuna	Ve.	00:08:08;
+
+[PlayVoice]=00:07:12	Voice05/05-5O/05-5O-E02/05-5O-E02-0080	0	set	00:08:08;
+
+[PrintText]=00:08:06	Makoto	Uh...	00:09:10;
+
+[PlayVoice]=00:08:06	Voice05/05-5O/05-5O-E02/05-5O-E02-0090	1	mak	00:09:10;
+
+[SetSELECT]=00:08:16	*Ir*	*Rechazar*	00:13:16;
+
+ ;
+
+[Next]=00:14:16;
+
+

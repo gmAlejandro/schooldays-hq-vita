@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:01:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/start_bell	00:07:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-C10/04-SB-C10-001	00:01:19;
+
+[PrintText]=00:00:09	Makoto	¡Espera!	00:01:08;
+
+[PlayVoice]=00:00:09	Voice04/04-SB/04-SB-C10/04-SB-C10-0030	1	mak	00:01:08;
+
+[SetSELECT]=00:01:11	'¡Te amo!'	null	00:06:11;
+
+[CreateBG]=00:01:19	BGS	Event04/04-SB/04-SB-C10/04-SB-C10-002	00:07:11;
+
+ ;
+
+[Next]=00:07:11;
+
+

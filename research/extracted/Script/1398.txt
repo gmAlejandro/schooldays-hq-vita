@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=02:00:00;
+
+[CreateBG]=00:00:00	BGS	Ini/Event05/05-A2/05-A2-F00/05-A2-F00-001	00:03:18;
+
+#[PrintText]=00:00:00	Juego	Varios años después...	00:03:18;
+
+[BlackFade]=00:00:00	IN	00:00:12;
+
+[BlackFade]=00:02:18	OUT	00:03:18;
+
+[PlayBgm]=00:03:18	BGM/SD_BGM/sdbgm19	01:17:00;
+
+[PlayMovie]=00:03:18	Movie05/05-A2/05-A2-F00/05-A2-F00-002_003	0	00:45:21;
+
+[BlackFade]=00:03:18	IN	00:04:18;
+
+[PrintText]=00:05:12	Makoto	A pasado bastante tiempo desde ese día.	00:08:21;
+
+[PlayVoice]=00:05:12	Voice05/05-A2/05-A2-F00/05-A2-F00-0050	1	xxx	00:08:21;
+
+[PrintText]=00:09:18	Makoto	Me gradué sin ir a la universidad, y empecé a ayudar a mi madre en el hospital para terminar de convertirse en enfermera.	00:16:20;
+
+[PlayVoice]=00:09:18	Voice05/05-A2/05-A2-F00/05-A2-F00-0060	1	xxx	00:16:20;
+
+[PrintText]=00:19:05	Makoto	Desde ese día... Sekai y yo nos separamos.	00:23:19;
+
+[PlayVoice]=00:19:05	Voice05/05-A2/05-A2-F00/05-A2-F00-0070	1	xxx	00:23:19;
+
+[PrintText]=00:25:10	Makoto	Nosotros, que eramos tan cercanos...	00:28:01;
+
+[PlayVoice]=00:25:10	Voice05/05-A2/05-A2-F00/05-A2-F00-0080	1	xxx	00:28:01;
+
+[PrintText]=00:29:23	Makoto	Cuando nos reuníamos... solo para vernos, recordamos la mirada de Kotonoha en sus últimos momentos...	00:40:05;
+
+[PlayVoice]=00:29:23	Voice05/05-A2/05-A2-F00/05-A2-F00-0090	1	xxx	00:40:05;
+
+[PrintText]=00:41:19	Makoto	A sido mucho para nosotros, por eso... hemos terminado...	00:44:20;
+
+[PlayVoice]=00:41:19	Voice05/05-A2/05-A2-F00/05-A2-F00-0100	1	xxx	00:44:20;
+
+[CreateBG]=00:45:21	BGS	Event05/05-A2/05-A2-F00/05-A2-F00-004	00:56:14;
+
+[PrintText]=00:46:15	Makoto	Ah...	00:48:14;
+
+[PlayVoice]=00:46:15	Voice05/05-A2/05-A2-F00/05-A2-F00-0110	1	mak	00:48:14;
+
+[PrintText]=00:49:17	Makoto	Flores... ¿Sekai también estuvo aquí?^	00:55:22;
+
+[PlayVoice]=00:49:17	Voice05/05-A2/05-A2-F00/05-A2-F00-0130	1	mak	00:55:22;
+
+[CreateBG]=00:56:14	BGS	Event05/05-A2/05-A2-F00/05-A2-F00-005	01:17:00;
+
+[PrintText]=00:57:09	Makoto	Así como ahora, solo nos acordamos del otro durante el aniversario de la muerte de Kotonoha.	01:04:20;
+
+[PlayVoice]=00:57:09	Voice05/05-A2/05-A2-F00/05-A2-F00-0140	1	xxx	01:04:20;
+
+[PrintText]=01:06:02	Makoto	... Tal y como fueron sus últimas palabras.	01:10:20;
+
+[PlayVoice]=01:06:02	Voice05/05-A2/05-A2-F00/05-A2-F00-0150	1	xxx	01:10:20;
+
+[PrintText]=01:12:09	Makoto	Eternamente...	01:13:09;
+
+[PlayVoice]=01:12:09	Voice05/05-A2/05-A2-F00/05-A2-F00-0160	1	xxx	01:13:09;
+
+[BlackFade]=01:14:00	OUT	01:17:00;
+
+[EndBGM]=01:17:00	BGM/Vocal/SDV10	04:04:08;
+
+[CreateBG]=01:17:00	BGS	Ini/EndRoll/05-05	01:20:00;
+
+[EndRoll]=01:20:00	Ini/EndRoll/BAD	02:00:00;
+
+ ;
+
+[Next]=02:00:00;
+
+

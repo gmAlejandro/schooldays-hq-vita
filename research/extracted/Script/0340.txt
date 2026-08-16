@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:12:09;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-L03/SE02-2S-L03-001	00:12:11;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-L03/02-2S-L03-001	00:03:09;
+
+[PrintText]=00:00:00	Makoto	Vamos a casa juntos.	00:01:11;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-L03/02-2S-L03-0030	1	mak	00:01:11;
+
+[PrintText]=00:01:11	Kotonoha	Vale.	00:02:05;
+
+[PlayVoice]=00:01:11	Voice02/02-2S/02-2S-L03/02-2S-L03-0040	0	kot	00:02:05;
+
+[CreateBG]=00:03:09	BGS	Event02/02-2S/02-2S-L03/02-2S-L03-002	00:05:22;
+
+[CreateBG]=00:05:22	BGS	Event02/02-2S/02-2S-L03/02-2S-L03-003	00:08:17;
+
+[CreateBG]=00:08:17	BGS	Event02/02-2S/02-2S-L03/02-2S-L03-004	00:12:09;
+
+[BlackFade]=00:11:11	OUT	00:12:11;
+
+ ;
+
+[Next]=00:12:11;
+
+
+
+

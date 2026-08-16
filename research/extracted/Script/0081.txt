@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:38:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:38:14;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-K01/SE01-00-K01-001	00:05:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-K01/01-00-K01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-00/01-00-K01/01-00-K01-002	00:06:00;
+
+[PlaySe]=00:05:20	2	Se01/01-00/01-00-K01/SE01-00-K01-002	00:35:03;
+
+[PlayMovie]=00:06:00	Movie01/01-00/01-00-K01/01-00-K01-003	0	00:10:01;
+
+[PrintText]=00:10:00	Kotonoha	...¿En serio?^	00:13:00;
+
+[PlayVoice]=00:10:00	Voice01/01-00/01-00-K01/01-00-K01-0030	0	kot	00:13:00;
+
+[CreateBG]=00:10:01	BGS	Event01/01-00/01-00-K01/01-00-K01-004	00:22:07;
+
+[PrintText]=00:13:00	Makoto	Y después, en la mesa del profesor Hamaguchi...	00:15:11;
+
+[PlayVoice]=00:13:00	Voice01/01-00/01-00-K01/01-00-K01-0040	1	mak	00:15:11;
+
+[PrintText]=00:15:14	Nanami	Estas nuevas galletas están bastante buenas ¿no?^	00:18:18;
+
+[PlayVoice]=00:15:14	Voice01/01-00/01-00-K01/01-00-K01-0060	0	nan	00:18:18;
+
+[PrintText]=00:18:19	Sekai	...	00:19:06;
+
+[PlayVoice]=00:18:19	Voice01/01-00/01-00-K01/01-00-K01-0070	0	xxx	00:19:06;
+
+[PrintText]=00:19:10	Nanami	Hey, Sekai, ¿Me estás escuchando?^	00:22:06;
+
+[PlayVoice]=00:19:10	Voice01/01-00/01-00-K01/01-00-K01-0090	0	nan	00:22:06;
+
+[CreateBG]=00:22:07	BGS	Event01/01-00/01-00-K01/01-00-K01-005	00:38:14;
+
+[PrintText]=00:22:08	Sekai	¡Wah! ¿H-huh?^	00:23:17;
+
+[PlayVoice]=00:22:08	Voice01/01-00/01-00-K01/01-00-K01-0100	0	sek	00:23:17;
+
+[PrintText]=00:23:22	Nanami	Cielos... ¿En dónde estás?^	00:26:17;
+
+[PlayVoice]=00:23:22	Voice01/01-00/01-00-K01/01-00-K01-0110	0	nan	00:26:17;
+
+[PrintText]=00:26:23	Sekai	Ahaha... Bueno, ayer me quede despierta toda la noche.	00:30:11;
+
+[PlayVoice]=00:26:23	Voice01/01-00/01-00-K01/01-00-K01-0120	0	sek	00:30:11;
+
+[PrintText]=00:30:15	Nanami	¡Ahh! Estabas escuchando el show de Radio, el chico tiene un peinado...	00:35:09;
+
+[PlayVoice]=00:30:15	Voice01/01-00/01-00-K01/01-00-K01-0130	0	nan	00:35:09;
+
+[PrintText]=00:34:16	Setsuna	...	00:35:12;
+
+[PlayVoice]=00:34:16	Voice01/01-00/01-00-K01/01-00-K01-0160	0	xxx	00:35:12;
+
+[PlaySe]=00:35:03	1	Se01/01-00/01-00-K01/SE01-00-K01-002	00:38:14;
+
+[PrintText]=00:35:10	Sekai	Ahaha, Sí, es cierto.	00:37:21;
+
+[PlayVoice]=00:35:10	Voice01/01-00/01-00-K01/01-00-K01-0140	0	sek	00:37:21;
+
+ ;
+
+[Next]=00:38:14;
+
+
+
+

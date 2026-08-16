@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:08:10;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-I05/SE02-2S-I05-001	00:08:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-I05/02-2S-I05-001	00:03:11;
+
+[CreateBG]=00:03:11	BGS	Event02/02-2S/02-2S-I05/02-2S-I05-002	00:08:10;
+
+[PrintText]=00:03:19	Kotonoha	¿Quieres un poco de limonada?^	00:06:00;
+
+[PlayVoice]=00:03:19	Voice02/02-2S/02-2S-I05/02-2S-I05-0040	0	kot	00:06:00;
+
+[PrintText]=00:06:11	Makoto	Seguro.	00:07:04;
+
+[PlayVoice]=00:06:11	Voice02/02-2S/02-2S-I05/02-2S-I05-0050	1	mak	00:07:04;
+
+[BlackFade]=00:07:10	OUT	00:08:10;
+
+ ;
+
+[Next]=00:08:10;
+
+
+
+

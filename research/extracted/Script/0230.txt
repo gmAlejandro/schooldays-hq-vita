@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:10:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:10:00;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-H04/02-2K-H04-001	00:02:23;
+
+[CreateBG]=00:02:23	BGS	Ini/Event02/02-2K/02-2K-H04/02-2K-H04-002	00:06:04;
+
+#[PrintText]=00:02:23	Makoto	"De: Itou Makoto\nMsg: Re: Perdón\nNo te preocupes.".	00:06:03;
+
+[CreateBG]=00:06:04	BGS	Event02/02-2K/02-2K-H04/02-2K-H04-003	00:10:00;
+
+[BlackFade]=00:09:00	OUT	00:10:00;
+
+ ;
+
+[Next]=00:10:00;
+
+
+
+

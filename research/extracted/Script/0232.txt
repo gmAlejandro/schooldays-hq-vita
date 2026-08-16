@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:26:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:26:08;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-H06/SE02-2K-H06-001	00:26:08;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-H06/02-2K-H06-001	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2K/02-2K-H06/02-2K-H06-002	00:12:06;
+
+[PrintText]=00:11:02	Setsuna	¡Sekai! Vamos a la tienda de hamburguesas de camino a casa.	00:15:03;
+
+[PlayVoice]=00:11:02	Voice02/02-2K/02-2K-H06/02-2K-H06-0050	0	set	00:15:03;
+
+[CreateBG]=00:12:06	BGS	Event02/02-2K/02-2K-H06/02-2K-H06-003	00:17:02;
+
+[PrintText]=00:15:04	Sekai	Ah... Vale.	00:16:20;
+
+[PlayVoice]=00:15:04	Voice02/02-2K/02-2K-H06/02-2K-H06-0060	0	sek	00:16:20;
+
+[CreateBG]=00:17:02	BGS	Event02/02-2K/02-2K-H06/02-2K-H06-004	00:19:03;
+
+[PrintText]=00:18:01	Makoto	¿Te vas a casa?^	00:18:23;
+
+[PlayVoice]=00:18:01	Voice02/02-2K/02-2K-H06/02-2K-H06-0080	1	mak	00:18:23;
+
+[CreateBG]=00:19:03	BGS	Event02/02-2K/02-2K-H06/02-2K-H06-005	00:21:23;
+
+[PrintText]=00:19:10	Makoto	Nos vemos.	00:20:06;
+
+[PlayVoice]=00:19:10	Voice02/02-2K/02-2K-H06/02-2K-H06-0100	1	mak	00:20:06;
+
+[PrintText]=00:20:06	Sekai	Sí... Nos vemos.	00:21:17;
+
+[PlayVoice]=00:20:06	Voice02/02-2K/02-2K-H06/02-2K-H06-0110	0	sek	00:21:17;
+
+[CreateBG]=00:21:23	BGS	Event02/02-2K/02-2K-H06/02-2K-H06-006	00:23:05;
+
+[CreateBG]=00:23:05	BGS	Event02/02-2K/02-2K-H06/02-2K-H06-007	00:26:08;
+
+[PrintText]=00:23:14	Setsuna	Vamos.	00:24:08;
+
+[PlayVoice]=00:23:14	Voice02/02-2K/02-2K-H06/02-2K-H06-0140	0	set	00:24:08;
+
+[PrintText]=00:24:13	Sekai	...Sí.	00:25:04;
+
+[PlayVoice]=00:24:13	Voice02/02-2K/02-2K-H06/02-2K-H06-0150	0	sek	00:25:04;
+
+[BlackFade]=00:25:08	OUT	00:26:08;
+
+ ;
+
+[Next]=00:26:08;
+
+
+
+

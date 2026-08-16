@@ -1,0 +1,157 @@
+﻿[SkipFRAME]=01:34:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:34:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-P00/03-KA-P00-001	00:24:02;
+
+[PrintText]=00:00:00	Setsuna	Sekai.	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-P00/03-KA-P00-0050	0	set	00:00:22;
+
+[PrintText]=00:01:09	Sekai	...	00:01:20;
+
+[PlayVoice]=00:01:09	Voice03/03-KA/03-KA-P00/03-KA-P00-0060	0	xxx	00:01:20;
+
+[PrintText]=00:02:09	Setsuna	Al parecer, voy a ir después de todo.	00:05:16;
+
+[PlayVoice]=00:02:09	Voice03/03-KA/03-KA-P00/03-KA-P00-0070	0	set	00:05:16;
+
+[PrintText]=00:06:00	Sekai	...	00:06:15;
+
+[PlayVoice]=00:06:00	Voice03/03-KA/03-KA-P00/03-KA-P00-0080	0	xxx	00:06:15;
+
+[PrintText]=00:07:05	Setsuna	¿Cómo está tu mamá?^	00:10:12;
+
+[PlayVoice]=00:07:05	Voice03/03-KA/03-KA-P00/03-KA-P00-0090	0	set	00:10:12;
+
+[PrintText]=00:11:01	Sekai	Como siempre. Puede estar sintiéndose peor supongo.	00:15:02;
+
+[PlayVoice]=00:11:01	Voice03/03-KA/03-KA-P00/03-KA-P00-0100	0	sek	00:15:02;
+
+[PrintText]=00:15:13	Setsuna	Mi mamá ha hecho un gran alboroto al respecto.	00:19:14;
+
+[PlayVoice]=00:15:13	Voice03/03-KA/03-KA-P00/03-KA-P00-0110	0	set	00:19:14;
+
+[PrintText]=00:20:00	Sekai	¿Se ha decidido?^	00:22:15;
+
+[PlayVoice]=00:20:00	Voice03/03-KA/03-KA-P00/03-KA-P00-0120	0	sek	00:22:15;
+
+[PrintText]=00:22:22	Setsuna	Uh-huh.	00:23:14;
+
+[PlayVoice]=00:22:22	Voice03/03-KA/03-KA-P00/03-KA-P00-0130	0	set	00:23:14;
+
+[CreateBG]=00:24:02	BGS	Event03/03-KA/03-KA-P00/03-KA-P00-002	00:32:00;
+
+[PrintText]=00:24:05	Sekai	¡¿Por qué no vienes a vivir con nosotras? Es pequeña, pero si es solo para nosotras dos, estará bien!	00:29:03;
+
+[PlayVoice]=00:24:05	Voice03/03-KA/03-KA-P00/03-KA-P00-0140	0	sek	00:29:03;
+
+[PrintText]=00:29:05	Setsuna	Eso no funcionaría.	00:30:06;
+
+[PlayVoice]=00:29:05	Voice03/03-KA/03-KA-P00/03-KA-P00-0150	0	set	00:30:06;
+
+[PrintText]=00:30:17	Sekai	...	00:31:16;
+
+[PlayVoice]=00:30:17	Voice03/03-KA/03-KA-P00/03-KA-P00-0160	0	xxx	00:31:16;
+
+[CreateBG]=00:32:00	BGS	Event03/03-KA/03-KA-P00/03-KA-P00-003	00:51:06;
+
+[PrintText]=00:32:04	Setsuna	Tienes a Itou, Sekai.	00:35:04;
+
+[PlayVoice]=00:32:04	Voice03/03-KA/03-KA-P00/03-KA-P00-0170	0	set	00:35:04;
+
+[PrintText]=00:35:14	Sekai	...	00:36:02;
+
+[PlayVoice]=00:35:14	Voice03/03-KA/03-KA-P00/03-KA-P00-0180	0	xxx	00:36:02;
+
+[PrintText]=00:36:16	Setsuna	Él te acompañará de ahora en adelante.	00:40:10;
+
+[PlayVoice]=00:36:16	Voice03/03-KA/03-KA-P00/03-KA-P00-0190	0	set	00:40:10;
+
+[PrintText]=00:40:19	Sekai	...	00:41:05;
+
+[PlayVoice]=00:40:19	Voice03/03-KA/03-KA-P00/03-KA-P00-0200	0	xxx	00:41:05;
+
+[PrintText]=00:42:06	Setsuna	Conociéndolo, estoy seguro que se quedará a tu lado.	00:46:16;
+
+[PlayVoice]=00:42:06	Voice03/03-KA/03-KA-P00/03-KA-P00-0210	0	set	00:46:16;
+
+[PrintText]=00:47:01	Sekai	...	00:48:16;
+
+[PlayVoice]=00:47:01	Voice03/03-KA/03-KA-P00/03-KA-P00-0220	0	xxx	00:48:16;
+
+[PrintText]=00:48:17	Setsuna	Por eso es que todo estará bien.	00:50:23;
+
+[PlayVoice]=00:48:17	Voice03/03-KA/03-KA-P00/03-KA-P00-0230	0	set	00:50:23;
+
+[CreateBG]=00:51:06	BGS	Event03/03-KA/03-KA-P00/03-KA-P00-004	01:06:04;
+
+[PrintText]=00:51:12	Sekai	No... eso es algo que él no podría hacer.	00:56:00;
+
+[PlayVoice]=00:51:12	Voice03/03-KA/03-KA-P00/03-KA-P00-0240	0	sek	00:56:00;
+
+[PrintText]=00:56:05	Setsuna	¿Por qué?^	00:57:06;
+
+[PlayVoice]=00:56:05	Voice03/03-KA/03-KA-P00/03-KA-P00-0250	0	set	00:57:06;
+
+[PrintText]=00:57:10	Sekai	...	00:58:11;
+
+[PlayVoice]=00:57:10	Voice03/03-KA/03-KA-P00/03-KA-P00-0260	0	xxx	00:58:11;
+
+[PrintText]=00:59:01	Setsuna	¿Discutieron?^	01:00:09;
+
+[PlayVoice]=00:59:01	Voice03/03-KA/03-KA-P00/03-KA-P00-0270	0	set	01:00:09;
+
+[PrintText]=01:00:14	Sekai	...	01:01:20;
+
+[PlayVoice]=01:00:14	Voice03/03-KA/03-KA-P00/03-KA-P00-0280	0	xxx	01:01:20;
+
+[PrintText]=01:02:07	Setsuna	Entiende, Sekai...	01:05:23;
+
+[PlayVoice]=01:02:07	Voice03/03-KA/03-KA-P00/03-KA-P00-0290	0	set	01:05:23;
+
+[PlayMovie]=01:06:04	Movie03/03-KA/03-KA-P00/03-KA-P00-005	0	01:20:06;
+
+[PrintText]=01:06:07	Sekai	...No lo entiendo.	01:07:14;
+
+[PlayVoice]=01:06:07	Voice03/03-KA/03-KA-P00/03-KA-P00-0300	0	sek	01:07:14;
+
+[PrintText]=01:07:16	Setsuna	...	01:09:00;
+
+[PlayVoice]=01:07:16	Voice03/03-KA/03-KA-P00/03-KA-P00-0310	0	xxx	01:09:00;
+
+[PrintText]=01:09:10	Sekai	¡No lo entiendo! ¡No quiero esto!	01:12:06;
+
+[PlayVoice]=01:09:10	Voice03/03-KA/03-KA-P00/03-KA-P00-0320	0	sek	01:12:06;
+
+[PrintText]=01:12:09	Setsuna	...	01:13:13;
+
+[PlayVoice]=01:12:09	Voice03/03-KA/03-KA-P00/03-KA-P00-0330	0	xxx	01:13:13;
+
+[PrintText]=01:13:18	Sekai	¿Estás contenta con esto? ¡Yo... no quiero que esto se así!	01:19:03;
+
+[PlayVoice]=01:13:18	Voice03/03-KA/03-KA-P00/03-KA-P00-0340	0	sek	01:19:03;
+
+[PrintText]=01:19:05	Setsuna	¡Sekai!	01:20:04;
+
+[PlayVoice]=01:19:05	Voice03/03-KA/03-KA-P00/03-KA-P00-0350	0	set	01:20:04;
+
+[CreateBG]=01:20:06	BGS	Event03/03-KA/03-KA-P00/03-KA-P00-008	01:34:17;
+
+[PrintText]=01:20:09	Sekai	Estaremos juntas para siempre...	01:24:04;
+
+[PlayVoice]=01:20:09	Voice03/03-KA/03-KA-P00/03-KA-P00-0360	0	sek	01:24:04;
+
+[PrintText]=01:24:08	Setsuna	Sekai...	01:25:10;
+
+[PlayVoice]=01:24:08	Voice03/03-KA/03-KA-P00/03-KA-P00-0380	0	set	01:25:10;
+
+[PrintText]=01:25:16	Sekai	Vamos a estar juntas... no quiero estar sola...	01:33:04;
+
+[PlayVoice]=01:25:16	Voice03/03-KA/03-KA-P00/03-KA-P00-0390	0	sek	01:33:04;
+
+ ;
+
+[Next]=01:34:17;
+
+

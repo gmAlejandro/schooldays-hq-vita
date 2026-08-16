@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:15:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-D03/05-KG-D03-001	00:10:06;
+
+[PrintText]=00:00:00	Makoto	...	00:02:18;
+
+[PlayVoice]=00:00:00	Voice05/05-KG/05-KG-D03/05-KG-D03-0030	1	xxx	00:02:18;
+
+[PrintText]=00:02:18	Makoto	Kotonoha... terminó con él.	00:07:05;
+
+[PlayVoice]=00:02:18	Voice05/05-KG/05-KG-D03/05-KG-D03-0040	1	mak	00:07:05;
+
+[PrintText]=00:07:05	Makoto	¿'No puedo renunciar a la persona que amo'... huh?^	00:13:17;
+
+[PlayVoice]=00:07:05	Voice05/05-KG/05-KG-D03/05-KG-D03-0050	1	mak	00:13:17;
+
+[CreateBG]=00:10:06	BGS	Event05/05-KG/05-KG-D03/05-KG-D03-002	00:15:03;
+
+[PrintText]=00:13:17	Makoto	...	00:15:05;
+
+[PlayVoice]=00:13:17	Voice05/05-KG/05-KG-D03/05-KG-D03-0060	1	xxx	00:15:05;
+
+ ;
+
+[Next]=00:15:05;
+
+
+
+

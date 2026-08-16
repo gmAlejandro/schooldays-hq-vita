@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:08:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:08:16;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G06/SE03-SA-G06-001	00:08:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G06/03-SA-G06-001	00:03:22;
+
+[PrintText]=00:00:00	Makoto	Eres tan... huh...	00:03:22;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-G06/03-SA-G06-0030	1	mak	00:03:22;
+
+[CreateBG]=00:03:22	BGS	Event03/03-SA/03-SA-G06/03-SA-G06-002	00:08:16;
+
+[PrintText]=00:03:22	Sekai	Oh, no pienses tanto en ello.	00:07:06;
+
+[PlayVoice]=00:03:22	Voice03/03-SA/03-SA-G06/03-SA-G06-0040	0	sek	00:07:06;
+
+[PrintText]=00:07:06	Makoto	Está bien.	00:08:07;
+
+[PlayVoice]=00:07:06	Voice03/03-SA/03-SA-G06/03-SA-G06-0050	1	mak	00:08:07;
+
+ ;
+
+[Next]=00:08:16;
+
+

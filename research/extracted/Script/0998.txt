@@ -1,0 +1,87 @@
+﻿[SkipFRAME]=00:31:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:31:21;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-001	00:02:00;
+
+[PrintText]=00:01:17	Makoto	Fwah...	00:04:21;
+
+[PlayVoice]=00:01:17	Voice04/04-KB/04-KB-K00/04-KB-K00-0040	1	mak	00:04:21;
+
+[CreateBG]=00:02:00	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-002	00:06:00;
+
+[PrintText]=00:04:21	Kotonoha	Makoto-kun.	00:06:00;
+
+[PlayVoice]=00:04:21	Voice04/04-KB/04-KB-K00/04-KB-K00-0060	0	kot	00:06:00;
+
+[PrintText]=00:05:23	Makoto	Kotonoha...	00:07:03;
+
+[PlayVoice]=00:05:23	Voice04/04-KB/04-KB-K00/04-KB-K00-0080	1	mak	00:07:03;
+
+[CreateBG]=00:06:00	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-003	00:07:03;
+
+[CreateBG]=00:07:03	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-004	00:13:19;
+
+[PrintText]=00:07:03	Kotonoha	Buen día.	00:08:17;
+
+[PlayVoice]=00:07:03	Voice04/04-KB/04-KB-K00/04-KB-K00-0090	0	kot	00:08:17;
+
+[PrintText]=00:08:17	Makoto	...Buen día.	00:10:23;
+
+[PlayVoice]=00:08:17	Voice04/04-KB/04-KB-K00/04-KB-K00-0100	1	mak	00:10:23;
+
+[PrintText]=00:10:23	Kotonoha	Llegaste más tarde de lo usual hoy ¿No?^	00:13:19;
+
+[PlayVoice]=00:10:23	Voice04/04-KB/04-KB-K00/04-KB-K00-0110	0	kot	00:13:19;
+
+[CreateBG]=00:13:19	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-005	00:20:01;
+
+[PrintText]=00:13:19	Makoto	¿Estabas esperándome?^	00:14:20;
+
+[PlayVoice]=00:13:19	Voice04/04-KB/04-KB-K00/04-KB-K00-0120	1	mak	00:14:20;
+
+[PrintText]=00:14:21	Kotonoha	Ah... Sí. Me levante un poco más temprano hoy.	00:20:01;
+
+[PlayVoice]=00:14:21	Voice04/04-KB/04-KB-K00/04-KB-K00-0130	0	kot	00:20:01;
+
+[PrintText]=00:20:00	Makoto	...	00:20:19;
+
+[PlayVoice]=00:20:00	Voice04/04-KB/04-KB-K00/04-KB-K00-0150	1	xxx	00:20:19;
+
+[CreateBG]=00:20:01	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-006	00:22:16;
+
+[PrintText]=00:20:19	Kotonoha	...	00:21:07;
+
+[PlayVoice]=00:20:19	Voice04/04-KB/04-KB-K00/04-KB-K00-0160	0	xxx	00:21:07;
+
+[PrintText]=00:21:07	Makoto	¿...No has dormido?^	00:22:16;
+
+[PlayVoice]=00:21:07	Voice04/04-KB/04-KB-K00/04-KB-K00-0170	1	mak	00:22:16;
+
+[PrintText]=00:22:15	Kotonoha	¡No! Me las arreglé para dormir un poco.	00:27:06;
+
+[PlayVoice]=00:22:15	Voice04/04-KB/04-KB-K00/04-KB-K00-0180	0	kot	00:27:06;
+
+[CreateBG]=00:22:16	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-007	00:27:07;
+
+[PrintText]=00:27:06	Makoto	Ya veo.	00:27:23;
+
+[PlayVoice]=00:27:06	Voice04/04-KB/04-KB-K00/04-KB-K00-0190	1	mak	00:27:23;
+
+[CreateBG]=00:27:07	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-003	00:29:10;
+
+[PrintText]=00:28:00	Kotonoha	Sí...	00:28:18;
+
+[PlayVoice]=00:28:00	Voice04/04-KB/04-KB-K00/04-KB-K00-0200	0	kot	00:28:18;
+
+[PrintText]=00:28:17	Makoto	...	00:29:09;
+
+[PlayVoice]=00:28:17	Voice04/04-KB/04-KB-K00/04-KB-K00-0210	1	xxx	00:29:09;
+
+[CreateBG]=00:29:10	BGS	Event04/04-KB/04-KB-K00/04-KB-K00-009	00:31:21;
+
+ ;
+
+[Next]=00:31:21;
+
+

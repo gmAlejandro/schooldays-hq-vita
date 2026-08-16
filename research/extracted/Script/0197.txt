@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:16:02;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-B02/SE02-2K-B02-001	00:16:02;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:16:02;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-B02/02-2K-B02-001	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2K/02-2K-B02/02-2K-B02-002	00:16:02;
+
+[PrintText]=00:10:14	Kotonoha	Makoto-kun... no vendrá después de todo...	00:14:01;
+
+[PlayVoice]=00:10:14	Voice02/02-2K/02-2K-B02/02-2K-B02-0040	0	kot	00:14:01;
+
+[BlackFade]=00:15:02	OUT	00:16:02;
+
+ ;
+
+[Next]=00:16:02;
+
+
+
+

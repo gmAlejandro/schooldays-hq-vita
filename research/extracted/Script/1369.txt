@@ -1,0 +1,139 @@
+﻿[SkipFRAME]=01:39:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	01:39:02;
+
+[PlayMovie]=00:00:00	Movie03/03-BK/03-BK-B03/03-BK-B03-009	0	00:03:02;
+
+[PlayMovie]=00:03:02	Movie05/05-5O/05-5O-J05/05-5O-J05-002	0	00:15:06;
+
+[PrintText]=00:03:04	Hikari	Hey.	00:04:01;
+
+[PlayVoice]=00:03:04	Voice05/05-5O/05-5O-J05/05-5O-J05-0050	0	hik	00:04:01;
+
+[PrintText]=00:04:05	Taisuke	¿Hmn?^	00:04:21;
+
+[PlayVoice]=00:04:05	Voice05/05-5O/05-5O-J05/05-5O-J05-0060	1	tai	00:04:21;
+
+[PrintText]=00:04:23	Hikari	Itou y tú estaban hablando de algo ¿No?^	00:08:11;
+
+[PlayVoice]=00:04:23	Voice05/05-5O/05-5O-J05/05-5O-J05-0070	0	hik	00:08:11;
+
+[PrintText]=00:08:08	Taisuke	Sí.	00:09:02;
+
+[PlayVoice]=00:08:08	Voice05/05-5O/05-5O-J05/05-5O-J05-0080	1	tai	00:09:02;
+
+[PrintText]=00:09:03	Hikari	¿De qué hablaban?^	00:10:23;
+
+[PlayVoice]=00:09:03	Voice05/05-5O/05-5O-J05/05-5O-J05-0090	0	hik	00:10:23;
+
+[PrintText]=00:11:02	Taisuke	Oh, cierto. Es, ya sabes, las cosas que han pasado ahora último.	00:15:07;
+
+[PlayVoice]=00:11:02	Voice05/05-5O/05-5O-J05/05-5O-J05-0100	1	tai	00:15:07;
+
+[PrintText]=00:15:05	Hikari	¿Te refieres a lo de Sekai?^	00:16:19;
+
+[PlayVoice]=00:15:05	Voice05/05-5O/05-5O-J05/05-5O-J05-0110	0	hik	00:16:19;
+
+[PlayMovie]=00:15:06	Movie03/03-BK/03-BK-B03/03-BK-B03-009	0	00:16:22;
+
+[CreateBG]=00:16:22	BGS	Event05/05-5O/05-5O-J05/05-5O-J05-006	00:24:12;
+
+[PrintText]=00:16:22	Taisuke	Bueno, Saionji, pero también Katsura-san. Las conozco, así que puedes decir que soy un tanto curioso.	00:24:09;
+
+[PlayVoice]=00:16:22	Voice05/05-5O/05-5O-J05/05-5O-J05-0120	1	tai	00:24:09;
+
+[CreateBG]=00:24:12	BGS	Event05/05-5O/05-5O-J05/05-5O-J05-007	00:28:01;
+
+[PrintText]=00:24:13	Hikari	¿También conoces a Katsura-san?^	00:27:20;
+
+[PlayVoice]=00:24:13	Voice05/05-5O/05-5O-J05/05-5O-J05-0130	0	hik	00:27:20;
+
+[PlayMovie]=00:28:01	Movie05/05-5O/05-5O-J05/05-5O-J05-008	0	00:47:14;
+
+[PrintText]=00:28:02	Taisuke	Sí, fuimos a la piscina juntos. Y ellas después terminaron con Itou, al final quede como un idiota.	00:38:13;
+
+[PlayVoice]=00:28:02	Voice05/05-5O/05-5O-J05/05-5O-J05-0140	1	tai	00:38:13;
+
+[PrintText]=00:38:04	Hikari	Tramposo.	00:39:20;
+
+[PlayVoice]=00:38:04	Voice05/05-5O/05-5O-J05/05-5O-J05-0150	0	hik	00:39:20;
+
+[PrintText]=00:39:23	Taisuke	¡N-No es como crees! Esto fue antes de que saliéramos, y además, ¡Katsura-san ya no significa nada para mí!	00:47:13;
+
+[PlayVoice]=00:39:23	Voice05/05-5O/05-5O-J05/05-5O-J05-0160	1	tai	00:47:13;
+
+[PlayMovie]=00:47:14	Movie05/05-5O/05-5O-J05/05-5O-J05-009	0	00:56:14;
+
+[PrintText]=00:47:14	Hikari	Sí, claro....	00:48:23;
+
+[PlayVoice]=00:47:14	Voice05/05-5O/05-5O-J05/05-5O-J05-0170	0	hik	00:48:23;
+
+[PrintText]=00:48:19	Taisuke	¡No, en serio. Créeme!	00:51:07;
+
+[PlayVoice]=00:48:19	Voice05/05-5O/05-5O-J05/05-5O-J05-0180	1	tai	00:51:07;
+
+[PrintText]=00:51:10	Hikari	Mmn... pero ella es muy linda, y también tiene un cuerpo increíble.	00:56:18;
+
+[PlayVoice]=00:51:10	Voice05/05-5O/05-5O-J05/05-5O-J05-0190	0	hik	00:56:18;
+
+[CreateBG]=00:56:14	BGS	Event05/05-5O/05-5O-J05/05-5O-J05-012	01:00:18;
+
+[PrintText]=00:56:16	Taisuke	Sí, esos pechos son increíbles ¿No? Me dejo tonto en la piscina.	01:00:19;
+
+[PlayVoice]=00:56:16	Voice05/05-5O/05-5O-J05/05-5O-J05-0200	1	tai	01:00:19;
+
+[CreateBG]=01:00:18	BGS	Event05/05-5O/05-5O-J05/05-5O-J05-013	01:04:03;
+
+[PrintText]=01:00:19	Hikari	¡Me estabas engañando después de todo!	01:04:01;
+
+[PlayVoice]=01:00:19	Voice05/05-5O/05-5O-J05/05-5O-J05-0210	0	hik	01:04:01;
+
+[CreateBG]=01:04:03	BGS	Event05/05-5O/05-5O-J05/05-5O-J05-012	01:08:08;
+
+[PrintText]=01:04:03	Taisuke	¡N-no! ¡Tú eres la número uno! ¡Jamás me fijaría en otra chica!	01:08:10;
+
+[PlayVoice]=01:04:03	Voice05/05-5O/05-5O-J05/05-5O-J05-0220	1	tai	01:08:10;
+
+[CreateBG]=01:08:08	BGS	Event05/05-5O/05-5O-J05/05-5O-J05-015	01:13:02;
+
+[PrintText]=01:08:09	Hikari	¡Cielos... bien, te perdonaré!	01:12:06;
+
+[PlayVoice]=01:08:09	Voice05/05-5O/05-5O-J05/05-5O-J05-0230	0	hik	01:12:06;
+
+[PrintText]=01:12:06	Taisuke	Phew.	01:12:23;
+
+[PlayVoice]=01:12:06	Voice05/05-5O/05-5O-J05/05-5O-J05-0240	1	tai	01:12:23;
+
+[PlayMovie]=01:13:02	Movie05/05-5O/05-5O-J05/05-5O-J05-014	0	01:26:20;
+
+[PrintText]=01:13:02	Hikari	Pero, me pregunto que estará haciendo Itou ¿Habrá ido a visitar a Sekai?^	01:19:00;
+
+[PlayVoice]=01:13:02	Voice05/05-5O/05-5O-J05/05-5O-J05-0250	0	hik	01:19:00;
+
+[PrintText]=01:19:00	Taisuke	Él estaba como 'Saionji me está esperando' antes que se vaya ¿No?^	01:23:15;
+
+[PlayVoice]=01:19:00	Voice05/05-5O/05-5O-J05/05-5O-J05-0260	1	tai	01:23:15;
+
+[PrintText]=01:23:13	Hikari	Sí. Estaba algo preocupado...	01:26:17;
+
+[PlayVoice]=01:23:13	Voice05/05-5O/05-5O-J05/05-5O-J05-0270	0	hik	01:26:17;
+
+[CreateBG]=01:26:20	BGS	Event05/05-5O/05-5O-J05/05-5O-J05-017	01:35:04;
+
+[PrintText]=01:26:21	Taisuke	Bueno, quien sea la chica que escoja... él realmente sentíra algo, así que no hay porque preocuparnos.	01:35:06;
+
+[PlayVoice]=01:26:21	Voice05/05-5O/05-5O-J05/05-5O-J05-0280	1	tai	01:35:06;
+
+[PrintText]=01:35:03	Hikari	Sí... supongo que tienes razón.	01:38:03;
+
+[PlayVoice]=01:35:03	Voice05/05-5O/05-5O-J05/05-5O-J05-0290	0	hik	01:38:03;
+
+[CreateBG]=01:35:04	BGS	Event05/05-5O/05-5O-J05/05-5O-J05-018	01:39:02;
+
+[BlackFade]=01:38:02	OUT	01:39:02;
+
+ ;
+
+[Next]=01:39:02;
+
+

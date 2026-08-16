@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:30:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:30:09;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-I02/SE02-2S-I02-001	00:30:09;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-I02/02-2S-I02-001	00:03:14;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-I02/02-2S-I02-0030	1	xxx	00:00:23;
+
+[PrintText]=00:01:22	Kotonoha	...Perdón.	00:03:14;
+
+[PlayVoice]=00:01:22	Voice02/02-2S/02-2S-I02/02-2S-I02-0040	0	kot	00:03:14;
+
+[PrintText]=00:03:13	Makoto	¿Eh?!	00:04:04;
+
+[PlayVoice]=00:03:13	Voice02/02-2S/02-2S-I02/02-2S-I02-0050	1	mak	00:04:04;
+
+[CreateBG]=00:03:14	BGS	Event02/02-2S/02-2S-I02/02-2S-I02-002	00:15:06;
+
+[PrintText]=00:04:04	Kotonoha	...pensé que iba a estar muy dulce.	00:08:21;
+
+[PlayVoice]=00:04:04	Voice02/02-2S/02-2S-I02/02-2S-I02-0060	0	kot	00:08:21;
+
+[PrintText]=00:08:21	Makoto	Ah...	00:09:13;
+
+[PlayVoice]=00:08:21	Voice02/02-2S/02-2S-I02/02-2S-I02-0070	1	mak	00:09:13;
+
+[PrintText]=00:09:13	Kotonoha	Mi mamá dijo que iba a estar bien, pero es mi primera vez, así que...	00:15:05;
+
+[PlayVoice]=00:09:13	Voice02/02-2S/02-2S-I02/02-2S-I02-0080	0	kot	00:15:05;
+
+[CreateBG]=00:15:06	BGS	Event02/02-2S/02-2S-I02/02-2S-I02-003	00:27:03;
+
+[PrintText]=00:15:06	Makoto	N-no... oh, ya veo, te refieres a la limonada... u-um...	00:22:21;
+
+[PlayVoice]=00:15:06	Voice02/02-2S/02-2S-I02/02-2S-I02-0090	1	mak	00:22:21;
+
+[PrintText]=00:22:21	Kotonoha	Todo bien. La próxima vez... voy a estar segura de...	00:27:03;
+
+[PlayVoice]=00:22:21	Voice02/02-2S/02-2S-I02/02-2S-I02-0100	0	kot	00:27:03;
+
+[CreateBG]=00:27:03	BGS	Event02/02-2S/02-2S-I02/02-2S-I02-004	00:30:09;
+
+[PrintText]=00:27:03	Makoto	Ah...	00:29:13;
+
+[PlayVoice]=00:27:03	Voice02/02-2S/02-2S-I02/02-2S-I02-0120	1	mak	00:29:13;
+
+ ;
+
+[Next]=00:30:09;
+
+
+
+

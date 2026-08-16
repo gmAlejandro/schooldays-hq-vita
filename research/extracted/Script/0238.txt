@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:08:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:08:14;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-J02/SE02-2K-J02-001	00:08:14;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-J02/02-2K-J02-001A	00:02:01;
+
+[PrintText]=00:00:00	Makoto	Deberías haberlo hecho hoy también.	00:02:01;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-J02/02-2K-J02-0030	1	mak	00:02:01;
+
+[CreateBG]=00:02:01	BGS	Event02/02-2K/02-2K-J02/02-2K-J02-001B	00:08:14;
+
+[PrintText]=00:02:01	Kotonoha	Pero...	00:03:06;
+
+[PlayVoice]=00:02:01	Voice02/02-2K/02-2K-J02/02-2K-J02-0040	0	kot	00:03:06;
+
+[PrintText]=00:03:06	Makoto	¿Pero?^	00:04:01;
+
+[PlayVoice]=00:03:06	Voice02/02-2K/02-2K-J02/02-2K-J02-0050	1	mak	00:04:01;
+
+[PrintText]=00:04:02	Kotonoha	No... no es nada.	00:08:01;
+
+[PlayVoice]=00:04:02	Voice02/02-2K/02-2K-J02/02-2K-J02-0060	0	kot	00:08:01;
+
+ ;
+
+[Next]=00:08:14;
+
+
+
+

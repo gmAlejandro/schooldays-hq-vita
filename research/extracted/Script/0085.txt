@@ -1,0 +1,139 @@
+﻿[SkipFRAME]=01:03:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:09:10;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-M02/SE01-00-M02-001	01:09:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-M02/01-00-M02-001	00:02:14;
+
+[PrintText]=00:00:00	Makoto	...También me dijeron eso.	00:02:14;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-M02/01-00-M02-0030	1	mak	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event01/01-00/01-00-M02/01-00-M02-002	00:04:23;
+
+[PrintText]=00:02:14	Sekai	¡Eh! ¿A que te refieres?^	00:04:22;
+
+[PlayVoice]=00:02:14	Voice01/01-00/01-00-M02/01-00-M02-0040	0	sek	00:04:22;
+
+[PrintText]=00:04:22	Makoto	¿Realmente, luzco deprimido?^	00:08:07;
+
+[PlayVoice]=00:04:22	Voice01/01-00/01-00-M02/01-00-M02-0050	1	mak	00:08:07;
+
+[CreateBG]=00:04:23	BGS	Event01/01-00/01-00-M02/01-00-M02-003	00:08:07;
+
+[CreateBG]=00:08:07	BGS	Event01/01-00/01-00-M02/01-00-M02-004	00:12:06;
+
+[PrintText]=00:08:07	Sekai	Sí, totalmente. Te ves desanimado.	00:12:05;
+
+[PlayVoice]=00:08:07	Voice01/01-00/01-00-M02/01-00-M02-0060	0	sek	00:12:05;
+
+[CreateBG]=00:12:06	BGS	Event01/01-00/01-00-M02/01-00-M02-005	00:15:08;
+
+[PrintText]=00:12:06	Makoto	Ya veo...	00:13:03;
+
+[PlayVoice]=00:12:06	Voice01/01-00/01-00-M02/01-00-M02-0070	1	mak	00:13:03;
+
+[PrintText]=00:13:04	Sekai	¿Quieres contármelo?^	00:14:16;
+
+[PlayVoice]=00:13:04	Voice01/01-00/01-00-M02/01-00-M02-0080	0	sek	00:14:16;
+
+[PrintText]=00:14:16	Makoto	Sí.	00:15:07;
+
+[PlayVoice]=00:14:16	Voice01/01-00/01-00-M02/01-00-M02-0090	1	mak	00:15:07;
+
+[CreateBG]=00:15:08	BGS	Event01/01-00/01-00-M02/01-00-M02-006	00:16:22;
+
+[PrintText]=00:15:08	Sekai	...Vale.	00:16:22;
+
+[PlayVoice]=00:15:08	Voice01/01-00/01-00-M02/01-00-M02-0140	0	sek	00:16:22;
+
+[CreateBG]=00:16:22	BGS	Event01/01-00/01-00-M02/01-00-M02-007	00:20:07;
+
+[PrintText]=00:16:22	Makoto	No sé que hacer.	00:20:07;
+
+[PlayVoice]=00:16:22	Voice01/01-00/01-00-M02/01-00-M02-0150	1	mak	00:20:07;
+
+[CreateBG]=00:20:07	BGS	Event01/01-00/01-00-M02/01-00-M02-008	00:21:15;
+
+[PrintText]=00:20:07	Sekai	Hmm...	00:21:14;
+
+[PlayVoice]=00:20:07	Voice01/01-00/01-00-M02/01-00-M02-0160	0	sek	00:21:14;
+
+[PrintText]=00:21:14	Makoto	Me siento cansado, de tener que verle esa expresión a Katsura como siempre.	00:27:11;
+
+[PlayVoice]=00:21:14	Voice01/01-00/01-00-M02/01-00-M02-0170	1	mak	00:27:11;
+
+[CreateBG]=00:21:15	BGS	Event01/01-00/01-00-M02/01-00-M02-009	00:34:03;
+
+[PrintText]=00:27:12	Sekai	¿En serio?^	00:28:13;
+
+[PlayVoice]=00:27:12	Voice01/01-00/01-00-M02/01-00-M02-0180	0	sek	00:28:13;
+
+[PrintText]=00:28:13	Makoto	Mmn... Bueno, así es como me siento.	00:32:06;
+
+[PlayVoice]=00:28:13	Voice01/01-00/01-00-M02/01-00-M02-0190	1	mak	00:32:06;
+
+[PrintText]=00:32:07	Sekai	Estoy segura que no es eso.	00:34:02;
+
+[PlayVoice]=00:32:07	Voice01/01-00/01-00-M02/01-00-M02-0200	0	sek	00:34:02;
+
+[PrintText]=00:34:02	Makoto	No...	00:34:23;
+
+[PlayVoice]=00:34:02	Voice01/01-00/01-00-M02/01-00-M02-0210	1	mak	00:34:23;
+
+[CreateBG]=00:34:03	BGS	Event01/01-00/01-00-M02/01-00-M02-010	00:36:02;
+
+[PrintText]=00:34:23	Sekai	Makoto...	00:36:01;
+
+[PlayVoice]=00:34:23	Voice01/01-00/01-00-M02/01-00-M02-0220	0	sek	00:36:01;
+
+[PrintText]=00:36:01	Makoto	Es extraño ¿No?, se supone que estamos saliendo, y me siento cansado cada vez que la veo...	00:44:17;
+
+[PlayVoice]=00:36:01	Voice01/01-00/01-00-M02/01-00-M02-0240	1	mak	00:44:17;
+
+[CreateBG]=00:36:02	BGS	Event01/01-00/01-00-M01/01-00-M01-005	00:45:05;
+
+[PrintText]=00:44:17	Sekai	...	00:45:05;
+
+[PlayVoice]=00:44:17	Voice01/01-00/01-00-M02/01-00-M02-0250	0	xxx	00:45:05;
+
+[CreateBG]=00:45:05	BGS	Event01/01-00/01-00-M02/01-00-M02-012	00:58:08;
+
+[PrintText]=00:45:05	Makoto	Y tenerte aquí escuchándome, es realmente un alivio.	00:50:21;
+
+[PlayVoice]=00:45:05	Voice01/01-00/01-00-M02/01-00-M02-0260	1	mak	00:50:21;
+
+[PrintText]=00:50:21	Makoto	Eso no es normal... ¿No lo crees?^	00:56:09;
+
+[PlayVoice]=00:50:21	Voice01/01-00/01-00-M02/01-00-M02-0270	1	mak	00:56:09;
+
+[PrintText]=00:56:10	Sekai	Makoto...	00:57:11;
+
+[PlayVoice]=00:56:10	Voice01/01-00/01-00-M02/01-00-M02-0280	0	sek	00:57:11;
+
+[PrintText]=00:57:10	Makoto	Sekai.	00:58:08;
+
+[PlayVoice]=00:57:10	Voice01/01-00/01-00-M02/01-00-M02-0290	1	mak	00:58:08;
+
+[CreateBG]=00:58:08	BGS	Event01/01-00/01-00-M02/01-00-M02-013	01:00:02;
+
+[PrintText]=00:58:08	Sekai	¿S-Sí?^	01:00:01;
+
+[PlayVoice]=00:58:08	Voice01/01-00/01-00-M02/01-00-M02-0300	0	sek	01:00:01;
+
+[CreateBG]=01:00:02	BGS	Event01/01-00/01-00-M02/01-00-M02-014	01:09:10;
+
+[PrintText]=01:00:02	Makoto	Creo que ...	01:00:21;
+
+[PlayVoice]=01:00:02	Voice01/01-00/01-00-M02/01-00-M02-0310	1	mak	01:00:21;
+
+[SetSELECT]=01:03:09	'Me gustas Sekai'	'Me gusta Katsura'	01:08:09;
+
+ ;
+
+[Next]=01:09:10;
+
+
+
+

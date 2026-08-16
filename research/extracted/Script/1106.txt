@@ -1,0 +1,119 @@
+﻿[SkipFRAME]=01:09:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:15:19;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-001	00:03:06;
+
+[PrintText]=00:00:07	Makoto	Sekai, ¿Tienes un segundo?^	00:01:20;
+
+[PlayVoice]=00:00:07	Voice04/04-SA/04-SA-F09/04-SA-F09-0030	1	mak	00:01:20;
+
+[PrintText]=00:01:21	Sekai	¿Hmn?^	00:02:10;
+
+[PlayVoice]=00:01:21	Voice04/04-SA/04-SA-F09/04-SA-F09-0040	0	sek	00:02:10;
+
+[PrintText]=00:02:10	Makoto	Necesito decirte algo.	00:03:09;
+
+[PlayVoice]=00:02:10	Voice04/04-SA/04-SA-F09/04-SA-F09-0050	1	mak	00:03:09;
+
+[CreateBG]=00:03:06	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-002	00:09:20;
+
+[PrintText]=00:03:15	Hikari	¡Ah! ¿Qué estás haciendo? ¿Solo Sekai?^	00:07:15;
+
+[PlayVoice]=00:03:15	Voice04/04-SA/04-SA-F09/04-SA-F09-0070	0	hik	00:07:15;
+
+[PrintText]=00:07:13	Makoto	Solo espera.	00:08:16;
+
+[PlayVoice]=00:07:13	Voice04/04-SA/04-SA-F09/04-SA-F09-0080	1	mak	00:08:16;
+
+[PrintText]=00:08:15	Hikari	Hmph...	00:09:20;
+
+[PlayVoice]=00:08:15	Voice04/04-SA/04-SA-F09/04-SA-F09-0090	0	hik	00:09:20;
+
+[CreateBG]=00:09:20	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-003	00:15:01;
+
+[PrintText]=00:10:07	Makoto	Escucha, tenemos un pequeño problema.	00:13:13;
+
+[PlayVoice]=00:10:07	Voice04/04-SA/04-SA-F09/04-SA-F09-0110	1	mak	00:13:13;
+
+[PrintText]=00:13:14	Sekai	¿Problema?^	00:15:02;
+
+[PlayVoice]=00:13:14	Voice04/04-SA/04-SA-F09/04-SA-F09-0120	0	sek	00:15:02;
+
+[CreateBG]=00:15:01	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-003B	00:24:00;
+
+[PrintText]=00:15:05	Makoto	Es Taisuke... parece que fue a invitar a otra chica en el almuerzo... y ella aceptó.	00:24:01;
+
+[PlayVoice]=00:15:05	Voice04/04-SA/04-SA-F09/04-SA-F09-0130	1	mak	00:24:01;
+
+[CreateBG]=00:24:00	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-003C	00:25:22;
+
+[PrintText]=00:24:01	Sekai	¿A Sawanaga?^	00:25:23;
+
+[PlayVoice]=00:24:01	Voice04/04-SA/04-SA-F09/04-SA-F09-0140	0	sek	00:25:23;
+
+[CreateBG]=00:25:22	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-003D	00:28:19;
+
+[PrintText]=00:26:05	Makoto	... esa también fue tu reacción.	00:28:20;
+
+[PlayVoice]=00:26:05	Voice04/04-SA/04-SA-F09/04-SA-F09-0150	1	mak	00:28:20;
+
+[CreateBG]=00:28:19	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-003E	00:37:21;
+
+[PrintText]=00:29:00	Sekai	Sí. Sawanaga no es un mal chico...	00:32:20;
+
+[PlayVoice]=00:29:00	Voice04/04-SA/04-SA-F09/04-SA-F09-0160	0	sek	00:38:03;
+
+[PrintText]=00:32:20	Sekai	Pero no es la clase de persona que invita a una chica de la nada y que después de todo esta acepte.	00:38:03;
+
+[CreateBG]=00:37:21	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-004	00:44:15;
+
+[PrintText]=00:38:05	Makoto	No tienes que ser así. Puedes decirlo, el no es popular con las chicas.	00:43:04;
+
+[PlayVoice]=00:38:05	Voice04/04-SA/04-SA-F09/04-SA-F09-0170	1	mak	00:43:04;
+
+[PrintText]=00:43:03	Sekai	Ahaha...	00:44:14;
+
+[PlayVoice]=00:43:03	Voice04/04-SA/04-SA-F09/04-SA-F09-0180	0	sek	00:44:14;
+
+[PrintText]=00:44:14	Makoto	Como sea... ahora esta misteriosa chica irá a la piscina, y tenemos 4 entradas...	00:51:05;
+
+[PlayVoice]=00:44:14	Voice04/04-SA/04-SA-F09/04-SA-F09-0190	1	mak	00:51:05;
+
+[CreateBG]=00:44:15	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-005	00:51:02;
+
+[CreateBG]=00:51:02	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-006	01:00:18;
+
+[PrintText]=00:51:18	Sekai	¿Debería salir entonces?^	00:54:10;
+
+[PlayVoice]=00:51:18	Voice04/04-SA/04-SA-F09/04-SA-F09-0200	0	sek	00:54:10;
+
+[PrintText]=00:54:10	Makoto	No podemos hacer eso.	00:56:21;
+
+[PlayVoice]=00:54:10	Voice04/04-SA/04-SA-F09/04-SA-F09-0210	1	mak	00:56:21;
+
+[PrintText]=00:56:21	Sekai	Pero el punto aquí es que Hikari y Taisuke salgan juntos.	01:00:20;
+
+[PlayVoice]=00:56:21	Voice04/04-SA/04-SA-F09/04-SA-F09-0220	0	sek	01:00:20;
+
+[CreateBG]=01:00:18	BGS	Event04/04-SA/04-SA-F09/04-SA-F09-007	01:15:19;
+
+[PrintText]=01:01:00	Makoto	Si ese es el caso, tener a otra chica podrá ser un problema.	01:05:23;
+
+[PlayVoice]=01:01:00	Voice04/04-SA/04-SA-F09/04-SA-F09-0230	1	mak	01:05:23;
+
+[PrintText]=01:06:01	Sekai	Ah... Ya veo.	01:08:09;
+
+[PlayVoice]=01:06:01	Voice04/04-SA/04-SA-F09/04-SA-F09-0240	0	sek	01:08:09;
+
+[PrintText]=01:08:09	Makoto	Por eso es que...	01:09:09;
+
+[PlayVoice]=01:08:09	Voice04/04-SA/04-SA-F09/04-SA-F09-0250	1	mak	01:09:09;
+
+[SetSELECT]=01:09:12	*Rechazar*	*Ir todos juntos*	01:14:12;
+
+ ;
+
+[Next]=01:15:19;
+
+

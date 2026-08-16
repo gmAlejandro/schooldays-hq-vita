@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:08:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:08:22;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-E08/SE03-SA-E08-001	00:08:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-E08/03-SA-E08-001	00:04:14;
+
+[PrintText]=00:00:00	Otome	¡E-Está bien! ¡Probablemente estás ocupado con algo de tu clase... adiós!	00:05:18;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-E08/03-SA-E08-0030	0	oto	00:05:18;
+
+[CreateBG]=00:04:14	BGS	Event03/03-SA/03-SA-E08/03-SA-E08-002	00:08:22;
+
+[PrintText]=00:05:19	Sekai	Mmmn...	00:07:20;
+
+[PlayVoice]=00:05:19	Voice03/03-SA/03-SA-E08/03-SA-E08-0050	0	sek	00:07:20;
+
+[PrintText]=00:07:20	Makoto	...	00:08:21;
+
+[PlayVoice]=00:07:20	Voice03/03-SA/03-SA-E08/03-SA-E08-0060	1	xxx	00:08:21;
+
+ ;
+
+[Next]=00:08:22;
+
+

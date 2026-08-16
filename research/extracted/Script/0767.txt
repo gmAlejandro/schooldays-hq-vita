@@ -1,0 +1,79 @@
+﻿[SkipFRAME]=00:43:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:43:01;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G01/SE03-SA-G01-001	00:43:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G01/03-SA-G01-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-G01/03-SA-G01-002	00:04:00;
+
+[CreateBG]=00:04:00	BGS	Event03/03-SA/03-SA-G01/03-SA-G01-003	00:07:10;
+
+[PrintText]=00:04:00	Sekai	Esa chica definitivamente te gusta.	00:07:10;
+
+[PlayVoice]=00:04:00	Voice03/03-SA/03-SA-G01/03-SA-G01-0030	0	sek	00:07:10;
+
+[CreateBG]=00:07:10	BGS	Event03/03-SA/03-SA-G01/03-SA-G01-004	00:15:03;
+
+[PrintText]=00:07:10	Makoto	¿Huh?^	00:08:06;
+
+[PlayVoice]=00:07:10	Voice03/03-SA/03-SA-G01/03-SA-G01-0040	1	mak	00:08:06;
+
+[PrintText]=00:08:06	Sekai	Esos fueron los ojos de alguien enamorado.	00:10:03;
+
+[PlayVoice]=00:08:06	Voice03/03-SA/03-SA-G01/03-SA-G01-0050	0	sek	00:10:03;
+
+[PrintText]=00:10:04	Makoto	¿De qué hablas? Solo somos amigos de la primaria.	00:15:02;
+
+[PlayVoice]=00:10:04	Voice03/03-SA/03-SA-G01/03-SA-G01-0060	1	mak	00:15:02;
+
+[PrintText]=00:15:02	Sekai	Tu novia de la primaria.	00:17:14;
+
+[PlayVoice]=00:15:02	Voice03/03-SA/03-SA-G01/03-SA-G01-0070	0	sek	00:17:14;
+
+[CreateBG]=00:15:03	BGS	Event03/03-SA/03-SA-G01/03-SA-G01-005	00:24:17;
+
+[PrintText]=00:17:14	Makoto	No, no lo es.	00:19:08;
+
+[PlayVoice]=00:17:14	Voice03/03-SA/03-SA-G01/03-SA-G01-0080	1	mak	00:19:08;
+
+[PrintText]=00:19:08	Sekai	Eres tan distraído Makoto. Ella está enamorada de ti.	00:24:16;
+
+[PlayVoice]=00:19:08	Voice03/03-SA/03-SA-G01/03-SA-G01-0090	0	sek	00:24:16;
+
+[CreateBG]=00:24:17	BGS	Event03/03-SA/03-SA-G01/03-SA-G01-006	00:26:01;
+
+[PrintText]=00:24:17	Makoto	Estás pensando mucho en eso.	00:26:07;
+
+[PlayVoice]=00:24:17	Voice03/03-SA/03-SA-G01/03-SA-G01-0100	1	mak	00:26:07;
+
+[CreateBG]=00:26:01	BGS	Event03/03-SA/03-SA-G01/03-SA-G01-007	00:27:11;
+
+[PrintText]=00:26:07	Sekai	No es así...	00:27:11;
+
+[PlayVoice]=00:26:07	Voice03/03-SA/03-SA-G01/03-SA-G01-0110	0	sek	00:27:11;
+
+[CreateBG]=00:27:11	BGS	Event03/03-SA/03-SA-G01/03-SA-G01-008	00:33:21;
+
+[PrintText]=00:27:11	Makoto	Bueno... estoy feliz de que estés celosa.	00:31:17;
+
+[PlayVoice]=00:27:11	Voice03/03-SA/03-SA-G01/03-SA-G01-0120	1	mak	00:31:17;
+
+[PlayMovie]=00:33:21	Movie03/03-SA/03-SA-G01/03-SA-G01-013	0	00:43:01;
+
+[PrintText]=00:33:22	Sekai	Cielos... ahí vas de nuevo. Cambiando de tema.	00:39:00;
+
+[PlayVoice]=00:33:22	Voice03/03-SA/03-SA-G01/03-SA-G01-0140	0	sek	00:39:00;
+
+[PlaySe]=00:35:11	2	SysSe/SE_all/h/nuno1	00:37:01;
+
+[PrintText]=00:39:00	Makoto	Para nada... eres la única persona que amo.	00:43:00;
+
+[PlayVoice]=00:39:00	Voice03/03-SA/03-SA-G01/03-SA-G01-0150	1	mak	00:43:00;
+
+ ;
+
+[Next]=00:43:04;
+
+

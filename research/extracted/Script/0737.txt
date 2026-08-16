@@ -1,0 +1,209 @@
+﻿[SkipFRAME]=01:54:01;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-C02/SE03-SA-C02-001	01:54:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-001	00:02:18;
+
+[PrintText]=00:01:00	Sekai	Haah... parece que las cosas ya se están calmando.	00:04:22;
+
+[PlayVoice]=00:01:00	Voice03/03-SA/03-SA-C02/03-SA-C02-0050	0	sek	00:04:22;
+
+[CreateBG]=00:02:17	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-002	00:19:13;
+
+[PrintText]=00:04:23	Setsuna	Es porque el festival ya acaba.	00:07:14;
+
+[PlayVoice]=00:04:23	Voice03/03-SA/03-SA-C02/03-SA-C02-0060	0	set	00:07:14;
+
+[PrintText]=00:07:14	Nanami	¡Todo lo que falta es la fogata!	00:09:15;
+
+[PlayVoice]=00:07:14	Voice03/03-SA/03-SA-C02/03-SA-C02-0070	0	nan	00:09:15;
+
+[PrintText]=00:09:15	Sekai	¡Ahh! ¡Nanami! Evadiste los deberes ¿No?^	00:14:01;
+
+[PlayVoice]=00:09:15	Voice03/03-SA/03-SA-C02/03-SA-C02-0080	0	sek	00:14:01;
+
+[PrintText]=00:14:01	Nanami	Eheheh... Mi novio y yo nos perdimos.	00:17:21;
+
+[PlayVoice]=00:14:01	Voice03/03-SA/03-SA-C02/03-SA-C02-0090	0	nan	00:17:21;
+
+[PrintText]=00:17:21	Sekai	¡¿Qué?!	00:19:12;
+
+[PlayVoice]=00:17:21	Voice03/03-SA/03-SA-C02/03-SA-C02-0100	0	sek	00:19:12;
+
+[CreateBG]=00:19:13	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-003	00:24:05;
+
+[PrintText]=00:19:13	Nanami	Apuesto a que estabas en la misma situación ¿No, Sekai?^	00:24:04;
+
+[PlayVoice]=00:19:13	Voice03/03-SA/03-SA-C02/03-SA-C02-0110	0	nan	00:24:04;
+
+[PrintText]=00:24:04	Sekai	Ah...	00:26:11;
+
+[PlayVoice]=00:24:04	Voice03/03-SA/03-SA-C02/03-SA-C02-0120	0	sek	00:26:11;
+
+[CreateBG]=00:24:05	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-004	00:26:12;
+
+[PrintText]=00:26:11	Nanami	¿Cuál cuarto de descanso usaste? Yo usé el de la clase 4.	00:31:04;
+
+[PlayVoice]=00:26:11	Voice03/03-SA/03-SA-C02/03-SA-C02-0140	0	nan	00:31:04;
+
+[CreateBG]=00:26:12	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-005	00:35:22;
+
+[PrintText]=00:31:04	Sekai	¿Cuarto descanso?^	00:32:08;
+
+[PlayVoice]=00:31:04	Voice03/03-SA/03-SA-C02/03-SA-C02-0150	0	sek	00:32:08;
+
+[PrintText]=00:32:09	Nanami	¿No usaste el cuarto de descanso?^	00:34:00;
+
+[PlayVoice]=00:32:09	Voice03/03-SA/03-SA-C02/03-SA-C02-0160	0	nan	00:34:00;
+
+[PrintText]=00:34:00	Sekai	¿Qué es 'el cuarto descanso'?^	00:35:21;
+
+[PlayVoice]=00:34:00	Voice03/03-SA/03-SA-C02/03-SA-C02-0170	0	sek	00:35:21;
+
+[CreateBG]=00:35:22	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-006	00:47:12;
+
+[PrintText]=00:35:22	Nanami	Hay un pequeño cuarto escondido. Se supone que es donde invitas a tu novio.	00:41:09;
+
+[PlayVoice]=00:35:22	Voice03/03-SA/03-SA-C02/03-SA-C02-0180	0	nan	00:41:09;
+
+[PrintText]=00:41:09	Sekai	Uwah! ¿Un lugar indecente así? ¿En nuestra escuela?!	00:45:18;
+
+[PlayVoice]=00:41:09	Voice03/03-SA/03-SA-C02/03-SA-C02-0190	0	sek	00:45:18;
+
+[PrintText]=00:45:19	Nanami	¡Shh! Hablas muy fuerte.	00:47:11;
+
+[PlayVoice]=00:45:19	Voice03/03-SA/03-SA-C02/03-SA-C02-0200	0	nan	00:47:11;
+
+[PrintText]=00:47:11	Sekai	L-Lo siento.	00:48:22;
+
+[PlayVoice]=00:47:11	Voice03/03-SA/03-SA-C02/03-SA-C02-0210	0	sek	00:48:22;
+
+[CreateBG]=00:47:12	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-007	00:53:00;
+
+[PrintText]=00:48:23	Nanami	Entonces ¿A dónde fuiste?^	00:51:03;
+
+[PlayVoice]=00:48:23	Voice03/03-SA/03-SA-C02/03-SA-C02-0220	0	nan	00:51:03;
+
+[PrintText]=00:51:03	Sekai	...Es un secreto.	00:52:23;
+
+[PlayVoice]=00:51:03	Voice03/03-SA/03-SA-C02/03-SA-C02-0230	0	sek	00:52:23;
+
+[PrintText]=00:52:23	Setsuna	Empezaremos a limpiar pronto, así que pueden irse.	00:57:13;
+
+[PlayVoice]=00:52:23	Voice03/03-SA/03-SA-C02/03-SA-C02-0240	0	set	00:57:13;
+
+[CreateBG]=00:53:00	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-008	01:05:01;
+
+[PrintText]=00:57:14	Sekai	¿Eh? Van a limpiar ¿No? Les ayudaré.	01:01:10;
+
+[PlayVoice]=00:57:14	Voice03/03-SA/03-SA-C02/03-SA-C02-0250	0	sek	01:01:10;
+
+[PrintText]=01:01:10	Setsuna	La fogata será después de que terminemos.	01:05:01;
+
+[PlayVoice]=01:01:10	Voice03/03-SA/03-SA-C02/03-SA-C02-0260	0	set	01:05:01;
+
+[CreateBG]=01:05:01	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-009	01:10:13;
+
+[PrintText]=01:05:01	Hikari	En otras palabras, 'Si tienes novio, entonces sale de aquí y ve a verlo'.	01:10:12;
+
+[PlayVoice]=01:05:01	Voice03/03-SA/03-SA-C02/03-SA-C02-0270	0	hik	01:10:12;
+
+[CreateBG]=01:10:13	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-010	01:17:01;
+
+[PrintText]=01:10:13	Nanami	Uwah, Hikari.	01:12:01;
+
+[PlayVoice]=01:10:13	Voice03/03-SA/03-SA-C02/03-SA-C02-0280	0	nan	01:12:01;
+
+[PrintText]=01:12:02	Hikari	La pasamos muy mal aquí gracias a ti, Nanami. Te las verás con nosotras más tarde.	01:17:01;
+
+[PlayVoice]=01:12:02	Voice03/03-SA/03-SA-C02/03-SA-C02-0290	0	hik	01:17:01;
+
+[CreateBG]=01:17:01	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-011	01:29:21;
+
+[PrintText]=01:17:01	Nanami	Vale, ya entendí.	01:18:17;
+
+[PlayVoice]=01:17:01	Voice03/03-SA/03-SA-C02/03-SA-C02-0300	0	nan	01:18:17;
+
+[PrintText]=01:18:18	Hikari	¿En serio? Me pregunto que debería de pedir. Pensaré en ello...	01:23:09;
+
+[PlayVoice]=01:18:18	Voice03/03-SA/03-SA-C02/03-SA-C02-0310	0	hik	01:23:09;
+
+[PrintText]=01:23:09	Nanami	Hey, hey...	01:25:03;
+
+[PlayVoice]=01:23:09	Voice03/03-SA/03-SA-C02/03-SA-C02-0320	0	nan	01:25:03;
+
+[PrintText]=01:25:03	Hikari	Eheheh... bueno, puedes irte.	01:27:18;
+
+[PlayVoice]=01:25:03	Voice03/03-SA/03-SA-C02/03-SA-C02-0330	0	hik	01:27:18;
+
+[PrintText]=01:27:19	Nanami	Vale, me adelantaré entonces. ¿Qué hay de ti, Sekai?^	01:30:21;
+
+[PlayVoice]=01:27:19	Voice03/03-SA/03-SA-C02/03-SA-C02-0340	0	nan	01:30:21;
+
+[CreateBG]=01:29:21	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-012	01:33:14;
+
+[PrintText]=01:30:21	Sekai	Creo que esperaré por un momento.	01:33:13;
+
+[PlayVoice]=01:30:21	Voice03/03-SA/03-SA-C02/03-SA-C02-0350	0	sek	01:33:13;
+
+[CreateBG]=01:33:14	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-013	01:35:02;
+
+[PrintText]=01:33:14	Nanami	Vale, entonces nos vemos después.	01:35:01;
+
+[PlayVoice]=01:33:14	Voice03/03-SA/03-SA-C02/03-SA-C02-0360	0	nan	01:35:01;
+
+[PrintText]=01:35:01	Sekai	Uh-huh.	01:35:17;
+
+[PlayVoice]=01:35:01	Voice03/03-SA/03-SA-C02/03-SA-C02-0370	0	sek	01:35:17;
+
+[CreateBG]=01:35:02	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-014	01:40:05;
+
+[PrintText]=01:35:18	Setsuna	¿Qué pasó con Itou?^	01:36:19;
+
+[PlayVoice]=01:35:18	Voice03/03-SA/03-SA-C02/03-SA-C02-0390	0	set	01:36:19;
+
+[PrintText]=01:36:19	Sekai	Creo que él vendrá pronto.	01:38:12;
+
+[PlayVoice]=01:36:19	Voice03/03-SA/03-SA-C02/03-SA-C02-0400	0	sek	01:38:12;
+
+[PrintText]=01:38:12	Setsuna	¿Has hecho realmente planes con él?^	01:40:04;
+
+[PlayVoice]=01:38:12	Voice03/03-SA/03-SA-C02/03-SA-C02-0410	0	set	01:40:04;
+
+[PrintText]=01:40:04	Sekai	Sí. Vamos a bailar juntos en el evento de la fogata.	01:43:18;
+
+[PlayVoice]=01:40:04	Voice03/03-SA/03-SA-C02/03-SA-C02-0420	0	sek	01:43:18;
+
+[CreateBG]=01:40:05	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-015	01:43:19;
+
+[PrintText]=01:43:18	Setsuna	Bien.	01:45:00;
+
+[PlayVoice]=01:43:18	Voice03/03-SA/03-SA-C02/03-SA-C02-0430	0	set	01:45:00;
+
+[CreateBG]=01:43:19	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-016	01:47:22;
+
+[PrintText]=01:45:00	Sekai	Te preocupas mucho, Setsuna.	01:47:05;
+
+[PlayVoice]=01:45:00	Voice03/03-SA/03-SA-C02/03-SA-C02-0440	0	sek	01:47:05;
+
+[PrintText]=01:47:05	Setsuna	Uh-huh.	01:47:21;
+
+[PlayVoice]=01:47:05	Voice03/03-SA/03-SA-C02/03-SA-C02-0450	0	set	01:47:21;
+
+[CreateBG]=01:47:22	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-017	01:50:01;
+
+[CreateBG]=01:50:01	BGS	Event03/03-SA/03-SA-C02/03-SA-C02-018	01:54:01;
+
+[PrintText]=01:50:01	Sekai	¿Qué fue eso? Iré a ver un momento ¿Vale?^	01:52:19;
+
+[PlayVoice]=01:50:01	Voice03/03-SA/03-SA-C02/03-SA-C02-0470	0	sek	01:52:19;
+
+[PrintText]=01:52:19	Setsuna	Adelante entonces.	01:54:00;
+
+[PlayVoice]=01:52:19	Voice03/03-SA/03-SA-C02/03-SA-C02-0480	0	set	01:54:00;
+
+ ;
+
+[Next]=01:54:01;
+
+

@@ -1,0 +1,121 @@
+﻿[SkipFRAME]=00:55:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:01:13;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-002	00:06:08;
+
+[PrintText]=00:02:23	Makoto	Bueno, hora de ir a casa...	00:04:22;
+
+[PlayVoice]=00:02:23	Voice04/04-SA/04-SA-F05/04-SA-F05-0050	1	mak	00:04:22;
+
+[PrintText]=00:04:23	Taisuke	¡Hey, Makoto!	00:06:12;
+
+[PlayVoice]=00:04:23	Voice04/04-SA/04-SA-F05/04-SA-F05-0060	1	tai	00:06:12;
+
+[CreateBG]=00:06:08	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-003	00:07:09;
+
+[PrintText]=00:06:12	Makoto	¿Qué pasó?^	00:07:11;
+
+[PlayVoice]=00:06:12	Voice04/04-SA/04-SA-F05/04-SA-F05-0070	1	mak	00:07:11;
+
+[CreateBG]=00:07:09	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-004	00:09:09;
+
+[PrintText]=00:07:14	Taisuke	¡Acerca de lo de la mañana!	00:09:12;
+
+[PlayVoice]=00:07:14	Voice04/04-SA/04-SA-F05/04-SA-F05-0080	1	tai	00:09:12;
+
+[CreateBG]=00:09:09	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-005	00:19:21;
+
+[PrintText]=00:09:19	Makoto	Oh, ¿Eso? Tranquilo, ya me ocupe de eso.	00:13:13;
+
+[PlayVoice]=00:09:19	Voice04/04-SA/04-SA-F05/04-SA-F05-0090	1	mak	00:13:13;
+
+[PrintText]=00:13:15	Taisuke	No, no Saionji. Me refiero a la otra chica a invitar.	00:18:15;
+
+[PlayVoice]=00:13:15	Voice04/04-SA/04-SA-F05/04-SA-F05-0100	1	tai	00:18:15;
+
+[PrintText]=00:18:15	Makoto	Sí, está bien todo...	00:20:17;
+
+[PlayVoice]=00:18:15	Voice04/04-SA/04-SA-F05/04-SA-F05-0110	1	mak	00:20:17;
+
+[CreateBG]=00:19:21	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-006	00:24:03;
+
+[PrintText]=00:20:04	Taisuke	Puedes olvidarte de eso.	00:21:16;
+
+[PlayVoice]=00:20:04	Voice04/04-SA/04-SA-F05/04-SA-F05-0120	1	tai	00:21:16;
+
+[PrintText]=00:21:12	Makoto	¿Eh?^	00:22:04;
+
+[PlayVoice]=00:21:12	Voice04/04-SA/04-SA-F05/04-SA-F05-0130	1	mak	00:22:04;
+
+[PrintText]=00:22:05	Taisuke	Ya invite a una chica a venir.	00:24:03;
+
+[PlayVoice]=00:22:05	Voice04/04-SA/04-SA-F05/04-SA-F05-0140	1	tai	00:24:03;
+
+[CreateBG]=00:24:03	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-007	00:34:06;
+
+[PrintText]=00:24:07	Makoto	¿Invitaste...?^	00:25:19;
+
+[PlayVoice]=00:24:07	Voice04/04-SA/04-SA-F05/04-SA-F05-0150	1	mak	00:25:19;
+
+[PrintText]=00:25:19	Taisuke	Solo pasó... no, tal vez fue cosa del destino en conocernos, como sea, esperaba ser rechazado, pero aceptó.	00:34:07;
+
+[PlayVoice]=00:25:19	Voice04/04-SA/04-SA-F05/04-SA-F05-0160	1	tai	00:34:07;
+
+[CreateBG]=00:34:06	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-008	00:37:18;
+
+[PrintText]=00:34:11	Makoto	¡Hey! ¿Qué hay de Sekai y yo entonces?^	00:37:20;
+
+[PlayVoice]=00:34:11	Voice04/04-SA/04-SA-F05/04-SA-F05-0170	1	mak	00:37:20;
+
+[CreateBG]=00:37:18	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-009	00:44:08;
+
+[PrintText]=00:37:21	Taisuke	Estarás bien. Tenemos 4 entradas, así que ve a preguntarle a Sekai. ¡Bueno, nos vemos después!	00:44:11;
+
+[PlayVoice]=00:37:21	Voice04/04-SA/04-SA-F05/04-SA-F05-0180	1	tai	00:44:11;
+
+[CreateBG]=00:44:08	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-010	00:47:11;
+
+[PrintText]=00:44:11	Makoto	¡Hey! ¡Taisuke!	00:46:01;
+
+[PlayVoice]=00:44:11	Voice04/04-SA/04-SA-F05/04-SA-F05-0200	1	mak	00:46:01;
+
+[PrintText]=00:46:06	Makoto	...	00:47:07;
+
+[PlayVoice]=00:46:06	Voice04/04-SA/04-SA-F05/04-SA-F05-0210	1	xxx	00:47:07;
+
+[CreateBG]=00:47:11	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-011	00:50:16;
+
+[PrintText]=00:47:18	Makoto	¿Es él?^	00:49:10;
+
+[PlayVoice]=00:47:18	Voice04/04-SA/04-SA-F05/04-SA-F05-0220	1	mak	00:49:10;
+
+[PrintText]=00:49:17	Sekai	¿Pasó algo?^	00:50:18;
+
+[PlayVoice]=00:49:17	Voice04/04-SA/04-SA-F05/04-SA-F05-0230	0	sek	00:50:18;
+
+[CreateBG]=00:50:16	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-012	00:51:16;
+
+[PrintText]=00:50:23	Makoto	Ah...	00:51:17;
+
+[PlayVoice]=00:50:23	Voice04/04-SA/04-SA-F05/04-SA-F05-0250	1	mak	00:51:17;
+
+[CreateBG]=00:51:16	BGS	Event04/04-SA/04-SA-F05/04-SA-F05-013	01:01:13;
+
+[PrintText]=00:51:23	Sekai	Te pusiste bastante molesto de repente.	00:54:08;
+
+[PlayVoice]=00:51:23	Voice04/04-SA/04-SA-F05/04-SA-F05-0260	0	sek	00:54:08;
+
+[PrintText]=00:54:07	Makoto	Uuh...	00:55:09;
+
+[PlayVoice]=00:54:07	Voice04/04-SA/04-SA-F05/04-SA-F05-0270	1	mak	00:55:09;
+
+[SetSELECT]=00:55:12	*Explicar lo que pasa*	*Evadir la pregunta*	01:00:12;
+
+ ;
+
+[Next]=01:01:13;
+
+

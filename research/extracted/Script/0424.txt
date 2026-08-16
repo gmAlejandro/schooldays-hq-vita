@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:18:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:18:02;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-E02/03-A1-E02-001	00:10:12;
+
+[PrintText]=00:00:00	Makoto	¡No!	00:01:20;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-E02/03-A1-E02-0030	1	mak	00:01:20;
+
+[PrintText]=00:01:20	Setsuna	...	00:03:00;
+
+[PlayVoice]=00:01:20	Voice03/03-A1/03-A1-E02/03-A1-E02-0040	0	xxx	00:03:00;
+
+[PrintText]=00:03:00	Makoto	Bueno... sostuve su mano... y toque sus pechos...	00:10:11;
+
+[PlayVoice]=00:03:00	Voice03/03-A1/03-A1-E02/03-A1-E02-0050	1	mak	00:10:11;
+
+[PrintText]=00:10:11	Setsuna	Bestia.	00:11:18;
+
+[PlayVoice]=00:10:11	Voice03/03-A1/03-A1-E02/03-A1-E02-0060	0	set	00:11:18;
+
+[CreateBG]=00:10:12	BGS	Event03/03-A1/03-A1-E01/03-A1-E01-003	00:15:16;
+
+[PrintText]=00:11:14	Makoto	¡Cualquier chico haría lo mismo!	00:14:02;
+
+[PlayVoice]=00:11:14	Voice03/03-A1/03-A1-E02/03-A1-E02-0070	1	mak	00:14:02;
+
+[PrintText]=00:13:18	Setsuna	...Me opongo a eso, pero continúa.	00:15:16;
+
+[PlayVoice]=00:13:18	Voice03/03-A1/03-A1-E02/03-A1-E02-0080	0	set	00:15:16;
+
+[CreateBG]=00:15:16	BGS	Event03/03-A1/03-A1-E02/03-A1-E02-003	00:18:02;
+
+[PrintText]=00:15:20	Makoto	¡Kuh...!	00:16:21;
+
+[PlayVoice]=00:15:20	Voice03/03-A1/03-A1-E02/03-A1-E02-0090	1	mak	00:16:21;
+
+[PrintText]=00:17:01	Setsuna	Vamos.	00:17:20;
+
+[PlayVoice]=00:17:01	Voice03/03-A1/03-A1-E02/03-A1-E02-0100	0	set	00:17:20;
+
+ ;
+
+[Next]=00:18:02;
+
+

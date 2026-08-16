@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:07:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:07:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-D07/03-KB-D07-001	00:05:15;
+
+[PrintText]=00:00:00	Taisuke	Está bien, si no quieres decirme con quien estás saliendo, no tienes que forzarte a hacerlo.	00:05:14;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-D07/03-KB-D07-0030	1	tai	00:05:14;
+
+[PrintText]=00:05:14	Makoto	Taisuke...	00:06:22;
+
+[PlayVoice]=00:05:14	Voice03/03-KB/03-KB-D07/03-KB-D07-0040	1	mak	00:06:22;
+
+[CreateBG]=00:05:15	BGS	Event03/03-KB/03-KB-D07/03-KB-D07-002	00:07:00;
+
+ ;
+
+[Next]=00:07:00;
+
+

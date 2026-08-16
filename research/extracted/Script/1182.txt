@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:49:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:12:03;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-B01/04-SB-B01-001	00:03:20;
+
+[PrintText]=00:00:00	Taisuke	Creo que fue por ser muy insistente.	00:03:17;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-B01/04-SB-B01-0030	1	tai	00:03:17;
+
+[CreateBG]=00:03:20	BGS	Event04/04-SB/04-SB-B01/04-SB-B01-002	00:05:11;
+
+[PrintText]=00:04:03	Kotonoha	...	00:04:22;
+
+[PlayVoice]=00:04:03	Voice04/04-SB/04-SB-B01/04-SB-B01-0040	0	xxx	00:04:22;
+
+[CreateBG]=00:05:11	BGS	Event04/04-SB/04-SB-B01/04-SB-B01-003	00:10:11;
+
+[PrintText]=00:05:14	Taisuke	¡Pues, como sea, nos guardaremos los detalles! ¡Uwahaha!	00:10:15;
+
+[PlayVoice]=00:05:14	Voice04/04-SB/04-SB-B01/04-SB-B01-0060	1	tai	00:10:15;
+
+[CreateBG]=00:10:11	BGS	Event04/04-SB/04-SB-B01/04-SB-B01-004	00:12:20;
+
+[PrintText]=00:10:22	Sekai	Hmmn.	00:12:11;
+
+[PlayVoice]=00:10:22	Voice04/04-SB/04-SB-B01/04-SB-B01-0070	0	sek	00:12:11;
+
+[WhiteFade]=00:12:08	OUT	00:12:20;
+
+[PlayBgm]=00:12:20	BGM/SD_BGM/sdbgm20	00:49:19;
+
+[CreateBG]=00:12:20	BGS	Event04/04-SB/04-SB-B01/04-SB-B01-005	00:26:00;
+
+[WhiteFade]=00:12:20	IN	00:13:08;
+
+[PrintText]=00:13:08	Makoto	Kotonoha se ve un poco triste.	00:16:22;
+
+[PlayVoice]=00:13:08	Voice04/04-SB/04-SB-B01/04-SB-B01-0090	1	xxx	00:16:22;
+
+[PrintText]=00:17:23	Makoto	¿... Será por mí?^	00:19:05;
+
+[PlayVoice]=00:17:23	Voice04/04-SB/04-SB-B01/04-SB-B01-0100	1	xxx	00:19:05;
+
+[PrintText]=00:20:03	Makoto	¿O Taisuke hizo algo que la lastimó...?^	00:25:18;
+
+[PlayVoice]=00:20:03	Voice04/04-SB/04-SB-B01/04-SB-B01-0110	1	xxx	00:25:18;
+
+[CreateBG]=00:26:00	BGS	Event04/04-SB/04-SB-B01/04-SB-B01-006	00:41:00;
+
+[PrintText]=00:26:07	Makoto	No, creo ser yo el que la a lastimado más...	00:31:08;
+
+[PlayVoice]=00:26:07	Voice04/04-SB/04-SB-B01/04-SB-B01-0120	1	xxx	00:31:08;
+
+[PrintText]=00:32:06	Makoto	Si hubiera estado ahí para ella en el festival, ella nunca hubiera escogido a Taisuke...	00:40:16;
+
+[PlayVoice]=00:32:06	Voice04/04-SB/04-SB-B01/04-SB-B01-0130	1	xxx	00:40:16;
+
+[CreateBG]=00:41:00	BGS	Event04/04-SB/04-SB-B01/04-SB-B01-007	00:45:16;
+
+[PrintText]=00:41:13	Makoto	¿Por qué Taisuke...? ¿Por qué...?^	00:45:08;
+
+[PlayVoice]=00:41:13	Voice04/04-SB/04-SB-B01/04-SB-B01-0140	1	xxx	00:45:08;
+
+[CreateBG]=00:45:16	BGS	Event04/04-SB/04-SB-B01/04-SB-B01-008	00:49:19;
+
+[PrintText]=00:46:23	Makoto	Haah...	00:48:02;
+
+[PlayVoice]=00:46:23	Voice04/04-SB/04-SB-B01/04-SB-B01-0150	1	mak	00:48:02;
+
+[BlackFade]=00:48:19	OUT	00:49:19;
+
+ ;
+
+[Next]=00:49:19;
+
+

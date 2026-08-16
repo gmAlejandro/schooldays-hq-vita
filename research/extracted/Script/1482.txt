@@ -1,0 +1,30 @@
+﻿[SkipFRAME]=00:06:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:06:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou_yuugata	00:06:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-C08/05-KA-C08-001	00:01:00;
+
+[PrintText]=00:00:00	Makoto	La amo.	00:00:21;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-C08/05-KA-C08-0030	1	mak	00:00:21;
+
+[CreateBG]=00:01:00	BGS	Event05/05-KA/05-KA-C08/05-KA-C08-002	00:04:23;
+
+[PrintText]=00:01:02	Setsuna	¿Entonces por qué está llorando?^	00:04:20;
+
+[PlayVoice]=00:01:02	Voice05/05-KA/05-KA-C08/05-KA-C08-0040	0	set	00:04:20;
+
+[CreateBG]=00:04:23	BGS	Event05/05-KA/05-KA-C08/05-KA-C08-003	00:06:10;
+
+[PrintText]=00:05:06	Makoto	...	00:06:02;
+
+[PlayVoice]=00:05:06	Voice05/05-KA/05-KA-C08/05-KA-C08-0050	1	xxx	00:06:02;
+
+ ;
+
+[Next]=00:06:10;
+
+
+

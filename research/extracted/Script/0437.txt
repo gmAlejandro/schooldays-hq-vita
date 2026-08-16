@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:35:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:35:02;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/h/h_03	00:14:15;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/h/h_04	00:14:15;
+
+[PlaySe]=00:00:00	4	SysSe/SE_all/h/h_05	00:14:15;
+
+[PlayMovie]=00:00:00	Movie03/03-A1/03-A1-Z01/03-A1-Z01-001	0	00:35:02;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0020			00:04:20;
+
+[MoveSom]=00:00:00	4	00:14:03;
+
+[PrintText]=00:04:20	Setsuna	Itou...	00:06:16;
+
+[PlayVoice]=00:04:20	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0030	0	set	00:06:16;
+
+[PlaySe]=00:06:17	1	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0031	00:15:03;
+
+[WhiteFade]=00:14:03	OUT	00:14:15;
+
+[MoveSom]=00:14:03	1	00:22:08;
+
+[WhiteFade]=00:14:15	IN	00:15:03;
+
+[PrintText]=00:15:03	Setsuna	Te estás corriendo...	00:16:18;
+
+[PlayVoice]=00:15:03	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0040	0	set	00:16:18;
+
+[PlaySe]=00:16:19	1	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0041	00:18:05;
+
+[PrintText]=00:18:05	Setsuna	Estás...	00:19:17;
+
+[PlayVoice]=00:18:05	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0050	0	set	00:19:17;
+
+[PlaySe]=00:19:17	1	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0051	00:21:08;
+
+[PrintText]=00:21:08	Setsuna	Corriéndote dentro mio...	00:22:20;
+
+[PlayVoice]=00:21:08	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0060	0	set	00:22:20;
+
+[PlaySe]=00:21:23	2	SysSe/SE_all/h/gucho1	00:24:14;
+
+[WhiteFade]=00:22:08	OUT	00:22:20;
+
+[PlaySe]=00:22:20	1	Voice03/03-A1/03-A1-Z01/03-A1-Z01-0061	00:33:15;
+
+[WhiteFade]=00:22:20	IN	00:23:08;
+
+[BlackFade]=00:33:03	OUT	00:35:02;
+
+ ;
+
+[Next]=00:35:02;
+
+

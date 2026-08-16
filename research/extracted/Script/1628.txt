@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:47:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:47:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KI/05-KI-A00/05-KI-A00-001	00:03:23;
+
+[CreateBG]=00:03:23	BGS	Event05/05-KI/05-KI-A00/05-KI-A00-002	00:06:10;
+
+[PrintText]=00:04:06	Kotonoha	¿Por qué?^	00:06:05;
+
+[PlayVoice]=00:04:06	Voice05/05-KI/05-KI-A00/05-KI-A00-0040	0	kot	00:06:05;
+
+[CreateBG]=00:06:10	BGS	Event05/05-KI/05-KI-A00/05-KI-A00-003	00:15:15;
+
+[PrintText]=00:08:10	Kotonoha	Saionji-san...¿Todo fue una mentira...?^	00:14:10;
+
+[PlayVoice]=00:08:10	Voice05/05-KI/05-KI-A00/05-KI-A00-0050	0	kot	00:14:10;
+
+[CreateBG]=00:15:15	BGS	Event05/05-KI/05-KI-A00/05-KI-A00-004	00:24:14;
+
+[PrintText]=00:16:16	Kotonoha	Makoto-kun... dijo que me amaba... pero... 	00:22:20;
+
+[PlayVoice]=00:16:16	Voice05/05-KI/05-KI-A00/05-KI-A00-0060	0	kot	00:22:20;
+
+[CreateBG]=00:24:14	BGS	Event05/05-KI/05-KI-A00/05-KI-A00-005	00:47:04;
+
+[PrintText]=00:25:03	Kotonoha	Saionji-san está...	00:26:19;
+
+[PlayVoice]=00:25:03	Voice05/05-KI/05-KI-A00/05-KI-A00-0070	0	kot	00:26:19;
+
+[PrintText]=00:29:03	Kotonoha	¿O será que Saionji-san está detrás de Makoto-kun...?^	00:34:17;
+
+[PlayVoice]=00:29:03	Voice05/05-KI/05-KI-A00/05-KI-A00-0080	0	kot	00:34:17;
+
+[PrintText]=00:36:10	Kotonoha	Ya veo...	00:37:20;
+
+[PlayVoice]=00:36:10	Voice05/05-KI/05-KI-A00/05-KI-A00-0090	0	kot	00:37:20;
+
+[PrintText]=00:38:22	Kotonoha	¿Así es como serán las cosas..?^	00:40:18;
+
+[PlayVoice]=00:38:22	Voice05/05-KI/05-KI-A00/05-KI-A00-0100	0	kot	00:40:18;
+
+[PrintText]=00:43:18	Kotonoha	Pero...	00:44:18;
+
+[PlayVoice]=00:43:18	Voice05/05-KI/05-KI-A00/05-KI-A00-0110	0	kot	00:44:18;
+
+ ;
+
+[Next]=00:47:04;
+
+
+
+

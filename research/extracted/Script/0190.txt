@@ -1,0 +1,187 @@
+﻿[SkipFRAME]=01:43:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:43:05;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-M01/SE01-1S-M01-001	01:43:04;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-001	00:10:13;
+
+[CreateBG]=00:10:13	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-002	00:15:12;
+
+[PrintText]=00:10:19	Sekai	Bueno... iré a la cafetería.	00:13:18;
+
+[PlayVoice]=00:10:19	Voice01/01-1S/01-1S-M01/01-1S-M01-0040	0	sek	00:13:18;
+
+[PrintText]=00:13:10	Makoto	Ah...	00:14:04;
+
+[PlayVoice]=00:13:10	Voice01/01-1S/01-1S-M01/01-1S-M01-0060	1	mak	00:14:04;
+
+[CreateBG]=00:15:12	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-003	00:19:12;
+
+[PrintText]=00:16:20	Nanami	¿Por qué no vamos también?^	00:18:22;
+
+[PlayVoice]=00:16:20	Voice01/01-1S/01-1S-M01/01-1S-M01-0080	0	nan	00:18:22;
+
+[PrintText]=00:18:15	Hikari	Vale.	00:19:08;
+
+[PlayVoice]=00:18:15	Voice01/01-1S/01-1S-M01/01-1S-M01-0090	0	hik	00:19:08;
+
+[CreateBG]=00:19:12	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-004	00:21:06;
+
+[PrintText]=00:19:21	Makoto	Hey, Kanroji.	00:21:02;
+
+[PlayVoice]=00:19:21	Voice01/01-1S/01-1S-M01/01-1S-M01-0110	1	mak	00:21:02;
+
+[CreateBG]=00:21:06	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-005	00:22:22;
+
+[PrintText]=00:21:06	Nanami	¿Q-Qué?^	00:22:20;
+
+[PlayVoice]=00:21:06	Voice01/01-1S/01-1S-M01/01-1S-M01-0120	0	nan	00:22:20;
+
+[CreateBG]=00:22:22	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-006	00:29:18;
+
+[PrintText]=00:22:22	Makoto	¿Usualmente Sekai no sale con ustedes?^	00:26:02;
+
+[PlayVoice]=00:22:22	Voice01/01-1S/01-1S-M01/01-1S-M01-0130	1	mak	00:26:02;
+
+[PrintText]=00:25:15	Nanami	¿Salir...?^	00:27:13;
+
+[PlayVoice]=00:25:15	Voice01/01-1S/01-1S-M01/01-1S-M01-0140	0	nan	00:27:13;
+
+[PrintText]=00:27:09	Makoto	¿Ustedes son amigas, no?^	00:28:12;
+
+[PlayVoice]=00:27:09	Voice01/01-1S/01-1S-M01/01-1S-M01-0150	1	mak	00:28:12;
+
+[PrintText]=00:28:10	Nanami	Pues claro que somos amigas.	00:29:14;
+
+[PlayVoice]=00:28:10	Voice01/01-1S/01-1S-M01/01-1S-M01-0160	0	nan	00:29:14;
+
+[CreateBG]=00:29:18	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-007	00:36:09;
+
+[PrintText]=00:29:18	Makoto	¿Están siempre juntas, cierto?^	00:31:10;
+
+[PlayVoice]=00:29:18	Voice01/01-1S/01-1S-M01/01-1S-M01-0170	1	mak	00:31:10;
+
+[PrintText]=00:31:07	Nanami	Sí... ¿Adónde quieres llegar?^	00:33:12;
+
+[PlayVoice]=00:31:07	Voice01/01-1S/01-1S-M01/01-1S-M01-0180	0	nan	00:33:12;
+
+[PrintText]=00:33:18	Makoto	¿Y vas a almorzar con ella también, no?^	00:36:03;
+
+[PlayVoice]=00:33:18	Voice01/01-1S/01-1S-M01/01-1S-M01-0190	1	mak	00:36:03;
+
+[CreateBG]=00:36:09	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-008	00:38:13;
+
+[PrintText]=00:36:13	Hikari	Itou.	00:37:14;
+
+[PlayVoice]=00:36:13	Voice01/01-1S/01-1S-M01/01-1S-M01-0200	0	hik	00:37:14;
+
+[PrintText]=00:37:15	Makoto	¿Hmn?^	00:38:06;
+
+[PlayVoice]=00:37:15	Voice01/01-1S/01-1S-M01/01-1S-M01-0210	1	mak	00:38:06;
+
+[CreateBG]=00:38:13	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-009	00:44:08;
+
+[PrintText]=00:38:13	Hikari	No nos gusta la idea de que andes saliendo con Sekai ¿Vale?^	00:43:15;
+
+[PlayVoice]=00:38:13	Voice01/01-1S/01-1S-M01/01-1S-M01-0220	0	hik	00:43:15;
+
+[PrintText]=00:43:12	Makoto	¡¿Eh?!	00:44:03;
+
+[PlayVoice]=00:43:12	Voice01/01-1S/01-1S-M01/01-1S-M01-0230	1	mak	00:44:03;
+
+[CreateBG]=00:44:08	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-010	00:57:21;
+
+[PrintText]=00:44:23	Hikari	Sí, solíamos almorzar juntas en el primer semestre,	00:48:13;
+
+[PlayVoice]=00:44:23	Voice01/01-1S/01-1S-M01/01-1S-M01-0240	0	hik	00:53:16;
+
+[PrintText]=00:48:13	Hikari	Pero ella empezó a almorzar contigo desde el segundo semestre.	00:53:16;
+
+[PrintText]=00:53:20	Nanami	Personalmente, creo que está bien que Sekai e Itou estén saliendo.	00:58:09;
+
+[PlayVoice]=00:53:20	Voice01/01-1S/01-1S-M01/01-1S-M01-0250	0	nan	00:58:09;
+
+[CreateBG]=00:57:21	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-011	01:01:22;
+
+[PrintText]=00:57:21	Hikari	No creo que esté bien.	00:59:12;
+
+[PlayVoice]=00:57:21	Voice01/01-1S/01-1S-M01/01-1S-M01-0260	0	hik	00:59:12;
+
+[PrintText]=00:58:23	Makoto	E-Espera un segundo, yo no estoy saliendo con...	01:02:11;
+
+[PlayVoice]=00:58:23	Voice01/01-1S/01-1S-M01/01-1S-M01-0270	1	mak	01:02:11;
+
+[PrintText]=01:01:22	Hikari	No me vengas con eso, ustedes siempre almuerzan juntos todos los días.	01:06:02;
+
+[PlayVoice]=01:01:22	Voice01/01-1S/01-1S-M01/01-1S-M01-0280	0	hik	01:06:02;
+
+[CreateBG]=01:02:00	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-012	01:06:10;
+
+[PrintText]=01:05:20	Nanami	Sí, es cierto.	01:07:00;
+
+[PlayVoice]=01:05:20	Voice01/01-1S/01-1S-M01/01-1S-M01-0290	0	nan	01:07:00;
+
+[CreateBG]=01:06:10	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-013	01:13:02;
+
+[PrintText]=01:06:10	Makoto	Esperen, que quieren decir con que todos los Días ¿También esta semana...?^	01:08:16;
+
+[PlayVoice]=01:06:10	Voice01/01-1S/01-1S-M01/01-1S-M01-0300	1	mak	01:08:16;
+
+[PrintText]=01:08:01	Hikari	Ella ha estado contigo toda la semana, también.	01:11:20;
+
+[PlayVoice]=01:08:01	Voice01/01-1S/01-1S-M01/01-1S-M01-0310	0	hik	01:11:20;
+
+[PrintText]=01:12:00	Makoto	¿Eh...?^	01:12:21;
+
+[PlayVoice]=01:12:00	Voice01/01-1S/01-1S-M01/01-1S-M01-0320	1	mak	01:12:21;
+
+[CreateBG]=01:13:02	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-014	01:17:19;
+
+[PrintText]=01:13:02	Hikari	No sé dónde están comiendo o que están haciendo, pero ...	01:17:17;
+
+[PlayVoice]=01:13:02	Voice01/01-1S/01-1S-M01/01-1S-M01-0330	0	hik	01:17:17;
+
+[CreateBG]=01:17:19	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-015	01:20:11;
+
+[PrintText]=01:17:19	Makoto	¿'Haciendo'...? Nosotros no...	01:20:10;
+
+[PlayVoice]=01:17:19	Voice01/01-1S/01-1S-M01/01-1S-M01-0340	1	mak	01:20:10;
+
+[CreateBG]=01:20:11	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-016	01:26:16;
+
+[PrintText]=01:20:11	Hikari	¿Entonces es tu culpa de que ella ande tan deprimida últimamente? Te juro que si la haces llorar...	01:27:10;
+
+[PlayVoice]=01:20:11	Voice01/01-1S/01-1S-M01/01-1S-M01-0350	0	hik	01:27:10;
+
+[CreateBG]=01:26:16	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-017	01:30:09;
+
+[PrintText]=01:26:16	Nanami	¡Para ya, Hikari!	01:28:03;
+
+[PlayVoice]=01:26:16	Voice01/01-1S/01-1S-M01/01-1S-M01-0360	0	nan	01:28:03;
+
+[PrintText]=01:28:17	Makoto	No puede ser...	01:30:00;
+
+[PlayVoice]=01:28:17	Voice01/01-1S/01-1S-M01/01-1S-M01-0370	1	mak	01:30:00;
+
+[CreateBG]=01:30:09	BGS	Event01/01-1S/01-1S-M01/01-1S-M01-018	01:43:05;
+
+[PrintText]=01:30:20	Nanami	Itou. Olvidate de Hikari. Anda a ver a Sekai ¿Vale? No puedes dejar a una chica esperando.	01:39:06;
+
+[PlayVoice]=01:30:20	Voice01/01-1S/01-1S-M01/01-1S-M01-0380	0	nan	01:39:06;
+
+[PrintText]=01:39:12	Makoto	S...Sí...	01:41:18;
+
+[PlayVoice]=01:39:12	Voice01/01-1S/01-1S-M01/01-1S-M01-0390	1	mak	01:41:18;
+
+[BlackFade]=01:42:04	OUT	01:43:04;
+
+ ;
+
+[Next]=01:43:05;
+
+
+
+

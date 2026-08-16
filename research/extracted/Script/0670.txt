@@ -1,0 +1,211 @@
+﻿[SkipFRAME]=01:45:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	01:45:06;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I04/SE03-KB-I04-001	01:44:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-001	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-002	00:08:05;
+
+[PrintText]=00:02:14	Kotonoha	¡Bienvenidos! ¡Tenemos una casa embrujada aquí! ¡Por favor pase!	00:08:04;
+
+[PlayVoice]=00:02:14	Voice03/03-KB/03-KB-I04/03-KB-I04-0050	0	kot	00:08:04;
+
+[PrintText]=00:08:04	Kumi	Katsura.	00:09:11;
+
+[PlayVoice]=00:08:04	Voice03/03-KB/03-KB-I04/03-KB-I04-0070	0	kum	00:09:11;
+
+[CreateBG]=00:08:05	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-003	00:09:11;
+
+[PrintText]=00:09:10	Kotonoha	Ah ¿Sí?^	00:10:17;
+
+[PlayVoice]=00:09:10	Voice03/03-KB/03-KB-I04/03-KB-I04-0090	0	kot	00:10:17;
+
+[CreateBG]=00:09:11	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-004	00:12:17;
+
+[PrintText]=00:10:17	Kumi	Dame uno.	00:12:00;
+
+[PlayVoice]=00:10:17	Voice03/03-KB/03-KB-I04/03-KB-I04-0100	0	kum	00:12:00;
+
+[PrintText]=00:12:00	Kotonoha	¿Eh?^	00:12:17;
+
+[PlayVoice]=00:12:00	Voice03/03-KB/03-KB-I04/03-KB-I04-0110	0	kot	00:12:17;
+
+[CreateBG]=00:12:17	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-005	00:17:10;
+
+[PrintText]=00:12:17	Kumi	Cielos... lo que está debajo del escritorio. Dame uno.	00:16:15;
+
+[PlayVoice]=00:12:17	Voice03/03-KB/03-KB-I04/03-KB-I04-0120	0	kum	00:16:15;
+
+[PrintText]=00:16:15	Kotonoha	¿Eh...?^	00:17:09;
+
+[PlayVoice]=00:16:15	Voice03/03-KB/03-KB-I04/03-KB-I04-0130	0	kot	00:17:09;
+
+[PrintText]=00:17:09	Kotonoha	Ah...	00:19:01;
+
+[PlayVoice]=00:17:09	Voice03/03-KB/03-KB-I04/03-KB-I04-0150	0	kot	00:19:01;
+
+[CreateBG]=00:17:10	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-006	00:18:05;
+
+[PlayMovie]=00:18:05	Movie03/03-KB/03-KB-I04/03-KB-I04-007	0	00:20:05;
+
+[PrintText]=00:20:04	Kotonoha	Toma.	00:21:00;
+
+[PlayVoice]=00:20:04	Voice03/03-KB/03-KB-I04/03-KB-I04-0170	0	kot	00:21:00;
+
+[CreateBG]=00:20:05	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-008	00:24:12;
+
+[PrintText]=00:21:01	Kumi	Gracias.	00:21:21;
+
+[PlayVoice]=00:21:01	Voice03/03-KB/03-KB-I04/03-KB-I04-0190	0	kum	00:21:21;
+
+[PrintText]=00:21:20	Kotonoha	...	00:24:12;
+
+[PlayVoice]=00:21:20	Voice03/03-KB/03-KB-I04/03-KB-I04-0230	0	xxx	00:24:12;
+
+[CreateBG]=00:24:12	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-009	00:31:05;
+
+[PrintText]=00:24:12	Kotonoha	Si lo llamo o le envío un correo... tal vez... otra vez... me ignore.	00:31:05;
+
+[PlayVoice]=00:24:12	Voice03/03-KB/03-KB-I04/03-KB-I04-0280	0	xxx	00:31:05;
+
+[CreateBG]=00:31:05	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-010	00:38:02;
+
+[PrintText]=00:31:05	Kotonoha	Tendré que hablar con él cara a cara... pero no vendrá...	00:38:01;
+
+[PlayVoice]=00:31:05	Voice03/03-KB/03-KB-I04/03-KB-I04-0290	0	xxx	00:38:01;
+
+[PrintText]=00:38:01	Kotonoha	Ahora como están las cosas... tendré al menos para invitarlo al baile folk... de alguna manera.	00:43:00;
+
+[PlayVoice]=00:38:01	Voice03/03-KB/03-KB-I04/03-KB-I04-0300	0	xxx	00:43:00;
+
+[CreateBG]=00:38:02	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-011	00:43:00;
+
+[PrintText]=00:42:23	Taisuke	Um... ¿Te importaría si entro a la casa embrujada?^	00:47:11;
+
+[PlayVoice]=00:42:23	Voice03/03-KB/03-KB-I04/03-KB-I04-0320	1	tai	00:47:11;
+
+[CreateBG]=00:43:00	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-012	00:50:22;
+
+[PrintText]=00:47:11	Kotonoha	¡¿Fwaah?! ¡Ah, sí! ¡P-Por favor, pase!	00:50:21;
+
+[PlayVoice]=00:47:11	Voice03/03-KB/03-KB-I04/03-KB-I04-0330	0	kot	00:50:21;
+
+[PrintText]=00:50:21	Taisuke	Solo bromeaba.	00:52:07;
+
+[PlayVoice]=00:50:21	Voice03/03-KB/03-KB-I04/03-KB-I04-0340	1	tai	00:52:07;
+
+[CreateBG]=00:50:22	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-013	00:55:19;
+
+[PrintText]=00:52:07	Kotonoha	Ah, Sawanaga... san.	00:55:03;
+
+[PlayVoice]=00:52:07	Voice03/03-KB/03-KB-I04/03-KB-I04-0350	0	kot	00:55:03;
+
+[PrintText]=00:55:04	Taisuke	Hola.	00:55:19;
+
+[PlayVoice]=00:55:04	Voice03/03-KB/03-KB-I04/03-KB-I04-0360	1	tai	00:55:19;
+
+[CreateBG]=00:55:19	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-014	01:00:13;
+
+[PrintText]=00:55:19	Taisuke	Te ves triste.	00:56:22;
+
+[PlayVoice]=00:55:19	Voice03/03-KB/03-KB-I04/03-KB-I04-0380	1	tai	00:56:22;
+
+[PrintText]=00:56:21	Kotonoha	Eso no...	00:58:12;
+
+[PlayVoice]=00:56:21	Voice03/03-KB/03-KB-I04/03-KB-I04-0390	0	kot	00:58:12;
+
+[PrintText]=00:58:12	Taisuke	¿No has hecho las pases con tu novio aún?^	01:00:13;
+
+[PlayVoice]=00:58:12	Voice03/03-KB/03-KB-I04/03-KB-I04-0400	1	tai	01:00:13;
+
+[CreateBG]=01:00:13	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-015	01:01:03;
+
+[PrintText]=01:00:13	Kotonoha	...	01:01:02;
+
+[PlayVoice]=01:00:13	Voice03/03-KB/03-KB-I04/03-KB-I04-0410	0	xxx	01:01:02;
+
+[PrintText]=01:01:02	Taisuke	Ya veo. Es un chico muy tonto ¿Eh?^	01:05:19;
+
+[PlayVoice]=01:01:02	Voice03/03-KB/03-KB-I04/03-KB-I04-0420	1	tai	01:05:19;
+
+[CreateBG]=01:01:03	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-016	01:12:14;
+
+[PrintText]=01:05:19	Kotonoha	¡N-no! La que tiene la culpa... soy yo.	01:11:12;
+
+[PlayVoice]=01:05:19	Voice03/03-KB/03-KB-I04/03-KB-I04-0430	0	kot	01:11:12;
+
+[PrintText]=01:11:12	Taisuke	¿En serio?^	01:12:14;
+
+[PlayVoice]=01:11:12	Voice03/03-KB/03-KB-I04/03-KB-I04-0440	1	tai	01:12:14;
+
+[CreateBG]=01:12:14	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-017	01:21:02;
+
+[PrintText]=01:12:14	Kotonoha	Estaba pensando en llamarlo ayer... pero no tuve el coraje de hacerlo.	01:17:18;
+
+[PlayVoice]=01:12:14	Voice03/03-KB/03-KB-I04/03-KB-I04-0450	0	kot	01:17:18;
+
+[PrintText]=01:17:18	Taisuke	Entonces ¿No lo llamaste?^	01:20:08;
+
+[PlayVoice]=01:17:18	Voice03/03-KB/03-KB-I04/03-KB-I04-0460	1	tai	01:20:08;
+
+[PrintText]=01:20:08	Kotonoha	...No.	01:21:02;
+
+[PlayVoice]=01:20:08	Voice03/03-KB/03-KB-I04/03-KB-I04-0470	0	kot	01:21:02;
+
+[CreateBG]=01:21:02	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-018	01:25:15;
+
+[PrintText]=01:21:02	Taisuke	Bueno, no arreglarán nada así.	01:23:04;
+
+[PlayVoice]=01:21:02	Voice03/03-KB/03-KB-I04/03-KB-I04-0480	1	tai	01:23:04;
+
+[PrintText]=01:23:04	Kotonoha	Sí, es verdad.	01:24:12;
+
+[PlayVoice]=01:23:04	Voice03/03-KB/03-KB-I04/03-KB-I04-0490	0	kot	01:24:12;
+
+[PrintText]=01:24:12	Taisuke	Suena difícil.	01:25:14;
+
+[PlayVoice]=01:24:12	Voice03/03-KB/03-KB-I04/03-KB-I04-0500	1	tai	01:25:14;
+
+[PrintText]=01:25:14	Kotonoha	¿Qué hay de ti Sawanaga-san?^	01:28:05;
+
+[PlayVoice]=01:25:14	Voice03/03-KB/03-KB-I04/03-KB-I04-0510	0	kot	01:28:05;
+
+[CreateBG]=01:25:15	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-019A	01:33:05;
+
+[PrintText]=01:28:05	Taisuke	¿Eh? ¿Yo?^	01:30:01;
+
+[PlayVoice]=01:28:05	Voice03/03-KB/03-KB-I04/03-KB-I04-0520	1	tai	01:30:01;
+
+[PrintText]=01:30:01	Kotonoha	Sí. Dijiste que invitarías a Saionji-san.	01:33:05;
+
+[PlayVoice]=01:30:01	Voice03/03-KB/03-KB-I04/03-KB-I04-0530	0	kot	01:33:05;
+
+[CreateBG]=01:33:05	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-019B	01:36:04;
+
+[PrintText]=01:33:05	Taisuke	Oh, claro, estoy en eso.	01:36:03;
+
+[PlayVoice]=01:33:05	Voice03/03-KB/03-KB-I04/03-KB-I04-0540	1	tai	01:36:03;
+
+[PrintText]=01:36:03	Kotonoha	¿En serio? Qué bien.	01:39:03;
+
+[PlayVoice]=01:36:03	Voice03/03-KB/03-KB-I04/03-KB-I04-0550	0	kot	01:39:03;
+
+[CreateBG]=01:36:04	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-019C	01:39:04;
+
+[PrintText]=01:39:03	Taisuke	Es solo que no sé dónde está ahora mismo.	01:43:10;
+
+[PlayVoice]=01:39:03	Voice03/03-KB/03-KB-I04/03-KB-I04-0560	1	tai	01:43:10;
+
+[CreateBG]=01:39:04	BGS	Event03/03-KB/03-KB-I04/03-KB-I04-020	01:45:06;
+
+[PrintText]=01:43:10	Kotonoha	Ya veo...	01:45:05;
+
+[PlayVoice]=01:43:10	Voice03/03-KB/03-KB-I04/03-KB-I04-0570	0	kot	01:45:05;
+
+ ;
+
+[Next]=01:45:06;
+
+

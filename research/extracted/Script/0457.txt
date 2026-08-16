@@ -1,0 +1,293 @@
+﻿[SkipFRAME]=03:54:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	01:05:16;
+
+[PlaySe]=00:00:00	1	Se03/03-B2/03-B2-B00/SE03-B2-B00-001	01:07:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-001	00:01:06;
+
+[PrintText]=00:00:05	Sekai	...	00:01:01;
+
+[PlayVoice]=00:00:05	Voice03/03-B2/03-B2-B00/03-B2-B00-0050	0	xxx	00:01:01;
+
+[CreateBG]=00:01:06	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-002	00:02:15;
+
+[PrintText]=00:01:11	Taisuke	Saionji.	00:02:14;
+
+[PlayVoice]=00:01:11	Voice03/03-B2/03-B2-B00/03-B2-B00-0070	1	tai	00:02:14;
+
+[CreateBG]=00:02:15	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-003	00:03:22;
+
+[PrintText]=00:02:15	Sekai	Sawanaga.	00:03:22;
+
+[PlayVoice]=00:02:15	Voice03/03-B2/03-B2-B00/03-B2-B00-0090	0	sek	00:03:22;
+
+[PrintText]=00:03:21	Taisuke	El evento de la fogata acaba de empezar, sabes.	00:05:15;
+
+[PlayVoice]=00:03:21	Voice03/03-B2/03-B2-B00/03-B2-B00-0100	1	tai	00:05:15;
+
+[CreateBG]=00:03:22	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-004	00:08:05;
+
+[PrintText]=00:05:15	Sekai	S-Sí.	00:07:03;
+
+[PlayVoice]=00:05:15	Voice03/03-B2/03-B2-B00/03-B2-B00-0110	0	sek	00:07:03;
+
+[PrintText]=00:07:03	Taisuke	¿No vas a ir?^	00:08:04;
+
+[PlayVoice]=00:07:03	Voice03/03-B2/03-B2-B00/03-B2-B00-0120	1	tai	00:08:04;
+
+[CreateBG]=00:08:05	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-005	00:11:12;
+
+[PrintText]=00:08:05	Sekai	Solo miraré desde aquí por un momento.	00:11:11;
+
+[PlayVoice]=00:08:05	Voice03/03-B2/03-B2-B00/03-B2-B00-0130	0	sek	00:11:11;
+
+[PrintText]=00:11:11	Taisuke	...	00:12:10;
+
+[PlayVoice]=00:11:11	Voice03/03-B2/03-B2-B00/03-B2-B00-0140	1	xxx	00:12:10;
+
+[CreateBG]=00:11:12	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-006	00:12:10;
+
+[CreateBG]=00:12:10	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-007	00:19:00;
+
+[PrintText]=00:12:10	Sekai	Haha, no te preocupes. Solo estoy un poco cansada, eso es todo.	00:17:15;
+
+[PlayVoice]=00:12:10	Voice03/03-B2/03-B2-B00/03-B2-B00-0150	0	sek	00:17:15;
+
+[PrintText]=00:17:15	Taisuke	Escucha, le pedí a Katsura que te llamara hoy...	00:24:18;
+
+[PlayVoice]=00:17:15	Voice03/03-B2/03-B2-B00/03-B2-B00-0160	1	tai	00:24:18;
+
+[CreateBG]=00:19:00	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-008	00:24:19;
+
+[PrintText]=00:24:18	Sekai	Ah. ¿Tú eras el que quería invitarme?^	00:28:21;
+
+[PlayVoice]=00:24:18	Voice03/03-B2/03-B2-B00/03-B2-B00-0170	0	sek	00:28:21;
+
+[CreateBG]=00:24:19	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-003	00:30:01;
+
+[PrintText]=00:28:20	Taisuke	S-Sí.	00:30:00;
+
+[PlayVoice]=00:28:20	Voice03/03-B2/03-B2-B00/03-B2-B00-0180	1	tai	00:30:00;
+
+[PrintText]=00:30:00	Sekai	Lo siento, pero paso. No estoy de humor.	00:35:02;
+
+[PlayVoice]=00:30:00	Voice03/03-B2/03-B2-B00/03-B2-B00-0190	0	sek	00:35:02;
+
+[CreateBG]=00:30:01	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-007	00:37:23;
+
+[PrintText]=00:35:02	Taisuke	P-Pero...	00:37:03;
+
+[PlayVoice]=00:35:02	Voice03/03-B2/03-B2-B00/03-B2-B00-0200	1	tai	00:37:03;
+
+[PrintText]=00:37:03	Sekai	Lo siento mucho...	00:37:23;
+
+[PlayVoice]=00:37:03	Voice03/03-B2/03-B2-B00/03-B2-B00-0210	0	sek	00:37:23;
+
+[CreateBG]=00:37:23	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-011	00:40:16;
+
+[PrintText]=00:37:23	Taisuke	...Está bien.	00:40:15;
+
+[PlayVoice]=00:37:23	Voice03/03-B2/03-B2-B00/03-B2-B00-0220	1	tai	00:40:15;
+
+[CreateBG]=00:40:16	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-012	00:42:16;
+
+[PrintText]=00:41:07	Sekai	Haah...	00:42:04;
+
+[PlayVoice]=00:41:07	Voice03/03-B2/03-B2-B00/03-B2-B00-0250	0	sek	00:42:04;
+
+[CreateBG]=00:42:16	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-013	01:01:13;
+
+[PrintText]=00:42:17	Makoto	Hey.	00:43:10;
+
+[PlayVoice]=00:42:17	Voice03/03-B2/03-B2-B00/03-B2-B00-0270	1	mak	00:43:10;
+
+[PrintText]=00:43:10	Sekai	Eh...	00:43:23;
+
+[PlayVoice]=00:43:10	Voice03/03-B2/03-B2-B00/03-B2-B00-0280	0	sek	00:43:23;
+
+[PrintText]=00:43:23	Makoto	¿Qué haces sentada aquí? ¿Estás cansada?^	00:47:07;
+
+[PlayVoice]=00:43:23	Voice03/03-B2/03-B2-B00/03-B2-B00-0290	1	mak	00:47:07;
+
+[PrintText]=00:47:06	Sekai	Ah... no.	00:49:09;
+
+[PlayVoice]=00:47:06	Voice03/03-B2/03-B2-B00/03-B2-B00-0300	0	sek	00:49:09;
+
+[PrintText]=00:49:09	Makoto	Estoy acabado. Taisuke no regresó hasta la tarde, y estuve en la cocina todo el tiempo.	00:55:17;
+
+[PlayVoice]=00:49:09	Voice03/03-B2/03-B2-B00/03-B2-B00-0310	1	mak	00:59:00;
+
+[PrintText]=00:55:17	Makoto	Y una vez que salí, Katou me agarró y me arrastro a caminar.	00:59:00;
+
+[PrintText]=00:59:00	Sekai	Ya veo.	01:00:00;
+
+[PlayVoice]=00:59:00	Voice03/03-B2/03-B2-B00/03-B2-B00-0320	0	sek	01:00:00;
+
+[PrintText]=01:00:00	Makoto	Ven, vamos.	01:00:22;
+
+[PlayVoice]=01:00:00	Voice03/03-B2/03-B2-B00/03-B2-B00-0330	1	mak	01:00:22;
+
+[PrintText]=01:00:23	Sekai	¿Eh...?^	01:01:12;
+
+[PlayVoice]=01:00:23	Voice03/03-B2/03-B2-B00/03-B2-B00-0340	0	sek	01:01:12;
+
+[PrintText]=01:01:12	Makoto	¿No irás a bailar?^	01:02:13;
+
+[PlayVoice]=01:01:12	Voice03/03-B2/03-B2-B00/03-B2-B00-0350	1	mak	01:02:13;
+
+[CreateBG]=01:01:13	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-014	01:02:14;
+
+[PrintText]=01:02:13	Sekai	Ah...	01:03:16;
+
+[PlayVoice]=01:02:13	Voice03/03-B2/03-B2-B00/03-B2-B00-0360	0	sek	01:03:16;
+
+[PlayMovie]=01:02:14	Movie03/03-B2/03-B2-B00/03-B2-B00-015	0	01:07:12;
+
+[PrintText]=01:03:15	Makoto	El baile folk quiero decir.	01:05:15;
+
+[PlayVoice]=01:03:15	Voice03/03-B2/03-B2-B00/03-B2-B00-0370	1	mak	01:05:15;
+
+[PrintText]=01:05:16	Sekai	S-Sí!	01:07:12;
+
+[PlayVoice]=01:05:16	Voice03/03-B2/03-B2-B00/03-B2-B00-0380	0	sek	01:07:12;
+
+[PlayMovie]=01:07:12	Movie03/03-B2/03-B2-B00/03-B2-B00-016	0	01:17:12;
+
+[PlaySe]=01:08:01	2	Se03/03-B2/03-B2-B00/SE03-B2-B00-002	02:21:05;
+
+[PlayMovie]=01:17:12	Movie03/03-B2/03-B2-B00/03-B2-B00-017	0	02:21:06;
+
+[BlackFade]=02:20:06	OUT	02:21:06;
+
+[PlayBgm]=02:20:16	BGM/SD_BGM/sdbgm07	03:07:16;
+
+[PlaySe]=02:21:06	1	Se03/03-B2/03-B2-B00/SE03-B2-B00-001	03:11:02;
+
+[CreateBG]=02:21:06	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-021	02:25:01;
+
+[PrintText]=02:21:06	Sekai	Haah... estuvo divertido.	02:24:08;
+
+[PlayVoice]=02:21:06	Voice03/03-B2/03-B2-B00/03-B2-B00-0440	0	sek	02:24:08;
+
+[PrintText]=02:24:09	Makoto	Sí.	02:25:01;
+
+[PlayVoice]=02:24:09	Voice03/03-B2/03-B2-B00/03-B2-B00-0450	1	mak	02:25:01;
+
+[CreateBG]=02:25:01	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-022	02:33:17;
+
+[PrintText]=02:25:01	Sekai	U-um... escucha...	02:27:18;
+
+[PlayVoice]=02:25:01	Voice03/03-B2/03-B2-B00/03-B2-B00-0460	0	sek	02:27:18;
+
+[PrintText]=02:27:18	Makoto	¿Qué pasa?^	02:29:04;
+
+[PlayVoice]=02:27:18	Voice03/03-B2/03-B2-B00/03-B2-B00-0470	1	mak	02:29:04;
+
+[PrintText]=02:29:04	Sekai	Conoces el significado del baile folk ¿No?^	02:33:16;
+
+[PlayVoice]=02:29:04	Voice03/03-B2/03-B2-B00/03-B2-B00-0480	0	sek	02:33:16;
+
+[PrintText]=02:33:16	Makoto	¿Eh? ¿Qué hay con eso?^	02:35:10;
+
+[PlayVoice]=02:33:16	Voice03/03-B2/03-B2-B00/03-B2-B00-0490	1	mak	02:35:10;
+
+[CreateBG]=02:33:17	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-023	02:35:11;
+
+[PrintText]=02:35:10	Sekai	Eheheh... no es nada.	02:38:11;
+
+[PlayVoice]=02:35:10	Voice03/03-B2/03-B2-B00/03-B2-B00-0500	0	sek	02:38:11;
+
+[CreateBG]=02:35:11	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-024	02:38:17;
+
+[CreateBG]=02:38:17	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-025	02:45:15;
+
+[PrintText]=02:39:00	Sekai	Haah... estuvo divertido.	02:42:07;
+
+[PlayVoice]=02:39:00	Voice03/03-B2/03-B2-B00/03-B2-B00-0550	0	sek	02:42:07;
+
+[PrintText]=02:42:07	Makoto	Sí...	02:43:01;
+
+[PlayVoice]=02:42:07	Voice03/03-B2/03-B2-B00/03-B2-B00-0560	1	mak	02:43:01;
+
+[PrintText]=02:43:01	Sekai	H-hey.	02:45:00;
+
+[PlayVoice]=02:43:01	Voice03/03-B2/03-B2-B00/03-B2-B00-0590	0	sek	02:45:00;
+
+[PrintText]=02:45:00	Makoto	¿Hmn?^	02:45:15;
+
+[PlayVoice]=02:45:00	Voice03/03-B2/03-B2-B00/03-B2-B00-0600	1	mak	02:45:15;
+
+[PlayMovie]=02:45:15	Movie03/03-B2/03-B2-B00/03-B2-B00-026	0	03:07:15;
+
+[PrintText]=02:45:15	Sekai	¿Está bien si me quedo?..	02:48:13;
+
+[PlayVoice]=02:45:15	Voice03/03-B2/03-B2-B00/03-B2-B00-0610	0	sek	02:48:13;
+
+[PrintText]=02:48:13	Makoto	¿Te quedas...?^	02:49:08;
+
+[PlayVoice]=02:48:13	Voice03/03-B2/03-B2-B00/03-B2-B00-0620	1	mak	02:49:08;
+
+[PrintText]=02:49:08	Sekai	A tu lado...	02:51:04;
+
+[PlayVoice]=02:49:08	Voice03/03-B2/03-B2-B00/03-B2-B00-0630	0	sek	02:51:04;
+
+[PrintText]=02:51:05	Makoto	¿Eh...?^	02:52:05;
+
+[PlayVoice]=02:51:05	Voice03/03-B2/03-B2-B00/03-B2-B00-0640	1	mak	02:52:05;
+
+[PrintText]=02:52:05	Sekai	¿Puedo volver a estar contigo otra vez?^	02:56:05;
+
+[PlayVoice]=02:52:05	Voice03/03-B2/03-B2-B00/03-B2-B00-0650	0	sek	02:56:05;
+
+[PrintText]=02:56:05	Makoto	...	02:57:04;
+
+[PlayVoice]=02:56:05	Voice03/03-B2/03-B2-B00/03-B2-B00-0660	1	xxx	02:57:04;
+
+[PrintText]=02:57:04	Sekai	No me importa si es como el reemplazo de Katsura-san...	02:59:07;
+
+[PlayVoice]=02:57:04	Voice03/03-B2/03-B2-B00/03-B2-B00-0670	0	sek	02:59:07;
+
+[PrintText]=02:59:07	Makoto	Eso...	03:00:18;
+
+[PlayVoice]=02:59:07	Voice03/03-B2/03-B2-B00/03-B2-B00-0680	1	mak	03:00:18;
+
+[PrintText]=03:00:18	Sekai	Quiero estar ahí... contigo.	03:03:20;
+
+[PlayVoice]=03:00:18	Voice03/03-B2/03-B2-B00/03-B2-B00-0690	0	sek	03:03:20;
+
+[PrintText]=03:03:20	Makoto	...	03:04:07;
+
+[PlayVoice]=03:03:20	Voice03/03-B2/03-B2-B00/03-B2-B00-0700	1	xxx	03:04:07;
+
+[PrintText]=03:04:08	Sekai	¿Está bien, entonces?^	03:05:11;
+
+[PlayVoice]=03:04:08	Voice03/03-B2/03-B2-B00/03-B2-B00-0710	0	sek	03:05:11;
+
+[PrintText]=03:05:11	Makoto	...Sí.	03:06:02;
+
+[PlayVoice]=03:05:11	Voice03/03-B2/03-B2-B00/03-B2-B00-0730	1	mak	03:06:02;
+
+[PrintText]=03:06:02	Sekai	Eheheh...	03:07:12;
+
+[PlayVoice]=03:06:02	Voice03/03-B2/03-B2-B00/03-B2-B00-0740	0	sek	03:07:12;
+
+[EndBGM]=03:06:12	BGM/Vocal/SDV04	05:17:05;
+
+[CreateBG]=03:07:15	BGS	Event03/03-B2/03-B2-B00/03-B2-B00-027	03:11:02;
+
+[PrintText]=03:07:21	Taisuke	Aw, Cielos.	03:09:16;
+
+[PlayVoice]=03:07:21	Voice03/03-B2/03-B2-B00/03-B2-B00-0760	1	tai	03:09:16;
+
+[BlackFade]=03:10:02	OUT	03:11:02;
+
+[CreateBG]=03:11:02	BGS	Ini/EndRoll/03-04	03:14:00;
+
+[EndRoll]=03:14:00	Ini/EndRoll/NORMAL	03:54:00;
+
+ ;
+
+[Next]=03:54:00;
+
+

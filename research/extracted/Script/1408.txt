@@ -1,0 +1,161 @@
+﻿[SkipFRAME]=02:08:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:08:16;
+
+[PlayMovie]=00:00:00	Movie05/05-B0/05-B0-D05/05-B0-D05-001	0	01:08:16;
+
+[PrintText]=00:00:11	Sekai	¡Ah... ah...! Ah... Voy a...	00:05:07;
+
+[PlayVoice]=00:00:11	Voice05/05-B0/05-B0-D05/05-B0-D05-0050	0	sek	00:05:07;
+
+[PrintText]=00:05:00	Makoto	Haah... haah...	00:08:09;
+
+[PlayVoice]=00:05:00	Voice05/05-B0/05-B0-D05/05-B0-D05-0060	1	mak	00:08:09;
+
+[PrintText]=00:09:01	Sekai	¡Voy a... venirme otra vez... voy a venirme...!	00:13:22;
+
+[PlayVoice]=00:09:01	Voice05/05-B0/05-B0-D05/05-B0-D05-0070	0	sek	00:13:22;
+
+[PrintText]=00:13:22	Makoto	¡También yo!	00:16:14;
+
+[PlayVoice]=00:13:22	Voice05/05-B0/05-B0-D05/05-B0-D05-0080	1	mak	00:16:14;
+
+[PrintText]=00:17:12	Sekai	Hey... Makoto... ¿Juntos...?^	00:23:21;
+
+[PlayVoice]=00:17:12	Voice05/05-B0/05-B0-D05/05-B0-D05-0090	0	sek	00:23:21;
+
+[PrintText]=00:23:21	Makoto	Ya sé.	00:26:03;
+
+[PlayVoice]=00:23:21	Voice05/05-B0/05-B0-D05/05-B0-D05-0100	1	mak	00:26:03;
+
+[PrintText]=00:26:15	Sekai	Haah... vamos a venirnos juntos... dame toda tu caliente...	00:34:10;
+
+[PlayVoice]=00:26:15	Voice05/05-B0/05-B0-D05/05-B0-D05-0110	0	sek	00:34:10;
+
+[PrintText]=00:34:11	Makoto	¡Haah!	00:44:17;
+
+[PlayVoice]=00:34:11	Voice05/05-B0/05-B0-D05/05-B0-D05-0120	1	mak	00:44:17;
+
+[PrintText]=00:40:00	Sekai	¡Haah... Voy...a  venirme... uuh..! ¡Ahaah... ah...aaah!	00:47:18;
+
+[PlayVoice]=00:40:00	Voice05/05-B0/05-B0-D05/05-B0-D05-0130	0	sek	00:47:18;
+
+[PrintText]=00:47:21	Sekai	Haah... haah... está... tan caliente...	00:57:05;
+
+[PlayVoice]=00:47:21	Voice05/05-B0/05-B0-D05/05-B0-D05-0140	0	sek	00:57:05;
+
+[PrintText]=00:57:05	Makoto	Sí.	00:58:05;
+
+[PlayVoice]=00:57:05	Voice05/05-B0/05-B0-D05/05-B0-D05-0150	1	mak	00:58:05;
+
+[PrintText]=00:59:10	Sekai	Hey... Makoto.	01:02:20;
+
+[PlayVoice]=00:59:10	Voice05/05-B0/05-B0-D05/05-B0-D05-0160	0	sek	01:02:20;
+
+[PrintText]=01:02:22	Makoto	¿Hmn?^	01:03:14;
+
+[PlayVoice]=01:02:22	Voice05/05-B0/05-B0-D05/05-B0-D05-0170	1	mak	01:03:14;
+
+[PrintText]=01:04:09	Sekai	Te amo.	01:07:10;
+
+[PlayVoice]=01:04:09	Voice05/05-B0/05-B0-D05/05-B0-D05-0180	0	sek	01:07:10;
+
+[PlayBgm]=01:08:16	BGM/SD_BGM/sdbgm23	01:45:19;
+
+[PlayMovie]=01:08:16	Movie05/05-B0/05-B0-D05/05-B0-D05-002	0	01:14:23;
+
+[PrintText]=01:09:14	Kotonoha	Makoto-kun.	01:10:19;
+
+[PlayVoice]=01:09:14	Voice05/05-B0/05-B0-D05/05-B0-D05-0200	0	kot	01:10:19;
+
+[PlayMovie]=01:14:23	Movie05/05-B0/05-B0-D05/05-B0-D05-003	0	01:16:19;
+
+[PlayMovie]=01:16:19	Movie05/05-B0/05-B0-D05/05-B0-D05-004	0	01:20:07;
+
+[PrintText]=01:17:00	Kotonoha	Ah...	01:17:15;
+
+[PlayVoice]=01:17:00	Voice05/05-B0/05-B0-D05/05-B0-D05-0230	0	kot	01:17:15;
+
+[PlayMovie]=01:20:07	Movie05/05-B0/05-B0-D05/05-B0-D05-005	0	01:31:07;
+
+[PrintText]=01:21:19	Kotonoha	Ya lo entiendo...	01:23:07;
+
+[PlayVoice]=01:21:19	Voice05/05-B0/05-B0-D05/05-B0-D05-0250	0	kot	01:23:07;
+
+[PrintText]=01:24:09	Kotonoha	Ahah...	01:26:05;
+
+[PlayVoice]=01:24:09	Voice05/05-B0/05-B0-D05/05-B0-D05-0270	0	kot	01:26:05;
+
+[PrintText]=01:26:21	Kotonoha	Sí...	01:29:10;
+
+[PlayVoice]=01:26:21	Voice05/05-B0/05-B0-D05/05-B0-D05-0280	0	kot	01:29:10;
+
+[PrintText]=01:29:22	Kotonoha	¡Aha... ahaha... kuh...! ¡Uwahh...! ¡Haha...! ¡Ahahaha...!	01:39:13;
+
+[PlayVoice]=01:29:22	Voice05/05-B0/05-B0-D05/05-B0-D05-0290	0	kot	01:39:13;
+
+[PlayMovie]=01:31:07	Movie05/05-B0/05-B0-D05/05-B0-D05-006	0	01:39:07;
+
+[PlayMovie]=01:39:07	Movie05/05-B0/05-B0-D05/05-B0-D05-007	0	01:45:19;
+
+[PrintText]=01:39:15	Kotonoha	¡Sí... kuh...! ¡Ahaha... ha!	01:45:19;
+
+[PlayVoice]=01:39:15	Voice05/05-B0/05-B0-D05/05-B0-D05-0300	0	kot	01:45:19;
+
+[CreateBG]=01:45:19	BGS	Event05/05-B0/05-B0-D05/05-B0-D05-009	01:47:06;
+
+[PrintText]=01:45:19	Makoto	¿Huh?^	01:47:05;
+
+[PlayVoice]=01:45:19	Voice05/05-B0/05-B0-D05/05-B0-D05-0340	1	mak	01:47:05;
+
+[CreateBG]=01:47:06	BGS	Event05/05-B0/05-B0-D05/05-B0-D05-010	01:48:08;
+
+[PrintText]=01:47:06	Sekai	¿Qué pasa?^	01:48:06;
+
+[PlayVoice]=01:47:06	Voice05/05-B0/05-B0-D05/05-B0-D05-0360	0	sek	01:48:06;
+
+[PrintText]=01:48:07	Makoto	Pensé ver algo en el balcón...	01:52:08;
+
+[PlayVoice]=01:48:07	Voice05/05-B0/05-B0-D05/05-B0-D05-0380	1	mak	01:52:08;
+
+[CreateBG]=01:48:08	BGS	Event05/05-B0/05-B0-D05/05-B0-D05-013	01:56:04;
+
+[PrintText]=01:52:09	Makoto	¿O es solo mi imaginación...? ¿Hmn?^	01:56:04;
+
+[PlayVoice]=01:52:09	Voice05/05-B0/05-B0-D05/05-B0-D05-0400	1	mak	01:56:04;
+
+[PlayMovie]=01:56:04	Movie05/05-B0/05-B0-D05/05-B0-D05-012	0	02:05:04;
+
+[PrintText]=01:56:04	Sekai	¿Pasa algo?^	01:57:16;
+
+[PlayVoice]=01:56:04	Voice05/05-B0/05-B0-D05/05-B0-D05-0410	0	sek	01:57:16;
+
+[PrintText]=01:57:04	Makoto	¿Qué pasó aquí...? Está mojado.	02:01:08;
+
+[PlayVoice]=01:57:04	Voice05/05-B0/05-B0-D05/05-B0-D05-0420	1	mak	02:01:08;
+
+[PrintText]=02:01:02	Sekai	¿Lluvia?^	02:01:22;
+
+[PlayVoice]=02:01:02	Voice05/05-B0/05-B0-D05/05-B0-D05-0430	0	sek	02:01:22;
+
+[PrintText]=02:01:19	Makoto	No, no es eso.	02:04:22;
+
+[PlayVoice]=02:01:19	Voice05/05-B0/05-B0-D05/05-B0-D05-0440	1	mak	02:04:22;
+
+[CreateBG]=02:05:04	BGS	Event05/05-B0/05-B0-D05/05-B0-D05-013	02:08:21;
+
+[PrintText]=02:05:04	Sekai	Qué extraño.	02:06:14;
+
+[PlayVoice]=02:05:04	Voice05/05-B0/05-B0-D05/05-B0-D05-0450	0	sek	02:06:14;
+
+[PrintText]=02:06:06	Makoto	Sí...	02:07:18;
+
+[PlayVoice]=02:06:06	Voice05/05-B0/05-B0-D05/05-B0-D05-0460	1	mak	02:07:18;
+
+[BlackFade]=02:07:21	OUT	02:08:21;
+
+ ;
+
+[Next]=02:08:21;
+
+

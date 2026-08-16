@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:05:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:11:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-D06/03-KB-D06-001	00:02:21;
+
+[PrintText]=00:00:00	Makoto	Eso no es verdad.	00:01:16;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-D06/03-KB-D06-0030	1	mak	00:01:16;
+
+[PrintText]=00:01:16	Taisuke	...	00:02:20;
+
+[PlayVoice]=00:01:16	Voice03/03-KB/03-KB-D06/03-KB-D06-0040	1	xxx	00:02:20;
+
+[PrintText]=00:02:20	Makoto	Yo...	00:03:23;
+
+[PlayVoice]=00:02:20	Voice03/03-KB/03-KB-D06/03-KB-D06-0050	1	mak	00:03:23;
+
+[CreateBG]=00:02:21	BGS	Event03/03-KB/03-KB-D06/03-KB-D06-002	00:11:22;
+
+[PrintText]=00:04:00	Taisuke	Uh-huh.	00:05:07;
+
+[PlayVoice]=00:04:00	Voice03/03-KB/03-KB-D06/03-KB-D06-0060	1	tai	00:05:07;
+
+[PrintText]=00:05:06	Makoto	Yo...	00:06:07;
+
+[PlayVoice]=00:05:06	Voice03/03-KB/03-KB-D06/03-KB-D06-0070	1	mak	00:06:07;
+
+[SetSELECT]=00:05:21	'Ya no tengo nada con esa chica'	'Estoy enamorado de Sekai'	00:10:21;
+
+ ;
+
+[Next]=00:11:22;
+
+

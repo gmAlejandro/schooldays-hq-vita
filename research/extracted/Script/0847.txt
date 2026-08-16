@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=00:54:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:54:23;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H04/SE03-SB-H04-001	00:54:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-001	00:01:16;
+
+[PrintText]=00:00:00	Makoto	¿Qué hay de ti?^	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-H04/03-SB-H04-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:00	Kotonoha	¿Eh?^	00:01:15;
+
+[PlayVoice]=00:01:00	Voice03/03-SB/03-SB-H04/03-SB-H04-0040	0	kot	00:01:15;
+
+[PrintText]=00:01:15	Makoto	¿Hay algún lugar a donde quieras ir?^	00:04:18;
+
+[PlayVoice]=00:01:15	Voice03/03-SB/03-SB-H04/03-SB-H04-0050	1	mak	00:04:18;
+
+[CreateBG]=00:01:16	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-002	00:08:01;
+
+[PrintText]=00:04:18	Kotonoha	¿Y-Yo?^	00:07:11;
+
+[PlayVoice]=00:04:18	Voice03/03-SB/03-SB-H04/03-SB-H04-0060	0	kot	00:07:11;
+
+[PrintText]=00:07:11	Makoto	Uh-huh.	00:08:02;
+
+[PlayVoice]=00:07:11	Voice03/03-SB/03-SB-H04/03-SB-H04-0070	1	mak	00:08:02;
+
+[CreateBG]=00:08:00	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-003	00:13:08;
+
+[PrintText]=00:08:01	Kotonoha	Yo... sí, al adivino de ahí.	00:13:06;
+
+[PlayVoice]=00:08:01	Voice03/03-SB/03-SB-H04/03-SB-H04-0080	0	kot	00:13:06;
+
+[PrintText]=00:13:06	Makoto	Ah, ese que está al costado de nuestra clase.	00:15:20;
+
+[PlayVoice]=00:13:06	Voice03/03-SB/03-SB-H04/03-SB-H04-0090	1	mak	00:15:20;
+
+[CreateBG]=00:13:07	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-004	00:19:10;
+
+[PrintText]=00:15:20	Kotonoha	Sí.	00:16:17;
+
+[PlayVoice]=00:15:20	Voice03/03-SB/03-SB-H04/03-SB-H04-0100	0	kot	00:16:17;
+
+[PrintText]=00:16:17	Makoto	¿Te gusta esas cosas de la fortuna?^	00:19:10;
+
+[PlayVoice]=00:16:17	Voice03/03-SB/03-SB-H04/03-SB-H04-0110	1	mak	00:19:10;
+
+[CreateBG]=00:19:10	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-005	00:23:15;
+
+[PrintText]=00:19:10	Kotonoha	No del todo... pero como toda persona sí...	00:23:16;
+
+[PlayVoice]=00:19:10	Voice03/03-SB/03-SB-H04/03-SB-H04-0120	0	kot	00:23:16;
+
+[CreateBG]=00:23:15	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-006	00:25:15;
+
+[PrintText]=00:23:16	Makoto	¿En que sueles pedir la fortuna?^	00:25:15;
+
+[PlayVoice]=00:23:16	Voice03/03-SB/03-SB-H04/03-SB-H04-0130	1	mak	00:25:15;
+
+[CreateBG]=00:25:15	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-006B	00:36:22;
+
+[PrintText]=00:25:15	Kotonoha	Bueno, usualmente lo consulto en la revista Grebel o Choushinri Shugosei... lo usual.	00:36:06;
+
+[PlayVoice]=00:25:15	Voice03/03-SB/03-SB-H04/03-SB-H04-0140	0	kot	00:36:06;
+
+[PrintText]=00:36:06	Makoto	No estoy seguro si lo entiendo ¿Pero se supone que eso es 'normal'?^	00:40:20;
+
+[PlayVoice]=00:36:06	Voice03/03-SB/03-SB-H04/03-SB-H04-0150	1	mak	00:40:20;
+
+[CreateBG]=00:36:22	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-006C	00:44:18;
+
+[PrintText]=00:40:20	Kotonoha	Es normal para una chica que le digan su fortuna sabes.	00:44:20;
+
+[PlayVoice]=00:40:20	Voice03/03-SB/03-SB-H04/03-SB-H04-0160	0	kot	00:44:20;
+
+[CreateBG]=00:44:18	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-007	00:49:23;
+
+[PrintText]=00:44:20	Makoto	Bueno, creo que tienes razón. A las chicas les gustan estas cosas de la fortuna ¿Deberíamos?^	00:53:07;
+
+[PlayVoice]=00:44:20	Voice03/03-SB/03-SB-H04/03-SB-H04-0170	1	mak	00:53:07;
+
+[CreateBG]=00:49:23	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-008	00:54:23;
+
+[PrintText]=00:53:07	Kotonoha	Sí.	00:54:02;
+
+[PlayVoice]=00:53:07	Voice03/03-SB/03-SB-H04/03-SB-H04-0180	0	kot	00:54:02;
+
+ ;
+
+[Next]=00:54:23;
+
+

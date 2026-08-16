@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:52:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:52:20;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-S01/SE01-00-S01-001	00:52:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-S01/01-00-S01-001	00:01:03;
+
+[PrintText]=00:00:00	Makoto	No!	00:01:03;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-S01/01-00-S01-0030	1	mak	00:01:03;
+
+[CreateBG]=00:01:03	BGS	Event01/01-00/01-00-S01/01-00-S01-002	00:02:19;
+
+[PrintText]=00:01:03	Sekai	¿Ehhh?^	00:02:19;
+
+[PlayVoice]=00:01:03	Voice01/01-00/01-00-S01/01-00-S01-0040	0	sek	00:02:19;
+
+[CreateBG]=00:02:19	BGS	Event01/01-00/01-00-S01/01-00-S01-003	00:08:03;
+
+[PrintText]=00:02:19	Makoto	Sí Katsura viene, podría confundirlo todo.	00:08:06;
+
+[PlayVoice]=00:02:19	Voice01/01-00/01-00-S01/01-00-S01-0050	1	mak	00:08:06;
+
+[PrintText]=00:07:10	Sekai	No es verdad, ella de seguro diría 'Tu manera de dormir a simple vista es hermosa, toma una recompensa'.	00:15:19;
+
+[PlayVoice]=00:07:10	Voice01/01-00/01-00-S01/01-00-S01-0060	0	sek	00:15:19;
+
+[CreateBG]=00:08:03	BGS	Event01/01-00/01-00-S01/01-00-S01-004	00:16:20;
+
+[PrintText]=00:15:11	Makoto	Como si fuera a decir eso, idiota.	00:16:18;
+
+[PlayVoice]=00:15:11	Voice01/01-00/01-00-S01/01-00-S01-0070	1	mak	00:16:18;
+
+[CreateBG]=00:16:20	BGS	Event01/01-00/01-00-S01/01-00-S01-005	00:22:07;
+
+[PrintText]=00:16:20	Sekai	Uuu... Pero me siento muy cansada.	00:20:12;
+
+[PlayVoice]=00:16:20	Voice01/01-00/01-00-S01/01-00-S01-0080	0	sek	00:20:12;
+
+[PrintText]=00:20:12	Makoto	No tienes que...	00:22:06;
+
+[PlayVoice]=00:20:12	Voice01/01-00/01-00-S01/01-00-S01-0090	1	mak	00:22:06;
+
+[CreateBG]=00:22:07	BGS	Event01/01-00/01-00-S01/01-00-S01-006	00:40:19;
+
+[PrintText]=00:22:07	Sekai	Fwaah... No es bueno... Volveré a clase para ir a dormir.	00:29:03;
+
+[PlayVoice]=00:22:07	Voice01/01-00/01-00-S01/01-00-S01-0100	0	sek	00:29:03;
+
+[PrintText]=00:29:03	Makoto	¡Ah, Sekai!	00:30:17;
+
+[PlayVoice]=00:29:03	Voice01/01-00/01-00-S01/01-00-S01-0110	1	mak	00:30:17;
+
+[PrintText]=00:30:18	Sekai	¡Bueno, sospecho de que luego me estarás hablando de lo bonito que estuvo tu almuerzo con Katsura-san!	00:39:03;
+
+[PlayVoice]=00:30:18	Voice01/01-00/01-00-S01/01-00-S01-0120	0	sek	00:39:03;
+
+[PrintText]=00:39:03	Makoto	Eso es, si viene.	00:40:18;
+
+[PlayVoice]=00:39:03	Voice01/01-00/01-00-S01/01-00-S01-0130	1	mak	00:40:18;
+
+[CreateBG]=00:40:19	BGS	Event01/01-00/01-00-S01/01-00-S01-007	00:47:11;
+
+[PrintText]=00:40:19	Sekai	Sí... bueno, me voy.	00:43:06;
+
+[PlayVoice]=00:40:19	Voice01/01-00/01-00-S01/01-00-S01-0140	0	sek	00:43:06;
+
+[PrintText]=00:43:06	Makoto	Vale.	00:43:21;
+
+[PlayVoice]=00:43:06	Voice01/01-00/01-00-S01/01-00-S01-0150	1	mak	00:43:21;
+
+[PrintText]=00:45:07	Sekai	¿Katsura-san...?^	00:46:11;
+
+[PlayVoice]=00:45:07	Voice01/01-00/01-00-S01/01-00-S01-0170	0	sek	00:46:11;
+
+[PrintText]=00:46:09	Makoto	¿Paso algo?^	00:47:07;
+
+[PlayVoice]=00:46:09	Voice01/01-00/01-00-S01/01-00-S01-0180	1	mak	00:47:07;
+
+[CreateBG]=00:47:11	BGS	Event01/01-00/01-00-S01/01-00-S01-008	00:52:20;
+
+[PrintText]=00:47:13	Sekai	Ah... no, no es nada.	00:49:21;
+
+[PlayVoice]=00:47:13	Voice01/01-00/01-00-S01/01-00-S01-0190	0	sek	00:49:21;
+
+[PlaySe]=00:51:09	2	Voice01/01-00/01-00-S01/01-00-S01-0200	00:51:20;
+
+[BlackFade]=00:51:20	OUT	00:52:20;
+
+ ;
+
+[Next]=00:52:20;
+
+
+
+

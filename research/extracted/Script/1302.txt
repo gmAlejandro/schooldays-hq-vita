@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:32:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:32:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/h/h_02	00:07:21;
+
+[PlayMovie]=00:00:00	Movie05/05-5H/05-5H-D01/H5-5H-D01-001	0	00:17:02;
+
+[MoveSom]=00:00:00	3	00:04:23;
+
+[PrintText]=00:00:05	Hikari	Nn... continúa... Makoto... sigue...	00:06:06;
+
+[PlayVoice]=00:00:05	Voice05/05-5H/05-5H-D01/05-5H-D01-0030	0	hik	00:06:06;
+
+[MoveSom]=00:04:23	4	00:09:00;
+
+[PrintText]=00:06:12	Makoto	¿Huh...?^	00:08:11;
+
+[PlayVoice]=00:06:12	Voice05/05-5H/05-5H-D01/05-5H-D01-0040	1	mak	00:08:11;
+
+[PlaySe]=00:07:20	2	SysSe/SE_all/h/h_01	00:17:14;
+
+[PrintText]=00:07:20	Hikari	¡Está bien... puedes venirte dentro!	00:12:16;
+
+[PlayVoice]=00:07:20	Voice05/05-5H/05-5H-D01/05-5H-D01-0050	0	hik	00:12:16;
+
+[MoveSom]=00:09:00	3	00:13:00;
+
+[PrintText]=00:12:21	Makoto	Vale...	00:16:02;
+
+[PlayVoice]=00:12:21	Voice05/05-5H/05-5H-D01/05-5H-D01-0060	1	mak	00:16:02;
+
+[MoveSom]=00:13:00	4	00:18:00;
+
+[PrintText]=00:16:23	Hikari	¡Aahh... uh... ah! ¡Aaah... aaaah!	00:26:10;
+
+[PlayVoice]=00:16:23	Voice05/05-5H/05-5H-D01/05-5H-D01-0070	0	hik	00:26:10;
+
+[PlayMovie]=00:17:02	Movie05/05-5H/05-5H-D01/H5-5H-D01-002	0	00:32:10;
+
+[PlaySe]=00:17:14	3	SysSe/SE_all/h/h_01	00:20:18;
+
+[MoveSom]=00:18:00	5	00:26:11;
+
+[PlaySe]=00:20:18	4	SysSe/SE_all/h/h_03	00:25:05;
+
+[PrintText]=00:22:03	Makoto	¡Haah!	00:29:14;
+
+[PlayVoice]=00:22:03	Voice05/05-5H/05-5H-D01/05-5H-D01-0080	1	mak	00:29:14;
+
+[PrintText]=00:26:19	Hikari	Haah... haah...	00:31:00;
+
+[PlayVoice]=00:26:19	Voice05/05-5H/05-5H-D01/05-5H-D01-0100	0	hik	00:31:00;
+
+[PrintText]=00:29:17	Makoto	Haah... haah...	00:32:10;
+
+[PlayVoice]=00:29:17	Voice05/05-5H/05-5H-D01/05-5H-D01-0110	1	mak	00:32:10;
+
+[WhiteFade]=00:31:10	OUT	00:32:10;
+
+ ;
+
+[Next]=00:32:10;
+
+

@@ -1,0 +1,119 @@
+﻿[SkipFRAME]=00:58:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:58:05;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-G05/SE04-KA-G05-001	00:58:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-G05/04-KA-G05-001	00:07:05;
+
+[PrintText]=00:00:06	Makoto	...	00:01:13;
+
+[PlayVoice]=00:00:06	Voice04/04-KA/04-KA-G05/04-KA-G05-0030	1	xxx	00:01:13;
+
+[PrintText]=00:01:08	Setsuna	¿No quieressh dechirlo?^	00:02:12;
+
+[PlayVoice]=00:01:08	Voice04/04-KA/04-KA-G05/04-KA-G05-0040	0	set	00:02:12;
+
+[PrintText]=00:02:13	Makoto	S-Sí, eso es.	00:07:02;
+
+[PlayVoice]=00:02:13	Voice04/04-KA/04-KA-G05/04-KA-G05-0050	1	mak	00:07:02;
+
+[CreateBG]=00:07:05	BGS	Event04/04-KA/04-KA-G05/04-KA-G05-002	00:12:23;
+
+[PrintText]=00:07:06	Setsuna	¿Shecreto?^	00:08:15;
+
+[PlayVoice]=00:07:06	Voice04/04-KA/04-KA-G05/04-KA-G05-0060	0	set	00:08:15;
+
+[PrintText]=00:08:20	Makoto	Sí, Sí, es un secreto.	00:11:15;
+
+[PlayVoice]=00:08:20	Voice04/04-KA/04-KA-G05/04-KA-G05-0070	1	mak	00:11:15;
+
+[PrintText]=00:11:17	Setsuna	...	00:12:19;
+
+[PlayVoice]=00:11:17	Voice04/04-KA/04-KA-G05/04-KA-G05-0080	0	xxx	00:12:19;
+
+[CreateBG]=00:12:23	BGS	Event04/04-KA/04-KA-G05/04-KA-G05-003	00:15:13;
+
+[PrintText]=00:13:04	Makoto	Solo déjame ir a casa ¿Vale?^	00:15:16;
+
+[PlayVoice]=00:13:04	Voice04/04-KA/04-KA-G05/04-KA-G05-0090	1	mak	00:15:16;
+
+[PlayMovie]=00:15:13	Movie04/04-KA/04-KA-G05/04-KA-G05-004	0	00:28:11;
+
+[PrintText]=00:15:16	Setsuna	Entoncessh Se-chan hará un shecreto también.	00:19:13;
+
+[PlayVoice]=00:15:16	Voice04/04-KA/04-KA-G05/04-KA-G05-0100	0	set	00:19:13;
+
+[PrintText]=00:19:09	Makoto	¿Quién es Se-chan?^	00:21:23;
+
+[PlayVoice]=00:19:09	Voice04/04-KA/04-KA-G05/04-KA-G05-0110	1	mak	00:21:23;
+
+[PrintText]=00:21:23	Setsuna	Yo.	00:23:03;
+
+[PlayVoice]=00:21:23	Voice04/04-KA/04-KA-G05/04-KA-G05-0120	0	set	00:23:03;
+
+[PrintText]=00:23:12	Makoto	Se-chan de Kiyoura Setsuna, huh.	00:27:10;
+
+[PlayVoice]=00:23:12	Voice04/04-KA/04-KA-G05/04-KA-G05-0130	1	mak	00:27:10;
+
+[PrintText]=00:27:05	Setsuna	¡Dimee!	00:28:07;
+
+[PlayVoice]=00:27:05	Voice04/04-KA/04-KA-G05/04-KA-G05-0140	0	set	00:28:07;
+
+[CreateBG]=00:28:11	BGS	Event04/04-KA/04-KA-G05/04-KA-G05-005	00:31:14;
+
+[PrintText]=00:28:14	Makoto	Por favor, suelta mi mano, Se-chan.	00:31:14;
+
+[PlayVoice]=00:28:14	Voice04/04-KA/04-KA-G05/04-KA-G05-0150	1	mak	00:31:14;
+
+[CreateBG]=00:31:14	BGS	Event04/04-KA/04-KA-G05/04-KA-G05-002	00:38:19;
+
+[PrintText]=00:31:14	Setsuna	2 puntoshh.	00:32:15;
+
+[PlayVoice]=00:31:14	Voice04/04-KA/04-KA-G05/04-KA-G05-0160	0	set	00:32:15;
+
+[PrintText]=00:32:18	Makoto	¿Cuantos puntos necesito para que me dejes ir?^	00:35:09;
+
+[PlayVoice]=00:32:18	Voice04/04-KA/04-KA-G05/04-KA-G05-0170	1	mak	00:35:09;
+
+[PrintText]=00:35:06	Setsuna	100 para passshar.	00:37:12;
+
+[PlayVoice]=00:35:06	Voice04/04-KA/04-KA-G05/04-KA-G05-0180	0	set	00:37:12;
+
+[PrintText]=00:37:04	Makoto	¡Tomará mucho para irme!	00:38:15;
+
+[PlayVoice]=00:37:04	Voice04/04-KA/04-KA-G05/04-KA-G05-0190	1	mak	00:38:15;
+
+[CreateBG]=00:38:19	BGS	Event04/04-KA/04-KA-G05/04-KA-G05-003	00:47:10;
+
+[PrintText]=00:39:00	Setsuna	100 puntillosh si ganash un juego bonush.	00:42:18;
+
+[PlayVoice]=00:39:00	Voice04/04-KA/04-KA-G05/04-KA-G05-0200	0	set	00:42:18;
+
+[PrintText]=00:43:01	Makoto	Vale, Lo jugaré, entonces.	00:46:11;
+
+[PlayVoice]=00:43:01	Voice04/04-KA/04-KA-G05/04-KA-G05-0210	1	mak	00:46:11;
+
+[PrintText]=00:46:09	Setsuna	¿En serio?^	00:47:09;
+
+[PlayVoice]=00:46:09	Voice04/04-KA/04-KA-G05/04-KA-G05-0220	0	set	00:47:09;
+
+[CreateBG]=00:47:10	BGS	Event04/04-KA/04-KA-G05/04-KA-G05-008	00:58:05;
+
+[PrintText]=00:47:11	Makoto	Sí. Dime.	00:49:22;
+
+[PlayVoice]=00:47:11	Voice04/04-KA/04-KA-G05/04-KA-G05-0230	1	mak	00:49:22;
+
+[PrintText]=00:49:23	Setsuna	Tienessh que cerrar tus ojossh y pretender ssher un animal.	00:53:11;
+
+[PlayVoice]=00:49:23	Voice04/04-KA/04-KA-G05/04-KA-G05-0240	0	set	00:53:11;
+
+[PrintText]=00:53:12	Makoto	Eso suena como un juego raro... ¿Quieres decir así?^	00:57:22;
+
+[PlayVoice]=00:53:12	Voice04/04-KA/04-KA-G05/04-KA-G05-0250	1	mak	00:57:22;
+
+ ;
+
+[Next]=00:58:05;
+
+

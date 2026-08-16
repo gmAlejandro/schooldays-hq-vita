@@ -1,0 +1,323 @@
+﻿[SkipFRAME]=03:05:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	03:05:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-001	00:02:00;
+
+[PrintText]=00:02:00	Nanami	¡Sekai, Sekai, Sekai!	00:04:08;
+
+[PlayVoice]=00:02:00	Voice05/05-KG/05-KG-C00/05-KG-C00-0030	0	nan	00:04:08;
+
+[CreateBG]=00:02:01	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-002	00:04:09;
+
+[CreateBG]=00:04:09	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-003	00:06:20;
+
+[PrintText]=00:04:13	Sekai	¿Qué? ¿Pasó algo?^	00:06:18;
+
+[PlayVoice]=00:04:13	Voice05/05-KG/05-KG-C00/05-KG-C00-0040	0	sek	00:06:18;
+
+[CreateBG]=00:06:20	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-004	00:10:07;
+
+[PrintText]=00:06:20	Nanami	¡Tu novio está siendo arrastrado por la peor persona que puedes imaginar!	00:10:05;
+
+[PlayVoice]=00:06:20	Voice05/05-KG/05-KG-C00/05-KG-C00-0050	0	nan	00:10:05;
+
+[CreateBG]=00:10:07	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-005	00:11:17;
+
+[PrintText]=00:10:07	Sekai	¿Peor...?^	00:11:15;
+
+[PlayVoice]=00:10:07	Voice05/05-KG/05-KG-C00/05-KG-C00-0060	0	sek	00:11:15;
+
+[CreateBG]=00:11:17	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-006A	00:24:23;
+
+[PrintText]=00:11:18	Nanami	Es esa chica con la que fui a la primaria. Ella, es como... una super carga de feromonas.	00:16:23;
+
+[PlayVoice]=00:11:18	Voice05/05-KG/05-KG-C00/05-KG-C00-0070	0	nan	00:16:23;
+
+[PrintText]=00:16:23	Nanami	Mira, básicamente, esta chica es horrible, pero tiene mucho éxito con los chicos.	00:21:07;
+
+[PlayVoice]=00:16:23	Voice05/05-KG/05-KG-C00/05-KG-C00-0071	0	nan	00:21:07;
+
+[PrintText]=00:21:13	Sekai	Uh-huh.	00:22:13;
+
+[PlayVoice]=00:21:13	Voice05/05-KG/05-KG-C00/05-KG-C00-0080	0	sek	00:22:13;
+
+[PrintText]=00:22:20	Nanami	Y ahora anda detrás de Itou.	00:25:00;
+
+[PlayVoice]=00:22:20	Voice05/05-KG/05-KG-C00/05-KG-C00-0090	0	nan	00:25:00;
+
+[CreateBG]=00:24:23	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-006B	00:26:06;
+
+[PrintText]=00:25:01	Sekai	¿Eh?^	00:26:03;
+
+[PlayVoice]=00:25:01	Voice05/05-KG/05-KG-C00/05-KG-C00-0100	0	sek	00:26:03;
+
+[PrintText]=00:26:05	Nanami	Él hacía ese tipo de expresión.	00:29:13;
+
+[PlayVoice]=00:26:05	Voice05/05-KG/05-KG-C00/05-KG-C00-0110	0	nan	00:29:13;
+
+[CreateBG]=00:26:06	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-007	00:29:14;
+
+[CreateBG]=00:29:14	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-008	00:32:13;
+
+[PrintText]=00:29:17	Sekai	Sí, naturalmente.	00:32:12;
+
+[PlayVoice]=00:29:17	Voice05/05-KG/05-KG-C00/05-KG-C00-0120	0	sek	00:32:12;
+
+[CreateBG]=00:32:13	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-009A	00:38:20;
+
+[PrintText]=00:32:15	Nanami	Entonces, ella empujó sus pechos contra su brazo, y él no hizo nada.	00:38:18;
+
+[PlayVoice]=00:32:15	Voice05/05-KG/05-KG-C00/05-KG-C00-0130	0	nan	00:38:18;
+
+[CreateBG]=00:38:20	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-009B	00:41:12;
+
+[PrintText]=00:38:21	Sekai	N-No puede ser...	00:41:05;
+
+[PlayVoice]=00:38:21	Voice05/05-KG/05-KG-C00/05-KG-C00-0140	0	sek	00:41:05;
+
+[CreateBG]=00:41:12	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-009C	00:50:00;
+
+[PrintText]=00:41:12	Nanami	Como sea, son malas noticias. Incluso en la primaria odiaban a esta chica feromonas. Tenemos que ignorarla.	00:49:23;
+
+[PlayVoice]=00:41:12	Voice05/05-KG/05-KG-C00/05-KG-C00-0150	0	nan	00:49:23;
+
+[CreateBG]=00:50:00	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-010	00:57:12;
+
+[PrintText]=00:50:00	Sekai	¿Hay una persona así?^	00:53:00;
+
+[PlayVoice]=00:50:00	Voice05/05-KG/05-KG-C00/05-KG-C00-0160	0	sek	00:53:00;
+
+[PrintText]=00:53:01	Nanami	¡Sí!	00:53:16;
+
+[PlayVoice]=00:53:01	Voice05/05-KG/05-KG-C00/05-KG-C00-0170	0	nan	00:53:16;
+
+[PrintText]=00:53:18	Sekai	¿P-Pero cómo alguien así puede ir tras Makoto?^	00:57:12;
+
+[PlayVoice]=00:53:18	Voice05/05-KG/05-KG-C00/05-KG-C00-0180	0	sek	00:57:12;
+
+[CreateBG]=00:57:12	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-011	01:00:04;
+
+[PrintText]=00:57:13	Nanami	No lo sé. Después de todo, no tienen nada en común.	01:00:03;
+
+[PlayVoice]=00:57:13	Voice05/05-KG/05-KG-C00/05-KG-C00-0190	0	nan	01:00:03;
+
+[CreateBG]=01:00:04	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-012	01:02:03;
+
+[PrintText]=01:00:04	Sekai	Sí...	01:02:03;
+
+[PlayVoice]=01:00:04	Voice05/05-KG/05-KG-C00/05-KG-C00-0200	0	sek	01:02:03;
+
+[CreateBG]=01:02:03	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-013A	01:06:18;
+
+[PrintText]=01:02:03	Nanami	¿Te lo mencioné antes? Ella también estaba haciendo algo con Sawanaga...	01:06:18;
+
+[PlayVoice]=01:02:03	Voice05/05-KG/05-KG-C00/05-KG-C00-0210	0	nan	01:06:18;
+
+[CreateBG]=01:06:18	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-013B	01:08:02;
+
+[PrintText]=01:06:18	Sekai	¡¿Katsura-san?!	01:08:02;
+
+[PlayVoice]=01:06:18	Voice05/05-KG/05-KG-C00/05-KG-C00-0220	0	sek	01:08:02;
+
+[CreateBG]=01:08:02	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-013C	01:12:06;
+
+[PrintText]=01:08:02	Nanami	¡Sí, Katsura!	01:09:16;
+
+[PlayVoice]=01:08:02	Voice05/05-KG/05-KG-C00/05-KG-C00-0230	0	nan	01:09:16;
+
+[PrintText]=01:09:16	Nanami	Sea como sea, es mejor que estés alerta.	01:12:05;
+
+[PlayVoice]=01:09:16	Voice05/05-KG/05-KG-C00/05-KG-C00-0240	0	nan	01:12:05;
+
+[CreateBG]=01:12:06	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-014	01:17:16;
+
+[PrintText]=01:12:07	Sekai	Vale, gracias.	01:14:14;
+
+[PlayVoice]=01:12:07	Voice05/05-KG/05-KG-C00/05-KG-C00-0250	0	sek	01:14:14;
+
+[PrintText]=01:14:15	Nanami	Ah, ya llegó. Nos vemos después.	01:16:20;
+
+[PlayVoice]=01:14:15	Voice05/05-KG/05-KG-C00/05-KG-C00-0260	0	nan	01:16:20;
+
+[PrintText]=01:16:21	Sekai	Sí.	01:17:16;
+
+[PlayVoice]=01:16:21	Voice05/05-KG/05-KG-C00/05-KG-C00-0270	0	sek	01:17:16;
+
+[CreateBG]=01:17:16	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-015A	01:18:07;
+
+[PrintText]=01:17:16	Makoto	Buen día.	01:20:00;
+
+[PlayVoice]=01:17:16	Voice05/05-KG/05-KG-C00/05-KG-C00-0290	1	mak	01:20:00;
+
+[CreateBG]=01:18:06	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-015B	01:20:00;
+
+[CreateBG]=01:20:00	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-015C	01:26:09;
+
+[PrintText]=01:20:01	Sekai	¡Buen día!	01:21:08;
+
+[PlayVoice]=01:20:01	Voice05/05-KG/05-KG-C00/05-KG-C00-0300	0	sek	01:21:08;
+
+[PrintText]=01:21:09	Makoto	Es un lindo día ¿Huh?^	01:24:12;
+
+[PlayVoice]=01:21:09	Voice05/05-KG/05-KG-C00/05-KG-C00-0310	1	mak	01:24:12;
+
+[PrintText]=01:24:13	Sekai	Sí...	01:26:08;
+
+[PlayVoice]=01:24:13	Voice05/05-KG/05-KG-C00/05-KG-C00-0320	0	sek	01:26:08;
+
+[CreateBG]=01:26:09	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-016	01:31:23;
+
+[PrintText]=01:26:09	Makoto	Un clima así un lunes que te darían ganas de faltar a la escuela ¿No?^	01:31:22;
+
+[PlayVoice]=01:26:09	Voice05/05-KG/05-KG-C00/05-KG-C00-0340	1	mak	01:31:22;
+
+[CreateBG]=01:31:23	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-017	01:42:10;
+
+[PrintText]=01:32:00	Sekai	¿Con quién?^	01:33:00;
+
+[PlayVoice]=01:32:00	Voice05/05-KG/05-KG-C00/05-KG-C00-0350	0	sek	01:33:00;
+
+[PrintText]=01:33:01	Makoto	¿Con quién? Bueno, contigo por ejemplo.	01:38:10;
+
+[PlayVoice]=01:33:01	Voice05/05-KG/05-KG-C00/05-KG-C00-0360	1	mak	01:38:10;
+
+[PrintText]=01:38:11	Sekai	Sonó un poco premeditado. Forzado diría yo.	01:42:09;
+
+[PlayVoice]=01:38:11	Voice05/05-KG/05-KG-C00/05-KG-C00-0370	0	sek	01:42:09;
+
+[CreateBG]=01:42:10	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-018	01:45:09;
+
+[PrintText]=01:42:10	Makoto	¿Q-Qué? ¿Qué quieres decir?^	01:45:09;
+
+[PlayVoice]=01:42:10	Voice05/05-KG/05-KG-C00/05-KG-C00-0380	1	mak	01:45:09;
+
+[CreateBG]=01:45:09	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-019A	01:48:15;
+
+[PrintText]=01:45:09	Sekai	¿Estabas pensando en otra chica?^	01:48:15;
+
+[PlayVoice]=01:45:09	Voice05/05-KG/05-KG-C00/05-KG-C00-0390	0	sek	01:48:15;
+
+[CreateBG]=01:48:15	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-019B	01:52:05;
+
+[PrintText]=01:48:16	Makoto	¿Huh? ¿Por qué lo dices?^	01:52:05;
+
+[PlayVoice]=01:48:16	Voice05/05-KG/05-KG-C00/05-KG-C00-0400	1	mak	01:52:05;
+
+[CreateBG]=01:52:05	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-019C	01:53:18;
+
+[PrintText]=01:52:05	Sekai	...Por nada.	01:53:17;
+
+[PlayVoice]=01:52:05	Voice05/05-KG/05-KG-C00/05-KG-C00-0410	0	sek	01:53:17;
+
+[CreateBG]=01:53:18	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-020	01:56:05;
+
+[PrintText]=01:53:18	Makoto	¿Huh...?^	01:56:04;
+
+[PlayVoice]=01:53:18	Voice05/05-KG/05-KG-C00/05-KG-C00-0420	1	mak	01:56:04;
+
+[CreateBG]=01:56:05	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-021A	01:56:08;
+
+[PrintText]=01:56:05	Sekai	¿Te encontraste con alguien esta mañana?^	01:58:11;
+
+[PlayVoice]=01:56:05	Voice05/05-KG/05-KG-C00/05-KG-C00-0430	0	sek	01:58:11;
+
+[CreateBG]=01:56:08	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-021B	01:58:12;
+
+[CreateBG]=01:58:12	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-021C	02:13:11;
+
+[PrintText]=01:58:12	Makoto	¿Huh...? Solo vine al colegio como siempre.	02:02:17;
+
+[PlayVoice]=01:58:12	Voice05/05-KG/05-KG-C00/05-KG-C00-0440	1	mak	02:02:17;
+
+[PrintText]=02:02:17	Sekai	Mentiroso.	02:03:13;
+
+[PlayVoice]=02:02:17	Voice05/05-KG/05-KG-C00/05-KG-C00-0450	0	sek	02:03:13;
+
+[PrintText]=02:03:15	Makoto	¿Qué? No estoy mintiendo.	02:08:00;
+
+[PlayVoice]=02:03:15	Voice05/05-KG/05-KG-C00/05-KG-C00-0460	1	mak	02:08:00;
+
+[PrintText]=02:08:02	Sekai	¿Estabas haciendo algo raro con otra chica?^	02:10:16;
+
+[PlayVoice]=02:08:02	Voice05/05-KG/05-KG-C00/05-KG-C00-0470	0	sek	02:10:16;
+
+[PrintText]=02:10:17	Makoto	No.	02:13:10;
+
+[PlayVoice]=02:10:17	Voice05/05-KG/05-KG-C00/05-KG-C00-0480	1	mak	02:13:10;
+
+[CreateBG]=02:13:11	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-022	02:15:05;
+
+[PrintText]=02:13:11	Sekai	...	02:15:05;
+
+[PlayVoice]=02:13:11	Voice05/05-KG/05-KG-C00/05-KG-C00-0490	0	xxx	02:15:05;
+
+[CreateBG]=02:15:05	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-023	02:19:17;
+
+[PrintText]=02:15:06	Makoto	¿Qué? ¿Qué hay con esa mirada sospechosa?^	02:19:17;
+
+[PlayVoice]=02:15:06	Voice05/05-KG/05-KG-C00/05-KG-C00-0500	1	mak	02:19:17;
+
+[CreateBG]=02:19:17	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-024	02:21:14;
+
+[PrintText]=02:19:17	Sekai	Tenga esa mirada por tu culpa.	02:21:13;
+
+[PlayVoice]=02:19:17	Voice05/05-KG/05-KG-C00/05-KG-C00-0510	0	sek	02:21:13;
+
+[PrintText]=02:21:13	Makoto	Qué ruda. No digas cosas en ese tono un lunes por la mañana.	02:28:09;
+
+[PlayVoice]=02:21:13	Voice05/05-KG/05-KG-C00/05-KG-C00-0520	1	mak	02:28:09;
+
+[CreateBG]=02:21:14	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-025	02:28:10;
+
+[CreateBG]=02:28:09	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-026	02:36:22;
+
+[PrintText]=02:28:10	Sekai	Ooh...	02:30:03;
+
+[PlayVoice]=02:28:10	Voice05/05-KG/05-KG-C00/05-KG-C00-0530	0	sek	02:30:03;
+
+[PrintText]=02:30:04	Makoto	Aún así, ahora que lo mencionas, es inusual que Ko...	02:36:23;
+
+[PlayVoice]=02:30:04	Voice05/05-KG/05-KG-C00/05-KG-C00-0540	1	mak	02:36:23;
+
+[PrintText]=02:35:14	Taisuke	¡Ma-ko-to!	02:39:03;
+
+[PlayVoice]=02:35:14	Voice05/05-KG/05-KG-C00/05-KG-C00-0550	1	tai	02:39:03;
+
+[CreateBG]=02:36:22	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-027A	02:42:06;
+
+[PrintText]=02:38:10	Makoto	¿Huh?^	02:40:08;
+
+[PlayVoice]=02:38:10	Voice05/05-KG/05-KG-C00/05-KG-C00-0560	1	mak	02:40:08;
+
+[PrintText]=02:39:21	Taisuke	¡Ma-ko-to!	02:43:02;
+
+[PlayVoice]=02:39:21	Voice05/05-KG/05-KG-C00/05-KG-C00-0570	1	tai	02:43:02;
+
+[CreateBG]=02:42:06	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-028	03:01:16;
+
+[PrintText]=02:42:13	Makoto	¿Qué le pasa...?^	02:45:12;
+
+[PlayVoice]=02:42:13	Voice05/05-KG/05-KG-C00/05-KG-C00-0580	1	mak	02:45:12;
+
+[PrintText]=02:45:13	Taisuke	¡Ma-ko-to! ¡Tienes-que-escuchar-esto!	02:55:15;
+
+[PlayVoice]=02:45:13	Voice05/05-KG/05-KG-C00/05-KG-C00-0590	1	tai	02:55:15;
+
+[PrintText]=02:55:17	Makoto	Parece que Taisuke me llama. Iré ¿Vale?^	03:02:12;
+
+[PlayVoice]=02:55:17	Voice05/05-KG/05-KG-C00/05-KG-C00-0600	1	mak	03:02:12;
+
+[CreateBG]=03:01:16	BGS	Event05/05-KG/05-KG-C00/05-KG-C00-026	03:05:06;
+
+[PrintText]=03:02:03	Sekai	...	03:03:16;
+
+[PlayVoice]=03:02:03	Voice05/05-KG/05-KG-C00/05-KG-C00-0610	0	xxx	03:03:16;
+
+ ;
+
+[Next]=03:05:06;
+
+
+
+

@@ -1,0 +1,489 @@
+﻿[SkipFRAME]=06:45:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	06:02:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-002	00:09:06;
+
+[PrintText]=00:03:00	Kotonoha	¡Lo siento! Tengo que hacer algo para el consejo estudiantil...	00:07:05;
+
+[PlayVoice]=00:03:00	Voice04/04-KE/04-KE-J00/04-KE-J00-0050	0	kot	00:07:05;
+
+[PrintText]=00:07:05	Sekai	Está bien.	00:09:07;
+
+[PlayVoice]=00:07:05	Voice04/04-KE/04-KE-J00/04-KE-J00-0070	0	sek	00:09:07;
+
+[CreateBG]=00:09:06	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-003	00:20:15;
+
+[PrintText]=00:09:07	Kotonoha	En realidad, quiero tu consejo de algo, y también tengo algo que preguntarte.	00:16:01;
+
+[PlayVoice]=00:09:07	Voice04/04-KE/04-KE-J00/04-KE-J00-0080	0	kot	00:16:01;
+
+[PrintText]=00:16:01	Sekai	¿Una pregunta, entonces?^	00:18:08;
+
+[PlayVoice]=00:16:01	Voice04/04-KE/04-KE-J00/04-KE-J00-0090	0	sek	00:18:08;
+
+[PrintText]=00:18:08	Kotonoha	¿La pregunta? uhh...¿La pregunta? Uh... ¿Hay algo que quieras?^	00:24:10;
+
+[PlayVoice]=00:18:08	Voice04/04-KE/04-KE-J00/04-KE-J00-0100	0	kot	00:24:10;
+
+[CreateBG]=00:20:15	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-004	00:36:18;
+
+[PrintText]=00:24:10	Sekai	¿Algo que quiera? Pues, quiero una croqueta de pan hoy.	00:29:06;
+
+[PlayVoice]=00:24:10	Voice04/04-KE/04-KE-J00/04-KE-J00-0110	0	sek	00:29:06;
+
+[PrintText]=00:29:06	Kotonoha	N-no, no me refiero al almuerzo.	00:33:13;
+
+[PlayVoice]=00:29:06	Voice04/04-KE/04-KE-J00/04-KE-J00-0120	0	kot	00:33:13;
+
+[PrintText]=00:33:13	Sekai	¿Algo importante quieres decir?^	00:36:00;
+
+[PlayVoice]=00:33:13	Voice04/04-KE/04-KE-J00/04-KE-J00-0130	0	sek	00:36:00;
+
+[PrintText]=00:36:01	Kotonoha	Sí.	00:36:19;
+
+[PlayVoice]=00:36:01	Voice04/04-KE/04-KE-J00/04-KE-J00-0140	0	kot	00:36:19;
+
+[CreateBG]=00:36:18	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-005	00:53:20;
+
+[PrintText]=00:36:19	Sekai	Algo que quiera...	00:38:21;
+
+[PlayVoice]=00:36:19	Voice04/04-KE/04-KE-J00/04-KE-J00-0150	0	sek	00:38:21;
+
+[PrintText]=00:38:21	Kotonoha	...	00:40:01;
+
+[PlayVoice]=00:38:21	Voice04/04-KE/04-KE-J00/04-KE-J00-0160	0	xxx	00:40:01;
+
+[PrintText]=00:40:01	Sekai	Sabes, suenas como Makoto.	00:44:02;
+
+[PlayVoice]=00:40:01	Voice04/04-KE/04-KE-J00/04-KE-J00-0170	0	sek	00:44:02;
+
+[PrintText]=00:44:02	Kotonoha	¿Ah... En-serio? Que... coincidencia.	00:48:21;
+
+[PlayVoice]=00:44:02	Voice04/04-KE/04-KE-J00/04-KE-J00-0180	0	kot	00:48:21;
+
+[PrintText]=00:48:21	Sekai	Oh, Ya sé.	00:51:12;
+
+[PlayVoice]=00:48:21	Voice04/04-KE/04-KE-J00/04-KE-J00-0190	0	sek	00:51:12;
+
+[PrintText]=00:51:12	Kotonoha	¿Pensaste en algo?^	00:52:23;
+
+[PlayVoice]=00:51:12	Voice04/04-KE/04-KE-J00/04-KE-J00-0200	0	kot	00:52:23;
+
+[PrintText]=00:52:23	Sekai	Un padre.	00:53:21;
+
+[PlayVoice]=00:52:23	Voice04/04-KE/04-KE-J00/04-KE-J00-0210	0	sek	00:53:21;
+
+[CreateBG]=00:53:20	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-006	01:07:19;
+
+[PrintText]=00:53:21	Kotonoha	¿Eh?^	00:54:11;
+
+[PlayVoice]=00:53:21	Voice04/04-KE/04-KE-J00/04-KE-J00-0220	0	kot	00:54:11;
+
+[PrintText]=00:54:11	Sekai	Solo somos my madre y yo, sabes.	00:56:13;
+
+[PlayVoice]=00:54:11	Voice04/04-KE/04-KE-J00/04-KE-J00-0230	0	sek	00:56:13;
+
+[PrintText]=00:56:13	Kotonoha	¿Un Padre? Bueno, no puedo darte el mio.	01:02:08;
+
+[PlayVoice]=00:56:13	Voice04/04-KE/04-KE-J00/04-KE-J00-0240	0	kot	01:02:08;
+
+[PrintText]=01:02:08	Sekai	No tendría sentido que me des el tuyo.	01:05:14;
+
+[PlayVoice]=01:02:08	Voice04/04-KE/04-KE-J00/04-KE-J00-0250	0	sek	01:05:14;
+
+[PrintText]=01:05:15	Kotonoha	Sí, es verdad...	01:07:19;
+
+[PlayVoice]=01:05:15	Voice04/04-KE/04-KE-J00/04-KE-J00-0260	0	kot	01:07:19;
+
+[CreateBG]=01:07:19	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-007	01:23:00;
+
+[PrintText]=01:07:19	Sekai	Bueno, dicen que la hierba es más verde en otro lado, Tal vez sería peor si tuviera uno.	01:15:06;
+
+[PlayVoice]=01:07:19	Voice04/04-KE/04-KE-J00/04-KE-J00-0270	0	sek	01:15:06;
+
+[PrintText]=01:16:02	Sekai	Mi Madre siempre dice que era un bueno para nada.	01:21:21;
+
+[PlayVoice]=01:16:02	Voice04/04-KE/04-KE-J00/04-KE-J00-0271	0	sek	01:21:21;
+
+[PrintText]=01:21:22	Kotonoha	Haah...	01:22:23;
+
+[PlayVoice]=01:21:22	Voice04/04-KE/04-KE-J00/04-KE-J00-0280	0	kot	01:22:23;
+
+[PrintText]=01:22:23	Sekai	Bueno ahí lo tienes, así que...	01:27:16;
+
+[PlayVoice]=01:22:23	Voice04/04-KE/04-KE-J00/04-KE-J00-0290	0	sek	01:27:16;
+
+[CreateBG]=01:23:00	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-008	01:33:04;
+
+[PrintText]=01:27:16	Kotonoha	Ah... Bueno, no es lo que quise decir.	01:31:05;
+
+[PlayVoice]=01:27:16	Voice04/04-KE/04-KE-J00/04-KE-J00-0300	0	kot	01:31:05;
+
+[PrintText]=01:31:05	Sekai	No hablemos de eso .	01:33:08;
+
+[PlayVoice]=01:31:05	Voice04/04-KE/04-KE-J00/04-KE-J00-0310	0	sek	01:33:08;
+
+[CreateBG]=01:33:04	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-009	01:39:12;
+
+[PrintText]=01:33:07	Kotonoha	Haah...	01:34:15;
+
+[PlayVoice]=01:33:07	Voice04/04-KE/04-KE-J00/04-KE-J00-0320	0	kot	01:34:15;
+
+[PrintText]=01:34:16	Sekai	Entonces, ¿Quieres un consejo mio?^	01:36:15;
+
+[PlayVoice]=01:34:16	Voice04/04-KE/04-KE-J00/04-KE-J00-0330	0	sek	01:36:15;
+
+[PrintText]=01:36:14	Kotonoha	El consejo, Oh, uh...	01:41:20;
+
+[PlayVoice]=01:36:14	Voice04/04-KE/04-KE-J00/04-KE-J00-0340	0	kot	01:41:20;
+
+[CreateBG]=01:39:12	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-010	01:56:05;
+
+[PrintText]=01:41:20	Sekai	¿Huh? ¿Por qué estás toda roja?^	01:45:08;
+
+[PlayVoice]=01:41:20	Voice04/04-KE/04-KE-J00/04-KE-J00-0360	0	sek	01:45:08;
+
+[PrintText]=01:45:08	Kotonoha	Sí, pues...	01:46:14;
+
+[PlayVoice]=01:45:08	Voice04/04-KE/04-KE-J00/04-KE-J00-0370	0	kot	01:46:14;
+
+[PrintText]=01:46:13	Sekai	¿Qué pasa?^	01:47:19;
+
+[PlayVoice]=01:46:13	Voice04/04-KE/04-KE-J00/04-KE-J00-0380	0	sek	01:47:19;
+
+[PrintText]=01:47:19	Kotonoha	La verdad es...	01:50:01;
+
+[PlayVoice]=01:47:19	Voice04/04-KE/04-KE-J00/04-KE-J00-0390	0	kot	01:50:01;
+
+[PrintText]=01:50:01	Sekai	Uh-huh.	01:50:19;
+
+[PlayVoice]=01:50:01	Voice04/04-KE/04-KE-J00/04-KE-J00-0400	0	sek	01:50:19;
+
+[PrintText]=01:50:19	Kotonoha	Lo... he estado haciendo cosas con Makoto-kun.	01:56:06;
+
+[PlayVoice]=01:50:19	Voice04/04-KE/04-KE-J00/04-KE-J00-0410	0	kot	01:56:06;
+
+[CreateBG]=01:56:05	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-011	02:03:23;
+
+[PrintText]=01:56:06	Sekai	¿Eh...?^	01:56:19;
+
+[PlayVoice]=01:56:06	Voice04/04-KE/04-KE-J00/04-KE-J00-0420	0	sek	01:56:19;
+
+[PrintText]=01:56:19	Kotonoha	...cosas pervertidas, quiero decir.	01:58:17;
+
+[PlayVoice]=01:56:19	Voice04/04-KE/04-KE-J00/04-KE-J00-0430	0	kot	01:58:17;
+
+[PrintText]=01:58:16	Sekai	No, si me había dado cuenta.	02:00:15;
+
+[PlayVoice]=01:58:16	Voice04/04-KE/04-KE-J00/04-KE-J00-0440	0	sek	02:00:15;
+
+[PrintText]=02:00:15	Kotonoha	Ya veo...	02:02:09;
+
+[PlayVoice]=02:00:15	Voice04/04-KE/04-KE-J00/04-KE-J00-0450	0	kot	02:02:09;
+
+[PrintText]=02:02:08	Sekai	Pero Katsura-san...	02:04:01;
+
+[PlayVoice]=02:02:08	Voice04/04-KE/04-KE-J00/04-KE-J00-0460	0	sek	02:04:01;
+
+[CreateBG]=02:03:23	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-012	02:30:14;
+
+[PrintText]=02:04:01	Kotonoha	Al principio, odiaba la idea, pero...	02:09:22;
+
+[PlayVoice]=02:04:01	Voice04/04-KE/04-KE-J00/04-KE-J00-0470	0	kot	02:09:22;
+
+[PrintText]=02:09:22	Kotonoha	Él seguía haciéndolo conmigo... y es muy bueno, no podía evitarlo, pero lo disfrutaba...	02:20:18;
+
+[PlayVoice]=02:09:22	Voice04/04-KE/04-KE-J00/04-KE-J00-0471	0	kot	02:20:18;
+
+[PrintText]=02:20:17	Sekai	Uh-huh...	02:21:12;
+
+[PlayVoice]=02:20:17	Voice04/04-KE/04-KE-J00/04-KE-J00-0480	0	sek	02:21:12;
+
+[PrintText]=02:21:12	Kotonoha	Antes lo sabía, yo era la única que quería hacerlo, y el era el que no estaba interesado...	02:29:12;
+
+[PlayVoice]=02:21:12	Voice04/04-KE/04-KE-J00/04-KE-J00-0490	0	kot	02:29:12;
+
+[PrintText]=02:29:11	Sekai	Ya veo...	02:30:18;
+
+[PlayVoice]=02:29:11	Voice04/04-KE/04-KE-J00/04-KE-J00-0500	0	sek	02:30:18;
+
+[CreateBG]=02:30:14	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-013	02:46:13;
+
+[PrintText]=02:30:18	Kotonoha	Es un poco vergonzoso, por favor no se lo digas a nadie.	02:35:06;
+
+[PlayVoice]=02:30:18	Voice04/04-KE/04-KE-J00/04-KE-J00-0510	0	kot	02:35:06;
+
+[PrintText]=02:35:06	Sekai	S-Seguro.	02:36:21;
+
+[PlayVoice]=02:35:06	Voice04/04-KE/04-KE-J00/04-KE-J00-0520	0	sek	02:36:21;
+
+[PrintText]=02:36:21	Kotonoha	Últimamente, he sido yo la que se acerca, mientras él... parece aburrido...	02:45:19;
+
+[PlayVoice]=02:36:21	Voice04/04-KE/04-KE-J00/04-KE-J00-0530	0	kot	02:45:19;
+
+[PrintText]=02:45:19	Sekai	¿En serio..?^	02:46:15;
+
+[PlayVoice]=02:45:19	Voice04/04-KE/04-KE-J00/04-KE-J00-0540	0	sek	02:46:15;
+
+[CreateBG]=02:46:13	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-014	02:56:23;
+
+[PrintText]=02:46:15	Kotonoha	En días así, él me rechaza.	02:50:17;
+
+[PlayVoice]=02:46:15	Voice04/04-KE/04-KE-J00/04-KE-J00-0550	0	kot	02:50:17;
+
+[PrintText]=02:50:17	Sekai	...	02:51:04;
+
+[PlayVoice]=02:50:17	Voice04/04-KE/04-KE-J00/04-KE-J00-0560	0	xxx	02:51:04;
+
+[PrintText]=02:51:04	Kotonoha	Tal vez no me encuentra atractiva... es un poco deprimente.	02:57:01;
+
+[PlayVoice]=02:51:04	Voice04/04-KE/04-KE-J00/04-KE-J00-0570	0	kot	02:57:01;
+
+[CreateBG]=02:56:23	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-015	03:17:10;
+
+[PrintText]=02:57:01	Sekai	No es verdad. Eres muy linda.	03:01:07;
+
+[PlayVoice]=02:57:01	Voice04/04-KE/04-KE-J00/04-KE-J00-0580	0	sek	03:01:07;
+
+[PrintText]=03:01:07	Kotonoha	Gracias. Entonces estaba pensando en esto...	03:07:06;
+
+[PlayVoice]=03:01:07	Voice04/04-KE/04-KE-J00/04-KE-J00-0590	0	kot	03:07:06;
+
+[PrintText]=03:07:07	Sekai	Uh-huh.	03:07:22;
+
+[PlayVoice]=03:07:07	Voice04/04-KE/04-KE-J00/04-KE-J00-0600	0	sek	03:07:22;
+
+[PrintText]=03:07:21	Kotonoha	Tal vez tenga que crear una fantasía, o algo como aniversario, así él no pueda evitar emocionarse.	03:15:09;
+
+[PlayVoice]=03:07:21	Voice04/04-KE/04-KE-J00/04-KE-J00-0610	0	kot	03:15:09;
+
+[PrintText]=03:15:09	Sekai	¿Fantasía y algo como aniversario...?^	03:17:10;
+
+[PlayVoice]=03:15:09	Voice04/04-KE/04-KE-J00/04-KE-J00-0620	0	sek	03:17:10;
+
+[CreateBG]=03:17:10	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-016	03:25:22;
+
+[PrintText]=03:17:11	Kotonoha	El próximo mes es diciembre ¿No?^	03:20:09;
+
+[PlayVoice]=03:17:11	Voice04/04-KE/04-KE-J00/04-KE-J00-0640	0	kot	03:20:09;
+
+[PrintText]=03:20:09	Sekai	Sí.	03:21:04;
+
+[PlayVoice]=03:20:09	Voice04/04-KE/04-KE-J00/04-KE-J00-0650	0	sek	03:21:04;
+
+[PrintText]=03:21:04	Kotonoha	Diciembre, significa Navidad.	03:24:03;
+
+[PlayVoice]=03:21:04	Voice04/04-KE/04-KE-J00/04-KE-J00-0660	0	kot	03:24:03;
+
+[PrintText]=03:24:03	Sekai	Bueno... sí.	03:26:01;
+
+[PlayVoice]=03:24:03	Voice04/04-KE/04-KE-J00/04-KE-J00-0670	0	sek	03:26:01;
+
+[CreateBG]=03:25:22	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-017	03:55:02;
+
+[PrintText]=03:26:01	Kotonoha	Entonces... parece que mi padre es capaz de conseguir una reserva en el hotel en Sakakino Hills a través de sus conexiones.	03:34:18;
+
+[PlayVoice]=03:26:01	Voice04/04-KE/04-KE-J00/04-KE-J00-0680	0	kot	03:34:18;
+
+[PrintText]=03:34:18	Sekai	¿El Hotel Hills en ese edificio altísimo? Eso es de primera clase, ¿No? Lo he visto antes en la televisión.	03:41:15;
+
+[PlayVoice]=03:34:18	Voice04/04-KE/04-KE-J00/04-KE-J00-0690	0	sek	03:41:15;
+
+[PrintText]=03:41:15	Kotonoha	Sí. Estaba pensando en rentar la suit matrimonial para la víspera Navidad...	03:48:11;
+
+[PlayVoice]=03:41:15	Voice04/04-KE/04-KE-J00/04-KE-J00-0700	0	kot	03:48:11;
+
+[PrintText]=03:48:11	Kotonoha	y luego, mirando el paisaje de la ciudad, nos convertiremos en uno.	03:52:22;
+
+[PlayVoice]=03:48:11	Voice04/04-KE/04-KE-J00/04-KE-J00-0701	0	kot	03:52:22;
+
+[PrintText]=03:52:22	Sekai	Uwah...	03:54:03;
+
+[PlayVoice]=03:52:22	Voice04/04-KE/04-KE-J00/04-KE-J00-0710	0	sek	03:54:03;
+
+[PrintText]=03:54:02	Kotonoha	¿Qué piensas?^	03:55:04;
+
+[PlayVoice]=03:54:02	Voice04/04-KE/04-KE-J00/04-KE-J00-0720	0	kot	03:55:04;
+
+[CreateBG]=03:55:02	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-018	04:06:17;
+
+[PrintText]=03:55:04	Sekai	...Lo que puedo decir ¿Cuanto crees que te costará una noche en la suit matrimonial?^	04:00:21;
+
+[PlayVoice]=03:55:04	Voice04/04-KE/04-KE-J00/04-KE-J00-0730	0	sek	04:00:21;
+
+[PrintText]=04:00:20	Kotonoha	Es una temporada difícil, así que probablemente algo de 400000 yenes.	04:06:19;
+
+[PlayVoice]=04:00:20	Voice04/04-KE/04-KE-J00/04-KE-J00-0740	0	kot	04:06:19;
+
+[CreateBG]=04:06:17	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-019	04:24:16;
+
+[PrintText]=04:06:18	Sekai	¿400000...? ¿Vas a gastar tanto?^	04:11:01;
+
+[PlayVoice]=04:06:18	Voice04/04-KE/04-KE-J00/04-KE-J00-0750	0	sek	04:11:01;
+
+[PrintText]=04:11:01	Kotonoha	Sí. Es un poco caro ... pero es solo una vez en la vida.	04:16:23;
+
+[PlayVoice]=04:11:01	Voice04/04-KE/04-KE-J00/04-KE-J00-0760	0	kot	04:16:23;
+
+[PrintText]=04:16:23	Sekai	Pero no hay manera de que un estudiante pueda rentarlo ¿No?^	04:22:08;
+
+[PlayVoice]=04:16:23	Voice04/04-KE/04-KE-J00/04-KE-J00-0770	0	sek	04:22:08;
+
+[PrintText]=04:22:08	Kotonoha	Yo puedo.	04:23:18;
+
+[PlayVoice]=04:22:08	Voice04/04-KE/04-KE-J00/04-KE-J00-0780	0	kot	04:23:18;
+
+[PrintText]=04:23:19	Sekai	¿Cómo?^	04:24:19;
+
+[PlayVoice]=04:23:19	Voice04/04-KE/04-KE-J00/04-KE-J00-0790	0	sek	04:24:19;
+
+[CreateBG]=04:24:16	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-020	04:53:05;
+
+[PrintText]=04:24:18	Kotonoha	Como dije, mi padre tiene conexiones. Él dijo que la víspera de navidad estaría bien.	04:30:10;
+
+[PlayVoice]=04:24:18	Voice04/04-KE/04-KE-J00/04-KE-J00-0800	0	kot	04:30:10;
+
+[PrintText]=04:30:10	Sekai	Aún así, es mucho para una noche ¿Sabes? Es más de lo que mi madre gana en un mes.	04:38:21;
+
+[PlayVoice]=04:30:10	Voice04/04-KE/04-KE-J00/04-KE-J00-0810	0	sek	04:38:21;
+
+[PrintText]=04:38:20	Kotonoha	¿En serio..?^	04:40:11;
+
+[PlayVoice]=04:38:20	Voice04/04-KE/04-KE-J00/04-KE-J00-0820	0	kot	04:40:11;
+
+[PrintText]=04:40:10	Sekai	Sí...	04:41:08;
+
+[PlayVoice]=04:40:10	Voice04/04-KE/04-KE-J00/04-KE-J00-0830	0	sek	04:41:08;
+
+[PrintText]=04:41:08	Kotonoha	Pero pues... le pregunte a mi madre, y me dijo que no había problema.	04:49:13;
+
+[PlayVoice]=04:41:08	Voice04/04-KE/04-KE-J00/04-KE-J00-0840	0	kot	04:49:13;
+
+[PrintText]=04:49:13	Sekai	¿C-Cómo puedes hablar con tu madre de esto?^	04:53:07;
+
+[PlayVoice]=04:49:13	Voice04/04-KE/04-KE-J00/04-KE-J00-0850	0	sek	04:53:07;
+
+[CreateBG]=04:53:05	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-021	04:58:22;
+
+[PrintText]=04:53:07	Kotonoha	¿No debería?^	04:54:22;
+
+[PlayVoice]=04:53:07	Voice04/04-KE/04-KE-J00/04-KE-J00-0860	0	kot	04:54:22;
+
+[PrintText]=04:54:22	Sekai	Um...	04:56:03;
+
+[PlayVoice]=04:54:22	Voice04/04-KE/04-KE-J00/04-KE-J00-0870	0	sek	04:56:03;
+
+[PrintText]=04:56:03	Kotonoha	¿Y qué piensas?^	04:57:15;
+
+[PlayVoice]=04:56:03	Voice04/04-KE/04-KE-J00/04-KE-J00-0880	0	kot	04:57:15;
+
+[PrintText]=04:57:15	Sekai	Pues...	04:59:00;
+
+[PlayVoice]=04:57:15	Voice04/04-KE/04-KE-J00/04-KE-J00-0890	0	sek	04:59:00;
+
+[CreateBG]=04:58:22	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-022	05:08:07;
+
+[PrintText]=04:59:00	Kotonoha	¿Crees que Makoto-kun me rechace?^	05:02:05;
+
+[PlayVoice]=04:59:00	Voice04/04-KE/04-KE-J00/04-KE-J00-0900	0	kot	05:02:05;
+
+[PrintText]=05:02:05	Sekai	No, creo que lo haría.	05:03:21;
+
+[PlayVoice]=05:02:05	Voice04/04-KE/04-KE-J00/04-KE-J00-0910	0	sek	05:03:21;
+
+[PrintText]=05:03:20	Kotonoha	¿En serio..? Que bueno.	05:07:12;
+
+[PlayVoice]=05:03:20	Voice04/04-KE/04-KE-J00/04-KE-J00-0920	0	kot	05:07:12;
+
+[PrintText]=05:07:12	Sekai	...	05:08:09;
+
+[PlayVoice]=05:07:12	Voice04/04-KE/04-KE-J00/04-KE-J00-0940	0	sek	05:08:09;
+
+[CreateBG]=05:08:07	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-023	05:24:14;
+
+[PrintText]=05:08:09	Kotonoha	Además, dijo que me haría algún collar o pulsera...	05:17:08;
+
+[PlayVoice]=05:08:09	Voice04/04-KE/04-KE-J00/04-KE-J00-0950	0	kot	05:17:08;
+
+[PrintText]=05:17:08	Kotonoha	Estaría mal si yo no le diera nada.	05:21:07;
+
+[PlayVoice]=05:17:08	Voice04/04-KE/04-KE-J00/04-KE-J00-0951	0	kot	05:21:07;
+
+[PrintText]=05:21:07	Sekai	...	05:21:19;
+
+[PlayVoice]=05:21:07	Voice04/04-KE/04-KE-J00/04-KE-J00-0960	0	xxx	05:21:19;
+
+[PrintText]=05:21:19	Kotonoha	He estado pensando y...	05:24:00;
+
+[PlayVoice]=05:21:19	Voice04/04-KE/04-KE-J00/04-KE-J00-0970	0	kot	05:24:00;
+
+[PrintText]=05:23:23	Sekai	Uh-huh.	05:24:13;
+
+[PlayVoice]=05:23:23	Voice04/04-KE/04-KE-J00/04-KE-J00-0980	0	sek	05:24:13;
+
+[PrintText]=05:24:13	Kotonoha	Makoto-kun ha estado un poco distante últimamente... como si no me prestara atención...	05:32:12;
+
+[PlayVoice]=05:24:13	Voice04/04-KE/04-KE-J00/04-KE-J00-0990	0	kot	05:32:12;
+
+[CreateBG]=05:24:14	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-024	05:33:09;
+
+[PrintText]=05:32:12	Sekai	Uh-huh.	05:33:09;
+
+[PlayVoice]=05:32:12	Voice04/04-KE/04-KE-J00/04-KE-J00-1000	0	sek	05:33:09;
+
+[CreateBG]=05:33:09	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-025	05:41:20;
+
+[PrintText]=05:33:09	Kotonoha	Pero si renovamos nuestra relación en el Hotel para Navidad... vamos realmente a ser una pareja. Eso es lo que siento.	05:41:20;
+
+[PlayVoice]=05:33:09	Voice04/04-KE/04-KE-J00/04-KE-J00-1010	0	kot	05:41:20;
+
+[CreateBG]=05:41:20	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-022	05:43:03;
+
+[PrintText]=05:41:21	Sekai	Sí...	05:43:05;
+
+[PlayVoice]=05:41:21	Voice04/04-KE/04-KE-J00/04-KE-J00-1020	0	sek	05:43:05;
+
+[CreateBG]=05:43:03	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-027	05:50:02;
+
+[PrintText]=05:43:05	Kotonoha	Porque Navidad es la perfecta ocasión para estar con la persona que amas.	05:50:04;
+
+[PlayVoice]=05:43:05	Voice04/04-KE/04-KE-J00/04-KE-J00-1030	0	kot	05:50:04;
+
+[CreateBG]=05:50:02	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-028	05:56:20;
+
+[PrintText]=05:50:04	Sekai	Uh-huh...	05:50:23;
+
+[PlayVoice]=05:50:04	Voice04/04-KE/04-KE-J00/04-KE-J00-1040	0	sek	05:50:23;
+
+[PrintText]=05:51:00	Kotonoha	¡Por eso es que... voy a hacer mi mejor esfuerzo para invitarlo!	05:56:10;
+
+[PlayVoice]=05:51:00	Voice04/04-KE/04-KE-J00/04-KE-J00-1050	0	kot	05:56:10;
+
+[PrintText]=05:56:10	Sekai	...	05:56:22;
+
+[PlayVoice]=05:56:10	Voice04/04-KE/04-KE-J00/04-KE-J00-1060	0	xxx	05:56:22;
+
+[CreateBG]=05:56:20	BGS	Event04/04-KE/04-KE-J00/04-KE-J00-029	06:02:02;
+
+[PrintText]=05:56:22	Kotonoha	¡Por favor, dame tu apoyo!	05:59:22;
+
+[PlayVoice]=05:56:22	Voice04/04-KE/04-KE-J00/04-KE-J00-1070	0	kot	05:59:22;
+
+[EndBGM]=05:57:09	BGM/Vocal/SDV04	08:08:02;
+
+[PrintText]=06:00:00	Sekai	Está bien...	06:00:20;
+
+[PlayVoice]=06:00:00	Voice04/04-KE/04-KE-J00/04-KE-J00-1080	0	sek	06:00:20;
+
+[CreateBG]=06:02:02	BGS	Ini/EndRoll/04-13	06:05:00;
+
+[EndRoll]=06:05:00	Ini/EndRoll/NORMAL	06:45:00;
+
+ ;
+
+[Next]=06:45:00;
+
+

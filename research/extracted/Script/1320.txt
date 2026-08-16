@@ -1,0 +1,93 @@
+﻿[SkipFRAME]=00:57:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:57:07;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/yuugata	00:57:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-B04/05-5O-B04-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-D02/05-5O-D02-002	00:06:02;
+
+[PrintText]=00:03:08	Makoto	...Itaru.	00:04:05;
+
+[PlayVoice]=00:03:08	Voice05/05-5O/05-5O-D02/05-5O-D02-0040	1	mak	00:04:05;
+
+[PrintText]=00:04:12	Itaru	¡Onii-cha!	00:05:18;
+
+[PlayVoice]=00:04:12	Voice05/05-5O/05-5O-D02/05-5O-D02-0050	0	ita	00:05:18;
+
+[CreateBG]=00:06:02	BGS	Event05/05-5O/05-5O-D02/05-5O-D02-003	00:10:02;
+
+[PrintText]=00:06:02	Makoto	¿Qué pasó? ¡No se supone que tenías que venir hoy!	00:09:14;
+
+[PlayVoice]=00:06:02	Voice05/05-5O/05-5O-D02/05-5O-D02-0070	1	mak	00:09:14;
+
+[CreateBG]=00:10:02	BGS	Event05/05-5O/05-5O-D02/05-5O-D02-004	00:25:16;
+
+[PrintText]=00:10:02	Itaru	Me... escapé de la casa.	00:13:00;
+
+[PlayVoice]=00:10:02	Voice05/05-5O/05-5O-D02/05-5O-D02-0080	0	ita	00:13:00;
+
+[PrintText]=00:13:10	Makoto	¡¿Te escapaste?!	00:14:09;
+
+[PlayVoice]=00:13:10	Voice05/05-5O/05-5O-D02/05-5O-D02-0090	1	mak	00:14:09;
+
+[PrintText]=00:14:17	Itaru	No quiero ir a casa... odio a papá...	00:18:12;
+
+[PlayVoice]=00:14:17	Voice05/05-5O/05-5O-D02/05-5O-D02-0100	0	ita	00:18:12;
+
+[PrintText]=00:18:20	Makoto	Ya... ya veo. Bueno, como sea, entra.	00:23:10;
+
+[PlayVoice]=00:18:20	Voice05/05-5O/05-5O-D02/05-5O-D02-0110	1	mak	00:23:10;
+
+[PrintText]=00:23:11	Itaru	Vale...	00:24:05;
+
+[PlayVoice]=00:23:11	Voice05/05-5O/05-5O-D02/05-5O-D02-0120	0	ita	00:24:05;
+
+[PlaySe]=00:24:11	1	Se05/05-5O/05-5O-D02/SE05-5O-D02-001	00:25:15;
+
+[CreateBG]=00:25:16	BGS	Event05/05-5O/05-5O-D02/05-5O-D02-005	00:39:19;
+
+[PrintText]=00:26:00	Makoto	Debes tener hambre. Te haré algo. ¿Qué quieres?^	00:30:15;
+
+[PlayVoice]=00:26:00	Voice05/05-5O/05-5O-D02/05-5O-D02-0140	1	mak	00:30:15;
+
+[PrintText]=00:30:23	Itaru	¡Um... um... cualquier cosa que hagas está bien!	00:36:13;
+
+[PlayVoice]=00:30:23	Voice05/05-5O/05-5O-D02/05-5O-D02-0150	0	ita	00:36:13;
+
+[PrintText]=00:36:23	Makoto	Vale, zanahoria y unos guisantes.	00:39:06;
+
+[PlayVoice]=00:36:23	Voice05/05-5O/05-5O-D02/05-5O-D02-0160	1	mak	00:39:06;
+
+[CreateBG]=00:39:19	BGS	Event05/05-5O/05-5O-D02/05-5O-D02-004	00:46:15;
+
+[PrintText]=00:39:21	Itaru	¡Uhh...Pero!.. Entonces pondré todo mi esfuerzo para comerlo.	00:46:17;
+
+[PlayVoice]=00:39:21	Voice05/05-5O/05-5O-D02/05-5O-D02-0170	0	ita	00:46:17;
+
+[CreateBG]=00:46:15	BGS	Event05/05-5O/05-5O-D02/05-5O-D02-005	00:48:23;
+
+[PrintText]=00:46:15	Makoto	¡Bien! Que buena niña.	00:48:19;
+
+[PlayVoice]=00:46:15	Voice05/05-5O/05-5O-D02/05-5O-D02-0180	1	mak	00:48:19;
+
+[CreateBG]=00:48:23	BGS	Event05/05-5O/05-5O-D02/05-5O-D02-008	00:57:07;
+
+[PrintText]=00:48:23	Itaru	Eheheh. Soy una buena niña.	00:51:01;
+
+[PlayVoice]=00:48:23	Voice05/05-5O/05-5O-D02/05-5O-D02-0190	0	ita	00:51:01;
+
+[PrintText]=00:51:10	Makoto	Vale, como eres una buena niña, te haré una hamburguesa.	00:55:08;
+
+[PlayVoice]=00:51:10	Voice05/05-5O/05-5O-D02/05-5O-D02-0200	1	mak	00:55:08;
+
+[PrintText]=00:55:18	Itaru	¡Sí!	00:56:23;
+
+[PlayVoice]=00:55:18	Voice05/05-5O/05-5O-D02/05-5O-D02-0210	0	ita	00:56:23;
+
+ ;
+
+[Next]=00:57:07;
+
+

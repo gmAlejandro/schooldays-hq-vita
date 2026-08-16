@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:29:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:29:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:29:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-K02/05-KB-K02-001	00:03:21;
+
+[PrintText]=00:00:00	Makoto	...	00:03:19;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-K02/05-KB-K02-0030	1	xxx	00:03:19;
+
+[PrintText]=00:03:19	Kotonoha	¿...No?^	00:05:02;
+
+[PlayVoice]=00:03:19	Voice05/05-KB/05-KB-K02/05-KB-K02-0040	0	kot	00:05:02;
+
+[CreateBG]=00:03:21	BGS	Event05/05-KB/05-KB-K02/05-KB-K02-002	00:09:06;
+
+[PrintText]=00:05:02	Makoto	No.	00:07:17;
+
+[PlayVoice]=00:05:02	Voice05/05-KB/05-KB-K02/05-KB-K02-0050	1	mak	00:07:17;
+
+[PrintText]=00:07:17	Kotonoha	¿Eh...?^	00:08:11;
+
+[PlayVoice]=00:07:17	Voice05/05-KB/05-KB-K02/05-KB-K02-0060	0	kot	00:08:11;
+
+[PrintText]=00:08:11	Makoto	Ya hice planes para almorzar mañana con Sekai.	00:13:21;
+
+[PlayVoice]=00:08:11	Voice05/05-KB/05-KB-K02/05-KB-K02-0070	1	mak	00:13:21;
+
+[CreateBG]=00:09:06	BGS	Event05/05-KB/05-KB-K02/05-KB-K02-003	00:13:22;
+
+[PrintText]=00:13:21	Kotonoha	Ya veo...	00:15:13;
+
+[PlayVoice]=00:13:21	Voice05/05-KB/05-KB-K02/05-KB-K02-0080	0	kot	00:15:13;
+
+[CreateBG]=00:13:22	BGS	Event05/05-KB/05-KB-K02/05-KB-K02-004	00:16:05;
+
+[PrintText]=00:15:13	Makoto	Perdón.	00:17:15;
+
+[PlayVoice]=00:15:13	Voice05/05-KB/05-KB-K02/05-KB-K02-0090	1	mak	00:17:15;
+
+[PlayMovie]=00:16:05	Movie05/05-KB/05-KB-K02/05-KB-K02-005	0	00:29:08;
+
+[PrintText]=00:17:15	Kotonoha	No hay problema...	00:18:12;
+
+[PlayVoice]=00:17:15	Voice05/05-KB/05-KB-K02/05-KB-K02-0100	0	kot	00:18:12;
+
+[PrintText]=00:18:12	Makoto	Hay alguien más importante para mi que mis amigos... por favor entiende.	00:27:10;
+
+[PlayVoice]=00:18:12	Voice05/05-KB/05-KB-K02/05-KB-K02-0110	1	mak	00:27:10;
+
+[PrintText]=00:27:11	Kotonoha	...	00:28:08;
+
+[PlayVoice]=00:27:11	Voice05/05-KB/05-KB-K02/05-KB-K02-0120	0	xxx	00:28:08;
+
+[BlackFade]=00:28:08	OUT	00:29:08;
+
+ ;
+
+[Next]=00:29:08;
+
+

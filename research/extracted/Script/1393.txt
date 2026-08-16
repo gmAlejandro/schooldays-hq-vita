@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:46:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:46:08;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-M00/02-2K-M00-001	0	00:03:11;
+
+[PrintText]=00:02:07	Makoto	Estoy enamorado de Sekai.	00:05:10;
+
+[PlayVoice]=00:02:07	Voice05/05-A2/05-A2-A00/05-A2-A00-0030	1	mak	00:05:10;
+
+[PlayMovie]=00:03:11	Movie05/05-A2/05-A2-A00/05-A2-A00-002	0	00:16:12;
+
+[PrintText]=00:07:08	Makoto	No pude resistirme a la tentación de estar con Kotonoha... por eso es que, terminé lastimando a Sekai...	00:15:03;
+
+[PlayVoice]=00:07:08	Voice05/05-A2/05-A2-A00/05-A2-A00-0040	1	mak	00:15:03;
+
+[CreateBG]=00:16:12	BGS	Event05/05-A2/05-A2-A00/05-A2-A00-003	00:41:00;
+
+[PrintText]=00:16:13	Makoto	Incluso ella estando enamorada de mi todo este tiempo... la he lastimado de una manera muy, muy baja...	00:25:13;
+
+[PlayVoice]=00:16:13	Voice05/05-A2/05-A2-A00/05-A2-A00-0050	1	mak	00:25:13;
+
+[PrintText]=00:27:03	Makoto	Pero la amo...	00:29:12;
+
+[PlayVoice]=00:27:03	Voice05/05-A2/05-A2-A00/05-A2-A00-0060	1	mak	00:29:12;
+
+[PrintText]=00:31:05	Makoto	... al menos. tengo que decirle lo que hice.	00:33:09;
+
+[PlayVoice]=00:31:05	Voice05/05-A2/05-A2-A00/05-A2-A00-0070	1	mak	00:33:09;
+
+[PrintText]=00:35:03	Makoto	Así no me acercaré más a Kotonoha.	00:39:23;
+
+[PlayVoice]=00:35:03	Voice05/05-A2/05-A2-A00/05-A2-A00-0080	1	mak	00:39:23;
+
+[CreateBG]=00:41:00	BGS	Event05/05-A2/05-A2-A00/05-A2-A00-004	00:46:08;
+
+[PrintText]=00:42:00	Makoto	¡Sekai...!	00:42:22;
+
+[PlayVoice]=00:42:00	Voice05/05-A2/05-A2-A00/05-A2-A00-0090	1	mak	00:42:22;
+
+[PrintText]=00:44:07	Makoto	Te amo.	00:45:09;
+
+[PlayVoice]=00:44:07	Voice05/05-A2/05-A2-A00/05-A2-A00-0100	1	mak	00:45:09;
+
+ ;
+
+[Next]=00:46:08;
+
+

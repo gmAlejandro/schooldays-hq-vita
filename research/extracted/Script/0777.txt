@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:17:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-H00/03-SA-H00-001	00:02:02;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-H00/03-SA-H00-0030	1	xxx	00:00:23;
+
+[PrintText]=00:01:00	Sekai	¿Makoto?^	00:02:01;
+
+[PlayVoice]=00:01:00	Voice03/03-SA/03-SA-H00/03-SA-H00-0040	0	sek	00:02:01;
+
+[PrintText]=00:02:01	Makoto	...	00:02:15;
+
+[PlayVoice]=00:02:01	Voice03/03-SA/03-SA-H00/03-SA-H00-0060	1	xxx	00:02:15;
+
+[CreateBG]=00:02:02	BGS	Event03/03-SA/03-SA-G02/03-SA-G02-001	00:03:18;
+
+[PrintText]=00:02:15	Sekai	Cielos.	00:03:17;
+
+[PlayVoice]=00:02:15	Voice03/03-SA/03-SA-H00/03-SA-H00-0070	0	sek	00:03:17;
+
+[PrintText]=00:03:17	Makoto	¡Ah!	00:04:14;
+
+[PlayVoice]=00:03:17	Voice03/03-SA/03-SA-H00/03-SA-H00-0090	1	mak	00:04:14;
+
+[CreateBG]=00:03:18	BGS	Event03/03-SA/03-SA-H00/03-SA-H00-002	00:04:14;
+
+[CreateBG]=00:04:14	BGS	Event03/03-SA/03-SA-H00/03-SA-H00-004	00:12:00;
+
+[PrintText]=00:04:14	Sekai	No hagas nada si vas a estar pensando en otra cosa.	00:08:13;
+
+[PlayVoice]=00:04:14	Voice03/03-SA/03-SA-H00/03-SA-H00-0100	0	sek	00:08:13;
+
+[PrintText]=00:08:13	Makoto	S-Sí... perdón.	00:12:00;
+
+[PlayVoice]=00:08:13	Voice03/03-SA/03-SA-H00/03-SA-H00-0110	1	mak	00:12:00;
+
+[CreateBG]=00:12:00	BGS	Event03/03-SA/03-SA-H00/03-SA-H00-005	00:17:00;
+
+[PrintText]=00:12:00	Sekai	¡Vamos! Ya que hemos cambiado un poco el ritmo, volvamos a clases.	00:15:21;
+
+[PlayVoice]=00:12:00	Voice03/03-SA/03-SA-H00/03-SA-H00-0120	0	sek	00:15:21;
+
+[PrintText]=00:15:21	Makoto	Sí, vale.	00:16:21;
+
+[PlayVoice]=00:15:21	Voice03/03-SA/03-SA-H00/03-SA-H00-0130	1	mak	00:16:21;
+
+ ;
+
+[Next]=00:17:00;
+
+

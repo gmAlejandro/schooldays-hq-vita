@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:13:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/station	00:13:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-K01/05-5O-K01-001	00:04:09;
+
+[PrintText]=00:00:03	Makoto	Bueno, así es...	00:01:05;
+
+[PlayVoice]=00:00:03	Voice05/05-5O/05-5O-K02/05-5O-K02-0030	1	mak	00:01:05;
+
+[PrintText]=00:01:08	Otome	Lo es... ¿Huh...?^	00:03:14;
+
+[PlayVoice]=00:01:08	Voice05/05-5O/05-5O-K02/05-5O-K02-0040	0	oto	00:03:14;
+
+[PrintText]=00:03:12	Makoto	...	00:04:06;
+
+[PlayVoice]=00:03:12	Voice05/05-5O/05-5O-K02/05-5O-K02-0050	1	xxx	00:04:06;
+
+[PrintText]=00:04:08	Otome	Bueno, entonces tomaré el tren de siempre.	00:07:14;
+
+[PlayVoice]=00:04:08	Voice05/05-5O/05-5O-K02/05-5O-K02-0060	0	oto	00:07:14;
+
+[CreateBG]=00:04:09	BGS	Event05/05-5O/05-5O-K02/05-5O-K02-002	00:07:16;
+
+[CreateBG]=00:07:16	BGS	Event05/05-5O/05-5O-K00/05-5O-K00-004	00:11:07;
+
+[PrintText]=00:07:17	Makoto	No, eso...	00:08:11;
+
+[PlayVoice]=00:07:17	Voice05/05-5O/05-5O-K02/05-5O-K02-0070	1	mak	00:08:11;
+
+[PrintText]=00:08:13	Otome	Después de todo, es el que siempre suelo tomar.	00:11:08;
+
+[PlayVoice]=00:08:13	Voice05/05-5O/05-5O-K02/05-5O-K02-0080	0	oto	00:11:08;
+
+[CreateBG]=00:11:07	BGS	Event05/05-5O/05-5O-K00/05-5O-K00-002	00:13:05;
+
+[PrintText]=00:11:09	Makoto	Sí...	00:12:04;
+
+[PlayVoice]=00:11:09	Voice05/05-5O/05-5O-K02/05-5O-K02-0090	1	mak	00:12:04;
+
+[BlackFade]=00:12:05	OUT	00:13:05;
+
+ ;
+
+[Next]=00:13:05;
+
+

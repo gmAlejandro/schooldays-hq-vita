@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:06:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:06:07;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-P04/SE02-2S-P04-001	00:06:07;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-P04/02-2S-P04-001	00:03:10;
+
+[PrintText]=00:00:00	Makoto	Debería olvidarte.	00:03:08;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-P04/02-2S-P04-0030	1	mak	00:03:08;
+
+[CreateBG]=00:03:10	BGS	Event02/02-2S/02-2S-P04/02-2S-P04-002	00:04:11;
+
+[PrintText]=00:03:14	Sekai	¡¿Eh?!	00:04:03;
+
+[PlayVoice]=00:03:14	Voice02/02-2S/02-2S-P04/02-2S-P04-0040	0	sek	00:04:03;
+
+[CreateBG]=00:04:11	BGS	Event02/02-2S/02-2S-P04/02-2S-P04-003	00:06:07;
+
+[PrintText]=00:04:19	Makoto	Yo...	00:05:16;
+
+[PlayVoice]=00:04:19	Voice02/02-2S/02-2S-P04/02-2S-P04-0050	1	mak	00:05:16;
+
+ ;
+
+[Next]=00:06:07;
+
+
+
+

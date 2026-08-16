@@ -1,0 +1,40 @@
+﻿[SkipFRAME]=00:08:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:08:16;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-B03/05-KA-B03-001	00:01:17;
+
+[CreateBG]=00:01:17	BGS	Event05/05-KA/05-KA-B03/05-KA-B03-002	00:03:02;
+
+[PrintText]=00:01:17	Hikari	¿Sekai...?^	00:03:02;
+
+[PlayVoice]=00:01:17	Voice05/05-KA/05-KA-B03/05-KA-B03-0040	0	hik	00:03:02;
+
+[CreateBG]=00:03:02	BGS	Event05/05-KA/05-KA-B03/05-KA-B03-003	00:03:20;
+
+[PrintText]=00:03:02	Sekai	¡Saldré... temprano!	00:05:00;
+
+[PlayVoice]=00:03:02	Voice05/05-KA/05-KA-B03/05-KA-B03-0060	0	sek	00:05:00;
+
+[CreateBG]=00:03:20	BGS	Event05/05-KA/05-KA-B03/05-KA-B03-004	00:04:13;
+
+[CreateBG]=00:04:13	BGS	Event05/05-KA/05-KA-B03/05-KA-B03-005	00:05:02;
+
+[CreateBG]=00:05:02	BGS	Event05/05-KA/05-KA-B03/05-KA-B03-006	00:08:16;
+
+[PrintText]=00:05:02	Hikari	¡Sekai!	00:06:12;
+
+[PlayVoice]=00:05:02	Voice05/05-KA/05-KA-B03/05-KA-B03-0080	0	hik	00:06:12;
+
+[PrintText]=00:06:15	Setsuna	Sekai...	00:07:16;
+
+[PlayVoice]=00:06:15	Voice05/05-KA/05-KA-B03/05-KA-B03-0090	0	set	00:07:16;
+
+[BlackFade]=00:07:16	OUT	00:08:16;
+
+ ;
+
+[Next]=00:08:16;
+
+
+

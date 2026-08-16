@@ -1,0 +1,279 @@
+﻿[SkipFRAME]=04:07:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	04:07:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-001	00:02:00;
+
+[PlaySe]=00:00:03	1	Se03/03-S0/03-S0-A00/SE03-S0-A00-001	00:03:23;
+
+[CreateBG]=00:02:00	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-002	00:04:00;
+
+[CreateBG]=00:04:00	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-003	00:12:09;
+
+[PrintText]=00:04:00	Makoto	...	00:07:21;
+
+[PlayVoice]=00:04:00	Voice03/03-S0/03-S0-A00/03-S0-A00-0060	1	xxx	00:07:21;
+
+[PrintText]=00:07:20	Kotonoha	Ah...	00:08:14;
+
+[PlayVoice]=00:07:20	Voice03/03-S0/03-S0-A00/03-S0-A00-0080	0	kot	00:08:14;
+
+[PrintText]=00:08:14	Kotonoha	Makoto-kun... Has venido.	00:12:08;
+
+[PlayVoice]=00:08:14	Voice03/03-S0/03-S0-A00/03-S0-A00-0100	0	kot	00:12:08;
+
+[CreateBG]=00:12:09	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-004	00:13:12;
+
+[PrintText]=00:12:09	Makoto	...	00:13:11;
+
+[PlayVoice]=00:12:09	Voice03/03-S0/03-S0-A00/03-S0-A00-0110	1	xxx	00:13:11;
+
+[PrintText]=00:13:11	Kotonoha	Gracias al cielo... estoy tan feliz de que lo hiciste.	00:19:19;
+
+[PlayVoice]=00:13:11	Voice03/03-S0/03-S0-A00/03-S0-A00-0120	0	kot	00:19:19;
+
+[CreateBG]=00:13:12	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-005	00:19:20;
+
+[PrintText]=00:19:19	Kotonoha	Esta mañana, le dije a la clase que estábamos saliendo, y querían pruebas...	00:27:14;
+
+[PlayVoice]=00:19:19	Voice03/03-S0/03-S0-A00/03-S0-A00-0130	0	kot	00:27:14;
+
+[CreateBG]=00:19:20	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-006	00:42:05;
+
+[PrintText]=00:27:14	Kotonoha	Entonces, incluso sabiendo que estaría ocupada... y que no podía hacer nada, quería pedirte que vinieras.	00:37:11;
+
+[PlayVoice]=00:27:14	Voice03/03-S0/03-S0-A00/03-S0-A00-0140	0	kot	00:37:11;
+
+[PrintText]=00:37:12	Kotonoha	Por eso es que... estoy feliz.	00:42:05;
+
+[PlayVoice]=00:37:12	Voice03/03-S0/03-S0-A00/03-S0-A00-0150	0	kot	00:42:05;
+
+[PrintText]=00:42:04	Kotonoha	Todos se han ido... pero no me importa si ellos no me creen. Si todo esto es verdad...	00:51:09;
+
+[PlayVoice]=00:42:04	Voice03/03-S0/03-S0-A00/03-S0-A00-0160	0	kot	00:51:09;
+
+[CreateBG]=00:42:05	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-007	01:00:07;
+
+[PrintText]=00:51:09	Kotonoha	Mientras que seamos los dos... no me importa lo que los demás digan.	01:00:06;
+
+[PlayVoice]=00:51:09	Voice03/03-S0/03-S0-A00/03-S0-A00-0170	0	kot	01:00:06;
+
+[PrintText]=01:00:06	Kotonoha	No me importa para nada...	01:01:18;
+
+[PlayVoice]=01:00:06	Voice03/03-S0/03-S0-A00/03-S0-A00-0180	0	kot	01:01:18;
+
+[CreateBG]=01:00:07	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-008	01:03:01;
+
+[PrintText]=01:01:17	Makoto	Kotonoha...	01:02:23;
+
+[PlayVoice]=01:01:17	Voice03/03-S0/03-S0-A00/03-S0-A00-0190	1	mak	01:02:23;
+
+[PrintText]=01:02:23	Kotonoha	¿Sabías? Si pasas el tiempo con alguien durante el festival escolar... esto quiere decir que estás saliendo con esa persona.	01:09:21;
+
+[PlayVoice]=01:02:23	Voice03/03-S0/03-S0-A00/03-S0-A00-0200	0	kot	01:09:21;
+
+[CreateBG]=01:03:01	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-009	01:15:12;
+
+[PrintText]=01:09:21	Makoto	...	01:10:16;
+
+[PlayVoice]=01:09:21	Voice03/03-S0/03-S0-A00/03-S0-A00-0210	1	xxx	01:10:16;
+
+[PrintText]=01:10:16	Kotonoha	¿Fuiste a ver el festival con Saionji-san...?^	01:15:13;
+
+[PlayVoice]=01:10:16	Voice03/03-S0/03-S0-A00/03-S0-A00-0220	0	kot	01:15:13;
+
+[CreateBG]=01:15:12	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-010	01:22:05;
+
+[PrintText]=01:15:13	Makoto	Sí.	01:16:08;
+
+[PlayVoice]=01:15:13	Voice03/03-S0/03-S0-A00/03-S0-A00-0230	1	mak	01:16:08;
+
+[PrintText]=01:16:08	Kotonoha	Las personas podrían malentenderlo, sabes. Pensarán que estás saliendo con Saionji-san.	01:21:10;
+
+[PlayVoice]=01:16:08	Voice03/03-S0/03-S0-A00/03-S0-A00-0240	0	kot	01:21:10;
+
+[PrintText]=01:21:10	Makoto	...	01:22:05;
+
+[PlayVoice]=01:21:10	Voice03/03-S0/03-S0-A00/03-S0-A00-0260	1	xxx	01:22:05;
+
+[CreateBG]=01:22:05	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-011	01:28:13;
+
+[PrintText]=01:22:05	Kotonoha	Yo... soy tu novia.	01:28:12;
+
+[PlayVoice]=01:22:05	Voice03/03-S0/03-S0-A00/03-S0-A00-0270	0	kot	01:28:12;
+
+[CreateBG]=01:28:13	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-012	01:29:14;
+
+[PrintText]=01:28:13	Makoto	...	01:29:13;
+
+[PlayVoice]=01:28:13	Voice03/03-S0/03-S0-A00/03-S0-A00-0280	1	xxx	01:29:13;
+
+[PrintText]=01:29:13	Kotonoha	Y si mi novio... quiere tener sexo con otra chica... es porque no doy mi mejor esfuerzo ¿No?^	01:38:00;
+
+[PlayVoice]=01:29:13	Voice03/03-S0/03-S0-A00/03-S0-A00-0290	0	kot	01:38:00;
+
+[CreateBG]=01:29:14	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-011	01:46:00;
+
+[PrintText]=01:38:00	Kotonoha	Entiendo... después de todo, Saionji-san es hermosa...	01:45:23;
+
+[PlayVoice]=01:38:00	Voice03/03-S0/03-S0-A00/03-S0-A00-0300	0	kot	01:45:23;
+
+[PrintText]=01:45:23	Kotonoha	Pero a pesar de esto, soy bastante tolerante con todo lo que está pasando... así que por esta vez, te perdonaré.	01:54:15;
+
+[PlayVoice]=01:45:23	Voice03/03-S0/03-S0-A00/03-S0-A00-0310	0	kot	01:54:15;
+
+[CreateBG]=01:46:00	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-014	01:54:16;
+
+[PrintText]=01:54:15	Kotonoha	Después de todo, como puedes ver, no tengo experiencia con los chicos...	01:58:16;
+
+[PlayVoice]=01:54:15	Voice03/03-S0/03-S0-A00/03-S0-A00-0320	0	kot	01:58:16;
+
+[CreateBG]=01:54:16	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-010	02:13:14;
+
+[PrintText]=01:58:16	Kotonoha	Y es la primera vez que salgo con alguien, por lo que todo parece tan aterrador...	02:05:17;
+
+[PlayVoice]=01:58:16	Voice03/03-S0/03-S0-A00/03-S0-A00-0321	0	kot	02:05:17;
+
+[PrintText]=02:05:18	Kotonoha	.... cuando pienso pienso en que quieres hacerlo conmigo, que he herido tus sentimientos...	02:13:13;
+
+[PlayVoice]=02:05:18	Voice03/03-S0/03-S0-A00/03-S0-A00-0330	0	kot	02:13:13;
+
+[PrintText]=02:13:13	Kotonoha	Eheheh... siendo inexperta tal vez suene como excusa, pero...	02:19:07;
+
+[PlayVoice]=02:13:13	Voice03/03-S0/03-S0-A00/03-S0-A00-0340	0	kot	02:19:07;
+
+[CreateBG]=02:13:14	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-015	02:19:08;
+
+[PrintText]=02:19:07	Kotonoha	Ahora... quiero hacerlo contigo... y quiero que hagas lo que quieras conmigo...	02:30:21;
+
+[PlayVoice]=02:19:07	Voice03/03-S0/03-S0-A00/03-S0-A00-0341	0	kot	02:30:21;
+
+[CreateBG]=02:19:08	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-016	02:45:22;
+
+[PrintText]=02:30:21	Kotonoha	Y... escucharte decir... que me amas... otra vez...	02:40:23;
+
+[PlayVoice]=02:30:21	Voice03/03-S0/03-S0-A00/03-S0-A00-0350	0	kot	02:40:23;
+
+[PrintText]=02:40:23	Kotonoha	Yo... quiero...	02:45:21;
+
+[PlayVoice]=02:40:23	Voice03/03-S0/03-S0-A00/03-S0-A00-0360	0	kot	02:45:21;
+
+[PrintText]=02:45:21	Kotonoha	...estar contigo.	02:48:06;
+
+[PlayVoice]=02:45:21	Voice03/03-S0/03-S0-A00/03-S0-A00-0370	0	kot	02:48:06;
+
+[CreateBG]=02:45:22	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-017	02:48:07;
+
+[CreateBG]=02:48:07	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-014	02:49:05;
+
+[PrintText]=02:48:07	Makoto	...	02:49:04;
+
+[PlayVoice]=02:48:07	Voice03/03-S0/03-S0-A00/03-S0-A00-0380	1	xxx	02:49:04;
+
+[PrintText]=02:49:04	Kotonoha	Makoto-kun... ¿Sabías...?^	02:52:00;
+
+[PlayVoice]=02:49:04	Voice03/03-S0/03-S0-A00/03-S0-A00-0410	0	kot	02:52:00;
+
+[CreateBG]=02:49:05	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-019	03:01:13;
+
+[PrintText]=02:52:00	Makoto	¿Saber qué?^	02:52:20;
+
+[PlayVoice]=02:52:00	Voice03/03-S0/03-S0-A00/03-S0-A00-0420	1	mak	02:52:20;
+
+[PrintText]=02:52:20	Kotonoha	Hay una tradición en esta escuela...	02:55:10;
+
+[PlayVoice]=02:52:20	Voice03/03-S0/03-S0-A00/03-S0-A00-0430	0	kot	03:01:12;
+
+[PrintText]=02:55:10	Kotonoha	Cuando es el festival escolar, hay una seña secreta que usan las chicas para invitar al chico que le gustan.	03:01:12;
+
+[PrintText]=03:01:12	Makoto	No puede ser una tradición si es un secreto ¿No?^	03:04:12;
+
+[PlayVoice]=03:01:12	Voice03/03-S0/03-S0-A00/03-S0-A00-0440	1	mak	03:04:12;
+
+[CreateBG]=03:01:13	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-020	03:04:13;
+
+[PrintText]=03:04:12	Kotonoha	Es un secreto, pero todas las chicas lo saben.	03:08:02;
+
+[PlayVoice]=03:04:12	Voice03/03-S0/03-S0-A00/03-S0-A00-0450	0	kot	03:08:02;
+
+[CreateBG]=03:04:13	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-021	03:09:11;
+
+[PrintText]=03:08:02	Makoto	¿En serio?^	03:09:11;
+
+[PlayVoice]=03:08:02	Voice03/03-S0/03-S0-A00/03-S0-A00-0460	1	mak	03:09:11;
+
+[PrintText]=03:09:10	Kotonoha	Le extiendes la mano así... al chico que te gusta...	03:15:23;
+
+[PlayVoice]=03:09:10	Voice03/03-S0/03-S0-A00/03-S0-A00-0470	0	kot	03:15:23;
+
+[PlayMovie]=03:09:11	Movie03/03-S0/03-S0-A00/03-S0-A00-022	0	03:20:23;
+
+[PrintText]=03:15:23	Kotonoha	y dices... 'Por favor acompáñame'...	03:19:23;
+
+[PlayVoice]=03:15:23	Voice03/03-S0/03-S0-A00/03-S0-A00-0490	0	kot	03:19:23;
+
+[PrintText]=03:19:23	Makoto	...	03:20:22;
+
+[PlayVoice]=03:19:23	Voice03/03-S0/03-S0-A00/03-S0-A00-0500	1	xxx	03:20:22;
+
+[PrintText]=03:20:22	Kotonoha	Y si el chico acepta ir contigo... él toma tu mano.	03:28:23;
+
+[PlayVoice]=03:20:22	Voice03/03-S0/03-S0-A00/03-S0-A00-0510	0	kot	03:28:23;
+
+[CreateBG]=03:20:23	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-023	03:29:00;
+
+[PrintText]=03:28:23	Makoto	...	03:30:02;
+
+[PlayVoice]=03:28:23	Voice03/03-S0/03-S0-A00/03-S0-A00-0520	1	xxx	03:30:02;
+
+[CreateBG]=03:29:00	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-024	03:43:18;
+
+[PrintText]=03:30:02	Kotonoha	¡Y entonces...! ¡Atrás, los dos solos, y...!	03:42:05;
+
+[PlayVoice]=03:30:02	Voice03/03-S0/03-S0-A00/03-S0-A00-0530	0	kot	03:42:05;
+
+[PrintText]=03:42:05	Makoto	Quieres decir...	03:43:17;
+
+[PlayVoice]=03:42:05	Voice03/03-S0/03-S0-A00/03-S0-A00-0540	1	mak	03:43:17;
+
+[PlayVoice]=03:43:17	Voice03/03-S0/03-S0-A00/03-S0-A00-0550			03:44:23;
+
+[PlayMovie]=03:43:18	Movie03/03-S0/03-S0-A00/03-S0-A00-025	0	04:03:22;
+
+[PrintText]=03:44:23	Kotonoha	¡Yo...! ¡Si es contigo... no...! Es porque quiero... que seamos una pareja de verdad... ¡Yo..!	03:54:12;
+
+[PlayVoice]=03:44:23	Voice03/03-S0/03-S0-A00/03-S0-A00-0560	0	kot	03:54:12;
+
+[PrintText]=03:54:11	Makoto	Kotonoha...	03:55:17;
+
+[PlayVoice]=03:54:11	Voice03/03-S0/03-S0-A00/03-S0-A00-0570	1	mak	03:55:17;
+
+[PrintText]=03:55:17	Kotonoha	¡Entonces... entonces...!	03:59:08;
+
+[PlayVoice]=03:55:17	Voice03/03-S0/03-S0-A00/03-S0-A00-0580	0	kot	03:59:08;
+
+[PrintText]=03:59:09	Makoto	...	04:00:13;
+
+[PlayVoice]=03:59:09	Voice03/03-S0/03-S0-A00/03-S0-A00-0590	1	xxx	04:00:13;
+
+[PrintText]=04:00:12	Kotonoha	Por favor...	04:02:17;
+
+[PlayVoice]=04:00:12	Voice03/03-S0/03-S0-A00/03-S0-A00-0600	0	kot	04:02:17;
+
+[PrintText]=04:02:17	Makoto	...	04:03:21;
+
+[PlayVoice]=04:02:17	Voice03/03-S0/03-S0-A00/03-S0-A00-0620	1	xxx	04:03:21;
+
+[PlayMovie]=04:03:22	Movie03/03-S0/03-S0-A00/03-S0-A00-026	0	04:06:00;
+
+[CreateBG]=04:06:00	BGS	Event03/03-S0/03-S0-A00/03-S0-A00-027	04:07:10;
+
+[PrintText]=04:06:00	Kotonoha	Ah...	04:07:09;
+
+[PlayVoice]=04:06:00	Voice03/03-S0/03-S0-A00/03-S0-A00-0650	0	kot	04:07:09;
+
+ ;
+
+[Next]=04:07:10;
+
+

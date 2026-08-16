@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:16:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:16:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-G02/05-KF-G02-001	00:03:16;
+
+[PrintText]=00:00:00	Makoto	Olvídalo.	00:02:07;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G02/05-KF-G02-0030	1	mak	00:02:07;
+
+[PrintText]=00:02:08	Kotonoha	¿En serio?^	00:03:15;
+
+[PlayVoice]=00:02:08	Voice05/05-KF/05-KF-G02/05-KF-G02-0040	0	kot	00:03:15;
+
+[PrintText]=00:03:15	Makoto	Sí... acabo de olvidarlo completamente.	00:07:19;
+
+[PlayVoice]=00:03:15	Voice05/05-KF/05-KF-G02/05-KF-G02-0050	1	mak	00:07:19;
+
+[CreateBG]=00:03:16	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-005	00:16:00;
+
+[PrintText]=00:07:20	Kotonoha	Suele pasar ¿No es así? Ufufuf...	00:12:04;
+
+[PlayVoice]=00:07:20	Voice05/05-KF/05-KF-G02/05-KF-G02-0060	0	kot	00:12:04;
+
+[PrintText]=00:12:04	Makoto	...	00:14:09;
+
+[PlayVoice]=00:12:04	Voice05/05-KF/05-KF-G02/05-KF-G02-0070	1	xxx	00:14:09;
+
+[BlackFade]=00:15:00	OUT	00:16:00;
+
+ ;
+
+[Next]=00:16:00;
+
+
+
+

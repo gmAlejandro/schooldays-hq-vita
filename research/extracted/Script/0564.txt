@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:33:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:33:06;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G09/SE03-KA-G09-001	00:33:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-001	00:04:05;
+
+[PrintText]=00:00:00	Makoto	No.	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-G09/03-KA-G09-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:00	Setsuna	Ya veo.	00:01:20;
+
+[PlayVoice]=00:01:00	Voice03/03-KA/03-KA-G09/03-KA-G09-0040	0	set	00:01:20;
+
+[PrintText]=00:02:13	Makoto	Um... Taisuke y los otros probablemente estén en la cafetería, y estaba pensando en reunirme con ellos.	00:08:03;
+
+[PlayVoice]=00:02:13	Voice03/03-KA/03-KA-G09/03-KA-G09-0050	1	mak	00:08:03;
+
+[CreateBG]=00:04:05	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-002	00:08:03;
+
+[CreateBG]=00:08:03	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-003	00:11:07;
+
+[PrintText]=00:08:05	Setsuna	Sí buscas a Sawanaga, él está en la sala de profesores.	00:11:03;
+
+[PlayVoice]=00:08:05	Voice03/03-KA/03-KA-G09/03-KA-G09-0060	0	set	00:11:03;
+
+[PrintText]=00:10:23	Makoto	¿Cómo lo sabes?^	00:13:14;
+
+[PlayVoice]=00:10:23	Voice03/03-KA/03-KA-G09/03-KA-G09-0070	1	mak	00:13:14;
+
+[CreateBG]=00:11:07	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-004	00:13:13;
+
+[CreateBG]=00:13:13	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-005A	00:18:06;
+
+[PrintText]=00:13:13	Setsuna	Es la tercera vez que lo veo en este mes, a sido convocado.	00:18:01;
+
+[PlayVoice]=00:13:13	Voice03/03-KA/03-KA-G09/03-KA-G09-0080	0	set	00:18:01;
+
+[CreateBG]=00:18:06	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-005B	00:22:19;
+
+[PrintText]=00:18:07	Makoto	...Ahora que lo pienso, fue llamado por Yamamoto hoy.	00:23:00;
+
+[PlayVoice]=00:18:07	Voice03/03-KA/03-KA-G09/03-KA-G09-0090	1	mak	00:23:00;
+
+[CreateBG]=00:22:19	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-005C	00:23:22;
+
+[PrintText]=00:23:04	Setsuna	Uh-huh.	00:23:19;
+
+[PlayVoice]=00:23:04	Voice03/03-KA/03-KA-G09/03-KA-G09-0100	0	set	00:23:19;
+
+[CreateBG]=00:23:22	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-005D	00:27:19;
+
+[PrintText]=00:24:00	Makoto	Vale, comeré aquí entonces.	00:27:16;
+
+[PlayVoice]=00:24:00	Voice03/03-KA/03-KA-G09/03-KA-G09-0110	1	mak	00:27:16;
+
+[CreateBG]=00:27:19	BGS	Event03/03-KA/03-KA-G09/03-KA-G09-006	00:33:06;
+
+[PrintText]=00:27:22	Setsuna	Te puedo dar un poco de mi pan.	00:30:03;
+
+[PlayVoice]=00:27:22	Voice03/03-KA/03-KA-G09/03-KA-G09-0120	0	set	00:30:03;
+
+[PrintText]=00:30:03	Makoto	Eso me haría feliz.	00:32:00;
+
+[PlayVoice]=00:30:03	Voice03/03-KA/03-KA-G09/03-KA-G09-0130	1	mak	00:32:00;
+
+[BlackFade]=00:32:06	OUT	00:33:06;
+
+ ;
+
+[Next]=00:33:06;
+
+

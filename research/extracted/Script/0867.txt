@@ -1,0 +1,161 @@
+﻿[SkipFRAME]=01:18:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	01:24:22;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-M00/SE03-SB-M00-001	01:24:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-M00/03-SB-M00-002	00:15:08;
+
+[PrintText]=00:00:10	Makoto	¡Hey!	00:01:11;
+
+[PlayVoice]=00:00:10	Voice03/03-SB/03-SB-M00/03-SB-M00-0040	1	mak	00:01:11;
+
+[PrintText]=00:01:11	Sekai	Ah...	00:02:18;
+
+[PlayVoice]=00:01:11	Voice03/03-SB/03-SB-M00/03-SB-M00-0050	0	sek	00:02:18;
+
+[PrintText]=00:02:18	Makoto	¿Tú eras la que fue a comprar las cosas?^	00:06:11;
+
+[PlayVoice]=00:02:18	Voice03/03-SB/03-SB-M00/03-SB-M00-0070	1	mak	00:06:11;
+
+[PrintText]=00:06:10	Sekai	Sip. Mi turno ya estaba por terminar, y no tenía nada que hacer.	00:10:21;
+
+[PlayVoice]=00:06:10	Voice03/03-SB/03-SB-M00/03-SB-M00-0080	0	sek	00:10:21;
+
+[PrintText]=00:10:22	Makoto	Ya veo. Bueno, cargaré eso entonces, dámelo.	00:15:07;
+
+[PlayVoice]=00:10:22	Voice03/03-SB/03-SB-M00/03-SB-M00-0090	1	mak	00:15:07;
+
+[PrintText]=00:15:07	Sekai	Ah... solo es eso.	00:18:08;
+
+[PlayVoice]=00:15:07	Voice03/03-SB/03-SB-M00/03-SB-M00-0100	0	sek	00:18:08;
+
+[CreateBG]=00:15:08	BGS	Event03/03-SB/03-SB-M00/03-SB-M00-002B	00:22:10;
+
+[PrintText]=00:18:08	Makoto	¿Eh? ¿Solo es una pequeña bolsa?^	00:21:17;
+
+[PlayVoice]=00:18:08	Voice03/03-SB/03-SB-M00/03-SB-M00-0110	1	mak	00:21:17;
+
+[PrintText]=00:21:17	Sekai	Uh-huh...	00:22:10;
+
+[PlayVoice]=00:21:17	Voice03/03-SB/03-SB-M00/03-SB-M00-0120	0	sek	00:22:10;
+
+[PrintText]=00:22:09	Makoto	Cielos, Kiyoura estaba hablando de que ibas a estar totalmente carga, incluso puedes cargar esto tú.	00:31:23;
+
+[PlayVoice]=00:22:09	Voice03/03-SB/03-SB-M00/03-SB-M00-0130	1	mak	00:31:23;
+
+[CreateBG]=00:22:10	BGS	Event03/03-SB/03-SB-M00/03-SB-M00-002C	00:47:20;
+
+[PrintText]=00:31:23	Sekai	Creo que es considerada conmigo.	00:35:05;
+
+[PlayVoice]=00:31:23	Voice03/03-SB/03-SB-M00/03-SB-M00-0140	0	sek	00:35:05;
+
+[PrintText]=00:35:05	Makoto	¿Eh...?^	00:35:19;
+
+[PlayVoice]=00:35:05	Voice03/03-SB/03-SB-M00/03-SB-M00-0150	1	mak	00:35:19;
+
+[PrintText]=00:35:19	Sekai	Porque piensa que estamos saliendo.	00:39:16;
+
+[PlayVoice]=00:35:19	Voice03/03-SB/03-SB-M00/03-SB-M00-0160	0	sek	00:39:16;
+
+[PrintText]=00:39:15	Makoto	Ah...	00:40:08;
+
+[PlayVoice]=00:39:15	Voice03/03-SB/03-SB-M00/03-SB-M00-0170	1	mak	00:40:08;
+
+[PrintText]=00:40:08	Sekai	Lo siento...	00:41:06;
+
+[PlayVoice]=00:40:08	Voice03/03-SB/03-SB-M00/03-SB-M00-0180	0	sek	00:41:06;
+
+[PrintText]=00:41:06	Makoto	No, está bien. No tenía nada que hacer igual.	00:44:17;
+
+[PlayVoice]=00:41:06	Voice03/03-SB/03-SB-M00/03-SB-M00-0190	1	mak	00:44:17;
+
+[PrintText]=00:44:17	Sekai	¿En serio?^	00:45:17;
+
+[PlayVoice]=00:44:17	Voice03/03-SB/03-SB-M00/03-SB-M00-0200	0	sek	00:45:17;
+
+[PrintText]=00:45:17	Makoto	Estoy libre hasta que llegue el evento de la fogata.	00:47:19;
+
+[PlayVoice]=00:45:17	Voice03/03-SB/03-SB-M00/03-SB-M00-0210	1	mak	00:47:19;
+
+[PrintText]=00:47:19	Sekai	Te encontrarás con Katsura-san para el baile folk.	00:51:02;
+
+[PlayVoice]=00:47:19	Voice03/03-SB/03-SB-M00/03-SB-M00-0220	0	sek	00:51:02;
+
+[CreateBG]=00:47:20	BGS	Event03/03-SB/03-SB-M00/03-SB-M00-003	00:54:09;
+
+[PrintText]=00:51:02	Makoto	Sí.	00:51:20;
+
+[PlayVoice]=00:51:02	Voice03/03-SB/03-SB-M00/03-SB-M00-0230	1	mak	00:51:20;
+
+[PrintText]=00:51:20	Sekai	...Por supuesto.	00:54:09;
+
+[PlayVoice]=00:51:20	Voice03/03-SB/03-SB-M00/03-SB-M00-0240	0	sek	00:54:09;
+
+[CreateBG]=00:54:09	BGS	Event03/03-SB/03-SB-M00/03-SB-M00-004	00:57:14;
+
+[PrintText]=00:54:09	Makoto	Ah, perdón...	00:56:08;
+
+[PlayVoice]=00:54:09	Voice03/03-SB/03-SB-M00/03-SB-M00-0250	1	mak	00:56:08;
+
+[PrintText]=00:56:08	Sekai	No pasa nada.	00:57:13;
+
+[PlayVoice]=00:56:08	Voice03/03-SB/03-SB-M00/03-SB-M00-0260	0	sek	00:57:13;
+
+[PrintText]=00:57:13	Makoto	Escucha... ¿Por qué no vamos a algún lugar a divertirnos?^	01:01:15;
+
+[PlayVoice]=00:57:13	Voice03/03-SB/03-SB-M00/03-SB-M00-0270	1	mak	01:01:15;
+
+[CreateBG]=00:57:14	BGS	Event03/03-SB/03-SB-M00/03-SB-M00-004B	01:02:12;
+
+[PrintText]=01:01:15	Sekai	¿Algún lugar?^	01:02:11;
+
+[PlayVoice]=01:01:15	Voice03/03-SB/03-SB-M00/03-SB-M00-0280	0	sek	01:02:11;
+
+[PrintText]=01:02:11	Makoto	El festival. Vamos a verlo juntos.	01:05:05;
+
+[PlayVoice]=01:02:11	Voice03/03-SB/03-SB-M00/03-SB-M00-0290	1	mak	01:05:05;
+
+[CreateBG]=01:02:12	BGS	Event03/03-SB/03-SB-M00/03-SB-M00-004C	01:13:21;
+
+[PrintText]=01:05:05	Sekai	Está bien. Iré a clases.	01:07:21;
+
+[PlayVoice]=01:05:05	Voice03/03-SB/03-SB-M00/03-SB-M00-0300	0	sek	01:07:21;
+
+[PrintText]=01:07:20	Makoto	No tienes nada que hacer si te quedas.	01:10:07;
+
+[PlayVoice]=01:07:20	Voice03/03-SB/03-SB-M00/03-SB-M00-0310	1	mak	01:10:07;
+
+[PrintText]=01:10:06	Sekai	Ayudaré.	01:11:09;
+
+[PlayVoice]=01:10:06	Voice03/03-SB/03-SB-M00/03-SB-M00-0320	0	sek	01:11:09;
+
+[PrintText]=01:11:09	Makoto	Ya no estás ocupado.	01:13:21;
+
+[PlayVoice]=01:11:09	Voice03/03-SB/03-SB-M00/03-SB-M00-0330	1	mak	01:13:21;
+
+[CreateBG]=01:13:21	BGS	Event03/03-SB/03-SB-M00/03-SB-M00-005	01:24:22;
+
+[PrintText]=01:13:21	Sekai	Voy a ayudar.	01:15:12;
+
+[PlayVoice]=01:13:21	Voice03/03-SB/03-SB-M00/03-SB-M00-0340	0	sek	01:15:12;
+
+[PrintText]=01:15:12	Makoto	¡Sekai!	01:16:15;
+
+[PlayVoice]=01:15:12	Voice03/03-SB/03-SB-M00/03-SB-M00-0350	1	mak	01:16:15;
+
+[PrintText]=01:16:15	Sekai	...	01:17:01;
+
+[PlayVoice]=01:16:15	Voice03/03-SB/03-SB-M00/03-SB-M00-0360	0	xxx	01:17:01;
+
+[PrintText]=01:18:10	Makoto	Cielos...	01:19:09;
+
+[PlayVoice]=01:18:10	Voice03/03-SB/03-SB-M00/03-SB-M00-0370	1	mak	01:19:09;
+
+[SetSELECT]=01:18:22	'¿Es tu última palabra?'	'¡Solo ven conmigo!'	01:23:22;
+
+ ;
+
+[Next]=01:24:22;
+
+

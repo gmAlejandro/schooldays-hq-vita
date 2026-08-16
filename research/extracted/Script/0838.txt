@@ -1,0 +1,181 @@
+﻿[SkipFRAME]=01:27:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	01:27:11;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-G05/SE03-SB-G05-001	00:29:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-001	00:02:15;
+
+[PrintText]=00:00:00	Makoto	...	00:01:03;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-G05/03-SB-G05-0030	1	xxx	00:01:03;
+
+[PrintText]=00:01:03	Taisuke	¿En qué tanto piensas?^	00:02:15;
+
+[PlayVoice]=00:01:03	Voice03/03-SB/03-SB-G05/03-SB-G05-0040	1	tai	00:02:15;
+
+[CreateBG]=00:02:15	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-002	00:03:20;
+
+[PrintText]=00:02:15	Makoto	Oh, nada...	00:03:20;
+
+[PlayVoice]=00:02:15	Voice03/03-SB/03-SB-G05/03-SB-G05-0050	1	mak	00:03:20;
+
+[CreateBG]=00:03:20	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-003	00:09:14;
+
+[PrintText]=00:03:20	Setsuna	La siguiente orden. Ah, Sawanaga.	00:09:14;
+
+[PlayVoice]=00:03:20	Voice03/03-SB/03-SB-G05/03-SB-G05-0060	0	set	00:09:14;
+
+[CreateBG]=00:09:14	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-004	00:17:22;
+
+[PrintText]=00:09:14	Taisuke	Hey, vine a ayudar.	00:11:04;
+
+[PlayVoice]=00:09:14	Voice03/03-SB/03-SB-G05/03-SB-G05-0070	1	tai	00:11:04;
+
+[PrintText]=00:11:04	Setsuna	Espera no es tu tiempo de descanso, y has llegado 10 minutos tarde.	00:16:13;
+
+[PlayVoice]=00:11:04	Voice03/03-SB/03-SB-G05/03-SB-G05-0080	0	set	00:16:13;
+
+[PrintText]=00:16:13	Taisuke	¿Hay mucho trabajo, huh?^	00:18:00;
+
+[PlayVoice]=00:16:13	Voice03/03-SB/03-SB-G05/03-SB-G05-0090	1	tai	00:18:00;
+
+[CreateBG]=00:17:22	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-005	00:20:06;
+
+[PrintText]=00:18:00	Setsuna	¿A dónde te vas ahora Itou?^	00:20:06;
+
+[PlayVoice]=00:18:00	Voice03/03-SB/03-SB-G05/03-SB-G05-0100	0	set	00:20:06;
+
+[CreateBG]=00:20:06	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-006	00:24:21;
+
+[PrintText]=00:20:06	Taisuke	Pues parece que no tiene nada que hacer. Que nos ayude.	00:23:01;
+
+[PlayVoice]=00:20:06	Voice03/03-SB/03-SB-G05/03-SB-G05-0110	1	tai	00:23:01;
+
+[PrintText]=00:23:00	Setsuna	Sí... no.	00:25:15;
+
+[PlayVoice]=00:23:00	Voice03/03-SB/03-SB-G05/03-SB-G05-0120	0	set	00:25:15;
+
+[CreateBG]=00:24:21	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-007	00:29:06;
+
+[PrintText]=00:25:16	Taisuke	¿Qué pasa?^	00:26:14;
+
+[PlayVoice]=00:25:16	Voice03/03-SB/03-SB-G05/03-SB-G05-0130	1	tai	00:26:14;
+
+[PrintText]=00:26:14	Setsuna	Si estás libre, entonces ayúdanos con algo.	00:29:06;
+
+[PlayVoice]=00:26:14	Voice03/03-SB/03-SB-G05/03-SB-G05-0140	0	set	00:29:06;
+
+[PlaySe]=00:29:00	2	Se03/03-SB/03-SB-G05/SE03-SB-G05-001	00:58:07;
+
+[CreateBG]=00:29:06	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-008	00:32:18;
+
+[PrintText]=00:29:07	Makoto	¿Con qué?^	00:30:11;
+
+[PlayVoice]=00:29:07	Voice03/03-SB/03-SB-G05/03-SB-G05-0150	1	mak	00:30:11;
+
+[PrintText]=00:30:11	Setsuna	Compra ingredientes. Nos hemos quedado sin panes y papas fritas.	00:36:10;
+
+[PlayVoice]=00:30:11	Voice03/03-SB/03-SB-G05/03-SB-G05-0160	0	set	00:36:10;
+
+[CreateBG]=00:32:18	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-009	00:52:07;
+
+[PrintText]=00:36:09	Makoto	Seguro.	00:38:01;
+
+[PlayVoice]=00:36:09	Voice03/03-SB/03-SB-G05/03-SB-G05-0170	1	mak	00:38:01;
+
+[PrintText]=00:38:00	Setsuna	Ve y encuentra a la chica que a ido.	00:40:09;
+
+[PlayVoice]=00:38:00	Voice03/03-SB/03-SB-G05/03-SB-G05-0180	0	set	00:40:09;
+
+[PrintText]=00:40:09	Makoto	¿Dónde?^	00:41:08;
+
+[PlayVoice]=00:40:09	Voice03/03-SB/03-SB-G05/03-SB-G05-0190	1	mak	00:41:08;
+
+[PrintText]=00:41:08	Setsuna	La tienda al frente de la estación. Ella pondrá las cosas en orden mientras te espera.	00:47:04;
+
+[PlayVoice]=00:41:08	Voice03/03-SB/03-SB-G05/03-SB-G05-0200	0	set	00:47:04;
+
+[PrintText]=00:47:04	Makoto	¿Ponr las cosas en orden? ¿Es bastante...? Vale, entendido.	00:52:06;
+
+[PlayVoice]=00:47:04	Voice03/03-SB/03-SB-G05/03-SB-G05-0210	1	mak	00:52:06;
+
+[PrintText]=00:52:06	Setsuna	Lo dejo en tus manos entonces.	00:53:21;
+
+[PlayVoice]=00:52:06	Voice03/03-SB/03-SB-G05/03-SB-G05-0220	0	set	00:53:21;
+
+[CreateBG]=00:52:07	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-010	00:53:21;
+
+[CreateBG]=00:53:21	BGS	System/Screen/Black	00:55:13;
+
+[PrintText]=00:53:21	Setsuna	Hey, Hikari.	00:55:14;
+
+[PlayVoice]=00:53:21	Voice03/03-SB/03-SB-G05/03-SB-G05-0260	0	set	00:55:14;
+
+[CreateBG]=00:55:13	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-012	01:07:23;
+
+[PrintText]=00:55:14	Hikari	¿Qué pasa?^	00:56:19;
+
+[PlayVoice]=00:55:14	Voice03/03-SB/03-SB-G05/03-SB-G05-0270	0	hik	00:56:19;
+
+[PrintText]=00:56:18	Setsuna	El letrero de los sandwiches, cámbialo a 'Vendido'.	01:01:08;
+
+[PlayVoice]=00:56:18	Voice03/03-SB/03-SB-G05/03-SB-G05-0280	0	set	01:01:08;
+
+[PlaySe]=00:58:03	1	Se03/03-SB/03-SB-G05/SE03-SB-G05-001	01:27:10;
+
+[PrintText]=01:01:07	Hikari	Vale ¿Qué pasa? ¿La tienda está cerrada?^	01:05:05;
+
+[PlayVoice]=01:01:07	Voice03/03-SB/03-SB-G05/03-SB-G05-0290	0	hik	01:05:05;
+
+[PrintText]=01:05:05	Setsuna	Sekai no regresa.	01:08:00;
+
+[PlayVoice]=01:05:05	Voice03/03-SB/03-SB-G05/03-SB-G05-0300	0	set	01:08:00;
+
+[CreateBG]=01:07:23	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-013	01:12:12;
+
+[PrintText]=01:08:00	Hikari	¿Eh?^	01:08:22;
+
+[PlayVoice]=01:08:00	Voice03/03-SB/03-SB-G05/03-SB-G05-0310	0	hik	01:08:22;
+
+[PrintText]=01:08:22	Setsuna	...	01:10:08;
+
+[PlayVoice]=01:08:22	Voice03/03-SB/03-SB-G05/03-SB-G05-0320	0	xxx	01:10:08;
+
+[PrintText]=01:10:08	Hikari	¿Es por Itou?^	01:12:12;
+
+[PlayVoice]=01:10:08	Voice03/03-SB/03-SB-G05/03-SB-G05-0330	0	hik	01:12:12;
+
+[CreateBG]=01:12:12	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-014	01:13:12;
+
+[PrintText]=01:12:12	Setsuna	Por favor.	01:13:12;
+
+[PlayVoice]=01:12:12	Voice03/03-SB/03-SB-G05/03-SB-G05-0340	0	set	01:13:12;
+
+[CreateBG]=01:13:12	BGS	Event03/03-SB/03-SB-G05/03-SB-G05-015	01:23:23;
+
+[PrintText]=01:13:12	Hikari	Haah... Vale. ¿Pero qué vamos a hacer? Si Sekai no regresa.	01:21:10;
+
+[PlayVoice]=01:13:12	Voice03/03-SB/03-SB-G05/03-SB-G05-0350	0	hik	01:21:10;
+
+[PrintText]=01:21:09	Setsuna	Está bien. Yo puedo seguir trabajando.	01:23:21;
+
+[PlayVoice]=01:21:09	Voice03/03-SB/03-SB-G05/03-SB-G05-0360	0	set	01:23:21;
+
+[PrintText]=01:23:21	Hikari	Uwah. Cuanta amistad.	01:26:02;
+
+[PlayVoice]=01:23:21	Voice03/03-SB/03-SB-G05/03-SB-G05-0370	0	hik	01:26:02;
+
+[CreateBG]=01:23:23	BGS	Ini/Event03/03-SB/03-SB-G05/03-SB-G05-016	01:27:10;
+
+#[PrintText]=01:23:23	Setsuna	De: Setsuna\nTitulo: Re:\n¡No regreses! Envié a Itou a verte. Setsuna.	01:26:02;
+
+[PrintText]=01:26:02	Setsuna	Uh-huh.	01:26:16;
+
+[PlayVoice]=01:26:02	Voice03/03-SB/03-SB-G05/03-SB-G05-0380	0	set	01:26:16;
+
+ ;
+
+[Next]=01:27:11;
+
+

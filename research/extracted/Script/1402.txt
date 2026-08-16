@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:41:14;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/gaya/okujou	00:14:02;
+
+[CreateBG]=00:00:00	BGS	Event05/05-B0/05-B0-B00/05-B0-B00-001	00:05:17;
+
+[PlayVoice]=00:00:00	Voice05/05-B0/05-B0-B00/05-B0-B00-0040	1	tat	00:05:06;
+
+[CreateBG]=00:05:17	BGS	Event05/05-B0/05-B0-B00/05-B0-B00-002	00:14:02;
+
+[PrintText]=00:05:20	Sekai	¡Nanami! ¡Vamos juntas!	00:08:23;
+
+[PlayVoice]=00:05:20	Voice05/05-B0/05-B0-B00/05-B0-B00-0060	0	sek	00:08:23;
+
+[PrintText]=00:09:00	Nanami	¡Seguro!	00:10:01;
+
+[PlayVoice]=00:09:00	Voice05/05-B0/05-B0-B00/05-B0-B00-0070	0	nan	00:10:01;
+
+[PlayBgm]=00:10:01	BGM/SD_BGM/sdbgm21	00:41:14;
+
+[PrintText]=00:10:01	Kotonoha	...	00:13:15;
+
+[PlayVoice]=00:10:01	Voice05/05-B0/05-B0-B00/05-B0-B00-0080	0	xxx	00:13:15;
+
+[CreateBG]=00:14:02	BGS	Event05/05-B0/05-B0-B00/05-B0-B00-003	00:16:14;
+
+[PrintText]=00:14:02	Juego	"Idiota"   "¡Muérete!"\n"Métete conmigo".	00:16:13;
+
+[PlayVoice]=00:15:02	Voice05/05-B0/05-B0-B00/05-B0-B00-0110	0	kot	00:15:21;
+
+[CreateBG]=00:16:14	BGS	Event05/05-B0/05-B0-B00/05-B0-B00-004	00:21:14;
+
+[PrintText]=00:16:17	Kotonoha	Qué horrible...	00:17:22;
+
+[PlayVoice]=00:16:17	Voice05/05-B0/05-B0-B00/05-B0-B00-0140	0	kot	00:17:22;
+
+[PrintText]=00:18:15	Kotonoha	...	00:20:19;
+
+[PlayVoice]=00:18:15	Voice05/05-B0/05-B0-B00/05-B0-B00-0160	0	xxx	00:20:19;
+
+[CreateBG]=00:21:14	BGS	Event00/00-00/00-00-A03/00-00-A03-008	00:26:09;
+
+[PlayVoice]=00:21:16	Voice05/05-B0/05-B0-B00/05-B0-B00-0170	1	kob	00:26:10;
+
+[CreateBG]=00:26:09	BGS	Event05/05-B0/05-B0-B00/05-B0-B00-006	00:27:11;
+
+[PrintText]=00:26:12	Kotonoha	Pues bien...	00:27:04;
+
+[PlayVoice]=00:26:12	Voice05/05-B0/05-B0-B00/05-B0-B00-0180	0	kot	00:27:04;
+
+[CreateBG]=00:27:11	BGS	Ini/Event05/05-B0/05-B0-B00/05-B0-B00-007	00:29:18;
+
+#[PrintText]=00:27:10	Juego	"Empieza desde Hoy".	00:29:18;
+
+[CreateBG]=00:29:18	BGS	Event05/05-B0/05-B0-B00/05-B0-B00-006	00:30:20;
+
+[PrintText]=00:29:18	Kotonoha	...no puedo leerlo.	00:30:22;
+
+[PlayVoice]=00:29:18	Voice05/05-B0/05-B0-B00/05-B0-B00-0220	0	kot	00:30:22;
+
+[CreateBG]=00:30:20	BGS	Event00/00-00/00-00-A03/00-00-A03-008	00:36:05;
+
+[PlayVoice]=00:31:00	Voice05/05-B0/05-B0-B00/05-B0-B00-0240	1	kob	00:36:04;
+
+[CreateBG]=00:36:05	BGS	Event05/05-B0/05-B0-B00/05-B0-B00-004	00:41:14;
+
+[PlaySe]=00:36:07	1	Voice05/05-B0/05-B0-B00/05-B0-B00-0250	00:41:03;
+
+[PrintText]=00:38:18	Kotonoha	...	00:40:07;
+
+[PlayVoice]=00:38:18	Voice05/05-B0/05-B0-B00/05-B0-B00-0270	0	xxx	00:40:07;
+
+[BlackFade]=00:40:14	OUT	00:41:14;
+
+[PlaySe]=00:41:03	2	Voice05/05-B0/05-B0-B00/05-B0-B00-0251	00:41:14;
+
+ ;
+
+[Next]=00:41:14;
+
+

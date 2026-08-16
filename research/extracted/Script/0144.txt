@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:11:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:11:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-C04/01-1K-C04-001	00:02:05;
+
+[PrintText]=00:00:00	Makoto	Veamos Peleando con Nemo.	00:01:18;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C04/01-1K-C04-0030	1	mak	00:01:18;
+
+[CreateBG]=00:02:05	BGS	Event01/01-1K/01-1K-C04/01-1K-C04-002	00:06:20;
+
+[PrintText]=00:02:05	Makoto	Suena bien... además que a Sekai le gustó.	00:06:12;
+
+[PlayVoice]=00:02:05	Voice01/01-1K/01-1K-C04/01-1K-C04-0040	1	mak	00:06:12;
+
+[CreateBG]=00:06:20	BGS	Event01/01-1K/01-1K-C01/01-1K-C01-002	00:11:20;
+
+[PrintText]=00:06:20	Makoto	¿Esto debería estar bien?^	00:08:19;
+
+[PlayVoice]=00:06:20	Voice01/01-1K/01-1K-C04/01-1K-C04-0050	1	mak	00:08:19;
+
+[PrintText]=00:09:01	Makoto	Sip, está decidido.	00:10:14;
+
+[PlayVoice]=00:09:01	Voice01/01-1K/01-1K-C04/01-1K-C04-0060	1	mak	00:10:14;
+
+[BlackFade]=00:10:20	OUT	00:11:20;
+
+ ;
+
+[Next]=00:11:20;
+
+
+
+

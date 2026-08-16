@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:09:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:09:09;
+
+[PlaySe]=00:00:00	2	Se02/02-2K/02-2K-J01/SE02-2K-J01-001	00:09:09;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-J01/02-2K-J01-002	00:05:00;
+
+[PrintText]=00:00:00	Makoto	¿Por qué has esperado hoy?^	00:01:16;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-J01/02-2K-J01-0030	1	mak	00:01:16;
+
+[PrintText]=00:01:16	Kotonoha	Quería ir a casa contigo.	00:04:02;
+
+[PlayVoice]=00:01:16	Voice02/02-2K/02-2K-J01/02-2K-J01-0040	0	kot	00:04:02;
+
+[PlaySe]=00:04:03	1	Voice02/02-2K/02-2K-J01/02-2K-J01-0050	00:04:22;
+
+[CreateBG]=00:05:00	BGS	Event02/02-2K/02-2K-J01/02-2K-J01-003	00:09:09;
+
+[PrintText]=00:05:00	Makoto	Ya veo...	00:08:03;
+
+[PlayVoice]=00:05:00	Voice02/02-2K/02-2K-J01/02-2K-J01-0060	1	mak	00:08:03;
+
+[PlaySe]=00:08:02	1	Voice02/02-2K/02-2K-J01/02-2K-J01-0070	00:08:14;
+
+ ;
+
+[Next]=00:09:09;
+
+
+
+

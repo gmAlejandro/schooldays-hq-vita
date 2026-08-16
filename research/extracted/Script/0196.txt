@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:10:08;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-B01/SE02-2K-B01-001	00:10:08;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-B01/02-2K-B01-001	00:02:11;
+
+[CreateBG]=00:02:11	BGS	Event02/02-2K/02-2K-B01/02-2K-B01-002	00:10:08;
+
+[PrintText]=00:03:23	Kotonoha	Makoto-kun se está haciendo tarde...	00:08:11;
+
+[PlayVoice]=00:03:23	Voice02/02-2K/02-2K-B01/02-2K-B01-0040	0	kot	00:08:11;
+
+[BlackFade]=00:09:08	OUT	00:10:08;
+
+ ;
+
+[Next]=00:10:08;
+
+
+
+

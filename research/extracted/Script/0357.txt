@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:11:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:11:16;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-P05/SE02-2S-P05-001	00:11:16;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-P05/02-2S-P05-001	00:01:18;
+
+[PrintText]=00:00:00	Makoto	Significas mucho para mí...	00:01:04;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-P05/02-2S-P05-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:01	Sekai	¡¿Eh?!	00:01:14;
+
+[PlayVoice]=00:01:01	Voice02/02-2S/02-2S-P05/02-2S-P05-0040	0	sek	00:01:14;
+
+[CreateBG]=00:01:18	BGS	Event02/02-2S/02-2S-P05/02-2S-P05-002	00:07:08;
+
+[PrintText]=00:02:01	Makoto	Te amo más que a nadie.	00:05:04;
+
+[PlayVoice]=00:02:01	Voice02/02-2S/02-2S-P05/02-2S-P05-0050	1	mak	00:05:04;
+
+[PrintText]=00:05:04	Sekai	M... Makoto...	00:07:07;
+
+[PlayVoice]=00:05:04	Voice02/02-2S/02-2S-P05/02-2S-P05-0060	0	sek	00:07:07;
+
+[CreateBG]=00:07:08	BGS	Event02/02-2S/02-2S-P05/02-2S-P05-003	00:11:16;
+
+[PrintText]=00:07:16	Makoto	¿Cómo puedo hacer que me creas?^	00:09:08;
+
+[PlayVoice]=00:07:16	Voice02/02-2S/02-2S-P05/02-2S-P05-0070	1	mak	00:09:08;
+
+[PrintText]=00:10:02	Sekai	No lo sé...	00:11:05;
+
+[PlayVoice]=00:10:02	Voice02/02-2S/02-2S-P05/02-2S-P05-0080	0	sek	00:11:05;
+
+ ;
+
+[Next]=00:11:16;
+
+
+
+

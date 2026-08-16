@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:14:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:12:15;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-C04/01-00-C04-001	00:04:02;
+
+[PrintText]=00:00:12	Makoto	Me gusta Sekai después de todo.	00:03:09;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-C04/01-00-C04-0030	1	xxx	00:03:09;
+
+[WhiteFade]=00:03:14	OUT	00:04:02;
+
+[CreateBG]=00:04:02	BGS	Event01/01-00/01-00-C04/01-00-C04-002	00:07:03;
+
+[WhiteFade]=00:04:02	IN	00:04:14;
+
+[PrintText]=00:04:19	Makoto	Realmente la he pasado bien estos días con ella.	00:09:05;
+
+[PlayVoice]=00:04:19	Voice01/01-00/01-00-C04/01-00-C04-0040	1	xxx	00:09:05;
+
+[CreateBG]=00:07:03	BGS	Event01/01-00/01-00-C04/01-00-C04-003	00:09:18;
+
+[WhiteFade]=00:09:06	OUT	00:09:18;
+
+[CreateBG]=00:09:18	BGS	Event01/01-00/01-00-C04/01-00-C04-004	00:14:18;
+
+[WhiteFade]=00:09:18	IN	00:10:06;
+
+[PrintText]=00:10:18	Makoto	Pero...	00:11:15;
+
+[PlayVoice]=00:10:18	Voice01/01-00/01-00-C04/01-00-C04-0050	1	xxx	00:11:15;
+
+ ;
+
+[Next]=00:14:18;
+
+
+
+
+
+

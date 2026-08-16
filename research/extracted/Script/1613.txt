@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:20:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:26:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-C05/05-KG-C05-001	00:01:22;
+
+[PrintText]=00:00:00	Sekai	...	00:01:21;
+
+[PlayVoice]=00:00:00	Voice05/05-KG/05-KG-C05/05-KG-C05-0030	0	xxx	00:01:21;
+
+[BlackFade]=00:01:10	OUT	00:01:22;
+
+[PlaySe]=00:01:22	1	SysSe/SE_all/school/chime	00:20:08;
+
+[CreateBG]=00:01:22	BGS	Event05/05-KG/05-KG-C05/05-KG-C05-002	00:06:03;
+
+[CreateBG]=00:06:03	BGS	Event05/05-KG/05-KG-C05/05-KG-C05-003A	00:10:17;
+
+[PrintText]=00:06:03	Makoto	Haah... finalmente a terminado. ¿A dónde te gustaría ir a comer Sekai?^	00:13:23;
+
+[PlayVoice]=00:06:03	Voice05/05-KG/05-KG-C05/05-KG-C05-0070	1	mak	00:13:23;
+
+[CreateBG]=00:10:17	BGS	Event05/05-KG/05-KG-C05/05-KG-C05-003B	00:13:23;
+
+[CreateBG]=00:13:23	BGS	Event05/05-KG/05-KG-C05/05-KG-C05-003C	00:16:00;
+
+[PrintText]=00:13:23	Sekai	Veamos...	00:16:00;
+
+[PlayVoice]=00:13:23	Voice05/05-KG/05-KG-C05/05-KG-C05-0080	0	sek	00:16:00;
+
+[CreateBG]=00:16:00	BGS	Event05/05-KG/05-KG-C05/05-KG-C05-004	00:17:17;
+
+[PrintText]=00:16:02	Makoto	¡Ah!	00:17:16;
+
+[PlayVoice]=00:16:02	Voice05/05-KG/05-KG-C05/05-KG-C05-0090	1	mak	00:17:16;
+
+[CreateBG]=00:17:17	BGS	Event05/05-KG/05-KG-C05/05-KG-C05-005	00:19:04;
+
+[PrintText]=00:18:00	Sekai	¿Eh?^	00:18:13;
+
+[PlayVoice]=00:18:00	Voice05/05-KG/05-KG-C05/05-KG-C05-0100	0	sek	00:18:13;
+
+[CreateBG]=00:19:04	BGS	Event05/05-KG/05-KG-C05/05-KG-C05-006	00:26:06;
+
+[SetSELECT]=00:20:04	*Traerla*	*Ir hacia ella*	00:25:04;
+
+ ;
+
+[Next]=00:26:06;
+
+
+
+

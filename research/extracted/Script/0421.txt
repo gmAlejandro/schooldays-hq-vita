@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:17:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:17:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-D07/03-A1-D07-004	00:09:13;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-D10/03-A1-D10-0030	1	xxx	00:00:23;
+
+[PrintText]=00:01:03	Setsuna	...	00:01:13;
+
+[PlayVoice]=00:01:03	Voice03/03-A1/03-A1-D10/03-A1-D10-0040	0	xxx	00:01:13;
+
+[PrintText]=00:02:03	Makoto	¿...Seguirás haciendo eso hasta que hable?^	00:05:21;
+
+[PlayVoice]=00:02:03	Voice03/03-A1/03-A1-D10/03-A1-D10-0050	1	mak	00:05:21;
+
+[PrintText]=00:06:04	Setsuna	Uh-huh.	00:06:19;
+
+[PlayVoice]=00:06:04	Voice03/03-A1/03-A1-D10/03-A1-D10-0060	0	set	00:06:19;
+
+[PrintText]=00:07:07	Makoto	...	00:08:14;
+
+[PlayVoice]=00:07:07	Voice03/03-A1/03-A1-D10/03-A1-D10-0070	1	xxx	00:08:14;
+
+[PrintText]=00:08:20	Setsuna	...	00:09:06;
+
+[PlayVoice]=00:08:20	Voice03/03-A1/03-A1-D10/03-A1-D10-0080	0	xxx	00:09:06;
+
+[CreateBG]=00:09:13	BGS	Event03/03-A1/03-A1-D10/03-A1-D10-002	00:17:00;
+
+[PrintText]=00:09:18	Makoto	Haah... Bien. Vale.	00:12:15;
+
+[PlayVoice]=00:09:18	Voice03/03-A1/03-A1-D10/03-A1-D10-0090	1	mak	00:12:15;
+
+[PrintText]=00:12:18	Setsuna	...	00:14:01;
+
+[PlayVoice]=00:12:18	Voice03/03-A1/03-A1-D10/03-A1-D10-0100	0	xxx	00:14:01;
+
+[PrintText]=00:14:08	Makoto	Solo quieres que hable ¿No?^	00:15:22;
+
+[PlayVoice]=00:14:08	Voice03/03-A1/03-A1-D10/03-A1-D10-0110	1	mak	00:15:22;
+
+[PrintText]=00:15:23	Setsuna	Uh-huh.	00:16:14;
+
+[PlayVoice]=00:15:23	Voice03/03-A1/03-A1-D10/03-A1-D10-0120	0	set	00:16:14;
+
+ ;
+
+[Next]=00:17:00;
+
+

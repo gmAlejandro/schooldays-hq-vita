@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:13:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E10/05-5O-E10-001	00:02:14;
+
+[PrintText]=00:00:07	Makoto	...	00:02:09;
+
+[PlayVoice]=00:00:07	Voice05/05-5O/05-5O-E10/05-5O-E10-0030	1	xxx	00:02:09;
+
+[CreateBG]=00:02:14	BGS	Event05/05-5O/05-5O-E10/05-5O-E10-002	00:06:00;
+
+[PrintText]=00:02:18	Taisuke	¿Hmn? ¿Qué pasa? ¿Por qué tan distraído?^	00:05:05;
+
+[PlayVoice]=00:02:18	Voice05/05-5O/05-5O-E10/05-5O-E10-0040	1	tai	00:05:05;
+
+[PrintText]=00:05:06	Makoto	Oh, nada...	00:05:20;
+
+[PlayVoice]=00:05:06	Voice05/05-5O/05-5O-E10/05-5O-E10-0050	1	mak	00:05:20;
+
+[PlayBgm]=00:06:00	BGM/SD_BGM/sdbgm17	00:13:05;
+
+[CreateBG]=00:06:00	BGS	Event05/05-5O/05-5O-E10/05-5O-E10-003	00:08:10;
+
+[PrintText]=00:06:00	Hikari	Taisuke, apurate y come.	00:08:11;
+
+[PlayVoice]=00:06:00	Voice05/05-5O/05-5O-E10/05-5O-E10-0060	0	hik	00:08:11;
+
+[CreateBG]=00:08:10	BGS	Event05/05-5O/05-5O-E10/05-5O-E10-004	00:09:03;
+
+[PrintText]=00:08:12	Taisuke	¿Eh?^	00:09:02;
+
+[PlayVoice]=00:08:12	Voice05/05-5O/05-5O-E10/05-5O-E10-0070	1	tai	00:09:02;
+
+[CreateBG]=00:09:03	BGS	Event05/05-5O/05-5O-E10/05-5O-E10-005	00:13:05;
+
+[PrintText]=00:09:03	Hikari	¿A qué viene el 'eh'? Hice el almuerzo y todo.	00:13:04;
+
+[PlayVoice]=00:09:03	Voice05/05-5O/05-5O-E10/05-5O-E10-0080	0	hik	00:13:04;
+
+ ;
+
+[Next]=00:13:05;
+
+

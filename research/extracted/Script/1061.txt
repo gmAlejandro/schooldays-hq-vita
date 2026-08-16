@@ -1,0 +1,205 @@
+﻿[SkipFRAME]=01:43:22;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/kyousitu_rouka	00:08:00;
+
+[PlaySe]=00:00:00	3	Se04/04-KE/04-KE-C00/SE04-KE-C00-001	00:25:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-001	00:05:20;
+
+[PrintText]=00:00:00	Kotonoha	Ah... Cielos.	00:01:23;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-C00/04-KE-C00-0040	0	kot	00:01:23;
+
+[PrintText]=00:01:23	Makoto	Es mejor que volvamos a clases.	00:04:11;
+
+[PlayVoice]=00:01:23	Voice04/04-KE/04-KE-C00/04-KE-C00-0050	1	mak	00:04:11;
+
+[PrintText]=00:04:11	Kotonoha	Sí, tienes razón.	00:05:19;
+
+[PlayVoice]=00:04:11	Voice04/04-KE/04-KE-C00/04-KE-C00-0060	0	kot	00:05:19;
+
+[PrintText]=00:05:19	Sekai	¡No! ¡Para!	00:08:01;
+
+[PlayVoice]=00:05:19	Voice04/04-KE/04-KE-C00/04-KE-C00-0080	0	sek	00:08:01;
+
+[CreateBG]=00:05:20	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-002	00:08:19;
+
+[PlayBgm]=00:07:23	BGM/SD_BGM/sdbgm23	01:43:22;
+
+[PrintText]=00:08:00	Makoto	¿Eh?!	00:08:18;
+
+[PlayVoice]=00:08:00	Voice04/04-KE/04-KE-C00/04-KE-C00-0090	1	mak	00:08:18;
+
+[CreateBG]=00:08:19	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-003	00:13:21;
+
+[PrintText]=00:08:19	Kotonoha	¿Qué pasa?... ¿Saionji-san?^	00:12:09;
+
+[PlayVoice]=00:08:19	Voice04/04-KE/04-KE-C00/04-KE-C00-0100	0	kot	00:12:09;
+
+[PrintText]=00:12:09	Makoto	Sí...	00:13:09;
+
+[PlayVoice]=00:12:09	Voice04/04-KE/04-KE-C00/04-KE-C00-0110	1	mak	00:13:09;
+
+[PlayMovie]=00:13:21	Movie04/04-KE/04-KE-C00/04-KE-C00-004	0	00:15:13;
+
+[PrintText]=00:14:08	Sekai	¡Eres increíble!	00:15:22;
+
+[PlayVoice]=00:14:08	Voice04/04-KE/04-KE-C00/04-KE-C00-0130	0	sek	00:15:22;
+
+[CreateBG]=00:15:13	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-005	00:16:10;
+
+[PrintText]=00:15:13	Makoto	Ah...	00:16:11;
+
+[PlayVoice]=00:15:13	Voice04/04-KE/04-KE-C00/04-KE-C00-0150	1	mak	00:16:11;
+
+[PlayMovie]=00:16:10	Movie04/04-KE/04-KE-C00/04-KE-C00-006	0	00:18:22;
+
+[PrintText]=00:16:10	Kotonoha	Saionji-san...	00:17:23;
+
+[PlayVoice]=00:16:10	Voice04/04-KE/04-KE-C00/04-KE-C00-0160	0	kot	00:17:23;
+
+[PlayMovie]=00:18:22	Movie04/04-KE/04-KE-C00/04-KE-C00-007	0	00:22:16;
+
+[PlayMovie]=00:22:16	Movie04/04-KE/04-KE-C00/04-KE-C00-008	0	00:24:10;
+
+[PrintText]=00:23:01	Sekai	Makoto...	00:24:01;
+
+[PlayVoice]=00:23:01	Voice04/04-KE/04-KE-C00/04-KE-C00-0170	0	sek	00:24:01;
+
+[CreateBG]=00:24:09	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-009	00:27:06;
+
+[PrintText]=00:24:12	Makoto	Sekai...	00:26:10;
+
+[PlayVoice]=00:24:12	Voice04/04-KE/04-KE-C00/04-KE-C00-0190	1	mak	00:26:10;
+
+[PrintText]=00:26:09	Sekai	¡...!	00:27:10;
+
+[PlayVoice]=00:26:09	Voice04/04-KE/04-KE-C00/04-KE-C00-0200	0	sek	00:27:10;
+
+[PlaySe]=00:26:14	1	SysSe/SE_all/footsteps/asioto_out_run	00:30:09;
+
+[CreateBG]=00:27:06	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-010	00:31:09;
+
+[PrintText]=00:27:10	Taisuke	¡Espera! ¡Te dije que lo sentía! Lo intentaré la próxima vez... ¿huh?^	00:33:07;
+
+[PlayVoice]=00:27:10	Voice04/04-KE/04-KE-C00/04-KE-C00-0220	1	tai	00:33:07;
+
+[CreateBG]=00:31:09	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-011	00:38:02;
+
+[PrintText]=00:33:07	Makoto	Taisuke...	00:34:19;
+
+[PlayVoice]=00:33:07	Voice04/04-KE/04-KE-C00/04-KE-C00-0240	1	mak	00:34:19;
+
+[PrintText]=00:34:19	Taisuke	Hey, Makoto.	00:36:07;
+
+[PlayVoice]=00:34:19	Voice04/04-KE/04-KE-C00/04-KE-C00-0250	1	tai	00:36:07;
+
+[PrintText]=00:36:07	Makoto	Tú...	00:38:06;
+
+[PlayVoice]=00:36:07	Voice04/04-KE/04-KE-C00/04-KE-C00-0260	1	mak	00:38:06;
+
+[CreateBG]=00:38:02	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-012	00:42:12;
+
+[PrintText]=00:38:06	Taisuke	Heheh.	00:39:01;
+
+[PlayVoice]=00:38:06	Voice04/04-KE/04-KE-C00/04-KE-C00-0270	1	tai	00:39:01;
+
+[PrintText]=00:39:01	Kotonoha	Makoto-kun, la clase va a comenzar.	00:42:16;
+
+[PlayVoice]=00:39:01	Voice04/04-KE/04-KE-C00/04-KE-C00-0280	0	kot	00:42:16;
+
+[CreateBG]=00:42:12	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-013	00:47:19;
+
+[PrintText]=00:42:16	Makoto	Adelántate, luego voy.	00:46:14;
+
+[PlayVoice]=00:42:16	Voice04/04-KE/04-KE-C00/04-KE-C00-0290	1	mak	00:46:14;
+
+[PrintText]=00:46:15	Kotonoha	Está bien.	00:47:23;
+
+[PlayVoice]=00:46:15	Voice04/04-KE/04-KE-C00/04-KE-C00-0300	0	kot	00:47:23;
+
+[CreateBG]=00:47:19	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-014	00:51:09;
+
+[PrintText]=00:47:23	Makoto	...¿A dónde vas?^	00:51:13;
+
+[PlayVoice]=00:47:23	Voice04/04-KE/04-KE-C00/04-KE-C00-0320	1	mak	00:51:13;
+
+[PlaySe]=00:48:03	1	SysSe/SE_all/footsteps/asioto_out_walk	00:53:12;
+
+[CreateBG]=00:51:09	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-015	01:06:12;
+
+[PrintText]=00:51:13	Taisuke	Haha... Lo viste.	00:54:02;
+
+[PlayVoice]=00:51:13	Voice04/04-KE/04-KE-C00/04-KE-C00-0330	1	tai	00:54:02;
+
+[PrintText]=00:54:02	Makoto	¿Estabas... haciéndolo con Sekai?^	00:57:23;
+
+[PlayVoice]=00:54:02	Voice04/04-KE/04-KE-C00/04-KE-C00-0340	1	mak	00:57:23;
+
+[PrintText]=00:57:23	Taisuke	Sí, no lo parece, pero tiene mucha experiencia. Me ha dejado hacerle todo tipo de cosas. ¡Es sorprendente!	01:06:17;
+
+[PlayVoice]=00:57:23	Voice04/04-KE/04-KE-C00/04-KE-C00-0350	1	tai	01:06:17;
+
+[CreateBG]=01:06:12	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-016	01:25:00;
+
+[PrintText]=01:06:17	Makoto	...	01:07:15;
+
+[PlayVoice]=01:06:17	Voice04/04-KE/04-KE-C00/04-KE-C00-0360	1	xxx	01:07:15;
+
+[PrintText]=01:07:15	Taisuke	Primero dice que no, y después acepta. A medida que pasa el tiempo, le va gustando. Ya te dije, ella...	01:18:04;
+
+[PlayVoice]=01:07:15	Voice04/04-KE/04-KE-C00/04-KE-C00-0370	1	tai	01:18:04;
+
+[PrintText]=01:18:03	Makoto	Mírala, estaba llorando.	01:21:17;
+
+[PlayVoice]=01:18:03	Voice04/04-KE/04-KE-C00/04-KE-C00-0380	1	mak	01:21:17;
+
+[PrintText]=01:21:17	Taisuke	Sí, bueno, eso...	01:23:17;
+
+[PlayVoice]=01:21:17	Voice04/04-KE/04-KE-C00/04-KE-C00-0390	1	tai	01:23:17;
+
+[PrintText]=01:23:17	Makoto	¿Qué hiciste con ella?^	01:25:04;
+
+[PlayVoice]=01:23:17	Voice04/04-KE/04-KE-C00/04-KE-C00-0400	1	mak	01:25:04;
+
+[CreateBG]=01:25:00	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-017	01:34:20;
+
+[PrintText]=01:25:04	Taisuke	Me dijo que usara condón, pero no quise...	01:29:18;
+
+[PlayVoice]=01:25:04	Voice04/04-KE/04-KE-C00/04-KE-C00-0410	1	tai	01:29:18;
+
+[PrintText]=01:29:21	Taisuke	Le dije que acabaría afuera, pero yo...	01:34:16;
+
+[PlayVoice]=01:29:21	Voice04/04-KE/04-KE-C00/04-KE-C00-0411	1	tai	01:34:16;
+
+[CreateBG]=01:34:20	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-016	01:35:23;
+
+[PrintText]=01:34:23	Makoto	¿Pero qué?^	01:36:02;
+
+[PlayVoice]=01:34:23	Voice04/04-KE/04-KE-C00/04-KE-C00-0420	1	mak	01:36:02;
+
+[CreateBG]=01:35:23	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-019	01:39:16;
+
+[PrintText]=01:36:02	Taisuke	Se sentía tan bien, que acabé adentro...	01:38:21;
+
+[PlayVoice]=01:36:02	Voice04/04-KE/04-KE-C00/04-KE-C00-0430	1	tai	01:38:21;
+
+[PrintText]=01:38:22	Makoto	¡...!	01:39:20;
+
+[PlayVoice]=01:38:22	Voice04/04-KE/04-KE-C00/04-KE-C00-0440	1	mak	01:39:20;
+
+[CreateBG]=01:39:16	BGS	Event04/04-KE/04-KE-C00/04-KE-C00-020	01:43:22;
+
+[PrintText]=01:39:20	Taisuke	Desearía que no se molestara por cosas pequeñas como esas...	01:42:11;
+
+[PlayVoice]=01:39:20	Voice04/04-KE/04-KE-C00/04-KE-C00-0450	1	tai	01:42:11;
+
+[PrintText]=01:42:11	Makoto	...	01:43:18;
+
+[PlayVoice]=01:42:11	Voice04/04-KE/04-KE-C00/04-KE-C00-0470	1	xxx	01:43:18;
+
+ ;
+
+[Next]=01:43:22;
+
+

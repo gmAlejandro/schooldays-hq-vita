@@ -1,0 +1,16 @@
+[SkipFRAME]=00:05:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:05:06;
+
+[PlayMovie]=00:00:00	Movie05/05-5O/05-5O-I10/05-5O-I10-001	0	00:03:00;
+
+[PlayVoice]=00:00:11	Voice05/05-5O/05-5O-I10/05-5O-I10-0050			00:02:10;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-I10/05-5O-I10-002	00:05:06;
+
+[PlayVoice]=00:04:12	Voice05/05-5O/05-5O-I10/05-5O-I10-0070			00:05:06;
+
+ ;
+
+[Next]=00:05:06;
+

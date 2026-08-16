@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:52:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:05:03;
+
+[PlayMovie]=00:00:00	Movie04/04-KA/04-KA-L00/04-KA-L00-022	0	00:05:03;
+
+[MoveSom]=00:00:00	5	00:05:03;
+
+[PlayMovie]=00:05:03	Movie04/04-KA/04-KA-L00/04-KA-L00-023	0	00:09:06;
+
+[PrintText]=00:06:05	Sekai	Makoto...	00:07:10;
+
+[PlayVoice]=00:06:05	Voice04/04-KA/04-KA-L01/04-KA-L01-0050	0	sek	00:07:10;
+
+[EndBGM]=00:06:14	BGM/Vocal/SDV04	02:17:07;
+
+[CreateBG]=00:09:06	BGS	Ini/EndRoll/04-04	00:12:00;
+
+[EndRoll]=00:12:00	Ini/EndRoll/NORMAL	00:52:00;
+
+ ;
+
+[Next]=00:52:00;
+
+

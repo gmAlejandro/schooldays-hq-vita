@@ -1,0 +1,121 @@
+﻿[SkipFRAME]=01:01:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	01:01:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/haramasu	01:01:00;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-A00/00-00-A00-016	0	00:00:20;
+
+[PrintText]=00:00:19	Kotonoha	¡Buen día!	00:02:05;
+
+[PlayVoice]=00:00:19	Voice04/04-SA/04-SA-S00/04-SA-S00-0040	0	kot	00:02:05;
+
+[CreateBG]=00:00:20	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-002	00:02:05;
+
+[CreateBG]=00:02:05	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-003	00:07:17;
+
+[PrintText]=00:02:05	Makoto	Buen día.	00:03:06;
+
+[PlayVoice]=00:02:05	Voice04/04-SA/04-SA-S00/04-SA-S00-0050	1	mak	00:03:06;
+
+[PrintText]=00:03:07	Kotonoha	Eheheh... te estaba esperando.	00:06:12;
+
+[PlayVoice]=00:03:07	Voice04/04-SA/04-SA-S00/04-SA-S00-0060	0	kot	00:06:12;
+
+[PrintText]=00:06:11	Makoto	¿Me estabas esperando?^	00:07:16;
+
+[PlayVoice]=00:06:11	Voice04/04-SA/04-SA-S00/04-SA-S00-0070	1	mak	00:07:16;
+
+[PrintText]=00:07:16	Kotonoha	A pasado poco, No sabía cuando ibas a venir... y... pues, lo he estado pensando toda la noche.	00:15:09;
+
+[PlayVoice]=00:07:16	Voice04/04-SA/04-SA-S00/04-SA-S00-0080	0	kot	00:15:09;
+
+[CreateBG]=00:07:17	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-004	00:15:10;
+
+[PrintText]=00:15:09	Makoto	¿Pensar en qué?^	00:16:16;
+
+[PlayVoice]=00:15:09	Voice04/04-SA/04-SA-S00/04-SA-S00-0090	1	mak	00:16:16;
+
+[CreateBG]=00:15:10	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-005	00:16:16;
+
+[CreateBG]=00:16:16	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-006	00:23:00;
+
+[PrintText]=00:16:16	Kotonoha	Bueno... si estás ocupado, entonces puede esperar...	00:22:06;
+
+[PlayVoice]=00:16:16	Voice04/04-SA/04-SA-S00/04-SA-S00-0100	0	kot	00:22:06;
+
+[PrintText]=00:22:06	Makoto	¿Acerca de?^	00:23:01;
+
+[PlayVoice]=00:22:06	Voice04/04-SA/04-SA-S00/04-SA-S00-0110	1	mak	00:23:01;
+
+[CreateBG]=00:23:00	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-007	00:26:18;
+
+[PrintText]=00:23:00	Kotonoha	A pasado tiempo, pero ¿Te gustaría que comiéramos juntos de nuevo?^	00:26:18;
+
+[PlayVoice]=00:23:00	Voice04/04-SA/04-SA-S00/04-SA-S00-0120	0	kot	00:26:18;
+
+[CreateBG]=00:26:18	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-008	00:32:22;
+
+[PrintText]=00:26:18	Makoto	Ah...	00:27:10;
+
+[PlayVoice]=00:26:18	Voice04/04-SA/04-SA-S00/04-SA-S00-0130	1	mak	00:27:10;
+
+[PrintText]=00:27:10	Kotonoha	No solamente los dos... también como ayer.	00:31:09;
+
+[PlayVoice]=00:27:10	Voice04/04-SA/04-SA-S00/04-SA-S00-0140	0	kot	00:31:09;
+
+[PrintText]=00:31:09	Makoto	¿Con Taisuke y los demás?^	00:32:20;
+
+[PlayVoice]=00:31:09	Voice04/04-SA/04-SA-S00/04-SA-S00-0150	1	mak	00:32:20;
+
+[PrintText]=00:32:20	Kotonoha	Sí. ¿Estás libre?^	00:35:08;
+
+[PlayVoice]=00:32:20	Voice04/04-SA/04-SA-S00/04-SA-S00-0160	0	kot	00:35:08;
+
+[CreateBG]=00:32:22	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-009	00:35:08;
+
+[CreateBG]=00:35:08	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-010	00:37:01;
+
+[PrintText]=00:35:08	Makoto	S-Seguro.	00:37:01;
+
+[PlayVoice]=00:35:08	Voice04/04-SA/04-SA-S00/04-SA-S00-0170	1	mak	00:37:01;
+
+[CreateBG]=00:37:01	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-011	00:44:23;
+
+[PrintText]=00:37:01	Kotonoha	Eheheh, Eso es genial. He traído una gran botella de agua que puede ser suficiente para todos.	00:44:01;
+
+[PlayVoice]=00:37:01	Voice04/04-SA/04-SA-S00/04-SA-S00-0180	0	kot	00:44:01;
+
+[PrintText]=00:44:01	Makoto	¿Té negro?^	00:44:21;
+
+[PlayVoice]=00:44:01	Voice04/04-SA/04-SA-S00/04-SA-S00-0190	1	mak	00:44:21;
+
+[PrintText]=00:44:20	Kotonoha	Sí, y está caliente, aunque usualmente no se da caliente.	00:52:11;
+
+[PlayVoice]=00:44:20	Voice04/04-SA/04-SA-S00/04-SA-S00-0200	0	kot	00:52:11;
+
+[CreateBG]=00:44:23	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-002	00:52:11;
+
+[CreateBG]=00:52:11	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-013	00:55:19;
+
+[PrintText]=00:52:11	Makoto	Ha hecho frío últimamente ¿No?^	00:55:21;
+
+[PlayVoice]=00:52:11	Voice04/04-SA/04-SA-S00/04-SA-S00-0210	1	mak	00:55:21;
+
+[CreateBG]=00:55:19	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-014	00:59:11;
+
+[PrintText]=00:55:20	Kotonoha	Sí, pero como está caliente, será más fácil comer en la azotea.	00:59:11;
+
+[PlayVoice]=00:55:20	Voice04/04-SA/04-SA-S00/04-SA-S00-0220	0	kot	00:59:11;
+
+[CreateBG]=00:59:11	BGS	Event04/04-SA/04-SA-S00/04-SA-S00-015	01:01:00;
+
+[PrintText]=00:59:11	Makoto	Es cierto.	01:00:10;
+
+[PlayVoice]=00:59:11	Voice04/04-SA/04-SA-S00/04-SA-S00-0230	1	mak	01:00:10;
+
+ ;
+
+[Next]=01:01:00;
+
+

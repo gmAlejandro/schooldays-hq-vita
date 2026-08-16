@@ -1,0 +1,133 @@
+﻿[SkipFRAME]=02:00:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	01:19:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/beach1	00:39:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-002	00:20:00;
+
+[PrintText]=00:03:05	Makoto	Ella siempre a estado conmigo.	00:05:21;
+
+[PlayVoice]=00:03:05	Voice05/05-5O/05-5O-M00/05-5O-M00-0040	1	xxx	00:05:21;
+
+[PrintText]=00:06:16	Makoto	Desde la primaria...	00:09:06;
+
+[PlayVoice]=00:06:16	Voice05/05-5O/05-5O-M00/05-5O-M00-0050	1	xxx	00:09:06;
+
+[PrintText]=00:10:01	Makoto	Nunca lo noté cuando solíamos andar juntos... pero la persona con quien quería estar... siempre a estado ahí.	00:19:16;
+
+[PlayVoice]=00:10:01	Voice05/05-5O/05-5O-M00/05-5O-M00-0060	1	xxx	00:19:16;
+
+[CreateBG]=00:20:00	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-001	00:44:13;
+
+[PrintText]=00:21:04	Makoto	He pensando en todos esos momentos en los que he pasado buenos ratos...	00:24:18;
+
+[PlayVoice]=00:21:04	Voice05/05-5O/05-5O-M00/05-5O-M00-0070	1	xxx	00:24:18;
+
+[PrintText]=00:25:07	Makoto	Pero todo a sido porque Katou estuvo conmigo.	00:31:05;
+
+[PlayVoice]=00:25:07	Voice05/05-5O/05-5O-M00/05-5O-M00-0080	1	xxx	00:31:05;
+
+[PrintText]=00:32:04	Makoto	Fue tan obvio, y aún así, no lo noté. He sido arrastrado a todo esto, saliendo con otras chicas...	00:44:05;
+
+[PlayVoice]=00:32:04	Voice05/05-5O/05-5O-M00/05-5O-M00-0090	1	xxx	00:44:05;
+
+[PlaySe]=00:38:01	2	SysSe/SE_all/gaya/beach1	01:17:20;
+
+[CreateBG]=00:44:13	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-002	00:51:18;
+
+[PrintText]=00:45:12	Makoto	Y ahora, al aceptar la confesión de Katou es como si estuviera huyendo de todo...	00:51:14;
+
+[PlayVoice]=00:45:12	Voice05/05-5O/05-5O-M00/05-5O-M00-0100	1	xxx	00:51:14;
+
+[CreateBG]=00:51:18	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-005	01:13:23;
+
+[PrintText]=00:52:16	Makoto	¿Tengo derecho a hacer esto?^	00:56:05;
+
+[PlayVoice]=00:52:16	Voice05/05-5O/05-5O-M00/05-5O-M00-0110	1	xxx	00:56:05;
+
+[PrintText]=00:57:02	Makoto	Tal vez no, pero si tan solo...	00:59:11;
+
+[PlayVoice]=00:57:02	Voice05/05-5O/05-5O-M00/05-5O-M00-0120	1	xxx	00:59:11;
+
+[PrintText]=01:00:04	Makoto	...lo hubiera notado.	01:03:10;
+
+[PlayVoice]=01:00:04	Voice05/05-5O/05-5O-M00/05-5O-M00-0130	1	xxx	01:03:10;
+
+[PrintText]=01:03:23	Makoto	También la quiero.	01:07:13;
+
+[PlayVoice]=01:03:23	Voice05/05-5O/05-5O-M00/05-5O-M00-0140	1	xxx	01:07:13;
+
+[PrintText]=01:08:13	Makoto	La quiero más que nadie.	01:13:02;
+
+[PlayVoice]=01:08:13	Voice05/05-5O/05-5O-M00/05-5O-M00-0150	1	xxx	01:13:02;
+
+[CreateBG]=01:13:23	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-006A	01:19:18;
+
+[PrintText]=01:14:10	Makoto	Por eso yo...	01:17:19;
+
+[PlayVoice]=01:14:10	Voice05/05-5O/05-5O-M00/05-5O-M00-0160	1	xxx	01:17:19;
+
+[PlaySe]=01:15:10	1	SysSe/SE_all/gaya/beach1	01:55:05;
+
+[BlackFade]=01:18:08	OUT	01:19:18;
+
+[CreateBG]=01:19:18	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-007	01:27:18;
+
+[BlackFade]=01:19:18	IN	01:21:03;
+
+[PrintText]=01:21:23	Otome	Ah...	01:22:23;
+
+[PlayVoice]=01:21:23	Voice05/05-5O/05-5O-M00/05-5O-M00-0190	0	oto	01:22:23;
+
+[PrintText]=01:23:05	Makoto	Hey.	01:23:21;
+
+[PlayVoice]=01:23:05	Voice05/05-5O/05-5O-M00/05-5O-M00-0200	1	mak	01:23:21;
+
+[PrintText]=01:24:07	Otome	Itou... has venido...	01:27:14;
+
+[PlayVoice]=01:24:07	Voice05/05-5O/05-5O-M00/05-5O-M00-0210	0	oto	01:27:14;
+
+[CreateBG]=01:27:18	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-008	01:50:08;
+
+[PrintText]=01:28:07	Makoto	La chica que más quiero... eres tú después de todo ¿No?^	01:36:10;
+
+[PlayVoice]=01:28:07	Voice05/05-5O/05-5O-M00/05-5O-M00-0220	1	mak	01:36:10;
+
+[PrintText]=01:37:00	Otome	Uh-huh...	01:38:06;
+
+[PlayVoice]=01:37:00	Voice05/05-5O/05-5O-M00/05-5O-M00-0230	0	oto	01:38:06;
+
+[PrintText]=01:38:19	Makoto	Siempre creí que eramos solo buenos amigos, pero la verdad, tal vez no te vea solo como una amiga, sino como una mujer.	01:49:21;
+
+[PlayVoice]=01:38:19	Voice05/05-5O/05-5O-M00/05-5O-M00-0240	1	mak	01:49:21;
+
+[CreateBG]=01:50:08	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-009	01:52:10;
+
+[PrintText]=01:50:17	Otome	Yo también.	01:52:04;
+
+[PlayVoice]=01:50:17	Voice05/05-5O/05-5O-M00/05-5O-M00-0250	0	oto	01:52:04;
+
+[CreateBG]=01:52:10	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-010	01:56:21;
+
+[PlaySe]=01:52:12	2	SysSe/SE_all/gaya/beach1	02:00:00;
+
+[PrintText]=01:52:12	Makoto	Katou... ¿Saldrías conmigo?^	01:56:17;
+
+[PlayVoice]=01:52:12	Voice05/05-5O/05-5O-M00/05-5O-M00-0260	1	mak	01:56:17;
+
+[CreateBG]=01:56:21	BGS	Event05/05-5O/05-5O-M00/05-5O-M00-011	02:00:00;
+
+[PrintText]=01:56:23	Otome	¡Sí!	01:57:21;
+
+[PlayVoice]=01:56:23	Voice05/05-5O/05-5O-M00/05-5O-M00-0270	0	oto	01:57:21;
+
+[BlackFade]=01:58:11	OUT	02:00:00;
+
+ ;
+
+[Next]=02:00:00;
+
+

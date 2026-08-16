@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:15:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:15:02;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-P06/SE02-2S-P06-001	00:15:02;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-P06/02-2S-P06-001	00:01:01;
+
+[PrintText]=00:00:00	Makoto	No siento nada por ella...	00:01:15;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-P06/02-2S-P06-0030	1	mak	00:01:15;
+
+[CreateBG]=00:01:01	BGS	Event02/02-2S/02-2S-P06/02-2S-P06-002	00:13:23;
+
+[PrintText]=00:01:01	Sekai	Eso es mentira...	00:02:01;
+
+[PlayVoice]=00:01:01	Voice02/02-2S/02-2S-P06/02-2S-P06-0040	0	sek	00:02:01;
+
+[PrintText]=00:02:01	Makoto	Créeme.	00:03:10;
+
+[PlayVoice]=00:02:01	Voice02/02-2S/02-2S-P06/02-2S-P06-0050	1	mak	00:03:10;
+
+[PrintText]=00:03:08	Sekai	Es mentira, podré gustarte demasiado, pero tus sentimientos por Katsura-san no han desaparecido.	00:13:19;
+
+[PlayVoice]=00:03:08	Voice02/02-2S/02-2S-P06/02-2S-P06-0060	0	sek	00:13:19;
+
+[CreateBG]=00:13:23	BGS	Event02/02-2S/02-2S-P00/02-2S-P00-001	00:15:02;
+
+[PrintText]=00:14:00	Makoto	...	00:14:11;
+
+[PlayVoice]=00:14:00	Voice02/02-2S/02-2S-P06/02-2S-P06-0070	1	xxx	00:14:11;
+
+ ;
+
+[Next]=00:15:02;
+
+
+
+

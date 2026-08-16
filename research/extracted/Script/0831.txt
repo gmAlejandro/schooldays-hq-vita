@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:17:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:17:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-F08/03-SB-F08-001	00:04:22;
+
+[PrintText]=00:00:00	Makoto	...	00:00:19;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-F08/03-SB-F08-0030	1	xxx	00:00:19;
+
+[PrintText]=00:00:20	Kotonoha	U-um... ¿Makoto-kun?^	00:05:00;
+
+[PlayVoice]=00:00:20	Voice03/03-SB/03-SB-F08/03-SB-F08-0040	0	kot	00:05:00;
+
+[CreateBG]=00:04:22	BGS	Event03/03-SB/03-SB-F08/03-SB-F08-002	00:09:17;
+
+[PrintText]=00:05:00	Makoto	O... oh, perdón.	00:07:19;
+
+[PlayVoice]=00:05:00	Voice03/03-SB/03-SB-F08/03-SB-F08-0050	1	mak	00:07:19;
+
+[PrintText]=00:07:19	Kotonoha	...	00:09:18;
+
+[PlayVoice]=00:07:19	Voice03/03-SB/03-SB-F08/03-SB-F08-0060	0	xxx	00:09:18;
+
+[CreateBG]=00:09:16	BGS	Event03/03-SB/03-SB-F08/03-SB-F08-003	00:13:01;
+
+[PrintText]=00:09:18	Makoto	Um... ¿Qué estabas diciendo?^	00:13:00;
+
+[PlayVoice]=00:09:18	Voice03/03-SB/03-SB-F08/03-SB-F08-0070	1	mak	00:13:00;
+
+[PrintText]=00:13:00	Kotonoha	Olvídalo.	00:14:14;
+
+[PlayVoice]=00:13:00	Voice03/03-SB/03-SB-F08/03-SB-F08-0080	0	kot	00:14:14;
+
+[CreateBG]=00:13:01	BGS	Event03/03-SB/03-SB-F08/03-SB-F08-003B	00:14:15;
+
+[CreateBG]=00:14:15	BGS	Event03/03-SB/03-SB-F08/03-SB-F08-003C	00:15:06;
+
+[PrintText]=00:14:15	Makoto	¿Eh?^	00:15:05;
+
+[PlayVoice]=00:14:15	Voice03/03-SB/03-SB-F08/03-SB-F08-0090	1	mak	00:15:05;
+
+[PrintText]=00:15:05	Kotonoha	No es nada.	00:16:20;
+
+[PlayVoice]=00:15:05	Voice03/03-SB/03-SB-F08/03-SB-F08-0100	0	kot	00:16:20;
+
+[CreateBG]=00:15:06	BGS	Event03/03-SB/03-SB-F08/03-SB-F08-004	00:17:19;
+
+[PrintText]=00:16:21	Makoto	...	00:17:14;
+
+[PlayVoice]=00:16:21	Voice03/03-SB/03-SB-F08/03-SB-F08-0110	1	xxx	00:17:14;
+
+ ;
+
+[Next]=00:17:19;
+
+

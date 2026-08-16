@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:14:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:20:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-F04/03-SB-F04-001	00:04:00;
+
+[PrintText]=00:00:00	Makoto	...	00:00:20;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-F04/03-SB-F04-0030	1	xxx	00:00:20;
+
+[PrintText]=00:00:20	Kotonoha	¿Um... Makoto-kun?^	00:04:02;
+
+[PlayVoice]=00:00:20	Voice03/03-SB/03-SB-F04/03-SB-F04-0040	0	kot	00:04:02;
+
+[CreateBG]=00:04:00	BGS	Event03/03-SB/03-SB-F04/03-SB-F04-002	00:10:12;
+
+[PrintText]=00:04:02	Makoto	O-oh, cierto. Lo siento ¿Qué estabas diciendo?^	00:07:19;
+
+[PlayVoice]=00:04:02	Voice03/03-SB/03-SB-F04/03-SB-F04-0050	1	mak	00:07:19;
+
+[PrintText]=00:07:19	Kotonoha	¿Te gustaría ir conmigo a ver el festival?^	00:10:14;
+
+[PlayVoice]=00:07:19	Voice03/03-SB/03-SB-F04/03-SB-F04-0060	0	kot	00:10:14;
+
+[CreateBG]=00:10:12	BGS	Event03/03-SB/03-SB-F04/03-SB-F04-003	00:20:04;
+
+[PrintText]=00:10:14	Makoto	Oh, verdad, el festival escolar. Pues...	00:14:03;
+
+[PlayVoice]=00:10:14	Voice03/03-SB/03-SB-F04/03-SB-F04-0070	1	mak	00:14:03;
+
+[SetSELECT]=00:14:03	'Sí'	'No puedo'	00:19:03;
+
+ ;
+
+[Next]=00:20:04;
+
+

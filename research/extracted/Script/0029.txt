@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:13:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:19:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-C00/01-00-C00-001	00:03:00;
+
+[PlayMovie]=00:03:00	Movie01/01-00/01-00-C00/01-00-C00-002	0	00:12:23;
+
+[CreateBG]=00:12:23	BGS	Event01/01-00/01-00-C00/01-00-C00-003	00:19:17;
+
+[SetSELECT]=00:13:16	*A Sekai no le gusto...*	*Creo que Sekai me gusta...*	00:18:16;
+
+ ;
+
+[Next]=00:19:17;
+
+
+
+

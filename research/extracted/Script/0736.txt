@@ -1,0 +1,115 @@
+﻿[SkipFRAME]=01:02:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	01:02:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-C01/03-SA-C01-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-C01/03-SA-C01-002	00:16:04;
+
+[PrintText]=00:02:00	Makoto	¿Dónde estamos...?^	00:03:05;
+
+[PlayVoice]=00:02:00	Voice03/03-SA/03-SA-C01/03-SA-C01-0040	1	mak	00:03:05;
+
+[PrintText]=00:03:05	Kotonoha	Lo llaman 'El cuarto de descanso'.	00:05:12;
+
+[PlayVoice]=00:03:05	Voice03/03-SA/03-SA-C01/03-SA-C01-0050	0	kot	00:05:12;
+
+[PrintText]=00:05:12	Makoto	¿Cuarto de descanso?^	00:06:14;
+
+[PlayVoice]=00:05:12	Voice03/03-SA/03-SA-C01/03-SA-C01-0060	1	mak	00:06:14;
+
+[PrintText]=00:06:14	Kotonoha	Cada año, las clases se turnan para traer cada año esto.	00:13:23;
+
+[PlayVoice]=00:06:14	Voice03/03-SA/03-SA-C01/03-SA-C01-0070	0	kot	00:13:23;
+
+[PrintText]=00:13:23	Makoto	Ya veo... no tenía idea.	00:18:14;
+
+[PlayVoice]=00:13:23	Voice03/03-SA/03-SA-C01/03-SA-C01-0080	1	mak	00:18:14;
+
+[CreateBG]=00:16:04	BGS	Event03/03-SA/03-SA-C01/03-SA-C01-003	00:24:04;
+
+[PrintText]=00:18:14	Kotonoha	Es natural. Porque solo las chicas lo saben.	00:24:04;
+
+[PlayVoice]=00:18:14	Voice03/03-SA/03-SA-C01/03-SA-C01-0100	0	kot	00:24:04;
+
+[PlaySe]=00:21:09	2	SysSe/SE_all/h/bed1	00:22:08;
+
+[PlayMovie]=00:24:04	Movie03/03-SA/03-SA-C01/03-SA-C01-004	0	00:27:20;
+
+[PrintText]=00:24:04	Makoto	Wow.	00:25:06;
+
+[PlayVoice]=00:24:04	Voice03/03-SA/03-SA-C01/03-SA-C01-0110	1	mak	00:25:06;
+
+[PrintText]=00:25:06	Kotonoha	Las chicas invitan a los chicos durante el festival, y entonces entran juntos. Es como una ceremonia secreta.	00:34:10;
+
+[PlayVoice]=00:25:06	Voice03/03-SA/03-SA-C01/03-SA-C01-0120	0	kot	00:34:10;
+
+[PlaySe]=00:26:00	1	SysSe/SE_all/h/nuno2	00:27:02;
+
+[PlaySe]=00:26:21	2	SysSe/SE_all/h/nuno1	00:28:10;
+
+[CreateBG]=00:27:20	BGS	Event03/03-SA/03-SA-C01/03-SA-C01-001	00:31:18;
+
+[PlayMovie]=00:31:18	Movie03/03-SA/03-SA-C01/03-SA-C01-005	0	00:38:19;
+
+[PrintText]=00:34:10	Makoto	¿Entran... juntos? ¡¿...Ah?!	00:39:23;
+
+[PlayVoice]=00:34:10	Voice03/03-SA/03-SA-C01/03-SA-C01-0130	1	mak	00:39:23;
+
+[PlaySe]=00:35:12	1	SysSe/SE_all/h/nuno1	00:37:01;
+
+[CreateBG]=00:38:19	BGS	Event03/03-SA/03-SA-C01/03-SA-C01-006	00:42:03;
+
+[PrintText]=00:40:00	Kotonoha	Sí.	00:40:17;
+
+[PlayVoice]=00:40:00	Voice03/03-SA/03-SA-C01/03-SA-C01-0150	0	kot	00:40:17;
+
+[PrintText]=00:40:17	Makoto	Kotonoha...	00:42:02;
+
+[PlayVoice]=00:40:17	Voice03/03-SA/03-SA-C01/03-SA-C01-0160	1	mak	00:42:02;
+
+[PrintText]=00:42:02	Kotonoha	Makoto-kun... por favor...	00:46:13;
+
+[PlayVoice]=00:42:02	Voice03/03-SA/03-SA-C01/03-SA-C01-0170	0	kot	00:46:13;
+
+[PlayMovie]=00:42:03	Movie03/03-SA/03-SA-C01/03-SA-C01-007	0	00:52:14;
+
+[PrintText]=00:46:13	Makoto	Uh...	00:47:10;
+
+[PlayVoice]=00:46:13	Voice03/03-SA/03-SA-C01/03-SA-C01-0180	1	mak	00:47:10;
+
+[PrintText]=00:47:09	Kotonoha	Tómame.	00:51:13;
+
+[PlayVoice]=00:47:09	Voice03/03-SA/03-SA-C01/03-SA-C01-0190	0	kot	00:51:13;
+
+[PrintText]=00:51:13	Makoto	...	00:52:14;
+
+[PlayVoice]=00:51:13	Voice03/03-SA/03-SA-C01/03-SA-C01-0200	1	xxx	00:52:14;
+
+[CreateBG]=00:52:14	BGS	Event03/03-SA/03-SA-C01/03-SA-C01-008	01:02:12;
+
+[PrintText]=00:52:14	Makoto	Uwah...	00:53:16;
+
+[PlayVoice]=00:52:14	Voice03/03-SA/03-SA-C01/03-SA-C01-0220	1	mak	00:53:16;
+
+[PrintText]=00:53:15	Kotonoha	Puedes hacer... lo que quieras...	00:56:07;
+
+[PlayVoice]=00:53:15	Voice03/03-SA/03-SA-C01/03-SA-C01-0240	0	kot	00:56:07;
+
+[PrintText]=00:56:08	Makoto	Kuh...	00:57:11;
+
+[PlayVoice]=00:56:08	Voice03/03-SA/03-SA-C01/03-SA-C01-0250	1	mak	00:57:11;
+
+[PrintText]=00:57:10	Kotonoha	Todo... lo que quieras...	01:01:06;
+
+[PlayVoice]=00:57:10	Voice03/03-SA/03-SA-C01/03-SA-C01-0260	0	kot	01:01:06;
+
+[PrintText]=01:01:06	Makoto	Ah...	01:02:10;
+
+[PlayVoice]=01:01:06	Voice03/03-SA/03-SA-C01/03-SA-C01-0270	1	mak	01:02:10;
+
+ ;
+
+[Next]=01:02:12;
+
+

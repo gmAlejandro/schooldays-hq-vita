@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:31:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:31:03;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:31:03;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D09/04-SE-D09-001	00:04:22;
+
+[PrintText]=00:00:00	Makoto	...	00:01:05;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-D09/04-SE-D09-0030	1	xxx	00:01:05;
+
+[PrintText]=00:01:14	Sekai	No puedes.	00:03:00;
+
+[PlayVoice]=00:01:14	Voice04/04-SE/04-SE-D09/04-SE-D09-0040	0	sek	00:03:00;
+
+[PrintText]=00:03:09	Makoto	...	00:04:22;
+
+[PlayVoice]=00:03:09	Voice04/04-SE/04-SE-D09/04-SE-D09-0050	1	xxx	00:04:22;
+
+[CreateBG]=00:04:22	BGS	Event04/04-SE/04-SE-D09/04-SE-D09-002	00:07:23;
+
+[PrintText]=00:04:22	Sekai	¿Estabas hablando con alguien que tú... huh?^	00:08:14;
+
+[PlayVoice]=00:04:22	Voice04/04-SE/04-SE-D09/04-SE-D09-0060	0	sek	00:08:14;
+
+[CreateBG]=00:07:23	BGS	Event04/04-SE/04-SE-D09/04-SE-D09-003	00:27:09;
+
+[PrintText]=00:15:01	Makoto	Zzz... zzz...	00:15:16;
+
+[PlayVoice]=00:15:01	Voice04/04-SE/04-SE-D09/04-SE-D09-0070	1	mak	00:15:16;
+
+[PrintText]=00:19:17	Sekai	Está dormido...	00:21:05;
+
+[PlayVoice]=00:19:17	Voice04/04-SE/04-SE-D09/04-SE-D09-0080	0	sek	00:21:05;
+
+[PrintText]=00:21:05	Makoto	Mnyah...	00:23:08;
+
+[PlayVoice]=00:21:05	Voice04/04-SE/04-SE-D09/04-SE-D09-0090	1	mak	00:23:08;
+
+[PrintText]=00:23:08	Sekai	¡Makoto!	00:24:21;
+
+[PlayVoice]=00:23:08	Voice04/04-SE/04-SE-D09/04-SE-D09-0110	0	sek	00:24:21;
+
+[PrintText]=00:25:18	Sekai	Ah...	00:26:07;
+
+[PlayVoice]=00:25:18	Voice04/04-SE/04-SE-D09/04-SE-D09-0130	0	sek	00:26:07;
+
+[CreateBG]=00:27:09	BGS	Event04/04-SE/04-SE-D09/04-SE-D09-006	00:31:03;
+
+[PrintText]=00:29:17	Sekai	...	00:30:18;
+
+[PlayVoice]=00:29:17	Voice04/04-SE/04-SE-D09/04-SE-D09-0150	0	xxx	00:30:18;
+
+ ;
+
+[Next]=00:31:03;
+
+

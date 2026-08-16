@@ -1,0 +1,60 @@
+﻿[SkipFRAME]=00:27:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:27:20;
+
+[PlaySe]=00:00:00	2	Se00/00-00/00-00-A00/SE00-00-A00-005	00:08:09;
+
+[PlayMovie]=00:00:00	Movie05/05-KB/05-KB-K03/05-KB-K03-001	0	00:08:09;
+
+[PlaySe]=00:08:09	1	SysSe/SE_all/station_train/train_in	00:27:20;
+
+[CreateBG]=00:08:09	BGS	Event05/05-KB/05-KB-K03/05-KB-K03-002	00:23:06;
+
+[PrintText]=00:09:05	Kotonoha	¡Ah... Makoto-kun!	00:11:04;
+
+[PlayVoice]=00:09:05	Voice05/05-KB/05-KB-K03/05-KB-K03-0040	0	kot	00:11:04;
+
+[PrintText]=00:11:05	Makoto	Ah... Buen día.	00:14:02;
+
+[PlayVoice]=00:11:05	Voice05/05-KB/05-KB-K03/05-KB-K03-0050	1	mak	00:14:02;
+
+[PrintText]=00:14:02	Nanami	Ah... Itou.	00:15:11;
+
+[PlayVoice]=00:14:02	Voice05/05-KB/05-KB-K03/05-KB-K03-0060	0	nan	00:15:11;
+
+[PrintText]=00:15:11	Makoto	Disculpa ¿Te importa dejarme a solas por un momento?^	00:19:09;
+
+[PlayVoice]=00:15:11	Voice05/05-KB/05-KB-K03/05-KB-K03-0070	1	mak	00:19:09;
+
+[PrintText]=00:19:09	Nanami	¿Eh...?^	00:20:01;
+
+[PlayVoice]=00:19:09	Voice05/05-KB/05-KB-K03/05-KB-K03-0080	0	nan	00:20:01;
+
+[PrintText]=00:20:02	Makoto	Quiero hablar con Kotonoha.	00:22:14;
+
+[PlayVoice]=00:20:02	Voice05/05-KB/05-KB-K03/05-KB-K03-0090	1	mak	00:22:14;
+
+[PrintText]=00:22:14	Nanami	Ah...	00:23:14;
+
+[PlayVoice]=00:22:14	Voice05/05-KB/05-KB-K03/05-KB-K03-0100	0	nan	00:23:14;
+
+[PlayMovie]=00:23:06	Movie05/05-KB/05-KB-K03/05-KB-K03-003	0	00:27:20;
+
+[PrintText]=00:23:14	Kotonoha	...	00:25:20;
+
+[PlayVoice]=00:23:14	Voice05/05-KB/05-KB-K03/05-KB-K03-0120	0	xxx	00:25:20;
+
+[PrintText]=00:25:20	Nanami	...	00:26:16;
+
+[PlayVoice]=00:25:20	Voice05/05-KB/05-KB-K03/05-KB-K03-0140	0	xxx	00:26:16;
+
+[BlackFade]=00:26:20	OUT	00:27:20;
+
+ ;
+
+[Next]=00:27:20;
+
+
+
+
+

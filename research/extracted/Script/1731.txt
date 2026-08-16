@@ -1,0 +1,62 @@
+﻿[SkipFRAME]=00:28:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:28:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SC/05-SC-A00/05-SC-A00-001	00:01:19;
+
+[PrintText]=00:00:00	Makoto	A la única que amo...	00:01:08;
+
+[PlayVoice]=00:00:00	Voice05/05-SC/05-SC-A00/05-SC-A00-0050	1	mak	00:01:08;
+
+[CreateBG]=00:01:19	BGS	Event05/05-SC/05-SC-A00/05-SC-A00-002	00:03:06;
+
+[PrintText]=00:01:19	Sekai	¡Kyah!	00:02:18;
+
+[PlayVoice]=00:01:19	Voice05/05-SC/05-SC-A00/05-SC-A00-0070	0	sek	00:02:18;
+
+[CreateBG]=00:03:06	BGS	Event05/05-SC/05-SC-A00/05-SC-A00-003	00:05:00;
+
+[PrintText]=00:03:06	Makoto	...es a ella.	00:04:08;
+
+[PlayVoice]=00:03:06	Voice05/05-SC/05-SC-A00/05-SC-A00-0080	1	mak	00:04:08;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SC/05-SC-A00/05-SC-A00-004	00:06:15;
+
+[PrintText]=00:05:00	Kotonoha	¡¿Eh...?!	00:05:20;
+
+[PlayVoice]=00:05:00	Voice05/05-SC/05-SC-A00/05-SC-A00-0090	0	kot	00:05:20;
+
+[CreateBG]=00:06:15	BGS	Event05/05-SC/05-SC-A00/05-SC-A00-005	00:14:00;
+
+[PrintText]=00:06:15	Kotonoha	¿Qué quieres decir...?^	00:08:05;
+
+[PlayVoice]=00:06:15	Voice05/05-SC/05-SC-A00/05-SC-A00-0110	0	kot	00:08:05;
+
+[PrintText]=00:09:00	Kotonoha	Saionji-san no...	00:13:04;
+
+[PlayVoice]=00:09:00	Voice05/05-SC/05-SC-A00/05-SC-A00-0120	0	kot	00:13:04;
+
+[CreateBG]=00:14:00	BGS	Event05/05-SC/05-SC-A00/05-SC-A00-006	00:28:00;
+
+[PrintText]=00:14:00	Kotonoha	No puede ser...	00:16:15;
+
+[PlayVoice]=00:14:00	Voice05/05-SC/05-SC-A00/05-SC-A00-0130	0	kot	00:16:15;
+
+[PrintText]=00:17:11	Kotonoha	Pero aún así...	00:18:17;
+
+[PlayVoice]=00:17:11	Voice05/05-SC/05-SC-A00/05-SC-A00-0140	0	kot	00:18:17;
+
+[PrintText]=00:19:12	Kotonoha	¡Makoto-kun...!	00:22:12;
+
+[PlayVoice]=00:19:12	Voice05/05-SC/05-SC-A00/05-SC-A00-0150	0	kot	00:22:12;
+
+[PrintText]=00:23:07	Kotonoha	No lo... entiendo...	00:27:04;
+
+[PlayVoice]=00:23:07	Voice05/05-SC/05-SC-A00/05-SC-A00-0160	0	kot	00:27:04;
+
+ ;
+
+[Next]=00:28:00;
+
+
+

@@ -1,0 +1,87 @@
+﻿[SkipFRAME]=00:40:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:40:09;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-001	00:04:08;
+
+[PrintText]=00:00:00	Makoto	Ahora que lo pienso, le dije a Katou que la llamaría.	00:03:07;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-B04/04-SE-B04-0030	1	mak	00:03:07;
+
+[CreateBG]=00:04:08	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-001B	00:06:01;
+
+[PrintText]=00:04:08	Makoto	Creo que lo haré ahora...	00:05:19;
+
+[PlayVoice]=00:04:08	Voice04/04-SE/04-SE-B04/04-SE-B04-0040	1	mak	00:05:19;
+
+[CreateBG]=00:06:01	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-001	00:14:08;
+
+[PlaySe]=00:08:15	1	SysSe/SE_all/keitai/yobidasi	00:14:06;
+
+[CreateBG]=00:14:08	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-002B	00:16:20;
+
+[PrintText]=00:14:08	Otome	¡Hola! ¡Es Katou!	00:15:18;
+
+[PlayVoice]=00:14:08	Voice04/04-SE/04-SE-B04/04-SE-B04-0060	0	oto	00:15:18;
+
+[PrintText]=00:15:18	Makoto	Hey.	00:16:20;
+
+[PlayVoice]=00:15:18	Voice04/04-SE/04-SE-B04/04-SE-B04-0070	1	mak	00:16:20;
+
+[CreateBG]=00:16:20	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-002C	00:23:04;
+
+[PrintText]=00:16:20	Otome	¿Eh...? ¿Itou?^	00:18:23;
+
+[PlayVoice]=00:16:20	Voice04/04-SE/04-SE-B04/04-SE-B04-0080	0	oto	00:18:23;
+
+[PrintText]=00:18:23	Makoto	Sí.	00:19:17;
+
+[PlayVoice]=00:18:23	Voice04/04-SE/04-SE-B04/04-SE-B04-0090	1	mak	00:19:17;
+
+[PrintText]=00:19:17	Otome	¿Por qué?^	00:20:19;
+
+[PlayVoice]=00:19:17	Voice04/04-SE/04-SE-B04/04-SE-B04-0100	0	oto	00:20:19;
+
+[PrintText]=00:20:18	Makoto	Te dije que te llamaría ¿Recuerdas?^	00:23:04;
+
+[PlayVoice]=00:20:18	Voice04/04-SE/04-SE-B04/04-SE-B04-0110	1	mak	00:23:04;
+
+[CreateBG]=00:23:04	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-002E	00:24:21;
+
+[PrintText]=00:23:04	Otome	Sí, pero...	00:24:21;
+
+[PlayVoice]=00:23:04	Voice04/04-SE/04-SE-B04/04-SE-B04-0120	0	oto	00:24:21;
+
+[CreateBG]=00:24:21	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-002D	00:27:04;
+
+[PrintText]=00:24:21	Makoto	¡Ah! ¿Estás ocupada?^	00:27:04;
+
+[PlayVoice]=00:24:21	Voice04/04-SE/04-SE-B04/04-SE-B04-0130	1	mak	00:27:04;
+
+[CreateBG]=00:27:04	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-002E	00:28:14;
+
+[PrintText]=00:27:04	Otome	¿Eh? No...	00:28:14;
+
+[PlayVoice]=00:27:04	Voice04/04-SE/04-SE-B04/04-SE-B04-0140	0	oto	00:28:14;
+
+[CreateBG]=00:28:14	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-002F	00:39:01;
+
+[PrintText]=00:28:14	Makoto	La verdad es que, te llamé porque no tenía nada que hacer. Así que si tienes que hacer algo, te dejo.	00:36:17;
+
+[PlayVoice]=00:28:14	Voice04/04-SE/04-SE-B04/04-SE-B04-0150	1	mak	00:36:17;
+
+[PrintText]=00:36:17	Otome	No, no, está bien.	00:39:01;
+
+[PlayVoice]=00:36:17	Voice04/04-SE/04-SE-B04/04-SE-B04-0160	0	oto	00:39:01;
+
+[CreateBG]=00:39:01	BGS	Event04/04-SE/04-SE-B04/04-SE-B04-002G	00:40:09;
+
+[PrintText]=00:39:01	Makoto	Bien.	00:40:00;
+
+[PlayVoice]=00:39:01	Voice04/04-SE/04-SE-B04/04-SE-B04-0170	1	mak	00:40:00;
+
+ ;
+
+[Next]=00:40:09;
+
+

@@ -1,0 +1,109 @@
+﻿[SkipFRAME]=01:05:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	01:05:10;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G00/SE03-KA-G00-001	01:05:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-002	00:08:13;
+
+[PrintText]=00:03:03	Makoto	Fwah...	00:07:21;
+
+[PlayVoice]=00:03:03	Voice03/03-KA/03-KA-G00/03-KA-G00-0040	1	mak	00:07:21;
+
+[CreateBG]=00:08:13	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-003	00:10:15;
+
+[CreateBG]=00:10:15	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-004	00:13:00;
+
+[CreateBG]=00:13:00	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-005	00:19:09;
+
+[PrintText]=00:13:06	Makoto	Parece que Sekai no vendrá hoy también...	00:17:13;
+
+[PlayVoice]=00:13:06	Voice03/03-KA/03-KA-G00/03-KA-G00-0070	1	mak	00:17:13;
+
+[PrintText]=00:18:01	Makoto	Haah...	00:19:01;
+
+[PlayVoice]=00:18:01	Voice03/03-KA/03-KA-G00/03-KA-G00-0080	1	mak	00:19:01;
+
+[BlackFade]=00:18:21	OUT	00:19:09;
+
+[CreateBG]=00:19:09	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-006	00:24:04;
+
+[PrintText]=00:19:12	Makoto	Trataré de dormir... mnyah...	00:24:00;
+
+[PlayVoice]=00:19:12	Voice03/03-KA/03-KA-G00/03-KA-G00-0090	1	mak	00:24:00;
+
+[CreateBG]=00:24:04	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-007	00:25:17;
+
+[PrintText]=00:24:04	Hikari	¡No duermas, Maldición!	00:25:21;
+
+[PlayVoice]=00:24:04	Voice03/03-KA/03-KA-G00/03-KA-G00-0110	0	hik	00:25:21;
+
+[PrintText]=00:24:16	Makoto	Uwah! ¿Qué quieres, Kuroda?^	00:28:17;
+
+[PlayVoice]=00:24:16	Voice03/03-KA/03-KA-G00/03-KA-G00-0130	1	mak	00:28:17;
+
+[CreateBG]=00:25:17	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-008	00:26:13;
+
+[CreateBG]=00:26:13	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-009	00:28:16;
+
+[CreateBG]=00:28:16	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-010A	00:34:11;
+
+[PrintText]=00:28:16	Hikari	¿No estabas escuchando lo de esta mañana?^	00:32:07;
+
+[PlayVoice]=00:28:16	Voice03/03-KA/03-KA-G00/03-KA-G00-0140	0	hik	00:32:07;
+
+[PrintText]=00:32:06	Makoto	¿Anunciaron algo?^	00:34:10;
+
+[PlayVoice]=00:32:06	Voice03/03-KA/03-KA-G00/03-KA-G00-0150	1	mak	00:34:10;
+
+[CreateBG]=00:34:11	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-011A	00:39:11;
+
+[PrintText]=00:34:11	Hikari	Dijeron que hay una reunión durante el almuerzo y que va a ser bastante grande ¿No?^	00:39:10;
+
+[PlayVoice]=00:34:11	Voice03/03-KA/03-KA-G00/03-KA-G00-0160	0	hik	00:39:10;
+
+[CreateBG]=00:39:11	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-011B	00:49:06;
+
+[PrintText]=00:39:17	Makoto	Oh Sí, creo que fue así. Pero no tiene nada que ver conmigo ¿No? Solo déjame dormir... mnyah...	00:49:23;
+
+[PlayVoice]=00:39:17	Voice03/03-KA/03-KA-G00/03-KA-G00-0170	1	mak	00:49:23;
+
+[CreateBG]=00:49:06	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-012	00:58:15;
+
+[PrintText]=00:49:06	Hikari	¡'Miembros' también te incluye!	00:52:16;
+
+[PlayVoice]=00:49:06	Voice03/03-KA/03-KA-G00/03-KA-G00-0180	0	hik	00:52:16;
+
+[PrintText]=00:52:08	Makoto	¡Vale, vale! ¡Cielos! ¡Qué escandalosa!	00:57:23;
+
+[PlayVoice]=00:52:08	Voice03/03-KA/03-KA-G00/03-KA-G00-0190	1	mak	00:57:23;
+
+[PrintText]=00:57:16	Hikari	Hmph... Setsuna, ya está despierto.	01:00:22;
+
+[PlayVoice]=00:57:16	Voice03/03-KA/03-KA-G00/03-KA-G00-0200	0	hik	01:00:22;
+
+[CreateBG]=00:58:15	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-013	01:03:02;
+
+[PrintText]=01:01:01	Setsuna	Vale.	01:01:15;
+
+[PlayVoice]=01:01:01	Voice03/03-KA/03-KA-G00/03-KA-G00-0210	0	set	01:01:15;
+
+[PrintText]=01:02:07	Setsuna	Vamos.	01:03:03;
+
+[PlayVoice]=01:02:07	Voice03/03-KA/03-KA-G00/03-KA-G00-0230	0	set	01:03:03;
+
+[CreateBG]=01:03:02	BGS	Event03/03-KA/03-KA-G00/03-KA-G00-014	01:05:10;
+
+[PrintText]=01:03:02	Makoto	...Sí, sí.	01:04:09;
+
+[PlayVoice]=01:03:02	Voice03/03-KA/03-KA-G00/03-KA-G00-0240	1	mak	01:04:09;
+
+[BlackFade]=01:04:10	OUT	01:05:10;
+
+ ;
+
+[Next]=01:05:10;
+
+

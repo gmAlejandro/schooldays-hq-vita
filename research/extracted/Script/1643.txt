@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:18:13;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-D04/05-KB-D04-001	00:03:04;
+
+[PrintText]=00:00:00	Makoto	...	00:03:06;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-D04/05-KB-D04-0030	1	xxx	00:03:06;
+
+[CreateBG]=00:03:04	BGS	Event05/05-KB/05-KB-D04/05-KB-D04-002	00:07:21;
+
+[PrintText]=00:03:06	Kotonoha	Perdón por venir tan tarde.	00:07:20;
+
+[PlayVoice]=00:03:06	Voice05/05-KB/05-KB-D04/05-KB-D04-0040	0	kot	00:07:20;
+
+[PrintText]=00:07:19	Makoto	Bueno, para ser honesto...	00:12:13;
+
+[PlayVoice]=00:07:19	Voice05/05-KB/05-KB-D04/05-KB-D04-0050	1	mak	00:12:13;
+
+[CreateBG]=00:07:21	BGS	Event05/05-KB/05-KB-D04/05-KB-D04-003	00:18:13;
+
+[SetSELECT]=00:12:13	'Estoy feliz de que lo hicieras'	'Estoy enfadado contigo'	00:17:13;
+
+ ;
+
+[Next]=00:18:13;
+
+
+
+

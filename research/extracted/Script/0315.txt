@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:06:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:06:12;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-H10/SE02-2S-H10-001	00:06:12;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-H10/02-2S-H10-001	00:03:09;
+
+[PrintText]=00:00:00	Makoto	...Olvídalo.	00:03:09;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-H10/02-2S-H10-0030	1	mak	00:03:09;
+
+[CreateBG]=00:03:09	BGS	Event02/02-2S/02-2S-H10/02-2S-H10-002	00:06:12;
+
+[PrintText]=00:03:09	Kotonoha	Ya veo...	00:05:00;
+
+[PlayVoice]=00:03:09	Voice02/02-2S/02-2S-H10/02-2S-H10-0040	0	kot	00:05:00;
+
+[BlackFade]=00:05:12	OUT	00:06:12;
+
+ ;
+
+[Next]=00:06:12;
+
+
+
+

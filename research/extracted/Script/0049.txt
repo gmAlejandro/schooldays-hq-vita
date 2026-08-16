@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:41:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:41:22;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E06/SE01-00-E06-001	00:41:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-E06/01-00-E06-001	00:03:13;
+
+[PrintText]=00:00:06	Makoto	Dime.	00:01:07;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-E06/01-00-E06-0030	1	mak	00:01:07;
+
+[PrintText]=00:01:06	Kotonoha	...En serio, no es nada.	00:03:21;
+
+[PlayVoice]=00:01:06	Voice01/01-00/01-00-E06/01-00-E06-0040	0	kot	00:03:21;
+
+[CreateBG]=00:03:13	BGS	Event01/01-00/01-00-E06/01-00-E06-002	00:12:13;
+
+[PrintText]=00:03:13	Makoto	Estabas a punto de decir algo.	00:05:02;
+
+[PlayVoice]=00:03:13	Voice01/01-00/01-00-E06/01-00-E06-0050	1	mak	00:05:02;
+
+[PrintText]=00:05:02	Kotonoha	En serio, no es nada, Vamos, la clase está a punto de esperar...	00:09:22;
+
+[PlayVoice]=00:05:02	Voice01/01-00/01-00-E06/01-00-E06-0060	0	kot	00:09:22;
+
+[PrintText]=00:09:03	Makoto	Vamos, dime lo que estabas a punto de decir.	00:12:09;
+
+[PlayVoice]=00:09:03	Voice01/01-00/01-00-E06/01-00-E06-0070	1	mak	00:12:09;
+
+[CreateBG]=00:12:13	BGS	Event01/01-00/01-00-E06/01-00-E06-003	00:20:01;
+
+[PrintText]=00:12:18	Kotonoha	...	00:14:05;
+
+[PlayVoice]=00:12:18	Voice01/01-00/01-00-E06/01-00-E06-0080	0	xxx	00:14:05;
+
+[PrintText]=00:14:17	Makoto	Katsura.	00:15:16;
+
+[PlayVoice]=00:14:17	Voice01/01-00/01-00-E06/01-00-E06-0090	1	mak	00:15:16;
+
+[PrintText]=00:16:03	Kotonoha	...Es solo que.	00:17:20;
+
+[PlayVoice]=00:16:03	Voice01/01-00/01-00-E06/01-00-E06-0100	0	kot	00:17:20;
+
+[PrintText]=00:17:21	Makoto	¿Eh?^	00:18:10;
+
+[PlayVoice]=00:17:21	Voice01/01-00/01-00-E06/01-00-E06-0110	1	mak	00:18:10;
+
+[PrintText]=00:18:20	Kotonoha	Mi nombre.	00:19:23;
+
+[PlayVoice]=00:18:20	Voice01/01-00/01-00-E06/01-00-E06-0120	0	kot	00:19:23;
+
+[CreateBG]=00:20:01	BGS	Event01/01-00/01-00-E06/01-00-E06-003B	00:23:22;
+
+[PrintText]=00:20:03	Makoto	¿Tu nombre?^	00:21:04;
+
+[PlayVoice]=00:20:03	Voice01/01-00/01-00-E06/01-00-E06-0130	1	mak	00:21:04;
+
+[PrintText]=00:21:12	Kotonoha	La llamas Saionji-san a 'Sekai'.	00:24:03;
+
+[PlayVoice]=00:21:12	Voice01/01-00/01-00-E06/01-00-E06-0140	0	kot	00:24:03;
+
+[CreateBG]=00:23:22	BGS	Event01/01-00/01-00-E06/01-00-E06-005	00:31:07;
+
+[PrintText]=00:23:22	Makoto	¿Huh? Ah, si. Sekai me forzó a que la llame así.	00:29:09;
+
+[PlayVoice]=00:23:22	Voice01/01-00/01-00-E06/01-00-E06-0150	1	mak	00:29:09;
+
+[PrintText]=00:30:05	Kotonoha	Yo, también...	00:31:07;
+
+[PlayVoice]=00:30:05	Voice01/01-00/01-00-E06/01-00-E06-0160	0	kot	00:31:07;
+
+[CreateBG]=00:31:07	BGS	Event01/01-00/01-00-E06/01-00-E06-006	00:33:07;
+
+[PrintText]=00:31:07	Makoto	¿Eh...? ¿Qué?^	00:33:13;
+
+[PlayVoice]=00:31:07	Voice01/01-00/01-00-E06/01-00-E06-0170	1	mak	00:33:13;
+
+[CreateBG]=00:33:07	BGS	Event01/01-00/01-00-E06/01-00-E06-007	00:41:22;
+
+[PrintText]=00:33:07	Kotonoha	N-no, por favor, ¡Olvídalo!	00:36:00;
+
+[PlayVoice]=00:33:07	Voice01/01-00/01-00-E06/01-00-E06-0180	0	kot	00:36:00;
+
+[PrintText]=00:37:22	Makoto	...	00:40:06;
+
+[PlayVoice]=00:37:22	Voice01/01-00/01-00-E06/01-00-E06-0200	1	xxx	00:40:06;
+
+[BlackFade]=00:40:21	OUT	00:41:21;
+
+ ;
+
+[Next]=00:41:22;
+
+
+
+

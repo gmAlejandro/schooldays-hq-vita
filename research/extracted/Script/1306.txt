@@ -1,0 +1,321 @@
+﻿[SkipFRAME]=04:46:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	04:03:03;
+
+[CreateBG]=00:00:00	BGS	Ini/Event05/05-5H/05-5H-E00/05-5H-E00-001	00:05:00;
+
+#[PrintText]=00:01:00	Juego	...	00:05:00;
+
+[BlackFade]=00:00:00	IN	00:01:00;
+
+[BlackFade]=00:04:00	OUT	00:05:00;
+
+[PlaySe]=00:05:00	2	Se05/05-5H/05-5H-E00/SE05-5H-E00-001	01:49:22;
+
+[CreateBG]=00:05:00	BGS	Ini/Event05/05-5H/05-5H-E00/PHONE	00:09:00;
+
+[BlackFade]=00:05:00	IN	00:06:00;
+
+[PlaySe]=00:09:00	1	SysSe/SE_all/keitai/keitai_sousa	00:09:02;
+
+[PlayMovie]=00:09:00	Movie05/05-5H/05-5H-E01/H5-5H-E01-003	0	00:17:16;
+
+[PrintText]=00:09:11	Makoto	Fwaah...	00:12:17;
+
+[PlayVoice]=00:09:11	Voice05/05-5H/05-5H-E01/05-5H-E01-0050	1	mak	00:12:17;
+
+[PrintText]=00:13:00	Makoto	Que sueño...	00:13:23;
+
+[PlayVoice]=00:13:00	Voice05/05-5H/05-5H-E01/05-5H-E01-0060	1	mak	00:13:23;
+
+[PrintText]=00:14:09	Hikari	Ah... ¿Estás despierto?^	00:16:03;
+
+[PlayVoice]=00:14:09	Voice05/05-5H/05-5H-E01/05-5H-E01-0070	0	hik	00:16:03;
+
+[PrintText]=00:16:10	Makoto	Sí.	00:17:08;
+
+[PlayVoice]=00:16:10	Voice05/05-5H/05-5H-E01/05-5H-E01-0090	1	mak	00:17:08;
+
+[PlayMovie]=00:17:16	Movie05/05-5H/05-5H-E01/05-5H-E01-004	0	00:39:19;
+
+[PrintText]=00:18:03	Hikari	Sekai te envió un correo sabes.	00:21:04;
+
+[PlayVoice]=00:18:03	Voice05/05-5H/05-5H-E01/05-5H-E01-0100	0	hik	00:21:04;
+
+[PrintText]=00:21:16	Makoto	Deja de coger mi teléfono.	00:24:15;
+
+[PlayVoice]=00:21:16	Voice05/05-5H/05-5H-E01/05-5H-E01-0110	1	mak	00:24:15;
+
+[PrintText]=00:24:20	Hikari	'No te he visto afuera del colegio últimamente. ¿Estás bien? Te amo' dice.	00:30:16;
+
+[PlayVoice]=00:24:20	Voice05/05-5H/05-5H-E01/05-5H-E01-0120	0	hik	00:30:16;
+
+[PrintText]=00:30:23	Makoto	Hey, no lo leas.	00:32:15;
+
+[PlayVoice]=00:30:23	Voice05/05-5H/05-5H-E01/05-5H-E01-0130	1	mak	00:32:15;
+
+[PrintText]=00:32:22	Hikari	'También te amo. No estar contigo me hace sentir solo.', eso le envié.	00:39:04;
+
+[PlayVoice]=00:32:22	Voice05/05-5H/05-5H-E01/05-5H-E01-0140	0	hik	00:39:04;
+
+[CreateBG]=00:39:19	BGS	Event05/05-5H/05-5H-E00/05-5H-E00-005	00:42:05;
+
+[PrintText]=00:39:19	Makoto	¡No respondas por mí!	00:41:19;
+
+[PlayVoice]=00:39:19	Voice05/05-5H/05-5H-E01/05-5H-E01-0150	1	mak	00:41:19;
+
+[PlayMovie]=00:42:05	Movie05/05-5H/05-5H-E01/H5-5H-E01-006	0	00:48:23;
+
+[PrintText]=00:42:05	Hikari	Oh, cálmate. Suenas poco convincente cuando estás desnudo.	00:45:18;
+
+[PlayVoice]=00:42:05	Voice05/05-5H/05-5H-E01/05-5H-E01-0160	0	hik	00:45:18;
+
+[PrintText]=00:45:23	Makoto	...Maldición.	00:47:08;
+
+[PlayVoice]=00:45:23	Voice05/05-5H/05-5H-E01/05-5H-E01-0170	1	mak	00:47:08;
+
+[PrintText]=00:47:11	Hikari	Ohoho.	00:48:16;
+
+[PlayVoice]=00:47:11	Voice05/05-5H/05-5H-E01/05-5H-E01-0180	0	hik	00:48:16;
+
+[PlayMovie]=00:48:23	Movie05/05-5H/05-5H-E01/05-5H-E01-007	0	01:14:07;
+
+[PrintText]=00:48:23	Makoto	No eres ni mi novia, y estás aquí todo el tiempo. Mi mamá se dará una mala idea de nosotros.	00:56:17;
+
+[PlayVoice]=00:48:23	Voice05/05-5H/05-5H-E01/05-5H-E01-0190	1	mak	00:56:17;
+
+[PrintText]=00:57:01	Hikari	Está bien. Es más conveniente así.	01:00:01;
+
+[PlayVoice]=00:57:01	Voice05/05-5H/05-5H-E01/05-5H-E01-0200	0	hik	01:00:01;
+
+[PrintText]=01:00:08	Makoto	Cielos... Más conveniente por qué, pregunto. Aún así tus padres se preocuparán si estás aquí siempre.	01:08:08;
+
+[PlayVoice]=01:00:08	Voice05/05-5H/05-5H-E01/05-5H-E01-0220	1	mak	01:08:08;
+
+[PrintText]=01:08:19	Hikari	No es un problema. Mis padres se escaparon para estar juntos.	01:12:21;
+
+[PlayVoice]=01:08:19	Voice05/05-5H/05-5H-E01/05-5H-E01-0230	0	hik	01:12:21;
+
+[PrintText]=01:13:07	Makoto	¿Huh?^	01:13:22;
+
+[PlayVoice]=01:13:07	Voice05/05-5H/05-5H-E01/05-5H-E01-0240	1	mak	01:13:22;
+
+[PlayMovie]=01:14:07	Movie05/05-5H/05-5H-E01/H5-5H-E01-008	0	01:27:15;
+
+[PrintText]=01:14:07	Hikari	Si les digo '¡Mamá, Papá, lo siento! Yo... lo amo'..	01:19:01;
+
+[PlayVoice]=01:14:07	Voice05/05-5H/05-5H-E01/05-5H-E01-0250	0	hik	01:19:01;
+
+[PrintText]=01:19:10	Hikari	Estoy segura que lo pensarán y dirán 'Bueno... no podemos evitarlo'.	01:24:06;
+
+[PlayVoice]=01:19:10	Voice05/05-5H/05-5H-E01/05-5H-E01-0251	0	hik	01:24:06;
+
+[PrintText]=01:24:16	Makoto	¡Hablas de una manera muy equivocada!	01:27:08;
+
+[PlayVoice]=01:24:16	Voice05/05-5H/05-5H-E01/05-5H-E01-0260	1	mak	01:27:08;
+
+[PlayMovie]=01:27:15	Movie05/05-5H/05-5H-E01/05-5H-E01-009	0	01:31:12;
+
+[PrintText]=01:27:15	Hikari	¿Quieres decir que no somos amantes?^	01:29:22;
+
+[PlayVoice]=01:27:15	Voice05/05-5H/05-5H-E01/05-5H-E01-0270	0	hik	01:29:22;
+
+[PrintText]=01:30:07	Makoto	Sí.	01:31:00;
+
+[PlayVoice]=01:30:07	Voice05/05-5H/05-5H-E01/05-5H-E01-0280	1	mak	01:31:00;
+
+[CreateBG]=01:31:12	BGS	Event05/05-5H/05-5H-E00/05-5H-E00-018	01:36:22;
+
+[PrintText]=01:31:12	Hikari	Me pregunto cómo es nuestra relación...	01:35:01;
+
+[PlayVoice]=01:31:12	Voice05/05-5H/05-5H-E01/05-5H-E01-0290	0	hik	01:35:01;
+
+[PrintText]=01:35:09	Makoto	Amigos con derechos o algo así...?^	01:36:17;
+
+[PlayVoice]=01:35:09	Voice05/05-5H/05-5H-E01/05-5H-E01-0300	1	mak	01:36:17;
+
+[PlayMovie]=01:36:22	Movie05/05-5H/05-5H-E01/05-5H-E01-011	0	01:56:13;
+
+[PrintText]=01:36:22	Hikari	Amigos con derechos, huh...	01:39:05;
+
+[PlayVoice]=01:36:22	Voice05/05-5H/05-5H-E01/05-5H-E01-0310	0	hik	01:39:05;
+
+[PrintText]=01:39:13	Makoto	¿No?^	01:40:10;
+
+[PlayVoice]=01:39:13	Voice05/05-5H/05-5H-E01/05-5H-E01-0320	1	mak	01:40:10;
+
+[PrintText]=01:40:13	Hikari	Hmm... bueno, tal vez... algo más como... tu manager.	01:47:21;
+
+[PlayVoice]=01:40:13	Voice05/05-5H/05-5H-E01/05-5H-E01-0330	0	hik	01:47:21;
+
+[PrintText]=01:48:06	Makoto	¿Manager?^	01:49:08;
+
+[PlayVoice]=01:48:06	Voice05/05-5H/05-5H-E01/05-5H-E01-0340	1	mak	01:49:08;
+
+[PrintText]=01:49:20	Hikari	Sip, tu manager privado. Llegar a dormir contigo todas las noches es un beneficio adicional. Ohoho.	01:57:20;
+
+[PlayVoice]=01:49:20	Voice05/05-5H/05-5H-E01/05-5H-E01-0350	0	hik	01:57:20;
+
+[PlaySe]=01:49:22	1	Se05/05-5H/05-5H-E00/SE05-5H-E00-001	03:34:20;
+
+[PlayMovie]=01:56:13	Movie05/05-5H/05-5H-E01/H5-5H-E01-012	0	02:00:11;
+
+[PrintText]=01:58:05	Makoto	Manager, huh...	01:59:20;
+
+[PlayVoice]=01:58:05	Voice05/05-5H/05-5H-E01/05-5H-E01-0360	1	mak	01:59:20;
+
+[PlayMovie]=02:00:11	Movie05/05-5H/05-5H-E01/05-5H-E01-013	0	02:16:09;
+
+[PrintText]=02:00:11	Hikari	¡Bien... oh! Tenemos un pedido de unas estudiantes, Kazuha-chan y Futaba-chan.	02:08:00;
+
+[PlayVoice]=02:00:11	Voice05/05-5H/05-5H-E01/05-5H-E01-0380	0	hik	02:12:05;
+
+[PrintText]=02:08:00	Hikari	¡Ooh, son gemelas, y quieren hacerlo al mismo tiempo!	02:12:05;
+
+[PrintText]=02:12:16	Hikari	¡Wah, es un trió Makoto! ¿No suena bien?^	02:15:22;
+
+[PlayVoice]=02:12:16	Voice05/05-5H/05-5H-E01/05-5H-E01-0381	0	hik	02:15:22;
+
+[PlayMovie]=02:16:09	Movie05/05-5H/05-5H-E01/H5-5H-E01-014	0	02:31:16;
+
+[PrintText]=02:16:09	Makoto	Primero año, huh... solo son niñas...	02:20:05;
+
+[PlayVoice]=02:16:09	Voice05/05-5H/05-5H-E01/05-5H-E01-0390	1	mak	02:20:05;
+
+[PrintText]=02:20:14	Hikari	No puedes saberlo. Tal vez sean como Katsura-san.	02:25:11;
+
+[PlayVoice]=02:20:14	Voice05/05-5H/05-5H-E01/05-5H-E01-0400	0	hik	02:25:11;
+
+[PrintText]=02:25:19	Makoto	Sí, creo... ¿Pero te importaría no llamar cada día a una chica diferente?^	02:31:11;
+
+[PlayVoice]=02:25:19	Voice05/05-5H/05-5H-E01/05-5H-E01-0410	1	mak	02:31:11;
+
+[PlayMovie]=02:31:16	Movie05/05-5H/05-5H-E01/05-5H-E01-015	0	02:35:05;
+
+[PrintText]=02:31:16	Hikari	¿Por qué no? Tú querías esto desde el inicio.	02:34:22;
+
+[PlayVoice]=02:31:16	Voice05/05-5H/05-5H-E01/05-5H-E01-0420	0	hik	02:34:22;
+
+[CreateBG]=02:35:05	BGS	Event05/05-5H/05-5H-E00/05-5H-E00-005	02:37:07;
+
+[PrintText]=02:35:05	Makoto	Bueno, sí pero...	02:37:02;
+
+[PlayVoice]=02:35:05	Voice05/05-5H/05-5H-E01/05-5H-E01-0430	1	mak	02:37:02;
+
+[PlayMovie]=02:37:07	Movie05/05-5H/05-5H-E01/05-5H-E01-017	0	02:55:23;
+
+[PrintText]=02:37:07	Hikari	Pensé que estaría mal quererte solo para mi, así que te estoy compartiendo con las chicas que quieres.	02:45:15;
+
+[PlayVoice]=02:37:07	Voice05/05-5H/05-5H-E01/05-5H-E01-0440	0	hik	02:45:15;
+
+[PrintText]=02:45:20	Makoto	Mira, es raro que digas que solo soy para ti, Tengo a Sekai y...	02:51:16;
+
+[PlayVoice]=02:45:20	Voice05/05-5H/05-5H-E01/05-5H-E01-0450	1	mak	02:51:16;
+
+[PrintText]=02:51:23	Hikari	Oh ¿También debería decirle a Sekai entonces?^	02:55:21;
+
+[PlayVoice]=02:51:23	Voice05/05-5H/05-5H-E01/05-5H-E01-0460	0	hik	02:55:21;
+
+[PlayMovie]=02:55:23	Movie05/05-5H/05-5H-E01/H5-5H-E01-018	0	02:57:03;
+
+[PrintText]=02:56:03	Makoto	¡Uhh!	02:56:19;
+
+[PlayVoice]=02:56:03	Voice05/05-5H/05-5H-E01/05-5H-E01-0470	1	mak	02:56:19;
+
+[PlayMovie]=02:57:03	Movie05/05-5H/05-5H-E01/05-5H-E01-019	0	03:08:19;
+
+[PrintText]=02:57:03	Hikari	Tengo todo tipo de fotos en mi teléfono, sabes. Te apuesto a que Sekai se sorprendería...	03:03:16;
+
+[PlayVoice]=02:57:03	Voice05/05-5H/05-5H-E01/05-5H-E01-0480	0	hik	03:03:16;
+
+[PrintText]=03:04:01	Makoto	Uguh...	03:05:23;
+
+[PlayVoice]=03:04:01	Voice05/05-5H/05-5H-E01/05-5H-E01-0490	1	mak	03:05:23;
+
+[PrintText]=03:06:02	Hikari	Ahora que está todo bien, así que cuento contigo para lo de hoy.	03:08:17;
+
+[PlayVoice]=03:06:02	Voice05/05-5H/05-5H-E01/05-5H-E01-0500	0	hik	03:08:17;
+
+[PlayMovie]=03:08:19	Movie05/05-5H/05-5H-E01/H5-5H-E01-020	0	03:20:21;
+
+[PrintText]=03:08:19	Makoto	P-Pero aún así... últimamente, incluyendo a las chicas de primer año hoy,	03:12:19;
+
+[PlayVoice]=03:08:19	Voice05/05-5H/05-5H-E01/05-5H-E01-0510	1	mak	03:12:19;
+
+[PrintText]=03:12:23	Makoto	ninguna realmente a querido acostarse conmigo. Solo son curiosas en el sexo...	03:19:23;
+
+[PlayVoice]=03:12:23	Voice05/05-5H/05-5H-E01/05-5H-E01-0511	1	mak	03:19:23;
+
+[PrintText]=03:20:03	Hikari	Está bien ¿No?^	03:21:01;
+
+[PlayVoice]=03:20:03	Voice05/05-5H/05-5H-E01/05-5H-E01-0520	0	hik	03:21:01;
+
+[CreateBG]=03:20:21	BGS	Event05/05-5H/05-5H-E01/05-5H-E01-021	03:22:12;
+
+[PrintText]=03:20:22	Makoto	¡No, no lo está!	03:22:06;
+
+[PlayVoice]=03:20:22	Voice05/05-5H/05-5H-E01/05-5H-E01-0530	1	mak	03:22:06;
+
+[PrintText]=03:22:11	Hikari	Ser bueno en la cama es tu único mérito. así que tenemos que compartirlo con todos.	03:27:05;
+
+[PlayVoice]=03:22:11	Voice05/05-5H/05-5H-E01/05-5H-E01-0540	0	hik	03:31:12;
+
+[PrintText]=03:27:05	Hikari	Eres popular sabes. Cualquier pelearía por un pedazo de ti.	03:31:12;
+
+[PlayMovie]=03:22:12	Movie05/05-5H/05-5H-E01/05-5H-E01-022	0	03:43:07;
+
+[PrintText]=03:31:19	Hikari	Todos los días, hay chicas que suplican por estar contigo.	03:37:00;
+
+[PlayVoice]=03:31:19	Voice05/05-5H/05-5H-E01/05-5H-E01-0541	0	hik	03:37:00;
+
+[PlaySe]=03:34:20	2	Se05/05-5H/05-5H-E00/SE05-5H-E00-001	04:03:03;
+
+[PrintText]=03:37:02	Makoto	Sí, todo a espaldas de Sekai.	03:38:20;
+
+[PlayVoice]=03:37:02	Voice05/05-5H/05-5H-E01/05-5H-E01-0550	1	mak	03:38:20;
+
+[PrintText]=03:38:22	Hikari	Ohoho... Sekai no lo ha notado ¿No?^	03:43:05;
+
+[PlayVoice]=03:38:22	Voice05/05-5H/05-5H-E01/05-5H-E01-0560	0	hik	03:43:05;
+
+[PlayMovie]=03:43:07	Movie05/05-5H/05-5H-E01/H5-5H-E01-023	0	03:49:00;
+
+[PrintText]=03:43:07	Makoto	No, pero realmente es un peso de conciencia.	03:46:20;
+
+[PlayVoice]=03:43:07	Voice05/05-5H/05-5H-E01/05-5H-E01-0570	1	mak	03:46:20;
+
+[PrintText]=03:46:22	Hikari	Oh, no dejes que te moleste.	03:48:20;
+
+[PlayVoice]=03:46:22	Voice05/05-5H/05-5H-E01/05-5H-E01-0580	0	hik	03:48:20;
+
+[CreateBG]=03:49:00	BGS	Event05/05-5H/05-5H-E01/05-5H-E01-024	03:59:08;
+
+[PrintText]=03:49:00	Makoto	Haah...si no hubiera decidido ayudarte, esto jamás hubiera ocurrido...	03:56:12;
+
+[PlayVoice]=03:49:00	Voice05/05-5H/05-5H-E01/05-5H-E01-0590	1	mak	03:56:12;
+
+[PrintText]=03:56:18	Hikari	¿Dijiste algo?^	03:57:22;
+
+[PlayVoice]=03:56:18	Voice05/05-5H/05-5H-E01/05-5H-E01-0600	0	hik	03:57:22;
+
+[PrintText]=03:58:03	Makoto	No.	03:59:05;
+
+[PlayVoice]=03:58:03	Voice05/05-5H/05-5H-E01/05-5H-E01-0610	1	mak	03:59:05;
+
+[PlayMovie]=03:59:08	Movie05/05-5H/05-5H-E01/05-5H-E01-024	0	04:03:03;
+
+[PrintText]=03:59:08	Hikari	¡Vale, entonces vamos a la escuela! ¡Todos te están esperando!	04:03:01;
+
+[PlayVoice]=03:59:08	Voice05/05-5H/05-5H-E01/05-5H-E01-0620	0	hik	04:03:01;
+
+[CreateBG]=04:03:03	BGS	Ini/EndRoll/05-01	04:06:00;
+
+[EndRoll]=04:06:00	Ini/EndRoll/GOOD	04:46:00;
+
+[EndBGM]=04:03:03	BGM/Vocal/SDV08	04:46:00;
+
+ ;
+
+[Next]=04:46:00;
+
+

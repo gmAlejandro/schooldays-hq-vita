@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:06:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:06:11;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-C08/SE03-SB-C08-001	00:06:11;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-C08/03-SB-C08-001	0	00:06:11;
+
+[PrintText]=00:00:00	Makoto	Seguro.	00:00:19;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-C08/03-SB-C08-0030	1	mak	00:00:19;
+
+[PrintText]=00:00:19	Kotonoha	¡¿En serio?!	00:02:09;
+
+[PlayVoice]=00:00:19	Voice03/03-SB/03-SB-C08/03-SB-C08-0040	0	kot	00:02:09;
+
+[PrintText]=00:02:09	Makoto	Pasemos un tiempo juntos, incluso si es en la fogata.	00:04:13;
+
+[PlayVoice]=00:02:09	Voice03/03-SB/03-SB-C08/03-SB-C08-0050	1	mak	00:04:13;
+
+[PrintText]=00:04:13	Kotonoha	¡Vale!	00:05:08;
+
+[PlayVoice]=00:04:13	Voice03/03-SB/03-SB-C08/03-SB-C08-0060	0	kot	00:05:08;
+
+ ;
+
+[Next]=00:06:11;
+
+

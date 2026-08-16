@@ -1,0 +1,157 @@
+﻿[SkipFRAME]=01:01:11;
+
+[PlaySe]=00:00:00	1	Se03/03-A1/03-A1-C00/SE03-A1-C00-001	01:01:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-001	00:03:01;
+
+[PrintText]=00:00:00	Setsuna	Vale, pinta aquí.	00:02:04;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-C00/03-A1-C00-0060	0	set	00:02:04;
+
+[PrintText]=00:02:04	Makoto	Está bien.	00:02:20;
+
+[PlayVoice]=00:02:04	Voice03/03-A1/03-A1-C00/03-A1-C00-0070	1	mak	00:02:20;
+
+[CreateBG]=00:03:01	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-002A	00:03:19;
+
+[PrintText]=00:03:06	Setsuna	...	00:03:16;
+
+[PlayVoice]=00:03:06	Voice03/03-A1/03-A1-C00/03-A1-C00-0080	0	xxx	00:03:16;
+
+[CreateBG]=00:03:19	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-002B	00:07:08;
+
+[PrintText]=00:03:22	Makoto	Vamos, tu también trabaja.	00:07:04;
+
+[PlayVoice]=00:03:22	Voice03/03-A1/03-A1-C00/03-A1-C00-0100	1	mak	00:07:04;
+
+[CreateBG]=00:07:08	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-002C	00:13:16;
+
+[PrintText]=00:07:12	Setsuna	Estoy en eso. Veo lo de la impresión.	00:12:00;
+
+[PlayVoice]=00:07:12	Voice03/03-A1/03-A1-C00/03-A1-C00-0110	0	set	00:12:00;
+
+[PrintText]=00:12:04	Makoto	Hmmn.	00:13:10;
+
+[PlayVoice]=00:12:04	Voice03/03-A1/03-A1-C00/03-A1-C00-0130	1	mak	00:13:10;
+
+[CreateBG]=00:13:16	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-002D	00:14:17;
+
+[CreateBG]=00:14:17	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-003	00:18:23;
+
+[PrintText]=00:14:18	Setsuna	...Itou.	00:15:15;
+
+[PlayVoice]=00:14:18	Voice03/03-A1/03-A1-C00/03-A1-C00-0150	0	set	00:15:15;
+
+[PrintText]=00:15:15	Makoto	Sí.	00:16:08;
+
+[PlayVoice]=00:15:15	Voice03/03-A1/03-A1-C00/03-A1-C00-0160	1	mak	00:16:08;
+
+[PrintText]=00:16:14	Setsuna	¿A pasado algo?^	00:17:23;
+
+[PlayVoice]=00:16:14	Voice03/03-A1/03-A1-C00/03-A1-C00-0170	0	set	00:17:23;
+
+[PrintText]=00:17:23	Makoto	Realmente no.	00:18:22;
+
+[PlayVoice]=00:17:23	Voice03/03-A1/03-A1-C00/03-A1-C00-0180	1	mak	00:18:22;
+
+[CreateBG]=00:18:23	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-004	00:20:20;
+
+[PrintText]=00:19:02	Setsuna	Ya veo...	00:19:20;
+
+[PlayVoice]=00:19:02	Voice03/03-A1/03-A1-C00/03-A1-C00-0190	0	set	00:19:20;
+
+[PrintText]=00:19:22	Makoto	...	00:20:18;
+
+[PlayVoice]=00:19:22	Voice03/03-A1/03-A1-C00/03-A1-C00-0200	1	xxx	00:20:18;
+
+[CreateBG]=00:20:20	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-005	00:27:05;
+
+[PrintText]=00:20:20	Kotonoha	Lo siento. No hay mucha gente que puede con estas cosas del club,	00:25:02;
+
+[PlayVoice]=00:20:20	Voice03/03-A1/03-A1-C00/03-A1-C00-0220	0	kot	00:27:05;
+
+[PrintText]=00:25:02	Kotonoha	y necesito tres personas que puedan ayudar.	00:27:05;
+
+[CreateBG]=00:27:05	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-006	00:28:09;
+
+[PrintText]=00:27:09	Makoto	...	00:28:05;
+
+[PlayVoice]=00:27:09	Voice03/03-A1/03-A1-C00/03-A1-C00-0240	1	xxx	00:28:05;
+
+[CreateBG]=00:28:09	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-007A	00:31:09;
+
+[PrintText]=00:28:15	Setsuna	Itou, ¿No vas a ir?^	00:31:08;
+
+[PlayVoice]=00:28:15	Voice03/03-A1/03-A1-C00/03-A1-C00-0260	0	set	00:31:08;
+
+[PrintText]=00:31:08	Makoto	...	00:32:11;
+
+[PlayVoice]=00:31:08	Voice03/03-A1/03-A1-C00/03-A1-C00-0280	1	xxx	00:32:11;
+
+[CreateBG]=00:31:09	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-007B	00:39:21;
+
+[PrintText]=00:32:12	Chico A	Ahh... bien, yo iré.	00:35:22;
+
+[PlayVoice]=00:32:12	Voice03/03-A1/03-A1-C00/03-A1-C00-0310	1	daa	00:35:22;
+
+[PrintText]=00:35:22	Chico B	También iré entonces.	00:37:03;
+
+[PlayVoice]=00:35:22	Voice03/03-A1/03-A1-C00/03-A1-C00-0320	1	dab	00:37:03;
+
+[PrintText]=00:37:04	Kotonoha	Por favor.	00:38:10;
+
+[PlayVoice]=00:37:04	Voice03/03-A1/03-A1-C00/03-A1-C00-0330	0	kot	00:38:10;
+
+[PrintText]=00:38:09	Chico A	Bien ¿A dónde vamos?^	00:39:20;
+
+[PlayVoice]=00:38:09	Voice03/03-A1/03-A1-C00/03-A1-C00-0340	1	daa	00:39:20;
+
+[CreateBG]=00:39:21	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-008	00:45:20;
+
+[PrintText]=00:39:21	Kotonoha	Deberíamos estar realizando todo por el club de actividades, así que... ah, por aquí.	00:45:05;
+
+[PlayVoice]=00:39:21	Voice03/03-A1/03-A1-C00/03-A1-C00-0350	0	kot	00:45:05;
+
+[BlackFade]=00:45:08	OUT	00:45:20;
+
+[CreateBG]=00:45:20	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-009	00:51:03;
+
+[PrintText]=00:45:20	Setsuna	¿Estás seguro que no irás?^	00:47:15;
+
+[PlayVoice]=00:45:20	Voice03/03-A1/03-A1-C00/03-A1-C00-0370	0	set	00:47:15;
+
+[PrintText]=00:47:15	Makoto	Estoy pintando esto ¿No?^	00:50:02;
+
+[PlayVoice]=00:47:15	Voice03/03-A1/03-A1-C00/03-A1-C00-0380	1	mak	00:50:02;
+
+[PrintText]=00:50:09	Setsuna	...	00:50:18;
+
+[PlayVoice]=00:50:09	Voice03/03-A1/03-A1-C00/03-A1-C00-0390	0	xxx	00:50:18;
+
+[PrintText]=00:50:13	Voz	Kiyoura Setsuna-san de la clase 3 del primer año... por favor reportarse a la sala de profesores...	00:56:19;
+
+[PlayVoice]=00:50:13	Voice03/03-A1/03-A1-C00/03-A1-C00-0400	1	kou	00:56:19;
+
+[CreateBG]=00:51:03	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-001	00:58:10;
+
+[PrintText]=00:56:18	Setsuna	Ah...	00:57:07;
+
+[PlayVoice]=00:56:18	Voice03/03-A1/03-A1-C00/03-A1-C00-0410	0	set	00:57:07;
+
+[PrintText]=00:57:08	Makoto	Te están llamando.	00:58:10;
+
+[PlayVoice]=00:57:08	Voice03/03-A1/03-A1-C00/03-A1-C00-0420	1	mak	00:58:10;
+
+[CreateBG]=00:58:10	BGS	Event03/03-A1/03-A1-C00/03-A1-C00-011	01:01:11;
+
+[PrintText]=00:58:23	Setsuna	Uh-huh...	00:59:15;
+
+[PlayVoice]=00:58:23	Voice03/03-A1/03-A1-C00/03-A1-C00-0430	0	set	00:59:15;
+
+[BlackFade]=01:00:11	OUT	01:01:11;
+
+ ;
+
+[Next]=01:01:11;
+
+

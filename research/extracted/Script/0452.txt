@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:12:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm14	00:12:01;
+
+[PlayMovie]=00:00:00	Movie03/03-B1/03-B1-C00/03-B1-C00-001	0	00:05:17;
+
+[PrintText]=00:00:00	Bocina	Los preparativos para el baile folk han culminado... los asistentes, favor de acercarse al recinto... además...	00:09:01;
+
+[PlayVoice]=00:00:00	Voice03/03-B1/03-B1-C00/03-B1-C00-0050	1	kou	00:09:01;
+
+[PlayMovie]=00:05:17	Movie03/03-B1/03-B1-C00/03-B1-C00-002	0	00:12:01;
+
+[PrintText]=00:09:15	Makoto	Al recinto, huh...	00:10:20;
+
+[PlayVoice]=00:09:15	Voice03/03-B1/03-B1-C00/03-B1-C00-0090	1	mak	00:10:20;
+
+[BlackFade]=00:11:01	OUT	00:12:01;
+
+ ;
+
+[Next]=00:12:01;
+
+

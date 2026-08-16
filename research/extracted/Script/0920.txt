@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:12:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:12:22;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-D03/SE04-KA-D03-001	00:12:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-D03/04-KA-D03-001	00:02:00;
+
+#[PrintText]=00:00:05	Kotonoha	...	00:01:10;
+
+[PlayVoice]=00:00:05	Voice04/04-KA/04-KA-D03/04-KA-D03-0040	0	xxx	00:01:10;
+
+[CreateBG]=00:02:00	BGS	Event04/04-KA/04-KA-D03/04-KA-D03-002	00:04:06;
+
+[PrintText]=00:02:09	Kotonoha	Makoto-kun.	00:03:22;
+
+[PlayVoice]=00:02:09	Voice04/04-KA/04-KA-D03/04-KA-D03-0060	0	kot	00:03:22;
+
+[PlayMovie]=00:04:06	Movie04/04-KA/04-KA-D03/04-KA-D03-003	0	00:07:08;
+
+#[PrintText]=00:04:06	Makoto	...	00:05:14;
+
+[PlayVoice]=00:04:06	Voice04/04-KA/04-KA-D03/04-KA-D03-0070	1	xxx	00:05:14;
+
+[MoveSom]=00:04:06	1	00:07:08;
+
+#[PrintText]=00:05:07	Kotonoha	...	00:05:23;
+
+[PlayVoice]=00:05:07	Voice04/04-KA/04-KA-D03/04-KA-D03-0080	0	xxx	00:05:23;
+
+[PrintText]=00:06:00	Makoto	¿Eh?	00:06:17;
+
+[PlayVoice]=00:06:00	Voice04/04-KA/04-KA-D03/04-KA-D03-0100	1	mak	00:06:17;
+
+[PrintText]=00:06:11	Kotonoha	Mira.	00:07:06;
+
+[PlayVoice]=00:06:11	Voice04/04-KA/04-KA-D03/04-KA-D03-0120	0	kot	00:07:06;
+
+[PlayMovie]=00:07:08	Movie04/04-KA/04-KA-D03/04-KA-D03-004	0	00:09:20;
+
+#[PrintText]=00:07:08	Makoto	Kotonoha...	00:09:03;
+
+[PlayVoice]=00:07:08	Voice04/04-KA/04-KA-D03/04-KA-D03-0130	1	mak	00:09:03;
+
+[MoveSom]=00:07:08	2	00:11:14;
+
+#[PrintText]=00:08:22	Kotonoha	...	00:11:12;
+
+[PlayVoice]=00:08:22	Voice04/04-KA/04-KA-D03/04-KA-D03-0140	0	xxx	00:11:12;
+
+[PlayMovie]=00:09:20	Movie04/04-KA/04-KA-D03/04-KA-D03-005	0	00:11:14;
+
+[PrintText]=00:10:19	Makoto	P-Pero...	00:12:21;
+
+[PlayVoice]=00:10:19	Voice04/04-KA/04-KA-D03/04-KA-D03-0160	1	mak	00:12:21;
+
+[CreateBG]=00:11:14	BGS	Event04/04-KA/04-KA-D03/04-KA-D03-006	00:12:22;
+
+[MoveSom]=00:11:14	1	00:12:22;
+
+ ;
+
+[Next]=00:12:22;

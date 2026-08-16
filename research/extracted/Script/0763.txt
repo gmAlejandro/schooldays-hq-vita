@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:05:20;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-F08/SE03-SA-F08-001	00:12:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F08/03-SA-F08-001	00:12:06;
+
+[PrintText]=00:00:00	Minami	¿Q-Qué está pasando?^	00:01:22;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-F08/03-SA-F08-0030	0	min	00:01:22;
+
+[PrintText]=00:01:22	Makoto	...	00:03:03;
+
+[PlayVoice]=00:01:22	Voice03/03-SA/03-SA-F08/03-SA-F08-0040	1	xxx	00:03:03;
+
+[PrintText]=00:03:04	Natsumi	¿Has venido a hablar con Katsura?^	00:05:08;
+
+[PlayVoice]=00:03:04	Voice03/03-SA/03-SA-F08/03-SA-F08-0050	0	nat	00:05:08;
+
+[SetSELECT]=00:05:20	'Así es'	null	00:10:20;
+
+ ;
+
+[Next]=00:12:06;
+
+

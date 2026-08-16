@@ -1,0 +1,119 @@
+﻿[SkipFRAME]=00:59:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:59:11;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-C00/SE03-BK-C00-001	00:59:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-001	00:02:01;
+
+[CreateBG]=00:02:01	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-002	00:03:09;
+
+[PrintText]=00:02:16	Taisuke	¿Qué haces?^	00:03:22;
+
+[PlayVoice]=00:02:16	Voice03/03-BK/03-BK-C00/03-BK-C00-0060	1	tai	00:03:22;
+
+[CreateBG]=00:03:09	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-003	00:12:00;
+
+[PrintText]=00:03:09	Kotonoha	¡Wah! ¡Lo siento!	00:05:13;
+
+[PlayVoice]=00:03:09	Voice03/03-BK/03-BK-C00/03-BK-C00-0070	0	kot	00:05:13;
+
+[PrintText]=00:05:06	Taisuke	Hey, soy yo. Sawanaga.	00:08:11;
+
+[PlayVoice]=00:05:06	Voice03/03-BK/03-BK-C00/03-BK-C00-0080	1	tai	00:08:11;
+
+[PrintText]=00:08:08	Kotonoha	Ah... Sawanaga-san.	00:11:13;
+
+[PlayVoice]=00:08:08	Voice03/03-BK/03-BK-C00/03-BK-C00-0090	0	kot	00:11:13;
+
+[CreateBG]=00:12:00	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-004	00:19:19;
+
+[PrintText]=00:12:00	Kotonoha	Um, ¿Dónde está Mak... Itou-kun?^	00:16:19;
+
+[PlayVoice]=00:12:00	Voice03/03-BK/03-BK-C00/03-BK-C00-0110	0	kot	00:16:19;
+
+[PrintText]=00:16:19	Taisuke	No hay necesidad de que te corrijas. 'Makoto' está bien.	00:19:19;
+
+[PlayVoice]=00:16:19	Voice03/03-BK/03-BK-C00/03-BK-C00-0120	1	tai	00:19:19;
+
+[PrintText]=00:19:18	Kotonoha	Ah, Vale.	00:21:16;
+
+[PlayVoice]=00:19:18	Voice03/03-BK/03-BK-C00/03-BK-C00-0130	0	kot	00:21:16;
+
+[CreateBG]=00:19:19	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-005	00:21:16;
+
+[CreateBG]=00:21:16	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-006	00:28:22;
+
+[PrintText]=00:21:16	Taisuke	Makoto se enfermó hoy. Parece que llamó esta mañana diciendo que no se sentía bien.	00:26:01;
+
+[PlayVoice]=00:21:16	Voice03/03-BK/03-BK-C00/03-BK-C00-0150	1	tai	00:26:01;
+
+[PrintText]=00:26:01	Kotonoha	Ya veo.	00:27:13;
+
+[PlayVoice]=00:26:01	Voice03/03-BK/03-BK-C00/03-BK-C00-0160	0	kot	00:27:13;
+
+[PrintText]=00:27:13	Taisuke	¿Has escuchado algo?^	00:28:22;
+
+[PlayVoice]=00:27:13	Voice03/03-BK/03-BK-C00/03-BK-C00-0170	1	tai	00:28:22;
+
+[CreateBG]=00:28:22	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-007	00:42:20;
+
+[PrintText]=00:28:22	Kotonoha	Ah... bueno, ayer se fue a su casa durante la tarde, pues...	00:34:16;
+
+[PlayVoice]=00:28:22	Voice03/03-BK/03-BK-C00/03-BK-C00-0180	0	kot	00:34:16;
+
+[PrintText]=00:34:16	Taisuke	Ya veo, por eso estás preocupada por él.	00:38:01;
+
+[PlayVoice]=00:34:16	Voice03/03-BK/03-BK-C00/03-BK-C00-0190	1	tai	00:38:01;
+
+[PrintText]=00:38:01	Kotonoha	Sí.	00:38:21;
+
+[PlayVoice]=00:38:01	Voice03/03-BK/03-BK-C00/03-BK-C00-0200	0	kot	00:38:21;
+
+[PrintText]=00:38:21	Taisuke	Bueno, él probablemente se divirtió mucho en el festival.	00:41:07;
+
+[PlayVoice]=00:38:21	Voice03/03-BK/03-BK-C00/03-BK-C00-0210	1	tai	00:41:07;
+
+[PrintText]=00:41:06	Kotonoha	¿En serio...?^	00:42:19;
+
+[PlayVoice]=00:41:06	Voice03/03-BK/03-BK-C00/03-BK-C00-0220	0	kot	00:42:19;
+
+[PrintText]=00:42:19	Taisuke	¿Siguen saliendo?^	00:45:02;
+
+[PlayVoice]=00:42:19	Voice03/03-BK/03-BK-C00/03-BK-C00-0230	1	tai	00:45:02;
+
+[CreateBG]=00:42:20	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-006	00:45:20;
+
+[PrintText]=00:45:02	Kotonoha	¡¿Eh?!	00:45:20;
+
+[PlayVoice]=00:45:02	Voice03/03-BK/03-BK-C00/03-BK-C00-0240	0	kot	00:45:20;
+
+[PrintText]=00:45:19	Taisuke	Ah, lo siento. Soy un poco curioso.	00:49:09;
+
+[PlayVoice]=00:45:19	Voice03/03-BK/03-BK-C00/03-BK-C00-0250	1	tai	00:49:09;
+
+[CreateBG]=00:45:20	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-009	00:51:19;
+
+[PrintText]=00:49:09	Kotonoha	...Sí.	00:51:19;
+
+[PlayVoice]=00:49:09	Voice03/03-BK/03-BK-C00/03-BK-C00-0260	0	kot	00:51:19;
+
+[CreateBG]=00:51:19	BGS	Event03/03-BK/03-BK-C00/03-BK-C00-010	00:59:11;
+
+[PrintText]=00:51:19	Taisuke	Ya veo. Qué bueno escucharlo.	00:54:04;
+
+[PlayVoice]=00:51:19	Voice03/03-BK/03-BK-C00/03-BK-C00-0270	1	tai	00:54:04;
+
+[PrintText]=00:54:04	Kotonoha	Sí.	00:55:00;
+
+[PlayVoice]=00:54:04	Voice03/03-BK/03-BK-C00/03-BK-C00-0280	0	kot	00:55:00;
+
+[PrintText]=00:55:00	Taisuke	Bueno, en ese caso, tengo que pedirte algo...	00:59:01;
+
+[PlayVoice]=00:55:00	Voice03/03-BK/03-BK-C00/03-BK-C00-0290	1	tai	00:59:01;
+
+ ;
+
+[Next]=00:59:11;
+
+

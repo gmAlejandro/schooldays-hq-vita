@@ -1,0 +1,439 @@
+﻿[SkipFRAME]=05:08:09;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-G04/SE01-00-G04-002	00:10:09;
+
+[PlaySe]=00:00:00	2	Se01/01-00/01-00-G04/SE01-00-G04-001	01:09:05;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-K00/00-00-K00-001	0	00:10:06;
+
+[PrintText]=00:00:06	Kotonoha	...	00:01:17;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-G04/01-00-G04-0040	0	xxx	00:01:17;
+
+[PrintText]=00:02:14	Sekai	Katsura-san, ¿Adónde fuiste a almorzar hoy...?^	00:05:11;
+
+[PlayVoice]=00:02:14	Voice01/01-00/01-00-G04/01-00-G04-0050	0	sek	00:05:11;
+
+[PrintText]=00:05:16	Kotonoha	Eheheh... Olvide mi almuerzo hoy, así que comí en la cafetería.	00:10:09;
+
+[PlayVoice]=00:05:16	Voice01/01-00/01-00-G04/01-00-G04-0060	0	kot	00:10:09;
+
+[PlayMovie]=00:10:06	Movie01/01-00/01-00-G04/01-00-G04-002	0	00:14:20;
+
+[PrintText]=00:10:06	Sekai	¿La Cafetería...? Sí le hubieras dicho a Makoto, también hubiera venido contigo.	00:14:17;
+
+[PlayVoice]=00:10:06	Voice01/01-00/01-00-G04/01-00-G04-0070	0	sek	00:14:17;
+
+[PlayMovie]=00:14:20	Movie00/00-00/00-00-K00/00-00-K00-006	0	00:17:06;
+
+[PrintText]=00:15:00	Kotonoha	Bueno, creo que podría estar molestando...	00:17:10;
+
+[PlayVoice]=00:15:00	Voice01/01-00/01-00-G04/01-00-G04-0080	0	kot	00:17:10;
+
+[PlayMovie]=00:17:06	Movie01/01-00/01-00-G04/01-00-G04-004	0	00:26:19;
+
+[PrintText]=00:17:06	Sekai	¡¿Eh?!	00:17:18;
+
+[PlayVoice]=00:17:06	Voice01/01-00/01-00-G04/01-00-G04-0090	0	sek	00:17:18;
+
+[PrintText]=00:18:05	Kotonoha	...	00:19:09;
+
+[PlayVoice]=00:18:05	Voice01/01-00/01-00-G04/01-00-G04-0100	0	xxx	00:19:09;
+
+[PrintText]=00:19:23	Sekai	...	00:20:14;
+
+[PlayVoice]=00:19:23	Voice01/01-00/01-00-G04/01-00-G04-0110	0	xxx	00:20:14;
+
+[PrintText]=00:21:15	Sekai	Katsura-san.	00:22:19;
+
+[PlayVoice]=00:21:15	Voice01/01-00/01-00-G04/01-00-G04-0130	0	sek	00:22:19;
+
+[PrintText]=00:22:21	Kotonoha	...	00:23:10;
+
+[PlayVoice]=00:22:21	Voice01/01-00/01-00-G04/01-00-G04-0140	0	xxx	00:23:10;
+
+[PrintText]=00:24:01	Sekai	¿Pasó algo entre Makoto y tú?^	00:26:14;
+
+[PlayVoice]=00:24:01	Voice01/01-00/01-00-G04/01-00-G04-0150	0	sek	00:26:14;
+
+[CreateBG]=00:26:19	BGS	Event01/01-00/01-00-G04/01-00-G04-005	00:32:04;
+
+[PrintText]=00:27:03	Kotonoha	...	00:28:10;
+
+[PlayVoice]=00:27:03	Voice01/01-00/01-00-G04/01-00-G04-0160	0	xxx	00:28:10;
+
+[PrintText]=00:29:02	Sekai	Makoto me dijo que se había disculpado ayer, y que todo iba a terminar bien.	00:32:15;
+
+[PlayVoice]=00:29:02	Voice01/01-00/01-00-G04/01-00-G04-0170	0	sek	00:32:15;
+
+[CreateBG]=00:32:04	BGS	Event01/01-00/01-00-G04/01-00-G04-006	00:38:20;
+
+[PrintText]=00:32:04	Kotonoha	'Terminar'...? ¡¿Es así de simple?!	00:36:17;
+
+[PlayVoice]=00:32:04	Voice01/01-00/01-00-G04/01-00-G04-0180	0	kot	00:36:17;
+
+[PrintText]=00:36:13	Sekai	¿K-Katsura... san...?^	00:38:16;
+
+[PlayVoice]=00:36:13	Voice01/01-00/01-00-G04/01-00-G04-0200	0	sek	00:38:16;
+
+[CreateBG]=00:38:20	BGS	Event01/01-00/01-00-G04/01-00-G04-007	00:48:08;
+
+[PrintText]=00:39:00	Kotonoha	Tal vez es verdad que no nos divertimos cuando estamos juntos...	00:46:00;
+
+[PlayVoice]=00:39:00	Voice01/01-00/01-00-G04/01-00-G04-0210	0	kot	00:46:00;
+
+[PrintText]=00:46:00	Kotonoha	pero,... con decir "Terminar" está diciendo más que eso...	00:51:04;
+
+[PlayVoice]=00:46:00	Voice01/01-00/01-00-G04/01-00-G04-0211	0	kot	00:51:04;
+
+[CreateBG]=00:48:08	BGS	Event01/01-00/01-00-G04/01-00-G04-008	01:06:14;
+
+[PrintText]=00:51:02	Sekai	¿Huh? U-um...	00:53:02;
+
+[PlayVoice]=00:51:02	Voice01/01-00/01-00-G04/01-00-G04-0230	0	sek	00:53:02;
+
+[PrintText]=00:52:23	Kotonoha	...Está bien.	00:58:04;
+
+[PlayVoice]=00:52:23	Voice01/01-00/01-00-G04/01-00-G04-0240	0	kot	00:58:04;
+
+[PrintText]=00:57:12	Sekai	Hey, espera un segundo. No sé de qué estás hablando.	01:01:11;
+
+[PlayVoice]=00:57:12	Voice01/01-00/01-00-G04/01-00-G04-0250	0	sek	01:01:11;
+
+[PrintText]=01:01:18	Kotonoha	...	01:03:16;
+
+[PlayVoice]=01:01:18	Voice01/01-00/01-00-G04/01-00-G04-0260	0	xxx	01:03:16;
+
+[PrintText]=01:04:06	Sekai	Eh, ¿Makoto te dijo hoy de qué esto terminaría?^	01:07:19;
+
+[PlayVoice]=01:04:06	Voice01/01-00/01-00-G04/01-00-G04-0270	0	sek	01:07:19;
+
+[CreateBG]=01:06:14	BGS	Event01/01-00/01-00-G04/01-00-G04-009	01:08:23;
+
+[CreateBG]=01:08:23	BGS	Event01/01-00/01-00-G04/01-00-G04-010	01:17:00;
+
+[PrintText]=01:08:23	Sekai	¿Huh? Pero Makoto nunca dijo algo como eso.	01:12:22;
+
+[PlayVoice]=01:08:23	Voice01/01-00/01-00-G04/01-00-G04-0290	0	sek	01:12:22;
+
+[PlaySe]=01:09:05	1	Se01/01-00/01-00-G04/SE01-00-G04-001	02:18:10;
+
+[PrintText]=01:13:06	Kotonoha	Es porque le gustas, Saionji-San...	01:17:10;
+
+[PlayVoice]=01:13:06	Voice01/01-00/01-00-G04/01-00-G04-0300	0	kot	01:17:10;
+
+[PlayMovie]=01:17:00	Movie01/01-00/01-00-G04/01-00-G04-011	0	01:36:17;
+
+[PrintText]=01:17:00	Sekai	Ah...,espere un segundo, ¿Cómo has llegado a esa Conclusión...?^	01:23:09;
+
+[PlayVoice]=01:17:00	Voice01/01-00/01-00-G04/01-00-G04-0310	0	sek	01:23:09;
+
+[PrintText]=01:22:21	Kotonoha	Incluso hoy, ustedes estaban apoyados uno contra el otro, como n...novios...	01:29:00;
+
+[PlayVoice]=01:22:21	Voice01/01-00/01-00-G04/01-00-G04-0320	0	kot	01:29:00;
+
+[PrintText]=01:29:05	Sekai	¿Solo por eso?^	01:30:05;
+
+[PlayVoice]=01:29:05	Voice01/01-00/01-00-G04/01-00-G04-0330	0	sek	01:30:05;
+
+[PrintText]=01:31:06	Sekai	Eso fue porque, estuve cansada, me quede despierta toda la noche.	01:36:13;
+
+[PlayVoice]=01:31:06	Voice01/01-00/01-00-G04/01-00-G04-0350	0	sek	01:36:13;
+
+[CreateBG]=01:36:17	BGS	Event01/01-00/01-00-G04/01-00-G04-012	01:42:18;
+
+[PrintText]=01:36:23	Kotonoha	...	01:38:11;
+
+[PlayVoice]=01:36:23	Voice01/01-00/01-00-G04/01-00-G04-0360	0	xxx	01:38:11;
+
+[PrintText]=01:38:05	Sekai	En serio, Es verdad. Makoto y yo no somos como crees.	01:42:17;
+
+[PlayVoice]=01:38:05	Voice01/01-00/01-00-G04/01-00-G04-0370	0	sek	01:42:17;
+
+[CreateBG]=01:42:18	BGS	Event01/01-00/01-00-G04/01-00-G04-009	01:51:16;
+
+[PrintText]=01:42:19	Kotonoha	Pero Itou-kun...	01:45:00;
+
+[PlayVoice]=01:42:19	Voice01/01-00/01-00-G04/01-00-G04-0380	0	kot	01:45:00;
+
+[PrintText]=01:45:10	Sekai	Primeramente, lo del almuerzo fue un malentendido, olvidemoslo.	01:50:17;
+
+[PlayVoice]=01:45:10	Voice01/01-00/01-00-G04/01-00-G04-0390	0	sek	01:50:17;
+
+[CreateBG]=01:51:16	BGS	Event01/01-00/01-00-G04/01-00-G04-012	01:55:04;
+
+[PrintText]=01:51:16	Sekai	Segundo ¿Qué quiso decir Makoto con 'terminar'?^	01:54:20;
+
+[PlayVoice]=01:51:16	Voice01/01-00/01-00-G04/01-00-G04-0410	0	sek	01:54:20;
+
+[CreateBG]=01:55:04	BGS	Event01/01-00/01-00-G04/01-00-G04-015	02:04:00;
+
+[PrintText]=01:55:08	Sekai	¿Habra sido porque estuviste algo callada ayer cuando estábamos almorzando?^	02:03:01;
+
+[PlayVoice]=01:55:08	Voice01/01-00/01-00-G04/01-00-G04-0411	0	sek	02:03:01;
+
+[CreateBG]=02:04:00	BGS	Event01/01-00/01-00-G04/01-00-G04-016	02:11:15;
+
+[PrintText]=02:04:10	Sekai	¿Cuando te dijo eso?^	02:06:08;
+
+[PlayVoice]=02:04:10	Voice01/01-00/01-00-G04/01-00-G04-0430	0	sek	02:06:08;
+
+[PrintText]=02:07:03	Kotonoha	Después de clases, justo antes de que empezara la reunión del consejo estudiantil.	02:11:23;
+
+[PlayVoice]=02:07:03	Voice01/01-00/01-00-G04/01-00-G04-0440	0	kot	02:11:23;
+
+[CreateBG]=02:11:15	BGS	Event01/01-00/01-00-G04/01-00-G04-017	02:16:03;
+
+[PrintText]=02:11:15	Sekai	¡¿Ehh?! ¡¿En serio dijo que iba a terminar contigo?! No escuché eso de él...	02:19:13;
+
+[PlayVoice]=02:11:15	Voice01/01-00/01-00-G04/01-00-G04-0450	0	sek	02:19:13;
+
+[CreateBG]=02:16:03	BGS	Event01/01-00/01-00-G04/01-00-G04-018	02:24:06;
+
+[PlaySe]=02:18:10	2	Se01/01-00/01-00-G04/SE01-00-G04-001	03:27:15;
+
+[PrintText]=02:19:18	Kotonoha	...Entonces, No hablo de eso contigo después de todo.	02:22:23;
+
+[PlayVoice]=02:19:18	Voice01/01-00/01-00-G04/01-00-G04-0460	0	kot	02:22:23;
+
+[PrintText]=02:22:03	Sekai	¡Mira, eso no es importante!	02:24:02;
+
+[PlayVoice]=02:22:03	Voice01/01-00/01-00-G04/01-00-G04-0470	0	sek	02:24:02;
+
+[PlayMovie]=02:24:06	Movie01/01-00/01-00-G04/01-00-G04-019	0	02:46:00;
+
+[PrintText]=02:24:15	Kotonoha	...	02:25:20;
+
+[PlayVoice]=02:24:15	Voice01/01-00/01-00-G04/01-00-G04-0480	0	xxx	02:25:20;
+
+[PrintText]=02:26:11	Sekai	La manera en que la veo, es que puedes decir mucho de Makoto, pero no es el tipo de chico que haría eso.	02:35:18;
+
+[PlayVoice]=02:26:11	Voice01/01-00/01-00-G04/01-00-G04-0490	0	sek	02:35:18;
+
+[PrintText]=02:36:04	Kotonoha	Pero...	02:37:02;
+
+[PlayVoice]=02:36:04	Voice01/01-00/01-00-G04/01-00-G04-0500	0	kot	02:37:02;
+
+[PrintText]=02:37:11	Sekai	Debe ser un malentendido ¿Qué dijo?^	02:40:22;
+
+[PlayVoice]=02:37:11	Voice01/01-00/01-00-G04/01-00-G04-0510	0	sek	02:40:22;
+
+[PrintText]=02:41:11	Kotonoha	...	02:43:03;
+
+[PlayVoice]=02:41:11	Voice01/01-00/01-00-G04/01-00-G04-0520	0	xxx	02:43:03;
+
+[PrintText]=02:43:23	Sekai	Vamos, Katsura-san.	02:45:13;
+
+[PlayVoice]=02:43:23	Voice01/01-00/01-00-G04/01-00-G04-0530	0	sek	02:45:13;
+
+[CreateBG]=02:46:00	BGS	Event01/01-00/01-00-G04/01-00-G04-020	02:48:22;
+
+[PrintText]=02:47:05	Kotonoha	...él dijo 'Perdón'.	02:48:21;
+
+[PlayVoice]=02:47:05	Voice01/01-00/01-00-G04/01-00-G04-0540	0	kot	02:48:21;
+
+[PlayMovie]=02:48:22	Movie01/01-00/01-00-G04/01-00-G04-021	0	02:54:21;
+
+[PrintText]=02:49:00	Sekai	¿Ves? fue solo eso...	02:50:15;
+
+[PlayVoice]=02:49:00	Voice01/01-00/01-00-G04/01-00-G04-0550	0	sek	02:50:15;
+
+[PrintText]=02:50:03	Kotonoha	'Es todo lo que tengo que decir' me dijo... mientras sonreía...	02:54:15;
+
+[PlayVoice]=02:50:03	Voice01/01-00/01-00-G04/01-00-G04-0560	0	kot	02:54:15;
+
+[PlayMovie]=02:54:21	Movie00/00-00/00-00-K00/00-00-K00-003	0	03:07:10;
+
+[PrintText]=02:55:01	Sekai	Hmm....	02:56:06;
+
+[PlayVoice]=02:55:01	Voice01/01-00/01-00-G04/01-00-G04-0580	0	sek	02:56:06;
+
+[PrintText]=02:56:13	Kotonoha	...	02:59:04;
+
+[PlayVoice]=02:56:13	Voice01/01-00/01-00-G04/01-00-G04-0590	0	xxx	02:59:04;
+
+[PrintText]=02:59:11	Sekai	E-Escucha, Katsura-san.	03:01:15;
+
+[PlayVoice]=02:59:11	Voice01/01-00/01-00-G04/01-00-G04-0600	0	sek	03:01:15;
+
+[PrintText]=03:02:00	Kotonoha	...	03:03:10;
+
+[PlayVoice]=03:02:00	Voice01/01-00/01-00-G04/01-00-G04-0610	0	xxx	03:03:10;
+
+[PrintText]=03:03:21	Sekai	Tal vez... todo esto a sido mi culpa.	03:07:17;
+
+[PlayVoice]=03:03:21	Voice01/01-00/01-00-G04/01-00-G04-0620	0	sek	03:07:17;
+
+[PlayMovie]=03:07:10	Movie01/01-00/01-00-G04/01-00-G04-023	0	03:10:12;
+
+[PrintText]=03:07:10	Kotonoha	Entonces, él y tú...	03:09:09;
+
+[PlayVoice]=03:07:10	Voice01/01-00/01-00-G04/01-00-G04-0630	0	kot	03:09:09;
+
+[PrintText]=03:09:00	Sekai	No, no es así... mira, nosotros estuvimos hablando del almuerzo de ustedes, ¿Vale?^	03:16:12;
+
+[PlayVoice]=03:09:00	Voice01/01-00/01-00-G04/01-00-G04-0640	0	sek	03:16:12;
+
+[CreateBG]=03:10:12	BGS	Event01/01-00/01-00-G04/01-00-G04-024	03:34:09;
+
+[PrintText]=03:16:20	Kotonoha	...	03:18:01;
+
+[PlayVoice]=03:16:20	Voice01/01-00/01-00-G04/01-00-G04-0650	0	xxx	03:18:01;
+
+[PrintText]=03:18:17	Sekai	Te veías aburrida, entonces le dije a Makoto que se disculpara.	03:26:04;
+
+[PlayVoice]=03:18:17	Voice01/01-00/01-00-G04/01-00-G04-0660	0	sek	03:26:04;
+
+[PrintText]=03:26:09	Kotonoha	...	03:28:09;
+
+[PlayVoice]=03:26:09	Voice01/01-00/01-00-G04/01-00-G04-0670	0	xxx	03:28:09;
+
+[PlaySe]=03:27:15	1	Se01/01-00/01-00-G04/SE01-00-G04-001	04:36:20;
+
+[PrintText]=03:29:00	Sekai	Tú sabes como es él... no es bueno hablando.	03:34:02;
+
+[PlayVoice]=03:29:00	Voice01/01-00/01-00-G04/01-00-G04-0680	0	sek	03:34:02;
+
+[CreateBG]=03:34:09	BGS	Event01/01-00/01-00-G04/01-00-G04-025	03:45:15;
+
+[PrintText]=03:34:15	Sekai	Por eso es que... él buscaba disculparse contigo por lo que paso en el almuerzo.	03:39:01;
+
+[PrintText]=03:39:01	Sekai	Pero termino creando un gran malentendido.	03:43:03;
+
+[PlayVoice]=03:34:15	Voice01/01-00/01-00-G04/01-00-G04-0700	0	sek	03:43:03;
+
+[PrintText]=03:43:08	Kotonoha	Quieres decir que...	03:45:12;
+
+[PlayVoice]=03:43:08	Voice01/01-00/01-00-G04/01-00-G04-0710	0	kot	03:45:12;
+
+[CreateBG]=03:45:15	BGS	Event01/01-00/01-00-G04/01-00-G04-026	03:50:04;
+
+[PrintText]=03:45:15	Sekai	Sí...	03:46:12;
+
+[PlayVoice]=03:45:15	Voice01/01-00/01-00-G04/01-00-G04-0720	0	sek	03:46:12;
+
+[PrintText]=03:47:05	Kotonoha	Entonces... Itou-kun...	03:50:04;
+
+[PlayVoice]=03:47:05	Voice01/01-00/01-00-G04/01-00-G04-0730	0	kot	03:50:04;
+
+[PlayMovie]=03:50:04	Movie01/01-00/01-00-G04/01-00-G04-027	0	03:53:05;
+
+[PrintText]=03:50:04	Sekai	Incluso ahora, le sigues gustando.	03:53:02;
+
+[PlayVoice]=03:50:04	Voice01/01-00/01-00-G04/01-00-G04-0740	0	sek	03:53:02;
+
+[CreateBG]=03:53:05	BGS	Event01/01-00/01-00-G04/01-00-G04-028	03:55:20;
+
+[PrintText]=03:53:13	Kotonoha	Ah...	03:55:05;
+
+[PlayVoice]=03:53:13	Voice01/01-00/01-00-G04/01-00-G04-0750	0	kot	03:55:05;
+
+[CreateBG]=03:55:20	BGS	Event01/01-00/01-00-G04/01-00-G04-029	04:04:16;
+
+[PrintText]=03:56:01	Sekai	Él estuvo diciendo durante todo el almuerzo que no iba a comer hasta que llegaras,	04:01:04;
+
+[PrintText]=04:01:04	Sekai	Ahora los chicos tienen educación física, debe estar cansado.	04:04:12;
+
+[PlayVoice]=03:56:01	Voice01/01-00/01-00-G04/01-00-G04-0760	0	sek	04:04:12;
+
+[CreateBG]=04:04:16	BGS	Event01/01-00/01-00-G04/01-00-G04-012	04:08:21;
+
+[PrintText]=04:04:19	Kotonoha	¿En serio...?^	04:07:06;
+
+[PlayVoice]=04:04:19	Voice01/01-00/01-00-G04/01-00-G04-0770	0	kot	04:07:06;
+
+[PrintText]=04:07:11	Sekai	¿Ahora lo entiendes?^	04:08:16;
+
+[PlayVoice]=04:07:11	Voice01/01-00/01-00-G04/01-00-G04-0780	0	sek	04:08:16;
+
+[CreateBG]=04:08:21	BGS	Event01/01-00/01-00-G04/01-00-G04-031	04:21:22;
+
+[PrintText]=04:09:03	Kotonoha	Perdóname... Yo...	04:13:12;
+
+[PlayVoice]=04:09:03	Voice01/01-00/01-00-G04/01-00-G04-0790	0	kot	04:13:12;
+
+[PrintText]=04:13:21	Sekai	A Makoto, de verdad le gustas Katsura, por eso es que se ve nervioso.	04:21:20;
+
+[PlayVoice]=04:13:21	Voice01/01-00/01-00-G04/01-00-G04-0800	0	sek	04:21:20;
+
+[CreateBG]=04:21:22	BGS	Event01/01-00/01-00-G04/01-00-G04-012	04:23:06;
+
+[PrintText]=04:22:00	Kotonoha	¿Itou-kun...?^	04:23:10;
+
+[PlayVoice]=04:22:00	Voice01/01-00/01-00-G04/01-00-G04-0810	0	kot	04:23:10;
+
+[CreateBG]=04:23:06	BGS	Event01/01-00/01-00-G04/01-00-G04-031	04:30:17;
+
+[PrintText]=04:23:06	Sekai	Sí. Es la primera vez que sales con alguien también ¿no?^	04:27:21;
+
+[PlayVoice]=04:23:06	Voice01/01-00/01-00-G04/01-00-G04-0820	0	sek	04:27:21;
+
+[PrintText]=04:28:18	Sekai	Ustedes aún son principiantes, Ambos están nervioso para pensar como se siente el otro.	04:35:08;
+
+[PrintText]=04:35:08	Sekai	Por eso es que vienen tanto estos problemas.	04:39:14;
+
+[PlayVoice]=04:28:18	Voice01/01-00/01-00-G04/01-00-G04-0840	0	sek	04:39:14;
+
+[CreateBG]=04:30:17	BGS	Event01/01-00/01-00-G04/01-00-G04-034	04:42:12;
+
+[PlaySe]=04:36:20	2	Se01/01-00/01-00-G04/SE01-00-G04-001	05:08:09;
+
+[PrintText]=04:39:21	Kotonoha	¿Realmente... lo crees...?^	04:42:10;
+
+[PlayVoice]=04:39:21	Voice01/01-00/01-00-G04/01-00-G04-0850	0	kot	04:42:10;
+
+[CreateBG]=04:42:12	BGS	Event01/01-00/01-00-G04/01-00-G04-012	04:45:19;
+
+[PrintText]=04:42:14	Sekai	Sí.	04:43:04;
+
+[PlayVoice]=04:42:14	Voice01/01-00/01-00-G04/01-00-G04-0860	0	sek	04:43:04;
+
+[PrintText]=04:43:15	Kotonoha	...	04:45:11;
+
+[PlayVoice]=04:43:15	Voice01/01-00/01-00-G04/01-00-G04-0870	0	xxx	04:45:11;
+
+[CreateBG]=04:45:19	BGS	Event01/01-00/01-00-G04/01-00-G04-036	04:59:11;
+
+[PrintText]=04:46:02	Sekai	¿Quieres que le explique a Makoto?^	04:49:04;
+
+[PlayVoice]=04:46:02	Voice01/01-00/01-00-G04/01-00-G04-0880	0	sek	04:49:04;
+
+[PrintText]=04:49:04	Kotonoha	No, todo está bien.	04:52:20;
+
+[PlayVoice]=04:49:04	Voice01/01-00/01-00-G04/01-00-G04-0890	0	kot	04:52:20;
+
+[PrintText]=04:52:14	Sekai	Ya veo.	04:53:06;
+
+[PlayVoice]=04:52:14	Voice01/01-00/01-00-G04/01-00-G04-0900	0	sek	04:53:06;
+
+[PrintText]=04:53:22	Kotonoha	Yo... Intentaré hablar con él.	04:58:09;
+
+[PlayVoice]=04:53:22	Voice01/01-00/01-00-G04/01-00-G04-0910	0	kot	04:58:09;
+
+[PrintText]=04:58:11	Sekai	Vale.	04:59:00;
+
+[PlayVoice]=04:58:11	Voice01/01-00/01-00-G04/01-00-G04-0920	0	sek	04:59:00;
+
+[PlayMovie]=04:59:11	Movie00/00-00/00-00-K00/00-00-K00-003	0	05:08:09;
+
+[PrintText]=04:59:16	Kotonoha	Quiero decirle como me siento... con mis propias palabras...	05:04:03;
+
+[PlayVoice]=04:59:16	Voice01/01-00/01-00-G04/01-00-G04-0930	0	kot	05:04:03;
+
+[PrintText]=05:04:09	Sekai	Eso suena bien.	05:05:19;
+
+[PlayVoice]=05:04:09	Voice01/01-00/01-00-G04/01-00-G04-0940	0	sek	05:05:19;
+
+[PrintText]=05:06:02	Kotonoha	Sí.	05:06:20;
+
+[PlayVoice]=05:06:02	Voice01/01-00/01-00-G04/01-00-G04-0950	0	kot	05:06:20;
+
+[BlackFade]=05:07:09	OUT	05:08:09;
+
+ ;
+
+[Next]=05:08:09;
+
+
+
+

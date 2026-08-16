@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:12:20;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-B06/SE03-KA-B06-001	00:12:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-B06/03-KA-B06-001	00:01:06;
+
+[PrintText]=00:00:00	Makoto	Lo olvidé.	00:01:05;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-B06/03-KA-B06-0030	1	mak	00:01:05;
+
+[CreateBG]=00:01:06	BGS	Event03/03-KA/03-KA-B06/03-KA-B06-002	00:06:21;
+
+[PrintText]=00:01:07	Kotonoha	Ooh... ¿También lo olvidaste cuando viniste el fin de semana?^	00:06:19;
+
+[PlayVoice]=00:01:07	Voice03/03-KA/03-KA-B06/03-KA-B06-0040	0	kot	00:06:19;
+
+[CreateBG]=00:06:21	BGS	Event03/03-KA/03-KA-B06/03-KA-B06-003	00:10:13;
+
+[PrintText]=00:06:22	Makoto	Completamente.	00:07:23;
+
+[PlayVoice]=00:06:22	Voice03/03-KA/03-KA-B06/03-KA-B06-0050	1	mak	00:07:23;
+
+[PrintText]=00:08:05	Kotonoha	Así es como eres...	00:10:09;
+
+[PlayVoice]=00:08:05	Voice03/03-KA/03-KA-B06/03-KA-B06-0060	0	kot	00:10:09;
+
+[CreateBG]=00:10:13	BGS	Event03/03-KA/03-KA-B06/03-KA-B06-004	00:12:20;
+
+[PrintText]=00:10:19	Makoto	...	00:11:19;
+
+[PlayVoice]=00:10:19	Voice03/03-KA/03-KA-B06/03-KA-B06-0070	1	xxx	00:11:19;
+
+[BlackFade]=00:11:20	OUT	00:12:20;
+
+ ;
+
+[Next]=00:12:20;
+
+

@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:09:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:09:00;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-I04/SE02-2S-I04-001	00:09:00;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-I04/02-2S-I04-001	00:03:08;
+
+[PrintText]=00:00:00	Makoto	Vamos todos, entonces.	00:01:20;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-I04/02-2S-I04-0030	1	mak	00:01:20;
+
+[PrintText]=00:01:20	Kotonoha	¡Ah! Sí.	00:03:08;
+
+[PlayVoice]=00:01:20	Voice02/02-2S/02-2S-I04/02-2S-I04-0040	0	kot	00:03:08;
+
+[CreateBG]=00:03:08	BGS	Event02/02-2S/02-2S-I04/02-2S-I04-002	00:09:00;
+
+[PrintText]=00:03:08	Makoto	Hace un poco de frío aquí hoy, ¿No?^	00:06:02;
+
+[PlayVoice]=00:03:08	Voice02/02-2S/02-2S-I04/02-2S-I04-0050	1	mak	00:06:02;
+
+[PrintText]=00:06:03	Kotonoha	Sí, Tienes razón.	00:07:13;
+
+[PlayVoice]=00:06:03	Voice02/02-2S/02-2S-I04/02-2S-I04-0060	0	kot	00:07:13;
+
+[BlackFade]=00:08:00	OUT	00:09:00;
+
+ ;
+
+[Next]=00:09:00;
+
+
+
+

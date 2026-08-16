@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:55:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:55:18;
+
+[PlaySe]=00:00:00	1	Se01/01-1K/01-1K-E02/SE01-1K-E02-001	00:55:18;
+
+[CreateBG]=00:00:00	BGS	Ini/FIX/CINEMA	00:02:13;
+
+[CreateBG]=00:02:13	BGS	Event01/01-1K/01-1K-E02/01-1K-E02-002	00:06:00;
+
+[PrintText]=00:03:14	Señorita	¡Gyaaaah!	00:05:11;
+
+[PlayVoice]=00:03:14	Voice01/01-1K/01-1K-E02/01-1K-E02-0040	0	wom	00:05:11;
+
+[CreateBG]=00:06:00	BGS	Event01/01-1K/01-1K-E02/01-1K-E02-003	00:09:01;
+
+[PrintText]=00:06:10	Kotonoha	...	00:08:13;
+
+[PlayVoice]=00:06:10	Voice01/01-1K/01-1K-E02/01-1K-E02-0060	0	xxx	00:08:13;
+
+[CreateBG]=00:09:01	BGS	Event01/01-1K/01-1K-E02/01-1K-E02-004	00:42:22;
+
+[PrintText]=00:09:01	Makoto	¿Te sientes bien?^	00:12:14;
+
+[PlayVoice]=00:09:01	Voice01/01-1K/01-1K-E02/01-1K-E02-0080	1	mak	00:12:14;
+
+[PrintText]=00:12:11	Kotonoha	Perdón.	00:13:04;
+
+[PlayVoice]=00:12:11	Voice01/01-1K/01-1K-E02/01-1K-E02-0090	0	kot	00:13:04;
+
+[PrintText]=00:13:11	Makoto	Ah, Bueno... a ti... ¿Te gustan este tipo de cosas?^	00:21:08;
+
+[PlayVoice]=00:13:11	Voice01/01-1K/01-1K-E02/01-1K-E02-0100	1	mak	00:21:08;
+
+[PrintText]=00:20:22	Kotonoha	Sí, soy una gran fan de las películas de Terror.	00:26:10;
+
+[PlayVoice]=00:20:22	Voice01/01-1K/01-1K-E02/01-1K-E02-0110	0	kot	00:26:10;
+
+[PrintText]=00:26:07	Makoto	Y-Ya veo.	00:28:03;
+
+[PlayVoice]=00:26:07	Voice01/01-1K/01-1K-E02/01-1K-E02-0120	1	mak	00:28:03;
+
+[PrintText]=00:28:04	Kotonoha	No es como un pasatiempo para estar orgullosa, usualmente no hablo de esto...	00:33:03;
+
+[PlayVoice]=00:28:04	Voice01/01-1K/01-1K-E02/01-1K-E02-0130	0	kot	00:33:03;
+
+[PrintText]=00:33:03	Kotonoha	Pero sin duda, me sorprende que también te guste. Ufufu...	00:39:08;
+
+[PlayVoice]=00:33:03	Voice01/01-1K/01-1K-E02/01-1K-E02-0131	0	kot	00:39:08;
+
+[PrintText]=00:39:17	Makoto	Haha...	00:42:14;
+
+[PlayVoice]=00:39:17	Voice01/01-1K/01-1K-E02/01-1K-E02-0140	1	mak	00:42:14;
+
+[CreateBG]=00:42:22	BGS	Event01/01-1K/01-1K-E02/01-1K-E02-005	00:47:13;
+
+[PrintText]=00:42:23	Señorita	¡Gyaaaaah!	00:46:09;
+
+[PlayVoice]=00:42:23	Voice01/01-1K/01-1K-E02/01-1K-E02-0160	0	wom	00:46:09;
+
+[PrintText]=00:45:04	Makoto	¡Eek!	00:46:17;
+
+[PlayVoice]=00:45:04	Voice01/01-1K/01-1K-E02/01-1K-E02-0170	1	mak	00:46:17;
+
+[CreateBG]=00:47:13	BGS	Event01/01-1K/01-1K-E02/01-1K-E02-006	00:55:18;
+
+[PrintText]=00:48:13	Makoto	Ha... haha...	00:54:12;
+
+[PlayVoice]=00:48:13	Voice01/01-1K/01-1K-E02/01-1K-E02-0190	1	mak	00:54:12;
+
+ ;
+
+[Next]=00:55:18;
+
+
+
+

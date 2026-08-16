@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:50:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:50:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-E06/03-A1-E06-001	00:11:05;
+
+[PrintText]=00:00:00	Makoto	Es extraño sabes, te estoy diciendo todas estas cosas, y ni siquiera pienso un poco antes de decirlas.	00:10:22;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-E06/03-A1-E06-0030	1	mak	00:10:22;
+
+[CreateBG]=00:10:22	BGS	Event03/03-A1/03-A1-E06/03-A1-E06-002	00:18:16;
+
+[PrintText]=00:11:12	Makoto	Si tan solo hubiera sabido de ti antes, podríamos haber llegado a conocernos mejor...	00:18:10;
+
+[PlayVoice]=00:11:12	Voice03/03-A1/03-A1-E06/03-A1-E06-0040	1	mak	00:18:10;
+
+[CreateBG]=00:18:16	BGS	Event03/03-A1/03-A1-E06/03-A1-E06-003	00:25:23;
+
+[PrintText]=00:18:21	Makoto	¡Quiero decir, eres muy buena escuchando. Cielos, qué vergüenza!	00:25:20;
+
+[PlayVoice]=00:18:21	Voice03/03-A1/03-A1-E06/03-A1-E06-0041	1	mak	00:25:20;
+
+[CreateBG]=00:25:23	BGS	Event03/03-A1/03-A1-D00/03-A1-D00-003	00:28:11;
+
+[PrintText]=00:26:01	Setsuna	Uh-huh...	00:26:16;
+
+[PlayVoice]=00:26:01	Voice03/03-A1/03-A1-E06/03-A1-E06-0050	0	set	00:26:16;
+
+[PrintText]=00:26:22	Makoto	Pero me escucharás a partir de ahora ¿No?^	00:30:16;
+
+[PlayVoice]=00:26:22	Voice03/03-A1/03-A1-E06/03-A1-E06-0060	1	mak	00:30:16;
+
+[CreateBG]=00:28:11	BGS	Event03/03-A1/03-A1-E06/03-A1-E06-006	00:37:19;
+
+[PrintText]=00:30:20	Setsuna	¡¿Eh...?!	00:31:11;
+
+[PlayVoice]=00:30:20	Voice03/03-A1/03-A1-E06/03-A1-E06-0070	0	set	00:31:11;
+
+[PrintText]=00:31:17	Makoto	¿Qué? Esta no va a ser la última vez que hablemos ¿No? después de todo, también quiero escucharte.	00:37:17;
+
+[PlayVoice]=00:31:17	Voice03/03-A1/03-A1-E06/03-A1-E06-0080	1	mak	00:37:17;
+
+[CreateBG]=00:37:19	BGS	Event03/03-A1/03-A1-E06/03-A1-E06-007	00:43:07;
+
+[PrintText]=00:37:21	Setsuna	Ah... vale.	00:40:03;
+
+[PlayVoice]=00:37:21	Voice03/03-A1/03-A1-E06/03-A1-E06-0090	0	set	00:40:03;
+
+[PrintText]=00:40:08	Makoto	Está dicho entonces.	00:42:02;
+
+[PlayVoice]=00:40:08	Voice03/03-A1/03-A1-E06/03-A1-E06-0100	1	mak	00:42:02;
+
+[PrintText]=00:42:08	Setsuna	...	00:43:05;
+
+[PlayVoice]=00:42:08	Voice03/03-A1/03-A1-E06/03-A1-E06-0110	0	xxx	00:43:05;
+
+[CreateBG]=00:43:07	BGS	Event03/03-A1/03-A1-E06/03-A1-E06-008	00:50:00;
+
+[PrintText]=00:43:09	Makoto	Ahora, terminaré de colorear este poster, y vamos a casa.	00:48:04;
+
+[PlayVoice]=00:43:09	Voice03/03-A1/03-A1-E06/03-A1-E06-0120	1	mak	00:48:04;
+
+[PrintText]=00:48:07	Setsuna	...Vale.	00:48:23;
+
+[PlayVoice]=00:48:07	Voice03/03-A1/03-A1-E06/03-A1-E06-0130	0	set	00:48:23;
+
+[BlackFade]=00:49:00	OUT	00:50:00;
+
+ ;
+
+[Next]=00:50:00;
+
+

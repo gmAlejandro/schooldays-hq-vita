@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:03:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:03:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/footsteps/asioto_okugai	00:02:02;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-M02/02-2K-M02-001	0	00:03:04;
+
+[PrintText]=00:00:12	Makoto	B-Buen día...	00:02:14;
+
+[PlayVoice]=00:00:12	Voice02/02-2K/02-2K-M02/02-2K-M02-0040	1	mak	00:02:14;
+
+ ;
+
+[Next]=00:03:04;
+
+
+
+

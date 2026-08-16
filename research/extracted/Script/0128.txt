@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:11:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:17:10;
+
+[PlaySe]=00:00:00	1	Voice01/01-00/01-00-R00/01-00-R00-0055	00:14:19;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-R08/01-00-R08-001	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Ini/Event01/01-00/01-00-R08/01-00-R08-002	00:03:03;
+
+#[PrintText]=00:01:00	Sekai	"¡No, quise decir en el almuerzo!".	00:03:02;
+
+[CreateBG]=00:03:03	BGS	Event01/01-00/01-00-R08/01-00-R08-003	00:05:03;
+
+[PrintText]=00:03:08	Makoto	¿Almuerzo...?^	00:04:14;
+
+[PlayVoice]=00:03:08	Voice01/01-00/01-00-R08/01-00-R08-0040	1	mak	00:04:14;
+
+[CreateBG]=00:05:03	BGS	Ini/Event01/01-00/01-00-R08/01-00-R08-004	00:17:10;
+
+#[PrintText]=00:05:03	Sekai	"¡No estabas hablando con Katsura-san después de todo!".	00:07:20;
+
+[PrintText]=00:07:20	Makoto	Eso fue porque estaba hablando contigo ¿No?^	00:11:08;
+
+[PlayVoice]=00:07:20	Voice01/01-00/01-00-R08/01-00-R08-0070	1	mak	00:11:08;
+
+[SetSELECT]=00:11:08	*Hablar con Katsura cuando la vea*	null	00:16:08;
+
+ ;
+
+[Next]=00:17:10;
+
+
+
+

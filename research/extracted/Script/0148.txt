@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:21:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:21:11;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-C08/01-1K-C08-001	00:06:07;
+
+[PrintText]=00:00:00	Makoto	Sí, Escogeré la porno.	00:02:22;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C08/01-1K-C08-0030	1	mak	00:02:22;
+
+[PrintText]=00:03:08	Makoto	Podría ser bueno como bromeando.	00:06:02;
+
+[PlayVoice]=00:03:08	Voice01/01-1K/01-1K-C08/01-1K-C08-0040	1	mak	00:06:02;
+
+[CreateBG]=00:06:07	BGS	Event01/01-1K/01-1K-C08/01-1K-C08-002	00:21:11;
+
+[PrintText]=00:06:07	Makoto	Tal vez Kotonoha iría '¡Realmente, me gustaría ver uno de esos!'.	00:16:03;
+
+[PlayVoice]=00:06:07	Voice01/01-1K/01-1K-C08/01-1K-C08-0050	1	mak	00:16:03;
+
+[PrintText]=00:16:03	Makoto	¡Uwahaha! ¡Está decidido!	00:20:06;
+
+[PlayVoice]=00:16:03	Voice01/01-1K/01-1K-C08/01-1K-C08-0060	1	mak	00:20:06;
+
+[BlackFade]=00:20:11	OUT	00:21:11;
+
+ ;
+
+[Next]=00:21:11;
+
+
+
+

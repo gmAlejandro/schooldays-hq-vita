@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:17:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_start	00:17:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-C09/04-SB-C09-001	00:01:14;
+
+[PrintText]=00:00:07	Makoto	Lo siento...	00:01:04;
+
+[PlayVoice]=00:00:07	Voice04/04-SB/04-SB-C09/04-SB-C09-0060	1	mak	00:01:04;
+
+[CreateBG]=00:01:14	BGS	Event04/04-SB/04-SB-C01/04-SB-C01-006	00:04:00;
+
+[PlayMovie]=00:04:00	Movie00/00-00/00-00-L00/00-00-L00-024	0	00:10:17;
+
+[CreateBG]=00:10:17	BGS	Event04/04-SB/04-SB-C09/04-SB-C09-004	00:12:06;
+
+[CreateBG]=00:12:06	BGS	Event04/04-SB/04-SB-C09/04-SB-C09-005	00:13:12;
+
+[CreateBG]=00:13:12	BGS	Event04/04-SB/04-SB-C09/04-SB-C09-006	00:17:05;
+
+[PrintText]=00:13:21	Makoto	Adiós, Kotonoha...	00:16:18;
+
+[PlayVoice]=00:13:21	Voice04/04-SB/04-SB-C09/04-SB-C09-0080	1	mak	00:16:18;
+
+ ;
+
+[Next]=00:17:05;
+
+

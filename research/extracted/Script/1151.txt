@@ -1,0 +1,187 @@
+﻿[SkipFRAME]=01:34:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	01:34:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-001	00:01:02;
+
+[PrintText]=00:00:00	Makoto	...	00:01:01;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N03/04-SA-N03-0030	1	xxx	00:01:01;
+
+[PrintText]=00:01:01	Hikari	Itou.	00:02:03;
+
+[PlayVoice]=00:01:01	Voice04/04-SA/04-SA-N03/04-SA-N03-0040	0	hik	00:02:03;
+
+[CreateBG]=00:01:02	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-002	00:02:03;
+
+[CreateBG]=00:02:03	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-003	00:03:09;
+
+[PrintText]=00:02:03	Makoto	¿Huh?^	00:03:08;
+
+[PlayVoice]=00:02:03	Voice04/04-SA/04-SA-N03/04-SA-N03-0050	1	mak	00:03:08;
+
+[PrintText]=00:03:08	Hikari	¿En qué tanto piensas?^	00:05:13;
+
+[PlayVoice]=00:03:08	Voice04/04-SA/04-SA-N03/04-SA-N03-0060	0	hik	00:05:13;
+
+[CreateBG]=00:03:09	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-004a	00:06:08;
+
+[PrintText]=00:05:14	Makoto	Oh, nada...	00:06:08;
+
+[PlayVoice]=00:05:14	Voice04/04-SA/04-SA-N03/04-SA-N03-0070	1	mak	00:06:08;
+
+[CreateBG]=00:06:08	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-004b	00:10:05;
+
+[PrintText]=00:06:08	Hikari	Sekai no está aquí, será mejor que hagas algo.	00:10:04;
+
+[PlayVoice]=00:06:08	Voice04/04-SA/04-SA-N03/04-SA-N03-0080	0	hik	00:10:04;
+
+[PrintText]=00:10:04	Makoto	Lo sé.	00:11:14;
+
+[PlayVoice]=00:10:04	Voice04/04-SA/04-SA-N03/04-SA-N03-0090	1	mak	00:11:14;
+
+[CreateBG]=00:10:05	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-004c	00:11:14;
+
+[PrintText]=00:11:13	Hikari	Esa chica... es Katsura-san de la clase 4 ¿No?^	00:15:08;
+
+[PlayVoice]=00:11:13	Voice04/04-SA/04-SA-N03/04-SA-N03-0100	0	hik	00:15:08;
+
+[CreateBG]=00:11:14	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-005	00:19:14;
+
+[PrintText]=00:15:09	Makoto	Sí.	00:16:03;
+
+[PlayVoice]=00:15:09	Voice04/04-SA/04-SA-N03/04-SA-N03-0110	1	mak	00:16:03;
+
+[PrintText]=00:16:03	Hikari	Me pregunto si ella y Sawanaga se llevan bien...	00:19:13;
+
+[PlayVoice]=00:16:03	Voice04/04-SA/04-SA-N03/04-SA-N03-0120	0	hik	00:19:13;
+
+[PrintText]=00:19:13	Makoto	No más de lo normal.	00:20:16;
+
+[PlayVoice]=00:19:13	Voice04/04-SA/04-SA-N03/04-SA-N03-0130	1	mak	00:20:16;
+
+[CreateBG]=00:19:14	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-006	00:26:20;
+
+[PrintText]=00:20:17	Hikari	Normal... ¿Como una pareja normal?^	00:25:08;
+
+[PlayVoice]=00:20:17	Voice04/04-SA/04-SA-N03/04-SA-N03-0140	0	hik	00:25:08;
+
+[PrintText]=00:25:08	Makoto	Uh, no.	00:26:20;
+
+[PlayVoice]=00:25:08	Voice04/04-SA/04-SA-N03/04-SA-N03-0150	1	mak	00:26:20;
+
+[CreateBG]=00:26:20	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-007	00:32:07;
+
+[PrintText]=00:26:20	Hikari	Ella siempre está dando esa sonrisa cada vez que lo ve a Sawanaga.	00:32:07;
+
+[PlayVoice]=00:26:20	Voice04/04-SA/04-SA-N03/04-SA-N03-0160	0	hik	00:32:07;
+
+[CreateBG]=00:32:07	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-008	00:34:01;
+
+[PrintText]=00:32:07	Makoto	¡Es solo tu imaginación!	00:34:01;
+
+[PlayVoice]=00:32:07	Voice04/04-SA/04-SA-N03/04-SA-N03-0170	1	mak	00:34:01;
+
+[CreateBG]=00:34:01	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-009	00:35:15;
+
+[PrintText]=00:34:01	Hikari	¿Lo crees...?^	00:35:15;
+
+[PlayVoice]=00:34:01	Voice04/04-SA/04-SA-N03/04-SA-N03-0180	0	hik	00:35:15;
+
+[CreateBG]=00:35:15	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-010	00:38:08;
+
+[PrintText]=00:35:15	Makoto	Mira, solo déjame las cosas a mí.	00:38:08;
+
+[PlayVoice]=00:35:15	Voice04/04-SA/04-SA-N03/04-SA-N03-0190	1	mak	00:38:08;
+
+[CreateBG]=00:38:08	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-011	00:41:12;
+
+[PrintText]=00:38:08	Hikari	Nn... no me pareces muy fiable.	00:41:11;
+
+[PlayVoice]=00:38:08	Voice04/04-SA/04-SA-N03/04-SA-N03-0200	0	hik	00:41:11;
+
+[CreateBG]=00:41:12	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-012	00:42:10;
+
+[PrintText]=00:41:12	Makoto	Me voy a casa.	00:42:09;
+
+[PlayVoice]=00:41:12	Voice04/04-SA/04-SA-N03/04-SA-N03-0210	1	mak	00:42:09;
+
+[PrintText]=00:42:09	Hikari	¡E-Estaba bromeando! ¡Si te vas ahora, me quedaré con ellos dos!	00:47:12;
+
+[PlayVoice]=00:42:09	Voice04/04-SA/04-SA-N03/04-SA-N03-0220	0	hik	00:47:12;
+
+[CreateBG]=00:42:10	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-013	00:54:20;
+
+[PrintText]=00:47:12	Makoto	Así será.	00:48:16;
+
+[PlayVoice]=00:47:12	Voice04/04-SA/04-SA-N03/04-SA-N03-0230	1	mak	00:48:16;
+
+[PrintText]=00:48:16	Hikari	¡Por favor! No tienes que ir acorde al plan o algo así. ¡Solo quedate conmigo!	00:54:20;
+
+[PlayVoice]=00:48:16	Voice04/04-SA/04-SA-N03/04-SA-N03-0240	0	hik	00:54:20;
+
+[CreateBG]=00:54:20	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-014	01:01:09;
+
+[PrintText]=00:54:20	Makoto	Kotonoha no se lo va a comer...	00:58:17;
+
+[PlayVoice]=00:54:20	Voice04/04-SA/04-SA-N03/04-SA-N03-0250	1	mak	00:58:17;
+
+[PrintText]=00:58:17	Hikari	Pero...	01:01:09;
+
+[PlayVoice]=00:58:17	Voice04/04-SA/04-SA-N03/04-SA-N03-0260	0	hik	01:01:09;
+
+[CreateBG]=01:01:09	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-015	01:08:23;
+
+[PrintText]=01:01:09	Makoto	¿Hmn?^	01:02:04;
+
+[PlayVoice]=01:01:09	Voice04/04-SA/04-SA-N03/04-SA-N03-0270	1	mak	01:02:04;
+
+[PrintText]=01:02:03	Hikari	Sawanaga parece que va por ese tipo de chica... siento que quiero morirme solo por eso.	01:08:23;
+
+[PlayVoice]=01:02:03	Voice04/04-SA/04-SA-N03/04-SA-N03-0280	0	hik	01:08:23;
+
+[CreateBG]=01:08:23	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-016	01:18:02;
+
+[PrintText]=01:08:23	Makoto	...Kuroda.	01:10:12;
+
+[PlayVoice]=01:08:23	Voice04/04-SA/04-SA-N03/04-SA-N03-0290	1	mak	01:10:12;
+
+[PrintText]=01:10:12	Hikari	¿Q-Qué?^	01:12:13;
+
+[PlayVoice]=01:10:12	Voice04/04-SA/04-SA-N03/04-SA-N03-0300	0	hik	01:12:13;
+
+[PrintText]=01:12:13	Makoto	Sí se lo dices a la cara, creo que empezaría a tomarte atención.	01:18:02;
+
+[PlayVoice]=01:12:13	Voice04/04-SA/04-SA-N03/04-SA-N03-0310	1	mak	01:18:02;
+
+[CreateBG]=01:18:02	BGS	Event04/04-SA/04-SA-N03/04-SA-N03-017	01:34:00;
+
+[PrintText]=01:18:02	Hikari	¡C-Como si pudiera decir algo tan vergonzoso!	01:21:19;
+
+[PlayVoice]=01:18:02	Voice04/04-SA/04-SA-N03/04-SA-N03-0320	0	hik	01:21:19;
+
+[PrintText]=01:21:19	Makoto	Haha, ya veo.	01:24:18;
+
+[PlayVoice]=01:21:19	Voice04/04-SA/04-SA-N03/04-SA-N03-0330	1	mak	01:24:18;
+
+[PrintText]=01:24:18	Hikari	¡No te rías!	01:26:04;
+
+[PlayVoice]=01:24:18	Voice04/04-SA/04-SA-N03/04-SA-N03-0340	0	hik	01:26:04;
+
+[PrintText]=01:26:05	Taisuke	¡Hey! ¿Qué están haciendo? ¡Nos meteremos!	01:29:20;
+
+[PlayVoice]=01:26:05	Voice04/04-SA/04-SA-N03/04-SA-N03-0350	1	tai	01:29:20;
+
+[PrintText]=01:29:20	Makoto	Vale, también iremos.	01:31:15;
+
+[PlayVoice]=01:29:20	Voice04/04-SA/04-SA-N03/04-SA-N03-0360	1	mak	01:31:15;
+
+[PrintText]=01:31:14	Hikari	Mmmn...	01:33:03;
+
+[PlayVoice]=01:31:14	Voice04/04-SA/04-SA-N03/04-SA-N03-0370	0	hik	01:33:03;
+
+ ;
+
+[Next]=01:34:00;
+
+

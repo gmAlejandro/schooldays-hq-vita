@@ -1,0 +1,58 @@
+﻿[SkipFRAME]=00:26:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	00:26:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KI/05-KI-A03/05-KI-A03-001A	00:01:08;
+
+[PrintText]=00:00:00	Kotonoha	¿Hmmn hmm hmmn...?^	00:03:21;
+
+[PlayVoice]=00:00:00	Voice05/05-KI/05-KI-A03/05-KI-A03-0030	0	kot	00:03:21;
+
+[CreateBG]=00:01:08	BGS	Event05/05-KI/05-KI-A03/05-KI-A03-001B	00:03:21;
+
+[CreateBG]=00:03:21	BGS	Event05/05-KI/05-KI-A03/05-KI-A03-002	00:20:01;
+
+[PrintText]=00:03:21	Kokoro	Hoy de nuevo ¿No?^	00:06:03;
+
+[PlayVoice]=00:03:21	Voice05/05-KI/05-KI-A03/05-KI-A03-0060	0	kok	00:06:03;
+
+[PrintText]=00:06:03	Madre de Kotonoha	Tal vez las cosas no fueron bien después de todo.	00:08:17;
+
+[PlayVoice]=00:06:03	Voice05/05-KI/05-KI-A03/05-KI-A03-0070	0	man	00:08:17;
+
+[PrintText]=00:08:18	Kokoro	Lo dices por Makoto-kun ¿No? Espero que venga a jugar nuevo.	00:13:06;
+
+[PlayVoice]=00:08:18	Voice05/05-KI/05-KI-A03/05-KI-A03-0080	0	kok	00:13:06;
+
+[PrintText]=00:13:07	Madre de Kotonoha	¡Yo también! ¡Si te enteras que va a venir, asegurate de avisarme!	00:18:17;
+
+[PlayVoice]=00:13:07	Voice05/05-KI/05-KI-A03/05-KI-A03-0090	0	man	00:18:17;
+
+[PrintText]=00:18:18	Kokoro	¡Vale!	00:20:01;
+
+[PlayVoice]=00:18:18	Voice05/05-KI/05-KI-A03/05-KI-A03-0100	0	kok	00:20:01;
+
+[PrintText]=00:20:00	Kotonoha	¡Kyah!	00:21:15;
+
+[PlayVoice]=00:20:00	Voice05/05-KI/05-KI-A03/05-KI-A03-0120	0	kot	00:21:15;
+
+[CreateBG]=00:20:01	BGS	Event05/05-KI/05-KI-A03/05-KI-A03-003	00:26:20;
+
+[PrintText]=00:21:15	Kokoro	Aunque tal vez no pase.	00:23:05;
+
+[PlayVoice]=00:21:15	Voice05/05-KI/05-KI-A03/05-KI-A03-0130	0	kok	00:23:05;
+
+[PrintText]=00:23:06	Madre de Kotonoha	¡No te rindas! Hay que desearle lo mejor.	00:26:03;
+
+[PlayVoice]=00:23:06	Voice05/05-KI/05-KI-A03/05-KI-A03-0140	0	man	00:26:03;
+
+[PrintText]=00:26:03	Kokoro	Uh-huh...	00:26:19;
+
+[PlayVoice]=00:26:03	Voice05/05-KI/05-KI-A03/05-KI-A03-0150	0	kok	00:26:19;
+
+ ;
+
+[Next]=00:26:20;
+
+
+

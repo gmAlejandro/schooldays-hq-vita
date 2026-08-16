@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:18:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:18:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E04/04-SA-E04-001	00:18:07;
+
+[PrintText]=00:00:10	Taisuke	Estarás totalmente asombrado cuando lo escuches, entonces...	00:04:15;
+
+[PlayVoice]=00:00:10	Voice04/04-SA/04-SA-E04/04-SA-E04-0030	1	tai	00:04:15;
+
+[PrintText]=00:04:15	Taisuke	¡Tada! ¡Entradas para el Balneario!	00:10:01;
+
+[PlayVoice]=00:04:15	Voice04/04-SA/04-SA-E04/04-SA-E04-0050	1	tai	00:10:01;
+
+[PrintText]=00:10:03	Makoto	Balneario, el que está en Sakakino Hills, ¿No?^	00:14:08;
+
+[PlayVoice]=00:10:03	Voice04/04-SA/04-SA-E04/04-SA-E04-0060	1	mak	00:14:08;
+
+[PrintText]=00:14:08	Taisuke	¡Claro, y tengo CUATRO Entradas!	00:18:08;
+
+[PlayVoice]=00:14:08	Voice04/04-SA/04-SA-E04/04-SA-E04-0070	1	tai	00:18:08;
+
+ ;
+
+[Next]=00:18:08;
+
+

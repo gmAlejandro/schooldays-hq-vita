@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:10:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:10:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-M06/04-SA-M06-001	00:01:10;
+
+[CreateBG]=00:01:10	BGS	Event04/04-SA/04-SA-M06/04-SA-M06-002	00:02:17;
+
+[PrintText]=00:01:12	Taisuke	...Bueno, nos separamos aquí.	00:02:18;
+
+[PlayVoice]=00:01:12	Voice04/04-SA/04-SA-M06/04-SA-M06-0040	1	tai	00:02:18;
+
+[CreateBG]=00:02:17	BGS	Event04/04-SA/04-SA-M06/04-SA-M06-003	00:05:10;
+
+[PrintText]=00:02:22	Kotonoha	Sí...	00:03:19;
+
+[PlayVoice]=00:02:22	Voice04/04-SA/04-SA-M06/04-SA-M06-0050	0	kot	00:03:19;
+
+[PrintText]=00:04:07	Hikari	Nos vemos después.	00:05:09;
+
+[PlayVoice]=00:04:07	Voice04/04-SA/04-SA-M06/04-SA-M06-0060	0	hik	00:05:09;
+
+[CreateBG]=00:05:10	BGS	Event04/04-SA/04-SA-M06/04-SA-M06-004	00:10:16;
+
+[PrintText]=00:05:19	Taisuke	Haah...	00:06:23;
+
+[PlayVoice]=00:05:19	Voice04/04-SA/04-SA-M06/04-SA-M06-0080	1	tai	00:06:23;
+
+[PrintText]=00:07:10	Kotonoha	Phew...	00:08:05;
+
+[PlayVoice]=00:07:10	Voice04/04-SA/04-SA-M06/04-SA-M06-0090	0	kot	00:08:05;
+
+[PrintText]=00:08:19	Hikari	Haah...	00:09:23;
+
+[PlayVoice]=00:08:19	Voice04/04-SA/04-SA-M06/04-SA-M06-0100	0	hik	00:09:23;
+
+ ;
+
+[Next]=00:10:16;
+
+

@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:04:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:04:10;
+
+[PlaySe]=00:00:00	1	Se04/04-C0/04-C0-A03/SE04-C0-A03-001	00:04:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C0/04-C0-A03/04-C0-A03-001	00:01:07;
+
+[PrintText]=00:00:09	Makoto	...	00:01:07;
+
+[PlayVoice]=00:00:09	Voice04/04-C0/04-C0-A03/04-C0-A03-0030	1	xxx	00:01:07;
+
+[CreateBG]=00:01:07	BGS	Event04/04-C0/04-C0-A03/04-C0-A03-002	00:04:10;
+
+[PrintText]=00:01:07	Kotonoha	No te importa ¿No?^	00:02:14;
+
+[PlayVoice]=00:01:07	Voice04/04-C0/04-C0-A03/04-C0-A03-0040	0	kot	00:02:14;
+
+[PrintText]=00:02:14	Makoto	No.	00:03:07;
+
+[PlayVoice]=00:02:14	Voice04/04-C0/04-C0-A03/04-C0-A03-0050	1	mak	00:03:07;
+
+ ;
+
+[Next]=00:04:10;
+
+

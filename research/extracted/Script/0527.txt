@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:18:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:24:00;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-B04/SE03-KA-B04-001	00:24:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-B04/03-KA-B04-001A	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-B04/03-KA-B04-001B	00:04:20;
+
+[PrintText]=00:03:01	Kotonoha	Acaban de darme una super noticia.	00:05:00;
+
+[PlayVoice]=00:03:01	Voice03/03-KA/03-KA-B04/03-KA-B04-0040	0	kot	00:05:00;
+
+[CreateBG]=00:04:20	BGS	Event03/03-KA/03-KA-B04/03-KA-B04-001C	00:05:10;
+
+[PrintText]=00:04:20	Makoto	¿Hmn?^	00:05:10;
+
+[PlayVoice]=00:04:20	Voice03/03-KA/03-KA-B04/03-KA-B04-0050	1	mak	00:05:10;
+
+[PlayMovie]=00:05:10	Movie00/00-00/00-00-G00/00-00-G00-025	0	00:09:22;
+
+[PrintText]=00:05:12	Kotonoha	No sabía que habías sido seleccionado por el comité.	00:09:17;
+
+[PlayVoice]=00:05:12	Voice03/03-KA/03-KA-B04/03-KA-B04-0060	0	kot	00:09:17;
+
+[CreateBG]=00:09:22	BGS	Event03/03-KA/03-KA-B04/03-KA-B04-003	00:13:16;
+
+[PrintText]=00:10:00	Makoto	Oh, sí, eso. Fue de repente la semana pasada.	00:13:17;
+
+[PlayVoice]=00:10:00	Voice03/03-KA/03-KA-B04/03-KA-B04-0070	1	mak	00:13:17;
+
+[CreateBG]=00:13:16	BGS	Event03/03-KA/03-KA-B04/03-KA-B04-004	00:24:00;
+
+[PrintText]=00:13:18	Kotonoha	¿La semana pasada?^	00:15:22;
+
+[PlayVoice]=00:13:18	Voice03/03-KA/03-KA-B04/03-KA-B04-0080	0	kot	00:15:22;
+
+[PrintText]=00:16:00	Makoto	Sí.	00:16:17;
+
+[PlayVoice]=00:16:00	Voice03/03-KA/03-KA-B04/03-KA-B04-0090	1	mak	00:16:17;
+
+[SetSELECT]=00:18:00	'Quería darte una sorpresa'	'Lo olvidé'	00:23:00;
+
+ ;
+
+[Next]=00:24:00;
+
+

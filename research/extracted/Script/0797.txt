@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:20:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:20:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-A01/03-SB-A01-001	00:20:04;
+
+[PrintText]=00:00:00	Makoto	Desde se día... Cuando Sekai y yo estábamos juntos....	00:04:05;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-A01/03-SB-A01-0030	1	xxx	00:04:05;
+
+[MoveSom]=00:00:00	3	00:10:12;
+
+[PlaySe]=00:01:22	1	SysSe/SE_all/h/h_02	00:09:19;
+
+[PrintText]=00:02:13	Sekai	¡Ah... ahh... nn! ¡...Ah! ¡...Haah! ¡...Ah...!	00:07:20;
+
+[PlayVoice]=00:02:13	Voice03/03-SB/03-SB-A01/03-SB-A01-0040	0	sek	00:07:20;
+
+[PrintText]=00:06:09	Makoto	Íbamos a la casa del otro, solo para tener sexo...	00:15:01;
+
+[PlayVoice]=00:06:09	Voice03/03-SB/03-SB-A01/03-SB-A01-0050	1	xxx	00:15:01;
+
+[PlaySe]=00:09:19	1	SysSe/SE_all/h/h_02	00:17:17;
+
+[MoveSom]=00:10:12	2	00:20:04;
+
+[PrintText]=00:13:19	Sekai	¡Ahh...! ¡Ahh... haah...! ¡Ahh... ah... ahhh!	00:18:13;
+
+[PlayVoice]=00:13:19	Voice03/03-SB/03-SB-A01/03-SB-A01-0060	0	sek	00:18:13;
+
+[PlaySe]=00:17:17	1	SysSe/SE_all/h/h_02	00:20:04;
+
+ ;
+
+[Next]=00:20:04;
+
+

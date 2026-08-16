@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:57:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	01:03:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-002	00:04:12;
+
+[CreateBG]=00:04:12	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-003	00:07:00;
+
+[PrintText]=00:06:06	Makoto	Sekai...	00:07:09;
+
+[PlayVoice]=00:06:06	Voice05/05-5O/05-5O-A01/05-5O-A01-0080	1	mak	00:07:09;
+
+[CreateBG]=00:07:00	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-004	00:11:16;
+
+[PrintText]=00:08:08	Sekai	Makoto...	00:09:15;
+
+[PlayVoice]=00:08:08	Voice05/05-5O/05-5O-A01/05-5O-A01-0110	0	sek	00:09:15;
+
+[PrintText]=00:09:21	Sekai	...	00:11:06;
+
+[PlayVoice]=00:09:21	Voice05/05-5O/05-5O-A01/05-5O-A01-0130	0	xxx	00:11:06;
+
+[CreateBG]=00:11:16	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-005	00:18:16;
+
+[PrintText]=00:11:19	Makoto	Me pregunto como te sientes.	00:13:23;
+
+[PlayVoice]=00:11:19	Voice05/05-5O/05-5O-A01/05-5O-A01-0140	1	mak	00:13:23;
+
+[PrintText]=00:14:08	Sekai	Uh-huh... todo está bien.	00:17:10;
+
+[PlayVoice]=00:14:08	Voice05/05-5O/05-5O-A01/05-5O-A01-0150	0	sek	00:17:10;
+
+[PrintText]=00:17:06	Makoto	Ya veo.	00:18:04;
+
+[PlayVoice]=00:17:06	Voice05/05-5O/05-5O-A01/05-5O-A01-0160	1	mak	00:18:04;
+
+[CreateBG]=00:18:16	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-006	00:22:19;
+
+[PrintText]=00:18:20	Sekai	...	00:19:08;
+
+[PlayVoice]=00:18:20	Voice05/05-5O/05-5O-A01/05-5O-A01-0170	0	xxx	00:19:08;
+
+[PrintText]=00:19:12	Makoto	...	00:19:23;
+
+[PlayVoice]=00:19:12	Voice05/05-5O/05-5O-A01/05-5O-A01-0180	1	xxx	00:19:23;
+
+[PrintText]=00:21:16	Sekai	Lo siento...	00:22:16;
+
+[PlayVoice]=00:21:16	Voice05/05-5O/05-5O-A01/05-5O-A01-0190	0	sek	00:22:16;
+
+[CreateBG]=00:22:19	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-007	00:33:08;
+
+[PrintText]=00:22:20	Makoto	No te preocupes...	00:23:13;
+
+[PlayVoice]=00:22:20	Voice05/05-5O/05-5O-A01/05-5O-A01-0200	1	mak	00:23:13;
+
+[PrintText]=00:24:05	Sekai	Estaba tan concentrada... sin pensar en como te sentías...	00:31:13;
+
+[PlayVoice]=00:24:05	Voice05/05-5O/05-5O-A01/05-5O-A01-0210	0	sek	00:31:13;
+
+[PrintText]=00:31:21	Makoto	...	00:32:08;
+
+[PlayVoice]=00:31:21	Voice05/05-5O/05-5O-A01/05-5O-A01-0220	1	xxx	00:32:08;
+
+[CreateBG]=00:33:08	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-008	00:41:15;
+
+[PrintText]=00:33:10	Sekai	Es muy molesto para ti ¿No? Tener a una chica como yo enamorada de ti.	00:41:15;
+
+[PlayVoice]=00:33:10	Voice05/05-5O/05-5O-A01/05-5O-A01-0230	0	sek	00:41:15;
+
+[CreateBG]=00:41:15	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-009	00:43:17;
+
+[PrintText]=00:41:23	Makoto	Sekai...	00:42:23;
+
+[PlayVoice]=00:41:23	Voice05/05-5O/05-5O-A01/05-5O-A01-0240	1	mak	00:42:23;
+
+[PrintText]=00:43:16	Sekai	Pero cuando pienso en ti... creo que no puedo evitarlo... lo siento, perdón por causarte problemas...	00:57:05;
+
+[PlayVoice]=00:43:16	Voice05/05-5O/05-5O-A01/05-5O-A01-0250	0	sek	00:57:05;
+
+[CreateBG]=00:43:17	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-010	00:57:20;
+
+[PrintText]=00:57:07	Makoto	Ah...	00:59:08;
+
+[PlayVoice]=00:57:07	Voice05/05-5O/05-5O-A01/05-5O-A01-0260	1	mak	00:59:08;
+
+[SetSELECT]=00:57:19	'No importa'	'No me causas problemas'	01:02:19;
+
+[CreateBG]=00:57:20	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-011	01:03:19;
+
+ ;
+
+[Next]=01:03:19;
+
+

@@ -1,0 +1,533 @@
+﻿[SkipFRAME]=04:54:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	05:00:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-001	00:02:01;
+
+[PrintText]=00:00:16	Makoto	¿Qué hay con eso?^	00:02:05;
+
+[PlayVoice]=00:00:16	Voice04/04-SA/04-SA-E05/04-SA-E05-0030	1	mak	00:02:05;
+
+[CreateBG]=00:02:01	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-002	00:16:00;
+
+[PrintText]=00:02:10	Taisuke	Mi hermana iba a ir con su novio, pero como no pudo, me los regalo.	00:08:09;
+
+[PlayVoice]=00:02:10	Voice04/04-SA/04-SA-E05/04-SA-E05-0040	1	tai	00:08:09;
+
+[PrintText]=00:08:10	Makoto	¿Con dos no es suficiente, entonces?^	00:11:09;
+
+[PlayVoice]=00:08:10	Voice04/04-SA/04-SA-E05/04-SA-E05-0050	1	mak	00:11:09;
+
+[PrintText]=00:11:09	Taisuke	Querían quedarse en el hotel de Sakakino Hills y jugar estar dos días en la piscina.	00:16:03;
+
+[PlayVoice]=00:11:09	Voice04/04-SA/04-SA-E05/04-SA-E05-0060	1	tai	00:16:03;
+
+[CreateBG]=00:16:00	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-003	00:27:20;
+
+[PrintText]=00:16:09	Makoto	Dos días, huh. Tu hermana es profesora de educación física ¿No?^	00:22:09;
+
+[PlayVoice]=00:16:09	Voice04/04-SA/04-SA-E05/04-SA-E05-0070	1	mak	00:22:09;
+
+[PrintText]=00:22:11	Taisuke	Sí. Sabes, ella es bastante buena, dos días no son suficiente.	00:28:00;
+
+[PlayVoice]=00:22:11	Voice04/04-SA/04-SA-E05/04-SA-E05-0080	1	tai	00:28:00;
+
+[CreateBG]=00:27:20	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-003B	00:35:13;
+
+[PrintText]=00:28:06	Makoto	Bueno, iban a quedarse en el hotel ¿No? Olvida la piscina, ella quería nadar en la cama.	00:35:15;
+
+[PlayVoice]=00:28:06	Voice04/04-SA/04-SA-E05/04-SA-E05-0090	1	mak	00:35:15;
+
+[CreateBG]=00:35:13	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-003C	00:40:00;
+
+[PrintText]=00:35:20	Taisuke	¡E...Ella nunca haría algo así!	00:40:01;
+
+[PlayVoice]=00:35:20	Voice04/04-SA/04-SA-E05/04-SA-E05-0100	1	tai	00:40:01;
+
+[CreateBG]=00:40:00	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-003D	00:41:16;
+
+[PrintText]=00:40:06	Makoto	¿No lo crees?^	00:41:14;
+
+[PlayVoice]=00:40:06	Voice04/04-SA/04-SA-E05/04-SA-E05-0110	1	mak	00:41:14;
+
+[CreateBG]=00:41:16	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-004	00:46:23;
+
+[PrintText]=00:41:21	Taisuke	¡B-Bueno, tal vez... pero no me hagas pensar en eso!	00:47:07;
+
+[PlayVoice]=00:41:21	Voice04/04-SA/04-SA-E05/04-SA-E05-0120	1	tai	00:47:07;
+
+[CreateBG]=00:46:23	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-004B	00:53:16;
+
+[PrintText]=00:47:05	Makoto	Sí, está bien.	00:49:02;
+
+[PlayVoice]=00:47:05	Voice04/04-SA/04-SA-E05/04-SA-E05-0130	1	mak	00:49:02;
+
+[PrintText]=00:49:03	Taisuke	Haah... no hables así. Me estresas.	00:53:17;
+
+[PlayVoice]=00:49:03	Voice04/04-SA/04-SA-E05/04-SA-E05-0140	1	tai	00:53:17;
+
+[CreateBG]=00:53:16	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-004C	00:56:01;
+
+[PrintText]=00:53:17	Makoto	Realmente tienes un complejo de hermana ¿No?^	00:56:00;
+
+[PlayVoice]=00:53:17	Voice04/04-SA/04-SA-E05/04-SA-E05-0150	1	mak	00:56:00;
+
+[CreateBG]=00:56:01	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-005	01:00:16;
+
+[PrintText]=00:56:06	Taisuke	¡No es un complejo! ¡Solo me preocupo por ella!	00:59:14;
+
+[PlayVoice]=00:56:06	Voice04/04-SA/04-SA-E05/04-SA-E05-0160	1	tai	00:59:14;
+
+[PrintText]=00:59:13	Makoto	Sí, sí. Entonces, ¿Qué vas a hacer con esas entradas?^	01:03:06;
+
+[PlayVoice]=00:59:13	Voice04/04-SA/04-SA-E05/04-SA-E05-0170	1	mak	01:03:06;
+
+[CreateBG]=01:00:16	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-006	01:11:04;
+
+[PrintText]=01:03:07	Taisuke	¿No es obvio? Iremos tú y yo.	01:06:07;
+
+[PlayVoice]=01:03:07	Voice04/04-SA/04-SA-E05/04-SA-E05-0180	1	tai	01:06:07;
+
+[PrintText]=01:07:03	Makoto	...Taisuke. No voy a esa clase de cosas.	01:11:01;
+
+[PlayVoice]=01:07:03	Voice04/04-SA/04-SA-E05/04-SA-E05-0190	1	mak	01:11:01;
+
+[CreateBG]=01:11:04	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-007	01:12:12;
+
+[PrintText]=01:11:13	Taisuke	¿Huh?^	01:12:04;
+
+[PlayVoice]=01:11:13	Voice04/04-SA/04-SA-E05/04-SA-E05-0200	1	tai	01:12:04;
+
+[CreateBG]=01:12:12	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-008	01:16:18;
+
+[PrintText]=01:12:18	Makoto	No le voy a eso.	01:14:06;
+
+[PlayVoice]=01:12:18	Voice04/04-SA/04-SA-E05/04-SA-E05-0210	1	mak	01:14:06;
+
+[PrintText]=01:14:05	Taisuke	Vamos, no digas eso.	01:15:22;
+
+[PlayVoice]=01:14:05	Voice04/04-SA/04-SA-E05/04-SA-E05-0220	1	tai	01:15:22;
+
+[PrintText]=01:15:22	Makoto	La respuesta es no.	01:16:22;
+
+[PlayVoice]=01:15:22	Voice04/04-SA/04-SA-E05/04-SA-E05-0230	1	mak	01:16:22;
+
+[CreateBG]=01:16:18	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-009	01:20:02;
+
+[PrintText]=01:17:02	Taisuke	¿Por qué no? ¿No sabes nadar?^	01:20:03;
+
+[PlayVoice]=01:17:02	Voice04/04-SA/04-SA-E05/04-SA-E05-0240	1	tai	01:20:03;
+
+[CreateBG]=01:20:02	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-010	01:24:14;
+
+[PrintText]=01:20:06	Makoto	¡No tengo la intención de ir a nadar contigo e ir a la cama de un hotel!	01:24:15;
+
+[PlayVoice]=01:20:06	Voice04/04-SA/04-SA-E05/04-SA-E05-0250	1	mak	01:24:15;
+
+[CreateBG]=01:24:14	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-011	01:28:02;
+
+[PrintText]=01:24:18	Taisuke	¡Ella ya cancelo lo del hotel!	01:28:04;
+
+[PlayVoice]=01:24:18	Voice04/04-SA/04-SA-E05/04-SA-E05-0260	1	tai	01:28:04;
+
+[CreateBG]=01:28:02	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-012	01:31:07;
+
+[PrintText]=01:28:10	Makoto	...Ya veo. Que bueno.	01:31:08;
+
+[PlayVoice]=01:28:10	Voice04/04-SA/04-SA-E05/04-SA-E05-0270	1	mak	01:31:08;
+
+[CreateBG]=01:31:07	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-013	01:32:14;
+
+[PrintText]=01:31:13	Taisuke	...	01:32:13;
+
+[PlayVoice]=01:31:13	Voice04/04-SA/04-SA-E05/04-SA-E05-0280	1	xxx	01:32:13;
+
+[CreateBG]=01:32:14	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-014	01:34:11;
+
+[PrintText]=01:32:17	Makoto	Hey, Solo bromeaba.	01:34:16;
+
+[PlayVoice]=01:32:17	Voice04/04-SA/04-SA-E05/04-SA-E05-0290	1	mak	01:34:16;
+
+[CreateBG]=01:34:11	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-015	01:38:18;
+
+[PrintText]=01:34:17	Taisuke	Bueno, como sea, acerca de estos dos restantes...	01:38:18;
+
+[PlayVoice]=01:34:17	Voice04/04-SA/04-SA-E05/04-SA-E05-0300	1	tai	01:38:18;
+
+[CreateBG]=01:38:17	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-016	01:43:20;
+
+[PrintText]=01:38:22	Makoto	Déjamelo a mi. Los venderé en la estación.	01:42:20;
+
+[PlayVoice]=01:38:22	Voice04/04-SA/04-SA-E05/04-SA-E05-0310	1	mak	01:42:20;
+
+[PrintText]=01:42:21	Taisuke	¡No!	01:43:16;
+
+[PlayVoice]=01:42:21	Voice04/04-SA/04-SA-E05/04-SA-E05-0320	1	tai	01:43:16;
+
+[CreateBG]=01:43:20	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-016B	01:44:22;
+
+[PrintText]=01:44:04	Makoto	Tsk.	01:44:23;
+
+[PlayVoice]=01:44:04	Voice04/04-SA/04-SA-E05/04-SA-E05-0330	1	mak	01:44:23;
+
+[CreateBG]=01:44:22	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-016C	01:57:18;
+
+[PrintText]=01:45:02	Taisuke	Mira, como sea, quiero que busques a dos personas que pueden ir con nosotros.	01:50:11;
+
+[PlayVoice]=01:45:02	Voice04/04-SA/04-SA-E05/04-SA-E05-0340	1	tai	01:50:11;
+
+[PrintText]=01:50:13	Makoto	Se a lo que te refieres, pero...	01:52:12;
+
+[PlayVoice]=01:50:13	Voice04/04-SA/04-SA-E05/04-SA-E05-0350	1	mak	01:52:12;
+
+[PrintText]=01:52:11	Taisuke	¡Ah! Déjame decirte. Chicas sin novios ¿Vale?^	01:56:05;
+
+[PlayVoice]=01:52:11	Voice04/04-SA/04-SA-E05/04-SA-E05-0360	1	tai	01:56:05;
+
+[PrintText]=01:56:09	Makoto	Sí, lo que sea.	01:57:20;
+
+[PlayVoice]=01:56:09	Voice04/04-SA/04-SA-E05/04-SA-E05-0370	1	mak	01:57:20;
+
+[CreateBG]=01:57:18	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-016D	02:01:20;
+
+[PrintText]=01:58:02	Taisuke	Saionji y tú podrán desaparecerse... y la otra chica y yo podremos ¡mufufufuf!	02:05:09;
+
+[PlayVoice]=01:58:02	Voice04/04-SA/04-SA-E05/04-SA-E05-0380	1	tai	02:05:09;
+
+[CreateBG]=02:01:20	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-017	02:07:00;
+
+[PrintText]=02:05:08	Makoto	Hmmn...	02:07:01;
+
+[PlayVoice]=02:05:08	Voice04/04-SA/04-SA-E05/04-SA-E05-0390	1	mak	02:07:01;
+
+[CreateBG]=02:07:00	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-018	02:14:05;
+
+[PrintText]=02:07:05	Taisuke	¿Y qué tal?^	02:08:02;
+
+[PlayVoice]=02:07:05	Voice04/04-SA/04-SA-E05/04-SA-E05-0400	1	tai	02:08:02;
+
+[PrintText]=02:08:02	Makoto	Le preguntaré.	02:10:20;
+
+[PlayVoice]=02:08:02	Voice04/04-SA/04-SA-E05/04-SA-E05-0410	1	mak	02:10:20;
+
+[PrintText]=02:10:21	Taisuke	¿En serio? ¡Genial! ¡Cuento contigo!	02:14:07;
+
+[PlayVoice]=02:10:21	Voice04/04-SA/04-SA-E05/04-SA-E05-0420	1	tai	02:14:07;
+
+[CreateBG]=02:14:05	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-019	02:18:17;
+
+[PrintText]=02:14:21	Makoto	Es solo coincidencia... pero creo que vino en el momento perfecto.	02:18:17;
+
+[PlayVoice]=02:14:21	Voice04/04-SA/04-SA-E05/04-SA-E05-0440	1	mak	02:18:17;
+
+[CreateBG]=02:18:17	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-020	02:20:12;
+
+[PrintText]=02:19:09	Makoto	...	02:20:04;
+
+[PlayVoice]=02:19:09	Voice04/04-SA/04-SA-E05/04-SA-E05-0450	1	xxx	02:20:04;
+
+[CreateBG]=02:20:12	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-021	02:25:01;
+
+[PrintText]=02:21:03	Makoto	...¿Realmente vendrá?^	02:23:03;
+
+[PlayVoice]=02:21:03	Voice04/04-SA/04-SA-E05/04-SA-E05-0470	1	mak	02:23:03;
+
+[PrintText]=02:23:23	Nanami	¡Ah! ¡Sekai!	02:25:18;
+
+[PlayVoice]=02:23:23	Voice04/04-SA/04-SA-E05/04-SA-E05-0480	0	nan	02:25:18;
+
+[CreateBG]=02:25:01	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-022	02:25:21;
+
+[PrintText]=02:25:20	Sekai	Eheh... Buen día...	02:28:07;
+
+[PlayVoice]=02:25:20	Voice04/04-SA/04-SA-E05/04-SA-E05-0510	0	sek	02:28:07;
+
+[CreateBG]=02:25:21	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-023	02:28:04;
+
+[CreateBG]=02:28:04	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-024	02:49:02;
+
+[PrintText]=02:28:14	Nanami	Así que, ya estás de nuevo aquí ¿Has estado bien?^	02:31:20;
+
+[PlayVoice]=02:28:14	Voice04/04-SA/04-SA-E05/04-SA-E05-0520	0	nan	02:31:20;
+
+[PrintText]=02:31:18	Sekai	Ah, sí.	02:33:05;
+
+[PlayVoice]=02:31:18	Voice04/04-SA/04-SA-E05/04-SA-E05-0530	0	sek	02:33:05;
+
+[PrintText]=02:33:07	Nanami	Como no sueles enfermarte, estaba preocupada por ti.	02:37:22;
+
+[PlayVoice]=02:33:07	Voice04/04-SA/04-SA-E05/04-SA-E05-0540	0	nan	02:37:22;
+
+[PrintText]=02:38:00	Sekai	Sí, lo siento.	02:39:15;
+
+[PlayVoice]=02:38:00	Voice04/04-SA/04-SA-E05/04-SA-E05-0550	0	sek	02:39:15;
+
+[PrintText]=02:39:18	Nanami	Está bien. Vamos, toma asiento. Han pasado muchas cosas desde que te fuiste ¡Déjame contarte!	02:48:08;
+
+[PlayVoice]=02:39:18	Voice04/04-SA/04-SA-E05/04-SA-E05-0560	0	nan	02:48:08;
+
+[PrintText]=02:48:11	Sekai	Seguro.	02:49:04;
+
+[PlayVoice]=02:48:11	Voice04/04-SA/04-SA-E05/04-SA-E05-0570	0	sek	02:49:04;
+
+[CreateBG]=02:49:02	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-025	02:50:15;
+
+[PrintText]=02:49:06	Hikari	¡Sekai!	02:50:18;
+
+[PlayVoice]=02:49:06	Voice04/04-SA/04-SA-E05/04-SA-E05-0580	0	hik	02:50:18;
+
+[CreateBG]=02:50:15	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-026	02:56:08;
+
+[PrintText]=02:50:18	Sekai	Hikari, gracias por lo de ella.	02:53:20;
+
+[PlayVoice]=02:50:18	Voice04/04-SA/04-SA-E05/04-SA-E05-0590	0	sek	02:53:20;
+
+[PrintText]=02:53:20	Hikari	¡Está bien! Pero más importante...	02:56:11;
+
+[PlayVoice]=02:53:20	Voice04/04-SA/04-SA-E05/04-SA-E05-0600	0	hik	02:56:11;
+
+[CreateBG]=02:56:08	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-027	03:06:00;
+
+[PrintText]=02:56:17	Sekai	Lo sé.	02:57:21;
+
+[PlayVoice]=02:56:17	Voice04/04-SA/04-SA-E05/04-SA-E05-0610	0	sek	02:57:21;
+
+[PrintText]=02:57:20	Nanami	¿Oh? ¿De lo que pasó ayer?^	03:00:04;
+
+[PlayVoice]=02:57:20	Voice04/04-SA/04-SA-E05/04-SA-E05-0620	0	nan	03:00:04;
+
+[PrintText]=03:00:08	Hikari	Su buena amiga Hikari la fue a visitar.	03:03:14;
+
+[PlayVoice]=03:00:08	Voice04/04-SA/04-SA-E05/04-SA-E05-0630	0	hik	03:03:14;
+
+[PrintText]=03:03:16	Nanami	Uwah. Me hubieras llevado también!	03:06:00;
+
+[PlayVoice]=03:03:16	Voice04/04-SA/04-SA-E05/04-SA-E05-0640	0	nan	03:06:00;
+
+[CreateBG]=03:06:00	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-028	03:16:12;
+
+[PrintText]=03:06:07	Hikari	Si lo hacía, todo el pastel iba a desaparecer.	03:09:15;
+
+[PlayVoice]=03:06:07	Voice04/04-SA/04-SA-E05/04-SA-E05-0650	0	hik	03:09:15;
+
+[PrintText]=03:09:14	Nanami	¿Ehh?! ¿Llevaste pastel también? Tenías que haberme invitado entonces. Los pasteles de tu tienda son los mejores...	03:16:13;
+
+[PlayVoice]=03:09:14	Voice04/04-SA/04-SA-E05/04-SA-E05-0660	0	nan	03:16:13;
+
+[CreateBG]=03:16:12	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-029	03:22:18;
+
+[PrintText]=03:16:14	Hikari	Ahaha... Bueno, te llevaré la próxima vez entonces.	03:20:04;
+
+[PlayVoice]=03:16:14	Voice04/04-SA/04-SA-E05/04-SA-E05-0670	0	hik	03:20:04;
+
+[PrintText]=03:20:06	Nanami	Está bien!	03:21:10;
+
+[PlayVoice]=03:20:06	Voice04/04-SA/04-SA-E05/04-SA-E05-0680	0	nan	03:21:10;
+
+[PrintText]=03:21:12	Sekai	Ahahah...	03:22:23;
+
+[PlayVoice]=03:21:12	Voice04/04-SA/04-SA-E05/04-SA-E05-0690	0	sek	03:22:23;
+
+[CreateBG]=03:22:18	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-030	03:26:13;
+
+[PrintText]=03:23:00	Nanami	¡Vamos, Sekai! ¡Sientate aquí!	03:25:09;
+
+[PlayVoice]=03:23:00	Voice04/04-SA/04-SA-E05/04-SA-E05-0700	0	nan	03:25:09;
+
+[PrintText]=03:25:13	Sekai	Gracias.	03:26:13;
+
+[PlayVoice]=03:25:13	Voice04/04-SA/04-SA-E05/04-SA-E05-0710	0	sek	03:26:13;
+
+[CreateBG]=03:26:13	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-031	03:32:08;
+
+[PrintText]=03:26:15	Nanami	¡Primero que nada, durante el festival... ah! No estuviste en el festival también ¿No?^	03:31:13;
+
+[PlayVoice]=03:26:15	Voice04/04-SA/04-SA-E05/04-SA-E05-0720	0	nan	03:31:13;
+
+[PrintText]=03:31:16	Sekai	Uh-huh.	03:32:08;
+
+[PlayVoice]=03:31:16	Voice04/04-SA/04-SA-E05/04-SA-E05-0730	0	sek	03:32:08;
+
+[PrintText]=03:32:07	Nanami	Bueno, durante el festival, mi novio...	03:34:18;
+
+[PlayVoice]=03:32:07	Voice04/04-SA/04-SA-E05/04-SA-E05-0740	0	nan	03:34:18;
+
+[CreateBG]=03:32:08	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-031B	03:34:19;
+
+[BlackFade]=03:33:11	OUT	03:34:19;
+
+[CreateBG]=03:34:19	BGS	System/Screen/Black	03:35:06;
+
+[CreateBG]=03:35:06	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-032	03:37:10;
+
+[BlackFade]=03:35:06	IN	03:35:17;
+
+[CreateBG]=03:37:10	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-033	03:41:20;
+
+[PrintText]=03:38:03	Makoto	...	03:41:19;
+
+[PlayVoice]=03:38:03	Voice04/04-SA/04-SA-E05/04-SA-E05-0770	1	xxx	03:41:19;
+
+[CreateBG]=03:41:19	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-034	03:46:02;
+
+[PrintText]=03:41:19	Makoto	...	03:50:04;
+
+[PlayVoice]=03:41:19	Voice04/04-SA/04-SA-E05/04-SA-E05-0810	1	xxx	03:50:04;
+
+[BlackFade]=03:45:03	OUT	03:46:03;
+
+[CreateBG]=03:46:02	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-035	03:50:04;
+
+[BlackFade]=03:46:03	IN	03:47:03;
+
+[CreateBG]=03:50:04	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-036	03:52:11;
+
+[PrintText]=03:50:10	Sekai	...	03:51:05;
+
+[PlayVoice]=03:50:10	Voice04/04-SA/04-SA-E05/04-SA-E05-0830	0	xxx	03:51:05;
+
+[BlackFade]=03:51:12	OUT	03:52:12;
+
+[CreateBG]=03:52:11	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-037	03:55:09;
+
+[BlackFade]=03:52:12	IN	03:53:12;
+
+[PrintText]=03:53:13	Makoto	...	03:55:09;
+
+[PlayVoice]=03:53:13	Voice04/04-SA/04-SA-E05/04-SA-E05-0870	1	xxx	03:55:09;
+
+[CreateBG]=03:55:09	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-038	04:02:16;
+
+[PrintText]=03:55:12	Taisuke	¡Oh, Makoto! ¿Y ese almuerzo?^	03:57:10;
+
+[PlayVoice]=03:55:12	Voice04/04-SA/04-SA-E05/04-SA-E05-0880	1	tai	03:57:10;
+
+[PrintText]=03:57:14	Makoto	Sí. Lo compré en la tienda esta mañana.	04:01:00;
+
+[PlayVoice]=03:57:14	Voice04/04-SA/04-SA-E05/04-SA-E05-0890	1	mak	04:01:00;
+
+[PrintText]=04:01:05	Taisuke	Eso es raro...	04:02:16;
+
+[PlayVoice]=04:01:05	Voice04/04-SA/04-SA-E05/04-SA-E05-0900	1	tai	04:02:16;
+
+[CreateBG]=04:02:16	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-039	04:05:16;
+
+[PrintText]=04:02:19	Makoto	Sí.	04:03:17;
+
+[PlayVoice]=04:02:19	Voice04/04-SA/04-SA-E05/04-SA-E05-0910	1	mak	04:03:17;
+
+[PrintText]=04:03:19	Taisuke	¿Y, cómo fue?^	04:04:20;
+
+[PlayVoice]=04:03:19	Voice04/04-SA/04-SA-E05/04-SA-E05-0920	1	tai	04:04:20;
+
+[PrintText]=04:04:21	Makoto	¿Cómo fue qué?^	04:05:17;
+
+[PlayVoice]=04:04:21	Voice04/04-SA/04-SA-E05/04-SA-E05-0930	1	mak	04:05:17;
+
+[CreateBG]=04:05:16	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-040	04:16:00;
+
+[PrintText]=04:05:20	Taisuke	¡Sobre la piscina!	04:08:01;
+
+[PlayVoice]=04:05:20	Voice04/04-SA/04-SA-E05/04-SA-E05-0940	1	tai	04:08:01;
+
+[PrintText]=04:08:01	Makoto	Oh, aún lo estoy pensando.	04:10:14;
+
+[PlayVoice]=04:08:01	Voice04/04-SA/04-SA-E05/04-SA-E05-0950	1	mak	04:10:14;
+
+[PrintText]=04:10:16	Taisuke	Esas entradas son para este fin de semana sabes. Solo tenemos una oportunidad, cuento contigo.	04:16:05;
+
+[PlayVoice]=04:10:16	Voice04/04-SA/04-SA-E05/04-SA-E05-0960	1	tai	04:16:05;
+
+[CreateBG]=04:16:00	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-041	04:23:13;
+
+[PrintText]=04:16:09	Makoto	Sí, pero...	04:18:08;
+
+[PlayVoice]=04:16:09	Voice04/04-SA/04-SA-E05/04-SA-E05-0980	1	mak	04:18:08;
+
+[PrintText]=04:18:18	Makoto	...	04:19:22;
+
+[PlayVoice]=04:18:18	Voice04/04-SA/04-SA-E05/04-SA-E05-0990	1	xxx	04:19:22;
+
+[PrintText]=04:20:08	Makoto	Bueno... hora de comer, creo.	04:22:06;
+
+[PlayVoice]=04:20:08	Voice04/04-SA/04-SA-E05/04-SA-E05-1000	1	mak	04:22:06;
+
+[PrintText]=04:22:11	Sekai	Ma...	04:23:14;
+
+[PlayVoice]=04:22:11	Voice04/04-SA/04-SA-E05/04-SA-E05-1010	0	sek	04:23:14;
+
+[CreateBG]=04:23:13	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-042	04:28:20;
+
+[PrintText]=04:23:14	Makoto	¿Hmn?^	04:24:04;
+
+[PlayVoice]=04:23:14	Voice04/04-SA/04-SA-E05/04-SA-E05-1020	1	mak	04:24:04;
+
+[PrintText]=04:24:14	Sekai	Makoto.	04:25:22;
+
+[PlayVoice]=04:24:14	Voice04/04-SA/04-SA-E05/04-SA-E05-1030	0	sek	04:25:22;
+
+[PrintText]=04:25:22	Makoto	Hey, tiempo sin verte.	04:27:19;
+
+[PlayVoice]=04:25:22	Voice04/04-SA/04-SA-E05/04-SA-E05-1050	1	mak	04:27:19;
+
+[PrintText]=04:27:23	Sekai	Uh-huh.	04:29:03;
+
+[PlayVoice]=04:27:23	Voice04/04-SA/04-SA-E05/04-SA-E05-1060	0	sek	04:29:03;
+
+[CreateBG]=04:28:20	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-043	04:32:14;
+
+[PrintText]=04:29:02	Makoto	¿Comemos juntos?^	04:30:12;
+
+[PlayVoice]=04:29:02	Voice04/04-SA/04-SA-E05/04-SA-E05-1070	1	mak	04:30:12;
+
+[PrintText]=04:30:14	Sekai	¡¿Eh...?!	04:31:08;
+
+[PlayVoice]=04:30:14	Voice04/04-SA/04-SA-E05/04-SA-E05-1080	0	sek	04:31:08;
+
+[PrintText]=04:31:09	Makoto	¿Almorzaras en la cafetería hoy?^	04:32:17;
+
+[PlayVoice]=04:31:09	Voice04/04-SA/04-SA-E05/04-SA-E05-1090	1	mak	04:32:17;
+
+[CreateBG]=04:32:14	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-044	04:40:22;
+
+[PrintText]=04:32:20	Sekai	No, mi madre me hizo el almuerzo.	04:36:07;
+
+[PlayVoice]=04:32:20	Voice04/04-SA/04-SA-E05/04-SA-E05-1100	0	sek	04:36:07;
+
+[PrintText]=04:36:11	Makoto	Comamos juntos entonces. Ya has hablado bastante con Kanroji y las demás ¿Cierto?^	04:41:05;
+
+[PlayVoice]=04:36:11	Voice04/04-SA/04-SA-E05/04-SA-E05-1110	1	mak	04:41:05;
+
+[CreateBG]=04:40:22	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-045	04:43:15;
+
+[PrintText]=04:41:10	Sekai	Sí, pero...	04:43:18;
+
+[PlayVoice]=04:41:10	Voice04/04-SA/04-SA-E05/04-SA-E05-1120	0	sek	04:43:18;
+
+[CreateBG]=04:43:15	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-046	04:49:01;
+
+[PrintText]=04:44:00	Makoto	¿Qué pasa?^	04:44:23;
+
+[PlayVoice]=04:44:00	Voice04/04-SA/04-SA-E05/04-SA-E05-1130	1	mak	04:44:23;
+
+[PrintText]=04:45:02	Sekai	...	04:45:14;
+
+[PlayVoice]=04:45:02	Voice04/04-SA/04-SA-E05/04-SA-E05-1140	0	xxx	04:45:14;
+
+[PrintText]=04:45:14	Makoto	Vamos, dime algo. Comeré primero entonces si es así.	04:49:06;
+
+[PlayVoice]=04:45:14	Voice04/04-SA/04-SA-E05/04-SA-E05-1150	1	mak	04:49:06;
+
+[CreateBG]=04:49:01	BGS	Event04/04-SA/04-SA-E05/04-SA-E05-047	05:00:23;
+
+[PrintText]=04:50:10	Sekai	¿... No iras a comer con Katsura-san?^	04:52:23;
+
+[PlayVoice]=04:50:10	Voice04/04-SA/04-SA-E05/04-SA-E05-1160	0	sek	04:52:23;
+
+[SetSELECT]=04:54:16	'No'	null	04:59:16;
+
+ ;
+
+[Next]=05:00:23;
+
+

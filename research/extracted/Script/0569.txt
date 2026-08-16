@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:05:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:05:07;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H03/SE03-KA-H03-001	00:05:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H03/03-KA-H03-001	00:01:05;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H03/03-KA-H03-0030	1	xxx	00:00:23;
+
+[CreateBG]=00:01:05	BGS	Event03/03-KA/03-KA-H03/03-KA-H03-002	00:05:07;
+
+[PrintText]=00:01:12	Kotonoha	Ah, es hora. Vamos.	00:04:20;
+
+[PlayVoice]=00:01:12	Voice03/03-KA/03-KA-H03/03-KA-H03-0040	0	kot	00:04:20;
+
+ ;
+
+[Next]=00:05:07;
+
+

@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:08:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:08:14;
+
+[PlaySe]=00:00:00	1	Voice01/01-1K/01-1K-K00/01-1K-K00-0091	00:08:14;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-K01/01-1K-K01-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Ini/Event01/01-1K/01-1K-K01/01-1K-K01-001B	00:05:07;
+
+#[PrintText]=00:02:00	Sekai	"¿Discutieron de nuevo?".	00:08:14;
+
+[CreateBG]=00:05:07	BGS	Ini/Event01/01-1K/01-1K-K01/01-1K-K01-001C	00:08:14;
+
+ ;
+
+[Next]=00:08:14;
+
+
+
+

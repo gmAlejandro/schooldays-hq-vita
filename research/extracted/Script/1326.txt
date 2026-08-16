@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:29:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:35:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-002	00:05:13;
+
+[PrintText]=00:03:03	Makoto	Buen día.	00:04:02;
+
+[PlayVoice]=00:03:03	Voice05/05-5O/05-5O-E00/05-5O-E00-0030	1	mak	00:04:02;
+
+[PrintText]=00:04:07	Hikari	Buen día.	00:05:07;
+
+[PlayVoice]=00:04:07	Voice05/05-5O/05-5O-E00/05-5O-E00-0040	0	hik	00:05:07;
+
+[CreateBG]=00:05:13	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-002B	00:07:05;
+
+[PrintText]=00:05:13	Makoto	¿Q-Qué pasa?^	00:07:01;
+
+[PlayVoice]=00:05:13	Voice05/05-5O/05-5O-E00/05-5O-E00-0050	1	mak	00:07:01;
+
+[CreateBG]=00:07:05	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-002C	00:11:08;
+
+[PrintText]=00:07:05	Hikari	Sekai dijo que no iba a venir hoy.	00:09:20;
+
+[PlayVoice]=00:07:05	Voice05/05-5O/05-5O-E00/05-5O-E00-0060	0	hik	00:09:20;
+
+[PrintText]=00:10:02	Makoto	...Ya veo.	00:11:04;
+
+[PlayVoice]=00:10:02	Voice05/05-5O/05-5O-E00/05-5O-E00-0070	1	mak	00:11:04;
+
+[CreateBG]=00:11:08	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-002D	00:13:00;
+
+[PrintText]=00:11:08	Hikari	¡Cielos, eres increíble!	00:12:22;
+
+[PlayVoice]=00:11:08	Voice05/05-5O/05-5O-E00/05-5O-E00-0080	0	hik	00:12:22;
+
+[CreateBG]=00:13:00	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-003	00:14:01;
+
+[PrintText]=00:13:02	Setsuna	Itou.	00:13:22;
+
+[PlayVoice]=00:13:02	Voice05/05-5O/05-5O-E00/05-5O-E00-0100	0	set	00:13:22;
+
+[CreateBG]=00:14:01	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-004	00:15:18;
+
+[PrintText]=00:14:01	Makoto	¿Sí?^	00:14:16;
+
+[PlayVoice]=00:14:01	Voice05/05-5O/05-5O-E00/05-5O-E00-0110	1	mak	00:14:16;
+
+[CreateBG]=00:15:18	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-005	00:25:01;
+
+[PrintText]=00:15:18	Setsuna	Sekai dijo que no se sentía bien.	00:18:13;
+
+[PlayVoice]=00:15:18	Voice05/05-5O/05-5O-E00/05-5O-E00-0120	0	set	00:18:13;
+
+[PrintText]=00:18:14	Makoto	¿En serio?^	00:19:20;
+
+[PlayVoice]=00:18:14	Voice05/05-5O/05-5O-E00/05-5O-E00-0130	1	mak	00:19:20;
+
+[PrintText]=00:19:17	Setsuna	Dijo que estaba preocupada, porque su mamá está en un viaje de negocios hoy.	00:25:00;
+
+[PlayVoice]=00:19:17	Voice05/05-5O/05-5O-E00/05-5O-E00-0140	0	set	00:25:00;
+
+[CreateBG]=00:25:01	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-006	00:25:23;
+
+[PrintText]=00:25:03	Makoto	Ya veo...	00:25:22;
+
+[PlayVoice]=00:25:03	Voice05/05-5O/05-5O-E00/05-5O-E00-0150	1	mak	00:25:22;
+
+[CreateBG]=00:25:23	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-007	00:28:20;
+
+[PrintText]=00:25:23	Setsuna	Hazle una visita.	00:26:21;
+
+[PlayVoice]=00:25:23	Voice05/05-5O/05-5O-E00/05-5O-E00-0160	0	set	00:26:21;
+
+[PrintText]=00:26:21	Makoto	¿Eh?^	00:27:11;
+
+[PlayVoice]=00:26:21	Voice05/05-5O/05-5O-E00/05-5O-E00-0170	1	mak	00:27:11;
+
+[PrintText]=00:27:16	Setsuna	Irás ¿No?^	00:28:20;
+
+[PlayVoice]=00:27:16	Voice05/05-5O/05-5O-E00/05-5O-E00-0180	0	set	00:28:20;
+
+[CreateBG]=00:28:20	BGS	Event05/05-5O/05-5O-E00/05-5O-E00-008	00:35:08;
+
+[PrintText]=00:28:21	Makoto	...	00:30:18;
+
+[PlayVoice]=00:28:21	Voice05/05-5O/05-5O-E00/05-5O-E00-0190	1	xxx	00:30:18;
+
+[SetSELECT]=00:29:08	'Sí'	'No'	00:34:08;
+
+ ;
+
+[Next]=00:35:08;
+
+

@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:04:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:04:19;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-K02/02-2S-K02-001	00:04:19;
+
+[PrintText]=00:00:06	Consejo	Bien... entonces. Eso es todo por hoy.	00:03:03;
+
+[PlayVoice]=00:00:06	Voice02/02-2S/02-2S-K02/02-2S-K02-0050	1	iin	00:03:03;
+
+[BlackFade]=00:03:19	OUT	00:04:19;
+
+ ;
+
+[Next]=00:04:19;
+
+
+
+

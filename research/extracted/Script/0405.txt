@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:05:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:11:11;
+
+[PlaySe]=00:00:00	1	Se03/03-A1/03-A1-B00/SE03-A1-B00-001	00:11:11;
+
+[PlaySe]=00:00:00	2	Se03/03-A1/03-A1-B00/SE03-A1-B00-002	00:11:11;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-I00/00-00-I00-001	00:01:17;
+
+[PrintText]=00:00:06	Kotonoha	...	00:01:05;
+
+[PlayVoice]=00:00:06	Voice03/03-A1/03-A1-B00/03-A1-B00-0040	0	xxx	00:01:05;
+
+[CreateBG]=00:01:17	BGS	Event03/03-A1/03-A1-B00/03-A1-B00-002	00:03:05;
+
+[PrintText]=00:01:22	Makoto	...	00:02:09;
+
+[PlayVoice]=00:01:22	Voice03/03-A1/03-A1-B00/03-A1-B00-0050	1	xxx	00:02:09;
+
+[CreateBG]=00:03:05	BGS	Event03/03-A1/03-A1-B00/03-A1-B00-003	00:04:17;
+
+[PrintText]=00:03:08	Makoto	Hey, escucha.	00:04:12;
+
+[PlayVoice]=00:03:08	Voice03/03-A1/03-A1-B00/03-A1-B00-0070	1	mak	00:04:12;
+
+[CreateBG]=00:04:17	BGS	Event03/03-A1/03-A1-B00/03-A1-B00-004	00:11:11;
+
+[PrintText]=00:04:20	Kotonoha	¿Sí...?^	00:05:16;
+
+[PlayVoice]=00:04:20	Voice03/03-A1/03-A1-B00/03-A1-B00-0080	0	kot	00:05:16;
+
+[SetSELECT]=00:05:11	'¿Qué te pasó hoy?'	'No volveré a tocarte.'	00:10:11;
+
+ ;
+
+[Next]=00:11:11;
+
+

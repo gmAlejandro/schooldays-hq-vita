@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:16:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:16:08;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-C03/SE03-SB-C03-001	00:16:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-C03/03-SB-C03-001	00:01:03;
+
+[PrintText]=00:00:08	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:08	Voice03/03-SB/03-SB-C03/03-SB-C03-0040	1	xxx	00:00:23;
+
+[PrintText]=00:01:02	Makoto	...	00:02:04;
+
+[PlayVoice]=00:01:02	Voice03/03-SB/03-SB-C03/03-SB-C03-0070	1	xxx	00:02:04;
+
+[CreateBG]=00:01:03	BGS	Event03/03-SB/03-SB-C03/03-SB-C03-002	00:12:05;
+
+[PrintText]=00:02:04	Kotonoha	Estoy muy feliz porque me esperaste.	00:05:01;
+
+[PlayVoice]=00:02:04	Voice03/03-SB/03-SB-C03/03-SB-C03-0080	0	kot	00:05:01;
+
+[PrintText]=00:05:01	Makoto	Sí.	00:06:00;
+
+[PlayVoice]=00:05:01	Voice03/03-SB/03-SB-C03/03-SB-C03-0090	1	mak	00:06:00;
+
+[PrintText]=00:06:00	Kotonoha	Como el festival escolar termina... podremos estar juntos otra vez.	00:10:23;
+
+[PlayVoice]=00:06:00	Voice03/03-SB/03-SB-C03/03-SB-C03-0100	0	kot	00:10:23;
+
+[PrintText]=00:10:23	Makoto	Sí...	00:12:05;
+
+[PlayVoice]=00:10:23	Voice03/03-SB/03-SB-C03/03-SB-C03-0110	1	mak	00:12:05;
+
+[PrintText]=00:12:04	Kotonoha	Junto a ti. Los dos...	00:15:19;
+
+[PlayVoice]=00:12:04	Voice03/03-SB/03-SB-C03/03-SB-C03-0120	0	kot	00:15:19;
+
+[PlayMovie]=00:12:05	Movie05/05-KB/05-KB-K02/05-KB-K02-005	0	00:16:08;
+
+ ;
+
+[Next]=00:16:08;
+
+

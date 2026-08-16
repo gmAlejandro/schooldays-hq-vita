@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=04:00:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:14:03;
+
+[PlaySe]=00:00:00	1	Se04/04-C0/04-C0-A04/SE04-C0-A04-001	00:17:06;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C0/04-C0-A04/04-C0-A04-001	00:03:02;
+
+[PrintText]=00:00:00	Makoto	Porque yo amo a Sekai.	00:01:17;
+
+[PlayVoice]=00:00:00	Voice04/04-C0/04-C0-A04/04-C0-A04-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:17	Kotonoha	Ah...	00:03:02;
+
+[PlayVoice]=00:01:17	Voice04/04-C0/04-C0-A04/04-C0-A04-0040	0	kot	00:03:02;
+
+[CreateBG]=00:03:02	BGS	Event04/04-C0/04-C0-A04/04-C0-A04-002	00:11:01;
+
+[PrintText]=00:03:02	Makoto	...Lo siento.Lo he tenido guardado todo este tiempo, pero la verdad es que, Sekai y yo somos...	00:08:19;
+
+[PlayVoice]=00:03:02	Voice04/04-C0/04-C0-A04/04-C0-A04-0050	1	mak	00:08:19;
+
+[PrintText]=00:08:19	Kotonoha	¡No!	00:09:20;
+
+[PlayVoice]=00:08:19	Voice04/04-C0/04-C0-A04/04-C0-A04-0060	0	kot	00:09:20;
+
+[PrintText]=00:09:20	Makoto	Kotonoha...	00:11:02;
+
+[PlayVoice]=00:09:20	Voice04/04-C0/04-C0-A04/04-C0-A04-0070	1	mak	00:11:02;
+
+[CreateBG]=00:11:01	BGS	Event04/04-C0/04-C0-A04/04-C0-A04-003	00:12:15;
+
+[PrintText]=00:11:02	Kotonoha	¡No quiero oírlo! ¡No quiero!	00:14:02;
+
+[PlayVoice]=00:11:02	Voice04/04-C0/04-C0-A04/04-C0-A04-0080	0	kot	00:14:02;
+
+[CreateBG]=00:12:15	BGS	Event04/04-C0/04-C0-A04/04-C0-A04-004	00:17:06;
+
+[EndBGM]=00:13:13	BGM/Vocal/SDV04	02:24:06;
+
+[PrintText]=00:14:02	Makoto	Realmente lo siento.	00:16:10;
+
+[PlayVoice]=00:14:02	Voice04/04-C0/04-C0-A04/04-C0-A04-0090	1	mak	00:16:10;
+
+[CreateBG]=03:17:02	BGS	Ini/EndRoll/04-00	03:20:00;
+
+[EndRoll]=03:20:00	Ini/EndRoll/NORMAL	04:00:00;
+
+ ;
+
+[Next]=04:00:00;
+
+

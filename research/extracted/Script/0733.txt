@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=01:09:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:19:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B09/03-SA-B09-001	00:01:18;
+
+[PlayMovie]=00:01:18	Movie03/03-SA/03-SA-B09/03-SA-B09-002	0	00:06:20;
+
+[PrintText]=00:01:18	Makoto	...	00:02:05;
+
+[PlayVoice]=00:01:18	Voice03/03-SA/03-SA-B09/03-SA-B09-0050	1	xxx	00:02:05;
+
+[PrintText]=00:05:02	Kotonoha	Eheheh...	00:06:19;
+
+[PlayVoice]=00:05:02	Voice03/03-SA/03-SA-B09/03-SA-B09-0060	0	kot	00:06:19;
+
+[CreateBG]=00:06:20	BGS	Event03/03-SA/03-SA-B09/03-SA-B09-003	00:09:21;
+
+[PrintText]=00:06:20	Makoto	Kotonoha. Yo...	00:12:09;
+
+[PlayVoice]=00:06:20	Voice03/03-SA/03-SA-B09/03-SA-B09-0070	1	mak	00:12:09;
+
+[PlayMovie]=00:09:21	Movie03/03-SA/03-SA-B09/03-SA-B09-004	0	00:17:16;
+
+[PrintText]=00:12:09	Kotonoha	Makoto-kun... te amo.	00:17:15;
+
+[PlayVoice]=00:12:09	Voice03/03-SA/03-SA-B09/03-SA-B09-0090	0	kot	00:17:15;
+
+[PlaySe]=00:17:15	1	Voice03/03-SA/03-SA-B09/03-SA-B09-0100	00:19:20;
+
+[PlayMovie]=00:17:16	Movie03/03-SA/03-SA-B09/03-SA-B09-005	0	00:26:04;
+
+[EndBGM]=00:19:18	BGM/Vocal/SDV04	02:30:11;
+
+[CreateBG]=00:26:04	BGS	Ini/EndRoll/03-09	00:29:00;
+
+[EndRoll]=00:29:00	Ini/EndRoll/NORMAL	01:09:00;
+
+ ;
+
+[Next]=01:09:00;
+
+

@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:22:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:22:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F06/05-5O-F06-001	00:15:07;
+
+[PrintText]=00:00:13	Sekai	Gracias por ir a visitarme ayer.	00:04:19;
+
+[PlayVoice]=00:00:13	Voice05/05-5O/05-5O-F06/05-5O-F06-0030	0	sek	00:04:19;
+
+[PrintText]=00:05:05	Makoto	Sí.	00:05:22;
+
+[PlayVoice]=00:05:05	Voice05/05-5O/05-5O-F06/05-5O-F06-0040	1	mak	00:05:22;
+
+[PrintText]=00:06:19	Sekai	He estado pensando... últimamente, y debo seguir dando lo mejor de mí, como siempre.	00:14:16;
+
+[PlayVoice]=00:06:19	Voice05/05-5O/05-5O-F06/05-5O-F06-0050	0	sek	00:14:16;
+
+[CreateBG]=00:15:07	BGS	Event05/05-5O/05-5O-F06/05-5O-F06-002	00:20:18;
+
+[PrintText]=00:15:12	Makoto	Es cierto.	00:16:12;
+
+[PlayVoice]=00:15:12	Voice05/05-5O/05-5O-F06/05-5O-F06-0060	1	mak	00:16:12;
+
+[PrintText]=00:16:23	Sekai	Por eso es que voy seguir animandote.	00:19:03;
+
+[PlayVoice]=00:16:23	Voice05/05-5O/05-5O-F06/05-5O-F06-0070	0	sek	00:19:03;
+
+[PrintText]=00:19:20	Makoto	Sí...	00:20:10;
+
+[PlayVoice]=00:19:20	Voice05/05-5O/05-5O-F06/05-5O-F06-0080	1	mak	00:20:10;
+
+[CreateBG]=00:20:18	BGS	Event05/05-5O/05-5O-F06/05-5O-F06-003	00:22:11;
+
+[PrintText]=00:21:00	Sekai	Eheheh.	00:22:05;
+
+[PlayVoice]=00:21:00	Voice05/05-5O/05-5O-F06/05-5O-F06-0090	0	sek	00:22:05;
+
+ ;
+
+[Next]=00:22:11;
+
+

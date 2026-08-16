@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:17:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:17:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-B01/04-KB-B01-001	00:01:08;
+
+[PrintText]=00:00:00	Makoto	Estoy aquí para ti.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-B01/04-KB-B01-0030	1	mak	00:01:08;
+
+[PlayMovie]=00:01:08	Movie04/04-KB/04-KB-B01/04-KB-B01-002	0	00:10:18;
+
+[PrintText]=00:01:08	Sekai	¿Eh...?^	00:01:22;
+
+[PlayVoice]=00:01:08	Voice04/04-KB/04-KB-B01/04-KB-B01-0040	0	sek	00:01:22;
+
+[PrintText]=00:01:21	Makoto	Estaré a tu lado. Prometo estar contigo.	00:09:12;
+
+[PlayVoice]=00:01:21	Voice04/04-KB/04-KB-B01/04-KB-B01-0050	1	mak	00:09:12;
+
+[PrintText]=00:09:13	Sekai	¿Lo prometes..?^	00:10:18;
+
+[PlayVoice]=00:09:13	Voice04/04-KB/04-KB-B01/04-KB-B01-0060	0	sek	00:10:18;
+
+[PrintText]=00:10:17	Makoto	Estoy seguro que ella se pondría triste si te ve así.	00:14:15;
+
+[PlayVoice]=00:10:17	Voice04/04-KB/04-KB-B01/04-KB-B01-0070	1	mak	00:14:15;
+
+[CreateBG]=00:10:18	BGS	Event04/04-KB/04-KB-B01/04-KB-B01-003	00:17:02;
+
+[PrintText]=00:14:15	Sekai	Sí... tienes razón...	00:17:02;
+
+[PlayVoice]=00:14:15	Voice04/04-KB/04-KB-B01/04-KB-B01-0080	0	sek	00:17:02;
+
+ ;
+
+[Next]=00:17:02;
+
+

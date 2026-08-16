@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:54:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-I01/04-KE-I01-001	00:01:10;
+
+[CreateBG]=00:01:10	BGS	Event04/04-KE/04-KE-I01/04-KE-I01-002	00:02:13;
+
+[PrintText]=00:01:12	Makoto	¡Sekai!	00:02:13;
+
+[PlayVoice]=00:01:12	Voice04/04-KE/04-KE-I01/04-KE-I01-0040	1	mak	00:02:13;
+
+[PlaySe]=00:01:20	3	SysSe/SE_all/h/nuno1	00:03:10;
+
+[PlaySe]=00:01:21	2	SysSe/SE_all/h/nuno2	00:02:23;
+
+[PlaySe]=00:02:12	1	SysSe/SE_all/station_train/train_start	00:10:19;
+
+[CreateBG]=00:02:13	BGS	Event04/04-KE/04-KE-I01/04-KE-I01-003	00:03:15;
+
+[PrintText]=00:02:13	Sekai	¡Ah...!	00:03:16;
+
+[PlayVoice]=00:02:13	Voice04/04-KE/04-KE-I01/04-KE-I01-0060	0	sek	00:03:16;
+
+[PlaySe]=00:03:03	2	SysSe/SE_all/h/nuno3	00:03:10;
+
+[CreateBG]=00:03:15	BGS	Event04/04-KE/04-KE-I01/04-KE-I01-004	00:08:03;
+
+[PrintText]=00:03:16	Makoto	...Vamos, abrázame.	00:08:05;
+
+[PlayVoice]=00:03:16	Voice04/04-KE/04-KE-I01/04-KE-I01-0070	1	mak	00:08:05;
+
+[PlayMovie]=00:08:03	Movie04/04-KE/04-KE-I01/04-KE-I01-005	0	00:11:03;
+
+[PrintText]=00:08:05	Sekai	...Está bien.	00:10:15;
+
+[PlayVoice]=00:08:05	Voice04/04-KE/04-KE-I01/04-KE-I01-0090	0	sek	00:10:15;
+
+[EndBGM]=00:08:06	BGM/Vocal/SDV04	02:18:23;
+
+[CreateBG]=00:11:03	BGS	Ini/EndRoll/04-12	00:14:00;
+
+[EndRoll]=00:14:00	Ini/EndRoll/NORMAL	00:54:00;
+
+ ;
+
+[Next]=00:54:00;
+
+

@@ -1,0 +1,149 @@
+﻿[SkipFRAME]=01:05:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	01:05:12;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/gaya/kyousitu_rouka	01:05:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-001	00:02:07;
+
+[PrintText]=00:00:07	Taisuke	Oh, es cierto.	00:02:04;
+
+[PlayVoice]=00:00:07	Voice05/05-5O/05-5O-F00/05-5O-F00-0040	1	tai	00:02:04;
+
+[CreateBG]=00:02:07	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-002	00:11:04;
+
+[PrintText]=00:02:08	Hikari	¿Qué te pasa? Me metí en muchos problemas para hacerlo sabes. Tal vez no deba darte nada.	00:08:00;
+
+[PlayVoice]=00:02:08	Voice05/05-5O/05-5O-F00/05-5O-F00-0050	0	hik	00:08:00;
+
+[PrintText]=00:07:21	Taisuke	¡Geh! ¡Hey, Solo bromeaba! ¡Lo tomaré!	00:11:01;
+
+[PlayVoice]=00:07:21	Voice05/05-5O/05-5O-F00/05-5O-F00-0060	1	tai	00:11:01;
+
+[CreateBG]=00:11:04	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-003	00:12:09;
+
+[CreateBG]=00:12:09	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-004	00:16:15;
+
+[PrintText]=00:13:06	Makoto	Haha, esos dos se llevan bien.	00:16:05;
+
+[PlayVoice]=00:13:06	Voice05/05-5O/05-5O-F00/05-5O-F00-0080	1	mak	00:16:05;
+
+[PlaySe]=00:16:14	1	Se05/05-5O/05-5O-F00/SE05-5O-F00-001	00:21:07;
+
+[PlaySe]=00:16:15	2	Se05/05-5O/05-5O-F00/SE05-5O-F00-002	00:21:04;
+
+[CreateBG]=00:16:15	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-005	00:20:01;
+
+[PrintText]=00:17:05	Makoto	Creo que iré a conseguir algo para comer también.	00:19:14;
+
+[PlayVoice]=00:17:05	Voice05/05-5O/05-5O-F00/05-5O-F00-0090	1	mak	00:19:14;
+
+[CreateBG]=00:20:01	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-006	00:26:10;
+
+[PrintText]=00:20:02	Nanami	Oh, Hikari. Saliendo con tu esposo, ya veo...	00:23:16;
+
+[PlayVoice]=00:20:02	Voice05/05-5O/05-5O-F00/05-5O-F00-0120	0	nan	00:23:16;
+
+[PrintText]=00:23:03	Taisuke	¡No me llames su esposo!	00:24:14;
+
+[PlayVoice]=00:23:03	Voice05/05-5O/05-5O-F00/05-5O-F00-0130	1	tai	00:24:14;
+
+[PrintText]=00:24:15	Hikari	¡Sí!	00:26:10;
+
+[PlayVoice]=00:24:15	Voice05/05-5O/05-5O-F00/05-5O-F00-0140	0	hik	00:26:10;
+
+[CreateBG]=00:26:10	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-007	00:29:12;
+
+[PrintText]=00:26:10	Nanami	Vale, Vale. Veo que están muy juntos.	00:29:13;
+
+[PlayVoice]=00:26:10	Voice05/05-5O/05-5O-F00/05-5O-F00-0150	0	nan	00:29:13;
+
+[CreateBG]=00:29:12	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-008	00:30:19;
+
+[PrintText]=00:29:13	Hikari	Cielos!	00:30:19;
+
+[PlayVoice]=00:29:13	Voice05/05-5O/05-5O-F00/05-5O-F00-0160	0	hik	00:30:19;
+
+[CreateBG]=00:30:19	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-009	00:31:10;
+
+[PrintText]=00:30:20	Setsuna	Ah...	00:31:08;
+
+[PlayVoice]=00:30:20	Voice05/05-5O/05-5O-F00/05-5O-F00-0170	0	set	00:31:08;
+
+[CreateBG]=00:31:10	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-010	00:36:05;
+
+[PrintText]=00:31:11	Setsuna	¿Qué puedo hacer por ti?^	00:32:21;
+
+[PlayVoice]=00:31:11	Voice05/05-5O/05-5O-F00/05-5O-F00-0190	0	set	00:32:21;
+
+[PrintText]=00:32:23	Kotonoha	Uh... um ¿Dónde está Makoto-kun?^	00:36:12;
+
+[PlayVoice]=00:32:23	Voice05/05-5O/05-5O-F00/05-5O-F00-0200	0	kot	00:36:12;
+
+[CreateBG]=00:36:05	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-010B	00:38:13;
+
+[PrintText]=00:36:05	Taisuke	Si buscas a Makoto, es probable que esté en la tienda de afuera.	00:38:13;
+
+[PlayVoice]=00:36:05	Voice05/05-5O/05-5O-F00/05-5O-F00-0210	1	tai	00:38:13;
+
+[PrintText]=00:38:09	Kotonoha	Gracias.	00:39:21;
+
+[PlayVoice]=00:38:09	Voice05/05-5O/05-5O-F00/05-5O-F00-0220	0	kot	00:39:21;
+
+[CreateBG]=00:38:13	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-010	00:40:02;
+
+[BlackFade]=00:39:12	OUT	00:40:01;
+
+[CreateBG]=00:40:01	BGS	System/Screen/Black	00:40:14;
+
+[CreateBG]=00:40:14	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-011	00:49:01;
+
+[BlackFade]=00:40:14	IN	00:41:02;
+
+[PrintText]=00:41:18	Hikari	¿Por qué le dijiste?!	00:44:01;
+
+[PlayVoice]=00:41:18	Voice05/05-5O/05-5O-F00/05-5O-F00-0240	0	hik	00:44:01;
+
+[PrintText]=00:43:17	Taisuke	¡Owowow! ¿Qué? ¿No debía?^	00:48:13;
+
+[PlayVoice]=00:43:17	Voice05/05-5O/05-5O-F00/05-5O-F00-0260	1	tai	00:48:13;
+
+[PrintText]=00:48:07	Hikari	¡Ella es enemiga de Sekai!	00:50:09;
+
+[PlayVoice]=00:48:07	Voice05/05-5O/05-5O-F00/05-5O-F00-0270	0	hik	00:50:09;
+
+[CreateBG]=00:49:01	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-011B	00:52:23;
+
+[PrintText]=00:50:04	Taisuke	Si tu lo dices, pero...	00:52:00;
+
+[PlayVoice]=00:50:04	Voice05/05-5O/05-5O-F00/05-5O-F00-0280	1	tai	00:52:00;
+
+[PrintText]=00:51:19	Hikari	¿No me digas que te sientes mal porque fue tu ex-novia?^	00:57:08;
+
+[PlayVoice]=00:51:19	Voice05/05-5O/05-5O-F00/05-5O-F00-0290	0	hik	00:57:08;
+
+[CreateBG]=00:52:23	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-011C	01:04:05;
+
+[PrintText]=00:57:07	Taisuke	¿Qué? ¿Estás celosa?^	00:59:11;
+
+[PlayVoice]=00:57:07	Voice05/05-5O/05-5O-F00/05-5O-F00-0300	1	tai	00:59:11;
+
+[PrintText]=00:59:09	Hikari	¡Kii!	01:00:17;
+
+[PlayVoice]=00:59:09	Voice05/05-5O/05-5O-F00/05-5O-F00-0310	0	hik	01:00:17;
+
+[PrintText]=01:00:18	Taisuke	¡Uwah! ¡Ow! ¡Ouch! ¡P-Para ya! ¡Uwah!	01:04:06;
+
+[PlayVoice]=01:00:18	Voice05/05-5O/05-5O-F00/05-5O-F00-0320	1	tai	01:04:06;
+
+[CreateBG]=01:04:05	BGS	Event05/05-5O/05-5O-F00/05-5O-F00-012	01:05:11;
+
+[PrintText]=01:04:07	Setsuna	...	01:05:09;
+
+[PlayVoice]=01:04:07	Voice05/05-5O/05-5O-F00/05-5O-F00-0330	0	xxx	01:05:09;
+
+ ;
+
+[Next]=01:05:12;
+
+

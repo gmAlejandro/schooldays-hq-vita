@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:08:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:08:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-002	00:05:02;
+
+[PrintText]=00:03:09	Setsuna	...	00:04:21;
+
+[PlayVoice]=00:03:09	Voice03/03-A0/03-A0-C00/03-A0-C00-0060	0	xxx	00:04:21;
+
+[CreateBG]=00:05:02	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-003	00:08:08;
+
+[PrintText]=00:05:08	Sekai	...	00:07:23;
+
+[PlayVoice]=00:05:08	Voice03/03-A0/03-A0-C00/03-A0-C00-0050	0	xxx	00:07:23;
+
+ ;
+
+[Next]=00:08:08;
+
+

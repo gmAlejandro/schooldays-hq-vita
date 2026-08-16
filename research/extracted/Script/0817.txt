@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:38:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:44:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-001	00:01:06;
+
+[CreateBG]=00:01:06	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-002C	00:03:22;
+
+[PrintText]=00:01:06	Sekai	Hoy realmente estaba en pánico.	00:03:07;
+
+[PlayVoice]=00:01:06	Voice03/03-SB/03-SB-D00/03-SB-D00-0040	0	sek	00:03:07;
+
+[PrintText]=00:03:06	Makoto	¿A sí?^	00:04:02;
+
+[PlayVoice]=00:03:06	Voice03/03-SB/03-SB-D00/03-SB-D00-0050	1	mak	00:04:02;
+
+[CreateBG]=00:03:22	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-002B	00:11:13;
+
+[PrintText]=00:04:03	Sekai	¡Todo porque decidiste venirte dentro de mí, y cuando empezó a salir mientras estaba con Katsura-san, no sabía qué hacer!	00:11:18;
+
+[PlayVoice]=00:04:03	Voice03/03-SB/03-SB-D00/03-SB-D00-0060	0	sek	00:11:18;
+
+[CreateBG]=00:11:13	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-002C	00:17:13;
+
+[PrintText]=00:11:18	Makoto	Perdón, pero si me corría afuera, iba a caer en todo tu uniforme, y eso hubiera sido más obvio.	00:17:19;
+
+[PlayVoice]=00:11:18	Voice03/03-SB/03-SB-D00/03-SB-D00-0070	1	mak	00:17:19;
+
+[CreateBG]=00:17:12	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-003	00:20:10;
+
+[PrintText]=00:17:19	Sekai	Ahaha, es verdad.	00:20:09;
+
+[PlayVoice]=00:17:19	Voice03/03-SB/03-SB-D00/03-SB-D00-0080	0	sek	00:20:09;
+
+[PrintText]=00:20:09	Makoto	Además... estaba muy caliente dentro tuyo... tan cómodo... no podía resistirme.	00:28:01;
+
+[PlayVoice]=00:20:09	Voice03/03-SB/03-SB-D00/03-SB-D00-0090	1	mak	00:28:01;
+
+[CreateBG]=00:20:10	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-004	00:28:01;
+
+[CreateBG]=00:28:01	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-005	00:34:13;
+
+[PrintText]=00:28:01	Sekai	Ooh, ahí vas de nuevo diciendo cosas así...	00:31:13;
+
+[PlayVoice]=00:28:01	Voice03/03-SB/03-SB-D00/03-SB-D00-0100	0	sek	00:31:13;
+
+[PrintText]=00:31:13	Makoto	Haha.	00:32:13;
+
+[PlayVoice]=00:31:13	Voice03/03-SB/03-SB-D00/03-SB-D00-0110	1	mak	00:32:13;
+
+[PrintText]=00:32:13	Sekai	Por cierto...	00:33:19;
+
+[PlayVoice]=00:32:13	Voice03/03-SB/03-SB-D00/03-SB-D00-0120	0	sek	00:33:19;
+
+[PrintText]=00:33:18	Makoto	¿Sí?^	00:34:12;
+
+[PlayVoice]=00:33:18	Voice03/03-SB/03-SB-D00/03-SB-D00-0130	1	mak	00:34:12;
+
+[PrintText]=00:34:12	Makoto	Ah...	00:35:01;
+
+[PlayVoice]=00:34:12	Voice03/03-SB/03-SB-D00/03-SB-D00-0150	1	mak	00:35:01;
+
+[CreateBG]=00:34:13	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-007	00:36:18;
+
+[PrintText]=00:35:02	Sekai	¿Hmn? ¿Quién es?^	00:36:18;
+
+[PlayVoice]=00:35:02	Voice03/03-SB/03-SB-D00/03-SB-D00-0160	0	sek	00:36:18;
+
+[CreateBG]=00:36:18	BGS	Event03/03-SB/03-SB-D00/03-SB-D00-007B	00:44:11;
+
+[PrintText]=00:36:18	Makoto	Um...	00:38:11;
+
+[PlayVoice]=00:36:18	Voice03/03-SB/03-SB-D00/03-SB-D00-0180	1	mak	00:38:11;
+
+[SetSELECT]=00:38:10	'Es de Kotonoha'	'Tengo una llamada en espera'	00:43:11;
+
+ ;
+
+[Next]=00:44:11;
+
+

@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:12:18;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G07/SE03-SA-G07-001	00:12:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G07/03-SA-G07-001	00:10:08;
+
+[PrintText]=00:00:00	Makoto	Estoy feliz de estar con una chica tan linda y maravillosa como tú.	00:05:12;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-G07/03-SA-G07-0030	1	mak	00:05:12;
+
+[PrintText]=00:05:12	Sekai	También estoy feliz de estar contigo.	00:10:07;
+
+[PlayVoice]=00:05:12	Voice03/03-SA/03-SA-G07/03-SA-G07-0040	0	sek	00:10:07;
+
+[CreateBG]=00:10:08	BGS	Event03/03-SA/03-SA-G07/03-SA-G07-002	00:12:18;
+
+[PrintText]=00:10:08	Makoto	Gracias.	00:11:07;
+
+[PlayVoice]=00:10:08	Voice03/03-SA/03-SA-G07/03-SA-G07-0050	1	mak	00:11:07;
+
+[PrintText]=00:11:07	Sekai	Eheheh...	00:12:12;
+
+[PlayVoice]=00:11:07	Voice03/03-SA/03-SA-G07/03-SA-G07-0060	0	sek	00:12:12;
+
+ ;
+
+[Next]=00:12:18;
+
+

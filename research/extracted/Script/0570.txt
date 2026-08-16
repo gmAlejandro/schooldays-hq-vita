@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:15:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:21:13;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H04/SE03-KA-H04-001	00:21:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H04/03-KA-H04-001	00:21:13;
+
+[PrintText]=00:00:00	Makoto	...	00:01:16;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H04/03-KA-H04-0040	1	xxx	00:01:16;
+
+[PrintText]=00:01:16	Setsuna	Katsura-san...	00:03:20;
+
+[PlayVoice]=00:01:16	Voice03/03-KA/03-KA-H04/03-KA-H04-0050	0	set	00:03:20;
+
+[PrintText]=00:03:20	Makoto	¡Uwah! Kiyoura, ¿Aún no has entrado?^	00:09:04;
+
+[PlayVoice]=00:03:20	Voice03/03-KA/03-KA-H04/03-KA-H04-0060	1	mak	00:09:04;
+
+[PrintText]=00:09:05	Setsuna	¿Una conocida tuya?^	00:10:06;
+
+[PlayVoice]=00:09:05	Voice03/03-KA/03-KA-H04/03-KA-H04-0070	0	set	00:10:06;
+
+[PrintText]=00:10:06	Makoto	S-Sí, creo.	00:12:23;
+
+[PlayVoice]=00:10:06	Voice03/03-KA/03-KA-H04/03-KA-H04-0080	1	mak	00:12:23;
+
+[PrintText]=00:12:23	Setsuna	Se ven muy cercanos.	00:14:13;
+
+[PlayVoice]=00:12:23	Voice03/03-KA/03-KA-H04/03-KA-H04-0090	0	set	00:14:13;
+
+[PrintText]=00:14:13	Makoto	...	00:15:18;
+
+[PlayVoice]=00:14:13	Voice03/03-KA/03-KA-H04/03-KA-H04-0100	1	mak	00:15:18;
+
+[SetSELECT]=00:15:13	'¿Y qué?'	'No realmente'	00:20:13;
+
+ ;
+
+[Next]=00:21:13;
+
+

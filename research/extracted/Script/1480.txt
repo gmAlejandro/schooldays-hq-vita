@@ -1,0 +1,90 @@
+﻿[SkipFRAME]=00:42:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:42:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou_yuugata	00:42:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-C06/05-KA-C06-001	00:01:03;
+
+[PrintText]=00:00:04	Makoto	La amo.	00:01:01;
+
+[PlayVoice]=00:00:04	Voice05/05-KA/05-KA-C06/05-KA-C06-0030	1	mak	00:01:01;
+
+[CreateBG]=00:01:03	BGS	Event05/05-KA/05-KA-C06/05-KA-C06-002	00:13:09;
+
+[PrintText]=00:01:06	Setsuna	Sí... eso tienes que decirle.	00:09:01;
+
+[PlayVoice]=00:01:06	Voice05/05-KA/05-KA-C06/05-KA-C06-0040	0	set	00:09:01;
+
+[PrintText]=00:09:03	Makoto	Ah...	00:10:01;
+
+[PlayVoice]=00:09:03	Voice05/05-KA/05-KA-C06/05-KA-C06-0050	1	mak	00:10:01;
+
+[PrintText]=00:10:03	Setsuna	¿Recuerdas nuestra promesa?^	00:13:11;
+
+[PlayVoice]=00:10:03	Voice05/05-KA/05-KA-C06/05-KA-C06-0060	0	set	00:13:11;
+
+[CreateBG]=00:13:09	BGS	Event05/05-KA/05-KA-C06/05-KA-C06-003	00:26:08;
+
+[PrintText]=00:13:11	Makoto	De cuidar a Sekai... porque está sola...	00:19:01;
+
+[PlayVoice]=00:13:11	Voice05/05-KA/05-KA-C06/05-KA-C06-0070	1	mak	00:19:01;
+
+[PrintText]=00:19:05	Setsuna	Por eso es que...	00:20:02;
+
+[PlayVoice]=00:19:05	Voice05/05-KA/05-KA-C06/05-KA-C06-0080	0	set	00:20:02;
+
+[PrintText]=00:20:09	Makoto	Necesito estar con ella... ¿Cierto?^	00:26:03;
+
+[PlayVoice]=00:20:09	Voice05/05-KA/05-KA-C06/05-KA-C06-0090	1	mak	00:26:03;
+
+[PrintText]=00:26:07	Setsuna	Sí.	00:27:01;
+
+[PlayVoice]=00:26:07	Voice05/05-KA/05-KA-C06/05-KA-C06-0100	0	set	00:27:01;
+
+[CreateBG]=00:26:08	BGS	Event05/05-KA/05-KA-C06/05-KA-C06-004	00:31:08;
+
+[PrintText]=00:27:07	Makoto	...Lo recuerdo.	00:28:08;
+
+[PlayVoice]=00:27:07	Voice05/05-KA/05-KA-C06/05-KA-C06-0110	1	mak	00:28:08;
+
+[PrintText]=00:28:14	Setsuna	Pero aún así, está llorando ahora.	00:31:09;
+
+[PlayVoice]=00:28:14	Voice05/05-KA/05-KA-C06/05-KA-C06-0120	0	set	00:31:09;
+
+[CreateBG]=00:31:08	BGS	Event05/05-KA/05-KA-C06/05-KA-C06-005	00:42:21;
+
+[PrintText]=00:31:12	Makoto	...	00:31:23;
+
+[PlayVoice]=00:31:12	Voice05/05-KA/05-KA-C06/05-KA-C06-0130	1	xxx	00:31:23;
+
+[PrintText]=00:32:09	Setsuna	Porque no estás con ella.	00:34:01;
+
+[PlayVoice]=00:32:09	Voice05/05-KA/05-KA-C06/05-KA-C06-0140	0	set	00:34:01;
+
+[PrintText]=00:34:05	Makoto	...	00:35:10;
+
+[PlayVoice]=00:34:05	Voice05/05-KA/05-KA-C06/05-KA-C06-0150	1	xxx	00:35:10;
+
+[PrintText]=00:35:20	Setsuna	Porque tu corazón no está con ella.	00:38:12;
+
+[PlayVoice]=00:35:20	Voice05/05-KA/05-KA-C06/05-KA-C06-0160	0	set	00:38:12;
+
+[PrintText]=00:38:15	Makoto	...	00:39:22;
+
+[PlayVoice]=00:38:15	Voice05/05-KA/05-KA-C06/05-KA-C06-0170	1	xxx	00:39:22;
+
+[PrintText]=00:40:06	Setsuna	Por eso está llorando.	00:41:17;
+
+[PlayVoice]=00:40:06	Voice05/05-KA/05-KA-C06/05-KA-C06-0180	0	set	00:41:17;
+
+[PrintText]=00:41:18	Makoto	...	00:42:08;
+
+[PlayVoice]=00:41:18	Voice05/05-KA/05-KA-C06/05-KA-C06-0190	1	xxx	00:42:08;
+
+ ;
+
+[Next]=00:42:21;
+
+
+

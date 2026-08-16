@@ -1,0 +1,93 @@
+﻿[SkipFRAME]=01:00:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:00:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-G04/05-KF-G04-001	00:12:12;
+
+[PrintText]=00:00:00	Makoto	Solo bromeaba.	00:01:18;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G04/05-KF-G04-0030	1	mak	00:01:18;
+
+[PlayVoice]=00:01:19	Voice05/05-KF/05-KF-G04/05-KF-G04-0040	0	kot	00:02:17;
+
+[PrintText]=00:02:16	Makoto	Fue una broma.	00:04:14;
+
+[PlayVoice]=00:02:16	Voice05/05-KF/05-KF-G04/05-KF-G04-0050	1	mak	00:04:14;
+
+[PrintText]=00:04:15	Kotonoha	Ah... ¿U-Una broma? Oh, cielos, yo creí...	00:12:12;
+
+[PlayVoice]=00:04:15	Voice05/05-KF/05-KF-G04/05-KF-G04-0060	0	kot	00:12:12;
+
+[CreateBG]=00:12:12	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-015	00:25:04;
+
+[PrintText]=00:12:12	Kotonoha	¡Ooh... Me has hecho llorar!	00:17:02;
+
+[PlayVoice]=00:12:12	Voice05/05-KF/05-KF-G04/05-KF-G04-0080	0	kot	00:17:02;
+
+[PrintText]=00:17:02	Makoto	Perdón.	00:19:21;
+
+[PlayVoice]=00:17:02	Voice05/05-KF/05-KF-G04/05-KF-G04-0090	1	mak	00:19:21;
+
+[PrintText]=00:19:22	Kotonoha	No debes hacer bromas de ese tipo.	00:23:05;
+
+[PlayVoice]=00:19:22	Voice05/05-KF/05-KF-G04/05-KF-G04-0100	0	kot	00:23:05;
+
+[PrintText]=00:23:05	Makoto	Lo sé.	00:25:03;
+
+[PlayVoice]=00:23:05	Voice05/05-KF/05-KF-G04/05-KF-G04-0110	1	mak	00:25:03;
+
+[PrintText]=00:25:03	Kotonoha	Incluso no puedo imaginarme terminando contigo.	00:30:15;
+
+[PlayVoice]=00:25:03	Voice05/05-KF/05-KF-G04/05-KF-G04-0120	0	kot	00:30:15;
+
+[CreateBG]=00:25:04	BGS	Event05/05-KF/05-KF-G04/05-KF-G04-003	00:36:20;
+
+[PrintText]=00:30:15	Makoto	Cierto.	00:32:14;
+
+[PlayVoice]=00:30:15	Voice05/05-KF/05-KF-G04/05-KF-G04-0130	1	mak	00:32:14;
+
+[PrintText]=00:32:14	Kotonoha	Si fueras a terminar conmigo, moriría.	00:36:19;
+
+[PlayVoice]=00:32:14	Voice05/05-KF/05-KF-G04/05-KF-G04-0140	0	kot	00:36:19;
+
+[PrintText]=00:36:19	Makoto	¿Huh?^	00:38:01;
+
+[PlayVoice]=00:36:19	Voice05/05-KF/05-KF-G04/05-KF-G04-0150	1	mak	00:38:01;
+
+[CreateBG]=00:36:20	BGS	Event05/05-KF/05-KF-G04/05-KF-G04-004	00:50:19;
+
+[PrintText]=00:38:01	Kotonoha	Así de grande es el amor que siento por ti.	00:43:12;
+
+[PlayVoice]=00:38:01	Voice05/05-KF/05-KF-G04/05-KF-G04-0160	0	kot	00:43:12;
+
+[PrintText]=00:43:12	Makoto	Sí... lo sé.	00:47:15;
+
+[PlayVoice]=00:43:12	Voice05/05-KF/05-KF-G04/05-KF-G04-0170	1	mak	00:47:15;
+
+[PrintText]=00:47:15	Kotonoha	¿Tú también me amas?^	00:50:18;
+
+[PlayVoice]=00:47:15	Voice05/05-KF/05-KF-G04/05-KF-G04-0180	0	kot	00:50:18;
+
+[PrintText]=00:50:18	Makoto	Sí...	00:52:07;
+
+[PlayVoice]=00:50:18	Voice05/05-KF/05-KF-G04/05-KF-G04-0190	1	mak	00:52:07;
+
+[CreateBG]=00:50:19	BGS	Event05/05-KF/05-KF-G04/05-KF-G04-005	01:00:21;
+
+[PrintText]=00:52:07	Kotonoha	Sí, por supuesto. Sé que es así.	00:57:06;
+
+[PlayVoice]=00:52:07	Voice05/05-KF/05-KF-G04/05-KF-G04-0200	0	kot	00:57:06;
+
+[PrintText]=00:57:06	Makoto	...	00:59:15;
+
+[PlayVoice]=00:57:06	Voice05/05-KF/05-KF-G04/05-KF-G04-0210	1	xxx	00:59:15;
+
+[BlackFade]=00:59:21	OUT	01:00:21;
+
+ ;
+
+[Next]=01:00:21;
+
+
+
+

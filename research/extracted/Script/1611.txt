@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:17:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:17:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-C03/05-KG-C03-001	00:05:00;
+
+[PrintText]=00:00:15	Makoto	¿Le tengo lastima...?^	00:02:06;
+
+[PlayVoice]=00:00:15	Voice05/05-KG/05-KG-C03/05-KG-C03-0030	1	xxx	00:02:06;
+
+[PrintText]=00:03:15	Makoto	Sí... después de todo, tengo a Sekai...	00:08:04;
+
+[PlayVoice]=00:03:15	Voice05/05-KG/05-KG-C03/05-KG-C03-0040	1	xxx	00:08:04;
+
+[CreateBG]=00:05:00	BGS	Event05/05-KG/05-KG-C03/05-KG-C03-002	00:13:03;
+
+[PrintText]=00:09:20	Makoto	No puedo pensar más en Kotonoha.	00:12:14;
+
+[PlayVoice]=00:09:20	Voice05/05-KG/05-KG-C03/05-KG-C03-0050	1	xxx	00:12:14;
+
+[CreateBG]=00:13:03	BGS	Event05/05-KG/05-KG-C03/05-KG-C03-003	00:17:00;
+
+[PrintText]=00:14:14	Makoto	Ella ya no es más que...	00:16:09;
+
+[PlayVoice]=00:14:14	Voice05/05-KG/05-KG-C03/05-KG-C03-0060	1	xxx	00:16:09;
+
+ ;
+
+[Next]=00:17:00;
+
+
+
+

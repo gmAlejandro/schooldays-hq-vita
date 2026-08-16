@@ -1,0 +1,79 @@
+﻿[SkipFRAME]=00:54:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:54:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-G0/05-G0-D07/05-G0-D07-001	00:02:18;
+
+[PrintText]=00:00:00	Makoto	...	00:02:17;
+
+[PlayVoice]=00:00:00	Voice05/05-G0/05-G0-D07/05-G0-D07-0030	1	xxx	00:02:17;
+
+[CreateBG]=00:02:18	BGS	Event05/05-G0/05-G0-D07/05-G0-D07-002	00:04:19;
+
+[PrintText]=00:02:18	Kotonoha	Estás enfadado conmigo ¿No?^	00:04:19;
+
+[PlayVoice]=00:02:18	Voice05/05-G0/05-G0-D07/05-G0-D07-0040	0	kot	00:04:19;
+
+[CreateBG]=00:04:19	BGS	Event05/05-G0/05-G0-D07/05-G0-D07-003	00:07:06;
+
+[PrintText]=00:04:19	Makoto	...Sí.	00:07:05;
+
+[PlayVoice]=00:04:19	Voice05/05-G0/05-G0-D07/05-G0-D07-0050	1	mak	00:07:05;
+
+[CreateBG]=00:07:06	BGS	Event05/05-G0/05-G0-D07/05-G0-D07-004	00:35:17;
+
+[PrintText]=00:07:06	Kotonoha	Lo siento... estaba pensando en ir a casa, pero tu mamá... y...	00:14:03;
+
+[PlayVoice]=00:07:06	Voice05/05-G0/05-G0-D07/05-G0-D07-0060	0	kot	00:14:03;
+
+[PrintText]=00:14:02	Makoto	Lo sé.	00:16:17;
+
+[PlayVoice]=00:14:02	Voice05/05-G0/05-G0-D07/05-G0-D07-0070	1	mak	00:16:17;
+
+[PrintText]=00:16:17	Kotonoha	Aún así, estoy feliz de que quieras verme...	00:21:08;
+
+[PlayVoice]=00:16:17	Voice05/05-G0/05-G0-D07/05-G0-D07-0090	0	kot	00:21:08;
+
+[PrintText]=00:21:08	Makoto	Sí...	00:23:04;
+
+[PlayVoice]=00:21:08	Voice05/05-G0/05-G0-D07/05-G0-D07-0100	1	mak	00:23:04;
+
+[PrintText]=00:23:05	Kotonoha	Bloqueamos mi número, así que creí que ya no iba a poder verte nunca más.	00:30:14;
+
+[PlayVoice]=00:23:05	Voice05/05-G0/05-G0-D07/05-G0-D07-0110	0	kot	00:30:14;
+
+[PrintText]=00:30:14	Makoto	E-Eso no es... lo que...	00:35:16;
+
+[PlayVoice]=00:30:14	Voice05/05-G0/05-G0-D07/05-G0-D07-0120	1	mak	00:35:16;
+
+[CreateBG]=00:35:17	BGS	Event05/05-G0/05-G0-D07/05-G0-D07-005	00:40:00;
+
+[PrintText]=00:35:17	Kotonoha	Lo sé. Has decidido hablar conmigo después de todo.	00:40:00;
+
+[PlayVoice]=00:35:17	Voice05/05-G0/05-G0-D07/05-G0-D07-0130	0	kot	00:40:00;
+
+[CreateBG]=00:40:00	BGS	Event05/05-KB/05-KB-D05/05-KB-D05-007A	00:54:17;
+
+[PrintText]=00:40:00	Makoto	Vas a casa ¿No? Te acompañaré.	00:45:01;
+
+[PlayVoice]=00:40:00	Voice05/05-G0/05-G0-D07/05-G0-D07-0140	1	mak	00:45:01;
+
+[PrintText]=00:45:02	Kotonoha	¿Eh...? ¿Estás seguro?^	00:47:16;
+
+[PlayVoice]=00:45:02	Voice05/05-G0/05-G0-D07/05-G0-D07-0150	0	kot	00:47:16;
+
+[PrintText]=00:47:16	Makoto	¿Qué opción tengo? Venga, vamos.	00:52:10;
+
+[PlayVoice]=00:47:16	Voice05/05-G0/05-G0-D07/05-G0-D07-0160	1	mak	00:52:10;
+
+[PrintText]=00:52:10	Kotonoha	Vale.	00:53:04;
+
+[PlayVoice]=00:52:10	Voice05/05-G0/05-G0-D07/05-G0-D07-0170	0	kot	00:53:04;
+
+[BlackFade]=00:53:17	OUT	00:54:17;
+
+ ;
+
+[Next]=00:54:17;
+
+

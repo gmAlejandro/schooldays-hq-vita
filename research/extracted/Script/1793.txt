@@ -1,0 +1,139 @@
+﻿[SkipFRAME]=01:16:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:16:03;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-007	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-010	00:10:00;
+
+[PrintText]=00:05:04	Makoto	Sekai...	00:06:12;
+
+[PlayVoice]=00:05:04	Voice05/05-SD/05-SD-C03/05-SD-C03-0040	1	mak	00:06:12;
+
+[PrintText]=00:06:22	Hikari	Sekai... Se ha ido otra ves ¿No?^	00:09:20;
+
+[PlayVoice]=00:06:22	Voice05/05-SD/05-SD-C03/05-SD-C03-0080	0	hik	00:09:20;
+
+[PrintText]=00:09:23	Nanami	Sí...	00:10:15;
+
+[PlayVoice]=00:09:23	Voice05/05-SD/05-SD-C03/05-SD-C03-0090	0	nan	00:10:15;
+
+[CreateBG]=00:10:00	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-006	00:11:14;
+
+[PrintText]=00:10:16	Hikari	Ah, hey, sabes, hice un buen progreso hoy.	00:16:11;
+
+[PlayVoice]=00:10:16	Voice05/05-SD/05-SD-C03/05-SD-C03-0100	0	hik	00:16:11;
+
+[CreateBG]=00:11:14	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-004	00:17:06;
+
+[PrintText]=00:16:12	Nanami	¿Con Sawanaga?^	00:17:14;
+
+[PlayVoice]=00:16:12	Voice05/05-SD/05-SD-C03/05-SD-C03-0110	0	nan	00:17:14;
+
+[CreateBG]=00:17:06	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-004B	00:21:08;
+
+[PrintText]=00:17:14	Hikari	Uh-huh! Ayer me llamó!	00:20:15;
+
+[PlayVoice]=00:17:14	Voice05/05-SD/05-SD-C03/05-SD-C03-0120	0	hik	00:20:15;
+
+[PrintText]=00:20:16	Nanami	Wow, eso es increíble... pero aún no almuerza contigo ¿No?^	00:26:00;
+
+[PlayVoice]=00:20:16	Voice05/05-SD/05-SD-C03/05-SD-C03-0130	0	nan	00:26:00;
+
+[CreateBG]=00:21:08	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-004C	00:29:14;
+
+[PrintText]=00:26:00	Hikari	Oooh... no digas eso...	00:29:13;
+
+[PlayVoice]=00:26:00	Voice05/05-SD/05-SD-C03/05-SD-C03-0140	0	hik	00:29:13;
+
+[CreateBG]=00:29:14	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-005	00:32:06;
+
+[PrintText]=00:29:14	Nanami	Ahahah.	00:31:02;
+
+[PlayVoice]=00:29:14	Voice05/05-SD/05-SD-C03/05-SD-C03-0150	0	nan	00:31:02;
+
+[PrintText]=00:31:02	Makoto	Sekai...	00:32:05;
+
+[PlayVoice]=00:31:02	Voice05/05-SD/05-SD-C03/05-SD-C03-0160	1	mak	00:32:05;
+
+[PrintText]=00:32:05	Makoto	Me pregunto si otra vez se estará tomando el día libre.	00:35:01;
+
+[PlayVoice]=00:32:05	Voice05/05-SD/05-SD-C03/05-SD-C03-0200	1	mak	00:35:01;
+
+[CreateBG]=00:32:06	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-015	00:36:05;
+
+[PrintText]=00:35:01	Setsuna	Tal vez...	00:36:04;
+
+[PlayVoice]=00:35:01	Voice05/05-SD/05-SD-C03/05-SD-C03-0210	0	set	00:36:04;
+
+[PrintText]=00:36:04	Makoto	Ya es viernes... ¿Qué estará haciendo?^	00:40:04;
+
+[PlayVoice]=00:36:04	Voice05/05-SD/05-SD-C03/05-SD-C03-0220	1	mak	00:40:04;
+
+[CreateBG]=00:36:05	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-010	00:40:04;
+
+[CreateBG]=00:40:04	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-011	00:43:08;
+
+[PrintText]=00:40:04	Setsuna	Estoy segura de que está en casa, llorando.	00:43:08;
+
+[PlayVoice]=00:40:04	Voice05/05-SD/05-SD-C03/05-SD-C03-0230	0	set	00:43:08;
+
+[CreateBG]=00:43:08	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-010	00:57:03;
+
+[PrintText]=00:43:08	Makoto	...	00:44:07;
+
+[PlayVoice]=00:43:08	Voice05/05-SD/05-SD-C03/05-SD-C03-0240	1	xxx	00:44:07;
+
+[PrintText]=00:44:07	Setsuna	Siempre a sido así. Cuando algo malo pasa, deja todo y se queda en casa llorando.	00:56:04;
+
+[PlayVoice]=00:44:07	Voice05/05-SD/05-SD-C03/05-SD-C03-0250	0	set	00:56:04;
+
+[PrintText]=00:56:05	Makoto	...	00:57:03;
+
+[PlayVoice]=00:56:05	Voice05/05-SD/05-SD-C03/05-SD-C03-0260	1	xxx	00:57:03;
+
+[CreateBG]=00:57:03	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-013	01:07:18;
+
+[PrintText]=00:57:03	Setsuna	Siempre he sido la que la apoyaba, animándola a veces.	01:03:05;
+
+[PlayVoice]=00:57:03	Voice05/05-SD/05-SD-C03/05-SD-C03-0270	0	set	01:03:05;
+
+[PrintText]=01:03:05	Makoto	Ya veo...	01:04:07;
+
+[PlayVoice]=01:03:05	Voice05/05-SD/05-SD-C03/05-SD-C03-0280	1	mak	01:04:07;
+
+[PrintText]=01:04:08	Setsuna	Pero... ya no puedo hacerlo.	01:07:18;
+
+[PlayVoice]=01:04:08	Voice05/05-SD/05-SD-C03/05-SD-C03-0290	0	set	01:07:18;
+
+[CreateBG]=01:07:18	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-014	01:14:06;
+
+[PrintText]=01:07:18	Makoto	...Aún sabiendo eso ¿Quieres seguir con esto hoy?^	01:11:23;
+
+[PlayVoice]=01:07:18	Voice05/05-SD/05-SD-C03/05-SD-C03-0300	1	mak	01:11:23;
+
+[PrintText]=01:12:00	Setsuna	Uh-huh.	01:12:15;
+
+[PlayVoice]=01:12:00	Voice05/05-SD/05-SD-C03/05-SD-C03-0310	0	set	01:12:15;
+
+[PrintText]=01:12:15	Makoto	...	01:13:11;
+
+[PlayVoice]=01:12:15	Voice05/05-SD/05-SD-C03/05-SD-C03-0320	1	xxx	01:13:11;
+
+[PrintText]=01:13:11	Setsuna	¿Tú no quieres?^	01:14:06;
+
+[PlayVoice]=01:13:11	Voice05/05-SD/05-SD-C03/05-SD-C03-0330	0	set	01:14:06;
+
+[CreateBG]=01:14:06	BGS	Event05/05-SD/05-SD-C03/05-SD-C03-009	01:16:03;
+
+[PrintText]=01:14:06	Makoto	No es que no quiera, pero...	01:15:20;
+
+[PlayVoice]=01:14:06	Voice05/05-SD/05-SD-C03/05-SD-C03-0340	1	mak	01:15:20;
+
+ ;
+
+[Next]=01:16:03;
+
+
+
+

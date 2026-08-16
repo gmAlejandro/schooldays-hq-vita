@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:02:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:08:05;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-J03/SE02-2K-J03-001	00:08:05;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J03/02-2K-J03-001	0	00:08:05;
+
+[PrintText]=00:01:05	Makoto	Ah...	00:01:22;
+
+[PlayVoice]=00:01:05	Voice02/02-2K/02-2K-J03/02-2K-J03-0140	1	mak	00:01:22;
+
+[SetSELECT]=00:02:05	*Mover mi mano*	*Dejarlo por un momento*	00:07:05;
+
+[PlayVoice]=00:02:06	Voice02/02-2K/02-2K-J03/02-2K-J03-0150			00:05:21;
+
+ ;
+
+[Next]=00:08:05;
+
+
+
+

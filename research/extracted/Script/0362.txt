@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:04:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:04:00;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-Q02/SE02-2S-Q02-001	00:04:00;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-Q02/02-2S-Q02-001	00:04:00;
+
+[PrintText]=00:00:12	Makoto	...Buen día...	00:02:12;
+
+[PlayVoice]=00:00:12	Voice02/02-2S/02-2S-Q02/02-2S-Q02-0040	1	mak	00:02:12;
+
+[BlackFade]=00:03:00	OUT	00:04:00;
+
+ ;
+
+[Next]=00:04:00;
+
+
+
+

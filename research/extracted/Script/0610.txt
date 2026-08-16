@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:14:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:14:01;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-O00/SE03-KA-O00-001	00:01:03;
+
+[PlayMovie]=00:00:00	Movie03/03-KA/03-KA-O00/03-KA-O00-001	0	00:03:00;
+
+[PlaySe]=00:01:03	2	Se03/03-KA/03-KA-O00/SE03-KA-O00-001	00:02:06;
+
+[PlaySe]=00:02:06	1	Se03/03-KA/03-KA-O00/SE03-KA-O00-001	00:03:00;
+
+[PlaySe]=00:03:00	3	Se03/03-KA/03-KA-O00/SE03-KA-O00-002	00:11:01;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-O00/03-KA-O00-002	00:11:01;
+
+[PrintText]=00:03:02	Kotonoha	...	00:05:14;
+
+[PlayVoice]=00:03:02	Voice03/03-KA/03-KA-O00/03-KA-O00-0040	0	xxx	00:05:14;
+
+[PrintText]=00:05:06	Makoto	Está lleno.	00:06:12;
+
+[PlayVoice]=00:05:06	Voice03/03-KA/03-KA-O00/03-KA-O00-0050	1	mak	00:06:12;
+
+[PrintText]=00:06:20	Kotonoha	Parece que es la hora punta.	00:09:16;
+
+[PlayVoice]=00:06:20	Voice03/03-KA/03-KA-O00/03-KA-O00-0060	0	kot	00:09:16;
+
+[PrintText]=00:09:22	Makoto	Uh-huh...	00:10:15;
+
+[PlayVoice]=00:09:22	Voice03/03-KA/03-KA-O00/03-KA-O00-0070	1	mak	00:10:15;
+
+[PlaySe]=00:11:01	1	Se03/03-KA/03-KA-O00/SE03-KA-O00-001	00:12:04;
+
+[PlayMovie]=00:11:01	Movie03/03-KA/03-KA-O00/03-KA-O00-001	0	00:14:01;
+
+[PlaySe]=00:12:05	2	Se03/03-KA/03-KA-O00/SE03-KA-O00-001	00:13:08;
+
+[PlaySe]=00:13:09	1	Se03/03-KA/03-KA-O00/SE03-KA-O00-001	00:14:01;
+
+ ;
+
+[Next]=00:14:01;
+
+

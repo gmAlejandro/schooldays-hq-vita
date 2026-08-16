@@ -1,0 +1,197 @@
+﻿[SkipFRAME]=02:03:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	02:03:07;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/station	00:50:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-001	00:06:13;
+
+[PrintText]=00:00:00	Makoto	También te amo Sekai.	00:05:11;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-A00/05-KF-A00-0040	1	mak	00:05:11;
+
+[PrintText]=00:05:11	Sekai	¿En serio?^	00:06:17;
+
+[PlayVoice]=00:05:11	Voice05/05-KF/05-KF-A00/05-KF-A00-0050	0	sek	00:06:17;
+
+[CreateBG]=00:06:13	BGS	Event05/05-KF/05-KF-B00/05-KF-B00-003	00:18:16;
+
+[PrintText]=00:06:17	Makoto	Sí... tú eres la única a la que quiero.	00:12:06;
+
+[PlayVoice]=00:06:17	Voice05/05-KF/05-KF-A00/05-KF-A00-0060	1	mak	00:12:06;
+
+[PrintText]=00:12:06	Sekai	También siento lo mismo...	00:13:14;
+
+[PlayVoice]=00:12:06	Voice05/05-KF/05-KF-A00/05-KF-A00-0070	0	sek	00:13:14;
+
+[PrintText]=00:13:14	Makoto	Sekai...	00:16:06;
+
+[PlayVoice]=00:13:14	Voice05/05-KF/05-KF-A00/05-KF-A00-0080	1	mak	00:16:06;
+
+[PrintText]=00:16:06	Sekai	¿Pero... esto está bien?^	00:18:16;
+
+[PlayVoice]=00:16:06	Voice05/05-KF/05-KF-A00/05-KF-A00-0090	0	sek	00:18:16;
+
+[PrintText]=00:18:15	Makoto	¿Huh?^	00:20:17;
+
+[PlayVoice]=00:18:15	Voice05/05-KF/05-KF-A00/05-KF-A00-0100	1	mak	00:20:17;
+
+[CreateBG]=00:18:16	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-003	00:27:22;
+
+[PrintText]=00:20:17	Sekai	Katsura-san está...	00:22:04;
+
+[PlayVoice]=00:20:17	Voice05/05-KF/05-KF-A00/05-KF-A00-0110	0	sek	00:22:04;
+
+[PrintText]=00:22:04	Makoto	Bueno, Taisuke y tú están...	00:27:22;
+
+[PlayVoice]=00:22:04	Voice05/05-KF/05-KF-A00/05-KF-A00-0120	1	mak	00:27:22;
+
+[CreateBG]=00:27:22	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-004	00:35:01;
+
+[PrintText]=00:27:22	Sekai	Yo... le diré mañana.	00:30:17;
+
+[PlayVoice]=00:27:22	Voice05/05-KF/05-KF-A00/05-KF-A00-0130	0	sek	00:30:17;
+
+[PrintText]=00:30:16	Makoto	¿Taisuke?^	00:32:18;
+
+[PlayVoice]=00:30:16	Voice05/05-KF/05-KF-A00/05-KF-A00-0140	1	mak	00:32:18;
+
+[PrintText]=00:32:18	Sekai	Sí. Vamos a terminar.	00:35:00;
+
+[PlayVoice]=00:32:18	Voice05/05-KF/05-KF-A00/05-KF-A00-0150	0	sek	00:35:00;
+
+[CreateBG]=00:35:01	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-005	00:45:23;
+
+[PrintText]=00:35:01	Makoto	Ya veo...	00:37:15;
+
+[PlayVoice]=00:35:01	Voice05/05-KF/05-KF-A00/05-KF-A00-0160	1	mak	00:37:15;
+
+[PrintText]=00:37:15	Sekai	¿Qué hay de ti?^	00:38:18;
+
+[PlayVoice]=00:37:15	Voice05/05-KF/05-KF-A00/05-KF-A00-0170	0	sek	00:38:18;
+
+[PrintText]=00:38:18	Makoto	Yo también... voy a terminar con esa relación.	00:43:12;
+
+[PlayVoice]=00:38:18	Voice05/05-KF/05-KF-A00/05-KF-A00-0180	1	mak	00:43:12;
+
+[PrintText]=00:43:13	Sekai	¿En serio?^	00:44:12;
+
+[PlayVoice]=00:43:13	Voice05/05-KF/05-KF-A00/05-KF-A00-0190	0	sek	00:44:12;
+
+[PrintText]=00:44:12	Makoto	...Sí.	00:46:05;
+
+[PlayVoice]=00:44:12	Voice05/05-KF/05-KF-A00/05-KF-A00-0200	1	mak	00:46:05;
+
+[CreateBG]=00:45:23	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-006	00:56:10;
+
+[PrintText]=00:46:05	Sekai	No tienes que forzarte a hacerlo. Yo... estaré bien siendo la persona con quien practicas... como antes.	00:52:14;
+
+[PlayVoice]=00:46:05	Voice05/05-KF/05-KF-A00/05-KF-A00-0210	0	sek	00:52:14;
+
+[PlaySe]=00:49:08	2	SysSe/SE_all/station_train/station	01:06:04;
+
+[PrintText]=00:52:14	Makoto	No digas eso.	00:55:16;
+
+[PlayVoice]=00:52:14	Voice05/05-KF/05-KF-A00/05-KF-A00-0220	1	mak	00:55:16;
+
+[PrintText]=00:55:16	Sekai	Pero...	00:56:14;
+
+[PlayVoice]=00:55:16	Voice05/05-KF/05-KF-A00/05-KF-A00-0230	0	sek	00:56:14;
+
+[CreateBG]=00:56:10	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-005	01:06:04;
+
+[PrintText]=00:56:14	Makoto	Terminaré con ella apropiadamente.	01:00:15;
+
+[PlayVoice]=00:56:14	Voice05/05-KF/05-KF-A00/05-KF-A00-0240	1	mak	01:00:15;
+
+[PrintText]=01:00:15	Sekai	Vale.	01:01:18;
+
+[PlayVoice]=01:00:15	Voice05/05-KF/05-KF-A00/05-KF-A00-0250	0	sek	01:01:18;
+
+[PrintText]=01:01:18	Makoto	Porque tú eres la única a la que amo...	01:06:03;
+
+[PlayVoice]=01:01:18	Voice05/05-KF/05-KF-A00/05-KF-A00-0260	1	mak	01:06:03;
+
+[PrintText]=01:06:03	Sekai	Haah... haah...	01:10:16;
+
+[PlayVoice]=01:06:03	Voice05/05-KF/05-KF-A00/05-KF-A00-0290	0	sek	01:10:16;
+
+[PlaySe]=01:06:04	1	SysSe/SE_all/h/h_01	01:15:22;
+
+[CreateBG]=01:06:04	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-008	01:12:04;
+
+[PrintText]=01:10:16	Sekai	Haah... haah...	01:15:06;
+
+[PlayVoice]=01:10:16	Voice05/05-KF/05-KF-A00/05-KF-A00-0310	0	sek	01:15:06;
+
+[CreateBG]=01:12:04	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-010	01:16:22;
+
+[PlaySe]=01:12:09	2	SysSe/SE_all/h/h_02	01:20:06;
+
+[PrintText]=01:15:06	Sekai	¡Haah...! ¡Nn...! ¡Ahh...! Haah...!	01:21:08;
+
+[PlayVoice]=01:15:06	Voice05/05-KF/05-KF-A00/05-KF-A00-0330	0	sek	01:21:08;
+
+[PlayMovie]=01:16:22	Movie05/05-KF/05-KF-A00/05-KF-A00-011	0	01:27:22;
+
+[PlaySe]=01:17:18	1	SysSe/SE_all/h/h_03	01:45:15;
+
+[PrintText]=01:21:09	Sekai	¡Haah... haah...! Haah...	01:24:10;
+
+[PlayVoice]=01:21:09	Voice05/05-KF/05-KF-A00/05-KF-A00-0350	0	sek	01:24:10;
+
+[PrintText]=01:24:10	Sekai	Haah... haah...	01:28:02;
+
+[PlayVoice]=01:24:10	Voice05/05-KF/05-KF-A00/05-KF-A00-0370	0	sek	01:28:02;
+
+[PlayMovie]=01:27:22	Movie05/05-KF/05-KF-A00/H5-KF-A00-012	0	01:42:21;
+
+[PrintText]=01:28:02	Sekai	¡Makoto... nn... En mi mano...!	01:32:23;
+
+[PlayVoice]=01:28:02	Voice05/05-KF/05-KF-A00/05-KF-A00-0380	0	sek	01:32:23;
+
+[PlaySe]=01:28:06	2	SysSe/SE_all/h/h_04	01:45:02;
+
+[PrintText]=01:32:23	Sekai	¡Haah... haah...!	01:35:17;
+
+[PlayVoice]=01:32:23	Voice05/05-KF/05-KF-A00/05-KF-A00-0390	0	sek	01:35:17;
+
+[PrintText]=01:35:17	Sekai	¡Haah... haah...	01:39:19;
+
+[PlayVoice]=01:35:17	Voice05/05-KF/05-KF-A00/05-KF-A00-0410	0	sek	01:39:19;
+
+[PrintText]=01:39:19	Sekai	¡Ah... fwah... ah...! ¡Makoto...!	01:45:14;
+
+[PlayVoice]=01:39:19	Voice05/05-KF/05-KF-A00/05-KF-A00-0420	0	sek	01:45:14;
+
+[CreateBG]=01:42:21	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-013	01:49:09;
+
+[PrintText]=01:45:15	Sekai	Haah...	01:49:13;
+
+[PlayVoice]=01:45:15	Voice05/05-KF/05-KF-A00/05-KF-A00-0440	0	sek	01:49:13;
+
+[CreateBG]=01:49:09	BGS	Event05/05-KF/05-KF-A00/05-KF-A00-014	01:55:23;
+
+[PrintText]=01:49:13	Sekai	Makoto...	01:51:18;
+
+[PlayVoice]=01:49:13	Voice05/05-KF/05-KF-A00/05-KF-A00-0460	0	sek	01:51:18;
+
+[PrintText]=01:51:18	Sekai	Te he... ensuciado de nuevo...	01:55:20;
+
+[PlayVoice]=01:51:18	Voice05/05-KF/05-KF-A00/05-KF-A00-0480	0	sek	01:55:20;
+
+[PlayMovie]=01:55:23	Movie05/05-KF/05-KF-A00/05-KF-A00-015	0	02:03:07;
+
+[PlayVoice]=01:57:14	Voice05/05-KF/05-KF-A00/05-KF-A00-0490			01:58:16;
+
+[PrintText]=02:00:01	Sekai	Mmn... Te amo...	02:03:07;
+
+[PlayVoice]=02:00:01	Voice05/05-KF/05-KF-A00/05-KF-A00-0500	0	sek	02:03:07;
+
+ ;
+
+[Next]=02:03:07;
+
+
+
+

@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:05:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:05:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G02/04-SB-G02-001	00:05:00;
+
+[PrintText]=00:00:00	Makoto	Creo que debo rendirme...	00:02:13;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-G02/04-SB-G02-0030	1	mak	00:02:13;
+
+[PrintText]=00:02:13	Makoto	Haah...	00:03:12;
+
+[PlayVoice]=00:02:13	Voice04/04-SB/04-SB-G02/04-SB-G02-0040	1	mak	00:03:12;
+
+ ;
+
+[Next]=00:05:00;
+
+

@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:10:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:10:17;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C05/SE02-2S-C05-001	00:10:17;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C05/02-2S-C05-001	00:02:00;
+
+[PrintText]=00:00:00	Makoto	Vamos juntos a decírselo.	00:01:23;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-C05/02-2S-C05-0030	1	mak	00:01:23;
+
+[CreateBG]=00:02:00	BGS	Event02/02-2S/02-2S-C05/02-2S-C05-002	00:10:17;
+
+[PrintText]=00:02:00	Sekai	Sí.	00:03:01;
+
+[PlayVoice]=00:02:00	Voice02/02-2S/02-2S-C05/02-2S-C05-0040	0	sek	00:03:01;
+
+[PrintText]=00:03:01	Makoto	Después de todo, es por nosotros.	00:06:06;
+
+[PlayVoice]=00:03:01	Voice02/02-2S/02-2S-C05/02-2S-C05-0050	1	mak	00:06:06;
+
+[PrintText]=00:06:06	Sekai	Sí, es mejor si ambos se lo decimos.	00:09:23;
+
+[PlayVoice]=00:06:06	Voice02/02-2S/02-2S-C05/02-2S-C05-0060	0	sek	00:09:23;
+
+ ;
+
+[Next]=00:10:17;
+
+
+
+

@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:15:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:15:04;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O05/04-SA-O05-001	00:01:11;
+
+[PrintText]=00:00:00	Makoto	Estamos distanciados.	00:01:10;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O05/04-SA-O05-0030	1	mak	00:01:10;
+
+[PrintText]=00:01:10	Sekai	...	00:02:12;
+
+[PlayVoice]=00:01:10	Voice04/04-SA/04-SA-O05/04-SA-O05-0040	0	xxx	00:02:12;
+
+[CreateBG]=00:01:11	BGS	Event04/04-SA/04-SA-O05/04-SA-O05-002	00:07:09;
+
+[PrintText]=00:02:12	Makoto	Las cosas han ido extrañas entre nosotros.	00:06:03;
+
+[PlayVoice]=00:02:12	Voice04/04-SA/04-SA-O05/04-SA-O05-0050	1	mak	00:06:03;
+
+[PrintText]=00:06:03	Sekai	¿En serio?^	00:07:09;
+
+[PlayVoice]=00:06:03	Voice04/04-SA/04-SA-O05/04-SA-O05-0060	0	sek	00:07:09;
+
+[CreateBG]=00:07:09	BGS	Event04/04-SA/04-SA-O05/04-SA-O05-003	00:10:07;
+
+[PrintText]=00:07:09	Makoto	Así que vamos.	00:10:07;
+
+[PlayVoice]=00:07:09	Voice04/04-SA/04-SA-O05/04-SA-O05-0070	1	mak	00:10:07;
+
+[CreateBG]=00:10:07	BGS	Event04/04-SA/04-SA-O05/04-SA-O05-003B	00:11:07;
+
+[PrintText]=00:10:10	Sekai	...	00:10:20;
+
+[PlayVoice]=00:10:10	Voice04/04-SA/04-SA-O05/04-SA-O05-0080	0	xxx	00:10:20;
+
+[CreateBG]=00:11:07	BGS	Event04/04-SA/04-SA-O05/04-SA-O05-003	00:15:04;
+
+[PrintText]=00:11:09	Makoto	Me sentiré mas calmado si estás conmigo.	00:15:04;
+
+[PlayVoice]=00:11:09	Voice04/04-SA/04-SA-O05/04-SA-O05-0090	1	mak	00:15:04;
+
+ ;
+
+[Next]=00:15:04;
+
+

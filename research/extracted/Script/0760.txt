@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:05:04;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-F05/SE03-SA-F05-001	00:05:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F05/03-SA-F05-001	00:01:03;
+
+[PrintText]=00:00:05	Makoto	Espera...	00:01:02;
+
+[PlayVoice]=00:00:05	Voice03/03-SA/03-SA-F05/03-SA-F05-0030	1	mak	00:01:02;
+
+[PlayMovie]=00:01:03	Movie03/03-SA/03-SA-F05/03-SA-F05-002	0	00:05:04;
+
+[PrintText]=00:01:03	Kotonoha	Ah...	00:02:02;
+
+[PlayVoice]=00:01:03	Voice03/03-SA/03-SA-F05/03-SA-F05-0050	0	kot	00:02:02;
+
+[PrintText]=00:02:03	Otome	Itou...	00:03:05;
+
+[PlayVoice]=00:02:03	Voice03/03-SA/03-SA-F05/03-SA-F05-0060	0	oto	00:03:05;
+
+[PrintText]=00:03:06	Kotonoha	Makoto... kun.	00:05:03;
+
+[PlayVoice]=00:03:06	Voice03/03-SA/03-SA-F05/03-SA-F05-0070	0	kot	00:05:03;
+
+ ;
+
+[Next]=00:05:04;
+
+

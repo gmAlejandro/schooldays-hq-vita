@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:19:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:19:18;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-J01/SE03-KA-J01-001	00:19:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-J01/03-KA-J01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-J01/03-KA-J01-002	00:05:14;
+
+[PrintText]=00:03:07	Makoto	Aún así...	00:05:09;
+
+[PlayVoice]=00:03:07	Voice03/03-KA/03-KA-J01/03-KA-J01-0030	1	mak	00:05:09;
+
+[CreateBG]=00:05:14	BGS	Event03/03-KA/03-KA-J01/03-KA-J01-003	00:09:01;
+
+[PrintText]=00:05:22	Makoto	No es como si pudiera ir a ver a Sekai.	00:08:17;
+
+[PlayVoice]=00:05:22	Voice03/03-KA/03-KA-J01/03-KA-J01-0040	1	mak	00:08:17;
+
+[CreateBG]=00:09:01	BGS	Event03/03-KA/03-KA-J01/03-KA-J01-004	00:13:15;
+
+[PrintText]=00:09:09	Makoto	Kotonoha probablemente termine de comer y vuelva a clases también...	00:13:05;
+
+[PlayVoice]=00:09:09	Voice03/03-KA/03-KA-J01/03-KA-J01-0050	1	mak	00:13:05;
+
+[CreateBG]=00:13:15	BGS	Event03/03-KA/03-KA-J01/03-KA-J01-005	00:15:14;
+
+[PrintText]=00:13:19	Makoto	Haah... creo que me encargaré de comer algo por mi cuenta en la cafetería.	00:18:13;
+
+[PlayVoice]=00:13:19	Voice03/03-KA/03-KA-J01/03-KA-J01-0060	1	mak	00:18:13;
+
+[CreateBG]=00:15:14	BGS	Event03/03-KA/03-KA-J01/03-KA-J01-002	00:19:18;
+
+[BlackFade]=00:18:18	OUT	00:19:18;
+
+ ;
+
+[Next]=00:19:19;
+
+

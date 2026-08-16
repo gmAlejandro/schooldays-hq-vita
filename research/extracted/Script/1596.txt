@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:18:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:18:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/beach1	00:18:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-H03/05-KF-H03-002	00:07:16;
+
+[PrintText]=00:00:00	Makoto	Pero... ella dijo que no quería terminar. Le dije que iba a ser así de todos modos, pero...	00:07:16;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-H04/05-KF-H04-0030	1	mak	00:07:16;
+
+[CreateBG]=00:07:16	BGS	Event05/05-KF/05-KF-H04/05-KF-H04-002	00:18:00;
+
+[PrintText]=00:07:16	Sekai	Eso me esperaba de ella...	00:10:04;
+
+[PlayVoice]=00:07:16	Voice05/05-KF/05-KF-H04/05-KF-H04-0040	0	sek	00:10:04;
+
+[PrintText]=00:10:04	Makoto	Aún así, no creo que lo acepte.	00:15:17;
+
+[PlayVoice]=00:10:04	Voice05/05-KF/05-KF-H04/05-KF-H04-0050	1	mak	00:15:17;
+
+[PrintText]=00:15:17	Sekai	Ya veo...	00:16:20;
+
+[PlayVoice]=00:15:17	Voice05/05-KF/05-KF-H04/05-KF-H04-0060	0	sek	00:16:20;
+
+ ;
+
+[Next]=00:18:00;
+
+
+
+

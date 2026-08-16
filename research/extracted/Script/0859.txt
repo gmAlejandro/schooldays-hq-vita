@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:18:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:18:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-I06/SE03-SB-I06-001	00:18:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-I06/03-SB-I06-001	00:18:00;
+
+[PrintText]=00:00:00	Nanami	¿Bien?^	00:00:19;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-I06/03-SB-I06-0040	0	nan	00:00:19;
+
+[PrintText]=00:00:19	Setsuna	...Esto es terrible.	00:02:03;
+
+[PlayVoice]=00:00:19	Voice03/03-SB/03-SB-I06/03-SB-I06-0050	0	set	00:02:03;
+
+[PrintText]=00:02:04	Nanami	¿Ehh?^	00:03:06;
+
+[PlayVoice]=00:02:04	Voice03/03-SB/03-SB-I06/03-SB-I06-0060	0	nan	00:03:06;
+
+[PrintText]=00:03:07	Setsuna	Hubiera sido mejor si lo hubieras traido aquí, a que alejarlo del trabajo.	00:08:01;
+
+[PlayVoice]=00:03:07	Voice03/03-SB/03-SB-I06/03-SB-I06-0070	0	set	00:08:01;
+
+[PrintText]=00:08:01	Nanami	No se podía evitar.	00:09:14;
+
+[PlayVoice]=00:08:01	Voice03/03-SB/03-SB-I06/03-SB-I06-0080	0	nan	00:09:14;
+
+[PrintText]=00:09:14	Nanami	Itou estaba siendo arrastrado por nuestra petición. No estamos en posición de pedirle algo más.	00:16:22;
+
+[PlayVoice]=00:09:14	Voice03/03-SB/03-SB-I06/03-SB-I06-0081	0	nan	00:16:22;
+
+[PrintText]=00:16:22	Setsuna	...	00:17:18;
+
+[PlayVoice]=00:16:22	Voice03/03-SB/03-SB-I06/03-SB-I06-0090	0	xxx	00:17:18;
+
+ ;
+
+[Next]=00:18:00;
+
+

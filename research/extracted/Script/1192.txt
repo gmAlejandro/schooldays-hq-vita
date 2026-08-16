@@ -1,0 +1,93 @@
+﻿[SkipFRAME]=00:32:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	00:32:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-001	00:03:09;
+
+[PrintText]=00:00:00	Makoto	...	00:02:01;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-C05/04-SB-C05-0030	1	xxx	00:02:01;
+
+[PrintText]=00:02:00	Taisuke	¡Vamos, vamos!	00:03:08;
+
+[PlayVoice]=00:02:00	Voice04/04-SB/04-SB-C05/04-SB-C05-0040	1	tai	00:03:08;
+
+[CreateBG]=00:03:09	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-002	00:04:12;
+
+[CreateBG]=00:04:12	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-003	00:06:13;
+
+[PrintText]=00:04:12	Makoto	...	00:05:10;
+
+[PlayVoice]=00:04:12	Voice04/04-SB/04-SB-C05/04-SB-C05-0060	1	xxx	00:05:10;
+
+[PrintText]=00:05:10	Kotonoha	...Vale.	00:06:13;
+
+[PlayVoice]=00:05:10	Voice04/04-SB/04-SB-C05/04-SB-C05-0070	0	kot	00:06:13;
+
+[CreateBG]=00:06:13	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-004	00:10:03;
+
+[PrintText]=00:06:13	Makoto	¿Eh?^	00:07:08;
+
+[PlayVoice]=00:06:13	Voice04/04-SB/04-SB-C05/04-SB-C05-0080	1	mak	00:07:08;
+
+[PrintText]=00:07:08	Kotonoha	Te... besaré.	00:10:02;
+
+[PlayVoice]=00:07:08	Voice04/04-SB/04-SB-C05/04-SB-C05-0090	0	kot	00:10:02;
+
+[CreateBG]=00:10:03	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-005	00:12:08;
+
+[PrintText]=00:10:03	Taisuke	¡Genial!	00:11:00;
+
+[PlayVoice]=00:10:03	Voice04/04-SB/04-SB-C05/04-SB-C05-0100	1	tai	00:11:00;
+
+[PrintText]=00:11:00	Kotonoha	...	00:12:08;
+
+[PlayVoice]=00:11:00	Voice04/04-SB/04-SB-C05/04-SB-C05-0110	0	xxx	00:12:08;
+
+[CreateBG]=00:12:08	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-006	00:12:21;
+
+[PrintText]=00:12:08	Kotonoha	...	00:12:21;
+
+[PlayVoice]=00:12:08	Voice04/04-SB/04-SB-C05/04-SB-C05-0130	0	xxx	00:12:21;
+
+[CreateBG]=00:12:21	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-007	00:13:09;
+
+[PrintText]=00:12:21	Kotonoha	Nn...	00:13:08;
+
+[PlayVoice]=00:12:21	Voice04/04-SB/04-SB-C05/04-SB-C05-0150	0	kot	00:13:08;
+
+[CreateBG]=00:13:09	BGS	Event04/04-SB/04-SB-C01/04-SB-C01-006	00:17:13;
+
+[PrintText]=00:14:08	Taisuke	¡Woo! ¡Pues bien!	00:17:13;
+
+[PlayVoice]=00:14:08	Voice04/04-SB/04-SB-C05/04-SB-C05-0170	1	tai	00:17:13;
+
+[PlaySe]=00:17:13	2	SysSe/SE_all/station_train/train_stpo	00:22:08;
+
+[CreateBG]=00:17:13	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-009	00:22:08;
+
+[PrintText]=00:17:13	Taisuke	¡Gracias Katsura-san! ¡Nos vemos mañana!	00:21:11;
+
+[PlayVoice]=00:17:13	Voice04/04-SB/04-SB-C05/04-SB-C05-0190	1	tai	00:21:11;
+
+[PrintText]=00:21:12	Kotonoha	Sí...	00:22:08;
+
+[PlayVoice]=00:21:12	Voice04/04-SB/04-SB-C05/04-SB-C05-0200	0	kot	00:22:08;
+
+[PlaySe]=00:22:08	1	SysSe/SE_all/station_train/train_start	00:32:02;
+
+[PlayMovie]=00:22:08	Movie00/00-00/00-00-L00/00-00-L00-024	0	00:29:00;
+
+[CreateBG]=00:29:00	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-010A	00:30:18;
+
+[CreateBG]=00:30:18	BGS	Event04/04-SB/04-SB-C05/04-SB-C05-011	00:32:02;
+
+[PrintText]=00:30:20	Makoto	...	00:31:22;
+
+[PlayVoice]=00:30:20	Voice04/04-SB/04-SB-C05/04-SB-C05-0220	1	xxx	00:31:22;
+
+ ;
+
+[Next]=00:32:02;
+
+

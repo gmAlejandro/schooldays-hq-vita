@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:08:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:08:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-F00/03-KA-F00-005	00:06:00;
+
+[PrintText]=00:00:00	Makoto	...	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-F03/03-KA-F03-0030	1	xxx	00:01:08;
+
+[PrintText]=00:01:23	Makoto	Aw, olvídalo. Creo que no hay necesidad de enviarle algo hoy.	00:05:17;
+
+[PlayVoice]=00:01:23	Voice03/03-KA/03-KA-F03/03-KA-F03-0040	1	mak	00:05:17;
+
+[CreateBG]=00:06:00	BGS	Event03/03-KA/03-KA-F03/03-KA-F03-002	00:08:21;
+
+[PrintText]=00:06:09	Makoto	Me voy a dormir.	00:07:09;
+
+[PlayVoice]=00:06:09	Voice03/03-KA/03-KA-F03/03-KA-F03-0050	1	mak	00:07:09;
+
+[BlackFade]=00:07:21	OUT	00:08:21;
+
+ ;
+
+[Next]=00:08:21;
+
+

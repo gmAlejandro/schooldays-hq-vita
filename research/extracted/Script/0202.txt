@@ -1,0 +1,78 @@
+﻿[SkipFRAME]=00:34:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:34:06;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-E01/SE02-2K-E01-001	00:34:06;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E01/02-2K-E01-001	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2K/02-2K-E01/02-2K-E01-002	00:12:19;
+
+[PrintText]=00:10:07	Makoto	Y ahora...	00:11:03;
+
+[PlayVoice]=00:10:07	Voice02/02-2K/02-2K-E01/02-2K-E01-0040	1	mak	00:11:03;
+
+[CreateBG]=00:12:19	BGS	Event02/02-2K/02-2K-E01/02-2K-E01-003	00:15:01;
+
+[PrintText]=00:12:19	Sekai	...	00:13:12;
+
+[PlayVoice]=00:12:19	Voice02/02-2K/02-2K-E01/02-2K-E01-0070	0	xxx	00:13:12;
+
+[PrintText]=00:14:03	Setsuna	Sekai.	00:15:02;
+
+[PlayVoice]=00:14:03	Voice02/02-2K/02-2K-E01/02-2K-E01-0080	0	set	00:15:02;
+
+[CreateBG]=00:15:01	BGS	Event02/02-2K/02-2K-E01/02-2K-E01-004	00:19:08;
+
+[PrintText]=00:15:01	Sekai	¿Hmm?^	00:15:16;
+
+[PlayVoice]=00:15:01	Voice02/02-2K/02-2K-E01/02-2K-E01-0090	0	sek	00:15:16;
+
+[PrintText]=00:15:20	Setsuna	¿Quieres que almorcemos juntos?^	00:18:07;
+
+[PlayVoice]=00:15:20	Voice02/02-2K/02-2K-E01/02-2K-E01-0100	0	set	00:18:07;
+
+[PrintText]=00:18:15	Sekai	No, yo...	00:20:09;
+
+[PlayVoice]=00:18:15	Voice02/02-2K/02-2K-E01/02-2K-E01-0110	0	sek	00:20:09;
+
+[CreateBG]=00:19:07	BGS	Event02/02-2K/02-2K-E01/02-2K-E01-005	00:21:09;
+
+[CreateBG]=00:21:09	BGS	Event02/02-2K/02-2K-E01/02-2K-E01-006	00:25:18;
+
+[PrintText]=00:21:15	Sekai	Sí, claro...¿Dónde?^	00:24:07;
+
+[PlayVoice]=00:21:15	Voice02/02-2K/02-2K-E01/02-2K-E01-0140	0	sek	00:24:07;
+
+[PrintText]=00:24:10	Setsuna	Bueno, Nanami está...	00:26:00;
+
+[PlayVoice]=00:24:10	Voice02/02-2K/02-2K-E01/02-2K-E01-0150	0	set	00:26:00;
+
+[PrintText]=00:25:12	Nanami	¡Sekai! ¿No es un bonito día? ¡Vamos a comer afuera!	00:29:17;
+
+[PlayVoice]=00:25:12	Voice02/02-2K/02-2K-E01/02-2K-E01-0160	0	nan	00:29:17;
+
+[CreateBG]=00:25:18	BGS	Event02/02-2K/02-2K-E01/02-2K-E01-007	00:31:13;
+
+[PrintText]=00:29:10	Sekai	Haha, está bien.	00:31:15;
+
+[PlayVoice]=00:29:10	Voice02/02-2K/02-2K-E01/02-2K-E01-0170	0	sek	00:31:15;
+
+[CreateBG]=00:31:13	BGS	Event02/02-2K/02-2K-E01/02-2K-E01-004	00:34:06;
+
+[PrintText]=00:31:13	Hikari	¡Venga, Vamos!	00:33:06;
+
+[PlayVoice]=00:31:13	Voice02/02-2K/02-2K-E01/02-2K-E01-0180	0	hik	00:33:06;
+
+[BlackFade]=00:33:06	OUT	00:34:06;
+
+ ;
+
+[Next]=00:34:06;
+
+
+
+
+

@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:18:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:18:12;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H08/SE01-00-H08-001	00:18:12;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H08/01-00-H08-001	00:05:07;
+
+[PrintText]=00:00:06	Sekai	¿Qué te pasa? ¿Por qué estás de pronto callado, Makoto?^	00:03:15;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-H08/01-00-H08-0030	0	sek	00:03:15;
+
+[PrintText]=00:03:13	Makoto	O-oh.	00:05:05;
+
+[PlayVoice]=00:03:13	Voice01/01-00/01-00-H08/01-00-H08-0040	1	mak	00:05:05;
+
+[CreateBG]=00:05:07	BGS	Event01/01-00/01-00-H08/01-00-H08-002	00:14:23;
+
+[PrintText]=00:05:11	Sekai	No es algo fuera de lo común que eventos como el festival hagan algunos inconvenientes en una pareja.	00:11:18;
+
+[PrintText]=00:11:18	Sekai	No hay razón para sentirse mal.	00:14:20;
+
+[PlayVoice]=00:05:11	Voice01/01-00/01-00-H08/01-00-H08-0050	0	sek	00:14:20;
+
+[CreateBG]=00:14:23	BGS	Event01/01-00/01-00-H08/01-00-H08-003	00:18:12;
+
+[PrintText]=00:15:13	Kotonoha	Sí, tienes razón.	00:17:18;
+
+[PlayVoice]=00:15:13	Voice01/01-00/01-00-H08/01-00-H08-0060	0	kot	00:17:18;
+
+[PrintText]=00:17:15	Sekai	Sí.	00:18:09;
+
+[PlayVoice]=00:17:15	Voice01/01-00/01-00-H08/01-00-H08-0070	0	sek	00:18:09;
+
+ ;
+
+[Next]=00:18:12;
+
+
+
+

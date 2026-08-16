@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:08:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:08:14;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-A08/SE03-KB-A08-001	00:08:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-A08/03-KB-A08-001A	00:03:08;
+
+[PrintText]=00:00:03	Makoto	...Lamento todo lo que ha pasado después de todo.	00:03:11;
+
+[PlayVoice]=00:00:03	Voice03/03-KB/03-KB-A08/03-KB-A08-0030	1	mak	00:03:11;
+
+[CreateBG]=00:03:08	BGS	Event03/03-KB/03-KB-A08/03-KB-A08-001B	00:08:14;
+
+[PrintText]=00:03:17	Makoto	No puedo dejar de pensar en ella.	00:07:02;
+
+[PlayVoice]=00:03:17	Voice03/03-KB/03-KB-A08/03-KB-A08-0040	1	mak	00:07:02;
+
+[PrintText]=00:07:09	Makoto	Haah...	00:08:11;
+
+[PlayVoice]=00:07:09	Voice03/03-KB/03-KB-A08/03-KB-A08-0050	1	mak	00:08:11;
+
+ ;
+
+[Next]=00:08:14;
+
+

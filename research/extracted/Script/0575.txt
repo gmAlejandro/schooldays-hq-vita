@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:27:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:27:23;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H09/SE03-KA-H09-001	00:27:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H09/03-KA-H09-001	00:07:21;
+
+[PrintText]=00:00:00	Makoto	¡No puedo ir!	00:02:00;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H09/03-KA-H09-0030	1	mak	00:07:21;
+
+[PrintText]=00:02:00	Makoto	No entiendo algo del comité, y tengo otra reunión... perdóname.	00:07:21;
+
+[CreateBG]=00:07:21	BGS	Event03/03-KA/03-KA-H09/03-KA-H09-002	00:10:07;
+
+[PrintText]=00:07:21	Kotonoha	Está bien, entiendo. Nos vemos después entonces.	00:11:08;
+
+[PlayVoice]=00:07:21	Voice03/03-KA/03-KA-H09/03-KA-H09-0040	0	kot	00:11:08;
+
+[CreateBG]=00:10:07	BGS	Event03/03-KA/03-KA-H09/03-KA-H09-003	00:12:19;
+
+[CreateBG]=00:12:19	BGS	Event03/03-KA/03-KA-H09/03-KA-H09-004	00:14:08;
+
+[PrintText]=00:12:20	Makoto	Phew...	00:13:19;
+
+[PlayVoice]=00:12:20	Voice03/03-KA/03-KA-H09/03-KA-H09-0060	1	mak	00:13:19;
+
+[CreateBG]=00:14:08	BGS	Event03/03-KA/03-KA-H09/03-KA-H09-005	00:18:17;
+
+[PrintText]=00:14:08	Setsuna	'Hoy' ¿Dijiste... que Katsura-san y tú iban a hacer algo?^	00:18:17;
+
+[PlayVoice]=00:14:08	Voice03/03-KA/03-KA-H09/03-KA-H09-0070	0	set	00:18:17;
+
+[CreateBG]=00:18:17	BGS	Event03/03-KA/03-KA-H09/03-KA-H09-006	00:22:00;
+
+[PrintText]=00:18:20	Makoto	Ahh... no te preocupes por eso.	00:21:21;
+
+[PlayVoice]=00:18:20	Voice03/03-KA/03-KA-H09/03-KA-H09-0080	1	mak	00:21:21;
+
+[CreateBG]=00:22:00	BGS	Event03/03-KA/03-KA-H09/03-KA-H09-001	00:27:23;
+
+[PrintText]=00:22:01	Setsuna	...Vale. Explicaré todo ahora, vamos a clase.	00:25:20;
+
+[PlayVoice]=00:22:01	Voice03/03-KA/03-KA-H09/03-KA-H09-0090	0	set	00:25:20;
+
+[PrintText]=00:25:23	Makoto	Está bien.	00:26:20;
+
+[PlayVoice]=00:25:23	Voice03/03-KA/03-KA-H09/03-KA-H09-0100	1	mak	00:26:20;
+
+[BlackFade]=00:26:23	OUT	00:27:23;
+
+ ;
+
+[Next]=00:27:23;
+
+

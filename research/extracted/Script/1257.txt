@@ -1,0 +1,249 @@
+﻿[SkipFRAME]=02:39:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	02:45:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-001	00:05:00;
+
+[PrintText]=00:00:00	Natsumi	Aun así... estas desesperada.	00:02:20;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-D01/04-SE-D01-0040	0	nat	00:02:20;
+
+[PrintText]=00:02:20	Otome	¿Q-Qué?^	00:04:23;
+
+[PlayVoice]=00:02:20	Voice04/04-SE/04-SE-D01/04-SE-D01-0050	0	oto	00:04:23;
+
+[PrintText]=00:04:23	Natsumi	Es tu novio ¿No?^	00:07:15;
+
+[PlayVoice]=00:04:23	Voice04/04-SE/04-SE-D01/04-SE-D01-0070	0	nat	00:07:15;
+
+[CreateBG]=00:05:00	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-002	00:07:16;
+
+[PrintText]=00:07:15	Otome	¡E...Él no es mi novio!	00:09:23;
+
+[PlayVoice]=00:07:15	Voice04/04-SE/04-SE-D01/04-SE-D01-0080	0	oto	00:09:23;
+
+[CreateBG]=00:07:16	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-003	00:10:01;
+
+[PrintText]=00:09:23	Natsumi	Bueno, dejando de lado eso que ustedes dos son uno del otro... la cual es imposible.	00:16:11;
+
+[PlayVoice]=00:09:23	Voice04/04-SE/04-SE-D01/04-SE-D01-0090	0	nat	00:16:11;
+
+[CreateBG]=00:10:01	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-004	00:23:02;
+
+[PrintText]=00:16:11	Minami	¡Tienes que tener coraje para poder hablarle!	00:19:06;
+
+[PlayVoice]=00:16:11	Voice04/04-SE/04-SE-D01/04-SE-D01-0100	0	min	00:19:06;
+
+[PrintText]=00:19:06	Natsumi	Pero entonces la chica que siempre está junto a él se interpone en tu camino, y terminas siendo rechazada.	00:23:01;
+
+[PlayVoice]=00:19:06	Voice04/04-SE/04-SE-D01/04-SE-D01-0110	0	nat	00:23:01;
+
+[CreateBG]=00:23:02	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-007	00:24:13;
+
+[PrintText]=00:23:02	Kumi	¿Huh? ¿Qué está pasando?^	00:25:05;
+
+[PlayVoice]=00:23:02	Voice04/04-SE/04-SE-D01/04-SE-D01-0120	0	kum	00:25:05;
+
+[CreateBG]=00:24:13	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-008	00:25:06;
+
+[PrintText]=00:25:05	Natsumi	Kumi. ¿Estás bien?^	00:27:06;
+
+[PlayVoice]=00:25:05	Voice04/04-SE/04-SE-D01/04-SE-D01-0130	0	nat	00:27:06;
+
+[CreateBG]=00:25:06	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-009	00:27:06;
+
+[CreateBG]=00:27:06	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-010	00:32:05;
+
+[PrintText]=00:27:06	Kumi	Uh-huh. Fui a conseguir medicina. Y... ¿Qué pasó?^	00:32:05;
+
+[PlayVoice]=00:27:06	Voice04/04-SE/04-SE-D01/04-SE-D01-0140	0	kum	00:32:05;
+
+[PrintText]=00:32:04	Natsumi	Bueno, Otome estuvo hablando de su novio.	00:36:08;
+
+[PlayVoice]=00:32:04	Voice04/04-SE/04-SE-D01/04-SE-D01-0150	0	nat	00:36:08;
+
+[CreateBG]=00:32:05	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-011	00:36:09;
+
+[CreateBG]=00:36:09	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-012	00:37:19;
+
+[PrintText]=00:36:10	Kumi	¿El chico de la piscina?^	00:37:21;
+
+[PlayVoice]=00:36:10	Voice04/04-SE/04-SE-D01/04-SE-D01-0160	0	kum	00:37:21;
+
+[CreateBG]=00:37:19	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-013	00:40:18;
+
+[PrintText]=00:37:19	Otome	¡No lo llames así!	00:40:17;
+
+[PlayVoice]=00:37:19	Voice04/04-SE/04-SE-D01/04-SE-D01-0170	0	oto	00:40:17;
+
+[PrintText]=00:40:17	Kumi	Wawah... lo siento.	00:43:04;
+
+[PlayVoice]=00:40:17	Voice04/04-SE/04-SE-D01/04-SE-D01-0180	0	kum	00:43:04;
+
+[CreateBG]=00:40:18	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-014	00:43:04;
+
+[CreateBG]=00:43:04	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-015	00:53:12;
+
+[PrintText]=00:43:04	Otome	Solo nos encontramos en la piscina ese día. No es algo como si hubiéramos acordado encontrarnos allí...	00:48:14;
+
+[PlayVoice]=00:43:04	Voice04/04-SE/04-SE-D01/04-SE-D01-0190	0	oto	00:48:14;
+
+[PrintText]=00:48:14	Otome	Además, desde cuando hablas así, suena como si estuviera detrás de él.	00:53:12;
+
+[PlayVoice]=00:48:14	Voice04/04-SE/04-SE-D01/04-SE-D01-0191	0	oto	00:53:12;
+
+[CreateBG]=00:53:12	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-016	00:56:23;
+
+[PrintText]=00:53:12	Natsumi	Ella está interesada en él desde la primaria, sabes.	00:56:23;
+
+[PlayVoice]=00:53:12	Voice04/04-SE/04-SE-D01/04-SE-D01-0200	0	nat	00:56:23;
+
+[PrintText]=00:56:22	Otome	¡C-Cállate!	00:59:06;
+
+[PlayVoice]=00:56:22	Voice04/04-SE/04-SE-D01/04-SE-D01-0210	0	oto	00:59:06;
+
+[CreateBG]=00:56:23	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-017	00:59:06;
+
+[CreateBG]=00:59:06	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-018	01:01:20;
+
+[PrintText]=00:59:06	Minami	Pero, esto sería como el ¿Destino?^	01:01:19;
+
+[PlayVoice]=00:59:06	Voice04/04-SE/04-SE-D01/04-SE-D01-0220	0	min	01:01:19;
+
+[PrintText]=01:01:19	Otome	¿Lo crees...?^	01:04:20;
+
+[PlayVoice]=01:01:19	Voice04/04-SE/04-SE-D01/04-SE-D01-0230	0	oto	01:04:20;
+
+[CreateBG]=01:01:20	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-019	01:07:22;
+
+[PrintText]=01:04:20	Natsumi	Entonces, ese chico de la clase 3... ¿Cómo es que era su nombre?^	01:07:21;
+
+[PlayVoice]=01:04:20	Voice04/04-SE/04-SE-D01/04-SE-D01-0240	0	nat	01:07:21;
+
+[PrintText]=01:07:21	Otome	...Itou.	01:10:01;
+
+[PlayVoice]=01:07:21	Voice04/04-SE/04-SE-D01/04-SE-D01-0250	0	oto	01:10:01;
+
+[CreateBG]=01:07:22	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-020	01:10:02;
+
+[PrintText]=01:10:01	Natsumi	Y, ella quería almorzar con Itou, y la chica de la clase 3 se lo llevó, y Otome fue rechazada.	01:15:23;
+
+[PlayVoice]=01:10:01	Voice04/04-SE/04-SE-D01/04-SE-D01-0270	0	nat	01:15:23;
+
+[CreateBG]=01:10:02	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-021	01:32:20;
+
+[PrintText]=01:16:00	Kumi	¿Cual chica?^	01:17:06;
+
+[PlayVoice]=01:16:00	Voice04/04-SE/04-SE-D01/04-SE-D01-0280	0	kum	01:17:06;
+
+[PrintText]=01:17:06	Natsumi	Oh, ya sabes. Esa que no puede dejar de moverse... ¿Creo que su apellido es Saionji?^	01:23:23;
+
+[PlayVoice]=01:17:06	Voice04/04-SE/04-SE-D01/04-SE-D01-0290	0	nat	01:23:23;
+
+[PrintText]=01:23:23	Minami	Parece que sí.	01:25:00;
+
+[PlayVoice]=01:23:23	Voice04/04-SE/04-SE-D01/04-SE-D01-0300	0	min	01:25:00;
+
+[PrintText]=01:25:00	Natsumi	Entonces, ella se pone en el camino, y Otome está como, 'Bueno, tal vez después' antes que viniera con nosotros ¿No?^	01:32:19;
+
+[PlayVoice]=01:25:00	Voice04/04-SE/04-SE-D01/04-SE-D01-0310	0	nat	01:32:19;
+
+[PrintText]=01:32:19	Otome	Uuh...	01:34:02;
+
+[PlayVoice]=01:32:19	Voice04/04-SE/04-SE-D01/04-SE-D01-0320	0	oto	01:34:02;
+
+[CreateBG]=01:32:20	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-022	01:42:20;
+
+[PrintText]=01:34:02	Natsumi	Hasta parece que Saionji-san e Itou están saliendo juntos.	01:39:03;
+
+[PlayVoice]=01:34:02	Voice04/04-SE/04-SE-D01/04-SE-D01-0330	0	nat	01:39:03;
+
+[PrintText]=01:39:03	Otome	Pienso que no es verdad.	01:42:19;
+
+[PlayVoice]=01:39:03	Voice04/04-SE/04-SE-D01/04-SE-D01-0340	0	oto	01:42:19;
+
+[PrintText]=01:42:19	Natsumi	¿En serio?^	01:44:12;
+
+[PlayVoice]=01:42:19	Voice04/04-SE/04-SE-D01/04-SE-D01-0350	0	nat	01:44:12;
+
+[CreateBG]=01:42:20	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-023	01:44:13;
+
+[PrintText]=01:44:12	Otome	Así lo creo.	01:46:08;
+
+[PlayVoice]=01:44:12	Voice04/04-SE/04-SE-D01/04-SE-D01-0360	0	oto	01:46:08;
+
+[CreateBG]=01:44:13	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-024	01:46:08;
+
+[CreateBG]=01:46:08	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-025	02:10:10;
+
+[PrintText]=01:46:08	Kumi	Aww... si iba a ser un almuerzo divertido, me hubiera gustado estar allí.	01:52:01;
+
+[PlayVoice]=01:46:08	Voice04/04-SE/04-SE-D01/04-SE-D01-0370	0	kum	01:52:01;
+
+[PrintText]=01:52:01	Minami	No podías evitarlo si no te sentías bien. ¿Cuantos días han pasado?^	01:56:07;
+
+[PlayVoice]=01:52:01	Voice04/04-SE/04-SE-D01/04-SE-D01-0380	0	min	01:56:07;
+
+[PrintText]=01:56:07	Kumi	Dos... esto es un poco malo.	01:59:15;
+
+[PlayVoice]=01:56:07	Voice04/04-SE/04-SE-D01/04-SE-D01-0390	0	kum	01:59:15;
+
+[PrintText]=01:59:15	Natsumi	Siempre pareces estar tan mal. Pobre chica.	02:03:04;
+
+[PlayVoice]=01:59:15	Voice04/04-SE/04-SE-D01/04-SE-D01-0400	0	nat	02:03:04;
+
+[PrintText]=02:03:05	Kumi	Uh-huh.	02:04:10;
+
+[PlayVoice]=02:03:05	Voice04/04-SE/04-SE-D01/04-SE-D01-0410	0	kum	02:04:10;
+
+[PrintText]=02:04:09	Natsumi	Si la medicina no funciona, me iré a casa temprano.	02:08:16;
+
+[PlayVoice]=02:04:09	Voice04/04-SE/04-SE-D01/04-SE-D01-0420	0	nat	02:08:16;
+
+[PrintText]=02:08:15	Kumi	Sí...	02:10:10;
+
+[PlayVoice]=02:08:15	Voice04/04-SE/04-SE-D01/04-SE-D01-0430	0	kum	02:10:10;
+
+[CreateBG]=02:10:10	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-026	02:13:07;
+
+[PlayVoice]=02:10:11	Voice04/04-SE/04-SE-D01/04-SE-D01-0450			02:11:08;
+
+[PrintText]=02:11:09	Kotonoha	Así son las cosas...	02:13:06;
+
+[PlayVoice]=02:11:09	Voice04/04-SE/04-SE-D01/04-SE-D01-0460	0	kot	02:13:06;
+
+[CreateBG]=02:13:07	BGS	Event05/05-KI/05-KI-H02/05-KI-H02-010	02:15:12;
+
+[CreateBG]=02:15:12	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-028	02:20:00;
+
+[PlayMovie]=02:20:00	Movie04/04-SE/04-SE-D01/04-SE-D01-029_033	0	02:30:00;
+
+[CreateBG]=02:30:00	BGS	Ini/Event04/04-SE/04-SE-D01/04-SE-D01-034	02:31:22;
+
+#[PrintText]=02:30:00	Makoto	"Todo es un malentendido.\nNo te enojes.".	02:31:22;
+
+[CreateBG]=02:31:22	BGS	Ini/Event04/04-SE/04-SE-D01/04-SE-D01-034B	02:33:10;
+
+#[PrintText]=02:31:22	Sekai	"No estoy enojada.".	02:33:10;
+
+[CreateBG]=02:33:10	BGS	Ini/Event04/04-SE/04-SE-D01/04-SE-D01-034C	02:35:03;
+
+#[PrintText]=02:33:10	Makoto	"Sí lo estás.".	02:35:03;
+
+[CreateBG]=02:35:03	BGS	Ini/Event04/04-SE/04-SE-D01/04-SE-D01-034D	02:36:13;
+
+#[PrintText]=02:35:03	Sekai	"No, no lo estoy.".	02:36:13;
+
+[CreateBG]=02:36:13	BGS	Ini/Event04/04-SE/04-SE-D01/04-SE-D01-034E	02:37:22;
+
+#[PrintText]=02:36:13	Makoto	"En ese caso...".	02:37:22;
+
+[CreateBG]=02:37:22	BGS	Event04/04-SE/04-SE-D01/04-SE-D01-035	02:45:02;
+
+[SetSELECT]=02:39:02	'Déjame compensarlo'	'Olvídalo'	02:44:02;
+
+ ;
+
+[Next]=02:45:02;
+
+

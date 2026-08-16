@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:27:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:33:01;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-G06/05-KF-G06-001	00:10:06;
+
+[PrintText]=00:00:00	Makoto	...	00:03:11;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G06/05-KF-G06-0030	1	xxx	00:03:11;
+
+[PrintText]=00:03:11	Kotonoha	...Por favor, dime que es broma.	00:07:07;
+
+[PlayVoice]=00:03:11	Voice05/05-KF/05-KF-G06/05-KF-G06-0040	0	kot	00:07:07;
+
+[PrintText]=00:07:06	Makoto	...	00:10:02;
+
+[PlayVoice]=00:07:06	Voice05/05-KF/05-KF-G06/05-KF-G06-0050	1	xxx	00:10:02;
+
+[PrintText]=00:10:02	Kotonoha	Si no lo es... voy a llorar.	00:15:22;
+
+[PlayVoice]=00:10:02	Voice05/05-KF/05-KF-G06/05-KF-G06-0060	0	kot	00:15:22;
+
+[CreateBG]=00:10:06	BGS	Event05/05-KF/05-KF-G06/05-KF-G06-002	00:24:11;
+
+[PrintText]=00:15:22	Makoto	...	00:18:13;
+
+[PlayVoice]=00:15:22	Voice05/05-KF/05-KF-G06/05-KF-G06-0070	1	xxx	00:18:13;
+
+[PrintText]=00:18:14	Kotonoha	En serio... voy a llorar...	00:22:07;
+
+[PlayVoice]=00:18:14	Voice05/05-KF/05-KF-G06/05-KF-G06-0080	0	kot	00:22:07;
+
+[PrintText]=00:22:07	Makoto	Kotonoha...	00:24:12;
+
+[PlayVoice]=00:22:07	Voice05/05-KF/05-KF-G06/05-KF-G06-0090	1	mak	00:24:12;
+
+[CreateBG]=00:24:11	BGS	Event05/05-KF/05-KF-G06/05-KF-G06-003	00:33:01;
+
+[PrintText]=00:24:11	Kotonoha	Sí...	00:25:12;
+
+[PlayVoice]=00:24:11	Voice05/05-KF/05-KF-G06/05-KF-G06-0100	0	kot	00:25:12;
+
+[PrintText]=00:25:12	Makoto	Escucha...	00:27:00;
+
+[PlayVoice]=00:25:12	Voice05/05-KF/05-KF-G06/05-KF-G06-0110	1	mak	00:27:00;
+
+[SetSELECT]=00:27:00	'Solo bromeaba'	null	00:32:00;
+
+ ;
+
+[Next]=00:33:01;
+
+
+
+

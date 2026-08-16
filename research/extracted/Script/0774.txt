@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:24:15;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G08/SE03-SA-G08-001	00:30:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G08/03-SA-G08-001	00:04:13;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-G08/03-SA-G08-0030			00:04:11;
+
+[PlayMovie]=00:04:13	Movie03/03-SA/03-SA-G08/03-SA-G08-002	0	00:06:19;
+
+[PrintText]=00:04:14	Sekai	Nn...	00:06:02;
+
+[PlayVoice]=00:04:14	Voice03/03-SA/03-SA-G08/03-SA-G08-0040	0	sek	00:06:02;
+
+[CreateBG]=00:06:19	BGS	Event03/03-SA/03-SA-G08/03-SA-G08-003	00:30:15;
+
+[PrintText]=00:06:19	Sekai	¡Nn... haah! No podemos...	00:10:23;
+
+[PlayVoice]=00:06:19	Voice03/03-SA/03-SA-G08/03-SA-G08-0060	0	sek	00:10:23;
+
+[PrintText]=00:10:23	Makoto	No hay problema...	00:12:00;
+
+[PlayVoice]=00:10:23	Voice03/03-SA/03-SA-G08/03-SA-G08-0070	1	mak	00:12:00;
+
+[PrintText]=00:12:00	Sekai	No..., no podemos... tenemos trabajo...	00:17:01;
+
+[PlayVoice]=00:12:00	Voice03/03-SA/03-SA-G08/03-SA-G08-0080	0	sek	00:17:01;
+
+[PrintText]=00:17:01	Makoto	...	00:18:06;
+
+[PlayVoice]=00:17:01	Voice03/03-SA/03-SA-G08/03-SA-G08-0090	1	xxx	00:18:06;
+
+[PrintText]=00:18:07	Sekai	N... no...	00:21:01;
+
+[PlayVoice]=00:18:07	Voice03/03-SA/03-SA-G08/03-SA-G08-0100	0	sek	00:21:01;
+
+[PrintText]=00:21:01	Makoto	Sekai...	00:22:08;
+
+[PlayVoice]=00:21:01	Voice03/03-SA/03-SA-G08/03-SA-G08-0110	1	mak	00:22:08;
+
+[SetSELECT]=00:24:15	'Llevas un bonito vestido'	'Dejemos de lado el trabajo'	00:29:15;
+
+ ;
+
+[Next]=00:30:15;
+
+

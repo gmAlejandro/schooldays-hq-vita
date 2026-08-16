@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:37:02;
+
+[PlaySe]=00:00:00	2	Se01/01-00/01-00-S04/SE01-00-S04-001	00:37:02;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-S04/01-00-S04-001	00:02:22;
+
+[PrintText]=00:00:10	Makoto	Pero...	00:02:09;
+
+[PlayVoice]=00:00:10	Voice01/01-00/01-00-S04/01-00-S04-0040	1	mak	00:02:09;
+
+[CreateBG]=00:02:22	BGS	Event01/01-00/01-00-S04/01-00-S04-002	00:05:15;
+
+[CreateBG]=00:05:15	BGS	Event01/01-00/01-00-S04/01-00-S04-003	00:07:13;
+
+[PrintText]=00:05:21	Makoto	Sí Katsura nos ve así, podría esto crear un malentendido.	00:11:04;
+
+[PlayVoice]=00:05:21	Voice01/01-00/01-00-S04/01-00-S04-0050	1	mak	00:11:04;
+
+[CreateBG]=00:07:13	BGS	Event01/01-00/01-00-S04/01-00-S04-004	00:11:17;
+
+[CreateBG]=00:11:17	BGS	Event01/01-00/01-00-S04/01-00-S04-005	00:14:15;
+
+[CreateBG]=00:14:15	BGS	Event01/01-00/01-00-S04/01-00-S04-006	00:19:12;
+
+[PrintText]=00:14:22	Makoto	Estoy saliendo con Katsura, y...	00:19:01;
+
+[PlayVoice]=00:14:22	Voice01/01-00/01-00-S04/01-00-S04-0060	1	mak	00:19:01;
+
+[CreateBG]=00:19:12	BGS	Event01/01-00/01-00-S04/01-00-S04-007	00:23:08;
+
+[CreateBG]=00:23:08	BGS	Event01/01-00/01-00-S04/01-00-S04-008	00:27:00;
+
+[CreateBG]=00:27:00	BGS	Event01/01-00/01-00-S04/01-00-S04-009	00:28:23;
+
+[PrintText]=00:27:07	Makoto	Y cre...	00:28:06;
+
+[PlayVoice]=00:27:07	Voice01/01-00/01-00-S04/01-00-S04-0070	1	mak	00:28:06;
+
+[CreateBG]=00:28:23	BGS	Event01/01-00/01-00-S04/01-00-S04-010	00:37:02;
+
+[PlaySe]=00:29:18	1	Voice01/01-00/01-00-S04/01-00-S04-0070A	00:30:04;
+
+[PrintText]=00:30:04	Kotonoha	...	00:30:20;
+
+[PlayVoice]=00:30:04	Voice01/01-00/01-00-S04/01-00-S04-0120	0	xxx	00:30:20;
+
+ ;
+
+[Next]=00:37:02;
+
+
+
+

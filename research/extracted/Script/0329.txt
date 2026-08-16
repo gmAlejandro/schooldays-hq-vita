@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:16:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:16:02;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-J06/02-2S-J06-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Ini/Event02/02-2S/02-2S-J06/02-2S-J06-001B	00:04:00;
+
+#[PrintText]=00:02:00	Makoto	"Te amo más que a ella".	00:05:23;
+
+[CreateBG]=00:04:00	BGS	Ini/Event02/02-2S/02-2S-J06/02-2S-J06-001C	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Ini/Event02/02-2S/02-2S-J06/02-2S-J06-002	00:08:18;
+
+#[PrintText]=00:06:00	Sekai	"También te amo.".	00:08:17;
+
+[PlaySe]=00:07:14	1	Voice02/02-2S/02-2S-J06/02-2S-J06-0060	00:12:02;
+
+[CreateBG]=00:08:18	BGS	Event02/02-2S/02-2S-J06/02-2S-J06-003	00:12:00;
+
+[CreateBG]=00:12:00	BGS	Event02/02-2S/02-2S-J06/02-2S-J06-004	00:16:02;
+
+[BlackFade]=00:15:02	OUT	00:16:02;
+
+ ;
+
+[Next]=00:16:02;
+
+
+
+

@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:09:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:09:20;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:09:20;
+
+[PlayMovie]=00:00:01	Movie00/00-00/00-00-A00/00-00-A00-006	0	00:04:00;
+
+[CreateBG]=00:04:00	BGS	Event05/05-KB/05-KB-F00/05-KB-F00-002	00:06:08;
+
+[PrintText]=00:04:02	Kotonoha	¡Ah... Makoto-kun!	00:06:05;
+
+[PlayVoice]=00:04:02	Voice05/05-KB/05-KB-F00/05-KB-F00-0040	0	kot	00:06:05;
+
+[PrintText]=00:05:18	Makoto	Hey... buen día.	00:08:12;
+
+[PlayVoice]=00:05:18	Voice05/05-KB/05-KB-F00/05-KB-F00-0050	1	mak	00:08:12;
+
+[CreateBG]=00:06:08	BGS	Event05/05-KB/05-KB-F00/05-KB-F00-004	00:08:13;
+
+[CreateBG]=00:08:13	BGS	Event05/05-KB/05-KB-F00/05-KB-F00-005	00:09:20;
+
+[PrintText]=00:08:17	Kotonoha	¡Buen día!	00:09:09;
+
+[PlayVoice]=00:08:17	Voice05/05-KB/05-KB-F00/05-KB-F00-0060	0	kot	00:09:09;
+
+ ;
+
+[Next]=00:09:20;
+
+
+
+

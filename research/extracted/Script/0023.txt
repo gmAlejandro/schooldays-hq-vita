@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:06:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:06:20;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-B01/SE01-00-B01-001	00:06:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-B00/01-00-B00-003	00:06:20;
+
+[PrintText]=00:00:12	Makoto	¿Por qué me besaste?^	00:02:17;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-B01/01-00-B01-0030	1	mak	00:02:17;
+
+[PrintText]=00:02:16	Sekai	¡¿Eh...?!	00:03:04;
+
+[PlayVoice]=00:02:16	Voice01/01-00/01-00-B01/01-00-B01-0040	0	sek	00:03:04;
+
+[PrintText]=00:03:21	Makoto	Lo de ayer.	00:04:19;
+
+[PlayVoice]=00:03:21	Voice01/01-00/01-00-B01/01-00-B01-0050	1	mak	00:04:19;
+
+[PrintText]=00:05:04	Sekai	Eso fue...	00:06:07;
+
+[PlayVoice]=00:05:04	Voice01/01-00/01-00-B01/01-00-B01-0060	0	sek	00:06:07;
+
+ ;
+
+[Next]=00:06:20;
+
+
+
+

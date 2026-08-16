@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:16:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:22:11;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C02/SE02-2S-C02-001	00:22:11;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C02/02-2S-C02-001	00:02:03;
+
+[PrintText]=00:00:00	Makoto	Mantengámoslo en secreto.	00:02:03;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-C02/02-2S-C02-0030	1	mak	00:02:03;
+
+[CreateBG]=00:02:03	BGS	Event02/02-2S/02-2S-C02/02-2S-C02-002	00:07:03;
+
+[PrintText]=00:02:03	Sekai	¡¿Ehh?!	00:03:03;
+
+[PlayVoice]=00:02:03	Voice02/02-2S/02-2S-C02/02-2S-C02-0040	0	sek	00:03:03;
+
+[PrintText]=00:03:03	Makoto	Será incómodo.	00:05:00;
+
+[PlayVoice]=00:03:03	Voice02/02-2S/02-2S-C02/02-2S-C02-0050	1	mak	00:05:00;
+
+[PrintText]=00:05:01	Sekai	P-Pero..!	00:07:03;
+
+[PlayVoice]=00:05:01	Voice02/02-2S/02-2S-C02/02-2S-C02-0060	0	sek	00:07:03;
+
+[PrintText]=00:07:02	Makoto	Definitivamente se enfadará.	00:09:10;
+
+[PlayVoice]=00:07:02	Voice02/02-2S/02-2S-C02/02-2S-C02-0070	1	mak	00:09:10;
+
+[CreateBG]=00:07:03	BGS	Event02/02-2S/02-2S-C02/02-2S-C02-003	00:11:11;
+
+[PrintText]=00:09:10	Sekai	Sí, pero... creo que no es correcto mantenerlo en secreto.	00:14:22;
+
+[PlayVoice]=00:09:10	Voice02/02-2S/02-2S-C02/02-2S-C02-0080	0	sek	00:14:22;
+
+[CreateBG]=00:11:11	BGS	Event02/02-2S/02-2S-C02/02-2S-C02-004	00:22:11;
+
+[PrintText]=00:14:22	Makoto	Pero...	00:16:23;
+
+[PlayVoice]=00:14:22	Voice02/02-2S/02-2S-C02/02-2S-C02-0090	1	mak	00:16:23;
+
+[SetSELECT]=00:16:07	'Sí... vamos a decírselo'	'Será difícil decírselo'	00:21:07;
+
+ ;
+
+[Next]=00:22:11;
+
+
+
+

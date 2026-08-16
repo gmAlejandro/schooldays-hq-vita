@@ -1,0 +1,135 @@
+﻿[SkipFRAME]=00:47:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:53:08;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-D01/SE03-BK-D01-001	00:53:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-001	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-002	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-003	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-004	00:04:19;
+
+[PrintText]=00:03:00	Makoto	Buen día... ah.	00:05:09;
+
+[PlayVoice]=00:03:00	Voice03/03-BK/03-BK-D01/03-BK-D01-0030	1	mak	00:05:09;
+
+[CreateBG]=00:04:19	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-005	00:05:10;
+
+[PrintText]=00:05:09	Taisuke	¡Hey! Buen día.	00:07:11;
+
+[PlayVoice]=00:05:09	Voice03/03-BK/03-BK-D01/03-BK-D01-0050	1	tai	00:07:11;
+
+[CreateBG]=00:05:10	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-006	00:11:15;
+
+[PrintText]=00:07:12	Sekai	Buen día.	00:08:08;
+
+[PlayVoice]=00:07:12	Voice03/03-BK/03-BK-D01/03-BK-D01-0060	0	sek	00:08:08;
+
+[PrintText]=00:08:08	Makoto	O-oh, Buen día.	00:11:14;
+
+[PlayVoice]=00:08:08	Voice03/03-BK/03-BK-D01/03-BK-D01-0070	1	mak	00:11:14;
+
+[PrintText]=00:11:14	Taisuke	Hey, Makoto.	00:12:19;
+
+[PlayVoice]=00:11:14	Voice03/03-BK/03-BK-D01/03-BK-D01-0080	1	tai	00:12:19;
+
+[CreateBG]=00:11:15	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-007	00:15:16;
+
+[PrintText]=00:12:19	Makoto	¿Qué?^	00:13:14;
+
+[PlayVoice]=00:12:19	Voice03/03-BK/03-BK-D01/03-BK-D01-0090	1	mak	00:13:14;
+
+[PrintText]=00:13:14	Taisuke	¿Cómo nos vemos?^	00:15:01;
+
+[PlayVoice]=00:13:14	Voice03/03-BK/03-BK-D01/03-BK-D01-0100	1	tai	00:15:01;
+
+[PrintText]=00:15:01	Makoto	¿Hmn?^	00:15:16;
+
+[PlayVoice]=00:15:01	Voice03/03-BK/03-BK-D01/03-BK-D01-0110	1	mak	00:15:16;
+
+[CreateBG]=00:15:16	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-006	00:16:18;
+
+[PrintText]=00:15:16	Taisuke	Nosotros, quiero decir.	00:16:18;
+
+[PlayVoice]=00:15:16	Voice03/03-BK/03-BK-D01/03-BK-D01-0120	1	tai	00:16:18;
+
+[CreateBG]=00:16:18	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-009	00:24:06;
+
+[PrintText]=00:16:18	Makoto	¿Los veo? ... como su mismo esclavo de la clase.	00:21:11;
+
+[PlayVoice]=00:16:18	Voice03/03-BK/03-BK-D01/03-BK-D01-0130	1	mak	00:21:11;
+
+[PrintText]=00:21:07	Taisuke	No soy su esclavo.	00:23:01;
+
+[PlayVoice]=00:21:07	Voice03/03-BK/03-BK-D01/03-BK-D01-0140	1	tai	00:23:01;
+
+[PrintText]=00:22:15	Makoto	Lo sé.	00:24:05;
+
+[PlayVoice]=00:22:15	Voice03/03-BK/03-BK-D01/03-BK-D01-0150	1	mak	00:24:05;
+
+[CreateBG]=00:24:05	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-009b	00:34:01;
+
+[PrintText]=00:24:08	Taisuke	Hey, ¿No nos ves como si fuéramos una pareja?^	00:27:11;
+
+[PlayVoice]=00:24:08	Voice03/03-BK/03-BK-D01/03-BK-D01-0160	1	tai	00:27:11;
+
+[PrintText]=00:27:12	Makoto	N-no, en serio, no estoy en este tipo de cosas.	00:31:00;
+
+[PlayVoice]=00:27:12	Voice03/03-BK/03-BK-D01/03-BK-D01-0170	1	mak	00:31:00;
+
+[PrintText]=00:30:10	Taisuke	¡TU NO!	00:32:14;
+
+[PlayVoice]=00:30:10	Voice03/03-BK/03-BK-D01/03-BK-D01-0180	1	tai	00:32:14;
+
+[PrintText]=00:32:09	Makoto	Sí, ya sé.	00:34:05;
+
+[PlayVoice]=00:32:09	Voice03/03-BK/03-BK-D01/03-BK-D01-0190	1	mak	00:34:05;
+
+[CreateBG]=00:34:01	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-010	00:41:11;
+
+[PrintText]=00:34:01	Taisuke	Hablo de Sekai y yo.	00:36:07;
+
+[PlayVoice]=00:34:01	Voice03/03-BK/03-BK-D01/03-BK-D01-0200	1	tai	00:36:07;
+
+[PrintText]=00:36:06	Makoto	¿...Sekai?^	00:37:09;
+
+[PlayVoice]=00:36:06	Voice03/03-BK/03-BK-D01/03-BK-D01-0210	1	mak	00:37:09;
+
+[PrintText]=00:37:05	Taisuke	Sí, hemos empezado a salir ¿No, Sekai?^	00:41:12;
+
+[PlayVoice]=00:37:05	Voice03/03-BK/03-BK-D01/03-BK-D01-0220	1	tai	00:41:12;
+
+[PrintText]=00:41:08	Sekai	S-Sí.	00:43:07;
+
+[PlayVoice]=00:41:08	Voice03/03-BK/03-BK-D01/03-BK-D01-0230	0	sek	00:43:07;
+
+[CreateBG]=00:41:11	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-011	00:45:20;
+
+[PrintText]=00:43:02	Makoto	Ah...	00:43:17;
+
+[PlayVoice]=00:43:02	Voice03/03-BK/03-BK-D01/03-BK-D01-0240	1	mak	00:43:17;
+
+[PrintText]=00:44:08	Makoto	¿En serio?^	00:46:05;
+
+[PlayVoice]=00:44:08	Voice03/03-BK/03-BK-D01/03-BK-D01-0250	1	mak	00:46:05;
+
+[CreateBG]=00:45:20	BGS	Event03/03-BK/03-BK-D01/03-BK-D01-010	00:53:08;
+
+[PrintText]=00:46:00	Taisuke	Sí.	00:47:02;
+
+[PlayVoice]=00:46:00	Voice03/03-BK/03-BK-D01/03-BK-D01-0260	1	tai	00:47:02;
+
+[PrintText]=00:47:03	Makoto	...	00:48:04;
+
+[PlayVoice]=00:47:03	Voice03/03-BK/03-BK-D01/03-BK-D01-0270	1	xxx	00:48:04;
+
+[SetSELECT]=00:47:05	'Pues no hacen buena pareja'	'Felicidades'	00:52:05;
+
+ ;
+
+[Next]=00:53:08;
+
+

@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:04:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:04:11;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-E06/SE03-SA-E06-001	00:04:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-E06/03-SA-E06-001	00:01:06;
+
+[PrintText]=00:00:05	Makoto	No puedo.	00:01:03;
+
+[PlayVoice]=00:00:05	Voice03/03-SA/03-SA-E06/03-SA-E06-0030	1	mak	00:01:03;
+
+[CreateBG]=00:01:06	BGS	Event03/03-SA/03-SA-E06/03-SA-E06-002	00:02:08;
+
+[PrintText]=00:01:06	Otome	Ah...	00:02:07;
+
+[PlayVoice]=00:01:06	Voice03/03-SA/03-SA-E06/03-SA-E06-0040	0	oto	00:02:07;
+
+[PrintText]=00:02:07	Makoto	Perdón, no es buen momento.	00:04:10;
+
+[PlayVoice]=00:02:07	Voice03/03-SA/03-SA-E06/03-SA-E06-0050	1	mak	00:04:10;
+
+[CreateBG]=00:02:08	BGS	Event03/03-SA/03-SA-E06/03-SA-E06-003	00:04:11;
+
+ ;
+
+[Next]=00:04:11;
+
+

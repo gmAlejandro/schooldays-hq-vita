@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:21:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:21:12;
+
+[PlaySe]=00:00:00	1	Se01/01-1K/01-1K-K05/SE01-1K-K05-001	00:21:12;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-K05/01-1K-K05-001	00:04:14;
+
+[PrintText]=00:00:00	Makoto	¿Siempre termino salvado por ti, lo sabes?^	00:04:13;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-K05/01-1K-K05-0030	1	mak	00:04:13;
+
+[CreateBG]=00:04:14	BGS	Event01/01-1K/01-1K-K05/01-1K-K05-002	00:14:08;
+
+[PrintText]=00:04:14	Sekai	¿Sí?^	00:05:07;
+
+[PlayVoice]=00:04:14	Voice01/01-1K/01-1K-K05/01-1K-K05-0040	0	sek	00:05:07;
+
+[PrintText]=00:05:07	Makoto	Siempre cuando estoy atascado y no puedo acercarme a Kotonoha, vienes a ayudarme.	00:12:15;
+
+[PlayVoice]=00:05:07	Voice01/01-1K/01-1K-K05/01-1K-K05-0050	1	mak	00:12:15;
+
+[PrintText]=00:12:16	Sekai	Eso no es verdad.	00:14:07;
+
+[PlayVoice]=00:12:16	Voice01/01-1K/01-1K-K05/01-1K-K05-0060	0	sek	00:14:07;
+
+[PrintText]=00:14:07	Makoto	Realmente lo aprecio, sabes.	00:17:19;
+
+[PlayVoice]=00:14:07	Voice01/01-1K/01-1K-K05/01-1K-K05-0070	1	mak	00:17:19;
+
+[CreateBG]=00:14:08	BGS	Event01/01-1K/01-1K-K05/01-1K-K05-003	00:17:20;
+
+[CreateBG]=00:17:20	BGS	Event01/01-1K/01-1K-K05/01-1K-K05-004	00:21:12;
+
+[PrintText]=00:17:20	Sekai	Eres un idiota, no exageres.	00:20:20;
+
+[PlayVoice]=00:17:20	Voice01/01-1K/01-1K-K05/01-1K-K05-0090	0	sek	00:20:20;
+
+ ;
+
+[Next]=00:21:12;
+
+
+
+

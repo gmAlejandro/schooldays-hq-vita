@@ -1,0 +1,87 @@
+﻿[SkipFRAME]=00:40:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:40:16;
+
+[PlaySe]=00:00:00	3	Se02/02-2S/02-2S-P03/SE02-2S-P03-001	00:40:16;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-P03/02-2S-P03-001	00:05:13;
+
+[PrintText]=00:00:00	Makoto	...	00:01:05;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-P03/02-2S-P03-0030	1	xxx	00:01:05;
+
+[PrintText]=00:01:10	Sekai	...	00:02:00;
+
+[PlayVoice]=00:01:10	Voice02/02-2S/02-2S-P03/02-2S-P03-0040	0	xxx	00:02:00;
+
+[PrintText]=00:02:06	Makoto	...Ahora me voy.	00:05:08;
+
+[PlayVoice]=00:02:06	Voice02/02-2S/02-2S-P03/02-2S-P03-0050	1	mak	00:05:08;
+
+[CreateBG]=00:05:13	BGS	Event02/02-2S/02-2S-P03/02-2S-P03-002	00:08:11;
+
+[PrintText]=00:06:11	Sekai	...Perdón.	00:07:10;
+
+[PlayVoice]=00:06:11	Voice02/02-2S/02-2S-P03/02-2S-P03-0070	0	sek	00:07:10;
+
+[PrintText]=00:07:11	Makoto	...	00:08:04;
+
+[PlayVoice]=00:07:11	Voice02/02-2S/02-2S-P03/02-2S-P03-0080	1	xxx	00:08:04;
+
+[CreateBG]=00:08:11	BGS	Event02/02-2S/02-2S-P03/02-2S-P03-003	00:13:12;
+
+[PrintText]=00:08:11	Sekai	Soy una persona muy celosa ... es tan vergonzoso ...	00:13:08;
+
+[PlayVoice]=00:08:11	Voice02/02-2S/02-2S-P03/02-2S-P03-0090	0	sek	00:13:08;
+
+[CreateBG]=00:13:12	BGS	Event02/02-2S/02-2S-P03/02-2S-P03-004	00:26:14;
+
+[PrintText]=00:13:12	Makoto	Sekai...	00:14:12;
+
+[PlayVoice]=00:13:12	Voice02/02-2S/02-2S-P03/02-2S-P03-0100	1	mak	00:14:12;
+
+[PrintText]=00:14:13	Sekai	Me dijiste que me amabas... pero, cuando te vi en el almuerzo, me sentí muy preocupada.	00:22:21;
+
+[PlayVoice]=00:14:13	Voice02/02-2S/02-2S-P03/02-2S-P03-0110	0	sek	00:22:21;
+
+[PrintText]=00:22:10	Makoto	Eso...	00:23:15;
+
+[PlayVoice]=00:22:10	Voice02/02-2S/02-2S-P03/02-2S-P03-0120	1	mak	00:23:15;
+
+[PrintText]=00:23:01	Sekai	Lo sé... Lo sé, pero...	00:26:09;
+
+[PlayVoice]=00:23:01	Voice02/02-2S/02-2S-P03/02-2S-P03-0130	0	sek	00:26:09;
+
+[CreateBG]=00:26:14	BGS	Event02/02-2S/02-2S-P03/02-2S-P03-005	00:31:04;
+
+[PrintText]=00:26:14	Makoto	Créeme.	00:27:23;
+
+[PlayVoice]=00:26:14	Voice02/02-2S/02-2S-P03/02-2S-P03-0140	1	mak	00:27:23;
+
+[PrintText]=00:28:02	Sekai	Sí... te creo.	00:30:21;
+
+[PlayVoice]=00:28:02	Voice02/02-2S/02-2S-P03/02-2S-P03-0150	0	sek	00:30:21;
+
+[CreateBG]=00:31:04	BGS	Event02/02-2S/02-2S-P03/02-2S-P03-006	00:36:07;
+
+[PrintText]=00:31:04	Makoto	Te amo.	00:31:22;
+
+[PlayVoice]=00:31:04	Voice02/02-2S/02-2S-P03/02-2S-P03-0160	1	mak	00:31:22;
+
+[PrintText]=00:32:04	Sekai	También te amo.	00:35:22;
+
+[PlayVoice]=00:32:04	Voice02/02-2S/02-2S-P03/02-2S-P03-0170	0	sek	00:35:22;
+
+[PlayMovie]=00:36:07	Movie02/02-2S/02-2S-P03/02-2S-P03-007	0	00:40:16;
+
+[PlaySe]=00:36:10	1	Voice02/02-2S/02-2S-P03/02-2S-P03-0180	00:38:01;
+
+[PlaySe]=00:38:03	2	Voice02/02-2S/02-2S-P03/02-2S-P03-0190	00:38:21;
+
+ ;
+
+[Next]=00:40:16;
+
+
+
+

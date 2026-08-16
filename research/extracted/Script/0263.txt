@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:30:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:30:19;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-M04/SE02-2K-M04-001	00:26:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-M04/02-2K-M04-001	00:01:02;
+
+[PrintText]=00:00:00	Kotonoha	Buen día.	00:00:22;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-M04/02-2K-M04-0030	0	kot	00:00:22;
+
+[PrintText]=00:01:01	Makoto	Lindo día ¿No?^	00:03:22;
+
+[PlayVoice]=00:01:01	Voice02/02-2K/02-2K-M04/02-2K-M04-0050	1	mak	00:03:22;
+
+[CreateBG]=00:01:02	BGS	Event02/02-2K/02-2K-M04/02-2K-M04-002	00:06:04;
+
+[PrintText]=00:03:23	Kotonoha	Sí.	00:05:03;
+
+[PlayVoice]=00:03:23	Voice02/02-2K/02-2K-M04/02-2K-M04-0060	0	kot	00:05:03;
+
+[PrintText]=00:05:01	Makoto	Haha...	00:06:04;
+
+[PlayVoice]=00:05:01	Voice02/02-2K/02-2K-M04/02-2K-M04-0070	1	mak	00:06:04;
+
+[CreateBG]=00:06:04	BGS	Event02/02-2K/02-2K-M04/02-2K-M04-003	00:10:21;
+
+[PlaySe]=00:10:21	2	Se02/02-2K/02-2K-M04/SE02-2K-M04-002	00:30:19;
+
+[PlayMovie]=00:10:21	Movie02/02-2K/02-2K-M04/02-2K-M04-004	0	00:13:06;
+
+[PrintText]=00:11:02	Makoto	¡Wah!	00:12:04;
+
+[PlayVoice]=00:11:02	Voice02/02-2K/02-2K-M04/02-2K-M04-0090	1	mak	00:12:04;
+
+[PrintText]=00:11:22	Kotonoha	¡Kyah!	00:12:20;
+
+[PlayVoice]=00:11:22	Voice02/02-2K/02-2K-M04/02-2K-M04-0110	0	kot	00:12:20;
+
+[PlayMovie]=00:13:06	Movie02/02-2K/02-2K-M04/02-2K-M04-005	0	00:14:11;
+
+[PrintText]=00:13:06	Kotonoha	Ah...	00:14:08;
+
+[PlayVoice]=00:13:06	Voice02/02-2K/02-2K-M04/02-2K-M04-0130	0	kot	00:14:08;
+
+[PlayMovie]=00:14:11	Movie02/02-2K/02-2K-M04/02-2K-M04-006	0	00:20:20;
+
+[PrintText]=00:14:11	Kotonoha	Perdón... no es lo que c...	00:19:04;
+
+[PlayVoice]=00:14:11	Voice02/02-2K/02-2K-M04/02-2K-M04-0150	0	kot	00:19:04;
+
+[PrintText]=00:18:23	Makoto	Está bien...	00:19:23;
+
+[PlayVoice]=00:18:23	Voice02/02-2K/02-2K-M04/02-2K-M04-0160	1	mak	00:19:23;
+
+[PlayMovie]=00:20:20	Movie02/02-2K/02-2K-M04/02-2K-M04-007	0	00:22:14;
+
+[CreateBG]=00:22:14	BGS	Event02/02-2K/02-2K-M04/02-2K-M04-008	00:30:19;
+
+[PrintText]=00:22:14	Kotonoha	Perdón.	00:27:14;
+
+[PlayVoice]=00:22:14	Voice02/02-2K/02-2K-M04/02-2K-M04-0180	0	kot	00:27:14;
+
+[PrintText]=00:28:00	Makoto	Está bien...	00:28:21;
+
+[PlayVoice]=00:28:00	Voice02/02-2K/02-2K-M04/02-2K-M04-0190	1	mak	00:28:21;
+
+ ;
+
+[Next]=00:30:19;
+
+
+
+

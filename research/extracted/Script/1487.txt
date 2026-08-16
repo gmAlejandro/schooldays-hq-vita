@@ -1,0 +1,482 @@
+﻿[SkipFRAME]=03:54:07;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-001	00:15:18;
+
+[PrintText]=00:00:00	Makoto	¿A dónde debería ir?^	00:02:21;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-D02/05-KA-D02-0030	1	mak	00:02:21;
+
+[PrintText]=00:03:00	Makoto	A un lugar lejos de Kotonoha...supongo.	00:06:12;
+
+[PlayVoice]=00:03:00	Voice05/05-KA/05-KA-D02/05-KA-D02-0040	1	mak	00:06:12;
+
+[PrintText]=00:06:23	Makoto	Haah...	00:08:01;
+
+[PlayVoice]=00:06:23	Voice05/05-KA/05-KA-D02/05-KA-D02-0050	1	mak	00:08:01;
+
+[PrintText]=00:08:10	Makoto	¿Qué estoy haciendo?^	00:10:21;
+
+[PlayVoice]=00:08:10	Voice05/05-KA/05-KA-D02/05-KA-D02-0060	1	mak	00:10:21;
+
+[PrintText]=00:11:01	Otome	¿Huh? no es Itou.	00:13:06;
+
+[PlayVoice]=00:11:01	Voice05/05-KA/05-KA-D02/05-KA-D02-0070	0	oto	00:13:06;
+
+[PrintText]=00:13:07	Makoto	Katou.	00:15:17;
+
+[PlayVoice]=00:13:07	Voice05/05-KA/05-KA-D02/05-KA-D02-0080	1	mak	00:15:17;
+
+[CreateBG]=00:15:18	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-003	00:19:01;
+
+[PrintText]=00:15:21	Otome	¿Qué haces caminando por el pasillo con esa expresión?^	00:19:01;
+
+[PlayVoice]=00:15:21	Voice05/05-KA/05-KA-D02/05-KA-D02-0090	0	oto	00:19:01;
+
+[CreateBG]=00:19:01	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-004	00:22:04;
+
+[PrintText]=00:19:01	Makoto	Uuh... nada.	00:22:05;
+
+[PlayVoice]=00:19:01	Voice05/05-KA/05-KA-D02/05-KA-D02-0100	1	mak	00:22:05;
+
+[CreateBG]=00:22:04	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-003	00:25:02;
+
+[PrintText]=00:22:04	Otome	¿Qué es? Si tienes un problema ¿Te importaría decírmelo?^	00:25:00;
+
+[PlayVoice]=00:22:04	Voice05/05-KA/05-KA-D02/05-KA-D02-0110	0	oto	00:25:00;
+
+[CreateBG]=00:25:02	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-006	00:25:23;
+
+[PrintText]=00:25:02	Makoto	No...	00:25:20;
+
+[PlayVoice]=00:25:02	Voice05/05-KA/05-KA-D02/05-KA-D02-0120	1	mak	00:25:20;
+
+[CreateBG]=00:25:23	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-007	00:27:00;
+
+[PrintText]=00:26:00	Kotonoha	Makoto-kun.	00:27:00;
+
+[PlayVoice]=00:26:00	Voice05/05-KA/05-KA-D02/05-KA-D02-0130	0	kot	00:27:00;
+
+[CreateBG]=00:27:00	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-008	00:30:04;
+
+[PrintText]=00:27:00	Makoto	Ah...	00:28:13;
+
+[PlayVoice]=00:27:00	Voice05/05-KA/05-KA-D02/05-KA-D02-0140	1	mak	00:28:13;
+
+[PrintText]=00:28:16	Otome	Katsura...	00:29:22;
+
+[PlayVoice]=00:28:16	Voice05/05-KA/05-KA-D02/05-KA-D02-0150	0	oto	00:29:22;
+
+[CreateBG]=00:30:04	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-009A	00:35:20;
+
+[PrintText]=00:30:07	Kotonoha	Um... vamos a almorzar.	00:33:21;
+
+[PlayVoice]=00:30:07	Voice05/05-KA/05-KA-D02/05-KA-D02-0160	0	kot	00:33:21;
+
+[PrintText]=00:33:22	Makoto	No...	00:34:18;
+
+[PlayVoice]=00:33:22	Voice05/05-KA/05-KA-D02/05-KA-D02-0170	1	mak	00:34:18;
+
+[PrintText]=00:34:17	Kotonoha	Lo prometiste.	00:35:21;
+
+[PlayVoice]=00:34:17	Voice05/05-KA/05-KA-D02/05-KA-D02-0180	0	kot	00:35:21;
+
+[PrintText]=00:35:17	Otome	Katsura.	00:36:19;
+
+[PlayVoice]=00:35:17	Voice05/05-KA/05-KA-D02/05-KA-D02-0190	0	oto	00:36:19;
+
+[CreateBG]=00:35:20	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-009B	00:36:21;
+
+[CreateBG]=00:36:21	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-009C	00:38:07;
+
+[PrintText]=00:36:22	Kotonoha	¿S-Sí?^	00:38:04;
+
+[PlayVoice]=00:36:22	Voice05/05-KA/05-KA-D02/05-KA-D02-0200	0	kot	00:38:04;
+
+[CreateBG]=00:38:07	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-008	00:40:09;
+
+[PrintText]=00:38:10	Otome	Estamos teniendo una conversación aquí.	00:40:07;
+
+[PlayVoice]=00:38:10	Voice05/05-KA/05-KA-D02/05-KA-D02-0210	0	oto	00:40:07;
+
+[CreateBG]=00:40:09	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-011	00:46:17;
+
+[PrintText]=00:40:09	Kotonoha	Ah... Lo siento.	00:43:00;
+
+[PlayVoice]=00:40:09	Voice05/05-KA/05-KA-D02/05-KA-D02-0220	0	kot	00:43:00;
+
+[PrintText]=00:43:00	Otome	...	00:43:13;
+
+[PlayVoice]=00:43:00	Voice05/05-KA/05-KA-D02/05-KA-D02-0230	0	xxx	00:43:13;
+
+[PrintText]=00:43:18	Kotonoha	Esperaré, así que... por favor. Continúen.	00:46:16;
+
+[PlayVoice]=00:43:18	Voice05/05-KA/05-KA-D02/05-KA-D02-0240	0	kot	00:46:16;
+
+[CreateBG]=00:46:17	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-012	00:52:15;
+
+[PrintText]=00:46:17	Otome	...Itou.	00:48:13;
+
+[PlayVoice]=00:46:17	Voice05/05-KA/05-KA-D02/05-KA-D02-0250	0	oto	00:48:13;
+
+[PrintText]=00:48:14	Makoto	Sí.	00:49:06;
+
+[PlayVoice]=00:48:14	Voice05/05-KA/05-KA-D02/05-KA-D02-0260	1	mak	00:49:06;
+
+[PrintText]=00:49:09	Otome	¿Por qué... estás saliendo con Katsura?^	00:52:14;
+
+[PlayVoice]=00:49:09	Voice05/05-KA/05-KA-D02/05-KA-D02-0270	0	oto	00:52:14;
+
+[CreateBG]=00:52:15	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-013	00:55:05;
+
+[PrintText]=00:52:16	Makoto	Nosotros... no estamos saliendo.	00:55:09;
+
+[PlayVoice]=00:52:16	Voice05/05-KA/05-KA-D02/05-KA-D02-0280	1	mak	00:55:09;
+
+[CreateBG]=00:55:05	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-014	00:56:09;
+
+[PrintText]=00:55:05	Kotonoha	Sí, lo estamos.	00:56:14;
+
+[PlayVoice]=00:55:05	Voice05/05-KA/05-KA-D02/05-KA-D02-0290	0	kot	00:56:14;
+
+[CreateBG]=00:56:09	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-015	00:57:14;
+
+[PrintText]=00:56:09	Makoto	No, no lo estamos.	00:57:18;
+
+[PlayVoice]=00:56:09	Voice05/05-KA/05-KA-D02/05-KA-D02-0300	1	mak	00:57:18;
+
+[CreateBG]=00:57:14	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-016	01:02:17;
+
+[PrintText]=00:57:14	Kotonoha	Sí, lo estamos. Makoto-kun dijo que me ama.	01:02:15;
+
+[PlayVoice]=00:57:14	Voice05/05-KA/05-KA-D02/05-KA-D02-0310	0	kot	01:02:15;
+
+[CreateBG]=01:02:17	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-017	01:04:23;
+
+[PrintText]=01:02:18	Otome	¿Eh...?^	01:03:17;
+
+[PlayVoice]=01:02:18	Voice05/05-KA/05-KA-D02/05-KA-D02-0320	0	oto	01:03:17;
+
+[PrintText]=01:03:18	Makoto	Eso fue hace tiempo...	01:05:14;
+
+[PlayVoice]=01:03:18	Voice05/05-KA/05-KA-D02/05-KA-D02-0330	1	mak	01:05:14;
+
+[CreateBG]=01:04:23	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-016	01:06:10;
+
+[PrintText]=01:04:23	Kotonoha	Es verdad hasta ahora.	01:06:11;
+
+[PlayVoice]=01:04:23	Voice05/05-KA/05-KA-D02/05-KA-D02-0340	0	kot	01:06:11;
+
+[CreateBG]=01:06:10	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-019A	01:13:09;
+
+[PrintText]=01:06:10	Makoto	...	01:07:10;
+
+[PlayVoice]=01:06:10	Voice05/05-KA/05-KA-D02/05-KA-D02-0350	1	xxx	01:07:10;
+
+[PrintText]=01:07:06	Kotonoha	Ayer, hace unos días, incluso durante el festival...	01:12:00;
+
+[PlayVoice]=01:07:06	Voice05/05-KA/05-KA-D02/05-KA-D02-0360	0	kot	01:12:00;
+
+[PrintText]=01:12:02	Makoto	...	01:13:06;
+
+[PlayVoice]=01:12:02	Voice05/05-KA/05-KA-D02/05-KA-D02-0370	1	xxx	01:13:06;
+
+[CreateBG]=01:13:09	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-012	01:14:16;
+
+[PrintText]=01:13:09	Otome	Córtala ya, Katsura.	01:14:15;
+
+[PlayVoice]=01:13:09	Voice05/05-KA/05-KA-D02/05-KA-D02-0390	0	oto	01:14:15;
+
+[CreateBG]=01:14:16	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-020A	01:24:04;
+
+[PrintText]=01:14:16	Kotonoha	¿Perdón?^	01:15:08;
+
+[PlayVoice]=01:14:16	Voice05/05-KA/05-KA-D02/05-KA-D02-0400	0	kot	01:15:08;
+
+[PrintText]=01:15:13	Otome	¿No ves que lo estás molestando?^	01:17:10;
+
+[PlayVoice]=01:15:13	Voice05/05-KA/05-KA-D02/05-KA-D02-0410	0	oto	01:17:10;
+
+[PrintText]=01:17:10	Kotonoha	Esto no tiene nada que ver contigo.	01:19:16;
+
+[PlayVoice]=01:17:10	Voice05/05-KA/05-KA-D02/05-KA-D02-0420	0	kot	01:19:16;
+
+[PrintText]=01:19:19	Otome	¿Qué?^	01:20:22;
+
+[PlayVoice]=01:19:19	Voice05/05-KA/05-KA-D02/05-KA-D02-0430	0	oto	01:20:22;
+
+[PrintText]=01:21:02	Kotonoha	Esto es entre Makoto y yo.	01:24:01;
+
+[PlayVoice]=01:21:02	Voice05/05-KA/05-KA-D02/05-KA-D02-0440	0	kot	01:24:01;
+
+[CreateBG]=01:24:04	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-020B	01:25:10;
+
+[PrintText]=01:24:04	Otome	¡Tú...!	01:25:09;
+
+[PlayVoice]=01:24:04	Voice05/05-KA/05-KA-D02/05-KA-D02-0450	0	oto	01:25:09;
+
+[CreateBG]=01:25:10	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-020C	01:27:23;
+
+[PrintText]=01:25:11	Makoto	Katou.	01:26:11;
+
+[PlayVoice]=01:25:11	Voice05/05-KA/05-KA-D02/05-KA-D02-0460	1	mak	01:26:11;
+
+[PrintText]=01:26:17	Otome	Itou...	01:27:23;
+
+[PlayVoice]=01:26:17	Voice05/05-KA/05-KA-D02/05-KA-D02-0470	0	oto	01:27:23;
+
+[CreateBG]=01:27:23	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-021	01:34:07;
+
+[PrintText]=01:28:00	Makoto	Kotonoha.	01:29:00;
+
+[PlayVoice]=01:28:00	Voice05/05-KA/05-KA-D02/05-KA-D02-0480	1	mak	01:29:00;
+
+[PrintText]=01:29:00	Kotonoha	¿Sí?^	01:29:16;
+
+[PlayVoice]=01:29:00	Voice05/05-KA/05-KA-D02/05-KA-D02-0490	0	kot	01:29:16;
+
+[PrintText]=01:29:19	Makoto	Yo... estoy enamorado de Sekai.	01:34:04;
+
+[PlayVoice]=01:29:19	Voice05/05-KA/05-KA-D02/05-KA-D02-0500	1	mak	01:34:04;
+
+[CreateBG]=01:34:07	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-022	01:36:19;
+
+[PrintText]=01:34:09	Kotonoha	Es porque... has caído en la tentación.	01:37:15;
+
+[PlayVoice]=01:34:09	Voice05/05-KA/05-KA-D02/05-KA-D02-0510	0	kot	01:37:15;
+
+[CreateBG]=01:36:19	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-021	01:40:13;
+
+[PrintText]=01:36:19	Makoto	No. la he amado durante mucho tiempo.	01:40:08;
+
+[PlayVoice]=01:36:19	Voice05/05-KA/05-KA-D02/05-KA-D02-0520	1	mak	01:40:08;
+
+[CreateBG]=01:40:13	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-024	01:41:16;
+
+[PrintText]=01:40:13	Kotonoha	Pero...	01:41:15;
+
+[PlayVoice]=01:40:13	Voice05/05-KA/05-KA-D02/05-KA-D02-0530	0	kot	01:41:15;
+
+[CreateBG]=01:41:16	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-019A	01:57:09;
+
+[PrintText]=01:41:16	Makoto	Hubo un malentendido, y terminé saliendo contigo.	01:46:19;
+
+[PlayVoice]=01:41:16	Voice05/05-KA/05-KA-D02/05-KA-D02-0540	1	mak	01:51:02;
+
+[PrintText]=01:46:19	Makoto	Es mi culpa que Sekai lo haya malentendido. La he traicionado de la peor manera...	01:51:02;
+
+[PrintText]=01:51:12	Kotonoha	...Por eso es que no está a tu lado ahora.	01:56:10;
+
+[PlayVoice]=01:51:12	Voice05/05-KA/05-KA-D02/05-KA-D02-0550	0	kot	01:56:10;
+
+[PrintText]=01:56:14	Makoto	...Sí.	01:57:06;
+
+[PlayVoice]=01:56:14	Voice05/05-KA/05-KA-D02/05-KA-D02-0560	1	mak	01:57:06;
+
+[PlaySe]=01:57:08	2	SysSe/SE_all/gaya/kyousitu_rouka	03:54:07;
+
+[CreateBG]=01:57:09	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-026	02:06:02;
+
+[PrintText]=01:57:09	Kotonoha	¿Entonces no están bien las cosas así?^	01:59:20;
+
+[PlayVoice]=01:57:09	Voice05/05-KA/05-KA-D02/05-KA-D02-0570	0	kot	01:59:20;
+
+[PrintText]=01:59:18	Makoto	¿Eh?^	02:00:14;
+
+[PlayVoice]=01:59:18	Voice05/05-KA/05-KA-D02/05-KA-D02-0580	1	mak	02:00:14;
+
+[PrintText]=02:00:20	Kotonoha	Te amo, Makoto-kun, quiero estar junto a ti.	02:06:04;
+
+[PlayVoice]=02:00:20	Voice05/05-KA/05-KA-D02/05-KA-D02-0590	0	kot	02:06:04;
+
+[CreateBG]=02:06:02	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-013	02:14:20;
+
+[PrintText]=02:06:02	Makoto	...	02:07:06;
+
+[PlayVoice]=02:06:02	Voice05/05-KA/05-KA-D02/05-KA-D02-0600	1	xxx	02:07:06;
+
+[PrintText]=02:07:11	Kotonoha	Si no estás saliendo con Saionji-san... entonces estará bien salir conmigo ¿No?^	02:13:19;
+
+[PlayVoice]=02:07:11	Voice05/05-KA/05-KA-D02/05-KA-D02-0610	0	kot	02:13:19;
+
+[PrintText]=02:13:16	Makoto	Eso...	02:14:19;
+
+[PlayVoice]=02:13:16	Voice05/05-KA/05-KA-D02/05-KA-D02-0620	1	mak	02:14:19;
+
+[CreateBG]=02:14:20	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-028	02:27:01;
+
+[PrintText]=02:14:21	Otome	¿Por eso la estuviste acosando a Saionji-san?^	02:19:22;
+
+[PlayVoice]=02:14:21	Voice05/05-KA/05-KA-D02/05-KA-D02-0630	0	oto	02:19:22;
+
+[PrintText]=02:19:22	Kotonoha	¿Eh...?^	02:20:17;
+
+[PlayVoice]=02:19:22	Voice05/05-KA/05-KA-D02/05-KA-D02-0640	0	kot	02:20:17;
+
+[PrintText]=02:20:19	Makoto	¿Katou?^	02:21:17;
+
+[PlayVoice]=02:20:19	Voice05/05-KA/05-KA-D02/05-KA-D02-0650	1	mak	02:21:17;
+
+[PrintText]=02:22:00	Otome	Te vi, sabes. Estuviste discutiendo en el pasillo con ella.	02:26:21;
+
+[PlayVoice]=02:22:00	Voice05/05-KA/05-KA-D02/05-KA-D02-0660	0	oto	02:26:21;
+
+[CreateBG]=02:27:01	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-022	02:29:02;
+
+[PrintText]=02:27:01	Kotonoha	¿Discutiendo? Eso no...	02:29:01;
+
+[PlayVoice]=02:27:01	Voice05/05-KA/05-KA-D02/05-KA-D02-0670	0	kot	02:29:01;
+
+[CreateBG]=02:29:02	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-030A	02:33:18;
+
+[PrintText]=02:29:02	Otome	La culpaste por lo que había pasado con Itou y la hiciste llorar ¿No es así?^	02:33:16;
+
+[PlayVoice]=02:29:02	Voice05/05-KA/05-KA-D02/05-KA-D02-0680	0	oto	02:33:16;
+
+[CreateBG]=02:33:18	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-030B	02:36:10;
+
+[PrintText]=02:33:18	Makoto	H-hey ¿Estás bromeando no?^	02:36:12;
+
+[PlayVoice]=02:33:18	Voice05/05-KA/05-KA-D02/05-KA-D02-0690	1	mak	02:36:12;
+
+[CreateBG]=02:36:10	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-030C	02:40:15;
+
+[PrintText]=02:36:10	Otome	Saionji-san no vino hoy a la escuela, Y fue por lo que hiciste.	02:40:17;
+
+[PlayVoice]=02:36:10	Voice05/05-KA/05-KA-D02/05-KA-D02-0700	0	oto	02:40:17;
+
+[CreateBG]=02:40:15	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-014	02:47:15;
+
+[PrintText]=02:40:15	Kotonoha	Me pregunto...	02:41:18;
+
+[PlayVoice]=02:40:15	Voice05/05-KA/05-KA-D02/05-KA-D02-0710	0	kot	02:41:18;
+
+[PrintText]=02:41:17	Otome	Tú...	02:43:02;
+
+[PlayVoice]=02:41:17	Voice05/05-KA/05-KA-D02/05-KA-D02-0720	0	oto	02:43:02;
+
+[PrintText]=02:43:08	Kotonoha	No... No sé nada de eso.	02:47:14;
+
+[PlayVoice]=02:43:08	Voice05/05-KA/05-KA-D02/05-KA-D02-0730	0	kot	02:47:14;
+
+[CreateBG]=02:47:15	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-032	02:57:16;
+
+[PrintText]=02:47:15	Otome	Itou, Yo...	02:49:17;
+
+[PlayVoice]=02:47:15	Voice05/05-KA/05-KA-D02/05-KA-D02-0740	0	oto	02:49:17;
+
+[PrintText]=02:49:18	Makoto	Kotonoha.	02:50:18;
+
+[PlayVoice]=02:49:18	Voice05/05-KA/05-KA-D02/05-KA-D02-0750	1	mak	02:50:18;
+
+[PrintText]=02:50:18	Kotonoha	¿Sí?^	02:51:10;
+
+[PlayVoice]=02:50:18	Voice05/05-KA/05-KA-D02/05-KA-D02-0760	0	kot	02:51:10;
+
+[PrintText]=02:51:16	Makoto	Ya... no saldré más contigo.	02:57:19;
+
+[PlayVoice]=02:51:16	Voice05/05-KA/05-KA-D02/05-KA-D02-0770	1	mak	02:57:19;
+
+[CreateBG]=02:57:16	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-024	02:58:22;
+
+[PrintText]=02:57:16	Kotonoha	¿Eh...?^	02:58:15;
+
+[PlayVoice]=02:57:16	Voice05/05-KA/05-KA-D02/05-KA-D02-0780	0	kot	02:58:15;
+
+[CreateBG]=02:58:22	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-034	03:09:04;
+
+[PrintText]=02:59:02	Makoto	Fui sorprendido mientras me acostaba contigo... pero creo que fue un error.	03:04:17;
+
+[PlayVoice]=02:59:02	Voice05/05-KA/05-KA-D02/05-KA-D02-0790	1	mak	03:04:17;
+
+[PrintText]=03:04:21	Kotonoha	¿Qué estás diciendo...?^	03:06:20;
+
+[PlayVoice]=03:04:21	Voice05/05-KA/05-KA-D02/05-KA-D02-0800	0	kot	03:06:20;
+
+[PrintText]=03:06:23	Makoto	Terminemos las cosas.	03:09:02;
+
+[PlayVoice]=03:06:23	Voice05/05-KA/05-KA-D02/05-KA-D02-0810	1	mak	03:09:02;
+
+[CreateBG]=03:09:04	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-022	03:15:13;
+
+[PrintText]=03:09:06	Kotonoha	Pero... Saionji-san... ya no está. No vendrá ¿Sabes?^	03:15:12;
+
+[PlayVoice]=03:09:06	Voice05/05-KA/05-KA-D02/05-KA-D02-0820	0	kot	03:15:12;
+
+[CreateBG]=03:15:13	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-036	03:18:08;
+
+[PrintText]=03:15:13	Makoto	Tal vez tengas razón, pero...	03:17:06;
+
+[PlayVoice]=03:15:13	Voice05/05-KA/05-KA-D02/05-KA-D02-0830	1	mak	03:17:06;
+
+[PrintText]=03:16:23	Kotonoha	Entonces...	03:18:03;
+
+[PlayVoice]=03:16:23	Voice05/05-KA/05-KA-D02/05-KA-D02-0840	0	kot	03:18:03;
+
+[PrintText]=03:17:14	Makoto	No hay problema.	03:18:10;
+
+[PlayVoice]=03:17:14	Voice05/05-KA/05-KA-D02/05-KA-D02-0850	1	mak	03:18:10;
+
+[CreateBG]=03:18:08	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-037A	03:27:11;
+
+[PrintText]=03:18:08	Kotonoha	¡Makoto-kun!	03:19:17;
+
+[PlayVoice]=03:18:08	Voice05/05-KA/05-KA-D02/05-KA-D02-0860	0	kot	03:19:17;
+
+[PrintText]=03:19:17	Makoto	...	03:20:17;
+
+[PlayVoice]=03:19:17	Voice05/05-KA/05-KA-D02/05-KA-D02-0870	1	xxx	03:20:17;
+
+[PrintText]=03:21:02	Kotonoha	Tu novia... soy...yo.	03:27:13;
+
+[PlayVoice]=03:21:02	Voice05/05-KA/05-KA-D02/05-KA-D02-0880	0	kot	03:27:13;
+
+[CreateBG]=03:27:11	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-021	03:42:14;
+
+[PrintText]=03:27:12	Makoto	No.	03:28:05;
+
+[PlayVoice]=03:27:12	Voice05/05-KA/05-KA-D02/05-KA-D02-0890	1	mak	03:28:05;
+
+[PrintText]=03:28:12	Kotonoha	Yo... soy tu novia...	03:31:08;
+
+[PlayVoice]=03:28:12	Voice05/05-KA/05-KA-D02/05-KA-D02-0900	0	kot	03:31:08;
+
+[PrintText]=03:31:08	Makoto	Incluso si no puedo arreglarlo con Sekai... incluso si no me perdona... no regresaré contigo.	03:42:11;
+
+[PlayVoice]=03:31:08	Voice05/05-KA/05-KA-D02/05-KA-D02-0910	1	mak	03:42:11;
+
+[CreateBG]=03:42:14	BGS	Event05/05-KA/05-KA-D02/05-KA-D02-039	03:54:07;
+
+[PrintText]=03:42:16	Kotonoha	Eso...	03:44:09;
+
+[PlayVoice]=03:42:16	Voice05/05-KA/05-KA-D02/05-KA-D02-0920	0	kot	03:44:09;
+
+[PrintText]=03:44:12	Makoto	Adiós.	03:45:04;
+
+[PlayVoice]=03:44:12	Voice05/05-KA/05-KA-D02/05-KA-D02-0930	1	mak	03:45:04;
+
+[PrintText]=03:45:06	Otome	Ah...	03:46:06;
+
+[PlayVoice]=03:45:06	Voice05/05-KA/05-KA-D02/05-KA-D02-0940	0	oto	03:46:06;
+
+[PrintText]=03:46:08	Makoto	Vamos, Katou.	03:48:11;
+
+[PlayVoice]=03:46:08	Voice05/05-KA/05-KA-D02/05-KA-D02-0950	1	mak	03:48:11;
+
+[PrintText]=03:48:06	Otome	V-Vale.	03:49:17;
+
+[PlayVoice]=03:48:06	Voice05/05-KA/05-KA-D02/05-KA-D02-0960	0	oto	03:49:17;
+
+[PrintText]=03:50:04	Kotonoha	Makoto-kun...	03:52:06;
+
+[PlayVoice]=03:50:04	Voice05/05-KA/05-KA-D02/05-KA-D02-0970	0	kot	03:52:06;
+
+[BlackFade]=03:52:07	OUT	03:54:07;
+
+ ;
+
+[Next]=03:54:07;
+
+
+

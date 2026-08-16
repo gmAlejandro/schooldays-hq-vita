@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:13:13;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/station_train/gakuenmae_yuugata	00:07:13;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-001	00:03:08;
+
+[PlaySe]=00:00:02	1	Voice02/02-2K/02-2K-J06/02-2K-J06-0030	00:03:06;
+
+[CreateBG]=00:03:08	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-003	00:07:13;
+
+[PrintText]=00:03:08	Kotonoha	Bueno, nos vemos mañana.	00:05:01;
+
+[PlayVoice]=00:03:08	Voice02/02-2K/02-2K-J06/02-2K-J06-0050	0	kot	00:05:01;
+
+[PrintText]=00:05:05	Makoto	Sí.	00:06:02;
+
+[PlayVoice]=00:05:05	Voice02/02-2K/02-2K-J06/02-2K-J06-0060	1	mak	00:06:02;
+
+[BlackFade]=00:06:13	OUT	00:07:13;
+
+[PlaySe]=00:07:13	1	Se02/02-2K/02-2K-J06/SE02-2K-J06-001	00:13:13;
+
+[PlayMovie]=00:07:13	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:09:13;
+
+[CreateBG]=00:09:13	BGS	Event02/02-2K/02-2K-J06/02-2K-J06-005	00:13:13;
+
+[PrintText]=00:09:20	Makoto	...	00:11:08;
+
+[PlayVoice]=00:09:20	Voice02/02-2K/02-2K-J06/02-2K-J06-0090	1	xxx	00:11:08;
+
+[BlackFade]=00:12:13	OUT	00:13:13;
+
+ ;
+
+[Next]=00:13:13;
+
+
+
+

@@ -1,0 +1,195 @@
+﻿[SkipFRAME]=01:51:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:25:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:04:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-001	00:04:03;
+
+[PrintText]=00:00:00	Kotonoha	...	00:01:00;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-A05/05-KA-A05-0030	0	xxx	00:01:00;
+
+[PrintText]=00:01:03	Makoto	Ah...	00:01:17;
+
+[PlayVoice]=00:01:03	Voice05/05-KA/05-KA-A05/05-KA-A05-0050	1	mak	00:01:17;
+
+[PrintText]=00:01:20	Kotonoha	Buenas noches.	00:02:20;
+
+[PlayVoice]=00:01:20	Voice05/05-KA/05-KA-A05/05-KA-A05-0060	0	kot	00:02:20;
+
+[PrintText]=00:02:23	Makoto	Kotonoha...	00:04:03;
+
+[PlayVoice]=00:02:23	Voice05/05-KA/05-KA-A05/05-KA-A05-0070	1	mak	00:04:03;
+
+[CreateBG]=00:04:03	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-002	00:07:22;
+
+[PrintText]=00:04:03	Kotonoha	Eheheh... Quise venir hoy.	00:07:22;
+
+[PlayVoice]=00:04:03	Voice05/05-KA/05-KA-A05/05-KA-A05-0080	0	kot	00:07:22;
+
+[CreateBG]=00:07:22	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-003	00:12:07;
+
+[PrintText]=00:08:02	Makoto	...	00:08:19;
+
+[PlayVoice]=00:08:02	Voice05/05-KA/05-KA-A05/05-KA-A05-0090	1	xxx	00:08:19;
+
+[PlayVoice]=00:08:21	Voice05/05-KA/05-KA-A05/05-KA-A05-0140			00:12:07;
+
+[CreateBG]=00:12:07	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-004	00:19:04;
+
+[PrintText]=00:12:10	Makoto	...Paremos aquí.	00:14:16;
+
+[PlayVoice]=00:12:10	Voice05/05-KA/05-KA-A05/05-KA-A05-0150	1	mak	00:14:16;
+
+[PrintText]=00:14:19	Kotonoha	¡¿Eh?!	00:15:14;
+
+[PlayVoice]=00:14:19	Voice05/05-KA/05-KA-A05/05-KA-A05-0160	0	kot	00:15:14;
+
+[PrintText]=00:15:19	Makoto	No... debemos hacer esto.	00:19:04;
+
+[PlayVoice]=00:15:19	Voice05/05-KA/05-KA-A05/05-KA-A05-0170	1	mak	00:19:04;
+
+[CreateBG]=00:19:04	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-004B	00:52:19;
+
+[PrintText]=00:19:04	Kotonoha	¿Por qué no? Antes... Amabas hacerlo...	00:26:01;
+
+[PlayVoice]=00:19:04	Voice05/05-KA/05-KA-A05/05-KA-A05-0180	0	kot	00:26:01;
+
+[PrintText]=00:26:09	Makoto	...	00:27:04;
+
+[PlayVoice]=00:26:09	Voice05/05-KA/05-KA-A05/05-KA-A05-0190	1	xxx	00:27:04;
+
+[PrintText]=00:27:03	Kotonoha	Makoto-kun... Te encanta mi cuerpo ¿No?^	00:31:17;
+
+[PlayVoice]=00:27:03	Voice05/05-KA/05-KA-A05/05-KA-A05-0200	0	kot	00:31:17;
+
+[PrintText]=00:31:21	Makoto	...	00:32:21;
+
+[PlayVoice]=00:31:21	Voice05/05-KA/05-KA-A05/05-KA-A05-0210	1	xxx	00:32:21;
+
+[PrintText]=00:33:00	Kotonoha	Estaba algo asustada el otro día, cuando al cambiarme en el gimnasio note las marcas de tus besos... hehe.	00:42:19;
+
+[PlayVoice]=00:33:00	Voice05/05-KA/05-KA-A05/05-KA-A05-0220	0	kot	00:42:19;
+
+[PrintText]=00:42:23	Makoto	...	00:43:23;
+
+[PlayVoice]=00:42:23	Voice05/05-KA/05-KA-A05/05-KA-A05-0230	1	xxx	00:43:23;
+
+[PrintText]=00:44:03	Kotonoha	Me amas lo suficiente para darme todas esas marcas... Entonces ¿Por qué?^	00:52:18;
+
+[PlayVoice]=00:44:03	Voice05/05-KA/05-KA-A05/05-KA-A05-0240	0	kot	00:52:18;
+
+[CreateBG]=00:52:19	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-004C	00:58:14;
+
+[PrintText]=00:52:22	Makoto	...	00:54:03;
+
+[PlayVoice]=00:52:22	Voice05/05-KA/05-KA-A05/05-KA-A05-0250	1	xxx	00:54:03;
+
+[PrintText]=00:54:09	Kotonoha	No me importa si hago estas cosas contigo sabes.	00:57:12;
+
+[PlayVoice]=00:54:09	Voice05/05-KA/05-KA-A05/05-KA-A05-0260	0	kot	00:57:12;
+
+[PrintText]=00:57:17	Makoto	¿En serio?^	00:58:14;
+
+[PlayVoice]=00:57:17	Voice05/05-KA/05-KA-A05/05-KA-A05-0270	1	mak	00:58:14;
+
+[CreateBG]=00:58:14	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-005	01:10:03;
+
+[PrintText]=00:58:14	Kotonoha	Es difícil de creer que antes estaba asustada... pero ahora, quiero estar cada día en tus brazos.	01:08:11;
+
+[PlayVoice]=00:58:14	Voice05/05-KA/05-KA-A05/05-KA-A05-0280	0	kot	01:08:11;
+
+[PrintText]=01:08:20	Makoto	...	01:10:01;
+
+[PlayVoice]=01:08:20	Voice05/05-KA/05-KA-A05/05-KA-A05-0290	1	xxx	01:10:01;
+
+[PlayMovie]=01:10:03	Movie05/05-KA/05-KA-A05/05-KA-A05-008	0	01:16:21;
+
+[PrintText]=01:10:03	Kotonoha	Solo mira... como reacciono ante tu aroma...	01:14:15;
+
+[PlayVoice]=01:10:03	Voice05/05-KA/05-KA-A05/05-KA-A05-0300	0	kot	01:14:15;
+
+[PlaySe]=01:10:06	1	Se05/05-KA/05-KA-A05/SE05-KA-A05-002	01:11:20;
+
+[PlaySe]=01:11:15	2	SysSe/SE_all/h/h_03	01:12:10;
+
+[PrintText]=01:14:16	Kotonoha	Mira como estoy toda mojada.	01:17:04;
+
+[PlayVoice]=01:14:16	Voice05/05-KA/05-KA-A05/05-KA-A05-0320	0	kot	01:17:04;
+
+[CreateBG]=01:16:21	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-008	01:27:07;
+
+[PrintText]=01:17:08	Makoto	Ah...	01:18:02;
+
+[PlayVoice]=01:17:08	Voice05/05-KA/05-KA-A05/05-KA-A05-0330	1	mak	01:18:02;
+
+[PrintText]=01:18:11	Kotonoha	Eres tú quien lo hace... quien me hace estar así...	01:23:19;
+
+[PlayVoice]=01:18:11	Voice05/05-KA/05-KA-A05/05-KA-A05-0340	0	kot	01:23:19;
+
+[PlaySe]=01:21:13	1	SysSe/SE_all/footsteps/asioto_room	01:24:18;
+
+[PrintText]=01:23:20	Makoto	Uh-huh...	01:25:04;
+
+[PlayVoice]=01:23:20	Voice05/05-KA/05-KA-A05/05-KA-A05-0350	1	mak	01:25:04;
+
+[PrintText]=01:25:03	Kotonoha	Y tú...	01:26:19;
+
+[PlayVoice]=01:25:03	Voice05/05-KA/05-KA-A05/05-KA-A05-0360	0	kot	01:26:19;
+
+[PlaySe]=01:25:10	2	Se05/05-KA/05-KA-A05/SE05-KA-A05-003	01:25:21;
+
+[PlaySe]=01:26:11	1	Se05/05-KA/05-KA-A05/SE05-KA-A05-004	01:27:04;
+
+[PlayBgm]=01:27:07	BGM/SD_BGM/sdbgm26	01:57:05;
+
+[PlayMovie]=01:27:07	Movie05/05-KA/05-KA-A05/05-KA-A05-011	0	01:57:05;
+
+[PrintText]=01:27:07	Kotonoha	Diciéndome... que me amas... justo aquí.	01:32:12;
+
+[PlayVoice]=01:27:07	Voice05/05-KA/05-KA-A05/05-KA-A05-0380	0	kot	01:32:12;
+
+[MoveSom]=01:27:07	1	01:42:14;
+
+[PrintText]=01:32:15	Makoto	Kuh...	01:33:15;
+
+[PlayVoice]=01:32:15	Voice05/05-KA/05-KA-A05/05-KA-A05-0390	1	mak	01:33:15;
+
+[PrintText]=01:33:18	Kotonoha	Somos tan compatibles... nuestros corazones... y nuestros cuerpos...	01:42:04;
+
+[PlayVoice]=01:33:18	Voice05/05-KA/05-KA-A05/05-KA-A05-0400	0	kot	01:42:04;
+
+[PrintText]=01:42:04	Kotonoha	Mmn...	01:42:15;
+
+[PlayVoice]=01:42:04	Voice05/05-KA/05-KA-A05/05-KA-A05-0420	0	kot	01:42:15;
+
+[PrintText]=01:42:15	Makoto	Haah...	01:44:19;
+
+[PlayVoice]=01:42:15	Voice05/05-KA/05-KA-A05/05-KA-A05-0430	1	mak	01:44:19;
+
+[MoveSom]=01:42:15	2	01:57:05;
+
+[PrintText]=01:44:21	Kotonoha	¿Lo ves?^	01:45:14;
+
+[PlayVoice]=01:44:21	Voice05/05-KA/05-KA-A05/05-KA-A05-0440	0	kot	01:45:14;
+
+[PrintText]=01:45:16	Makoto	...	01:47:03;
+
+[PlayVoice]=01:45:16	Voice05/05-KA/05-KA-A05/05-KA-A05-0450	1	xxx	01:47:03;
+
+[PrintText]=01:47:03	Kotonoha	Por favor, hazlo conmigo... como siempre sueles hacerlo.	01:50:03;
+
+[PlayVoice]=01:47:03	Voice05/05-KA/05-KA-A05/05-KA-A05-0460	0	kot	01:50:03;
+
+[PrintText]=01:50:03	Makoto	Um...	01:51:13;
+
+[PlayVoice]=01:50:03	Voice05/05-KA/05-KA-A05/05-KA-A05-0470	1	mak	01:51:13;
+
+[SetSELECT]=01:51:04	*Empujarla*	null	01:56:04;
+
+ ;
+
+[Next]=01:57:05;
+
+

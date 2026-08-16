@@ -1,0 +1,89 @@
+﻿[SkipFRAME]=01:11:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:19:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-001	00:09:20;
+
+[PrintText]=00:00:00	Makoto	Terminemos esto.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G01/05-KF-G01-0030	1	mak	00:01:14;
+
+[PlayVoice]=00:01:15	Voice05/05-KF/05-KF-G01/05-KF-G01-0040	0	kot	00:02:11;
+
+[PrintText]=00:02:11	Makoto	Yo... creo que esto no está funcionando entre nosotros.	00:06:15;
+
+[PlayVoice]=00:02:11	Voice05/05-KF/05-KF-G01/05-KF-G01-0050	1	mak	00:06:15;
+
+[PrintText]=00:06:15	Kotonoha	U-um... ¿Estás realmente molesto por lo que pasó?^	00:13:17;
+
+[PlayVoice]=00:06:15	Voice05/05-KF/05-KF-G01/05-KF-G01-0060	0	kot	00:13:17;
+
+[CreateBG]=00:09:20	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-002	00:19:20;
+
+[PrintText]=00:13:18	Makoto	...	00:16:12;
+
+[PlayVoice]=00:13:18	Voice05/05-KF/05-KF-G01/05-KF-G01-0070	1	xxx	00:16:12;
+
+[PrintText]=00:16:12	Kotonoha	Realmente lo siento. No te preguntaré más por ese tipo de cosas de nuevo.	00:22:16;
+
+[PlayVoice]=00:16:12	Voice05/05-KF/05-KF-G01/05-KF-G01-0080	0	kot	00:22:16;
+
+[CreateBG]=00:19:20	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-003	00:29:20;
+
+[PrintText]=00:22:16	Kotonoha	Y si no quieres almorzar conmigo después de todo, comeré sola, así que...	00:27:21;
+
+[PlayVoice]=00:22:16	Voice05/05-KF/05-KF-G01/05-KF-G01-0081	0	kot	00:27:21;
+
+[PrintText]=00:27:20	Makoto	Kotonoha... discúlpame.	00:32:12;
+
+[PlayVoice]=00:27:20	Voice05/05-KF/05-KF-G01/05-KF-G01-0090	1	mak	00:32:12;
+
+[CreateBG]=00:29:20	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-004	00:39:20;
+
+[PrintText]=00:32:11	Kotonoha	¿Te... disculpas? No... No lo entiendo ¿Por qué?^	00:42:19;
+
+[PlayVoice]=00:32:11	Voice05/05-KF/05-KF-G01/05-KF-G01-0100	0	kot	00:42:19;
+
+[CreateBG]=00:39:20	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-015	00:44:20;
+
+[PrintText]=00:42:19	Makoto	...	00:45:01;
+
+[PlayVoice]=00:42:19	Voice05/05-KF/05-KF-G01/05-KF-G01-0110	1	xxx	00:45:01;
+
+[CreateBG]=00:44:20	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-006	00:54:20;
+
+[PrintText]=00:45:01	Kotonoha	¿Estoy haciendo algo que te moleste?^	00:51:04;
+
+[PlayVoice]=00:45:01	Voice05/05-KF/05-KF-G01/05-KF-G01-0120	0	kot	00:51:04;
+
+[PrintText]=00:51:04	Kotonoha	¡Si es así, no lo volveré a hacer! ¡Cambiaré todo lo que no te guste de mí!	00:58:07;
+
+[PlayVoice]=00:51:04	Voice05/05-KF/05-KF-G01/05-KF-G01-0121	0	kot	00:58:07;
+
+[CreateBG]=00:54:20	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-017	00:59:20;
+
+[PrintText]=00:58:06	Makoto	...	01:01:08;
+
+[PlayVoice]=00:58:06	Voice05/05-KF/05-KF-G01/05-KF-G01-0130	1	xxx	01:01:08;
+
+[CreateBG]=00:59:20	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-008	01:09:20;
+
+[PrintText]=01:01:08	Kotonoha	¡Yo... no quiero terminar contigo!	01:08:08;
+
+[PlayVoice]=01:01:08	Voice05/05-KF/05-KF-G01/05-KF-G01-0140	0	kot	01:08:08;
+
+[PrintText]=01:08:08	Makoto	Kotonoha...	01:11:08;
+
+[PlayVoice]=01:08:08	Voice05/05-KF/05-KF-G01/05-KF-G01-0160	1	mak	01:11:08;
+
+[CreateBG]=01:09:20	BGS	Event05/05-KF/05-KF-G01/05-KF-G01-009	01:19:20;
+
+[SetSELECT]=01:11:08	'Solo bromeaba'	'Por favor entiende..'	01:16:09;
+
+ ;
+
+[Next]=01:19:20;
+
+
+
+

@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:37:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:37:15;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-M03/SE02-2S-M03-001	00:37:15;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-M03/02-2S-M03-001	00:15:10;
+
+[PrintText]=00:00:00	Sekai	Te amo, Makoto.	00:04:13;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-M03/02-2S-M03-0030	0	sek	00:04:13;
+
+[PrintText]=00:04:22	Makoto	Uh-huh.	00:05:12;
+
+[PlayVoice]=00:04:22	Voice02/02-2S/02-2S-M03/02-2S-M03-0040	1	mak	00:05:12;
+
+[PrintText]=00:05:23	Sekai	Te amo... aunque ames a alguien más.	00:11:05;
+
+[PlayVoice]=00:05:23	Voice02/02-2S/02-2S-M03/02-2S-M03-0050	0	sek	00:11:05;
+
+[PrintText]=00:11:12	Makoto	...	00:12:09;
+
+[PlayVoice]=00:11:12	Voice02/02-2S/02-2S-M03/02-2S-M03-0060	1	xxx	00:12:09;
+
+[PrintText]=00:12:18	Sekai	Te amo.	00:13:18;
+
+[PlayVoice]=00:12:18	Voice02/02-2S/02-2S-M03/02-2S-M03-0070	0	sek	00:13:18;
+
+[PrintText]=00:14:02	Makoto	Sekai...	00:15:00;
+
+[PlayVoice]=00:14:02	Voice02/02-2S/02-2S-M03/02-2S-M03-0080	1	mak	00:15:00;
+
+[CreateBG]=00:15:10	BGS	Event02/02-2S/02-2S-M03/02-2S-M03-002	00:22:21;
+
+[PlayVoice]=00:15:11	Voice02/02-2S/02-2S-M03/02-2S-M03-0100			00:16:11;
+
+[PrintText]=00:16:23	Makoto	Perdón... por preocuparte.	00:21:22;
+
+[PlayVoice]=00:16:23	Voice02/02-2S/02-2S-M03/02-2S-M03-0110	1	mak	00:21:22;
+
+[PrintText]=00:22:01	Sekai	¿Eh...?^	00:22:14;
+
+[PlayVoice]=00:22:01	Voice02/02-2S/02-2S-M03/02-2S-M03-0120	0	sek	00:22:14;
+
+[CreateBG]=00:22:21	BGS	Event02/02-2S/02-2S-M03/02-2S-M03-003	00:25:09;
+
+[PrintText]=00:23:01	Makoto	Te amo.	00:23:22;
+
+[PlayVoice]=00:23:01	Voice02/02-2S/02-2S-M03/02-2S-M03-0130	1	mak	00:23:22;
+
+[PrintText]=00:24:00	Sekai	Ah...	00:25:02;
+
+[PlayVoice]=00:24:00	Voice02/02-2S/02-2S-M03/02-2S-M03-0140	0	sek	00:25:02;
+
+[CreateBG]=00:25:09	BGS	Event02/02-2S/02-2S-M03/02-2S-M03-004	00:30:12;
+
+[PrintText]=00:25:09	Makoto	Te amo. Sekai.	00:28:16;
+
+[PlayVoice]=00:25:09	Voice02/02-2S/02-2S-M03/02-2S-M03-0150	1	mak	00:28:16;
+
+[PrintText]=00:29:00	Sekai	Uh-huh...	00:30:03;
+
+[PlayVoice]=00:29:00	Voice02/02-2S/02-2S-M03/02-2S-M03-0160	0	sek	00:30:03;
+
+[PlayMovie]=00:30:12	Movie02/02-2S/02-2S-M03/02-2S-M03-005	0	00:37:15;
+
+[PlaySe]=00:33:23	1	Voice02/02-2S/02-2S-M03/02-2S-M03-0180	00:37:10;
+
+[BlackFade]=00:36:15	OUT	00:37:15;
+
+ ;
+
+[Next]=00:37:15;
+
+
+
+

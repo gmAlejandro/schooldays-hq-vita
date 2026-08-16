@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:13:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:13:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-I05/05-5O-I05-001	00:06:20;
+
+[PrintText]=00:00:04	Makoto	Mi pequeña hermana vendrá hoy.	00:01:13;
+
+[PlayVoice]=00:00:04	Voice05/05-5O/05-5O-I05/05-5O-I05-0030	1	mak	00:01:13;
+
+[PrintText]=00:01:15	Kotonoha	¿Tu hermana?^	00:02:21;
+
+[PlayVoice]=00:01:15	Voice05/05-5O/05-5O-I05/05-5O-I05-0040	0	kot	00:02:21;
+
+[PrintText]=00:03:00	Makoto	Sí. Tengo que hacerle compañía...	00:06:19;
+
+[PlayVoice]=00:03:00	Voice05/05-5O/05-5O-I05/05-5O-I05-0050	1	mak	00:06:19;
+
+[CreateBG]=00:06:20	BGS	Event05/05-5O/05-5O-I05/05-5O-I05-002	00:13:17;
+
+[PrintText]=00:06:21	Kotonoha	Ya veo... bueno, no se puede hacer nada supongo.	00:11:03;
+
+[PlayVoice]=00:06:21	Voice05/05-5O/05-5O-I05/05-5O-I05-0060	0	kot	00:11:03;
+
+[PrintText]=00:11:06	Makoto	Sí.	00:11:19;
+
+[PlayVoice]=00:11:06	Voice05/05-5O/05-5O-I05/05-5O-I05-0070	1	mak	00:11:19;
+
+[PrintText]=00:11:22	Kotonoha	...	00:12:10;
+
+[PlayVoice]=00:11:22	Voice05/05-5O/05-5O-I05/05-5O-I05-0080	0	xxx	00:12:10;
+
+[BlackFade]=00:12:17	OUT	00:13:17;
+
+ ;
+
+[Next]=00:13:17;
+
+

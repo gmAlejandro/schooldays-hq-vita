@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:24:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:24:00;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-D02/SE03-KA-D02-001	00:24:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-D00/03-KA-D00-001	00:02:08;
+
+[PrintText]=00:00:00	Makoto	...Kokoro-chan nos interrumpió.	00:02:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-D02/03-KA-D02-0030	1	mak	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event03/03-KA/03-KA-D02/03-KA-D02-002	00:12:16;
+
+[PrintText]=00:02:08	Kotonoha	Lo siento... La próxima vez, me aseguraré de que no entre a la habitación... estaremos solos, y...	00:11:10;
+
+[PlayVoice]=00:02:08	Voice03/03-KA/03-KA-D02/03-KA-D02-0040	0	kot	00:11:10;
+
+[PrintText]=00:11:11	Makoto	¿Y?^	00:12:16;
+
+[PlayVoice]=00:11:11	Voice03/03-KA/03-KA-D02/03-KA-D02-0050	1	mak	00:12:16;
+
+[CreateBG]=00:12:16	BGS	Event03/03-KA/03-KA-D02/03-KA-D02-003A	00:16:14;
+
+[PrintText]=00:13:00	Kotonoha	Ah...	00:13:15;
+
+[PlayVoice]=00:13:00	Voice03/03-KA/03-KA-D02/03-KA-D02-0060	0	kot	00:13:15;
+
+[PrintText]=00:14:02	Makoto	Quieres decir que la próxima vez ¿Nos besaremos?^	00:16:18;
+
+[PlayVoice]=00:14:02	Voice03/03-KA/03-KA-D02/03-KA-D02-0070	1	mak	00:16:18;
+
+[CreateBG]=00:16:14	BGS	Event03/03-KA/03-KA-D02/03-KA-D02-003B	00:17:18;
+
+[CreateBG]=00:17:18	BGS	Event03/03-KA/03-KA-D02/03-KA-D02-004	00:24:00;
+
+[PrintText]=00:17:19	Kotonoha	U-um... bueno... quiero decir...	00:23:20;
+
+[PlayVoice]=00:17:19	Voice03/03-KA/03-KA-D02/03-KA-D02-0080	0	kot	00:23:20;
+
+ ;
+
+[Next]=00:24:00;
+
+

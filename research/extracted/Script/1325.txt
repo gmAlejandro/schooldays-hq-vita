@@ -1,0 +1,365 @@
+﻿[SkipFRAME]=07:47:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	06:55:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-D10/05-5O-D10-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-D10/05-5O-D10-002	00:06:00;
+
+[PlayMovie]=00:06:00	Movie05/05-5O/05-5O-D10/05-5O-D10-003	0	00:19:00;
+
+[PrintText]=00:06:09	Otome	Nn...	00:08:05;
+
+[PlayVoice]=00:06:09	Voice05/05-5O/05-5O-D10/05-5O-D10-0030	0	oto	00:08:05;
+
+[PrintText]=00:08:22	Makoto	Katou...	00:09:20;
+
+[PlayVoice]=00:08:22	Voice05/05-5O/05-5O-D10/05-5O-D10-0060	1	mak	00:09:20;
+
+[PrintText]=00:10:03	Otome	¿Estás seguro... que quieres escogerme?^	00:13:03;
+
+[PlayVoice]=00:10:03	Voice05/05-5O/05-5O-D10/05-5O-D10-0070	0	oto	00:13:03;
+
+[PrintText]=00:13:10	Makoto	¡¿Eh?!	00:14:00;
+
+[PlayVoice]=00:13:10	Voice05/05-5O/05-5O-D10/05-5O-D10-0080	1	mak	00:14:00;
+
+[PrintText]=00:14:18	Otome	Incluso si es así ahora, se siente un poco...	00:16:17;
+
+[PlayVoice]=00:14:18	Voice05/05-5O/05-5O-D10/05-5O-D10-0090	0	oto	00:16:17;
+
+[PrintText]=00:17:05	Makoto	Por supuesto que sí.	00:19:08;
+
+[PlayVoice]=00:17:05	Voice05/05-5O/05-5O-D10/05-5O-D10-0100	1	mak	00:19:08;
+
+[CreateBG]=00:19:00	BGS	Event05/05-5O/05-5O-D10/05-5O-D10-002	01:39:01;
+
+[PrintText]=00:19:00	Otome	Tengo estos sentimientos desde hace mucho que... estoy asustada...	00:24:21;
+
+[PlayVoice]=00:19:00	Voice05/05-5O/05-5O-D10/05-5O-D10-0110	0	oto	00:24:21;
+
+[PrintText]=00:25:04	Otome	Asustada de que tal vez te guste Saionji-san y Katsura, y solo te estás burlando de mí...	00:35:07;
+
+[PlayVoice]=00:25:04	Voice05/05-5O/05-5O-D10/05-5O-D10-0111	0	oto	00:35:07;
+
+[PrintText]=00:35:15	Makoto	No te preocupes, nunca haría eso. Tú eres la única que tiene mi atención ahora.	00:44:03;
+
+[PlayVoice]=00:35:15	Voice05/05-5O/05-5O-D10/05-5O-D10-0120	1	mak	00:44:03;
+
+[PrintText]=00:44:07	Otome	¿En serio..?^	00:45:10;
+
+[PlayVoice]=00:44:07	Voice05/05-5O/05-5O-D10/05-5O-D10-0130	0	oto	00:45:10;
+
+[PrintText]=00:45:17	Makoto	Sí... lo entiendo ahora. Sabía que había alguien que me entendía... alguien que estaba siempre conmigo... 	00:54:18;
+
+[PlayVoice]=00:45:17	Voice05/05-5O/05-5O-D10/05-5O-D10-0140	1	mak	00:54:18;
+
+[PrintText]=00:54:21	Otome	Sí... todo este tiempo, he estado enamorada de ti.	01:00:00;
+
+[PlayVoice]=00:54:21	Voice05/05-5O/05-5O-D10/05-5O-D10-0150	0	oto	01:00:00;
+
+[PrintText]=01:00:05	Makoto	A sido siempre natural que estemos juntos que jamás hubiera pensado en ti de esta manera. Lo siento.	01:11:17;
+
+[PlayVoice]=01:00:05	Voice05/05-5O/05-5O-D10/05-5O-D10-0160	1	mak	01:11:17;
+
+[PrintText]=01:12:00	Otome	Está bien... porque ahora soy la única contigo.	01:17:23;
+
+[PlayVoice]=01:12:00	Voice05/05-5O/05-5O-D10/05-5O-D10-0170	0	oto	01:17:23;
+
+[PrintText]=01:18:10	Makoto	Desde ahora, solo me fijaré en ti... y solo en ti.	01:27:15;
+
+[PlayVoice]=01:18:10	Voice05/05-5O/05-5O-D10/05-5O-D10-0180	1	mak	01:27:15;
+
+[PrintText]=01:27:23	Otome	Itou... llámame por mi nombre.	01:33:05;
+
+[PlayVoice]=01:27:23	Voice05/05-5O/05-5O-D10/05-5O-D10-0190	0	oto	01:33:05;
+
+[PrintText]=01:33:14	Makoto	¿Otome...?^	01:34:12;
+
+[PlayVoice]=01:33:14	Voice05/05-5O/05-5O-D10/05-5O-D10-0200	1	mak	01:34:12;
+
+[PrintText]=01:34:18	Otome	Sí, Llámame por mi nombre, Makoto...	01:38:18;
+
+[PlayVoice]=01:34:18	Voice05/05-5O/05-5O-D10/05-5O-D10-0210	0	oto	01:38:18;
+
+[PlayMovie]=01:39:01	Movie05/05-5O/05-5O-D10/05-5O-D10-005	0	02:21:19;
+
+[PlaySe]=01:39:15	1	Se05/05-5O/05-5O-D10/SE05-5O-D10-001	01:40:19;
+
+[PrintText]=01:40:09	Otome	Aah...	01:41:13;
+
+[PlayVoice]=01:40:09	Voice05/05-5O/05-5O-D10/05-5O-D10-0230	0	oto	01:41:13;
+
+[PrintText]=01:43:14	Makoto	Mueve tu mano...	01:46:00;
+
+[PlayVoice]=01:43:14	Voice05/05-5O/05-5O-D10/05-5O-D10-0250	1	mak	01:46:00;
+
+[PrintText]=01:46:12	Otome	Mis pechos no son tan grandes, así que...	01:51:05;
+
+[PlayVoice]=01:46:12	Voice05/05-5O/05-5O-D10/05-5O-D10-0260	0	oto	01:51:05;
+
+[PrintText]=01:51:13	Makoto	No importa... quiero verlos porque eres tú.	01:56:05;
+
+[PlayVoice]=01:51:13	Voice05/05-5O/05-5O-D10/05-5O-D10-0270	1	mak	01:56:05;
+
+[PrintText]=01:56:10	Otome	...Vale.	01:57:15;
+
+[PlayVoice]=01:56:10	Voice05/05-5O/05-5O-D10/05-5O-D10-0280	0	oto	01:57:15;
+
+[PrintText]=01:58:01	Otome	Oh, y... sé que sonará como repetitivo, pero...	02:02:02;
+
+[PlayVoice]=01:58:01	Voice05/05-5O/05-5O-D10/05-5O-D10-0290	0	oto	02:02:02;
+
+[PrintText]=02:02:16	Otome	Um... es mi primera vez... así que...	02:08:01;
+
+[PlayVoice]=02:02:16	Voice05/05-5O/05-5O-D10/05-5O-D10-0300	0	oto	02:08:01;
+
+[PrintText]=02:09:22	Makoto	Vale, entonces... también te responderé así,.. seré gentil.	02:17:02;
+
+[PlayVoice]=02:09:22	Voice05/05-5O/05-5O-D10/05-5O-D10-0310	1	mak	02:17:02;
+
+[PrintText]=02:17:02	Otome	...	02:17:17;
+
+[PlayVoice]=02:17:02	Voice05/05-5O/05-5O-D10/05-5O-D10-0320	0	xxx	02:17:17;
+
+[PrintText]=02:17:17	Makoto	...	02:21:14;
+
+[PlayVoice]=02:17:17	Voice05/05-5O/05-5O-D10/05-5O-D10-0330	1	xxx	02:21:14;
+
+[PrintText]=02:19:02	Otome	...	02:20:07;
+
+[PlayVoice]=02:19:02	Voice05/05-5O/05-5O-D10/05-5O-D10-0321	0	xxx	02:20:07;
+
+[PlayMovie]=02:21:19	Movie05/05-5O/05-5O-D10/05-5O-D10-006	0	02:31:10;
+
+[PrintText]=02:22:08	Makoto	Te ves tan linda...	02:24:03;
+
+[PlayVoice]=02:22:08	Voice05/05-5O/05-5O-D10/05-5O-D10-0340	1	mak	02:24:03;
+
+[PrintText]=02:24:07	Otome	...	03:12:17;
+
+[PlayVoice]=02:24:07	Voice05/05-5O/05-5O-D10/05-5O-D10-0322	0	xxx	03:12:17;
+
+[PlayMovie]=02:31:10	Movie05/05-5O/05-5O-D10/05-5O-D10-007	0	02:43:02;
+
+[PlayMovie]=02:43:02	Movie05/05-5O/05-5O-D10/05-5O-D10-008	0	03:13:07;
+
+[PrintText]=02:45:02	Makoto	Otome... calma...	02:49:11;
+
+[PlayVoice]=02:45:02	Voice05/05-5O/05-5O-D10/05-5O-D10-0350	1	mak	02:49:11;
+
+[PlaySe]=02:55:04	1	SysSe/SE_all/h/h_03	03:23:09;
+
+[PlayMovie]=03:13:07	Movie05/05-5O/05-5O-D10/05-5O-D10-009	0	03:23:09;
+
+[PrintText]=03:13:12	Otome	Makoto...	03:19:00;
+
+[PlayVoice]=03:13:12	Voice05/05-5O/05-5O-D10/05-5O-D10-0360	0	oto	03:19:00;
+
+[PrintText]=03:19:06	Otome	...	03:22:19;
+
+[PlayVoice]=03:19:06	Voice05/05-5O/05-5O-D10/05-5O-D10-0361	0	xxx	03:22:19;
+
+[PlayMovie]=03:23:09	Movie05/05-5O/05-5O-D10/05-5O-D10-010	0	03:39:03;
+
+[PrintText]=03:23:09	Otome	Hey... hey... también quiero hacerte sentir bien...	03:36:12;
+
+[PlayVoice]=03:23:09	Voice05/05-5O/05-5O-D10/05-5O-D10-0370	0	oto	03:36:12;
+
+[PlayMovie]=03:39:03	Movie05/05-5O/05-5O-D10/05-5O-D10-011	0	03:52:21;
+
+[PlaySe]=03:39:04	1	SysSe/SE_all/h/h_03	04:30:09;
+
+[PlaySe]=03:39:05	2	SysSe/SE_all/h/h_04	04:01:00;
+
+[PrintText]=03:39:17	Otome	...	04:30:20;
+
+[PlayVoice]=03:39:17	Voice05/05-5O/05-5O-D10/05-5O-D10-0371	0	xxx	04:30:20;
+
+[MoveSom]=03:50:13	1	04:02:01;
+
+[PlayMovie]=03:52:21	Movie05/05-5O/05-5O-D10/05-5O-D10-012	0	04:03:07;
+
+[PlaySe]=04:01:03	3	SysSe/SE_all/h/h_04	04:22:22;
+
+[MoveSom]=04:02:01	2	04:18:04;
+
+[PlayMovie]=04:03:07	Movie05/05-5O/05-5O-D10/05-5O-D10-013	0	04:12:11;
+
+[PlayMovie]=04:12:11	Movie05/05-5O/05-5O-D10/05-5O-D10-014	0	04:20:22;
+
+[MoveSom]=04:18:04	1	04:30:08;
+
+[PlayMovie]=04:20:22	Movie05/05-5O/05-5O-D10/05-5O-D10-015	0	04:28:15;
+
+[PlaySe]=04:22:23	2	SysSe/SE_all/h/h_04	04:30:10;
+
+[PlayMovie]=04:28:15	Movie05/05-5O/05-5O-D10/05-5O-D10-016	0	04:34:17;
+
+[PrintText]=04:31:03	Otome	Quiero... hacerlo...	04:34:12;
+
+[PlayVoice]=04:31:03	Voice05/05-5O/05-5O-D10/05-5O-D10-0380	0	oto	04:34:12;
+
+[PrintText]=04:34:13	Otome	...	04:37:07;
+
+[PlayVoice]=04:34:13	Voice05/05-5O/05-5O-D10/05-5O-D10-0381	0	xxx	04:37:07;
+
+[PlayMovie]=04:34:17	Movie05/05-5O/05-5O-D10/05-5O-D10-017	0	04:39:05;
+
+[PlaySe]=04:35:08	3	SysSe/SE_all/h/h_04	04:39:20;
+
+[MoveSom]=04:36:04	1	05:27:09;
+
+[PrintText]=04:37:07	Otome	Sí... ¿Qué hay de ti?^	04:52:04;
+
+[PlayVoice]=04:37:07	Voice05/05-5O/05-5O-D10/05-5O-D10-0400	0	oto	04:52:04;
+
+[PlaySe]=04:38:04	1	SysSe/SE_all/h/h_03	04:39:19;
+
+[PlayMovie]=04:39:05	Movie05/05-5O/05-5O-D10/05-5O-D10-018	0	05:03:15;
+
+[PrintText]=04:39:05	Makoto	¿Estás segura?^	04:40:20;
+
+[PlayVoice]=04:39:05	Voice05/05-5O/05-5O-D10/05-5O-D10-0390	1	mak	04:40:20;
+
+[PrintText]=04:49:03	Makoto	Sí... se siente tan bien...	04:56:15;
+
+[PlayVoice]=04:49:03	Voice05/05-5O/05-5O-D10/05-5O-D10-0410	1	mak	04:56:15;
+
+[PrintText]=04:54:16	Otome	...	05:06:03;
+
+[PlayVoice]=04:54:16	Voice05/05-5O/05-5O-D10/05-5O-D10-0401	0	xxx	05:06:03;
+
+[PlayMovie]=05:03:15	Movie05/05-5O/05-5O-D10/05-5O-D10-019	0	05:10:14;
+
+[PrintText]=05:06:10	Makoto	Creo que voy a venirme en un momento...	05:10:06;
+
+[PlayVoice]=05:06:10	Voice05/05-5O/05-5O-D10/05-5O-D10-0420	1	mak	05:10:06;
+
+[PlayMovie]=05:10:14	Movie05/05-5O/05-5O-D10/05-5O-D10-020	0	05:29:13;
+
+[PrintText]=05:10:17	Otome	Está bien... continúa...	05:18:05;
+
+[PlayVoice]=05:10:17	Voice05/05-5O/05-5O-D10/05-5O-D10-0430	0	oto	05:18:05;
+
+[PrintText]=05:18:16	Otome	Si se siente bien para ti... entonces estoy feliz.	05:25:14;
+
+[PlayVoice]=05:18:16	Voice05/05-5O/05-5O-D10/05-5O-D10-0440	0	oto	05:25:14;
+
+[PrintText]=05:26:00	Otome	...	06:12:10;
+
+[PlayVoice]=05:26:00	Voice05/05-5O/05-5O-D10/05-5O-D10-0441	0	xxx	06:12:10;
+
+[MoveSom]=05:27:09	2	05:30:05;
+
+[PlaySe]=05:28:02	1	SysSe/SE_all/h/h_03	06:22:13;
+
+[PlaySe]=05:28:03	2	SysSe/SE_all/h/h_05	06:08:10;
+
+[PlaySe]=05:28:06	3	SysSe/SE_all/h/h_04	05:50:01;
+
+[PlayMovie]=05:29:13	Movie05/05-5O/05-5O-D10/05-5O-D10-021	0	05:37:01;
+
+[MoveSom]=05:30:05	3	05:37:13;
+
+[PlayMovie]=05:37:01	Movie05/05-5O/05-5O-D10/05-5O-D10-022	0	05:45:16;
+
+[MoveSom]=05:37:13	4	05:45:19;
+
+[PlayMovie]=05:45:16	Movie05/05-5O/05-5O-D10/05-5O-D10-023	0	05:53:12;
+
+[MoveSom]=05:45:19	5	05:54:10;
+
+[PlayMovie]=05:53:12	Movie05/05-5O/05-5O-D10/05-5O-D10-024	0	06:00:16;
+
+[MoveSom]=05:54:10	3	06:00:22;
+
+[PlayMovie]=06:00:16	Movie05/05-5O/05-5O-D10/05-5O-D10-025	0	06:05:00;
+
+[MoveSom]=06:00:22	4	06:15:20;
+
+[PlayMovie]=06:05:00	Movie05/05-5O/05-5O-D10/05-5O-D10-026	0	06:07:19;
+
+[PlayMovie]=06:07:19	Movie05/05-5O/05-5O-D10/05-5O-D10-025	0	06:10:14;
+
+[PlaySe]=06:08:16	3	SysSe/SE_all/h/h_05	06:22:11;
+
+[PlayMovie]=06:10:14	Movie05/05-5O/05-5O-D10/05-5O-D10-026	0	06:13:09;
+
+[PrintText]=06:12:22	Otome	Vamos... dame todo lo que tienes...	06:19:08;
+
+[PlayVoice]=06:12:22	Voice05/05-5O/05-5O-D10/05-5O-D10-0450	0	oto	06:19:08;
+
+[PlayMovie]=06:13:09	Movie05/05-5O/05-5O-D10/05-5O-D10-030	0	06:15:18;
+
+[PlaySe]=06:15:12	2	SysSe/SE_all/h/h_04	06:22:12;
+
+[PlayMovie]=06:15:18	Movie05/05-5O/05-5O-D10/05-5O-D10-031	0	06:30:14;
+
+[MoveSom]=06:15:20	5	06:22:13;
+
+[PrintText]=06:20:08	Otome	Está saliendo... es mucho... Makoto... está muy caliente...	06:31:02;
+
+[PlayVoice]=06:20:08	Voice05/05-5O/05-5O-D10/05-5O-D10-0460	0	oto	06:31:02;
+
+[PrintText]=06:22:19	Makoto	...	06:27:18;
+
+[PlayVoice]=06:22:19	Voice05/05-5O/05-5O-D10/05-5O-D10-0421	1	xxx	06:27:18;
+
+[PlayMovie]=06:30:14	Movie05/05-5O/05-5O-D10/05-5O-D10-032	0	06:54:07;
+
+[PlaySe]=06:30:15	1	SysSe/SE_all/h/h_03	06:33:02;
+
+[PrintText]=06:33:05	Otome	No... no lo retires... solo... déjalo por un momento. Quiero sentirlo dentro de mí...	06:44:05;
+
+[PlayVoice]=06:33:05	Voice05/05-5O/05-5O-D10/05-5O-D10-0470	0	oto	06:44:05;
+
+[PrintText]=06:44:12	Otome	...	06:48:15;
+
+[PlayVoice]=06:44:12	Voice05/05-5O/05-5O-D10/05-5O-D10-0471	0	xxx	06:48:15;
+
+[PlaySe]=06:45:01	1	SysSe/SE_all/h/h_03	06:46:21;
+
+[PlaySe]=06:45:01	2	SysSe/SE_all/h/h_04	06:46:21;
+
+[PrintText]=06:45:09	Makoto	...	06:49:05;
+
+[PlayVoice]=06:45:09	Voice05/05-5O/05-5O-D10/05-5O-D10-0422	1	xxx	06:49:05;
+
+[PrintText]=06:49:11	Makoto	Haah... haah...	06:54:05;
+
+[PlayVoice]=06:49:11	Voice05/05-5O/05-5O-D10/05-5O-D10-0500	1	mak	06:54:05;
+
+[WhiteFade]=06:53:07	OUT	06:54:07;
+
+[CreateBG]=06:54:07	BGS	System/Screen/White	06:59:18;
+
+[PrintText]=06:54:18	Otome	Makoto...	06:55:23;
+
+[PlayVoice]=06:54:18	Voice05/05-5O/05-5O-D10/05-5O-D10-0510	0	oto	06:55:23;
+
+[PrintText]=06:56:05	Makoto	Sí.	06:56:20;
+
+[PlayVoice]=06:56:05	Voice05/05-5O/05-5O-D10/05-5O-D10-0520	1	mak	06:56:20;
+
+[PrintText]=06:57:19	Otome	Te amo...	06:58:23;
+
+[PlayVoice]=06:57:19	Voice05/05-5O/05-5O-D10/05-5O-D10-0530	0	oto	06:58:23;
+
+[EndBGM]=06:58:11	BGM/Vocal/SDV08	08:56:23;
+
+[PlayMovie]=06:59:18	Movie05/05-5O/05-5O-D10/05-5O-D10-033	0	07:04:18;
+
+[WhiteFade]=06:59:18	IN	07:00:18;
+
+[WhiteFade]=07:03:18	OUT	07:04:18;
+
+[CreateBG]=07:04:18	BGS	Ini/EndRoll/05-04	07:07:00;
+
+[EndRoll]=07:07:00	Ini/EndRoll/GOOD	07:47:00;
+
+ ;
+
+[Next]=07:47:00;
+
+

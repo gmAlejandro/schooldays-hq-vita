@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:19:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:19:07;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-B05/SE03-KA-B05-001	00:19:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-B05/03-KA-B05-001	00:01:14;
+
+[PrintText]=00:00:00	Makoto	Quería darte una sorpresa.	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-B05/03-KA-B05-0030	1	mak	00:01:13;
+
+[CreateBG]=00:01:14	BGS	Event03/03-KA/03-KA-B05/03-KA-B05-002	00:05:05;
+
+[PrintText]=00:01:14	Kotonoha	Ooh... a sido una gran sorpresa.	00:05:09;
+
+[PlayVoice]=00:01:14	Voice03/03-KA/03-KA-B05/03-KA-B05-0040	0	kot	00:05:09;
+
+[CreateBG]=00:05:05	BGS	Event03/03-KA/03-KA-B05/03-KA-B05-003	00:06:16;
+
+[PrintText]=00:05:05	Makoto	Perdón.	00:06:11;
+
+[PlayVoice]=00:05:05	Voice03/03-KA/03-KA-B05/03-KA-B05-0050	1	mak	00:06:11;
+
+[CreateBG]=00:06:16	BGS	Event03/03-KA/03-KA-B05/03-KA-B05-004	00:10:12;
+
+[PrintText]=00:06:16	Kotonoha	...pero me gustan este tipo de sorpresas.	00:10:15;
+
+[PlayVoice]=00:06:16	Voice03/03-KA/03-KA-B05/03-KA-B05-0060	0	kot	00:10:15;
+
+[CreateBG]=00:10:12	BGS	Event03/03-KA/03-KA-B05/03-KA-B05-005	00:11:16;
+
+[PrintText]=00:10:12	Makoto	Genial.	00:11:19;
+
+[PlayVoice]=00:10:12	Voice03/03-KA/03-KA-B05/03-KA-B05-0070	1	mak	00:11:19;
+
+[CreateBG]=00:11:16	BGS	Event03/03-KA/03-KA-B05/03-KA-B05-006	00:17:06;
+
+[PrintText]=00:11:16	Kotonoha	Ufufu... ahora, después de lo del festival de la escuela, también podremos estar juntos después de clases.	00:17:05;
+
+[PlayVoice]=00:11:16	Voice03/03-KA/03-KA-B05/03-KA-B05-0080	0	kot	00:17:05;
+
+[CreateBG]=00:17:06	BGS	Event03/03-KA/03-KA-B05/03-KA-B05-007	00:19:07;
+
+[PrintText]=00:17:08	Makoto	Sí.	00:18:07;
+
+[PlayVoice]=00:17:08	Voice03/03-KA/03-KA-B05/03-KA-B05-0090	1	mak	00:18:07;
+
+[BlackFade]=00:18:07	OUT	00:19:07;
+
+ ;
+
+[Next]=00:19:07;
+
+

@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:22:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/home/door_chime1	00:02:14;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-B04/05-KF-B04-001	00:01:16;
+
+[CreateBG]=00:01:16	BGS	Event05/05-KF/05-KF-B04/05-KF-B04-002	00:07:04;
+
+[PrintText]=00:01:16	Makoto	¿Hola?^	00:03:00;
+
+[PlayVoice]=00:01:16	Voice05/05-KF/05-KF-B04/05-KF-B04-0040	1	mak	00:03:00;
+
+[PlaySe]=00:02:13	2	SysSe/SE_all/door/door_mansyon	00:07:17;
+
+[CreateBG]=00:07:04	BGS	Event05/05-KF/05-KF-B04/05-KF-B04-003	00:14:05;
+
+[PrintText]=00:07:05	Sekai	Soy yo.	00:08:11;
+
+[PlayVoice]=00:07:05	Voice05/05-KF/05-KF-B04/05-KF-B04-0060	0	sek	00:08:11;
+
+[PrintText]=00:08:11	Makoto	Sí.	00:10:03;
+
+[PlayVoice]=00:08:11	Voice05/05-KF/05-KF-B04/05-KF-B04-0070	1	mak	00:10:03;
+
+[PlayBgm]=00:10:04	BGM/SD_BGM/sdbgm29	00:22:00;
+
+[PrintText]=00:10:04	Sekai	Te quería decir que... terminé con él.	00:14:04;
+
+[PlayVoice]=00:10:04	Voice05/05-KF/05-KF-B04/05-KF-B04-0080	0	sek	00:14:04;
+
+[PrintText]=00:14:04	Makoto	Lo sé.	00:15:23;
+
+[PlayVoice]=00:14:04	Voice05/05-KF/05-KF-B04/05-KF-B04-0090	1	mak	00:15:23;
+
+[CreateBG]=00:14:05	BGS	Event05/05-KF/05-KF-B04/05-KF-B04-004	00:22:00;
+
+[PrintText]=00:15:23	Sekai	¿Lo escuchaste de Sawanaga?^	00:18:03;
+
+[PlayVoice]=00:15:23	Voice05/05-KF/05-KF-B04/05-KF-B04-0110	0	sek	00:18:03;
+
+[PrintText]=00:18:03	Makoto	Sí.	00:19:13;
+
+[PlayVoice]=00:18:03	Voice05/05-KF/05-KF-B04/05-KF-B04-0120	1	mak	00:19:13;
+
+[PrintText]=00:19:13	Sekai	Ya veo...	00:20:14;
+
+[PlayVoice]=00:19:13	Voice05/05-KF/05-KF-B04/05-KF-B04-0130	0	sek	00:20:14;
+
+ ;
+
+[Next]=00:22:00;
+
+
+
+

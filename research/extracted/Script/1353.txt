@@ -1,0 +1,135 @@
+﻿[SkipFRAME]=01:12:05;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/kyousitu_rouka	01:12:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-002	00:08:23;
+
+[PrintText]=00:03:03	Taisuke	Hombre... esa sopa super-picante que salió hace unas semanas era otra cosa.	00:09:01;
+
+[PlayVoice]=00:03:03	Voice05/05-5O/05-5O-H00/05-5O-H00-0030	1	tai	00:09:01;
+
+[CreateBG]=00:08:23	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-003	00:12:23;
+
+[PrintText]=00:08:23	Makoto	No me gustan las cosas picantes.	00:12:15;
+
+[PlayVoice]=00:08:23	Voice05/05-5O/05-5O-H00/05-5O-H00-0040	1	mak	00:12:15;
+
+[CreateBG]=00:12:23	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-004	00:18:16;
+
+[PrintText]=00:12:23	Taisuke	¡No digas eso! ¡Es adictivo hombre!	00:16:21;
+
+[PlayVoice]=00:12:23	Voice05/05-5O/05-5O-H00/05-5O-H00-0050	1	tai	00:16:21;
+
+[PlaySe]=00:14:01	1	Se05/05-5O/05-5O-H00/SE05-5O-H00-001	00:19:09;
+
+[PrintText]=00:17:01	Hikari	¡Hey!	00:18:15;
+
+[PlayVoice]=00:17:01	Voice05/05-5O/05-5O-H00/05-5O-H00-0060	0	hik	00:18:15;
+
+[CreateBG]=00:18:16	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-005	00:19:11;
+
+[PrintText]=00:18:17	Makoto	¿Hmn?^	00:19:08;
+
+[PlayVoice]=00:18:17	Voice05/05-5O/05-5O-H00/05-5O-H00-0070	1	mak	00:19:08;
+
+[CreateBG]=00:19:11	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-006	00:27:19;
+
+[PrintText]=00:19:12	Hikari	Taisuke!	00:20:15;
+
+[PlayVoice]=00:19:12	Voice05/05-5O/05-5O-H00/05-5O-H00-0080	0	hik	00:20:15;
+
+[PrintText]=00:20:15	Taisuke	Ah, Hikari.	00:22:00;
+
+[PlayVoice]=00:20:15	Voice05/05-5O/05-5O-H00/05-5O-H00-0100	1	tai	00:22:00;
+
+[PrintText]=00:22:00	Hikari	Me dijiste que almorzaríamos hoy, ¿Pero ahora estás evitándolo al irte a la tienda?^	00:27:23;
+
+[PlayVoice]=00:22:00	Voice05/05-5O/05-5O-H00/05-5O-H00-0110	0	hik	00:27:23;
+
+[CreateBG]=00:27:19	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-007	00:31:07;
+
+[PrintText]=00:27:20	Taisuke	Ah... ahora que lo pienso, lo hice.	00:31:14;
+
+[PlayVoice]=00:27:20	Voice05/05-5O/05-5O-H00/05-5O-H00-0120	1	tai	00:31:14;
+
+[CreateBG]=00:31:07	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-001	00:38:14;
+
+[PrintText]=00:31:08	Hikari	¡No me hagas eso!	00:33:13;
+
+[PlayVoice]=00:31:08	Voice05/05-5O/05-5O-H00/05-5O-H00-0130	0	hik	00:33:13;
+
+[PlaySe]=00:33:06	1	Se05/05-5O/05-5O-H00/SE05-5O-H00-002	00:33:13;
+
+[PrintText]=00:33:10	Taisuke	¡Ow! ¡Perdón! ¡En serio perdóname, así que déjalo ya!	00:38:11;
+
+[PlayVoice]=00:33:10	Voice05/05-5O/05-5O-H00/05-5O-H00-0140	1	tai	00:38:11;
+
+[CreateBG]=00:38:14	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-009	00:43:01;
+
+[PrintText]=00:38:17	Makoto	¿No me digas que están saliendo?^	00:42:19;
+
+[PlayVoice]=00:38:17	Voice05/05-5O/05-5O-H00/05-5O-H00-0150	1	mak	00:42:19;
+
+[CreateBG]=00:43:01	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-010	00:56:17;
+
+[PrintText]=00:43:04	Hikari	¿Eh...? U-um...	00:46:14;
+
+[PlayVoice]=00:43:04	Voice05/05-5O/05-5O-H00/05-5O-H00-0160	0	hik	00:46:14;
+
+[PrintText]=00:46:11	Taisuke	...	00:47:15;
+
+[PlayVoice]=00:46:11	Voice05/05-5O/05-5O-H00/05-5O-H00-0170	1	xxx	00:47:15;
+
+[PrintText]=00:47:15	Hikari	V-Vamos, Taisuke...	00:50:13;
+
+[PlayVoice]=00:47:15	Voice05/05-5O/05-5O-H00/05-5O-H00-0180	0	hik	00:50:13;
+
+[PrintText]=00:50:11	Taisuke	Bueno, dijiste que hacíamos buena pareja, así que se lo pregunté en broma... y...	00:56:23;
+
+[PlayVoice]=00:50:11	Voice05/05-5O/05-5O-H00/05-5O-H00-0190	1	tai	00:56:23;
+
+[CreateBG]=00:56:17	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-011	01:05:16;
+
+[PrintText]=00:56:18	Hikari	Qué quieres decir ¿Una broma?!	00:58:21;
+
+[PlayVoice]=00:56:18	Voice05/05-5O/05-5O-H00/05-5O-H00-0200	0	hik	00:58:21;
+
+[PrintText]=00:58:14	Taisuke	Uguh...	00:59:13;
+
+[PlayVoice]=00:58:14	Voice05/05-5O/05-5O-H00/05-5O-H00-0210	1	tai	00:59:13;
+
+[PrintText]=00:59:18	Makoto	Bien... al menos parece que se llevan bien.	01:02:13;
+
+[PlayVoice]=00:59:18	Voice05/05-5O/05-5O-H00/05-5O-H00-0220	1	mak	01:02:13;
+
+[PrintText]=01:02:08	Taisuke	Sí...	01:03:05;
+
+[PlayVoice]=01:02:08	Voice05/05-5O/05-5O-H00/05-5O-H00-0230	1	tai	01:03:05;
+
+[PrintText]=01:03:06	Makoto	Ve con ella.	01:05:16;
+
+[PlayVoice]=01:03:06	Voice05/05-5O/05-5O-H00/05-5O-H00-0240	1	mak	01:05:16;
+
+[CreateBG]=01:05:16	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-012	01:12:05;
+
+[PrintText]=01:05:16	Taisuke	¿Qué hay de ti?^	01:06:13;
+
+[PlayVoice]=01:05:16	Voice05/05-5O/05-5O-H00/05-5O-H00-0250	1	tai	01:06:13;
+
+[PrintText]=01:06:14	Makoto	Yo... iré a la cafetería supongo.	01:08:18;
+
+[PlayVoice]=01:06:14	Voice05/05-5O/05-5O-H00/05-5O-H00-0260	1	mak	01:08:18;
+
+[PrintText]=01:08:20	Taisuke	Cierto. Perdón por esto.	01:10:23;
+
+[PlayVoice]=01:08:20	Voice05/05-5O/05-5O-H00/05-5O-H00-0270	1	tai	01:10:23;
+
+[BlackFade]=01:11:05	OUT	01:12:05;
+
+ ;
+
+[Next]=01:12:05;
+
+

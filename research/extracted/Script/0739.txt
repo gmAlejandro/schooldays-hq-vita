@@ -1,0 +1,119 @@
+﻿[SkipFRAME]=01:51:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	01:07:05;
+
+[PlayMovie]=00:00:00	Movie03/03-SA/03-SA-C04/03-SA-C04-001	0	00:02:07;
+
+[PrintText]=00:00:06	Makoto	Sekai.	00:01:09;
+
+[PlayVoice]=00:00:06	Voice03/03-SA/03-SA-C04/03-SA-C04-0040	1	mak	00:01:09;
+
+[PrintText]=00:01:05	Sekai	¡...!	00:02:05;
+
+[PlayVoice]=00:01:05	Voice03/03-SA/03-SA-C04/03-SA-C04-0050	0	xxx	00:02:05;
+
+[CreateBG]=00:02:07	BGS	Event03/03-SA/03-SA-C04/03-SA-C04-002	01:04:14;
+
+[PrintText]=00:02:07	Makoto	¿Has olvidado cómo me siento?^	00:05:19;
+
+[PlayVoice]=00:02:07	Voice03/03-SA/03-SA-C04/03-SA-C04-0060	1	mak	00:05:19;
+
+[PrintText]=00:05:15	Sekai	¿Eh...?^	00:06:16;
+
+[PlayVoice]=00:05:15	Voice03/03-SA/03-SA-C04/03-SA-C04-0070	0	sek	00:06:16;
+
+[PrintText]=00:06:16	Makoto	Es cierto que si Kotonoha sufre... yo también sufro...	00:11:21;
+
+[PlayVoice]=00:06:16	Voice03/03-SA/03-SA-C04/03-SA-C04-0080	1	mak	00:11:21;
+
+[PrintText]=00:11:22	Makoto	Pero quiero estar contigo, no con Kotonoha.	00:18:06;
+
+[PlayVoice]=00:11:22	Voice03/03-SA/03-SA-C04/03-SA-C04-0090	1	mak	00:18:06;
+
+[PrintText]=00:18:08	Sekai	Ahh...	00:19:11;
+
+[PlayVoice]=00:18:08	Voice03/03-SA/03-SA-C04/03-SA-C04-0100	0	sek	00:19:11;
+
+[PrintText]=00:19:18	Makoto	No puedo odiar a Kotonoha... y no estoy tratando de actuar frío ante ella...	00:24:21;
+
+[PlayVoice]=00:19:18	Voice03/03-SA/03-SA-C04/03-SA-C04-0110	1	mak	00:24:21;
+
+[PrintText]=00:24:19	Sekai	Uh-huh...	00:25:21;
+
+[PlayVoice]=00:24:19	Voice03/03-SA/03-SA-C04/03-SA-C04-0120	0	sek	00:25:21;
+
+[PrintText]=00:25:23	Makoto	Pero si tendría que escoger, te escogería a ti.	00:32:20;
+
+[PlayVoice]=00:25:23	Voice03/03-SA/03-SA-C04/03-SA-C04-0130	1	mak	00:32:20;
+
+[PrintText]=00:32:18	Sekai	Makoto...	00:33:20;
+
+[PlayVoice]=00:32:18	Voice03/03-SA/03-SA-C04/03-SA-C04-0140	0	sek	00:33:20;
+
+[PrintText]=00:34:02	Makoto	Por favor, no ignores mis sentimientos diciéndome que vaya a buscar a Kotonoha.	00:41:12;
+
+[PlayVoice]=00:34:02	Voice03/03-SA/03-SA-C04/03-SA-C04-0150	1	mak	00:41:12;
+
+[PrintText]=00:41:18	Sekai	Uh-huh...	00:42:20;
+
+[PlayVoice]=00:41:18	Voice03/03-SA/03-SA-C04/03-SA-C04-0160	0	sek	00:42:20;
+
+[PrintText]=00:42:20	Makoto	O es que... ¿Ahora me odias?^	00:48:11;
+
+[PlayVoice]=00:42:20	Voice03/03-SA/03-SA-C04/03-SA-C04-0170	1	mak	00:48:11;
+
+[PrintText]=00:48:01	Sekai	¡No! ¡Te amo más que a nadie!	00:53:13;
+
+[PlayVoice]=00:48:01	Voice03/03-SA/03-SA-C04/03-SA-C04-0180	0	sek	00:53:13;
+
+[PrintText]=00:53:11	Makoto	Gracias al cielo.	00:54:10;
+
+[PlayVoice]=00:53:11	Voice03/03-SA/03-SA-C04/03-SA-C04-0190	1	mak	00:54:10;
+
+[PrintText]=00:54:15	Sekai	...Lo siento.	00:55:14;
+
+[PlayVoice]=00:54:15	Voice03/03-SA/03-SA-C04/03-SA-C04-0200	0	sek	00:55:14;
+
+[PrintText]=00:55:20	Makoto	Está bien.	00:56:14;
+
+[PlayVoice]=00:55:20	Voice03/03-SA/03-SA-C04/03-SA-C04-0210	1	mak	00:56:14;
+
+[PrintText]=00:56:19	Sekai	No diré más.	00:59:11;
+
+[PlayVoice]=00:56:19	Voice03/03-SA/03-SA-C04/03-SA-C04-0220	0	sek	00:59:11;
+
+[PrintText]=00:59:15	Makoto	Uh-huh.	01:00:05;
+
+[PlayVoice]=00:59:15	Voice03/03-SA/03-SA-C04/03-SA-C04-0230	1	mak	01:00:05;
+
+[PrintText]=01:00:11	Sekai	No voy a dudar más.	01:03:11;
+
+[PlayVoice]=01:00:11	Voice03/03-SA/03-SA-C04/03-SA-C04-0240	0	sek	01:03:11;
+
+[PrintText]=01:03:12	Makoto	Uh-huh.	01:04:02;
+
+[PlayVoice]=01:03:12	Voice03/03-SA/03-SA-C04/03-SA-C04-0250	1	mak	01:04:02;
+
+[CreateBG]=01:04:14	BGS	Event03/03-SA/03-SA-C04/03-SA-C04-003	01:08:21;
+
+[PrintText]=01:04:14	Sekai	Por qué te amo demasiado...	01:05:20;
+
+[PlayVoice]=01:04:14	Voice03/03-SA/03-SA-C04/03-SA-C04-0260	0	sek	01:05:20;
+
+[PrintText]=01:06:05	Makoto	Uh-huh...	01:06:18;
+
+[PlayVoice]=01:06:05	Voice03/03-SA/03-SA-C04/03-SA-C04-0270	1	mak	01:06:18;
+
+[PlaySe]=01:07:04	1	Voice03/03-SA/03-SA-C04/03-SA-C04-0280sekai	01:08:16;
+
+[EndBGM]=01:07:05	BGM/Vocal/SDV04	03:17:22;
+
+[CreateBG]=01:08:21	BGS	Ini/EndRoll/03-10	01:11:00;
+
+[EndRoll]=01:11:00	Ini/EndRoll/NORMAL	01:51:00;
+
+ ;
+
+[Next]=01:51:00;
+
+

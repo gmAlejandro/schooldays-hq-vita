@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:33:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:33:22;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-J00/SE03-KA-J00-001	00:33:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-001	00:02:03;
+
+[PrintText]=00:00:00	Makoto	...	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-J00/03-KA-J00-0030	1	xxx	00:01:00;
+
+[PrintText]=00:01:09	Kotonoha	¿Makoto-kun...?^	00:02:17;
+
+[PlayVoice]=00:01:09	Voice03/03-KA/03-KA-J00/03-KA-J00-0040	0	kot	00:02:17;
+
+[CreateBG]=00:02:03	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-002	00:03:17;
+
+[PrintText]=00:02:18	Setsuna	Katsura-san.	00:03:21;
+
+[PlayVoice]=00:02:18	Voice03/03-KA/03-KA-J00/03-KA-J00-0050	0	set	00:03:21;
+
+[CreateBG]=00:03:17	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-003	00:06:22;
+
+[PrintText]=00:03:17	Kotonoha	¡Ah! ¡Sí!	00:05:02;
+
+[PlayVoice]=00:03:17	Voice03/03-KA/03-KA-J00/03-KA-J00-0060	0	kot	00:05:02;
+
+[PrintText]=00:05:09	Setsuna	Itou y yo estamos en una reunión para nuestra clase.	00:09:22;
+
+[PlayVoice]=00:05:09	Voice03/03-KA/03-KA-J00/03-KA-J00-0070	0	set	00:09:22;
+
+[CreateBG]=00:06:22	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-004	00:08:18;
+
+[CreateBG]=00:08:18	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-005	00:14:15;
+
+[PrintText]=00:10:00	Kotonoha	Y-Ya veo. Lo siento.	00:13:13;
+
+[PlayVoice]=00:10:00	Voice03/03-KA/03-KA-J00/03-KA-J00-0080	0	kot	00:13:13;
+
+[PrintText]=00:13:17	Setsuna	Está bien.	00:14:11;
+
+[PlayVoice]=00:13:17	Voice03/03-KA/03-KA-J00/03-KA-J00-0090	0	set	00:14:11;
+
+[CreateBG]=00:14:15	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-006	00:16:20;
+
+[PrintText]=00:14:17	Kotonoha	Me iré, entonces...	00:17:01;
+
+[PlayVoice]=00:14:17	Voice03/03-KA/03-KA-J00/03-KA-J00-0100	0	kot	00:17:01;
+
+[CreateBG]=00:16:20	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-007	00:18:00;
+
+[PrintText]=00:16:20	Makoto	Ah...	00:17:19;
+
+[PlayVoice]=00:16:20	Voice03/03-KA/03-KA-J00/03-KA-J00-0120	1	mak	00:17:19;
+
+[CreateBG]=00:18:00	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-008	00:21:07;
+
+[PrintText]=00:18:02	Setsuna	¿Katsura-san y tú tenían planes?^	00:21:04;
+
+[PlayVoice]=00:18:02	Voice03/03-KA/03-KA-J00/03-KA-J00-0130	0	set	00:21:04;
+
+[CreateBG]=00:21:07	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-009	00:22:17;
+
+[PrintText]=00:21:08	Makoto	Realmente no.	00:22:11;
+
+[PlayVoice]=00:21:08	Voice03/03-KA/03-KA-J00/03-KA-J00-0140	1	mak	00:22:11;
+
+[CreateBG]=00:22:17	BGS	Event03/03-KA/03-KA-J00/03-KA-J00-010	00:33:22;
+
+[PrintText]=00:22:22	Setsuna	Venga, volvamos al aula, es mejor explicarlo rápido antes de que el almuerzo termine.	00:31:09;
+
+[PlayVoice]=00:22:22	Voice03/03-KA/03-KA-J00/03-KA-J00-0150	0	set	00:31:09;
+
+[PrintText]=00:31:13	Makoto	Vale, vale.	00:32:15;
+
+[PlayVoice]=00:31:13	Voice03/03-KA/03-KA-J00/03-KA-J00-0160	1	mak	00:32:15;
+
+[BlackFade]=00:32:22	OUT	00:33:22;
+
+ ;
+
+[Next]=00:33:22;
+
+

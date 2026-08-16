@@ -1,0 +1,36 @@
+﻿[SkipFRAME]=00:11:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:11:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-H04/05-SA-H04-001	00:06:19;
+
+[PrintText]=00:00:09	Makoto	Porque amo a Sekai.	00:01:23;
+
+[PlayVoice]=00:00:09	Voice05/05-SA/05-SA-H04/05-SA-H04-0030	1	mak	00:01:23;
+
+[PrintText]=00:02:09	Kotonoha	Ah...	00:03:18;
+
+[PlayVoice]=00:02:09	Voice05/05-SA/05-SA-H04/05-SA-H04-0040	0	kot	00:03:18;
+
+[PrintText]=00:04:20	Makoto	...Perdóname.	00:06:05;
+
+[PlayVoice]=00:04:20	Voice05/05-SA/05-SA-H04/05-SA-H04-0050	1	mak	00:06:05;
+
+[CreateBG]=00:06:19	BGS	Event05/05-SA/05-SA-H04/05-SA-H04-002	00:11:18;
+
+[PrintText]=00:07:04	Kotonoha	¿Por qué...?^	00:08:14;
+
+[PlayVoice]=00:07:04	Voice05/05-SA/05-SA-H04/05-SA-H04-0060	0	kot	00:08:14;
+
+[PrintText]=00:08:10	Makoto	...	00:09:10;
+
+[PlayVoice]=00:08:10	Voice05/05-SA/05-SA-H04/05-SA-H04-0070	1	xxx	00:09:10;
+
+[BlackFade]=00:11:07	OUT	00:11:18;
+
+ ;
+
+[Next]=00:11:18;
+
+
+

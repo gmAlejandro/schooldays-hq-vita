@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:06:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:06:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/bed/bed_kisimi01	00:01:19;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-A00/03-SB-A00-001	0	00:06:00;
+
+[PrintText]=00:00:00	Makoto	Haah... haah...	00:06:00;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-A00/03-SB-A00-0040	1	mak	00:06:00;
+
+[MoveSom]=00:00:00	4	00:06:00;
+
+[PlaySe]=00:00:10	3	SysSe/SE_all/h/h_01	00:02:03;
+
+[PrintText]=00:01:03	Sekai	¡Nn...! ¡Ahh...! ¡Ahh...! ¡Ahh...! ¡Ah!	00:06:00;
+
+[PlayVoice]=00:01:03	Voice03/03-SB/03-SB-A00/03-SB-A00-0050	0	sek	00:06:00;
+
+[PlaySe]=00:02:00	1	SysSe/SE_all/bed/bed_kisimi01	00:03:20;
+
+[PlaySe]=00:02:09	3	SysSe/SE_all/h/h_01	00:04:02;
+
+[PlaySe]=00:04:01	1	SysSe/SE_all/bed/bed_kisimi01	00:05:20;
+
+[PlaySe]=00:04:08	3	SysSe/SE_all/h/h_01	00:05:19;
+
+ ;
+
+[Next]=00:06:00;
+
+

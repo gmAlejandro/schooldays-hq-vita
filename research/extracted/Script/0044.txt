@@ -1,0 +1,235 @@
+﻿[SkipFRAME]=02:10:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	02:16:20;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E01/SE01-00-E01-001	01:09:06;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-G00/00-00-G00-013	0	00:04:00;
+
+[CreateBG]=00:04:00	BGS	Event01/01-00/01-00-E01/01-00-E01-002	00:06:19;
+
+[PrintText]=00:04:20	Kotonoha	Ah...	00:06:03;
+
+[PlayVoice]=00:04:20	Voice01/01-00/01-00-E01/01-00-E01-0040	0	kot	00:06:03;
+
+[CreateBG]=00:06:19	BGS	Event01/01-00/01-00-E01/01-00-E01-003	00:09:19;
+
+[CreateBG]=00:09:19	BGS	Event01/01-00/01-00-E01/01-00-E01-004	00:12:10;
+
+[CreateBG]=00:12:10	BGS	Event01/01-00/01-00-E01/01-00-E01-005	00:14:20;
+
+[PrintText]=00:12:16	Makoto	¿Siempre tienes uno, Katsura?^	00:15:01;
+
+[PlayVoice]=00:12:16	Voice01/01-00/01-00-E01/01-00-E01-0080	1	mak	00:15:01;
+
+[CreateBG]=00:14:20	BGS	Event01/01-00/01-00-E01/01-00-E01-006	00:24:20;
+
+[PrintText]=00:14:20	Kotonoha	¿Eh? Oh, sí. Lo compro en la panadería frente a la estación cada mañana.	00:20:26;
+
+[PrintText]=00:20:26	Kotonoha	Está hecho con levadura natural, está muy bueno.	00:24:19;
+
+[PlayVoice]=00:14:20	Voice01/01-00/01-00-E01/01-00-E01-0090	0	kot	00:24:19;
+
+[CreateBG]=00:24:20	BGS	Event01/01-00/01-00-E01/01-00-E01-007	00:27:16;
+
+[PrintText]=00:24:20	Makoto	Wow... sí, seguro.	00:27:13;
+
+[PlayVoice]=00:24:20	Voice01/01-00/01-00-E01/01-00-E01-0100	1	mak	00:27:13;
+
+[CreateBG]=00:27:16	BGS	Event01/01-00/01-00-E01/01-00-E01-008	00:29:15;
+
+[PrintText]=00:27:21	Kotonoha	¿Quieres uno?^	00:29:13;
+
+[PlayVoice]=00:27:21	Voice01/01-00/01-00-E01/01-00-E01-0110	0	kot	00:29:13;
+
+[CreateBG]=00:29:15	BGS	Event01/01-00/01-00-E01/01-00-E01-009	00:39:05;
+
+[PrintText]=00:29:17	Makoto	Oh, Claro. Puedes tomar algo del mio también, es de la cafetería, sin embargo.	00:36:14;
+
+[PlayVoice]=00:29:17	Voice01/01-00/01-00-E01/01-00-E01-0120	1	mak	00:36:14;
+
+[PrintText]=00:36:18	Kotonoha	En ese caso... vamos a ver...	00:39:00;
+
+[PlayVoice]=00:36:18	Voice01/01-00/01-00-E01/01-00-E01-0130	0	kot	00:39:00;
+
+[CreateBG]=00:39:05	BGS	Event01/01-00/01-00-E01/01-00-E01-010	00:43:14;
+
+[PrintText]=00:40:09	Makoto	Mmn. Sabe bien.	00:45:23;
+
+[PlayVoice]=00:40:09	Voice01/01-00/01-00-E01/01-00-E01-0140	1	mak	00:45:23;
+
+[CreateBG]=00:43:14	BGS	Event01/01-00/01-00-E01/01-00-E01-011	00:47:06;
+
+[PrintText]=00:45:20	Kotonoha	¿En serio?^	00:47:03;
+
+[PlayVoice]=00:45:20	Voice01/01-00/01-00-E01/01-00-E01-0150	0	kot	00:47:03;
+
+[CreateBG]=00:47:06	BGS	Event01/01-00/01-00-E01/01-00-E01-012	00:50:21;
+
+[PrintText]=00:47:13	Makoto	Mmn...	00:48:09;
+
+[PlayVoice]=00:47:13	Voice01/01-00/01-00-E01/01-00-E01-0160	1	mak	00:48:09;
+
+[PrintText]=00:48:22	Kotonoha	...	00:50:09;
+
+[PlayVoice]=00:48:22	Voice01/01-00/01-00-E01/01-00-E01-0170	0	xxx	00:50:09;
+
+[CreateBG]=00:50:21	BGS	Event01/01-00/01-00-E01/01-00-E01-013	00:53:14;
+
+[PrintText]=00:51:03	Makoto	Um, Por cierto.	00:53:16;
+
+[PlayVoice]=00:51:03	Voice01/01-00/01-00-E01/01-00-E01-0180	1	mak	00:53:16;
+
+[CreateBG]=00:53:14	BGS	Event01/01-00/01-00-E01/01-00-E01-014	00:55:07;
+
+[PrintText]=00:53:14	Kotonoha	¡¿S-Sí?!	00:55:04;
+
+[PlayVoice]=00:53:14	Voice01/01-00/01-00-E01/01-00-E01-0190	0	kot	00:55:04;
+
+[CreateBG]=00:55:07	BGS	Event01/01-00/01-00-E01/01-00-E01-015	00:58:18;
+
+[PrintText]=00:55:07	Makoto	¿Estás libre hoy?^	00:58:17;
+
+[PlayVoice]=00:55:07	Voice01/01-00/01-00-E01/01-00-E01-0200	1	mak	00:58:17;
+
+[CreateBG]=00:58:18	BGS	Event01/01-00/01-00-E01/01-00-E01-016	00:59:19;
+
+[PrintText]=00:58:19	Kotonoha	¿Hoy?^	00:59:18;
+
+[PlayVoice]=00:58:19	Voice01/01-00/01-00-E01/01-00-E01-0210	0	kot	00:59:18;
+
+[CreateBG]=00:59:19	BGS	Event01/01-00/01-00-E01/01-00-E01-017	01:07:17;
+
+[PrintText]=01:00:01	Makoto	¿Quiero decir, después de clases, si no tienes nada que hacer ¿Podemos hacer algo como ayer?^	01:07:15;
+
+[PlayVoice]=01:00:01	Voice01/01-00/01-00-E01/01-00-E01-0220	1	mak	01:07:15;
+
+[CreateBG]=01:07:17	BGS	Event01/01-00/01-00-E01/01-00-E01-018	01:12:04;
+
+[PrintText]=01:07:23	Kotonoha	Ah... pero hoy tengo reunión del consejo estudiantil, también.	01:12:02;
+
+[PlayVoice]=01:07:23	Voice01/01-00/01-00-E01/01-00-E01-0230	0	kot	01:12:02;
+
+[PlaySe]=01:09:05	2	Se01/01-00/01-00-E01/SE01-00-E01-001	02:16:20;
+
+[CreateBG]=01:12:04	BGS	Event01/01-00/01-00-E01/01-00-E01-019	01:17:21;
+
+[PrintText]=01:12:06	Makoto	Ya veo. Pero tal vez después de la reunión, también tienes tiempo, tus...	01:18:03;
+
+[PlayVoice]=01:12:06	Voice01/01-00/01-00-E01/01-00-E01-0240	1	mak	01:18:03;
+
+[CreateBG]=01:17:21	BGS	Event01/01-00/01-00-E01/01-00-E01-020	01:25:09;
+
+[PrintText]=01:17:21	Kotonoha	Ayer llegue a casa tarde, y mi papá se molesto conmigo, así que tengo que llegar temprano hoy.	01:25:05;
+
+[PlayVoice]=01:17:21	Voice01/01-00/01-00-E01/01-00-E01-0250	0	kot	01:25:05;
+
+[CreateBG]=01:25:09	BGS	Event01/01-00/01-00-E01/01-00-E01-021	01:26:23;
+
+[PrintText]=01:25:09	Makoto	¿Tienes problemas ahora...?^	01:26:20;
+
+[PlayVoice]=01:25:09	Voice01/01-00/01-00-E01/01-00-E01-0260	1	mak	01:26:20;
+
+[CreateBG]=01:26:23	BGS	Event01/01-00/01-00-E01/01-00-E01-022	01:31:14;
+
+[PrintText]=01:27:05	Kotonoha	Tenemos estrictas reglas en mi casa.	01:30:23;
+
+[PlayVoice]=01:27:05	Voice01/01-00/01-00-E01/01-00-E01-0270	0	kot	01:30:23;
+
+[CreateBG]=01:31:14	BGS	Event01/01-00/01-00-E01/01-00-E01-023	01:33:19;
+
+[PrintText]=01:31:22	Makoto	Lo Siento. No lo sabía.	01:34:00;
+
+[PlayVoice]=01:31:22	Voice01/01-00/01-00-E01/01-00-E01-0280	1	mak	01:34:00;
+
+[PrintText]=01:33:12	Kotonoha	No, estoy feliz de que me invitaras.	01:37:05;
+
+[PlayVoice]=01:33:12	Voice01/01-00/01-00-E01/01-00-E01-0290	0	kot	01:37:05;
+
+[CreateBG]=01:33:19	BGS	Event01/01-00/01-00-E01/01-00-E01-024	01:37:06;
+
+[CreateBG]=01:37:06	BGS	Event01/01-00/01-00-E01/01-00-E01-015	01:50:15;
+
+[PrintText]=01:37:06	Makoto	Pero...	01:38:00;
+
+[PlayVoice]=01:37:06	Voice01/01-00/01-00-E01/01-00-E01-0300	1	mak	01:38:00;
+
+[PrintText]=01:38:09	Kotonoha	...	01:39:20;
+
+[PlayVoice]=01:38:09	Voice01/01-00/01-00-E01/01-00-E01-0310	0	xxx	01:39:20;
+
+[PrintText]=01:40:07	Makoto	¿Tienes reunión todos los días?^	01:43:13;
+
+[PlayVoice]=01:40:07	Voice01/01-00/01-00-E01/01-00-E01-0320	1	mak	01:43:13;
+
+[PrintText]=01:43:13	Kotonoha	No todos los días, es que se está acercando el festival escolar.	01:48:01;
+
+[PlayVoice]=01:43:13	Voice01/01-00/01-00-E01/01-00-E01-0330	0	kot	01:48:01;
+
+[PrintText]=01:48:08	Makoto	Ya veo.	01:49:06;
+
+[PlayVoice]=01:48:08	Voice01/01-00/01-00-E01/01-00-E01-0340	1	mak	01:49:06;
+
+[PrintText]=01:49:12	Kotonoha	Perdón.	01:50:19;
+
+[PlayVoice]=01:49:12	Voice01/01-00/01-00-E01/01-00-E01-0350	0	kot	01:50:19;
+
+[CreateBG]=01:50:15	BGS	Event01/01-00/01-00-E01/01-00-E01-026	01:55:08;
+
+[PrintText]=01:50:15	Makoto	N-No, no tienes que disculparte, después de todo es un evento escolar.	01:55:04;
+
+[PlayVoice]=01:50:15	Voice01/01-00/01-00-E01/01-00-E01-0360	1	mak	01:55:04;
+
+[CreateBG]=01:55:08	BGS	Event01/01-00/01-00-E01/01-00-E01-027	01:57:13;
+
+[PrintText]=01:55:15	Kotonoha	Pero...	01:56:22;
+
+[PlayVoice]=01:55:15	Voice01/01-00/01-00-E01/01-00-E01-0370	0	kot	01:56:22;
+
+[CreateBG]=01:57:13	BGS	Event01/01-00/01-00-E01/01-00-E01-015	02:03:10;
+
+[PrintText]=01:57:21	Makoto	Mm...	01:58:18;
+
+[PlayVoice]=01:57:21	Voice01/01-00/01-00-E01/01-00-E01-0380	1	mak	01:58:18;
+
+[CreateBG]=02:03:10	BGS	Event01/01-00/01-00-E01/01-00-E01-030	02:05:04;
+
+[PrintText]=02:03:10	Kotonoha	U-um...	02:05:10;
+
+[PlayVoice]=02:03:10	Voice01/01-00/01-00-E01/01-00-E01-0400	0	kot	02:05:10;
+
+[CreateBG]=02:05:04	BGS	Event01/01-00/01-00-E01/01-00-E01-031	02:06:18;
+
+[PrintText]=02:05:04	Makoto	¿Sí?^	02:06:14;
+
+[PlayVoice]=02:05:04	Voice01/01-00/01-00-E01/01-00-E01-0410	1	mak	02:06:14;
+
+[CreateBG]=02:06:18	BGS	Event01/01-00/01-00-E01/01-00-E01-032	02:11:06;
+
+[PrintText]=02:06:20	Kotonoha	¿Saionji-san no vino hoy...?^	02:08:21;
+
+[PlayVoice]=02:06:20	Voice01/01-00/01-00-E01/01-00-E01-0420	0	kot	02:08:21;
+
+[PrintText]=02:08:15	Makoto	Oh, ¿Sekai?^	02:10:08;
+
+[PlayVoice]=02:08:15	Voice01/01-00/01-00-E01/01-00-E01-0430	1	mak	02:10:08;
+
+[PrintText]=02:10:12	Kotonoha	Sí.	02:11:05;
+
+[PlayVoice]=02:10:12	Voice01/01-00/01-00-E01/01-00-E01-0440	0	kot	02:11:05;
+
+[SetSELECT]=02:10:15	'...dijo que deberíamos comer solos'	'Olvídala'	02:15:15;
+
+[CreateBG]=02:11:06	BGS	Event01/01-00/01-00-E01/01-00-E01-033	02:16:20;
+
+[PrintText]=02:11:12	Makoto	Sekai...	02:12:12;
+
+[PlayVoice]=02:11:12	Voice01/01-00/01-00-E01/01-00-E01-0450	1	mak	02:12:12;
+
+ ;
+
+[Next]=02:16:20;
+
+
+
+

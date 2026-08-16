@@ -1,0 +1,42 @@
+﻿[SkipFRAME]=00:12:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:12:07;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:12:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-C02/05-KA-C02-001	00:01:15;
+
+[PrintText]=00:00:00	Makoto	Estaba con Kotonoha.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-C02/05-KA-C02-0030	1	mak	00:01:14;
+
+[CreateBG]=00:01:15	BGS	Event05/05-KA/05-KA-C02/05-KA-C02-002	00:02:21;
+
+[PrintText]=00:01:15	Sekai	...Lo sabía.	00:02:18;
+
+[PlayVoice]=00:01:15	Voice05/05-KA/05-KA-C02/05-KA-C02-0040	0	sek	00:02:18;
+
+[CreateBG]=00:02:21	BGS	Event05/05-KA/05-KA-C02/05-KA-C02-003	00:03:14;
+
+[PrintText]=00:02:21	Makoto	¿Eh...?^	00:03:12;
+
+[PlayVoice]=00:02:21	Voice05/05-KA/05-KA-C02/05-KA-C02-0050	1	mak	00:03:12;
+
+[CreateBG]=00:03:14	BGS	Event05/05-KA/05-KA-C02/05-KA-C02-004	00:11:10;
+
+[PrintText]=00:03:14	Sekai	Había una cama atrás de la casa embrujada... Katsura-san y tu durmieron juntos ¿No?^	00:11:09;
+
+[PlayVoice]=00:03:14	Voice05/05-KA/05-KA-C02/05-KA-C02-0060	0	sek	00:11:09;
+
+[CreateBG]=00:11:10	BGS	Event05/05-KA/05-KA-C02/05-KA-C02-005	00:12:07;
+
+[PrintText]=00:11:11	Makoto	¿Qué...?^	00:12:06;
+
+[PlayVoice]=00:11:11	Voice05/05-KA/05-KA-C02/05-KA-C02-0070	1	mak	00:12:06;
+
+ ;
+
+[Next]=00:12:07;
+
+
+

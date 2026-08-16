@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:20:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:20:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D03/04-SE-D03-001	00:01:03;
+
+[CreateBG]=00:01:03	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-001B	00:02:03;
+
+#[PrintText]=00:01:03	Makoto	"En ese caso, olvídalo.".	00:02:03;
+
+[CreateBG]=00:02:04	BGS	Event04/04-SE/04-SE-D03/04-SE-D03-002	00:03:12;
+
+[CreateBG]=00:03:12	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-003A	00:04:14;
+
+#[PrintText]=00:03:12	Sekai	"Makoto.\n¿Estás enojado?".	00:04:14;
+
+[CreateBG]=00:04:14	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-003B	00:05:15;
+
+#[PrintText]=00:04:14	Makoto	"No.".	00:05:15;
+
+[CreateBG]=00:05:15	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-003C	00:06:22;
+
+#[PrintText]=00:05:15	Sekai	"Sí, lo estás.".	00:06:22;
+
+[CreateBG]=00:06:22	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-003D	00:08:02;
+
+#[PrintText]=00:06:22	Makoto	"Te dije que lo olvidaras.".	00:08:02;
+
+[CreateBG]=00:08:02	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-003E	00:09:19;
+
+#[PrintText]=00:08:02	Sekai	"Eso no es justo.\nEstás enojado.".	00:09:19;
+
+[CreateBG]=00:09:19	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-003F	00:11:13;
+
+#[PrintText]=00:09:19	Makoto	"No es que esté molesto, ¿Pero me perdonarás?".	00:11:13;
+
+[CreateBG]=00:11:13	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-003G	00:13:00;
+
+#[PrintText]=00:11:13	Sekai&Makoto	Sekai: "Sí."\nMakoto: "Entonces, vamos a la tienda de hamburguesas después de clases.".	00:13:00;
+
+[CreateBG]=00:13:00	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-003H	00:15:17;
+
+[CreateBG]=00:15:17	BGS	Event04/04-SE/04-SE-D03/04-SE-D03-004	00:16:17;
+
+[CreateBG]=00:16:17	BGS	Ini/Event04/04-SE/04-SE-D03/04-SE-D03-004B	00:17:12;
+
+#[PrintText]=00:16:17	Sekai	"¡Vale!".	00:17:12;
+
+[CreateBG]=00:17:12	BGS	Event04/04-SE/04-SE-D03/04-SE-D03-005	00:20:22;
+
+[PlayVoice]=00:18:10	Voice04/04-SE/04-SE-D03/04-SE-D03-0150			00:20:05;
+
+ ;
+
+[Next]=00:20:22;
+
+

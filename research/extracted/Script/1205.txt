@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:04:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:10:04;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G01/04-SB-G01-001	00:10:04;
+
+[PrintText]=00:00:00	Makoto	Ah...	00:00:19;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-G01/04-SB-G01-0040	1	mak	00:00:19;
+
+[PrintText]=00:00:19	Makoto	¿...Era por aquí?^	00:02:13;
+
+[PlayVoice]=00:00:19	Voice04/04-SB/04-SB-G01/04-SB-G01-0050	1	mak	00:02:13;
+
+[PrintText]=00:02:13	Makoto	No puedo ir rondando y empezar a abrir cada uno...	00:04:19;
+
+[PlayVoice]=00:02:13	Voice04/04-SB/04-SB-G01/04-SB-G01-0060	1	mak	00:04:19;
+
+[SetSELECT]=00:04:00	*Rendirse*	null	00:09:00;
+
+ ;
+
+[Next]=00:10:04;
+
+

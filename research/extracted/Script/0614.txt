@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:03:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:09:06;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-A01/SE03-KB-A01-001	00:09:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-A01/03-KB-A01-001A	00:01:10;
+
+[PrintText]=00:00:00	Kotonoha	Disculpe.	00:01:09;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-A01/03-KB-A01-0040	0	kot	00:01:09;
+
+[PrintText]=00:01:09	Makoto	Ah...	00:02:00;
+
+[PlayVoice]=00:01:09	Voice03/03-KB/03-KB-A01/03-KB-A01-0050	1	mak	00:02:00;
+
+[CreateBG]=00:01:10	BGS	Event03/03-KB/03-KB-A01/03-KB-A01-001B	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KB/03-KB-A01/03-KB-A01-001C	00:03:01;
+
+[PrintText]=00:02:00	Kotonoha	Ah...	00:03:00;
+
+[PlayVoice]=00:02:00	Voice03/03-KB/03-KB-A01/03-KB-A01-0060	0	kot	00:03:00;
+
+[CreateBG]=00:03:01	BGS	Event03/03-KB/03-KB-A01/03-KB-A01-002	00:09:06;
+
+[SetSELECT]=00:03:03	'Hola'	'¿Como estás?'	00:08:03;
+
+ ;
+
+[Next]=00:09:06;
+
+

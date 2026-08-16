@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:02:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:02:16;
+
+[CreateBG]=00:00:00	BGS	System/Screen/Black	00:01:04;
+
+[PlaySe]=00:00:01	1	Se05/05-5O/05-5O-A08/SE05-5O-A08-001	00:01:21;
+
+[CreateBG]=00:01:04	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-003	00:02:16;
+
+[PrintText]=00:01:09	Makoto	Ah...	00:02:02;
+
+[PlayVoice]=00:01:09	Voice05/05-5O/05-5O-A08/05-5O-A08-0040	1	mak	00:02:02;
+
+ ;
+
+[Next]=00:02:16;
+
+

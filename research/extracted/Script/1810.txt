@@ -1,0 +1,216 @@
+﻿[SkipFRAME]=01:54:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	01:54:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/keitai/tyakusin_makoto	00:03:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-001	00:03:13;
+
+[PlaySe]=00:03:04	1	SysSe/SE_all/keitai/keitai_sousa	00:03:06;
+
+[CreateBG]=00:03:13	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-002	00:06:23;
+
+[PrintText]=00:03:13	Makoto	¿Sí?^	00:04:07;
+
+[PlayVoice]=00:03:13	Voice05/05-SE/05-SE-B01/05-SE-B01-0050	1	mak	00:04:07;
+
+[PrintText]=00:04:06	Taisuke	¡Makoto!	00:06:22;
+
+[PlayVoice]=00:04:06	Voice05/05-SE/05-SE-B01/05-SE-B01-0060	1	tai	00:06:22;
+
+[PrintText]=00:06:22	Makoto	Taisuke...	00:07:21;
+
+[PlayVoice]=00:06:22	Voice05/05-SE/05-SE-B01/05-SE-B01-0070	1	mak	00:07:21;
+
+[CreateBG]=00:06:23	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-003	00:21:09;
+
+[PrintText]=00:07:21	Taisuke	¡Hey... no te imaginas!	00:10:08;
+
+[PlayVoice]=00:07:21	Voice05/05-SE/05-SE-B01/05-SE-B01-0080	1	tai	00:10:08;
+
+[PrintText]=00:10:08	Makoto	¿Sí?^	00:11:03;
+
+[PlayVoice]=00:10:08	Voice05/05-SE/05-SE-B01/05-SE-B01-0090	1	mak	00:11:03;
+
+[PrintText]=00:11:03	Taisuke	¡Me terminaron!	00:15:15;
+
+[PlayVoice]=00:11:03	Voice05/05-SE/05-SE-B01/05-SE-B01-0100	1	tai	00:15:15;
+
+[PrintText]=00:15:14	Makoto	...	00:16:07;
+
+[PlayVoice]=00:15:14	Voice05/05-SE/05-SE-B01/05-SE-B01-0110	1	mak	00:16:07;
+
+[PrintText]=00:16:07	Taisuke	Después de clases... Sekai de repente terminó conmigo.	00:20:09;
+
+[PlayVoice]=00:16:07	Voice05/05-SE/05-SE-B01/05-SE-B01-0120	1	tai	00:20:09;
+
+[PrintText]=00:20:09	Makoto	¿En serio?^	00:21:09;
+
+[PlayVoice]=00:20:09	Voice05/05-SE/05-SE-B01/05-SE-B01-0130	1	mak	00:21:09;
+
+[CreateBG]=00:21:09	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-004	00:44:08;
+
+[PrintText]=00:21:09	Taisuke	Solo me decía que había alguien a quien quería. No lo entiendo... uuh...	00:31:10;
+
+[PlayVoice]=00:21:09	Voice05/05-SE/05-SE-B01/05-SE-B01-0140	1	tai	00:31:10;
+
+[PrintText]=00:31:10	Makoto	...	00:33:03;
+
+[PlayVoice]=00:31:10	Voice05/05-SE/05-SE-B01/05-SE-B01-0150	1	xxx	00:33:03;
+
+[PrintText]=00:33:03	Taisuke	¡Makoto! ¿Te dijo quién le gustaba?^	00:37:15;
+
+[PlayVoice]=00:33:03	Voice05/05-SE/05-SE-B01/05-SE-B01-0160	1	tai	00:37:15;
+
+[PrintText]=00:37:15	Makoto	¡¿Huh?!	00:38:08;
+
+[PlayVoice]=00:37:15	Voice05/05-SE/05-SE-B01/05-SE-B01-0170	1	mak	00:38:08;
+
+[PrintText]=00:38:08	Taisuke	Eres muy cercano a ella ¡¿No es así?!	00:42:01;
+
+[PlayVoice]=00:38:08	Voice05/05-SE/05-SE-B01/05-SE-B01-0180	1	tai	00:42:01;
+
+[PrintText]=00:42:01	Makoto	...	00:44:08;
+
+[PlayVoice]=00:42:01	Voice05/05-SE/05-SE-B01/05-SE-B01-0190	1	xxx	00:44:08;
+
+[CreateBG]=00:44:08	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-005	01:04:18;
+
+[PrintText]=00:44:08	Makoto	...Soy yo.	00:45:07;
+
+[PlayVoice]=00:44:08	Voice05/05-SE/05-SE-B01/05-SE-B01-0220	1	mak	00:45:07;
+
+[PrintText]=00:45:07	Taisuke	¡¿Huh?!	00:46:04;
+
+[PlayVoice]=00:45:07	Voice05/05-SE/05-SE-B01/05-SE-B01-0230	1	tai	00:46:04;
+
+[PrintText]=00:46:05	Makoto	Yo siempre he amado a Sekai... así que le dije que quería salir con ella.	00:52:17;
+
+[PlayVoice]=00:46:05	Voice05/05-SE/05-SE-B01/05-SE-B01-0240	1	mak	00:52:17;
+
+[PrintText]=00:52:17	Taisuke	¡Estás bromeando! ¿Qué hay de Katsura-san?	00:56:07;
+
+[PlayVoice]=00:52:17	Voice05/05-SE/05-SE-B01/05-SE-B01-0250	1	tai	00:56:07;
+
+[PrintText]=00:56:07	Makoto	Terminé ayer con ella.	00:59:04;
+
+[PlayVoice]=00:56:07	Voice05/05-SE/05-SE-B01/05-SE-B01-0260	1	mak	00:59:04;
+
+[PrintText]=00:59:05	Taisuke	¡¿Qué?!	01:00:12;
+
+[PlayVoice]=00:59:05	Voice05/05-SE/05-SE-B01/05-SE-B01-0270	1	tai	01:00:12;
+
+[PrintText]=01:00:12	Makoto	Perdón por hacerte esto, pero...	01:04:18;
+
+[PlayVoice]=01:00:12	Voice05/05-SE/05-SE-B01/05-SE-B01-0280	1	mak	01:04:18;
+
+[CreateBG]=01:04:18	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-005A	01:20:04;
+
+[PrintText]=01:04:18	Taisuke	...Olvídalo.	01:07:13;
+
+[PlayVoice]=01:04:18	Voice05/05-SE/05-SE-B01/05-SE-B01-0290	1	tai	01:07:13;
+
+[PrintText]=01:07:13	Makoto	Ah...	01:08:13;
+
+[PlayVoice]=01:07:13	Voice05/05-SE/05-SE-B01/05-SE-B01-0300	1	mak	01:08:13;
+
+[PrintText]=01:08:13	Taisuke	Así que eres ese tipo de persona.	01:12:08;
+
+[PlayVoice]=01:08:13	Voice05/05-SE/05-SE-B01/05-SE-B01-0310	1	tai	01:12:08;
+
+[PrintText]=01:12:08	Makoto	...	01:13:15;
+
+[PlayVoice]=01:12:08	Voice05/05-SE/05-SE-B01/05-SE-B01-0320	1	xxx	01:13:15;
+
+[PrintText]=01:13:15	Taisuke	Pensé que eramos amigos.	01:16:07;
+
+[PlayVoice]=01:13:15	Voice05/05-SE/05-SE-B01/05-SE-B01-0330	1	tai	01:16:07;
+
+[PrintText]=01:16:07	Makoto	Yo creo que también somos amigos...	01:20:04;
+
+[PlayVoice]=01:16:07	Voice05/05-SE/05-SE-B01/05-SE-B01-0340	1	mak	01:20:04;
+
+[CreateBG]=01:20:04	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-006	01:25:14;
+
+[PrintText]=01:20:04	Taisuke	¡Idiota! ¡Si eso fuera verdad, nunca me hubieras hecho algo así!	01:24:15;
+
+[PlayVoice]=01:20:04	Voice05/05-SE/05-SE-B01/05-SE-B01-0350	1	tai	01:24:15;
+
+[PrintText]=01:24:14	Makoto	Uh...	01:25:14;
+
+[PlayVoice]=01:24:14	Voice05/05-SE/05-SE-B01/05-SE-B01-0360	1	mak	01:25:14;
+
+[CreateBG]=01:25:14	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-002	01:31:16;
+
+[PrintText]=01:25:17	Taisuke	Eres...	01:27:04;
+
+[PlayVoice]=01:25:17	Voice05/05-SE/05-SE-B01/05-SE-B01-0370	1	tai	01:27:04;
+
+[PrintText]=01:27:23	Makoto	...Perdóname.	01:28:20;
+
+[PlayVoice]=01:27:23	Voice05/05-SE/05-SE-B01/05-SE-B01-0380	1	mak	01:28:20;
+
+[PrintText]=01:30:10	Taisuke	Mierda.	01:31:13;
+
+[PlayVoice]=01:30:10	Voice05/05-SE/05-SE-B01/05-SE-B01-0390	1	tai	01:31:13;
+
+[PlaySe]=01:31:12	2	SysSe/SE_all/keitai/keitai_sousa	01:31:14;
+
+[PlaySe]=01:31:16	1	SysSe/SE_all/keitai/hanasityuu	01:33:17;
+
+[CreateBG]=01:31:16	BGS	Event00/00-00/00-00-H00/00-00-H00-002	01:38:12;
+
+[PrintText]=01:34:11	Makoto	...Taisuke.	01:35:13;
+
+[PlayVoice]=01:34:11	Voice05/05-SE/05-SE-B01/05-SE-B01-0410	1	mak	01:35:13;
+
+[PrintText]=01:37:01	Makoto	...	01:37:16;
+
+[PlayVoice]=01:37:01	Voice05/05-SE/05-SE-B01/05-SE-B01-0420	1	xxx	01:37:16;
+
+[CreateBG]=01:38:12	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-009	01:41:12;
+
+[CreateBG]=01:41:12	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-010	01:42:12;
+
+[PrintText]=01:41:12	Makoto	¿Sí?^	01:42:06;
+
+[PlayVoice]=01:41:12	Voice05/05-SE/05-SE-B01/05-SE-B01-0460	1	mak	01:42:06;
+
+[CreateBG]=01:42:12	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-011	01:49:07;
+
+[PrintText]=01:42:12	Sekai	He venido.	01:43:18;
+
+[PlayVoice]=01:42:12	Voice05/05-SE/05-SE-B01/05-SE-B01-0480	0	sek	01:43:18;
+
+[PrintText]=01:43:18	Makoto	Cierto.	01:45:06;
+
+[PlayVoice]=01:43:18	Voice05/05-SE/05-SE-B01/05-SE-B01-0490	1	mak	01:45:06;
+
+[PrintText]=01:45:06	Sekai	Quería decirte que... terminé con él.	01:49:06;
+
+[PlayVoice]=01:45:06	Voice05/05-SE/05-SE-B01/05-SE-B01-0500	0	sek	01:49:06;
+
+[PrintText]=01:49:06	Makoto	Lo sé.	01:50:09;
+
+[PlayVoice]=01:49:06	Voice05/05-SE/05-SE-B01/05-SE-B01-0510	1	mak	01:50:09;
+
+[CreateBG]=01:49:07	BGS	Event05/05-SE/05-SE-B01/05-SE-B01-012	01:54:12;
+
+[PrintText]=01:50:09	Sekai	¿Lo escuchaste de Sawanaga?^	01:52:13;
+
+[PlayVoice]=01:50:09	Voice05/05-SE/05-SE-B01/05-SE-B01-0530	0	sek	01:52:13;
+
+[PrintText]=01:52:13	Makoto	Sí.	01:53:05;
+
+[PlayVoice]=01:52:13	Voice05/05-SE/05-SE-B01/05-SE-B01-0540	1	mak	01:53:05;
+
+[PrintText]=01:53:05	Sekai	Ya veo...	01:54:06;
+
+[PlayVoice]=01:53:05	Voice05/05-SE/05-SE-B01/05-SE-B01-0550	0	sek	01:54:06;
+
+ ;
+
+[Next]=01:54:12;
+
+
+

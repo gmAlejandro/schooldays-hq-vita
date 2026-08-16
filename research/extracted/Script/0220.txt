@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:19:17;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-F08/SE02-2K-F08-001	00:19:17;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-F08/02-2K-F08-001	00:08:08;
+
+[PrintText]=00:00:00	Makoto	¿Por qué?^	00:01:06;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-F08/02-2K-F08-0030	1	mak	00:01:06;
+
+[PrintText]=00:01:07	Kotonoha	... esto no está bien.	00:04:08;
+
+[PlayVoice]=00:01:07	Voice02/02-2K/02-2K-F08/02-2K-F08-0040	0	kot	00:04:08;
+
+[PrintText]=00:04:08	Makoto	Eso no es verdad.	00:05:21;
+
+[PlayVoice]=00:04:08	Voice02/02-2K/02-2K-F08/02-2K-F08-0050	1	mak	00:05:21;
+
+[PrintText]=00:05:22	Kotonoha	Es muy pronto.	00:08:08;
+
+[PlayVoice]=00:05:22	Voice02/02-2K/02-2K-F08/02-2K-F08-0060	0	kot	00:08:08;
+
+[CreateBG]=00:08:08	BGS	Event02/02-2K/02-2K-F03/02-2K-F03-003	00:19:17;
+
+[PrintText]=00:08:08	Makoto	Te digo que no es verdad.	00:10:21;
+
+[PlayVoice]=00:08:08	Voice02/02-2K/02-2K-F08/02-2K-F08-0070	1	mak	00:10:21;
+
+[PrintText]=00:10:22	Kotonoha	...	00:13:05;
+
+[PlayVoice]=00:10:22	Voice02/02-2K/02-2K-F08/02-2K-F08-0080	0	xxx	00:13:05;
+
+[PrintText]=00:13:05	Makoto	...Está bien...	00:17:03;
+
+[PlayVoice]=00:13:05	Voice02/02-2K/02-2K-F08/02-2K-F08-0090	1	mak	00:17:03;
+
+[PrintText]=00:17:19	Kotonoha	Perdón.	00:19:01;
+
+[PlayVoice]=00:17:19	Voice02/02-2K/02-2K-F08/02-2K-F08-0100	0	kot	00:19:01;
+
+ ;
+
+[Next]=00:19:17;
+
+
+
+

@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:40:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:40:14;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-B05/05-SD-B05-001	00:05:20;
+
+[PrintText]=00:00:00	Setsuna	Vamos, hazlo.	00:02:07;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-B05/05-SD-B05-0030	0	set	00:02:07;
+
+[PrintText]=00:02:21	Makoto	Vale.	00:04:05;
+
+[PlayVoice]=00:02:21	Voice05/05-SD/05-SD-B05/05-SD-B05-0040	1	mak	00:04:05;
+
+[PrintText]=00:04:15	Setsuna	Itou...	00:05:15;
+
+[PlayVoice]=00:04:15	Voice05/05-SD/05-SD-B05/05-SD-B05-0050	0	set	00:05:15;
+
+[CreateBG]=00:05:20	BGS	Event05/05-SD/05-SD-B05/05-SD-B05-002	00:18:09;
+
+[PrintText]=00:06:03	Makoto	Sí...	00:07:22;
+
+[PlayVoice]=00:06:03	Voice05/05-SD/05-SD-B05/05-SD-B05-0060	1	mak	00:07:22;
+
+[PrintText]=00:07:16	Setsuna	¡Nn...!	00:08:04;
+
+[PlayVoice]=00:07:16	Voice05/05-SD/05-SD-B05/05-SD-B05-0070	0	set	00:08:04;
+
+[PrintText]=00:08:11	Makoto	Kiyoura... ¿Duele?^	00:13:11;
+
+[PlayVoice]=00:08:11	Voice05/05-SD/05-SD-B05/05-SD-B05-0080	1	mak	00:13:11;
+
+[PrintText]=00:12:21	Setsuna	¡Nn... está bien... fwah! ¡...Haah!	00:18:12;
+
+[PlayVoice]=00:12:21	Voice05/05-SD/05-SD-B05/05-SD-B05-0090	0	set	00:18:12;
+
+[CreateBG]=00:18:09	BGS	Event05/05-SD/05-SD-B05/05-SD-B05-005	00:24:02;
+
+[PrintText]=00:18:09	Makoto	Ah... ya está todo dentro.	00:24:11;
+
+[PlayVoice]=00:18:09	Voice05/05-SD/05-SD-B05/05-SD-B05-0100	1	mak	00:24:11;
+
+[CreateBG]=00:24:02	BGS	Event05/05-SD/05-SD-B05/05-SD-B05-004	00:35:08;
+
+[PrintText]=00:24:09	Setsuna	Mmn...	00:25:03;
+
+[PlayVoice]=00:24:09	Voice05/05-SD/05-SD-B05/05-SD-B05-0110	0	set	00:25:03;
+
+[PrintText]=00:25:08	Makoto	Se siente tan bien estar dentro de ti.	00:29:19;
+
+[PlayVoice]=00:25:08	Voice05/05-SD/05-SD-B05/05-SD-B05-0120	1	mak	00:29:19;
+
+[PrintText]=00:29:16	Setsuna	Estoy feliz de escuchar eso...	00:32:02;
+
+[PlayVoice]=00:29:16	Voice05/05-SD/05-SD-B05/05-SD-B05-0130	0	set	00:32:02;
+
+[PrintText]=00:32:03	Makoto	¡Kiyoura...!	00:34:18;
+
+[PlayVoice]=00:32:03	Voice05/05-SD/05-SD-B05/05-SD-B05-0140	1	mak	00:34:18;
+
+[PrintText]=00:34:12	Setsuna	¡Itou!	00:35:06;
+
+[PlayVoice]=00:34:12	Voice05/05-SD/05-SD-B05/05-SD-B05-0150	0	set	00:35:06;
+
+[CreateBG]=00:35:08	BGS	Event05/05-SD/05-SD-B05/05-SD-B05-001	00:37:13;
+
+[PlaySe]=00:35:13	1	SysSe/SE_all/keitai/keitai_sousa	00:35:15;
+
+[PlaySe]=00:36:14	1	SysSe/SE_all/bed/bed_suwaru	00:37:08;
+
+[CreateBG]=00:37:13	BGS	Event05/05-SD/05-SD-B05/05-SD-B05-003	00:40:14;
+
+[PrintText]=00:37:13	Sekai	Uuh...	00:39:13;
+
+[PlayVoice]=00:37:13	Voice05/05-SD/05-SD-B05/05-SD-B05-0170	0	sek	00:39:13;
+
+[BlackFade]=00:39:14	OUT	00:40:14;
+
+ ;
+
+[Next]=00:40:14;
+
+
+
+

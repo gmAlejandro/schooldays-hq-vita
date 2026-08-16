@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:14:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:11;
+
+[PlaySe]=00:00:00	1	Se00/00-00/00-00-A05/SE00-00-A05-001	00:00:16;
+
+[PlaySe]=00:00:00	2	Voice00/00-00/00-00-A03/00-00-A03-0341	00:11:16;
+
+[CreateBG]=00:00:00	BGS	Ini/Event00/00-00/00-00-A05/00-00-A05-001	00:03:01;
+
+#[PrintText]=00:00:00	Makoto	"¿Qué? No." 	00:03:01;
+
+[PlaySe]=00:02:23	1	Se00/00-00/00-00-A05/SE00-00-A05-001	00:03:15;
+
+[CreateBG]=00:03:01	BGS	Ini/Event00/00-00/00-00-A05/00-00-A05-002	00:05:23;
+
+#[PrintText]=00:03:01	Sekai	"Estás haciendo el conjuro ¿no? \nEntonces ¿Por qué?" 	00:05:23;
+
+[PlaySe]=00:05:23	1	Se00/00-00/00-00-A05/SE00-00-A05-001	00:06:15;
+
+[PlayMovie]=00:05:23	Ini/Movie00/00-00/00-00-A05/00-00-A05-003	0	00:09:11;
+
+#[PrintText]=00:05:23	Makoto	"Me acaban de pasar una foto de ella.".	00:09:11;
+
+[PlayMovie]=00:09:11	Movie00/00-00/00-00-A05/00-00-A05-004	0	00:14:11;
+
+[PrintText]=00:10:22	Makoto	...Ni siquiera yo me la creo.	00:13:20;
+
+[PlayVoice]=00:10:22	Voice00/00-00/00-00-A05/00-00-A05-0070	1	xxx	00:13:20;
+
+[PlaySe]=00:12:00	1	Voice00/00-00/00-00-A03/00-00-A03-0342	00:14:11;
+
+ ;
+
+[Next]=00:14:11;
+
+
+
+

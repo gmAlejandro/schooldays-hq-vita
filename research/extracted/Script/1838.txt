@@ -1,0 +1,92 @@
+﻿[SkipFRAME]=00:42:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:42:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-M01/05-SE-M01-001	00:01:02;
+
+[PrintText]=00:00:04	Makoto	Terminemos.	00:01:00;
+
+[PlayVoice]=00:00:04	Voice05/05-SE/05-SE-M01/05-SE-M01-0030	1	mak	00:01:00;
+
+[CreateBG]=00:01:02	BGS	Event05/05-SE/05-SE-C08/05-SE-C08-002	00:01:22;
+
+[PrintText]=00:01:02	Sekai	¿Eh...?^	00:01:21;
+
+[PlayVoice]=00:01:02	Voice05/05-SE/05-SE-M01/05-SE-M01-0040	0	sek	00:01:21;
+
+[CreateBG]=00:01:22	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-002	00:10:06;
+
+[PrintText]=00:01:22	Makoto	No podemos seguir así.	00:04:19;
+
+[PlayVoice]=00:01:22	Voice05/05-SE/05-SE-M01/05-SE-M01-0050	1	mak	00:04:19;
+
+[PrintText]=00:04:18	Sekai	Bromeas. Hace unos días tú...	00:10:06;
+
+[PlayVoice]=00:04:18	Voice05/05-SE/05-SE-M01/05-SE-M01-0060	0	sek	00:10:06;
+
+[CreateBG]=00:10:06	BGS	Event05/05-SE/05-SE-M01/05-SE-M01-004	00:14:22;
+
+[PrintText]=00:10:06	Makoto	No sabía que era hijo de Taisuke.	00:14:21;
+
+[PlayVoice]=00:10:06	Voice05/05-SE/05-SE-M01/05-SE-M01-0070	1	mak	00:14:21;
+
+[PrintText]=00:14:21	Sekai	Te equivocas, es tuyo.	00:18:02;
+
+[PlayVoice]=00:14:21	Voice05/05-SE/05-SE-M01/05-SE-M01-0080	0	sek	00:18:02;
+
+[CreateBG]=00:14:22	BGS	Event05/05-SE/05-SE-M01/05-SE-M01-005	00:18:02;
+
+[PrintText]=00:18:01	Makoto	¡Para ya!	00:19:18;
+
+[PlayVoice]=00:18:01	Voice05/05-SE/05-SE-M01/05-SE-M01-0090	1	mak	00:19:18;
+
+[CreateBG]=00:18:02	BGS	Event05/05-SE/05-SE-C08/05-SE-C08-001	00:20:20;
+
+[PrintText]=00:19:18	Sekai	Uhh...	00:20:19;
+
+[PlayVoice]=00:19:18	Voice05/05-SE/05-SE-M01/05-SE-M01-0100	0	sek	00:20:19;
+
+[CreateBG]=00:20:20	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-004	00:31:08;
+
+[PrintText]=00:20:20	Makoto	Tú y Taisuke pueden arreglar todo esto desde ahora.	00:24:10;
+
+[PlayVoice]=00:20:20	Voice05/05-SE/05-SE-M01/05-SE-M01-0110	1	mak	00:24:10;
+
+[PrintText]=00:24:09	Sekai	No. Ya no quiero a Sawanaga.	00:28:13;
+
+[PlayVoice]=00:24:09	Voice05/05-SE/05-SE-M01/05-SE-M01-0120	0	sek	00:28:13;
+
+[PrintText]=00:28:13	Makoto	Lo hiciste con él, así que al menos puedes hablar con él ahora.	00:32:19;
+
+[PlayVoice]=00:28:13	Voice05/05-SE/05-SE-M01/05-SE-M01-0130	1	mak	00:32:19;
+
+[CreateBG]=00:31:08	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-008	00:39:16;
+
+[PrintText]=00:32:19	Sekai	No. Yo solo quiero hablar contigo.	00:37:15;
+
+[PlayVoice]=00:32:19	Voice05/05-SE/05-SE-M01/05-SE-M01-0140	0	sek	00:37:15;
+
+[PrintText]=00:37:15	Makoto	Pues, yo no quiero hablar contigo.	00:39:15;
+
+[PlayVoice]=00:37:15	Voice05/05-SE/05-SE-M01/05-SE-M01-0150	1	mak	00:39:15;
+
+[PrintText]=00:39:15	Sekai	Makoto...	00:41:09;
+
+[PlayVoice]=00:39:15	Voice05/05-SE/05-SE-M01/05-SE-M01-0160	0	sek	00:41:09;
+
+[CreateBG]=00:39:16	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-014	00:40:07;
+
+[CreateBG]=00:40:07	BGS	Event05/05-SE/05-SE-M01/05-SE-M01-010	00:41:10;
+
+[PrintText]=00:41:09	Makoto	...Adiós.	00:42:10;
+
+[PlayVoice]=00:41:09	Voice05/05-SE/05-SE-M01/05-SE-M01-0170	1	mak	00:42:10;
+
+[CreateBG]=00:41:10	BGS	Event05/05-SE/05-SE-M01/05-SE-M01-011	00:42:10;
+
+ ;
+
+[Next]=00:42:10;
+
+
+

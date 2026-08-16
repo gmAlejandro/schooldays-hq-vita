@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:09:01;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H09/SE03-SB-H09-001	00:15:02;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H09/03-SB-H09-001	00:01:02;
+
+[PrintText]=00:00:00	Makoto	Haah...	00:01:02;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-H09/03-SB-H09-0030	1	mak	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Event03/03-SB/03-SB-H09/03-SB-H09-002	00:05:01;
+
+[PrintText]=00:01:02	Makoto	¡Bueno, Taisuke solo dijo 'Sal con Sekai!', pero...	00:05:01;
+
+[PlayVoice]=00:01:02	Voice03/03-SB/03-SB-H09/03-SB-H09-0040	1	mak	00:05:01;
+
+[CreateBG]=00:05:01	BGS	Event03/03-SB/03-SB-H09/03-SB-H09-003	00:07:10;
+
+[PrintText]=00:05:01	Makoto	...no puedo encontrarla.	00:07:09;
+
+[PlayVoice]=00:05:01	Voice03/03-SB/03-SB-H09/03-SB-H09-0050	1	mak	00:07:09;
+
+[PrintText]=00:07:09	Makoto	¿Qué debería hacer...?^	00:09:04;
+
+[PlayVoice]=00:07:09	Voice03/03-SB/03-SB-H09/03-SB-H09-0060	1	mak	00:09:04;
+
+[CreateBG]=00:07:10	BGS	Event03/03-SB/03-SB-H09/03-SB-H09-004	00:15:02;
+
+[SetSELECT]=00:09:01	'Seguir buscando a Sekai'	null	00:14:01;
+
+ ;
+
+[Next]=00:15:02;
+
+

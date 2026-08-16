@@ -1,0 +1,93 @@
+﻿[SkipFRAME]=00:33:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:39:14;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-H06/SE02-2S-H06-001	00:39:14;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-H06/02-2S-H06-001	00:03:11;
+
+[PrintText]=00:00:00	Makoto	...	00:01:09;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-H06/02-2S-H06-0030	1	xxx	00:01:09;
+
+[PrintText]=00:01:15	Sekai	Hey.	00:02:17;
+
+[PlayVoice]=00:01:15	Voice02/02-2S/02-2S-H06/02-2S-H06-0040	0	sek	00:02:17;
+
+[CreateBG]=00:03:11	BGS	Event02/02-2S/02-2S-H06/02-2S-H06-002	00:04:19;
+
+[PrintText]=00:03:11	Makoto	¿Qué?^	00:04:13;
+
+[PlayVoice]=00:03:11	Voice02/02-2S/02-2S-H06/02-2S-H06-0050	1	mak	00:04:13;
+
+[CreateBG]=00:04:19	BGS	Event02/02-2S/02-2S-H06/02-2S-H06-003	00:08:16;
+
+[PrintText]=00:04:21	Sekai	¿Cuando se lo vas decir?^	00:06:09;
+
+[PlayVoice]=00:04:21	Voice02/02-2S/02-2S-H06/02-2S-H06-0060	0	sek	00:06:09;
+
+[PrintText]=00:06:09	Makoto	C-Cállate, estoy a punto de...	00:08:21;
+
+[PlayVoice]=00:06:09	Voice02/02-2S/02-2S-H06/02-2S-H06-0070	1	mak	00:08:21;
+
+[CreateBG]=00:08:16	BGS	Event02/02-2S/02-2S-H06/02-2S-H06-004	00:14:08;
+
+[PrintText]=00:08:16	Kotonoha	¿Eh? ¿A punto de qué?^	00:10:19;
+
+[PlayVoice]=00:08:16	Voice02/02-2S/02-2S-H06/02-2S-H06-0080	0	kot	00:10:19;
+
+[PrintText]=00:10:17	Makoto	¡W-w-wah! ¡Nada!	00:13:00;
+
+[PlayVoice]=00:10:17	Voice02/02-2S/02-2S-H06/02-2S-H06-0090	1	mak	00:13:00;
+
+[PrintText]=00:13:02	Kotonoha	Haah...	00:14:02;
+
+[PlayVoice]=00:13:02	Voice02/02-2S/02-2S-H06/02-2S-H06-0100	0	kot	00:14:02;
+
+[CreateBG]=00:14:08	BGS	Event02/02-2S/02-2S-H06/02-2S-H06-005	00:17:01;
+
+[PrintText]=00:14:13	Makoto	...	00:15:22;
+
+[PlayVoice]=00:14:13	Voice02/02-2S/02-2S-H06/02-2S-H06-0110	1	xxx	00:15:22;
+
+[CreateBG]=00:17:01	BGS	Event02/02-2S/02-2S-H06/02-2S-H06-006	00:21:07;
+
+[PrintText]=00:17:05	Kotonoha	U-um, Makoto-kun.	00:19:15;
+
+[PlayVoice]=00:17:05	Voice02/02-2S/02-2S-H06/02-2S-H06-0120	0	kot	00:19:15;
+
+[PrintText]=00:19:16	Makoto	¿S-Sí?^	00:21:03;
+
+[PlayVoice]=00:19:16	Voice02/02-2S/02-2S-H06/02-2S-H06-0130	1	mak	00:21:03;
+
+[CreateBG]=00:21:07	BGS	Event02/02-2S/02-2S-H06/02-2S-H06-007	00:39:14;
+
+[PrintText]=00:21:07	Kotonoha	¿En qué... estás pensando?^	00:23:11;
+
+[PlayVoice]=00:21:07	Voice02/02-2S/02-2S-H06/02-2S-H06-0140	0	kot	00:23:11;
+
+[PrintText]=00:23:05	Makoto	¿Eh? ¿De qué hablas...?^	00:25:05;
+
+[PlayVoice]=00:23:05	Voice02/02-2S/02-2S-H06/02-2S-H06-0150	1	mak	00:25:05;
+
+[PrintText]=00:25:13	Kotonoha	...	00:26:18;
+
+[PlayVoice]=00:25:13	Voice02/02-2S/02-2S-H06/02-2S-H06-0160	0	xxx	00:26:18;
+
+[PrintText]=00:27:11	Makoto	¿D-De qué estás hablando? ¿De lo que estoy pensando..?^	00:31:22;
+
+[PlayVoice]=00:27:11	Voice02/02-2S/02-2S-H06/02-2S-H06-0170	1	xxx	00:31:22;
+
+[PrintText]=00:32:22	Makoto	Um... veamos...	00:36:12;
+
+[PlayVoice]=00:32:22	Voice02/02-2S/02-2S-H06/02-2S-H06-0180	1	xxx	00:36:12;
+
+[SetSELECT]=00:33:14	'Te ves muy hermosa hoy'	'La limonada está deliciosa'	00:38:14;
+
+ ;
+
+[Next]=00:39:14;
+
+
+
+

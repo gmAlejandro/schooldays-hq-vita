@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:28:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:28:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-L00/SE03-SB-L00-001	00:28:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-L00/03-SB-L00-001	00:15:01;
+
+[PrintText]=00:00:00	Sekai	Uh-huh.	00:00:18;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-L00/03-SB-L00-0030	0	sek	00:00:18;
+
+[PrintText]=00:01:00	Makoto	¿Por qué no vamos juntos a ver el festival?^	00:03:12;
+
+[PlayVoice]=00:01:00	Voice03/03-SB/03-SB-L00/03-SB-L00-0040	1	mak	00:03:12;
+
+[PrintText]=00:03:12	Sekai	¿Eh?!	00:04:05;
+
+[PlayVoice]=00:03:12	Voice03/03-SB/03-SB-L00/03-SB-L00-0050	0	sek	00:04:05;
+
+[PrintText]=00:04:05	Makoto	El festival, quiero decir. Estás de descanso después ¿No?^	00:08:17;
+
+[PlayVoice]=00:04:05	Voice03/03-SB/03-SB-L00/03-SB-L00-0060	1	mak	00:08:17;
+
+[PrintText]=00:08:17	Sekai	¿Eh...? Sí!	00:10:10;
+
+[PlayVoice]=00:08:17	Voice03/03-SB/03-SB-L00/03-SB-L00-0070	0	sek	00:10:10;
+
+[PrintText]=00:10:10	Makoto	Tenemos un poco de tiempo antes que empiece la fogata. Vamos a caminar juntos.	00:15:00;
+
+[PlayVoice]=00:10:10	Voice03/03-SB/03-SB-L00/03-SB-L00-0080	1	mak	00:15:00;
+
+[CreateBG]=00:15:01	BGS	Event03/03-SB/03-SB-L00/03-SB-L00-002	00:20:12;
+
+[PrintText]=00:15:01	Sekai	¿Irás con Katsura-san a la fogata?^	00:18:18;
+
+[PlayVoice]=00:15:01	Voice03/03-SB/03-SB-L00/03-SB-L00-0090	0	sek	00:18:18;
+
+[PrintText]=00:18:18	Makoto	Sí.	00:19:11;
+
+[PlayVoice]=00:18:18	Voice03/03-SB/03-SB-L00/03-SB-L00-0100	1	mak	00:19:11;
+
+[PrintText]=00:19:11	Sekai	Ya veo...	00:20:12;
+
+[PlayVoice]=00:19:11	Voice03/03-SB/03-SB-L00/03-SB-L00-0110	0	sek	00:20:12;
+
+[PrintText]=00:20:11	Makoto	Ah, perdón...	00:22:12;
+
+[PlayVoice]=00:20:11	Voice03/03-SB/03-SB-L00/03-SB-L00-0120	1	mak	00:22:12;
+
+[CreateBG]=00:20:12	BGS	Event03/03-SB/03-SB-L00/03-SB-L00-003	00:22:13;
+
+[CreateBG]=00:22:13	BGS	Event03/03-SB/03-SB-L00/03-SB-L00-004	00:28:00;
+
+[PrintText]=00:22:13	Sekai	No, está bien. vale, Vamos!	00:26:04;
+
+[PlayVoice]=00:22:13	Voice03/03-SB/03-SB-L00/03-SB-L00-0130	0	sek	00:26:04;
+
+[PrintText]=00:26:04	Makoto	Sí.	00:26:20;
+
+[PlayVoice]=00:26:04	Voice03/03-SB/03-SB-L00/03-SB-L00-0140	1	mak	00:26:20;
+
+ ;
+
+[Next]=00:28:00;
+
+

@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:08:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:08:15;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-C09/SE03-SB-C09-001	00:08:15;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-C09/03-SB-C09-001	0	00:08:15;
+
+[PrintText]=00:00:00	Makoto	No puedo.	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-C09/03-SB-C09-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:00	Kotonoha	¿Eh?^	00:02:05;
+
+[PlayVoice]=00:01:00	Voice03/03-SB/03-SB-C09/03-SB-C09-0040	0	kot	00:02:05;
+
+[PrintText]=00:02:05	Makoto	No soy bueno en ese tipo de cosas.	00:04:12;
+
+[PlayVoice]=00:02:05	Voice03/03-SB/03-SB-C09/03-SB-C09-0050	1	mak	00:04:12;
+
+[PrintText]=00:04:12	Kotonoha	¿En serio...?^	00:06:08;
+
+[PlayVoice]=00:04:12	Voice03/03-SB/03-SB-C09/03-SB-C09-0060	0	kot	00:06:08;
+
+[PrintText]=00:06:08	Makoto	Perdón.	00:07:02;
+
+[PlayVoice]=00:06:08	Voice03/03-SB/03-SB-C09/03-SB-C09-0070	1	mak	00:07:02;
+
+[PrintText]=00:07:02	Kotonoha	No te preocupes...	00:08:01;
+
+[PlayVoice]=00:07:02	Voice03/03-SB/03-SB-C09/03-SB-C09-0080	0	kot	00:08:01;
+
+ ;
+
+[Next]=00:08:15;
+
+

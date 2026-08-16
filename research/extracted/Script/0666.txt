@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:20:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:20:03;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I00/SE03-KB-I00-001	00:20:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I00/03-KB-I00-001	00:07:22;
+
+[PrintText]=00:04:18	Setsuna	Debería ser suficiente.... , por favor asegurate de volver en el cambio a tiempo.	00:14:18;
+
+[PlayVoice]=00:04:18	Voice03/03-KB/03-KB-I00/03-KB-I00-0050	0	set	00:14:18;
+
+[CreateBG]=00:07:22	BGS	Event03/03-KB/03-KB-I00/03-KB-I00-002	00:17:15;
+
+[PrintText]=00:14:18	Setsuna	Cuento contigo.	00:17:14;
+
+[PlayVoice]=00:14:18	Voice03/03-KB/03-KB-I00/03-KB-I00-0060	0	set	00:17:14;
+
+[CreateBG]=00:17:15	BGS	Event03/03-KB/03-KB-I00/03-KB-I00-003	00:20:03;
+
+[PrintText]=00:17:15	Makoto	Hey, Taisuke.	00:19:06;
+
+[PlayVoice]=00:17:15	Voice03/03-KB/03-KB-I00/03-KB-I00-0080	1	mak	00:19:06;
+
+ ;
+
+[Next]=00:20:03;
+
+

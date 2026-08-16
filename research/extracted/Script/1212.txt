@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:16:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:16:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G08/04-SB-G08-001	00:02:17;
+
+[PrintText]=00:00:00	Makoto	...	00:01:08;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-G08/04-SB-G08-0030	1	xxx	00:01:08;
+
+[PrintText]=00:01:08	Hikari	...Es suficiente.	00:02:16;
+
+[PlayVoice]=00:01:08	Voice04/04-SB/04-SB-G08/04-SB-G08-0040	0	hik	00:02:16;
+
+[PrintText]=00:02:16	Makoto	¿Eh?^	00:03:12;
+
+[PlayVoice]=00:02:16	Voice04/04-SB/04-SB-G08/04-SB-G08-0050	1	mak	00:03:12;
+
+[CreateBG]=00:02:17	BGS	Event04/04-SB/04-SB-G07/04-SB-G07-001	00:11:13;
+
+[PrintText]=00:03:12	Hikari	Regresemos a clases.	00:05:10;
+
+[PlayVoice]=00:03:12	Voice04/04-SB/04-SB-G08/04-SB-G08-0060	0	hik	00:05:10;
+
+[PrintText]=00:05:09	Makoto	¿Regresar...? ¿Te refieres a mí también?^	00:08:00;
+
+[PlayVoice]=00:05:09	Voice04/04-SB/04-SB-G08/04-SB-G08-0070	1	mak	00:08:00;
+
+[PrintText]=00:08:00	Hikari	No hay porque ver más.	00:11:13;
+
+[PlayVoice]=00:08:00	Voice04/04-SB/04-SB-G08/04-SB-G08-0080	0	hik	00:11:13;
+
+[CreateBG]=00:11:13	BGS	Event04/04-SB/04-SB-G08/04-SB-G08-002	00:16:00;
+
+[PrintText]=00:11:13	Makoto	Sí, pero...	00:12:22;
+
+[PlayVoice]=00:11:13	Voice04/04-SB/04-SB-G08/04-SB-G08-0090	1	mak	00:12:22;
+
+[PrintText]=00:12:21	Hikari	Vamos.	00:13:19;
+
+[PlayVoice]=00:12:21	Voice04/04-SB/04-SB-G08/04-SB-G08-0100	0	hik	00:13:19;
+
+[PrintText]=00:13:19	Makoto	E-Está bien.	00:15:13;
+
+[PlayVoice]=00:13:19	Voice04/04-SB/04-SB-G08/04-SB-G08-0110	1	mak	00:15:13;
+
+ ;
+
+[Next]=00:16:00;
+
+

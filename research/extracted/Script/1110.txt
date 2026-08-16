@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:44:22;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:44:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-001	00:03:21;
+
+[PrintText]=00:00:10	Makoto	No iré.	00:01:22;
+
+[PlayVoice]=00:00:10	Voice04/04-SA/04-SA-H01/04-SA-H01-0030	1	mak	00:01:22;
+
+[PrintText]=00:01:23	Sekai	¿Eh? ¡No puedes!	00:04:01;
+
+[PlayVoice]=00:01:23	Voice04/04-SA/04-SA-H01/04-SA-H01-0040	0	sek	00:04:01;
+
+[CreateBG]=00:03:21	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-002	00:15:08;
+
+[PrintText]=00:04:06	Makoto	Estaré bien. Las puedes pueden ir incluso si no estoy, además, Kuroda y tú son esenciales ¿Cierto?^	00:09:19;
+
+[PlayVoice]=00:04:06	Voice04/04-SA/04-SA-H01/04-SA-H01-0050	1	mak	00:09:19;
+
+[PrintText]=00:09:18	Sekai	No hay necesidad de que yo vaya también.	00:11:19;
+
+[PlayVoice]=00:09:18	Voice04/04-SA/04-SA-H01/04-SA-H01-0060	0	sek	00:11:19;
+
+[PrintText]=00:11:19	Makoto	Si Kuroda se encuentra en problemas, tú eres la única que puede ayudarla.	00:15:13;
+
+[PlayVoice]=00:11:19	Voice04/04-SA/04-SA-H01/04-SA-H01-0070	1	mak	00:15:13;
+
+[CreateBG]=00:15:08	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-003	00:26:02;
+
+[PrintText]=00:15:17	Sekai	Bueno... es verdad que ustedes no se llevan bien.	00:20:17;
+
+[PlayVoice]=00:15:17	Voice04/04-SA/04-SA-H01/04-SA-H01-0080	0	sek	00:20:17;
+
+[PrintText]=00:20:14	Makoto	Es más que eso creo yo.	00:24:20;
+
+[PlayVoice]=00:20:14	Voice04/04-SA/04-SA-H01/04-SA-H01-0090	1	mak	00:24:20;
+
+[PrintText]=00:24:20	Sekai	Uuh...	00:26:01;
+
+[PlayVoice]=00:24:20	Voice04/04-SA/04-SA-H01/04-SA-H01-0100	0	sek	00:26:01;
+
+[CreateBG]=00:26:02	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-004	00:33:18;
+
+[PrintText]=00:26:13	Makoto	A cambio, solo hazme saber como fue.	00:29:16;
+
+[PlayVoice]=00:26:13	Voice04/04-SA/04-SA-H01/04-SA-H01-0110	1	mak	00:29:16;
+
+[PrintText]=00:29:17	Sekai	¿Los resultados?^	00:30:21;
+
+[PlayVoice]=00:29:17	Voice04/04-SA/04-SA-H01/04-SA-H01-0120	0	sek	00:30:21;
+
+[PrintText]=00:30:19	Makoto	Si las cosas van bien entre Taisuke y Kuroda.	00:33:22;
+
+[PlayVoice]=00:30:19	Voice04/04-SA/04-SA-H01/04-SA-H01-0130	1	mak	00:33:22;
+
+[CreateBG]=00:33:18	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-005	00:40:22;
+
+[PrintText]=00:33:23	Sekai	Está bien.	00:35:04;
+
+[PlayVoice]=00:33:23	Voice04/04-SA/04-SA-H01/04-SA-H01-0140	0	sek	00:35:04;
+
+[PrintText]=00:35:09	Makoto	Tu función será mantener a la otra chica alejada de de Taisuke ¿Vale?^	00:40:22;
+
+[PlayVoice]=00:35:09	Voice04/04-SA/04-SA-H01/04-SA-H01-0150	1	mak	00:40:22;
+
+[CreateBG]=00:40:22	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-006	00:44:22;
+
+[PrintText]=00:41:13	Sekai	Vale.	00:42:17;
+
+[PlayVoice]=00:41:13	Voice04/04-SA/04-SA-H01/04-SA-H01-0160	0	sek	00:42:17;
+
+ ;
+
+[Next]=00:44:22;
+
+

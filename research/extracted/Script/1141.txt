@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:05:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:05:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-M00/04-SA-M00-001	00:02:08;
+
+[PrintText]=00:00:16	Taisuke	Bueno, me voy por aquí.	00:02:05;
+
+[PlayVoice]=00:00:16	Voice04/04-SA/04-SA-M00/04-SA-M00-0030	1	tai	00:02:05;
+
+[CreateBG]=00:02:08	BGS	Event04/04-SA/04-SA-M00/04-SA-M00-001	00:05:02;
+
+[PrintText]=00:02:13	Sekai	Vale, nos vemos después.	00:04:04;
+
+[PlayVoice]=00:02:13	Voice04/04-SA/04-SA-M00/04-SA-M00-0050	0	sek	00:04:04;
+
+ ;
+
+[Next]=00:05:02;
+
+

@@ -1,0 +1,593 @@
+﻿[SkipFRAME]=05:35:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-001	00:03:19;
+
+[PrintText]=00:00:00	Nanami	Hey, te gusta Itou ¿No?^	00:03:21;
+
+[PlayVoice]=00:00:00	Voice04/04-SC/04-SC-C07/04-SC-C07-0030	0	nan	00:03:21;
+
+[CreateBG]=00:03:19	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-002	00:05:13;
+
+[PrintText]=00:03:21	Sekai	S-Sí...	00:05:16;
+
+[PlayVoice]=00:03:21	Voice04/04-SC/04-SC-C07/04-SC-C07-0040	0	sek	00:05:16;
+
+[CreateBG]=00:05:13	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-003	00:09:04;
+
+[PrintText]=00:05:16	Nanami	En ese caso, tienes que echarle un ojo...	00:09:06;
+
+[PlayVoice]=00:05:16	Voice04/04-SC/04-SC-C07/04-SC-C07-0050	0	nan	00:09:06;
+
+[CreateBG]=00:09:04	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-004	00:10:18;
+
+[PrintText]=00:09:09	Sekai	Lo hago...	00:10:23;
+
+[PlayVoice]=00:09:09	Voice04/04-SC/04-SC-C07/04-SC-C07-0060	0	sek	00:10:23;
+
+[CreateBG]=00:10:18	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-005	00:23:22;
+
+[PrintText]=00:10:20	Nanami	No puedes dejar que una chica como ella te lo quite. Itou es solo un chico. Si quieres estar con él, tienes que decírselo!	00:18:22;
+
+[PlayVoice]=00:10:20	Voice04/04-SC/04-SC-C07/04-SC-C07-0070	0	nan	00:18:22;
+
+[PrintText]=00:18:22	Hikari	Sí, Sí.	00:20:04;
+
+[PlayVoice]=00:18:22	Voice04/04-SC/04-SC-C07/04-SC-C07-0080	0	hik	00:20:04;
+
+[PrintText]=00:20:03	Nanami	Es tu novio ¿No? Tienes que dejar las cosas en claro o...	00:24:02;
+
+[PlayVoice]=00:20:03	Voice04/04-SC/04-SC-C07/04-SC-C07-0090	0	nan	00:24:02;
+
+[CreateBG]=00:23:22	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-006	00:25:15;
+
+[PrintText]=00:24:05	Sekai	El no es mi novio...	00:25:21;
+
+[PlayVoice]=00:24:05	Voice04/04-SC/04-SC-C07/04-SC-C07-0100	0	sek	00:25:21;
+
+[CreateBG]=00:25:15	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-007	00:27:13;
+
+[PrintText]=00:25:18	Nanami	¿Eh?^	00:26:10;
+
+[PlayVoice]=00:25:18	Voice04/04-SC/04-SC-C07/04-SC-C07-0110	0	nan	00:26:10;
+
+[PrintText]=00:26:11	Hikari	Estás bromeando ¿No?^	00:27:18;
+
+[PlayVoice]=00:26:11	Voice04/04-SC/04-SC-C07/04-SC-C07-0120	0	hik	00:27:18;
+
+[CreateBG]=00:27:13	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-008	00:31:06;
+
+[PrintText]=00:27:18	Sekai	No es como si estuviéramos saliendo...	00:31:10;
+
+[PlayVoice]=00:27:18	Voice04/04-SC/04-SC-C07/04-SC-C07-0130	0	sek	00:31:10;
+
+[CreateBG]=00:31:06	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-009	00:35:08;
+
+[PrintText]=00:31:11	Nanami	Escucha, no es momento de hacer bromas como esas.	00:35:13;
+
+[PlayVoice]=00:31:11	Voice04/04-SC/04-SC-C07/04-SC-C07-0140	0	nan	00:35:13;
+
+[CreateBG]=00:35:08	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-010	00:38:08;
+
+[PrintText]=00:35:13	Sekai	Nosotros en serio... no estamos saliendo.	00:38:13;
+
+[PlayVoice]=00:35:13	Voice04/04-SC/04-SC-C07/04-SC-C07-0150	0	sek	00:38:13;
+
+[CreateBG]=00:38:08	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-011	00:44:13;
+
+[PrintText]=00:38:13	Hikari	P-Pero... siempre almuerzan, y están siempre juntos riendo.	00:44:17;
+
+[PlayVoice]=00:38:13	Voice04/04-SC/04-SC-C07/04-SC-C07-0160	0	hik	00:44:17;
+
+[CreateBG]=00:44:13	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-012	00:47:06;
+
+[PrintText]=00:44:17	Sekai	Somos muy cercanos, y nos divertimos, pero...	00:47:09;
+
+[PlayVoice]=00:44:17	Voice04/04-SC/04-SC-C07/04-SC-C07-0170	0	sek	00:47:09;
+
+[CreateBG]=00:47:06	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-013	00:49:03;
+
+[PrintText]=00:47:10	Nanami	¿No te ha dicho que le gustas?^	00:49:07;
+
+[PlayVoice]=00:47:10	Voice04/04-SC/04-SC-C07/04-SC-C07-0180	0	nan	00:49:07;
+
+[CreateBG]=00:49:03	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-014	00:53:06;
+
+[PrintText]=00:49:07	Sekai	Bueno, tal vez como broma... o solo fingiendo...	00:53:14;
+
+[PlayVoice]=00:49:07	Voice04/04-SC/04-SC-C07/04-SC-C07-0190	0	sek	00:53:14;
+
+[CreateBG]=00:53:06	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-015	00:54:16;
+
+[PrintText]=00:53:14	Hikari	¿Fingiendo?^	00:54:19;
+
+[PlayVoice]=00:53:14	Voice04/04-SC/04-SC-C07/04-SC-C07-0200	0	hik	00:54:19;
+
+[CreateBG]=00:54:16	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-016	01:00:04;
+
+[PrintText]=00:54:18	Sekai	Bueno, yo... le sugerí que fingiera ser su novia, por practica.	01:00:09;
+
+[PlayVoice]=00:54:18	Voice04/04-SC/04-SC-C07/04-SC-C07-0210	0	sek	01:00:09;
+
+[CreateBG]=01:00:04	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-017	01:01:14;
+
+[PrintText]=01:00:09	Hikari	¿Y?^	01:01:14;
+
+[PlayVoice]=01:00:09	Voice04/04-SC/04-SC-C07/04-SC-C07-0220	0	hik	01:01:14;
+
+[CreateBG]=01:01:14	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-018	01:09:06;
+
+[PrintText]=01:01:14	Sekai	Solo fue una vez... dijo que me amaba... pero solo fue por simular.	01:09:09;
+
+[PlayVoice]=01:01:14	Voice04/04-SC/04-SC-C07/04-SC-C07-0230	0	sek	01:09:09;
+
+[CreateBG]=01:09:06	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-019	01:13:08;
+
+[PrintText]=01:09:09	Nanami	¡Uwah! ¡Ese Itou! ¿Qué diablos está haciendo?^	01:13:11;
+
+[PlayVoice]=01:09:09	Voice04/04-SC/04-SC-C07/04-SC-C07-0240	0	nan	01:13:11;
+
+[CreateBG]=01:13:08	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-020	01:14:12;
+
+[PrintText]=01:13:12	Sekai	Está bien.	01:14:16;
+
+[PlayVoice]=01:13:12	Voice04/04-SC/04-SC-C07/04-SC-C07-0250	0	sek	01:14:16;
+
+[CreateBG]=01:14:12	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-021	01:15:12;
+
+[PrintText]=01:14:16	Nanami	Pero...	01:15:14;
+
+[PlayVoice]=01:14:16	Voice04/04-SC/04-SC-C07/04-SC-C07-0260	0	nan	01:15:14;
+
+[CreateBG]=01:15:12	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-022	01:24:10;
+
+[PrintText]=01:15:14	Sekai	Quiero seguir enamorada de él... no quiero que por cosas extrañas termine odiándome.	01:24:16;
+
+[PlayVoice]=01:15:14	Voice04/04-SC/04-SC-C07/04-SC-C07-0270	0	sek	01:24:16;
+
+[CreateBG]=01:24:10	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-023	01:27:23;
+
+[PrintText]=01:24:16	Nanami	En ese caso, Katsura se lo llevará lejos de ti.	01:28:04;
+
+[PlayVoice]=01:24:16	Voice04/04-SC/04-SC-C07/04-SC-C07-0280	0	nan	01:28:04;
+
+[CreateBG]=01:27:23	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-024	01:33:12;
+
+[PrintText]=01:28:04	Sekai	No se puede evitar... a Katsura-san también le gusta...	01:33:19;
+
+[PlayVoice]=01:28:04	Voice04/04-SC/04-SC-C07/04-SC-C07-0290	0	sek	01:33:19;
+
+[CreateBG]=01:33:12	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-025	01:35:23;
+
+[PrintText]=01:33:19	Hikari	Sekai...	01:35:08;
+
+[PlayVoice]=01:33:19	Voice04/04-SC/04-SC-C07/04-SC-C07-0300	0	hik	01:35:08;
+
+[PrintText]=01:35:08	Nanami	...	01:36:02;
+
+[PlayVoice]=01:35:08	Voice04/04-SC/04-SC-C07/04-SC-C07-0310	0	xxx	01:36:02;
+
+[CreateBG]=01:35:23	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-026	01:39:18;
+
+[PrintText]=01:36:02	Sekai	Disculpen. Esto es un poco deprimente.,	01:39:22;
+
+[PlayVoice]=01:36:02	Voice04/04-SC/04-SC-C07/04-SC-C07-0320	0	sek	01:39:22;
+
+[CreateBG]=01:39:18	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-027	01:44:08;
+
+[PrintText]=01:39:22	Hikari	N-No es así. Ha-Hablando de eso... ¡Nanami!	01:44:10;
+
+[PlayVoice]=01:39:22	Voice04/04-SC/04-SC-C07/04-SC-C07-0330	0	hik	01:44:10;
+
+[CreateBG]=01:44:08	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-028	01:45:20;
+
+[PrintText]=01:44:10	Nanami	¡¿Eh? ¿Yo?!	01:45:23;
+
+[PlayVoice]=01:44:10	Voice04/04-SC/04-SC-C07/04-SC-C07-0340	0	nan	01:45:23;
+
+[CreateBG]=01:45:20	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-029	01:57:15;
+
+[PrintText]=01:45:23	Hikari	¿Cómo han ido las cosas con tu novio?!	01:48:19;
+
+[PlayVoice]=01:45:23	Voice04/04-SC/04-SC-C07/04-SC-C07-0350	0	hik	01:48:19;
+
+[PrintText]=01:48:20	Nanami	O-oh. Bueno, Yo... sí, las cosas no van también para mi tampoco.	01:57:23;
+
+[PlayVoice]=01:48:20	Voice04/04-SC/04-SC-C07/04-SC-C07-0360	0	nan	01:57:23;
+
+[CreateBG]=01:57:15	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-030	01:59:22;
+
+[PrintText]=01:57:23	Hikari	¡¿Eh? ¿Van a terminar?!	02:00:03;
+
+[PlayVoice]=01:57:23	Voice04/04-SC/04-SC-C07/04-SC-C07-0370	0	hik	02:00:03;
+
+[PlaySe]=01:58:00	2	SysSe/SE_all/gaya/kyousitu_rouka	03:57:06;
+
+[CreateBG]=01:59:22	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-031	02:04:03;
+
+[PrintText]=02:00:04	Nanami	¡No! La cosa es que... ¿Me escucharás?^	02:04:08;
+
+[PlayVoice]=02:00:04	Voice04/04-SC/04-SC-C07/04-SC-C07-0380	0	nan	02:04:08;
+
+[CreateBG]=02:04:03	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-032	02:05:07;
+
+[PrintText]=02:04:08	Hikari	Claro.	02:05:09;
+
+[PlayVoice]=02:04:08	Voice04/04-SC/04-SC-C07/04-SC-C07-0390	0	hik	02:05:09;
+
+[CreateBG]=02:05:07	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-033	02:06:10;
+
+[PrintText]=02:05:09	Nanami	¿Y tú, Sekai?^	02:06:12;
+
+[PlayVoice]=02:05:09	Voice04/04-SC/04-SC-C07/04-SC-C07-0400	0	nan	02:06:12;
+
+[CreateBG]=02:06:10	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-034	02:07:19;
+
+[PrintText]=02:06:16	Sekai	Uh-huh.	02:07:08;
+
+[PlayVoice]=02:06:16	Voice04/04-SC/04-SC-C07/04-SC-C07-0410	0	sek	02:07:08;
+
+[CreateBG]=02:07:19	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-035	02:14:16;
+
+[PrintText]=02:07:20	Nanami	Bueno, escucha... el otro día, fui a la casa del Senpai, y su hermana pequeña estaba allí.	02:14:19;
+
+[PlayVoice]=02:07:20	Voice04/04-SC/04-SC-C07/04-SC-C07-0420	0	nan	02:14:19;
+
+[CreateBG]=02:14:16	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-036	02:17:02;
+
+[PrintText]=02:14:20	Hikari	¿Oh? ¿Su hermana pequeña?^	02:17:04;
+
+[PlayVoice]=02:14:20	Voice04/04-SC/04-SC-C07/04-SC-C07-0430	0	hik	02:17:04;
+
+[CreateBG]=02:17:02	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-037	02:20:14;
+
+[PrintText]=02:17:04	Nanami	Su nombre es Kyoumi-chan... ah, está en la primaria.	02:20:17;
+
+[PlayVoice]=02:17:04	Voice04/04-SC/04-SC-C07/04-SC-C07-0440	0	nan	02:20:17;
+
+[CreateBG]=02:20:14	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-038	02:21:18;
+
+[PrintText]=02:20:17	Hikari	¿Es Bonita?^	02:21:20;
+
+[PlayVoice]=02:20:17	Voice04/04-SC/04-SC-C07/04-SC-C07-0450	0	hik	02:21:20;
+
+[CreateBG]=02:21:18	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-039	02:30:09;
+
+[PrintText]=02:21:20	Nanami	¡Oh, No puedes creer que linda es!	02:25:05;
+
+[PlayVoice]=02:21:20	Voice04/04-SC/04-SC-C07/04-SC-C07-0460	0	nan	02:25:05;
+
+[PrintText]=02:25:05	Nanami	Si viviera con ella, moriría pensando que no es linda.	02:30:11;
+
+[PlayVoice]=02:25:05	Voice04/04-SC/04-SC-C07/04-SC-C07-0461	0	nan	02:30:11;
+
+[PrintText]=02:30:05	Hikari	Ahahah, creo que fue un poco exagerado.	02:32:10;
+
+[PlayVoice]=02:30:05	Voice04/04-SC/04-SC-C07/04-SC-C07-0470	0	hik	02:32:10;
+
+[CreateBG]=02:30:09	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-040	02:32:15;
+
+[CreateBG]=02:32:15	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-041	02:40:08;
+
+[PrintText]=02:32:16	Nanami	Bueno, quería dejar una buena impresión, y de una manera educada le dije 'Hola'.	02:40:12;
+
+[PlayVoice]=02:32:16	Voice04/04-SC/04-SC-C07/04-SC-C07-0480	0	nan	02:40:12;
+
+[CreateBG]=02:40:08	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-042	02:41:13;
+
+[PrintText]=02:40:12	Hikari	¿Oh?^	02:41:15;
+
+[PlayVoice]=02:40:12	Voice04/04-SC/04-SC-C07/04-SC-C07-0490	0	hik	02:41:15;
+
+[CreateBG]=02:41:13	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-043	02:48:14;
+
+[PrintText]=02:41:15	Nanami	Y entonces, me pregunto, '¿Quién eres?', y le dije, 'Me llamo Kanroji Nanami, soy la novia del Senpai'.	02:48:20;
+
+[PlayVoice]=02:41:15	Voice04/04-SC/04-SC-C07/04-SC-C07-0500	0	nan	02:48:20;
+
+[CreateBG]=02:48:14	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-044	02:51:01;
+
+[PrintText]=02:48:20	Hikari	Vaya, Declarando ser su novia ¿Así nada más?^	02:51:06;
+
+[PlayVoice]=02:48:20	Voice04/04-SC/04-SC-C07/04-SC-C07-0510	0	hik	02:51:06;
+
+[CreateBG]=02:51:01	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-045	02:56:01;
+
+[PrintText]=02:51:06	Nanami	Bueno, ahora que lo pienso, creo que hice mal.	02:56:04;
+
+[PlayVoice]=02:51:06	Voice04/04-SC/04-SC-C07/04-SC-C07-0520	0	nan	02:56:04;
+
+[CreateBG]=02:56:01	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-046	02:57:04;
+
+[PrintText]=02:56:04	Sekai	¿Por qué mal?^	02:57:07;
+
+[PlayVoice]=02:56:04	Voice04/04-SC/04-SC-C07/04-SC-C07-0530	0	sek	02:57:07;
+
+[CreateBG]=02:57:04	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-047	03:04:09;
+
+[PrintText]=02:57:07	Nanami	Kyoumi-chan me lanzó una mirada fría y me dijo 'Por favor, vete'.	03:04:14;
+
+[PlayVoice]=02:57:07	Voice04/04-SC/04-SC-C07/04-SC-C07-0540	0	nan	03:04:14;
+
+[CreateBG]=03:04:09	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-048	03:07:11;
+
+[PrintText]=03:04:14	Hikari	¡Uwahahaha! ¡Wow, Realmente te odia!	03:07:14;
+
+[PlayVoice]=03:04:14	Voice04/04-SC/04-SC-C07/04-SC-C07-0550	0	hik	03:07:14;
+
+[CreateBG]=03:07:11	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-049	03:14:00;
+
+[PrintText]=03:07:14	Nanami	Llamé al celular del Senpai para hablar con ella, pero ella seguía molesta después de eso...	03:14:05;
+
+[PlayVoice]=03:07:14	Voice04/04-SC/04-SC-C07/04-SC-C07-0560	0	nan	03:14:05;
+
+[CreateBG]=03:14:00	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-050	03:15:21;
+
+[PrintText]=03:14:05	Hikari	Suena Duro.	03:16:01;
+
+[PlayVoice]=03:14:05	Voice04/04-SC/04-SC-C07/04-SC-C07-0570	0	hik	03:16:01;
+
+[CreateBG]=03:15:21	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-051	03:29:12;
+
+[PrintText]=03:16:01	Nanami	Ella daba un aspecto cuando cuidaba de él como...	03:20:07;
+
+[PlayVoice]=03:16:01	Voice04/04-SC/04-SC-C07/04-SC-C07-0580	0	nan	03:20:07;
+
+[PrintText]=03:20:07	Nanami	'Nii-san, quieres un poco más de té? Nii-san, lo has derramado. Qué desordenado eres. Déjame limpiarlo por ti.'.	03:27:08;
+
+[PlayVoice]=03:20:07	Voice04/04-SC/04-SC-C07/04-SC-C07-0581	0	nan	03:27:08;
+
+[PrintText]=03:27:08	Nanami	¡Siempre estaba ahí todo el tiempo!	03:29:19;
+
+[PlayVoice]=03:27:08	Voice04/04-SC/04-SC-C07/04-SC-C07-0582	0	nan	03:29:19;
+
+[CreateBG]=03:29:12	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-052	03:31:02;
+
+[PrintText]=03:29:20	Hikari	Tiene un complejo de hermano.	03:31:06;
+
+[PlayVoice]=03:29:20	Voice04/04-SC/04-SC-C07/04-SC-C07-0590	0	hik	03:31:06;
+
+[CreateBG]=03:31:02	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-053	03:40:18;
+
+[PrintText]=03:31:06	Nanami	Al Senpai no le importa. ¡El piensa que es normal, pero creo que su hermana está enamorada de él!	03:40:23;
+
+[PlayVoice]=03:31:06	Voice04/04-SC/04-SC-C07/04-SC-C07-0600	0	nan	03:40:23;
+
+[CreateBG]=03:40:18	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-054	03:47:12;
+
+[PrintText]=03:40:23	Hikari	Hmm... bueno, es solo una niña, así que no puedo afirmarlo. ¿Así es como están las cosas?^	03:47:21;
+
+[PlayVoice]=03:40:23	Voice04/04-SC/04-SC-C07/04-SC-C07-0610	0	hik	03:47:21;
+
+[CreateBG]=03:47:12	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-055	03:56:14;
+
+[PrintText]=03:47:21	Nanami	¡Absolutamente! Kyoumi-chan es tan linda también... y me preocupa que el Senpai pueda hacer algo indebido.	03:56:13;
+
+[PlayVoice]=03:47:21	Voice04/04-SC/04-SC-C07/04-SC-C07-0620	0	nan	03:56:13;
+
+[PlaySe]=03:55:00	1	SysSe/SE_all/gaya/kyousitu_rouka	05:35:01;
+
+[PrintText]=03:56:13	Hikari	No lo haría.	03:58:05;
+
+[PlayVoice]=03:56:13	Voice04/04-SC/04-SC-C07/04-SC-C07-0630	0	hik	03:58:05;
+
+[CreateBG]=03:56:14	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-056	03:58:02;
+
+[CreateBG]=03:58:02	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-057	04:03:07;
+
+[PrintText]=03:58:05	Nanami	Él tal vez no, pero Kyoumi-chan está siendo muy agresiva.	04:03:12;
+
+[PlayVoice]=03:58:05	Voice04/04-SC/04-SC-C07/04-SC-C07-0640	0	nan	04:03:12;
+
+[CreateBG]=04:03:07	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-058	04:05:05;
+
+[PrintText]=04:03:12	Hikari	Te preocupas mucho.	04:05:08;
+
+[PlayVoice]=04:03:12	Voice04/04-SC/04-SC-C07/04-SC-C07-0650	0	hik	04:05:08;
+
+[CreateBG]=04:05:05	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-059	04:16:08;
+
+[PrintText]=04:05:08	Nanami	¡Pero, te apuesto que hasta se han besado! algo como, 'Nii-san por favor bésame, Nii-san abrázame"...	04:13:22;
+
+[PlayVoice]=04:05:08	Voice04/04-SC/04-SC-C07/04-SC-C07-0660	0	nan	04:13:22;
+
+[PrintText]=04:13:22	Nanami	¡Uwaaaah! ¡Noooo!	04:16:12;
+
+[PlayVoice]=04:13:22	Voice04/04-SC/04-SC-C07/04-SC-C07-0661	0	nan	04:16:12;
+
+[CreateBG]=04:16:08	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-060	04:20:10;
+
+[PrintText]=04:16:17	Hikari	¿Te sorprende, huh? Ahahah.	04:20:15;
+
+[PlayVoice]=04:16:17	Voice04/04-SC/04-SC-C07/04-SC-C07-0670	0	hik	04:20:15;
+
+[CreateBG]=04:20:10	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-061	04:24:12;
+
+[PrintText]=04:20:15	Nanami	Ahh... todo lo que veo es un gran problema...	04:24:15;
+
+[PlayVoice]=04:20:15	Voice04/04-SC/04-SC-C07/04-SC-C07-0680	0	nan	04:24:15;
+
+[CreateBG]=04:24:12	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-062	04:29:18;
+
+[PrintText]=04:24:15	Hikari	Bueno, tampoco es como si lo entienda, no tengo un novio.	04:29:21;
+
+[PlayVoice]=04:24:15	Voice04/04-SC/04-SC-C07/04-SC-C07-0690	0	hik	04:29:21;
+
+[CreateBG]=04:29:18	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-063	04:31:18;
+
+[PrintText]=04:29:21	Nanami	¿Qué hay del chico en el que estabas interesado?^	04:31:22;
+
+[PlayVoice]=04:29:21	Voice04/04-SC/04-SC-C07/04-SC-C07-0700	0	nan	04:31:22;
+
+[CreateBG]=04:31:18	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-064	04:33:11;
+
+[PrintText]=04:31:22	Hikari	Olvídalo.	04:33:14;
+
+[PlayVoice]=04:31:22	Voice04/04-SC/04-SC-C07/04-SC-C07-0710	0	hik	04:33:14;
+
+[CreateBG]=04:33:11	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-065	04:34:14;
+
+[PrintText]=04:33:14	Nanami	¿Te Rendiste?^	04:34:16;
+
+[PlayVoice]=04:33:14	Voice04/04-SC/04-SC-C07/04-SC-C07-0720	0	nan	04:34:16;
+
+[CreateBG]=04:34:14	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-066	04:36:08;
+
+[PrintText]=04:34:16	Hikari	Es una larga historia.	04:36:11;
+
+[PlayVoice]=04:34:16	Voice04/04-SC/04-SC-C07/04-SC-C07-0730	0	hik	04:36:11;
+
+[CreateBG]=04:36:08	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-067	04:38:15;
+
+[PrintText]=04:36:11	Nanami	En otras palabras, no tienes agallas.	04:38:19;
+
+[PlayVoice]=04:36:11	Voice04/04-SC/04-SC-C07/04-SC-C07-0740	0	nan	04:38:19;
+
+[CreateBG]=04:38:15	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-068	04:41:22;
+
+[PrintText]=04:38:19	Hikari	Oh, cállate. Me lo estoy tranquila ¿Vale?^	04:42:02;
+
+[PlayVoice]=04:38:19	Voice04/04-SC/04-SC-C07/04-SC-C07-0750	0	hik	04:42:02;
+
+[CreateBG]=04:41:22	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-069	04:43:01;
+
+[CreateBG]=04:43:01	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-070	04:45:13;
+
+[PrintText]=04:43:07	Nanami	Sekai, ¿Estás bien?^	04:45:15;
+
+[PlayVoice]=04:43:07	Voice04/04-SC/04-SC-C07/04-SC-C07-0770	0	nan	04:45:15;
+
+[CreateBG]=04:45:13	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-071	04:49:19;
+
+[PrintText]=04:45:15	Sekai	¿Eh? ...Ahahah. Estaba en otro lado por un momento.	04:49:23;
+
+[PlayVoice]=04:45:15	Voice04/04-SC/04-SC-C07/04-SC-C07-0780	0	sek	04:49:23;
+
+[CreateBG]=04:49:19	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-072	04:51:12;
+
+[PrintText]=04:49:22	Hikari	Anímate.	04:51:13;
+
+[PlayVoice]=04:49:22	Voice04/04-SC/04-SC-C07/04-SC-C07-0790	0	hik	04:51:13;
+
+[CreateBG]=04:51:12	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-073	04:52:12;
+
+[PrintText]=04:51:17	Sekai	Sí.	04:52:08;
+
+[PlayVoice]=04:51:17	Voice04/04-SC/04-SC-C07/04-SC-C07-0800	0	sek	04:52:08;
+
+[CreateBG]=04:52:12	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-074	04:55:05;
+
+[PrintText]=04:52:13	Nanami	¿Huh? Tu almuerzo aún...	04:55:04;
+
+[PlayVoice]=04:52:13	Voice04/04-SC/04-SC-C07/04-SC-C07-0810	0	nan	04:55:04;
+
+[CreateBG]=04:55:05	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-077	04:56:09;
+
+[PrintText]=04:55:07	Sekai	¡Ah!	04:56:08;
+
+[PlayVoice]=04:55:07	Voice04/04-SC/04-SC-C07/04-SC-C07-0820	0	sek	04:56:08;
+
+[CreateBG]=04:56:09	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-076	04:58:02;
+
+[PrintText]=04:56:12	Nanami	¿No es un poco grande?^	04:58:04;
+
+[PlayVoice]=04:56:12	Voice04/04-SC/04-SC-C07/04-SC-C07-0840	0	nan	04:58:04;
+
+[CreateBG]=04:58:02	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-077	04:59:03;
+
+[PrintText]=04:58:06	Sekai	Sí...	04:59:02;
+
+[PlayVoice]=04:58:06	Voice04/04-SC/04-SC-C07/04-SC-C07-0850	0	sek	04:59:02;
+
+[CreateBG]=04:59:03	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-078	05:02:23;
+
+[PrintText]=04:59:05	Hikari	No hay manera de que lo puedas terminar...	05:03:02;
+
+[PlayVoice]=04:59:05	Voice04/04-SC/04-SC-C07/04-SC-C07-0860	0	hik	05:03:02;
+
+[CreateBG]=05:02:23	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-079	05:06:13;
+
+[PrintText]=05:03:02	Sekai	Hice mucho... ahahah.	05:06:17;
+
+[PlayVoice]=05:03:02	Voice04/04-SC/04-SC-C07/04-SC-C07-0870	0	sek	05:06:17;
+
+[CreateBG]=05:06:13	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-080	05:08:19;
+
+[CreateBG]=05:08:19	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-081	05:09:22;
+
+[BlackFade]=05:09:13	OUT	05:09:22;
+
+[CreateBG]=05:09:22	BGS	System/Screen/Black	05:10:09;
+
+[CreateBG]=05:10:09	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-082	05:11:17;
+
+[BlackFade]=05:10:09	IN	05:10:17;
+
+[PrintText]=05:10:22	Sekai	Makoto.	05:12:04;
+
+[PlayVoice]=05:10:22	Voice04/04-SC/04-SC-C07/04-SC-C07-0930	0	sek	05:12:04;
+
+[CreateBG]=05:11:17	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-082B	05:13:20;
+
+[PrintText]=05:11:21	Makoto	...Sí.	05:13:22;
+
+[PlayVoice]=05:11:21	Voice04/04-SC/04-SC-C07/04-SC-C07-0940	1	mak	05:13:22;
+
+[CreateBG]=05:13:20	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-082C	05:17:22;
+
+[PrintText]=05:13:22	Sekai	¿Podemos hablar?^	05:16:01;
+
+[PlayVoice]=05:13:22	Voice04/04-SC/04-SC-C07/04-SC-C07-0950	0	sek	05:16:01;
+
+[PrintText]=05:16:01	Makoto	¿Ahora?^	05:17:09;
+
+[PlayVoice]=05:16:01	Voice04/04-SC/04-SC-C07/04-SC-C07-0960	1	mak	05:17:09;
+
+[PrintText]=05:17:09	Sekai	Sí.	05:18:01;
+
+[PlayVoice]=05:17:09	Voice04/04-SC/04-SC-C07/04-SC-C07-0970	0	sek	05:18:01;
+
+[CreateBG]=05:17:22	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-083	05:20:17;
+
+[PrintText]=05:18:09	Makoto	Estoy a punto de irme a ver con alguien.	05:20:21;
+
+[PlayVoice]=05:18:09	Voice04/04-SC/04-SC-C07/04-SC-C07-0980	1	mak	05:20:21;
+
+[CreateBG]=05:20:17	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-084	05:22:03;
+
+[PrintText]=05:21:03	Sekai	¿...Katsura-san?^	05:22:04;
+
+[PlayVoice]=05:21:03	Voice04/04-SC/04-SC-C07/04-SC-C07-0990	0	sek	05:22:04;
+
+[CreateBG]=05:22:03	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-085	05:23:05;
+
+[PrintText]=05:22:08	Makoto	Sí.	05:23:04;
+
+[PlayVoice]=05:22:08	Voice04/04-SC/04-SC-C07/04-SC-C07-1000	1	mak	05:23:04;
+
+[CreateBG]=05:23:05	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-086	05:24:19;
+
+[PrintText]=05:23:19	Sekai	Ya veo...	05:24:20;
+
+[PlayVoice]=05:23:19	Voice04/04-SC/04-SC-C07/04-SC-C07-1010	0	sek	05:24:20;
+
+[CreateBG]=05:24:19	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-087	05:30:22;
+
+[PrintText]=05:24:20	Makoto	Le prometí que iba a esperarla en el tejado en cuanto su reunión termine... pero si es solo hasta entonces...	05:31:02;
+
+[PlayVoice]=05:24:20	Voice04/04-SC/04-SC-C07/04-SC-C07-1020	1	mak	05:31:02;
+
+[CreateBG]=05:30:14	BGS	Event04/04-SC/04-SC-C07/04-SC-C07-088	05:35:01;
+
+[PrintText]=05:31:01	Sekai	Seguro, está bien...	05:33:16;
+
+[PlayVoice]=05:31:01	Voice04/04-SC/04-SC-C07/04-SC-C07-1030	0	sek	05:33:16;
+
+[BlackFade]=05:34:12	OUT	05:35:01;
+
+ ;
+
+[Next]=05:35:01;
+
+

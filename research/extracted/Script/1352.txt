@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:29:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:29:04;
+
+[CreateBG]=00:00:00	BGS	Ini/Event05/05-5O/05-5O-G04/05-5O-G04-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-G04/05-5O-G04-002	00:07:06;
+
+[PrintText]=00:03:02	Kotonoha	Eheheh.	00:04:11;
+
+[PlayVoice]=00:03:02	Voice05/05-5O/05-5O-G04/05-5O-G04-0040	1	kot	00:04:11;
+
+[PrintText]=00:04:17	Makoto	...	00:05:11;
+
+[PlayVoice]=00:04:17	Voice05/05-5O/05-5O-G04/05-5O-G04-0050	0	mak	00:05:11;
+
+[PrintText]=00:06:04	Kotonoha	Makoto-kun.	00:07:05;
+
+[PlayVoice]=00:06:04	Voice05/05-5O/05-5O-G04/05-5O-G04-0060	1	kot	00:07:05;
+
+[CreateBG]=00:07:06	BGS	Event05/05-5O/05-5O-G04/05-5O-G04-003	00:11:09;
+
+[PrintText]=00:07:11	Makoto	¿Sí?^	00:08:03;
+
+[PlayVoice]=00:07:11	Voice05/05-5O/05-5O-G04/05-5O-G04-0070	0	mak	00:08:03;
+
+[PrintText]=00:08:19	Kotonoha	¿Estás libre después de clases?^	00:11:04;
+
+[PlayVoice]=00:08:19	Voice05/05-5O/05-5O-G04/05-5O-G04-0080	1	xxx	00:11:04;
+
+[CreateBG]=00:11:09	BGS	Event05/05-5O/05-5O-G04/05-5O-G04-004	00:16:04;
+
+[PrintText]=00:11:14	Makoto	...	00:12:05;
+
+[PlayVoice]=00:11:14	Voice05/05-5O/05-5O-G04/05-5O-G04-0090	0	mak	00:12:05;
+
+[PrintText]=00:12:12	Kotonoha	Me gustaría que vinieras a mi casa hoy.	00:16:02;
+
+[PlayVoice]=00:12:12	Voice05/05-5O/05-5O-G04/05-5O-G04-0100	1	kot	00:16:02;
+
+[CreateBG]=00:16:04	BGS	Event05/05-5O/05-5O-G04/05-5O-G04-005	00:17:23;
+
+[PrintText]=00:16:06	Makoto	Pero yo...	00:17:22;
+
+[PlayVoice]=00:16:06	Voice05/05-5O/05-5O-G04/05-5O-G04-0110	0	mak	00:17:22;
+
+[CreateBG]=00:17:23	BGS	Event05/05-5O/05-5O-G04/05-5O-G04-006	00:28:10;
+
+[PrintText]=00:18:01	Kotonoha	Voy a ser mejor ahora ¿Vale?^	00:22:01;
+
+[PlayVoice]=00:18:01	Voice05/05-5O/05-5O-G04/05-5O-G04-0120	1	kot	00:28:09;
+
+[PrintText]=00:22:01	Kotonoha	Es fin de semana, si no te importa, me gustaría también pasar todo el sábado contigo.	00:28:09;
+
+[CreateBG]=00:28:10	BGS	Event05/05-5O/05-5O-G04/05-5O-G04-005	00:29:04;
+
+[PrintText]=00:28:12	Makoto	...	00:29:02;
+
+[PlayVoice]=00:28:12	Voice05/05-5O/05-5O-G04/05-5O-G04-0130			00:29:02;
+
+ ;
+
+[Next]=00:29:04;
+
+

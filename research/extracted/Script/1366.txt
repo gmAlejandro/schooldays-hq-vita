@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:05:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:05:05;
+
+[PlayMovie]=00:00:00	Movie05/05-5O/05-5O-J02/05-5O-J02-001	0	00:03:00;
+
+[PlayMovie]=00:03:00	Movie05/05-5O/05-5O-J02/05-5O-J02-002	0	00:05:05;
+
+[PrintText]=00:03:03	Makoto	...Sí.	00:04:00;
+
+[PlayVoice]=00:03:03	Voice05/05-5O/05-5O-J02/05-5O-J02-0040	1	mak	00:04:00;
+
+[PlayVoice]=00:04:07	Voice05/05-5O/05-5O-J02/05-5O-J02-0050			00:04:22;
+
+ ;
+
+[Next]=00:05:05;
+
+

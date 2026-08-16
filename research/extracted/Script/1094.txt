@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:30:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E08/04-SA-E08-001	00:05:00;
+
+[PrintText]=00:00:08	Makoto	¿Entonces, vamos?^	00:02:02;
+
+[PlayVoice]=00:00:08	Voice04/04-SA/04-SA-E08/04-SA-E08-0030	1	mak	00:02:02;
+
+[PrintText]=00:02:02	Sekai	¿Estaría bien si lo hago?^	00:02:23;
+
+[PlayVoice]=00:02:02	Voice04/04-SA/04-SA-E08/04-SA-E08-0040	0	sek	00:02:23;
+
+[PrintText]=00:02:23	Makoto	Hemos comido antes ¿No?^	00:05:01;
+
+[PlayVoice]=00:02:23	Voice04/04-SA/04-SA-E08/04-SA-E08-0050	1	mak	00:05:01;
+
+[CreateBG]=00:05:00	BGS	Event04/04-SA/04-SA-E08/04-SA-E08-002	00:05:23;
+
+[PrintText]=00:05:04	Sekai	Uh-huh.	00:06:01;
+
+[PlayVoice]=00:05:04	Voice04/04-SA/04-SA-E08/04-SA-E08-0060	0	sek	00:06:01;
+
+[CreateBG]=00:05:23	BGS	Event04/04-SA/04-SA-E08/04-SA-E08-003	00:09:13;
+
+[PrintText]=00:06:04	Makoto	No es que no podamos ir a la azotea, por el clima y eso.	00:09:15;
+
+[PlayVoice]=00:06:04	Voice04/04-SA/04-SA-E08/04-SA-E08-0070	1	mak	00:09:15;
+
+[CreateBG]=00:09:13	BGS	Event04/04-SA/04-SA-E08/04-SA-E08-004	00:20:09;
+
+[PrintText]=00:09:21	Sekai	Es verdad.	00:11:06;
+
+[PlayVoice]=00:09:21	Voice04/04-SA/04-SA-E08/04-SA-E08-0080	0	sek	00:11:06;
+
+[PrintText]=00:12:00	Sekai	Entonces... tú...	00:14:14;
+
+[PlayVoice]=00:12:00	Voice04/04-SA/04-SA-E08/04-SA-E08-0120	0	sek	00:14:14;
+
+[PrintText]=00:14:15	Makoto	Uh-huh.	00:15:06;
+
+[PlayVoice]=00:14:15	Voice04/04-SA/04-SA-E08/04-SA-E08-0130	1	mak	00:15:06;
+
+[PrintText]=00:15:08	Sekai	... tienes tiempo... de sobra.	00:18:02;
+
+[PlayVoice]=00:15:08	Voice04/04-SA/04-SA-E08/04-SA-E08-0140	0	sek	00:18:02;
+
+[PrintText]=00:18:03	Makoto	Se podría decir.	00:19:05;
+
+[PlayVoice]=00:18:03	Voice04/04-SA/04-SA-E08/04-SA-E08-0150	1	mak	00:19:05;
+
+[PrintText]=00:19:06	Sekai	...	00:20:12;
+
+[PlayVoice]=00:19:06	Voice04/04-SA/04-SA-E08/04-SA-E08-0160	0	xxx	00:20:12;
+
+[CreateBG]=00:20:09	BGS	Event04/04-SA/04-SA-E08/04-SA-E08-005	00:25:21;
+
+[PrintText]=00:20:17	Makoto	¿Si tengo algo que hacer?^	00:21:18;
+
+[PlayVoice]=00:20:17	Voice04/04-SA/04-SA-E08/04-SA-E08-0170	1	mak	00:21:18;
+
+[PrintText]=00:21:20	Sekai	Si... estás libre, entonces...	00:25:08;
+
+[PlayVoice]=00:21:20	Voice04/04-SA/04-SA-E08/04-SA-E08-0180	0	sek	00:25:08;
+
+[PrintText]=00:25:08	Makoto	Uh-huh.	00:26:01;
+
+[PlayVoice]=00:25:08	Voice04/04-SA/04-SA-E08/04-SA-E08-0190	1	mak	00:26:01;
+
+[CreateBG]=00:25:21	BGS	Event04/04-SA/04-SA-E08/04-SA-E08-006	00:36:16;
+
+[PrintText]=00:26:04	Sekai	En serio, es solo si estás libre. ¿Estás libre, Makoto?^	00:30:03;
+
+[PlayVoice]=00:26:04	Voice04/04-SA/04-SA-E08/04-SA-E08-0200	0	sek	00:30:03;
+
+[SetSELECT]=00:30:16	'Sí'	null	00:35:16;
+
+ ;
+
+[Next]=00:36:16;
+
+

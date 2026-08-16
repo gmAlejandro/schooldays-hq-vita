@@ -1,0 +1,227 @@
+﻿[SkipFRAME]=02:34:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	01:59:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/h/h_03	00:13:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-A07/05-KA-A07-001	00:13:10;
+
+[PrintText]=00:00:04	Kotonoha	¿Lo ves?^	00:01:14;
+
+[PlayVoice]=00:00:04	Voice05/05-KA/05-KA-A07/05-KA-A07-0030	0	kot	00:01:14;
+
+[PrintText]=00:01:13	Makoto	Fwah.	00:02:08;
+
+[PlayVoice]=00:01:13	Voice05/05-KA/05-KA-A07/05-KA-A07-0050	1	mak	00:02:08;
+
+[PrintText]=00:03:03	Kotonoha	Aahn...	00:03:20;
+
+[PlayVoice]=00:03:03	Voice05/05-KA/05-KA-A07/05-KA-A07-0070	0	kot	00:03:20;
+
+[PrintText]=00:04:09	Makoto	Haah... haah...	00:08:04;
+
+[PlayVoice]=00:04:09	Voice05/05-KA/05-KA-A07/05-KA-A07-0080	1	mak	00:08:04;
+
+[PrintText]=00:08:13	Kotonoha	Ufufu.	00:10:04;
+
+[PlayVoice]=00:08:13	Voice05/05-KA/05-KA-A07/05-KA-A07-0090	0	kot	00:10:04;
+
+[PrintText]=00:11:00	Makoto	Haah... haah...	00:15:23;
+
+[PlayVoice]=00:11:00	Voice05/05-KA/05-KA-A07/05-KA-A07-0100	1	mak	00:15:23;
+
+[CreateBG]=00:13:04	BGS	Event05/05-KA/05-KA-A07/05-KA-A07-002	00:18:12;
+
+[PrintText]=00:15:15	Kotonoha	Haré todo lo que pueda hoy...	00:18:10;
+
+[PlayVoice]=00:15:15	Voice05/05-KA/05-KA-A07/05-KA-A07-0110	0	kot	00:18:10;
+
+[PlayMovie]=00:18:12	Movie05/05-KA/05-KA-A07/05-KA-A07-003	0	00:26:08;
+
+[PrintText]=00:18:12	Makoto	...	00:20:04;
+
+[PlayVoice]=00:18:12	Voice05/05-KA/05-KA-A07/05-KA-A07-0120	1	xxx	00:20:04;
+
+[MoveSom]=00:18:12	1	00:36:02;
+
+[PlaySe]=00:20:13	2	SysSe/SE_all/h/h_04	00:28:10;
+
+[PlaySe]=00:21:10	1	Voice05/05-KA/05-KA-A07/05-KA-A07-0111	00:26:01;
+
+[PlayMovie]=00:26:08	Movie05/05-KA/05-KA-A07/05-KA-A07-004	0	00:31:01;
+
+[PrintText]=00:26:11	Kotonoha	Está adentro...	00:30:16;
+
+[PlayVoice]=00:26:11	Voice05/05-KA/05-KA-A07/05-KA-A07-0140	0	kot	00:30:16;
+
+[PlayMovie]=00:31:01	Movie05/05-KA/05-KA-A07/05-KA-A07-005	0	00:36:01;
+
+[PrintText]=00:31:04	Makoto	...	00:34:10;
+
+[PlayVoice]=00:31:04	Voice05/05-KA/05-KA-A07/05-KA-A07-0270	1	xxx	00:34:10;
+
+[PrintText]=00:33:19	Kotonoha	Está... tan duro...	00:38:06;
+
+[PlayVoice]=00:33:19	Voice05/05-KA/05-KA-A07/05-KA-A07-0150	0	kot	00:38:06;
+
+[PlayMovie]=00:36:01	Movie05/05-KA/05-KA-A07/05-KA-A07-006	0	00:45:15;
+
+[MoveSom]=00:36:01	2	00:45:15;
+
+[PrintText]=00:38:14	Kotonoha	Se siente como si fuera a ir hasta mi boca...	00:42:05;
+
+[PlayVoice]=00:38:14	Voice05/05-KA/05-KA-A07/05-KA-A07-0160	0	kot	00:42:05;
+
+[PrintText]=00:42:06	Kotonoha	Si tiene vienes de esta manera, quedaré embarazada, estoy segura...	00:49:16;
+
+[PlayVoice]=00:42:06	Voice05/05-KA/05-KA-A07/05-KA-A07-0170	0	kot	00:49:16;
+
+[PlaySe]=00:42:08	3	SysSe/SE_all/h/h_01	00:52:02;
+
+[PlayMovie]=00:45:15	Movie05/05-KA/05-KA-A07/05-KA-A07-007	0	00:49:16;
+
+[MoveSom]=00:45:15	1	00:51:16;
+
+[PlayMovie]=00:49:16	Movie05/05-KA/05-KA-A07/05-KA-A07-005	0	00:51:16;
+
+[PlayMovie]=00:51:16	Movie05/05-KA/05-KA-A07/05-KA-A07-006	0	01:00:12;
+
+[PrintText]=00:51:16	Kotonoha	Empezaré a moverme, así que solo puedes recostarte.	00:57:00;
+
+[PlayVoice]=00:51:16	Voice05/05-KA/05-KA-A07/05-KA-A07-0180	0	kot	00:57:00;
+
+[MoveSom]=00:51:16	2	01:00:12;
+
+[PlaySe]=00:54:15	4	SysSe/SE_all/h/h_05	00:57:15;
+
+[PlaySe]=00:57:08	1	Voice05/05-KA/05-KA-A07/05-KA-A07-0181	01:04:05;
+
+[PlaySe]=00:57:15	5	SysSe/SE_all/h/h_03	01:03:08;
+
+[CreateBG]=01:00:12	BGS	Event05/05-KA/05-KA-A07/05-KA-A07-010	01:04:10;
+
+[MoveSom]=01:00:12	1	01:04:11;
+
+[PlaySe]=01:03:17	6	SysSe/SE_all/h/h_05	01:08:22;
+
+[PlayMovie]=01:04:10	Movie05/05-KA/05-KA-A07/05-KA-A07-011	0	01:13:04;
+
+[MoveSom]=01:04:10	4	01:13:04;
+
+[PrintText]=01:04:14	Kotonoha	¿Se siente bien... Makoto-kun?^	01:07:14;
+
+[PlayVoice]=01:04:14	Voice05/05-KA/05-KA-A07/05-KA-A07-0190	0	kot	01:07:14;
+
+[PlaySe]=01:07:17	1	Voice05/05-KA/05-KA-A07/05-KA-A07-0191	01:12:01;
+
+[PlaySe]=01:08:22	7	SysSe/SE_all/h/h_03	01:12:20;
+
+[PrintText]=01:11:22	Kotonoha	Sí...	01:13:06;
+
+[PlayVoice]=01:11:22	Voice05/05-KA/05-KA-A07/05-KA-A07-0200	0	kot	01:13:06;
+
+[PlaySe]=01:12:20	8	SysSe/SE_all/h/h_05	01:31:23;
+
+[PlayMovie]=01:13:04	Movie05/05-KA/05-KA-A07/05-KA-A07-012	0	01:21:23;
+
+[MoveSom]=01:13:04	3	01:21:23;
+
+[PlaySe]=01:13:13	1	Voice05/05-KA/05-KA-A07/05-KA-A07-0201	01:16:09;
+
+[PrintText]=01:16:11	Kotonoha	No, no debes...	01:18:21;
+
+[PlayVoice]=01:16:11	Voice05/05-KA/05-KA-A07/05-KA-A07-0210	0	kot	01:18:21;
+
+[PrintText]=01:18:21	Kotonoha	Hoy...	01:20:15;
+
+[PlayVoice]=01:18:21	Voice05/05-KA/05-KA-A07/05-KA-A07-0220	0	kot	01:20:15;
+
+[PrintText]=01:20:15	Kotonoha	Yo lo haré...	01:24:14;
+
+[PlayVoice]=01:20:15	Voice05/05-KA/05-KA-A07/05-KA-A07-0230	0	kot	01:24:14;
+
+[PlayMovie]=01:21:23	Movie05/05-KA/05-KA-A07/05-KA-A07-013	0	01:24:19;
+
+[MoveSom]=01:21:23	2	01:24:19;
+
+[PlayMovie]=01:24:19	Movie05/05-KA/05-KA-A07/05-KA-A07-014	0	01:32:12;
+
+[MoveSom]=01:24:19	4	01:32:12;
+
+[PlaySe]=01:24:23	1	Voice05/05-KA/05-KA-A07/05-KA-A07-0231	01:46:05;
+
+[PlayMovie]=01:32:12	Movie05/05-KA/05-KA-A07/05-KA-A07-015	0	01:39:21;
+
+[MoveSom]=01:32:12	5	01:47:21;
+
+[PlayMovie]=01:39:21	Movie05/05-KA/05-KA-A07/05-KA-A07-016	0	01:45:21;
+
+[PlayMovie]=01:45:21	Movie05/05-KA/05-KA-A07/05-KA-A07-005	0	01:49:09;
+
+[PlayMovie]=01:49:09	Movie05/05-KA/05-KA-A07/05-KA-A07-018	0	01:53:13;
+
+[CreateBG]=01:53:13	BGS	Event05/05-KA/05-KA-A07/05-KA-A07-022	01:59:15;
+
+[WhiteFade]=01:57:15	OUT	01:59:15;
+
+[CreateBG]=01:59:15	BGS	Event05/05-KA/05-KA-A07/05-KA-A07-020	02:05:09;
+
+[PrintText]=01:59:15	Kotonoha	Fufuh...	02:02:20;
+
+[PlayVoice]=01:59:15	Voice05/05-KA/05-KA-A07/05-KA-A07-0250	0	kot	02:02:20;
+
+[WhiteFade]=01:59:15	IN	02:00:15;
+
+[CreateBG]=02:05:09	BGS	Event05/05-KA/05-KA-A07/05-KA-A07-021	02:11:00;
+
+[PrintText]=02:05:12	Kotonoha	Y eso que estabas resistiéndote...	02:09:07;
+
+[PlayVoice]=02:05:12	Voice05/05-KA/05-KA-A07/05-KA-A07-0280	0	kot	02:09:07;
+
+[PrintText]=02:09:23	Makoto	...	02:10:20;
+
+[PlayVoice]=02:09:23	Voice05/05-KA/05-KA-A07/05-KA-A07-0290	1	xxx	02:10:20;
+
+[CreateBG]=02:11:00	BGS	Event05/05-KA/05-KA-A07/05-KA-A07-022	02:23:07;
+
+[PrintText]=02:11:10	Kotonoha	Ufufu...	02:12:20;
+
+[PlayVoice]=02:11:10	Voice05/05-KA/05-KA-A07/05-KA-A07-0300	0	kot	02:12:20;
+
+[PrintText]=02:13:12	Makoto	...	02:14:14;
+
+[PlayVoice]=02:13:12	Voice05/05-KA/05-KA-A07/05-KA-A07-0310	1	xxx	02:14:14;
+
+[PrintText]=02:15:07	Kotonoha	¿Almorzamos juntos mañana?^	02:18:04;
+
+[PlayVoice]=02:15:07	Voice05/05-KA/05-KA-A07/05-KA-A07-0320	0	kot	02:18:04;
+
+[PrintText]=02:19:00	Makoto	...	02:19:19;
+
+[PlayVoice]=02:19:00	Voice05/05-KA/05-KA-A07/05-KA-A07-0330	1	xxx	02:19:19;
+
+[PrintText]=02:20:02	Kotonoha	Puedes traer tu almuerzo... y después de esto, puedes tener tenerme.	02:26:15;
+
+[PlayVoice]=02:20:02	Voice05/05-KA/05-KA-A07/05-KA-A07-0340	0	kot	02:26:15;
+
+[CreateBG]=02:23:07	BGS	Event05/05-KA/05-KA-A07/05-KA-A07-023	02:34:09;
+
+[PrintText]=02:27:04	Makoto	...	02:28:09;
+
+[PlayVoice]=02:27:04	Voice05/05-KA/05-KA-A07/05-KA-A07-0350	1	xxx	02:28:09;
+
+[PrintText]=02:29:02	Kotonoha	Ufufu... buenas noches.	02:31:21;
+
+[PlayVoice]=02:29:02	Voice05/05-KA/05-KA-A07/05-KA-A07-0360	0	kot	02:31:21;
+
+[PrintText]=02:32:02	Makoto	Sí...	02:32:21;
+
+[PlayVoice]=02:32:02	Voice05/05-KA/05-KA-A07/05-KA-A07-0380	1	mak	02:32:21;
+
+[BlackFade]=02:33:09	OUT	02:34:09;
+
+ ;
+
+[Next]=02:34:09;
+
+

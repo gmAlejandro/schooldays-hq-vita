@@ -1,0 +1,113 @@
+﻿[SkipFRAME]=01:02:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:02:10;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-A00/SE03-KB-A00-001	01:02:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-001A	00:01:13;
+
+[CreateBG]=00:01:13	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-001B	00:02:11;
+
+[PrintText]=00:01:14	Kotonoha	Haah...	00:02:10;
+
+[PlayVoice]=00:01:14	Voice03/03-KB/03-KB-A00/03-KB-A00-0070	0	kot	00:02:10;
+
+[CreateBG]=00:02:11	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-002A	00:03:15;
+
+[CreateBG]=00:03:15	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-002B	00:08:15;
+
+[PrintText]=00:03:15	Nanami	Supongo que es lo que se dice una tradición... así que, de todos modos, es algo así.	00:08:11;
+
+[PlayVoice]=00:03:15	Voice03/03-KB/03-KB-A00/03-KB-A00-0090	0	nan	00:08:11;
+
+[PrintText]=00:08:12	Setsuna	Hmmn. ¿Estarás con tu novio en el festival entonces?^	00:14:11;
+
+[PlayVoice]=00:08:12	Voice03/03-KB/03-KB-A00/03-KB-A00-0100	0	set	00:14:11;
+
+[CreateBG]=00:08:15	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-002C	00:15:06;
+
+[CreateBG]=00:15:06	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-003	00:20:22;
+
+[PrintText]=00:15:06	Nanami	Eheheh... sí ¿Qué hay de ti?^	00:18:10;
+
+[PlayVoice]=00:15:06	Voice03/03-KB/03-KB-A00/03-KB-A00-0110	0	nan	00:18:10;
+
+[PrintText]=00:18:10	Setsuna	No tengo a nadie con quien ir.	00:20:22;
+
+[PlayVoice]=00:18:10	Voice03/03-KB/03-KB-A00/03-KB-A00-0120	0	set	00:20:22;
+
+[CreateBG]=00:20:22	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-004A	00:22:07;
+
+[PrintText]=00:20:22	Nanami	¿Ehh? ¿En serio? ¡Ah!	00:23:10;
+
+[PlayVoice]=00:20:22	Voice03/03-KB/03-KB-A00/03-KB-A00-0130	0	nan	00:23:10;
+
+[CreateBG]=00:22:07	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-004B	00:23:10;
+
+[CreateBG]=00:23:10	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-004C	00:27:03;
+
+[PrintText]=00:23:10	Kotonoha	Ah... K-Kanroji... san.	00:27:03;
+
+[PlayVoice]=00:23:10	Voice03/03-KB/03-KB-A00/03-KB-A00-0150	0	kot	00:27:03;
+
+[CreateBG]=00:27:03	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-005	00:27:21;
+
+[PrintText]=00:27:03	Nanami	...	00:27:21;
+
+[PlayVoice]=00:27:03	Voice03/03-KB/03-KB-A00/03-KB-A00-0170	0	xxx	00:27:21;
+
+[CreateBG]=00:27:21	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-006A	00:28:17;
+
+[CreateBG]=00:28:17	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-006B	00:29:23;
+
+[PrintText]=00:29:10	Setsuna	Nanami, ¿Tú y Katsura se conocen?^	00:32:13;
+
+[PlayVoice]=00:29:10	Voice03/03-KB/03-KB-A00/03-KB-A00-0180	0	set	00:32:13;
+
+[CreateBG]=00:29:23	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-006C	00:42:12;
+
+[PrintText]=00:32:13	Nanami	Fuimos a la misma primaria ¿Qué? ¿La conoces?^	00:37:21;
+
+[PlayVoice]=00:32:13	Voice03/03-KB/03-KB-A00/03-KB-A00-0190	0	nan	00:37:21;
+
+[PrintText]=00:37:21	Setsuna	Ella es un miembro del comité de implementación de la clase 4.	00:41:09;
+
+[PlayVoice]=00:37:21	Voice03/03-KB/03-KB-A00/03-KB-A00-0200	0	set	00:41:09;
+
+[PrintText]=00:41:10	Nanami	Hmmn.	00:42:13;
+
+[PlayVoice]=00:41:10	Voice03/03-KB/03-KB-A00/03-KB-A00-0210	0	nan	00:42:13;
+
+[CreateBG]=00:42:12	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-007	00:44:03;
+
+[PrintText]=00:42:13	Kotonoha	Haah...	00:43:07;
+
+[PlayVoice]=00:42:13	Voice03/03-KB/03-KB-A00/03-KB-A00-0230	0	kot	00:43:07;
+
+[CreateBG]=00:44:03	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-008	00:51:13;
+
+[PrintText]=00:45:07	Setsuna	Hmm... entonces, ¿Irás con tu novio en el festival?^	00:51:10;
+
+[PlayVoice]=00:45:07	Voice03/03-KB/03-KB-A00/03-KB-A00-0260	0	set	00:51:10;
+
+[CreateBG]=00:51:13	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-009	00:55:17;
+
+[PrintText]=00:51:14	Nanami	Eheheh... sí ¿Qué hay de ti?^	00:54:19;
+
+[PlayVoice]=00:51:14	Voice03/03-KB/03-KB-A00/03-KB-A00-0270	0	nan	00:54:19;
+
+[CreateBG]=00:55:17	BGS	Event03/03-KB/03-KB-A00/03-KB-A00-007	01:02:10;
+
+[PrintText]=00:56:07	Kotonoha	Con su novio... huh.	00:59:10;
+
+[PlayVoice]=00:56:07	Voice03/03-KB/03-KB-A00/03-KB-A00-0290	0	kot	00:59:10;
+
+[PrintText]=01:00:11	Kotonoha	Makoto-kun...	01:01:16;
+
+[PlayVoice]=01:00:11	Voice03/03-KB/03-KB-A00/03-KB-A00-0300	0	kot	01:01:16;
+
+ ;
+
+[Next]=01:02:10;
+
+

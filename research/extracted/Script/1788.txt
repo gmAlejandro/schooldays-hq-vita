@@ -1,0 +1,141 @@
+﻿[SkipFRAME]=01:38:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:38:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-001	00:04:21;
+
+[PrintText]=00:00:00	Setsuna	Te haré olvidarla...	00:02:21;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-B04/05-SD-B04-0030	0	set	00:02:21;
+
+[PrintText]=00:02:13	Sekai	¡Para!	00:04:05;
+
+[PlayVoice]=00:02:13	Voice05/05-SD/05-SD-B04/05-SD-B04-0040	0	sek	00:04:05;
+
+[PrintText]=00:04:03	Setsuna	...	00:05:00;
+
+[PlayVoice]=00:04:03	Voice05/05-SD/05-SD-B04/05-SD-B04-0050	0	xxx	00:05:00;
+
+[CreateBG]=00:04:21	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-002	00:09:21;
+
+[PrintText]=00:04:21	Sekai	¡No lo toques!	00:06:19;
+
+[PlayVoice]=00:04:21	Voice05/05-SD/05-SD-B04/05-SD-B04-0060	0	sek	00:06:19;
+
+[PrintText]=00:07:09	Setsuna	¿...Sekai?^	00:08:13;
+
+[PlayVoice]=00:07:09	Voice05/05-SD/05-SD-B04/05-SD-B04-0070	0	set	00:08:13;
+
+[PrintText]=00:08:13	Sekai	¡No quiero que lo haga con otras chicas! ¡No... no quiero...!	00:15:03;
+
+[PlayVoice]=00:08:13	Voice05/05-SD/05-SD-B04/05-SD-B04-0080	0	sek	00:15:03;
+
+[CreateBG]=00:09:21	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-003	00:21:02;
+
+[PrintText]=00:15:03	Setsuna	...	00:16:03;
+
+[PlayVoice]=00:15:03	Voice05/05-SD/05-SD-B04/05-SD-B04-0090	0	xxx	00:16:03;
+
+[PrintText]=00:16:04	Sekai	No voy a dejarte... No voy a transferirme, así que Makoto... no lo hagas con nadie más...	00:27:05;
+
+[PlayVoice]=00:16:04	Voice05/05-SD/05-SD-B04/05-SD-B04-0100	0	sek	00:27:05;
+
+[CreateBG]=00:21:02	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-004	00:30:09;
+
+[PrintText]=00:27:05	Setsuna	Sekai... pero...	00:29:12;
+
+[PlayVoice]=00:27:05	Voice05/05-SD/05-SD-B04/05-SD-B04-0110	0	set	00:29:12;
+
+[PrintText]=00:29:13	Sekai	Tomaré un cuarto en el Summer Radish.	00:32:23;
+
+[PlayVoice]=00:29:13	Voice05/05-SD/05-SD-B04/05-SD-B04-0120	0	sek	00:32:23;
+
+[CreateBG]=00:30:09	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-005	00:41:04;
+
+[PrintText]=00:32:23	Setsuna	¿Eh?^	00:33:15;
+
+[PlayVoice]=00:32:23	Voice05/05-SD/05-SD-B04/05-SD-B04-0130	0	set	00:33:15;
+
+[PrintText]=00:33:16	Sekai	¡Tendré un trabajo de medio tiempo mientras que esté en la escuela. No importa qué pase, no me transferiré!	00:40:03;
+
+[PlayVoice]=00:33:16	Voice05/05-SD/05-SD-B04/05-SD-B04-0140	0	sek	00:40:03;
+
+[PrintText]=00:40:03	Setsuna	...	00:41:04;
+
+[PlayVoice]=00:40:03	Voice05/05-SD/05-SD-B04/05-SD-B04-0150	0	xxx	00:41:04;
+
+[CreateBG]=00:41:04	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-003	00:47:00;
+
+[PrintText]=00:41:04	Sekai	¡No voy a dejar que esté con alguien como tú!	00:45:21;
+
+[PlayVoice]=00:41:04	Voice05/05-SD/05-SD-B04/05-SD-B04-0160	0	sek	00:45:21;
+
+[PrintText]=00:45:21	Setsuna	Hmmn...	00:46:23;
+
+[PlayVoice]=00:45:21	Voice05/05-SD/05-SD-B04/05-SD-B04-0170	0	set	00:46:23;
+
+[CreateBG]=00:47:00	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-005	00:54:05;
+
+[PrintText]=00:47:00	Sekai	¡Makoto! Estás ahí ¿No? ¡Si estás ahí, responde!	00:52:14;
+
+[PlayVoice]=00:47:00	Voice05/05-SD/05-SD-B04/05-SD-B04-0180	0	sek	00:52:14;
+
+[PrintText]=00:53:00	Makoto	...Sí.	00:53:18;
+
+[PlayVoice]=00:53:00	Voice05/05-SD/05-SD-B04/05-SD-B04-0190	1	mak	00:53:18;
+
+[CreateBG]=00:54:05	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-004	01:14:14;
+
+[PrintText]=00:54:12	Sekai	¡Makoto! Definitivamente no voy a dejarte... así que, no tengas sexo con ella...	01:03:19;
+
+[PlayVoice]=00:54:12	Voice05/05-SD/05-SD-B04/05-SD-B04-0200	0	sek	01:03:19;
+
+[PrintText]=01:03:21	Makoto	¿En serio...?^	01:04:22;
+
+[PlayVoice]=01:03:21	Voice05/05-SD/05-SD-B04/05-SD-B04-0210	1	mak	01:04:22;
+
+[PrintText]=01:04:21	Sekai	¿Eh...?^	01:05:20;
+
+[PlayVoice]=01:04:21	Voice05/05-SD/05-SD-B04/05-SD-B04-0220	0	sek	01:05:20;
+
+[PrintText]=01:05:22	Makoto	¿No te irás?^	01:09:09;
+
+[PlayVoice]=01:05:22	Voice05/05-SD/05-SD-B04/05-SD-B04-0230	1	mak	01:09:09;
+
+[PrintText]=01:09:08	Sekai	Uh-huh. ¡Definitivamente no!	01:11:10;
+
+[PlayVoice]=01:09:08	Voice05/05-SD/05-SD-B04/05-SD-B04-0240	0	sek	01:11:10;
+
+[PrintText]=01:11:12	Makoto	Vale.	01:14:14;
+
+[PlayVoice]=01:11:12	Voice05/05-SD/05-SD-B04/05-SD-B04-0250	1	mak	01:14:14;
+
+[CreateBG]=01:14:14	BGS	Event05/05-SD/05-SD-B04/05-SD-B04-006	01:38:00;
+
+[PrintText]=01:14:14	Sekai	Ah...	01:16:00;
+
+[PlayVoice]=01:14:14	Voice05/05-SD/05-SD-B04/05-SD-B04-0260	0	sek	01:16:00;
+
+[PrintText]=01:16:02	Makoto	No lo haré... porque te amo, Sekai.	01:22:04;
+
+[PlayVoice]=01:16:02	Voice05/05-SD/05-SD-B04/05-SD-B04-0270	1	mak	01:22:04;
+
+[PrintText]=01:22:03	Sekai	Makoto... También... también te amo. Te amo tanto...	01:31:23;
+
+[PlayVoice]=01:22:03	Voice05/05-SD/05-SD-B04/05-SD-B04-0280	0	sek	01:31:23;
+
+[PrintText]=01:32:00	Makoto	Sí... lo sé.	01:35:14;
+
+[PlayVoice]=01:32:00	Voice05/05-SD/05-SD-B04/05-SD-B04-0290	1	mak	01:35:14;
+
+[PrintText]=01:35:13	Sekai	Makoto...	01:37:13;
+
+[PlayVoice]=01:35:13	Voice05/05-SD/05-SD-B04/05-SD-B04-0300	0	sek	01:37:13;
+
+ ;
+
+[Next]=01:38:00;
+
+
+
+

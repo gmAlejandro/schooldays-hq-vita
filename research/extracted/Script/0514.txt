@@ -1,0 +1,147 @@
+﻿[SkipFRAME]=01:46:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	00:29:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-001	00:02:03;
+
+[PrintText]=00:01:00	Kotonoha	¡Ya voy!	00:02:02;
+
+[PlayVoice]=00:01:00	Voice03/03-KA/03-KA-A01/03-KA-A01-0040	0	kot	00:02:02;
+
+[PrintText]=00:02:02	Makoto	U-um... perdonen la intrusión.	00:06:05;
+
+[PlayVoice]=00:02:02	Voice03/03-KA/03-KA-A01/03-KA-A01-0060	1	mak	00:06:05;
+
+[CreateBG]=00:02:03	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-003	00:06:05;
+
+[CreateBG]=00:06:05	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-004	00:16:12;
+
+[PrintText]=00:06:05	Madre de Kotonoha	¡Bienvenido, Makoto-kun!	00:08:20;
+
+[PlayVoice]=00:06:05	Voice03/03-KA/03-KA-A01/03-KA-A01-0080	0	man	00:08:20;
+
+[PrintText]=00:08:20	Makoto	H... haah...	00:11:00;
+
+[PlayVoice]=00:08:20	Voice03/03-KA/03-KA-A01/03-KA-A01-0090	1	mak	00:11:00;
+
+[PrintText]=00:11:00	Kotonoha	Pasa, Makoto-kun.	00:13:00;
+
+[PlayVoice]=00:11:00	Voice03/03-KA/03-KA-A01/03-KA-A01-0100	0	kot	00:13:00;
+
+[PrintText]=00:13:00	Makoto	Um...	00:13:21;
+
+[PlayVoice]=00:13:00	Voice03/03-KA/03-KA-A01/03-KA-A01-0110	1	mak	00:13:21;
+
+[PrintText]=00:13:21	Kokoro	¡Venga, pasa!	00:16:12;
+
+[PlayVoice]=00:13:21	Voice03/03-KA/03-KA-A01/03-KA-A01-0120	0	kok	00:16:12;
+
+[CreateBG]=00:16:12	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-003	00:20:04;
+
+[PrintText]=00:16:12	Makoto	Ah... está bien.	00:20:04;
+
+[PlayVoice]=00:16:12	Voice03/03-KA/03-KA-A01/03-KA-A01-0130	1	mak	00:20:04;
+
+[CreateBG]=00:20:04	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-006	00:30:00;
+
+[PrintText]=00:20:04	Padre de Kotonoha	Quítese los zapatos.	00:22:01;
+
+[PlayVoice]=00:20:04	Voice03/03-KA/03-KA-A01/03-KA-A01-0140	1	tit	00:22:01;
+
+[PrintText]=00:22:00	Kokoro	¡Déja eso, papá!	00:25:08;
+
+[PlayVoice]=00:22:00	Voice03/03-KA/03-KA-A01/03-KA-A01-0150	0	kok	00:25:08;
+
+[PrintText]=00:25:08	Padre de Kotonoha	Mm... ahem...	00:27:11;
+
+[PlayVoice]=00:25:08	Voice03/03-KA/03-KA-A01/03-KA-A01-0160	1	tit	00:27:11;
+
+[PrintText]=00:27:11	Kokoro	¡Vamos, pasa, pasa!	00:30:00;
+
+[PlayVoice]=00:27:11	Voice03/03-KA/03-KA-A01/03-KA-A01-0170	0	kok	00:30:00;
+
+[BlackFade]=00:29:12	OUT	00:30:00;
+
+[CreateBG]=00:30:00	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-007	00:33:21;
+
+[PrintText]=00:30:00	Kotonoha	Perdón por eso, Makoto-kun.	00:32:07;
+
+[PlayVoice]=00:30:00	Voice03/03-KA/03-KA-A01/03-KA-A01-0200	0	kot	00:32:07;
+
+[PlayBgm]=00:30:01	BGM/SD_BGM/sdbgm16	01:52:11;
+
+[PrintText]=00:32:03	Makoto	Haha...	00:33:16;
+
+[PlayVoice]=00:32:03	Voice03/03-KA/03-KA-A01/03-KA-A01-0210	1	mak	00:33:16;
+
+[CreateBG]=00:33:21	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-008	00:42:07;
+
+[PrintText]=00:33:22	Kotonoha	Mi familia quería conocerte así que...	00:37:07;
+
+[PlayVoice]=00:33:22	Voice03/03-KA/03-KA-A01/03-KA-A01-0220	0	kot	00:37:07;
+
+[PrintText]=00:37:01	Makoto	Está bien. Solo estaba un poco sorprendido... quiero decir, un poco nervioso.	00:42:04;
+
+[PlayVoice]=00:37:01	Voice03/03-KA/03-KA-A01/03-KA-A01-0230	1	mak	00:42:04;
+
+[CreateBG]=00:42:07	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-009	00:50:16;
+
+[PrintText]=00:42:07	Kotonoha	Incluso mis padres tenían que trabajar hoy, pero se han tomado el día libre para poder conocerte. Esos dos...	00:50:17;
+
+[PlayVoice]=00:42:07	Voice03/03-KA/03-KA-A01/03-KA-A01-0240	0	kot	00:50:17;
+
+[CreateBG]=00:50:16	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-010	00:58:11;
+
+[PrintText]=00:50:16	Makoto	¿En serio...? Supongo que debí hablar con ellos, en ves de subir a tu habitación.	00:58:16;
+
+[PlayVoice]=00:50:16	Voice03/03-KA/03-KA-A01/03-KA-A01-0250	1	mak	00:58:16;
+
+[CreateBG]=00:58:11	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-011	01:05:06;
+
+[PrintText]=00:58:11	Kotonoha	Está bien. Mi papá termino molesto porque le dije que no ibas a hablar con él.	01:05:04;
+
+[PlayVoice]=00:58:11	Voice03/03-KA/03-KA-A01/03-KA-A01-0260	0	kot	01:05:04;
+
+[CreateBG]=01:05:06	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-012	01:11:18;
+
+[PrintText]=01:05:06	Makoto	Uuu... parece que voy a terminar siendo odiado por tu padre.	01:11:20;
+
+[PlayVoice]=01:05:06	Voice03/03-KA/03-KA-A01/03-KA-A01-0270	1	mak	01:11:20;
+
+[CreateBG]=01:11:18	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-013	01:33:03;
+
+[PrintText]=01:11:18	Kotonoha	¡Ah! N-No es así. Como puedo... Mi papá es sobre-protector, y cuando le dije que un chico vendría a casa...	01:22:07;
+
+[PlayVoice]=01:11:18	Voice03/03-KA/03-KA-A01/03-KA-A01-0280	0	kot	01:22:07;
+
+[PrintText]=01:22:04	Makoto	Ya veo...	01:23:15;
+
+[PlayVoice]=01:22:04	Voice03/03-KA/03-KA-A01/03-KA-A01-0290	1	mak	01:23:15;
+
+[PrintText]=01:23:18	Kotonoha	Mi mamá es lo opuesto a mi padre, nunca he traído a un chico a casa...por lo que está muy contenta.	01:33:00;
+
+[PlayVoice]=01:23:18	Voice03/03-KA/03-KA-A01/03-KA-A01-0300	0	kot	01:33:00;
+
+[CreateBG]=01:33:03	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-010	01:34:15;
+
+[PrintText]=01:33:04	Makoto	¿En serio?^	01:34:12;
+
+[PlayVoice]=01:33:04	Voice03/03-KA/03-KA-A01/03-KA-A01-0310	1	mak	01:34:12;
+
+[CreateBG]=01:34:15	BGS	Event03/03-KA/03-KA-A01/03-KA-A01-015	01:52:11;
+
+[PrintText]=01:34:17	Kotonoha	Yo... realmente creo que no tengo amigos o familiares que vengan a casa...	01:45:11;
+
+[PlayVoice]=01:34:17	Voice03/03-KA/03-KA-A01/03-KA-A01-0320	0	kot	01:45:11;
+
+[PrintText]=01:45:16	Makoto	Hmmn...	01:47:01;
+
+[PlayVoice]=01:45:16	Voice03/03-KA/03-KA-A01/03-KA-A01-0330	1	mak	01:47:01;
+
+[SetSELECT]=01:46:10	'Me tienes a mí'	'Suenas solitaria'	01:51:10;
+
+ ;
+
+[Next]=01:52:11;
+
+

@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:06:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/station	00:06:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-K01/05-5O-K01-001	00:00:20;
+
+[PrintText]=00:00:03	Makoto	...	00:00:18;
+
+[PlayVoice]=00:00:03	Voice05/05-5O/05-5O-K03/05-5O-K03-0030	1	xxx	00:00:18;
+
+[CreateBG]=00:00:20	BGS	Event05/05-5O/05-5O-K03/05-5O-K03-002	00:01:21;
+
+[PrintText]=00:01:04	Otome	¿Molesto?^	00:01:23;
+
+[PlayVoice]=00:01:04	Voice05/05-5O/05-5O-K03/05-5O-K03-0040	0	oto	00:01:23;
+
+[CreateBG]=00:01:21	BGS	Event05/05-5O/05-5O-K03/05-5O-K03-003	00:06:09;
+
+[PrintText]=00:01:21	Makoto	No realmente...	00:02:19;
+
+[PlayVoice]=00:01:21	Voice05/05-5O/05-5O-K03/05-5O-K03-0050	1	mak	00:02:19;
+
+[PrintText]=00:02:21	Otome	Qué bueno.	00:04:11;
+
+[PlayVoice]=00:02:21	Voice05/05-5O/05-5O-K03/05-5O-K03-0060	0	oto	00:04:11;
+
+[PrintText]=00:04:13	Makoto	Sí...	00:05:04;
+
+[PlayVoice]=00:04:13	Voice05/05-5O/05-5O-K03/05-5O-K03-0070	1	mak	00:05:04;
+
+[BlackFade]=00:05:09	OUT	00:06:09;
+
+ ;
+
+[Next]=00:06:09;
+
+

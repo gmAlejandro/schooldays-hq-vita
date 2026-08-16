@@ -1,0 +1,231 @@
+﻿[SkipFRAME]=01:45:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm23	01:45:01;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-001	00:01:08;
+
+[CreateBG]=00:01:08	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-002	00:12:21;
+
+[PrintText]=00:01:11	Otome	Katsura... ¿Aún no aprendes la lección?^	00:04:14;
+
+[PlayVoice]=00:01:11	Voice05/05-KB/05-KB-B05/05-KB-B05-0040	0	oto	00:04:14;
+
+[PrintText]=00:04:14	Minami	¿Qué planeas hacer con ese gran almuerzo?^	00:07:12;
+
+[PlayVoice]=00:04:14	Voice05/05-KB/05-KB-B05/05-KB-B05-0050	0	min	00:07:12;
+
+[PrintText]=00:07:12	Natsumi	No esperes piedad de nosotras por el pequeño momento de ayer.	00:11:08;
+
+[PlayVoice]=00:07:12	Voice05/05-KB/05-KB-B05/05-KB-B05-0060	0	nat	00:11:08;
+
+[PrintText]=00:11:08	Kotonoha	...Por favor paren.	00:12:21;
+
+[PlayVoice]=00:11:08	Voice05/05-KB/05-KB-B05/05-KB-B05-0070	0	kot	00:12:21;
+
+[PlayMovie]=00:12:21	Movie05/05-KB/05-KB-B05/05-KB-B05-003	0	00:16:04;
+
+[PrintText]=00:12:21	Kumi	¡Tú eres la que tiene que hacerlo!	00:15:08;
+
+[PlayVoice]=00:12:21	Voice05/05-KB/05-KB-B05/05-KB-B05-0080	0	kum	00:15:08;
+
+[PlaySe]=00:15:11	1	Voice05/05-KB/05-KB-B05/05-KB-B05-0090	00:16:09;
+
+[PlayMovie]=00:16:04	Movie05/05-KB/05-KB-B05/05-KB-B05-004	0	00:17:03;
+
+[PrintText]=00:16:04	Kotonoha	¡...!	00:17:02;
+
+[PlayVoice]=00:16:04	Voice05/05-KB/05-KB-B05/05-KB-B05-0110	0	kot	00:17:02;
+
+[PlayMovie]=00:17:03	Movie05/05-KB/05-KB-B05/05-KB-B05-005	0	00:18:21;
+
+[PlaySe]=00:17:12	1	Se05/05-KB/05-KB-B05/SE05-KB-B05-001	00:18:08;
+
+[PlayMovie]=00:18:21	Movie05/05-KB/05-KB-B05/05-KB-B05-006	0	00:23:21;
+
+[PrintText]=00:18:21	Kotonoha	¿Eh...?^	00:19:09;
+
+[PlayVoice]=00:18:21	Voice05/05-KB/05-KB-B05/05-KB-B05-0130	0	kot	00:19:09;
+
+[PrintText]=00:22:12	Kotonoha	Makoto-kun.	00:24:02;
+
+[PlayVoice]=00:22:12	Voice05/05-KB/05-KB-B05/05-KB-B05-0150	0	kot	00:24:02;
+
+[PlayMovie]=00:23:21	Movie05/05-KB/05-KB-B05/05-KB-B05-007	0	00:39:12;
+
+[PrintText]=00:24:02	Kumi	¡¿Itou...?!	00:25:06;
+
+[PlayVoice]=00:24:02	Voice05/05-KB/05-KB-B05/05-KB-B05-0160	0	kum	00:25:06;
+
+[PrintText]=00:25:06	Minami	Mierda...	00:26:01;
+
+[PlayVoice]=00:25:06	Voice05/05-KB/05-KB-B05/05-KB-B05-0170	0	min	00:26:01;
+
+[PrintText]=00:26:01	Makoto	¿Qué están haciendo?^	00:28:04;
+
+[PlayVoice]=00:26:01	Voice05/05-KB/05-KB-B05/05-KB-B05-0180	1	mak	00:28:04;
+
+[PrintText]=00:28:04	Natsumi	Este es nuestro salón. No es nada que te importe, así que piérdete.	00:31:13;
+
+[PlayVoice]=00:28:04	Voice05/05-KB/05-KB-B05/05-KB-B05-0190	0	nat	00:31:13;
+
+[PrintText]=00:31:13	Makoto	Me importa.	00:33:23;
+
+[PlayVoice]=00:31:13	Voice05/05-KB/05-KB-B05/05-KB-B05-0200	1	mak	00:33:23;
+
+[PlaySe]=00:32:03	1	Se05/05-KB/05-KB-B05/SE05-KB-B05-002	00:32:21;
+
+[PrintText]=00:33:23	Kumi	¿De qué hablas? Eres de la clase 3.	00:37:14;
+
+[PlayVoice]=00:33:23	Voice05/05-KB/05-KB-B05/05-KB-B05-0210	0	kum	00:37:14;
+
+[PrintText]=00:37:13	Makoto	Soy su novio.	00:40:21;
+
+[PlayVoice]=00:37:13	Voice05/05-KB/05-KB-B05/05-KB-B05-0220	1	mak	00:40:21;
+
+[CreateBG]=00:39:12	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-008	00:40:18;
+
+[CreateBG]=00:40:18	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-009	00:42:06;
+
+[PrintText]=00:40:21	Otome	¡¿Eh?!	00:41:18;
+
+[PlayVoice]=00:40:21	Voice05/05-KB/05-KB-B05/05-KB-B05-0230	0	oto	00:41:18;
+
+[PrintText]=00:41:18	Makoto	Por eso no puedo quedarme parado mirando como la acosan.	00:48:00;
+
+[PlayVoice]=00:41:18	Voice05/05-KB/05-KB-B05/05-KB-B05-0240	1	mak	00:48:00;
+
+[CreateBG]=00:42:06	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-010	00:50:02;
+
+[PrintText]=00:47:23	Kumi	¿C-Cuál es tu problema?^	00:50:03;
+
+[PlayVoice]=00:47:23	Voice05/05-KB/05-KB-B05/05-KB-B05-0250	0	kum	00:50:03;
+
+[CreateBG]=00:50:02	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-011	01:13:18;
+
+[PrintText]=00:50:03	Makoto	Katou.	00:51:17;
+
+[PlayVoice]=00:50:03	Voice05/05-KB/05-KB-B05/05-KB-B05-0260	1	mak	00:51:17;
+
+[PrintText]=00:51:16	Otome	¡¿S-Sí?!	00:53:06;
+
+[PlayVoice]=00:51:16	Voice05/05-KB/05-KB-B05/05-KB-B05-0270	0	oto	00:53:06;
+
+[PrintText]=00:53:07	Makoto	¿También eres parte de este abuso?^	00:57:07;
+
+[PlayVoice]=00:53:07	Voice05/05-KB/05-KB-B05/05-KB-B05-0280	1	mak	00:57:07;
+
+[PrintText]=00:57:07	Otome	Uh... pues algo...	00:59:22;
+
+[PlayVoice]=00:57:07	Voice05/05-KB/05-KB-B05/05-KB-B05-0290	0	oto	00:59:22;
+
+[PrintText]=00:59:21	Makoto	Estás con las chicas del club ¿No?^	01:03:01;
+
+[PlayVoice]=00:59:21	Voice05/05-KB/05-KB-B05/05-KB-B05-0300	1	mak	01:03:01;
+
+[PrintText]=01:03:01	Otome	S-Sí...	01:04:19;
+
+[PlayVoice]=01:03:01	Voice05/05-KB/05-KB-B05/05-KB-B05-0310	0	oto	01:04:19;
+
+[PrintText]=01:04:19	Makoto	¿Puedes hacer que paren?^	01:07:11;
+
+[PlayVoice]=01:04:19	Voice05/05-KB/05-KB-B05/05-KB-B05-0320	1	mak	01:07:11;
+
+[PrintText]=01:07:11	Otome	¡¿Eh?!	01:08:09;
+
+[PlayVoice]=01:07:11	Voice05/05-KB/05-KB-B05/05-KB-B05-0330	0	oto	01:08:09;
+
+[PrintText]=01:08:09	Makoto	Sé que puedes hacerlo. Después de todo estás en el club de baloncesto con Kanroji.	01:13:22;
+
+[PlayVoice]=01:08:09	Voice05/05-KB/05-KB-B05/05-KB-B05-0340	1	mak	01:13:22;
+
+[CreateBG]=01:13:18	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-012	01:22:20;
+
+[PrintText]=01:13:22	Otome	Creo que puedo...	01:16:11;
+
+[PlayVoice]=01:13:22	Voice05/05-KB/05-KB-B05/05-KB-B05-0350	0	oto	01:16:11;
+
+[PrintText]=01:16:10	Makoto	Por favor.	01:17:19;
+
+[PlayVoice]=01:16:10	Voice05/05-KB/05-KB-B05/05-KB-B05-0360	1	mak	01:17:19;
+
+[PrintText]=01:17:19	Otome	V-Vale...	01:19:17;
+
+[PlayVoice]=01:17:19	Voice05/05-KB/05-KB-B05/05-KB-B05-0370	0	oto	01:19:17;
+
+[PrintText]=01:19:17	Makoto	Gracias.	01:22:06;
+
+[PlayVoice]=01:19:17	Voice05/05-KB/05-KB-B05/05-KB-B05-0380	1	mak	01:22:06;
+
+[PrintText]=01:22:05	Otome	Sí...	01:23:00;
+
+[PlayVoice]=01:22:05	Voice05/05-KB/05-KB-B05/05-KB-B05-0390	0	oto	01:23:00;
+
+[CreateBG]=01:22:20	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-011	01:31:01;
+
+[PrintText]=01:23:00	Makoto	Para el resto también, es mejor que la dejen sola desde ahora.	01:27:16;
+
+[PlayVoice]=01:23:00	Voice05/05-KB/05-KB-B05/05-KB-B05-0400	1	mak	01:27:16;
+
+[PrintText]=01:27:15	Natsumi	Vale.	01:28:22;
+
+[PlayVoice]=01:27:15	Voice05/05-KB/05-KB-B05/05-KB-B05-0410	0	nat	01:28:22;
+
+[PrintText]=01:28:22	Minami	...Vale.	01:30:01;
+
+[PlayVoice]=01:28:22	Voice05/05-KB/05-KB-B05/05-KB-B05-0420	0	min	01:30:01;
+
+[PrintText]=01:30:00	Kumi	...	01:30:21;
+
+[PlayVoice]=01:30:00	Voice05/05-KB/05-KB-B05/05-KB-B05-0430	0	xxx	01:30:21;
+
+[PrintText]=01:30:21	Makoto	También va para ti.	01:33:03;
+
+[PlayVoice]=01:30:21	Voice05/05-KB/05-KB-B05/05-KB-B05-0440	1	mak	01:33:03;
+
+[PlayMovie]=01:31:01	Movie05/05-KB/05-KB-B05/05-KB-B05-008	0	01:34:14;
+
+[PrintText]=01:33:03	Kumi	Ya, Vale, ya sé.	01:34:15;
+
+[PlayVoice]=01:33:03	Voice05/05-KB/05-KB-B05/05-KB-B05-0450	0	kum	01:34:15;
+
+[CreateBG]=01:34:14	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-015	01:36:22;
+
+[PrintText]=01:34:15	Makoto	Bien.	01:36:05;
+
+[PlayVoice]=01:34:15	Voice05/05-KB/05-KB-B05/05-KB-B05-0460	1	mak	01:36:05;
+
+[PrintText]=01:36:06	Otome	...	01:37:02;
+
+[PlayVoice]=01:36:06	Voice05/05-KB/05-KB-B05/05-KB-B05-0470	0	xxx	01:37:02;
+
+[CreateBG]=01:36:22	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-011	01:40:11;
+
+[PrintText]=01:37:08	Makoto	Kotonoha.	01:39:03;
+
+[PlayVoice]=01:37:08	Voice05/05-KB/05-KB-B05/05-KB-B05-0480	1	mak	01:39:03;
+
+[PrintText]=01:39:01	Kotonoha	¿S-Sí?^	01:40:13;
+
+[PlayVoice]=01:39:01	Voice05/05-KB/05-KB-B05/05-KB-B05-0490	0	kot	01:40:13;
+
+[CreateBG]=01:40:11	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-017	01:41:21;
+
+[PrintText]=01:40:13	Makoto	Vamos.	01:42:04;
+
+[PlayVoice]=01:40:13	Voice05/05-KB/05-KB-B05/05-KB-B05-0500	1	mak	01:42:04;
+
+[CreateBG]=01:41:21	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-018	01:43:08;
+
+[PrintText]=01:42:05	Kotonoha	¡Vale!	01:42:22;
+
+[PlayVoice]=01:42:05	Voice05/05-KB/05-KB-B05/05-KB-B05-0510	0	kot	01:42:22;
+
+[CreateBG]=01:43:08	BGS	Event05/05-KB/05-KB-B05/05-KB-B05-019	01:45:00;
+
+[BlackFade]=01:44:18	OUT	01:45:00;
+
+ ;
+
+[Next]=01:45:01;
+
+

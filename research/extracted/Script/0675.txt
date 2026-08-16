@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:24:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:24:15;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I09/SE03-KB-I09-001	00:24:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I09/03-KB-I09-001	00:09:22;
+
+[PrintText]=00:00:00	Makoto	Bien, una rebanada de pan, dos rebanadas de tocino... ensalada...	00:08:22;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-I09/03-KB-I09-0050	1	mak	00:08:22;
+
+[PrintText]=00:08:22	Taisuke	¡Makoto!	00:09:22;
+
+[PlayVoice]=00:08:22	Voice03/03-KB/03-KB-I09/03-KB-I09-0060	1	tai	00:09:22;
+
+[CreateBG]=00:09:22	BGS	Event03/03-KB/03-KB-I09/03-KB-I09-002	00:19:15;
+
+[PrintText]=00:09:22	Makoto	¡Llegas tarde! ¡Se está haciendo de noche!	00:13:01;
+
+[PlayVoice]=00:09:22	Voice03/03-KB/03-KB-I09/03-KB-I09-0070	1	mak	00:13:01;
+
+[PrintText]=00:13:01	Taisuke	¡Lo siento! ¡Ahora, ven conmigo!	00:15:13;
+
+[PlayVoice]=00:13:01	Voice03/03-KB/03-KB-I09/03-KB-I09-0080	1	tai	00:15:13;
+
+[PrintText]=00:15:14	Makoto	¿Ir contigo? ¿Qué pasa?^	00:17:21;
+
+[PlayVoice]=00:15:14	Voice03/03-KB/03-KB-I09/03-KB-I09-0090	1	mak	00:17:21;
+
+[PrintText]=00:17:22	Taisuke	Olvida esto. Vamos.	00:19:15;
+
+[PlayVoice]=00:17:22	Voice03/03-KB/03-KB-I09/03-KB-I09-0100	1	tai	00:19:15;
+
+[PrintText]=00:19:14	Makoto	Pero... ¡uwah! ¡Deja de jalarme!	00:22:18;
+
+[PlayVoice]=00:19:14	Voice03/03-KB/03-KB-I09/03-KB-I09-0110	1	mak	00:22:18;
+
+[CreateBG]=00:19:15	BGS	Event03/03-KB/03-KB-I09/03-KB-I09-003	00:24:15;
+
+ ;
+
+[Next]=00:24:15;
+
+

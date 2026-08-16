@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:10:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:10:12;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-F03/04-KE-F03-001	00:10:12;
+
+[PrintText]=00:00:00	Kotonoha	Saionji-san, Vas con nosotros por ese camino ¿No?^	00:04:20;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-F03/04-KE-F03-0030	0	kot	00:04:20;
+
+[PrintText]=00:04:20	Sekai	Ah... sí.	00:06:14;
+
+[PlayVoice]=00:04:20	Voice04/04-KE/04-KE-F03/04-KE-F03-0040	0	sek	00:06:14;
+
+[PrintText]=00:06:14	Kotonoha	Vamos a casa, entonces.	00:08:20;
+
+[PlayVoice]=00:06:14	Voice04/04-KE/04-KE-F03/04-KE-F03-0050	0	kot	00:08:20;
+
+[PrintText]=00:09:05	Sekai	Uh-huh...	00:09:23;
+
+[PlayVoice]=00:09:05	Voice04/04-KE/04-KE-F03/04-KE-F03-0060	0	sek	00:09:23;
+
+ ;
+
+[Next]=00:10:12;
+
+

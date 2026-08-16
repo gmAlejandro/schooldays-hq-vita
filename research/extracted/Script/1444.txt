@@ -1,0 +1,125 @@
+﻿[SkipFRAME]=01:35:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:35:15;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-I01/05-KB-I01-001	00:04:08;
+
+[PrintText]=00:04:07	Natsumi	¿Huh? ¿Dónde está Otome?^	00:06:00;
+
+[PlayVoice]=00:04:07	Voice05/05-KB/05-KB-I01/05-KB-I01-0050	0	nat	00:06:00;
+
+[CreateBG]=00:04:08	BGS	Event05/05-KB/05-KB-I01/05-KB-I01-003	00:15:04;
+
+[PrintText]=00:06:00	Minami	Está en el club de baloncesto. Ya sabes, por eso.	00:09:14;
+
+[PlayVoice]=00:06:00	Voice05/05-KB/05-KB-I01/05-KB-I01-0060	0	min	00:09:14;
+
+[PrintText]=00:09:14	Kumi	Otome-chan está muy ocupada.	00:11:20;
+
+[PlayVoice]=00:09:14	Voice05/05-KB/05-KB-I01/05-KB-I01-0070	0	kum	00:11:20;
+
+[PrintText]=00:11:19	Minami	Están haciendo esto por Kanroji-san de la clase 3 ¿No?^	00:14:06;
+
+[PlayVoice]=00:11:19	Voice05/05-KB/05-KB-I01/05-KB-I01-0080	0	min	00:14:06;
+
+[PrintText]=00:14:06	Kumi	¿Crees que Katsura esté saliendo con él?^	00:17:21;
+
+[PlayVoice]=00:14:06	Voice05/05-KB/05-KB-I01/05-KB-I01-0090	0	kum	00:17:21;
+
+[PlayMovie]=00:15:04	Movie05/05-KB/05-KB-I01/05-KB-I01-003	0	00:35:03;
+
+[PrintText]=00:17:22	Minami	Tal vez, pero el haber hecho algo con él fue un error. Él es el tipo de chicos que a Katsura le gusta.	00:24:20;
+
+[PlayVoice]=00:17:22	Voice05/05-KB/05-KB-I01/05-KB-I01-0100	0	min	00:24:20;
+
+[PrintText]=00:24:20	Kumi	Que miedo.	00:26:09;
+
+[PlayVoice]=00:24:20	Voice05/05-KB/05-KB-I01/05-KB-I01-0110	0	kum	00:26:09;
+
+[PrintText]=00:26:09	Natsumi	Esa chica de la clase 3... ¿Cuál es su nombre? Uh... oh, sí. Saionji-san.	00:32:05;
+
+[PlayVoice]=00:26:09	Voice05/05-KB/05-KB-I01/05-KB-I01-0120	0	nat	00:32:05;
+
+[PrintText]=00:32:06	Kumi	Entonces, ella es la que está jalando esas sombras oscuras.	00:35:03;
+
+[PlayVoice]=00:32:06	Voice05/05-KB/05-KB-I01/05-KB-I01-0130	0	kum	00:35:03;
+
+[CreateBG]=00:35:03	BGS	Event05/05-KB/05-KB-I01/05-KB-I01-004	00:39:22;
+
+[PrintText]=00:35:03	Natsumi	¿'Sombras oscuras' no suena raro?^	00:38:12;
+
+[PlayVoice]=00:35:03	Voice05/05-KB/05-KB-I01/05-KB-I01-0140	0	nat	00:38:12;
+
+[PrintText]=00:38:12	Kumi	¿Tú lo crees?^	00:39:21;
+
+[PlayVoice]=00:38:12	Voice05/05-KB/05-KB-I01/05-KB-I01-0150	0	kum	00:39:21;
+
+[CreateBG]=00:39:22	BGS	Event05/05-KB/05-KB-I01/05-KB-I01-005	00:48:00;
+
+[PrintText]=00:39:22	Minami	Bueno, entre nos, Kanroji-san del club de baloncesto  y los otros clubs, están haciendo pasar a Katsura por un mal momento.	00:47:23;
+
+[PlayVoice]=00:39:22	Voice05/05-KB/05-KB-I01/05-KB-I01-0160	0	min	00:47:23;
+
+[CreateBG]=00:48:00	BGS	Event05/05-KB/05-KB-I01/05-KB-I01-003	01:14:07;
+
+[PrintText]=00:48:00	Natsumi	Pero, Otome y ese chico de la clase 3... son... ya sabes...	00:52:22;
+
+[PlayVoice]=00:48:00	Voice05/05-KB/05-KB-I01/05-KB-I01-0170	0	nat	00:52:22;
+
+[PrintText]=00:52:22	Kumi	¡Ah! ¿En serio?^	00:55:04;
+
+[PlayVoice]=00:52:22	Voice05/05-KB/05-KB-I01/05-KB-I01-0180	0	kum	00:55:04;
+
+[PrintText]=00:55:03	Minami	Bueno, no dudo que esté trabajando duro.	00:57:14;
+
+[PlayVoice]=00:55:03	Voice05/05-KB/05-KB-I01/05-KB-I01-0190	0	min	00:57:14;
+
+[PrintText]=00:57:14	Natsumi	Así es. ¿Viste la expresión de Katsura?^	01:02:01;
+
+[PlayVoice]=00:57:14	Voice05/05-KB/05-KB-I01/05-KB-I01-0200	0	nat	01:02:01;
+
+[PrintText]=01:02:01	Minami	Sí, sí. Solo estaba llorando. Clásico.	01:06:05;
+
+[PlayVoice]=01:02:01	Voice05/05-KB/05-KB-I01/05-KB-I01-0210	0	min	01:06:05;
+
+[PrintText]=01:06:05	Kumi	¿Cómo demonios traes un almuerzo así de grande a la escuela?^	01:10:15;
+
+[PlayVoice]=01:06:05	Voice05/05-KB/05-KB-I01/05-KB-I01-0220	0	kum	01:10:15;
+
+[PrintText]=01:10:14	Minami	Sí.	01:11:15;
+
+[PlayVoice]=01:10:14	Voice05/05-KB/05-KB-I01/05-KB-I01-0230	0	min	01:11:15;
+
+[PrintText]=01:11:15	Natsumi	Esa patada fue buena, Kumi.	01:14:06;
+
+[PlayVoice]=01:11:15	Voice05/05-KB/05-KB-I01/05-KB-I01-0240	0	nat	01:14:06;
+
+[PlayMovie]=01:14:07	Movie05/05-KB/05-KB-I01/05-KB-I01-007	0	01:35:15;
+
+[PrintText]=01:14:07	Minami	Fue genial cuando la hice caer ¿No? Pero lo increíble fue ver volar la comida cuando Kumi lo pateó.	01:20:15;
+
+[PlayVoice]=01:14:07	Voice05/05-KB/05-KB-I01/05-KB-I01-0250	0	min	01:20:15;
+
+[PrintText]=01:20:15	Kumi	No hubiera ido tan lejos sin tu ayuda.	01:25:20;
+
+[PlayVoice]=01:20:15	Voice05/05-KB/05-KB-I01/05-KB-I01-0260	0	kum	01:25:20;
+
+[PrintText]=01:25:20	Minami	Buena reacción, Kumi.	01:27:16;
+
+[PlayVoice]=01:25:20	Voice05/05-KB/05-KB-I01/05-KB-I01-0270	0	min	01:27:16;
+
+[PrintText]=01:27:16	Kumi	Eheheh... ¿Acaso soy una delantera?^	01:30:02;
+
+[PlayVoice]=01:27:16	Voice05/05-KB/05-KB-I01/05-KB-I01-0280	0	kum	01:30:02;
+
+[PrintText]=01:30:02	Natsumi	¡Podrías llegar a la Liga Japonesa!	01:32:04;
+
+[PlayVoice]=01:30:02	Voice05/05-KB/05-KB-I01/05-KB-I01-0290	0	nat	01:32:04;
+
+[BlackFade]=01:35:03	OUT	01:35:15;
+
+ ;
+
+[Next]=01:35:15;
+
+

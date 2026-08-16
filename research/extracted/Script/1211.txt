@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:19:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:19:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G07/04-SB-G07-001	00:13:04;
+
+[PrintText]=00:00:00	Makoto	¿Te gusta Taisuke?^	00:01:18;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-G07/04-SB-G07-0030	1	mak	00:01:18;
+
+[PrintText]=00:01:18	Hikari	...	00:03:00;
+
+[PlayVoice]=00:01:18	Voice04/04-SB/04-SB-G07/04-SB-G07-0040	0	xxx	00:03:00;
+
+[PrintText]=00:02:23	Makoto	Bueno, puedo decirlo con solo mirarlo.	00:05:18;
+
+[PlayVoice]=00:02:23	Voice04/04-SB/04-SB-G07/04-SB-G07-0050	1	mak	00:05:18;
+
+[PrintText]=00:05:18	Hikari	No es de tu incumbencia, Itou.	00:08:03;
+
+[PlayVoice]=00:05:18	Voice04/04-SB/04-SB-G07/04-SB-G07-0060	0	hik	00:08:03;
+
+[PrintText]=00:08:04	Makoto	Cierto... pero dada la situación...	00:11:18;
+
+[PlayVoice]=00:08:04	Voice04/04-SB/04-SB-G07/04-SB-G07-0070	1	mak	00:11:18;
+
+[PrintText]=00:11:18	Hikari	...	00:13:04;
+
+[PlayVoice]=00:11:18	Voice04/04-SB/04-SB-G07/04-SB-G07-0080	0	xxx	00:13:04;
+
+[CreateBG]=00:13:04	BGS	Event04/04-SB/04-SB-G07/04-SB-G07-002	00:19:15;
+
+[PrintText]=00:13:04	Makoto	Hey.	00:13:21;
+
+[PlayVoice]=00:13:04	Voice04/04-SB/04-SB-G07/04-SB-G07-0090	1	mak	00:13:21;
+
+[PrintText]=00:13:21	Hikari	¿Qué?^	00:15:05;
+
+[PlayVoice]=00:13:21	Voice04/04-SB/04-SB-G07/04-SB-G07-0100	0	hik	00:15:05;
+
+[PrintText]=00:15:05	Makoto	¿Quieres verlos?^	00:18:14;
+
+[PlayVoice]=00:15:05	Voice04/04-SB/04-SB-G07/04-SB-G07-0110	1	mak	00:18:14;
+
+[PrintText]=00:18:14	Hikari	...Vale.	00:19:08;
+
+[PlayVoice]=00:18:14	Voice04/04-SB/04-SB-G07/04-SB-G07-0120	0	hik	00:19:08;
+
+ ;
+
+[Next]=00:19:15;
+
+

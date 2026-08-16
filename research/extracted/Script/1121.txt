@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:19:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:26:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-I05/04-SA-I05-001	00:03:05;
+
+[PrintText]=00:00:05	Makoto	Espera un segundo, Itaru.	00:02:12;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-I05/04-SA-I05-0030	1	mak	00:02:12;
+
+[PrintText]=00:02:13	Itaru	Está bien.	00:03:05;
+
+[PlayVoice]=00:02:13	Voice04/04-SA/04-SA-I05/04-SA-I05-0040	0	ita	00:03:05;
+
+[CreateBG]=00:03:05	BGS	Event04/04-SA/04-SA-I05/04-SA-I05-002	00:16:21;
+
+[PrintText]=00:03:13	Makoto	¿Bueno?^	00:04:05;
+
+[PlayVoice]=00:03:13	Voice04/04-SA/04-SA-I05/04-SA-I05-0050	1	mak	00:04:05;
+
+[PrintText]=00:04:05	Kotonoha	Um... es Katsura.	00:06:22;
+
+[PlayVoice]=00:04:05	Voice04/04-SA/04-SA-I05/04-SA-I05-0060	0	kot	00:06:22;
+
+[PrintText]=00:06:22	Makoto	...	00:07:21;
+
+[PlayVoice]=00:06:22	Voice04/04-SA/04-SA-I05/04-SA-I05-0070	1	xxx	00:07:21;
+
+[PrintText]=00:07:21	Kotonoha	Disculpa por llamar tan tarde ¿Estabas durmiendo?^	00:12:10;
+
+[PlayVoice]=00:07:21	Voice04/04-SA/04-SA-I05/04-SA-I05-0080	0	kot	00:12:10;
+
+[PrintText]=00:12:16	Makoto	No es hora de dormir aún... estoy relajado en mi cama.	00:16:20;
+
+[PlayVoice]=00:12:16	Voice04/04-SA/04-SA-I05/04-SA-I05-0090	1	mak	00:16:20;
+
+[CreateBG]=00:16:21	BGS	Event04/04-SA/04-SA-I05/04-SA-I05-003	00:26:01;
+
+[PrintText]=00:17:11	Kotonoha	¿... Es buen momento?^	00:19:13;
+
+[PlayVoice]=00:17:11	Voice04/04-SA/04-SA-I05/04-SA-I05-0100	0	kot	00:19:13;
+
+[SetSELECT]=00:19:23	*Hablar con ella*	null	00:24:23;
+
+ ;
+
+[Next]=00:26:01;
+
+

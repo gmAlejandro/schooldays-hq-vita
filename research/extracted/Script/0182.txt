@@ -1,0 +1,217 @@
+﻿[SkipFRAME]=01:52:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:52:12;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-I00/SE01-1S-I00-001	01:52:12;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-002	00:06:09;
+
+[CreateBG]=00:06:09	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-003	00:08:20;
+
+[PrintText]=00:06:14	Sekai	Buen día.	00:07:12;
+
+[PlayVoice]=00:06:14	Voice01/01-1S/01-1S-I00/01-1S-I00-0040	0	sek	00:07:12;
+
+[PrintText]=00:07:17	Makoto	Buen día.	00:08:13;
+
+[PlayVoice]=00:07:17	Voice01/01-1S/01-1S-I00/01-1S-I00-0050	1	mak	00:08:13;
+
+[CreateBG]=00:08:20	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-004	00:12:10;
+
+[PrintText]=00:08:20	Setsuna	Sekai.	00:09:17;
+
+[PlayVoice]=00:08:20	Voice01/01-1S/01-1S-I00/01-1S-I00-0060	0	set	00:09:17;
+
+[PrintText]=00:09:19	Sekai	Hablemos después.	00:11:09;
+
+[PlayVoice]=00:09:19	Voice01/01-1S/01-1S-I00/01-1S-I00-0070	0	sek	00:11:09;
+
+[PrintText]=00:11:16	Setsuna	Vale...	00:12:08;
+
+[PlayVoice]=00:11:16	Voice01/01-1S/01-1S-I00/01-1S-I00-0080	0	set	00:12:08;
+
+[CreateBG]=00:12:10	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-005	00:17:21;
+
+[PrintText]=00:14:03	Makoto	¿Qué pasó?^	00:15:03;
+
+[PlayVoice]=00:14:03	Voice01/01-1S/01-1S-I00/01-1S-I00-0100	1	mak	00:15:03;
+
+[PrintText]=00:15:02	Sekai	Nada.	00:16:11;
+
+[PlayVoice]=00:15:02	Voice01/01-1S/01-1S-I00/01-1S-I00-0110	0	sek	00:16:11;
+
+[PrintText]=00:16:14	Makoto	Hmmn.	00:17:14;
+
+[PlayVoice]=00:16:14	Voice01/01-1S/01-1S-I00/01-1S-I00-0120	1	mak	00:17:14;
+
+[BlackFade]=00:17:15	OUT	00:17:21;
+
+[CreateBG]=00:17:21	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-006	00:20:11;
+
+[BlackFade]=00:17:21	IN	00:18:03;
+
+[PrintText]=00:18:03	Sekai	Entonces ¿Cómo estuvo?^	00:19:20;
+
+[PlayVoice]=00:18:03	Voice01/01-1S/01-1S-I00/01-1S-I00-0130	0	sek	00:19:20;
+
+[PrintText]=00:19:20	Makoto	¿Eh?^	00:20:09;
+
+[PlayVoice]=00:19:20	Voice01/01-1S/01-1S-I00/01-1S-I00-0140	1	mak	00:20:09;
+
+[CreateBG]=00:20:11	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-007	00:30:22;
+
+[PrintText]=00:20:14	Sekai	Tu cita. ¿La de ayer, no?^	00:23:10;
+
+[PlayVoice]=00:20:14	Voice01/01-1S/01-1S-I00/01-1S-I00-0150	0	sek	00:23:10;
+
+[PrintText]=00:23:09	Makoto	No fue realmente una cita. Solo fuimos a ver una película.	00:27:06;
+
+[PlayVoice]=00:23:09	Voice01/01-1S/01-1S-I00/01-1S-I00-0160	1	mak	00:27:06;
+
+[PrintText]=00:27:05	Sekai	Eso es suficiente para llamarlo una cita.	00:29:11;
+
+[PlayVoice]=00:27:05	Voice01/01-1S/01-1S-I00/01-1S-I00-0170	0	sek	00:29:11;
+
+[PrintText]=00:29:12	Makoto	¿Tú lo crees?^	00:30:13;
+
+[PlayVoice]=00:29:12	Voice01/01-1S/01-1S-I00/01-1S-I00-0180	1	mak	00:30:13;
+
+[PlayMovie]=00:30:22	Movie01/01-1S/01-1S-I00/01-1S-I00-008	0	00:39:11;
+
+[PrintText]=00:30:22	Sekai	Recibí un correo de Katsura, diciéndome que fue difícil para ella, pero que se divirtió.	00:39:13;
+
+[PlayVoice]=00:30:22	Voice01/01-1S/01-1S-I00/01-1S-I00-0190	0	sek	00:39:13;
+
+[CreateBG]=00:39:11	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-009	00:42:19;
+
+[PrintText]=00:39:18	Makoto	Difícil, huh...	00:42:03;
+
+[PlayVoice]=00:39:18	Voice01/01-1S/01-1S-I00/01-1S-I00-0200	1	mak	00:42:03;
+
+[CreateBG]=00:42:19	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-010	00:48:12;
+
+[PrintText]=00:43:02	Sekai	¿Hmn? ¿Acaso pasó algo?^	00:45:07;
+
+[PlayVoice]=00:43:02	Voice01/01-1S/01-1S-I00/01-1S-I00-0210	0	sek	00:45:07;
+
+[PrintText]=00:45:08	Makoto	Mmn... no, no realmente.	00:47:07;
+
+[PlayVoice]=00:45:08	Voice01/01-1S/01-1S-I00/01-1S-I00-0220	1	mak	00:47:07;
+
+[PrintText]=00:47:10	Sekai	¿En serio? ¿Pasó algo malo entre tú y Katsura-San?^	00:52:06;
+
+[PlayVoice]=00:47:10	Voice01/01-1S/01-1S-I00/01-1S-I00-0230	0	sek	00:52:06;
+
+[CreateBG]=00:48:12	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-011	00:57:13;
+
+[PrintText]=00:51:17	Makoto	N-No pasó nada. Todo estuvo bien. Fue una cita divertida.	00:57:19;
+
+[PlayVoice]=00:51:17	Voice01/01-1S/01-1S-I00/01-1S-I00-0240	1	mak	00:57:19;
+
+[PlayMovie]=00:57:13	Movie01/01-1S/01-1S-I00/01-1S-I00-012	0	00:59:02;
+
+[PrintText]=00:57:13	Sekai	Oooh.	00:59:00;
+
+[PlayVoice]=00:57:13	Voice01/01-1S/01-1S-I00/01-1S-I00-0250	0	sek	00:59:00;
+
+[CreateBG]=00:59:02	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-013	01:05:21;
+
+[PrintText]=00:59:02	Makoto	Vimos una película, comimos y tuvimos una divertida conversación.	01:03:01;
+
+[PlayVoice]=00:59:02	Voice01/01-1S/01-1S-I00/01-1S-I00-0260	1	mak	01:03:01;
+
+[PrintText]=01:02:20	Sekai	¡Wooo wooh! Eso es genial.	01:05:17;
+
+[PlayVoice]=01:02:20	Voice01/01-1S/01-1S-I00/01-1S-I00-0270	0	sek	01:05:17;
+
+[CreateBG]=01:05:21	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-014	01:12:06;
+
+[PrintText]=01:05:21	Makoto	Sí... Sí tan solo hubiera sostenido su mano. Hubiera sido una cita apropiada.	01:12:14;
+
+[PlayVoice]=01:05:21	Voice01/01-1S/01-1S-I00/01-1S-I00-0280	1	mak	01:12:14;
+
+[CreateBG]=01:12:06	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-015	01:16:07;
+
+[PrintText]=01:12:06	Sekai	Vas bien.	01:13:20;
+
+[PlayVoice]=01:12:06	Voice01/01-1S/01-1S-I00/01-1S-I00-0290	0	sek	01:13:20;
+
+[PrintText]=01:13:14	Makoto	S-Sí, creo.	01:15:06;
+
+[PlayVoice]=01:13:14	Voice01/01-1S/01-1S-I00/01-1S-I00-0300	1	mak	01:15:06;
+
+[PrintText]=01:15:08	Sekai	¿La besaste?^	01:16:10;
+
+[PlayVoice]=01:15:08	Voice01/01-1S/01-1S-I00/01-1S-I00-0310	0	sek	01:16:10;
+
+[CreateBG]=01:16:07	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-016	01:17:19;
+
+[PrintText]=01:16:07	Makoto	¡Por supuesto que no, Tonta!	01:17:18;
+
+[PlayVoice]=01:16:07	Voice01/01-1S/01-1S-I00/01-1S-I00-0320	1	mak	01:17:18;
+
+[CreateBG]=01:17:19	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-017	01:21:04;
+
+[PrintText]=01:17:19	Sekai	Ya veo, Ya veo, no debería haberme preocupado entonces.	01:21:12;
+
+[PlayVoice]=01:17:19	Voice01/01-1S/01-1S-I00/01-1S-I00-0330	0	sek	01:21:12;
+
+[CreateBG]=01:21:04	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-018	01:22:13;
+
+[PrintText]=01:21:04	Makoto	¡Pues claro!	01:22:11;
+
+[PlayVoice]=01:21:04	Voice01/01-1S/01-1S-I00/01-1S-I00-0340	1	mak	01:22:11;
+
+[PlayMovie]=01:22:13	Movie01/01-1S/01-1S-I00/01-1S-I00-012	0	01:34:17;
+
+[PrintText]=01:22:13	Sekai	Para serte sincera, Katsura-san me dijo que estaba un poco confundida porque estabas un tanto agresivo,	01:29:18;
+
+[PlayVoice]=01:22:13	Voice01/01-1S/01-1S-I00/01-1S-I00-0350	0	sek	01:29:18;
+
+[PrintText]=01:30:01	Sekai	Entonces me preocupe de que estabas intentando hacerle algo pervertido...	01:34:23;
+
+[PlayVoice]=01:30:01	Voice01/01-1S/01-1S-I00/01-1S-I00-0351	0	sek	01:34:23;
+
+[CreateBG]=01:34:17	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-020	01:35:18;
+
+[PrintText]=01:34:17	Makoto	¡Como si pudiera!	01:36:01;
+
+[PlayVoice]=01:34:17	Voice01/01-1S/01-1S-I00/01-1S-I00-0360	1	mak	01:36:01;
+
+[CreateBG]=01:35:18	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-021	01:41:20;
+
+[PrintText]=01:35:18	Sekai	Lo sé. No eres esa clase de persona.	01:39:19;
+
+[PlayVoice]=01:35:18	Voice01/01-1S/01-1S-I00/01-1S-I00-0370	0	sek	01:39:19;
+
+[PrintText]=01:39:22	Makoto	C... Claro.	01:41:16;
+
+[PlayVoice]=01:39:22	Voice01/01-1S/01-1S-I00/01-1S-I00-0380	1	mak	01:41:16;
+
+[CreateBG]=01:41:20	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-022	01:50:04;
+
+[PrintText]=01:41:20	Sekai	Estoy contenta de que tu cita haya ido bien entre los dos ¡Sigan dando lo mejor de ustedes, jóvenes!	01:49:11;
+
+[PlayVoice]=01:41:20	Voice01/01-1S/01-1S-I00/01-1S-I00-0390	0	sek	01:49:11;
+
+[PrintText]=01:49:07	Makoto	Oh, cállate.	01:50:07;
+
+[PlayVoice]=01:49:07	Voice01/01-1S/01-1S-I00/01-1S-I00-0400	1	mak	01:50:07;
+
+[CreateBG]=01:50:04	BGS	Event01/01-1S/01-1S-I00/01-1S-I00-023	01:52:12;
+
+[PrintText]=01:50:04	Sekai	Ahaha...	01:51:05;
+
+[PlayVoice]=01:50:04	Voice01/01-1S/01-1S-I00/01-1S-I00-0410	0	sek	01:51:05;
+
+[BlackFade]=01:51:12	IN	01:52:12;
+
+ ;
+
+[Next]=01:52:12;
+
+
+
+

@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:19:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:19:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-F03/03-KA-F03-001	00:08:01;
+
+[PrintText]=00:00:00	Makoto	'Quiero abrazarte.'.	00:03:05;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-F04/03-KA-F04-0030	1	mak	00:03:05;
+
+[PrintText]=00:04:07	Makoto	...Eso es. Es lo que quiero, después de todo.	00:07:16;
+
+[PlayVoice]=00:04:07	Voice03/03-KA/03-KA-F04/03-KA-F04-0040	1	mak	00:07:16;
+
+[CreateBG]=00:08:01	BGS	Event03/03-KA/03-KA-F04/03-KA-F04-003	00:19:04;
+
+[PrintText]=00:08:06	Makoto	'Enviar.'.	00:10:08;
+
+[PlayVoice]=00:08:06	Voice03/03-KA/03-KA-F04/03-KA-F04-0050	1	mak	00:10:08;
+
+[PrintText]=00:11:05	Makoto	Me pregunto cuánto tiempo pasará antes de que ella ya no se asuste...	00:15:20;
+
+[PlayVoice]=00:11:05	Voice03/03-KA/03-KA-F04/03-KA-F04-0070	1	mak	00:15:20;
+
+[PrintText]=00:16:16	Makoto	Haah...	00:17:18;
+
+[PlayVoice]=00:16:16	Voice03/03-KA/03-KA-F04/03-KA-F04-0080	1	mak	00:17:18;
+
+[BlackFade]=00:18:04	OUT	00:19:04;
+
+ ;
+
+[Next]=00:19:04;
+
+

@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:28:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:28:11;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-I08/SE03-KA-I08-001	00:28:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I08/03-KA-I08-001	00:14:02;
+
+[PrintText]=00:00:00	Makoto	Sí, tal vez.	00:02:16;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I08/03-KA-I08-0030	1	mak	00:02:16;
+
+[PrintText]=00:02:22	Setsuna	Uh-huh.	00:03:14;
+
+[PlayVoice]=00:02:22	Voice03/03-KA/03-KA-I08/03-KA-I08-0040	0	set	00:03:14;
+
+[PrintText]=00:03:21	Makoto	Como sea... siento que estoy empezando a entender tu personalidad.	00:09:15;
+
+[PlayVoice]=00:03:21	Voice03/03-KA/03-KA-I08/03-KA-I08-0050	1	mak	00:09:15;
+
+[PrintText]=00:09:20	Setsuna	¿En serio?^	00:10:15;
+
+[PlayVoice]=00:09:20	Voice03/03-KA/03-KA-I08/03-KA-I08-0060	0	set	00:10:15;
+
+[PrintText]=00:10:23	Makoto	Eres una persona muy decente ¿No?^	00:14:00;
+
+[PlayVoice]=00:10:23	Voice03/03-KA/03-KA-I08/03-KA-I08-0070	1	mak	00:14:00;
+
+[CreateBG]=00:14:02	BGS	Event03/03-KA/03-KA-I08/03-KA-I08-002	00:25:16;
+
+[PrintText]=00:14:04	Setsuna	...	00:15:01;
+
+[PlayVoice]=00:14:04	Voice03/03-KA/03-KA-I08/03-KA-I08-0090	0	xxx	00:15:01;
+
+[PrintText]=00:15:11	Makoto	Y por una parte también eres muy linda.	00:18:09;
+
+[PlayVoice]=00:15:11	Voice03/03-KA/03-KA-I08/03-KA-I08-0100	1	mak	00:18:09;
+
+[PrintText]=00:18:12	Setsuna	...Me estás haciendo enfadar.	00:19:20;
+
+[PlayVoice]=00:18:12	Voice03/03-KA/03-KA-I08/03-KA-I08-0110	0	set	00:19:20;
+
+[PrintText]=00:20:01	Makoto	¿Te has dado cuenta de eso?^	00:21:18;
+
+[PlayVoice]=00:20:01	Voice03/03-KA/03-KA-I08/03-KA-I08-0120	1	mak	00:21:18;
+
+[PrintText]=00:21:21	Setsuna	...	00:22:20;
+
+[PlayVoice]=00:21:21	Voice03/03-KA/03-KA-I08/03-KA-I08-0130	0	xxx	00:22:20;
+
+[PrintText]=00:22:20	Makoto	Tengo que devolver el fuego de vez en cuando, ya sabes.	00:25:14;
+
+[PlayVoice]=00:22:20	Voice03/03-KA/03-KA-I08/03-KA-I08-0140	1	mak	00:25:14;
+
+[CreateBG]=00:25:16	BGS	Event03/03-KA/03-KA-I08/03-KA-I08-003	00:28:11;
+
+[PrintText]=00:26:14	Setsuna	...	00:27:04;
+
+[PlayVoice]=00:26:14	Voice03/03-KA/03-KA-I08/03-KA-I08-0150	0	xxx	00:27:04;
+
+ ;
+
+[Next]=00:28:11;
+
+

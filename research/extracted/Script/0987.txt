@@ -1,0 +1,277 @@
+﻿[SkipFRAME]=03:24:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	03:24:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-001	00:05:05;
+
+[PrintText]=00:00:15	Sekai	Estoy en casa.	00:01:19;
+
+[PlayVoice]=00:00:15	Voice04/04-KB/04-KB-E00/04-KB-E00-0030	0	sek	00:01:19;
+
+[PrintText]=00:01:19	Madre de Sekai	Bienvenida.	00:03:00;
+
+[PlayVoice]=00:01:19	Voice04/04-KB/04-KB-E00/04-KB-E00-0040	0	yko	00:03:00;
+
+[PrintText]=00:03:00	Sekai	Llegaste a casa temprano.	00:05:10;
+
+[PlayVoice]=00:03:00	Voice04/04-KB/04-KB-E00/04-KB-E00-0050	0	sek	00:05:10;
+
+[CreateBG]=00:05:05	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-002A	00:18:00;
+
+[PrintText]=00:05:10	Madre de Sekai	Sí, me las arreglé para tener mi trabajo a medio tiempo.	00:09:03;
+
+[PlayVoice]=00:05:10	Voice04/04-KB/04-KB-E00/04-KB-E00-0060	0	yko	00:09:03;
+
+[PrintText]=00:09:03	Sekai	Si sigues así, causaras problemas.	00:12:20;
+
+[PlayVoice]=00:09:03	Voice04/04-KB/04-KB-E00/04-KB-E00-0070	0	sek	00:12:20;
+
+[PrintText]=00:12:20	Madre de Sekai	¿Qué hay de malo? Es divertido ser mimada por un joven.	00:18:00;
+
+[PlayVoice]=00:12:20	Voice04/04-KB/04-KB-E00/04-KB-E00-0080	0	yko	00:18:00;
+
+[CreateBG]=00:18:00	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-002B	00:28:10;
+
+[PrintText]=00:18:00	Sekai	No quiero un padrastro que tenga la misma edad que yo.	00:23:00;
+
+[PlayVoice]=00:18:00	Voice04/04-KB/04-KB-E00/04-KB-E00-0090	0	sek	00:23:00;
+
+[PrintText]=00:23:00	Madre de Sekai	¿Oh? Él podría ser mas joven, sabes.	00:26:14;
+
+[PlayVoice]=00:23:00	Voice04/04-KB/04-KB-E00/04-KB-E00-0100	0	yko	00:26:14;
+
+[PrintText]=00:26:13	Sekai	Rindete.	00:28:10;
+
+[PlayVoice]=00:26:13	Voice04/04-KB/04-KB-E00/04-KB-E00-0110	0	sek	00:28:10;
+
+[CreateBG]=00:28:10	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-002	00:38:18;
+
+[PrintText]=00:28:10	Madre de Sekai	Sekai.	00:29:06;
+
+[PlayVoice]=00:28:10	Voice04/04-KB/04-KB-E00/04-KB-E00-0120	0	yko	00:29:06;
+
+[PrintText]=00:29:06	Sekai	¿Qué?^	00:30:03;
+
+[PlayVoice]=00:29:06	Voice04/04-KB/04-KB-E00/04-KB-E00-0130	0	sek	00:30:03;
+
+[PrintText]=00:30:02	Madre de Sekai	Parece que te ves mejor.	00:31:18;
+
+[PlayVoice]=00:30:02	Voice04/04-KB/04-KB-E00/04-KB-E00-0140	0	yko	00:31:18;
+
+[PrintText]=00:31:18	Sekai	¿Eh...? ¿En serio?^	00:34:11;
+
+[PlayVoice]=00:31:18	Voice04/04-KB/04-KB-E00/04-KB-E00-0150	0	sek	00:34:11;
+
+[PrintText]=00:34:11	Madre de Sekai	Te veías como un zombie cuando te fuiste, ¿No te diste cuenta?^	00:39:00;
+
+[PlayVoice]=00:34:11	Voice04/04-KB/04-KB-E00/04-KB-E00-0160	0	yko	00:39:00;
+
+[CreateBG]=00:38:18	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-003	00:46:19;
+
+[PrintText]=00:39:00	Sekai	No creo que eso sea verdad...	00:41:11;
+
+[PlayVoice]=00:39:00	Voice04/04-KB/04-KB-E00/04-KB-E00-0170	0	sek	00:41:11;
+
+[PrintText]=00:41:11	Madre de Sekai	¿Fue por esos chicos que vinieron a recogerte hoy?^	00:44:08;
+
+[PlayVoice]=00:41:11	Voice04/04-KB/04-KB-E00/04-KB-E00-0180	0	yko	00:44:08;
+
+[PrintText]=00:44:08	Sekai	Oh, cielos, no es por eso.	00:46:23;
+
+[PlayVoice]=00:44:08	Voice04/04-KB/04-KB-E00/04-KB-E00-0190	0	sek	00:46:23;
+
+[CreateBG]=00:46:19	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-004	01:05:19;
+
+[PrintText]=00:46:23	Madre de Sekai	Dime. ¿Quién era? ¿El que tenía cabello desarreglado?^	00:51:20;
+
+[PlayVoice]=00:46:23	Voice04/04-KB/04-KB-E00/04-KB-E00-0200	0	yko	00:51:20;
+
+[PrintText]=00:51:20	Sekai	No, no Sawanaga.	00:53:18;
+
+[PlayVoice]=00:51:20	Voice04/04-KB/04-KB-E00/04-KB-E00-0210	0	sek	00:53:18;
+
+[PrintText]=00:53:18	Madre de Sekai	Así que su nombre es Sawanaga. ¿Qué hay del otro, entonces?^	00:59:15;
+
+[PlayVoice]=00:53:18	Voice04/04-KB/04-KB-E00/04-KB-E00-0220	0	yko	00:59:15;
+
+[PrintText]=00:59:15	Sekai	Makoto.	01:00:13;
+
+[PlayVoice]=00:59:15	Voice04/04-KB/04-KB-E00/04-KB-E00-0230	0	sek	01:00:13;
+
+[PrintText]=01:00:13	Madre de Sekai	¡Ah! ¡Con que Makoto era del que tanto había escuchado! Hm...	01:06:01;
+
+[PlayVoice]=01:00:13	Voice04/04-KB/04-KB-E00/04-KB-E00-0240	0	yko	01:06:01;
+
+[CreateBG]=01:05:19	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-005	01:20:08;
+
+[PrintText]=01:06:01	Sekai	¡Ahh! ¡Cielos! ¡No! ¡Estaba bromeando!	01:10:02;
+
+[PlayVoice]=01:06:01	Voice04/04-KB/04-KB-E00/04-KB-E00-0250	0	sek	01:10:02;
+
+[PrintText]=01:10:02	Madre de Sekai	No intentes ocultarlo. Ya veo... así que, Makoto-kun... no está mal ¿No?^	01:19:08;
+
+[PlayVoice]=01:10:02	Voice04/04-KB/04-KB-E00/04-KB-E00-0260	0	yko	01:19:08;
+
+[PrintText]=01:19:09	Sekai	... No lo sé.	01:20:13;
+
+[PlayVoice]=01:19:09	Voice04/04-KB/04-KB-E00/04-KB-E00-0270	0	sek	01:20:13;
+
+[CreateBG]=01:20:08	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-006	01:39:05;
+
+[PrintText]=01:20:13	Madre de Sekai	Has sido como antes desde que Se-chan se fue a otra escuela... He estado preocupada por ti.	01:27:17;
+
+[PlayVoice]=01:20:13	Voice04/04-KB/04-KB-E00/04-KB-E00-0280	0	yko	01:27:17;
+
+[PrintText]=01:27:17	Sekai	Uh-huh...	01:28:13;
+
+[PlayVoice]=01:27:17	Voice04/04-KB/04-KB-E00/04-KB-E00-0290	0	sek	01:28:13;
+
+[PrintText]=01:28:13	Madre de Sekai	La próxima vez, invita a Makoto-kun a la casa.	01:32:12;
+
+[PlayVoice]=01:28:13	Voice04/04-KB/04-KB-E00/04-KB-E00-0300	0	yko	01:32:12;
+
+[PrintText]=01:32:12	Sekai	Esas dos frases no tienen relación para nada!	01:35:14;
+
+[PlayVoice]=01:32:12	Voice04/04-KB/04-KB-E00/04-KB-E00-0310	0	sek	01:35:14;
+
+[PrintText]=01:35:14	Madre de Sekai	Vamos, tráelo.	01:39:10;
+
+[PlayVoice]=01:35:14	Voice04/04-KB/04-KB-E00/04-KB-E00-0320	0	yko	01:39:10;
+
+[CreateBG]=01:39:05	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-001	01:58:14;
+
+[PrintText]=01:39:10	Sekai	¡No!	01:40:07;
+
+[PlayVoice]=01:39:10	Voice04/04-KB/04-KB-E00/04-KB-E00-0330	0	sek	01:40:07;
+
+[PrintText]=01:40:06	Madre de Sekai	¿Hasta dónde has llegado con él? ¿Lo has besado?^	01:44:12;
+
+[PlayVoice]=01:40:06	Voice04/04-KB/04-KB-E00/04-KB-E00-0340	0	yko	01:44:12;
+
+[PrintText]=01:44:12	Sekai	¡No hemos hecho nada!	01:46:12;
+
+[PlayVoice]=01:44:12	Voice04/04-KB/04-KB-E00/04-KB-E00-0350	0	sek	01:46:12;
+
+[PrintText]=01:46:12	Madre de Sekai	No lo ocultes ante los ojos de tu madre... hmmm... Ya veo.Makoto-kun y tú se han besado.	01:57:08;
+
+[PlayVoice]=01:46:12	Voice04/04-KB/04-KB-E00/04-KB-E00-0360	0	yko	01:57:08;
+
+[PrintText]=01:57:08	Sekai	¿Ehh...?^	01:58:19;
+
+[PlayVoice]=01:57:08	Voice04/04-KB/04-KB-E00/04-KB-E00-0370	0	sek	01:58:19;
+
+[CreateBG]=01:58:14	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-008	02:25:02;
+
+[PrintText]=01:58:19	Madre de Sekai	Y a pesar de que el no quiere, lo has estado forzando!	02:03:17;
+
+[PlayVoice]=01:58:19	Voice04/04-KB/04-KB-E00/04-KB-E00-0380	0	yko	02:03:17;
+
+[PrintText]=02:03:15	Madre de Sekai	¡Ahh! Yo no recuerdo haber criado a una hija así... 	02:09:03;
+
+[PlayVoice]=02:03:15	Voice04/04-KB/04-KB-E00/04-KB-E00-0381	0	yko	02:09:03;
+
+[PrintText]=02:09:08	Sekai	¡No fue forzado!	02:11:09;
+
+[PlayVoice]=02:09:08	Voice04/04-KB/04-KB-E00/04-KB-E00-0390	0	sek	02:11:09;
+
+[PrintText]=02:11:10	Madre de Sekai	¿Lo ves? Lo besaste.	02:14:00;
+
+[PlayVoice]=02:11:10	Voice04/04-KB/04-KB-E00/04-KB-E00-0400	0	yko	02:14:00;
+
+[PrintText]=02:14:00	Sekai	Auu... Te odio. Mamá.	02:18:00;
+
+[PlayVoice]=02:14:00	Voice04/04-KB/04-KB-E00/04-KB-E00-0410	0	sek	02:18:00;
+
+[PrintText]=02:18:00	Madre de Sekai	Está bien, ódiame tanto como te plazca... luego corre donde Makoto-kun.	02:24:04;
+
+[PlayVoice]=02:18:00	Voice04/04-KB/04-KB-E00/04-KB-E00-0420	0	yko	02:24:04;
+
+[PrintText]=02:24:04	Sekai	No.	02:25:08;
+
+[PlayVoice]=02:24:04	Voice04/04-KB/04-KB-E00/04-KB-E00-0430	0	sek	02:25:08;
+
+[CreateBG]=02:25:02	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-002	02:47:02;
+
+[PrintText]=02:25:08	Madre de Sekai	¡Voy a hacer lo mismo con algunos chicos jóvenes!	02:29:11;
+
+[PlayVoice]=02:25:08	Voice04/04-KB/04-KB-E00/04-KB-E00-0440	0	yko	02:29:11;
+
+[PrintText]=02:29:11	Sekai	No lo hagas.	02:31:05;
+
+[PlayVoice]=02:29:11	Voice04/04-KB/04-KB-E00/04-KB-E00-0450	0	sek	02:31:05;
+
+[PrintText]=02:31:05	Madre de Sekai	Que aburrida eres.	02:32:12;
+
+[PlayVoice]=02:31:05	Voice04/04-KB/04-KB-E00/04-KB-E00-0460	0	yko	02:32:12;
+
+[PrintText]=02:32:12	Sekai	Cielos... Hablando contigo me quitas el ánimo.	02:37:12;
+
+[PlayVoice]=02:32:12	Voice04/04-KB/04-KB-E00/04-KB-E00-0470	0	sek	02:37:12;
+
+[PrintText]=02:37:12	Madre de Sekai	Ohohoh... es un honor escuchar eso.	02:40:05;
+
+[PlayVoice]=02:37:12	Voice04/04-KB/04-KB-E00/04-KB-E00-0480	0	yko	02:40:05;
+
+[PrintText]=02:40:05	Sekai	Haah...	02:41:05;
+
+[PlayVoice]=02:40:05	Voice04/04-KB/04-KB-E00/04-KB-E00-0490	0	sek	02:41:05;
+
+[PrintText]=02:41:05	Madre de Sekai	Suspiro de amor, eh.	02:43:09;
+
+[PlayVoice]=02:41:05	Voice04/04-KB/04-KB-E00/04-KB-E00-0500	0	yko	02:43:09;
+
+[PrintText]=02:43:09	Sekai	...Hey, Mamá.	02:45:16;
+
+[PlayVoice]=02:43:09	Voice04/04-KB/04-KB-E00/04-KB-E00-0510	0	sek	02:45:16;
+
+[PrintText]=02:45:16	Madre de Sekai	¿Qué pasa?^	02:46:12;
+
+[PlayVoice]=02:45:16	Voice04/04-KB/04-KB-E00/04-KB-E00-0520	0	yko	02:46:12;
+
+[CreateBG]=02:47:02	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-010	03:05:06;
+
+[PrintText]=02:47:04	Sekai	Ya que soy tu hija... ¿Debería usarlos a los chicos y luego botarlos?^	02:55:06;
+
+[PlayVoice]=02:47:04	Voice04/04-KB/04-KB-E00/04-KB-E00-0530	0	sek	02:55:06;
+
+[PrintText]=02:55:06	Madre de Sekai	¡No lo hice así!	02:57:11;
+
+[PlayVoice]=02:55:06	Voice04/04-KB/04-KB-E00/04-KB-E00-0540	0	yko	02:57:11;
+
+[PrintText]=02:57:12	Sekai	Sí, así fue.	02:59:02;
+
+[PlayVoice]=02:57:12	Voice04/04-KB/04-KB-E00/04-KB-E00-0550	0	sek	02:59:02;
+
+[PrintText]=02:59:01	Madre de Sekai	No! Lo bote! Fue un bueno para nada!	03:03:02;
+
+[PlayVoice]=02:59:01	Voice04/04-KB/04-KB-E00/04-KB-E00-0560	0	yko	03:03:02;
+
+[PrintText]=03:03:02	Sekai	Eso no importa...	03:05:11;
+
+[PlayVoice]=03:03:02	Voice04/04-KB/04-KB-E00/04-KB-E00-0570	0	sek	03:05:11;
+
+[CreateBG]=03:05:06	BGS	Event04/04-KB/04-KB-E00/04-KB-E00-011	03:24:01;
+
+[PrintText]=03:05:10	Madre de Sekai	¡Aww, Cielos! ¡Me enojo de solo pensar en ese tipo! Voy a hacerme una hamburguesa, ¿Quieres uno?^	03:13:16;
+
+[PlayVoice]=03:05:10	Voice04/04-KB/04-KB-E00/04-KB-E00-0580	0	yko	03:13:16;
+
+[PrintText]=03:13:16	Sekai	No es 'Enojo', mamá, Es 'Darte cuenta'.	03:18:03;
+
+[PlayVoice]=03:13:16	Voice04/04-KB/04-KB-E00/04-KB-E00-0590	0	sek	03:18:03;
+
+[PrintText]=03:18:03	Madre de Sekai	¡Como sea! ¡Solo come!	03:20:17;
+
+[PlayVoice]=03:18:03	Voice04/04-KB/04-KB-E00/04-KB-E00-0600	0	yko	03:20:17;
+
+[PrintText]=03:20:17	Sekai	Sí.., Sí...	03:22:00;
+
+[PlayVoice]=03:20:17	Voice04/04-KB/04-KB-E00/04-KB-E00-0610	0	sek	03:22:00;
+
+[BlackFade]=03:23:01	OUT	03:24:01;
+
+ ;
+
+[Next]=03:24:01;
+
+

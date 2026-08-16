@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:28:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:28:23;
+
+[PlaySe]=00:00:00	1	Se04/04-C1/04-C1-D00/SE04-C1-D00-001	00:28:23;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-002	00:04:00;
+
+[CreateBG]=00:04:00	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-003	00:05:05;
+
+[PrintText]=00:04:00	Sekai	Eheheh.	00:05:05;
+
+[PlayVoice]=00:04:00	Voice04/04-C1/04-C1-D00/04-C1-D00-0050	0	sek	00:05:05;
+
+[CreateBG]=00:05:05	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-004	00:06:05;
+
+[PrintText]=00:05:05	Makoto	Haha.	00:06:04;
+
+[PlayVoice]=00:05:05	Voice04/04-C1/04-C1-D00/04-C1-D00-0060	1	mak	00:06:04;
+
+[CreateBG]=00:06:05	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-005	00:11:00;
+
+[BlackFade]=00:06:05	OUT	00:07:05;
+
+[CreateBG]=00:11:00	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-006	00:11:20;
+
+[PrintText]=00:11:00	Makoto	¿Deberíamos ir?^	00:11:20;
+
+[PlayVoice]=00:11:00	Voice04/04-C1/04-C1-D00/04-C1-D00-0110	1	mak	00:11:20;
+
+[CreateBG]=00:11:20	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-007	00:16:09;
+
+[PrintText]=00:11:22	Sekai	¿Eh...?^	00:12:09;
+
+[PlayVoice]=00:11:22	Voice04/04-C1/04-C1-D00/04-C1-D00-0120	0	sek	00:12:09;
+
+[PrintText]=00:12:21	Makoto	A la clase 4.	00:13:19;
+
+[PlayVoice]=00:12:21	Voice04/04-C1/04-C1-D00/04-C1-D00-0130	1	mak	00:13:19;
+
+[PrintText]=00:13:21	Sekai	¿Para ver a... Katsura-san?^	00:16:11;
+
+[PlayVoice]=00:13:21	Voice04/04-C1/04-C1-D00/04-C1-D00-0140	0	sek	00:16:11;
+
+[CreateBG]=00:16:09	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-008	00:27:19;
+
+[PrintText]=00:16:09	Makoto	Se lo diré directamente. Estoy saliendo contigo.	00:21:14;
+
+[PlayVoice]=00:16:09	Voice04/04-C1/04-C1-D00/04-C1-D00-0160	1	mak	00:21:14;
+
+[PrintText]=00:21:13	Sekai	Ah...	00:22:12;
+
+[PlayVoice]=00:21:13	Voice04/04-C1/04-C1-D00/04-C1-D00-0170	0	sek	00:22:12;
+
+[PrintText]=00:22:18	Makoto	No voy a esconder más... que te amo.	00:27:19;
+
+[PlayVoice]=00:22:18	Voice04/04-C1/04-C1-D00/04-C1-D00-0180	1	mak	00:27:19;
+
+[CreateBG]=00:27:19	BGS	Event04/04-C1/04-C1-D00/04-C1-D00-009	00:28:23;
+
+[PrintText]=00:27:21	Sekai	¡Vale!	00:28:20;
+
+[PlayVoice]=00:27:21	Voice04/04-C1/04-C1-D00/04-C1-D00-0190	0	sek	00:28:20;
+
+ ;
+
+[Next]=00:28:23;
+
+

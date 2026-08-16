@@ -1,0 +1,131 @@
+﻿[SkipFRAME]=01:26:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:26:01;
+
+[PlayMovie]=00:00:00	Movie04/04-C1/04-C1-B02/04-C1-B02-001	0	00:22:02;
+
+[PrintText]=00:00:00	Makoto	...	00:01:19;
+
+[PlayVoice]=00:00:00	Voice04/04-C1/04-C1-B02/04-C1-B02-0030	1	xxx	00:01:19;
+
+[PrintText]=00:01:19	Sekai	Makoto... Lo siento...	00:05:11;
+
+[PlayVoice]=00:01:19	Voice04/04-C1/04-C1-B02/04-C1-B02-0040	0	sek	00:05:11;
+
+[PrintText]=00:05:11	Makoto	...	00:06:18;
+
+[PlayVoice]=00:05:11	Voice04/04-C1/04-C1-B02/04-C1-B02-0050	1	xxx	00:06:18;
+
+[PrintText]=00:06:19	Sekai	Enamorarte de mí te causaría problemas... ¿No?^	00:13:10;
+
+[PlayVoice]=00:06:19	Voice04/04-C1/04-C1-B02/04-C1-B02-0060	0	sek	00:13:10;
+
+[PrintText]=00:13:10	Sekai	Amas a Katsura-san... aún, y aquí estoy, haciendo cosas como estas... estando contigo...Soy un problema para ti ¿No?^	00:22:02;
+
+[PlayVoice]=00:13:10	Voice04/04-C1/04-C1-B02/04-C1-B02-0061	0	sek	00:22:02;
+
+[CreateBG]=00:22:02	BGS	Event04/04-C1/04-C1-B00/04-C1-B00-003	00:46:14;
+
+[PrintText]=00:23:00	Makoto	Sekai...	00:23:22;
+
+[PlayVoice]=00:23:00	Voice04/04-C1/04-C1-B02/04-C1-B02-0070	1	mak	00:23:22;
+
+[PrintText]=00:25:01	Sekai	Lo... Siento...	00:27:04;
+
+[PlayVoice]=00:25:01	Voice04/04-C1/04-C1-B02/04-C1-B02-0080	0	sek	00:27:04;
+
+[PlaySe]=00:27:05	1	Voice04/04-C1/04-C1-B02/04-C1-B02-0090	00:31:09;
+
+[PrintText]=00:31:07	Makoto	Te amo...	00:32:04;
+
+[PlayVoice]=00:31:07	Voice04/04-C1/04-C1-B02/04-C1-B02-0100	1	mak	00:32:04;
+
+[PrintText]=00:32:04	Sekai	¿...?^	00:33:07;
+
+[PlayVoice]=00:32:04	Voice04/04-C1/04-C1-B02/04-C1-B02-0110	0	sek	00:33:07;
+
+[PrintText]=00:33:07	Makoto	Te Amo... Sekai...	00:36:17;
+
+[PlayVoice]=00:33:07	Voice04/04-C1/04-C1-B02/04-C1-B02-0120	1	mak	00:36:17;
+
+[PrintText]=00:36:17	Sekai	...	00:38:00;
+
+[PlayVoice]=00:36:17	Voice04/04-C1/04-C1-B02/04-C1-B02-0130	0	xxx	00:38:00;
+
+[PrintText]=00:38:01	Makoto	Más que a Kotonoha.	00:40:03;
+
+[PlayVoice]=00:38:01	Voice04/04-C1/04-C1-B02/04-C1-B02-0140	1	mak	00:40:03;
+
+[PrintText]=00:40:04	Sekai	E-Está bien, no tienes que forzarte...	00:44:03;
+
+[PlayVoice]=00:40:04	Voice04/04-C1/04-C1-B02/04-C1-B02-0150	0	sek	00:44:03;
+
+[PrintText]=00:44:03	Makoto	No lo hago.	00:45:04;
+
+[PlayVoice]=00:44:03	Voice04/04-C1/04-C1-B02/04-C1-B02-0160	1	mak	00:45:04;
+
+[PrintText]=00:45:05	Sekai	...	00:46:14;
+
+[PlayVoice]=00:45:05	Voice04/04-C1/04-C1-B02/04-C1-B02-0170	0	xxx	00:46:14;
+
+[PrintText]=00:46:13	Makoto	En serio te amo...	00:49:07;
+
+[PlayVoice]=00:46:13	Voice04/04-C1/04-C1-B02/04-C1-B02-0180	1	mak	00:49:07;
+
+[CreateBG]=00:46:14	BGS	Event04/04-C1/04-C1-B00/04-C1-B00-005	00:56:12;
+
+[PrintText]=00:49:20	Sekai	¿Estás seguro de esto?^	00:51:03;
+
+[PlayVoice]=00:49:20	Voice04/04-C1/04-C1-B02/04-C1-B02-0190	0	sek	00:51:03;
+
+[PrintText]=00:51:04	Makoto	Sí...	00:51:19;
+
+[PlayVoice]=00:51:04	Voice04/04-C1/04-C1-B02/04-C1-B02-0200	1	mak	00:51:19;
+
+[PrintText]=00:52:00	Sekai	¿Está bien... que crea en esto?^	00:55:09;
+
+[PlayVoice]=00:52:00	Voice04/04-C1/04-C1-B02/04-C1-B02-0210	0	sek	00:55:09;
+
+[PrintText]=00:55:10	Makoto	Sí...	00:56:04;
+
+[PlayVoice]=00:55:10	Voice04/04-C1/04-C1-B02/04-C1-B02-0220	1	mak	00:56:04;
+
+[PlayMovie]=00:56:12	Movie04/04-C1/04-C1-B02/04-C1-B02-004	0	01:26:01;
+
+[PrintText]=00:56:12	Sekai	Soy tonta... y creeré que tú... ya sabes...	01:00:14;
+
+[PlayVoice]=00:56:12	Voice04/04-C1/04-C1-B02/04-C1-B02-0230	0	sek	01:00:14;
+
+[PrintText]=01:00:14	Makoto	Créeme.	01:01:23;
+
+[PlayVoice]=01:00:14	Voice04/04-C1/04-C1-B02/04-C1-B02-0240	1	mak	01:01:23;
+
+[PrintText]=01:02:00	Sekai	No quiero confundirme y empezar a salir contigo, sabes...	01:05:02;
+
+[PlayVoice]=01:02:00	Voice04/04-C1/04-C1-B02/04-C1-B02-0250	0	sek	01:05:02;
+
+[PrintText]=01:05:06	Makoto	Quiero tenerte conmigo.	01:07:01;
+
+[PlayVoice]=01:05:06	Voice04/04-C1/04-C1-B02/04-C1-B02-0260	1	mak	01:07:01;
+
+[PrintText]=01:06:22	Sekai	Estoy realmente... realmente... enamorándome de ti...	01:11:11;
+
+[PlayVoice]=01:06:22	Voice04/04-C1/04-C1-B02/04-C1-B02-0270	0	sek	01:11:11;
+
+[PrintText]=01:11:11	Makoto	Y yo... me enamoro más de ti ...	01:16:14;
+
+[PlayVoice]=01:11:11	Voice04/04-C1/04-C1-B02/04-C1-B02-0280	1	mak	01:16:14;
+
+[PrintText]=01:16:15	Sekai	Makoto...	01:18:22;
+
+[PlayVoice]=01:16:15	Voice04/04-C1/04-C1-B02/04-C1-B02-0290	0	sek	01:18:22;
+
+[PlaySe]=01:19:00	1	Voice04/04-C1/04-C1-B02/04-C1-B02-0300	01:24:23;
+
+[BlackFade]=01:25:01	OUT	01:26:01;
+
+ ;
+
+[Next]=01:26:01;
+
+

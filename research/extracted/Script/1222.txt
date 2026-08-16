@@ -1,0 +1,187 @@
+﻿[SkipFRAME]=01:45:22;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	01:45:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-001	00:01:11;
+
+[PrintText]=00:00:02	Makoto	...	00:01:06;
+
+[PlayVoice]=00:00:02	Voice04/04-SB/04-SB-L00/04-SB-L00-0030	1	xxx	00:01:06;
+
+[BlackFade]=00:01:05	IN	00:01:11;
+
+[PlaySe]=00:01:11	2	SysSe/SE_all/station_train/train_start	00:27:16;
+
+[CreateBG]=00:01:11	BGS	Event01/01-00/01-00-L00/01-00-L00-001	00:03:07;
+
+[BlackFade]=00:01:11	OUT	00:01:17;
+
+[PlayMovie]=00:03:07	Movie00/00-00/00-00-L00/00-00-L00-024	0	00:06:18;
+
+[CreateBG]=00:06:18	BGS	Event04/04-SB/04-SB-C09/04-SB-C09-004	00:10:03;
+
+[PrintText]=00:06:20	Makoto	Haah...	00:07:19;
+
+[PlayVoice]=00:06:20	Voice04/04-SB/04-SB-L00/04-SB-L00-0070	1	mak	00:07:19;
+
+[PrintText]=00:07:17	Hikari	Así son las cosas.	00:10:02;
+
+[PlayVoice]=00:07:17	Voice04/04-SB/04-SB-L00/04-SB-L00-0080	0	hik	00:10:02;
+
+[CreateBG]=00:10:03	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-006	00:18:18;
+
+[PrintText]=00:10:03	Makoto	...Kuroda. No es bueno escuchar conversaciones a escondidas, sabes.	00:15:11;
+
+[PlayVoice]=00:10:03	Voice04/04-SB/04-SB-L00/04-SB-L00-0100	1	mak	00:15:11;
+
+[PrintText]=00:15:11	Hikari	Perdón, fue curiosidad.	00:18:18;
+
+[PlayVoice]=00:15:11	Voice04/04-SB/04-SB-L00/04-SB-L00-0110	0	hik	00:18:18;
+
+[CreateBG]=00:18:18	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-007	00:20:17;
+
+[PrintText]=00:18:18	Makoto	A eso se le llama mala educación...	00:20:17;
+
+[PlayVoice]=00:18:18	Voice04/04-SB/04-SB-L00/04-SB-L00-0120	1	mak	00:20:17;
+
+[CreateBG]=00:20:17	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-001	00:28:18;
+
+[PrintText]=00:20:17	Hikari	¡Quería saber que tipo de chica le gustaba a Sawanaga!	00:24:03;
+
+[PlayVoice]=00:20:17	Voice04/04-SB/04-SB-L00/04-SB-L00-0130	0	hik	00:24:03;
+
+[PrintText]=00:24:03	Makoto	...Ya veo.	00:25:05;
+
+[PlayVoice]=00:24:03	Voice04/04-SB/04-SB-L00/04-SB-L00-0140	1	mak	00:25:05;
+
+[PrintText]=00:25:06	Hikari	Katsura-san te gusta ¿No?^	00:28:18;
+
+[PlayVoice]=00:25:06	Voice04/04-SB/04-SB-L00/04-SB-L00-0150	0	hik	00:28:18;
+
+[CreateBG]=00:28:18	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-009	00:38:09;
+
+[PrintText]=00:28:18	Makoto	...	00:29:13;
+
+[PlayVoice]=00:28:18	Voice04/04-SB/04-SB-L00/04-SB-L00-0160	1	xxx	00:29:13;
+
+[PrintText]=00:29:13	Hikari	Pensé que todo iba bien entre tú y Sekai... pero fue un error.	00:38:09;
+
+[PlayVoice]=00:29:13	Voice04/04-SB/04-SB-L00/04-SB-L00-0170	0	hik	00:38:09;
+
+#[PrintText]=00:38:08	Makoto	...	00:39:13;
+
+[PlayVoice]=00:38:08	Voice04/04-SB/04-SB-L00/04-SB-L00-0180	1	xxx	00:39:13;
+
+[CreateBG]=00:38:09	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-010	00:47:08;
+
+[PrintText]=00:39:13	Hikari	Esa es la razón por la que Sekai está preocupada y sufriendo....	00:44:22;
+
+[PlayVoice]=00:39:13	Voice04/04-SB/04-SB-L00/04-SB-L00-0190	0	hik	00:44:22;
+
+[PrintText]=00:44:22	Makoto	Sí.	00:45:16;
+
+[PlayVoice]=00:44:22	Voice04/04-SB/04-SB-L00/04-SB-L00-0200	1	mak	00:45:16;
+
+[PrintText]=00:45:16	Hikari	...Qué complicado.	00:47:08;
+
+[PlayVoice]=00:45:16	Voice04/04-SB/04-SB-L00/04-SB-L00-0210	0	hik	00:47:08;
+
+[CreateBG]=00:47:08	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-013	00:48:05;
+
+#[PrintText]=00:47:08	Makoto	...	00:48:03;
+
+[PlayVoice]=00:47:08	Voice04/04-SB/04-SB-L00/04-SB-L00-0220	1	xxx	00:48:03;
+
+[PrintText]=00:48:03	Hikari	Pero... en ese caso, Desearía que no estuviera involucrado Sawanaga...	00:53:05;
+
+[PlayVoice]=00:48:03	Voice04/04-SB/04-SB-L00/04-SB-L00-0230	0	hik	00:53:05;
+
+[CreateBG]=00:48:05	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-005	00:57:13;
+
+[PrintText]=00:53:05	Hikari	Piensa que es afortunado.	00:57:12;
+
+[PlayVoice]=00:53:05	Voice04/04-SB/04-SB-L00/04-SB-L00-0231	0	hik	00:57:12;
+
+[PrintText]=00:57:12	Makoto	Sí...	00:58:12;
+
+[PlayVoice]=00:57:12	Voice04/04-SB/04-SB-L00/04-SB-L00-0240	1	mak	00:58:12;
+
+[CreateBG]=00:57:13	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-015	00:58:13;
+
+[PrintText]=00:58:11	Hikari	A Sawanaga... realmente le gusta Katsura-san...	01:02:00;
+
+[PlayVoice]=00:58:11	Voice04/04-SB/04-SB-L00/04-SB-L00-0250	0	hik	01:02:00;
+
+[CreateBG]=00:58:13	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-016	01:18:15;
+
+[PrintText]=01:02:01	Makoto	Probablemente solo quiere a alguien para tener sexo...	01:07:09;
+
+[PlayVoice]=01:02:01	Voice04/04-SB/04-SB-L00/04-SB-L00-0260	1	mak	01:07:09;
+
+[PrintText]=01:07:09	Hikari	Sexo, huh... Supongo que no hay oportunidad para mí. Ella es hermosa, con una gran figura. No puedo competir con eso...	01:18:16;
+
+[PlayVoice]=01:07:09	Voice04/04-SB/04-SB-L00/04-SB-L00-0270	0	hik	01:18:16;
+
+[CreateBG]=01:18:15	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-017	01:23:08;
+
+[PrintText]=01:18:16	Makoto	...Kuroda.	01:19:14;
+
+[PlayVoice]=01:18:16	Voice04/04-SB/04-SB-L00/04-SB-L00-0280	1	mak	01:19:14;
+
+[PrintText]=01:19:14	Hikari	¿Qué?^	01:20:13;
+
+[PlayVoice]=01:19:14	Voice04/04-SB/04-SB-L00/04-SB-L00-0290	0	hik	01:20:13;
+
+[PrintText]=01:20:13	Makoto	Te gusta Taisuke ¿No?^	01:23:08;
+
+[PlayVoice]=01:20:13	Voice04/04-SB/04-SB-L00/04-SB-L00-0300	1	mak	01:23:08;
+
+[CreateBG]=01:23:08	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-017A	01:27:00;
+
+[PrintText]=01:23:08	Hikari	...Sí.	01:23:23;
+
+[PlayVoice]=01:23:08	Voice04/04-SB/04-SB-L00/04-SB-L00-0310	0	hik	01:23:23;
+
+[PrintText]=01:23:23	Makoto	Ayúdame en algo.	01:25:16;
+
+[PlayVoice]=01:23:23	Voice04/04-SB/04-SB-L00/04-SB-L00-0320	1	mak	01:25:16;
+
+[PrintText]=01:25:17	Hikari	¿Ayudarte?^	01:27:00;
+
+[PlayVoice]=01:25:17	Voice04/04-SB/04-SB-L00/04-SB-L00-0330	0	hik	01:27:00;
+
+[CreateBG]=01:27:00	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-017B	01:33:23;
+
+[PrintText]=01:27:00	Makoto	Sí Taisuke es adicto al sexo como se piensa... entonces tengo un plan.	01:33:23;
+
+[PlayVoice]=01:27:00	Voice04/04-SB/04-SB-L00/04-SB-L00-0340	1	mak	01:33:23;
+
+[CreateBG]=01:33:23	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-018	01:35:09;
+
+[PrintText]=01:33:23	Hikari	¿Un plan?^	01:35:08;
+
+[PlayVoice]=01:33:23	Voice04/04-SB/04-SB-L00/04-SB-L00-0350	0	hik	01:35:08;
+
+[PrintText]=01:35:08	Makoto	Lo voy a intentar.	01:37:07;
+
+[PlayVoice]=01:35:08	Voice04/04-SB/04-SB-L00/04-SB-L00-0360	1	mak	01:37:07;
+
+[CreateBG]=01:35:09	BGS	Event04/04-SB/04-SB-L00/04-SB-L00-019	01:45:22;
+
+[PrintText]=01:37:07	Hikari	Espera ¿Intentar qué?^	01:39:07;
+
+[PlayVoice]=01:37:07	Voice04/04-SB/04-SB-L00/04-SB-L00-0370	0	hik	01:39:07;
+
+[PrintText]=01:39:07	Makoto	Te llamaré hoy en la noche para explicártelo.	01:42:10;
+
+[PlayVoice]=01:39:07	Voice04/04-SB/04-SB-L00/04-SB-L00-0380	1	mak	01:42:10;
+
+[PrintText]=01:42:10	Hikari	Bien... estaré esperando.	01:45:15;
+
+[PlayVoice]=01:42:10	Voice04/04-SB/04-SB-L00/04-SB-L00-0390	0	hik	01:45:15;
+
+ ;
+
+[Next]=01:45:22;
+
+

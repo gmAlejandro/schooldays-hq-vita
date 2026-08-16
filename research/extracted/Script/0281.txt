@@ -1,0 +1,125 @@
+﻿[SkipFRAME]=01:10:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	01:10:06;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-001	00:03:07;
+
+[PrintText]=00:00:09	Madre de Sekai	Oh.	00:01:01;
+
+[PlayVoice]=00:00:09	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0030	0	yko	00:01:01;
+
+[PrintText]=00:01:04	Makoto	H-Hola.	00:03:05;
+
+[PlayVoice]=00:01:04	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0040	1	mak	00:03:05;
+
+[CreateBG]=00:03:07	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-002	00:11:23;
+
+[PrintText]=00:03:07	Madre de Sekai	El novio de Sekai.	00:05:14;
+
+[PlayVoice]=00:03:07	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0050	0	yko	00:05:14;
+
+[PrintText]=00:05:11	Makoto	Ah, no ...	00:06:17;
+
+[PlayVoice]=00:05:11	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0060	1	mak	00:06:17;
+
+[PrintText]=00:06:13	Madre de Sekai	He oído que eres su novio.	00:08:17;
+
+[PlayVoice]=00:06:13	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0070	0	yko	00:08:17;
+
+[PrintText]=00:08:15	Makoto	N-no, en serio, no soy...	00:12:01;
+
+[PlayVoice]=00:08:15	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0080	1	mak	00:12:01;
+
+[CreateBG]=00:11:23	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-003	00:18:13;
+
+[PrintText]=00:11:23	Madre de Sekai	Tú eres Makoto-kun ¿Verdad? Sekai me ha hablado mucho de ti.	00:16:21;
+
+[PlayVoice]=00:11:23	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0090	0	yko	00:16:21;
+
+[PrintText]=00:17:05	Makoto	Haah ...	00:18:09;
+
+[PlayVoice]=00:17:05	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0100	1	mak	00:18:09;
+
+[CreateBG]=00:18:13	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-004	00:30:20;
+
+[PrintText]=00:18:17	Madre de Sekai	Eres la chica que estuvo con Se-chan en la ceremonia de entrada, ¿no es así?..¿o eras el chico..?^	00:28:13;
+
+[PlayVoice]=00:18:17	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0110	0	yko	00:28:13;
+
+[PrintText]=00:28:18	Makoto	¿Se ...Chan?^	00:30:15;
+
+[PlayVoice]=00:28:18	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0120	1	mak	00:30:15;
+
+[CreateBG]=00:30:20	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-005	00:44:17;
+
+[PrintText]=00:30:23	Madre de Sekai	La amiga de la infancia de Sekai, Se-chan.	00:34:00;
+
+[PlayVoice]=00:30:23	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0130	0	yko	00:34:00;
+
+[PrintText]=00:34:00	Makoto	¿Quiere decir Kiyoura ...?^	00:37:13;
+
+[PlayVoice]=00:34:00	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0140	1	mak	00:37:13;
+
+[PrintText]=00:37:12	Madre de Sekai	Sí, Kiyoura Setsuna-chan.	00:40:03;
+
+[PlayVoice]=00:37:12	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0150	0	yko	00:40:03;
+
+[PrintText]=00:40:07	Makoto	Ah ... Sí, creo que eso pasó.	00:44:16;
+
+[PlayVoice]=00:40:07	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0160	1	mak	00:44:16;
+
+[PrintText]=00:44:16	Madre de Sekai	Se-chan y Sekai siempre está hablando de ti, así que realmente no se siente como si fuese la primera vez que hablara contigo.	00:51:14;
+
+[PlayVoice]=00:44:16	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0170	0	yko	00:51:14;
+
+[CreateBG]=00:44:17	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-006	00:54:20;
+
+[PrintText]=00:51:14	Makoto	¿En serio?^	00:52:22;
+
+[PlayVoice]=00:51:14	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0180	1	mak	00:52:22;
+
+[PrintText]=00:52:22	Madre de Sekai	Quise decir, Sekai siempre está...	00:55:07;
+
+[PlayVoice]=00:52:22	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0190	0	yko	00:55:07;
+
+[CreateBG]=00:54:20	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-007	00:58:04;
+
+[PrintText]=00:54:20	Sekai	¡Mamá!	00:56:18;
+
+[PlayVoice]=00:54:20	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0200	0	sek	00:56:18;
+
+[PrintText]=00:56:14	Madre de Sekai	Oh, Sekai.	00:58:04;
+
+[PlayVoice]=00:56:14	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0220	0	yko	00:58:04;
+
+[CreateBG]=00:58:04	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-008	01:02:01;
+
+[PrintText]=00:58:06	Sekai	¡Deja de darle ese tipo de información!	01:00:17;
+
+[PlayVoice]=00:58:06	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0230	0	sek	01:00:17;
+
+[PrintText]=01:00:20	Madre de Sekai	¿Ehhh?^	01:01:19;
+
+[PlayVoice]=01:00:20	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0240	0	yko	01:01:19;
+
+[CreateBG]=01:02:01	BGS	Event02/02-2K/02-2K-Q02/02-2K-Q02-009	01:10:07;
+
+[PrintText]=01:02:01	Sekai	Venga, Makoto. Vamos a mi cuarto.	01:04:20;
+
+[PlayVoice]=01:02:01	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0250	0	sek	01:04:20;
+
+[PrintText]=01:04:17	Makoto	V-Vale.	01:06:03;
+
+[PlayVoice]=01:04:17	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0260	1	mak	01:06:03;
+
+[PrintText]=01:05:21	Madre de Sekai	Ufufu... estás en tu casa, 'Makoto-kun'.	01:10:06;
+
+[PlayVoice]=01:05:21	Voice02/02-2K/02-2K-Q02/02-2K-Q02-0270	0	yko	01:10:06;
+
+ ;
+
+[Next]=01:10:07;
+
+
+
+

@@ -1,0 +1,147 @@
+﻿[SkipFRAME]=01:30:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	01:30:04;
+
+[PlaySe]=00:00:00	1	Voice02/02-2S/02-2S-A01/02-2S-A01-0050	00:09:06;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-001	00:09:02;
+
+[CreateBG]=00:09:02	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-002	00:11:00;
+
+[PrintText]=00:09:02	Madre de Kotonoha	Oh, Kotonoha.	00:10:20;
+
+[PlayVoice]=00:09:02	Voice02/02-2S/02-2S-A01/02-2S-A01-0070	0	man	00:10:20;
+
+[CreateBG]=00:11:00	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-003	00:16:01;
+
+[PrintText]=00:11:00	Kotonoha	Ah, Mamá, estás en casa.	00:14:03;
+
+[PlayVoice]=00:11:00	Voice02/02-2S/02-2S-A01/02-2S-A01-0080	0	kot	00:14:03;
+
+[PrintText]=00:14:03	Madre de Kotonoha	Sí, solo por ahora ¿Y esa Ropa?^	00:17:20;
+
+[PlayVoice]=00:14:03	Voice02/02-2S/02-2S-A01/02-2S-A01-0090	0	man	00:17:20;
+
+[CreateBG]=00:16:01	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-004	00:20:15;
+
+[PrintText]=00:17:22	Kotonoha	Voy a cambiarme ahora mismo. Estás viniendo a casa temprano estos días.	00:24:08;
+
+[PlayVoice]=00:17:22	Voice02/02-2S/02-2S-A01/02-2S-A01-0100	0	kot	00:24:08;
+
+[CreateBG]=00:20:15	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-005	00:30:09;
+
+[PrintText]=00:24:08	Madre de Kotonoha	Sí, es mi manera de compensar mis ausencias. Sin embargo... pronto volveré a venir tarde del trabajo.	00:30:08;
+
+[PlayVoice]=00:24:08	Voice02/02-2S/02-2S-A01/02-2S-A01-0110	0	man	00:30:08;
+
+[CreateBG]=00:30:09	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-006	00:45:16;
+
+[PrintText]=00:30:09	Kokoro	¿Ehhh?^	00:31:20;
+
+[PlayVoice]=00:30:09	Voice02/02-2S/02-2S-A01/02-2S-A01-0120	0	kok	00:31:20;
+
+[PrintText]=00:31:22	Madre de Kotonoha	Así que ... ¿Cómo te fue hoy?^	00:35:17;
+
+[PlayVoice]=00:31:22	Voice02/02-2S/02-2S-A01/02-2S-A01-0130	0	man	00:35:17;
+
+[PrintText]=00:35:17	Kotonoha	¿Qué quieres decir?^	00:37:06;
+
+[PlayVoice]=00:35:17	Voice02/02-2S/02-2S-A01/02-2S-A01-0140	0	kot	00:37:06;
+
+[PrintText]=00:37:10	Madre de Kotonoha	La limonada. ¿El estaba contento?^	00:40:02;
+
+[PlayVoice]=00:37:10	Voice02/02-2S/02-2S-A01/02-2S-A01-0150	0	man	00:40:02;
+
+[PrintText]=00:40:05	Kotonoha	Ah...	00:41:04;
+
+[PlayVoice]=00:40:05	Voice02/02-2S/02-2S-A01/02-2S-A01-0160	0	kot	00:41:04;
+
+[PrintText]=00:41:08	Madre de Kotonoha	Vamos, no lo mantengas en secreto. Dime.	00:45:12;
+
+[PlayVoice]=00:41:08	Voice02/02-2S/02-2S-A01/02-2S-A01-0180	0	man	00:45:12;
+
+[CreateBG]=00:45:16	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-007	00:55:01;
+
+[PrintText]=00:45:23	Kotonoha	Um, bueno... Sí.	00:49:16;
+
+[PlayVoice]=00:45:23	Voice02/02-2S/02-2S-A01/02-2S-A01-0190	0	kot	00:49:16;
+
+[PrintText]=00:49:21	Madre de Kotonoha	¡Ooh! Me alegro de oirlo.	00:52:00;
+
+[PlayVoice]=00:49:21	Voice02/02-2S/02-2S-A01/02-2S-A01-0200	0	man	00:52:00;
+
+[PrintText]=00:52:02	Kotonoha	Sí. Gracias, Mamá.	00:54:20;
+
+[PlayVoice]=00:52:02	Voice02/02-2S/02-2S-A01/02-2S-A01-0210	0	kot	00:54:20;
+
+[CreateBG]=00:55:01	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-008	00:57:21;
+
+[PrintText]=00:55:01	Madre de Kotonoha	Eso está bien... oh, ya sé. Toma esto.	00:59:06;
+
+[PlayVoice]=00:55:01	Voice02/02-2S/02-2S-A01/02-2S-A01-0220	0	man	00:59:06;
+
+[CreateBG]=00:57:21	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-009	01:10:09;
+
+[PrintText]=00:59:05	Kotonoha	¿Eh...? ¿Qué es esto?^	01:01:02;
+
+[PlayVoice]=00:59:05	Voice02/02-2S/02-2S-A01/02-2S-A01-0230	0	kot	01:01:02;
+
+[PrintText]=01:01:08	Madre de Kotonoha	Entradas de Cine. Los Conseguí de un cliente.	01:05:02;
+
+[PlayVoice]=01:01:08	Voice02/02-2S/02-2S-A01/02-2S-A01-0250	0	man	01:05:02;
+
+[PrintText]=01:05:04	Kotonoha	¿Una Película, huh...?^	01:06:15;
+
+[PlayVoice]=01:05:04	Voice02/02-2S/02-2S-A01/02-2S-A01-0260	0	kot	01:06:15;
+
+[PrintText]=01:06:18	Madre de Kotonoha	Ah, no te lo voy a dar si te vas a poner así.	01:10:04;
+
+[PlayVoice]=01:06:18	Voice02/02-2S/02-2S-A01/02-2S-A01-0270	0	man	01:10:04;
+
+[CreateBG]=01:10:09	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-010	01:15:12;
+
+[PrintText]=01:10:11	Kotonoha	Pero he ido al cine hace poco.	01:13:13;
+
+[PlayVoice]=01:10:11	Voice02/02-2S/02-2S-A01/02-2S-A01-0280	0	kot	01:13:13;
+
+[PrintText]=01:13:12	Madre de Kotonoha	¿Con ese chico?^	01:14:13;
+
+[PlayVoice]=01:13:12	Voice02/02-2S/02-2S-A01/02-2S-A01-0290	0	man	01:14:13;
+
+[PrintText]=01:14:17	Kotonoha	Sí.	01:15:08;
+
+[PlayVoice]=01:14:17	Voice02/02-2S/02-2S-A01/02-2S-A01-0300	0	kot	01:15:08;
+
+[CreateBG]=01:15:12	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-004	01:19:05;
+
+[PrintText]=01:15:12	Madre de Kotonoha	Wow ... ya veo.	01:17:11;
+
+[PlayVoice]=01:15:12	Voice02/02-2S/02-2S-A01/02-2S-A01-0310	0	man	01:17:11;
+
+[PrintText]=01:17:07	Kotonoha	Oh, pero me los quedo de todos modos. Si es una película diferente, está bien.	01:22:04;
+
+[PlayVoice]=01:17:07	Voice02/02-2S/02-2S-A01/02-2S-A01-0320	0	kot	01:22:04;
+
+[CreateBG]=01:19:05	BGS	Event02/02-2S/02-2S-A01/02-2S-A01-012	01:30:04;
+
+[PrintText]=01:22:02	Madre de Kotonoha	Es un remake de una vieja película de romance.	01:24:20;
+
+[PlayVoice]=01:22:02	Voice02/02-2S/02-2S-A01/02-2S-A01-0330	0	man	01:24:20;
+
+[PrintText]=01:24:17	Kotonoha	Suena bien, entonces, ¿Puedo tenerlos?^	01:27:20;
+
+[PlayVoice]=01:24:17	Voice02/02-2S/02-2S-A01/02-2S-A01-0340	0	kot	01:27:20;
+
+[PrintText]=01:27:19	Madre de Kotonoha	Seguro.	01:29:01;
+
+[PlayVoice]=01:27:19	Voice02/02-2S/02-2S-A01/02-2S-A01-0350	0	man	01:29:01;
+
+[BlackFade]=01:29:04	OUT	01:30:04;
+
+ ;
+
+[Next]=01:30:04;
+
+
+
+

@@ -1,0 +1,157 @@
+﻿[SkipFRAME]=01:16:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	01:22:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-001	00:02:03;
+
+[PrintText]=00:02:02	Taisuke	Cielos, se hizo tarde.	00:04:00;
+
+[PlayVoice]=00:02:02	Voice04/04-SA/04-SA-N00/04-SA-N00-0040	1	tai	00:04:00;
+
+[CreateBG]=00:02:03	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-002	00:04:02;
+
+[CreateBG]=00:04:02	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-003	00:06:01;
+
+[PrintText]=00:04:04	Kotonoha	Sí, tienes razón.	00:05:17;
+
+[PlayVoice]=00:04:04	Voice04/04-SA/04-SA-N00/04-SA-N00-0050	0	kot	00:05:17;
+
+[PrintText]=00:05:22	Hikari	...	00:07:07;
+
+[PlayVoice]=00:05:22	Voice04/04-SA/04-SA-N00/04-SA-N00-0060	0	xxx	00:07:07;
+
+[CreateBG]=00:06:01	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-004	00:07:13;
+
+[PrintText]=00:07:11	Makoto	Disculpen! Tenía algo que hacer.	00:09:16;
+
+[PlayVoice]=00:07:11	Voice04/04-SA/04-SA-N00/04-SA-N00-0090	1	mak	00:09:16;
+
+[CreateBG]=00:07:13	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-005	00:13:03;
+
+[PrintText]=00:09:13	Taisuke	Vienes tarde.	00:10:17;
+
+[PlayVoice]=00:09:13	Voice04/04-SA/04-SA-N00/04-SA-N00-0100	1	tai	00:10:17;
+
+[PrintText]=00:11:01	Makoto	Tuve algunos problemas en casa.	00:13:08;
+
+[PlayVoice]=00:11:01	Voice04/04-SA/04-SA-N00/04-SA-N00-0110	1	mak	00:13:08;
+
+[CreateBG]=00:13:03	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-006a	00:14:18;
+
+[PrintText]=00:13:09	Taisuke	¿Problemas familiares?^	00:14:16;
+
+[PlayVoice]=00:13:09	Voice04/04-SA/04-SA-N00/04-SA-N00-0120	1	tai	00:14:16;
+
+[PrintText]=00:14:16	Makoto	Pues... mi hermana quería venir y estar con nosotros.	00:19:13;
+
+[PlayVoice]=00:14:16	Voice04/04-SA/04-SA-N00/04-SA-N00-0130	1	mak	00:19:13;
+
+[CreateBG]=00:14:18	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-006b	00:19:14;
+
+[PrintText]=00:19:13	Taisuke	Pues la hubieras traído contigo.	00:21:08;
+
+[PlayVoice]=00:19:13	Voice04/04-SA/04-SA-N00/04-SA-N00-0140	1	tai	00:21:08;
+
+[CreateBG]=00:19:14	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-006c	00:45:08;
+
+[PrintText]=00:21:08	Makoto	Bueno, parece que salió sin el permiso de mi padre... y la tuve que cubrir.	00:28:05;
+
+[PlayVoice]=00:21:08	Voice04/04-SA/04-SA-N00/04-SA-N00-0150	1	mak	00:28:05;
+
+[PrintText]=00:28:05	Taisuke	Ya veo, vives con tu madre ¿No?^	00:31:14;
+
+[PlayVoice]=00:28:05	Voice04/04-SA/04-SA-N00/04-SA-N00-0160	1	tai	00:31:14;
+
+[PrintText]=00:31:14	Makoto	Fue su cumpleaños esta semana, así que hicimos una fiesta. Ella estaba tan feliz que estaba hablando acerca de quedarse en nuestra casa...	00:39:22;
+
+[PlayVoice]=00:31:14	Voice04/04-SA/04-SA-N00/04-SA-N00-0170	1	mak	00:39:22;
+
+[PrintText]=00:39:23	Makoto	Haah. ¡En serio, discúlpenme!	00:43:01;
+
+[PlayVoice]=00:39:23	Voice04/04-SA/04-SA-N00/04-SA-N00-0171	1	mak	00:43:01;
+
+[PrintText]=00:43:01	Taisuke	No te preocupes. Vamos.	00:45:09;
+
+[PlayVoice]=00:43:01	Voice04/04-SA/04-SA-N00/04-SA-N00-0180	1	tai	00:45:09;
+
+[CreateBG]=00:45:08	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-007	00:47:17;
+
+[PrintText]=00:45:09	Makoto	¿Huh...?^	00:46:01;
+
+[PlayVoice]=00:45:09	Voice04/04-SA/04-SA-N00/04-SA-N00-0190	1	mak	00:46:01;
+
+[PrintText]=00:46:00	Taisuke	¿Qué pasa?^	00:46:22;
+
+[PlayVoice]=00:46:00	Voice04/04-SA/04-SA-N00/04-SA-N00-0200	1	tai	00:46:22;
+
+[PrintText]=00:46:22	Makoto	¿Donde está Sekai?^	00:47:23;
+
+[PlayVoice]=00:46:22	Voice04/04-SA/04-SA-N00/04-SA-N00-0210	1	mak	00:47:23;
+
+[CreateBG]=00:47:17	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-008	00:51:12;
+
+[PrintText]=00:47:23	Hikari	Sekai dijo que no podía venir porque tenía algo urgente que hacer.	00:51:12;
+
+[PlayVoice]=00:47:23	Voice04/04-SA/04-SA-N00/04-SA-N00-0220	0	hik	00:51:12;
+
+[CreateBG]=00:51:12	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-009	00:56:09;
+
+[PrintText]=00:51:12	Kotonoha	Intente llamarla después de escuchar eso.	00:56:11;
+
+[PlayVoice]=00:51:12	Voice04/04-SA/04-SA-N00/04-SA-N00-0230	0	kot	00:56:11;
+
+[CreateBG]=00:56:09	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-010	00:59:02;
+
+[PrintText]=00:56:11	Makoto	¿La llamaste?^	00:58:11;
+
+[PlayVoice]=00:56:11	Voice04/04-SA/04-SA-N00/04-SA-N00-0240	1	mak	00:58:11;
+
+[PrintText]=00:58:10	Kotonoha	Sí.	00:59:03;
+
+[PlayVoice]=00:58:10	Voice04/04-SA/04-SA-N00/04-SA-N00-0250	0	kot	00:59:03;
+
+[CreateBG]=00:59:02	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-011	01:04:11;
+
+[PrintText]=00:59:03	Taisuke	Bueno, tenemos las entradas de todas maneras, así que vamos a estar bien.	01:03:03;
+
+[PlayVoice]=00:59:03	Voice04/04-SA/04-SA-N00/04-SA-N00-0260	1	tai	01:03:03;
+
+[PrintText]=01:03:02	Kotonoha	Sí, tienes razón.	01:04:10;
+
+[PlayVoice]=01:03:02	Voice04/04-SA/04-SA-N00/04-SA-N00-0270	0	kot	01:04:10;
+
+[PrintText]=01:04:10	Makoto	...	01:05:12;
+
+[PlayVoice]=01:04:10	Voice04/04-SA/04-SA-N00/04-SA-N00-0280	1	xxx	01:05:12;
+
+[CreateBG]=01:04:11	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-012	01:06:07;
+
+[CreateBG]=01:06:07	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-013	01:11:04;
+
+[PrintText]=01:07:08	Sekai	Dejamelo a mí. Tengo un gran plan.	01:10:09;
+
+[PlayVoice]=01:07:08	Voice04/04-SA/04-SA-N00/04-SA-N00-0310	0	sek	01:10:09;
+
+[CreateBG]=01:11:04	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-014	01:15:01;
+
+[PrintText]=01:12:05	Makoto	¿A eso se refería?^	01:14:07;
+
+[PlayVoice]=01:12:05	Voice04/04-SA/04-SA-N00/04-SA-N00-0330	1	mak	01:14:07;
+
+[PrintText]=01:14:08	Taisuke	¿Huh?^	01:15:00;
+
+[PlayVoice]=01:14:08	Voice04/04-SA/04-SA-N00/04-SA-N00-0340	1	tai	01:15:00;
+
+[PrintText]=01:15:00	Makoto	Sekai...	01:16:03;
+
+[PlayVoice]=01:15:00	Voice04/04-SA/04-SA-N00/04-SA-N00-0350	1	mak	01:16:03;
+
+[CreateBG]=01:15:01	BGS	Event04/04-SA/04-SA-N00/04-SA-N00-015	01:22:07;
+
+[SetSELECT]=01:16:03	*Ir donde Sekai*	*Quedarse y ayudar a Hikari*	01:21:03;
+
+ ;
+
+[Next]=01:22:07;
+
+

@@ -1,0 +1,313 @@
+﻿[SkipFRAME]=03:45:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	03:51:06;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event00/00-00/00-00-H00/00-00-H00-002	00:04:12;
+
+[PrintText]=00:02:00	Makoto	...	00:03:01;
+
+[PlayVoice]=00:02:00	Voice01/01-1K/01-1K-C00/01-1K-C00-0040	1	xxx	00:03:01;
+
+[PrintText]=00:03:17	Sekai	¿Alo?^	00:04:09;
+
+[PlayVoice]=00:03:17	Voice01/01-1K/01-1K-C00/01-1K-C00-0050	0	sek	00:04:09;
+
+[CreateBG]=00:04:12	BGS	Event00/00-00/00-00-H00/00-00-H00-003	00:09:12;
+
+[PrintText]=00:04:12	Makoto	Sekai, soy yo.	00:06:20;
+
+[PlayVoice]=00:04:12	Voice01/01-1K/01-1K-C00/01-1K-C00-0060	1	mak	00:06:20;
+
+[PrintText]=00:06:13	Sekai	Uh-huh.	00:07:10;
+
+[PlayVoice]=00:06:13	Voice01/01-1K/01-1K-C00/01-1K-C00-0070	0	sek	00:07:10;
+
+[PrintText]=00:07:13	Makoto	Ah... ¿No es un buen momento?^	00:09:09;
+
+[PlayVoice]=00:07:13	Voice01/01-1K/01-1K-C00/01-1K-C00-0080	1	mak	00:09:09;
+
+[CreateBG]=00:09:12	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-004	00:11:17;
+
+[CreateBG]=00:11:17	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-005	00:13:20;
+
+[PrintText]=00:11:17	Sekai	Ah, Sí... Dime.	00:13:20;
+
+[PlayVoice]=00:11:17	Voice01/01-1K/01-1K-C00/01-1K-C00-0110	0	sek	00:13:20;
+
+[CreateBG]=00:13:20	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-006	00:34:08;
+
+[PrintText]=00:13:20	Makoto	Escucha, gracias por los cupones.	00:18:02;
+
+[PlayVoice]=00:13:20	Voice01/01-1K/01-1K-C00/01-1K-C00-0130	1	mak	00:18:02;
+
+[PrintText]=00:17:23	Sekai	Ahaha... Disculpa que fueran solo cupones.	00:21:03;
+
+[PlayVoice]=00:17:23	Voice01/01-1K/01-1K-C00/01-1K-C00-0140	0	sek	00:21:03;
+
+[PrintText]=00:21:03	Makoto	Está bien, pero... ¿Que película debería ir a ver con ella?^	00:26:20;
+
+[PlayVoice]=00:21:03	Voice01/01-1K/01-1K-C00/01-1K-C00-0150	1	mak	00:26:20;
+
+[PrintText]=00:26:20	Sekai	¿Eh?^	00:27:09;
+
+[PlayVoice]=00:26:20	Voice01/01-1K/01-1K-C00/01-1K-C00-0160	0	sek	00:27:09;
+
+[PrintText]=00:27:14	Makoto	Este cupón funciona para varias películas, y no estoy seguro de cual ver.	00:34:08;
+
+[PlayVoice]=00:27:14	Voice01/01-1K/01-1K-C00/01-1K-C00-0170	1	mak	00:34:08;
+
+[CreateBG]=00:34:08	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-007	00:44:19;
+
+[PrintText]=00:34:08	Sekai	¿Por qué no le preguntas a Katsura-san?^	00:36:22;
+
+[PlayVoice]=00:34:08	Voice01/01-1K/01-1K-C00/01-1K-C00-0180	0	sek	00:36:22;
+
+[PrintText]=00:36:23	Makoto	¡Tonta! No quiero malograr el momento.	00:39:08;
+
+[PlayVoice]=00:36:23	Voice01/01-1K/01-1K-C00/01-1K-C00-0190	1	mak	00:39:08;
+
+[PrintText]=00:39:08	Sekai	¿Por qué me preguntas a mí?^	00:41:10;
+
+[PlayVoice]=00:39:08	Voice01/01-1K/01-1K-C00/01-1K-C00-0200	0	sek	00:41:10;
+
+[PrintText]=00:41:07	Makoto	Eres alguien en quién se puede confiar este tipo de cosas ¿Sabes?^	00:44:19;
+
+[PlayVoice]=00:41:07	Voice01/01-1K/01-1K-C00/01-1K-C00-0210	1	mak	00:44:19;
+
+[CreateBG]=00:44:19	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-008	01:11:15;
+
+[PrintText]=00:44:19	Sekai	¿Ahora lo soy...? Tal vez por sugerir algo a Katsura-san puede no gustarle.	00:50:07;
+
+[PlayVoice]=00:44:19	Voice01/01-1K/01-1K-C00/01-1K-C00-0220	0	sek	00:50:07;
+
+[PrintText]=00:50:07	Makoto	Deja de jugar.	00:52:00;
+
+[PlayVoice]=00:50:07	Voice01/01-1K/01-1K-C00/01-1K-C00-0230	1	mak	00:52:00;
+
+[PrintText]=00:52:00	Sekai	Ahaha... Bueno, ¿Que está en cartelera ahora?^	00:56:03;
+
+[PlayVoice]=00:52:00	Voice01/01-1K/01-1K-C00/01-1K-C00-0240	0	sek	00:56:03;
+
+[PrintText]=00:56:03	Makoto	Déjame ver...Hay una película de fantasía llamado El Silmaril-y algo más.	01:03:09;
+
+[PlayVoice]=00:56:03	Voice01/01-1K/01-1K-C00/01-1K-C00-0250	1	mak	01:03:09;
+
+[PrintText]=01:03:10	Sekai	Fantasía, huh.	01:05:10;
+
+[PlayVoice]=01:03:10	Voice01/01-1K/01-1K-C00/01-1K-C00-0260	0	sek	01:05:10;
+
+[PrintText]=01:05:11	Makoto	Aquí hay otro de un 'Triangulo de Amor' ¿Romance, tal vez?^	01:11:14;
+
+[PlayVoice]=01:05:11	Voice01/01-1K/01-1K-C00/01-1K-C00-0270	1	mak	01:11:14;
+
+[CreateBG]=01:11:15	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-006	01:17:22;
+
+[PrintText]=01:11:15	Sekai	Oh, sí. Salio un comercial de ello en TV, trataba de lo que comentas.	01:17:21;
+
+[PlayVoice]=01:11:15	Voice01/01-1K/01-1K-C00/01-1K-C00-0280	0	sek	01:17:21;
+
+[CreateBG]=01:17:22	BGS	Event00/00-00/00-00-H00/00-00-H00-002	01:45:13;
+
+[PrintText]=01:17:22	Makoto	Aquí otro que dice 'Peleando con Nemo'. Es una película Animada en 3D que trata de un capitán peleando en su barco fantasma...¿Es una comedia creo?^	01:27:03;
+
+[PlayVoice]=01:17:22	Voice01/01-1K/01-1K-C00/01-1K-C00-0290	1	mak	01:27:03;
+
+[PrintText]=01:27:03	Sekai	¡'Nemo'! ¡Suena lindo!	01:29:07;
+
+[PlayVoice]=01:27:03	Voice01/01-1K/01-1K-C00/01-1K-C00-0300	0	sek	01:29:07;
+
+[PrintText]=01:29:08	Makoto	Pero es para niños.	01:31:00;
+
+[PlayVoice]=01:29:08	Voice01/01-1K/01-1K-C00/01-1K-C00-0310	1	mak	01:31:00;
+
+[PrintText]=01:31:01	Sekai	¿Ehh? ¿Cual es el problema con eso? A mi me gusta.	01:34:09;
+
+[PlayVoice]=01:31:01	Voice01/01-1K/01-1K-C00/01-1K-C00-0320	0	sek	01:34:09;
+
+[PrintText]=01:34:10	Makoto	¿Debería ir por Nemo entonces?^	01:36:00;
+
+[PlayVoice]=01:34:10	Voice01/01-1K/01-1K-C00/01-1K-C00-0330	1	mak	01:36:00;
+
+[PrintText]=01:36:00	Sekai	Hmmm...	01:37:16;
+
+[PlayVoice]=01:36:00	Voice01/01-1K/01-1K-C00/01-1K-C00-0340	0	sek	01:37:16;
+
+[PrintText]=01:37:16	Makoto	¿N-no? pues entonces...	01:41:08;
+
+[PlayVoice]=01:37:16	Voice01/01-1K/01-1K-C00/01-1K-C00-0350	1	mak	01:41:08;
+
+[PrintText]=01:41:10	Sekai	¿Cual crees que es el mejor?^	01:43:11;
+
+[PlayVoice]=01:41:10	Voice01/01-1K/01-1K-C00/01-1K-C00-0360	0	sek	01:43:11;
+
+[PrintText]=01:43:05	Makoto	No lo sé, por eso te pregunto.	01:45:12;
+
+[PlayVoice]=01:43:05	Voice01/01-1K/01-1K-C00/01-1K-C00-0370	1	mak	01:45:12;
+
+[CreateBG]=01:45:13	BGS	Event00/00-00/00-00-H00/00-00-H00-003	01:50:01;
+
+[PrintText]=01:45:13	Sekai	No es algo que Katsura-san quiera ver...	01:48:05;
+
+[PlayVoice]=01:45:13	Voice01/01-1K/01-1K-C00/01-1K-C00-0380	0	sek	01:48:05;
+
+[PrintText]=01:48:05	Makoto	¿...Pero de lo que yo quiero ver?^	01:50:01;
+
+[PlayVoice]=01:48:05	Voice01/01-1K/01-1K-C00/01-1K-C00-0390	1	mak	01:50:01;
+
+[CreateBG]=01:50:01	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-007	02:08:00;
+
+[PrintText]=01:50:01	Sekai	Eso tampoco sirve de algo. Escucha ¿Que película crees que deberían ver los dos?^	01:57:03;
+
+[PlayVoice]=01:50:01	Voice01/01-1K/01-1K-C00/01-1K-C00-0400	0	sek	01:57:03;
+
+[PrintText]=01:57:04	Makoto	Una película que quisiera ver con ella...	01:59:14;
+
+[PlayVoice]=01:57:04	Voice01/01-1K/01-1K-C00/01-1K-C00-0410	1	mak	01:59:14;
+
+[PrintText]=01:59:14	Sekai	¡Sip!	02:00:03;
+
+[PlayVoice]=01:59:14	Voice01/01-1K/01-1K-C00/01-1K-C00-0420	0	sek	02:00:03;
+
+[PrintText]=02:00:03	Makoto	Juntos, pues...	02:02:05;
+
+[PlayVoice]=02:00:03	Voice01/01-1K/01-1K-C00/01-1K-C00-0430	1	mak	02:02:05;
+
+[PrintText]=02:02:05	Sekai	¡Vamos, piénsalo!	02:04:07;
+
+[PlayVoice]=02:02:05	Voice01/01-1K/01-1K-C00/01-1K-C00-0440	0	sek	02:04:07;
+
+[PrintText]=02:04:08	Makoto	Hmmm...	02:07:00;
+
+[PlayVoice]=02:04:08	Voice01/01-1K/01-1K-C00/01-1K-C00-0450	1	mak	02:07:00;
+
+[PrintText]=02:07:00	Sekai	Vale, colgaré ahora.	02:08:03;
+
+[PlayVoice]=02:07:00	Voice01/01-1K/01-1K-C00/01-1K-C00-0460	0	sek	02:08:03;
+
+[CreateBG]=02:08:00	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-012B	02:13:02;
+
+[PrintText]=02:08:00	Makoto	H-hey, espera. ¡No me has dicho nada hasta ahora!	02:11:14;
+
+[PlayVoice]=02:08:00	Voice01/01-1K/01-1K-C00/01-1K-C00-0470	1	mak	02:11:14;
+
+[PrintText]=02:11:04	Sekai	Lo hice.	02:12:07;
+
+[PlayVoice]=02:11:04	Voice01/01-1K/01-1K-C00/01-1K-C00-0480	0	sek	02:12:07;
+
+[PrintText]=02:12:02	Makoto	¡¿Entonces qué?!	02:13:06;
+
+[PlayVoice]=02:12:02	Voice01/01-1K/01-1K-C00/01-1K-C00-0490	1	mak	02:13:06;
+
+[CreateBG]=02:13:02	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-013A	02:21:15;
+
+[PrintText]=02:13:02	Sekai	Bueno, ya sabes, la película en sí no es importante.	02:17:03;
+
+[PlayVoice]=02:13:02	Voice01/01-1K/01-1K-C00/01-1K-C00-0500	0	sek	02:17:03;
+
+[PrintText]=02:17:03	Sekai	Se trata de los dos sentados en la ardiente oscuridad,	02:21:15;
+
+[PlayVoice]=02:17:03	Voice01/01-1K/01-1K-C00/01-1K-C00-0501	0	sek	02:25:22;
+
+[PrintText]=02:21:15	Sekai	Sostienes su mano, y transmiten sus sentimientos a través de como se sujetan ...	02:25:22;
+
+[CreateBG]=02:21:15	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-013B	02:25:23;
+
+[CreateBG]=02:25:23	BGS	Event00/00-00/00-00-H00/00-00-H00-002	02:54:10;
+
+[PrintText]=02:25:23	Sekai	¡Ahh! De pronto se ven el uno del otro y entonces... ¡Se besuquean!	02:36:15;
+
+[PlayVoice]=02:25:23	Voice01/01-1K/01-1K-C00/01-1K-C00-0520	0	sek	02:36:15;
+
+[PrintText]=02:36:12	Makoto	¡T-Tonta! ¡Yo no haría eso!	02:39:15;
+
+[PlayVoice]=02:36:12	Voice01/01-1K/01-1K-C00/01-1K-C00-0530	1	mak	02:39:15;
+
+[PrintText]=02:39:10	Sekai	Sí lo harías, es una cita.	02:41:15;
+
+[PlayVoice]=02:39:10	Voice01/01-1K/01-1K-C00/01-1K-C00-0540	0	sek	02:41:15;
+
+[PrintText]=02:41:13	Makoto	¿D-Debería? ¿Es lo que se hace en una cita?^	02:45:15;
+
+[PlayVoice]=02:41:13	Voice01/01-1K/01-1K-C00/01-1K-C00-0550	1	mak	02:45:15;
+
+[PrintText]=02:45:11	Sekai	Tal vez le debas dar un beso muy intenso.	02:48:21;
+
+[PlayVoice]=02:45:11	Voice01/01-1K/01-1K-C00/01-1K-C00-0560	0	sek	02:48:21;
+
+[PrintText]=02:48:14	Makoto	¿D-Debería?!	02:49:15;
+
+[PlayVoice]=02:48:14	Voice01/01-1K/01-1K-C00/01-1K-C00-0570	1	mak	02:49:15;
+
+[PrintText]=02:49:14	Sekai	¡Solo bromeo!, depende de ti.	02:54:06;
+
+[PlayVoice]=02:49:14	Voice01/01-1K/01-1K-C00/01-1K-C00-0580	0	sek	02:54:06;
+
+[CreateBG]=02:54:10	BGS	Event00/00-00/00-00-H00/00-00-H00-003	03:10:07;
+
+[PrintText]=02:54:10	Makoto	A-Aunque quisiera, Kotonoha no estar...	02:59:20;
+
+[PlayVoice]=02:54:10	Voice01/01-1K/01-1K-C00/01-1K-C00-0590	1	mak	02:59:20;
+
+[PrintText]=02:59:20	Sekai	Sí lo hace, entonces te hubiera rechazado la película.	03:03:20;
+
+[PlayVoice]=02:59:20	Voice01/01-1K/01-1K-C00/01-1K-C00-0600	0	sek	03:10:13;
+
+[PrintText]=03:03:20	Sekai	En realidad, probablemente significaría que no le gustas. Sí le gustas, no lo negará.	03:10:13;
+
+[CreateBG]=03:10:07	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-016	03:15:10;
+
+[PrintText]=03:10:07	Makoto	¿Sí? ¡¿En serio?!	03:13:23;
+
+[PlayVoice]=03:10:07	Voice01/01-1K/01-1K-C00/01-1K-C00-0610	1	mak	03:13:23;
+
+[PrintText]=03:13:23	Sekai	...Eres muy fácil de sobrellevar.	03:15:18;
+
+[PlayVoice]=03:13:23	Voice01/01-1K/01-1K-C00/01-1K-C00-0620	0	sek	03:15:18;
+
+[CreateBG]=03:15:10	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-017	03:23:20;
+
+[PrintText]=03:15:14	Makoto	¡¿Huh?! ¡¿Q-Qué?!	03:17:07;
+
+[PlayVoice]=03:15:14	Voice01/01-1K/01-1K-C00/01-1K-C00-0630	1	mak	03:17:07;
+
+[PrintText]=03:17:11	Sekai	Fwaaah... Me siento cansada. Puedes hacer el resto por ti solo.	03:23:23;
+
+[PlayVoice]=03:17:11	Voice01/01-1K/01-1K-C00/01-1K-C00-0640	0	sek	03:23:23;
+
+[CreateBG]=03:23:20	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-018	03:27:01;
+
+[PrintText]=03:23:20	Makoto	¡H-hey! Yo todavía..-.	03:25:21;
+
+[PlayVoice]=03:23:20	Voice01/01-1K/01-1K-C00/01-1K-C00-0650	1	mak	03:25:21;
+
+[CreateBG]=03:27:01	BGS	Event00/00-00/00-00-H00/00-00-H00-002	03:37:12;
+
+[PrintText]=03:27:15	Makoto	Tsk. ¿Qué pasa con ella? Hablando tan indiferente.	03:34:11;
+
+[PlayVoice]=03:27:15	Voice01/01-1K/01-1K-C00/01-1K-C00-0670	1	mak	03:34:11;
+
+[PrintText]=03:35:12	Makoto	...	03:37:01;
+
+[PlayVoice]=03:35:12	Voice01/01-1K/01-1K-C00/01-1K-C00-0680	1	xxx	03:37:01;
+
+[CreateBG]=03:37:12	BGS	Event01/01-1K/01-1K-C00/01-1K-C00-020	03:51:06;
+
+[PrintText]=03:37:12	Makoto	Una película que quiera ver con ella, huh...	03:41:18;
+
+[PlayVoice]=03:37:12	Voice01/01-1K/01-1K-C00/01-1K-C00-0690	1	mak	03:41:18;
+
+[PrintText]=03:43:00	Makoto	Una película que quiera ver con ella sería...	03:45:13;
+
+[PlayVoice]=03:43:00	Voice01/01-1K/01-1K-C00/01-1K-C00-0700	1	mak	03:45:13;
+
+[SetSELECT]=03:45:03	*Ver Silmaril*	*Ver El Triangulo de Amor*	03:50:03;
+
+ ;
+
+[Next]=03:51:06;
+
+
+
+

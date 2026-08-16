@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:25:16;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-B02/SE03-KA-B02-001	00:25:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-B02/03-KA-B02-001	00:15:00;
+
+[PrintText]=00:00:00	Makoto	Mañana, en la casa de Kotonoha...	00:02:19;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-B02/03-KA-B02-0030	1	mak	00:02:19;
+
+[PrintText]=00:04:02	Makoto	Estaremos en su cuarto, solos... estoy seguro que ella no se imagina nada.	00:14:12;
+
+[PlayVoice]=00:04:02	Voice03/03-KA/03-KA-B02/03-KA-B02-0040	1	mak	00:14:12;
+
+[CreateBG]=00:15:00	BGS	Event03/03-KA/03-KA-B02/03-KA-B02-002	00:25:16;
+
+[PrintText]=00:15:08	Makoto	En ese caso... tal vez podríamos tener algún progreso.	00:20:12;
+
+[PlayVoice]=00:15:08	Voice03/03-KA/03-KA-B02/03-KA-B02-0050	1	mak	00:20:12;
+
+[PrintText]=00:20:21	Makoto	...Creo que esperaré hasta mañana.	00:24:13;
+
+[PlayVoice]=00:20:21	Voice03/03-KA/03-KA-B02/03-KA-B02-0060	1	mak	00:24:13;
+
+[BlackFade]=00:24:16	OUT	00:25:16;
+
+ ;
+
+[Next]=00:25:16;
+
+

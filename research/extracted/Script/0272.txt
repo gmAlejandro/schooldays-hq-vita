@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:54:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:54:13;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-O05/02-2K-O05-001	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event02/02-2K/02-2K-O05/02-2K-O05-002	00:13:20;
+
+[PrintText]=00:03:06	Kotonoha	Wow, es muy tranquilo aquí en las afueras de la escuela.	00:08:19;
+
+[PlayVoice]=00:03:06	Voice02/02-2K/02-2K-O05/02-2K-O05-0030	0	kot	00:08:19;
+
+[PrintText]=00:08:19	Makoto	Sí, no hay más que un montón de bodegas aquí, así que las personas no vienen a menudo.	00:13:19;
+
+[PlayVoice]=00:08:19	Voice02/02-2K/02-2K-O05/02-2K-O05-0040	1	mak	00:13:19;
+
+[PrintText]=00:13:19	Kotonoha	Ya veo.	00:14:21;
+
+[PlayVoice]=00:13:19	Voice02/02-2K/02-2K-O05/02-2K-O05-0050	0	kot	00:14:21;
+
+[CreateBG]=00:13:20	BGS	Event02/02-2K/02-2K-O05/02-2K-O05-003	00:28:22;
+
+[PrintText]=00:14:22	Makoto	...	00:17:15;
+
+[PlayVoice]=00:14:22	Voice02/02-2K/02-2K-O05/02-2K-O05-0060	1	xxx	00:17:15;
+
+[PrintText]=00:17:15	Kotonoha	Ahora que lo pienso ¿Pasó algo en el almuerzo? No viniste, y tuve que almorzar sola... ufufu...	00:27:03;
+
+[PlayVoice]=00:17:15	Voice02/02-2K/02-2K-O05/02-2K-O05-0070	0	kot	00:27:03;
+
+[PrintText]=00:27:04	Makoto	...	00:28:22;
+
+[PlayVoice]=00:27:04	Voice02/02-2K/02-2K-O05/02-2K-O05-0080	1	xxx	00:28:22;
+
+[CreateBG]=00:28:22	BGS	Event02/02-2K/02-2K-O05/02-2K-O05-004	00:32:02;
+
+[PrintText]=00:28:22	Kotonoha	Um... ¿Makoto-kun?^	00:31:16;
+
+[PlayVoice]=00:28:22	Voice02/02-2K/02-2K-O05/02-2K-O05-0090	0	kot	00:31:16;
+
+[PrintText]=00:32:00	Makoto	Kotonoha...	00:33:04;
+
+[PlayVoice]=00:32:00	Voice02/02-2K/02-2K-O05/02-2K-O05-0100	1	mak	00:33:04;
+
+[CreateBG]=00:32:02	BGS	Event02/02-2K/02-2K-O05/02-2K-O05-005	00:33:05;
+
+[PlayMovie]=00:33:05	Movie02/02-2K/02-2K-O05/02-2K-O05-006	0	00:39:04;
+
+[PrintText]=00:33:05	Kotonoha	¡Ah... um...! ¿Makoto-kun?!	00:36:23;
+
+[PlayVoice]=00:33:05	Voice02/02-2K/02-2K-O05/02-2K-O05-0120	0	kot	00:36:23;
+
+[PrintText]=00:36:23	Makoto	¡Kotonoha...! ¡T-Te Amo!	00:42:13;
+
+[PlayVoice]=00:36:23	Voice02/02-2K/02-2K-O05/02-2K-O05-0130	1	mak	00:42:13;
+
+[CreateBG]=00:39:04	BGS	Event02/02-2K/02-2K-O05/02-2K-O05-007	00:49:19;
+
+[PrintText]=00:42:13	Kotonoha	¡No...! ¡E-Espera..!	00:45:21;
+
+[PlayVoice]=00:42:13	Voice02/02-2K/02-2K-O05/02-2K-O05-0140	0	kot	00:45:21;
+
+[PrintText]=00:45:20	Makoto	Umh... veamos ahora...	00:49:19;
+
+[PlayVoice]=00:45:20	Voice02/02-2K/02-2K-O05/02-2K-O05-0150	1	mak	00:49:19;
+
+[PlayMovie]=00:49:19	Movie02/02-2K/02-2K-O05/02-2K-O05-008	0	00:52:17;
+
+[PrintText]=00:49:19	Kotonoha	¡Ahh!	00:50:15;
+
+[PlayVoice]=00:49:19	Voice02/02-2K/02-2K-O05/02-2K-O05-0170	0	kot	00:50:15;
+
+[PrintText]=00:50:15	Makoto	¡T-Tus pechos..!	00:52:13;
+
+[PlayVoice]=00:50:15	Voice02/02-2K/02-2K-O05/02-2K-O05-0180	1	mak	00:52:13;
+
+[CreateBG]=00:52:17	BGS	System/Screen/Black	00:54:13;
+
+[PrintText]=00:52:17	Kotonoha	¡Kyaaaah!	00:53:19;
+
+[PlayVoice]=00:52:17	Voice02/02-2K/02-2K-O05/02-2K-O05-0200	0	kot	00:53:19;
+
+[PlaySe]=00:53:13	1	SysSe/SE_all/action/hirate	00:54:04;
+
+ ;
+
+[Next]=00:54:13;
+
+
+
+

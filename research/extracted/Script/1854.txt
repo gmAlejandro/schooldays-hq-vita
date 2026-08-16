@@ -1,0 +1,35 @@
+[SkipFRAME]=02:04:20;
+
+[PlaySe]=00:00:00	1	BGM/Vocal/SDV01	02:04:20;
+
+[PlayMovie]=00:00:00	System/OP/SDHQ_SEKAI	0	02:04:20;
+
+[PrintText]=00:00:00	Juego	Mentiras plásticas, soy feliz con solo mirarte^\n♪Plastic Lies... mitsumeru dake de mitasareta♪^	00:07:20;
+
+[PrintText]=00:08:00	Juego	Corazón de papel, ya no podemos volver a esos tiempos^\n♪Paper Heart... ano koro niwa modorenai kara♪^	00:16:00;
+
+[PrintText]=00:36:00	Juego	Quiero volver a verte y escuchar tu voz una vez más^\n♪Hitome anata ni aitakute... koe ga kikitakute♪^	00:43:00;
+
+[PrintText]=00:45:00	Juego	En una esquina de la calle me detuve a recordar^\n♪Kakenuketa machikado de... iki wo tometa♪^	00:51:00;
+
+[PrintText]=00:52:00	Juego	La sombra de los dos bajo la luna se encuentran por casualidad^\n♪Tsuki ga terasu futari no kage... fui ni kasanatte♪^	00:58:00;
+
+[PrintText]=01:00:00	Juego	Durando más de una eternidad, fue un momento único^\n♪Tachisukumu eien yori... nagai isshune♪^	01:06:20;
+
+[PrintText]=01:07:00	Juego	Siempre que estoy contigo me haces muy feliz^\n♪Itsumo anata no tonari de... hashagu watashi ga ita yo ne♪^	01:14:00;
+
+[PrintText]=01:15:00	Juego	Pero uno a uno desaparecen los lugares que me pertenecían^\n♪Hitotsu mata hitotsu kieru... watashi dake no basho♪^	01:23:00;
+
+[PrintText]=01:24:00	Juego	Mentiras plásticas, dije que estaba feliz con solo verte^\n♪Plastic Lies... mitsumeru yori wa shiawase to♪^	01:30:00;
+
+[PrintText]=01:32:00	Juego	Corazón de papel, sigo ocultando mis sentimientos^\n♪Paper Heart... jibun ni tsuita uso ga sawagu♪^	01:39:00;
+
+[PrintText]=01:40:00	Juego	Te amo tanto que me da vergüenza^\n♪Nasakenai hodo... ni aishiteru♪^	01:47:00;
+
+[PrintText]=01:48:00	Juego	Solo las pasiones sin refugio permanecerán^\n♪Yariba no nai... jounetsu dake nokotta♪^	01:53:00;
+
+[PrintText]=01:56:00	Juego	Pero aún así te amo...^\n♪But still I love you...♪^	02:01:00;
+
+ ;
+
+[Next]=02:04:20; 

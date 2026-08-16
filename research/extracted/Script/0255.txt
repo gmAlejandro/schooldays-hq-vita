@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:43:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:43:13;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-K08/02-2K-K08-001	00:03:09;
+
+[PrintText]=00:00:00	Makoto	Haah... haah... haah...	00:05:10;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-K08/02-2K-K08-0040	1	mak	00:05:10;
+
+[WhiteFade]=00:02:21	OUT	00:03:09;
+
+[CreateBG]=00:03:09	BGS	Event02/02-2K/02-2K-J05/02-2K-J05-004	00:09:15;
+
+[WhiteFade]=00:03:09	IN	00:03:21;
+
+[PrintText]=00:05:10	Makoto	Haah... haah...	00:09:14;
+
+[PlayVoice]=00:05:10	Voice02/02-2K/02-2K-K08/02-2K-K08-0060	1	mak	00:09:14;
+
+[WhiteFade]=00:09:03	OUT	00:09:15;
+
+[PrintText]=00:09:14	Makoto	Haah... haah... haah...	00:14:10;
+
+[PlayVoice]=00:09:14	Voice02/02-2K/02-2K-K08/02-2K-K08-0080	1	mak	00:14:10;
+
+[CreateBG]=00:09:15	BGS	Event02/02-2K/02-2K-K02/02-2K-K02-003	00:14:10;
+
+[WhiteFade]=00:09:15	IN	00:10:03;
+
+[WhiteFade]=00:13:22	OUT	00:14:10;
+
+[PlayMovie]=00:14:10	Movie02/02-2K/02-2K-J10/02-2K-J10-004	0	00:20:02;
+
+[PrintText]=00:14:10	Makoto	¡Kotonoha...! Haah... haah... haah...	00:19:20;
+
+[PlayVoice]=00:14:10	Voice02/02-2K/02-2K-K08/02-2K-K08-0100	1	mak	00:19:20;
+
+[WhiteFade]=00:14:10	IN	00:14:22;
+
+[PrintText]=00:19:20	Makoto	Haah... haah... phew...	00:26:06;
+
+[PlayVoice]=00:19:20	Voice02/02-2K/02-2K-K08/02-2K-K08-0120	1	mak	00:26:06;
+
+[PlayMovie]=00:20:02	Movie02/02-2K/02-2K-J10/02-2K-J10-006	0	00:22:23;
+
+[WhiteFade]=00:22:11	OUT	00:22:23;
+
+[CreateBG]=00:22:23	BGS	Event02/02-2K/02-2K-K08/02-2K-K08-005	00:29:07;
+
+[WhiteFade]=00:22:23	IN	00:23:11;
+
+[PlaySe]=00:26:06	1	Voice02/02-2K/02-2K-K08/02-2K-K08-0140	00:28:02;
+
+[WhiteFade]=00:26:20	OUT	00:29:07;
+
+[CreateBG]=00:29:07	BGS	Event02/02-2K/02-2K-K08/02-2K-K08-006	00:43:13;
+
+[WhiteFade]=00:29:07	IN	00:30:07;
+
+[PrintText]=00:30:07	Makoto	Haah... haah...	00:37:15;
+
+[PlayVoice]=00:30:07	Voice02/02-2K/02-2K-K08/02-2K-K08-0160	1	mak	00:37:15;
+
+[PrintText]=00:37:15	Makoto	Haah...	00:43:11;
+
+[PlayVoice]=00:37:15	Voice02/02-2K/02-2K-K08/02-2K-K08-0180	1	mak	00:43:11;
+
+[BlackFade]=00:42:13	OUT	00:43:13;
+
+ ;
+
+[Next]=00:43:13;
+
+
+
+

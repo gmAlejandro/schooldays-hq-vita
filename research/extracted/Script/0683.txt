@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:41:04;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-K05/SE03-KB-K05-001	00:41:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-K05/03-KB-K05-001	00:01:08;
+
+[PrintText]=00:00:00	Makoto	Sí.	00:01:07;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-K05/03-KB-K05-0030	1	mak	00:01:07;
+
+[CreateBG]=00:01:08	BGS	Event03/03-KB/03-KB-K05/03-KB-K05-002	00:10:03;
+
+[PrintText]=00:01:08	Otome	¡B-Bien! ¡Yo también estoy libre ahora!	00:06:03;
+
+[PlayVoice]=00:01:08	Voice03/03-KB/03-KB-K05/03-KB-K05-0040	0	oto	00:06:03;
+
+[PrintText]=00:06:03	Makoto	¿A sí?^	00:07:06;
+
+[PlayVoice]=00:06:03	Voice03/03-KB/03-KB-K05/03-KB-K05-0050	1	mak	00:07:06;
+
+[PrintText]=00:07:06	Otome	¿Así que por qué no caminamos juntos por ahí?^	00:10:02;
+
+[PlayVoice]=00:07:06	Voice03/03-KB/03-KB-K05/03-KB-K05-0060	0	oto	00:10:02;
+
+[PrintText]=00:10:02	Makoto	¡¿Eh?! ¿Ahora?^	00:11:23;
+
+[PlayVoice]=00:10:02	Voice03/03-KB/03-KB-K05/03-KB-K05-0070	1	mak	00:11:23;
+
+[CreateBG]=00:10:03	BGS	Event03/03-KB/03-KB-K05/03-KB-K05-003	00:12:00;
+
+[CreateBG]=00:12:00	BGS	Event03/03-KB/03-KB-K05/03-KB-K05-004	00:22:22;
+
+[PrintText]=00:12:00	Otome	Sí.	00:12:23;
+
+[PlayVoice]=00:12:00	Voice03/03-KB/03-KB-K05/03-KB-K05-0080	0	oto	00:12:23;
+
+[PrintText]=00:12:22	Makoto	¿No estás con Kanroji y las otras?^	00:16:18;
+
+[PlayVoice]=00:12:22	Voice03/03-KB/03-KB-K05/03-KB-K05-0090	1	mak	00:16:18;
+
+[PrintText]=00:16:18	Nanami	Yo iré a reunirme con mi novio.	00:19:15;
+
+[PlayVoice]=00:16:18	Voice03/03-KB/03-KB-K05/03-KB-K05-0100	0	nan	00:19:15;
+
+[PrintText]=00:19:15	Minami	Y es hora de nuestros turnos en la casa embrujada.	00:22:22;
+
+[PlayVoice]=00:19:15	Voice03/03-KB/03-KB-K05/03-KB-K05-0110	0	min	00:22:22;
+
+[CreateBG]=00:22:22	BGS	Event03/03-KB/03-KB-K05/03-KB-K05-005	00:32:02;
+
+[PrintText]=00:22:22	Makoto	Ya veo... entonces ¿Vamos?^	00:28:00;
+
+[PlayVoice]=00:22:22	Voice03/03-KB/03-KB-K05/03-KB-K05-0120	1	mak	00:28:00;
+
+[PrintText]=00:28:00	Otome	¡S-Sí!	00:29:13;
+
+[PlayVoice]=00:28:00	Voice03/03-KB/03-KB-K05/03-KB-K05-0130	0	oto	00:29:13;
+
+[PrintText]=00:29:12	Kotonoha	¡Ah! Aún no hemos terminado de hablar...	00:32:01;
+
+[PlayVoice]=00:29:12	Voice03/03-KB/03-KB-K05/03-KB-K05-0140	0	kot	00:32:01;
+
+[PrintText]=00:32:01	Makoto	Hablemos después de esto.	00:34:15;
+
+[PlayVoice]=00:32:01	Voice03/03-KB/03-KB-K05/03-KB-K05-0150	1	mak	00:34:15;
+
+[CreateBG]=00:32:02	BGS	Event03/03-KB/03-KB-K05/03-KB-K05-006	00:36:04;
+
+[PrintText]=00:34:15	Kotonoha	...	00:36:03;
+
+[PlayVoice]=00:34:15	Voice03/03-KB/03-KB-K05/03-KB-K05-0160	0	xxx	00:36:03;
+
+[CreateBG]=00:36:04	BGS	Event03/03-KB/03-KB-K05/03-KB-K05-007	00:41:04;
+
+[PrintText]=00:36:04	Otome	Vamos.	00:36:23;
+
+[PlayVoice]=00:36:04	Voice03/03-KB/03-KB-K05/03-KB-K05-0170	0	oto	00:36:23;
+
+ ;
+
+[Next]=00:41:04;
+
+

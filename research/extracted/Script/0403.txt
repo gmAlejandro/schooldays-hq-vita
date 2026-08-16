@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:12:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:12:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A0/03-A0-C02/03-A0-C02-001	00:04:17;
+
+[PrintText]=00:00:00	Setsuna	Sekai...	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-A0/03-A0-C02/03-A0-C02-0030	0	set	00:00:22;
+
+[PrintText]=00:00:21	Sekai	...	00:01:09;
+
+[PlayVoice]=00:00:21	Voice03/03-A0/03-A0-C02/03-A0-C02-0040	0	xxx	00:01:09;
+
+[PrintText]=00:01:22	Setsuna	¿Vendrás al festival?^	00:04:10;
+
+[PlayVoice]=00:01:22	Voice03/03-A0/03-A0-C02/03-A0-C02-0050	0	set	00:04:10;
+
+[CreateBG]=00:04:17	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-003	00:07:02;
+
+[PrintText]=00:05:00	Sekai	Me tomaré el día libre...	00:05:23;
+
+[PlayVoice]=00:05:00	Voice03/03-A0/03-A0-C02/03-A0-C02-0060	0	sek	00:05:23;
+
+[PrintText]=00:06:05	Setsuna	...Ya veo.	00:06:23;
+
+[PlayVoice]=00:06:05	Voice03/03-A0/03-A0-C02/03-A0-C02-0070	0	set	00:06:23;
+
+[CreateBG]=00:07:02	BGS	Event03/03-A0/03-A0-C02/03-A0-C02-003	00:12:19;
+
+[PrintText]=00:07:06	Sekai	...	00:07:17;
+
+[PlayVoice]=00:07:06	Voice03/03-A0/03-A0-C02/03-A0-C02-0080	0	xxx	00:07:17;
+
+[PrintText]=00:08:03	Setsuna	...	00:08:23;
+
+[PlayVoice]=00:08:03	Voice03/03-A0/03-A0-C02/03-A0-C02-0090	0	xxx	00:08:23;
+
+[PrintText]=00:09:09	Sekai	Lo siento.	00:10:10;
+
+[PlayVoice]=00:09:09	Voice03/03-A0/03-A0-C02/03-A0-C02-0100	0	sek	00:10:10;
+
+[PrintText]=00:10:14	Setsuna	Está bien.	00:11:12;
+
+[PlayVoice]=00:10:14	Voice03/03-A0/03-A0-C02/03-A0-C02-0110	0	set	00:11:12;
+
+[BlackFade]=00:11:19	OUT	00:12:19;
+
+ ;
+
+[Next]=00:12:19;
+
+

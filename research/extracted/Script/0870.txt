@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:10:01;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-M03/SE03-SB-M03-001	00:15:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-M03/03-SB-M03-001	00:01:01;
+
+[PrintText]=00:00:06	Makoto	...	00:00:22;
+
+[PlayVoice]=00:00:06	Voice03/03-SB/03-SB-M03/03-SB-M03-0030	1	xxx	00:00:22;
+
+[CreateBG]=00:01:01	BGS	Event03/03-SB/03-SB-M03/03-SB-M03-002	00:04:21;
+
+[PrintText]=00:01:01	Sekai	...Lo siento.	00:02:00;
+
+[PlayVoice]=00:01:01	Voice03/03-SB/03-SB-M03/03-SB-M03-0040	0	sek	00:02:00;
+
+[PrintText]=00:02:00	Makoto	Sí.	00:02:19;
+
+[PlayVoice]=00:02:00	Voice03/03-SB/03-SB-M03/03-SB-M03-0050	1	mak	00:02:19;
+
+[PrintText]=00:02:19	Sekai	Siento que te he molestado.	00:04:20;
+
+[PlayVoice]=00:02:19	Voice03/03-SB/03-SB-M03/03-SB-M03-0060	0	sek	00:04:20;
+
+[PrintText]=00:04:20	Makoto	Soy yo el que se tiene que disculpar.	00:06:06;
+
+[PlayVoice]=00:04:20	Voice03/03-SB/03-SB-M03/03-SB-M03-0070	1	mak	00:06:06;
+
+[CreateBG]=00:04:21	BGS	Event03/03-SB/03-SB-M03/03-SB-M03-003	00:06:07;
+
+[PrintText]=00:06:06	Sekai	Eheheh... venga, ya no hay que discutir.	00:09:01;
+
+[PlayVoice]=00:06:06	Voice03/03-SB/03-SB-M03/03-SB-M03-0080	0	sek	00:09:01;
+
+[PlayMovie]=00:06:07	Movie03/03-SB/03-SB-M03/03-SB-M03-004	0	00:15:01;
+
+[PrintText]=00:09:00	Makoto	Sí...	00:10:18;
+
+[PlayVoice]=00:09:00	Voice03/03-SB/03-SB-M03/03-SB-M03-0090	1	mak	00:10:18;
+
+[SetSELECT]=00:10:01	*Amistarse*	*Besarla*	00:14:01;
+
+ ;
+
+[Next]=00:15:01;
+
+

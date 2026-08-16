@@ -1,0 +1,48 @@
+﻿[SkipFRAME]=00:29:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/station	00:29:09;
+
+[PlayMovie]=00:00:00	Movie05/05-SD/05-SD-F00/05-SD-F00-001	0	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event05/05-SD/05-SD-F00/05-SD-F00-002	00:12:01;
+
+[PrintText]=00:10:00	Setsuna	Bueno, continuemos donde lo dejamos para mañana.	00:12:00;
+
+[PlayVoice]=00:10:00	Voice05/05-SD/05-SD-F00/05-SD-F00-0060	0	set	00:12:00;
+
+[CreateBG]=00:12:01	BGS	Event05/05-SD/05-SD-F00/05-SD-F00-003	00:15:11;
+
+[PrintText]=00:12:01	Makoto	Sí, nos vemos.	00:15:11;
+
+[PlayVoice]=00:12:01	Voice05/05-SD/05-SD-F00/05-SD-F00-0070	1	mak	00:15:11;
+
+[PlaySe]=00:13:14	2	SysSe/SE_all/station_train/train_start	00:29:09;
+
+[PlayMovie]=00:15:11	Movie05/05-SD/05-SD-F00/05-SD-F00-004	0	00:25:10;
+
+[CreateBG]=00:25:10	BGS	Event05/05-SD/05-SD-F00/05-SD-F00-005	00:26:15;
+
+[PrintText]=00:25:10	Sekai	Setsuna.	00:26:14;
+
+[PlayVoice]=00:25:10	Voice05/05-SD/05-SD-F00/05-SD-F00-0100	0	sek	00:26:14;
+
+[CreateBG]=00:26:15	BGS	Event05/05-SD/05-SD-F00/05-SD-F00-006	00:27:17;
+
+[PrintText]=00:26:15	Setsuna	¿Sekai?^	00:27:17;
+
+[PlayVoice]=00:26:15	Voice05/05-SD/05-SD-F00/05-SD-F00-0120	0	set	00:27:17;
+
+[PrintText]=00:27:16	Sekai	Uh-huh...	00:28:10;
+
+[PlayVoice]=00:27:16	Voice05/05-SD/05-SD-F00/05-SD-F00-0130	0	sek	00:28:10;
+
+[CreateBG]=00:27:17	BGS	Event05/05-SD/05-SD-F00/05-SD-F00-007	00:29:11;
+
+[BlackFade]=00:28:11	OUT	00:29:11;
+
+ ;
+
+[Next]=00:29:11;
+
+
+

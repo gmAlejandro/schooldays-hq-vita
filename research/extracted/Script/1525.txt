@@ -1,0 +1,46 @@
+﻿[SkipFRAME]=00:14:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:14:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-H00/05-KB-H00-001	00:01:21;
+
+[PrintText]=00:00:00	Taisuke	¿Huh? Katsura-san.	00:01:21;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-H00/05-KB-H00-0050	1	tai	00:01:21;
+
+[PrintText]=00:01:20	Kotonoha	Ah... Sawanaga-san.	00:04:08;
+
+[PlayVoice]=00:01:20	Voice05/05-KB/05-KB-H00/05-KB-H00-0060	0	kot	00:04:08;
+
+[CreateBG]=00:01:21	BGS	Event05/05-KB/05-KB-H00/05-KB-H00-002	00:09:15;
+
+[PrintText]=00:04:09	Taisuke	¿Vas a almorzar?^	00:05:14;
+
+[PlayVoice]=00:04:09	Voice05/05-KB/05-KB-H00/05-KB-H00-0070	1	tai	00:05:14;
+
+[PrintText]=00:05:14	Kotonoha	Sí... umm ¿Dónde está Makoto-kun?^	00:09:15;
+
+[PlayVoice]=00:05:14	Voice05/05-KB/05-KB-H00/05-KB-H00-0080	0	kot	00:09:15;
+
+[CreateBG]=00:09:15	BGS	Event05/05-KB/05-KB-H00/05-KB-H00-003	00:12:08;
+
+[PrintText]=00:09:15	Taisuke	Dijo que iría a la cafetería.	00:12:08;
+
+[PlayVoice]=00:09:15	Voice05/05-KB/05-KB-H00/05-KB-H00-0090	1	tai	00:12:08;
+
+[CreateBG]=00:12:08	BGS	Event05/05-KB/05-KB-H00/05-KB-H00-004	00:14:17;
+
+[PrintText]=00:12:08	Kotonoha	Gracias.	00:13:23;
+
+[PlayVoice]=00:12:08	Voice05/05-KB/05-KB-H00/05-KB-H00-0100	0	kot	00:13:23;
+
+[BlackFade]=00:14:05	OUT	00:14:17;
+
+ ;
+
+[Next]=00:14:17;
+
+
+
+
+

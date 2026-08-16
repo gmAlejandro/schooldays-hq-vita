@@ -1,0 +1,316 @@
+﻿[SkipFRAME]=03:40:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	03:40:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-001	00:05:00;
+
+[PrintText]=00:00:00	Sekai	Buen día.	00:01:05;
+
+[PlayVoice]=00:00:00	Voice05/05-SC/05-SC-B01/05-SC-B01-0040	0	sek	00:01:05;
+
+[PrintText]=00:01:05	Nanami	¡Buen día!	00:02:06;
+
+[PlayVoice]=00:01:05	Voice05/05-SC/05-SC-B01/05-SC-B01-0060	0	nan	00:02:06;
+
+[PrintText]=00:02:06	Hikari	Buen día, Sekai.	00:03:22;
+
+[PlayVoice]=00:02:06	Voice05/05-SC/05-SC-B01/05-SC-B01-0070	0	hik	00:03:22;
+
+[PrintText]=00:03:22	Sekai	Eheheh... Lindo día ¿No?^	00:06:20;
+
+[PlayVoice]=00:03:22	Voice05/05-SC/05-SC-B01/05-SC-B01-0080	0	sek	00:06:20;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-002	00:15:23;
+
+[PrintText]=00:06:20	Nanami	¿Es solo el clima el que te tiene de tan buen humor?^	00:09:23;
+
+[PlayVoice]=00:06:20	Voice05/05-SC/05-SC-B01/05-SC-B01-0090	0	nan	00:09:23;
+
+[PrintText]=00:09:23	Sekai	¿Eh? ¿Qué quieres decir?^	00:12:15;
+
+[PlayVoice]=00:09:23	Voice05/05-SC/05-SC-B01/05-SC-B01-0100	0	sek	00:12:15;
+
+[PrintText]=00:12:14	Nanami	¿Las cosas van bien con Itou?^	00:15:05;
+
+[PlayVoice]=00:12:14	Voice05/05-SC/05-SC-B01/05-SC-B01-0110	0	nan	00:15:05;
+
+[PrintText]=00:15:06	Sekai	Eheheh... bueno, algo así...	00:17:21;
+
+[PlayVoice]=00:15:06	Voice05/05-SC/05-SC-B01/05-SC-B01-0130	0	sek	00:17:21;
+
+[CreateBG]=00:15:23	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-003	00:24:11;
+
+[PrintText]=00:17:22	Nanami	¿Algo así dices? Mentirosa.	00:20:10;
+
+[PlayVoice]=00:17:22	Voice05/05-SC/05-SC-B01/05-SC-B01-0140	0	nan	00:20:10;
+
+[PrintText]=00:20:10	Sekai	Es verdad. Ambos tuvimos bastantes momentos antes de salir, por eso Makoto dijo que nos tomemos las cosas con calma.	00:28:17;
+
+[PlayVoice]=00:20:10	Voice05/05-SC/05-SC-B01/05-SC-B01-0150	0	sek	00:28:17;
+
+[CreateBG]=00:24:11	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-004	00:41:18;
+
+[PrintText]=00:28:15	Nanami	¿'Makoto dijo', huh?^	00:30:11;
+
+[PlayVoice]=00:28:15	Voice05/05-SC/05-SC-B01/05-SC-B01-0160	0	nan	00:30:11;
+
+[PrintText]=00:30:19	Hikari	Aquí viene.	00:32:06;
+
+[PlayVoice]=00:30:19	Voice05/05-SC/05-SC-B01/05-SC-B01-0170	0	hik	00:32:06;
+
+[PrintText]=00:32:07	Nanami	¡Kwah! ¡Está alardeando! ¡Definitivamente está alardeando!	00:36:07;
+
+[PlayVoice]=00:32:07	Voice05/05-SC/05-SC-B01/05-SC-B01-0180	0	nan	00:36:07;
+
+[PrintText]=00:36:07	Sekai	¡Hey, tú fuiste la que preguntaste! ¡Si te vas a divertir conmigo, entonces no digas más!	00:42:02;
+
+[PlayVoice]=00:36:07	Voice05/05-SC/05-SC-B01/05-SC-B01-0190	0	sek	00:42:02;
+
+[CreateBG]=00:41:18	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-005	00:50:12;
+
+[PrintText]=00:42:01	Nanami	Ah, solo bromeo.	00:43:15;
+
+[PlayVoice]=00:42:01	Voice05/05-SC/05-SC-B01/05-SC-B01-0200	0	nan	00:43:15;
+
+[PrintText]=00:43:15	Hikari	¡Queremos escuchar el resto!	00:45:12;
+
+[PlayVoice]=00:43:15	Voice05/05-SC/05-SC-B01/05-SC-B01-0210	0	hik	00:45:12;
+
+[PrintText]=00:45:13	Sekai	Bueno... prometí ir a su casa para pasar el rato.	00:50:21;
+
+[PlayVoice]=00:45:13	Voice05/05-SC/05-SC-B01/05-SC-B01-0220	0	sek	00:50:21;
+
+[CreateBG]=00:50:12	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-006	01:02:20;
+
+[PrintText]=00:50:21	Nanami	Wow.	00:51:23;
+
+[PlayVoice]=00:50:21	Voice05/05-SC/05-SC-B01/05-SC-B01-0230	0	nan	00:51:23;
+
+[PrintText]=00:51:23	Hikari	¿Quieres decir... quieres decir...?!	00:54:06;
+
+[PlayVoice]=00:51:23	Voice05/05-SC/05-SC-B01/05-SC-B01-0240	0	hik	00:54:06;
+
+[PrintText]=00:54:06	Sekai	Probablemente...	00:55:05;
+
+[PlayVoice]=00:54:06	Voice05/05-SC/05-SC-B01/05-SC-B01-0250	0	sek	00:55:05;
+
+[PrintText]=00:55:05	Hikari	Entonces también te convertirás en adulta.	00:58:08;
+
+[PlayVoice]=00:55:05	Voice05/05-SC/05-SC-B01/05-SC-B01-0260	0	hik	00:58:08;
+
+[PrintText]=00:58:08	Nanami	Sí, bien por ti.	01:00:12;
+
+[PlayVoice]=00:58:08	Voice05/05-SC/05-SC-B01/05-SC-B01-0270	0	nan	01:00:12;
+
+[PrintText]=01:00:12	Sekai	T-Tal vez no sea nada sabes...	01:04:08;
+
+[PlayVoice]=01:00:12	Voice05/05-SC/05-SC-B01/05-SC-B01-0280	0	sek	01:04:08;
+
+[CreateBG]=01:02:20	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-007	01:13:08;
+
+[PrintText]=01:04:07	Nanami	Escucha, cuando vas a la casa de tu novio, nunca termina en 'nada'.	01:09:03;
+
+[PlayVoice]=01:04:07	Voice05/05-SC/05-SC-B01/05-SC-B01-0290	0	nan	01:09:03;
+
+[PrintText]=01:09:03	Sekai	¿Crees que después de todo... es así?^	01:11:16;
+
+[PlayVoice]=01:09:03	Voice05/05-SC/05-SC-B01/05-SC-B01-0300	0	sek	01:11:16;
+
+[PrintText]=01:11:16	Hikari	¿También lo es para ti?^	01:13:08;
+
+[PlayVoice]=01:11:16	Voice05/05-SC/05-SC-B01/05-SC-B01-0310	0	hik	01:13:08;
+
+[CreateBG]=01:13:08	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-008	01:28:08;
+
+[PrintText]=01:13:08	Nanami	¿Yo..? Ahaha... No cuenten conmigo.	01:17:19;
+
+[PlayVoice]=01:13:08	Voice05/05-SC/05-SC-B01/05-SC-B01-0320	0	nan	01:17:19;
+
+[PrintText]=01:17:19	Sekai	¡Quiero escucharlo! ¡Como referencia!	01:20:00;
+
+[PlayVoice]=01:17:19	Voice05/05-SC/05-SC-B01/05-SC-B01-0330	0	sek	01:20:00;
+
+[PrintText]=01:20:00	Hikari	¡Yo también!	01:21:08;
+
+[PlayVoice]=01:20:00	Voice05/05-SC/05-SC-B01/05-SC-B01-0340	0	hik	01:21:08;
+
+[PrintText]=01:21:09	Nanami	Uuh... cuando voy a la casa de mi novio, solo una de cinco veces termina en sexo.	01:29:21;
+
+[PlayVoice]=01:21:09	Voice05/05-SC/05-SC-B01/05-SC-B01-0350	0	nan	01:29:21;
+
+[CreateBG]=01:28:08	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-009	01:42:02;
+
+[PrintText]=01:29:20	Hikari	Entonces así es como es ¿Huh?^	01:32:04;
+
+[PlayVoice]=01:29:20	Voice05/05-SC/05-SC-B01/05-SC-B01-0360	0	hik	01:32:04;
+
+[PrintText]=01:32:04	Nanami	No lo creo. Mi novio es extraño.	01:37:04;
+
+[PlayVoice]=01:32:04	Voice05/05-SC/05-SC-B01/05-SC-B01-0370	0	nan	01:37:04;
+
+[PrintText]=01:37:04	Hikari	¿Extraño?^	01:38:10;
+
+[PlayVoice]=01:37:04	Voice05/05-SC/05-SC-B01/05-SC-B01-0380	0	hik	01:38:10;
+
+[PrintText]=01:38:09	Nanami	Estamos solos en su cuarto, pero vez de prestarme atención, solo se concentra en sus videojuegos.	01:45:17;
+
+[PlayVoice]=01:38:09	Voice05/05-SC/05-SC-B01/05-SC-B01-0390	0	nan	01:45:17;
+
+[CreateBG]=01:42:02	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-010	01:59:02;
+
+[PrintText]=01:45:17	Hikari	Bromeas.	01:46:23;
+
+[PlayVoice]=01:45:17	Voice05/05-SC/05-SC-B01/05-SC-B01-0400	0	hik	01:46:23;
+
+[PrintText]=01:46:23	Nanami	Me recomendó unos cuantos, pero cuando le dije que no estaba interesada, no me lo ha mencionado hasta ahora.	01:50:19;
+
+[PlayVoice]=01:46:23	Voice05/05-SC/05-SC-B01/05-SC-B01-0410	0	nan	01:55:02;
+
+[PrintText]=01:50:19	Nanami	¿Crees que está bien si juego con él?^	01:55:02;
+
+[PrintText]=01:55:02	Hikari	Uwah... ese no es el problema tampoco. Suena como un total friki.	01:59:08;
+
+[PlayVoice]=01:55:02	Voice05/05-SC/05-SC-B01/05-SC-B01-0420	0	hik	01:59:08;
+
+[CreateBG]=01:59:02	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-014	02:49:01;
+
+[PrintText]=01:59:08	Nanami	¡Estoy bien con eso! El problema es que estoy empezando a creer que le gustan más los videojuegos que yo...	02:05:10;
+
+[PlayVoice]=01:59:08	Voice05/05-SC/05-SC-B01/05-SC-B01-0430	0	nan	02:05:10;
+
+[PrintText]=02:05:11	Hikari	¡Tal vez esté pensando 'Nanami es tan increíble que da miedo'!	02:09:23;
+
+[PlayVoice]=02:05:11	Voice05/05-SC/05-SC-B01/05-SC-B01-0440	0	hik	02:09:23;
+
+[PrintText]=02:09:23	Nanami	Uuh... ¿Tu lo crees?^	02:13:00;
+
+[PlayVoice]=02:09:23	Voice05/05-SC/05-SC-B01/05-SC-B01-0450	0	nan	02:13:00;
+
+[PrintText]=02:13:00	Hikari	El novio de Sekai también es extraño ¿Sabes?^	02:17:02;
+
+[PlayVoice]=02:13:00	Voice05/05-SC/05-SC-B01/05-SC-B01-0460	0	hik	02:17:02;
+
+[PrintText]=02:17:02	Sekai	¡¿Eh?! no, no es así.	02:21:03;
+
+[PlayVoice]=02:17:02	Voice05/05-SC/05-SC-B01/05-SC-B01-0470	0	sek	02:21:03;
+
+[PrintText]=02:21:03	Hikari	No lo sabía antes. ¿Makoto te dijo antes que tenía una hermana pequeña?^	02:26:11;
+
+[PlayVoice]=02:21:03	Voice05/05-SC/05-SC-B01/05-SC-B01-0480	0	hik	02:26:11;
+
+[PrintText]=02:26:11	Sekai	Uh-huh.	02:27:08;
+
+[PlayVoice]=02:26:11	Voice05/05-SC/05-SC-B01/05-SC-B01-0490	0	sek	02:27:08;
+
+[PrintText]=02:27:09	Hikari	¡Tal vez él y su hermana menor toman el baño juntos todo los día!	02:32:10;
+
+[PlayVoice]=02:27:09	Voice05/05-SC/05-SC-B01/05-SC-B01-0500	0	hik	02:32:10;
+
+[PrintText]=02:32:09	Sekai	Sí, eso me dijo él.	02:34:13;
+
+[PlayVoice]=02:32:09	Voice05/05-SC/05-SC-B01/05-SC-B01-0510	0	sek	02:34:13;
+
+[PrintText]=02:34:13	Hikari	¡Lo sabía! ¡Qué indecente!	02:37:09;
+
+[PlayVoice]=02:34:13	Voice05/05-SC/05-SC-B01/05-SC-B01-0520	0	hik	02:37:09;
+
+[PrintText]=02:37:08	Sekai	Bueno, Itaru-chan aún es muy pequeña.	02:40:01;
+
+[PlayVoice]=02:37:08	Voice05/05-SC/05-SC-B01/05-SC-B01-0530	0	sek	02:40:01;
+
+[PrintText]=02:40:01	Hikari	Oh, ya veo... que aburrido. Bueno, que hay de...	02:44:14;
+
+[PlayVoice]=02:40:01	Voice05/05-SC/05-SC-B01/05-SC-B01-0540	0	hik	02:44:14;
+
+[PrintText]=02:44:15	Sekai	Déja de poner una razón sobre él.	02:48:04;
+
+[PlayVoice]=02:44:15	Voice05/05-SC/05-SC-B01/05-SC-B01-0550	0	sek	02:48:04;
+
+[PrintText]=02:48:04	Hikari	Tsk.	02:48:23;
+
+[PlayVoice]=02:48:04	Voice05/05-SC/05-SC-B01/05-SC-B01-0560	0	hik	02:48:23;
+
+[PrintText]=02:49:00	Makoto	¡Hey! ¡Kanroji!	02:50:08;
+
+[PlayVoice]=02:49:00	Voice05/05-SC/05-SC-B01/05-SC-B01-0580	1	mak	02:50:08;
+
+[CreateBG]=02:49:01	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-011	03:04:07;
+
+[PrintText]=02:50:08	Nanami	Hey, Itou. Eso fue rápido.	02:52:20;
+
+[PlayVoice]=02:50:08	Voice05/05-SC/05-SC-B01/05-SC-B01-0590	0	nan	02:52:20;
+
+[PrintText]=02:52:20	Makoto	Rápido, nada. Yamamoto dijo que no sabía de lo que estabas hablando.	02:58:09;
+
+[PlayVoice]=02:52:20	Voice05/05-SC/05-SC-B01/05-SC-B01-0600	1	mak	02:58:09;
+
+[PrintText]=02:58:09	Nanami	¿Huh? Que extraño.	03:01:00;
+
+[PlayVoice]=02:58:09	Voice05/05-SC/05-SC-B01/05-SC-B01-0610	0	nan	03:01:00;
+
+[PrintText]=03:01:00	Makoto	Deja de tomarme el pelo. Parecía un verdadero idiota sabes.	03:04:06;
+
+[PlayVoice]=03:01:00	Voice05/05-SC/05-SC-B01/05-SC-B01-0620	1	mak	03:04:06;
+
+[PrintText]=03:04:06	Nanami	Oh, cálmate. Aquí, te daré unos vales de comida.	03:07:20;
+
+[PlayVoice]=03:04:06	Voice05/05-SC/05-SC-B01/05-SC-B01-0630	0	nan	03:07:20;
+
+[CreateBG]=03:04:07	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-014	03:29:15;
+
+[PrintText]=03:07:20	Makoto	¿Eh...? Vale ¿Pero estás segura?^	03:12:08;
+
+[PlayVoice]=03:07:20	Voice05/05-SC/05-SC-B01/05-SC-B01-0640	1	mak	03:12:08;
+
+[PrintText]=03:12:08	Nanami	Tómalos. Es una manera de disculparme.	03:14:05;
+
+[PlayVoice]=03:12:08	Voice05/05-SC/05-SC-B01/05-SC-B01-0650	0	nan	03:14:05;
+
+[PrintText]=03:14:05	Makoto	De alguna manera, siento que estoy siendo comprado... pero gracias.	03:19:04;
+
+[PlayVoice]=03:14:05	Voice05/05-SC/05-SC-B01/05-SC-B01-0660	1	mak	03:19:04;
+
+[PrintText]=03:19:03	Nanami	Ni lo menciones. Te daré uno para para fideos y otro para un combo A.	03:23:12;
+
+[PlayVoice]=03:19:03	Voice05/05-SC/05-SC-B01/05-SC-B01-0670	0	nan	03:23:12;
+
+[PrintText]=03:23:12	Makoto	Eso es demasiado, pero gracias.	03:25:14;
+
+[PlayVoice]=03:23:12	Voice05/05-SC/05-SC-B01/05-SC-B01-0680	1	mak	03:25:14;
+
+[PrintText]=03:25:14	Nanami	No te preocupes por eso. Te estoy dando dos para que vayas a Sekai a comer algo.	03:29:15;
+
+[PlayVoice]=03:25:14	Voice05/05-SC/05-SC-B01/05-SC-B01-0690	0	nan	03:29:15;
+
+[CreateBG]=03:29:15	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-014B	03:30:16;
+
+[PrintText]=03:29:16	Sekai	¿Conmigo?^	03:30:16;
+
+[PlayVoice]=03:29:16	Voice05/05-SC/05-SC-B01/05-SC-B01-0700	0	sek	03:30:16;
+
+[CreateBG]=03:30:16	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-015	03:33:10;
+
+[PrintText]=03:30:16	Hikari	Sí, así es. Debes ir Sekai.	03:33:08;
+
+[PlayVoice]=03:30:16	Voice05/05-SC/05-SC-B01/05-SC-B01-0710	0	hik	03:33:08;
+
+[PrintText]=03:33:08	Makoto	¿Qué dices?^	03:34:06;
+
+[PlayVoice]=03:33:08	Voice05/05-SC/05-SC-B01/05-SC-B01-0720	1	mak	03:34:06;
+
+[CreateBG]=03:33:10	BGS	Event05/05-SC/05-SC-B01/05-SC-B01-016	03:40:00;
+
+[PrintText]=03:34:06	Sekai	De parte de Nanami ¿Huh..? Tal vez lo haga entonces.	03:37:20;
+
+[PlayVoice]=03:34:06	Voice05/05-SC/05-SC-B01/05-SC-B01-0730	0	sek	03:37:20;
+
+[PrintText]=03:37:20	Makoto	Lo supuse.	03:39:00;
+
+[PlayVoice]=03:37:20	Voice05/05-SC/05-SC-B01/05-SC-B01-0740	1	mak	03:39:00;
+
+ ;
+
+[Next]=03:40:00;
+
+
+

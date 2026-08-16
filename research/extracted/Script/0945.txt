@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:41:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:41:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-G04/04-KA-G04-001	00:04:00;
+
+[PrintText]=00:00:18	Makoto	La odio.	00:01:19;
+
+[PlayVoice]=00:00:18	Voice04/04-KA/04-KA-G04/04-KA-G04-0030	1	mak	00:01:19;
+
+[PrintText]=00:02:01	Setsuna	¿Odias?^	00:03:04;
+
+[PlayVoice]=00:02:01	Voice04/04-KA/04-KA-G04/04-KA-G04-0040	0	set	00:03:04;
+
+[PrintText]=00:03:09	Makoto	Sí.	00:04:01;
+
+[PlayVoice]=00:03:09	Voice04/04-KA/04-KA-G04/04-KA-G04-0050	1	mak	00:04:01;
+
+[PlayMovie]=00:04:00	Movie04/04-KA/04-KA-G04/04-KA-G04-002	0	00:15:04;
+
+[PrintText]=00:04:09	Setsuna	Entoncessh puedesh salir con Se-chan.	00:07:13;
+
+[PlayVoice]=00:04:09	Voice04/04-KA/04-KA-G04/04-KA-G04-0060	0	set	00:07:13;
+
+[PrintText]=00:07:14	Makoto	¿Q-Qué? ¿Quién es Se-chan?^	00:10:06;
+
+[PlayVoice]=00:07:14	Voice04/04-KA/04-KA-G04/04-KA-G04-0070	1	mak	00:10:06;
+
+[PrintText]=00:10:12	Setsuna	Yo.	00:11:16;
+
+[PlayVoice]=00:10:12	Voice04/04-KA/04-KA-G04/04-KA-G04-0080	0	set	00:11:16;
+
+[PrintText]=00:11:17	Makoto	¡Hey!	00:12:15;
+
+[PlayVoice]=00:11:17	Voice04/04-KA/04-KA-G04/04-KA-G04-0090	1	mak	00:12:15;
+
+[PrintText]=00:12:16	Setsuna	Te llamareee Mako-chan.	00:15:07;
+
+[PlayVoice]=00:12:16	Voice04/04-KA/04-KA-G04/04-KA-G04-0100	0	set	00:15:07;
+
+[CreateBG]=00:15:04	BGS	Event04/04-KA/04-KA-G04/04-KA-G04-003	00:19:14;
+
+[PrintText]=00:15:12	Makoto	¡Por favor no!	00:17:04;
+
+[PlayVoice]=00:15:12	Voice04/04-KA/04-KA-G04/04-KA-G04-0110	1	mak	00:17:04;
+
+[PrintText]=00:17:06	Setsuna	¡Estassh avergonzadooo!	00:18:14;
+
+[PlayVoice]=00:17:06	Voice04/04-KA/04-KA-G04/04-KA-G04-0120	0	set	00:18:14;
+
+[PrintText]=00:18:13	Makoto	¡No lo estoy!	00:19:15;
+
+[PlayVoice]=00:18:13	Voice04/04-KA/04-KA-G04/04-KA-G04-0130	1	mak	00:19:15;
+
+[CreateBG]=00:19:14	BGS	Event04/04-KA/04-KA-G04/04-KA-G04-004	00:33:07;
+
+[PrintText]=00:20:05	Setsuna	...	00:21:05;
+
+[PlayVoice]=00:20:05	Voice04/04-KA/04-KA-G04/04-KA-G04-0140	0	xxx	00:21:05;
+
+[PrintText]=00:21:04	Makoto	Hey, vamos...déjame ir.	00:25:01;
+
+[PlayVoice]=00:21:04	Voice04/04-KA/04-KA-G04/04-KA-G04-0160	1	mak	00:25:01;
+
+[PrintText]=00:25:03	Setsuna	¡Nooquierooo!	00:26:01;
+
+[PlayVoice]=00:25:03	Voice04/04-KA/04-KA-G04/04-KA-G04-0170	0	set	00:26:01;
+
+[PrintText]=00:26:00	Makoto	Kiyoura...	00:28:06;
+
+[PlayVoice]=00:26:00	Voice04/04-KA/04-KA-G04/04-KA-G04-0180	1	mak	00:28:06;
+
+[PrintText]=00:28:08	Setsuna	Solo si cierrassh los ojossh y pretendes...	00:33:09;
+
+[PlayVoice]=00:28:08	Voice04/04-KA/04-KA-G04/04-KA-G04-0190	0	set	00:33:09;
+
+[CreateBG]=00:33:07	BGS	Event04/04-KA/04-KA-G04/04-KA-G04-005	00:37:18;
+
+[PrintText]=00:33:18	Makoto	¿Pretender?^	00:35:00;
+
+[PlayVoice]=00:33:18	Voice04/04-KA/04-KA-G04/04-KA-G04-0200	1	mak	00:35:00;
+
+[PrintText]=00:35:01	Setsuna	Uh-huh.	00:35:19;
+
+[PlayVoice]=00:35:01	Voice04/04-KA/04-KA-G04/04-KA-G04-0210	0	set	00:35:19;
+
+[PrintText]=00:35:22	Makoto	...Sí... seguro, como sea. Cerraré los ojos...	00:41:22;
+
+[PlayVoice]=00:35:22	Voice04/04-KA/04-KA-G04/04-KA-G04-0220	1	mak	00:41:22;
+
+[CreateBG]=00:37:18	BGS	Event04/04-KA/04-KA-G04/04-KA-G04-006	00:41:23;
+
+ ;
+
+[Next]=00:41:23;
+
+

@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:31:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:37:06;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-A02/SE03-KB-A02-001	00:37:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-A02/03-KB-A02-001A	00:02:10;
+
+[PrintText]=00:00:00	Makoto	H...Hola.	00:02:10;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-A02/03-KB-A02-0030	1	mak	00:02:10;
+
+[CreateBG]=00:02:10	BGS	Event03/03-KB/03-KB-A02/03-KB-A02-001B	00:22:17;
+
+[PrintText]=00:02:10	Kotonoha	Ah... Sí.	00:04:15;
+
+[PlayVoice]=00:02:10	Voice03/03-KB/03-KB-A02/03-KB-A02-0040	0	kot	00:04:15;
+
+[PrintText]=00:04:16	Makoto	Voy a la sala de consejo de estudiantes a conseguir un poco de papel...	00:06:19;
+
+[PlayVoice]=00:04:16	Voice03/03-KB/03-KB-A02/03-KB-A02-0050	1	mak	00:06:19;
+
+[PrintText]=00:06:21	Kotonoha	Ya veo.	00:08:08;
+
+[PlayVoice]=00:06:21	Voice03/03-KB/03-KB-A02/03-KB-A02-0060	0	kot	00:08:08;
+
+[PrintText]=00:08:09	Makoto	¿Qué hay de ti?^	00:09:12;
+
+[PlayVoice]=00:08:09	Voice03/03-KB/03-KB-A02/03-KB-A02-0070	1	mak	00:09:12;
+
+[PrintText]=00:09:13	Kotonoha	Yo... iré a conseguir algunas sillas...	00:13:15;
+
+[PlayVoice]=00:09:13	Voice03/03-KB/03-KB-A02/03-KB-A02-0080	0	kot	00:13:15;
+
+[PrintText]=00:13:15	Makoto	¿Los plegables?^	00:14:18;
+
+[PlayVoice]=00:13:15	Voice03/03-KB/03-KB-A02/03-KB-A02-0090	1	mak	00:14:18;
+
+[PrintText]=00:14:17	Kotonoha	Sí. Lo usaremos para la casa embrujada.	00:17:20;
+
+[PlayVoice]=00:14:17	Voice03/03-KB/03-KB-A02/03-KB-A02-0100	0	kot	00:17:20;
+
+[PrintText]=00:17:20	Makoto	Ya veo...	00:18:17;
+
+[PlayVoice]=00:17:20	Voice03/03-KB/03-KB-A02/03-KB-A02-0110	1	mak	00:18:17;
+
+[PrintText]=00:18:18	Kotonoha	Sí, hay mas de seis por llevar.	00:22:17;
+
+[PlayVoice]=00:18:18	Voice03/03-KB/03-KB-A02/03-KB-A02-0120	0	kot	00:22:17;
+
+[CreateBG]=00:22:17	BGS	Event03/03-KB/03-KB-A02/03-KB-A02-001C	00:37:06;
+
+[PrintText]=00:22:17	Makoto	¿Seis? ¿De esas cosas pesadas?^	00:25:21;
+
+[PlayVoice]=00:22:17	Voice03/03-KB/03-KB-A02/03-KB-A02-0130	1	mak	00:25:21;
+
+[PrintText]=00:25:21	Kotonoha	Soy miembro del comité, pues...	00:28:11;
+
+[PlayVoice]=00:25:21	Voice03/03-KB/03-KB-A02/03-KB-A02-0140	0	kot	00:28:11;
+
+[PrintText]=00:28:11	Makoto	Hmm...	00:29:19;
+
+[PlayVoice]=00:28:11	Voice03/03-KB/03-KB-A02/03-KB-A02-0150	1	mak	00:29:19;
+
+[SetSELECT]=00:31:05	'¿Quieres que te ayude?'	'Da tu mejor esfuerzo'	00:36:05;
+
+ ;
+
+[Next]=00:37:06;
+
+

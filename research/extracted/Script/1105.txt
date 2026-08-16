@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:34:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:40:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-F08/04-SA-F08-001	00:02:04;
+
+[PrintText]=00:00:04	Makoto	...	00:02:10;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-F08/04-SA-F08-0030	1	xxx	00:02:10;
+
+[CreateBG]=00:02:04	BGS	Event04/04-SA/04-SA-F08/04-SA-F08-002	00:13:23;
+
+[PrintText]=00:02:09	Hikari	¿Por qué te quedas callado? ¡Ella te preguntó algo!	00:05:18;
+
+[PlayVoice]=00:02:09	Voice04/04-SA/04-SA-F08/04-SA-F08-0040	0	hik	00:05:18;
+
+[PrintText]=00:05:18	Makoto	Uuh... Siento como si me quisieran quitar el dinero.	00:11:08;
+
+[PlayVoice]=00:05:18	Voice04/04-SA/04-SA-F08/04-SA-F08-0050	1	mak	00:11:08;
+
+[PrintText]=00:11:08	Sekai	Oh, olvídalo. ¿Pasó algo?^	00:14:07;
+
+[PlayVoice]=00:11:08	Voice04/04-SA/04-SA-F08/04-SA-F08-0060	0	sek	00:14:07;
+
+[CreateBG]=00:13:23	BGS	Event04/04-SA/04-SA-F08/04-SA-F08-003	00:15:22;
+
+[PrintText]=00:14:09	Makoto	Pues... uuh...	00:16:02;
+
+[PlayVoice]=00:14:09	Voice04/04-SA/04-SA-F08/04-SA-F08-0070	1	mak	00:16:02;
+
+[CreateBG]=00:15:22	BGS	Event04/04-SA/04-SA-F08/04-SA-F08-004	00:31:05;
+
+[PrintText]=00:16:20	Makoto	Sin embargo, si Taisuke ya arreglo con otra chica, entonces no hay que hablar con Kuroda.	00:21:11;
+
+[PlayVoice]=00:16:20	Voice04/04-SA/04-SA-F08/04-SA-F08-0080	1	xxx	00:21:11;
+
+[PrintText]=00:22:04	Makoto	...Por supuesto, si se lo digo, me matará.	00:25:21;
+
+[PlayVoice]=00:22:04	Voice04/04-SA/04-SA-F08/04-SA-F08-0090	1	xxx	00:25:21;
+
+[PrintText]=00:26:09	Makoto	Después de todo, yo fui el que sugirió esto...	00:30:19;
+
+[PlayVoice]=00:26:09	Voice04/04-SA/04-SA-F08/04-SA-F08-0100	1	xxx	00:30:19;
+
+[CreateBG]=00:31:05	BGS	Event04/04-SA/04-SA-F08/04-SA-F08-005	00:40:11;
+
+[PrintText]=00:31:20	Makoto	E-Escucha...	00:33:22;
+
+[PlayVoice]=00:31:20	Voice04/04-SA/04-SA-F08/04-SA-F08-0110	1	mak	00:33:22;
+
+[SetSELECT]=00:34:09	*Decírselo solamente a Sekai*	null	00:39:09;
+
+ ;
+
+[Next]=00:40:11;
+
+

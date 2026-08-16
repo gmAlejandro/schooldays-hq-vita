@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:12:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:12:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-C03/04-SC-C03-001	00:01:01;
+
+[PrintText]=00:00:00	Makoto	...	00:01:03;
+
+[PlayVoice]=00:00:00	Voice04/04-SC/04-SC-C03/04-SC-C03-0030	1	xxx	00:01:03;
+
+[CreateBG]=00:01:01	BGS	Event04/04-SC/04-SC-C03/04-SC-C03-002	00:04:13;
+
+[PrintText]=00:01:04	Kotonoha	Um... no tienes que pensarlo tanto.	00:04:16;
+
+[PlayVoice]=00:01:04	Voice04/04-SC/04-SC-C03/04-SC-C03-0040	0	kot	00:04:16;
+
+[CreateBG]=00:04:13	BGS	Event04/04-SC/04-SC-C03/04-SC-C03-002B	00:10:09;
+
+[PrintText]=00:04:16	Makoto	¿Eh? Oh, sí.	00:07:06;
+
+[PlayVoice]=00:04:16	Voice04/04-SC/04-SC-C03/04-SC-C03-0050	1	mak	00:07:06;
+
+[PrintText]=00:07:06	Kotonoha	No quise decir alguna cosa con ello.	00:10:09;
+
+[PlayVoice]=00:07:06	Voice04/04-SC/04-SC-C03/04-SC-C03-0060	0	kot	00:10:09;
+
+[PrintText]=00:10:08	Makoto	¿En serio?^	00:11:04;
+
+[PlayVoice]=00:10:08	Voice04/04-SC/04-SC-C03/04-SC-C03-0070	1	mak	00:11:04;
+
+[CreateBG]=00:10:09	BGS	Event04/04-SC/04-SC-C03/04-SC-C03-003	00:11:22;
+
+[PrintText]=00:11:05	Kotonoha	Sí.	00:11:23;
+
+[PlayVoice]=00:11:05	Voice04/04-SC/04-SC-C03/04-SC-C03-0080	0	kot	00:11:23;
+
+[CreateBG]=00:11:22	BGS	Event04/04-SC/04-SC-C03/04-SC-C03-004	00:12:16;
+
+[PrintText]=00:11:23	Makoto	...	00:12:16;
+
+[PlayVoice]=00:11:23	Voice04/04-SC/04-SC-C03/04-SC-C03-0090	1	xxx	00:12:16;
+
+ ;
+
+[Next]=00:12:16;
+
+

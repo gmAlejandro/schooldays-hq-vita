@@ -1,0 +1,182 @@
+﻿[SkipFRAME]=02:17:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-001A	00:05:00;
+
+[PrintText]=00:00:19	Makoto	Bien, vamos a comer.	00:02:07;
+
+[PlayVoice]=00:00:19	Voice05/05-SC/05-SC-L03/05-SC-L03-0050	1	mak	00:02:07;
+
+[PrintText]=00:02:05	Kotonoha	Sí.	00:02:23;
+
+[PlayVoice]=00:02:05	Voice05/05-SC/05-SC-L03/05-SC-L03-0060	0	kot	00:02:23;
+
+[PrintText]=00:03:00	Makoto	Veamos.	00:05:21;
+
+[PlayVoice]=00:03:00	Voice05/05-SC/05-SC-L03/05-SC-L03-0070	1	mak	00:05:21;
+
+[CreateBG]=00:05:00	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-001B	00:06:04;
+
+[CreateBG]=00:06:04	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-001C	00:08:00;
+
+[PrintText]=00:06:11	Kotonoha	¿Cómo está?^	00:07:16;
+
+[PlayVoice]=00:06:11	Voice05/05-SC/05-SC-L03/05-SC-L03-0080	0	kot	00:07:16;
+
+[PlayMovie]=00:08:00	Movie05/05-SC/05-SC-L03/05-SC-L03-002	0	00:12:05;
+
+[PrintText]=00:08:14	Makoto	...	00:10:19;
+
+[PlayVoice]=00:08:14	Voice05/05-SC/05-SC-L03/05-SC-L03-0090	1	xxx	00:10:19;
+
+[CreateBG]=00:12:05	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-003	00:19:14;
+
+[PrintText]=00:12:05	Kotonoha	Mwah.	00:12:23;
+
+[PlayVoice]=00:12:05	Voice05/05-SC/05-SC-L03/05-SC-L03-0110	0	kot	00:12:23;
+
+[PrintText]=00:12:23	Makoto	¡Pfft... hahahaha!	00:17:15;
+
+[PlayVoice]=00:12:23	Voice05/05-SC/05-SC-L03/05-SC-L03-0120	1	mak	00:17:15;
+
+[PrintText]=00:17:15	Kotonoha	¿Qué pasa...?^	00:19:14;
+
+[PlayVoice]=00:17:15	Voice05/05-SC/05-SC-L03/05-SC-L03-0130	0	kot	00:19:14;
+
+[PrintText]=00:19:13	Makoto	Mezclaste el azúcar con la sal... haha...	00:23:18;
+
+[PlayVoice]=00:19:13	Voice05/05-SC/05-SC-L03/05-SC-L03-0140	1	mak	00:23:18;
+
+[CreateBG]=00:19:14	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-004	00:23:18;
+
+[CreateBG]=00:23:18	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-005	00:26:18;
+
+[PrintText]=00:23:18	Kotonoha	¿Entonces el almuerzo de ayer también...?^	00:26:17;
+
+[PlayVoice]=00:23:18	Voice05/05-SC/05-SC-L03/05-SC-L03-0150	0	kot	00:26:17;
+
+[CreateBG]=00:26:18	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-006	00:28:23;
+
+[PrintText]=00:26:18	Makoto	Creo que debo agradecerles a las chicas de la clase 4.	00:28:23;
+
+[PlayVoice]=00:26:18	Voice05/05-SC/05-SC-L03/05-SC-L03-0160	1	mak	00:28:23;
+
+[PrintText]=00:28:22	Kotonoha	Ooh... por favor no digas eso. ¡Ah! Makoto-kun... ¿Lo sabías?^	00:36:01;
+
+[PlayVoice]=00:28:22	Voice05/05-SC/05-SC-L03/05-SC-L03-0170	0	kot	00:36:01;
+
+[CreateBG]=00:28:23	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-007	00:41:04;
+
+[PrintText]=00:36:01	Makoto	Está bien. Solo sigue practicando, paso por paso.	00:39:17;
+
+[PlayVoice]=00:36:01	Voice05/05-SC/05-SC-L03/05-SC-L03-0180	1	mak	00:39:17;
+
+[PrintText]=00:39:17	Kotonoha	Pero...	00:41:04;
+
+[PlayVoice]=00:39:17	Voice05/05-SC/05-SC-L03/05-SC-L03-0190	0	kot	00:41:04;
+
+[CreateBG]=00:41:04	BGS	Event05/05-SC/05-SC-L03/05-SC-L03-008	00:45:02;
+
+[PrintText]=00:41:04	Makoto	Tenemos bastante tiempo. El suficiente para que pueda quedar como este.	00:48:11;
+
+[PlayVoice]=00:41:04	Voice05/05-SC/05-SC-L03/05-SC-L03-0200	1	mak	00:48:11;
+
+[PlayMovie]=00:45:02	Movie05/05-SC/05-SC-L03/05-SC-L03-009	0	00:53:21;
+
+[PrintText]=00:48:11	Kotonoha	¡Mm... uwah, está delicioso!	00:53:21;
+
+[PlayVoice]=00:48:11	Voice05/05-SC/05-SC-L03/05-SC-L03-0220	0	kot	00:53:21;
+
+[CreateBG]=00:53:21	BGS	Event05/05-KI/05-KI-L03/05-KI-L03-010	01:06:01;
+
+[PrintText]=00:53:21	Makoto	¿Cómo está?^	00:54:14;
+
+[PlayVoice]=00:53:21	Voice05/05-SC/05-SC-L03/05-SC-L03-0230	1	mak	00:54:14;
+
+[PrintText]=00:54:14	Kotonoha	Ooh... comparado con este, el mio...	00:58:10;
+
+[PlayVoice]=00:54:14	Voice05/05-SC/05-SC-L03/05-SC-L03-0240	0	kot	00:58:10;
+
+[PrintText]=00:58:10	Makoto	¡Hey, como te dije, no te desanimes!	01:01:03;
+
+[PlayVoice]=00:58:10	Voice05/05-SC/05-SC-L03/05-SC-L03-0250	1	mak	01:01:03;
+
+[PrintText]=01:01:03	Kotonoha	¡Vale, entonces... seguiré esforzándome!	01:05:11;
+
+[PlayVoice]=01:01:03	Voice05/05-SC/05-SC-L03/05-SC-L03-0260	0	kot	01:05:11;
+
+[PrintText]=01:05:11	Makoto	Sí.	01:06:01;
+
+[PlayVoice]=01:05:11	Voice05/05-SC/05-SC-L03/05-SC-L03-0270	1	mak	01:06:01;
+
+[PlayMovie]=01:06:01	Movie05/05-SC/05-SC-L03/05-SC-L03-011	0	01:24:16;
+
+[PrintText]=01:06:15	Makoto	Delicioso.	01:08:15;
+
+[PlayVoice]=01:06:15	Voice05/05-SC/05-SC-L03/05-SC-L03-0290	1	mak	01:08:15;
+
+[PrintText]=01:08:15	Kotonoha	Ah...	01:09:11;
+
+[PlayVoice]=01:08:15	Voice05/05-SC/05-SC-L03/05-SC-L03-0300	0	kot	01:09:11;
+
+[PlaySe]=01:08:22	2	SysSe/SE_all/gaya/okujou	01:30:02;
+
+[PrintText]=01:09:11	Makoto	¿Qué?^	01:10:06;
+
+[PlayVoice]=01:09:11	Voice05/05-SC/05-SC-L03/05-SC-L03-0310	1	mak	01:10:06;
+
+[PrintText]=01:10:06	Kotonoha	Un beso indirecto...	01:11:23;
+
+[PlayVoice]=01:10:06	Voice05/05-SC/05-SC-L03/05-SC-L03-0320	0	kot	01:11:23;
+
+[PrintText]=01:13:05	Makoto	Haha...	01:15:05;
+
+[PlayVoice]=01:13:05	Voice05/05-SC/05-SC-L03/05-SC-L03-0330	1	mak	01:15:05;
+
+[PrintText]=01:14:13	Kotonoha	...	01:16:08;
+
+[PlayVoice]=01:14:13	Voice05/05-SC/05-SC-L03/05-SC-L03-0340	0	xxx	01:16:08;
+
+[PrintText]=01:16:08	Makoto	...No deberías avergonzarte por un beso indirecto...	01:19:07;
+
+[PlayVoice]=01:16:08	Voice05/05-SC/05-SC-L03/05-SC-L03-0370	1	mak	01:19:07;
+
+[PrintText]=01:19:07	Kotonoha	¡¿Eh?!	01:20:09;
+
+[PlayVoice]=01:19:07	Voice05/05-SC/05-SC-L03/05-SC-L03-0380	0	kot	01:20:09;
+
+[PrintText]=01:20:09	Makoto	Después de todo, hemos decidido salir como pareja.	01:24:14;
+
+[PlayVoice]=01:20:09	Voice05/05-SC/05-SC-L03/05-SC-L03-0390	1	mak	01:24:14;
+
+[PrintText]=01:24:14	Kotonoha	Sí, tienes razón.	01:26:11;
+
+[PlayVoice]=01:24:14	Voice05/05-SC/05-SC-L03/05-SC-L03-0400	0	kot	01:26:11;
+
+[CreateBG]=01:24:16	BGS	Event05/05-SC/05-SC-L03/05-SC-L03-013	01:29:17;
+
+[PrintText]=01:26:11	Makoto	Somos una pareja, entonces...	01:28:07;
+
+[PlayVoice]=01:26:11	Voice05/05-SC/05-SC-L03/05-SC-L03-0410	1	mak	01:28:07;
+
+[PrintText]=01:28:07	Kotonoha	Ah...	01:29:18;
+
+[PlayVoice]=01:28:07	Voice05/05-SC/05-SC-L03/05-SC-L03-0420	0	kot	01:29:18;
+
+[PlayMovie]=01:29:17	Movie05/05-SC/05-SC-L03/05-SC-L03-013	0	01:34:04;
+
+[EndBGM]=01:29:19	BGM/Vocal/SDV07	03:32:06;
+
+[BlackFade]=01:33:04	OUT	01:34:04;
+
+[CreateBG]=01:34:04	BGS	Ini/EndRoll/05-03	01:37:00;
+
+[EndRoll]=01:37:00	Ini/EndRoll/GOOD	02:17:00;
+
+ ;
+
+[Next]=02:17:00;
+
+
+

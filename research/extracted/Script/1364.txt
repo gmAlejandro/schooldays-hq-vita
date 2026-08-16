@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:14:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:14:16;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-I07/05-5O-I07-001	00:05:11;
+
+[PrintText]=00:00:08	Kotonoha	Hoy...	00:01:13;
+
+[PlayVoice]=00:00:08	Voice05/05-5O/05-5O-I07/05-5O-I07-0030	0	kot	00:01:13;
+
+[PrintText]=00:01:16	Makoto	¿Eh?^	00:02:05;
+
+[PlayVoice]=00:01:16	Voice05/05-5O/05-5O-I07/05-5O-I07-0040	1	mak	00:02:05;
+
+[PrintText]=00:02:13	Kotonoha	Me gustaría que vengas a mi casa.	00:05:08;
+
+[PlayVoice]=00:02:13	Voice05/05-5O/05-5O-I07/05-5O-I07-0050	0	kot	00:05:08;
+
+[CreateBG]=00:05:11	BGS	Event05/05-5O/05-5O-I07/05-5O-I07-002	00:11:22;
+
+[PrintText]=00:05:13	Makoto	¿Tu casa...?^	00:07:20;
+
+[PlayVoice]=00:05:13	Voice05/05-5O/05-5O-I07/05-5O-I07-0060	1	mak	00:07:20;
+
+[PrintText]=00:08:02	Kotonoha	Nadie estará en casa...	00:10:17;
+
+[PlayVoice]=00:08:02	Voice05/05-5O/05-5O-I07/05-5O-I07-0070	0	kot	00:10:17;
+
+[PrintText]=00:10:21	Makoto	...	00:11:19;
+
+[PlayVoice]=00:10:21	Voice05/05-5O/05-5O-I07/05-5O-I07-0080	1	xxx	00:11:19;
+
+[CreateBG]=00:11:22	BGS	Event05/05-5O/05-5O-I07/05-5O-I07-003	00:14:16;
+
+[PrintText]=00:12:02	Kotonoha	Me gustaría que vinieras.	00:13:13;
+
+[PlayVoice]=00:12:02	Voice05/05-5O/05-5O-I07/05-5O-I07-0090	0	kot	00:13:13;
+
+[PrintText]=00:13:18	Makoto	Uh...	00:14:15;
+
+[PlayVoice]=00:13:18	Voice05/05-5O/05-5O-I07/05-5O-I07-0100	1	mak	00:14:15;
+
+ ;
+
+[Next]=00:14:16;
+
+

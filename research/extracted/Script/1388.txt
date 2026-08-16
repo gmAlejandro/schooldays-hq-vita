@@ -1,0 +1,30 @@
+﻿[SkipFRAME]=00:09:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:14:23;
+
+[CreateBG]=00:00:00	BGS	Event05/05-A0/05-A0-H00/05-A0-H00-001	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Event05/05-A0/05-A0-H00/05-A0-H00-002	00:06:17;
+
+[PrintText]=00:01:07	Nanami	Itou.	00:02:04;
+
+[PlayVoice]=00:01:07	Voice05/05-A0/05-A0-H00/05-A0-H00-0050	0	nan	00:02:04;
+
+[PrintText]=00:02:08	Nanami	Es tu culpa que ella esté actuando extraña.	00:06:17;
+
+[PlayVoice]=00:02:08	Voice05/05-A0/05-A0-H00/05-A0-H00-0080	0	nan	00:06:17;
+
+[CreateBG]=00:06:17	BGS	Event05/05-A0/05-A0-H00/05-A0-H00-003	00:14:23;
+
+[PrintText]=00:06:19	Nanami	¿O me equivoco?^	00:08:20;
+
+[PlayVoice]=00:06:19	Voice05/05-A0/05-A0-H00/05-A0-H00-0100	0	nan	00:07:05;
+
+[SetSELECT]=00:09:00	'Tienes razón'	'Te equivocas'	00:14:00;
+
+
+ ;
+
+[Next]=00:14:23;
+
+

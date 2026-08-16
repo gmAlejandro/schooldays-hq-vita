@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:47:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:47:12;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-E00/01-00-E00-004	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-SA/04-SA-Q00/04-SA-Q00-002	00:05:06;
+
+[PrintText]=00:03:00	Taisuke	Cielos, se hizo tarde.	00:05:05;
+
+[PlayVoice]=00:03:00	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0040	1	tai	00:05:05;
+
+[PrintText]=00:05:05	Sekai	Si bastante.	00:06:07;
+
+[PlayVoice]=00:05:05	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0050	0	sek	00:06:07;
+
+[CreateBG]=00:05:06	BGS	Event04/04-SA/04-SA-Q00/04-SA-Q00-003	00:09:00;
+
+[PrintText]=00:06:07	Hikari	¿Qué diablos estará haciendo...?^	00:08:10;
+
+[PlayVoice]=00:06:07	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0060	0	hik	00:08:10;
+
+[CreateBG]=00:09:00	BGS	Event04/04-SA/04-SA-Q00/04-SA-Q00-004	00:14:23;
+
+[PrintText]=00:09:00	Makoto	¡Disculpen! Me tomo un tiempo venir.	00:11:05;
+
+[PlayVoice]=00:09:00	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0090	1	mak	00:11:05;
+
+[PrintText]=00:11:06	Taisuke	Llegas tarde.	00:12:15;
+
+[PlayVoice]=00:11:06	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0100	1	tai	00:12:15;
+
+[PrintText]=00:12:15	Makoto	Tuve algunos problemas en casa.	00:14:22;
+
+[PlayVoice]=00:12:15	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0110	1	mak	00:14:22;
+
+[PrintText]=00:14:22	Taisuke	¿Problemas familiares?^	00:16:05;
+
+[PlayVoice]=00:14:22	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0120	1	tai	00:16:05;
+
+[CreateBG]=00:14:23	BGS	Event04/04-SA/04-SA-Q00/04-SA-Q00-005	00:23:00;
+
+[PrintText]=00:16:04	Makoto	Pues... mi hermana quería venir y estar con nosotros.	00:21:02;
+
+[PlayVoice]=00:16:04	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0130	1	mak	00:21:02;
+
+[PrintText]=00:21:02	Taisuke	Pues la hubieras traído contigo.	00:22:23;
+
+[PlayVoice]=00:21:02	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0140	1	tai	00:22:23;
+
+[PrintText]=00:22:23	Makoto	Bueno, parece que salió sin el permiso de mi padre... y la tuve que cubrir.	00:29:20;
+
+[PlayVoice]=00:22:23	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0150	1	mak	00:29:20;
+
+[CreateBG]=00:23:00	BGS	Event04/04-SA/04-SA-Q00/04-SA-Q00-005A	00:29:21;
+
+[PrintText]=00:29:20	Taisuke	Ya veo, vives con tu madre ¿No?^	00:33:00;
+
+[PlayVoice]=00:29:20	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0160	1	tai	00:33:00;
+
+[CreateBG]=00:29:21	BGS	Event04/04-SA/04-SA-Q00/04-SA-Q00-005B	00:41:12;
+
+[PrintText]=00:33:00	Makoto	Fue su cumpleaños esta semana, así que hicimos una fiesta. Ella estaba tan feliz que estaba hablando acerca de quedarse en nuestra casa...	00:41:08;
+
+[PlayVoice]=00:33:00	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0170	1	mak	00:41:08;
+
+[CreateBG]=00:41:12	BGS	Event04/04-SA/04-SA-Q00/04-SA-Q00-005C	00:47:12;
+
+[PrintText]=00:41:12	Makoto	Haah. En serio, ¡Disculpenme!	00:44:14;
+
+[PlayVoice]=00:41:12	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0171	1	mak	00:44:14;
+
+[PrintText]=00:45:00	Taisuke	No te preocupes. Vamos.	00:47:01;
+
+[PlayVoice]=00:45:00	Voice04/04-SA/04-SA-Q00/04-SA-Q00-0180	1	tai	00:47:01;
+
+ ;
+
+[Next]=00:47:12;
+
+

@@ -1,0 +1,101 @@
+﻿[SkipFRAME]=00:47:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:47:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-009	00:05:17;
+
+[PrintText]=00:00:08	Makoto	No me causas problemas.	00:01:18;
+
+[PlayVoice]=00:00:08	Voice05/05-5O/05-5O-A06/05-5O-A06-0030	1	mak	00:01:18;
+
+[PrintText]=00:01:19	Sekai	¿En serio?^	00:04:17;
+
+[PlayVoice]=00:01:19	Voice05/05-5O/05-5O-A06/05-5O-A06-0040	0	sek	00:04:17;
+
+[PrintText]=00:05:00	Makoto	Sí.	00:05:15;
+
+[PlayVoice]=00:05:00	Voice05/05-5O/05-5O-A06/05-5O-A06-0050	1	mak	00:05:15;
+
+[CreateBG]=00:05:17	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-008	00:07:00;
+
+[PrintText]=00:05:17	Sekai	...	00:06:17;
+
+[PlayVoice]=00:05:17	Voice05/05-5O/05-5O-A06/05-5O-A06-0060	0	xxx	00:06:17;
+
+[CreateBG]=00:07:00	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-005	00:18:06;
+
+[PrintText]=00:07:00	Makoto	Yo solo quiero que estés bien, eso es todo... no me causas problemas para nada.	00:13:19;
+
+[PlayVoice]=00:07:00	Voice05/05-5O/05-5O-A06/05-5O-A06-0070	1	mak	00:13:19;
+
+[PrintText]=00:14:00	Sekai	Uh-huh...	00:15:04;
+
+[PlayVoice]=00:14:00	Voice05/05-5O/05-5O-A06/05-5O-A06-0080	0	sek	00:15:04;
+
+[PrintText]=00:15:08	Makoto	Sekai, tú...	00:18:02;
+
+[PlayVoice]=00:15:08	Voice05/05-5O/05-5O-A06/05-5O-A06-0090	1	mak	00:18:02;
+
+[CreateBG]=00:18:06	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-004	00:26:01;
+
+[PrintText]=00:18:06	Sekai	¿S-Sí?^	00:20:12;
+
+[PlayVoice]=00:18:06	Voice05/05-5O/05-5O-A06/05-5O-A06-0100	0	sek	00:20:12;
+
+[PrintText]=00:20:15	Makoto	...	00:21:20;
+
+[PlayVoice]=00:20:15	Voice05/05-5O/05-5O-A06/05-5O-A06-0110	1	xxx	00:21:20;
+
+[PrintText]=00:21:13	Sekai	¿Qué... Qué hay de mí?^	00:25:23;
+
+[PlayVoice]=00:21:13	Voice05/05-5O/05-5O-A06/05-5O-A06-0120	0	sek	00:25:23;
+
+[CreateBG]=00:26:01	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-011	00:28:06;
+
+[PrintText]=00:26:05	Makoto	...	00:27:07;
+
+[PlayVoice]=00:26:05	Voice05/05-5O/05-5O-A06/05-5O-A06-0130	1	xxx	00:27:07;
+
+[PrintText]=00:27:08	Sekai	...	00:28:13;
+
+[PlayVoice]=00:27:08	Voice05/05-5O/05-5O-A06/05-5O-A06-0140	0	xxx	00:28:13;
+
+[CreateBG]=00:28:06	BGS	Event05/05-5O/05-5O-A06/05-5O-A06-006	00:31:12;
+
+[PrintText]=00:28:06	Makoto	...Tú eres alguien que me importa.	00:31:17;
+
+[PlayVoice]=00:28:06	Voice05/05-5O/05-5O-A06/05-5O-A06-0150	1	mak	00:31:17;
+
+[CreateBG]=00:31:12	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-010	00:38:05;
+
+[PrintText]=00:31:12	Sekai	...Gracias.	00:34:13;
+
+[PlayVoice]=00:31:12	Voice05/05-5O/05-5O-A06/05-5O-A06-0160	0	sek	00:34:13;
+
+[PrintText]=00:34:18	Makoto	Sí.	00:35:10;
+
+[PlayVoice]=00:34:18	Voice05/05-5O/05-5O-A06/05-5O-A06-0170	1	mak	00:35:10;
+
+[PrintText]=00:36:00	Sekai	Iré a descansar un rato ¿Vale?^	00:38:02;
+
+[PlayVoice]=00:36:00	Voice05/05-5O/05-5O-A06/05-5O-A06-0180	0	sek	00:38:02;
+
+[CreateBG]=00:38:05	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-003	00:43:05;
+
+[PrintText]=00:38:11	Makoto	O-oh, vale. Perdón por venir de repente.	00:43:06;
+
+[PlayVoice]=00:38:11	Voice05/05-5O/05-5O-A06/05-5O-A06-0190	1	mak	00:43:06;
+
+[CreateBG]=00:43:05	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-011	00:47:09;
+
+[PrintText]=00:43:13	Sekai	Está bien, nos vemos luego...	00:46:03;
+
+[PlayVoice]=00:43:13	Voice05/05-5O/05-5O-A06/05-5O-A06-0200	0	sek	00:46:03;
+
+[BlackFade]=00:46:09	OUT	00:47:09;
+
+ ;
+
+[Next]=00:47:09;
+
+

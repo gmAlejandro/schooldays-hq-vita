@@ -1,0 +1,237 @@
+﻿[SkipFRAME]=01:50:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	01:50:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-001	00:01:08;
+
+[CreateBG]=00:01:08	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-002	00:11:12;
+
+[PrintText]=00:01:08	Makoto	¡Bien! ¡Dos pedazos de torta con té negro!	00:04:21;
+
+[PlayVoice]=00:01:08	Voice03/03-A1/03-A1-E07/03-A1-E07-0050	1	mak	00:04:21;
+
+[PrintText]=00:03:12	Hikari	¡Vamos, el que sigue, el que sigue!	00:05:11;
+
+[PlayVoice]=00:03:12	Voice03/03-A1/03-A1-E07/03-A1-E07-0060	0	hik	00:05:11;
+
+[PrintText]=00:05:05	Makoto	Veamos... tres tazas de café, un pastel de crema, dos pasteles de manzana.	00:11:03;
+
+[PlayVoice]=00:05:05	Voice03/03-A1/03-A1-E07/03-A1-E07-0070	1	mak	00:11:03;
+
+[PrintText]=00:10:06	Hikari	Un poco rápido ¿No?^	00:11:12;
+
+[PlayVoice]=00:10:06	Voice03/03-A1/03-A1-E07/03-A1-E07-0080	0	hik	00:11:12;
+
+[CreateBG]=00:11:12	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-003	00:14:04;
+
+[PrintText]=00:11:12	Makoto	¡Ya sé!	00:12:22;
+
+[PlayVoice]=00:11:12	Voice03/03-A1/03-A1-E07/03-A1-E07-0090	1	mak	00:12:22;
+
+[PrintText]=00:13:02	Setsuna	Buen día.	00:14:02;
+
+[PlayVoice]=00:13:02	Voice03/03-A1/03-A1-E07/03-A1-E07-0120	0	set	00:14:02;
+
+[CreateBG]=00:14:04	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-004	00:26:02;
+
+[PrintText]=00:14:04	Makoto	¡Te tomas tu tiempo! ¡¿No eres un miembro del comité de implementación?!	00:16:12;
+
+[PlayVoice]=00:14:04	Voice03/03-A1/03-A1-E07/03-A1-E07-0130	1	mak	00:16:12;
+
+[PrintText]=00:16:14	Setsuna	Lo siento.	00:17:11;
+
+[PlayVoice]=00:16:14	Voice03/03-A1/03-A1-E07/03-A1-E07-0140	0	set	00:17:11;
+
+[PrintText]=00:17:14	Hikari	¿Y bien?^	00:18:13;
+
+[PlayVoice]=00:17:14	Voice03/03-A1/03-A1-E07/03-A1-E07-0150	0	hik	00:18:13;
+
+[PrintText]=00:18:18	Setsuna	...Dijo que no vendría.	00:19:22;
+
+[PlayVoice]=00:18:18	Voice03/03-A1/03-A1-E07/03-A1-E07-0160	0	set	00:19:22;
+
+[PrintText]=00:20:01	Hikari	Ya veo... ¿No es bueno?^	00:23:02;
+
+[PlayVoice]=00:20:01	Voice03/03-A1/03-A1-E07/03-A1-E07-0170	0	hik	00:23:02;
+
+[PrintText]=00:23:05	Setsuna	Uh-huh.	00:23:21;
+
+[PlayVoice]=00:23:05	Voice03/03-A1/03-A1-E07/03-A1-E07-0180	0	set	00:23:21;
+
+[PrintText]=00:24:02	Hikari	Supongo que no se puede evitar.	00:25:23;
+
+[PlayVoice]=00:24:02	Voice03/03-A1/03-A1-E07/03-A1-E07-0190	0	hik	00:25:23;
+
+[CreateBG]=00:26:02	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-005	00:27:05;
+
+[PrintText]=00:26:03	Makoto	¿Qué pasó?^	00:27:07;
+
+[PlayVoice]=00:26:03	Voice03/03-A1/03-A1-E07/03-A1-E07-0200	1	mak	00:27:07;
+
+[CreateBG]=00:27:05	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-006	00:33:12;
+
+[PrintText]=00:27:05	Hikari	Nada de tu incumbencia.	00:29:02;
+
+[PlayVoice]=00:27:05	Voice03/03-A1/03-A1-E07/03-A1-E07-0210	0	hik	00:29:02;
+
+[PrintText]=00:29:02	Makoto	¿Qué pasa contigo...?^	00:30:03;
+
+[PlayVoice]=00:29:02	Voice03/03-A1/03-A1-E07/03-A1-E07-0220	1	mak	00:30:03;
+
+[PrintText]=00:30:02	Hikari	¡Más importante, agrega un sandwich y una taza de café!	00:33:17;
+
+[PlayVoice]=00:30:02	Voice03/03-A1/03-A1-E07/03-A1-E07-0230	0	hik	00:33:17;
+
+[CreateBG]=00:33:12	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-007A	00:43:09;
+
+[PrintText]=00:33:12	Makoto	¡W-wah! ¡Ya lo tengo!	00:35:06;
+
+[PlayVoice]=00:33:12	Voice03/03-A1/03-A1-E07/03-A1-E07-0240	1	mak	00:35:06;
+
+[PrintText]=00:35:06	Makoto	Veamos... después viene dos pasteles de manzana y un te negro, un rollo de canela y café...	00:43:05;
+
+[PlayVoice]=00:35:06	Voice03/03-A1/03-A1-E07/03-A1-E07-0260	1	mak	00:43:05;
+
+[PrintText]=00:42:15	Taisuke	¡Makoto! ¡Hora del cambio! ¡Tómate un descanso de 20 minutos y coge algo para comer!	00:47:05;
+
+[PlayVoice]=00:42:15	Voice03/03-A1/03-A1-E07/03-A1-E07-0270	1	tai	00:47:05;
+
+[CreateBG]=00:43:09	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-007B	00:48:11;
+
+[PrintText]=00:47:02	Makoto	¿Qué? ¿20 Minutos?!	00:48:17;
+
+[PlayVoice]=00:47:02	Voice03/03-A1/03-A1-E07/03-A1-E07-0280	1	mak	00:48:17;
+
+[CreateBG]=00:48:11	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-008	01:02:19;
+
+[PrintText]=00:48:11	Taisuke	¡No tenemos opción! ¡Dijeron que Ishimaru y Ohka también estaban fuera!	00:52:14;
+
+[PlayVoice]=00:48:11	Voice03/03-A1/03-A1-E07/03-A1-E07-0290	1	tai	00:52:14;
+
+[PrintText]=00:52:08	Makoto	¡Gwah... entonces todo el grupo de la cocina se a ido!	00:56:05;
+
+[PlayVoice]=00:52:08	Voice03/03-A1/03-A1-E07/03-A1-E07-0300	1	mak	00:56:05;
+
+[PrintText]=00:55:22	Taisuke	No tenemos mucha gente en esta planta.	00:58:11;
+
+[PlayVoice]=00:55:22	Voice03/03-A1/03-A1-E07/03-A1-E07-0310	1	tai	00:58:11;
+
+[PrintText]=00:58:08	Makoto	¿Es en serio?^	00:59:11;
+
+[PlayVoice]=00:58:08	Voice03/03-A1/03-A1-E07/03-A1-E07-0320	1	mak	00:59:11;
+
+[PrintText]=00:59:09	Taisuke	Okubo y Takeuchi. También Saionji...	01:02:21;
+
+[PlayVoice]=00:59:09	Voice03/03-A1/03-A1-E07/03-A1-E07-0330	1	tai	01:02:21;
+
+[CreateBG]=01:02:19	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-009	01:06:13;
+
+[PrintText]=01:02:19	Makoto	También Sekai, huh... es un buen número de personas.	01:06:11;
+
+[PlayVoice]=01:02:19	Voice03/03-A1/03-A1-E07/03-A1-E07-0340	1	mak	01:06:11;
+
+[CreateBG]=01:06:13	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-010A	01:18:01;
+
+[PrintText]=01:06:13	Taisuke	Probablemente se enfermaron, pero supongo que muchos no quieren molestarse en venir al festival escolar.	01:13:01;
+
+[PlayVoice]=01:06:13	Voice03/03-A1/03-A1-E07/03-A1-E07-0350	1	tai	01:13:01;
+
+[PrintText]=01:12:21	Makoto	¿Como quién?^	01:14:03;
+
+[PlayVoice]=01:12:21	Voice03/03-A1/03-A1-E07/03-A1-E07-0360	1	mak	01:14:03;
+
+[PrintText]=01:14:01	Taisuke	Parece que Ishimaru y Okubo están en Sakakino-cho, una cita al parecer.	01:18:04;
+
+[PlayVoice]=01:14:01	Voice03/03-A1/03-A1-E07/03-A1-E07-0370	1	tai	01:18:04;
+
+[CreateBG]=01:18:01	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-010B	01:19:12;
+
+[PrintText]=01:18:01	Makoto	Los mataré.	01:19:09;
+
+[PlayVoice]=01:18:01	Voice03/03-A1/03-A1-E07/03-A1-E07-0380	1	mak	01:19:09;
+
+[CreateBG]=01:19:12	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-011	01:25:11;
+
+[PrintText]=01:19:12	Taisuke	Puedes matarlos mañana. Por ahora, déjame el resto.	01:22:21;
+
+[PlayVoice]=01:19:12	Voice03/03-A1/03-A1-E07/03-A1-E07-0390	1	tai	01:22:21;
+
+[PrintText]=01:22:17	Makoto	Sí.	01:23:09;
+
+[PlayVoice]=01:22:17	Voice03/03-A1/03-A1-E07/03-A1-E07-0400	1	mak	01:23:09;
+
+[PrintText]=01:23:10	Hikari	¡Siguiente orden, por favor!	01:25:01;
+
+[PlayVoice]=01:23:10	Voice03/03-A1/03-A1-E07/03-A1-E07-0410	0	hik	01:25:01;
+
+[PrintText]=01:24:20	Taisuke	¡Listo!	01:25:16;
+
+[PlayVoice]=01:24:20	Voice03/03-A1/03-A1-E07/03-A1-E07-0420	1	tai	01:25:16;
+
+[CreateBG]=01:25:11	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-012	01:34:14;
+
+[PrintText]=01:25:11	Hikari	Ah, Sawanaga. ¿Cambiarán?^	01:27:19;
+
+[PlayVoice]=01:25:11	Voice03/03-A1/03-A1-E07/03-A1-E07-0430	0	hik	01:27:19;
+
+[PrintText]=01:27:17	Taisuke	¡Sí. Déjame a mi le resto!	01:30:06;
+
+[PlayVoice]=01:27:17	Voice03/03-A1/03-A1-E07/03-A1-E07-0440	1	tai	01:30:06;
+
+[PrintText]=01:30:03	Makoto	Lo has oído. Voy a tomar un descanso con algo de comida.	01:33:13;
+
+[PlayVoice]=01:30:03	Voice03/03-A1/03-A1-E07/03-A1-E07-0450	1	mak	01:33:13;
+
+[PrintText]=01:33:08	Hikari	¡Un descanso, huh... Setsuna!	01:36:01;
+
+[PlayVoice]=01:33:08	Voice03/03-A1/03-A1-E07/03-A1-E07-0460	0	hik	01:36:01;
+
+[CreateBG]=01:34:14	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-013	01:36:23;
+
+[PrintText]=01:36:00	Makoto	¿Qué pasó?^	01:36:19;
+
+[PlayVoice]=01:36:00	Voice03/03-A1/03-A1-E07/03-A1-E07-0470	1	mak	01:36:19;
+
+[CreateBG]=01:36:23	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-014	01:43:09;
+
+[PrintText]=01:36:23	Hikari	Setsuna también está tomando un descanso. ¿Por qué no van juntos?^	01:40:10;
+
+[PlayVoice]=01:36:23	Voice03/03-A1/03-A1-E07/03-A1-E07-0480	0	hik	01:40:10;
+
+[PrintText]=01:40:07	Makoto	¿En serio? Vale, seguro.	01:43:05;
+
+[PlayVoice]=01:40:07	Voice03/03-A1/03-A1-E07/03-A1-E07-0490	1	mak	01:43:05;
+
+[CreateBG]=01:43:09	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-015	01:47:10;
+
+[PrintText]=01:43:09	Setsuna	¿Qué es todo esto?^	01:44:05;
+
+[PlayVoice]=01:43:09	Voice03/03-A1/03-A1-E07/03-A1-E07-0500	0	set	01:44:05;
+
+[PrintText]=01:44:10	Hikari	Itou dice que también va a tomarse un descanso.	01:46:14;
+
+[PlayVoice]=01:44:10	Voice03/03-A1/03-A1-E07/03-A1-E07-0510	0	hik	01:46:14;
+
+[PrintText]=01:46:15	Setsuna	Uh-huh.	01:47:07;
+
+[PlayVoice]=01:46:15	Voice03/03-A1/03-A1-E07/03-A1-E07-0520	0	set	01:47:07;
+
+[CreateBG]=01:47:10	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-016	01:48:19;
+
+[PrintText]=01:47:13	Makoto	¿Vamos juntos?^	01:48:16;
+
+[PlayVoice]=01:47:13	Voice03/03-A1/03-A1-E07/03-A1-E07-0530	1	mak	01:48:16;
+
+[CreateBG]=01:48:19	BGS	Event03/03-A1/03-A1-E07/03-A1-E07-017	01:50:20;
+
+[PrintText]=01:48:23	Setsuna	...Vale.	01:49:15;
+
+[PlayVoice]=01:48:23	Voice03/03-A1/03-A1-E07/03-A1-E07-0540	0	set	01:49:15;
+
+[BlackFade]=01:49:20	OUT	01:50:20;
+
+ ;
+
+[Next]=01:50:20;
+
+

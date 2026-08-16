@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:35:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:35:23;
+
+[CreateBG]=00:00:00	BGS	Movie04/04-KE/04-KE-E02/H4-KE-E02-001	00:09:14;
+
+[PrintText]=00:00:00	Makoto	Haah... haah...	00:06:05;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-E02/04-KE-E02-0050	1	mak	00:06:05;
+
+[WhiteFade]=00:00:00	IN	00:01:00;
+
+[PrintText]=00:06:05	Makoto	Haah... haah...	00:09:14;
+
+[PlayVoice]=00:06:05	Voice04/04-KE/04-KE-E02/04-KE-E02-0070	1	mak	00:09:14;
+
+[WhiteFade]=00:09:02	OUT	00:09:14;
+
+[CreateBG]=00:09:14	BGS	Event04/04-KE/04-KE-E02/04-KE-E02-002	00:17:12;
+
+[PrintText]=00:09:14	Makoto	La lengua de Sekai... se sintió tan bien...	00:17:12;
+
+[PlayVoice]=00:09:14	Voice04/04-KE/04-KE-E02/04-KE-E02-0080	1	mak	00:17:12;
+
+[WhiteFade]=00:09:14	IN	00:10:02;
+
+[WhiteFade]=00:17:00	OUT	00:17:12;
+
+[CreateBG]=00:17:12	BGS	Movie04/04-KE/04-KE-E02/H4-KE-E02-003	00:27:20;
+
+[PrintText]=00:17:12	Makoto	Haah... haah...	00:20:04;
+
+[PlayVoice]=00:17:12	Voice04/04-KE/04-KE-E02/04-KE-E02-0090	1	mak	00:20:04;
+
+[WhiteFade]=00:17:12	IN	00:18:00;
+
+[PrintText]=00:20:04	Makoto	¡Cuando lo movía... uh!	00:25:07;
+
+[PlayVoice]=00:20:04	Voice04/04-KE/04-KE-E02/04-KE-E02-0100	1	mak	00:25:07;
+
+[PrintText]=00:25:07	Makoto	Uh...	00:35:23;
+
+[PlayVoice]=00:25:07	Voice04/04-KE/04-KE-E02/04-KE-E02-0110	1	mak	00:35:23;
+
+[WhiteFade]=00:27:08	OUT	00:27:20;
+
+[CreateBG]=00:27:20	BGS	Event04/04-KE/04-KE-E01/04-KE-E01-006	00:35:23;
+
+[WhiteFade]=00:27:20	IN	00:28:08;
+
+[WhiteFade]=00:32:23	OUT	00:35:23;
+
+ ;
+
+[Next]=00:35:23;
+
+

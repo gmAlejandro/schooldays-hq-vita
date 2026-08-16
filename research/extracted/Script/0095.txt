@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:06:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:06:23;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-N01/01-00-N01-001	00:06:23;
+
+[PrintText]=00:00:09	Makoto	¿Entonces, tengo que lidiar con esto por mi cuenta eh...?^	00:04:03;
+
+[PlayVoice]=00:00:09	Voice01/01-00/01-00-N01/01-00-N01-0030	1	mak	00:04:03;
+
+[PrintText]=00:04:15	Makoto	¿Qué debería hacer?^	00:06:12;
+
+[PlayVoice]=00:04:15	Voice01/01-00/01-00-N01/01-00-N01-0040	1	mak	00:06:12;
+
+ ;
+
+[Next]=00:06:23;
+
+
+
+

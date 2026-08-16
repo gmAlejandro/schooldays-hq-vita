@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:11:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:11:04;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-M04/SE03-KB-M04-001	00:11:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-M04/03-KB-M04-001	00:06:04;
+
+[CreateBG]=00:06:04	BGS	Event03/03-KB/03-KB-M04/03-KB-M04-002	00:11:04;
+
+[PrintText]=00:06:04	Setsuna	Cielos... ¿Qué haría sin mí?^	00:09:06;
+
+[PlayVoice]=00:06:04	Voice03/03-KB/03-KB-M04/03-KB-M04-0040	0	set	00:09:06;
+
+ ;
+
+[Next]=00:11:04;
+
+

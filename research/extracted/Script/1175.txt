@@ -1,0 +1,229 @@
+﻿[SkipFRAME]=02:32:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-001	00:05:00;
+
+[PrintText]=00:00:00	Taisuke	Gwah... si hubiera que era así,	00:07:13;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0030	1	tai	00:07:13;
+
+[CreateBG]=00:05:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-002	00:10:00;
+
+[PrintText]=00:07:13	Taisuke	No hubiera tenido que planchar, cocinar, lavar la ropa y limpiar el baño para conseguirlos...	00:16:09;
+
+[PlayVoice]=00:07:13	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0031	1	tai	00:16:09;
+
+[PlaySe]=00:10:00	1	SysSe/SE_all/gaya/beach1	00:20:00;
+
+[PlaySe]=00:10:00	2	SysSe/SE_all/gaya/aqua_square	01:43:01;
+
+[CreateBG]=00:10:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-003	00:20:00;
+
+[PrintText]=00:16:09	Hikari	¿Tan lejos has ido...?^	00:19:09;
+
+[PlayVoice]=00:16:09	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0040	0	hik	00:19:09;
+
+[PrintText]=00:19:09	Taisuke	Quería venir a la piscina.	00:23:00;
+
+[PlayVoice]=00:19:09	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0050	1	tai	00:23:00;
+
+[CreateBG]=00:20:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-004	00:24:00;
+
+[PrintText]=00:23:00	Hikari	Sí, sí, nosotros reconocemos tu esfuerzo.	00:26:03;
+
+[PlayVoice]=00:23:00	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0060	0	hik	00:26:03;
+
+[CreateBG]=00:24:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-005	00:27:20;
+
+[PrintText]=00:26:03	Taisuke	Uuh...	00:27:19;
+
+[PlayVoice]=00:26:03	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0070	1	tai	00:27:19;
+
+[PrintText]=00:27:19	Hikari	Bueno, entremos.	00:29:09;
+
+[PlayVoice]=00:27:19	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0080	0	hik	00:29:09;
+
+[CreateBG]=00:27:20	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-006	00:35:00;
+
+[PrintText]=00:29:09	Taisuke	Whoa, es increíble.	00:32:19;
+
+[PlayVoice]=00:29:09	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0120	1	tai	00:32:19;
+
+[PrintText]=00:32:19	Kotonoha	Esa piscina, un tobogán... y muchas cosas ¿No?^	00:39:19;
+
+[PlayVoice]=00:32:19	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0130	0	kot	00:39:19;
+
+[CreateBG]=00:35:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-007	00:40:00;
+
+[PrintText]=00:39:19	Taisuke	¡Pues bien! ¿Por donde empezamos?^	00:41:23;
+
+[PlayVoice]=00:39:19	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0140	1	tai	00:41:23;
+
+[CreateBG]=00:40:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-008	00:45:00;
+
+[PrintText]=00:42:00	Kotonoha	Creo que iré a los toboganes.	00:44:08;
+
+[PlayVoice]=00:42:00	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0150	0	kot	00:44:08;
+
+[PrintText]=00:44:08	Taisuke	¡Empecemos por ese entonces!	00:45:15;
+
+[PlayVoice]=00:44:08	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0160	1	tai	00:45:15;
+
+[CreateBG]=00:45:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-009	00:50:00;
+
+[PrintText]=00:45:15	Hikari	...	00:46:15;
+
+[PlayVoice]=00:45:15	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0170	0	xxx	00:46:15;
+
+[PrintText]=00:46:15	Makoto	Hey, Taisuke.	00:47:20;
+
+[PlayVoice]=00:46:15	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0190	1	mak	00:47:20;
+
+[PrintText]=00:47:20	Taisuke	¿Sí?^	00:48:16;
+
+[PlayVoice]=00:47:20	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0200	1	tai	00:48:16;
+
+[PrintText]=00:48:16	Makoto	Nosotros iremos por ese lugar, así que adelántate.	00:53:04;
+
+[PlayVoice]=00:48:16	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0220	1	mak	00:53:04;
+
+[CreateBG]=00:50:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-010	00:55:00;
+
+[PrintText]=00:53:04	Taisuke	¿Quienes son 'Nosotros'?^	00:54:09;
+
+[PlayVoice]=00:53:04	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0230	1	tai	00:54:09;
+
+[PlaySe]=00:53:07	1	SysSe/SE_all/footsteps/pool_run	00:58:18;
+
+[PrintText]=00:54:09	Makoto	Sekai, yo y...	00:56:08;
+
+[PlayVoice]=00:54:09	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0240	1	mak	00:56:08;
+
+[CreateBG]=00:55:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-011	01:00:00;
+
+[PrintText]=00:56:08	Kotonoha	¡Apurate, Apurate!	00:58:05;
+
+[PlayVoice]=00:56:08	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0260	0	kot	00:58:05;
+
+[PrintText]=00:58:05	Makoto	...	00:59:08;
+
+[PlayVoice]=00:58:05	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0270	1	xxx	00:59:08;
+
+[PrintText]=00:59:08	Taisuke	Bueno, tu y Saionji pueden venir después. Me adelantaré.	01:03:12;
+
+[PlayVoice]=00:59:08	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0280	1	tai	01:03:12;
+
+[CreateBG]=01:00:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-012	01:05:00;
+
+[PrintText]=01:03:12	Makoto	V-Vale...	01:05:15;
+
+[PlayVoice]=01:03:12	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0290	1	mak	01:05:15;
+
+[CreateBG]=01:05:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-013	01:10:00;
+
+[PrintText]=01:05:15	Makoto	Kuroda... da lo mejor.	01:08:15;
+
+[PlayVoice]=01:05:15	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0310	1	mak	01:08:15;
+
+[PrintText]=01:08:15	Sekai	Eso fue inesperado.	01:10:06;
+
+[PlayVoice]=01:08:15	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0320	0	sek	01:10:06;
+
+[CreateBG]=01:10:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-014	01:15:00;
+
+[PrintText]=01:10:06	Makoto	¿Hmn?^	01:10:21;
+
+[PlayVoice]=01:10:06	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0330	1	mak	01:10:21;
+
+[PrintText]=01:10:20	Sekai	Pensaba que Katsura-san iba no iba a estar tan tranquila.	01:14:16;
+
+[PlayVoice]=01:10:20	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0340	0	sek	01:14:16;
+
+[PrintText]=01:14:16	Makoto	Parece que le gusta la piscina.	01:16:19;
+
+[PlayVoice]=01:14:16	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0350	1	mak	01:16:19;
+
+[CreateBG]=01:15:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-015	01:20:00;
+
+[PrintText]=01:16:20	Sekai	Uh-huh.	01:17:13;
+
+[PlayVoice]=01:16:20	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0360	0	sek	01:17:13;
+
+[PrintText]=01:17:13	Makoto	Relajémonos aquí y vamos a desearle suerte a Kuroda.	01:22:02;
+
+[PlayVoice]=01:17:13	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0370	1	mak	01:22:02;
+
+[CreateBG]=01:20:00	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-016	01:23:08;
+
+[PrintText]=01:22:02	Sekai	Vale.	01:22:20;
+
+[PlayVoice]=01:22:02	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0380	0	sek	01:22:20;
+
+[BlackFade]=01:22:07	OUT	01:23:08;
+
+[PlaySe]=01:23:08	1	SysSe/SE_all/gaya/beach1	01:31:15;
+
+[CreateBG]=01:23:08	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-017	01:31:15;
+
+[BlackFade]=01:23:08	IN	01:24:09;
+
+[PrintText]=01:25:11	Makoto	...	01:32:02;
+
+[PlayVoice]=01:25:11	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0410	1	xxx	01:32:02;
+
+[PrintText]=01:28:08	Sekai	Se van a tomar su tiempo al parece ¿No?^	01:30:16;
+
+[PlayVoice]=01:28:08	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0400	0	sek	01:30:16;
+
+[CreateBG]=01:31:15	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-019	01:33:16;
+
+[PrintText]=01:32:03	Sekai	¿...Makoto?^	01:33:15;
+
+[PlayVoice]=01:32:03	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0420	0	sek	01:33:15;
+
+[CreateBG]=01:33:16	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-019B	01:37:03;
+
+[PrintText]=01:34:12	Sekai	Ah...	01:35:05;
+
+[PlayVoice]=01:34:12	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0440	0	sek	01:35:05;
+
+[PrintText]=01:36:03	Sekai	Makoto...	01:37:03;
+
+[PlayVoice]=01:36:03	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0460	0	sek	01:37:03;
+
+[CreateBG]=01:37:03	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-019C	01:38:21;
+
+[PrintText]=01:37:19	Sekai	...	01:38:12;
+
+[PlayVoice]=01:37:19	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0470	0	xxx	01:38:12;
+
+[CreateBG]=01:38:21	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-019D	01:40:17;
+
+[PlayVoice]=01:38:23	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0480			01:39:09;
+
+[PrintText]=01:39:21	Sekai	Eheheh...	01:41:06;
+
+[PlayVoice]=01:39:21	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0490	0	sek	01:41:06;
+
+[CreateBG]=01:40:17	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-019E	01:42:18;
+
+[PrintText]=01:41:19	Sekai	Te amo...	01:42:23;
+
+[PlayVoice]=01:41:19	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0500	0	sek	01:42:23;
+
+[CreateBG]=01:42:18	BGS	Event04/04-SA/04-SA-Q03/04-SA-Q03-020	01:49:07;
+
+[PrintText]=01:43:00	Kotonoha	...	01:45:05;
+
+[PlayVoice]=01:43:00	Voice04/04-SA/04-SA-Q03/04-SA-Q03-0520	0	xxx	01:45:05;
+
+[EndBGM]=01:43:00	BGM/Vocal/SDV04	03:53:18;
+
+[CreateBG]=01:49:07	BGS	Ini/EndRoll/04-15	01:52:00;
+
+[EndRoll]=01:52:00	Ini/EndRoll/NORMAL	02:32:00;
+
+ ;
+
+[Next]=02:32:00;
+
+

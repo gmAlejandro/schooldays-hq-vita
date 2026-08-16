@@ -1,0 +1,123 @@
+﻿[SkipFRAME]=01:02:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:02:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-k00/05-KF-k00-001	00:02:10;
+
+[CreateBG]=00:02:10	BGS	Event05/05-KF/05-KF-k00/05-KF-K00-002	00:03:06;
+
+[PrintText]=00:02:10	Otome	¿Itou?^	00:03:05;
+
+[PlayVoice]=00:02:10	Voice05/05-KF/05-KF-K00/05-KF-K00-0030	0	oto	00:03:05;
+
+[CreateBG]=00:03:06	BGS	Event05/05-KF/05-KF-k00/05-KF-K00-003	00:08:15;
+
+[PrintText]=00:03:06	Makoto	¿Hmn? Oh, Katou.	00:05:12;
+
+[PlayVoice]=00:03:06	Voice05/05-KF/05-KF-K00/05-KF-K00-0040	1	mak	00:05:12;
+
+[PrintText]=00:05:13	Otome	No te veo aquí a menudo. ¿Estás solo?^	00:07:19;
+
+[PlayVoice]=00:05:13	Voice05/05-KF/05-KF-K00/05-KF-K00-0050	0	oto	00:07:19;
+
+[PrintText]=00:07:19	Makoto	Sí.	00:08:11;
+
+[PlayVoice]=00:07:19	Voice05/05-KF/05-KF-K00/05-KF-K00-0060	1	mak	00:08:11;
+
+[CreateBG]=00:08:15	BGS	Event05/05-KF/05-KF-k00/05-KF-K00-004	00:31:19;
+
+[PrintText]=00:08:23	Otome	Se acerca la Víspera de Navidad, pero parece que no tienes planes.	00:14:19;
+
+[PlayVoice]=00:08:23	Voice05/05-KF/05-KF-K00/05-KF-K00-0070	0	oto	00:14:19;
+
+[PrintText]=00:14:17	Makoto	Haha...	00:15:23;
+
+[PlayVoice]=00:14:17	Voice05/05-KF/05-KF-K00/05-KF-K00-0080	1	mak	00:15:23;
+
+[PrintText]=00:16:06	Otome	Hey, unos amigos y yo iremos al karaoke hoy. ¿Quieres unirte?^	00:24:01;
+
+[PlayVoice]=00:16:06	Voice05/05-KF/05-KF-K00/05-KF-K00-0090	0	oto	00:24:01;
+
+[PrintText]=00:24:01	Makoto	¿Eh?^	00:24:19;
+
+[PlayVoice]=00:24:01	Voice05/05-KF/05-KF-K00/05-KF-K00-0100	1	mak	00:24:19;
+
+[PrintText]=00:25:02	Otome	Tal vez te sientas mejor después de unas cuantas canciones.	00:27:21;
+
+[PlayVoice]=00:25:02	Voice05/05-KF/05-KF-K00/05-KF-K00-0110	0	oto	00:27:21;
+
+[PrintText]=00:28:10	Makoto	Crees que me veo algo mal ¿Huh?^	00:30:15;
+
+[PlayVoice]=00:28:10	Voice05/05-KF/05-KF-K00/05-KF-K00-0120	1	mak	00:30:15;
+
+[PrintText]=00:30:13	Otome	Solo un poco.	00:31:15;
+
+[PlayVoice]=00:30:13	Voice05/05-KF/05-KF-K00/05-KF-K00-0130	0	oto	00:31:15;
+
+[CreateBG]=00:31:19	BGS	Event05/05-KF/05-KF-k00/05-KF-K00-005	00:47:00;
+
+[PrintText]=00:31:19	Makoto	En realidad, estoy bastante bien.	00:33:18;
+
+[PlayVoice]=00:31:19	Voice05/05-KF/05-KF-K00/05-KF-K00-0140	1	mak	00:33:18;
+
+[PrintText]=00:34:01	Otome	¿En serio?^	00:34:17;
+
+[PlayVoice]=00:34:01	Voice05/05-KF/05-KF-K00/05-KF-K00-0150	0	oto	00:34:17;
+
+[PrintText]=00:34:22	Makoto	Sí, tuve algunos problemas... pero ya estoy bien.	00:41:01;
+
+[PlayVoice]=00:34:22	Voice05/05-KF/05-KF-K00/05-KF-K00-0160	1	mak	00:41:01;
+
+[PrintText]=00:41:07	Otome	¿Hmn?^	00:42:10;
+
+[PlayVoice]=00:41:07	Voice05/05-KF/05-KF-K00/05-KF-K00-0170	0	oto	00:42:10;
+
+[PrintText]=00:42:14	Makoto	Gracias por la invitación, pero hoy no podrá ser.	00:46:20;
+
+[PlayVoice]=00:42:14	Voice05/05-KF/05-KF-K00/05-KF-K00-0180	1	mak	00:46:20;
+
+[CreateBG]=00:47:00	BGS	Event05/05-KF/05-KF-k00/05-KF-K00-006	00:52:21;
+
+[PrintText]=00:47:00	Otome	¿Ya tienes planes?^	00:48:13;
+
+[PlayVoice]=00:47:00	Voice05/05-KF/05-KF-K00/05-KF-K00-0190	0	oto	00:48:13;
+
+[PrintText]=00:48:14	Makoto	Sí.	00:49:05;
+
+[PlayVoice]=00:48:14	Voice05/05-KF/05-KF-K00/05-KF-K00-0200	1	mak	00:49:05;
+
+[PrintText]=00:49:08	Otome	¿Con tu novia?^	00:50:07;
+
+[PlayVoice]=00:49:08	Voice05/05-KF/05-KF-K00/05-KF-K00-0210	0	oto	00:50:07;
+
+[PrintText]=00:50:20	Makoto	Creo que podrías llamarla así.	00:52:07;
+
+[PlayVoice]=00:50:20	Voice05/05-KF/05-KF-K00/05-KF-K00-0220	1	mak	00:52:07;
+
+[PrintText]=00:52:04	Otome	¿Huh?^	00:52:16;
+
+[PlayVoice]=00:52:04	Voice05/05-KF/05-KF-K00/05-KF-K00-0230	0	oto	00:52:16;
+
+[CreateBG]=00:52:21	BGS	Event05/05-KF/05-KF-k00/05-KF-K00-007	01:02:00;
+
+[PrintText]=00:52:21	Makoto	Iré a verla y... hacer que sea mi verdadera novia.	00:57:06;
+
+[PlayVoice]=00:52:21	Voice05/05-KF/05-KF-K00/05-KF-K00-0240	1	mak	00:57:06;
+
+[PrintText]=00:57:18	Otome	¿Verdadera novia...?^	01:00:00;
+
+[PlayVoice]=00:57:18	Voice05/05-KF/05-KF-K00/05-KF-K00-0250	0	oto	01:00:00;
+
+[PrintText]=01:00:02	Makoto	Sí.	01:00:16;
+
+[PlayVoice]=01:00:02	Voice05/05-KF/05-KF-K00/05-KF-K00-0260	1	mak	01:00:16;
+
+[BlackFade]=01:01:00	OUT	01:02:00;
+
+ ;
+
+[Next]=01:02:00;
+
+
+
+

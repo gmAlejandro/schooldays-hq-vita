@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:19:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:19:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-B04/05-5O-B04-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-C01/05-5O-C01-002	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-5O/05-5O-C01/05-5O-C01-002B	00:06:08;
+
+[PrintText]=00:05:01	Kotonoha	Makoto-kun...	00:06:04;
+
+[PlayVoice]=00:05:01	Voice05/05-5O/05-5O-C01/05-5O-C01-0040	0	kot	00:06:04;
+
+[CreateBG]=00:06:08	BGS	Event05/05-5O/05-5O-C01/05-5O-C01-004	00:15:01;
+
+[PrintText]=00:06:08	Otome	Katsura...	00:07:13;
+
+[PlayVoice]=00:06:08	Voice05/05-5O/05-5O-C01/05-5O-C01-0060	0	oto	00:07:13;
+
+[PrintText]=00:07:16	Makoto	Kotonoha. Lo siento.	00:11:08;
+
+[PlayVoice]=00:07:16	Voice05/05-5O/05-5O-C01/05-5O-C01-0070	1	mak	00:11:08;
+
+[PrintText]=00:12:06	Kotonoha	Pero...	00:14:04;
+
+[PlayVoice]=00:12:06	Voice05/05-5O/05-5O-C01/05-5O-C01-0080	0	kot	00:14:04;
+
+[PrintText]=00:14:02	Makoto	...	00:14:19;
+
+[PlayVoice]=00:14:02	Voice05/05-5O/05-5O-C01/05-5O-C01-0090	1	xxx	00:14:19;
+
+[CreateBG]=00:15:01	BGS	Event05/05-5O/05-5O-C01/05-5O-C01-005	00:19:21;
+
+[PrintText]=00:15:04	Kotonoha	Uuh...	00:18:15;
+
+[PlayVoice]=00:15:04	Voice05/05-5O/05-5O-C01/05-5O-C01-0110	0	kot	00:18:15;
+
+ ;
+
+[Next]=00:19:21;
+
+

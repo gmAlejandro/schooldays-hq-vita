@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=00:49:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:49:02;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-001	00:06:15;
+
+[PrintText]=00:00:00	Makoto	Seguro.	00:00:18;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-F02/03-SB-F02-0030	1	mak	00:00:18;
+
+[PrintText]=00:00:18	Kotonoha	¿Eh? ¡¿E...En serio?!	00:04:03;
+
+[PlayVoice]=00:00:18	Voice03/03-SB/03-SB-F02/03-SB-F02-0040	0	kot	00:04:03;
+
+[PrintText]=00:04:04	Makoto	¿Por qué habría que mentirte?^	00:06:14;
+
+[PlayVoice]=00:04:04	Voice03/03-SB/03-SB-F02/03-SB-F02-0050	1	mak	00:06:14;
+
+[PrintText]=00:06:14	Kotonoha	Sí... pero ¿En serio?^	00:10:03;
+
+[PlayVoice]=00:06:14	Voice03/03-SB/03-SB-F02/03-SB-F02-0060	0	kot	00:10:03;
+
+[CreateBG]=00:06:15	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-002	00:14:08;
+
+[PrintText]=00:10:03	Makoto	Sí, en serio.	00:11:22;
+
+[PlayVoice]=00:10:03	Voice03/03-SB/03-SB-F02/03-SB-F02-0070	1	mak	00:11:22;
+
+[PrintText]=00:11:22	Kotonoha	Entonces es una promesa.	00:14:07;
+
+[PlayVoice]=00:11:22	Voice03/03-SB/03-SB-F02/03-SB-F02-0080	0	kot	00:14:07;
+
+[PrintText]=00:14:07	Makoto	Pues claro. Veamos el festival juntos.	00:17:08;
+
+[PlayVoice]=00:14:07	Voice03/03-SB/03-SB-F02/03-SB-F02-0090	1	mak	00:17:08;
+
+[CreateBG]=00:14:08	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-003A	00:17:09;
+
+[PrintText]=00:17:08	Kotonoha	¡Sí!	00:18:01;
+
+[PlayVoice]=00:17:08	Voice03/03-SB/03-SB-F02/03-SB-F02-0100	0	kot	00:18:01;
+
+[CreateBG]=00:17:09	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-003B	00:18:02;
+
+[CreateBG]=00:18:02	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-004	00:25:23;
+
+[PrintText]=00:18:02	Makoto	Estaré ayudando a la clase hasta la 1 PM ¿Qué hay de ti?^	00:24:17;
+
+[PlayVoice]=00:18:02	Voice03/03-SB/03-SB-F02/03-SB-F02-0110	1	mak	00:24:17;
+
+[PrintText]=00:24:17	Kotonoha	Ah... tengo que atender como recepcionista de la clase, pero...	00:32:13;
+
+[PlayVoice]=00:24:17	Voice03/03-SB/03-SB-F02/03-SB-F02-0120	0	kot	00:32:13;
+
+[CreateBG]=00:25:23	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-004B	00:32:13;
+
+[CreateBG]=00:32:13	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-004C	00:40:07;
+
+[PrintText]=00:32:13	Makoto	¿'Tienes'?^	00:33:16;
+
+[PlayVoice]=00:32:13	Voice03/03-SB/03-SB-F02/03-SB-F02-0130	1	mak	00:33:16;
+
+[PrintText]=00:33:16	Kotonoha	Acabo de pensar que pasaría si no vinieras... estaría en la recepción todo el día.	00:40:06;
+
+[PlayVoice]=00:33:16	Voice03/03-SB/03-SB-F02/03-SB-F02-0140	0	kot	00:40:06;
+
+[PrintText]=00:40:06	Makoto	Haha... No creo que eso pase.	00:43:06;
+
+[PlayVoice]=00:40:06	Voice03/03-SB/03-SB-F02/03-SB-F02-0150	1	mak	00:43:06;
+
+[CreateBG]=00:40:07	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-004D	00:43:07;
+
+[PrintText]=00:43:06	Kotonoha	¿En serio?^	00:45:01;
+
+[PlayVoice]=00:43:06	Voice03/03-SB/03-SB-F02/03-SB-F02-0160	0	kot	00:45:01;
+
+[CreateBG]=00:43:07	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-005	00:44:22;
+
+[CreateBG]=00:44:22	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-006	00:48:00;
+
+[PrintText]=00:45:02	Makoto	Iré a buscarte en cuanto termine.	00:48:00;
+
+[PlayVoice]=00:45:02	Voice03/03-SB/03-SB-F02/03-SB-F02-0170	1	mak	00:48:00;
+
+[CreateBG]=00:48:00	BGS	Event03/03-SB/03-SB-F02/03-SB-F02-007	00:49:02;
+
+[PrintText]=00:48:00	Kotonoha	Vale.	00:49:00;
+
+[PlayVoice]=00:48:00	Voice03/03-SB/03-SB-F02/03-SB-F02-0180	0	kot	00:49:00;
+
+ ;
+
+[Next]=00:49:02;
+
+

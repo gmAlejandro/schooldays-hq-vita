@@ -1,0 +1,133 @@
+﻿[SkipFRAME]=01:07:11;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-K07/SE03-KB-K07-001	01:07:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-001	00:01:03;
+
+[PrintText]=00:00:05	Makoto	...	00:01:03;
+
+[PlayVoice]=00:00:05	Voice03/03-KB/03-KB-K07/03-KB-K07-0030	1	xxx	00:01:03;
+
+[CreateBG]=00:01:03	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-002	00:12:22;
+
+[PrintText]=00:01:03	Nanami	¿En qué tanto piensas?^	00:03:01;
+
+[PlayVoice]=00:01:03	Voice03/03-KB/03-KB-K07/03-KB-K07-0040	0	nan	00:03:01;
+
+[PrintText]=00:03:00	Makoto	Nada.	00:03:18;
+
+[PlayVoice]=00:03:00	Voice03/03-KB/03-KB-K07/03-KB-K07-0050	1	mak	00:03:18;
+
+[PrintText]=00:03:18	Nanami	¿No estás libre? Estás de descanso ahora ¿No?^	00:07:16;
+
+[PlayVoice]=00:03:18	Voice03/03-KB/03-KB-K07/03-KB-K07-0060	0	nan	00:07:16;
+
+[PrintText]=00:07:16	Makoto	Bueno, sí.	00:08:16;
+
+[PlayVoice]=00:07:16	Voice03/03-KB/03-KB-K07/03-KB-K07-0070	1	mak	00:08:16;
+
+[PrintText]=00:08:16	Nanami	¿Entonces no hay problema?^	00:09:23;
+
+[PlayVoice]=00:08:16	Voice03/03-KB/03-KB-K07/03-KB-K07-0080	0	nan	00:09:23;
+
+[PrintText]=00:09:23	Otome	Si estás libre... ¿Por qué no vamos a caminar juntos?^	00:12:21;
+
+[PlayVoice]=00:09:23	Voice03/03-KB/03-KB-K07/03-KB-K07-0090	0	oto	00:12:21;
+
+[PrintText]=00:12:21	Makoto	¡¿Eh?! No te preocupes, puedes ir con tus amigas.	00:16:03;
+
+[PlayVoice]=00:12:21	Voice03/03-KB/03-KB-K07/03-KB-K07-0100	1	mak	00:16:03;
+
+[CreateBG]=00:12:22	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-003	00:16:04;
+
+[PrintText]=00:16:03	Nanami	Ah, pero así no funciona. Yo iré a ver a mi novio.	00:20:12;
+
+[PlayVoice]=00:16:03	Voice03/03-KB/03-KB-K07/03-KB-K07-0110	0	nan	00:20:12;
+
+[CreateBG]=00:16:04	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-004	00:26:13;
+
+[PrintText]=00:20:12	Minami	Y tenemos que ocuparnos de nuestro evento de clase.	00:23:00;
+
+[PlayVoice]=00:20:12	Voice03/03-KB/03-KB-K07/03-KB-K07-0120	0	min	00:23:00;
+
+[PrintText]=00:23:00	Otome	Soy la única que está libre. Vamos, dame compañía.	00:26:13;
+
+[PlayVoice]=00:23:00	Voice03/03-KB/03-KB-K07/03-KB-K07-0130	0	oto	00:26:13;
+
+[CreateBG]=00:26:13	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-001	00:31:02;
+
+[PrintText]=00:26:13	Makoto	Ya veo... pero estoy en medio de una conversación ahora.	00:31:01;
+
+[PlayVoice]=00:26:13	Voice03/03-KB/03-KB-K07/03-KB-K07-0140	1	mak	00:31:01;
+
+[PrintText]=00:31:01	Nanami	¿'Conversación'...?^	00:32:21;
+
+[PlayVoice]=00:31:01	Voice03/03-KB/03-KB-K07/03-KB-K07-0150	0	nan	00:32:21;
+
+[CreateBG]=00:31:02	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-006	00:34:04;
+
+[PlayVoice]=00:32:21	Voice03/03-KB/03-KB-K07/03-KB-K07-0160			00:34:04;
+
+[CreateBG]=00:34:04	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-007	00:41:20;
+
+[PrintText]=00:34:04	Kotonoha	¡Ah! Yo... Yo no... um... en serio ¡Estoy bien!	00:40:00;
+
+[PlayVoice]=00:34:04	Voice03/03-KB/03-KB-K07/03-KB-K07-0170	0	kot	00:40:00;
+
+[PrintText]=00:40:00	Nanami	¿Lo ves?^	00:41:19;
+
+[PlayVoice]=00:40:00	Voice03/03-KB/03-KB-K07/03-KB-K07-0180	0	nan	00:41:19;
+
+[PrintText]=00:41:19	Makoto	¿No la están presionando un poco?^	00:44:23;
+
+[PlayVoice]=00:41:19	Voice03/03-KB/03-KB-K07/03-KB-K07-0190	1	mak	00:44:23;
+
+[CreateBG]=00:41:20	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-008	00:47:17;
+
+[PrintText]=00:44:22	Nanami	Por supuesto que no ¿Eh?^	00:47:17;
+
+[PlayVoice]=00:44:22	Voice03/03-KB/03-KB-K07/03-KB-K07-0200	0	nan	00:47:17;
+
+[CreateBG]=00:47:17	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-009	00:54:21;
+
+[PrintText]=00:47:17	Kotonoha	S-Sí. Kanroji-san está en lo cierto.	00:51:15;
+
+[PlayVoice]=00:47:17	Voice03/03-KB/03-KB-K07/03-KB-K07-0210	0	kot	00:51:15;
+
+[PrintText]=00:51:15	Makoto	Kanroji ¿Tú y Kotonoha se conocen?^	00:54:21;
+
+[PlayVoice]=00:51:15	Voice03/03-KB/03-KB-K07/03-KB-K07-0220	1	mak	00:54:21;
+
+[PrintText]=00:54:20	Nanami	Somos de la misma primaria.	00:57:00;
+
+[PlayVoice]=00:54:20	Voice03/03-KB/03-KB-K07/03-KB-K07-0230	0	nan	00:57:00;
+
+[CreateBG]=00:54:21	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-002	01:01:15;
+
+[PrintText]=00:57:01	Makoto	Ya veo.	00:58:10;
+
+[PlayVoice]=00:57:01	Voice03/03-KB/03-KB-K07/03-KB-K07-0240	1	mak	00:58:10;
+
+[PrintText]=00:58:10	Kotonoha	...	00:59:23;
+
+[PlayVoice]=00:58:10	Voice03/03-KB/03-KB-K07/03-KB-K07-0250	0	xxx	00:59:23;
+
+[PrintText]=01:00:00	Otome	Hey, venga, vamos.	01:01:14;
+
+[PlayVoice]=01:00:00	Voice03/03-KB/03-KB-K07/03-KB-K07-0260	0	oto	01:01:14;
+
+[PrintText]=01:01:14	Makoto	Haah... vale, voy. Te acompañaré.	01:05:21;
+
+[PlayVoice]=01:01:14	Voice03/03-KB/03-KB-K07/03-KB-K07-0270	1	mak	01:05:21;
+
+[CreateBG]=01:01:15	BGS	Event03/03-KB/03-KB-K07/03-KB-K07-011	01:07:11;
+
+[PrintText]=01:05:21	Otome	Heheh... Vamos.	01:07:10;
+
+[PlayVoice]=01:05:21	Voice03/03-KB/03-KB-K07/03-KB-K07-0280	0	oto	01:07:10;
+
+ ;
+
+[Next]=01:07:11;
+
+

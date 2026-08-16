@@ -1,0 +1,155 @@
+﻿[SkipFRAME]=01:20:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm14	01:20:03;
+
+[PlaySe]=00:00:00	1	Se01/01-1K/01-1K-L00/SE01-1K-L00-001	01:20:03;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-012	00:03:02;
+
+[CreateBG]=00:03:02	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-002	00:06:17;
+
+[PrintText]=00:03:05	Makoto	Kotonoha.	00:04:09;
+
+[PlayVoice]=00:03:05	Voice01/01-1K/01-1K-L00/01-1K-L00-0040	1	mak	00:04:09;
+
+[PrintText]=00:04:09	Kotonoha	Ah...	00:05:08;
+
+[PlayVoice]=00:04:09	Voice01/01-1K/01-1K-L00/01-1K-L00-0050	0	kot	00:05:08;
+
+[PrintText]=00:05:09	Makoto	Quiero hablar contigo.	00:06:19;
+
+[PlayVoice]=00:05:09	Voice01/01-1K/01-1K-L00/01-1K-L00-0060	1	mak	00:06:19;
+
+[CreateBG]=00:06:17	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-003	00:12:09;
+
+[PrintText]=00:06:18	Kotonoha	T-tengo una reunión del consejo...	00:09:14;
+
+[PlayVoice]=00:06:18	Voice01/01-1K/01-1K-L00/01-1K-L00-0070	0	kot	00:09:14;
+
+[PrintText]=00:09:09	Makoto	Podemos hablar después que termines.	00:10:16;
+
+[PlayVoice]=00:09:09	Voice01/01-1K/01-1K-L00/01-1K-L00-0080	1	mak	00:10:16;
+
+[PrintText]=00:10:16	Kotonoha	Me tomaré un tiempo aquí,	00:12:15;
+
+[PlayVoice]=00:10:16	Voice01/01-1K/01-1K-L00/01-1K-L00-0090	0	kot	00:12:15;
+
+[CreateBG]=00:12:09	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-004	00:17:12;
+
+[PrintText]=00:12:09	Makoto	Entonces esperaré.	00:13:03;
+
+[PlayVoice]=00:12:09	Voice01/01-1K/01-1K-L00/01-1K-L00-0100	1	mak	00:13:03;
+
+[PrintText]=00:13:07	Kotonoha	Y como se me hará tarde, tendré que llegar temprano a mi casa...	00:16:05;
+
+[PlayVoice]=00:13:07	Voice01/01-1K/01-1K-L00/01-1K-L00-0110	0	kot	00:16:05;
+
+[PrintText]=00:16:03	Makoto	Sí es solo un poco está bien.	00:17:13;
+
+[PlayVoice]=00:16:03	Voice01/01-1K/01-1K-L00/01-1K-L00-0120	1	mak	00:17:13;
+
+[CreateBG]=00:17:12	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-005	00:22:14;
+
+[PrintText]=00:17:13	Kotonoha	Pero...	00:18:21;
+
+[PlayVoice]=00:17:13	Voice01/01-1K/01-1K-L00/01-1K-L00-0130	0	kot	00:18:21;
+
+[PrintText]=00:19:01	Makoto	...	00:20:03;
+
+[PlayVoice]=00:19:01	Voice01/01-1K/01-1K-L00/01-1K-L00-0140	1	xxx	00:20:03;
+
+[PrintText]=00:20:13	Kotonoha	...	00:22:02;
+
+[PlayVoice]=00:20:13	Voice01/01-1K/01-1K-L00/01-1K-L00-0150	0	xxx	00:22:02;
+
+[CreateBG]=00:22:14	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-006	00:33:23;
+
+[PrintText]=00:22:14	Makoto	¡No haré nada como eso de nuevo!	00:26:22;
+
+[PlayVoice]=00:22:14	Voice01/01-1K/01-1K-L00/01-1K-L00-0160	1	mak	00:26:22;
+
+[PrintText]=00:26:20	Kotonoha	¡¿Eh?!	00:27:14;
+
+[PlayVoice]=00:26:20	Voice01/01-1K/01-1K-L00/01-1K-L00-0170	0	kot	00:27:14;
+
+[PrintText]=00:28:06	Makoto	¿No creo que te importe tanto...?.	00:31:18;
+
+[PlayVoice]=00:28:06	Voice01/01-1K/01-1K-L00/01-1K-L00-0180	1	mak	00:31:18;
+
+[PrintText]=00:32:00	Kotonoha	...	00:33:11;
+
+[PlayVoice]=00:32:00	Voice01/01-1K/01-1K-L00/01-1K-L00-0190	0	xxx	00:33:11;
+
+[WhiteFade]=00:33:11	OUT	00:33:23;
+
+[PlayMovie]=00:33:23	Movie01/01-1K/01-1K-L00/01-1K-L00-007	0	00:46:00;
+
+[WhiteFade]=00:33:23	IN	00:34:11;
+
+[PrintText]=00:34:11	Makoto	Es verdad que sostuve tu mano, y... bueno... estuve pensando en otras cosas mientras la sostenía...	00:45:14;
+
+[PlayVoice]=00:34:11	Voice01/01-1K/01-1K-L00/01-1K-L00-0200	1	mak	00:45:14;
+
+[WhiteFade]=00:45:12	OUT	00:46:00;
+
+[CreateBG]=00:46:00	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-010	01:03:12;
+
+[WhiteFade]=00:46:00	IN	00:46:12;
+
+[PrintText]=00:46:14	Makoto	y eso no fue una coincidencia, pero...	00:49:05;
+
+[PlayVoice]=00:46:14	Voice01/01-1K/01-1K-L00/01-1K-L00-0201	1	mak	00:49:05;
+
+[PrintText]=00:49:05	Kotonoha	...	00:50:17;
+
+[PlayVoice]=00:49:05	Voice01/01-1K/01-1K-L00/01-1K-L00-0210	0	xxx	00:50:17;
+
+[PrintText]=00:50:19	Makoto	Pero yo no nunca haría algo que no quisieras hacer.	00:55:18;
+
+[PlayVoice]=00:50:19	Voice01/01-1K/01-1K-L00/01-1K-L00-0220	1	mak	00:55:18;
+
+[PrintText]=00:55:20	Kotonoha	...	00:57:13;
+
+[PlayVoice]=00:55:20	Voice01/01-1K/01-1K-L00/01-1K-L00-0230	0	xxx	00:57:13;
+
+[PrintText]=00:57:16	Makoto	Por eso es que quiero disculparme. Empecemos de nuevo.	01:03:08;
+
+[PlayVoice]=00:57:16	Voice01/01-1K/01-1K-L00/01-1K-L00-0240	1	mak	01:03:08;
+
+[CreateBG]=01:03:12	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-011	01:11:03;
+
+[PrintText]=01:03:12	Kotonoha	...	01:05:18;
+
+[PlayVoice]=01:03:12	Voice01/01-1K/01-1K-L00/01-1K-L00-0250	0	xxx	01:05:18;
+
+[PrintText]=01:05:21	Makoto	Kotonoha.	01:07:03;
+
+[PlayVoice]=01:05:21	Voice01/01-1K/01-1K-L00/01-1K-L00-0260	1	mak	01:07:03;
+
+[PrintText]=01:07:01	Kotonoha	...La reunión está por empezar.	01:09:09;
+
+[PlayVoice]=01:07:01	Voice01/01-1K/01-1K-L00/01-1K-L00-0270	0	kot	01:09:09;
+
+[CreateBG]=01:11:03	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-012	01:15:09;
+
+[PrintText]=01:11:08	Makoto	¡Te estaré esperando en la estación... en la paradero!	01:15:03;
+
+[PlayVoice]=01:11:08	Voice01/01-1K/01-1K-L00/01-1K-L00-0290	1	mak	01:15:03;
+
+[CreateBG]=01:15:09	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-013	01:17:11;
+
+[PrintText]=01:15:18	Makoto	...	01:16:21;
+
+[PlayVoice]=01:15:18	Voice01/01-1K/01-1K-L00/01-1K-L00-0310	1	xxx	01:16:21;
+
+[CreateBG]=01:17:11	BGS	Event01/01-1K/01-1K-L00/01-1K-L00-014	01:20:03;
+
+[BlackFade]=01:19:03	OUT	01:20:03;
+
+ ;
+
+[Next]=01:20:03;
+
+
+
+

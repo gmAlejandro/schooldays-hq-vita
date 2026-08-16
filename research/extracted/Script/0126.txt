@@ -1,0 +1,17 @@
+﻿[SkipFRAME]=00:02:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:02:11;
+
+[PlaySe]=00:00:00	1	Voice01/01-00/01-00-R00/01-00-R00-0056	00:02:11;
+
+[CreateBG]=00:00:00	BGS	Ini/Event01/01-00/01-00-R06/01-00-R06-001	00:02:11;
+
+#[PrintText]=00:00:00	Makoto	"¿Te refieres a la cita de Ayer?".	00:02:11;
+
+ ;
+
+[Next]=00:02:11;
+
+
+
+

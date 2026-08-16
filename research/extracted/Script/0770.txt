@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:03:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:03:01;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G04/SE03-SA-G04-001	00:03:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G04/03-SA-G04-001	00:03:01;
+
+[PrintText]=00:00:00	Makoto	Eres tan buena.	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-G04/03-SA-G04-0030	1	mak	00:01:13;
+
+[PrintText]=00:01:13	Sekai	Eheh...	00:02:14;
+
+[PlayVoice]=00:01:13	Voice03/03-SA/03-SA-G04/03-SA-G04-0040	0	sek	00:02:14;
+
+ ;
+
+[Next]=00:03:01;
+
+

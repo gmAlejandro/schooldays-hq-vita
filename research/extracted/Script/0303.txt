@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:06:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:06:11;
+
+[PlaySe]=00:00:00	1	Voice02/02-2S/02-2S-D00/02-2S-D00-0050	00:06:11;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-D00/02-2S-D00-001	00:02:22;
+
+[CreateBG]=00:02:22	BGS	Event02/02-2S/02-2S-D00/02-2S-D00-002	00:06:11;
+
+[PrintText]=00:03:09	Kotonoha	...	00:04:19;
+
+[PlayVoice]=00:03:09	Voice02/02-2S/02-2S-D00/02-2S-D00-0070	0	xxx	00:04:19;
+
+[BlackFade]=00:05:11	OUT	00:06:11;
+
+ ;
+
+[Next]=00:06:11;
+
+
+
+

@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:15:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:15:20;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-Q03/SE01-00-Q03-002	00:15:20;
+
+[PlayMovie]=00:00:00	Movie01/01-00/01-00-Q03/01-00-Q03-001	0	00:05:03;
+
+[PrintText]=00:00:00	Kotonoha	Buen día.	00:01:11;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-Q03/01-00-Q03-0030	0	kot	00:01:11;
+
+[PrintText]=00:01:12	Makoto	Buen día.	00:02:07;
+
+[PlayVoice]=00:01:12	Voice01/01-00/01-00-Q03/01-00-Q03-0040	1	mak	00:02:07;
+
+[PrintText]=00:02:15	Kotonoha	Gracias por lo de ayer.	00:04:14;
+
+[PlayVoice]=00:02:15	Voice01/01-00/01-00-Q03/01-00-Q03-0050	0	kot	00:04:14;
+
+[PrintText]=00:04:13	Makoto	¡¿Eh?!	00:05:01;
+
+[PlayVoice]=00:04:13	Voice01/01-00/01-00-Q03/01-00-Q03-0060	1	mak	00:05:01;
+
+[PlayMovie]=00:05:03	Movie01/01-00/01-00-Q03/01-00-Q03-002	0	00:11:08;
+
+[PrintText]=00:05:03	Kotonoha	...Por llamarme.	00:06:17;
+
+[PlayVoice]=00:05:03	Voice01/01-00/01-00-Q03/01-00-Q03-0070	0	kot	00:06:17;
+
+[PrintText]=00:06:21	Makoto	Ah... ¿Puedo llamarte de nuevo?^	00:09:23;
+
+[PlayVoice]=00:06:21	Voice01/01-00/01-00-Q03/01-00-Q03-0080	1	mak	00:09:23;
+
+[PrintText]=00:10:02	Kotonoha	Claro.	00:11:04;
+
+[PlayVoice]=00:10:02	Voice01/01-00/01-00-Q03/01-00-Q03-0090	0	kot	00:11:04;
+
+[PlayMovie]=00:11:08	Movie01/01-00/01-00-Q03/01-00-Q03-003	0	00:15:20;
+
+[PrintText]=00:11:08	Makoto	Haha...	00:12:11;
+
+[PlayVoice]=00:11:08	Voice01/01-00/01-00-Q03/01-00-Q03-0100	1	mak	00:12:11;
+
+[PrintText]=00:12:12	Kotonoha	Ufufu...	00:14:14;
+
+[PlayVoice]=00:12:12	Voice01/01-00/01-00-Q03/01-00-Q03-0110	0	kot	00:14:14;
+
+[BlackFade]=00:14:20	OUT	00:15:20;
+
+ ;
+
+[Next]=00:15:20;
+
+
+
+

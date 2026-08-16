@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:24:23;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:31:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-F00/04-SA-F00-001	00:10:23;
+
+[PrintText]=00:00:10	Sekai	¿Quieres ir a algún lado y divertirte?^	00:02:17;
+
+[PlayVoice]=00:00:10	Voice04/04-SA/04-SA-F00/04-SA-F00-0030	0	sek	00:02:17;
+
+[PrintText]=00:02:18	Makoto	Ah...	00:03:11;
+
+[PlayVoice]=00:02:18	Voice04/04-SA/04-SA-F00/04-SA-F00-0040	1	mak	00:03:11;
+
+[PrintText]=00:03:11	Sekai	No es como si fuera una cita... bueno, lo es, pero no... um...	00:11:02;
+
+[PlayVoice]=00:03:11	Voice04/04-SA/04-SA-F00/04-SA-F00-0050	0	sek	00:11:02;
+
+[CreateBG]=00:10:23	BGS	Event04/04-SA/04-SA-F00/04-SA-F00-002	00:17:23;
+
+[PrintText]=00:11:05	Makoto	¿Entonces?^	00:12:04;
+
+[PlayVoice]=00:11:05	Voice04/04-SA/04-SA-F00/04-SA-F00-0060	1	mak	00:12:04;
+
+[PrintText]=00:12:05	Sekai	Estaremos en un grupo de cuatro...	00:16:08;
+
+[PlayVoice]=00:12:05	Voice04/04-SA/04-SA-F00/04-SA-F00-0070	0	sek	00:16:08;
+
+[PrintText]=00:16:09	Makoto	¿Tu... yo... y?^	00:18:01;
+
+[PlayVoice]=00:16:09	Voice04/04-SA/04-SA-F00/04-SA-F00-0080	1	mak	00:18:01;
+
+[CreateBG]=00:17:23	BGS	Event04/04-SA/04-SA-F00/04-SA-F00-003	00:31:00;
+
+[PrintText]=00:18:06	Sekai	Bueno, Sawanaga, por ejemplo.	00:20:20;
+
+[PlayVoice]=00:18:06	Voice04/04-SA/04-SA-F00/04-SA-F00-0090	0	sek	00:20:20;
+
+[PrintText]=00:20:21	Makoto	Taisuke, huh.	00:22:09;
+
+[PlayVoice]=00:20:21	Voice04/04-SA/04-SA-F00/04-SA-F00-0100	1	mak	00:22:09;
+
+[PrintText]=00:22:09	Sekai	Y a otra persona también.	00:24:08;
+
+[PlayVoice]=00:22:09	Voice04/04-SA/04-SA-F00/04-SA-F00-0110	0	sek	00:24:08;
+
+[SetSELECT]=00:24:23	'¿Quién?'	'¿Kuroda?'	00:29:23;
+
+ ;
+
+[Next]=00:31:00;
+
+

@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=00:41:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:41:13;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-M07/SE03-KB-M07-001	00:41:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-M07/03-KB-M07-001	00:11:10;
+
+[PrintText]=00:00:00	Makoto	Perdón. Es una linda noche, y te estoy aburriendo.	00:06:03;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-M07/03-KB-M07-0030	1	mak	00:06:03;
+
+[PrintText]=00:06:03	Sekai	¡P-Para nada!	00:07:20;
+
+[PlayVoice]=00:06:03	Voice03/03-KB/03-KB-M07/03-KB-M07-0040	0	sek	00:07:20;
+
+[PrintText]=00:07:20	Makoto	Bueno, me voy a casa.	00:09:11;
+
+[PlayVoice]=00:07:20	Voice03/03-KB/03-KB-M07/03-KB-M07-0050	1	mak	00:09:11;
+
+[PrintText]=00:09:11	Sekai	H-hey.	00:10:19;
+
+[PlayVoice]=00:09:11	Voice03/03-KB/03-KB-M07/03-KB-M07-0060	0	sek	00:10:19;
+
+[PrintText]=00:10:19	Makoto	¿Hmn?^	00:11:09;
+
+[PlayVoice]=00:10:19	Voice03/03-KB/03-KB-M07/03-KB-M07-0070	1	mak	00:11:09;
+
+[PrintText]=00:11:09	Sekai	¿Está bien si me quedo?^	00:14:03;
+
+[PlayVoice]=00:11:09	Voice03/03-KB/03-KB-M07/03-KB-M07-0080	0	sek	00:14:03;
+
+[PlayMovie]=00:11:10	Movie03/03-KB/03-KB-M07/03-KB-M07-002	0	00:34:16;
+
+[PrintText]=00:14:03	Makoto	¿Quedar...?^	00:14:22;
+
+[PlayVoice]=00:14:03	Voice03/03-KB/03-KB-M07/03-KB-M07-0090	1	mak	00:14:22;
+
+[PrintText]=00:14:22	Sekai	A tu lado.	00:16:12;
+
+[PlayVoice]=00:14:22	Voice03/03-KB/03-KB-M07/03-KB-M07-0100	0	sek	00:16:12;
+
+[PrintText]=00:16:12	Makoto	¿Eh...?^	00:17:13;
+
+[PlayVoice]=00:16:12	Voice03/03-KB/03-KB-M07/03-KB-M07-0110	1	mak	00:17:13;
+
+[PrintText]=00:17:13	Sekai	¿Puedo estar contigo de nuevo?^	00:21:17;
+
+[PlayVoice]=00:17:13	Voice03/03-KB/03-KB-M07/03-KB-M07-0120	0	sek	00:21:17;
+
+[PrintText]=00:21:17	Makoto	...	00:22:17;
+
+[PlayVoice]=00:21:17	Voice03/03-KB/03-KB-M07/03-KB-M07-0130	1	xxx	00:22:17;
+
+[PrintText]=00:22:17	Sekai	No me importa si soy solo el reemplazo de Katsura-san...	00:24:22;
+
+[PlayVoice]=00:22:17	Voice03/03-KB/03-KB-M07/03-KB-M07-0140	0	sek	00:24:22;
+
+[PrintText]=00:24:22	Makoto	Eso...	00:26:09;
+
+[PlayVoice]=00:24:22	Voice03/03-KB/03-KB-M07/03-KB-M07-0150	1	mak	00:26:09;
+
+[PrintText]=00:26:09	Sekai	Quiero estar ahí. Para ti.	00:29:14;
+
+[PlayVoice]=00:26:09	Voice03/03-KB/03-KB-M07/03-KB-M07-0160	0	sek	00:29:14;
+
+[PrintText]=00:29:14	Makoto	...	00:30:01;
+
+[PlayVoice]=00:29:14	Voice03/03-KB/03-KB-M07/03-KB-M07-0170	1	xxx	00:30:01;
+
+[PrintText]=00:30:01	Sekai	Está bien ¿No?^	00:32:12;
+
+[PlayVoice]=00:30:01	Voice03/03-KB/03-KB-M07/03-KB-M07-0180	0	sek	00:32:12;
+
+[PrintText]=00:32:11	Makoto	...Sí.	00:33:03;
+
+[PlayVoice]=00:32:11	Voice03/03-KB/03-KB-M07/03-KB-M07-0200	1	mak	00:33:03;
+
+[PrintText]=00:33:03	Sekai	Eheheh...	00:34:16;
+
+[PlayVoice]=00:33:03	Voice03/03-KB/03-KB-M07/03-KB-M07-0210	0	sek	00:34:16;
+
+[PrintText]=00:34:16	Taisuke	Aw, cielos.	00:36:12;
+
+[PlayVoice]=00:34:16	Voice03/03-KB/03-KB-M07/03-KB-M07-0230	1	tai	00:36:12;
+
+[CreateBG]=00:34:17	BGS	Event03/03-KB/03-KB-M07/03-KB-M07-003	00:36:13;
+
+[CreateBG]=00:36:13	BGS	Event03/03-KB/03-KB-M07/03-KB-M07-004	00:41:13;
+
+ ;
+
+[Next]=00:41:13;
+
+

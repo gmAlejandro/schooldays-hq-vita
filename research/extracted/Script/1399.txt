@@ -1,0 +1,127 @@
+﻿[SkipFRAME]=02:15:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	01:32:02;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/station_train/train_stopping	00:08:14;
+
+[PlayMovie]=00:00:00	Movie05/05-A2/05-A2-B00/05-A2-B00-001	0	00:08:00;
+
+[CreateBG]=00:08:00	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-002	00:12:13;
+
+[PrintText]=00:08:08	Makoto	...	00:10:05;
+
+[PlayVoice]=00:08:08	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0040	1	xxx	00:10:05;
+
+[PlaySe]=00:11:10	2	SysSe/SE_all/station_train/train_start	00:37:15;
+
+[PlayMovie]=00:12:13	Movie05/05-A2/05-A2-B00/05-A2-B00-003	0	00:17:13;
+
+[CreateBG]=00:17:13	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-004	00:18:16;
+
+[PrintText]=00:17:21	Sekai	Makoto.	00:18:16;
+
+[PlayVoice]=00:17:21	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0060	0	sek	00:18:16;
+
+[CreateBG]=00:18:16	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-005	00:22:10;
+
+[PrintText]=00:18:23	Makoto	¿Huh?^	00:19:15;
+
+[PlayVoice]=00:18:23	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0070	1	mak	00:19:15;
+
+[PrintText]=00:20:08	Makoto	Sekai ¿Qué estás haciendo aquí?^	00:24:03;
+
+[PlayVoice]=00:20:08	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0090	1	mak	00:24:03;
+
+[CreateBG]=00:22:10	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-006	00:24:16;
+
+[CreateBG]=00:24:16	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-007	00:27:18;
+
+[PrintText]=00:24:16	Sekai	Setsuna me lo dijo todo...	00:27:23;
+
+[PlayVoice]=00:24:16	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0100	0	sek	00:27:23;
+
+[PlaySe]=00:27:09	3	SysSe/SE_all/keitai/keitai_open2	00:27:19;
+
+[CreateBG]=00:27:18	BGS	Ini/Event05/05-A2/05-A2-B00/05-A2-B00-008	00:31:05;
+
+[PrintText]=00:27:18	Makoto	Kiyoura...	00:28:23;
+
+[PlayVoice]=00:27:18	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0120	1	mak	00:28:23;
+
+[PrintText]=00:30:12	Sekai	...	00:30:22;
+
+[PlayVoice]=00:30:12	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0130	0	xxx	00:30:22;
+
+[CreateBG]=00:31:05	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-009	00:37:05;
+
+[PlaySe]=00:31:06	3	SysSe/SE_all/keitai/keitai_open1	00:31:16;
+
+[PrintText]=00:31:06	Makoto	Sekai... Yo, perdóname.	00:35:21;
+
+[PlayVoice]=00:31:06	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0140	1	mak	00:35:21;
+
+[CreateBG]=00:37:05	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-010	00:39:04;
+
+[PrintText]=00:37:08	Sekai	¿Te estás disculpando?^	00:39:00;
+
+[PlayVoice]=00:37:08	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0150	0	sek	00:39:00;
+
+[CreateBG]=00:39:04	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-011	00:50:14;
+
+[PrintText]=00:39:04	Makoto	¡Perdóname..! ¡Me dejo llevar fácilmente... pero te amo, y esa es la verdad...!	00:48:12;
+
+[PlayVoice]=00:39:04	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0160	1	mak	00:48:12;
+
+[CreateBG]=00:50:14	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-012	01:00:14;
+
+[PrintText]=00:50:14	Sekai	...	00:51:01;
+
+[PlayVoice]=00:50:14	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0170	0	xxx	00:51:01;
+
+[PrintText]=00:50:22	Makoto	Ya no seré tentado por Kotonoha. Te amo... y solo a ti...	00:58:07;
+
+[PlayVoice]=00:50:22	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0180	1	mak	00:58:07;
+
+[CreateBG]=01:00:14	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-013	01:14:00;
+
+[PrintText]=01:00:17	Makoto	Se que he hecho cosas imperdonables, pero... pero te amo!..	01:12:11;
+
+[PlayVoice]=01:00:17	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0190	1	mak	01:12:11;
+
+[CreateBG]=01:14:00	BGS	Event05/05-A2/05-A2-B00/05-A2-B00-015	01:32:02;
+
+[PrintText]=01:14:08	Sekai	Makoto...	01:15:09;
+
+[PlayVoice]=01:14:08	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0200	0	sek	01:15:09;
+
+[EndBGM]=01:15:07	BGM/Vocal/SDV06	04:08:11;
+
+[PrintText]=01:15:13	Makoto	...	01:16:01;
+
+[PlayVoice]=01:15:13	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0210	1	xxx	01:16:01;
+
+[PlayVoice]=01:17:11	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0220			01:20:07;
+
+[PrintText]=01:20:17	Makoto	Sekai...	01:21:18;
+
+[PlayVoice]=01:20:17	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0230	1	mak	01:21:18;
+
+[PrintText]=01:23:15	Sekai	Yo... también te amo.	01:27:01;
+
+[PlayVoice]=01:23:15	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0250	0	sek	01:27:01;
+
+[PrintText]=01:27:05	Makoto	¡Sekai!	01:28:10;
+
+[PlayVoice]=01:27:05	Voice05/05-A2/05-A2-Z00/05-A2-Z00-0260	1	mak	01:28:10;
+
+[BlackFade]=01:30:02	OUT	01:32:02;
+
+[CreateBG]=01:32:02	BGS	Ini/EndRoll/05-06	01:35:00;
+
+[EndRoll]=01:35:00	Ini/EndRoll/GOOD	02:15:00;
+
+ ;
+
+[Next]=02:15:00;
+
+

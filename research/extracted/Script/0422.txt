@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:50:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:50:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-E00/03-A1-E00-001	00:16:08;
+
+[PrintText]=00:00:00	Makoto	Traté de salir con Kotonoha como Sekai me había dicho... pero es difícil, y nada va bien...	00:08:20;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-E00/03-A1-E00-0030	1	mak	00:08:20;
+
+[PrintText]=00:08:14	Setsuna	Itou...	00:09:12;
+
+[PlayVoice]=00:08:14	Voice03/03-A1/03-A1-E00/03-A1-E00-0040	0	set	00:09:12;
+
+[PrintText]=00:10:00	Makoto	Incluso no sé si la quiero...	00:15:12;
+
+[PlayVoice]=00:10:00	Voice03/03-A1/03-A1-E00/03-A1-E00-0050	1	mak	00:15:12;
+
+[PrintText]=00:15:11	Setsuna	Uh-huh...	00:16:03;
+
+[PlayVoice]=00:15:11	Voice03/03-A1/03-A1-E00/03-A1-E00-0060	0	set	00:16:03;
+
+[CreateBG]=00:16:08	BGS	Event03/03-A1/03-A1-E00/03-A1-E00-002	00:18:19;
+
+[PrintText]=00:16:15	Makoto	Ya... no sé que más debería hacer...	00:21:19;
+
+[PlayVoice]=00:16:15	Voice03/03-A1/03-A1-E00/03-A1-E00-0070	1	mak	00:21:19;
+
+[CreateBG]=00:18:19	BGS	Event03/03-A1/03-A1-E00/03-A1-E00-003	00:25:00;
+
+[PrintText]=00:22:01	Setsuna	...	00:23:05;
+
+[PlayVoice]=00:22:01	Voice03/03-A1/03-A1-E00/03-A1-E00-0080	0	xxx	00:23:05;
+
+[PrintText]=00:23:09	Makoto	Ya no puedo... creer en lo que siento...	00:26:08;
+
+[PlayVoice]=00:23:09	Voice03/03-A1/03-A1-E00/03-A1-E00-0090	1	mak	00:26:08;
+
+[CreateBG]=00:25:00	BGS	Event03/03-A1/03-A1-E00/03-A1-E00-004	00:50:20;
+
+[PrintText]=00:26:11	Setsuna	Ya veo...	00:27:06;
+
+[PlayVoice]=00:26:11	Voice03/03-A1/03-A1-E00/03-A1-E00-0100	0	set	00:27:06;
+
+[PrintText]=00:27:16	Makoto	...Lo siento.	00:30:04;
+
+[PlayVoice]=00:27:16	Voice03/03-A1/03-A1-E00/03-A1-E00-0110	1	mak	00:30:04;
+
+[PrintText]=00:30:09	Setsuna	¿Eh?^	00:31:00;
+
+[PlayVoice]=00:30:09	Voice03/03-A1/03-A1-E00/03-A1-E00-0120	0	set	00:31:00;
+
+[PrintText]=00:31:07	Makoto	Por decirte estas cosas... incluso cuando no tienen nada que ver contigo.	00:35:13;
+
+[PlayVoice]=00:31:07	Voice03/03-A1/03-A1-E00/03-A1-E00-0130	1	mak	00:35:13;
+
+[PrintText]=00:35:15	Setsuna	Está bien.	00:36:14;
+
+[PlayVoice]=00:35:15	Voice03/03-A1/03-A1-E00/03-A1-E00-0140	0	set	00:36:14;
+
+[PrintText]=00:36:19	Makoto	Pero...	00:37:16;
+
+[PlayVoice]=00:36:19	Voice03/03-A1/03-A1-E00/03-A1-E00-0150	1	mak	00:37:16;
+
+[PrintText]=00:38:01	Setsuna	Uh-huh.	00:38:17;
+
+[PlayVoice]=00:38:01	Voice03/03-A1/03-A1-E00/03-A1-E00-0160	0	set	00:38:17;
+
+[PrintText]=00:39:05	Makoto	Pero...	00:40:02;
+
+[PlayVoice]=00:39:05	Voice03/03-A1/03-A1-E00/03-A1-E00-0170	1	mak	00:40:02;
+
+[PrintText]=00:40:10	Setsuna	Te sentirás mejor con solo decirle a alguien sobre esto...	00:43:01;
+
+[PlayVoice]=00:40:10	Voice03/03-A1/03-A1-E00/03-A1-E00-0180	0	set	00:43:01;
+
+[PrintText]=00:43:08	Makoto	¡Uh-huh... kuh...!	00:50:16;
+
+[PlayVoice]=00:43:08	Voice03/03-A1/03-A1-E00/03-A1-E00-0190	1	mak	00:50:16;
+
+ ;
+
+[Next]=00:50:20;
+
+

@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:09:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:09:06;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H10/SE03-KA-H10-001	00:09:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H10/03-KA-H10-001A	00:01:01;
+
+[PrintText]=00:00:00	Makoto	Ahora mismo iré.	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H10/03-KA-H10-0030	1	mak	00:00:22;
+
+[CreateBG]=00:01:01	BGS	Event03/03-KA/03-KA-H10/03-KA-H10-001B	00:02:01;
+
+[PrintText]=00:01:03	Setsuna	¿Itou?^	00:01:23;
+
+[PlayVoice]=00:01:03	Voice03/03-KA/03-KA-H10/03-KA-H10-0040	0	set	00:01:23;
+
+[CreateBG]=00:02:01	BGS	Event03/03-KA/03-KA-H10/03-KA-H10-001C	00:05:16;
+
+[PrintText]=00:02:04	Makoto	Lo siento, escucharé lo que me tengas que decir después, Adiós.	00:05:13;
+
+[PlayVoice]=00:02:04	Voice03/03-KA/03-KA-H10/03-KA-H10-0050	1	mak	00:05:13;
+
+[CreateBG]=00:05:16	BGS	Event03/03-KA/03-KA-H10/03-KA-H10-002	00:09:06;
+
+[PrintText]=00:06:18	Setsuna	Itou...	00:07:17;
+
+[PlayVoice]=00:06:18	Voice03/03-KA/03-KA-H10/03-KA-H10-0060	0	set	00:07:17;
+
+[BlackFade]=00:08:06	OUT	00:09:06;
+
+ ;
+
+[Next]=00:09:06;
+
+

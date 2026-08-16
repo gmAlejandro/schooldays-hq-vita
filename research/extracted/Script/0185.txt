@@ -1,0 +1,133 @@
+﻿[SkipFRAME]=01:04:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:04:17;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-K00/SE01-1S-K00-001	01:04:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-002	00:11:05;
+
+[PrintText]=00:04:03	Makoto	Haah...	00:05:07;
+
+[PlayVoice]=00:04:03	Voice01/01-1S/01-1S-K00/01-1S-K00-0030	1	mak	00:05:07;
+
+[PrintText]=00:05:22	Makoto	Y Ahora, regreso a la normalidad... ¿huh?^	00:10:22;
+
+[PlayVoice]=00:05:22	Voice01/01-1S/01-1S-K00/01-1S-K00-0040	1	mak	00:10:22;
+
+[CreateBG]=00:11:05	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-003	00:14:03;
+
+[PrintText]=00:11:11	Makoto	Hey, Kiyoura.	00:13:07;
+
+[PlayVoice]=00:11:11	Voice01/01-1S/01-1S-K00/01-1S-K00-0060	1	mak	00:13:07;
+
+[PrintText]=00:13:08	Setsuna	¿Qué?^	00:14:04;
+
+[PlayVoice]=00:13:08	Voice01/01-1S/01-1S-K00/01-1S-K00-0070	0	set	00:14:04;
+
+[CreateBG]=00:14:03	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-004	00:17:21;
+
+[PrintText]=00:14:03	Makoto	¿Donde está Sekai?^	00:15:04;
+
+[PlayVoice]=00:14:03	Voice01/01-1S/01-1S-K00/01-1S-K00-0080	1	mak	00:15:04;
+
+[PrintText]=00:15:06	Setsuna	No lo sé.	00:16:06;
+
+[PlayVoice]=00:15:06	Voice01/01-1S/01-1S-K00/01-1S-K00-0090	0	set	00:16:06;
+
+[PrintText]=00:16:10	Makoto	¿No estaba contigo?^	00:19:17;
+
+[PlayVoice]=00:16:10	Voice01/01-1S/01-1S-K00/01-1S-K00-0100	1	mak	00:19:17;
+
+[CreateBG]=00:17:21	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-005	00:19:19;
+
+[CreateBG]=00:19:19	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-006	00:23:22;
+
+[PrintText]=00:19:19	Setsuna	¿De qué hablas, ella siempre almuerza contigo?^	00:24:02;
+
+[PlayVoice]=00:19:19	Voice01/01-1S/01-1S-K00/01-1S-K00-0110	0	set	00:24:02;
+
+[CreateBG]=00:23:22	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-007	00:26:05;
+
+[PrintText]=00:23:22	Makoto	Bueno, solía hacerlo, pero...	00:26:01;
+
+[PlayVoice]=00:23:22	Voice01/01-1S/01-1S-K00/01-1S-K00-0120	1	mak	00:26:01;
+
+[CreateBG]=00:26:05	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-008	00:34:23;
+
+[PrintText]=00:26:09	Setsuna	No 'solía hacerlo'. Lo hizo ayer, la semana pasada y la semana anterior también.	00:30:11;
+
+[PlayVoice]=00:26:09	Voice01/01-1S/01-1S-K00/01-1S-K00-0130	0	set	00:35:00;
+
+[PrintText]=00:30:11	Setsuna	Desde que empezó el segundo semestre, ella ha estado almorzando contigo.	00:35:00;
+
+[CreateBG]=00:34:23	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-009	00:42:12;
+
+[PrintText]=00:34:23	Makoto	N-no, últimamente, ella a estado...	00:37:19;
+
+[PlayVoice]=00:34:23	Voice01/01-1S/01-1S-K00/01-1S-K00-0140	1	mak	00:37:19;
+
+[PrintText]=00:37:03	Sekai	Wow, afuera está haciendo mucho frío. El viento está como '¡whooosh!'...	00:42:15;
+
+[PlayVoice]=00:37:03	Voice01/01-1S/01-1S-K00/01-1S-K00-0160	0	sek	00:47:13;
+
+[CreateBG]=00:42:12	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-010	00:49:10;
+
+[PrintText]=00:42:15	Sekai	¿Huh? ¿Setsuna y Makoto hablando? Eso no es algo que se vea todos los días.	00:47:13;
+
+[PrintText]=00:48:01	Makoto	...	00:49:00;
+
+[PlayVoice]=00:48:01	Voice01/01-1S/01-1S-K00/01-1S-K00-0170	1	xxx	00:49:00;
+
+[CreateBG]=00:49:10	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-011	00:50:14;
+
+[PrintText]=00:49:15	Sekai	¿Qué pasa?^	00:50:12;
+
+[PlayVoice]=00:49:15	Voice01/01-1S/01-1S-K00/01-1S-K00-0180	0	sek	00:50:12;
+
+[CreateBG]=00:50:14	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-012	00:51:22;
+
+[PrintText]=00:50:14	Setsuna	Itou quería sab...	00:52:14;
+
+[PlayVoice]=00:50:14	Voice01/01-1S/01-1S-K00/01-1S-K00-0190	0	set	00:52:14;
+
+[CreateBG]=00:51:22	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-013	00:53:08;
+
+[PrintText]=00:51:22	Makoto	¡No es nada!	00:53:08;
+
+[PlayVoice]=00:51:22	Voice01/01-1S/01-1S-K00/01-1S-K00-0200	1	mak	00:53:08;
+
+[CreateBG]=00:53:08	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-014	00:59:05;
+
+[PrintText]=00:53:10	Setsuna	¿Itou?^	00:54:07;
+
+[PlayVoice]=00:53:10	Voice01/01-1S/01-1S-K00/01-1S-K00-0210	0	set	00:54:07;
+
+[PrintText]=00:54:12	Makoto	Perdón, creo que fue un malentendido, olvídalo por favor.	00:57:10;
+
+[PlayVoice]=00:54:12	Voice01/01-1S/01-1S-K00/01-1S-K00-0220	1	mak	00:57:10;
+
+[PrintText]=00:57:13	Setsuna	¿Olvidar? ¿De qué...?^	00:59:01;
+
+[PlayVoice]=00:57:13	Voice01/01-1S/01-1S-K00/01-1S-K00-0230	0	set	00:59:01;
+
+[CreateBG]=00:59:05	BGS	Event01/01-1S/01-1S-K00/01-1S-K00-015	01:04:17;
+
+[PrintText]=00:59:08	Sekai	¿Qué es esto? ¿Qué está pasando?^	01:02:01;
+
+[PlayVoice]=00:59:08	Voice01/01-1S/01-1S-K00/01-1S-K00-0250	0	sek	01:02:01;
+
+[PrintText]=01:02:10	Setsuna	Quién sabe...	01:03:09;
+
+[PlayVoice]=01:02:10	Voice01/01-1S/01-1S-K00/01-1S-K00-0260	0	set	01:03:09;
+
+[BlackFade]=01:03:17	OUT	01:04:17;
+
+ ;
+
+[Next]=01:04:17;
+
+
+
+

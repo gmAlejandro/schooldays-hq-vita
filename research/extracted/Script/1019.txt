@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:07:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:07:04;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-C05/04-KC-C05-001	00:06:13;
+
+[PrintText]=00:00:00	Makoto	Está bien.	00:01:07;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-C05/04-KC-C05-0030	1	mak	00:01:07;
+
+[PrintText]=00:01:08	Sekai	¿En serio? sabes, si quieres hacerlo, yo...	00:05:03;
+
+[PlayVoice]=00:01:08	Voice04/04-KC/04-KC-C05/04-KC-C05-0040	0	sek	00:05:03;
+
+[PrintText]=00:05:02	Makoto	No lo haré de nuevo.	00:06:12;
+
+[PlayVoice]=00:05:02	Voice04/04-KC/04-KC-C05/04-KC-C05-0060	1	mak	00:06:12;
+
+[PrintText]=00:06:12	Sekai	...Vale.	00:07:04;
+
+[PlayVoice]=00:06:12	Voice04/04-KC/04-KC-C05/04-KC-C05-0070	0	sek	00:07:04;
+
+[CreateBG]=00:06:13	BGS	Event04/04-KC/04-KC-C05/04-KC-C05-002	00:07:04;
+
+ ;
+
+[Next]=00:07:04;
+
+

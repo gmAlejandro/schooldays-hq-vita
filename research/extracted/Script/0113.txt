@@ -1,0 +1,42 @@
+[SkipFRAME]=00:16:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:16:23;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-P00/SE01-00-P00-001	00:07:07;
+
+[PlayMovie]=00:00:00	Movie01/01-00/01-00-P00/01-00-P00-001	0	00:02:23;
+
+[CreateBG]=00:02:23	BGS	Event01/01-00/01-00-P00/01-00-P00-002	00:12:13;
+
+[PrintText]=00:03:01	Kotonoha	Haah...	00:04:06;
+
+[PlayVoice]=00:03:01	Voice01/01-00/01-00-P00/01-00-P00-0050	0	kot	00:04:06;
+
+[PrintText]=00:05:02	Kotonoha	Me pregunto si piensa que soy rara...	00:08:13;
+
+[PlayVoice]=00:05:02	Voice01/01-00/01-00-P00/01-00-P00-0060	0	kot	00:08:13;
+
+[PlaySe]=00:07:06	2	Se01/01-00/01-00-P00/SE01-00-P00-001	00:14:13;
+
+[PrintText]=00:09:05	Kotonoha	...	00:12:05;
+
+[PlayVoice]=00:09:05	Voice01/01-00/01-00-P00/01-00-P00-0070	0	xxx	00:12:05;
+
+[PlayMovie]=00:12:13	Movie01/01-00/01-00-P00/01-00-P00-003	0	00:16:23;
+
+[PrintText]=00:12:13	Kotonoha	Tal vez... él me odia ahora...	00:15:02;
+
+[PlayVoice]=00:12:13	Voice01/01-00/01-00-P00/01-00-P00-0080	0	kot	00:15:02;
+
+[PlaySe]=00:14:06	1	Se01/01-00/01-00-P00/SE01-00-P00-001	00:16:23;
+
+[PrintText]=00:15:03	Kotonoha	Haah...	00:16:00;
+
+[PlayVoice]=00:15:03	Voice01/01-00/01-00-P00/01-00-P00-0090	0	kot	00:16:00;
+
+[BlackFade]=00:15:23	OUT	00:16:23;
+
+ ;
+
+[Next]=00:16:23;
+

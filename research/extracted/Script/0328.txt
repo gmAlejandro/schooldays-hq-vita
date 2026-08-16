@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:15:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:15:13;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-J05/02-2S-J05-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Ini/Event02/02-2S/02-2S-J05/02-2S-J05-002	00:05:02;
+
+#[PrintText]=00:02:00	Makoto	"Te amo.".	00:05:01;
+
+[CreateBG]=00:05:02	BGS	Event02/02-2S/02-2S-J05/02-2S-J05-003	00:07:08;
+
+[CreateBG]=00:07:08	BGS	Event02/02-2S/02-2S-J05/02-2S-J05-004	00:09:17;
+
+[PlaySe]=00:07:19	1	Voice02/02-2S/02-2S-J05/02-2S-J05-0050	00:09:02;
+
+[CreateBG]=00:09:17	BGS	Ini/Event02/02-2S/02-2S-J05/02-2S-J05-005	00:12:03;
+
+#[PrintText]=00:09:17	Sekai	"También te amo.".	00:12:02;
+
+[CreateBG]=00:12:03	BGS	Event02/02-2S/02-2S-J05/02-2S-J05-006	00:15:13;
+
+[BlackFade]=00:14:13	OUT	00:15:13;
+
+ ;
+
+[Next]=00:15:13;
+
+
+
+

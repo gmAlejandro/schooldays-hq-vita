@@ -1,0 +1,149 @@
+﻿[SkipFRAME]=01:34:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	01:34:09;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-I00/SE03-BK-I00-001	01:18:08;
+
+[PlayMovie]=00:00:00	Movie03/03-BK/03-BK-I00/03-BK-I00-001	0	00:58:07;
+
+[PrintText]=00:00:00	Sekai	Um...	00:01:16;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-I00/03-BK-I00-0050	0	sek	00:01:16;
+
+[PrintText]=00:01:04	Kotonoha	¿Sí?^	00:02:00;
+
+[PlayVoice]=00:01:04	Voice03/03-BK/03-BK-I00/03-BK-I00-0060	0	kot	00:02:00;
+
+[PrintText]=00:02:05	Sekai	Eso...	00:03:16;
+
+[PlayVoice]=00:02:05	Voice03/03-BK/03-BK-I00/03-BK-I00-0070	0	sek	00:03:16;
+
+[PrintText]=00:03:11	Kotonoha	¿Eh? Oh ¿Mi traje de baño?^	00:07:02;
+
+[PlayVoice]=00:03:11	Voice03/03-BK/03-BK-I00/03-BK-I00-0080	0	kot	00:07:02;
+
+[PrintText]=00:07:03	Kotonoha	Sí. Mi madre regresó de su viaje de negocios ayer,	00:12:15;
+
+[PlayVoice]=00:07:03	Voice03/03-BK/03-BK-I00/03-BK-I00-0081	0	kot	00:15:20;
+
+[PrintText]=00:12:15	Kotonoha	Y me había traído un traje de baño como regalo.	00:15:20;
+
+[PrintText]=00:15:19	Sekai	...	00:16:21;
+
+[PlayVoice]=00:15:19	Voice03/03-BK/03-BK-I00/03-BK-I00-0090	0	xxx	00:16:21;
+
+[PrintText]=00:16:23	Kotonoha	No hay un traje de baño que se adapte a mí, así que por lo general, siempre me traen uno del extranjero.	00:26:01;
+
+[PlayVoice]=00:16:23	Voice03/03-BK/03-BK-I00/03-BK-I00-0100	0	kot	00:26:01;
+
+[PrintText]=00:26:02	Sekai	...	00:26:23;
+
+[PlayVoice]=00:26:02	Voice03/03-BK/03-BK-I00/03-BK-I00-0110	0	xxx	00:26:23;
+
+[PrintText]=00:27:04	Kotonoha	La invitación fue repentina, y estaba preocupada porque no tenía un traje de baño, así que he tenido mucha suerte hoy.	00:36:07;
+
+[PlayVoice]=00:27:04	Voice03/03-BK/03-BK-I00/03-BK-I00-0120	0	kot	00:36:07;
+
+[PrintText]=00:36:09	Sekai	Haha... no, no hablaba de tu traje de baño.	00:41:06;
+
+[PlayVoice]=00:36:09	Voice03/03-BK/03-BK-I00/03-BK-I00-0130	0	sek	00:41:06;
+
+[PrintText]=00:41:00	Kotonoha	¿Eh?^	00:41:16;
+
+[PlayVoice]=00:41:00	Voice03/03-BK/03-BK-I00/03-BK-I00-0140	0	kot	00:41:16;
+
+[PrintText]=00:41:19	Sekai	¿Son reales?^	00:43:01;
+
+[PlayVoice]=00:41:19	Voice03/03-BK/03-BK-I00/03-BK-I00-0150	0	sek	00:43:01;
+
+[PrintText]=00:43:00	Kotonoha	¿Huh?^	00:43:18;
+
+[PlayVoice]=00:43:00	Voice03/03-BK/03-BK-I00/03-BK-I00-0160	0	kot	00:43:18;
+
+[PrintText]=00:43:23	Sekai	Lo son ¿No? Los he visto antes en Educación Física.	00:50:07;
+
+[PlayVoice]=00:43:23	Voice03/03-BK/03-BK-I00/03-BK-I00-0170	0	sek	00:50:07;
+
+[PrintText]=00:50:07	Kotonoha	¿U-um...?^	00:52:00;
+
+[PlayVoice]=00:50:07	Voice03/03-BK/03-BK-I00/03-BK-I00-0180	0	kot	00:52:00;
+
+[PlayVoice]=00:51:23	Voice03/03-BK/03-BK-I00/03-BK-I00-0190			00:52:11;
+
+[PrintText]=00:52:10	Kotonoha	¡Kyah!	00:53:05;
+
+[PlayVoice]=00:52:10	Voice03/03-BK/03-BK-I00/03-BK-I00-0200	0	kot	00:53:05;
+
+[PrintText]=00:53:00	Sekai	Ah...	00:53:13;
+
+[PlayVoice]=00:53:00	Voice03/03-BK/03-BK-I00/03-BK-I00-0210	0	sek	00:53:13;
+
+[PrintText]=00:53:16	Kotonoha	Ooh, ¿Qué estás haciendo? ¡Eso hace cosquillas!	00:58:07;
+
+[PlayVoice]=00:53:16	Voice03/03-BK/03-BK-I00/03-BK-I00-0220	0	kot	00:58:07;
+
+[CreateBG]=00:58:07	BGS	Event03/03-BK/03-BK-I00/03-BK-I00-002	01:04:10;
+
+[PrintText]=00:58:08	Sekai	SON REALES...	01:00:02;
+
+[PlayVoice]=00:58:08	Voice03/03-BK/03-BK-I00/03-BK-I00-0240	0	sek	01:00:02;
+
+[PrintText]=01:00:04	Kotonoha	¿'Reales'?^	01:01:21;
+
+[PlayVoice]=01:00:04	Voice03/03-BK/03-BK-I00/03-BK-I00-0260	0	kot	01:01:21;
+
+[PrintText]=01:01:20	Sekai	...Olvídalo.	01:04:10;
+
+[PlayVoice]=01:01:20	Voice03/03-BK/03-BK-I00/03-BK-I00-0270	0	sek	01:04:10;
+
+[CreateBG]=01:04:10	BGS	Event03/03-BK/03-BK-I00/03-BK-I00-003	01:20:18;
+
+[PrintText]=01:04:18	Taisuke	Ah, ahí estás.	01:06:07;
+
+[PlayVoice]=01:04:18	Voice03/03-BK/03-BK-I00/03-BK-I00-0280	1	tai	01:06:07;
+
+[PrintText]=01:06:01	Makoto	Hi.	01:06:18;
+
+[PlayVoice]=01:06:01	Voice03/03-BK/03-BK-I00/03-BK-I00-0300	1	mak	01:06:18;
+
+[PrintText]=01:06:18	Kotonoha	Ah, ¡Makoto-kun!	01:08:15;
+
+[PlayVoice]=01:06:18	Voice03/03-BK/03-BK-I00/03-BK-I00-0310	0	kot	01:08:15;
+
+[PrintText]=01:08:12	Taisuke	Te estábamos esperando. Sé que dije en frente de los vestidores, pero este lugar es muy grande.	01:12:17;
+
+[PlayVoice]=01:08:12	Voice03/03-BK/03-BK-I00/03-BK-I00-0320	1	tai	01:12:17;
+
+[PrintText]=01:12:13	Kotonoha	Lo es ¿Verdad? Parece mucho más ancha que una sola planta de un edificio.	01:19:05;
+
+[PlayVoice]=01:12:13	Voice03/03-BK/03-BK-I00/03-BK-I00-0330	0	kot	01:19:05;
+
+[PlaySe]=01:18:07	2	Se03/03-BK/03-BK-I00/SE03-BK-I00-001	01:34:09;
+
+[PrintText]=01:19:03	Makoto	Sí.	01:20:13;
+
+[PlayVoice]=01:19:03	Voice03/03-BK/03-BK-I00/03-BK-I00-0340	1	mak	01:20:13;
+
+[CreateBG]=01:20:18	BGS	Event03/03-BK/03-BK-I00/03-BK-I00-004	01:34:09;
+
+[PrintText]=01:20:18	Taisuke	Cierto ¿A dónde deberíamos ir primero?^	01:24:03;
+
+[PlayVoice]=01:20:18	Voice03/03-BK/03-BK-I00/03-BK-I00-0350	1	tai	01:24:03;
+
+[PrintText]=01:24:06	Kotonoha	Estuve viendo el directorio mientras esperábamos... parece que hay una piscina con olas por ahí.	01:31:02;
+
+[PlayVoice]=01:24:06	Voice03/03-BK/03-BK-I00/03-BK-I00-0360	0	kot	01:31:02;
+
+[PrintText]=01:31:00	Taisuke	¡Bien, vamos allá!	01:33:11;
+
+[PlayVoice]=01:31:00	Voice03/03-BK/03-BK-I00/03-BK-I00-0370	1	tai	01:33:11;
+
+[PrintText]=01:33:03	Makoto	Vale.	01:33:21;
+
+[PlayVoice]=01:33:03	Voice03/03-BK/03-BK-I00/03-BK-I00-0380	1	mak	01:33:21;
+
+ ;
+
+[Next]=01:34:09;
+
+

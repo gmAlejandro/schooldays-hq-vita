@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:12:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:18:10;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-A07/SE03-KB-A07-001	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-A07/03-KB-A07-001A	00:08:09;
+
+[PrintText]=00:00:03	Makoto	Le dije que deberíamos alejarnos, pero estamos casi juntos, así que no será raro encontrarme con ella.	00:08:12;
+
+[PlayVoice]=00:00:03	Voice03/03-KB/03-KB-A07/03-KB-A07-0030	1	mak	00:08:12;
+
+[CreateBG]=00:08:09	BGS	Event03/03-KB/03-KB-A07/03-KB-A07-001B	00:18:10;
+
+[PrintText]=00:08:15	Makoto	Haah...	00:09:19;
+
+[PlayVoice]=00:08:15	Voice03/03-KB/03-KB-A07/03-KB-A07-0040	1	mak	00:09:19;
+
+[PrintText]=00:09:23	Makoto	Yo...	00:13:06;
+
+[PlayVoice]=00:09:23	Voice03/03-KB/03-KB-A07/03-KB-A07-0050	1	mak	00:13:06;
+
+[SetSELECT]=00:12:09	*Lamentar lo sucedido*	*Renunciar a ella*	00:17:10;
+
+ ;
+
+[Next]=00:18:10;
+
+

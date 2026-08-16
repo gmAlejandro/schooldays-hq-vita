@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:18:07;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-J05/SE02-2K-J05-001	00:18:07;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:03:17;
+
+[PrintText]=00:00:00	Makoto	Solo un poco ... debería estar bien.	00:03:17;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-J05/02-2K-J05-0030	1	xxx	00:03:17;
+
+[PlayMovie]=00:03:17	Movie02/02-2K/02-2K-J05/02-2K-J05-002	0	00:07:09;
+
+[PrintText]=00:03:17	Kotonoha	¡...!	00:04:20;
+
+[PlayVoice]=00:03:17	Voice02/02-2K/02-2K-J05/02-2K-J05-0050	0	kot	00:04:20;
+
+[PlayMovie]=00:07:09	Movie02/02-2K/02-2K-J05/02-2K-J05-003	0	00:10:10;
+
+[CreateBG]=00:10:10	BGS	Event02/02-2K/02-2K-J05/02-2K-J05-004	00:18:07;
+
+[SetSELECT]=00:12:06	'Solo un poco más'	'Debería detenerme'	00:17:06;
+
+ ;
+
+[Next]=00:18:07;
+
+
+
+

@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:15:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:15:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-B06/04-KC-B06-001	00:03:02;
+
+[PrintText]=00:00:00	Makoto	Tus pechos son enormes.	00:03:01;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-B06/04-KC-B06-0030	1	mak	00:03:01;
+
+[PrintText]=00:03:01	Kotonoha	¿Ehh?^	00:04:04;
+
+[PlayVoice]=00:03:01	Voice04/04-KC/04-KC-B06/04-KC-B06-0040	0	kot	00:04:04;
+
+[CreateBG]=00:03:02	BGS	Event04/04-KC/04-KC-B06/04-KC-B06-002	00:10:01;
+
+[PrintText]=00:04:05	Makoto	Y se ven tan suaves...	00:07:16;
+
+[PlayVoice]=00:04:05	Voice04/04-KC/04-KC-B06/04-KC-B06-0050	1	mak	00:07:16;
+
+[PrintText]=00:07:16	Kotonoha	¿Eh? ¿Ehh...?^	00:10:01;
+
+[PlayVoice]=00:07:16	Voice04/04-KC/04-KC-B06/04-KC-B06-0060	0	kot	00:10:01;
+
+[PlayMovie]=00:10:01	Movie04/04-KC/04-KC-B06/04-KC-B06-003	0	00:15:01;
+
+[PrintText]=00:10:01	Makoto	Haah... haah...	00:13:04;
+
+[PlayVoice]=00:10:01	Voice04/04-KC/04-KC-B06/04-KC-B06-0070	1	mak	00:13:04;
+
+[PrintText]=00:14:01	Kotonoha	¡Kyah!	00:14:23;
+
+[PlayVoice]=00:14:01	Voice04/04-KC/04-KC-B06/04-KC-B06-0090	0	kot	00:14:23;
+
+ ;
+
+[Next]=00:15:01;
+
+

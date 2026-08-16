@@ -1,0 +1,264 @@
+﻿[SkipFRAME]=02:28:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	02:27:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-001A	00:01:02;
+
+[PrintText]=00:00:00	Sekai	Buen día.	00:01:02;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-D06/05-SB-D06-0030	0	sek	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-001B	00:02:05;
+
+[PrintText]=00:01:02	Hikari	¡Buen día!	00:02:05;
+
+[PlayVoice]=00:01:02	Voice05/05-SB/05-SB-D06/05-SB-D06-0040	0	hik	00:02:05;
+
+[CreateBG]=00:02:05	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-001C	00:04:14;
+
+[PrintText]=00:02:05	Nanami	Sekai, te ves un poco pálida.	00:04:12;
+
+[PlayVoice]=00:02:05	Voice05/05-SB/05-SB-D06/05-SB-D06-0050	0	nan	00:04:12;
+
+[CreateBG]=00:04:14	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-001A	00:07:23;
+
+[PrintText]=00:04:14	Sekai	Sí, no me estoy sintiendo tan bien.	00:07:22;
+
+[PlayVoice]=00:04:14	Voice05/05-SB/05-SB-D06/05-SB-D06-0060	0	sek	00:07:22;
+
+[CreateBG]=00:07:23	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-001B	00:09:06;
+
+[PrintText]=00:07:23	Hikari	¿Estás bien?^	00:09:05;
+
+[PlayVoice]=00:07:23	Voice05/05-SB/05-SB-D06/05-SB-D06-0070	0	hik	00:09:05;
+
+[PrintText]=00:09:05	Sekai	Descansé mucho después del festival, y mi madre me a forzado a venir a la escuela.	00:17:18;
+
+[PlayVoice]=00:09:05	Voice05/05-SB/05-SB-D06/05-SB-D06-0080	0	sek	00:17:18;
+
+[CreateBG]=00:09:06	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-001A	00:17:19;
+
+[CreateBG]=00:17:19	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-001C	00:19:12;
+
+[PrintText]=00:17:19	Nanami	Debes tomártelo con calma.	00:19:09;
+
+[PlayVoice]=00:17:19	Voice05/05-SB/05-SB-D06/05-SB-D06-0090	0	nan	00:19:09;
+
+[PrintText]=00:19:09	Sekai	Sí, lo sé.	00:21:08;
+
+[PlayVoice]=00:19:09	Voice05/05-SB/05-SB-D06/05-SB-D06-0100	0	sek	00:21:08;
+
+[CreateBG]=00:19:12	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-001A	00:23:09;
+
+[BlackFade]=00:22:19	OUT	00:23:09;
+
+[CreateBG]=00:23:09	BGS	System/Screen/Black	00:23:20;
+
+[CreateBG]=00:23:20	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-003	00:38:14;
+
+[BlackFade]=00:23:20	IN	00:24:11;
+
+[PrintText]=00:24:18	Makoto	Buen día.	00:25:13;
+
+[PlayVoice]=00:24:18	Voice05/05-SB/05-SB-D06/05-SB-D06-0110	1	mak	00:25:13;
+
+[PrintText]=00:26:04	Sekai	...Buen día.	00:27:02;
+
+[PlayVoice]=00:26:04	Voice05/05-SB/05-SB-D06/05-SB-D06-0130	0	sek	00:27:02;
+
+[PrintText]=00:28:14	Sekai	...Hoy es Víspera de Navidad ¿No?^	00:30:17;
+
+[PlayVoice]=00:28:14	Voice05/05-SB/05-SB-D06/05-SB-D06-0150	0	sek	00:30:17;
+
+[PrintText]=00:30:22	Makoto	Sí.	00:31:14;
+
+[PlayVoice]=00:30:22	Voice05/05-SB/05-SB-D06/05-SB-D06-0160	1	mak	00:31:14;
+
+[PrintText]=00:32:04	Sekai	¿Irás?^	00:33:10;
+
+[PlayVoice]=00:32:04	Voice05/05-SB/05-SB-D06/05-SB-D06-0170	0	sek	00:33:10;
+
+[PrintText]=00:33:23	Makoto	...	00:34:13;
+
+[PlayVoice]=00:33:23	Voice05/05-SB/05-SB-D06/05-SB-D06-0180	1	xxx	00:34:13;
+
+[PrintText]=00:35:23	Sekai	Al hotel.	00:36:19;
+
+[PlayVoice]=00:35:23	Voice05/05-SB/05-SB-D06/05-SB-D06-0190	0	sek	00:36:19;
+
+[PrintText]=00:37:11	Makoto	Sí.	00:38:03;
+
+[PlayVoice]=00:37:11	Voice05/05-SB/05-SB-D06/05-SB-D06-0200	1	mak	00:38:03;
+
+[CreateBG]=00:38:14	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-004	00:57:07;
+
+[PrintText]=00:38:14	Sekai	¿Te reunirás ahí?^	00:40:16;
+
+[PlayVoice]=00:38:14	Voice05/05-SB/05-SB-D06/05-SB-D06-0210	0	sek	00:40:16;
+
+[PrintText]=00:40:16	Makoto	...En el hotel, a las siete.	00:42:20;
+
+[PlayVoice]=00:40:16	Voice05/05-SB/05-SB-D06/05-SB-D06-0220	1	mak	00:42:20;
+
+[PrintText]=00:44:04	Sekai	Ya veo...	00:45:01;
+
+[PlayVoice]=00:44:04	Voice05/05-SB/05-SB-D06/05-SB-D06-0230	0	sek	00:45:01;
+
+[PrintText]=00:45:09	Makoto	Es Víspera de navidad, creí que era imposible. Por eso le prometí que iría si ella conseguía una reservación...	00:52:19;
+
+[PlayVoice]=00:45:09	Voice05/05-SB/05-SB-D06/05-SB-D06-0240	1	mak	00:52:19;
+
+[PrintText]=00:53:02	Makoto	Pero de alguna manera lo hizo.	00:54:21;
+
+[PlayVoice]=00:53:02	Voice05/05-SB/05-SB-D06/05-SB-D06-0241	1	mak	00:54:21;
+
+[PrintText]=00:55:06	Sekai	Es porque Katsura-san...	00:57:10;
+
+[PlayVoice]=00:55:06	Voice05/05-SB/05-SB-D06/05-SB-D06-0250	0	sek	00:57:10;
+
+[PrintText]=00:57:05	Makoto	¿Qué hay con Kotonoha?^	00:58:08;
+
+[PlayVoice]=00:57:05	Voice05/05-SB/05-SB-D06/05-SB-D06-0260	1	mak	00:58:08;
+
+[CreateBG]=00:57:07	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-005	00:59:18;
+
+[PrintText]=00:59:17	Sekai	...nada.	01:02:04;
+
+[PlayVoice]=00:59:17	Voice05/05-SB/05-SB-D06/05-SB-D06-0270	0	sek	01:02:04;
+
+[CreateBG]=00:59:18	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-006	01:10:13;
+
+[PrintText]=01:02:19	Makoto	...	01:03:11;
+
+[PlayVoice]=01:02:19	Voice05/05-SB/05-SB-D06/05-SB-D06-0280	1	xxx	01:03:11;
+
+[PrintText]=01:04:17	Sekai	Pero irás ¿No es así?^	01:06:00;
+
+[PlayVoice]=01:04:17	Voice05/05-SB/05-SB-D06/05-SB-D06-0290	0	sek	01:06:00;
+
+[PrintText]=01:07:03	Makoto	...Sí.	01:09:16;
+
+[PlayVoice]=01:07:03	Voice05/05-SB/05-SB-D06/05-SB-D06-0300	1	mak	01:09:16;
+
+[PrintText]=01:10:12	Sekai	Ya veo.	01:11:10;
+
+[PlayVoice]=01:10:12	Voice05/05-SB/05-SB-D06/05-SB-D06-0310	0	sek	01:11:10;
+
+[CreateBG]=01:10:13	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-003	01:13:21;
+
+[PrintText]=01:12:10	Makoto	...	01:13:00;
+
+[PlayVoice]=01:12:10	Voice05/05-SB/05-SB-D06/05-SB-D06-0320	1	xxx	01:13:00;
+
+[BlackFade]=01:13:07	OUT	01:13:21;
+
+[CreateBG]=01:13:21	BGS	System/Screen/Black	01:15:14;
+
+[CreateBG]=01:15:14	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-008	01:26:19;
+
+[BlackFade]=01:15:14	IN	01:16:02;
+
+[PlayVoice]=01:16:10	Voice05/05-SB/05-SB-D06/05-SB-D06-0360	1	jot	01:19:17;
+
+[PrintText]=01:16:10	Profesor	Bien, ahora vamos a ver el diagrama de la página 46....	01:19:17;
+
+[PlayVoice]=01:20:08	Voice05/05-SB/05-SB-D06/05-SB-D06-0361	1	jot	01:27:02;
+
+[PrintText]=01:20:08	Profesor	Como podrán ver, hay una gran cantidad de información falsa en Internet, así que debemos estar...	01:27:02;
+
+[WhiteFade]=01:26:04	OUT	01:26:19;
+
+[CreateBG]=01:26:19	BGS	System/Screen/White	01:27:11;
+
+[CreateBG]=01:27:11	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-010	01:43:21;
+
+[WhiteFade]=01:27:11	IN	01:28:02;
+
+[PrintText]=01:28:05	Sekai	...	01:28:17;
+
+[PlayVoice]=01:28:05	Voice05/05-SB/05-SB-D06/05-SB-D06-0380	0	xxx	01:28:17;
+
+[PrintText]=01:30:06	Sekai	Soy una tonta.	01:33:05;
+
+[PlayVoice]=01:30:06	Voice05/05-SB/05-SB-D06/05-SB-D06-0400	0	sek	01:33:05;
+
+[PrintText]=01:34:15	Sekai	Él dijo que me amaba...	01:36:21;
+
+[PlayVoice]=01:34:15	Voice05/05-SB/05-SB-D06/05-SB-D06-0410	0	sek	01:36:21;
+
+[PrintText]=01:38:03	Sekai	Y yo también lo amo...	01:42:08;
+
+[PlayVoice]=01:38:03	Voice05/05-SB/05-SB-D06/05-SB-D06-0420	0	sek	01:42:08;
+
+[CreateBG]=01:43:21	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-012	02:03:12;
+
+[PrintText]=01:43:21	Sekai	Pero opté por contenerme. Escapé...	01:46:10;
+
+[PlayVoice]=01:43:21	Voice05/05-SB/05-SB-D06/05-SB-D06-0430	0	sek	01:46:10;
+
+[PrintText]=01:47:16	Sekai	Y aún así, ahora... me siento tan mal... tan frustrada...	01:52:00;
+
+[PlayVoice]=01:47:16	Voice05/05-SB/05-SB-D06/05-SB-D06-0440	0	sek	01:52:00;
+
+[PrintText]=01:52:21	Sekai	Me arrepiento de esto... pero es demasiado tarde, y ahora...	01:57:09;
+
+[PlayVoice]=01:52:21	Voice05/05-SB/05-SB-D06/05-SB-D06-0450	0	sek	01:57:09;
+
+[PrintText]=01:58:18	Sekai	Lo amo tanto... y aún así...	02:03:06;
+
+[PlayVoice]=01:58:18	Voice05/05-SB/05-SB-D06/05-SB-D06-0460	0	sek	02:03:06;
+
+[WhiteFade]=02:02:23	OUT	02:03:12;
+
+[CreateBG]=02:03:12	BGS	System/Screen/White	02:04:21;
+
+[PlayMovie]=02:04:21	Movie05/05-SB/05-SB-D06/05-SB-D06-013	0	02:10:19;
+
+[PrintText]=02:04:21	Sekai	y aún así... y aún así...	02:10:18;
+
+[PlayVoice]=02:04:21	Voice05/05-SB/05-SB-D06/05-SB-D06-0470	0	sek	02:10:18;
+
+[WhiteFade]=02:04:21	IN	02:05:12;
+
+[CreateBG]=02:10:18	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-014	02:16:00;
+
+[PlayVoice]=02:11:02	Voice05/05-SB/05-SB-D06/05-SB-D06-0480			02:17:20;
+
+[PrintText]=02:12:20	Nanami	¿Sekai?^	02:13:20;
+
+[PlayVoice]=02:12:20	Voice05/05-SB/05-SB-D06/05-SB-D06-0490	0	nan	02:13:20;
+
+[PrintText]=02:15:01	Nanami	¡Sensei!	02:16:01;
+
+[PlayVoice]=02:15:01	Voice05/05-SB/05-SB-D06/05-SB-D06-0510	0	nan	02:16:01;
+
+[CreateBG]=02:16:00	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-015	02:19:17;
+
+[PlayVoice]=02:16:12	Voice05/05-SB/05-SB-D06/05-SB-D06-0520	1	jot	02:20:02;
+
+[CreateBG]=02:19:17	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-016	02:21:23;
+
+[PrintText]=02:19:19	Nanami	¡Voy a... no, Itou!	02:22:06;
+
+[PlayVoice]=02:19:19	Voice05/05-SB/05-SB-D06/05-SB-D06-0530	0	nan	02:22:06;
+
+[CreateBG]=02:21:23	BGS	Event05/05-SB/05-SB-D06/05-SB-D06-017	02:28:17;
+
+[PrintText]=02:22:08	Makoto	¡¿Yo?!	02:23:04;
+
+[PlayVoice]=02:22:08	Voice05/05-SB/05-SB-D06/05-SB-D06-0540	1	mak	02:23:04;
+
+[PrintText]=02:23:09	Nanami	¡La enfermería! ¡Llévala!	02:25:10;
+
+[PlayVoice]=02:23:09	Voice05/05-SB/05-SB-D06/05-SB-D06-0550	0	nan	02:25:10;
+
+[PrintText]=02:25:17	Makoto	V-Vale.	02:27:11;
+
+[PlayVoice]=02:25:17	Voice05/05-SB/05-SB-D06/05-SB-D06-0560	1	mak	02:27:11;
+
+ ;
+
+[Next]=02:28:17;
+
+
+

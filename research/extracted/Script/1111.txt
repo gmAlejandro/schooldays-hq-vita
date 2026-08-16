@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:16:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:16:21;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-H02/04-SA-H02-001	00:01:20;
+
+[PrintText]=00:00:06	Makoto	Vamos todos juntos.	00:01:09;
+
+[PlayVoice]=00:00:06	Voice04/04-SA/04-SA-H02/04-SA-H02-0030	1	mak	00:01:09;
+
+[PrintText]=00:01:09	Sekai	¿Eh...?^	00:01:22;
+
+[PlayVoice]=00:01:09	Voice04/04-SA/04-SA-H02/04-SA-H02-0040	0	sek	00:01:22;
+
+[CreateBG]=00:01:20	BGS	Event04/04-SA/04-SA-H02/04-SA-H02-002	00:04:16;
+
+[PrintText]=00:02:01	Makoto	Todo lo que tenemos que hacer es comprar otra entrada.	00:04:20;
+
+[PlayVoice]=00:02:01	Voice04/04-SA/04-SA-H02/04-SA-H02-0050	1	mak	00:04:20;
+
+[CreateBG]=00:04:16	BGS	Event04/04-SA/04-SA-H02/04-SA-H02-003	00:15:07;
+
+[PrintText]=00:04:21	Sekai	Ahora que lo pienso, tienes razón.	00:07:00;
+
+[PlayVoice]=00:04:21	Voice04/04-SA/04-SA-H02/04-SA-H02-0060	0	sek	00:07:00;
+
+[PrintText]=00:07:00	Makoto	Yo conduzco a Taisuke con Koruda, y tu trabajo será alejarla a la otra chica de él.	00:15:08;
+
+[PlayVoice]=00:07:00	Voice04/04-SA/04-SA-H02/04-SA-H02-0070	1	mak	00:15:08;
+
+[CreateBG]=00:15:07	BGS	Event04/04-SA/04-SA-H02/04-SA-H02-004	00:16:21;
+
+[PrintText]=00:15:13	Sekai	Vale.	00:16:15;
+
+[PlayVoice]=00:15:13	Voice04/04-SA/04-SA-H02/04-SA-H02-0080	0	sek	00:16:15;
+
+ ;
+
+[Next]=00:16:21;
+
+

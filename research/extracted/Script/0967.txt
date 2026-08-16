@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:03:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:03:12;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-B02/04-KB-B02-001	00:03:12;
+
+[PrintText]=00:00:00	Makoto	No te des por vencido.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-B02/04-KB-B02-0030	1	mak	00:00:20;
+
+[PrintText]=00:00:20	Sekai	Sí... Gracias...	00:03:01;
+
+[PlayVoice]=00:00:20	Voice04/04-KB/04-KB-B02/04-KB-B02-0040	0	sek	00:03:01;
+
+ ;
+
+[Next]=00:03:12;
+
+

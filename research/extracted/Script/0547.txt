@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:31:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	00:31:02;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-E00/SE03-KA-E00-001	00:31:02;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-E00/03-KA-E00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-E00/03-KA-E00-002	00:06:13;
+
+[PrintText]=00:03:01	Makoto	Bueno, nos vemos después.	00:04:00;
+
+[PlayVoice]=00:03:01	Voice03/03-KA/03-KA-E00/03-KA-E00-0030	1	mak	00:04:00;
+
+[PrintText]=00:04:00	Kotonoha	Sí.	00:04:17;
+
+[PlayVoice]=00:04:00	Voice03/03-KA/03-KA-E00/03-KA-E00-0040	0	kot	00:04:17;
+
+[PrintText]=00:05:00	Makoto	Te enviaré un correo en cuanto llegue a casa.	00:06:10;
+
+[PlayVoice]=00:05:00	Voice03/03-KA/03-KA-E00/03-KA-E00-0050	1	mak	00:06:10;
+
+[PlayMovie]=00:06:13	Movie03/03-KA/03-KA-E00/03-KA-E00-003	0	00:28:17;
+
+[PrintText]=00:06:17	Kotonoha	Vale. U-um...	00:10:13;
+
+[PlayVoice]=00:06:17	Voice03/03-KA/03-KA-E00/03-KA-E00-0060	0	kot	00:10:13;
+
+[PrintText]=00:10:13	Makoto	¿Hmn?^	00:11:02;
+
+[PlayVoice]=00:10:13	Voice03/03-KA/03-KA-E00/03-KA-E00-0070	1	mak	00:11:02;
+
+[PrintText]=00:11:20	Kotonoha	¿Te importaría inclinarte por un segundo?^	00:15:03;
+
+[PlayVoice]=00:11:20	Voice03/03-KA/03-KA-E00/03-KA-E00-0080	0	kot	00:15:03;
+
+[PrintText]=00:15:10	Makoto	Um... ¿Así?^	00:17:19;
+
+[PlayVoice]=00:15:10	Voice03/03-KA/03-KA-E00/03-KA-E00-0090	1	mak	00:17:19;
+
+[PrintText]=00:17:23	Kotonoha	Así, ahora, quédate así...	00:24:13;
+
+[PlayVoice]=00:17:23	Voice03/03-KA/03-KA-E00/03-KA-E00-0100	0	kot	00:24:13;
+
+[PrintText]=00:24:14	Makoto	Ah...	00:25:17;
+
+[PlayVoice]=00:24:14	Voice03/03-KA/03-KA-E00/03-KA-E00-0120	1	mak	00:25:17;
+
+[PrintText]=00:26:16	Kotonoha	Que descanses.	00:27:22;
+
+[PlayVoice]=00:26:16	Voice03/03-KA/03-KA-E00/03-KA-E00-0140	0	kot	00:27:22;
+
+[CreateBG]=00:28:17	BGS	Event03/03-KA/03-KA-E00/03-KA-E00-001	00:31:02;
+
+[PrintText]=00:29:00	Makoto	Uh-huh.	00:29:16;
+
+[PlayVoice]=00:29:00	Voice03/03-KA/03-KA-E00/03-KA-E00-0150	1	mak	00:29:16;
+
+[BlackFade]=00:30:02	OUT	00:31:02;
+
+ ;
+
+[Next]=00:31:02;
+
+

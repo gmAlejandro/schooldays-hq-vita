@@ -1,0 +1,28 @@
+﻿[SkipFRAME]=00:07:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:07:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/keitai/keitai_vib	00:01:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E08/02-2K-E08-001	00:01:10;
+
+[PrintText]=00:00:00	Kotonoha	¡Ah!	00:03:13;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-E08/02-2K-E08-0050	0	kot	00:03:13;
+
+[PlayMovie]=00:01:10	Movie02/02-2K/02-2K-E08/02-2K-E08-002	0	00:03:21;
+
+[CreateBG]=00:03:21	BGS	Event02/02-2K/02-2K-E08/02-2K-E08-003	00:05:16;
+
+[CreateBG]=00:05:16	BGS	Event02/02-2K/02-2K-E08/02-2K-E08-003A	00:07:15;
+
+[BlackFade]=00:06:15	OUT	00:07:15;
+
+ ;
+
+[Next]=00:07:15;
+
+
+
+
+

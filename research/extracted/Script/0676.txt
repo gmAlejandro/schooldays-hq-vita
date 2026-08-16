@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:11:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:17:07;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I10/SE03-KB-I10-001	00:17:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I10/03-KB-I10-001	00:03:17;
+
+[PrintText]=00:00:00	Taisuke	¡Mira, solo ven conmigo!	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-I10/03-KB-I10-0060	1	tai	00:01:13;
+
+[PrintText]=00:01:12	Makoto	¡¿Qué pasa contigo...?!	00:03:17;
+
+[PlayVoice]=00:01:12	Voice03/03-KB/03-KB-I10/03-KB-I10-0070	1	mak	00:03:17;
+
+[CreateBG]=00:03:17	BGS	Event03/03-KB/03-KB-I10/03-KB-I10-002	00:05:07;
+
+[PrintText]=00:03:17	Kotonoha	Makoto-kun...	00:05:07;
+
+[PlayVoice]=00:03:17	Voice03/03-KB/03-KB-I10/03-KB-I10-0080	0	kot	00:05:07;
+
+[PrintText]=00:05:06	Makoto	¡Ah...!	00:06:02;
+
+[PlayVoice]=00:05:06	Voice03/03-KB/03-KB-I10/03-KB-I10-0090	1	mak	00:06:02;
+
+[CreateBG]=00:05:07	BGS	Event03/03-KB/03-KB-I10/03-KB-I10-003	00:17:07;
+
+[PrintText]=00:06:02	Taisuke	Tu novia... es Katsura-san ¿No?^	00:10:08;
+
+[PlayVoice]=00:06:02	Voice03/03-KB/03-KB-I10/03-KB-I10-0100	1	tai	00:10:08;
+
+[PrintText]=00:10:08	Makoto	...	00:11:14;
+
+[PlayVoice]=00:10:08	Voice03/03-KB/03-KB-I10/03-KB-I10-0110	1	xxx	00:11:14;
+
+[SetSELECT]=00:11:06	'Así es'	'No lo somos'	00:16:06;
+
+ ;
+
+[Next]=00:17:07;
+
+

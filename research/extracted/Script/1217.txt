@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:06:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:06:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-I01/04-SB-I01-001	00:06:15;
+
+[PrintText]=00:00:00	Makoto	No puedo ver más de esto.	00:01:17;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-I01/04-SB-I01-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:16	Hikari	Sí...	00:02:08;
+
+[PlayVoice]=00:01:16	Voice04/04-SB/04-SB-I01/04-SB-I01-0040	0	hik	00:02:08;
+
+[PrintText]=00:02:08	Makoto	Volvamos a clases.	00:04:09;
+
+[PlayVoice]=00:02:08	Voice04/04-SB/04-SB-I01/04-SB-I01-0050	1	mak	00:04:09;
+
+[PrintText]=00:04:08	Hikari	...Uh-huh.	00:05:14;
+
+[PlayVoice]=00:04:08	Voice04/04-SB/04-SB-I01/04-SB-I01-0060	0	hik	00:05:14;
+
+ ;
+
+[Next]=00:06:15;
+
+

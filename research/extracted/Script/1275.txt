@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:10:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:10:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-H01/04-SE-H01-001	00:09:23;
+
+[PrintText]=00:00:00	Sekai	Katou Otome...	00:02:08;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-H01/04-SE-H01-0030	0	sek	00:02:08;
+
+[PrintText]=00:03:01	Makoto	Mnyah mynah...	00:05:09;
+
+[PlayVoice]=00:03:01	Voice04/04-SE/04-SE-H01/04-SE-H01-0040	1	mak	00:05:09;
+
+[PrintText]=00:06:02	Sekai	...	00:07:00;
+
+[PlayVoice]=00:06:02	Voice04/04-SE/04-SE-H01/04-SE-H01-0050	0	xxx	00:07:00;
+
+ ;
+
+[Next]=00:10:00;
+
+

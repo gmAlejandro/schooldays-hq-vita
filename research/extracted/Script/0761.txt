@@ -1,0 +1,453 @@
+﻿[SkipFRAME]=04:33:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	04:33:10;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-F06/SE03-SA-F06-001	01:39:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-001	00:04:22;
+
+[PrintText]=00:00:00	Makoto	¡Ya no puedo ver esto...!	00:02:15;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-F06/03-SA-F06-0030	1	xxx	00:02:15;
+
+[PrintText]=00:02:15	Makoto	Lo siento, Kotonoha...	00:04:21;
+
+[PlayVoice]=00:02:15	Voice03/03-SA/03-SA-F06/03-SA-F06-0050	1	mak	00:04:21;
+
+[PrintText]=00:04:21	Otome	Date por vencida, Katsura. Tenemos un limite de paciencia.	00:11:01;
+
+[PlayVoice]=00:04:21	Voice03/03-SA/03-SA-F06/03-SA-F06-0070	0	oto	00:11:01;
+
+[CreateBG]=00:04:22	BGS	Event03/03-SA/03-SA-F03/03-SA-F03-002	00:08:06;
+
+[CreateBG]=00:08:06	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-003	00:11:01;
+
+[CreateBG]=00:11:01	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-004	00:15:12;
+
+[PrintText]=00:11:01	Kotonoha	Uuu...	00:12:15;
+
+[PlayVoice]=00:11:01	Voice03/03-SA/03-SA-F06/03-SA-F06-0080	0	kot	00:12:15;
+
+[PrintText]=00:12:16	Kumi	¡Katsura! serás tú...	00:15:12;
+
+[PlayVoice]=00:12:16	Voice03/03-SA/03-SA-F06/03-SA-F06-0090	0	kum	00:15:12;
+
+[CreateBG]=00:15:12	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-005	00:17:17;
+
+[PrintText]=00:15:12	Taisuke	¡Hey! ¡¿Qué están haciendo?!	00:17:17;
+
+[PlayVoice]=00:15:12	Voice03/03-SA/03-SA-F06/03-SA-F06-0100	1	tai	00:17:17;
+
+[PlayMovie]=00:17:17	Movie03/03-SA/03-SA-F06/03-SA-F06-006	0	00:28:22;
+
+[PrintText]=00:17:17	Otome	¿Ah...?^	00:18:12;
+
+[PlayVoice]=00:17:17	Voice03/03-SA/03-SA-F06/03-SA-F06-0110	0	oto	00:18:12;
+
+[PrintText]=00:18:11	Natsumi	Eres... Sawanaga de la clase 3 ¿No?^	00:22:00;
+
+[PlayVoice]=00:18:11	Voice03/03-SA/03-SA-F06/03-SA-F06-0120	0	nat	00:22:00;
+
+[PrintText]=00:22:01	Otome	¿Cuál es tu problema?^	00:23:11;
+
+[PlayVoice]=00:22:01	Voice03/03-SA/03-SA-F06/03-SA-F06-0130	0	oto	00:23:11;
+
+[PrintText]=00:23:10	Taisuke	¿Que intentar lograr, tratando a Katsura-san así?^	00:26:21;
+
+[PlayVoice]=00:23:10	Voice03/03-SA/03-SA-F06/03-SA-F06-0140	1	tai	00:26:21;
+
+[PrintText]=00:26:21	Otome	Nada de tu incumbencia.	00:28:21;
+
+[PlayVoice]=00:26:21	Voice03/03-SA/03-SA-F06/03-SA-F06-0150	0	oto	00:28:21;
+
+[CreateBG]=00:28:22	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-007	00:36:02;
+
+[PrintText]=00:28:22	Taisuke	Sí, tal vez, vale, pero tal vez no. ¡Aún así, no deberían molestar a Katsura-san!	00:36:02;
+
+[PlayVoice]=00:28:22	Voice03/03-SA/03-SA-F06/03-SA-F06-0160	1	tai	00:36:02;
+
+[PrintText]=00:36:01	Otome	¿Qué? ¿No me digas que te gusta?^	00:40:01;
+
+[PlayVoice]=00:36:01	Voice03/03-SA/03-SA-F06/03-SA-F06-0170	0	oto	00:40:01;
+
+[PlayMovie]=00:36:02	Movie03/03-SA/03-SA-F06/03-SA-F06-008	0	00:50:21;
+
+[PrintText]=00:39:23	Taisuke	¡Ah... cállate! ¡¿De qué hablan?!	00:43:12;
+
+[PlayVoice]=00:39:23	Voice03/03-SA/03-SA-F06/03-SA-F06-0180	1	tai	00:43:12;
+
+[PrintText]=00:43:13	Natsumi	Ah. Parece que si le gusta.	00:45:09;
+
+[PlayVoice]=00:43:13	Voice03/03-SA/03-SA-F06/03-SA-F06-0190	0	nat	00:45:09;
+
+[PrintText]=00:45:09	Kumi	¿Es posible que el novio de Katsura sera Sawanaga?^	00:50:20;
+
+[PlayVoice]=00:45:09	Voice03/03-SA/03-SA-F06/03-SA-F06-0200	0	kum	00:50:20;
+
+[PrintText]=00:50:20	Kotonoha	¡N-no!	00:52:15;
+
+[PlayVoice]=00:50:20	Voice03/03-SA/03-SA-F06/03-SA-F06-0210	0	kot	00:52:15;
+
+[CreateBG]=00:50:21	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-009	01:01:09;
+
+[PrintText]=00:52:14	Taisuke	Ah...	00:53:14;
+
+[PlayVoice]=00:52:14	Voice03/03-SA/03-SA-F06/03-SA-F06-0220	1	tai	00:53:14;
+
+[PrintText]=00:53:14	Otome	Mira, has hecho que se deprima. No deberías decir cosas así.	00:59:11;
+
+[PlayVoice]=00:53:14	Voice03/03-SA/03-SA-F06/03-SA-F06-0230	0	oto	00:59:11;
+
+[PrintText]=00:59:11	Kotonoha	Pero él realmente no es...	01:01:08;
+
+[PlayVoice]=00:59:11	Voice03/03-SA/03-SA-F06/03-SA-F06-0240	0	kot	01:01:08;
+
+[PrintText]=01:01:08	Otome	Sawanaga.	01:02:13;
+
+[PlayVoice]=01:01:08	Voice03/03-SA/03-SA-F06/03-SA-F06-0250	0	oto	01:02:13;
+
+[CreateBG]=01:01:09	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-010	01:17:20;
+
+[PrintText]=01:02:13	Taisuke	Sí.	01:03:16;
+
+[PlayVoice]=01:02:13	Voice03/03-SA/03-SA-F06/03-SA-F06-0260	1	tai	01:03:16;
+
+[PrintText]=01:03:16	Otome	No estamos molestando a Katsura.	01:07:20;
+
+[PlayVoice]=01:03:16	Voice03/03-SA/03-SA-F06/03-SA-F06-0270	0	oto	01:07:20;
+
+[PrintText]=01:07:20	Taisuke	Mentirosa.	01:09:03;
+
+[PlayVoice]=01:07:20	Voice03/03-SA/03-SA-F06/03-SA-F06-0280	1	tai	01:09:03;
+
+[PrintText]=01:09:04	Otome	No te estoy mintiendo. Katsura dijo que su novio vendría, así que esperamos... pero el no vino, y ya estamos cansadas.	01:17:19;
+
+[PlayVoice]=01:09:04	Voice03/03-SA/03-SA-F06/03-SA-F06-0290	0	oto	01:17:19;
+
+[PrintText]=01:17:19	Taisuke	Entonces Katsura-san... tiene un novio.	01:23:07;
+
+[PlayVoice]=01:17:19	Voice03/03-SA/03-SA-F06/03-SA-F06-0300	1	tai	01:23:07;
+
+[CreateBG]=01:17:20	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-011	01:29:05;
+
+[PrintText]=01:23:06	Otome	Katsura se ve más triste de lo normal. ¿Por qué no te haces su novio?^	01:29:05;
+
+[PlayVoice]=01:23:06	Voice03/03-SA/03-SA-F06/03-SA-F06-0320	0	oto	01:29:05;
+
+[CreateBG]=01:29:05	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-012	01:33:14;
+
+[PrintText]=01:29:05	Taisuke	¡¿Ehh?!	01:30:01;
+
+[PlayVoice]=01:29:05	Voice03/03-SA/03-SA-F06/03-SA-F06-0330	1	tai	01:30:01;
+
+[PrintText]=01:30:02	Otome	Te has estado guardando algo, lo noto en tu cara de satisfacción.	01:33:14;
+
+[PlayVoice]=01:30:02	Voice03/03-SA/03-SA-F06/03-SA-F06-0350	0	oto	01:33:14;
+
+[CreateBG]=01:33:14	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-013	01:42:16;
+
+[PrintText]=01:33:14	Taisuke	¿'Satisfacción'? Eso...	01:36:22;
+
+[PlayVoice]=01:33:14	Voice03/03-SA/03-SA-F06/03-SA-F06-0360	1	tai	01:36:22;
+
+[PrintText]=01:36:22	Otome	Es tan obvio con solo mirarte. Te gusta Katsura ¿No?^	01:40:23;
+
+[PlayVoice]=01:36:22	Voice03/03-SA/03-SA-F06/03-SA-F06-0370	0	oto	01:40:23;
+
+[PlaySe]=01:38:23	2	Se03/03-SA/03-SA-F06/SE03-SA-F06-001	03:18:09;
+
+[PrintText]=01:41:00	Taisuke	Pues...	01:42:16;
+
+[PlayVoice]=01:41:00	Voice03/03-SA/03-SA-F06/03-SA-F06-0380	1	tai	01:42:16;
+
+[CreateBG]=01:42:16	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-012	01:47:18;
+
+[PrintText]=01:42:16	Otome	Está decidido entonces. Sígueme la corriente ¿Vale?^	01:46:04;
+
+[PlayVoice]=01:42:16	Voice03/03-SA/03-SA-F06/03-SA-F06-0390	0	oto	01:46:04;
+
+[PrintText]=01:46:04	Taisuke	V-Vale.	01:47:17;
+
+[PlayVoice]=01:46:04	Voice03/03-SA/03-SA-F06/03-SA-F06-0400	1	tai	01:47:17;
+
+[PrintText]=01:47:17	Kotonoha	Uh...	01:48:14;
+
+[PlayVoice]=01:47:17	Voice03/03-SA/03-SA-F06/03-SA-F06-0420	0	kot	01:48:14;
+
+[CreateBG]=01:47:18	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-015	01:48:15;
+
+[PrintText]=01:48:14	Otome	Bueno, parece que he malentendido todo Katsura-san!	01:52:04;
+
+[PlayVoice]=01:48:14	Voice03/03-SA/03-SA-F06/03-SA-F06-0450	0	oto	01:52:04;
+
+[CreateBG]=01:48:15	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-016	01:52:04;
+
+[PlayMovie]=01:52:04	Movie03/03-SA/03-SA-F06/03-SA-F06-017	0	02:03:07;
+
+[PrintText]=01:52:04	Kotonoha	¿Katsura-san?^	01:53:16;
+
+[PlayVoice]=01:52:04	Voice03/03-SA/03-SA-F06/03-SA-F06-0460	0	kot	01:53:16;
+
+[PrintText]=01:53:16	Otome	Dijiste que nos ibas a mostrar a tu novio ¿no?^	01:57:00;
+
+[PlayVoice]=01:53:16	Voice03/03-SA/03-SA-F06/03-SA-F06-0470	0	oto	01:57:00;
+
+[PrintText]=01:57:00	Minami	¿Eh?^	01:57:16;
+
+[PlayVoice]=01:57:00	Voice03/03-SA/03-SA-F06/03-SA-F06-0480	0	min	01:57:16;
+
+[PrintText]=01:57:16	Otome	Lo siento, parece que me he confundido en saber quien era tu novio.	02:02:10;
+
+[PlayVoice]=01:57:16	Voice03/03-SA/03-SA-F06/03-SA-F06-0490	0	oto	02:02:10;
+
+[PrintText]=02:02:10	Kotonoha	¿Huh?^	02:03:06;
+
+[PlayVoice]=02:02:10	Voice03/03-SA/03-SA-F06/03-SA-F06-0500	0	kot	02:03:06;
+
+[PrintText]=02:03:06	Otome	Estás saliendo con Sawanaga ¿No?^	02:06:01;
+
+[PlayVoice]=02:03:06	Voice03/03-SA/03-SA-F06/03-SA-F06-0510	0	oto	02:06:01;
+
+[CreateBG]=02:03:07	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-018	02:10:11;
+
+[PrintText]=02:06:02	Kotonoha	¿Eh? N...	02:07:14;
+
+[PlayVoice]=02:06:02	Voice03/03-SA/03-SA-F06/03-SA-F06-0520	0	kot	02:07:14;
+
+[PrintText]=02:07:15	Otome	¡Tu novio vino después de todo, así que supongo que perdimos!	02:10:11;
+
+[PlayVoice]=02:07:15	Voice03/03-SA/03-SA-F06/03-SA-F06-0530	0	oto	02:10:11;
+
+[CreateBG]=02:10:11	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-019	02:18:07;
+
+[PrintText]=02:10:11	Kumi	¿Eh? Pero su novio es Itou...	02:14:00;
+
+[PlayVoice]=02:10:11	Voice03/03-SA/03-SA-F06/03-SA-F06-0540	0	kum	02:14:00;
+
+[PrintText]=02:14:00	Natsumi	¡Shh!	02:14:17;
+
+[PlayVoice]=02:14:00	Voice03/03-SA/03-SA-F06/03-SA-F06-0550	0	nat	02:14:17;
+
+[PrintText]=02:14:16	Otome	¡Venga, vamos a disculparnos!	02:16:20;
+
+[PlayVoice]=02:14:16	Voice03/03-SA/03-SA-F06/03-SA-F06-0560	0	oto	02:16:20;
+
+[PrintText]=02:16:20	Minami	S-Sí.	02:18:07;
+
+[PlayVoice]=02:16:20	Voice03/03-SA/03-SA-F06/03-SA-F06-0570	0	min	02:18:07;
+
+[CreateBG]=02:18:07	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-020	02:22:10;
+
+[PrintText]=02:18:07	Natsumi	Lo siento, Katsura.	02:20:06;
+
+[PlayVoice]=02:18:07	Voice03/03-SA/03-SA-F06/03-SA-F06-0580	0	nat	02:20:06;
+
+[PrintText]=02:20:06	Kumi	Lo sentimos, Katsura.	02:22:09;
+
+[PlayVoice]=02:20:06	Voice03/03-SA/03-SA-F06/03-SA-F06-0590	0	kum	02:22:09;
+
+[PrintText]=02:22:09	Otome	Bueno, eso es todo chicos. ¡Perdón por causar todo esto!	02:25:22;
+
+[PlayVoice]=02:22:09	Voice03/03-SA/03-SA-F06/03-SA-F06-0600	0	oto	02:25:22;
+
+[PlayMovie]=02:22:10	Movie03/03-SA/03-SA-F06/03-SA-F06-021	0	02:33:17;
+
+[PrintText]=02:25:21	Kotonoha	Um, realmente no es así... no estoy saliendo con Sawanaga-san.	02:30:19;
+
+[PlayVoice]=02:25:21	Voice03/03-SA/03-SA-F06/03-SA-F06-0620	0	kot	02:30:19;
+
+[PrintText]=02:30:19	Taisuke	Sí lo estamos...	02:33:17;
+
+[PlayVoice]=02:30:19	Voice03/03-SA/03-SA-F06/03-SA-F06-0630	1	tai	02:33:17;
+
+[CreateBG]=02:33:17	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-022	02:41:10;
+
+[PrintText]=02:33:17	Otome	Sawanaga.	02:34:18;
+
+[PlayVoice]=02:33:17	Voice03/03-SA/03-SA-F06/03-SA-F06-0650	0	oto	02:34:18;
+
+[PrintText]=02:34:18	Taisuke	¿Qué?^	02:36:06;
+
+[PlayVoice]=02:34:18	Voice03/03-SA/03-SA-F06/03-SA-F06-0660	1	tai	02:36:06;
+
+[PrintText]=02:36:06	Otome	Parece que Katsura sigue sin aceptar el hecho de que fue rechazada.	02:39:23;
+
+[PlayVoice]=02:36:06	Voice03/03-SA/03-SA-F06/03-SA-F06-0670	0	oto	02:39:23;
+
+[PrintText]=02:39:23	Taisuke	Ya veo...	02:41:09;
+
+[PlayVoice]=02:39:23	Voice03/03-SA/03-SA-F06/03-SA-F06-0680	1	tai	02:41:09;
+
+[CreateBG]=02:41:10	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-023	02:47:07;
+
+[PrintText]=02:41:10	Otome	Por eso que es que tienes que consolarla... si te haces su pareja, entonces ella caerá rendida ante ti.	02:47:06;
+
+[PlayVoice]=02:41:10	Voice03/03-SA/03-SA-F06/03-SA-F06-0690	0	oto	02:47:06;
+
+[PrintText]=02:47:06	Taisuke	Espera... ¡¿Esto...?!	02:48:18;
+
+[PlayVoice]=02:47:06	Voice03/03-SA/03-SA-F06/03-SA-F06-0710	1	tai	02:48:18;
+
+[CreateBG]=02:47:07	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-024	02:48:19;
+
+[PrintText]=02:48:18	Otome	Hay un pequeño cuarto aquí. ¿Por qué no se toman algo de tiempo los dos ahí?^	02:52:22;
+
+[PlayVoice]=02:48:18	Voice03/03-SA/03-SA-F06/03-SA-F06-0720	0	oto	02:52:22;
+
+[CreateBG]=02:48:19	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-025	03:03:09;
+
+[PrintText]=02:52:23	Taisuke	No usamos ese tipo de cosas solo para hablar!	02:56:11;
+
+[PlayVoice]=02:52:23	Voice03/03-SA/03-SA-F06/03-SA-F06-0730	1	tai	02:56:11;
+
+[PrintText]=02:56:11	Otome	En ese caso, ya sabes.	02:58:13;
+
+[PlayVoice]=02:56:11	Voice03/03-SA/03-SA-F06/03-SA-F06-0740	0	oto	02:58:13;
+
+[PrintText]=02:58:13	Taisuke	¿'En ese caso'...?^	03:00:14;
+
+[PlayVoice]=02:58:13	Voice03/03-SA/03-SA-F06/03-SA-F06-0750	1	tai	03:00:14;
+
+[PrintText]=03:00:14	Otome	Escucha, esa chica es virgen ¿Vale?^	03:03:08;
+
+[PlayVoice]=03:00:14	Voice03/03-SA/03-SA-F06/03-SA-F06-0760	0	oto	03:03:08;
+
+[CreateBG]=03:03:09	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-026	03:14:02;
+
+[PrintText]=03:03:09	Taisuke	¡¿Eh...?! ¿Cómo lo sabes?^	03:08:12;
+
+[PlayVoice]=03:03:09	Voice03/03-SA/03-SA-F06/03-SA-F06-0770	1	tai	03:08:12;
+
+[PrintText]=03:08:12	Otome	Somos chicas. Por supuesto que lo sé.	03:11:12;
+
+[PlayVoice]=03:08:12	Voice03/03-SA/03-SA-F06/03-SA-F06-0780	0	oto	03:11:12;
+
+[PrintText]=03:11:12	Taisuke	¿En serio...?^	03:14:02;
+
+[PlayVoice]=03:11:12	Voice03/03-SA/03-SA-F06/03-SA-F06-0790	1	tai	03:14:02;
+
+[PlayMovie]=03:14:02	Movie03/03-SA/03-SA-F06/03-SA-F06-027	0	03:39:08;
+
+[PrintText]=03:14:02	Otome	Tienes que forzarla, incluso si ella no quiere.	03:17:16;
+
+[PlayVoice]=03:14:02	Voice03/03-SA/03-SA-F06/03-SA-F06-0800	0	oto	03:17:16;
+
+[PrintText]=03:17:15	Taisuke	¡¿Ehh?!	03:18:11;
+
+[PlayVoice]=03:17:15	Voice03/03-SA/03-SA-F06/03-SA-F06-0810	1	tai	03:18:11;
+
+[PlaySe]=03:17:21	1	Se03/03-SA/03-SA-F06/SE03-SA-F06-001	04:32:21;
+
+[PrintText]=03:18:11	Otome	Por supuesto ella no lo buscaría. La primera vez duele ¿Sabes? Algunas veces hay sangre. Ninguna chica busca eso.	03:27:08;
+
+[PlayVoice]=03:18:11	Voice03/03-SA/03-SA-F06/03-SA-F06-0820	0	oto	03:27:08;
+
+[PrintText]=03:27:08	Taisuke	Ya veo... ahora que lo pienso, mi hermana una vez lloró cuando su novio la forzaba...	03:35:04;
+
+[PlayVoice]=03:27:08	Voice03/03-SA/03-SA-F06/03-SA-F06-0830	1	tai	03:35:04;
+
+[PrintText]=03:35:04	Otome	¿Ves? Por eso no puedes dar marcha atrás, incluso sin ella se resiste.	03:39:09;
+
+[PlayVoice]=03:35:04	Voice03/03-SA/03-SA-F06/03-SA-F06-0840	0	oto	03:39:09;
+
+[CreateBG]=03:39:08	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-028	03:44:10;
+
+[PrintText]=03:39:09	Taisuke	Da... Daré mi mejor esfuerzo.	03:41:11;
+
+[PlayVoice]=03:39:09	Voice03/03-SA/03-SA-F06/03-SA-F06-0850	1	tai	03:41:11;
+
+[PrintText]=03:41:12	Otome	A eso es lo que llamo un verdadero hombre.	03:43:10;
+
+[PlayVoice]=03:41:12	Voice03/03-SA/03-SA-F06/03-SA-F06-0860	0	oto	03:43:10;
+
+[PrintText]=03:43:09	Taisuke	Verdadero hombre, huh...	03:44:09;
+
+[PlayVoice]=03:43:09	Voice03/03-SA/03-SA-F06/03-SA-F06-0870	1	tai	03:44:09;
+
+[CreateBG]=03:44:10	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-029	03:55:06;
+
+[PrintText]=03:44:10	Otome	Si la tomas a la fuerza, ella se enamorará de ti.	03:48:02;
+
+[PlayVoice]=03:44:10	Voice03/03-SA/03-SA-F06/03-SA-F06-0880	0	oto	03:48:02;
+
+[PrintText]=03:48:03	Taisuke	Eso es de locos...	03:50:07;
+
+[PlayVoice]=03:48:03	Voice03/03-SA/03-SA-F06/03-SA-F06-0890	1	tai	03:50:07;
+
+[PrintText]=03:50:07	Otome	Para nada... ¿O qué? ¿Tienes miedo de hacerlo?^	03:55:06;
+
+[PlayVoice]=03:50:07	Voice03/03-SA/03-SA-F06/03-SA-F06-0900	0	oto	03:55:06;
+
+[CreateBG]=03:55:06	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-028	04:06:07;
+
+[PrintText]=03:55:06	Taisuke	¿A quién estás llamando miedoso?^	03:56:23;
+
+[PlayVoice]=03:55:06	Voice03/03-SA/03-SA-F06/03-SA-F06-0910	1	tai	03:56:23;
+
+[PrintText]=03:56:23	Otome	A ti.	03:58:05;
+
+[PlayVoice]=03:56:23	Voice03/03-SA/03-SA-F06/03-SA-F06-0920	0	oto	03:58:05;
+
+[PrintText]=03:58:05	Taisuke	¡Como si lo fuera! Bien, lo haré.	04:02:09;
+
+[PlayVoice]=03:58:05	Voice03/03-SA/03-SA-F06/03-SA-F06-0930	1	tai	04:02:09;
+
+[PrintText]=04:02:09	Otome	Sí, ese es el espíritu.	04:04:19;
+
+[PlayVoice]=04:02:09	Voice03/03-SA/03-SA-F06/03-SA-F06-0940	0	oto	04:04:19;
+
+[PrintText]=04:04:20	Taisuke	...	04:06:06;
+
+[PlayVoice]=04:04:20	Voice03/03-SA/03-SA-F06/03-SA-F06-0950	1	xxx	04:06:06;
+
+[PrintText]=04:06:06	Otome	Katsura-san.	04:07:14;
+
+[PlayVoice]=04:06:06	Voice03/03-SA/03-SA-F06/03-SA-F06-0980	0	oto	04:07:14;
+
+[CreateBG]=04:06:07	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-031	04:18:15;
+
+[PrintText]=04:07:13	Kotonoha	¿Sí...?^	04:08:09;
+
+[PlayVoice]=04:07:13	Voice03/03-SA/03-SA-F06/03-SA-F06-0990	0	kot	04:08:09;
+
+[PrintText]=04:08:09	Otome	Sawanaga quiere hablar contigo de lo que está pasando.	04:11:02;
+
+[PlayVoice]=04:08:09	Voice03/03-SA/03-SA-F06/03-SA-F06-1000	0	oto	04:11:02;
+
+[PrintText]=04:11:02	Kotonoha	¿En serio?^	04:12:12;
+
+[PlayVoice]=04:11:02	Voice03/03-SA/03-SA-F06/03-SA-F06-1010	0	kot	04:12:12;
+
+[PrintText]=04:12:13	Otome	Has traído su atención, así que puedes usar el cuarto de atrás.	04:15:14;
+
+[PlayVoice]=04:12:13	Voice03/03-SA/03-SA-F06/03-SA-F06-1020	0	oto	04:15:14;
+
+[PrintText]=04:15:14	Kotonoha	¿Eh? Pero eso...	04:18:15;
+
+[PlayVoice]=04:15:14	Voice03/03-SA/03-SA-F06/03-SA-F06-1030	0	kot	04:18:15;
+
+[CreateBG]=04:18:15	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-032	04:32:05;
+
+[PrintText]=04:18:15	Otome	Está bien. Nadie lo usa ahora, y tienes que resolver este malentendido con Sawanaga ¿Vale?^	04:25:05;
+
+[PlayVoice]=04:18:15	Voice03/03-SA/03-SA-F06/03-SA-F06-1040	0	oto	04:25:05;
+
+[PrintText]=04:25:07	Kotonoha	Sí, tienes razón... Gracias.	04:29:09;
+
+[PlayVoice]=04:25:07	Voice03/03-SA/03-SA-F06/03-SA-F06-1050	0	kot	04:29:09;
+
+[PrintText]=04:29:08	Otome	No hay problema, ve entonces.	04:32:05;
+
+[PlayVoice]=04:29:08	Voice03/03-SA/03-SA-F06/03-SA-F06-1060	0	oto	04:32:05;
+
+[PrintText]=04:32:04	Kotonoha	Vale.	04:32:21;
+
+[PlayVoice]=04:32:04	Voice03/03-SA/03-SA-F06/03-SA-F06-1070	0	kot	04:32:21;
+
+[CreateBG]=04:32:05	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-015	04:33:10;
+
+ ;
+
+[Next]=04:33:10;
+
+

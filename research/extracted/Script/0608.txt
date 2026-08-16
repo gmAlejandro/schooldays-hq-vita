@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:08:03;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-M03/SE03-KA-M03-001	00:08:03;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:05:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-M03/03-KA-M03-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KA/03-KA-M03/03-KA-M03-002	00:03:12;
+
+[PrintText]=00:02:07	Makoto	Bien, ahora.	00:03:07;
+
+[PlayVoice]=00:02:07	Voice03/03-KA/03-KA-M03/03-KA-M03-0050	1	mak	00:03:07;
+
+[CreateBG]=00:03:12	BGS	Event03/03-KA/03-KA-M03/03-KA-M03-003	00:04:19;
+
+[PrintText]=00:03:19	Setsuna	¿Listo?^	00:04:16;
+
+[PlayVoice]=00:03:19	Voice03/03-KA/03-KA-M03/03-KA-M03-0060	0	set	00:04:16;
+
+[CreateBG]=00:04:19	BGS	Event03/03-KA/03-KA-M03/03-KA-M03-004	00:08:03;
+
+[PrintText]=00:04:21	Makoto	Listo.	00:06:16;
+
+[PlayVoice]=00:04:21	Voice03/03-KA/03-KA-M03/03-KA-M03-0070	1	mak	00:06:16;
+
+[BlackFade]=00:07:03	OUT	00:08:03;
+
+ ;
+
+[Next]=00:08:03;
+
+

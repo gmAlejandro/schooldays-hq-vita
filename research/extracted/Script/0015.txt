@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:05:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:05:05;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-H01/00-00-H01-001	00:05:05;
+
+[PrintText]=00:00:06	Makoto	¿Qué te parece un Manga Café?^	00:02:01;
+
+[PlayVoice]=00:00:06	Voice00/00-00/00-00-H01/00-00-H01-0030	1	mak	00:02:01;
+
+[PrintText]=00:02:04	Sekai	No me hagas patearte el trasero.	00:03:16;
+
+[PlayVoice]=00:02:04	Voice00/00-00/00-00-H01/00-00-H01-0040	0	sek	00:03:16;
+
+[PrintText]=00:03:17	Makoto	Solo bromeaba.	00:05:00;
+
+[PlayVoice]=00:03:17	Voice00/00-00/00-00-H01/00-00-H01-0050	1	mak	00:05:00;
+
+ ;
+
+[Next]=00:05:05;
+
+
+
+

@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:12:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:18:08;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-I00/SE02-2S-I00-001	00:18:08;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-I00/02-2S-I00-001	00:07:12;
+
+[PrintText]=00:00:00	Kotonoha	Ah, Saionji-san. Si quieres, puedo darte...	00:02:18;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-I00/02-2S-I00-0030	0	kot	00:02:18;
+
+[PrintText]=00:02:18	Sekai	Está bien. He traído mi propia bebida.	00:06:06;
+
+[PlayVoice]=00:02:18	Voice02/02-2S/02-2S-I00/02-2S-I00-0040	0	sek	00:06:06;
+
+[PrintText]=00:06:07	Kotonoha	Ya veo.	00:07:12;
+
+[PlayVoice]=00:06:07	Voice02/02-2S/02-2S-I00/02-2S-I00-0050	0	kot	00:07:12;
+
+[CreateBG]=00:07:12	BGS	Event02/02-2S/02-2S-I00/02-2S-I00-002	00:09:23;
+
+[PrintText]=00:07:12	Makoto	Parece que soy el único tomándolo. Toma algo también Kotonoha.	00:11:11;
+
+[PlayVoice]=00:07:12	Voice02/02-2S/02-2S-I00/02-2S-I00-0060	1	mak	00:11:11;
+
+[CreateBG]=00:09:23	BGS	Event02/02-2S/02-2S-I00/02-2S-I00-003	00:11:12;
+
+[CreateBG]=00:11:12	BGS	Event02/02-2S/02-2S-I00/02-2S-I00-004	00:12:06;
+
+[PrintText]=00:11:12	Kotonoha	¡¿Eh...?!	00:12:00;
+
+[PlayVoice]=00:11:12	Voice02/02-2S/02-2S-I00/02-2S-I00-0070	0	kot	00:12:00;
+
+[CreateBG]=00:12:06	BGS	Event02/02-2S/02-2S-I00/02-2S-I00-004B	00:18:08;
+
+[PrintText]=00:12:06	Makoto	Aquí.	00:12:23;
+
+[PlayVoice]=00:12:06	Voice02/02-2S/02-2S-I00/02-2S-I00-0080	1	mak	00:12:23;
+
+[SetSELECT]=00:12:06	'Ten algo también'	null	00:17:06;
+
+ ;
+
+[Next]=00:18:08;
+
+
+
+

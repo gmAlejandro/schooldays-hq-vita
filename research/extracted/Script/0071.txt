@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:18:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:18:01;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H09/SE01-00-H09-001	00:18:01;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H09/01-00-H09-001	00:07:04;
+
+[PrintText]=00:04:13	Sekai	¿Qué, ya es hora?^	00:07:04;
+
+[PlayVoice]=00:04:13	Voice01/01-00/01-00-H09/01-00-H09-0040	0	sek	00:07:04;
+
+[CreateBG]=00:07:04	BGS	Event01/01-00/01-00-H09/01-00-H09-002	00:10:02;
+
+[PrintText]=00:07:04	Makoto	Sí. Volvamos a clase.	00:09:20;
+
+[PlayVoice]=00:07:04	Voice01/01-00/01-00-H09/01-00-H09-0050	1	mak	00:09:20;
+
+[CreateBG]=00:10:02	BGS	Event01/01-00/01-00-H09/01-00-H09-003	00:12:17;
+
+[PrintText]=00:10:06	Kotonoha	Sí... tienes... razón.	00:12:10;
+
+[PlayVoice]=00:10:06	Voice01/01-00/01-00-H09/01-00-H09-0060	0	kot	00:12:10;
+
+[CreateBG]=00:12:17	BGS	Event01/01-00/01-00-H09/01-00-H09-004	00:14:15;
+
+[PrintText]=00:13:09	Sekai	...	00:14:02;
+
+[PlayVoice]=00:13:09	Voice01/01-00/01-00-H09/01-00-H09-0080	0	xxx	00:14:02;
+
+[CreateBG]=00:14:15	BGS	Event01/01-00/01-00-H09/01-00-H09-005	00:18:01;
+
+ ;
+
+[Next]=00:18:10;
+
+
+
+

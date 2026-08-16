@@ -1,0 +1,76 @@
+﻿[SkipFRAME]=00:38:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:38:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-001	00:02:15;
+
+[PrintText]=00:00:00	Makoto	Yo creo que te amo.	00:02:14;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-D01/05-SD-D01-0030	1	mak	00:02:14;
+
+[CreateBG]=00:02:15	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-002	00:07:02;
+
+[PrintText]=00:02:15	Sekai	Sí, yo creo que sí...	00:03:22;
+
+[PlayVoice]=00:02:15	Voice05/05-SD/05-SD-D01/05-SD-D01-0040	0	sek	00:03:22;
+
+[PrintText]=00:03:22	Makoto	¿Qué pasa?^	00:05:09;
+
+[PlayVoice]=00:03:22	Voice05/05-SD/05-SD-D01/05-SD-D01-0050	1	mak	00:05:09;
+
+[PrintText]=00:05:10	Sekai	Entonces está bien.	00:07:02;
+
+[PlayVoice]=00:05:10	Voice05/05-SD/05-SD-D01/05-SD-D01-0060	0	sek	00:07:02;
+
+[CreateBG]=00:07:02	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-003	00:14:04;
+
+[PrintText]=00:07:02	Makoto	¿Eh?^	00:07:15;
+
+[PlayVoice]=00:07:02	Voice05/05-SD/05-SD-D01/05-SD-D01-0070	1	mak	00:07:15;
+
+[PrintText]=00:07:16	Sekai	Te perdonaré... por lo que pasó con Setsuna.	00:11:08;
+
+[PlayVoice]=00:07:16	Voice05/05-SD/05-SD-D01/05-SD-D01-0080	0	sek	00:11:08;
+
+[PrintText]=00:11:08	Makoto	V-Vale.	00:14:03;
+
+[PlayVoice]=00:11:08	Voice05/05-SD/05-SD-D01/05-SD-D01-0090	1	mak	00:14:03;
+
+[CreateBG]=00:14:04	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-004	00:20:14;
+
+[PrintText]=00:14:04	Sekai	Solo ámame... para siempre.	00:20:14;
+
+[PlayVoice]=00:14:04	Voice05/05-SD/05-SD-D01/05-SD-D01-0100	0	sek	00:20:14;
+
+[CreateBG]=00:20:14	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-005	00:27:05;
+
+[PrintText]=00:20:14	Makoto	Eso...	00:21:19;
+
+[PlayVoice]=00:20:14	Voice05/05-SD/05-SD-D01/05-SD-D01-0110	1	mak	00:21:19;
+
+[PrintText]=00:21:19	Sekai	Incluso si nos separamos, seguiremos siendo una pareja...	00:25:20;
+
+[PlayVoice]=00:21:19	Voice05/05-SD/05-SD-D01/05-SD-D01-0120	0	sek	00:25:20;
+
+[PrintText]=00:25:21	Makoto	¿Separamos...?^	00:27:05;
+
+[PlayVoice]=00:25:21	Voice05/05-SD/05-SD-D01/05-SD-D01-0130	1	mak	00:27:05;
+
+[CreateBG]=00:27:05	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-006	00:33:12;
+
+[PrintText]=00:27:05	Sekai	Dime que siempre me amarás, incluso si me voy a otra escuela.	00:33:11;
+
+[PlayVoice]=00:27:05	Voice05/05-SD/05-SD-D01/05-SD-D01-0140	0	sek	00:33:11;
+
+[CreateBG]=00:33:12	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-005	00:38:12;
+
+[PrintText]=00:33:12	Makoto	Uuh...	00:34:19;
+
+[PlayVoice]=00:33:12	Voice05/05-SD/05-SD-D01/05-SD-D01-0150	1	mak	00:34:19;
+
+ ;
+
+[Next]=00:38:12;
+
+
+

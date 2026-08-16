@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=00:32:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:32:20;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E02/SE01-00-E02-001	00:32:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-E02/01-00-E02-001	00:02:07;
+
+[PrintText]=00:00:06	Makoto	...Ella dijo que deberíamos comer solos.	00:02:02;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-E02/01-00-E02-0030	1	mak	00:02:02;
+
+[PrintText]=00:01:22	Kotonoha	¡¿Eh?!	00:02:17;
+
+[PlayVoice]=00:01:22	Voice01/01-00/01-00-E02/01-00-E02-0040	0	kot	00:02:17;
+
+[CreateBG]=00:02:07	BGS	Event01/01-00/01-00-E02/01-00-E02-002	00:02:17;
+
+[CreateBG]=00:02:17	BGS	Event01/01-00/01-00-E02/01-00-E02-003	00:08:21;
+
+[PrintText]=00:02:19	Makoto	Ella me lo dijo ... porque estamos saliendo.	00:08:19;
+
+[PlayVoice]=00:02:19	Voice01/01-00/01-00-E02/01-00-E02-0050	1	mak	00:08:19;
+
+[CreateBG]=00:08:21	BGS	Event01/01-00/01-00-E02/01-00-E02-004	00:12:02;
+
+[PrintText]=00:09:00	Kotonoha	Ah... Sí.	00:11:22;
+
+[PlayVoice]=00:09:00	Voice01/01-00/01-00-E02/01-00-E02-0060	0	kot	00:11:22;
+
+[CreateBG]=00:12:02	BGS	Event01/01-00/01-00-E02/01-00-E02-005	00:20:21;
+
+[PrintText]=00:12:06	Makoto	Está haciendo un gran esfuerzo por eso ¿No?^	00:15:17;
+
+[PlayVoice]=00:12:06	Voice01/01-00/01-00-E02/01-00-E02-0070	1	mak	00:15:17;
+
+[PrintText]=00:15:14	Kotonoha	Sí...	00:17:21;
+
+[PlayVoice]=00:15:14	Voice01/01-00/01-00-E02/01-00-E02-0080	0	kot	00:17:21;
+
+[PrintText]=00:17:19	Makoto	Creo que tiene una idea equivocada.	00:20:15;
+
+[PlayVoice]=00:17:19	Voice01/01-00/01-00-E02/01-00-E02-0090	1	mak	00:20:15;
+
+[CreateBG]=00:20:21	BGS	Event01/01-00/01-00-E02/01-00-E02-006	00:26:13;
+
+[PrintText]=00:21:02	Kotonoha	Pero...	00:22:06;
+
+[PlayVoice]=00:21:02	Voice01/01-00/01-00-E02/01-00-E02-0100	0	kot	00:22:06;
+
+[PrintText]=00:22:02	Makoto	¿Hmn?^	00:22:15;
+
+[PlayVoice]=00:22:02	Voice01/01-00/01-00-E02/01-00-E02-0110	1	mak	00:22:15;
+
+[PrintText]=00:23:15	Kotonoha	...Estoy feliz.	00:25:20;
+
+[PlayVoice]=00:23:15	Voice01/01-00/01-00-E02/01-00-E02-0120	0	kot	00:25:20;
+
+[CreateBG]=00:26:13	BGS	Event01/01-00/01-00-E02/01-00-E02-007	00:29:01;
+
+[CreateBG]=00:29:01	BGS	Event01/01-00/01-00-E02/01-00-E02-008	00:32:20;
+
+ ;
+
+[Next]=00:32:21;
+
+
+
+

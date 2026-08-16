@@ -1,0 +1,79 @@
+﻿[SkipFRAME]=00:31:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:31:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-G07/05-KF-G07-001	00:05:20;
+
+[PrintText]=00:00:00	Makoto	Así es.	00:02:10;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G07/05-KF-G07-0030	1	mak	00:02:10;
+
+[PrintText]=00:02:10	Kotonoha	Pero... ¿Por qué?^	00:05:20;
+
+[PlayVoice]=00:02:10	Voice05/05-KF/05-KF-G07/05-KF-G07-0040	0	kot	00:05:20;
+
+[CreateBG]=00:05:20	BGS	Event05/05-KF/05-KF-G07/05-KF-G07-002	00:15:19;
+
+[PrintText]=00:05:20	Makoto	No hay razón cuando te deja de gustar alguien.	00:08:19;
+
+[PlayVoice]=00:05:20	Voice05/05-KF/05-KF-G07/05-KF-G07-0050	1	mak	00:08:19;
+
+[PrintText]=00:08:14	Kotonoha	¡No puede ser! Estábamos tan bien hasta hoy ¿No es así?^	00:13:04;
+
+[PlayVoice]=00:08:14	Voice05/05-KF/05-KF-G07/05-KF-G07-0060	0	kot	00:13:04;
+
+[PrintText]=00:12:02	Makoto	Mira... yo no voy a volver a verte.	00:15:18;
+
+[PlayVoice]=00:12:02	Voice05/05-KF/05-KF-G07/05-KF-G07-0070	1	mak	00:15:18;
+
+[PlayMovie]=00:15:19	Movie05/05-KF/05-KF-G07/05-KF-G07-003	0	00:17:21;
+
+[PrintText]=00:15:19	Kotonoha	¡No! ¡Yo...!	00:17:20;
+
+[PlayVoice]=00:15:19	Voice05/05-KF/05-KF-G07/05-KF-G07-0080	0	kot	00:17:20;
+
+[PrintText]=00:17:02	Makoto	Perdón, ya no puedo.	00:20:02;
+
+[PlayVoice]=00:17:02	Voice05/05-KF/05-KF-G07/05-KF-G07-0090	1	mak	00:20:02;
+
+[CreateBG]=00:17:21	BGS	Event05/05-KF/05-KF-G07/05-KF-G07-004	00:19:23;
+
+[PrintText]=00:19:20	Kotonoha	¡No!	00:21:02;
+
+[PlayVoice]=00:19:20	Voice05/05-KF/05-KF-G07/05-KF-G07-0100	0	kot	00:21:02;
+
+[CreateBG]=00:19:23	BGS	Event05/05-KF/05-KF-G07/05-KF-G07-003	00:21:02;
+
+[PlayMovie]=00:21:02	Movie05/05-KF/05-KF-G07/05-KF-G07-006	0	00:22:16;
+
+[PrintText]=00:21:03	Makoto	Ya déjalo.	00:22:16;
+
+[PlayVoice]=00:21:03	Voice05/05-KF/05-KF-G07/05-KF-G07-0110	1	mak	00:22:16;
+
+[PlayVoice]=00:22:14	Voice05/05-KF/05-KF-G07/05-KF-G07-0120	0	kot	00:23:14;
+
+[PlayMovie]=00:22:16	Movie05/05-KF/05-KF-G07/05-KF-G07-007	0	00:27:15;
+
+[PrintText]=00:23:14	Makoto	...Adiós.	00:25:13;
+
+[PlayVoice]=00:23:14	Voice05/05-KF/05-KF-G07/05-KF-G07-0130	1	mak	00:25:13;
+
+[PrintText]=00:25:12	Kotonoha	No...	00:27:16;
+
+[PlayVoice]=00:25:12	Voice05/05-KF/05-KF-G07/05-KF-G07-0140	0	kot	00:27:16;
+
+[CreateBG]=00:27:15	BGS	Event05/05-KF/05-KF-G10/05-KF-G10-005	00:31:04;
+
+[PrintText]=00:27:16	Kotonoha	Makoto-kun...	00:30:03;
+
+[PlayVoice]=00:27:16	Voice05/05-KF/05-KF-G07/05-KF-G07-0160	0	kot	00:30:03;
+
+[BlackFade]=00:30:04	OUT	00:31:04;
+
+ ;
+
+[Next]=00:31:04;
+
+
+
+

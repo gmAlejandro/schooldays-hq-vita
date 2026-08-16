@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:03:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:03:14;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-H00/02-2K-H00-004	00:03:14;
+
+[PrintText]=00:00:00	Makoto	Bueno... Olvídalo...	00:02:02;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-H03/02-2K-H03-0030	1	xxx	00:02:02;
+
+[BlackFade]=00:02:14	OUT	00:03:14;
+
+ ;
+
+[Next]=00:03:14;
+
+
+
+

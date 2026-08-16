@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:05:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:05:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L07/03-KA-L07-001	00:05:21;
+
+[PrintText]=00:00:06	Makoto	Quiero verla.	00:01:02;
+
+[PlayVoice]=00:00:06	Voice03/03-KA/03-KA-L07/03-KA-L07-0030	1	xxx	00:01:02;
+
+[PrintText]=00:01:23	Makoto	Y ahora que lo pienso...	00:05:19;
+
+[PlayVoice]=00:01:23	Voice03/03-KA/03-KA-L07/03-KA-L07-0040	1	xxx	00:05:19;
+
+ ;
+
+[Next]=00:05:21;
+
+

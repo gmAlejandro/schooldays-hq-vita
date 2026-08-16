@@ -1,0 +1,28 @@
+﻿[SkipFRAME]=00:10:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:10:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-D04/05-SD-D04-001	00:10:04;
+
+[PrintText]=00:00:00	Makoto	Sí, así será.	00:01:00;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-D04/05-SD-D04-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:01	Sekai	Gracias al cielo...	00:02:16;
+
+[PlayVoice]=00:01:01	Voice05/05-SD/05-SD-D04/05-SD-D04-0040	0	sek	00:02:16;
+
+[PrintText]=00:02:15	Makoto	Porque también te amo Sekai.	00:07:15;
+
+[PlayVoice]=00:02:15	Voice05/05-SD/05-SD-D04/05-SD-D04-0050	1	mak	00:07:15;
+
+[PrintText]=00:07:16	Sekai	Estoy tan feliz...	00:10:03;
+
+[PlayVoice]=00:07:16	Voice05/05-SD/05-SD-D04/05-SD-D04-0060	0	sek	00:10:03;
+
+ ;
+
+[Next]=00:10:04;
+
+
+

@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:55:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:09:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-H04/03-KB-H04-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KB/03-KB-H04/03-KB-H04-002	00:03:01;
+
+[PrintText]=00:02:00	Makoto	...	00:03:00;
+
+[PlayVoice]=00:02:00	Voice03/03-KB/03-KB-H04/03-KB-H04-0040	1	xxx	00:03:00;
+
+[PlayMovie]=00:03:01	Ini/Movie03/03-KB/03-KB-H04/03-KB-H04-003	0	00:06:03;
+
+[PrintText]=00:03:16	Makoto	...	00:04:22;
+
+[PlayVoice]=00:03:16	Voice03/03-KB/03-KB-H04/03-KB-H04-0070	1	xxx	00:04:22;
+
+[CreateBG]=00:06:03	BGS	Event03/03-KB/03-KB-H04/03-KB-H04-004	00:07:10;
+
+[CreateBG]=00:07:10	BGS	Event03/03-KB/03-KB-H04/03-KB-H04-005A	00:09:09;
+
+[EndBGM]=00:08:10	BGM/Vocal/SDV04	02:19:03;
+
+[CreateBG]=00:09:09	BGS	Ini/Event03/03-KB/03-KB-H04/03-KB-H04-005B	00:10:15;
+
+#[PrintText]=00:09:09	Celular	Si te lastimé, perdóname.\nAdiós.	00:10:14;
+
+[PlayMovie]=00:10:15	Ini/Movie03/03-KB/03-KB-H04/03-KB-H04-006	0	00:12:05;
+
+[CreateBG]=00:12:05	BGS	Ini/EndRoll/03-07	00:15:00;
+
+[EndRoll]=00:15:00	Ini/EndRoll/NORMAL	00:55:00;
+
+ ;
+
+[Next]=00:55:00;
+
+

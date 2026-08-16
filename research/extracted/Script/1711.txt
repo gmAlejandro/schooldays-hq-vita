@@ -1,0 +1,56 @@
+﻿[SkipFRAME]=00:23:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:23:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-D05/05-SB-D05-001	00:02:01;
+
+[PrintText]=00:01:05	Makoto	Bueno, nos vemos mañana.	00:04:07;
+
+[PlayVoice]=00:01:05	Voice05/05-SB/05-SB-D05/05-SB-D05-0050	1	mak	00:04:07;
+
+[CreateBG]=00:02:01	BGS	Event05/05-SB/05-SB-D05/05-SB-D05-002	00:07:05;
+
+[PrintText]=00:04:08	Sekai	Sí... nos vemos mañana.	00:07:05;
+
+[PlayVoice]=00:04:08	Voice05/05-SB/05-SB-D05/05-SB-D05-0060	0	sek	00:07:05;
+
+[CreateBG]=00:07:05	BGS	Event05/05-SB/05-SB-D05/05-SB-D05-003	00:12:16;
+
+[PrintText]=00:07:05	Hikari	¡Sekai! Una vez que haya entregado esto, vamos a casa juntas.	00:10:17;
+
+[PlayVoice]=00:07:05	Voice05/05-SB/05-SB-D05/05-SB-D05-0090	0	hik	00:10:17;
+
+[PrintText]=00:10:17	Sekai	¿Qué hay de Nanami?^	00:11:18;
+
+[PlayVoice]=00:10:17	Voice05/05-SB/05-SB-D05/05-SB-D05-0100	0	sek	00:11:18;
+
+[PrintText]=00:11:18	Hikari	¡Está en su club!	00:12:15;
+
+[PlayVoice]=00:11:18	Voice05/05-SB/05-SB-D05/05-SB-D05-0110	0	hik	00:12:15;
+
+[CreateBG]=00:12:16	BGS	Event05/05-SB/05-SB-D05/05-SB-D05-004	00:23:19;
+
+[PrintText]=00:12:16	Sekai	Ya veo.	00:13:11;
+
+[PlayVoice]=00:12:16	Voice05/05-SB/05-SB-D05/05-SB-D05-0120	0	sek	00:13:11;
+
+[PrintText]=00:13:11	Hikari	¿Quieres ir a algún lugar de camino a casa?^	00:15:02;
+
+[PlayVoice]=00:13:11	Voice05/05-SB/05-SB-D05/05-SB-D05-0130	0	hik	00:15:02;
+
+[PrintText]=00:15:03	Sekai	Mmn... solo si es algo rápido cerca de la estación.	00:19:02;
+
+[PlayVoice]=00:15:03	Voice05/05-SB/05-SB-D05/05-SB-D05-0140	0	sek	00:19:02;
+
+[PrintText]=00:19:03	Hikari	Vale, que sea rápido entonces.	00:21:21;
+
+[PlayVoice]=00:19:03	Voice05/05-SB/05-SB-D05/05-SB-D05-0150	0	hik	00:21:21;
+
+[BlackFade]=00:22:23	OUT	00:23:19;
+
+ ;
+
+[Next]=00:23:19;
+
+
+

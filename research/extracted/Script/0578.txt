@@ -1,0 +1,105 @@
+﻿[SkipFRAME]=00:40:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:46:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I01/03-KA-I01-001	00:09:07;
+
+[PrintText]=00:00:00	Representante de comite	Ahora, por favor, divídanse por año. Los primeros años vana trabajar en la producción de carteles y las impresiones.	00:05:10;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I01/03-KA-I01-0030	0	jin	00:05:10;
+
+[PrintText]=00:05:10	Representante de comite	Segundo año, favor de asistir para mover las sillas plegables y las mesas.	00:09:00;
+
+[PlayVoice]=00:05:10	Voice03/03-KA/03-KA-I01/03-KA-I01-0031	0	jin	00:09:00;
+
+[PrintText]=00:09:06	Makoto	Haah... esto es tan aburrido.	00:11:17;
+
+[PlayVoice]=00:09:06	Voice03/03-KA/03-KA-I01/03-KA-I01-0040	1	mak	00:11:17;
+
+[PlaySe]=00:09:07	1	Se03/03-KA/03-KA-I01/SE03-KA-I01-001	00:46:03;
+
+[CreateBG]=00:09:07	BGS	Event03/03-KA/03-KA-I01/03-KA-I01-002	00:15:06;
+
+[PrintText]=00:11:17	Setsuna	Aburrido o no, lo seguiremos haciendo.	00:13:08;
+
+[PlayVoice]=00:11:17	Voice03/03-KA/03-KA-I01/03-KA-I01-0050	0	set	00:13:08;
+
+[PrintText]=00:13:08	Makoto	Sí, lo sé.	00:15:06;
+
+[PlayVoice]=00:13:08	Voice03/03-KA/03-KA-I01/03-KA-I01-0060	1	mak	00:15:06;
+
+[CreateBG]=00:15:06	BGS	Event03/03-KA/03-KA-I01/03-KA-I01-003	00:22:23;
+
+[PrintText]=00:15:06	Kotonoha	Makoto-kun.	00:16:07;
+
+[PlayVoice]=00:15:06	Voice03/03-KA/03-KA-I01/03-KA-I01-0070	0	kot	00:16:07;
+
+[PrintText]=00:16:07	Makoto	¿Hmn?^	00:17:00;
+
+[PlayVoice]=00:16:07	Voice03/03-KA/03-KA-I01/03-KA-I01-0080	1	mak	00:17:00;
+
+[PrintText]=00:17:00	Kotonoha	¿Ordenamos las impresiones juntos?^	00:20:05;
+
+[PlayVoice]=00:17:00	Voice03/03-KA/03-KA-I01/03-KA-I01-0090	0	kot	00:20:05;
+
+[PrintText]=00:20:06	Makoto	Mmn... Sí.	00:22:02;
+
+[PlayVoice]=00:20:06	Voice03/03-KA/03-KA-I01/03-KA-I01-0100	1	mak	00:22:02;
+
+[PrintText]=00:22:02	Setsuna	...Itou.	00:22:22;
+
+[PlayVoice]=00:22:02	Voice03/03-KA/03-KA-I01/03-KA-I01-0110	0	set	00:22:22;
+
+[PrintText]=00:22:22	Makoto	¿Qué pasa?^	00:24:07;
+
+[PlayVoice]=00:22:22	Voice03/03-KA/03-KA-I01/03-KA-I01-0120	1	mak	00:24:07;
+
+[CreateBG]=00:22:23	BGS	Event03/03-KA/03-KA-I01/03-KA-I01-004	00:25:13;
+
+[PrintText]=00:24:06	Setsuna	Sostén esto.	00:25:12;
+
+[PlayVoice]=00:24:06	Voice03/03-KA/03-KA-I01/03-KA-I01-0130	0	set	00:25:12;
+
+[PrintText]=00:25:12	Makoto	¿Eh?^	00:26:03;
+
+[PlayVoice]=00:25:12	Voice03/03-KA/03-KA-I01/03-KA-I01-0150	1	mak	00:26:03;
+
+[CreateBG]=00:25:13	BGS	Event03/03-KA/03-KA-I01/03-KA-I01-005	00:33:18;
+
+[PrintText]=00:26:03	Setsuna	Ahora úsalo para pintar esto.	00:29:08;
+
+[PlayVoice]=00:26:03	Voice03/03-KA/03-KA-I01/03-KA-I01-0160	0	set	00:29:08;
+
+[PrintText]=00:29:08	Makoto	E-Espera, No puedo hacer esto y el otro a la misma vez.	00:33:17;
+
+[PlayVoice]=00:29:08	Voice03/03-KA/03-KA-I01/03-KA-I01-0170	1	mak	00:33:17;
+
+[PrintText]=00:33:17	Setsuna	...	00:34:10;
+
+[PlayVoice]=00:33:17	Voice03/03-KA/03-KA-I01/03-KA-I01-0180	0	xxx	00:34:10;
+
+[CreateBG]=00:33:18	BGS	Event03/03-KA/03-KA-I01/03-KA-I01-006	00:46:03;
+
+[PrintText]=00:34:10	Makoto	¿Por qué estás tan irritada ahora?^	00:36:07;
+
+[PlayVoice]=00:34:10	Voice03/03-KA/03-KA-I01/03-KA-I01-0190	1	mak	00:36:07;
+
+[PrintText]=00:36:08	Setsuna	Nada.	00:37:07;
+
+[PlayVoice]=00:36:08	Voice03/03-KA/03-KA-I01/03-KA-I01-0200	0	set	00:37:07;
+
+[PrintText]=00:37:07	Kotonoha	¿Makoto-kun?^	00:38:11;
+
+[PlayVoice]=00:37:07	Voice03/03-KA/03-KA-I01/03-KA-I01-0210	0	kot	00:38:11;
+
+[PrintText]=00:38:11	Makoto	Uh...	00:40:13;
+
+[PlayVoice]=00:38:11	Voice03/03-KA/03-KA-I01/03-KA-I01-0220	1	mak	00:40:13;
+
+[SetSELECT]=00:40:00	*Ayudar a Kotonoha*	*Ayudar a Setsuna*	00:45:00;
+
+ ;
+
+[Next]=00:46:03;
+
+

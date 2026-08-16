@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:17:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:17:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O10/04-SA-O10-001	00:10:07;
+
+[PrintText]=00:00:00	Makoto	Haah... Se ha puesto totalmente oscuro.	00:03:09;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O10/04-SA-O10-0030	1	mak	00:03:09;
+
+[PrintText]=00:03:09	Sekai	Lo siento, te has quedado mucho.	00:05:14;
+
+[PlayVoice]=00:03:09	Voice04/04-SA/04-SA-O10/04-SA-O10-0040	0	sek	00:05:14;
+
+[PrintText]=00:05:14	Makoto	Fue divertido. Tu madre es una gran persona.	00:10:07;
+
+[PlayVoice]=00:05:14	Voice04/04-SA/04-SA-O10/04-SA-O10-0050	1	mak	00:10:07;
+
+[CreateBG]=00:10:07	BGS	Event04/04-SA/04-SA-O10/04-SA-O10-002	00:17:10;
+
+[PrintText]=00:10:07	Sekai	Uuuh...	00:11:23;
+
+[PlayVoice]=00:10:07	Voice04/04-SA/04-SA-O10/04-SA-O10-0060	0	sek	00:11:23;
+
+[PrintText]=00:12:00	Makoto	Haha, es un cumplido.	00:14:07;
+
+[PlayVoice]=00:12:00	Voice04/04-SA/04-SA-O10/04-SA-O10-0070	1	mak	00:14:07;
+
+[PrintText]=00:14:15	Sekai	Vale...	00:16:07;
+
+[PlayVoice]=00:14:15	Voice04/04-SA/04-SA-O10/04-SA-O10-0080	0	sek	00:16:07;
+
+[BlackFade]=00:16:10	OUT	00:17:10;
+
+ ;
+
+[Next]=00:17:10;
+
+

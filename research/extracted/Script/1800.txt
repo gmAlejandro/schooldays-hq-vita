@@ -1,0 +1,86 @@
+﻿[SkipFRAME]=00:35:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:35:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-E00/05-SD-E00-001	00:02:03;
+
+[PrintText]=00:00:00	Hikari	¡Sekai! ¡Venga, vamos a la fiesta! ¡No podemos empezar sin nuestra invitada de honor!	00:05:20;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-E00/05-SD-E00-0040	0	hik	00:05:20;
+
+[CreateBG]=00:02:03	BGS	Event05/05-SD/05-SD-E00/05-SD-E00-002	00:05:19;
+
+[CreateBG]=00:05:19	BGS	Event05/05-SD/05-SD-E00/05-SD-E00-003	00:13:08;
+
+[PrintText]=00:05:19	Sekai	V-Vale, espera un segundo...	00:09:00;
+
+[PlayVoice]=00:05:19	Voice05/05-SD/05-SD-E00/05-SD-E00-0050	0	sek	00:09:00;
+
+[PrintText]=00:09:01	Sekai	Bien, entonces...	00:10:07;
+
+[PlayVoice]=00:09:01	Voice05/05-SD/05-SD-E00/05-SD-E00-0080	0	sek	00:10:07;
+
+[PrintText]=00:10:07	Makoto	Sí, cuídate.	00:13:08;
+
+[PlayVoice]=00:10:07	Voice05/05-SD/05-SD-E00/05-SD-E00-0090	1	mak	00:13:08;
+
+[CreateBG]=00:13:08	BGS	Event05/05-SD/05-SD-E00/05-SD-E00-004	00:19:20;
+
+[PrintText]=00:13:08	Sekai	¡Me aseguraré de escribirte... y de también enviarte correos!	00:16:08;
+
+[PlayVoice]=00:13:08	Voice05/05-SD/05-SD-E00/05-SD-E00-0100	0	sek	00:16:08;
+
+[PrintText]=00:16:09	Makoto	Sí.	00:17:01;
+
+[PlayVoice]=00:16:09	Voice05/05-SD/05-SD-E00/05-SD-E00-0110	1	mak	00:17:01;
+
+[PrintText]=00:17:01	Sekai	Quiero que tú también me escribas.	00:19:20;
+
+[PlayVoice]=00:17:01	Voice05/05-SD/05-SD-E00/05-SD-E00-0120	0	sek	00:19:20;
+
+[CreateBG]=00:19:20	BGS	Event05/05-SD/05-SD-E00/05-SD-E00-005	00:23:19;
+
+[PrintText]=00:19:20	Makoto	Lo haré.	00:21:00;
+
+[PlayVoice]=00:19:20	Voice05/05-SD/05-SD-E00/05-SD-E00-0130	1	mak	00:21:00;
+
+[PrintText]=00:21:00	Sekai	Asegúrate ¿Vale?^	00:22:10;
+
+[PlayVoice]=00:21:00	Voice05/05-SD/05-SD-E00/05-SD-E00-0140	0	sek	00:22:10;
+
+[PrintText]=00:22:11	Makoto	Sí, lo sé.	00:23:19;
+
+[PlayVoice]=00:22:11	Voice05/05-SD/05-SD-E00/05-SD-E00-0150	1	mak	00:23:19;
+
+[PrintText]=00:23:18	Sekai	Es una promesa ¿Vale?^	00:24:21;
+
+[PlayVoice]=00:23:18	Voice05/05-SD/05-SD-E00/05-SD-E00-0160	0	sek	00:24:21;
+
+[CreateBG]=00:23:19	BGS	Event05/05-SD/05-SD-E00/05-SD-E00-006	00:25:01;
+
+[CreateBG]=00:25:01	BGS	Event05/05-SD/05-SD-C02/05-SD-C02-001	00:30:13;
+
+[PrintText]=00:25:01	Makoto	Ya me quedo claro.	00:26:11;
+
+[PlayVoice]=00:25:01	Voice05/05-SD/05-SD-E00/05-SD-E00-0170	1	mak	00:26:11;
+
+[PrintText]=00:27:00	Sekai	Makoto... bueno, me voy.	00:30:09;
+
+[PlayVoice]=00:27:00	Voice05/05-SD/05-SD-E00/05-SD-E00-0180	0	sek	00:30:09;
+
+[PrintText]=00:30:10	Makoto	Sí.	00:31:02;
+
+[PlayVoice]=00:30:10	Voice05/05-SD/05-SD-E00/05-SD-E00-0190	1	mak	00:31:02;
+
+[CreateBG]=00:30:13	BGS	Event05/05-SD/05-SD-E00/05-SD-E00-006	00:35:00;
+
+[PrintText]=00:32:10	Makoto	Adiós.	00:33:23;
+
+[PlayVoice]=00:32:10	Voice05/05-SD/05-SD-E00/05-SD-E00-0210	1	mak	00:33:23;
+
+ ;
+
+[Next]=00:35:00;
+
+
+

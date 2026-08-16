@@ -1,0 +1,35 @@
+[SkipFRAME]=02:04:20;
+
+[PlaySe]=00:00:00	1	BGM/Vocal/SDV02	02:04:20;
+
+[PlayMovie]=00:00:00	System/OP/SDHQ_KOTONOHA	0	02:04:20;
+
+[PrintText]=00:00:00	Juego	Mentiras plásticas, soy feliz con solo mirarte^\n♪Plastic Lies... mitsumeru dake de mitasareta♪^	00:07:20;
+
+[PrintText]=00:08:00	Juego	Corazón de papel, ya no podemos volver a esos tiempos^\n♪Paper Heart... ano koro niwa modorenai kara♪^	00:16:00;
+
+[PrintText]=00:37:00	Juego	Las personas probablemente esconden su cobardía^\n♪Kitto daremo ga okubyou na... sugao kakusu tame ♪^	00:43:00;
+
+[PrintText]=00:44:00	Juego	Y lo utilizan así mismo para poder sonreír^\n♪Muri ni warau koto bakari... umaku nara ne♪^	00:51:00;
+
+[PrintText]=00:52:00	Juego	Las personas olvidan a través del tiempo incluso para volverse un alivio^\n♪Toki ga tateba wasurerareru... sonna nagusame mo♪^	00:58:00;
+
+[PrintText]=00:59:00	Juego	No me di cuenta que iba en serio contigo, aunque fuera en vano^\n♪Munashii hodo honki datte... kidzukenakatta♪^	01:05:20;
+
+[PrintText]=01:06:00	Juego	Es doloroso sin importar dónde esté, los recuerdos me siguen^\n♪Doko e nigetemo kurushii... omoide bakari afurete♪^	01:15:00;
+
+[PrintText]=01:15:30	Juego	Toda la dulzura guardada, se ha vuelto mi pecado^\n♪Mukuchi sugiru yasashisa ga... ima wa tsumi ni naru♪^	01:22:00;
+
+[PrintText]=01:24:00	Juego	Noche plástica, vi el cielo más allá de la barrera^\n♪Plastic Night... fensu-goshi no yozora ni mita♪^	01:30:00;
+
+[PrintText]=01:31:00	Juego	Luna de papel, me atormento bajo la luz de la fría luna^\n♪Paper Moon... tsumetai tsukiakari ni nageku♪^	01:39:00;
+
+[PrintText]=01:40:00	Juego	A pesar de que es más lúgubre que las olas golpeando la costa^\n♪Uchiyoseru uneri yori kuraku♪^	01:46:00;
+
+[PrintText]=01:47:00	Juego	Tendré el valor y gritaré toda esta emoción fugaz^\n♪Yureru omoi dakishimete sakebu no♪^	01:53:00;
+
+[PrintText]=01:55:00	Juego	Aún así te amo... ^\n♪But still I love you...♪^	02:00:00;
+
+ ;
+
+[Next]=02:04:20; 

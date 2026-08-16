@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:12:14;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-F03/SE01-00-F03-001	00:12:14;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-F03/01-00-F03-001	00:04:04;
+
+[PrintText]=00:00:06	Sekai	¡¿Qué pasó!? ¿Por qué no me dices?^	00:04:02;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-F03/01-00-F03-0030	0	sek	00:04:02;
+
+[CreateBG]=00:04:04	BGS	Event01/01-00/01-00-F03/01-00-F03-002	00:05:17;
+
+[PrintText]=00:04:11	Makoto	No es nada...	00:05:10;
+
+[PlayVoice]=00:04:11	Voice01/01-00/01-00-F03/01-00-F03-0040	1	mak	00:05:10;
+
+[CreateBG]=00:05:17	BGS	Event01/01-00/01-00-F03/01-00-F03-003	00:07:15;
+
+[PrintText]=00:05:20	Sekai	¿No se divirtieron?^	00:07:11;
+
+[PlayVoice]=00:05:20	Voice01/01-00/01-00-F03/01-00-F03-0050	0	sek	00:07:11;
+
+[CreateBG]=00:07:15	BGS	Event01/01-00/01-00-F03/01-00-F03-004	00:12:14;
+
+[PrintText]=00:07:23	Makoto	Mmn...	00:08:15;
+
+[PlayVoice]=00:07:23	Voice01/01-00/01-00-F03/01-00-F03-0060	1	mak	00:08:15;
+
+[PrintText]=00:09:13	Sekai	Makoto...	00:10:17;
+
+[PlayVoice]=00:09:13	Voice01/01-00/01-00-F03/01-00-F03-0070	0	sek	00:10:17;
+
+[BlackFade]=00:11:14	OUT	00:12:14;
+
+ ;
+
+[Next]=00:12:14;
+
+
+
+

@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:42:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:42:03;
+
+[PlaySe]=00:00:00	1	Se03/03-B0/03-B0-B00/SE03-B0-B00-001	00:42:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-B0/03-B0-B00/03-B0-B00-001	00:09:01;
+
+[PrintText]=00:00:00	Bocina	Los preparativos para la fogata han culminado... los asistentes, favor de acercarse al recinto... además...	00:09:01;
+
+[PlayVoice]=00:00:00	Voice03/03-B0/03-B0-B00/03-B0-B00-0040	1	kou	00:09:01;
+
+[CreateBG]=00:09:01	BGS	Event03/03-B0/03-B0-B00/03-B0-B00-006	00:25:14;
+
+[PrintText]=00:09:01	Hikari	¡Venga, Vamos a la fogata!	00:11:05;
+
+[PlayVoice]=00:09:01	Voice03/03-B0/03-B0-B00/03-B0-B00-0060	0	hik	00:11:05;
+
+[PrintText]=00:11:06	Setsuna	Uh-huh... Tú también, Sekai.	00:13:22;
+
+[PlayVoice]=00:11:06	Voice03/03-B0/03-B0-B00/03-B0-B00-0070	0	set	00:13:22;
+
+[PrintText]=00:14:00	Sekai	...	00:14:19;
+
+[PlayVoice]=00:14:00	Voice03/03-B0/03-B0-B00/03-B0-B00-0090	0	xxx	00:14:19;
+
+[PrintText]=00:15:00	Hikari	¡Sekai! ¡Vamos!	00:17:17;
+
+[PlayVoice]=00:15:00	Voice03/03-B0/03-B0-B00/03-B0-B00-0100	0	hik	00:17:17;
+
+[PrintText]=00:17:17	Sekai	...Paso.	00:19:22;
+
+[PlayVoice]=00:17:17	Voice03/03-B0/03-B0-B00/03-B0-B00-0110	0	sek	00:19:22;
+
+[PrintText]=00:19:22	Hikari	¿Ehh?! ¡Vamos! También puedes!	00:23:12;
+
+[PlayVoice]=00:19:22	Voice03/03-B0/03-B0-B00/03-B0-B00-0120	0	hik	00:23:12;
+
+[PrintText]=00:23:12	Sekai	No... me voy a casa.	00:25:14;
+
+[PlayVoice]=00:23:12	Voice03/03-B0/03-B0-B00/03-B0-B00-0130	0	sek	00:25:14;
+
+[CreateBG]=00:25:14	BGS	Event03/03-B0/03-B0-B00/03-B0-B00-003	00:33:00;
+
+[PrintText]=00:25:14	Hikari	Hmmn... bueno, no se puede evitar entonces.	00:29:02;
+
+[PlayVoice]=00:25:14	Voice03/03-B0/03-B0-B00/03-B0-B00-0140	0	hik	00:29:02;
+
+[PrintText]=00:29:03	Sekai	Lo siento...	00:30:02;
+
+[PlayVoice]=00:29:03	Voice03/03-B0/03-B0-B00/03-B0-B00-0150	0	sek	00:30:02;
+
+[PrintText]=00:30:02	Setsuna	Sekai... ¿Tienes un momento?^	00:32:21;
+
+[PlayVoice]=00:30:02	Voice03/03-B0/03-B0-B00/03-B0-B00-0160	0	set	00:32:21;
+
+[CreateBG]=00:33:00	BGS	Event03/03-B0/03-B0-B00/03-B0-B00-004	00:35:20;
+
+[PrintText]=00:33:00	Sekai	Setsuna... lo siento ¿Puede ser más tarde?^	00:35:19;
+
+[PlayVoice]=00:33:00	Voice03/03-B0/03-B0-B00/03-B0-B00-0170	0	sek	00:35:19;
+
+[CreateBG]=00:35:20	BGS	Event03/03-B0/03-B0-B00/03-B0-B00-005	00:39:12;
+
+[PrintText]=00:36:00	Setsuna	...Bien.	00:38:02;
+
+[PlayVoice]=00:36:00	Voice03/03-B0/03-B0-B00/03-B0-B00-0180	0	set	00:38:02;
+
+[CreateBG]=00:39:12	BGS	Event03/03-B0/03-B0-B00/03-B0-B00-006	00:42:03;
+
+[PrintText]=00:40:00	Setsuna	Sekai...	00:41:03;
+
+[PlayVoice]=00:40:00	Voice03/03-B0/03-B0-B00/03-B0-B00-0200	0	set	00:41:03;
+
+[BlackFade]=00:41:15	OUT	00:42:03;
+
+ ;
+
+[Next]=00:42:03;
+
+

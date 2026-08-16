@@ -1,0 +1,164 @@
+﻿[SkipFRAME]=03:03:00;
+
+[CreateBG]=00:00:00	BGS	Ini/Event05/05-SD/05-SD-A01/05-SD-A01-000	00:03:01;
+
+#[PrintText]=00:00:00	Juego	Un año después...	00:03:01;
+
+[BlackFade]=00:02:01	OUT	00:03:01;
+
+[PlayBgm]=00:03:01	BGM/SD_BGM/sdbgm19	02:20:17;
+
+[PlayMovie]=00:03:01	Movie05/05-SD/05-SD-A01/05-SD-A01-000	0	00:58:11;
+
+[PrintText]=00:04:20	Makoto	A pasado un año desde que Sekai fue transferida. Estoy en segundo año ahora.	00:11:02;
+
+[PlayVoice]=00:04:20	Voice05/05-SD/05-SD-A01/05-SD-A01-0040	1	xxx	00:11:02;
+
+[PrintText]=00:12:13	Makoto	Poco a poco, la frecuencia en la que nos enviábamos correos y cartas disminuían...	00:17:16;
+
+[PlayVoice]=00:12:13	Voice05/05-SD/05-SD-A01/05-SD-A01-0050	1	xxx	00:17:16;
+
+[PrintText]=00:19:10	Makoto	Hasta que finalmente, dejé de escribir, ya que nunca he sido bueno con las cartas.	00:24:08;
+
+[PlayVoice]=00:19:10	Voice05/05-SD/05-SD-A01/05-SD-A01-0060	1	xxx	00:24:08;
+
+[PrintText]=00:26:02	Makoto	Tal vez fue porque dejé de escribirle a Sekai... pero Kiyoura y las demás también se distanciaron de mi.	00:34:10;
+
+[PlayVoice]=00:26:02	Voice05/05-SD/05-SD-A01/05-SD-A01-0070	1	xxx	00:34:10;
+
+[PrintText]=00:36:10	Makoto	Los días felices pasaron, y ahora, estoy viviendo mi vida de otra manera.	00:44:09;
+
+[PlayVoice]=00:36:10	Voice05/05-SD/05-SD-A01/05-SD-A01-0080	1	xxx	00:44:09;
+
+[PrintText]=00:46:11	Makoto	Saliendo con chicas al azar, terminando con ellas, y saliendo con otras.	00:51:14;
+
+[PlayVoice]=00:46:11	Voice05/05-SD/05-SD-A01/05-SD-A01-0090	1	xxx	00:51:14;
+
+[PrintText]=00:53:09	Makoto	Me he acostumbrado a esto ya...	00:56:21;
+
+[PlayVoice]=00:53:09	Voice05/05-SD/05-SD-A01/05-SD-A01-0100	1	xxx	00:56:21;
+
+[BlackFade]=00:57:11	OUT	00:58:11;
+
+[PlayMovie]=00:58:11	Movie05/05-SD/05-SD-A01/05-SD-A01-001	0	01:07:00;
+
+[PrintText]=01:03:10	Kazuha	¡Buen día senpai!	01:06:05;
+
+[PlayVoice]=01:03:10	Voice05/05-SD/05-SD-A01/05-SD-A01-0260	0	kaz	01:06:05;
+
+[PrintText]=01:05:22	Makoto	Buen día.	01:06:16;
+
+[PlayVoice]=01:05:22	Voice05/05-SD/05-SD-A01/05-SD-A01-0270	1	mak	01:06:16;
+
+[PlayMovie]=01:07:00	Movie05/05-SD/05-SD-A01/05-SD-A01-002	0	01:14:02;
+
+[PrintText]=01:07:00	Kazuha	Hay una carta para ti.	01:10:10;
+
+[PlayVoice]=01:07:00	Voice05/05-SD/05-SD-A01/05-SD-A01-0280	0	kaz	01:10:10;
+
+[PrintText]=01:10:10	Makoto	¿Hmn? Oh.	01:12:19;
+
+[PlayVoice]=01:10:10	Voice05/05-SD/05-SD-A01/05-SD-A01-0290	1	mak	01:12:19;
+
+[PrintText]=01:12:19	Kazuha	Es una carta del extranjero. ¿Me pregunto de quién será? ¡Fwah! ¡Es de Francia!	01:20:07;
+
+[PlayVoice]=01:12:19	Voice05/05-SD/05-SD-A01/05-SD-A01-0300	0	kaz	01:20:07;
+
+[PlayMovie]=01:14:02	Movie05/05-SD/05-SD-A01/05-SD-A01-002B	0	01:23:08;
+
+[PrintText]=01:20:14	Makoto	Oh, tienes razón.	01:22:17;
+
+[PlayVoice]=01:20:14	Voice05/05-SD/05-SD-A01/05-SD-A01-0310	1	mak	01:22:17;
+
+[PlayMovie]=01:23:08	Movie05/05-SD/05-SD-A01/05-SD-A01-003	0	01:47:03;
+
+[PrintText]=01:25:12	Kazuha	¿Eh?! ¿Seguro que quieres hacer eso?!	01:27:22;
+
+[PlayVoice]=01:25:12	Voice05/05-SD/05-SD-A01/05-SD-A01-0330	0	kaz	01:27:22;
+
+[PrintText]=01:27:22	Makoto	No es importante.	01:29:18;
+
+[PlayVoice]=01:27:22	Voice05/05-SD/05-SD-A01/05-SD-A01-0340	1	mak	01:29:18;
+
+[PrintText]=01:29:19	Kazuha	¿En serio? Aún así es increíble. Tienes a alguien escribiéndote desde el extranjero. ¡Tal vez sea una carta de amor!	01:42:00;
+
+[PlayVoice]=01:29:19	Voice05/05-SD/05-SD-A01/05-SD-A01-0350	0	kaz	01:42:00;
+
+[PrintText]=01:42:00	Makoto	Haha.	01:42:22;
+
+[PlayVoice]=01:42:00	Voice05/05-SD/05-SD-A01/05-SD-A01-0360	1	mak	01:42:22;
+
+[PrintText]=01:42:22	Kazuha	Apuesto a que tienes toneladas de estos.	01:47:02;
+
+[PlayVoice]=01:42:22	Voice05/05-SD/05-SD-A01/05-SD-A01-0370	0	kaz	01:47:02;
+
+[PrintText]=01:47:02	Makoto	No realmente.	01:48:19;
+
+[PlayVoice]=01:47:02	Voice05/05-SD/05-SD-A01/05-SD-A01-0380	1	mak	01:48:19;
+
+[CreateBG]=01:47:03	BGS	Event05/05-SD/05-SD-A01/05-SD-A01-004	01:51:18;
+
+[PrintText]=01:49:09	Futaba	Ah, Kazuha-chan.	01:51:17;
+
+[PlayVoice]=01:49:09	Voice05/05-SD/05-SD-A01/05-SD-A01-0480	0	fut	01:51:17;
+
+[PlayMovie]=01:51:18	Movie05/05-SD/05-SD-A01/05-SD-A01-004B	0	02:04:00;
+
+[PrintText]=01:51:18	Kazuha	¡¿Eh?! F-Futaba-chan ¿También estás aquí?^	01:56:01;
+
+[PlayVoice]=01:51:18	Voice05/05-SD/05-SD-A01/05-SD-A01-0490	0	kaz	01:56:01;
+
+[PrintText]=01:56:01	Futaba	Sip. Después de todo el plan fue el estar nosotros tres.	02:01:19;
+
+[PlayVoice]=01:56:01	Voice05/05-SD/05-SD-A01/05-SD-A01-0500	0	fut	02:01:19;
+
+[PrintText]=02:01:19	Kazuha	Sí, pero...	02:03:12;
+
+[PlayVoice]=02:01:19	Voice05/05-SD/05-SD-A01/05-SD-A01-0510	0	kaz	02:03:12;
+
+[CreateBG]=02:04:00	BGS	Event05/05-SD/05-SD-A01/05-SD-A01-004	02:13:16;
+
+[PrintText]=02:04:02	Makoto	¿...Cómo las cosas terminarán?^	02:07:19;
+
+[PlayVoice]=02:04:02	Voice05/05-SD/05-SD-A01/05-SD-A01-0690	1	mak	02:07:19;
+
+[PrintText]=02:07:19	Kazuha	¿Eh?^	02:08:16;
+
+[PlayVoice]=02:07:19	Voice05/05-SD/05-SD-A01/05-SD-A01-0700	0	kaz	02:08:16;
+
+[PrintText]=02:08:16	Makoto	Oh, nada.	02:10:19;
+
+[PlayVoice]=02:08:16	Voice05/05-SD/05-SD-A01/05-SD-A01-0710	1	mak	02:10:19;
+
+[PrintText]=02:10:19	Kazuha	Ya veo.	02:12:06;
+
+[PlayVoice]=02:10:19	Voice05/05-SD/05-SD-A01/05-SD-A01-0720	0	kaz	02:12:06;
+
+[PrintText]=02:12:06	Makoto	Bueno ¿Vamos?^	02:13:15;
+
+[PlayVoice]=02:12:06	Voice05/05-SD/05-SD-A01/05-SD-A01-0730	1	mak	02:13:15;
+
+[PlayMovie]=02:13:16	Movie05/05-SD/05-SD-A01/05-SD-A01-005	0	02:20:17;
+
+[PlayVoice]=02:13:19	Voice05/05-SD/05-SD-A01/05-SD-A01-0740hutaba	0	x04	02:14:16;
+
+[PrintText]=02:13:22	Kazuha·Futaba	¡Sí!	02:14:15;
+
+[PlayVoice]=02:13:22	Voice05/05-SD/05-SD-A01/05-SD-A01-0740	0	x04	02:14:15;
+
+[PlaySe]=02:14:17	1	SysSe/SE_all/door/door_mansyon	02:19:21;
+
+[CreateBG]=02:20:17	BGS	Ini/EndRoll/05-18	02:23:00;
+
+[EndRoll]=02:23:00	Ini/EndRoll/NORMAL	03:03:00;
+
+[EndBGM]=02:20:17	BGM/Vocal/SDV08	04:19:05;
+
+ ;
+
+[Next]=03:03:00;
+
+
+
+
+

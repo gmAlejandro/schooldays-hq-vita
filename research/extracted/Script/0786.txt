@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:08:02;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-J02/SE03-SA-J02-001	00:14:09;
+
+[PlayMovie]=00:00:00	Movie03/03-SA/03-SA-J02/03-SA-J02-001	0	00:14:09;
+
+[PrintText]=00:00:00	Makoto	Vine a ver a Kotonoha.	00:01:17;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-J02/03-SA-J02-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:17	Minami	¡¿Ehh?!	00:02:16;
+
+[PlayVoice]=00:01:17	Voice03/03-SA/03-SA-J02/03-SA-J02-0040	0	min	00:02:16;
+
+[PrintText]=00:02:16	Makoto	Kotonoha.	00:03:16;
+
+[PlayVoice]=00:02:16	Voice03/03-SA/03-SA-J02/03-SA-J02-0050	1	mak	00:03:16;
+
+[PrintText]=00:03:16	Kotonoha	¡S-Sí!	00:05:05;
+
+[PlayVoice]=00:03:16	Voice03/03-SA/03-SA-J02/03-SA-J02-0060	0	kot	00:05:05;
+
+[PrintText]=00:05:05	Makoto	Yo...	00:06:03;
+
+[PlayVoice]=00:05:05	Voice03/03-SA/03-SA-J02/03-SA-J02-0070	1	mak	00:06:03;
+
+[PrintText]=00:06:04	Kotonoha	Sí...	00:06:23;
+
+[PlayVoice]=00:06:04	Voice03/03-SA/03-SA-J02/03-SA-J02-0080	0	kot	00:06:23;
+
+[PrintText]=00:06:23	Makoto	Yo...	00:07:22;
+
+[PlayVoice]=00:06:23	Voice03/03-SA/03-SA-J02/03-SA-J02-0090	1	mak	00:07:22;
+
+[SetSELECT]=00:08:02	'Estoy enamorado de Sekai'	null	00:13:02;
+
+ ;
+
+[Next]=00:14:09;
+
+

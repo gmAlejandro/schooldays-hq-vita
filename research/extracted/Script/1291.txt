@@ -1,0 +1,351 @@
+﻿[SkipFRAME]=03:44:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	03:44:13;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-A05/05-KA-A05-001	00:03:00;
+
+[BlackFade]=00:00:00	IN	00:01:00;
+
+[PlaySe]=00:03:00	1	SysSe/SE_all/keitai/yobidasi	00:05:01;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002	00:05:01;
+
+[CreateBG]=00:05:01	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002B	00:08:10;
+
+[PrintText]=00:05:09	Hikari	¿Bueno?^	00:06:02;
+
+[PlayVoice]=00:05:09	Voice05/05-5H/05-5H-A00/05-5H-A00-0040	0	hik	00:06:02;
+
+[PrintText]=00:06:02	Makoto	¡Hey, hey! ¡Soy yo!	00:07:05;
+
+[PlayVoice]=00:06:02	Voice05/05-5H/05-5H-A00/05-5H-A00-0050	1	mak	00:07:05;
+
+[PrintText]=00:07:09	Hikari	¿Llamadas de estafa?^	00:08:09;
+
+[PlayVoice]=00:07:09	Voice05/05-5H/05-5H-A00/05-5H-A00-0060	0	hik	00:08:09;
+
+[PlaySe]=00:08:10	2	SysSe/SE_all/keitai/hanasityuu	00:09:15;
+
+[CreateBG]=00:08:10	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002C	00:09:15;
+
+[CreateBG]=00:09:15	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002D	00:12:15;
+
+[PrintText]=00:09:22	Hikari	Ah... este número es de...	00:12:12;
+
+[PlayVoice]=00:09:22	Voice05/05-5H/05-5H-A00/05-5H-A00-0080	0	hik	00:12:12;
+
+[PlaySe]=00:12:15	3	SysSe/SE_all/keitai/yobidasi	00:13:22;
+
+[CreateBG]=00:12:15	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002E	00:15:08;
+
+[PrintText]=00:13:21	Makoto	¿Hola?^	00:15:00;
+
+[PlayVoice]=00:13:21	Voice05/05-5H/05-5H-A00/05-5H-A00-0110	1	mak	00:15:00;
+
+[CreateBG]=00:15:08	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002F	00:23:01;
+
+[PrintText]=00:15:10	Hikari	Ah, perdón. Creí que era esas llamadas de 'hey soy yo'.	00:19:09;
+
+[PlayVoice]=00:15:10	Voice05/05-5H/05-5H-A00/05-5H-A00-0120	0	hik	00:19:09;
+
+[PrintText]=00:18:23	Makoto	Cielos. No tengas la misma reacción que yo.	00:22:15;
+
+[PlayVoice]=00:18:23	Voice05/05-5H/05-5H-A00/05-5H-A00-0130	1	mak	00:22:15;
+
+[CreateBG]=00:23:01	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002G	00:34:02;
+
+[PrintText]=00:23:07	Hikari	Y... ¿De qué se trata?^	00:25:10;
+
+[PlayVoice]=00:23:07	Voice05/05-5H/05-5H-A00/05-5H-A00-0140	0	hik	00:25:10;
+
+[PrintText]=00:25:19	Makoto	Sobre lo que hablamos hoy. Está decidido.	00:27:11;
+
+[PlayVoice]=00:25:19	Voice05/05-5H/05-5H-A00/05-5H-A00-0150	1	mak	00:27:11;
+
+[PrintText]=00:27:17	Hikari	¿Eh...?^	00:28:11;
+
+[PlayVoice]=00:27:17	Voice05/05-5H/05-5H-A00/05-5H-A00-0160	0	hik	00:28:11;
+
+[PrintText]=00:29:00	Makoto	Taisuke se reunirá con nosotros mañana en la casa de Kotonoha, te veo ahí.	00:34:05;
+
+[PlayVoice]=00:29:00	Voice05/05-5H/05-5H-A00/05-5H-A00-0170	1	mak	00:34:05;
+
+[CreateBG]=00:34:02	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002H	00:38:08;
+
+[PrintText]=00:34:03	Hikari	¡H-hey, espera un segundo! ¡¿Q-Qué quieres decir?!	00:37:22;
+
+[PlayVoice]=00:34:03	Voice05/05-5H/05-5H-A00/05-5H-A00-0180	0	hik	00:37:22;
+
+[CreateBG]=00:38:08	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002I	00:40:17;
+
+[PrintText]=00:38:13	Makoto	Como dije, Taisuke y tu van a...	00:40:22;
+
+[PlayVoice]=00:38:13	Voice05/05-5H/05-5H-A00/05-5H-A00-0190	1	mak	00:40:22;
+
+[CreateBG]=00:40:17	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-002J	00:50:19;
+
+[PrintText]=00:40:18	Hikari	No me explicaste nada cuando estuvimos en el salón de ciencia. ¡Tú solo dijiste 'Déjamelo a mí'!	00:45:08;
+
+[PlayVoice]=00:40:18	Voice05/05-5H/05-5H-A00/05-5H-A00-0200	0	hik	00:45:08;
+
+[PrintText]=00:45:18	Makoto	Oh ¿En serio?^	00:47:19;
+
+[PlayVoice]=00:45:18	Voice05/05-5H/05-5H-A00/05-5H-A00-0210	1	mak	00:47:19;
+
+[PrintText]=00:47:20	Hikari	¡No tengo idea de qué estás hablando!	00:50:00;
+
+[PlayVoice]=00:47:20	Voice05/05-5H/05-5H-A00/05-5H-A00-0220	0	hik	00:50:00;
+
+[CreateBG]=00:50:19	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-003	01:04:22;
+
+[PrintText]=00:50:19	Makoto	Bueno... básicamente, le pregunté a Taisuke si podíamos hacer un Intercambio, Kotonoha y él aceptaron.	00:59:13;
+
+[PlayVoice]=00:50:19	Voice05/05-5H/05-5H-A00/05-5H-A00-0230	1	mak	00:59:13;
+
+[PrintText]=01:00:05	Makoto	Entonces, hemos decidido hacerlo en la casa de Kotonoha. Es todo.	01:04:07;
+
+[PlayVoice]=01:00:05	Voice05/05-5H/05-5H-A00/05-5H-A00-0231	1	mak	01:04:07;
+
+[CreateBG]=01:04:22	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-004	01:09:21;
+
+[PrintText]=01:04:23	Hikari	Primero que nada, no entiendo que quieres decir con 'Intercambio'.	01:09:19;
+
+[PlayVoice]=01:04:23	Voice05/05-5H/05-5H-A00/05-5H-A00-0240	0	hik	01:09:19;
+
+[CreateBG]=01:09:21	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-004B	01:15:06;
+
+[PrintText]=01:10:00	Makoto	El intercambio es cuando dos parejas comparten a sus amantes y tienen sexo con ellos.	01:15:11;
+
+[PlayVoice]=01:10:00	Voice05/05-5H/05-5H-A00/05-5H-A00-0250	1	mak	01:15:11;
+
+[CreateBG]=01:15:06	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-004C	01:28:08;
+
+[PrintText]=01:15:07	Hikari	N-No hay manera de que alguien pueda permitir eso!	01:18:14;
+
+[PlayVoice]=01:15:07	Voice05/05-5H/05-5H-A00/05-5H-A00-0260	0	hik	01:18:14;
+
+[PrintText]=01:19:00	Makoto	Cosas como esas realmente pasan, sabes.	01:21:01;
+
+[PlayVoice]=01:19:00	Voice05/05-5H/05-5H-A00/05-5H-A00-0270	1	mak	01:21:01;
+
+[PrintText]=01:20:23	Hikari	¡P-Pero ellos son amantes! No dejarías a alguien con quien sales tener algo con alguien más ¡¿No?!	01:28:03;
+
+[PlayVoice]=01:20:23	Voice05/05-5H/05-5H-A00/05-5H-A00-0280	0	hik	01:28:03;
+
+[CreateBG]=01:28:08	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-004D	01:33:12;
+
+[PrintText]=01:28:13	Makoto	Hay ciertas formas de amor que están permitidas.	01:30:23;
+
+[PlayVoice]=01:28:13	Voice05/05-5H/05-5H-A00/05-5H-A00-0290	1	mak	01:30:23;
+
+[PrintText]=01:31:16	Hikari	Eso es pervertido...	01:32:17;
+
+[PlayVoice]=01:31:16	Voice05/05-5H/05-5H-A00/05-5H-A00-0300	0	hik	01:32:17;
+
+[PrintText]=01:33:10	Makoto	Hey, con ese acto pervertido estoy contando contigo ¿Entiendes?^	01:39:22;
+
+[PlayVoice]=01:33:10	Voice05/05-5H/05-5H-A00/05-5H-A00-0310	1	mak	01:39:22;
+
+[CreateBG]=01:33:12	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-005	01:49:20;
+
+[PrintText]=01:40:13	Hikari	Pero... es enfermo. No tiene sentido.	01:45:06;
+
+[PlayVoice]=01:40:13	Voice05/05-5H/05-5H-A00/05-5H-A00-0320	0	hik	01:45:06;
+
+[PrintText]=01:45:02	Makoto	Taisuke ya tiene una novia, así que si no hacemos esto, tus probabilidades irán a cero.	01:49:13;
+
+[PlayVoice]=01:45:02	Voice05/05-5H/05-5H-A00/05-5H-A00-0330	1	mak	01:49:13;
+
+[CreateBG]=01:49:20	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-006	01:53:03;
+
+[PrintText]=01:50:01	Hikari	Uuh... Ya veo.	01:52:20;
+
+[PlayVoice]=01:50:01	Voice05/05-5H/05-5H-A00/05-5H-A00-0340	0	hik	01:52:20;
+
+[CreateBG]=01:53:03	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-007	01:55:06;
+
+[PrintText]=01:53:03	Makoto	Así es como es.	01:54:23;
+
+[PlayVoice]=01:53:03	Voice05/05-5H/05-5H-A00/05-5H-A00-0350	1	mak	01:54:23;
+
+[CreateBG]=01:55:06	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-007B	02:00:22;
+
+[PrintText]=01:55:06	Hikari	Ah... entonces, tu lo harás con Katsura-san entonces.	01:59:20;
+
+[PlayVoice]=01:55:06	Voice05/05-5H/05-5H-A00/05-5H-A00-0360	0	hik	01:59:20;
+
+[PrintText]=02:00:05	Makoto	...Sí.	02:00:23;
+
+[PlayVoice]=02:00:05	Voice05/05-5H/05-5H-A00/05-5H-A00-0370	1	mak	02:00:23;
+
+[CreateBG]=02:00:22	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-007C	02:05:15;
+
+[PrintText]=02:01:00	Hikari	Hehe... que suerte la tuya.	02:03:11;
+
+[PlayVoice]=02:01:00	Voice05/05-5H/05-5H-A00/05-5H-A00-0380	0	hik	02:03:11;
+
+[PrintText]=02:03:13	Makoto	Sí, supongo.	02:04:11;
+
+[PlayVoice]=02:03:13	Voice05/05-5H/05-5H-A00/05-5H-A00-0390	1	mak	02:04:11;
+
+[CreateBG]=02:05:15	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-008	02:10:21;
+
+[PrintText]=02:05:16	Hikari	Hey... ¿Crees que tener sexo con alguien hace que te enamores esa persona?^	02:10:16;
+
+[PlayVoice]=02:05:16	Voice05/05-5H/05-5H-A00/05-5H-A00-0400	0	hik	02:10:16;
+
+[PrintText]=02:10:20	Makoto	Sí, en algunos casos.	02:13:02;
+
+[PlayVoice]=02:10:20	Voice05/05-5H/05-5H-A00/05-5H-A00-0410	1	mak	02:13:02;
+
+[CreateBG]=02:10:21	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-009	02:13:05;
+
+[CreateBG]=02:13:05	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-010	02:15:03;
+
+[PrintText]=02:13:05	Hikari	Sí, también lo suponía...	02:14:16;
+
+[PlayVoice]=02:13:05	Voice05/05-5H/05-5H-A00/05-5H-A00-0420	0	hik	02:14:16;
+
+[CreateBG]=02:15:03	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-011	02:18:08;
+
+[PrintText]=02:15:03	Makoto	Espero que Taisuke se sienta atraído por ti.	02:18:05;
+
+[PlayVoice]=02:15:03	Voice05/05-5H/05-5H-A00/05-5H-A00-0430	1	mak	02:18:05;
+
+[CreateBG]=02:18:08	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-012	02:21:22;
+
+[PrintText]=02:18:12	Hikari	¡¿Wah! ¡¿Por mí?! ¡De ninguna manera! ¡Eso es imposible!	02:21:21;
+
+[PlayVoice]=02:18:12	Voice05/05-5H/05-5H-A00/05-5H-A00-0440	0	hik	02:21:21;
+
+[CreateBG]=02:21:22	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-013	02:52:00;
+
+[PrintText]=02:21:22	Makoto	No tienen mucha comunicación.	02:23:11;
+
+[PlayVoice]=02:21:22	Voice05/05-5H/05-5H-A00/05-5H-A00-0450	1	mak	02:23:11;
+
+[PrintText]=02:23:18	Hikari	Pero si es Katsura-san de la que hablamos. Si los veo muy juntos, entraré en pánico...	02:30:21;
+
+[PlayVoice]=02:23:18	Voice05/05-5H/05-5H-A00/05-5H-A00-0460	0	hik	02:30:21;
+
+[PrintText]=02:31:04	Makoto	¿Tú crees?^	02:32:06;
+
+[PlayVoice]=02:31:04	Voice05/05-5H/05-5H-A00/05-5H-A00-0470	1	mak	02:32:06;
+
+[PrintText]=02:32:09	Hikari	¡Ah! Solo preparate ¿Vale?^	02:35:09;
+
+[PlayVoice]=02:32:09	Voice05/05-5H/05-5H-A00/05-5H-A00-0480	0	hik	02:35:09;
+
+[PrintText]=02:35:13	Makoto	¿Eh?^	02:36:03;
+
+[PlayVoice]=02:35:13	Voice05/05-5H/05-5H-A00/05-5H-A00-0490	1	mak	02:36:03;
+
+[PrintText]=02:36:13	Hikari	¡Vas a acostarte con alguien y serás su novio!	02:40:20;
+
+[PlayVoice]=02:36:13	Voice05/05-5H/05-5H-A00/05-5H-A00-0500	0	hik	02:40:20;
+
+[PrintText]=02:41:02	Makoto	¿Ehh?^	02:41:21;
+
+[PlayVoice]=02:41:02	Voice05/05-5H/05-5H-A00/05-5H-A00-0510	1	mak	02:41:21;
+
+[PrintText]=02:42:04	Hikari	Una vez hecho, Sawanaga quedará fuera, y entonces podré tener una oportunidad acostándome con él. Sip.	02:51:22;
+
+[PlayVoice]=02:42:04	Voice05/05-5H/05-5H-A00/05-5H-A00-0520	0	hik	02:51:22;
+
+[CreateBG]=02:52:00	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-015	02:54:03;
+
+[PrintText]=02:52:02	Makoto	Hey, ahora...	02:53:16;
+
+[PlayVoice]=02:52:02	Voice05/05-5H/05-5H-A00/05-5H-A00-0530	1	mak	02:53:16;
+
+[CreateBG]=02:54:03	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-016	03:00:17;
+
+[PrintText]=02:54:03	Hikari	...Oh, es cierto. Estás saliendo con Sekai ¿No?^	03:00:07;
+
+[PlayVoice]=02:54:03	Voice05/05-5H/05-5H-A00/05-5H-A00-0540	0	hik	03:00:07;
+
+[CreateBG]=03:00:17	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-017	03:06:08;
+
+[PrintText]=03:00:17	Makoto	...	03:01:15;
+
+[PlayVoice]=03:00:17	Voice05/05-5H/05-5H-A00/05-5H-A00-0550	1	xxx	03:01:15;
+
+[PrintText]=03:02:03	Hikari	Bueno, supongo que no se puede evitar...	03:04:15;
+
+[PlayVoice]=03:02:03	Voice05/05-5H/05-5H-A00/05-5H-A00-0560	0	hik	03:04:15;
+
+[PrintText]=03:04:23	Makoto	Haah...	03:05:21;
+
+[PlayVoice]=03:04:23	Voice05/05-5H/05-5H-A00/05-5H-A00-0570	1	mak	03:05:21;
+
+[CreateBG]=03:06:08	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-018	03:14:04;
+
+[PrintText]=03:06:08	Hikari	¡Ah! ¡Pero si no digo nada, ella nunca lo sabrá, y tu harás el resto!	03:12:00;
+
+[PlayVoice]=03:06:08	Voice05/05-5H/05-5H-A00/05-5H-A00-0580	0	hik	03:12:00;
+
+[PrintText]=03:12:04	Makoto	Sí, sí...	03:13:18;
+
+[PlayVoice]=03:12:04	Voice05/05-5H/05-5H-A00/05-5H-A00-0590	1	mak	03:13:18;
+
+[CreateBG]=03:14:04	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-019	03:17:19;
+
+[PrintText]=03:14:04	Hikari	Veamos... Sábado en la casa de Katsura-san ¿No?^	03:17:14;
+
+[PlayVoice]=03:14:04	Voice05/05-5H/05-5H-A00/05-5H-A00-0600	0	hik	03:17:14;
+
+[CreateBG]=03:17:19	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-013	03:20:07;
+
+[PrintText]=03:17:20	Makoto	Sí ¿Te sabes la dirección?^	03:20:01;
+
+[PlayVoice]=03:17:20	Voice05/05-5H/05-5H-A00/05-5H-A00-0610	1	mak	03:20:01;
+
+[CreateBG]=03:20:07	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-019B	03:26:11;
+
+[PrintText]=03:20:09	Hikari	Creo que está cerca de mi casa, supongo que estará bien por ser mi primera vez... aunque no sé la ruta.	03:26:06;
+
+[PlayVoice]=03:20:09	Voice05/05-5H/05-5H-A00/05-5H-A00-0620	0	hik	03:26:06;
+
+[CreateBG]=03:26:11	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-013	03:28:22;
+
+[PrintText]=03:26:15	Makoto	¿Vamos juntos entonces?^	03:28:20;
+
+[PlayVoice]=03:26:15	Voice05/05-5H/05-5H-A00/05-5H-A00-0630	1	mak	03:28:20;
+
+[CreateBG]=03:28:22	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-019C	03:30:10;
+
+[PrintText]=03:29:01	Hikari	Vale, hagamoslo.	03:30:09;
+
+[PlayVoice]=03:29:01	Voice05/05-5H/05-5H-A00/05-5H-A00-0640	0	hik	03:30:09;
+
+[CreateBG]=03:30:10	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-013	03:38:09;
+
+[PrintText]=03:30:11	Makoto	9:30 en la estación Haramihama entonces. Está programado estar en la casa de Kotonoha a las 10, serás suficiente.	03:38:14;
+
+[PlayVoice]=03:30:11	Voice05/05-5H/05-5H-A00/05-5H-A00-0650	1	mak	03:38:14;
+
+[CreateBG]=03:38:09	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-019	03:39:17;
+
+[PrintText]=03:38:12	Hikari	Vale.	03:39:15;
+
+[PlayVoice]=03:38:12	Voice05/05-5H/05-5H-A00/05-5H-A00-0660	0	hik	03:39:15;
+
+[PrintText]=03:39:15	Makoto	Bien, entonces. Asegurate de llevar tu mejor vestido.	03:42:08;
+
+[PlayVoice]=03:39:15	Voice05/05-5H/05-5H-A00/05-5H-A00-0670	1	mak	03:42:08;
+
+[CreateBG]=03:39:17	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-020	03:41:21;
+
+[PrintText]=03:41:17	Hikari	¡Ooh! ¡Idiota!	03:43:09;
+
+[PlayVoice]=03:41:17	Voice05/05-5H/05-5H-A00/05-5H-A00-0680	0	hik	03:43:09;
+
+[CreateBG]=03:41:21	BGS	Event05/05-5H/05-5H-A00/05-5H-A00-021	03:44:13;
+
+[BlackFade]=03:43:22	OUT	03:44:13;
+
+ ;
+
+[Next]=03:44:13;
+
+

@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:15:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:15:12;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C07/SE03-KA-C07-001	00:15:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C07/03-KA-C07-001	00:01:21;
+
+[PrintText]=00:00:05	Makoto	...	00:01:08;
+
+[PlayVoice]=00:00:05	Voice03/03-KA/03-KA-C07/03-KA-C07-0030	1	xxx	00:01:08;
+
+[CreateBG]=00:01:21	BGS	Event03/03-KA/03-KA-C07/03-KA-C07-002	00:06:16;
+
+[PrintText]=00:02:11	Makoto	¿Quién llama?^	00:04:01;
+
+[PlayVoice]=00:02:11	Voice03/03-KA/03-KA-C07/03-KA-C07-0050	1	mak	00:04:01;
+
+[PrintText]=00:04:00	Setsuna	No llamo a nadie. Es un Correo.	00:06:13;
+
+[PlayVoice]=00:04:00	Voice03/03-KA/03-KA-C07/03-KA-C07-0060	0	set	00:06:13;
+
+[CreateBG]=00:06:16	BGS	Event03/03-KA/03-KA-C07/03-KA-C07-001	00:07:22;
+
+[PrintText]=00:06:17	Makoto	¿Quién?^	00:07:20;
+
+[PlayVoice]=00:06:17	Voice03/03-KA/03-KA-C07/03-KA-C07-0070	1	mak	00:07:20;
+
+[CreateBG]=00:07:22	BGS	Event03/03-KA/03-KA-C07/03-KA-C07-004	00:09:21;
+
+[PrintText]=00:08:03	Setsuna	...	00:08:17;
+
+[PlayVoice]=00:08:03	Voice03/03-KA/03-KA-C07/03-KA-C07-0080	0	xxx	00:08:17;
+
+[PrintText]=00:09:02	Setsuna	...	00:09:16;
+
+[PlayVoice]=00:09:02	Voice03/03-KA/03-KA-C07/03-KA-C07-0100	0	xxx	00:09:16;
+
+[CreateBG]=00:09:21	BGS	Event03/03-KA/03-KA-C07/03-KA-C07-005	00:15:12;
+
+[PrintText]=00:10:01	Makoto	B-Bueno, supongo que debería empezar a comer...	00:14:08;
+
+[PlayVoice]=00:10:01	Voice03/03-KA/03-KA-C07/03-KA-C07-0110	1	mak	00:14:08;
+
+[BlackFade]=00:14:12	OUT	00:15:12;
+
+ ;
+
+[Next]=00:15:12;
+
+

@@ -1,0 +1,121 @@
+﻿[SkipFRAME]=00:48:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	00:48:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-I07/SE03-SB-I07-001	00:48:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-001	00:01:09;
+
+[PrintText]=00:00:12	Setsuna	Itou.	00:01:08;
+
+[PlayVoice]=00:00:12	Voice03/03-SB/03-SB-I07/03-SB-I07-0030	0	set	00:01:08;
+
+[PrintText]=00:01:08	Makoto	Oh, Kiyoura. ¿Has visto a Sekai?^	00:04:18;
+
+[PlayVoice]=00:01:08	Voice03/03-SB/03-SB-I07/03-SB-I07-0040	1	mak	00:04:18;
+
+[CreateBG]=00:01:09	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-002	00:11:13;
+
+[PrintText]=00:04:18	Setsuna	Si estás buscando a Sekai, ella regresará pronto.	00:07:22;
+
+[PlayVoice]=00:04:18	Voice03/03-SB/03-SB-I07/03-SB-I07-0050	0	set	00:07:22;
+
+[PrintText]=00:07:22	Makoto	¿Eh?^	00:08:12;
+
+[PlayVoice]=00:07:22	Voice03/03-SB/03-SB-I07/03-SB-I07-0060	1	mak	00:08:12;
+
+[PrintText]=00:08:12	Setsuna	Le pedí que vaya a comprar unas cosas.	00:10:08;
+
+[PlayVoice]=00:08:12	Voice03/03-SB/03-SB-I07/03-SB-I07-0070	0	set	00:10:08;
+
+[PrintText]=00:10:08	Sekai	¡Lo siento, me tomó más de lo debido!	00:13:10;
+
+[PlayVoice]=00:10:08	Voice03/03-SB/03-SB-I07/03-SB-I07-0080	0	sek	00:13:10;
+
+[CreateBG]=00:11:13	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-003	00:20:04;
+
+[PrintText]=00:13:10	Setsuna	¿Lo ves?^	00:14:05;
+
+[PlayVoice]=00:13:10	Voice03/03-SB/03-SB-I07/03-SB-I07-0090	0	set	00:14:05;
+
+[PrintText]=00:14:05	Makoto	C-Cierto.	00:15:16;
+
+[PlayVoice]=00:14:05	Voice03/03-SB/03-SB-I07/03-SB-I07-0100	1	mak	00:15:16;
+
+[PrintText]=00:15:16	Sekai	No podía encontrar las papas fritas, así que fui a buscarlo a otro lado. Ten.	00:20:03;
+
+[PlayVoice]=00:15:16	Voice03/03-SB/03-SB-I07/03-SB-I07-0110	0	sek	00:20:03;
+
+[PrintText]=00:20:03	Setsuna	Mmn. Buen trabajo, por cierto...	00:23:21;
+
+[PlayVoice]=00:20:03	Voice03/03-SB/03-SB-I07/03-SB-I07-0120	0	set	00:23:21;
+
+[CreateBG]=00:20:04	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-004	00:24:16;
+
+[PrintText]=00:23:22	Sekai	¿Sí?^	00:24:15;
+
+[PlayVoice]=00:23:22	Voice03/03-SB/03-SB-I07/03-SB-I07-0130	0	sek	00:24:15;
+
+[PrintText]=00:24:15	Setsuna	Estás libre ahora ¿No?^	00:27:15;
+
+[PlayVoice]=00:24:15	Voice03/03-SB/03-SB-I07/03-SB-I07-0140	0	set	00:27:15;
+
+[CreateBG]=00:24:16	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-005	00:32:22;
+
+[PrintText]=00:27:15	Sekai	Sip.	00:28:08;
+
+[PlayVoice]=00:27:15	Voice03/03-SB/03-SB-I07/03-SB-I07-0150	0	sek	00:28:08;
+
+[PrintText]=00:28:08	Setsuna	Itou quiere saber si quieres ir a caminar con él.	00:30:20;
+
+[PlayVoice]=00:28:08	Voice03/03-SB/03-SB-I07/03-SB-I07-0160	0	set	00:30:20;
+
+[PrintText]=00:30:20	Sekai	¡¿Eh?!	00:31:18;
+
+[PlayVoice]=00:30:20	Voice03/03-SB/03-SB-I07/03-SB-I07-0170	0	sek	00:31:18;
+
+[PrintText]=00:31:18	Makoto	¡H-hey!	00:32:22;
+
+[PlayVoice]=00:31:18	Voice03/03-SB/03-SB-I07/03-SB-I07-0180	1	mak	00:32:22;
+
+[CreateBG]=00:32:22	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-006	00:33:22;
+
+[PrintText]=00:32:22	Setsuna	¿Me equivoco?^	00:33:21;
+
+[PlayVoice]=00:32:22	Voice03/03-SB/03-SB-I07/03-SB-I07-0190	0	set	00:33:21;
+
+[PrintText]=00:33:21	Makoto	No, pero... yo no te he dicho nada.	00:38:04;
+
+[PlayVoice]=00:33:21	Voice03/03-SB/03-SB-I07/03-SB-I07-0200	1	mak	00:38:04;
+
+[CreateBG]=00:33:22	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-007	00:38:04;
+
+[CreateBG]=00:38:04	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-008	00:38:22;
+
+[PrintText]=00:38:04	Setsuna	Pfft.	00:38:21;
+
+[PlayVoice]=00:38:04	Voice03/03-SB/03-SB-I07/03-SB-I07-0210	0	set	00:38:21;
+
+[PrintText]=00:38:20	Makoto	Bueno, estoy libre, así que...	00:41:16;
+
+[PlayVoice]=00:38:20	Voice03/03-SB/03-SB-I07/03-SB-I07-0220	1	mak	00:41:16;
+
+[CreateBG]=00:38:22	BGS	Event03/03-SB/03-SB-I07/03-SB-I07-009	00:48:00;
+
+[PrintText]=00:41:16	Sekai	También estoy libre.	00:43:12;
+
+[PlayVoice]=00:41:16	Voice03/03-SB/03-SB-I07/03-SB-I07-0230	0	sek	00:43:12;
+
+[PrintText]=00:43:12	Makoto	Vamos juntos entonces.	00:46:06;
+
+[PlayVoice]=00:43:12	Voice03/03-SB/03-SB-I07/03-SB-I07-0240	1	mak	00:46:06;
+
+[PrintText]=00:46:06	Sekai	Vale.	00:46:22;
+
+[PlayVoice]=00:46:06	Voice03/03-SB/03-SB-I07/03-SB-I07-0250	0	sek	00:46:22;
+
+ ;
+
+[Next]=00:48:00;
+
+

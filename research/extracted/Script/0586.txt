@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:15:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:15:09;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-I09/SE03-KA-I09-001	00:15:09;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I03/03-KA-I03-004	00:09:11;
+
+[PrintText]=00:00:00	Makoto	No, así no es.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I09/03-KA-I09-0030	1	mak	00:01:14;
+
+[PrintText]=00:01:17	Setsuna	¿En serio?^	00:02:15;
+
+[PlayVoice]=00:01:17	Voice03/03-KA/03-KA-I09/03-KA-I09-0040	0	set	00:02:15;
+
+[PrintText]=00:02:20	Makoto	Es más como... si fuera tu esclavo que solo recibe ordenes.	00:09:07;
+
+[PlayVoice]=00:02:20	Voice03/03-KA/03-KA-I09/03-KA-I09-0050	1	mak	00:09:07;
+
+[CreateBG]=00:09:11	BGS	Event03/03-KA/03-KA-I09/03-KA-I09-002	00:15:09;
+
+[PrintText]=00:09:13	Setsuna	Oh, lo notaste.	00:12:14;
+
+[PlayVoice]=00:09:13	Voice03/03-KA/03-KA-I09/03-KA-I09-0060	0	set	00:12:14;
+
+[PrintText]=00:12:18	Makoto	Maldición...	00:14:20;
+
+[PlayVoice]=00:12:18	Voice03/03-KA/03-KA-I09/03-KA-I09-0070	1	mak	00:14:20;
+
+ ;
+
+[Next]=00:15:09;
+
+

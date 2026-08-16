@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:23:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:23:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-D01/05-SE-D01-001	00:07:22;
+
+[PrintText]=00:00:00	Makoto	Así que quieres presumir.	00:02:22;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-D01/05-KF-D01-0030	1	mak	00:02:22;
+
+[PrintText]=00:02:23	Kotonoha	N-no, eso no es realmente...	00:07:21;
+
+[PlayVoice]=00:02:23	Voice05/05-KF/05-KF-D01/05-KF-D01-0040	0	kot	00:07:21;
+
+[PrintText]=00:07:21	Makoto	Sí, lo es.	00:10:09;
+
+[PlayVoice]=00:07:21	Voice05/05-KF/05-KF-D01/05-KF-D01-0050	1	mak	00:10:09;
+
+[CreateBG]=00:07:22	BGS	Event05/05-SE/05-SE-D01/05-SE-D01-002	00:14:21;
+
+[PrintText]=00:10:09	Kotonoha	Entonces olvídalo.	00:12:20;
+
+[PlayVoice]=00:10:09	Voice05/05-KF/05-KF-D01/05-KF-D01-0060	0	kot	00:12:20;
+
+[PrintText]=00:12:19	Makoto	¿Qué?^	00:14:21;
+
+[PlayVoice]=00:12:19	Voice05/05-KF/05-KF-D01/05-KF-D01-0070	1	mak	00:14:21;
+
+[CreateBG]=00:14:21	BGS	Event05/05-SE/05-SE-D01/05-SE-D01-003	00:23:11;
+
+[PrintText]=00:14:21	Kotonoha	No es nada, lo siento.	00:17:17;
+
+[PlayVoice]=00:14:21	Voice05/05-KF/05-KF-D01/05-KF-D01-0080	0	kot	00:17:17;
+
+[PrintText]=00:17:17	Makoto	Si te vas a disculpar por esto, no toques el tema en primer lugar.	00:22:09;
+
+[PlayVoice]=00:17:17	Voice05/05-KF/05-KF-D01/05-KF-D01-0090	1	mak	00:22:09;
+
+[PrintText]=00:22:04	Kotonoha	...	00:23:08;
+
+[PlayVoice]=00:22:04	Voice05/05-KF/05-KF-D01/05-KF-D01-0100	0	xxx	00:23:08;
+
+ ;
+
+[Next]=00:23:11;
+
+
+
+

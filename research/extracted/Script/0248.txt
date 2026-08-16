@@ -1,0 +1,22 @@
+﻿[SkipFRAME]=00:08:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:08:13;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/keitai/tyakusin_makoto	00:08:13;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-K01/02-2K-K01-001	00:04:19;
+
+[PrintText]=00:00:00	Makoto	Tal vez... no debí haber hecho eso hoy...	00:04:04;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-K01/02-2K-K01-0030	1	mak	00:04:04;
+
+[PlayMovie]=00:04:19	Movie02/02-2K/02-2K-K01/02-2K-K01-002	0	00:08:13;
+
+ ;
+
+[Next]=00:08:13;
+
+
+
+
+

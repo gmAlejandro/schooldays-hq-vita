@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:32:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:32:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-C05/03-SA-C05-001	00:07:21;
+
+[PrintText]=00:00:06	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:06	Voice03/03-SA/03-SA-C05/03-SA-C05-0030	1	xxx	00:00:23;
+
+[PrintText]=00:01:06	Sekai	...	00:02:09;
+
+[PlayVoice]=00:01:06	Voice03/03-SA/03-SA-C05/03-SA-C05-0040	0	xxx	00:02:09;
+
+[PrintText]=00:02:14	Makoto	Vale, está bien.	00:03:17;
+
+[PlayVoice]=00:02:14	Voice03/03-SA/03-SA-C05/03-SA-C05-0050	1	mak	00:03:17;
+
+[PrintText]=00:04:04	Makoto	¿Iré, vale?^	00:05:11;
+
+[PlayVoice]=00:04:04	Voice03/03-SA/03-SA-C05/03-SA-C05-0070	1	mak	00:05:11;
+
+[PrintText]=00:05:18	Sekai	Uh-huh...	00:07:10;
+
+[PlayVoice]=00:05:18	Voice03/03-SA/03-SA-C05/03-SA-C05-0080	0	sek	00:07:10;
+
+[CreateBG]=00:07:21	BGS	Event03/03-SA/03-SA-C05/03-SA-C05-002	00:14:00;
+
+[PrintText]=00:07:21	Makoto	No... entiendes como me siento para nada ¿No?^	00:14:10;
+
+[PlayVoice]=00:07:21	Voice03/03-SA/03-SA-C05/03-SA-C05-0100	1	mak	00:14:10;
+
+[CreateBG]=00:14:00	BGS	Event03/03-SA/03-SA-C05/03-SA-C05-003	00:22:08;
+
+[PrintText]=00:14:00	Sekai	Eso... no es verdad.	00:16:14;
+
+[PlayVoice]=00:14:00	Voice03/03-SA/03-SA-C05/03-SA-C05-0110	0	sek	00:16:14;
+
+[PrintText]=00:16:20	Makoto	¡Te importan más los sentimientos de Kotonoha que los míos!	00:20:11;
+
+[PlayVoice]=00:16:20	Voice03/03-SA/03-SA-C05/03-SA-C05-0120	1	mak	00:20:11;
+
+[PrintText]=00:20:02	Sekai	No...	00:21:04;
+
+[PlayVoice]=00:20:02	Voice03/03-SA/03-SA-C05/03-SA-C05-0130	0	sek	00:21:04;
+
+[PrintText]=00:21:09	Makoto	Me voy.	00:22:04;
+
+[PlayVoice]=00:21:09	Voice03/03-SA/03-SA-C05/03-SA-C05-0140	1	mak	00:22:04;
+
+[PlaySe]=00:21:22	2	SysSe/SE_all/door/door_kyousitu_open	00:24:06;
+
+[CreateBG]=00:22:08	BGS	Event03/03-SA/03-SA-C05/03-SA-C05-004	00:23:19;
+
+[PrintText]=00:22:08	Sekai	Ah...	00:23:03;
+
+[PlayVoice]=00:22:08	Voice03/03-SA/03-SA-C05/03-SA-C05-0160	0	sek	00:23:03;
+
+[CreateBG]=00:23:19	BGS	Event03/03-SA/03-SA-C05/03-SA-C05-005	00:25:21;
+
+[PrintText]=00:23:20	Sekai	¡Ahh...!	00:24:17;
+
+[PlayVoice]=00:23:20	Voice03/03-SA/03-SA-C05/03-SA-C05-0180	0	sek	00:24:17;
+
+[PlaySe]=00:24:23	2	SysSe/SE_all/door/door_kyousitu_close	00:28:11;
+
+[PlaySe]=00:25:21	1	Voice03/03-SA/03-SA-C05/03-SA-C05-0190	00:31:17;
+
+[CreateBG]=00:25:21	BGS	Event03/03-SA/03-SA-C05/03-SA-C05-006	00:32:22;
+
+[PlaySe]=00:27:23	3	SysSe/SE_all/footsteps/asioto_school	00:32:22;
+
+ ;
+
+[Next]=00:32:22;
+
+

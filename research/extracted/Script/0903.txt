@@ -1,0 +1,191 @@
+﻿[SkipFRAME]=01:51:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:57:18;
+
+[PlaySe]=00:00:00	1	Se04/04-E0/04-E0-A00/SE04-E0-A00-001	01:57:18;
+
+[CreateBG]=00:00:00	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-002	00:08:23;
+
+[PrintText]=00:03:01	Makoto	A pasado tiempo desde que comí en el aula.	00:05:23;
+
+[PlayVoice]=00:03:01	Voice04/04-E0/04-E0-A00/04-E0-A00-0060	1	mak	00:05:23;
+
+[PrintText]=00:05:19	Sekai	Uh-huh.	00:06:13;
+
+[PlayVoice]=00:05:19	Voice04/04-E0/04-E0-A00/04-E0-A00-0070	0	sek	00:06:13;
+
+[PrintText]=00:06:19	Makoto	Solíamos ir siempre hasta el techo, ¿verdad?^	00:08:18;
+
+[PlayVoice]=00:06:19	Voice04/04-E0/04-E0-A00/04-E0-A00-0080	1	mak	00:08:18;
+
+[CreateBG]=00:08:23	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-003	00:15:04;
+
+[PrintText]=00:09:01	Sekai	Bueno, En estos días como hace más frío, tendremos que dejar de ir por un tiempo.	00:15:01;
+
+[PlayVoice]=00:09:01	Voice04/04-E0/04-E0-A00/04-E0-A00-0090	0	sek	00:15:01;
+
+[CreateBG]=00:15:04	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-004	00:33:11;
+
+[PrintText]=00:15:04	Makoto	Supongo que podíamos ponernos una chaqueta y aguantarnos.	00:18:15;
+
+[PlayVoice]=00:15:04	Voice04/04-E0/04-E0-A00/04-E0-A00-0100	1	mak	00:18:15;
+
+[PrintText]=00:18:15	Sekai	Ah, hablando de chaquetas, hay uno en el que estoy interesada ahora.	00:23:12;
+
+[PlayVoice]=00:18:15	Voice04/04-E0/04-E0-A00/04-E0-A00-0110	0	sek	00:23:12;
+
+[PrintText]=00:23:15	Makoto	¿Qué clase de chaqueta?^	00:24:13;
+
+[PlayVoice]=00:23:15	Voice04/04-E0/04-E0-A00/04-E0-A00-0120	1	mak	00:24:13;
+
+[PrintText]=00:24:11	Sekai	Es muy Lindo, con pelaje sintético.	00:27:08;
+
+[PlayVoice]=00:24:11	Voice04/04-E0/04-E0-A00/04-E0-A00-0130	0	sek	00:27:08;
+
+[PrintText]=00:27:10	Makoto	Me gustaría ver eso. Una vez que lo compres, vamos a comer en el techo...	00:32:23;
+
+[PlayVoice]=00:27:10	Voice04/04-E0/04-E0-A00/04-E0-A00-0140	1	mak	00:32:23;
+
+[PrintText]=00:32:21	Sekai	¡Seguro!	00:33:12;
+
+[PlayVoice]=00:32:21	Voice04/04-E0/04-E0-A00/04-E0-A00-0150	0	sek	00:33:12;
+
+[CreateBG]=00:33:11	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-005	00:35:12;
+
+[PrintText]=00:33:16	Otome	Ah... Itou.	00:35:08;
+
+[PlayVoice]=00:33:16	Voice04/04-E0/04-E0-A00/04-E0-A00-0170	0	oto	00:35:08;
+
+[CreateBG]=00:35:12	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-006	00:39:10;
+
+[PrintText]=00:35:13	Makoto	Oh, Katou. Ya no vienes a la clase 3, ¿Qué pasó?^	00:39:08;
+
+[PlayVoice]=00:35:13	Voice04/04-E0/04-E0-A00/04-E0-A00-0180	1	mak	00:39:08;
+
+[CreateBG]=00:39:10	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-007	00:54:02;
+
+[PrintText]=00:39:10	Otome	Estoy repartiendo volantes para mi club. Oh, por cierto,escuche que Itaru-chan vino el otro día.	00:45:02;
+
+[PlayVoice]=00:39:10	Voice04/04-E0/04-E0-A00/04-E0-A00-0190	0	oto	00:45:02;
+
+[PrintText]=00:45:10	Makoto	¿A tu casa?^	00:46:15;
+
+[PlayVoice]=00:45:10	Voice04/04-E0/04-E0-A00/04-E0-A00-0200	1	mak	00:46:15;
+
+[PrintText]=00:47:00	Otome	Ahahah... eso no era la idea original, parece que Karen estaba rondando por nuestro lugar otra vez.	00:53:21;
+
+[PlayVoice]=00:47:00	Voice04/04-E0/04-E0-A00/04-E0-A00-0210	0	oto	00:53:21;
+
+[CreateBG]=00:54:02	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-008	00:55:12;
+
+[PrintText]=00:54:02	Makoto	¿Otra vez? ¿Por qué?^	00:55:08;
+
+[PlayVoice]=00:54:02	Voice04/04-E0/04-E0-A00/04-E0-A00-0220	1	mak	00:55:08;
+
+[CreateBG]=00:55:12	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-009	01:16:05;
+
+[PrintText]=00:55:13	Otome	Su hermano mayor estaba regresando a casa, y ella estuvo matando algo de tiempo.	01:00:03;
+
+[PlayVoice]=00:55:13	Voice04/04-E0/04-E0-A00/04-E0-A00-0230	0	oto	01:00:03;
+
+[PrintText]=00:59:23	Makoto	Geh.	01:01:07;
+
+[PlayVoice]=00:59:23	Voice04/04-E0/04-E0-A00/04-E0-A00-0240	1	mak	01:01:07;
+
+[PrintText]=01:01:00	Otome	Karen dijo que quería venir también.	01:04:02;
+
+[PlayVoice]=01:01:00	Voice04/04-E0/04-E0-A00/04-E0-A00-0250	0	oto	01:04:02;
+
+[PrintText]=01:03:23	Makoto	Uuh... perdón. La próxima vez, iré a disculparme.	01:08:22;
+
+[PlayVoice]=01:03:23	Voice04/04-E0/04-E0-A00/04-E0-A00-0260	1	mak	01:08:22;
+
+[PrintText]=01:08:20	Otome	Debes disculpate si la llegaste a molestar, Solo ven cuando quieras.	01:16:05;
+
+[PlayVoice]=01:08:20	Voice04/04-E0/04-E0-A00/04-E0-A00-0270	0	oto	01:16:05;
+
+[CreateBG]=01:16:05	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-010	01:21:18;
+
+[PrintText]=01:16:07	Makoto	Sí... iré la próxima vez.	01:18:15;
+
+[PlayVoice]=01:16:07	Voice04/04-E0/04-E0-A00/04-E0-A00-0280	1	mak	01:18:15;
+
+[PrintText]=01:18:15	Otome	¡Te estaremos esperando... nos vemos!	01:20:15;
+
+[PlayVoice]=01:18:15	Voice04/04-E0/04-E0-A00/04-E0-A00-0290	0	oto	01:20:15;
+
+[PrintText]=01:20:15	Makoto	Sí.	01:21:04;
+
+[PlayVoice]=01:20:15	Voice04/04-E0/04-E0-A00/04-E0-A00-0300	1	mak	01:21:04;
+
+[CreateBG]=01:21:18	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-012	01:35:21;
+
+[PrintText]=01:22:11	Sekai	¿Quién era?^	01:24:02;
+
+[PlayVoice]=01:22:11	Voice04/04-E0/04-E0-A00/04-E0-A00-0320	0	sek	01:24:02;
+
+[PrintText]=01:24:01	Makoto	Oh, mi compañera de primaria. Su nombre es Katou.	01:27:01;
+
+[PlayVoice]=01:24:01	Voice04/04-E0/04-E0-A00/04-E0-A00-0330	1	mak	01:27:01;
+
+[PrintText]=01:26:23	Sekai	Katou...	01:27:23;
+
+[PlayVoice]=01:26:23	Voice04/04-E0/04-E0-A00/04-E0-A00-0340	0	sek	01:27:23;
+
+[PrintText]=01:28:01	Makoto	Sí.	01:28:15;
+
+[PlayVoice]=01:28:01	Voice04/04-E0/04-E0-A00/04-E0-A00-0350	1	mak	01:28:15;
+
+[PrintText]=01:28:14	Sekai	¿Quién es Karen?^	01:30:06;
+
+[PlayVoice]=01:28:14	Voice04/04-E0/04-E0-A00/04-E0-A00-0360	0	sek	01:30:06;
+
+[PrintText]=01:30:07	Makoto	La hermana pequeña de Katou. El nombre de Katou es Otome.	01:35:05;
+
+[PlayVoice]=01:30:07	Voice04/04-E0/04-E0-A00/04-E0-A00-0370	1	mak	01:35:05;
+
+[PrintText]=01:35:01	Sekai	...	01:35:20;
+
+[PlayVoice]=01:35:01	Voice04/04-E0/04-E0-A00/04-E0-A00-0380	0	xxx	01:35:20;
+
+[CreateBG]=01:35:21	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-013	01:48:02;
+
+[PrintText]=01:35:21	Makoto	¿Qué pasó? ¿La conoces?^	01:38:04;
+
+[PlayVoice]=01:35:21	Voice04/04-E0/04-E0-A00/04-E0-A00-0390	1	mak	01:38:04;
+
+[PrintText]=01:38:03	Sekai	Realmente no...	01:39:18;
+
+[PlayVoice]=01:38:03	Voice04/04-E0/04-E0-A00/04-E0-A00-0400	0	sek	01:39:18;
+
+[PrintText]=01:39:19	Makoto	Es de la clase 4, tienen Educación física juntas ¿No? Tal vez la has visto antes.	01:45:01;
+
+[PlayVoice]=01:39:19	Voice04/04-E0/04-E0-A00/04-E0-A00-0410	1	mak	01:45:01;
+
+[PrintText]=01:44:21	Sekai	Sí...	01:45:18;
+
+[PlayVoice]=01:44:21	Voice04/04-E0/04-E0-A00/04-E0-A00-0420	0	sek	01:45:18;
+
+[PrintText]=01:46:00	Makoto	Parece que algo te molesta...	01:48:04;
+
+[PlayVoice]=01:46:00	Voice04/04-E0/04-E0-A00/04-E0-A00-0430	1	mak	01:48:04;
+
+[CreateBG]=01:48:02	BGS	Event04/04-E0/04-E0-A00/04-E0-A00-014	01:57:18;
+
+[PrintText]=01:48:02	Sekai	Son muy cercanos ¿Cierto?^	01:50:18;
+
+[PlayVoice]=01:48:02	Voice04/04-E0/04-E0-A00/04-E0-A00-0440	0	sek	01:50:18;
+
+[PrintText]=01:50:13	Makoto	¿Tu lo crees?.. pues...	01:53:12;
+
+[PlayVoice]=01:50:13	Voice04/04-E0/04-E0-A00/04-E0-A00-0450	1	mak	01:53:12;
+
+[SetSELECT]=01:51:18	'Claro'	'No realmente..'	01:56:18;
+
+ ;
+
+[Next]=01:57:18;
+
+

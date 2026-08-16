@@ -1,0 +1,253 @@
+﻿[SkipFRAME]=02:04:14;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/gaya/kyousitu_rouka	01:59:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-002	00:04:04;
+
+[PrintText]=00:03:05	Makoto	Ah...	00:03:22;
+
+[PlayVoice]=00:03:05	Voice05/05-5O/05-5O-L04/05-5O-L04-0050	1	mak	00:03:22;
+
+[CreateBG]=00:04:04	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-003	00:05:15;
+
+[PrintText]=00:04:06	Sekai	Makoto.	00:05:11;
+
+[PlayVoice]=00:04:06	Voice05/05-5O/05-5O-L04/05-5O-L04-0060	0	sek	00:05:11;
+
+[CreateBG]=00:05:15	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-002	00:10:20;
+
+[PrintText]=00:05:18	Makoto	¿Sí?^	00:06:10;
+
+[PlayVoice]=00:05:18	Voice05/05-5O/05-5O-L04/05-5O-L04-0070	1	mak	00:06:10;
+
+[PrintText]=00:06:18	Sekai	...	00:08:01;
+
+[PlayVoice]=00:06:18	Voice05/05-5O/05-5O-L04/05-5O-L04-0080	0	xxx	00:08:01;
+
+[PrintText]=00:08:20	Makoto	...	00:09:06;
+
+[PlayVoice]=00:08:20	Voice05/05-5O/05-5O-L04/05-5O-L04-0090	1	xxx	00:09:06;
+
+[CreateBG]=00:10:20	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-003	00:12:09;
+
+[PrintText]=00:10:22	Sekai	¡Te estaré esperando ¿Vale?!	00:12:08;
+
+[PlayVoice]=00:10:22	Voice05/05-5O/05-5O-L04/05-5O-L04-0100	0	sek	00:12:08;
+
+[CreateBG]=00:12:09	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-007B	00:18:22;
+
+[PlayVoice]=00:12:10	Voice05/05-5O/05-5O-L04/05-5O-L04-0110			00:13:09;
+
+[PlaySe]=00:12:15	1	SysSe/SE_all/footsteps/asioto_out_run	00:16:09;
+
+[PrintText]=00:13:21	Makoto	...	00:14:23;
+
+[PlayVoice]=00:13:21	Voice05/05-5O/05-5O-L04/05-5O-L04-0120	1	xxx	00:14:23;
+
+[PrintText]=00:17:19	Makoto	Yo...	00:18:19;
+
+[PlayVoice]=00:17:19	Voice05/05-5O/05-5O-L04/05-5O-L04-0130	1	mak	00:18:19;
+
+[CreateBG]=00:18:22	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-008	00:20:03;
+
+[PrintText]=00:19:00	Taisuke	Makoto.	00:20:00;
+
+[PlayVoice]=00:19:00	Voice05/05-5O/05-5O-L04/05-5O-L04-0140	1	tai	00:20:00;
+
+[CreateBG]=00:20:03	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-007B	00:21:11;
+
+[PrintText]=00:20:05	Makoto	Yo...	00:21:04;
+
+[PlayVoice]=00:20:05	Voice05/05-5O/05-5O-L04/05-5O-L04-0150	1	mak	00:21:04;
+
+[CreateBG]=00:21:11	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-008	00:22:20;
+
+[PrintText]=00:21:13	Taisuke	¡Hey!	00:22:16;
+
+[PlayVoice]=00:21:13	Voice05/05-5O/05-5O-L04/05-5O-L04-0160	1	tai	00:22:16;
+
+[CreateBG]=00:22:20	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-007B	00:24:21;
+
+[PrintText]=00:22:23	Makoto	Yo...	00:23:19;
+
+[PlayVoice]=00:22:23	Voice05/05-5O/05-5O-L04/05-5O-L04-0170	1	mak	00:23:19;
+
+[CreateBG]=00:24:21	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-012	00:29:07;
+
+[PrintText]=00:25:02	Taisuke	Estarás de limpieza.	00:26:20;
+
+[PlayVoice]=00:25:02	Voice05/05-5O/05-5O-L04/05-5O-L04-0180	1	tai	00:26:20;
+
+[PrintText]=00:26:20	Makoto	¿Eh?^	00:27:09;
+
+[PlayVoice]=00:26:20	Voice05/05-5O/05-5O-L04/05-5O-L04-0190	1	mak	00:27:09;
+
+[PrintText]=00:27:14	Taisuke	¿Qué? ¿Estabas pensando irte?^	00:29:07;
+
+[PlayVoice]=00:27:14	Voice05/05-5O/05-5O-L04/05-5O-L04-0200	1	tai	00:29:07;
+
+[CreateBG]=00:29:07	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-013	00:35:15;
+
+[PrintText]=00:30:06	Makoto	Uguh... es solo que me olvidé, nada más.	00:34:10;
+
+[PlayVoice]=00:30:06	Voice05/05-5O/05-5O-L04/05-5O-L04-0210	1	mak	00:34:10;
+
+[BlackFade]=00:34:15	OUT	00:35:15;
+
+[CreateBG]=00:35:15	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-014	00:38:18;
+
+[BlackFade]=00:35:15	IN	00:36:15;
+
+[PrintText]=00:35:19	Taisuke	¡Venga!	00:38:17;
+
+[PlayVoice]=00:35:19	Voice05/05-5O/05-5O-L04/05-5O-L04-0230	1	tai	00:38:17;
+
+[CreateBG]=00:38:18	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-015	00:41:02;
+
+[PrintText]=00:39:00	Hikari	¡Taisuke! ¡Vamos a casa!	00:40:23;
+
+[PlayVoice]=00:39:00	Voice05/05-5O/05-5O-L04/05-5O-L04-0240	0	hik	00:40:23;
+
+[CreateBG]=00:41:02	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-016	00:42:10;
+
+[PrintText]=00:41:04	Taisuke	¡Vale!	00:42:08;
+
+[PlayVoice]=00:41:04	Voice05/05-5O/05-5O-L04/05-5O-L04-0250	1	tai	00:42:08;
+
+[CreateBG]=00:42:10	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-015	00:47:11;
+
+[PrintText]=00:42:11	Hikari	¡Mis padres se tomarán el día libre hoy, dijeron que les gustaría tomar el té con nosotros!	00:47:09;
+
+[PlayVoice]=00:42:11	Voice05/05-5O/05-5O-L04/05-5O-L04-0260	0	hik	00:47:09;
+
+[CreateBG]=00:47:11	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-018	00:50:15;
+
+[PrintText]=00:47:13	Taisuke	Geh... Realmente no soy bueno con ese tipo de cosas.	00:50:15;
+
+[PlayVoice]=00:47:13	Voice05/05-5O/05-5O-L04/05-5O-L04-0270	1	tai	00:50:15;
+
+[CreateBG]=00:50:15	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-019	00:56:22;
+
+[PrintText]=00:50:15	Hikari	¿Qué?^	00:52:03;
+
+[PlayVoice]=00:50:15	Voice05/05-5O/05-5O-L04/05-5O-L04-0280	0	hik	00:52:03;
+
+[PrintText]=00:51:23	Taisuke	¡Hey, solo bromeo! ¡Vamos a tomar el té juntos!	00:54:11;
+
+[PlayVoice]=00:51:23	Voice05/05-5O/05-5O-L04/05-5O-L04-0290	1	tai	00:54:11;
+
+[PrintText]=00:54:11	Hikari	¡Sí, vamos!	00:55:23;
+
+[PlayVoice]=00:54:11	Voice05/05-5O/05-5O-L04/05-5O-L04-0300	0	hik	00:55:23;
+
+[PrintText]=00:55:23	Taisuke	¡Sí! Makoto ¿No vas a casa?^	00:58:23;
+
+[PlayVoice]=00:55:23	Voice05/05-5O/05-5O-L04/05-5O-L04-0320	1	tai	00:58:23;
+
+[CreateBG]=00:56:22	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-020	01:06:11;
+
+[PrintText]=00:58:23	Makoto	Sí... solo estoy pensando en algunas cosas.	01:03:14;
+
+[PlayVoice]=00:58:23	Voice05/05-5O/05-5O-L04/05-5O-L04-0330	1	mak	01:03:14;
+
+[PrintText]=01:03:14	Taisuke	¿Es por Saionji-san y Katsura-san?^	01:06:08;
+
+[PlayVoice]=01:03:14	Voice05/05-5O/05-5O-L04/05-5O-L04-0340	1	tai	01:06:08;
+
+[CreateBG]=01:06:11	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-021	01:14:09;
+
+[PrintText]=01:06:14	Makoto	...	01:07:03;
+
+[PlayVoice]=01:06:14	Voice05/05-5O/05-5O-L04/05-5O-L04-0350	1	xxx	01:07:03;
+
+[PrintText]=01:07:14	Taisuke	Bueno, por el show del almuerzo... has llamado mucho la atención.	01:12:20;
+
+[PlayVoice]=01:07:14	Voice05/05-5O/05-5O-L04/05-5O-L04-0360	1	tai	01:12:20;
+
+[PrintText]=01:13:01	Makoto	Sí, ya lo creo.	01:14:04;
+
+[PlayVoice]=01:13:01	Voice05/05-5O/05-5O-L04/05-5O-L04-0370	1	mak	01:14:04;
+
+[CreateBG]=01:14:09	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-020	01:21:08;
+
+[PrintText]=01:14:12	Taisuke	Probablemente no sea el indicado para decirlo... ¿Por qué no haces lo que tu corazón diga?^	01:21:06;
+
+[PlayVoice]=01:14:12	Voice05/05-5O/05-5O-L04/05-5O-L04-0380	1	tai	01:21:06;
+
+[CreateBG]=01:21:08	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-023	01:28:20;
+
+[PrintText]=01:21:11	Makoto	Sí.	01:22:04;
+
+[PlayVoice]=01:21:11	Voice05/05-5O/05-5O-L04/05-5O-L04-0390	1	mak	01:22:04;
+
+[PrintText]=01:22:09	Taisuke	Al menos ver ese tipo de escenas, hace que el salón tenga un tema de qué hablar.	01:26:22;
+
+[PlayVoice]=01:22:09	Voice05/05-5O/05-5O-L04/05-5O-L04-0400	1	tai	01:26:22;
+
+[PrintText]=01:27:04	Makoto	Dame un respiro...	01:28:20;
+
+[PlayVoice]=01:27:04	Voice05/05-5O/05-5O-L04/05-5O-L04-0410	1	mak	01:28:20;
+
+[CreateBG]=01:28:20	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-024	01:32:07;
+
+[PrintText]=01:29:00	Taisuke	Haha, perdón.	01:30:16;
+
+[PlayVoice]=01:29:00	Voice05/05-5O/05-5O-L04/05-5O-L04-0420	1	tai	01:30:16;
+
+[PrintText]=01:30:20	Makoto	Tengo que decidir de una vez por todas.	01:32:02;
+
+[PlayVoice]=01:30:20	Voice05/05-5O/05-5O-L04/05-5O-L04-0430	1	mak	01:32:02;
+
+[CreateBG]=01:32:07	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-025	01:39:12;
+
+[PrintText]=01:32:10	Taisuke	Ya veo...	01:33:09;
+
+[PlayVoice]=01:32:10	Voice05/05-5O/05-5O-L04/05-5O-L04-0440	1	tai	01:33:09;
+
+[PrintText]=01:33:08	Makoto	Por ahora, voy a pensarlo un poco más.	01:36:14;
+
+[PlayVoice]=01:33:08	Voice05/05-5O/05-5O-L04/05-5O-L04-0450	1	mak	01:36:14;
+
+[PrintText]=01:36:19	Taisuke	Bien... bueno, anímate.	01:39:10;
+
+[PlayVoice]=01:36:19	Voice05/05-5O/05-5O-L04/05-5O-L04-0460	1	tai	01:39:10;
+
+[CreateBG]=01:39:12	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-027	01:51:12;
+
+[PrintText]=01:39:15	Makoto	Sí, gracias. Perdón por preocuparte.	01:45:17;
+
+[PlayVoice]=01:39:15	Voice05/05-5O/05-5O-L04/05-5O-L04-0470	1	mak	01:45:17;
+
+[PlaySe]=01:45:20	1	SysSe/SE_all/footsteps/asioto_school	01:49:07;
+
+[PlaySe]=01:49:05	2	SysSe/SE_all/door/door_kyousitu	01:54:21;
+
+[PlayBgm]=01:51:12	BGM/SD_BGM/sdbgm19	02:04:14;
+
+[CreateBG]=01:51:12	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-014	02:00:14;
+
+[PrintText]=01:54:20	Makoto	Sí... así es.	01:55:13;
+
+[PlayVoice]=01:54:20	Voice05/05-5O/05-5O-L04/05-5O-L04-0500	1	mak	01:55:13;
+
+[PrintText]=01:56:12	Makoto	Tengo que tomar una decisión...	01:59:15;
+
+[PlayVoice]=01:56:12	Voice05/05-5O/05-5O-L04/05-5O-L04-0510	1	mak	01:59:15;
+
+[PlaySe]=01:59:11	1	SysSe/SE_all/gaya/kyousitu_rouka	02:04:14;
+
+[CreateBG]=02:00:14	BGS	Event05/05-5O/05-5O-L04/05-5O-L04-028B	02:04:14;
+
+[PrintText]=02:01:13	Makoto	Yo...	02:02:07;
+
+[PlayVoice]=02:01:13	Voice05/05-5O/05-5O-L04/05-5O-L04-0520	1	mak	02:02:07;
+
+[BlackFade]=02:03:14	OUT	02:04:14;
+
+ ;
+
+[Next]=02:04:14;
+
+

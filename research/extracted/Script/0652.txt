@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:25:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:25:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E09/03-KB-E09-001	00:08:02;
+
+[PrintText]=00:00:00	Makoto	...	00:01:07;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E09/03-KB-E09-0030	1	xxx	00:01:07;
+
+[PrintText]=00:01:08	Taisuke	Makoto.	00:02:08;
+
+[PlayVoice]=00:01:08	Voice03/03-KB/03-KB-E09/03-KB-E09-0040	1	tai	00:02:08;
+
+[PrintText]=00:02:08	Makoto	Uh-huh.	00:03:04;
+
+[PlayVoice]=00:02:08	Voice03/03-KB/03-KB-E09/03-KB-E09-0050	1	mak	00:03:04;
+
+[PrintText]=00:03:04	Taisuke	Iré de todas maneras, aún si salgo rechazado.	00:06:00;
+
+[PlayVoice]=00:03:04	Voice03/03-KB/03-KB-E09/03-KB-E09-0060	1	tai	00:06:00;
+
+[PrintText]=00:06:00	Makoto	...	00:07:00;
+
+[PlayVoice]=00:06:00	Voice03/03-KB/03-KB-E09/03-KB-E09-0070	1	xxx	00:07:00;
+
+[PrintText]=00:07:00	Taisuke	Cualquier cosa que pase, sin problemas ¿Vale?^	00:09:15;
+
+[PlayVoice]=00:07:00	Voice03/03-KB/03-KB-E09/03-KB-E09-0080	1	tai	00:09:15;
+
+[CreateBG]=00:08:02	BGS	Event03/03-KB/03-KB-E09/03-KB-E09-002	00:19:11;
+
+[PrintText]=00:09:16	Makoto	Ah...	00:10:08;
+
+[PlayVoice]=00:09:16	Voice03/03-KB/03-KB-E09/03-KB-E09-0090	1	mak	00:10:08;
+
+[PrintText]=00:10:08	Taisuke	Estarás bien si ella me dice que no ¿Eh? Haha, solo bromeo, nos vemos después.	00:16:22;
+
+[PlayVoice]=00:10:08	Voice03/03-KB/03-KB-E09/03-KB-E09-0100	1	tai	00:16:22;
+
+[PrintText]=00:16:22	Makoto	S-Sí.	00:19:10;
+
+[PlayVoice]=00:16:22	Voice03/03-KB/03-KB-E09/03-KB-E09-0110	1	mak	00:19:10;
+
+[PrintText]=00:19:10	Makoto	Taisuke...	00:20:15;
+
+[PlayVoice]=00:19:10	Voice03/03-KB/03-KB-E09/03-KB-E09-0130	1	mak	00:20:15;
+
+[PlaySe]=00:19:11	1	SysSe/SE_all/keitai/keitai_sousa	00:19:13;
+
+[CreateBG]=00:19:11	BGS	Event03/03-KB/03-KB-E09/03-KB-E09-003	00:25:11;
+
+[PrintText]=00:20:15	Makoto	...	00:21:18;
+
+[PlayVoice]=00:20:15	Voice03/03-KB/03-KB-E09/03-KB-E09-0140	1	xxx	00:21:18;
+
+[PrintText]=00:21:18	Makoto	¿Qué es... lo que quiero..?^	00:25:11;
+
+[PlayVoice]=00:21:18	Voice03/03-KB/03-KB-E09/03-KB-E09-0150	1	mak	00:25:11;
+
+ ;
+
+[Next]=00:25:11;
+
+

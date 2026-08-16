@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:55:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:55:06;
+
+[PlayMovie]=00:00:00	Movie05/05-SB/05-SB-I01/05-SB-I01-003	0	00:02:22;
+
+[PlayMovie]=00:02:22	Movie05/05-KF/05-KF-L00/05-KF-L00-002	0	00:18:22;
+
+[CreateBG]=00:18:22	BGS	Event05/05-KF/05-KF-L00/05-KF-L00-003	00:23:10;
+
+[PrintText]=00:19:01	Kotonoha	...Makoto-kun.	00:20:03;
+
+[PlayVoice]=00:19:01	Voice05/05-KF/05-KF-L00/05-KF-L00-0080	0	kot	00:20:03;
+
+[PrintText]=00:20:10	Makoto	...	00:23:06;
+
+[PlayVoice]=00:20:10	Voice05/05-KF/05-KF-L00/05-KF-L00-0100	1	xxx	00:23:06;
+
+[CreateBG]=00:23:10	BGS	Event05/05-KF/05-KF-L00/05-KF-L00-004	00:30:06;
+
+[PrintText]=00:23:16	Kotonoha	Por favor paga las luces. Es vergonzoso...	00:30:00;
+
+[PlayVoice]=00:23:16	Voice05/05-KF/05-KF-L00/05-KF-L00-0110	0	kot	00:30:00;
+
+[PlayMovie]=00:30:06	Movie05/05-KF/05-KF-L00/05-KF-L00-005	0	00:37:12;
+
+[PrintText]=00:34:07	Makoto	...	00:37:11;
+
+[PlayVoice]=00:34:07	Voice05/05-KF/05-KF-L00/05-KF-L00-0120	1	xxx	00:37:11;
+
+[PlayMovie]=00:37:12	Movie05/05-KF/05-KF-L00/05-KF-L00-007	0	00:42:11;
+
+[PrintText]=00:37:18	Kotonoha	Makoto-kun... Te amo...	00:42:04;
+
+[PlayVoice]=00:37:18	Voice05/05-KF/05-KF-L00/05-KF-L00-0150	0	kot	00:42:04;
+
+[CreateBG]=00:42:11	BGS	Event05/05-KF/05-KF-L00/05-KF-L00-008	00:45:10;
+
+[PrintText]=00:42:14	Makoto	Yo...	00:45:06;
+
+[PlayVoice]=00:42:14	Voice05/05-KF/05-KF-L00/05-KF-L00-0160	1	mak	00:45:06;
+
+[CreateBG]=00:45:10	BGS	Event05/05-KF/05-KF-L00/05-KF-L00-009	00:47:02;
+
+[PrintText]=00:45:17	Kotonoha	¡Ah!	00:46:21;
+
+[PlayVoice]=00:45:17	Voice05/05-KF/05-KF-L00/05-KF-L00-0210	0	kot	00:46:21;
+
+[PlayMovie]=00:47:02	Movie05/05-KF/05-KF-L00/05-KF-L00-010	0	00:55:06;
+
+[PrintText]=00:50:16	Kotonoha	¡Nn... mmn... nn...!	00:54:22;
+
+[PlayVoice]=00:50:16	Voice05/05-KF/05-KF-L00/05-KF-L00-0230	0	kot	00:54:22;
+
+[BlackFade]=00:54:06	OUT	00:55:06;
+
+ ;
+
+[Next]=00:55:06;
+
+
+
+

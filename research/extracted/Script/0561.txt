@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:16:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:16:14;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G06/SE03-KA-G06-001	00:16:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G06/03-KA-G06-001	00:01:14;
+
+[PrintText]=00:00:00	Makoto	...Lo sé.	00:01:06;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-G06/03-KA-G06-0030	1	mak	00:01:06;
+
+[CreateBG]=00:01:15	BGS	Event03/03-KA/03-KA-G06/03-KA-G06-002	00:05:16;
+
+[PrintText]=00:01:21	Makoto	Creo que está en el campo...	00:05:06;
+
+[PlayVoice]=00:01:21	Voice03/03-KA/03-KA-G06/03-KA-G06-0040	1	xxx	00:05:06;
+
+[CreateBG]=00:05:16	BGS	Event03/03-KA/03-KA-G06/03-KA-G06-003	00:07:06;
+
+[PrintText]=00:05:22	Setsuna	¿Pero no puedes ir a verla?^	00:06:23;
+
+[PlayVoice]=00:05:22	Voice03/03-KA/03-KA-G06/03-KA-G06-0050	0	set	00:06:23;
+
+[CreateBG]=00:07:06	BGS	Event03/03-KA/03-KA-G06/03-KA-G06-004	00:08:07;
+
+[PrintText]=00:07:07	Makoto	Uuh...	00:07:22;
+
+[PlayVoice]=00:07:07	Voice03/03-KA/03-KA-G06/03-KA-G06-0060	1	mak	00:07:22;
+
+[CreateBG]=00:08:07	BGS	Event03/03-KA/03-KA-G06/03-KA-G06-005	00:09:20;
+
+[PrintText]=00:08:16	Setsuna	¿Discutieron?^	00:09:15;
+
+[PlayVoice]=00:08:16	Voice03/03-KA/03-KA-G06/03-KA-G06-0070	0	set	00:09:15;
+
+[CreateBG]=00:09:20	BGS	Event03/03-KA/03-KA-G06/03-KA-G06-006	00:13:13;
+
+[PrintText]=00:10:05	Makoto	...Nada de tu incumbencia.	00:13:11;
+
+[PlayVoice]=00:10:05	Voice03/03-KA/03-KA-G06/03-KA-G06-0080	1	mak	00:13:11;
+
+[CreateBG]=00:13:13	BGS	Event03/03-KA/03-KA-G06/03-KA-G06-007	00:16:14;
+
+[PrintText]=00:14:06	Setsuna	...Uh-huh.	00:14:23;
+
+[PlayVoice]=00:14:06	Voice03/03-KA/03-KA-G06/03-KA-G06-0090	0	set	00:14:23;
+
+[BlackFade]=00:15:14	OUT	00:16:14;
+
+ ;
+
+[Next]=00:16:14;
+
+

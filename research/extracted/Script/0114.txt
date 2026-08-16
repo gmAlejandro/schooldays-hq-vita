@@ -1,0 +1,32 @@
+﻿[SkipFRAME]=00:07:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:07:11;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-P01/SE01-00-P01-001	00:04:00;
+
+[PlayMovie]=00:00:00	Movie01/01-00/01-00-P01/01-00-P01-001	0	00:03:00;
+
+[PrintText]=00:00:23	Kotonoha	Haah...	00:02:04;
+
+[PlayVoice]=00:00:23	Voice01/01-00/01-00-P01/01-00-P01-0060	0	kot	00:02:04;
+
+[PlaySe]=00:03:00	2	Se01/01-00/01-00-P01/SE01-00-P01-001	00:07:11;
+
+[PlayMovie]=00:03:00	Movie01/01-00/01-00-P01/01-00-P01-002	0	00:07:11;
+
+[PrintText]=00:03:00	Kotonoha	Me pregunto... si él me odia ahora...	00:06:02;
+
+[PlayVoice]=00:03:00	Voice01/01-00/01-00-P01/01-00-P01-0070	0	kot	00:06:02;
+
+[PrintText]=00:06:10	Kotonoha	Haah...	00:07:07;
+
+[PlayVoice]=00:06:10	Voice01/01-00/01-00-P01/01-00-P01-0090	0	kot	00:07:07;
+
+[BlackFade]=00:06:11	OUT	00:07:11;
+
+ ;
+
+[Next]=00:07:11;
+
+
+

@@ -1,0 +1,90 @@
+﻿[SkipFRAME]=00:42:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:42:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-G00/05-SB-G00-001	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event05/05-SB/05-SB-G00/05-SB-G00-002	00:16:17;
+
+[PrintText]=00:03:05	Sekai	Lo siento...	00:05:17;
+
+[PlayVoice]=00:03:05	Voice05/05-SB/05-SB-G00/05-SB-G00-0040	0	sek	00:05:17;
+
+[PrintText]=00:05:18	Makoto	Está bien. Solo descansa.	00:09:01;
+
+[PlayVoice]=00:05:18	Voice05/05-SB/05-SB-G00/05-SB-G00-0050	1	mak	00:09:01;
+
+[PrintText]=00:09:01	Sekai	Vale...	00:09:20;
+
+[PlayVoice]=00:09:01	Voice05/05-SB/05-SB-G00/05-SB-G00-0060	0	sek	00:09:20;
+
+[PrintText]=00:09:21	Makoto	...	00:12:04;
+
+[PlayVoice]=00:09:21	Voice05/05-SB/05-SB-G00/05-SB-G00-0070	1	xxx	00:12:04;
+
+[PrintText]=00:12:03	Sekai	Makoto...	00:13:11;
+
+[PlayVoice]=00:12:03	Voice05/05-SB/05-SB-G00/05-SB-G00-0080	0	sek	00:13:11;
+
+[PrintText]=00:13:12	Makoto	¿Sí?^	00:15:11;
+
+[PlayVoice]=00:13:12	Voice05/05-SB/05-SB-G00/05-SB-G00-0090	1	mak	00:15:11;
+
+[PrintText]=00:15:10	Sekai	Dormiré ¿Vale?^	00:16:11;
+
+[PlayVoice]=00:15:10	Voice05/05-SB/05-SB-G00/05-SB-G00-0100	0	sek	00:16:11;
+
+[CreateBG]=00:16:17	BGS	Event05/05-SB/05-SB-G00/05-SB-G00-003	00:27:00;
+
+[PrintText]=00:16:20	Makoto	Creo que será lo mejor.	00:19:08;
+
+[PlayVoice]=00:16:20	Voice05/05-SB/05-SB-G00/05-SB-G00-0110	1	mak	00:19:08;
+
+[PrintText]=00:19:22	Sekai	Así que...	00:20:22;
+
+[PlayVoice]=00:19:22	Voice05/05-SB/05-SB-G00/05-SB-G00-0120	0	sek	00:20:22;
+
+[PrintText]=00:20:22	Makoto	¿Hmn?^	00:22:08;
+
+[PlayVoice]=00:20:22	Voice05/05-SB/05-SB-G00/05-SB-G00-0130	1	mak	00:22:08;
+
+[PrintText]=00:22:08	Sekai	...	00:24:11;
+
+[PlayVoice]=00:22:08	Voice05/05-SB/05-SB-G00/05-SB-G00-0140	0	xxx	00:24:11;
+
+[PrintText]=00:24:12	Makoto	¿Qué pasa?^	00:26:22;
+
+[PlayVoice]=00:24:12	Voice05/05-SB/05-SB-G00/05-SB-G00-0150	1	mak	00:26:22;
+
+[PlayMovie]=00:27:00	Movie05/05-SB/05-SB-G00/05-SB-G00-003	0	00:33:06;
+
+[PrintText]=00:27:15	Sekai	Sostén mi mano mientras duermo.	00:30:21;
+
+[PlayVoice]=00:27:15	Voice05/05-SB/05-SB-G00/05-SB-G00-0160	0	sek	00:30:21;
+
+[PrintText]=00:30:21	Makoto	Seguro.	00:33:02;
+
+[PlayVoice]=00:30:21	Voice05/05-SB/05-SB-G00/05-SB-G00-0170	1	mak	00:33:02;
+
+[CreateBG]=00:33:06	BGS	Event05/05-SB/05-SB-G00/05-SB-G00-002	00:36:21;
+
+[PrintText]=00:33:09	Sekai	Gracias.	00:35:10;
+
+[PlayVoice]=00:33:09	Voice05/05-SB/05-SB-G00/05-SB-G00-0190	0	sek	00:35:10;
+
+[PrintText]=00:36:05	Sekai	...ZzzZZzz...	00:36:15;
+
+[PlayVoice]=00:36:05	Voice05/05-SB/05-SB-G00/05-SB-G00-0210	0	sek	00:36:15;
+
+[CreateBG]=00:36:21	BGS	Event05/05-SB/05-SB-G00/05-SB-G00-001	00:42:22;
+
+[PrintText]=00:37:10	Makoto	Sekai...	00:39:21;
+
+[PlayVoice]=00:37:10	Voice05/05-SB/05-SB-G00/05-SB-G00-0230	1	mak	00:39:21;
+
+ ;
+
+[Next]=00:42:22;
+
+
+

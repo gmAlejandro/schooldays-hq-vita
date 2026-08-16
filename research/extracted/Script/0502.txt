@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:35:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:35:10;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-I03/SE03-BK-I03-001	00:18:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-I03/03-BK-I03-001	00:10:03;
+
+[PrintText]=00:00:00	Sekai	...Makoto.	00:01:12;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-I03/03-BK-I03-0040	0	sek	00:01:12;
+
+[PrintText]=00:01:18	Makoto	...	00:02:21;
+
+[PlayVoice]=00:01:18	Voice03/03-BK/03-BK-I03/03-BK-I03-0050	1	xxx	00:02:21;
+
+[PrintText]=00:03:10	Sekai	Eres un buen chico...	00:05:03;
+
+[PlayVoice]=00:03:10	Voice03/03-BK/03-BK-I03/03-BK-I03-0060	0	sek	00:05:03;
+
+[PrintText]=00:05:08	Makoto	...	00:06:04;
+
+[PlayVoice]=00:05:08	Voice03/03-BK/03-BK-I03/03-BK-I03-0070	1	xxx	00:06:04;
+
+[PrintText]=00:06:18	Sekai	Pero... eso no está bien...	00:10:02;
+
+[PlayVoice]=00:06:18	Voice03/03-BK/03-BK-I03/03-BK-I03-0080	0	sek	00:10:02;
+
+[PlayMovie]=00:10:03	Movie03/03-BK/03-BK-I03/03-BK-I03-002	0	00:35:09;
+
+[PrintText]=00:10:14	Makoto	...	00:11:19;
+
+[PlayVoice]=00:10:14	Voice03/03-BK/03-BK-I03/03-BK-I03-0090	1	xxx	00:11:19;
+
+[PrintText]=00:12:14	Sekai	Si sigues siendo bueno conmigo... no podré renunciar a ti...	00:17:14;
+
+[PlayVoice]=00:12:14	Voice03/03-BK/03-BK-I03/03-BK-I03-0100	0	sek	00:17:14;
+
+[PrintText]=00:18:05	Makoto	...	00:19:04;
+
+[PlayVoice]=00:18:05	Voice03/03-BK/03-BK-I03/03-BK-I03-0110	1	xxx	00:19:04;
+
+[PlaySe]=00:18:20	2	Se03/03-BK/03-BK-I03/SE03-BK-I03-001	00:35:10;
+
+[PrintText]=00:19:23	Sekai	Y si no renuncio a ti... puedo causarte problemas... si sigo enamorada de ti...	00:33:18;
+
+[PlayVoice]=00:19:23	Voice03/03-BK/03-BK-I03/03-BK-I03-0120	0	sek	00:33:18;
+
+[BlackFade]=00:34:10	OUT	00:35:10;
+
+ ;
+
+[Next]=00:35:10;
+
+

@@ -1,0 +1,149 @@
+﻿[SkipFRAME]=01:06:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:12:06;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E00/SE01-00-E00-001	01:09:06;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-G00/00-00-G00-013	0	00:04:00;
+
+[PrintText]=00:02:08	Kotonoha	Ah...	00:03:18;
+
+[PlayVoice]=00:02:08	Voice01/01-00/01-00-E00/01-00-E00-0040	0	kot	00:03:18;
+
+[CreateBG]=00:04:00	BGS	Event01/01-00/01-00-E00/01-00-E00-002	00:05:07;
+
+[CreateBG]=00:05:07	BGS	Event01/01-00/01-00-E00/01-00-E00-003	00:06:11;
+
+[CreateBG]=00:06:11	BGS	Event01/01-00/01-00-E00/01-00-E00-004	00:11:13;
+
+[PrintText]=00:06:17	Sekai	¡Hora de comer!	00:08:18;
+
+[PlayVoice]=00:06:17	Voice01/01-00/01-00-E00/01-00-E00-0080	0	sek	00:08:18;
+
+[PrintText]=00:08:17	Kotonoha	Vamos a comer.	00:10:02;
+
+[PlayVoice]=00:08:17	Voice01/01-00/01-00-E00/01-00-E00-0090	0	kot	00:10:02;
+
+[PrintText]=00:09:23	Makoto	Mmf...	00:12:16;
+
+[PlayVoice]=00:09:23	Voice01/01-00/01-00-E00/01-00-E00-0100	1	mak	00:12:16;
+
+[CreateBG]=00:11:13	BGS	Event01/01-00/01-00-E00/01-00-E00-005	00:16:07;
+
+[PrintText]=00:11:13	Sekai	Ah... ni siquiera das las gracias.	00:15:12;
+
+[PlayVoice]=00:11:13	Voice01/01-00/01-00-E00/01-00-E00-0110	0	sek	00:15:12;
+
+[PrintText]=00:15:05	Makoto	Como si importara.	00:16:13;
+
+[PlayVoice]=00:15:05	Voice01/01-00/01-00-E00/01-00-E00-0120	1	mak	00:16:13;
+
+[CreateBG]=00:16:07	BGS	Event01/01-00/01-00-E00/01-00-E00-006	00:21:11;
+
+[PrintText]=00:16:07	Sekai	Importa...	00:17:12;
+
+[PlayVoice]=00:16:07	Voice01/01-00/01-00-E00/01-00-E00-0130	0	sek	00:17:12;
+
+[PrintText]=00:17:18	Makoto	Fwouay... meer.	00:20:14;
+
+[PlayVoice]=00:17:18	Voice01/01-00/01-00-E00/01-00-E00-0140	1	mak	00:20:14;
+
+[PrintText]=00:20:12	Sekai	Bien...	00:21:09;
+
+[PlayVoice]=00:20:12	Voice01/01-00/01-00-E00/01-00-E00-0150	0	sek	00:21:09;
+
+[CreateBG]=00:21:11	BGS	Event01/01-00/01-00-E00/01-00-E00-007	00:35:14;
+
+[PrintText]=00:21:11	Makoto	Cielos... oh, tu almuerzo luce sabroso como siempre.	00:28:13;
+
+[PlayVoice]=00:21:11	Voice01/01-00/01-00-E00/01-00-E00-0160	1	mak	00:28:13;
+
+[PrintText]=00:28:11	Sekai	Bueno, mi mamá lo hizo hoy.	00:31:04;
+
+[PlayVoice]=00:28:11	Voice01/01-00/01-00-E00/01-00-E00-0170	0	sek	00:31:04;
+
+[PrintText]=00:30:23	Makoto	En ese caso, se ve muy sabroso.	00:32:11;
+
+[PlayVoice]=00:30:23	Voice01/01-00/01-00-E00/01-00-E00-0180	1	mak	00:32:11;
+
+[PrintText]=00:32:08	Sekai	¿A qué te refieres con decir 'En ese caso'?^	00:34:00;
+
+[PlayVoice]=00:32:08	Voice01/01-00/01-00-E00/01-00-E00-0190	0	sek	00:34:00;
+
+[PrintText]=00:33:15	Makoto	Haha...Tomaré este omelette.	00:36:09;
+
+[PlayVoice]=00:33:15	Voice01/01-00/01-00-E00/01-00-E00-0200	1	mak	00:36:09;
+
+[CreateBG]=00:35:14	BGS	Event01/01-00/01-00-E00/01-00-E00-008	00:45:18;
+
+[PrintText]=00:35:14	Sekai	¡Ahh!	00:36:12;
+
+[PlayVoice]=00:35:14	Voice01/01-00/01-00-E00/01-00-E00-0210	0	sek	00:36:12;
+
+[PrintText]=00:36:09	Makoto	Mmn... delicioso.	00:39:20;
+
+[PlayVoice]=00:36:09	Voice01/01-00/01-00-E00/01-00-E00-0220	1	mak	00:39:20;
+
+[PrintText]=00:39:16	Sekai	Cielos... no tienes remedio, mira la persona que es, Katsura-San.	00:46:03;
+
+[PlayVoice]=00:39:16	Voice01/01-00/01-00-E00/01-00-E00-0230	0	sek	00:46:03;
+
+[CreateBG]=00:45:18	BGS	Event01/01-00/01-00-E00/01-00-E00-009	00:47:04;
+
+[PrintText]=00:45:18	Kotonoha	Ufufu...	00:47:11;
+
+[PlayVoice]=00:45:18	Voice01/01-00/01-00-E00/01-00-E00-0240	0	kot	00:47:11;
+
+[PrintText]=00:47:01	Makoto	Oh, Cállate. Voy a comer más.	00:49:08;
+
+[PlayVoice]=00:47:01	Voice01/01-00/01-00-E00/01-00-E00-0250	1	mak	00:49:08;
+
+[CreateBG]=00:47:04	BGS	Event01/01-00/01-00-E00/01-00-E00-010	00:49:05;
+
+[CreateBG]=00:49:05	BGS	Event01/01-00/01-00-E00/01-00-E00-011	00:50:22;
+
+[PrintText]=00:49:05	Kotonoha	Ah... Itou-kun.	00:51:09;
+
+[PlayVoice]=00:49:05	Voice01/01-00/01-00-E00/01-00-E00-0260	0	kot	00:51:09;
+
+[CreateBG]=00:50:22	BGS	Event01/01-00/01-00-E00/01-00-E00-012	00:55:13;
+
+[PrintText]=00:50:22	Makoto	¿Dime?^	00:51:10;
+
+[PlayVoice]=00:50:22	Voice01/01-00/01-00-E00/01-00-E00-0270	1	mak	00:51:10;
+
+[PrintText]=00:52:06	Kotonoha	Toma un poco del mio, también.	00:54:19;
+
+[PlayVoice]=00:52:06	Voice01/01-00/01-00-E00/01-00-E00-0280	0	kot	00:54:19;
+
+[PrintText]=00:54:16	Makoto	¡¿Eh?!	00:55:10;
+
+[PlayVoice]=00:54:16	Voice01/01-00/01-00-E00/01-00-E00-0290	1	mak	00:55:10;
+
+[CreateBG]=00:55:13	BGS	Event01/01-00/01-00-E00/01-00-E00-013	01:05:16;
+
+[PrintText]=00:55:14	Kotonoha	Es el club del sandwich.	00:57:03;
+
+[PlayVoice]=00:55:14	Voice01/01-00/01-00-E00/01-00-E00-0300	0	kot	00:57:03;
+
+[PrintText]=00:57:03	Kotonoha	Suelo comprarlo en la panadería al frente de la estación, pero este está hecho con levadura natural, está muy bueno.	01:05:18;
+
+[PlayVoice]=00:57:03	Voice01/01-00/01-00-E00/01-00-E00-0301	0	kot	01:05:18;
+
+[CreateBG]=01:05:16	BGS	Event01/01-00/01-00-E00/01-00-E00-014	01:12:06;
+
+[PrintText]=01:05:16	Makoto	Wow...	01:06:18;
+
+[PlayVoice]=01:05:16	Voice01/01-00/01-00-E00/01-00-E00-0310	1	mak	01:06:18;
+
+[SetSELECT]=01:06:06	*Lo Tomaré*	null	01:11:06;
+
+[PlaySe]=01:06:19	2	Se01/01-00/01-00-E00/SE01-00-E00-001	01:12:06;
+
+ ;
+
+[Next]=01:12:06;
+
+
+
+

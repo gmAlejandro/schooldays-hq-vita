@@ -1,0 +1,255 @@
+﻿[SkipFRAME]=02:13:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	02:13:16;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-A00/SE03-KA-A00-001	00:24:23;
+
+[PlayMovie]=00:00:00	Movie03/03-KA/03-KA-A00/03-KA-A00-001	0	00:02:14;
+
+[PrintText]=00:00:12	Kotonoha	Phew...	00:01:04;
+
+[PlayVoice]=00:00:12	Voice03/03-KA/03-KA-A00/03-KA-A00-0040	0	kot	00:01:04;
+
+[PrintText]=00:01:07	Madre de Kotonoha	¡Kotonoha!	00:02:14;
+
+[PlayVoice]=00:01:07	Voice03/03-KA/03-KA-A00/03-KA-A00-0060	0	man	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-002	00:06:03;
+
+[PrintText]=00:02:14	Kotonoha	¡Estoy en el baño!	00:04:10;
+
+[PlayVoice]=00:02:14	Voice03/03-KA/03-KA-A00/03-KA-A00-0070	0	kot	00:04:10;
+
+[PrintText]=00:04:10	Madre de Kotonoha	Te he traído el teléfono.	00:06:02;
+
+[PlayVoice]=00:04:10	Voice03/03-KA/03-KA-A00/03-KA-A00-0080	0	man	00:06:02;
+
+[CreateBG]=00:06:03	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-003	00:08:00;
+
+[PrintText]=00:06:03	Kotonoha	¿Eh? Espero, ¿Por qué me has traído el teléfono?^	00:11:07;
+
+[PlayVoice]=00:06:03	Voice03/03-KA/03-KA-A00/03-KA-A00-0090	0	kot	00:11:07;
+
+[CreateBG]=00:08:00	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-008	00:19:07;
+
+[PrintText]=00:11:07	Madre de Kotonoha	Se llama 'Itou Makoto-kun' ¿Creo no? Parece ser un buen chico.	00:15:11;
+
+[PlayVoice]=00:11:07	Voice03/03-KA/03-KA-A00/03-KA-A00-0100	0	man	00:15:11;
+
+[PrintText]=00:15:10	Kotonoha	¿Eh...?^	00:16:06;
+
+[PlayVoice]=00:15:10	Voice03/03-KA/03-KA-A00/03-KA-A00-0110	0	kot	00:16:06;
+
+[PrintText]=00:16:06	Madre de Kotonoha	Eh escuchado mucho de Makoto-kun.	00:19:06;
+
+[PlayVoice]=00:16:06	Voice03/03-KA/03-KA-A00/03-KA-A00-0120	0	man	00:19:06;
+
+[PrintText]=00:19:05	Kotonoha	¡Mamá! ¡¿Hablaste con él?!	00:21:23;
+
+[PlayVoice]=00:19:05	Voice03/03-KA/03-KA-A00/03-KA-A00-0130	0	kot	00:21:23;
+
+[CreateBG]=00:19:07	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-005	00:26:15;
+
+[PrintText]=00:21:23	Madre de Kotonoha	Bueno, lo habías dejado en la sala.	00:24:22;
+
+[PlayVoice]=00:21:23	Voice03/03-KA/03-KA-A00/03-KA-A00-0150	0	man	00:24:22;
+
+[PlaySe]=00:24:18	2	Se03/03-KA/03-KA-A00/SE03-KA-A00-001	00:49:17;
+
+[PrintText]=00:24:21	Kotonoha	No deberías hacer eso!	00:26:14;
+
+[PlayVoice]=00:24:21	Voice03/03-KA/03-KA-A00/03-KA-A00-0160	0	kot	00:26:14;
+
+[CreateBG]=00:26:15	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-006	00:33:22;
+
+[PrintText]=00:26:15	Madre de Kotonoha	Vamos ¿Vas a responder o continuo conversando con él?^	00:31:15;
+
+[PlayVoice]=00:26:15	Voice03/03-KA/03-KA-A00/03-KA-A00-0170	0	man	00:31:15;
+
+[PrintText]=00:31:15	Kotonoha	¡Ooh... contestaré!	00:33:22;
+
+[PlayVoice]=00:31:15	Voice03/03-KA/03-KA-A00/03-KA-A00-0180	0	kot	00:33:22;
+
+[CreateBG]=00:33:22	BGS	Event02/02-2S/02-2S-A03/02-2S-A03-008	00:40:01;
+
+[PrintText]=00:33:22	Madre de Kotonoha	Asegurate de traerlo a casa alguna vez.	00:36:11;
+
+[PlayVoice]=00:33:22	Voice03/03-KA/03-KA-A00/03-KA-A00-0200	0	man	00:36:11;
+
+[PrintText]=00:36:11	Kotonoha	¡Mamá!	00:38:00;
+
+[PlayVoice]=00:36:11	Voice03/03-KA/03-KA-A00/03-KA-A00-0210	0	kot	00:38:00;
+
+[PrintText]=00:38:00	Madre de Kotonoha	Vale, vale.	00:39:04;
+
+[PlayVoice]=00:38:00	Voice03/03-KA/03-KA-A00/03-KA-A00-0220	0	man	00:39:04;
+
+[PlayMovie]=00:40:01	Movie03/03-KA/03-KA-A00/H3-KA-A00-009	0	00:55:15;
+
+[PrintText]=00:40:05	Kotonoha	¿...Makoto-kun?^	00:41:14;
+
+[PlayVoice]=00:40:05	Voice03/03-KA/03-KA-A00/03-KA-A00-0240	0	kot	00:41:14;
+
+[PrintText]=00:41:14	Makoto	Sí.	00:42:08;
+
+[PlayVoice]=00:41:14	Voice03/03-KA/03-KA-A00/03-KA-A00-0250	1	mak	00:42:08;
+
+[PrintText]=00:42:08	Kotonoha	Lo siento, mi madre cogió el teléfono ¿No?^	00:45:13;
+
+[PlayVoice]=00:42:08	Voice03/03-KA/03-KA-A00/03-KA-A00-0260	0	kot	00:45:13;
+
+[PrintText]=00:45:13	Makoto	Sí, estaba bastante asombrado.	00:47:02;
+
+[PlayVoice]=00:45:13	Voice03/03-KA/03-KA-A00/03-KA-A00-0270	1	mak	00:47:02;
+
+[PrintText]=00:47:02	Kotonoha	¡Lo siento!	00:49:07;
+
+[PlayVoice]=00:47:02	Voice03/03-KA/03-KA-A00/03-KA-A00-0280	0	kot	00:49:07;
+
+[PrintText]=00:49:07	Makoto	Está bien. Tu mamá es muy agradable ¿No? Fue interesante.	00:55:15;
+
+[PlayVoice]=00:49:07	Voice03/03-KA/03-KA-A00/03-KA-A00-0290	1	mak	00:55:15;
+
+[PlaySe]=00:49:12	1	Se03/03-KA/03-KA-A00/SE03-KA-A00-001	01:14:11;
+
+[CreateBG]=00:55:15	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-011	01:05:22;
+
+[PrintText]=00:55:15	Kotonoha	Uuu...	00:57:13;
+
+[PlayVoice]=00:55:15	Voice03/03-KA/03-KA-A00/03-KA-A00-0300	0	kot	00:57:13;
+
+[PrintText]=00:57:13	Makoto	Es completamente diferente a mi madre. Incluso parecía que se estaba divirtiendo.	01:01:18;
+
+[PlayVoice]=00:57:13	Voice03/03-KA/03-KA-A00/03-KA-A00-0310	1	mak	01:01:18;
+
+[PrintText]=01:01:18	Kotonoha	Solo disfrutaba la situación...	01:04:15;
+
+[PlayVoice]=01:01:18	Voice03/03-KA/03-KA-A00/03-KA-A00-0320	0	kot	01:04:15;
+
+[PrintText]=01:04:14	Makoto	Ya veo.	01:05:22;
+
+[PlayVoice]=01:04:14	Voice03/03-KA/03-KA-A00/03-KA-A00-0330	1	mak	01:05:22;
+
+[CreateBG]=01:05:22	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-012	01:13:08;
+
+[PrintText]=01:05:22	Kotonoha	Makoto-kun.	01:07:02;
+
+[PlayVoice]=01:05:22	Voice03/03-KA/03-KA-A00/03-KA-A00-0340	0	kot	01:07:02;
+
+[PrintText]=01:07:03	Makoto	¿Hmn?^	01:07:17;
+
+[PlayVoice]=01:07:03	Voice03/03-KA/03-KA-A00/03-KA-A00-0350	1	mak	01:07:17;
+
+[PrintText]=01:07:16	Kotonoha	¿Dónde crees que estoy ahora?^	01:10:15;
+
+[PlayVoice]=01:07:16	Voice03/03-KA/03-KA-A00/03-KA-A00-0360	0	kot	01:10:15;
+
+[PrintText]=01:10:15	Makoto	Eh... ¿Dónde estás?^	01:13:08;
+
+[PlayVoice]=01:10:15	Voice03/03-KA/03-KA-A00/03-KA-A00-0370	1	mak	01:13:08;
+
+[PlayMovie]=01:13:08	Movie03/03-KA/03-KA-A00/03-KA-A00-013	0	01:23:15;
+
+[PrintText]=01:13:08	Kotonoha	Ufufu...	01:14:18;
+
+[PlayVoice]=01:13:08	Voice03/03-KA/03-KA-A00/03-KA-A00-0380	0	kot	01:14:18;
+
+[PlaySe]=01:14:07	2	Se03/03-KA/03-KA-A00/SE03-KA-A00-001	01:39:06;
+
+[PrintText]=01:14:18	Makoto	Hay mucho eco por ahí... y sonido de... ¿Agua?^	01:22:23;
+
+[PlayVoice]=01:14:18	Voice03/03-KA/03-KA-A00/03-KA-A00-0390	1	mak	01:22:23;
+
+[PrintText]=01:22:23	Kotonoha	Uh-huh.	01:23:14;
+
+[PlayVoice]=01:22:23	Voice03/03-KA/03-KA-A00/03-KA-A00-0400	0	kot	01:23:14;
+
+[PrintText]=01:23:14	Makoto	Podría ser... ¿Estás en el baño?^	01:27:08;
+
+[PlayVoice]=01:23:14	Voice03/03-KA/03-KA-A00/03-KA-A00-0410	1	mak	01:27:08;
+
+[CreateBG]=01:23:15	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-014	01:31:04;
+
+[PrintText]=01:27:08	Kotonoha	Así es.	01:28:12;
+
+[PlayVoice]=01:27:08	Voice03/03-KA/03-KA-A00/03-KA-A00-0420	0	kot	01:28:12;
+
+[PrintText]=01:28:12	Makoto	¡¿Eh?! ¿Estabas tomando un baño?^	01:31:03;
+
+[PlayVoice]=01:28:12	Voice03/03-KA/03-KA-A00/03-KA-A00-0430	1	mak	01:31:03;
+
+[PlayMovie]=01:31:04	Movie03/03-KA/03-KA-A00/03-KA-A00-015	0	01:41:17;
+
+[PrintText]=01:31:04	Kotonoha	Aún estoy tomando un baño.	01:32:22;
+
+[PlayVoice]=01:31:04	Voice03/03-KA/03-KA-A00/03-KA-A00-0440	0	kot	01:32:22;
+
+[PrintText]=01:32:22	Makoto	¿Entonces estás d... de...d... des...?^	01:38:11;
+
+[PlayVoice]=01:32:22	Voice03/03-KA/03-KA-A00/03-KA-A00-0450	1	mak	01:38:11;
+
+[PrintText]=01:38:11	Kotonoha	Es un secreto.	01:40:15;
+
+[PlayVoice]=01:38:11	Voice03/03-KA/03-KA-A00/03-KA-A00-0460	0	kot	01:40:15;
+
+[PlaySe]=01:39:00	1	Se03/03-KA/03-KA-A00/SE03-KA-A00-001	02:03:23;
+
+[PrintText]=01:40:15	Makoto	Uwah...	01:41:17;
+
+[PlayVoice]=01:40:15	Voice03/03-KA/03-KA-A00/03-KA-A00-0470	1	mak	01:41:17;
+
+[PrintText]=01:41:16	Kotonoha	...	01:44:10;
+
+[PlayVoice]=01:41:16	Voice03/03-KA/03-KA-A00/03-KA-A00-0490	0	xxx	01:44:10;
+
+[CreateBG]=01:41:17	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-006	01:57:13;
+
+[PrintText]=01:45:00	Kotonoha	¡Hey, Makoto-kun!	01:46:21;
+
+[PlayVoice]=01:45:00	Voice03/03-KA/03-KA-A00/03-KA-A00-0500	0	kot	01:46:21;
+
+[PrintText]=01:46:15	Makoto	¿Q-Qué?^	01:48:07;
+
+[PlayVoice]=01:46:15	Voice03/03-KA/03-KA-A00/03-KA-A00-0510	1	mak	01:48:07;
+
+[PrintText]=01:48:09	Kotonoha	No nos hemos visto últimamente ¿No?^	01:51:11;
+
+[PlayVoice]=01:48:09	Voice03/03-KA/03-KA-A00/03-KA-A00-0520	0	kot	01:51:11;
+
+[PrintText]=01:51:10	Makoto	Así es. Has estado ocupado con lo del festival, y no hemos podido vernos... desde la película de la semana pasada ¿No?^	01:57:16;
+
+[PlayVoice]=01:51:10	Voice03/03-KA/03-KA-A00/03-KA-A00-0530	1	mak	01:57:16;
+
+[CreateBG]=01:57:13	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-017	02:06:06;
+
+[PrintText]=01:57:13	Kotonoha	Sí.	01:58:13;
+
+[PlayVoice]=01:57:13	Voice03/03-KA/03-KA-A00/03-KA-A00-0540	0	kot	01:58:13;
+
+[PrintText]=01:58:13	Makoto	Ahh... bueno, si es del festival escolar, supongo que no se puede evitar...	02:02:17;
+
+[PlayVoice]=01:58:13	Voice03/03-KA/03-KA-A00/03-KA-A00-0550	1	mak	02:02:17;
+
+[PrintText]=02:02:17	Kotonoha	¿Quieres venir este fin de semana?^	02:06:06;
+
+[PlayVoice]=02:02:17	Voice03/03-KA/03-KA-A00/03-KA-A00-0560	0	kot	02:06:06;
+
+[PlaySe]=02:03:20	2	Se03/03-KA/03-KA-A00/SE03-KA-A00-001	02:13:18;
+
+[CreateBG]=02:06:06	BGS	Event03/03-KA/03-KA-A00/03-KA-A00-018	02:13:16;
+
+[PrintText]=02:06:06	Makoto	¿Eh?^	02:06:20;
+
+[PlayVoice]=02:06:06	Voice03/03-KA/03-KA-A00/03-KA-A00-0570	1	mak	02:06:20;
+
+[PrintText]=02:06:20	Kotonoha	Pensé que sería bueno que nos relajemos y pasemos un buen rato juntos.	02:12:09;
+
+[PlayVoice]=02:06:20	Voice03/03-KA/03-KA-A00/03-KA-A00-0580	0	kot	02:12:09;
+
+[BlackFade]=02:12:16	OUT	02:13:16;
+
+ ;
+
+[Next]=02:13:18;
+
+

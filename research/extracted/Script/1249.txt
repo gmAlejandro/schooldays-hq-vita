@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:26:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:26:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-B01/04-SE-B01-001	00:05:00;
+
+[PrintText]=00:00:05	Makoto	Finalmente  se lo dije a Kotonoha.	00:04:10;
+
+[PlayVoice]=00:00:05	Voice04/04-SE/04-SE-B01/04-SE-B01-0040	1	mak	00:04:10;
+
+[CreateBG]=00:05:00	BGS	Event04/04-SE/04-SE-B01/04-SE-B01-002	00:26:23;
+
+[PrintText]=00:05:07	Makoto	Me pregunto... si irá por Sekai.	00:08:11;
+
+[PlayVoice]=00:05:07	Voice04/04-SE/04-SE-B01/04-SE-B01-0050	1	mak	00:08:11;
+
+[PrintText]=00:09:14	Makoto	Si lo hace... en vez de eso, desearía que me odiara.	00:15:02;
+
+[PlayVoice]=00:09:14	Voice04/04-SE/04-SE-B01/04-SE-B01-0060	1	mak	00:15:02;
+
+[PrintText]=00:16:03	Makoto	He hecho más que suficiente para merecerlo...	00:20:13;
+
+[PlayVoice]=00:16:03	Voice04/04-SE/04-SE-B01/04-SE-B01-0070	1	mak	00:20:13;
+
+[PrintText]=00:22:04	Makoto	Haah...	00:23:03;
+
+[PlayVoice]=00:22:04	Voice04/04-SE/04-SE-B01/04-SE-B01-0080	1	mak	00:23:03;
+
+[PrintText]=00:23:03	Makoto	...Debería ir a dormir.	00:26:12;
+
+[PlayVoice]=00:23:03	Voice04/04-SE/04-SE-B01/04-SE-B01-0090	1	mak	00:26:12;
+
+ ;
+
+[Next]=00:26:23;
+
+

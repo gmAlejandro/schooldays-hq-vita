@@ -1,0 +1,101 @@
+﻿[SkipFRAME]=01:45:18;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	01:40:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-C01/04-SB-C01-006	00:11:15;
+
+[PrintText]=00:00:00	Kotonoha	Mi clase... piensa que Sawanaga-san y yo estamos saliendo. Intenté hablar con él para arreglar el malentendido...	00:10:20;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-C07/04-SB-C07-0030	0	kot	00:10:20;
+
+[PrintText]=00:10:21	Makoto	Sí...	00:11:16;
+
+[PlayVoice]=00:10:21	Voice04/04-SB/04-SB-C07/04-SB-C07-0040	1	mak	00:11:16;
+
+[CreateBG]=00:11:15	BGS	Event04/04-SB/04-SB-C07/04-SB-C07-002	00:40:17;
+
+[PrintText]=00:11:16	Kotonoha	Y entonces él me forzó a salir con él, diciendo que tú ya estabas con Saionji-san...	00:22:09;
+
+[PlayVoice]=00:11:16	Voice04/04-SB/04-SB-C07/04-SB-C07-0050	0	kot	00:22:09;
+
+[PrintText]=00:22:09	Makoto	Increíble...	00:23:16;
+
+[PlayVoice]=00:22:09	Voice04/04-SB/04-SB-C07/04-SB-C07-0060	1	mak	00:23:16;
+
+[PrintText]=00:23:17	Kotonoha	Entonces, estuve pensando que en realidad te gustaba Saionji-san, así que pensé que si estabas con otra persona...	00:30:19;
+
+[PlayVoice]=00:23:17	Voice04/04-SB/04-SB-C07/04-SB-C07-0070	0	kot	00:30:19;
+
+[PrintText]=00:30:19	Kotonoha	y siendo así las cosas... solo tendría que renunciar.	00:40:19;
+
+[PlayVoice]=00:30:19	Voice04/04-SB/04-SB-C07/04-SB-C07-0071	0	kot	00:40:19;
+
+[CreateBG]=00:40:17	BGS	Event04/04-SB/04-SB-C07/04-SB-C07-003	00:48:01;
+
+[PrintText]=00:40:20	Makoto	Eso no...	00:42:07;
+
+[PlayVoice]=00:40:20	Voice04/04-SB/04-SB-C07/04-SB-C07-0080	1	mak	00:42:07;
+
+[PrintText]=00:42:07	Kotonoha	¿No es así?^	00:43:11;
+
+[PlayVoice]=00:42:07	Voice04/04-SB/04-SB-C07/04-SB-C07-0090	0	kot	00:43:11;
+
+[PrintText]=00:43:12	Makoto	Uh...	00:45:04;
+
+[PlayVoice]=00:43:12	Voice04/04-SB/04-SB-C07/04-SB-C07-0100	1	mak	00:45:04;
+
+[PrintText]=00:45:04	Kotonoha	¿Terminarás con Saionji-san para dormir conmigo?^	00:50:22;
+
+[PlayVoice]=00:45:04	Voice04/04-SB/04-SB-C07/04-SB-C07-0110	0	kot	00:50:22;
+
+[CreateBG]=00:48:01	BGS	Event04/04-SB/04-SB-C07/04-SB-C07-004	00:59:00;
+
+[PrintText]=00:50:23	Makoto	...	00:52:07;
+
+[PlayVoice]=00:50:23	Voice04/04-SB/04-SB-C07/04-SB-C07-0120	1	xxx	00:52:07;
+
+[PrintText]=00:52:08	Kotonoha	Por supuesto que no lo harías... es demasiado... lo sé...	00:58:23;
+
+[PlayVoice]=00:52:08	Voice04/04-SB/04-SB-C07/04-SB-C07-0130	0	kot	00:58:23;
+
+[CreateBG]=00:59:00	BGS	Event04/04-SB/04-SB-C07/04-SB-C07-005	01:00:02;
+
+[PrintText]=00:59:00	Makoto	Aún así, eso no quiere decir...	01:00:03;
+
+[PlayVoice]=00:59:00	Voice04/04-SB/04-SB-C07/04-SB-C07-0140	1	mak	01:00:03;
+
+[CreateBG]=01:00:02	BGS	Event04/04-SB/04-SB-C07/04-SB-C07-006	01:15:10;
+
+[PrintText]=01:00:02	Kotonoha	Por eso es que... pensé que no tenía elección después de lo que dijo Sawanaga-san.	01:06:16;
+
+[PlayVoice]=01:00:02	Voice04/04-SB/04-SB-C07/04-SB-C07-0150	0	kot	01:06:16;
+
+[PrintText]=01:06:17	Makoto	...	01:07:13;
+
+[PlayVoice]=01:06:17	Voice04/04-SB/04-SB-C07/04-SB-C07-0160	1	xxx	01:07:13;
+
+[PrintText]=01:07:13	Kotonoha	Sawanaga-san me sigue pidiendo el hacer cosas sucias... y hay momentos en los que me hace sentir terrible.	01:15:12;
+
+[PlayVoice]=01:07:13	Voice04/04-SB/04-SB-C07/04-SB-C07-0170	0	kot	01:15:12;
+
+[CreateBG]=01:15:10	BGS	Event04/04-SB/04-SB-C07/04-SB-C07-007	01:16:13;
+
+[PrintText]=01:15:14	Makoto	Pero entonces ¿Por qué...?^	01:16:13;
+
+[PlayVoice]=01:15:14	Voice04/04-SB/04-SB-C07/04-SB-C07-0180	1	mak	01:16:13;
+
+[CreateBG]=01:16:13	BGS	Event04/04-SB/04-SB-C07/04-SB-C07-008	01:38:19;
+
+[PrintText]=01:16:13	Kotonoha	Él dijo que me amaba... que me necesitaba... me quería... que soy su novia...Y cuando él dice esas cosas yo...	01:38:10;
+
+[PlayVoice]=01:16:13	Voice04/04-SB/04-SB-C07/04-SB-C07-0190	0	kot	01:38:10;
+
+[PlaySe]=01:38:19	2	SysSe/SE_all/station_train/train_start	01:45:18;
+
+[CreateBG]=01:38:19	BGS	Event04/04-SB/04-SB-C03/04-SB-C03-007	01:45:18;
+
+ ;
+
+[Next]=01:45:18;
+
+

@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:07:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:07:07;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/door/door_mansyon	00:02:11;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-W01/02-2S-W01-001	00:02:12;
+
+[CreateBG]=00:02:12	BGS	Event02/02-2S/02-2S-W01/02-2S-W01-002	00:07:07;
+
+[PrintText]=00:02:12	Sekai	...Estoy aquí.	00:05:03;
+
+[PlayVoice]=00:02:12	Voice02/02-2S/02-2S-W01/02-2S-W01-0040	0	sek	00:05:03;
+
+[PrintText]=00:05:07	Makoto	Hola.	00:06:01;
+
+[PlayVoice]=00:05:07	Voice02/02-2S/02-2S-W01/02-2S-W01-0050	1	mak	00:06:01;
+
+[BlackFade]=00:06:07	OUT	00:07:07;
+
+ ;
+
+[Next]=00:07:07;
+
+
+
+

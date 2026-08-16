@@ -1,0 +1,231 @@
+﻿[SkipFRAME]=02:30:10;
+
+[PlaySe]=00:00:00	4	Se05/05-5H/05-5H-E00/SE05-5H-E00-001	01:44:22;
+
+[CreateBG]=00:00:00	BGS	System/Screen/White	00:07:11;
+
+[PrintText]=00:00:11	Kotonoha	Ufufu...	00:01:19;
+
+[PlayVoice]=00:00:11	Voice05/05-9K/05-9K-A00/05-9K-A00-0050	0	kot	00:01:19;
+
+[PrintText]=00:02:02	Makoto	¿Hmn?^	00:02:16;
+
+[PlayVoice]=00:02:02	Voice05/05-9K/05-9K-A00/05-9K-A00-0060	1	mak	00:02:16;
+
+[PrintText]=00:03:03	Kotonoha	Ya es de día ¿No?^	00:04:11;
+
+[PlayVoice]=00:03:03	Voice05/05-9K/05-9K-A00/05-9K-A00-0070	0	kot	00:04:11;
+
+[PrintText]=00:04:23	Makoto	Sí.	00:05:15;
+
+[PlayVoice]=00:04:23	Voice05/05-9K/05-9K-A00/05-9K-A00-0080	1	mak	00:05:15;
+
+[PrintText]=00:05:20	Kotonoha	Ayer, tú...	00:07:17;
+
+[PlayVoice]=00:05:20	Voice05/05-9K/05-9K-A00/05-9K-A00-0090	0	kot	00:07:17;
+
+[PlayMovie]=00:07:11	Movie05/05-9K/05-9K-A00/05-9K-A00-002	0	00:54:17;
+
+[WhiteFade]=00:07:11	IN	00:09:11;
+
+[PrintText]=00:07:23	Makoto	Uh-huh.	00:08:13;
+
+[PlayVoice]=00:07:23	Voice05/05-9K/05-9K-A00/05-9K-A00-0100	1	mak	00:08:13;
+
+[PrintText]=00:09:00	Kotonoha	Fue increíble.	00:10:06;
+
+[PlayVoice]=00:09:00	Voice05/05-9K/05-9K-A00/05-9K-A00-0110	0	kot	00:10:06;
+
+[PrintText]=00:10:16	Makoto	¡Uuh...! Ha-Hablando de eso ¿Las cosas van bien contigo?^	00:15:04;
+
+[PlayVoice]=00:10:16	Voice05/05-9K/05-9K-A00/05-9K-A00-0120	1	mak	00:15:04;
+
+[PrintText]=00:15:11	Kotonoha	¿Eh?^	00:16:03;
+
+[PlayVoice]=00:15:11	Voice05/05-9K/05-9K-A00/05-9K-A00-0130	0	kot	00:16:03;
+
+[PrintText]=00:16:11	Makoto	¿Tu familia no estará preocupada?^	00:18:16;
+
+[PlayVoice]=00:16:11	Voice05/05-9K/05-9K-A00/05-9K-A00-0140	1	mak	00:18:16;
+
+[PrintText]=00:18:23	Kotonoha	Sí, supongo.	00:20:04;
+
+[PlayVoice]=00:18:23	Voice05/05-9K/05-9K-A00/05-9K-A00-0150	0	kot	00:20:04;
+
+[PrintText]=00:20:13	Makoto	No suenas tan segura...	00:22:22;
+
+[PlayVoice]=00:20:13	Voice05/05-9K/05-9K-A00/05-9K-A00-0160	1	mak	00:22:22;
+
+[PrintText]=00:22:19	Kotonoha	Bueno... no me importa, porque algo maravilloso a pasado.	00:28:01;
+
+[PlayVoice]=00:22:19	Voice05/05-9K/05-9K-A00/05-9K-A00-0170	0	kot	00:28:01;
+
+[PrintText]=00:28:01	Makoto	¿Maravilloso?^	00:29:08;
+
+[PlayVoice]=00:28:01	Voice05/05-9K/05-9K-A00/05-9K-A00-0180	1	mak	00:29:08;
+
+[PrintText]=00:29:14	Kotonoha	Tú... ya eres realmente mi novio.	00:34:15;
+
+[PlayVoice]=00:29:14	Voice05/05-9K/05-9K-A00/05-9K-A00-0190	0	kot	00:34:15;
+
+[PrintText]=00:34:23	Makoto	Sí...	00:38:00;
+
+[PlayVoice]=00:34:23	Voice05/05-9K/05-9K-A00/05-9K-A00-0200	1	mak	00:38:00;
+
+[PrintText]=00:38:04	Kotonoha	Por eso es que no estoy preocupada por mi familia.	00:40:13;
+
+[PlayVoice]=00:38:04	Voice05/05-9K/05-9K-A00/05-9K-A00-0210	0	kot	00:40:13;
+
+[PrintText]=00:40:15	Makoto	Pero si las cosas se salen de control, te meterás en problemas ¿No?^	00:44:08;
+
+[PlayVoice]=00:40:15	Voice05/05-9K/05-9K-A00/05-9K-A00-0220	1	mak	00:44:08;
+
+[PrintText]=00:44:15	Kotonoha	Sí, supongo... ah.	00:47:15;
+
+[PlayVoice]=00:44:15	Voice05/05-9K/05-9K-A00/05-9K-A00-0230	0	kot	00:47:15;
+
+[PlaySe]=00:46:09	1	SysSe/SE_all/keitai/tyakusin_kotonoha	01:10:00;
+
+[PrintText]=00:47:19	Makoto	Esa llamada... es de tu casa ¿No?^	00:51:22;
+
+[PlayVoice]=00:47:19	Voice05/05-9K/05-9K-A00/05-9K-A00-0240	1	mak	00:51:22;
+
+[PrintText]=00:51:23	Kotonoha	Tal vez...	00:53:04;
+
+[PlayVoice]=00:51:23	Voice05/05-9K/05-9K-A00/05-9K-A00-0250	0	kot	00:53:04;
+
+[PrintText]=00:53:11	Makoto	Venga, contesta.	00:54:07;
+
+[PlayVoice]=00:53:11	Voice05/05-9K/05-9K-A00/05-9K-A00-0260	1	mak	00:54:07;
+
+[PlayMovie]=00:54:17	Movie05/05-9K/05-9K-A00/05-9K-A00-003	0	01:07:13;
+
+[PrintText]=00:54:23	Makoto	Uh... veamos...	01:01:04;
+
+[PlayVoice]=00:54:23	Voice05/05-9K/05-9K-A00/05-9K-A00-0261	1	mak	01:01:04;
+
+[PlaySe]=01:00:05	3	Se05/05-9K/05-9K-A00/SE05-9K-A00-002	01:01:12;
+
+[PrintText]=01:01:15	Kotonoha	Oh, cielos, no es ese botón.	01:04:09;
+
+[PlayVoice]=01:01:15	Voice05/05-9K/05-9K-A00/05-9K-A00-0290	0	kot	01:04:09;
+
+[PrintText]=01:04:14	Makoto	Uuh... Y-Ya sabía.	01:07:06;
+
+[PlayVoice]=01:04:14	Voice05/05-9K/05-9K-A00/05-9K-A00-0300	1	mak	01:07:06;
+
+[PlaySe]=01:05:21	3	Se05/05-9K/05-9K-A00/SE05-9K-A00-001	01:06:13;
+
+[CreateBG]=01:07:13	BGS	System/Screen/Black	01:09:04;
+
+[CreateBG]=01:09:04	BGS	Event05/05-9K/05-9K-A00/05-9K-A00-005	01:29:14;
+
+[PrintText]=01:09:18	Makoto	Ah... es de Kokoro-chan.	01:12:17;
+
+[PlayVoice]=01:09:18	Voice05/05-9K/05-9K-A00/05-9K-A00-0320	1	mak	01:12:17;
+
+[PlaySe]=01:10:00	2	SysSe/SE_all/keitai/tyakusin_kotonoha	01:17:21;
+
+[PrintText]=01:12:23	Kotonoha	Ah. En ese caso, no contestes.	01:15:03;
+
+[PlayVoice]=01:12:23	Voice05/05-9K/05-9K-A00/05-9K-A00-0330	0	kot	01:15:03;
+
+[PrintText]=01:15:11	Makoto	¿De qué hablas? Tengo que... ya colgó.	01:20:05;
+
+[PlayVoice]=01:15:11	Voice05/05-9K/05-9K-A00/05-9K-A00-0340	1	mak	01:20:05;
+
+[PrintText]=01:20:12	Kotonoha	Genial.	01:21:12;
+
+[PlayVoice]=01:20:12	Voice05/05-9K/05-9K-A00/05-9K-A00-0350	0	kot	01:21:12;
+
+[PrintText]=01:21:20	Makoto	No es genial para nada. ¿Por qué no le contestaste a Kokoro-chan? Creo que está preocupada por ti.	01:28:07;
+
+[PlayVoice]=01:21:20	Voice05/05-9K/05-9K-A00/05-9K-A00-0360	1	mak	01:28:07;
+
+[PrintText]=01:28:16	Kotonoha	Está probando como hacer video llamadas, y está muriéndose por intentarlo. Si nos ve así, entonces...	01:36:18;
+
+[PlayVoice]=01:28:16	Voice05/05-9K/05-9K-A00/05-9K-A00-0370	0	kot	01:36:18;
+
+[PlayMovie]=01:29:14	Movie05/05-9K/05-9K-A00/05-9K-A00-006	0	01:37:02;
+
+[CreateBG]=01:37:02	BGS	Event05/05-9K/05-9K-A00/05-9K-A00-007	01:52:07;
+
+[PrintText]=01:37:02	Makoto	Uwah... así es como es.	01:39:12;
+
+[PlayVoice]=01:37:02	Voice05/05-9K/05-9K-A00/05-9K-A00-0380	1	mak	01:39:12;
+
+[PrintText]=01:39:17	Kotonoha	Sí, así es.	01:42:01;
+
+[PlayVoice]=01:39:17	Voice05/05-9K/05-9K-A00/05-9K-A00-0390	0	kot	01:42:01;
+
+[PrintText]=01:42:05	Makoto	Pero, incluso con estos tipos de celulares, solo puedes hablar por voz ¿No?^	01:47:13;
+
+[PlayVoice]=01:42:05	Voice05/05-9K/05-9K-A00/05-9K-A00-0400	1	mak	01:47:13;
+
+[PlaySe]=01:44:22	5	Se05/05-5H/05-5H-E00/SE05-5H-E00-001	02:30:10;
+
+[PrintText]=01:47:16	Kotonoha	Sí, es cierto.	01:49:02;
+
+[PlayVoice]=01:47:16	Voice05/05-9K/05-9K-A00/05-9K-A00-0410	0	kot	01:49:02;
+
+[PrintText]=01:49:06	Makoto	En ese caso, hubiera contestado.	01:52:03;
+
+[PlayVoice]=01:49:06	Voice05/05-9K/05-9K-A00/05-9K-A00-0420	1	mak	01:52:03;
+
+[CreateBG]=01:52:07	BGS	Event05/05-9K/05-9K-A00/05-9K-A00-008	02:04:03;
+
+[PrintText]=01:52:11	Kotonoha	Pero...	01:53:14;
+
+[PlayVoice]=01:52:11	Voice05/05-9K/05-9K-A00/05-9K-A00-0430	0	kot	01:53:14;
+
+[PrintText]=01:53:19	Makoto	Tal vez podría quedarme en tu casa a partir de ahora ¿No? En ese caso, creo que podríamos llegar a un acuerdo con ella.	02:04:00;
+
+[PlayVoice]=01:53:19	Voice05/05-9K/05-9K-A00/05-9K-A00-0440	1	mak	02:04:00;
+
+[PlayMovie]=02:04:03	Movie05/05-9K/05-9K-A00/05-9K-A00-009	0	02:08:22;
+
+[PrintText]=02:04:08	Kotonoha	Bueno... vale. Si tú lo dices.	02:08:01;
+
+[PlayVoice]=02:04:08	Voice05/05-9K/05-9K-A00/05-9K-A00-0450	0	kot	02:08:01;
+
+[PrintText]=02:08:06	Makoto	Sí. Ah, es ella de nuevo.	02:12:14;
+
+[PlayVoice]=02:08:06	Voice05/05-9K/05-9K-A00/05-9K-A00-0460	1	mak	02:12:14;
+
+[PlayMovie]=02:08:22	Movie05/05-9K/05-9K-A00/05-9K-A00-010	0	02:20:05;
+
+[PlaySe]=02:09:07	1	SysSe/SE_all/keitai/tyakusin_kotonoha	02:19:17;
+
+[PrintText]=02:12:18	Kotonoha	Ooh...	02:14:00;
+
+[PlayVoice]=02:12:18	Voice05/05-9K/05-9K-A00/05-9K-A00-0470	0	kot	02:14:00;
+
+[PrintText]=02:14:10	Makoto	Vamos, tenemos que contestar ¿Hola?^	02:17:17;
+
+[PlayVoice]=02:14:10	Voice05/05-9K/05-9K-A00/05-9K-A00-0480	1	mak	02:17:17;
+
+[PrintText]=02:17:22	Kotonoha	¡Ah! ¡Si presionas ese botón...!	02:20:00;
+
+[PlayVoice]=02:17:22	Voice05/05-9K/05-9K-A00/05-9K-A00-0500	0	kot	02:20:00;
+
+[PlaySe]=02:19:17	2	SysSe/SE_all/keitai/keitai_sousa	02:19:19;
+
+[PlayMovie]=02:20:05	Movie05/05-9K/05-9K-A00/05-9K-A00-011	0	02:30:10;
+
+[PrintText]=02:21:14	Kokoro	¡Ahh!	02:22:14;
+
+[PlayVoice]=02:21:14	Voice05/05-9K/05-9K-A00/05-9K-A00-0520	0	kok	02:22:14;
+
+[PrintText]=02:22:18	Kokoro	¡Uwah! ¡Uwah!	02:26:15;
+
+[PlayVoice]=02:22:18	Voice05/05-9K/05-9K-A00/05-9K-A00-0530	0	kok	02:26:15;
+
+[PrintText]=02:27:01	Makoto	¡Uwah... Lo he echado a perder!	02:30:05;
+
+[PlayVoice]=02:27:01	Voice05/05-9K/05-9K-A00/05-9K-A00-0540	1	mak	02:30:05;
+
+ ;
+
+[Next]=02:30:10;
+
+

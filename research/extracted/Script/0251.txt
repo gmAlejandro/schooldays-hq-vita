@@ -1,0 +1,68 @@
+﻿[SkipFRAME]=00:30:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:36:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-K04/02-2K-K04-001	00:06:04;
+
+[PrintText]=00:00:00	Makoto	¿Alo?^	00:00:18;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-K04/02-2K-K04-0030	1	mak	00:00:18;
+
+[PrintText]=00:00:19	Kotonoha	¿Qué pasó? ¿Por qué llamas tan tarde?^	00:03:17;
+
+[PlayVoice]=00:00:19	Voice02/02-2K/02-2K-K04/02-2K-K04-0040	0	kot	00:03:17;
+
+[PrintText]=00:03:16	Makoto	Ah...¿Es mal momento?^	00:06:04;
+
+[PlayVoice]=00:03:16	Voice02/02-2K/02-2K-K04/02-2K-K04-0050	1	mak	00:06:04;
+
+[CreateBG]=00:06:04	BGS	Event02/02-2K/02-2K-K04/02-2K-K04-002	00:15:17;
+
+[PrintText]=00:06:04	Kotonoha	No... es que sueles mandarme un correo.	00:10:20;
+
+[PlayVoice]=00:06:04	Voice02/02-2K/02-2K-K04/02-2K-K04-0060	0	kot	00:10:20;
+
+[PrintText]=00:10:20	Makoto	Sí, pero... quería disculparme.	00:15:03;
+
+[PlayVoice]=00:10:20	Voice02/02-2K/02-2K-K04/02-2K-K04-0070	1	mak	00:15:03;
+
+[PrintText]=00:15:03	Kotonoha	¡¿Eh?!	00:15:16;
+
+[PlayVoice]=00:15:03	Voice02/02-2K/02-2K-K04/02-2K-K04-0080	0	kot	00:15:16;
+
+[PrintText]=00:15:16	Makoto	He hecho muchas cosas hoy, que no te han gustado.	00:20:11;
+
+[PlayVoice]=00:15:16	Voice02/02-2K/02-2K-K04/02-2K-K04-0090	1	mak	00:20:11;
+
+[CreateBG]=00:15:17	BGS	Event02/02-2K/02-2K-K04/02-2K-K04-003	00:36:05;
+
+[PrintText]=00:20:11	Kotonoha	Eso...	00:22:07;
+
+[PlayVoice]=00:20:11	Voice02/02-2K/02-2K-K04/02-2K-K04-0100	0	kot	00:22:07;
+
+[PrintText]=00:22:07	Makoto	Y ya...me he dado cuenta que...	00:24:16;
+
+[PlayVoice]=00:22:07	Voice02/02-2K/02-2K-K04/02-2K-K04-0110	1	mak	00:24:16;
+
+[PrintText]=00:24:16	Makoto	¿Qué tratas de decir?..	00:28:09;
+
+[PlayVoice]=00:24:16	Voice02/02-2K/02-2K-K04/02-2K-K04-0120	1	mak	00:28:09;
+
+[PrintText]=00:28:10	Sekai	S-Sí...	00:29:13;
+
+[PlayVoice]=00:28:10	Voice02/02-2K/02-2K-K04/02-2K-K04-0130	0	sek	00:29:13;
+
+[PrintText]=00:29:13	Makoto	Yo...	00:30:13;
+
+[PlayVoice]=00:29:13	Voice02/02-2K/02-2K-K04/02-2K-K04-0140	1	mak	00:30:13;
+
+[SetSELECT]=00:30:04	'Quiero tocarte.'	'Por eso debería alejarme de ti.'	00:35:04;
+
+ ;
+
+[Next]=00:36:05;
+
+
+
+
+

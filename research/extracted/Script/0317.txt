@@ -1,0 +1,163 @@
+﻿[SkipFRAME]=01:56:11;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-I01/SE02-2S-I01-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-001	00:06:10;
+
+[PrintText]=00:00:00	Makoto	¡Hermosa!	00:00:22;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-I01/02-2S-I01-0030	1	mak	00:00:22;
+
+[PrintText]=00:00:23	Kotonoha	¡¿Eh?!	00:01:20;
+
+[PlayVoice]=00:00:23	Voice02/02-2S/02-2S-I01/02-2S-I01-0040	0	kot	00:01:20;
+
+[PrintText]=00:01:19	Makoto	¡De alguna manera... te ves muy hermosa hoy!	00:06:09;
+
+[PlayVoice]=00:01:19	Voice02/02-2S/02-2S-I01/02-2S-I01-0050	1	mak	00:06:09;
+
+[CreateBG]=00:06:10	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-002	00:11:22;
+
+[PrintText]=00:06:10	Kotonoha	G...Gracias...	00:11:09;
+
+[PlayVoice]=00:06:10	Voice02/02-2S/02-2S-I01/02-2S-I01-0060	0	kot	00:11:09;
+
+[BlackFade]=00:11:10	OUT	00:11:22;
+
+[CreateBG]=00:11:22	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-003_	00:32:15;
+
+[PrintText]=00:11:22	Makoto	Mmmnf... ngngh... glug glug...	00:23:07;
+
+[PlayVoice]=00:11:22	Voice02/02-2S/02-2S-I01/02-2S-I01-0100	1	mak	00:23:07;
+
+[PrintText]=00:23:11	Makoto	Uuuhh... Creo que he tomado mucha limonada. Voy al baño por un segundo.	00:30:20;
+
+[PlayVoice]=00:23:11	Voice02/02-2S/02-2S-I01/02-2S-I01-0120	1	mak	00:30:20;
+
+[PlaySe]=00:30:12	2	SysSe/SE_all/door/okujou_door_open	00:34:09;
+
+[CreateBG]=00:32:15	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-004	00:38:22;
+
+[PlaySe]=00:33:17	3	SysSe/SE_all/door/okujou_door_close	00:35:18;
+
+[PrintText]=00:37:05	Kotonoha	Um...	00:38:08;
+
+[PlayVoice]=00:37:05	Voice02/02-2S/02-2S-I01/02-2S-I01-0150	0	kot	00:38:08;
+
+[PrintText]=00:38:08	Sekai	¿Hmn?^	00:38:22;
+
+[PlayVoice]=00:38:08	Voice02/02-2S/02-2S-I01/02-2S-I01-0160	0	sek	00:38:22;
+
+[PrintText]=00:38:21	Kotonoha	¿Lo... escuchaste?^	00:42:01;
+
+[PlayVoice]=00:38:21	Voice02/02-2S/02-2S-I01/02-2S-I01-0170	0	kot	00:42:01;
+
+[CreateBG]=00:38:22	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-005	00:52:08;
+
+[PrintText]=00:42:01	Sekai	¿Qué cosa?^	00:43:01;
+
+[PlayVoice]=00:42:01	Voice02/02-2S/02-2S-I01/02-2S-I01-0180	0	sek	00:43:01;
+
+[PrintText]=00:43:02	Kotonoha	Makoto-kun dijo que era hermosa.	00:46:04;
+
+[PlayVoice]=00:43:02	Voice02/02-2S/02-2S-I01/02-2S-I01-0190	0	kot	00:46:04;
+
+[PrintText]=00:46:04	Sekai	Sí...	00:46:22;
+
+[PlayVoice]=00:46:04	Voice02/02-2S/02-2S-I01/02-2S-I01-0200	0	sek	00:46:22;
+
+[PrintText]=00:46:23	Kotonoha	No puedo creerlo...lo que acaba de pasar.	00:52:07;
+
+[PlayVoice]=00:46:23	Voice02/02-2S/02-2S-I01/02-2S-I01-0210	0	kot	00:52:07;
+
+[CreateBG]=00:52:08	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-006	01:11:04;
+
+[PrintText]=00:52:08	Sekai	Bueno... pienso que eres hermosa, y Makoto probablemente piensa lo mismo.	00:58:13;
+
+[PlayVoice]=00:52:08	Voice02/02-2S/02-2S-I01/02-2S-I01-0220	0	sek	00:58:13;
+
+[PrintText]=00:58:14	Kotonoha	No me refiero a eso. Pues...	01:02:10;
+
+[PlayVoice]=00:58:14	Voice02/02-2S/02-2S-I01/02-2S-I01-0230	0	kot	01:02:10;
+
+[PrintText]=01:02:11	Sekai	Uh-huh.	01:03:04;
+
+[PlayVoice]=01:02:11	Voice02/02-2S/02-2S-I01/02-2S-I01-0240	0	sek	01:03:04;
+
+[PrintText]=01:03:04	Kotonoha	Hice limonada hoy con una receta que aprendí de mi mamá.	01:09:02;
+
+[PlayVoice]=01:03:04	Voice02/02-2S/02-2S-I01/02-2S-I01-0250	0	kot	01:09:02;
+
+[PlaySe]=01:09:00	2	Se02/02-2S/02-2S-I01/SE02-2S-I01-001	01:56:11;
+
+[PrintText]=01:09:02	Sekai	Ya veo.	01:11:04;
+
+[PlayVoice]=01:09:02	Voice02/02-2S/02-2S-I01/02-2S-I01-0260	0	sek	01:11:04;
+
+[CreateBG]=01:11:04	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-007	01:33:18;
+
+[PrintText]=01:11:04	Kotonoha	Mi madre dijo: 'Una vez que beba de esto, va a estar loco por ti.'.	01:17:16;
+
+[PlayVoice]=01:11:04	Voice02/02-2S/02-2S-I01/02-2S-I01-0270	0	kot	01:17:16;
+
+[PrintText]=01:17:16	Sekai	Loco por ti.	01:18:23;
+
+[PlayVoice]=01:17:16	Voice02/02-2S/02-2S-I01/02-2S-I01-0280	0	sek	01:18:23;
+
+[PrintText]=01:19:00	Kotonoha	Ah, no se usa esa expresión hoy en día, ¿verdad...?^	01:23:09;
+
+[PlayVoice]=01:19:00	Voice02/02-2S/02-2S-I01/02-2S-I01-0290	0	kot	01:23:09;
+
+[PrintText]=01:23:09	Kotonoha	Pero eso no es lo que quiero decir. Me pregunto si realmente funcionó como dijo mi mamá.	01:31:18;
+
+[PlayVoice]=01:23:09	Voice02/02-2S/02-2S-I01/02-2S-I01-0291	0	kot	01:31:18;
+
+[PrintText]=01:31:20	Sekai	¿La limonada?^	01:33:01;
+
+[PlayVoice]=01:31:20	Voice02/02-2S/02-2S-I01/02-2S-I01-0300	0	sek	01:33:01;
+
+[PrintText]=01:33:01	Kotonoha	Sí.	01:33:17;
+
+[PlayVoice]=01:33:01	Voice02/02-2S/02-2S-I01/02-2S-I01-0310	0	kot	01:33:17;
+
+[CreateBG]=01:33:18	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-008	01:37:13;
+
+[CreateBG]=01:37:13	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-009	01:41:13;
+
+[PrintText]=01:37:13	Sekai	... Parece que lo hizo ¿No?^	01:41:12;
+
+[PlayVoice]=01:37:13	Voice02/02-2S/02-2S-I01/02-2S-I01-0330	0	sek	01:41:12;
+
+[CreateBG]=01:41:13	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-010	01:49:16;
+
+[PrintText]=01:41:13	Kotonoha	¿En serio?^	01:42:23;
+
+[PlayVoice]=01:41:13	Voice02/02-2S/02-2S-I01/02-2S-I01-0340	0	kot	01:42:23;
+
+[PrintText]=01:42:23	Sekai	Creo que Makoto vio una luz completamente nueva.	01:48:03;
+
+[PlayVoice]=01:42:23	Voice02/02-2S/02-2S-I01/02-2S-I01-0350	0	sek	01:48:03;
+
+[PrintText]=01:48:04	Kotonoha	¿Lo crees?^	01:49:15;
+
+[PlayVoice]=01:48:04	Voice02/02-2S/02-2S-I01/02-2S-I01-0360	0	kot	01:49:15;
+
+[CreateBG]=01:49:16	BGS	Event02/02-2S/02-2S-I01/02-2S-I01-011	01:56:11;
+
+[PrintText]=01:49:16	Sekai	Creo que él... se enamoró nuevamente de ti.	01:53:06;
+
+[PlayVoice]=01:49:16	Voice02/02-2S/02-2S-I01/02-2S-I01-0370	0	sek	01:53:06;
+
+[PrintText]=01:53:05	Kotonoha	Eheheh...	01:54:20;
+
+[PlayVoice]=01:53:05	Voice02/02-2S/02-2S-I01/02-2S-I01-0380	0	kot	01:54:20;
+
+[BlackFade]=01:55:11	OUT	01:56:11;
+
+ ;
+
+[Next]=01:56:11;
+
+
+
+

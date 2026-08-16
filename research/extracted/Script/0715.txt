@@ -1,0 +1,189 @@
+﻿[SkipFRAME]=01:58:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:44:05;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-O07/03-KB-O07-001	0	00:04:19;
+
+[PrintText]=00:00:06	Makoto	Haah... haah...	00:05:22;
+
+[PlayVoice]=00:00:06	Voice03/03-KB/03-KB-O07/03-KB-O07-0030	1	mak	00:05:22;
+
+[PlayMovie]=00:04:19	Movie03/03-KB/03-KB-O07/H3-KB-O07-002	0	00:07:13;
+
+[PrintText]=00:04:20	Kotonoha	¿Makoto-kun...?^	00:06:03;
+
+[PlayVoice]=00:04:20	Voice03/03-KB/03-KB-O07/03-KB-O07-0060	0	kot	00:06:03;
+
+[PrintText]=00:05:22	Makoto	¡Ah...!	00:10:19;
+
+[PlayVoice]=00:05:22	Voice03/03-KB/03-KB-O07/03-KB-O07-0070	1	mak	00:10:19;
+
+[PlayMovie]=00:07:13	Movie03/03-KB/03-KB-O07/03-KB-O07-001	0	00:12:21;
+
+[PrintText]=00:11:03	Makoto	¡Me voy a venir! ¡Uuh!	00:19:12;
+
+[PlayVoice]=00:11:03	Voice03/03-KB/03-KB-O07/03-KB-O07-0100	1	mak	00:19:12;
+
+[PlayMovie]=00:12:21	Movie03/03-KB/03-KB-O07/03-KB-O07-003	0	00:15:03;
+
+[PlayMovie]=00:15:03	Movie03/03-KB/03-KB-O07/H3-KB-O07-004	0	00:20:03;
+
+[PrintText]=00:18:18	Kotonoha	¡Kyah!	00:19:18;
+
+[PlayVoice]=00:18:18	Voice03/03-KB/03-KB-O07/03-KB-O07-0080	0	kot	00:19:18;
+
+[PrintText]=00:20:00	Makoto	Ah... ah...	00:30:19;
+
+[PlayVoice]=00:20:00	Voice03/03-KB/03-KB-O07/03-KB-O07-0140	1	mak	00:30:19;
+
+[PlayMovie]=00:20:03	Movie03/03-KB/03-KB-O07/03-KB-O07-005	0	00:35:04;
+
+[PrintText]=00:20:14	Kotonoha	¡Hyah! ¡No! ...Ah.	00:23:21;
+
+[PlayVoice]=00:20:14	Voice03/03-KB/03-KB-O07/03-KB-O07-0120	0	kot	00:23:21;
+
+[PrintText]=00:25:02	Kotonoha	Nn...	00:26:23;
+
+[PlayVoice]=00:25:02	Voice03/03-KB/03-KB-O07/03-KB-O07-0150	0	kot	00:26:23;
+
+[CreateBG]=00:35:04	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-011	00:44:05;
+
+[PrintText]=00:35:07	Makoto	Lo siento...	00:36:13;
+
+[PlayVoice]=00:35:07	Voice03/03-KB/03-KB-O07/03-KB-O07-0170	1	mak	00:36:13;
+
+[PrintText]=00:36:04	Kotonoha	N-no, yo debería disculparme.	00:39:21;
+
+[PlayVoice]=00:36:04	Voice03/03-KB/03-KB-O07/03-KB-O07-0180	0	kot	00:39:21;
+
+[PrintText]=00:39:23	Makoto	Haha...	00:44:13;
+
+[PlayVoice]=00:39:23	Voice03/03-KB/03-KB-O07/03-KB-O07-0190	1	mak	00:44:13;
+
+[BlackFade]=00:43:05	OUT	00:44:05;
+
+[CreateBG]=00:44:05	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-007	00:48:09;
+
+[PrintText]=00:44:05	Kotonoha	Estaba un poco sorprendida, sin embargo...	00:47:00;
+
+[PlayVoice]=00:44:05	Voice03/03-KB/03-KB-O07/03-KB-O07-0210	0	kot	00:47:00;
+
+[PlayBgm]=00:44:17	BGM/SD_BGM/sdbgm29	01:58:17;
+
+[PrintText]=00:47:15	Makoto	...	00:48:19;
+
+[PlayVoice]=00:47:15	Voice03/03-KB/03-KB-O07/03-KB-O07-0220	1	xxx	00:48:19;
+
+[CreateBG]=00:48:09	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-008	01:08:16;
+
+[PrintText]=00:48:09	Kotonoha	No sabía que el semen podía brotar así...	00:53:07;
+
+[PlayVoice]=00:48:09	Voice03/03-KB/03-KB-O07/03-KB-O07-0230	0	kot	00:53:07;
+
+[PrintText]=00:53:03	Makoto	Uh-huh... Te he ensuciado ¿No?^	00:57:10;
+
+[PlayVoice]=00:53:03	Voice03/03-KB/03-KB-O07/03-KB-O07-0240	1	mak	00:57:10;
+
+[PrintText]=00:56:18	Kotonoha	Está bien. Estará bien si me limpio.	00:59:22;
+
+[PlayVoice]=00:56:18	Voice03/03-KB/03-KB-O07/03-KB-O07-0250	0	kot	00:59:22;
+
+[PrintText]=01:00:00	Makoto	Aún hay un poco en tu cabello.	01:05:08;
+
+[PlayVoice]=01:00:00	Voice03/03-KB/03-KB-O07/03-KB-O07-0260	1	mak	01:05:08;
+
+[PrintText]=01:04:22	Kotonoha	Ah... debería lavarlo.	01:08:05;
+
+[PlayVoice]=01:04:22	Voice03/03-KB/03-KB-O07/03-KB-O07-0270	0	kot	01:08:05;
+
+[CreateBG]=01:08:16	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-009	01:28:07;
+
+[PrintText]=01:08:20	Makoto	Lo siento.	01:09:18;
+
+[PlayVoice]=01:08:20	Voice03/03-KB/03-KB-O07/03-KB-O07-0280	1	mak	01:09:18;
+
+[PrintText]=01:09:18	Kotonoha	E-Está bien.	01:11:01;
+
+[PlayVoice]=01:09:18	Voice03/03-KB/03-KB-O07/03-KB-O07-0290	0	kot	01:11:01;
+
+[PrintText]=01:12:23	Makoto	...	01:14:06;
+
+[PlayVoice]=01:12:23	Voice03/03-KB/03-KB-O07/03-KB-O07-0300	1	xxx	01:14:06;
+
+[PrintText]=01:14:05	Kotonoha	U-uh... vale, entonces. Iré a lavarme el cabello.	01:21:00;
+
+[PlayVoice]=01:14:05	Voice03/03-KB/03-KB-O07/03-KB-O07-0310	0	kot	01:21:00;
+
+[PrintText]=01:21:03	Makoto	Vale.	01:21:22;
+
+[PlayVoice]=01:21:03	Voice03/03-KB/03-KB-O07/03-KB-O07-0320	1	mak	01:21:22;
+
+[PrintText]=01:22:12	Kotonoha	Está bien. Tenemos que... intentarlo de nuevo.	01:26:13;
+
+[PlayVoice]=01:22:12	Voice03/03-KB/03-KB-O07/03-KB-O07-0330	0	kot	01:26:13;
+
+[PrintText]=01:26:17	Makoto	...	01:27:17;
+
+[PlayVoice]=01:26:17	Voice03/03-KB/03-KB-O07/03-KB-O07-0340	1	xxx	01:27:17;
+
+[CreateBG]=01:28:07	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-010	01:34:01;
+
+[PrintText]=01:32:22	Makoto	Maldición.	01:34:00;
+
+[PlayVoice]=01:32:22	Voice03/03-KB/03-KB-O07/03-KB-O07-0360	1	mak	01:34:00;
+
+[PrintText]=01:34:00	Makoto	...	01:39:14;
+
+[PlayVoice]=01:34:00	Voice03/03-KB/03-KB-O07/03-KB-O07-0390	1	xxx	01:39:14;
+
+[CreateBG]=01:34:01	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-011	01:41:05;
+
+[CreateBG]=01:41:05	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-012	01:47:03;
+
+[PrintText]=01:41:09	Kotonoha	Perdón por hacerte esperar... ¿huh?^	01:44:20;
+
+[PlayVoice]=01:41:09	Voice03/03-KB/03-KB-O07/03-KB-O07-0410	0	kot	01:44:20;
+
+[PrintText]=01:45:16	Kotonoha	¿Makoto-kun...?^	01:46:23;
+
+[PlayVoice]=01:45:16	Voice03/03-KB/03-KB-O07/03-KB-O07-0430	0	kot	01:46:23;
+
+[CreateBG]=01:47:03	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-013	01:49:15;
+
+[PrintText]=01:47:19	Kotonoha	...	01:48:08;
+
+[PlayVoice]=01:47:19	Voice03/03-KB/03-KB-O07/03-KB-O07-0450	0	xxx	01:48:08;
+
+[CreateBG]=01:49:15	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-014	01:52:07;
+
+[PrintText]=01:50:13	Kotonoha	Esto es...	01:51:17;
+
+[PlayVoice]=01:50:13	Voice03/03-KB/03-KB-O07/03-KB-O07-0470	0	kot	01:51:17;
+
+[WhiteFade]=01:51:19	OUT	01:52:07;
+
+[PlayMovie]=01:52:07	Movie03/03-KB/03-KB-O07/H3-KB-O07-002	0	01:54:21;
+
+[WhiteFade]=01:52:07	IN	01:52:19;
+
+[PrintText]=01:52:17	Kotonoha	...	01:54:11;
+
+[PlayVoice]=01:52:17	Voice03/03-KB/03-KB-O07/03-KB-O07-0490	0	xxx	01:54:11;
+
+[WhiteFade]=01:54:09	OUT	01:54:21;
+
+[CreateBG]=01:54:21	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-016	01:58:17;
+
+[WhiteFade]=01:54:21	IN	01:55:09;
+
+[PrintText]=01:56:01	Kotonoha	Makoto-kun's...	01:57:14;
+
+[PlayVoice]=01:56:01	Voice03/03-KB/03-KB-O07/03-KB-O07-0510	0	kot	01:57:14;
+
+[BlackFade]=01:57:17	OUT	01:58:17;
+
+ ;
+
+[Next]=01:58:17;
+
+

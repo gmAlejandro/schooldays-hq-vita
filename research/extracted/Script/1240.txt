@@ -1,0 +1,435 @@
+﻿[SkipFRAME]=04:15:20;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-001	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-002	00:04:13;
+
+[PrintText]=00:01:04	Kotonoha	Um... ¿De qué quieres hablar conmigo...?^	00:04:16;
+
+[PlayVoice]=00:01:04	Voice04/04-SC/04-SC-C08/04-SC-C08-0040	0	kot	00:04:16;
+
+[CreateBG]=00:04:13	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-003	00:08:10;
+
+[PrintText]=00:04:16	Nanami	Katsura...	00:05:22;
+
+[PlayVoice]=00:04:16	Voice04/04-SC/04-SC-C08/04-SC-C08-0050	0	nan	00:05:22;
+
+[PrintText]=00:05:22	Kotonoha	¿Sí?^	00:06:18;
+
+[PlayVoice]=00:05:22	Voice04/04-SC/04-SC-C08/04-SC-C08-0060	0	kot	00:06:18;
+
+[PrintText]=00:06:18	Nanami	¿Te gusta Itou?^	00:08:11;
+
+[PlayVoice]=00:06:18	Voice04/04-SC/04-SC-C08/04-SC-C08-0070	0	nan	00:08:11;
+
+[CreateBG]=00:08:10	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-003B	00:10:03;
+
+[PrintText]=00:08:11	Kotonoha	¿Eh...?^	00:09:09;
+
+[PlayVoice]=00:08:11	Voice04/04-SC/04-SC-C08/04-SC-C08-0080	0	kot	00:09:09;
+
+[PrintText]=00:09:08	Nanami	...	00:10:05;
+
+[PlayVoice]=00:09:08	Voice04/04-SC/04-SC-C08/04-SC-C08-0090	0	xxx	00:10:05;
+
+[CreateBG]=00:10:03	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-004	00:14:04;
+
+[PrintText]=00:10:05	Kotonoha	¡Bueno..! ¡Um...! ¡Yo...!	00:14:07;
+
+[PlayVoice]=00:10:05	Voice04/04-SC/04-SC-C08/04-SC-C08-0100	0	kot	00:14:07;
+
+[CreateBG]=00:14:04	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-005	00:14:23;
+
+[PrintText]=00:14:07	Nanami	...	00:15:01;
+
+[PlayVoice]=00:14:07	Voice04/04-SC/04-SC-C08/04-SC-C08-0110	0	xxx	00:15:01;
+
+[CreateBG]=00:14:23	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-006	00:16:08;
+
+[PrintText]=00:15:07	Kotonoha	Sí.	00:16:03;
+
+[PlayVoice]=00:15:07	Voice04/04-SC/04-SC-C08/04-SC-C08-0120	0	kot	00:16:03;
+
+[CreateBG]=00:16:08	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-007	00:25:06;
+
+[PrintText]=00:16:10	Nanami	Ya veo.	00:17:09;
+
+[PlayVoice]=00:16:10	Voice04/04-SC/04-SC-C08/04-SC-C08-0140	0	nan	00:17:09;
+
+[PrintText]=00:17:09	Kotonoha	¿Qué hay con eso?^	00:19:11;
+
+[PlayVoice]=00:17:09	Voice04/04-SC/04-SC-C08/04-SC-C08-0150	0	kot	00:19:11;
+
+[PrintText]=00:19:11	Nanami	Disculpa, pero Itou ya tiene novia. ¿Te importaría no interferir?^	00:25:10;
+
+[PlayVoice]=00:19:11	Voice04/04-SC/04-SC-C08/04-SC-C08-0160	0	nan	00:25:10;
+
+[CreateBG]=00:25:06	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-008	00:26:07;
+
+[PrintText]=00:25:10	Kotonoha	¿Eh...?^	00:26:02;
+
+[PlayVoice]=00:25:10	Voice04/04-SC/04-SC-C08/04-SC-C08-0170	0	kot	00:26:02;
+
+[CreateBG]=00:26:07	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-009	00:28:22;
+
+[PrintText]=00:26:09	Nanami	Entiendes lo que estoy diciendo ¿No?^	00:29:01;
+
+[PlayVoice]=00:26:09	Voice04/04-SC/04-SC-C08/04-SC-C08-0180	0	nan	00:29:01;
+
+[CreateBG]=00:28:22	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-010	00:30:01;
+
+[PrintText]=00:29:03	Kotonoha	...No.	00:29:23;
+
+[PlayVoice]=00:29:03	Voice04/04-SC/04-SC-C08/04-SC-C08-0190	0	kot	00:29:23;
+
+[CreateBG]=00:30:01	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-011	00:31:03;
+
+[PrintText]=00:30:02	Nanami	¿Qué?^	00:30:23;
+
+[PlayVoice]=00:30:02	Voice04/04-SC/04-SC-C08/04-SC-C08-0200	0	nan	00:30:23;
+
+[CreateBG]=00:31:03	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-012	00:35:12;
+
+[PrintText]=00:31:04	Kotonoha	La novia de Makoto-kun soy yo.	00:35:15;
+
+[PlayVoice]=00:31:04	Voice04/04-SC/04-SC-C08/04-SC-C08-0210	0	kot	00:35:15;
+
+[CreateBG]=00:35:12	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-012B	00:38:21;
+
+[PrintText]=00:35:15	Nanami	¡No estamos hablando de tu novio imaginario!	00:39:00;
+
+[PlayVoice]=00:35:15	Voice04/04-SC/04-SC-C08/04-SC-C08-0220	0	nan	00:39:00;
+
+[CreateBG]=00:38:21	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-012C	00:43:21;
+
+[PrintText]=00:39:00	Kotonoha	Makoto-kun... dijo que era su novia, también.	00:44:01;
+
+[PlayVoice]=00:39:00	Voice04/04-SC/04-SC-C08/04-SC-C08-0230	0	kot	00:44:01;
+
+[CreateBG]=00:43:21	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-013	00:45:12;
+
+[PrintText]=00:44:01	Nanami	¿En serio dijo eso?^	00:45:13;
+
+[PlayVoice]=00:44:01	Voice04/04-SC/04-SC-C08/04-SC-C08-0240	0	nan	00:45:13;
+
+[CreateBG]=00:45:12	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-014	00:46:12;
+
+[PrintText]=00:45:16	Kotonoha	Sí.	00:46:09;
+
+[PlayVoice]=00:45:16	Voice04/04-SC/04-SC-C08/04-SC-C08-0250	0	kot	00:46:09;
+
+[CreateBG]=00:46:12	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-015	00:52:23;
+
+[PrintText]=00:46:13	Nanami	...	00:47:06;
+
+[PlayVoice]=00:46:13	Voice04/04-SC/04-SC-C08/04-SC-C08-0260	0	xxx	00:47:06;
+
+[PrintText]=00:47:06	Kotonoha	Ahora, si no tienes nada más que decir, me voy.	00:50:08;
+
+[PlayVoice]=00:47:06	Voice04/04-SC/04-SC-C08/04-SC-C08-0270	0	kot	00:50:08;
+
+[PrintText]=00:50:08	Nanami	No hemos terminado de hablar.	00:52:03;
+
+[PlayVoice]=00:50:08	Voice04/04-SC/04-SC-C08/04-SC-C08-0280	0	nan	00:52:03;
+
+[PrintText]=00:52:03	Kotonoha	...	00:53:02;
+
+[PlayVoice]=00:52:03	Voice04/04-SC/04-SC-C08/04-SC-C08-0290	0	xxx	00:53:02;
+
+[CreateBG]=00:52:23	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-016	00:56:06;
+
+[PrintText]=00:53:02	Nanami	¿Desde cuando con Itou?^	00:56:07;
+
+[PlayVoice]=00:53:02	Voice04/04-SC/04-SC-C08/04-SC-C08-0300	0	nan	00:56:07;
+
+[CreateBG]=00:56:06	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-017	00:57:12;
+
+[PrintText]=00:56:07	Kotonoha	...	00:57:08;
+
+[PlayVoice]=00:56:07	Voice04/04-SC/04-SC-C08/04-SC-C08-0310	0	xxx	00:57:08;
+
+[CreateBG]=00:57:12	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-018	01:02:04;
+
+[PrintText]=00:57:13	Nanami	Yo creo que fue antes del festival ¿No?^	01:02:06;
+
+[PlayVoice]=00:57:13	Voice04/04-SC/04-SC-C08/04-SC-C08-0320	0	nan	01:02:06;
+
+[CreateBG]=01:02:04	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-018B	01:11:07;
+
+[PrintText]=01:02:07	Kotonoha	No tengo porque responder a eso.	01:03:22;
+
+[PlayVoice]=01:02:07	Voice04/04-SC/04-SC-C08/04-SC-C08-0330	0	kot	01:03:22;
+
+[PrintText]=01:03:22	Nanami	Bueno, como sea... solo sé que tú no eres la chica con la que sale Itou.	01:11:09;
+
+[PlayVoice]=01:03:22	Voice04/04-SC/04-SC-C08/04-SC-C08-0340	0	nan	01:11:09;
+
+[CreateBG]=01:11:07	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-019	01:12:22;
+
+[PrintText]=01:11:09	Kotonoha	¿Qué quieres decir?^	01:13:00;
+
+[PlayVoice]=01:11:09	Voice04/04-SC/04-SC-C08/04-SC-C08-0350	0	kot	01:13:00;
+
+[CreateBG]=01:12:22	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-020	01:20:17;
+
+[PrintText]=01:12:23	Nanami	Desde la ceremonia de entrada había una chica enamorada de él. Ella estaba saliendo con él antes que tú.	01:20:20;
+
+[PlayVoice]=01:12:23	Voice04/04-SC/04-SC-C08/04-SC-C08-0360	0	nan	01:20:20;
+
+[CreateBG]=01:20:17	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-021	01:21:20;
+
+[PrintText]=01:20:20	Kotonoha	Estás mintiendo.	01:21:22;
+
+[PlayVoice]=01:20:20	Voice04/04-SC/04-SC-C08/04-SC-C08-0370	0	kot	01:21:22;
+
+[CreateBG]=01:21:20	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-022	01:31:16;
+
+[PrintText]=01:21:22	Nanami	Es una chica muy animada, pero a la misma vez tímida. Y cuando hay problemas, ella no hace nada, por eso estoy aquí.	01:31:16;
+
+[PlayVoice]=01:21:22	Voice04/04-SC/04-SC-C08/04-SC-C08-0380	0	nan	01:31:16;
+
+[CreateBG]=01:31:16	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-023	01:34:02;
+
+[PrintText]=01:31:16	Kotonoha	¿Entonces estás a su pedido?^	01:34:04;
+
+[PlayVoice]=01:31:16	Voice04/04-SC/04-SC-C08/04-SC-C08-0390	0	kot	01:34:04;
+
+[CreateBG]=01:34:02	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-024	01:42:07;
+
+[PrintText]=01:34:04	Nanami	Por supuesto que no. Ella es del tipo de chicas que dicen, 'Qué mal, lo dejaré ir' cuando pasan cosas así.	01:42:10;
+
+[PlayVoice]=01:34:04	Voice04/04-SC/04-SC-C08/04-SC-C08-0400	0	nan	01:42:10;
+
+[CreateBG]=01:42:07	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-025	01:47:06;
+
+[PrintText]=01:42:11	Kotonoha	...	01:44:03;
+
+[PlayVoice]=01:42:11	Voice04/04-SC/04-SC-C08/04-SC-C08-0410	0	xxx	01:44:03;
+
+[PrintText]=01:44:05	Nanami	Pero no dejaré que eso pase.	01:47:09;
+
+[PlayVoice]=01:44:05	Voice04/04-SC/04-SC-C08/04-SC-C08-0420	0	nan	01:47:09;
+
+[CreateBG]=01:47:06	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-026	01:52:03;
+
+[PrintText]=01:47:09	Kotonoha	... ¿Quién es? La chica que cree estar saliendo con Makoto-kun.	01:52:07;
+
+[PlayVoice]=01:47:09	Voice04/04-SC/04-SC-C08/04-SC-C08-0430	0	kot	01:52:07;
+
+[CreateBG]=01:52:03	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-027	01:55:23;
+
+[PrintText]=01:52:08	Nanami	Ya te dije, ella no 'cree' estar saliendo con él. Ella está saliendo con él.	01:56:01;
+
+[PlayVoice]=01:52:08	Voice04/04-SC/04-SC-C08/04-SC-C08-0440	0	nan	01:56:01;
+
+[CreateBG]=01:55:23	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-028	01:57:01;
+
+[PrintText]=01:56:01	Kotonoha	...	01:56:20;
+
+[PlayVoice]=01:56:01	Voice04/04-SC/04-SC-C08/04-SC-C08-0450	0	xxx	01:56:20;
+
+[CreateBG]=01:57:01	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-028B	01:58:11;
+
+[PrintText]=01:57:03	Nanami	...¿Qué vas a hacer si te lo digo?^	01:58:15;
+
+[PlayVoice]=01:57:03	Voice04/04-SC/04-SC-C08/04-SC-C08-0460	0	nan	01:58:15;
+
+[CreateBG]=01:58:11	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-028C	02:01:14;
+
+[PrintText]=01:58:14	Kotonoha	Le diré que se rinda.	02:01:16;
+
+[PlayVoice]=01:58:14	Voice04/04-SC/04-SC-C08/04-SC-C08-0470	0	kot	02:01:16;
+
+[PlaySe]=01:59:04	2	SysSe/SE_all/gaya/kyousitu_rouka	03:58:09;
+
+[CreateBG]=02:01:14	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-029	02:02:15;
+
+[PrintText]=02:01:17	Nanami	¡No seas tonta!	02:02:17;
+
+[PlayVoice]=02:01:17	Voice04/04-SC/04-SC-C08/04-SC-C08-0480	0	nan	02:02:17;
+
+[CreateBG]=02:02:15	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-030	02:10:00;
+
+[PrintText]=02:02:17	Kotonoha	...Si Makoto-kun a causado este malentendido con esa chica, lo menos que puedo hacer es disculparme con ella también.	02:10:03;
+
+[PlayVoice]=02:02:17	Voice04/04-SC/04-SC-C08/04-SC-C08-0490	0	kot	02:10:03;
+
+[CreateBG]=02:10:00	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-031	02:18:12;
+
+[PrintText]=02:10:03	Nanami	...De verdad no tienes remedio ¿No? Me parecías un tanto molestosa desde la primaria, pero nunca imaginé que fueras tan mala.	02:18:14;
+
+[PlayVoice]=02:10:03	Voice04/04-SC/04-SC-C08/04-SC-C08-0500	0	nan	02:18:14;
+
+[CreateBG]=02:18:12	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-032	02:25:06;
+
+[PrintText]=02:18:14	Kotonoha	Yo nunca imaginé que inventarías una novia para separarme de Makoto tampoco.	02:25:07;
+
+[PlayVoice]=02:18:14	Voice04/04-SC/04-SC-C08/04-SC-C08-0510	0	kot	02:25:07;
+
+[CreateBG]=02:25:06	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-033	02:26:15;
+
+[PrintText]=02:25:11	Nanami	¿Qué?^	02:26:10;
+
+[PlayVoice]=02:25:11	Voice04/04-SC/04-SC-C08/04-SC-C08-0520	0	nan	02:26:10;
+
+[CreateBG]=02:26:15	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-034	02:27:22;
+
+[PrintText]=02:26:16	Kotonoha	...	02:27:23;
+
+[PlayVoice]=02:26:16	Voice04/04-SC/04-SC-C08/04-SC-C08-0530	0	xxx	02:27:23;
+
+[CreateBG]=02:27:22	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-035	02:36:09;
+
+[PrintText]=02:28:14	Nanami	¡Hah!	02:29:06;
+
+[PlayVoice]=02:28:14	Voice04/04-SC/04-SC-C08/04-SC-C08-0550	0	nan	02:29:06;
+
+[PrintText]=02:29:07	Nanami	Si tanto quieres saberlo, te lo diré.	02:32:02;
+
+[PlayVoice]=02:29:07	Voice04/04-SC/04-SC-C08/04-SC-C08-0570	0	nan	02:32:02;
+
+[PrintText]=02:32:02	Kotonoha	Vale.	02:32:18;
+
+[PlayVoice]=02:32:02	Voice04/04-SC/04-SC-C08/04-SC-C08-0580	0	kot	02:32:18;
+
+[PrintText]=02:32:19	Nanami	Es Sekai. Saionji Sekai.	02:36:08;
+
+[PlayVoice]=02:32:19	Voice04/04-SC/04-SC-C08/04-SC-C08-0590	0	nan	02:36:08;
+
+[PrintText]=02:36:08	Kotonoha	¿Eh...?^	02:37:19;
+
+[PlayVoice]=02:36:08	Voice04/04-SC/04-SC-C08/04-SC-C08-0600	0	kot	02:37:19;
+
+[CreateBG]=02:36:09	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-036	02:37:21;
+
+[PrintText]=02:37:19	Nanami	La viste en el almuerzo ¿No? La chica que se sienta al costado de Itou.	02:43:00;
+
+[PlayVoice]=02:37:19	Voice04/04-SC/04-SC-C08/04-SC-C08-0610	0	nan	02:43:00;
+
+[CreateBG]=02:37:21	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-037	02:43:00;
+
+[CreateBG]=02:43:00	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-038	02:52:09;
+
+[PrintText]=02:43:00	Kotonoha	Es Mentira... Saionji-san fue la que me dijo que tenía que salir con Makoto-kun...	02:52:08;
+
+[PlayVoice]=02:43:00	Voice04/04-SC/04-SC-C08/04-SC-C08-0630	0	kot	02:52:08;
+
+[PrintText]=02:52:08	Nanami	No hay manera de que ella diga eso.	02:54:01;
+
+[PlayVoice]=02:52:08	Voice04/04-SC/04-SC-C08/04-SC-C08-0640	0	nan	02:54:01;
+
+[CreateBG]=02:52:09	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-038B	02:54:02;
+
+[PrintText]=02:54:01	Kotonoha	Lo hizo... es verdad...	02:58:23;
+
+[PlayVoice]=02:54:01	Voice04/04-SC/04-SC-C08/04-SC-C08-0650	0	kot	02:58:23;
+
+[CreateBG]=02:54:02	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-039	02:58:23;
+
+[CreateBG]=02:58:23	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-040	03:06:20;
+
+[PrintText]=02:58:23	Nanami	La conozco... tal vez ella después de escuchar que te gustaba Itou decidió dejarlo ir...	03:07:03;
+
+[PlayVoice]=02:58:23	Voice04/04-SC/04-SC-C08/04-SC-C08-0660	0	nan	03:07:03;
+
+[CreateBG]=03:06:20	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-041	03:13:08;
+
+[PrintText]=03:07:03	Kotonoha	Eso no es verdad... Saionji-san no está saliendo con él.	03:13:14;
+
+[PlayVoice]=03:07:03	Voice04/04-SC/04-SC-C08/04-SC-C08-0670	0	kot	03:13:14;
+
+[CreateBG]=03:13:08	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-042	03:20:15;
+
+[PrintText]=03:13:14	Nanami	Es así. Sus amigas y yo sabemos que le gusta Itou.	03:20:19;
+
+[PlayVoice]=03:13:14	Voice04/04-SC/04-SC-C08/04-SC-C08-0680	0	nan	03:20:19;
+
+[CreateBG]=03:20:15	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-043	03:25:18;
+
+[PrintText]=03:20:19	Kotonoha	Estás equivocada... es un malentendido...	03:25:23;
+
+[PlayVoice]=03:20:19	Voice04/04-SC/04-SC-C08/04-SC-C08-0690	0	kot	03:25:23;
+
+[CreateBG]=03:25:18	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-044	03:37:22;
+
+[PrintText]=03:25:23	Nanami	¡Te lo estoy diciendo, no es así! ¡Sekai incluso se a quedado en la casa de él muchas veces!	03:33:06;
+
+[PlayVoice]=03:25:23	Voice04/04-SC/04-SC-C08/04-SC-C08-0700	0	nan	03:33:06;
+
+[PrintText]=03:33:19	Nanami	¿Sabes lo que significa cuando un chico y una chica pasan una noche juntos?^	03:38:01;
+
+[PlayVoice]=03:33:19	Voice04/04-SC/04-SC-C08/04-SC-C08-0701	0	nan	03:38:01;
+
+[CreateBG]=03:37:22	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-045	03:39:06;
+
+[PrintText]=03:38:05	Kotonoha	No...	03:39:10;
+
+[PlayVoice]=03:38:05	Voice04/04-SC/04-SC-C08/04-SC-C08-0710	0	kot	03:39:10;
+
+[CreateBG]=03:39:06	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-046	03:43:22;
+
+[PrintText]=03:39:10	Nanami	Ellos prácticamente han dormido juntos. ¿Qué clase de malentendido crees que habría?^	03:44:02;
+
+[PlayVoice]=03:39:10	Voice04/04-SC/04-SC-C08/04-SC-C08-0720	0	nan	03:44:02;
+
+[CreateBG]=03:43:22	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-047	03:50:03;
+
+[PrintText]=03:44:02	Kotonoha	Pero... todas las noches, me enviaba un correo diciéndome 'Buenas Noches'...	03:50:10;
+
+[PlayVoice]=03:44:02	Voice04/04-SC/04-SC-C08/04-SC-C08-0730	0	kot	03:50:10;
+
+[CreateBG]=03:50:03	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-048	03:51:19;
+
+[PrintText]=03:50:10	Nanami	No sabía eso.	03:51:22;
+
+[PlayVoice]=03:50:10	Voice04/04-SC/04-SC-C08/04-SC-C08-0740	0	nan	03:51:22;
+
+[CreateBG]=03:51:19	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-049	03:55:00;
+
+[PrintText]=03:51:22	Kotonoha	Estás mintiendo... Makoto-kun es...	03:55:04;
+
+[PlayVoice]=03:51:22	Voice04/04-SC/04-SC-C08/04-SC-C08-0750	0	kot	03:55:04;
+
+[CreateBG]=03:55:00	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-050	03:58:00;
+
+[PrintText]=03:55:05	Nanami	Como sea, así son las cosas.	03:58:04;
+
+[PlayVoice]=03:55:05	Voice04/04-SC/04-SC-C08/04-SC-C08-0760	0	nan	03:58:04;
+
+[CreateBG]=03:58:00	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-051	04:06:23;
+
+[PrintText]=03:58:03	Kotonoha	...	03:59:11;
+
+[PlayVoice]=03:58:03	Voice04/04-SC/04-SC-C08/04-SC-C08-0770	0	xxx	03:59:11;
+
+[PlaySe]=03:58:08	1	SysSe/SE_all/gaya/kyousitu_rouka	04:15:20;
+
+[PrintText]=03:59:11	Nanami	Estás advertida. La próxima vez que te acerques a él, ya no seré amable.	04:05:13;
+
+[PlayVoice]=03:59:11	Voice04/04-SC/04-SC-C08/04-SC-C08-0780	0	nan	04:05:13;
+
+[PrintText]=04:05:13	Kotonoha	...	04:07:02;
+
+[PlayVoice]=04:05:13	Voice04/04-SC/04-SC-C08/04-SC-C08-0790	0	xxx	04:07:02;
+
+[CreateBG]=04:06:23	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-052	04:08:01;
+
+[PrintText]=04:07:09	Nanami	Hmph.	04:08:00;
+
+[PlayVoice]=04:07:09	Voice04/04-SC/04-SC-C08/04-SC-C08-0800	0	nan	04:08:00;
+
+[CreateBG]=04:08:01	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-053	04:12:11;
+
+[PrintText]=04:08:07	Kotonoha	¿Makoto-kun y Saionji-san...?^	04:12:10;
+
+[PlayVoice]=04:08:07	Voice04/04-SC/04-SC-C08/04-SC-C08-0820	0	kot	04:12:10;
+
+[CreateBG]=04:12:11	BGS	Event04/04-SC/04-SC-C08/04-SC-C08-054	04:15:20;
+
+ ;
+
+[Next]=04:15:20;
+
+

@@ -1,0 +1,121 @@
+﻿[SkipFRAME]=00:54:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:54:02;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-D01/SE04-KA-D01-001	00:54:02;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:09:11;
+
+[PrintText]=00:03:00	Makoto	Está muy lleno...	00:04:10;
+
+[PlayVoice]=00:03:00	Voice04/04-KA/04-KA-D01/04-KA-D01-0040	1	mak	00:04:10;
+
+[PrintText]=00:04:11	Kotonoha	Parece ser por la hora punta...	00:07:13;
+
+[PlayVoice]=00:04:11	Voice04/04-KA/04-KA-D01/04-KA-D01-0050	0	kot	00:07:13;
+
+[PrintText]=00:07:13	Makoto	Sí...	00:08:08;
+
+[PlayVoice]=00:07:13	Voice04/04-KA/04-KA-D01/04-KA-D01-0060	1	mak	00:08:08;
+
+[PlayMovie]=00:09:11	Movie04/04-KA/04-KA-D01/04-KA-D01-002	0	00:26:21;
+
+[PrintText]=00:09:15	Makoto	Ah...	00:10:06;
+
+[PlayVoice]=00:09:15	Voice04/04-KA/04-KA-D01/04-KA-D01-0080	1	mak	00:10:06;
+
+[PrintText]=00:10:11	Makoto	Perdón...	00:11:15;
+
+[PlayVoice]=00:10:11	Voice04/04-KA/04-KA-D01/04-KA-D01-0100	1	mak	00:11:15;
+
+[PrintText]=00:11:16	Kotonoha	Está bien.	00:12:17;
+
+[PlayVoice]=00:11:16	Voice04/04-KA/04-KA-D01/04-KA-D01-0110	0	kot	00:12:17;
+
+[PrintText]=00:12:21	Makoto	...	00:13:12;
+
+[PlayVoice]=00:12:21	Voice04/04-KA/04-KA-D01/04-KA-D01-0120	1	xxx	00:13:12;
+
+[PrintText]=00:13:17	Kotonoha	...	00:14:07;
+
+[PlayVoice]=00:13:17	Voice04/04-KA/04-KA-D01/04-KA-D01-0130	0	xxx	00:14:07;
+
+[PrintText]=00:14:07	Kotonoha	Kyah...	00:15:16;
+
+[PlayVoice]=00:14:07	Voice04/04-KA/04-KA-D01/04-KA-D01-0160	0	kot	00:15:16;
+
+[PrintText]=00:16:16	Makoto	¡P-Perdón!	00:17:20;
+
+[PlayVoice]=00:16:16	Voice04/04-KA/04-KA-D01/04-KA-D01-0170	1	mak	00:17:20;
+
+[PrintText]=00:17:23	Kotonoha	...	00:18:20;
+
+[PlayVoice]=00:17:23	Voice04/04-KA/04-KA-D01/04-KA-D01-0180	0	xxx	00:18:20;
+
+[PrintText]=00:22:04	Kotonoha	...Ya veo.	00:23:14;
+
+[PlayVoice]=00:22:04	Voice04/04-KA/04-KA-D01/04-KA-D01-0200	0	kot	00:23:14;
+
+[PrintText]=00:23:19	Makoto	¿Eh?^	00:24:10;
+
+[PlayVoice]=00:23:19	Voice04/04-KA/04-KA-D01/04-KA-D01-0220	1	mak	00:24:10;
+
+[PrintText]=00:24:17	Kotonoha	No soy... la única que tiene miedo... y está temblando.	00:31:01;
+
+[PlayVoice]=00:24:17	Voice04/04-KA/04-KA-D01/04-KA-D01-0230	0	kot	00:31:01;
+
+[PlayMovie]=00:26:21	Movie04/04-KA/04-KA-D01/04-KA-D01-007	0	00:42:13;
+
+[PrintText]=00:31:02	Makoto	¿Huh? ¿Qué?^	00:33:01;
+
+[PlayVoice]=00:31:02	Voice04/04-KA/04-KA-D01/04-KA-D01-0240	1	mak	00:33:01;
+
+[PrintText]=00:33:02	Kotonoha	...No te preocupes.	00:36:05;
+
+[PlayVoice]=00:33:02	Voice04/04-KA/04-KA-D01/04-KA-D01-0250	0	kot	00:36:05;
+
+[PrintText]=00:36:05	Makoto	...	00:37:11;
+
+[PlayVoice]=00:36:05	Voice04/04-KA/04-KA-D01/04-KA-D01-0270	1	xxx	00:37:11;
+
+[PrintText]=00:37:11	Kotonoha	Makoto-kun.	00:38:16;
+
+[PlayVoice]=00:37:11	Voice04/04-KA/04-KA-D01/04-KA-D01-0280	0	kot	00:38:16;
+
+[PrintText]=00:38:16	Makoto	...	00:39:08;
+
+[PlayVoice]=00:38:16	Voice04/04-KA/04-KA-D01/04-KA-D01-0290	1	xxx	00:39:08;
+
+[PrintText]=00:39:08	Kotonoha	Makoto-kun.	00:40:12;
+
+[PlayVoice]=00:39:08	Voice04/04-KA/04-KA-D01/04-KA-D01-0300	0	kot	00:40:12;
+
+[PrintText]=00:40:12	Makoto	S-Sí.	00:42:12;
+
+[PlayVoice]=00:40:12	Voice04/04-KA/04-KA-D01/04-KA-D01-0310	1	mak	00:42:12;
+
+[PlayMovie]=00:42:13	Movie04/04-KA/04-KA-D01/04-KA-D01-008	0	00:48:07;
+
+[PrintText]=00:47:10	Makoto	¡Ah!	00:48:10;
+
+[PlayVoice]=00:47:10	Voice04/04-KA/04-KA-D01/04-KA-D01-0340	1	mak	00:48:10;
+
+[PlayMovie]=00:48:07	Movie04/04-KA/04-KA-D01/04-KA-D01-009	0	00:54:02;
+
+[PrintText]=00:48:15	Kotonoha	...	00:51:01;
+
+[PlayVoice]=00:48:15	Voice04/04-KA/04-KA-D01/04-KA-D01-0350	0	xxx	00:51:01;
+
+[PrintText]=00:50:20	Makoto	P-Pero...	00:52:14;
+
+[PlayVoice]=00:50:20	Voice04/04-KA/04-KA-D01/04-KA-D01-0370	1	mak	00:52:14;
+
+[PrintText]=00:52:12	Kotonoha	...	00:54:01;
+
+[PlayVoice]=00:52:12	Voice04/04-KA/04-KA-D01/04-KA-D01-0380	0	xxx	00:54:01;
+
+ ;
+
+[Next]=00:54:02;
+
+

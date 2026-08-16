@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:05:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:05:00;
+
+[PlayMovie]=00:00:00	Movie04/04-SB/04-SB-D01/04-SB-D01-001	0	00:05:00;
+
+[PrintText]=00:00:08	Makoto	Perdóname...	00:01:05;
+
+[PlayVoice]=00:00:08	Voice04/04-SB/04-SB-D01/04-SB-D01-0030	1	mak	00:01:05;
+
+[PrintText]=00:01:12	Kotonoha	...	00:03:21;
+
+[PlayVoice]=00:01:12	Voice04/04-SB/04-SB-D01/04-SB-D01-0040	0	xxx	00:03:21;
+
+[BlackFade]=00:04:00	OUT	00:05:00;
+
+ ;
+
+[Next]=00:05:00;
+
+

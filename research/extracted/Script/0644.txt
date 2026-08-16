@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:27:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:33:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E01/03-KB-E01-001	00:19:04;
+
+[PrintText]=00:00:00	Taisuke	No importa quien sea tu novia. No quiero invitar a Saionji sin saber si está bien para ti.	00:08:09;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E01/03-KB-E01-0030	1	tai	00:08:09;
+
+[PrintText]=00:08:09	Makoto	...	00:09:14;
+
+[PlayVoice]=00:08:09	Voice03/03-KB/03-KB-E01/03-KB-E01-0040	1	xxx	00:09:14;
+
+[PrintText]=00:09:14	Taisuke	Pero ahora que sé que no estás saliendo con ella.	00:12:14;
+
+[PlayVoice]=00:09:14	Voice03/03-KB/03-KB-E01/03-KB-E01-0050	1	tai	00:16:03;
+
+[PrintText]=00:12:14	Taisuke	Trabajaré en poner todo de mi para preguntarle mañana.	00:16:03;
+
+[PrintText]=00:16:02	Makoto	...Sí.	00:17:00;
+
+[PlayVoice]=00:16:02	Voice03/03-KB/03-KB-E01/03-KB-E01-0060	1	mak	00:17:00;
+
+[PrintText]=00:17:00	Taisuke	Perdón por llamarte por este tipo de cosas.	00:19:04;
+
+[PlayVoice]=00:17:00	Voice03/03-KB/03-KB-E01/03-KB-E01-0070	1	tai	00:19:04;
+
+[CreateBG]=00:19:04	BGS	Event03/03-KB/03-KB-E01/03-KB-E01-002	00:33:16;
+
+[PrintText]=00:19:04	Makoto	E-Está bien.	00:21:07;
+
+[PlayVoice]=00:19:04	Voice03/03-KB/03-KB-E01/03-KB-E01-0080	1	mak	00:21:07;
+
+[PrintText]=00:21:07	Taisuke	Daré mi mejor esfuerzo mañana. Solo mírame.	00:26:11;
+
+[PlayVoice]=00:21:07	Voice03/03-KB/03-KB-E01/03-KB-E01-0090	1	tai	00:26:11;
+
+[PrintText]=00:26:11	Makoto	...	00:27:15;
+
+[PlayVoice]=00:26:11	Voice03/03-KB/03-KB-E01/03-KB-E01-0100	1	xxx	00:27:15;
+
+[SetSELECT]=00:27:15	'Espera Sawanaga'	null	00:32:15;
+
+ ;
+
+[Next]=00:33:16;
+
+

@@ -1,0 +1,119 @@
+﻿[SkipFRAME]=00:46:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:34:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-001	00:01:00;
+
+[PrintText]=00:00:07	Makoto	Buen día.	00:01:07;
+
+[PlayVoice]=00:00:07	Voice05/05-SD/05-SD-C01/05-SD-C01-0030	1	mak	00:01:07;
+
+[CreateBG]=00:01:00	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-006	00:03:05;
+
+[PrintText]=00:01:07	Taisuke	Hey, buen día.	00:03:05;
+
+[PlayVoice]=00:01:07	Voice05/05-SD/05-SD-C01/05-SD-C01-0040	1	tai	00:03:05;
+
+[CreateBG]=00:03:05	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-003	00:05:11;
+
+[PrintText]=00:03:05	Makoto	Hace mucho frío hoy ¿Huh?^	00:05:11;
+
+[PlayVoice]=00:03:05	Voice05/05-SD/05-SD-C01/05-SD-C01-0050	1	mak	00:05:11;
+
+[CreateBG]=00:05:11	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-004	00:11:09;
+
+[PrintText]=00:05:11	Taisuke	Sí, vi el pronostico, y dijeron que iba a estar un poco nublado desde hoy.	00:11:09;
+
+[PlayVoice]=00:05:11	Voice05/05-SD/05-SD-C01/05-SD-C01-0060	1	tai	00:11:09;
+
+[CreateBG]=00:11:09	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-005	00:13:00;
+
+[PrintText]=00:11:09	Makoto	Lo suponía.	00:12:23;
+
+[PlayVoice]=00:11:09	Voice05/05-SD/05-SD-C01/05-SD-C01-0070	1	mak	00:12:23;
+
+[CreateBG]=00:13:00	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-006	00:24:18;
+
+[PrintText]=00:13:00	Taisuke	Te has apurado hoy ¿No? Yamamoto estará aquí en un minuto.	00:17:23;
+
+[PlayVoice]=00:13:00	Voice05/05-SD/05-SD-C01/05-SD-C01-0080	1	tai	00:17:23;
+
+[PrintText]=00:17:23	Makoto	Bueno, todo está bien, al menos no llegué tarde. Estaba escuchando la radio y casi me quedo dormido.	00:24:17;
+
+[PlayVoice]=00:17:23	Voice05/05-SD/05-SD-C01/05-SD-C01-0090	1	mak	00:24:17;
+
+[CreateBG]=00:24:18	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-007	00:25:22;
+
+[PrintText]=00:24:18	Taisuke	¿Qué programa?^	00:25:22;
+
+[PlayVoice]=00:24:18	Voice05/05-SD/05-SD-C01/05-SD-C01-0100	1	tai	00:25:22;
+
+[CreateBG]=00:25:22	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-008	00:31:21;
+
+[PrintText]=00:25:22	Makoto	Ya sabes, el de ese chico con peinado afro.	00:27:13;
+
+[PlayVoice]=00:25:22	Voice05/05-SD/05-SD-C01/05-SD-C01-0110	1	mak	00:27:13;
+
+[PrintText]=00:27:14	Taisuke	Oh, ese... tiene un buen show ¿huh?^	00:31:05;
+
+[PlayVoice]=00:27:14	Voice05/05-SD/05-SD-C01/05-SD-C01-0120	1	tai	00:31:05;
+
+[PrintText]=00:31:05	Makoto	También lo crees.	00:31:21;
+
+[PlayVoice]=00:31:05	Voice05/05-SD/05-SD-C01/05-SD-C01-0130	1	mak	00:31:21;
+
+[CreateBG]=00:31:21	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-004	00:35:04;
+
+[PrintText]=00:31:21	Taisuke	Estaba escuchando la radio últimamente, y...	00:34:05;
+
+[PlayVoice]=00:31:21	Voice05/05-SD/05-SD-C01/05-SD-C01-0140	1	tai	00:34:05;
+
+[PrintText]=00:34:05	Sekai	Makoto.	00:35:03;
+
+[PlayVoice]=00:34:05	Voice05/05-SD/05-SD-C01/05-SD-C01-0150	0	sek	00:35:03;
+
+[PrintText]=00:35:03	Makoto	Sekai...	00:36:02;
+
+[PlayVoice]=00:35:03	Voice05/05-SD/05-SD-C01/05-SD-C01-0170	1	mak	00:36:02;
+
+[PlayBgm]=00:35:04	BGM/SD_BGM/sdbgm21	00:46:09;
+
+[CreateBG]=00:35:04	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-010	00:38:14;
+
+[PrintText]=00:36:03	Sekai	Ven.	00:36:21;
+
+[PlayVoice]=00:36:03	Voice05/05-SD/05-SD-C01/05-SD-C01-0180	0	sek	00:36:21;
+
+[PrintText]=00:36:20	Makoto	¿Eh?^	00:37:11;
+
+[PlayVoice]=00:36:20	Voice05/05-SD/05-SD-C01/05-SD-C01-0190	1	mak	00:37:11;
+
+[PrintText]=00:37:19	Sekai	Ven.	00:38:13;
+
+[PlayVoice]=00:37:19	Voice05/05-SD/05-SD-C01/05-SD-C01-0200	0	sek	00:38:13;
+
+[CreateBG]=00:38:14	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-011	00:41:19;
+
+[PrintText]=00:38:14	Makoto	V-Vale, pero la clase está a punto de...	00:42:04;
+
+[PlayVoice]=00:38:14	Voice05/05-SD/05-SD-C01/05-SD-C01-0210	1	mak	00:42:04;
+
+[PrintText]=00:41:15	Sekai	¡Solo ven!	00:43:03;
+
+[PlayVoice]=00:41:15	Voice05/05-SD/05-SD-C01/05-SD-C01-0220	0	sek	00:43:03;
+
+[CreateBG]=00:41:19	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-012	00:43:06;
+
+[CreateBG]=00:43:06	BGS	Event05/05-SD/05-SD-C01/05-SD-C01-006	00:46:09;
+
+[PrintText]=00:43:06	Makoto	B-Bien, vale.	00:46:07;
+
+[PlayVoice]=00:43:06	Voice05/05-SD/05-SD-C01/05-SD-C01-0230	1	mak	00:46:07;
+
+ ;
+
+[Next]=00:46:09;
+
+
+
+

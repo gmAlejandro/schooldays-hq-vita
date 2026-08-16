@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:17:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:17:03;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-F02/04-KA-F02-001	00:01:03;
+
+[PrintText]=00:00:00	Makoto	No, No iré.	00:01:01;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-F02/04-KA-F02-0030	1	mak	00:01:01;
+
+[PrintText]=00:01:01	Taisuke	¿Eh? ¿Por qué no?^	00:02:11;
+
+[PlayVoice]=00:01:01	Voice04/04-KA/04-KA-F02/04-KA-F02-0040	1	tai	00:02:11;
+
+[CreateBG]=00:01:03	BGS	Event04/04-KA/04-KA-F02/04-KA-F02-002	00:11:20;
+
+[PrintText]=00:02:11	Makoto	No he dormido mucho. Estoy exhausto.	00:05:21;
+
+[PlayVoice]=00:02:11	Voice04/04-KA/04-KA-F02/04-KA-F02-0050	1	mak	00:05:21;
+
+[PrintText]=00:05:21	Taisuke	Ya veo... bueno, No te forces a ir. Solo digo que habrán mas chicas que chicos.	00:11:20;
+
+[PlayVoice]=00:05:21	Voice04/04-KA/04-KA-F02/04-KA-F02-0060	1	tai	00:11:20;
+
+[CreateBG]=00:11:20	BGS	Event04/04-KA/04-KA-F02/04-KA-F02-003	00:17:03;
+
+[PrintText]=00:11:20	Makoto	Sí... Sí... da tu mejor esfuerzo.	00:14:00;
+
+[PlayVoice]=00:11:20	Voice04/04-KA/04-KA-F02/04-KA-F02-0070	1	mak	00:14:00;
+
+[PrintText]=00:14:00	Taisuke	Lo apostaría. ¡Nos vemos!	00:15:10;
+
+[PlayVoice]=00:14:00	Voice04/04-KA/04-KA-F02/04-KA-F02-0080	1	tai	00:15:10;
+
+[PrintText]=00:15:10	Makoto	Sí.	00:16:06;
+
+[PlayVoice]=00:15:10	Voice04/04-KA/04-KA-F02/04-KA-F02-0090	1	mak	00:16:06;
+
+ ;
+
+[Next]=00:17:03;
+
+

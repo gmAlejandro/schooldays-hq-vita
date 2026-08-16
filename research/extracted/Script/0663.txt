@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:12:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:12:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-H02/03-KB-H02-001	00:07:18;
+
+[PlaySe]=00:00:18	1	SysSe/SE_all/keitai/keitai_vib	00:03:05;
+
+[PrintText]=00:02:16	Makoto	Nn...	00:04:03;
+
+[PlayVoice]=00:02:16	Voice03/03-KB/03-KB-H02/03-KB-H02-0030	1	mak	00:04:03;
+
+[PlaySe]=00:03:10	1	SysSe/SE_all/keitai/keitai_vib	00:05:21;
+
+[PlaySe]=00:06:03	1	SysSe/SE_all/keitai/keitai_vib	00:08:13;
+
+[PrintText]=00:06:05	Makoto	Zzz... Zzz...	00:10:02;
+
+[PlayVoice]=00:06:05	Voice03/03-KB/03-KB-H02/03-KB-H02-0040	1	mak	00:10:02;
+
+[CreateBG]=00:07:18	BGS	Event03/03-KB/03-KB-H02/03-KB-H02-002	00:12:00;
+
+[PlaySe]=00:08:19	1	SysSe/SE_all/keitai/keitai_vib	00:11:06;
+
+ ;
+
+[Next]=00:12:00;
+
+

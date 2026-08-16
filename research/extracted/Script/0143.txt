@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:17:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:23:18;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-C03/01-1K-C03-001	00:04:19;
+
+[PrintText]=00:00:00	Makoto	Hmm...	00:01:19;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C03/01-1K-C03-0030	1	mak	00:01:19;
+
+[PrintText]=00:02:10	Makoto	Que situación para más difícil.	00:04:13;
+
+[PlayVoice]=00:02:10	Voice01/01-1K/01-1K-C03/01-1K-C03-0040	1	mak	00:04:13;
+
+[CreateBG]=00:04:19	BGS	Event01/01-1K/01-1K-C03/01-1K-C03-002	00:12:00;
+
+[PrintText]=00:04:23	Makoto	Silmaril-y algo se ve un poco buena, y 'Triangulo de amor' es probablemente una película muy romántica.	00:11:22;
+
+[PlayVoice]=00:04:23	Voice01/01-1K/01-1K-C03/01-1K-C03-0050	1	mak	00:11:22;
+
+[CreateBG]=00:12:00	BGS	Event01/01-1K/01-1K-C01/01-1K-C01-002	00:14:08;
+
+[PrintText]=00:12:01	Makoto	Eso debería ser muy vergonzoso...	00:14:07;
+
+[PlayVoice]=00:12:01	Voice01/01-1K/01-1K-C03/01-1K-C03-0060	1	mak	00:14:07;
+
+[CreateBG]=00:14:08	BGS	Event00/00-00/00-00-H00/00-00-H00-002	00:23:18;
+
+[PrintText]=00:14:16	Makoto	¿Qué más hay...?^	00:18:19;
+
+[PlayVoice]=00:14:16	Voice01/01-1K/01-1K-C03/01-1K-C03-0070	1	mak	00:18:19;
+
+[SetSELECT]=00:17:18	*Peleando con Nemo*	*Otra Película*	00:22:18;
+
+ ;
+
+[Next]=00:23:18;
+
+
+
+

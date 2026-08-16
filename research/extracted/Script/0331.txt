@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:09:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:09:22;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-J08/02-2S-J08-001	00:01:05;
+
+[CreateBG]=00:01:05	BGS	Ini/Event02/02-2S/02-2S-J08/02-2S-J08-001B	00:03:05;
+
+#[PrintText]=00:01:05	Makoto	"La verdad, es que no lo sé.".	00:06:01;
+
+[CreateBG]=00:03:05	BGS	Ini/Event02/02-2S/02-2S-J08/02-2S-J08-001C	00:06:02;
+
+[CreateBG]=00:06:02	BGS	Event02/02-2S/02-2S-J08/02-2S-J08-002	00:09:22;
+
+[PrintText]=00:06:11	Sekai	Makoto...	00:07:12;
+
+[PlayVoice]=00:06:11	Voice02/02-2S/02-2S-J08/02-2S-J08-0050	0	sek	00:07:12;
+
+[BlackFade]=00:08:22	OUT	00:09:22;
+
+ ;
+
+[Next]=00:09:22;
+
+
+
+

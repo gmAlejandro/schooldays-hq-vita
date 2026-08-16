@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:45:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:45:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-F05/03-KB-F05-001A	00:08:18;
+
+[PrintText]=00:00:00	Setsuna	Estoy cansada, me voy a casa ¿Vale?^	00:02:14;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-F05/03-KB-F05-0030	0	set	00:02:14;
+
+[PrintText]=00:02:15	Sekai	Ah... vale.	00:04:04;
+
+[PlayVoice]=00:02:15	Voice03/03-KB/03-KB-F05/03-KB-F05-0040	0	sek	00:04:04;
+
+[PrintText]=00:04:04	Setsuna	Deberías dormir un poco también, o no podrás hacer nada mañana.	00:08:00;
+
+[PlayVoice]=00:04:04	Voice03/03-KB/03-KB-F05/03-KB-F05-0050	0	set	00:08:00;
+
+[PrintText]=00:08:00	Sekai	Uh-huh.	00:08:17;
+
+[PlayVoice]=00:08:00	Voice03/03-KB/03-KB-F05/03-KB-F05-0060	0	sek	00:08:17;
+
+[PrintText]=00:08:17	Setsuna	Oh, es cierto.	00:10:09;
+
+[PlayVoice]=00:08:17	Voice03/03-KB/03-KB-F05/03-KB-F05-0070	0	set	00:10:09;
+
+[CreateBG]=00:08:18	BGS	Event03/03-KB/03-KB-F05/03-KB-F05-001B	00:10:10;
+
+[PrintText]=00:10:09	Sekai	¿Hmn?^	00:10:23;
+
+[PlayVoice]=00:10:09	Voice03/03-KB/03-KB-F05/03-KB-F05-0080	0	sek	00:10:23;
+
+[CreateBG]=00:10:10	BGS	Event03/03-KB/03-KB-F05/03-KB-F05-001C	00:14:21;
+
+[PrintText]=00:10:23	Setsuna	Hay una tradición en la escuela.	00:12:23;
+
+[PlayVoice]=00:10:23	Voice03/03-KB/03-KB-F05/03-KB-F05-0090	0	set	00:12:23;
+
+[PrintText]=00:13:14	Sekai	Ah... ¿Sí?^	00:14:20;
+
+[PlayVoice]=00:13:14	Voice03/03-KB/03-KB-F05/03-KB-F05-0100	0	sek	00:14:20;
+
+[PrintText]=00:14:20	Setsuna	Como parte final del festival, está el baile folk, y tú invitas a un chico a este.	00:19:09;
+
+[PlayVoice]=00:14:20	Voice03/03-KB/03-KB-F05/03-KB-F05-0110	0	set	00:19:09;
+
+[CreateBG]=00:14:21	BGS	Event03/03-KB/03-KB-F05/03-KB-F05-002	00:26:07;
+
+[PrintText]=00:19:10	Sekai	Ya veo...	00:20:16;
+
+[PlayVoice]=00:19:10	Voice03/03-KB/03-KB-F05/03-KB-F05-0120	0	sek	00:20:16;
+
+[PrintText]=00:20:15	Setsuna	Ellos dicen que las parejas que bailen juntos en la fogata estarán juntos por todo el año.	00:26:07;
+
+[PlayVoice]=00:20:15	Voice03/03-KB/03-KB-F05/03-KB-F05-0130	0	set	00:26:07;
+
+[CreateBG]=00:26:07	BGS	Event02/02-2K/02-2K-Q05/02-2K-Q05-003	00:36:13;
+
+[PrintText]=00:26:07	Sekai	¿Solo un año? Suena bastante real.	00:31:06;
+
+[PlayVoice]=00:26:07	Voice03/03-KB/03-KB-F05/03-KB-F05-0140	0	sek	00:31:06;
+
+[PrintText]=00:31:06	Setsuna	Es probable que las parejas duren ese tiempo.	00:36:13;
+
+[PlayVoice]=00:31:06	Voice03/03-KB/03-KB-F05/03-KB-F05-0150	0	set	00:36:13;
+
+[PrintText]=00:36:12	Sekai	El baile folk, huh... si es por el baile folk, entonces...	00:42:05;
+
+[PlayVoice]=00:36:12	Voice03/03-KB/03-KB-F05/03-KB-F05-0160	0	sek	00:42:05;
+
+[CreateBG]=00:36:13	BGS	Event03/03-KB/03-KB-F05/03-KB-F05-004	00:39:08;
+
+[CreateBG]=00:39:08	BGS	Event03/03-KB/03-KB-F05/03-KB-F05-005	00:45:01;
+
+[PrintText]=00:42:05	Setsuna	Sekai.	00:43:03;
+
+[PlayVoice]=00:42:05	Voice03/03-KB/03-KB-F05/03-KB-F05-0180	0	set	00:43:03;
+
+[PrintText]=00:43:04	Sekai	¿Hmn?^	00:43:19;
+
+[PlayVoice]=00:43:04	Voice03/03-KB/03-KB-F05/03-KB-F05-0190	0	sek	00:43:19;
+
+[PrintText]=00:43:19	Setsuna	Da tu mejor esfuerzo.	00:45:00;
+
+[PlayVoice]=00:43:19	Voice03/03-KB/03-KB-F05/03-KB-F05-0200	0	set	00:45:00;
+
+ ;
+
+[Next]=00:45:01;
+
+

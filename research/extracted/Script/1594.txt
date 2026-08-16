@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=00:44:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:44:23;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/beach1	00:39:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-H02/05-KF-H02-001	00:12:09;
+
+[PrintText]=00:00:00	Makoto	No estoy seguro. Tal vez sea mejor decírselo.	00:05:17;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-H02/05-KF-H02-0030	1	mak	00:05:17;
+
+[PrintText]=00:05:16	Sekai	Sí.	00:07:04;
+
+[PlayVoice]=00:05:16	Voice05/05-KF/05-KF-H02/05-KF-H02-0040	0	sek	00:07:04;
+
+[PrintText]=00:07:04	Makoto	Me pregunto quien te gustaba... pero no le respondí.	00:12:09;
+
+[PlayVoice]=00:07:04	Voice05/05-KF/05-KF-H02/05-KF-H02-0050	1	mak	00:12:09;
+
+[CreateBG]=00:12:09	BGS	Event05/05-KF/05-KF-H01/05-KF-H01-002	00:31:22;
+
+[PrintText]=00:12:09	Sekai	Ya veo...	00:13:11;
+
+[PlayVoice]=00:12:09	Voice05/05-KF/05-KF-H02/05-KF-H02-0060	0	sek	00:13:11;
+
+[PrintText]=00:13:11	Makoto	Supongo que también sentiste lo mismo.	00:19:00;
+
+[PlayVoice]=00:13:11	Voice05/05-KF/05-KF-H02/05-KF-H02-0070	1	mak	00:19:00;
+
+[PrintText]=00:19:00	Sekai	Creo que sí. Me sentía horrible con solo mirarlo.	00:24:11;
+
+[PlayVoice]=00:19:00	Voice05/05-KF/05-KF-H02/05-KF-H02-0080	0	sek	00:24:11;
+
+[PrintText]=00:24:10	Makoto	Yo también. Fue muy difícil de solo escuchar su voz.	00:32:00;
+
+[PlayVoice]=00:24:10	Voice05/05-KF/05-KF-H02/05-KF-H02-0090	1	mak	00:32:00;
+
+[CreateBG]=00:31:22	BGS	Event05/05-KF/05-KF-H02/05-KF-H02-002	00:44:23;
+
+[PrintText]=00:31:23	Sekai	Pero estamos haciendo bien las cosas ¿No es así?^	00:36:08;
+
+[PlayVoice]=00:31:23	Voice05/05-KF/05-KF-H02/05-KF-H02-0100	0	sek	00:36:08;
+
+[PrintText]=00:36:08	Makoto	Sí.	00:38:09;
+
+[PlayVoice]=00:36:08	Voice05/05-KF/05-KF-H02/05-KF-H02-0110	1	mak	00:38:09;
+
+[PrintText]=00:38:08	Sekai	Dos personas que se aman deben estar juntas.	00:40:20;
+
+[PlayVoice]=00:38:08	Voice05/05-KF/05-KF-H02/05-KF-H02-0120	0	sek	00:40:20;
+
+[PlaySe]=00:38:18	2	SysSe/SE_all/gaya/beach1	00:44:23;
+
+[PrintText]=00:40:20	Makoto	Así es.	00:42:15;
+
+[PlayVoice]=00:40:20	Voice05/05-KF/05-KF-H02/05-KF-H02-0130	1	mak	00:42:15;
+
+[PrintText]=00:42:15	Sekai	Uh-huh...	00:43:18;
+
+[PlayVoice]=00:42:15	Voice05/05-KF/05-KF-H02/05-KF-H02-0140	0	sek	00:43:18;
+
+ ;
+
+[Next]=00:44:23;
+
+
+
+

@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:11:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:17:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-B10/04-KB-B10-001	00:17:15;
+
+[PrintText]=00:00:00	Sekai	Quiero que te animes.	00:02:15;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-B10/04-KB-B10-0030	0	sek	00:02:15;
+
+[PrintText]=00:02:15	Makoto	Animarme, huh...	00:04:05;
+
+[PlayVoice]=00:02:15	Voice04/04-KB/04-KB-B10/04-KB-B10-0040	1	mak	00:04:05;
+
+[PrintText]=00:04:05	Sekai	¿Cómo puedo animarte?^	00:06:15;
+
+[PlayVoice]=00:04:05	Voice04/04-KB/04-KB-B10/04-KB-B10-0050	0	sek	00:06:15;
+
+[PrintText]=00:06:15	Makoto	No lo sé...	00:07:12;
+
+[PlayVoice]=00:06:15	Voice04/04-KB/04-KB-B10/04-KB-B10-0060	1	mak	00:07:12;
+
+[PrintText]=00:07:12	Sekai	Si hay algo que pueda hacer, dímelo...	00:10:19;
+
+[PlayVoice]=00:07:12	Voice04/04-KB/04-KB-B10/04-KB-B10-0070	0	sek	00:10:19;
+
+[PrintText]=00:10:19	Makoto	...	00:11:15;
+
+[PlayVoice]=00:10:19	Voice04/04-KB/04-KB-B10/04-KB-B10-0080	1	xxx	00:11:15;
+
+[SetSELECT]=00:11:14	'Déjame tocar tus senos'	null	00:16:14;
+
+ ;
+
+[Next]=00:17:15;
+
+

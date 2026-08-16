@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:25:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:25:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-009	00:02:02;
+
+[PrintText]=00:00:00	Makoto	¡No es así!	00:02:01;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G08/05-KF-G08-0030	1	mak	00:02:01;
+
+[PrintText]=00:02:01	Kotonoha	¿Entonces por qué...?^	00:04:05;
+
+[PlayVoice]=00:02:01	Voice05/05-KF/05-KF-G08/05-KF-G08-0040	0	kot	00:04:05;
+
+[CreateBG]=00:02:02	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-010	00:19:13;
+
+[PrintText]=00:04:06	Makoto	...	00:06:13;
+
+[PlayVoice]=00:04:06	Voice05/05-KF/05-KF-G08/05-KF-G08-0050	1	xxx	00:06:13;
+
+[PrintText]=00:06:12	Kotonoha	¡Por favor dime! ¿Por qué quieres terminar conmigo?^	00:11:16;
+
+[PlayVoice]=00:06:12	Voice05/05-KF/05-KF-G08/05-KF-G08-0060	0	kot	00:11:16;
+
+[PrintText]=00:11:16	Makoto	¡Tenemos que terminar... tenemos que!	00:18:05;
+
+[PlayVoice]=00:11:16	Voice05/05-KF/05-KF-G08/05-KF-G08-0070	1	mak	00:18:05;
+
+[PrintText]=00:18:05	Kotonoha	Pero ¿Por qué?!	00:19:12;
+
+[PlayVoice]=00:18:05	Voice05/05-KF/05-KF-G08/05-KF-G08-0080	0	kot	00:19:12;
+
+[PlayVoice]=00:19:12	Voice05/05-KF/05-KF-G08/05-KF-G08-0090	1	mak	00:21:17;
+
+[CreateBG]=00:19:13	BGS	Event05/05-KF/05-KF-G08/05-KF-G08-003	00:25:06;
+
+[PrintText]=00:21:18	Kotonoha	¡Ah! ¡Makoto-kun!	00:23:20;
+
+[PlayVoice]=00:21:18	Voice05/05-KF/05-KF-G08/05-KF-G08-0110	0	kot	00:23:20;
+
+[BlackFade]=00:24:06	OUT	00:25:06;
+
+ ;
+
+[Next]=00:25:06;
+
+
+
+

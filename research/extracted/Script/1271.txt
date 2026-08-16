@@ -1,0 +1,219 @@
+﻿[SkipFRAME]=02:18:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:46:13;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-001	00:01:19;
+
+[PrintText]=00:01:18	Makoto	Haah... hoy tenemos baloncesto, pero creo que me he lastimado la rodilla... ow...	00:09:02;
+
+[PlayVoice]=00:01:18	Voice04/04-SE/04-SE-E04/04-SE-E04-0040	1	mak	00:09:02;
+
+[CreateBG]=00:01:19	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-002	00:09:02;
+
+[CreateBG]=00:09:02	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-003	00:14:16;
+
+[PrintText]=00:09:09	Sekai	Ya veo...	00:10:06;
+
+[PlayVoice]=00:09:09	Voice04/04-SE/04-SE-E04/04-SE-E04-0050	0	sek	00:10:06;
+
+[PrintText]=00:10:11	Makoto	Te ves algo decaída, ¿huh?^	00:11:20;
+
+[PlayVoice]=00:10:11	Voice04/04-SE/04-SE-E04/04-SE-E04-0060	1	mak	00:11:20;
+
+[PrintText]=00:11:22	Sekai	No realmente.	00:13:14;
+
+[PlayVoice]=00:11:22	Voice04/04-SE/04-SE-E04/04-SE-E04-0070	0	sek	00:13:14;
+
+[PrintText]=00:13:20	Makoto	¿Es por la conversación de ayer con Kotonoha?^	00:16:10;
+
+[PlayVoice]=00:13:20	Voice04/04-SE/04-SE-E04/04-SE-E04-0080	1	mak	00:16:10;
+
+[CreateBG]=00:14:16	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-003B	00:21:03;
+
+[PrintText]=00:16:21	Sekai	No, pero... tú y tu no.... nada. No es nada.	00:24:22;
+
+[PlayVoice]=00:16:21	Voice04/04-SE/04-SE-E04/04-SE-E04-0090	0	sek	00:24:22;
+
+[CreateBG]=00:21:03	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-003C	00:25:19;
+
+[PrintText]=00:24:22	Makoto	¿Hmn...?^	00:25:21;
+
+[PlayVoice]=00:24:22	Voice04/04-SE/04-SE-E04/04-SE-E04-0100	1	mak	00:25:21;
+
+[CreateBG]=00:25:19	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-004	00:29:18;
+
+[PrintText]=00:25:21	Sekai	Haah...	00:26:20;
+
+[PlayVoice]=00:25:21	Voice04/04-SE/04-SE-E04/04-SE-E04-0110	0	sek	00:26:20;
+
+[PrintText]=00:27:03	Makoto	Ah... ahora que recuerdo...	00:29:04;
+
+[PlayVoice]=00:27:03	Voice04/04-SE/04-SE-E04/04-SE-E04-0120	1	mak	00:29:04;
+
+[PrintText]=00:28:21	Sekai	¿Huh?^	00:29:17;
+
+[PlayVoice]=00:28:21	Voice04/04-SE/04-SE-E04/04-SE-E04-0130	0	sek	00:29:17;
+
+[CreateBG]=00:29:18	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-005	00:39:06;
+
+[PrintText]=00:29:20	Makoto	¿Qué pasó con Katou?^	00:31:10;
+
+[PlayVoice]=00:29:20	Voice04/04-SE/04-SE-E04/04-SE-E04-0140	1	mak	00:31:10;
+
+[PrintText]=00:31:10	Sekai	¿Eh?^	00:31:23;
+
+[PlayVoice]=00:31:10	Voice04/04-SE/04-SE-E04/04-SE-E04-0150	0	sek	00:31:23;
+
+[PrintText]=00:31:23	Makoto	Escuche que estabas preguntando por ella.	00:35:07;
+
+[PlayVoice]=00:31:23	Voice04/04-SE/04-SE-E04/04-SE-E04-0160	1	mak	00:35:07;
+
+[PrintText]=00:34:20	Sekai	N-no, no lo hice.	00:36:21;
+
+[PlayVoice]=00:34:20	Voice04/04-SE/04-SE-E04/04-SE-E04-0170	0	sek	00:36:21;
+
+[PrintText]=00:37:01	Makoto	¿En serio?^	00:37:23;
+
+[PlayVoice]=00:37:01	Voice04/04-SE/04-SE-E04/04-SE-E04-0180	1	mak	00:37:23;
+
+[PrintText]=00:37:21	Sekai	¿... De quién has oído eso?^	00:39:06;
+
+[PlayVoice]=00:37:21	Voice04/04-SE/04-SE-E04/04-SE-E04-0190	0	sek	00:39:06;
+
+[PrintText]=00:39:03	Makoto	Oh, Katou me lo dijo.	00:41:20;
+
+[PlayVoice]=00:39:03	Voice04/04-SE/04-SE-E04/04-SE-E04-0200	1	mak	00:41:20;
+
+[CreateBG]=00:39:06	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-006	00:43:13;
+
+[PrintText]=00:41:18	Sekai	Lo sabía. Katou-san y tú son...	00:43:15;
+
+[PlayVoice]=00:41:18	Voice04/04-SE/04-SE-E04/04-SE-E04-0210	0	sek	00:43:15;
+
+[CreateBG]=00:43:13	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-007	00:48:05;
+
+[PrintText]=00:43:14	Makoto	Otra vez no. Solo deja eso ¿Vale?, Yo...	00:47:22;
+
+[PlayVoice]=00:43:14	Voice04/04-SE/04-SE-E04/04-SE-E04-0220	1	mak	00:47:22;
+
+[PrintText]=00:47:02	Sekai	La amas ¿No?^	00:50:11;
+
+[PlayVoice]=00:47:02	Voice04/04-SE/04-SE-E04/04-SE-E04-0230	0	sek	00:50:11;
+
+[CreateBG]=00:48:05	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-008	00:50:01;
+
+[PrintText]=00:49:21	Makoto	H-hey...	00:51:09;
+
+[PlayVoice]=00:49:21	Voice04/04-SE/04-SE-E04/04-SE-E04-0250	1	mak	00:51:09;
+
+[PlayBgm]=00:49:23	BGM/SD_BGM/sdbgm21	02:18:04;
+
+[CreateBG]=00:50:01	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-009	01:02:18;
+
+[PrintText]=00:51:00	Sekai	¡Lo sé todo! ¡Sé del beso en la piscina y de las llamadas en la noche... me estás engañando!	01:00:10;
+
+[PlayVoice]=00:51:00	Voice04/04-SE/04-SE-E04/04-SE-E04-0260	0	sek	01:00:10;
+
+[PrintText]=00:59:19	Makoto	Hey... estás totalmente equivocada. No he hecho nada de eso.	01:03:01;
+
+[PlayVoice]=00:59:19	Voice04/04-SE/04-SE-E04/04-SE-E04-0270	1	mak	01:03:01;
+
+[CreateBG]=01:02:18	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-010	01:17:01;
+
+[PrintText]=01:02:18	Sekai	¡Sigues mintiéndome! ¡Lo sé todo!	01:06:01;
+
+[PlayVoice]=01:02:18	Voice04/04-SE/04-SE-E04/04-SE-E04-0280	0	sek	01:06:01;
+
+[PrintText]=01:05:09	Makoto	¿Dices que sabes de eso...? En serio, estás equivocada. No sé quien está propagando esos rumores, pero...	01:11:19;
+
+[PlayVoice]=01:05:09	Voice04/04-SE/04-SE-E04/04-SE-E04-0290	1	mak	01:11:19;
+
+[PrintText]=01:11:02	Sekai	Ahí vas de nuevo, piensas que me puedes tomar como idiota... no es justo, Makoto.	01:17:12;
+
+[PlayVoice]=01:11:02	Voice04/04-SE/04-SE-E04/04-SE-E04-0300	0	sek	01:17:12;
+
+[PrintText]=01:16:22	Makoto	Hey, escucha...	01:18:04;
+
+[PlayVoice]=01:16:22	Voice04/04-SE/04-SE-E04/04-SE-E04-0310	1	mak	01:18:04;
+
+[CreateBG]=01:17:01	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-011	01:27:00;
+
+[PrintText]=01:17:18	Sekai	¡Por eso es que no me besas!	01:20:16;
+
+[PlayVoice]=01:17:18	Voice04/04-SE/04-SE-E04/04-SE-E04-0320	0	sek	01:20:16;
+
+[PrintText]=01:20:00	Makoto	Te he besado antes ¿No?^	01:22:04;
+
+[PlayVoice]=01:20:00	Voice04/04-SE/04-SE-E04/04-SE-E04-0330	1	mak	01:22:04;
+
+[PrintText]=01:21:13	Sekai	¡Todo lo que has hecho es regresarme el beso!	01:23:16;
+
+[PlayVoice]=01:21:13	Voice04/04-SE/04-SE-E04/04-SE-E04-0340	0	sek	01:23:16;
+
+[PrintText]=01:23:07	Makoto	No sé que decirte... hablaremos después entonces.	01:27:03;
+
+[PlayVoice]=01:23:07	Voice04/04-SE/04-SE-E04/04-SE-E04-0350	1	mak	01:27:03;
+
+[CreateBG]=01:27:00	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-012	01:39:13;
+
+[PrintText]=01:27:03	Sekai	¡Después no! ¡Si de verdad hablarlo, hazlo ahora mismo!	01:32:15;
+
+[PlayVoice]=01:27:03	Voice04/04-SE/04-SE-E04/04-SE-E04-0360	0	sek	01:32:15;
+
+[PrintText]=01:32:01	Makoto	No hay manera de que lo haga ahora, solo mira a tu alrededor. Todos están mirándote...	01:37:20;
+
+[PlayVoice]=01:32:01	Voice04/04-SE/04-SE-E04/04-SE-E04-0370	1	mak	01:37:20;
+
+[PrintText]=01:37:06	Sekai	¡Incluso ya has tenido sexo con Katsura-san!	01:39:15;
+
+[PlayVoice]=01:37:06	Voice04/04-SE/04-SE-E04/04-SE-E04-0380	0	sek	01:39:15;
+
+[PlayMovie]=01:39:13	Movie04/04-SE/04-SE-E04/04-SE-E04-013	0	01:55:17;
+
+[PrintText]=01:39:22	Sekai	¡Apuesto a que también lo has hecho con Katou-san! ¿Por qué soy la única con quien no has hecho nada?^	01:45:04;
+
+[PlayVoice]=01:39:22	Voice04/04-SE/04-SE-E04/04-SE-E04-0400	0	sek	01:45:04;
+
+[PrintText]=01:44:19	Makoto	Bueno, verás... recién vamos dos días...	01:50:03;
+
+[PlayVoice]=01:44:19	Voice04/04-SE/04-SE-E04/04-SE-E04-0410	1	mak	01:50:03;
+
+[PrintText]=01:49:07	Sekai	No me amas... ya no me encuentras atractiva...	01:55:22;
+
+[PlayVoice]=01:49:07	Voice04/04-SE/04-SE-E04/04-SE-E04-0420	0	sek	01:55:22;
+
+[PrintText]=01:55:13	Makoto	S-Sekai... cálmate... hablemos después ¿Vale?^	02:01:00;
+
+[PlayVoice]=01:55:13	Voice04/04-SE/04-SE-E04/04-SE-E04-0430	1	mak	02:01:00;
+
+[CreateBG]=01:55:17	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-014	02:00:11;
+
+[PrintText]=02:00:05	Sekai	¡No me toques!	02:01:20;
+
+[PlayVoice]=02:00:05	Voice04/04-SE/04-SE-E04/04-SE-E04-0450	0	sek	02:01:20;
+
+[CreateBG]=02:00:11	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-015	02:01:13;
+
+[PlaySe]=02:01:07	1	Se04/04-SE/04-SE-E04/SE04-SE-E04-001	02:02:05;
+
+[CreateBG]=02:01:13	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-016	02:03:07;
+
+[PrintText]=02:01:13	Makoto	Ah...	02:03:07;
+
+[PlayVoice]=02:01:13	Voice04/04-SE/04-SE-E04/04-SE-E04-0470	1	mak	02:03:07;
+
+[PrintText]=02:03:01	Sekai	Tramposo... te odio...	02:08:08;
+
+[PlayVoice]=02:03:01	Voice04/04-SE/04-SE-E04/04-SE-E04-0480	0	sek	02:08:08;
+
+[CreateBG]=02:03:07	BGS	Event04/04-SE/04-SE-E04/04-SE-E04-017	02:18:04;
+
+[PlayVoice]=02:08:17	Voice04/04-SE/04-SE-E04/04-SE-E04-0490			02:17:01;
+
+[BlackFade]=02:17:18	OUT	02:18:04;
+
+ ;
+
+[Next]=02:18:04;
+
+

@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:38:09;
+
+[PlaySe]=00:00:00	2	Se05/05-5H/05-5H-E00/SE05-5H-E00-001	00:38:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-A00/05-KA-A00-001	00:06:06;
+
+[PrintText]=00:00:00	Kotonoha	♪Hmn hmmmn... hmm hmmn♪^	00:06:05;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-A00/05-KA-A00-0030	0	kot	00:06:05;
+
+[CreateBG]=00:06:06	BGS	Event05/05-KA/05-KA-A00/05-KA-A00-002	00:08:13;
+
+[PrintText]=00:06:17	Makoto	Mmn...	00:08:08;
+
+[PlayVoice]=00:06:17	Voice05/05-KA/05-KA-A00/05-KA-A00-0050	1	mak	00:08:08;
+
+[PlayMovie]=00:08:13	Movie05/05-KA/05-KA-A00/05-KA-A00-003	0	00:21:07;
+
+[PrintText]=00:08:13	Kotonoha	Ah.	00:09:08;
+
+[PlayVoice]=00:08:13	Voice05/05-KA/05-KA-A00/05-KA-A00-0060	0	kot	00:09:08;
+
+[PrintText]=00:09:08	Makoto	Fwah...	00:11:17;
+
+[PlayVoice]=00:09:08	Voice05/05-KA/05-KA-A00/05-KA-A00-0080	1	mak	00:11:17;
+
+[PrintText]=00:11:17	Kotonoha	Lo siento ¿Te desperté?^	00:15:05;
+
+[PlayVoice]=00:11:17	Voice05/05-KA/05-KA-A00/05-KA-A00-0090	0	kot	00:15:05;
+
+[PrintText]=00:15:05	Makoto	No, está bien... Buen día.	00:19:00;
+
+[PlayVoice]=00:15:05	Voice05/05-KA/05-KA-A00/05-KA-A00-0100	1	mak	00:19:00;
+
+[PrintText]=00:19:00	Kotonoha	Buen día.	00:21:06;
+
+[PlayVoice]=00:19:00	Voice05/05-KA/05-KA-A00/05-KA-A00-0110	0	kot	00:21:06;
+
+[PrintText]=00:21:06	Makoto	Fwaah...	00:23:12;
+
+[PlayVoice]=00:21:06	Voice05/05-KA/05-KA-A00/05-KA-A00-0120	1	mak	00:23:12;
+
+[CreateBG]=00:21:07	BGS	Event05/05-KA/05-KA-A00/05-KA-A00-004	00:38:09;
+
+[PrintText]=00:23:13	Kotonoha	Fufu... te ves cansado. ¿Qué deberíamos tener para desayunar?^	00:28:22;
+
+[PlayVoice]=00:23:13	Voice05/05-KA/05-KA-A00/05-KA-A00-0130	0	kot	00:28:22;
+
+[PrintText]=00:28:23	Makoto	No...	00:29:19;
+
+[PlayVoice]=00:28:23	Voice05/05-KA/05-KA-A00/05-KA-A00-0140	1	mak	00:29:19;
+
+[PrintText]=00:29:19	Kotonoha	¡Kyah!	00:30:18;
+
+[PlayVoice]=00:29:19	Voice05/05-KA/05-KA-A00/05-KA-A00-0160	0	kot	00:30:18;
+
+[PrintText]=00:30:19	Makoto	Una vez más.	00:32:05;
+
+[PlayVoice]=00:30:19	Voice05/05-KA/05-KA-A00/05-KA-A00-0180	1	mak	00:32:05;
+
+[PrintText]=00:32:05	Kotonoha	¡No... llegaremos tarde a la escuela... ahhn...!	00:37:08;
+
+[PlayVoice]=00:32:05	Voice05/05-KA/05-KA-A00/05-KA-A00-0190	0	kot	00:37:08;
+
+[BlackFade]=00:37:09	OUT	00:38:09;
+
+ ;
+
+[Next]=00:38:09;
+
+

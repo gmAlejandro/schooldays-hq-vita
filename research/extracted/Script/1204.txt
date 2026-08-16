@@ -1,0 +1,17 @@
+﻿[SkipFRAME]=00:07:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:07:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G00/04-SB-G00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-SB/04-SB-G00/04-SB-G00-002	00:07:08;
+
+[PrintText]=00:03:05	Makoto	Taisuke... es así cómo es ¿No?^	00:07:00;
+
+[PlayVoice]=00:03:05	Voice04/04-SB/04-SB-G00/04-SB-G00-0030	1	mak	00:07:00;
+
+ ;
+
+[Next]=00:07:08;
+
+

@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:31:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:31:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G09/04-SB-G09-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-SB/04-SB-G09/04-SB-G09-002	00:07:14;
+
+[PrintText]=00:03:02	Hikari	Nn...	00:04:09;
+
+[PlayVoice]=00:03:02	Voice04/04-SB/04-SB-G09/04-SB-G09-0040	0	hik	00:04:09;
+
+[PrintText]=00:04:07	Makoto	¿Qué pasa?^	00:05:04;
+
+[PlayVoice]=00:04:07	Voice04/04-SB/04-SB-G09/04-SB-G09-0050	1	mak	00:05:04;
+
+[PrintText]=00:05:10	Hikari	Baño.	00:06:08;
+
+[PlayVoice]=00:05:10	Voice04/04-SB/04-SB-G09/04-SB-G09-0060	0	hik	00:06:08;
+
+[PrintText]=00:06:18	Makoto	¿Eh?^	00:07:07;
+
+[PlayVoice]=00:06:18	Voice04/04-SB/04-SB-G09/04-SB-G09-0070	1	mak	00:07:07;
+
+[CreateBG]=00:07:14	BGS	Event04/04-SB/04-SB-G09/04-SB-G09-003	00:12:03;
+
+[PrintText]=00:07:19	Hikari	Adelántate.	00:10:02;
+
+[PlayVoice]=00:07:19	Voice04/04-SB/04-SB-G09/04-SB-G09-0080	0	hik	00:10:02;
+
+[PrintText]=00:10:04	Makoto	V-Vale.	00:11:20;
+
+[PlayVoice]=00:10:04	Voice04/04-SB/04-SB-G09/04-SB-G09-0090	1	mak	00:11:20;
+
+[CreateBG]=00:12:03	BGS	Event04/04-SB/04-SB-G09/04-SB-G09-004	00:31:01;
+
+[PrintText]=00:12:11	Makoto	...	00:13:06;
+
+[PlayVoice]=00:12:11	Voice04/04-SB/04-SB-G09/04-SB-G09-0110	1	xxx	00:13:06;
+
+[PrintText]=00:13:16	Makoto	Ella no regresará a donde Taisuke... ¿No?^	00:17:18;
+
+[PlayVoice]=00:13:16	Voice04/04-SB/04-SB-G09/04-SB-G09-0120	1	mak	00:17:18;
+
+[PrintText]=00:18:11	Makoto	Probablemente... irá al baño a llorar.	00:22:05;
+
+[PlayVoice]=00:18:11	Voice04/04-SB/04-SB-G09/04-SB-G09-0130	1	mak	00:22:05;
+
+[PrintText]=00:23:06	Makoto	Así que, ella era la que estaba enamorada de él...	00:28:07;
+
+[PlayVoice]=00:23:06	Voice04/04-SB/04-SB-G09/04-SB-G09-0140	1	mak	00:28:07;
+
+[PrintText]=00:29:05	Makoto	...	00:30:03;
+
+[PlayVoice]=00:29:05	Voice04/04-SB/04-SB-G09/04-SB-G09-0150	1	xxx	00:30:03;
+
+ ;
+
+[Next]=00:31:01;
+
+

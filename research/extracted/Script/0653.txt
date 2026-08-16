@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:15:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:15:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E10/03-KB-E10-001	00:09:22;
+
+[PrintText]=00:00:00	Taisuke	Eres despreciable.	00:02:02;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E10/03-KB-E10-0030	1	tai	00:02:02;
+
+[PrintText]=00:02:02	Makoto	Taisuke...	00:03:07;
+
+[PlayVoice]=00:02:02	Voice03/03-KB/03-KB-E10/03-KB-E10-0040	1	mak	00:03:07;
+
+[PrintText]=00:03:07	Taisuke	Le preguntaré a Saionji para salir mañana.	00:05:19;
+
+[PlayVoice]=00:03:07	Voice03/03-KB/03-KB-E10/03-KB-E10-0050	1	tai	00:05:19;
+
+[PrintText]=00:05:19	Makoto	Espera. Ya te dije, yo...	00:09:01;
+
+[PlayVoice]=00:05:19	Voice03/03-KB/03-KB-E10/03-KB-E10-0060	1	mak	00:09:01;
+
+[PrintText]=00:09:01	Taisuke	Adiós.	00:09:21;
+
+[PlayVoice]=00:09:01	Voice03/03-KB/03-KB-E10/03-KB-E10-0070	1	tai	00:09:21;
+
+[PrintText]=00:09:21	Makoto	¿Qué le pasa..?^	00:14:18;
+
+[PlayVoice]=00:09:21	Voice03/03-KB/03-KB-E10/03-KB-E10-0090	1	mak	00:14:18;
+
+[PlaySe]=00:09:22	1	SysSe/SE_all/keitai/keitai_sousa	00:10:00;
+
+[CreateBG]=00:09:22	BGS	Event03/03-KB/03-KB-E10/03-KB-E10-002	00:15:21;
+
+[PrintText]=00:14:18	Makoto	...	00:15:21;
+
+[PlayVoice]=00:14:18	Voice03/03-KB/03-KB-E10/03-KB-E10-0100	1	xxx	00:15:21;
+
+ ;
+
+[Next]=00:15:21;
+
+

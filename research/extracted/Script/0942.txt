@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:13:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:13:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-G01/04-KA-G01-001	00:04:16;
+
+[PrintText]=00:00:01	Makoto	No iré.	00:01:12;
+
+[PlayVoice]=00:00:01	Voice04/04-KA/04-KA-G01/04-KA-G01-0030	1	mak	00:01:12;
+
+[PrintText]=00:01:13	Taisuke	¿Por qué no?^	00:02:19;
+
+[PlayVoice]=00:01:13	Voice04/04-KA/04-KA-G01/04-KA-G01-0040	1	tai	00:02:19;
+
+[PrintText]=00:02:22	Makoto	Estoy cansado.	00:04:14;
+
+[PlayVoice]=00:02:22	Voice04/04-KA/04-KA-G01/04-KA-G01-0050	1	mak	00:04:14;
+
+[CreateBG]=00:04:16	BGS	Event04/04-KA/04-KA-G01/04-KA-G01-002	00:10:07;
+
+[PrintText]=00:05:00	Taisuke	Solo ven por un momento.	00:07:06;
+
+[PlayVoice]=00:05:00	Voice04/04-KA/04-KA-G01/04-KA-G01-0060	1	tai	00:07:06;
+
+[PrintText]=00:07:06	Makoto	No puedo. Estoy muy cansado...	00:10:08;
+
+[PlayVoice]=00:07:06	Voice04/04-KA/04-KA-G01/04-KA-G01-0070	1	mak	00:10:08;
+
+[CreateBG]=00:10:07	BGS	Event04/04-KA/04-KA-G01/04-KA-G01-003	00:13:02;
+
+[PrintText]=00:10:15	Taisuke	Vale... nos vemos después.	00:12:19;
+
+[PlayVoice]=00:10:15	Voice04/04-KA/04-KA-G01/04-KA-G01-0080	1	tai	00:12:19;
+
+ ;
+
+[Next]=00:13:02;
+
+

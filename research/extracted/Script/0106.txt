@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:15:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:15:08;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-O01/01-00-O01-001	00:02:18;
+
+[PlaySe]=00:02:18	1	SysSe/SE_all/footsteps/asioto_room	00:07:15;
+
+[PlayMovie]=00:02:18	Movie01/01-00/01-00-O01/01-00-O01-002	0	00:07:16;
+
+[PrintText]=00:06:18	Kotonoha	¿Huh...?^	00:07:10;
+
+[PlayVoice]=00:06:18	Voice01/01-00/01-00-O01/01-00-O01-0050	0	kot	00:07:10;
+
+[PlayMovie]=00:07:16	Movie01/01-00/01-00-O01/01-00-O01-003	0	00:09:20;
+
+[PlayMovie]=00:09:20	Movie01/01-00/01-00-O01/01-00-O01-004	0	00:15:08;
+
+[PrintText]=00:10:02	Kotonoha	Él... llamó...	00:14:00;
+
+[PlayVoice]=00:10:02	Voice01/01-00/01-00-O01/01-00-O01-0070	0	kot	00:14:00;
+
+[BlackFade]=00:14:08	OUT	00:15:08;
+
+ ;
+
+[Next]=00:15:08;
+
+
+
+

@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:12:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:12:03;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-G07/04-KA-G07-001	00:02:03;
+
+[CreateBG]=00:02:03	BGS	Event04/04-KA/04-KA-G07/04-KA-G07-002	00:03:14;
+
+[PrintText]=00:02:14	Sekai	Makoto...	00:03:18;
+
+[PlayVoice]=00:02:14	Voice04/04-KA/04-KA-G07/04-KA-G07-0040	0	sek	00:03:18;
+
+[CreateBG]=00:03:14	BGS	Event04/04-KA/04-KA-G07/04-KA-G07-003	00:12:03;
+
+ ;
+
+[Next]=00:12:03;
+
+

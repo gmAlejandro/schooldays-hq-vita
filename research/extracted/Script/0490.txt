@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:04:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:04:16;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-E00/SE03-BK-E00-001	00:04:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-E00/03-BK-E00-001	00:04:16;
+
+[PrintText]=00:00:12	Makoto	¿De qué querías hablar conmigo?^	00:02:09;
+
+[PlayVoice]=00:00:12	Voice03/03-BK/03-BK-E00/03-BK-E00-0030	1	mak	00:02:09;
+
+[PrintText]=00:02:16	Taisuke	Bueno, verás...	00:04:08;
+
+[PlayVoice]=00:02:16	Voice03/03-BK/03-BK-E00/03-BK-E00-0040	1	tai	00:04:08;
+
+ ;
+
+[Next]=00:04:16;
+
+

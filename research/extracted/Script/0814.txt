@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:18:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:18:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-C07/SE03-SB-C07-001	00:18:00;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-C07/03-SB-C07-001	0	00:01:15;
+
+[PrintText]=00:00:00	Makoto	...	00:00:15;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-C07/03-SB-C07-0030	1	xxx	00:00:15;
+
+[PrintText]=00:00:15	Kotonoha	...No te preocupes.	00:01:14;
+
+[PlayVoice]=00:00:15	Voice03/03-SB/03-SB-C07/03-SB-C07-0040	0	kot	00:01:14;
+
+[CreateBG]=00:01:15	BGS	Event03/03-SB/03-SB-C07/03-SB-C07-002	00:02:06;
+
+[PrintText]=00:01:15	Makoto	¿Eh?^	00:02:05;
+
+[PlayVoice]=00:01:15	Voice03/03-SB/03-SB-C07/03-SB-C07-0050	1	mak	00:02:05;
+
+[PrintText]=00:02:05	Kotonoha	Olvídalo.	00:04:03;
+
+[PlayVoice]=00:02:05	Voice03/03-SB/03-SB-C07/03-SB-C07-0060	0	kot	00:04:03;
+
+[CreateBG]=00:02:06	BGS	Event03/03-SB/03-SB-C07/03-SB-C07-003	00:04:03;
+
+[CreateBG]=00:04:03	BGS	Event03/03-SB/03-SB-C07/03-SB-C07-004	00:05:01;
+
+[PrintText]=00:04:03	Makoto	Pero...	00:05:00;
+
+[PlayVoice]=00:04:03	Voice03/03-SB/03-SB-C07/03-SB-C07-0070	1	mak	00:05:00;
+
+[PrintText]=00:05:00	Kotonoha	Solo quería preguntártelo.	00:06:13;
+
+[PlayVoice]=00:05:00	Voice03/03-SB/03-SB-C07/03-SB-C07-0080	0	kot	00:06:13;
+
+[PlayMovie]=00:05:01	Movie03/03-SB/03-SB-C07/03-SB-C07-005	0	00:07:12;
+
+[PrintText]=00:06:13	Makoto	¿En serio..?^	00:07:10;
+
+[PlayVoice]=00:06:13	Voice03/03-SB/03-SB-C07/03-SB-C07-0090	1	mak	00:07:10;
+
+[PrintText]=00:07:11	Kotonoha	Después de todo, es posible que esté en la recepción todo el día...	00:11:17;
+
+[PlayVoice]=00:07:11	Voice03/03-SB/03-SB-C07/03-SB-C07-0100	0	kot	00:11:17;
+
+[PlayMovie]=00:07:12	Movie03/03-SB/03-SB-C07/03-SB-C07-006	0	00:11:19;
+
+[PrintText]=00:11:17	Makoto	Es verdad. Estaremos ocupados durante el festival.	00:15:19;
+
+[PlayVoice]=00:11:17	Voice03/03-SB/03-SB-C07/03-SB-C07-0110	1	mak	00:15:19;
+
+[CreateBG]=00:11:19	BGS	Event03/03-SB/03-SB-C07/03-SB-C07-007	00:15:20;
+
+[PrintText]=00:15:19	Kotonoha	Sí...	00:16:22;
+
+[PlayVoice]=00:15:19	Voice03/03-SB/03-SB-C07/03-SB-C07-0120	0	kot	00:16:22;
+
+[PlayMovie]=00:15:20	Movie03/03-SB/03-SB-C07/03-SB-C07-008	0	00:18:00;
+
+ ;
+
+[Next]=00:18:00;
+
+

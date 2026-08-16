@@ -1,0 +1,483 @@
+﻿[SkipFRAME]=06:26:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	05:39:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-001	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-002	00:26:12;
+
+[PrintText]=00:02:15	Makoto	¿Aló?^	00:03:13;
+
+[PlayVoice]=00:02:15	Voice04/04-SB/04-SB-F02/04-SB-F02-0040	1	mak	00:03:13;
+
+[PrintText]=00:03:13	Taisuke	¿Sí?^	00:04:06;
+
+[PlayVoice]=00:03:13	Voice04/04-SB/04-SB-F02/04-SB-F02-0050	1	tai	00:04:06;
+
+[PrintText]=00:04:05	Makoto	¡Soy yo! ¡Estoy en un pequeño problema, y necesito que hagas un depósito por mí!	00:09:02;
+
+[PlayVoice]=00:04:05	Voice04/04-SB/04-SB-F02/04-SB-F02-0060	1	mak	00:09:02;
+
+[PrintText]=00:09:02	Taisuke	¿Tienes uno Makoto? ¿En serio? E-Espera un segundo, déjame traer algo...	00:13:23;
+
+[PlayVoice]=00:09:02	Voice04/04-SB/04-SB-F02/04-SB-F02-0070	1	tai	00:13:23;
+
+[PrintText]=00:13:23	Makoto	Veamos... ponlo en la cuenta estándar de la asociación de Crédito Oonamira...	00:17:13;
+
+[PlayVoice]=00:13:23	Voice04/04-SB/04-SB-F02/04-SB-F02-0080	1	mak	00:17:13;
+
+[PrintText]=00:17:13	Taisuke	Asociación de Crédito Oonamira... espera, ¿Quieres que te deposite?!	00:24:01;
+
+[PlayVoice]=00:17:13	Voice04/04-SB/04-SB-F02/04-SB-F02-0090	1	tai	00:24:01;
+
+[PrintText]=00:24:00	Makoto	Tsk... No estoy jugando ¿Vale?^	00:26:12;
+
+[PlayVoice]=00:24:00	Voice04/04-SB/04-SB-F02/04-SB-F02-0100	1	mak	00:26:12;
+
+[CreateBG]=00:26:12	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-003	00:41:19;
+
+[PrintText]=00:26:12	Taisuke	¡Por supuesto que no!	00:27:21;
+
+[PlayVoice]=00:26:12	Voice04/04-SB/04-SB-F02/04-SB-F02-0110	1	tai	00:27:21;
+
+[PrintText]=00:27:22	Makoto	Pero lo estabas escribiendo justo ahora.	00:30:09;
+
+[PlayVoice]=00:27:22	Voice04/04-SB/04-SB-F02/04-SB-F02-0120	1	mak	00:30:09;
+
+[PrintText]=00:30:10	Taisuke	Cállate. Cielos... colgaré ahora ¿Está bien?^	00:33:04;
+
+[PlayVoice]=00:30:10	Voice04/04-SB/04-SB-F02/04-SB-F02-0130	1	tai	00:33:04;
+
+[PrintText]=00:33:04	Makoto	Oh, Espera. Necesito hablar contigo.	00:35:22;
+
+[PlayVoice]=00:33:04	Voice04/04-SB/04-SB-F02/04-SB-F02-0140	1	mak	00:35:22;
+
+[PrintText]=00:35:22	Taisuke	¿Acerca de?^	00:36:21;
+
+[PlayVoice]=00:35:22	Voice04/04-SB/04-SB-F02/04-SB-F02-0150	1	tai	00:36:21;
+
+[PrintText]=00:36:21	Makoto	Tú y Kotonoha están saliendo ¿No?^	00:39:23;
+
+[PlayVoice]=00:36:21	Voice04/04-SB/04-SB-F02/04-SB-F02-0160	1	mak	00:39:23;
+
+[PrintText]=00:39:23	Taisuke	Sí.	00:41:19;
+
+[PlayVoice]=00:39:23	Voice04/04-SB/04-SB-F02/04-SB-F02-0170	1	tai	00:41:19;
+
+[CreateBG]=00:41:19	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-004	00:53:19;
+
+[PrintText]=00:41:19	Makoto	Lo estás haciendo ¿No? Por supuesto que lo harías.	00:43:21;
+
+[PlayVoice]=00:41:19	Voice04/04-SB/04-SB-F02/04-SB-F02-0180	1	mak	00:43:21;
+
+[PrintText]=00:43:20	Taisuke	¡Haha, Claro! Estoy en forma, sabes.	00:47:23;
+
+[PlayVoice]=00:43:20	Voice04/04-SB/04-SB-F02/04-SB-F02-0190	1	tai	00:47:23;
+
+[PrintText]=00:48:00	Makoto	...Sí.	00:48:17;
+
+[PlayVoice]=00:48:00	Voice04/04-SB/04-SB-F02/04-SB-F02-0200	1	mak	00:48:17;
+
+[PrintText]=00:48:16	Taisuke	Apuesto a que tienes envidia. No lo creerías hasta verlo, pero es verdad...	00:54:18;
+
+[PlayVoice]=00:48:16	Voice04/04-SB/04-SB-F02/04-SB-F02-0210	1	tai	00:54:18;
+
+[CreateBG]=00:53:19	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-004B	01:05:08;
+
+[PrintText]=00:53:20	Makoto	Hey... ¿Me dejarás hacerlo con ella también?^	00:58:19;
+
+[PlayVoice]=00:53:20	Voice04/04-SB/04-SB-F02/04-SB-F02-0230	1	mak	00:58:19;
+
+[PrintText]=00:58:18	Taisuke	¿Eh?^	00:59:13;
+
+[PlayVoice]=00:58:18	Voice04/04-SB/04-SB-F02/04-SB-F02-0240	1	tai	00:59:13;
+
+[PrintText]=00:59:13	Makoto	Sus senos... son increíbles ¿No?^	01:02:12;
+
+[PlayVoice]=00:59:13	Voice04/04-SB/04-SB-F02/04-SB-F02-0250	1	mak	01:02:12;
+
+[PrintText]=01:02:12	Taisuke	Bueno, sí.	01:04:08;
+
+[PlayVoice]=01:02:12	Voice04/04-SB/04-SB-F02/04-SB-F02-0260	1	tai	01:04:08;
+
+[PrintText]=01:04:08	Makoto	Por favor.	01:05:08;
+
+[PlayVoice]=01:04:08	Voice04/04-SB/04-SB-F02/04-SB-F02-0270	1	mak	01:05:08;
+
+[CreateBG]=01:05:08	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-004	01:18:22;
+
+[PrintText]=01:05:08	Taisuke	Pero... ella es mi novia...	01:08:10;
+
+[PlayVoice]=01:05:08	Voice04/04-SB/04-SB-F02/04-SB-F02-0280	1	tai	01:08:10;
+
+[PrintText]=01:08:10	Makoto	Por eso es que te pregunto si puedo dormir con ella ¿Vale? Porque es tu novia.	01:13:05;
+
+[PlayVoice]=01:08:10	Voice04/04-SB/04-SB-F02/04-SB-F02-0290	1	mak	01:13:05;
+
+[PrintText]=01:13:04	Taisuke	¿En serio..? ¿Así es con las novias?^	01:17:13;
+
+[PlayVoice]=01:13:04	Voice04/04-SB/04-SB-F02/04-SB-F02-0300	1	tai	01:17:13;
+
+[PrintText]=01:17:14	Makoto	Por supuesto.	01:18:22;
+
+[PlayVoice]=01:17:14	Voice04/04-SB/04-SB-F02/04-SB-F02-0310	1	mak	01:18:22;
+
+[CreateBG]=01:18:22	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-005	01:29:22;
+
+[PrintText]=01:18:22	Taisuke	¿E-En serio...?^	01:23:17;
+
+[PlayVoice]=01:18:22	Voice04/04-SB/04-SB-F02/04-SB-F02-0320	1	tai	01:23:17;
+
+[PrintText]=01:23:17	Makoto	A cambio, te dejaré hacerlo con Kuroda.	01:26:18;
+
+[PlayVoice]=01:23:17	Voice04/04-SB/04-SB-F02/04-SB-F02-0330	1	mak	01:26:18;
+
+[PrintText]=01:26:18	Taisuke	¿Eh?! ¿Con Kuroda?^	01:29:05;
+
+[PlayVoice]=01:26:18	Voice04/04-SB/04-SB-F02/04-SB-F02-0340	1	tai	01:29:05;
+
+[PrintText]=01:29:06	Makoto	Sí.	01:29:23;
+
+[PlayVoice]=01:29:06	Voice04/04-SB/04-SB-F02/04-SB-F02-0350	1	mak	01:29:23;
+
+[CreateBG]=01:29:22	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-002	02:13:05;
+
+[PrintText]=01:29:22	Makoto	La verdad es que... estamos en algo como saliendo.	01:34:08;
+
+[PlayVoice]=01:29:22	Voice04/04-SB/04-SB-F02/04-SB-F02-0370	1	mak	01:34:08;
+
+[PrintText]=01:34:09	Taisuke	Estás de broma.Kuroda y tú no están saliendo.	01:39:07;
+
+[PlayVoice]=01:34:09	Voice04/04-SB/04-SB-F02/04-SB-F02-0380	1	tai	01:39:07;
+
+[PrintText]=01:39:07	Makoto	Así parece. Sabes, cuando Sekai no está con nosotros, entonces...	01:43:07;
+
+[PlayVoice]=01:39:07	Voice04/04-SB/04-SB-F02/04-SB-F02-0390	1	mak	01:43:07;
+
+[PrintText]=01:43:08	Taisuke	Ya veo... me has engañado totalmente.	01:47:18;
+
+[PlayVoice]=01:43:08	Voice04/04-SB/04-SB-F02/04-SB-F02-0400	1	tai	01:47:18;
+
+[PrintText]=01:47:18	Makoto	Apostaría que sí.	01:49:04;
+
+[PlayVoice]=01:47:18	Voice04/04-SB/04-SB-F02/04-SB-F02-0410	1	mak	01:49:04;
+
+[PrintText]=01:49:04	Taisuke	Aún así, es una sorpresa. La conozco a Kuroda desde la primaria desde la primaria, y nunca creí que serías su tipo.	01:58:09;
+
+[PlayVoice]=01:49:04	Voice04/04-SB/04-SB-F02/04-SB-F02-0420	1	tai	01:58:09;
+
+[PrintText]=01:58:09	Makoto	Sé lo que le gusta más que cualquiera...	02:01:15;
+
+[PlayVoice]=01:58:09	Voice04/04-SB/04-SB-F02/04-SB-F02-0430	1	mak	02:01:15;
+
+[PrintText]=02:01:15	Taisuke	Ya veo... entonces. Ustedes están saliendo ahora.	02:09:04;
+
+[PlayVoice]=02:01:15	Voice04/04-SB/04-SB-F02/04-SB-F02-0440	1	tai	02:09:04;
+
+[PrintText]=02:09:04	Makoto	S-Sí. ¡Lo apostarías y no lo dejes ahí!	02:13:06;
+
+[PlayVoice]=02:09:04	Voice04/04-SB/04-SB-F02/04-SB-F02-0450	1	mak	02:13:06;
+
+[CreateBG]=02:13:05	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-007	02:51:04;
+
+[PrintText]=02:13:06	Taisuke	Wow... suena bien.	02:16:00;
+
+[PlayVoice]=02:13:06	Voice04/04-SB/04-SB-F02/04-SB-F02-0460	1	tai	02:16:00;
+
+[PrintText]=02:16:00	Taisuke	Nunca hemos hablado de esto, y yo nunca lo note... pero ahora que lo pienso, es muy bonita ¿No?^	02:25:02;
+
+[PlayVoice]=02:16:00	Voice04/04-SB/04-SB-F02/04-SB-F02-0461	1	tai	02:25:02;
+
+[PrintText]=02:25:02	Makoto	Sí. Bueno, como sea. Regresando al punto...	02:29:11;
+
+[PlayVoice]=02:25:02	Voice04/04-SB/04-SB-F02/04-SB-F02-0470	1	mak	02:29:11;
+
+[PrintText]=02:29:11	Taisuke	Sí.	02:30:06;
+
+[PlayVoice]=02:29:11	Voice04/04-SB/04-SB-F02/04-SB-F02-0480	1	tai	02:30:06;
+
+[PrintText]=02:30:05	Makoto	Ignorando como se vea, es increíble.	02:34:00;
+
+[PlayVoice]=02:30:05	Voice04/04-SB/04-SB-F02/04-SB-F02-0500	1	mak	02:34:00;
+
+[PrintText]=02:34:00	Taisuke	¿I-Increíble...?^	02:37:19;
+
+[PlayVoice]=02:34:00	Voice04/04-SB/04-SB-F02/04-SB-F02-0510	1	tai	02:37:19;
+
+[PrintText]=02:37:19	Makoto	La manera en que su piel se aferra... es asombrosa. Y más suave de lo que parece.	02:43:07;
+
+[PlayVoice]=02:37:19	Voice04/04-SB/04-SB-F02/04-SB-F02-0520	1	mak	02:43:07;
+
+[PrintText]=02:43:07	Taisuke	¿En serio...?^	02:45:06;
+
+[PlayVoice]=02:43:07	Voice04/04-SB/04-SB-F02/04-SB-F02-0530	1	tai	02:45:06;
+
+[PrintText]=02:45:05	Makoto	Es muy apretada también. Parece como si te la estuviera chupando.	02:49:01;
+
+[PlayVoice]=02:45:05	Voice04/04-SB/04-SB-F02/04-SB-F02-0540	1	mak	02:49:01;
+
+[PrintText]=02:49:01	Taisuke	Whoa...	02:51:08;
+
+[PlayVoice]=02:49:01	Voice04/04-SB/04-SB-F02/04-SB-F02-0550	1	tai	02:51:08;
+
+[CreateBG]=02:51:04	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-004	03:24:15;
+
+[PrintText]=02:51:08	Makoto	Y algo más...	02:52:07;
+
+[PlayVoice]=02:51:08	Voice04/04-SB/04-SB-F02/04-SB-F02-0570	1	mak	02:52:07;
+
+[PrintText]=02:52:08	Taisuke	¿Qué más?^	02:53:08;
+
+[PlayVoice]=02:52:08	Voice04/04-SB/04-SB-F02/04-SB-F02-0580	1	tai	02:53:08;
+
+[PrintText]=02:53:08	Makoto	Ella tal vez está enamorada de ti...	02:57:07;
+
+[PlayVoice]=02:53:08	Voice04/04-SB/04-SB-F02/04-SB-F02-0590	1	mak	02:57:07;
+
+[PrintText]=02:57:07	Taisuke	¿D-De qué hablas? La conozco desde la primaria.	03:05:00;
+
+[PlayVoice]=02:57:07	Voice04/04-SB/04-SB-F02/04-SB-F02-0600	1	tai	03:05:00;
+
+[PrintText]=03:05:00	Makoto	Lo sé. Pero, he escuchado del chico que le gusta desde la primaria.	03:10:17;
+
+[PlayVoice]=03:05:00	Voice04/04-SB/04-SB-F02/04-SB-F02-0610	1	mak	03:10:17;
+
+[PrintText]=03:10:17	Taisuke	¿En serio...?^	03:12:02;
+
+[PlayVoice]=03:10:17	Voice04/04-SB/04-SB-F02/04-SB-F02-0620	1	tai	03:12:02;
+
+[PrintText]=03:12:02	Makoto	Tal vez busca dormir contigo.	03:16:00;
+
+[PlayVoice]=03:12:02	Voice04/04-SB/04-SB-F02/04-SB-F02-0630	1	mak	03:16:00;
+
+[PrintText]=03:16:00	Taisuke	¿E-En serio...?^	03:19:04;
+
+[PlayVoice]=03:16:00	Voice04/04-SB/04-SB-F02/04-SB-F02-0640	1	tai	03:19:04;
+
+[PrintText]=03:19:03	Makoto	¿Y entonces?^	03:20:04;
+
+[PlayVoice]=03:19:03	Voice04/04-SB/04-SB-F02/04-SB-F02-0650	1	mak	03:20:04;
+
+[PrintText]=03:20:04	Taisuke	...Dame un momento para pensarlo.	03:23:11;
+
+[PlayVoice]=03:20:04	Voice04/04-SB/04-SB-F02/04-SB-F02-0660	1	tai	03:23:11;
+
+[PrintText]=03:23:11	Makoto	Vale.	03:24:03;
+
+[PlayVoice]=03:23:11	Voice04/04-SB/04-SB-F02/04-SB-F02-0670	1	mak	03:24:03;
+
+[CreateBG]=03:24:15	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-002	03:41:03;
+
+[PrintText]=03:25:11	Makoto	Phew...	03:26:17;
+
+[PlayVoice]=03:25:11	Voice04/04-SB/04-SB-F02/04-SB-F02-0700	1	mak	03:26:17;
+
+[PrintText]=03:27:08	Makoto	¿Bueno?^	03:28:04;
+
+[PlayVoice]=03:27:08	Voice04/04-SB/04-SB-F02/04-SB-F02-0730	1	mak	03:28:04;
+
+[PrintText]=03:28:05	Hikari	¿Itou?^	03:29:06;
+
+[PlayVoice]=03:28:05	Voice04/04-SB/04-SB-F02/04-SB-F02-0740	0	hik	03:29:06;
+
+[PrintText]=03:29:06	Makoto	Oh, Kuroda, solo eres tú.	03:31:11;
+
+[PlayVoice]=03:29:06	Voice04/04-SB/04-SB-F02/04-SB-F02-0750	1	mak	03:31:11;
+
+[PrintText]=03:31:11	Hikari	¿Qué quieres decir con 'solo eres tú'?! Dijiste que me ibas a llamar, y estaba esperando!	03:36:10;
+
+[PlayVoice]=03:31:11	Voice04/04-SB/04-SB-F02/04-SB-F02-0760	0	hik	03:36:10;
+
+[PrintText]=03:36:10	Makoto	Estoy esperando una llamada de Taisuke en este momento.	03:38:18;
+
+[PlayVoice]=03:36:10	Voice04/04-SB/04-SB-F02/04-SB-F02-0770	1	mak	03:38:18;
+
+[PrintText]=03:38:18	Hikari	¿De Sawanaga...?^	03:40:10;
+
+[PlayVoice]=03:38:18	Voice04/04-SB/04-SB-F02/04-SB-F02-0780	0	hik	03:40:10;
+
+[PrintText]=03:40:10	Makoto	Sí.	03:41:02;
+
+[PlayVoice]=03:40:10	Voice04/04-SB/04-SB-F02/04-SB-F02-0790	1	mak	03:41:02;
+
+[PrintText]=03:41:02	Hikari	¿Qué planeas hacer?^	03:42:17;
+
+[PlayVoice]=03:41:02	Voice04/04-SB/04-SB-F02/04-SB-F02-0800	0	hik	03:42:17;
+
+[CreateBG]=03:41:03	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-009B	03:58:11;
+
+[PrintText]=03:42:17	Makoto	Como dije, todo van bien, te llamaré después.	03:46:19;
+
+[PlayVoice]=03:42:17	Voice04/04-SB/04-SB-F02/04-SB-F02-0810	1	mak	03:46:19;
+
+[PrintText]=03:46:19	Hikari	¿Significa que no llamarás si no va bien? Tienes que estar brom....	03:52:10;
+
+[PlayVoice]=03:46:19	Voice04/04-SB/04-SB-F02/04-SB-F02-0820	0	hik	03:52:10;
+
+[PrintText]=03:52:00	Makoto	Perdón, tengo una llamada ahora. Te llamaré después. Adiós.	03:56:07;
+
+[PlayVoice]=03:52:00	Voice04/04-SB/04-SB-F02/04-SB-F02-0850	1	mak	03:56:07;
+
+[PrintText]=03:56:00	Hikari	¡Espera un mi...! ¿...?^	03:57:00;
+
+[PlayVoice]=03:56:00	Voice04/04-SB/04-SB-F02/04-SB-F02-0860	0	hik	03:57:00;
+
+[PrintText]=03:57:07	Makoto	¿Bueno?^	03:58:00;
+
+[PlayVoice]=03:57:07	Voice04/04-SB/04-SB-F02/04-SB-F02-0880	1	mak	03:58:00;
+
+[PrintText]=03:58:02	Taisuke	¡Hey, Makoto!	03:59:08;
+
+[PlayVoice]=03:58:02	Voice04/04-SB/04-SB-F02/04-SB-F02-0890	1	tai	03:59:08;
+
+[CreateBG]=03:58:11	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-002	04:16:02;
+
+[PrintText]=03:59:06	Makoto	Sí. Entonces, ¿Qué te parece?^	04:01:06;
+
+[PlayVoice]=03:59:06	Voice04/04-SB/04-SB-F02/04-SB-F02-0900	1	mak	04:01:06;
+
+[PrintText]=04:01:06	Taisuke	No voy a dar a mi novia a cualquier chico... pero como eres tú, después de todo, le pregunté.	04:11:07;
+
+[PlayVoice]=04:01:06	Voice04/04-SB/04-SB-F02/04-SB-F02-0910	1	tai	04:11:07;
+
+[PrintText]=04:11:07	Makoto	¡¿Eh?! ...O-oh, Vale. ¿Entonces?^	04:16:03;
+
+[PlayVoice]=04:11:07	Voice04/04-SB/04-SB-F02/04-SB-F02-0920	1	mak	04:16:03;
+
+[CreateBG]=04:16:01	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-010	04:28:07;
+
+[PrintText]=04:16:03	Taisuke	¡Bueno... dijo que sonaría divertido!	04:21:23;
+
+[PlayVoice]=04:16:03	Voice04/04-SB/04-SB-F02/04-SB-F02-0930	1	tai	04:21:23;
+
+[PrintText]=04:21:23	Makoto	...Ya veo.	04:23:01;
+
+[PlayVoice]=04:21:23	Voice04/04-SB/04-SB-F02/04-SB-F02-0940	1	mak	04:23:01;
+
+[PrintText]=04:23:01	Taisuke	Era justo como decías, me había preocupado por nada.	04:26:20;
+
+[PlayVoice]=04:23:01	Voice04/04-SB/04-SB-F02/04-SB-F02-0960	1	tai	04:26:20;
+
+[PrintText]=04:26:20	Makoto	Te lo dije.	04:28:08;
+
+[PlayVoice]=04:26:20	Voice04/04-SB/04-SB-F02/04-SB-F02-0970	1	mak	04:28:08;
+
+[CreateBG]=04:28:07	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-010A	04:41:17;
+
+[PrintText]=04:28:08	Taisuke	Sí. Entonces, ¿Cuando podría ser?^	04:30:16;
+
+[PlayVoice]=04:28:08	Voice04/04-SB/04-SB-F02/04-SB-F02-0980	1	tai	04:30:16;
+
+[PrintText]=04:30:16	Makoto	Veamos... ¿Qué tal mañana? Mañana es un día libre.	04:36:12;
+
+[PlayVoice]=04:30:16	Voice04/04-SB/04-SB-F02/04-SB-F02-0990	1	mak	04:36:12;
+
+[PrintText]=04:36:12	Taisuke	Vale, sé dónde podría ser.	04:38:20;
+
+[PlayVoice]=04:36:12	Voice04/04-SB/04-SB-F02/04-SB-F02-1000	1	tai	04:38:20;
+
+[PrintText]=04:38:20	Makoto	¿Donde?^	04:39:19;
+
+[PlayVoice]=04:38:20	Voice04/04-SB/04-SB-F02/04-SB-F02-1010	1	mak	04:39:19;
+
+[PrintText]=04:39:19	Taisuke	La casa de Katsura.	04:41:17;
+
+[PlayVoice]=04:39:19	Voice04/04-SB/04-SB-F02/04-SB-F02-1020	1	tai	04:41:17;
+
+[CreateBG]=04:41:17	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-010	04:52:19;
+
+[PrintText]=04:41:17	Makoto	¿Eh?^	04:42:09;
+
+[PlayVoice]=04:41:17	Voice04/04-SB/04-SB-F02/04-SB-F02-1030	1	mak	04:42:09;
+
+[PrintText]=04:42:09	Taisuke	Parece que sus padres están fuera por negocios.	04:44:19;
+
+[PlayVoice]=04:42:09	Voice04/04-SB/04-SB-F02/04-SB-F02-1040	1	tai	04:44:19;
+
+[PrintText]=04:44:19	Makoto	Pero su hermana pequeña está en casa ¿No?^	04:47:12;
+
+[PlayVoice]=04:44:19	Voice04/04-SB/04-SB-F02/04-SB-F02-1050	1	mak	04:47:12;
+
+[PrintText]=04:47:12	Taisuke	Estás bien informado.	04:49:04;
+
+[PlayVoice]=04:47:12	Voice04/04-SB/04-SB-F02/04-SB-F02-1060	1	tai	04:49:04;
+
+[PrintText]=04:49:04	Makoto	Sí. Lo escuche de Sekai en el almuerzo.	04:52:19;
+
+[PlayVoice]=04:49:04	Voice04/04-SB/04-SB-F02/04-SB-F02-1070	1	mak	04:52:19;
+
+[CreateBG]=04:52:19	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-011	05:20:15;
+
+[PrintText]=04:52:19	Taisuke	Bien. Pues, ella dijo que tiene practica los fin de semana. Así que podemos estar todo el día.	05:03:14;
+
+[PlayVoice]=04:52:19	Voice04/04-SB/04-SB-F02/04-SB-F02-1080	1	tai	05:03:14;
+
+[PrintText]=05:03:14	Makoto	Uwah... Monstruo.	05:06:09;
+
+[PlayVoice]=05:03:14	Voice04/04-SB/04-SB-F02/04-SB-F02-1090	1	mak	05:06:09;
+
+[PrintText]=05:06:09	Taisuke	Mira quien habla.	05:07:21;
+
+[PlayVoice]=05:06:09	Voice04/04-SB/04-SB-F02/04-SB-F02-1100	1	tai	05:07:21;
+
+[PrintText]=05:07:21	Makoto	Bueno, como sea, suena bien.	05:10:10;
+
+[PlayVoice]=05:07:21	Voice04/04-SB/04-SB-F02/04-SB-F02-1110	1	mak	05:10:10;
+
+[PrintText]=05:10:09	Taisuke	Está hecho entonces. En la casa de Katsura-san a las 10 de la mañana.	05:13:14;
+
+[PlayVoice]=05:10:09	Voice04/04-SB/04-SB-F02/04-SB-F02-1120	1	tai	05:13:14;
+
+[PrintText]=05:13:14	Makoto	Qué temprano.	05:14:19;
+
+[PlayVoice]=05:13:14	Voice04/04-SB/04-SB-F02/04-SB-F02-1130	1	mak	05:14:19;
+
+[PrintText]=05:14:19	Taisuke	Considerando que su hermana estará en la noche, serían 7 u 8 horas.	05:20:16;
+
+[PlayVoice]=05:14:19	Voice04/04-SB/04-SB-F02/04-SB-F02-1140	1	tai	05:20:16;
+
+[CreateBG]=05:20:15	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-012	05:34:04;
+
+[PrintText]=05:20:16	Makoto	¿Quieres quedarte 7 u 8 horas...?^	05:23:00;
+
+[PlayVoice]=05:20:16	Voice04/04-SB/04-SB-F02/04-SB-F02-1150	1	mak	05:23:00;
+
+[PrintText]=05:22:23	Taisuke	Tres horas para Katsura-san y Kuroda-san, con comida y baño... sip, es perfecto.	05:31:04;
+
+[PlayVoice]=05:22:23	Voice04/04-SB/04-SB-F02/04-SB-F02-1160	1	tai	05:31:04;
+
+[PrintText]=05:31:04	Makoto	Haah... Lo tienes todo planeado ¿eh?^	05:34:08;
+
+[PlayVoice]=05:31:04	Voice04/04-SB/04-SB-F02/04-SB-F02-1170	1	mak	05:34:08;
+
+[CreateBG]=05:34:04	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-004	05:41:19;
+
+[PrintText]=05:34:08	Taisuke	Lo apuesto. Le diré a Katsura ahora.	05:37:18;
+
+[PlayVoice]=05:34:08	Voice04/04-SB/04-SB-F02/04-SB-F02-1180	1	tai	05:37:18;
+
+[PrintText]=05:37:18	Makoto	Vale. Hablaré con Kuroda.	05:40:06;
+
+[PlayVoice]=05:37:18	Voice04/04-SB/04-SB-F02/04-SB-F02-1190	1	mak	05:40:06;
+
+[PrintText]=05:40:05	Taisuke	Está bien. Nos vemos más tarde.	05:41:19;
+
+[PlayVoice]=05:40:05	Voice04/04-SB/04-SB-F02/04-SB-F02-1200	1	tai	05:41:19;
+
+[EndBGM]=05:40:05	BGM/Vocal/SDV04	07:50:23;
+
+[CreateBG]=05:41:19	BGS	Event04/04-SB/04-SB-F02/04-SB-F02-014	05:43:06;
+
+[PrintText]=05:41:19	Makoto	Kotonoha...	05:43:03;
+
+[PlayVoice]=05:41:19	Voice04/04-SB/04-SB-F02/04-SB-F02-1220	1	mak	05:43:03;
+
+[CreateBG]=05:43:06	BGS	Ini/EndRoll/04-17	05:46:00;
+
+[EndRoll]=05:46:00	Ini/EndRoll/NORMAL	06:26:00;
+
+ ;
+
+[Next]=06:26:00;
+
+

@@ -1,0 +1,127 @@
+﻿[SkipFRAME]=01:32:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/yuugata	00:10:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-001	00:10:00;
+
+[PrintText]=00:00:00	Makoto	Pero... ¿Cómo Kiyoura sabía que iba a tu casa?^	00:07:01;
+
+[PlayVoice]=00:00:00	Voice05/05-A2/05-A2-C00/05-A2-C00-0040	1	mak	00:07:01;
+
+[PrintText]=00:06:00	Sekai	Dijo que lo había escuchado en los casilleros.	00:10:04;
+
+[PlayVoice]=00:06:00	Voice05/05-A2/05-A2-C00/05-A2-C00-0050	0	sek	00:10:04;
+
+[PrintText]=00:09:12	Makoto	Ah, debe haber estado cerca cuando hablaba con Katou. No la había notado.	00:16:19;
+
+[PlayVoice]=00:09:12	Voice05/05-A2/05-A2-C00/05-A2-C00-0060	1	mak	00:16:19;
+
+[PlaySe]=00:10:00	2	Se05/05-A2/05-A2-C00/SE05-A2-C00-001	01:01:17;
+
+[CreateBG]=00:10:00	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-000a	00:22:13;
+
+[PrintText]=00:16:00	Sekai	¿Eh...? ¿Quieres decir...?^	00:18:22;
+
+[PlayVoice]=00:16:00	Voice05/05-A2/05-A2-C00/05-A2-C00-0070	0	sek	00:18:22;
+
+[PrintText]=00:18:05	Makoto	¿Qué?^	00:20:09;
+
+[PlayVoice]=00:18:05	Voice05/05-A2/05-A2-C00/05-A2-C00-0080	1	mak	00:20:09;
+
+[PrintText]=00:20:00	Sekai	De seguro estabas tan embobado hablando con Katou-san que no la notaste.	00:26:03;
+
+[PlayVoice]=00:20:00	Voice05/05-A2/05-A2-C00/05-A2-C00-0090	0	sek	00:26:03;
+
+[CreateBG]=00:22:13	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-000b	00:33:10;
+
+[PrintText]=00:25:10	Makoto	No fue así, tonta.	00:28:11;
+
+[PlayVoice]=00:25:10	Voice05/05-A2/05-A2-C00/05-A2-C00-0100	1	mak	00:28:11;
+
+[PrintText]=00:27:21	Sekai	Me pregunto sí...	00:29:13;
+
+[PlayVoice]=00:27:21	Voice05/05-A2/05-A2-C00/05-A2-C00-0110	0	sek	00:29:13;
+
+[PrintText]=00:28:21	Makoto	Hey, No es así entre Katou y yo. Somos viejos amigos. Te la presentaré la próxima vez.	00:37:09;
+
+[PlayVoice]=00:28:21	Voice05/05-A2/05-A2-C00/05-A2-C00-0120	1	mak	00:37:09;
+
+[CreateBG]=00:33:10	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-000c	00:45:16;
+
+[PrintText]=00:36:23	Sekai	No gracias.	00:38:03;
+
+[PlayVoice]=00:36:23	Voice05/05-A2/05-A2-C00/05-A2-C00-0130	0	sek	00:38:03;
+
+[PrintText]=00:37:15	Makoto	No empieces a actuar rara. Te acabo de decir lo que siento ¿No?^	00:44:12;
+
+[PlayVoice]=00:37:15	Voice05/05-A2/05-A2-C00/05-A2-C00-0140	1	mak	00:44:12;
+
+[PrintText]=00:43:12	Sekai	Lo sé... pero Katou-san dijo que quería salir contigo ¿Me equivoco?^	00:50:20;
+
+[PlayVoice]=00:43:12	Voice05/05-A2/05-A2-C00/05-A2-C00-0150	0	sek	00:50:20;
+
+[CreateBG]=00:45:16	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-000d	00:56:12;
+
+[PrintText]=00:50:01	Makoto	Ese es otro malentendido.	00:53:01;
+
+[PlayVoice]=00:50:01	Voice05/05-A2/05-A2-C00/05-A2-C00-0160	1	mak	00:53:01;
+
+[PrintText]=00:52:06	Sekai	No, no es así. Setsuna no escucho fuerte y claro.	00:56:09;
+
+[PlayVoice]=00:52:06	Voice05/05-A2/05-A2-C00/05-A2-C00-0170	0	sek	00:56:09;
+
+[PrintText]=00:55:20	Makoto	Mira, es verdad que me dijo que saliera con ella si me ibas a rechazar, pero...	01:01:14;
+
+[PlayVoice]=00:55:20	Voice05/05-A2/05-A2-C00/05-A2-C00-0180	1	mak	01:01:14;
+
+[CreateBG]=00:56:12	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-000e	01:01:17;
+
+[PrintText]=01:01:06	Sekai	¿Lo ves?^	01:02:03;
+
+[PlayVoice]=01:01:06	Voice05/05-A2/05-A2-C00/05-A2-C00-0190	0	sek	01:02:03;
+
+[PlaySe]=01:01:17	1	SysSe/SE_all/gaya/yuugata	01:32:04;
+
+[CreateBG]=01:01:17	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-003	01:09:22;
+
+[PrintText]=01:01:19	Makoto	Esa es una de sus tontas bromas de siempre. Siempre dice cosas así desde la primaria.	01:10:09;
+
+[PlayVoice]=01:01:19	Voice05/05-A2/05-A2-C00/05-A2-C00-0200	1	mak	01:10:09;
+
+[CreateBG]=01:09:22	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-004	01:30:08;
+
+[PrintText]=01:09:22	Sekai	Quieres decir que...	01:11:06;
+
+[PlayVoice]=01:09:22	Voice05/05-A2/05-A2-C00/05-A2-C00-0210	0	sek	01:11:06;
+
+[PrintText]=01:10:18	Makoto	Así que no dejes que te moleste ¿Vale?^	01:13:18;
+
+[PlayVoice]=01:10:18	Voice05/05-A2/05-A2-C00/05-A2-C00-0220	1	mak	01:13:18;
+
+[PrintText]=01:13:10	Sekai	Hmm...	01:14:22;
+
+[PlayVoice]=01:13:10	Voice05/05-A2/05-A2-C00/05-A2-C00-0230	0	sek	01:14:22;
+
+[PrintText]=01:14:02	Makoto	Vamos, Entremos.	01:17:16;
+
+[PlayVoice]=01:14:02	Voice05/05-A2/05-A2-C00/05-A2-C00-0240	1	mak	01:17:16;
+
+[PrintText]=01:16:22	Sekai	Perdón por lo de que mi mamá estará en casa hoy. Regresará después de su noche de descanso.	01:22:15;
+
+[PlayVoice]=01:16:22	Voice05/05-A2/05-A2-C00/05-A2-C00-0250	0	sek	01:22:15;
+
+[PrintText]=01:21:20	Makoto	Está bien. No deberíamos molestarla de todas maneras. Mi mamá estará fuera hoy, así que nadie estará en casa.	01:31:02;
+
+[PlayVoice]=01:21:20	Voice05/05-A2/05-A2-C00/05-A2-C00-0260	1	mak	01:31:02;
+
+[CreateBG]=01:30:08	BGS	Event05/05-A2/05-A2-C00/05-A2-C00-005	01:32:04;
+
+[PrintText]=01:30:09	Sekai	V-Vale.	01:32:02;
+
+[PlayVoice]=01:30:09	Voice05/05-A2/05-A2-C00/05-A2-C00-0270	0	sek	01:32:02;
+
+ ;
+
+[Next]=01:32:04;
+
+

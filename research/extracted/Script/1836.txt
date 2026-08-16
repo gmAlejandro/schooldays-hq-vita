@@ -1,0 +1,254 @@
+﻿[SkipFRAME]=03:19:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	03:19:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-A00/05-SE-A00-001	00:05:03;
+
+[BlackFade]=00:00:00	IN	00:02:00;
+
+[PrintText]=00:02:00	Makoto	¿Sekai estará bien?^	00:05:03;
+
+[PlayVoice]=00:02:00	Voice05/05-SE/05-SE-L00/05-SE-L00-0030	1	mak	00:05:03;
+
+[CreateBG]=00:05:03	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-002	00:17:23;
+
+[PrintText]=00:05:03	Kotonoha	Estará bien. El doctor dijo que estaba cansada por falta de sueño y la carga adicional en su cuerpo.	00:13:14;
+
+[PlayVoice]=00:05:03	Voice05/05-SE/05-SE-L00/05-SE-L00-0040	0	kot	00:13:14;
+
+[PrintText]=00:13:14	Makoto	Ya veo... se quedó dormida la noche anterior.	00:17:23;
+
+[PlayVoice]=00:13:14	Voice05/05-SE/05-SE-L00/05-SE-L00-0050	1	mak	00:17:23;
+
+[PrintText]=00:17:22	Kotonoha	¿Estuviste con ella?^	00:20:17;
+
+[PlayVoice]=00:17:22	Voice05/05-SE/05-SE-L00/05-SE-L00-0060	0	kot	00:20:17;
+
+[CreateBG]=00:17:23	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-003	00:33:20;
+
+[PrintText]=00:20:17	Makoto	S...Sí.	00:22:12;
+
+[PlayVoice]=00:20:17	Voice05/05-SE/05-SE-L00/05-SE-L00-0070	1	mak	00:22:12;
+
+[PrintText]=00:22:12	Kotonoha	Ya veo.	00:23:22;
+
+[PlayVoice]=00:22:12	Voice05/05-SE/05-SE-L00/05-SE-L00-0080	0	kot	00:23:22;
+
+[PrintText]=00:23:22	Makoto	...	00:25:19;
+
+[PlayVoice]=00:23:22	Voice05/05-SE/05-SE-L00/05-SE-L00-0090	1	xxx	00:25:19;
+
+[PrintText]=00:25:19	Kotonoha	¿Ya lo sabías?^	00:28:06;
+
+[PlayVoice]=00:25:19	Voice05/05-SE/05-SE-L00/05-SE-L00-0100	0	kot	00:28:06;
+
+[PrintText]=00:28:06	Makoto	¿Saber qué?^	00:29:02;
+
+[PlayVoice]=00:28:06	Voice05/05-SE/05-SE-L00/05-SE-L00-0110	1	mak	00:29:02;
+
+[PrintText]=00:29:02	Kotonoha	Que Saionji-san está... embarazada.	00:33:19;
+
+[PlayVoice]=00:29:02	Voice05/05-SE/05-SE-L00/05-SE-L00-0120	0	kot	00:33:19;
+
+[PrintText]=00:33:19	Makoto	Sí.	00:34:08;
+
+[PlayVoice]=00:33:19	Voice05/05-SE/05-SE-L00/05-SE-L00-0130	1	mak	00:34:08;
+
+[CreateBG]=00:33:20	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-004	00:57:08;
+
+[PrintText]=00:34:08	Kotonoha	¿Te lo dijo?^	00:35:17;
+
+[PlayVoice]=00:34:08	Voice05/05-SE/05-SE-L00/05-SE-L00-0140	0	kot	00:35:17;
+
+[PrintText]=00:35:16	Makoto	Ayer, no se sentía bien y quería vomitar. Entonces noté que probablemente estaba embarazada.	00:44:05;
+
+[PlayVoice]=00:35:16	Voice05/05-SE/05-SE-L00/05-SE-L00-0150	1	mak	00:44:05;
+
+[PrintText]=00:44:05	Kotonoha	Ya veo.	00:45:16;
+
+[PlayVoice]=00:44:05	Voice05/05-SE/05-SE-L00/05-SE-L00-0160	0	kot	00:45:16;
+
+[PrintText]=00:45:16	Makoto	Bueno, así es como son las cosas. Quiero hacerla feliz a Sekai junto al bebe, así que...	00:55:14;
+
+[PlayVoice]=00:45:16	Voice05/05-SE/05-SE-L00/05-SE-L00-0170	1	mak	00:55:14;
+
+[PrintText]=00:55:14	Kotonoha	¿Es en serio?^	00:57:08;
+
+[PlayVoice]=00:55:14	Voice05/05-SE/05-SE-L00/05-SE-L00-0180	0	kot	00:57:08;
+
+[CreateBG]=00:57:08	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-014	01:32:08;
+
+[PrintText]=00:57:08	Makoto	¿Huh...?^	00:58:14;
+
+[PlayVoice]=00:57:08	Voice05/05-SE/05-SE-L00/05-SE-L00-0190	1	mak	00:58:14;
+
+[PrintText]=00:58:14	Kotonoha	Saionji-san me lo dijo en el hospital. Dijo que tendría al bebé.	01:03:08;
+
+[PlayVoice]=00:58:14	Voice05/05-SE/05-SE-L00/05-SE-L00-0200	0	kot	01:03:08;
+
+[PrintText]=01:03:08	Makoto	Sí. También planeo estar con ella...	01:06:15;
+
+[PlayVoice]=01:03:08	Voice05/05-SE/05-SE-L00/05-SE-L00-0210	1	mak	01:06:15;
+
+[PrintText]=01:06:15	Kotonoha	...Te amo Makoto-kun. Quiero que Saionji-san renuncie a ti.	01:14:09;
+
+[PlayVoice]=01:06:15	Voice05/05-SE/05-SE-L00/05-SE-L00-0220	0	kot	01:14:09;
+
+[PrintText]=01:14:08	Kotonoha	No le diré nada, pero... realmente creo que es mejor que lo aborte.	01:22:07;
+
+[PlayVoice]=01:14:08	Voice05/05-SE/05-SE-L00/05-SE-L00-0221	0	kot	01:22:07;
+
+[PrintText]=01:22:08	Makoto	Pues, seguro será difícil criar a un hijo a nuestra edad, pero incluso su mamá la apoya...	01:30:13;
+
+[PlayVoice]=01:22:08	Voice05/05-SE/05-SE-L00/05-SE-L00-0230	1	mak	01:30:13;
+
+[PrintText]=01:30:13	Kotonoha	No me refiero a eso.	01:32:20;
+
+[PlayVoice]=01:30:13	Voice05/05-SE/05-SE-L00/05-SE-L00-0240	0	kot	01:32:20;
+
+[CreateBG]=01:32:08	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-002	01:41:01;
+
+[PrintText]=01:32:20	Makoto	En ese caso...	01:34:08;
+
+[PlayVoice]=01:32:20	Voice05/05-SE/05-SE-L00/05-SE-L00-0250	1	mak	01:34:08;
+
+[PrintText]=01:34:08	Kotonoha	El doctor dijo que ella tenía dos meses de embarazo masomenos.	01:40:07;
+
+[PlayVoice]=01:34:08	Voice05/05-SE/05-SE-L00/05-SE-L00-0260	0	kot	01:40:07;
+
+[PrintText]=01:40:07	Makoto	¿Eh...?^	01:41:01;
+
+[PlayVoice]=01:40:07	Voice05/05-SE/05-SE-L00/05-SE-L00-0270	1	mak	01:41:01;
+
+[CreateBG]=01:41:01	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-007	02:05:14;
+
+[PrintText]=01:41:01	Kotonoha	¿Sabes lo que eso quiere decir?^	01:42:18;
+
+[PlayVoice]=01:41:01	Voice05/05-SE/05-SE-L00/05-SE-L00-0280	0	kot	01:42:18;
+
+[PrintText]=01:42:18	Makoto	...	01:47:01;
+
+[PlayVoice]=01:42:18	Voice05/05-SE/05-SE-L00/05-SE-L00-0290	1	xxx	01:47:01;
+
+[PrintText]=01:47:00	Kotonoha	Ese es el tiempo en el que empezó a salir con Sawanaga-san.	01:53:20;
+
+[PlayVoice]=01:47:00	Voice05/05-SE/05-SE-L00/05-SE-L00-0300	0	kot	01:53:20;
+
+[PrintText]=01:53:21	Makoto	P-Pero ella y yo...	01:56:15;
+
+[PlayVoice]=01:53:21	Voice05/05-SE/05-SE-L00/05-SE-L00-0310	1	mak	01:56:15;
+
+[PrintText]=01:56:15	Kotonoha	¿Lo hiciste con ella mientras estaba saliendo con Sawanaga-san?^	02:01:16;
+
+[PlayVoice]=01:56:15	Voice05/05-SE/05-SE-L00/05-SE-L00-0320	0	kot	02:01:16;
+
+[PrintText]=02:01:15	Makoto	...No.	02:02:19;
+
+[PlayVoice]=02:01:15	Voice05/05-SE/05-SE-L00/05-SE-L00-0330	1	mak	02:02:19;
+
+[PrintText]=02:02:19	Kotonoha	¡Entonces es claro de quién es el niño!	02:09:06;
+
+[PlayVoice]=02:02:19	Voice05/05-SE/05-SE-L00/05-SE-L00-0340	0	kot	02:09:06;
+
+[CreateBG]=02:05:14	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-008	02:09:06;
+
+[CreateBG]=02:09:06	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-001	02:13:08;
+
+[PrintText]=02:09:06	Makoto	...	02:10:08;
+
+[PlayVoice]=02:09:06	Voice05/05-SE/05-SE-L00/05-SE-L00-0350	1	xxx	02:10:08;
+
+[PrintText]=02:10:07	Kotonoha	Se lo diré a Sawanaga-san.	02:13:07;
+
+[PlayVoice]=02:10:07	Voice05/05-SE/05-SE-L00/05-SE-L00-0360	0	kot	02:13:07;
+
+[CreateBG]=02:13:08	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-004	02:36:19;
+
+[PrintText]=02:13:08	Makoto	¡¿Eh?!	02:13:22;
+
+[PlayVoice]=02:13:08	Voice05/05-SE/05-SE-L00/05-SE-L00-0370	1	mak	02:13:22;
+
+[PrintText]=02:13:23	Kotonoha	Si Saionji-san insiste en tener el bebé, entonces este necesita un padre.	02:19:21;
+
+[PlayVoice]=02:13:23	Voice05/05-SE/05-SE-L00/05-SE-L00-0380	0	kot	02:19:21;
+
+[PrintText]=02:19:21	Makoto	N-no. Ese bebé es...	02:22:20;
+
+[PlayVoice]=02:19:21	Voice05/05-SE/05-SE-L00/05-SE-L00-0390	1	mak	02:22:20;
+
+[PrintText]=02:22:20	Kotonoha	¡Makoto-kun!	02:24:08;
+
+[PlayVoice]=02:22:20	Voice05/05-SE/05-SE-L00/05-SE-L00-0400	0	kot	02:24:08;
+
+[PrintText]=02:24:08	Makoto	Podría seguir siendo mio ¿No?^	02:29:08;
+
+[PlayVoice]=02:24:08	Voice05/05-SE/05-SE-L00/05-SE-L00-0410	1	mak	02:29:08;
+
+[PrintText]=02:29:09	Kotonoha	...	02:30:18;
+
+[PlayVoice]=02:29:09	Voice05/05-SE/05-SE-L00/05-SE-L00-0420	0	xxx	02:30:18;
+
+[PrintText]=02:30:18	Makoto	Lo hicimos antes del festival... muchas veces. Después te dije que habíamos terminado.	02:36:19;
+
+[PlayVoice]=02:30:18	Voice05/05-SE/05-SE-L00/05-SE-L00-0430	1	mak	02:36:19;
+
+[PrintText]=02:36:18	Kotonoha	...	02:38:13;
+
+[PlayVoice]=02:36:18	Voice05/05-SE/05-SE-L00/05-SE-L00-0440	0	xxx	02:38:13;
+
+[CreateBG]=02:36:19	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-011	02:55:05;
+
+[PrintText]=02:38:13	Makoto	Así que puede seguir siendo mio ¿Verdad?^	02:42:06;
+
+[PlayVoice]=02:38:13	Voice05/05-SE/05-SE-L00/05-SE-L00-0450	1	mak	02:42:06;
+
+[PrintText]=02:42:07	Kotonoha	...No es posible.	02:43:19;
+
+[PlayVoice]=02:42:07	Voice05/05-SE/05-SE-L00/05-SE-L00-0460	0	kot	02:43:19;
+
+[PrintText]=02:43:19	Makoto	...	02:44:21;
+
+[PlayVoice]=02:43:19	Voice05/05-SE/05-SE-L00/05-SE-L00-0470	1	xxx	02:44:21;
+
+[PrintText]=02:44:20	Kotonoha	Podrías... ¿Podrías realmente amar a alguien que tiene el bebé de alguien más dentro suyo?^	02:55:05;
+
+[PlayVoice]=02:44:20	Voice05/05-SE/05-SE-L00/05-SE-L00-0480	0	kot	02:55:05;
+
+[CreateBG]=02:55:05	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-002	03:06:22;
+
+[PrintText]=02:55:05	Makoto	De quién sea el bebé...	02:59:01;
+
+[PlayVoice]=02:55:05	Voice05/05-SE/05-SE-L00/05-SE-L00-0490	1	mak	02:59:01;
+
+[PrintText]=02:59:01	Kotonoha	Estaré feliz de tener a tu hijo, pero Saionji-san...	03:06:21;
+
+[PlayVoice]=02:59:01	Voice05/05-SE/05-SE-L00/05-SE-L00-0500	0	kot	03:06:21;
+
+[PrintText]=03:06:21	Makoto	¡Para!	03:09:01;
+
+[PlayVoice]=03:06:21	Voice05/05-SE/05-SE-L00/05-SE-L00-0510	1	mak	03:09:01;
+
+[CreateBG]=03:06:22	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-013	03:09:01;
+
+[CreateBG]=03:09:01	BGS	Event05/05-SE/05-SE-L00/05-SE-L00-014	03:10:10;
+
+[PrintText]=03:09:01	Kotonoha	¡Makoto-kun!	03:10:10;
+
+[PlayVoice]=03:09:01	Voice05/05-SE/05-SE-L00/05-SE-L00-0520	0	kot	03:10:10;
+
+[CreateBG]=03:10:10	BGS	Event05/05-SE/05-SE-A00/05-SE-A00-001	03:19:04;
+
+[PrintText]=03:10:10	Makoto	Sekai no es... No, te equivocas.	03:17:18;
+
+[PlayVoice]=03:10:10	Voice05/05-SE/05-SE-L00/05-SE-L00-0530	1	mak	03:17:18;
+
+[PrintText]=03:17:18	Kotonoha	Makoto-kun...	03:19:04;
+
+[PlayVoice]=03:17:18	Voice05/05-SE/05-SE-L00/05-SE-L00-0540	0	kot	03:19:04;
+
+ ;
+
+[Next]=03:19:04;
+
+
+

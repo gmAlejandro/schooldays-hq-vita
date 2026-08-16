@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=01:09:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	01:08:06;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-A00/02-2K-A00-001	00:05:18;
+
+[PrintText]=00:00:12	Madre de Kotonoha	Oh, Kotonoha.	00:02:07;
+
+[PlayVoice]=00:00:12	Voice02/02-2K/02-2K-A00/02-2K-A00-0070	0	man	00:02:07;
+
+[PrintText]=00:02:08	Kotonoha	Ah, Mamá, estás en casa.	00:05:18;
+
+[PlayVoice]=00:02:08	Voice02/02-2K/02-2K-A00/02-2K-A00-0080	0	kot	00:05:18;
+
+[CreateBG]=00:05:18	BGS	Event02/02-2K/02-2K-A00/02-2K-A00-002A	00:49:12;
+
+[PrintText]=00:05:18	Madre de Kotonoha	Sí, Solo por ahora ¿Y esa Ropa?^	00:09:12;
+
+[PlayVoice]=00:05:18	Voice02/02-2K/02-2K-A00/02-2K-A00-0090	0	man	00:09:12;
+
+[PrintText]=00:09:12	Kotonoha	Voy a cambiarme ahora mismo.Oh, por cierto ¿Dónde pusiste nuestro termo?^	00:16:15;
+
+[PlayVoice]=00:09:12	Voice02/02-2K/02-2K-A00/02-2K-A00-0110	0	kot	00:16:15;
+
+[PrintText]=00:16:15	Madre de Kotonoha	¿Qué termo?^	00:17:18;
+
+[PlayVoice]=00:16:15	Voice02/02-2K/02-2K-A00/02-2K-A00-0120	0	man	00:17:18;
+
+[PrintText]=00:17:18	Kotonoha	¿Tenemos un termo vació no?^	00:20:15;
+
+[PlayVoice]=00:17:18	Voice02/02-2K/02-2K-A00/02-2K-A00-0140	0	kot	00:20:15;
+
+[PrintText]=00:20:15	Madre de Kotonoha	Está en la parte de atrás del armario, a la izquierda ¿Qué vas a hacer con el?^	00:23:22;
+
+[PlayVoice]=00:20:15	Voice02/02-2K/02-2K-A00/02-2K-A00-0150	0	man	00:23:22;
+
+[PrintText]=00:23:22	Kotonoha	Parece que va hacer frío mañana, así que llevare algo caliente.	00:28:17;
+
+[PlayVoice]=00:23:22	Voice02/02-2K/02-2K-A00/02-2K-A00-0160	0	kot	00:28:17;
+
+[PrintText]=00:28:17	Madre de Kotonoha	Eso es raro de ti.	00:30:05;
+
+[PlayVoice]=00:28:17	Voice02/02-2K/02-2K-A00/02-2K-A00-0170	0	man	00:30:05;
+
+[PrintText]=00:30:05	Kokoro	Onee-Chan está actuando extraña últimamente, leyendo libros de cocina y costura.	00:36:11;
+
+[PlayVoice]=00:30:05	Voice02/02-2K/02-2K-A00/02-2K-A00-0180	0	kok	00:36:11;
+
+[PrintText]=00:36:11	Madre de Kotonoha	Ya veo, entonces Kotonoha ya está en esa etapa.	00:40:12;
+
+[PlayVoice]=00:36:11	Voice02/02-2K/02-2K-A00/02-2K-A00-0190	0	man	00:40:12;
+
+[PrintText]=00:40:13	Kokoro	¿'Etapa'?^	00:42:04;
+
+[PlayVoice]=00:40:13	Voice02/02-2K/02-2K-A00/02-2K-A00-0200	0	kok	00:42:04;
+
+[PrintText]=00:42:04	Madre de Kotonoha	Kotonoha, te voy a enseñar mi receta de limonada, estoy segura que a tu novio le gustará.	00:49:10;
+
+[PlayVoice]=00:42:04	Voice02/02-2K/02-2K-A00/02-2K-A00-0230	0	man	00:49:10;
+
+[PrintText]=00:49:10	Kotonoha	¿'¡N-Novio!'...? N-No es lo que crees.... Es solo...	00:57:01;
+
+[PlayVoice]=00:49:10	Voice02/02-2K/02-2K-A00/02-2K-A00-0240	0	kot	00:57:01;
+
+[CreateBG]=00:49:12	BGS	Event02/02-2K/02-2K-A00/02-2K-A00-002B	00:57:00;
+
+[CreateBG]=00:57:00	BGS	Event02/02-2K/02-2K-A00/02-2K-A00-002A	01:03:00;
+
+[PrintText]=00:57:02	Madre de Kotonoha	Oh, no te preocupes ¿Qué más? Tengo unos pases para el cine ¿Los quieres?^	01:02:23;
+
+[PlayVoice]=00:57:02	Voice02/02-2K/02-2K-A00/02-2K-A00-0250	0	man	01:02:23;
+
+[CreateBG]=01:03:00	BGS	Event02/02-2K/02-2K-A00/02-2K-A00-002D	01:09:23;
+
+[PrintText]=01:03:00	Kotonoha	Um... Está bien.	01:05:21;
+
+[PlayVoice]=01:03:00	Voice02/02-2K/02-2K-A00/02-2K-A00-0260	0	kot	01:05:21;
+
+ ;
+
+[Next]=01:09:23;
+
+
+
+

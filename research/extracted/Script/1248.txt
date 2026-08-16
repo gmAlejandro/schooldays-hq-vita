@@ -1,0 +1,315 @@
+﻿[SkipFRAME]=02:51:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	02:51:06;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-001	00:01:18;
+
+[CreateBG]=00:01:18	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002A	00:06:14;
+
+[PrintText]=00:01:18	Taisuke	Cielos... ¿Que clase de persona se mete con la novia de alguien en frente de el mismo?^	00:06:14;
+
+[PlayVoice]=00:01:18	Voice04/04-SE/04-SE-B00/04-SE-B00-0040	1	tai	00:06:14;
+
+[CreateBG]=00:06:14	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002B	00:07:15;
+
+[PrintText]=00:06:21	Makoto	¡Perdón!	00:07:09;
+
+[PlayVoice]=00:06:21	Voice04/04-SE/04-SE-B00/04-SE-B00-0050	1	mak	00:07:09;
+
+[CreateBG]=00:07:15	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002C	00:20:18;
+
+[PrintText]=00:07:15	Taisuke	Estuve bastante asombrado sabes. Podrías estar muerto mañana.	00:11:16;
+
+[PlayVoice]=00:07:15	Voice04/04-SE/04-SE-B00/04-SE-B00-0060	1	tai	00:11:16;
+
+[PrintText]=00:11:16	Makoto	¡H-hey! Ya deja esas malas bromas.	00:15:01;
+
+[PlayVoice]=00:11:16	Voice04/04-SE/04-SE-B00/04-SE-B00-0070	1	mak	00:15:01;
+
+[PrintText]=00:15:01	Taisuke	Ahh... ya no tiene sentido la vida ahora que he sido abandonado por mi amada novia...	00:20:18;
+
+[PlayVoice]=00:15:01	Voice04/04-SE/04-SE-B00/04-SE-B00-0080	1	tai	00:20:18;
+
+[CreateBG]=00:20:16	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-003	00:23:09;
+
+[PrintText]=00:20:18	Makoto	¡Uwah... en serio, Perdón!	00:23:10;
+
+[PlayVoice]=00:20:18	Voice04/04-SE/04-SE-B00/04-SE-B00-0090	1	mak	00:23:10;
+
+[CreateBG]=00:23:09	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-003B	00:26:20;
+
+[PrintText]=00:23:10	Taisuke	Aún así, creo que no hay porque deprimirse.	00:26:21;
+
+[PlayVoice]=00:23:10	Voice04/04-SE/04-SE-B00/04-SE-B00-0100	1	tai	00:26:21;
+
+[CreateBG]=00:26:20	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-003C	00:29:20;
+
+[PrintText]=00:26:21	Makoto	¿...Me perdonarás entonces?^	00:29:21;
+
+[PlayVoice]=00:26:21	Voice04/04-SE/04-SE-B00/04-SE-B00-0110	1	mak	00:29:21;
+
+[CreateBG]=00:29:20	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-004	00:34:20;
+
+[PrintText]=00:29:22	Taisuke	Pues, quiero decir, ustedes han estado saliendo antes ¿No?^	00:33:03;
+
+[PlayVoice]=00:29:22	Voice04/04-SE/04-SE-B00/04-SE-B00-0120	1	tai	00:33:03;
+
+[PrintText]=00:33:03	Makoto	No estábamos exactamente 'Saliendo'.	00:34:22;
+
+[PlayVoice]=00:33:03	Voice04/04-SE/04-SE-B00/04-SE-B00-0130	1	mak	00:34:22;
+
+[CreateBG]=00:34:20	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-004B	00:40:12;
+
+[PrintText]=00:34:22	Taisuke	¿En serio? Todos incluyéndome dome pensábamos que tú y Saionji estaban saliendo.	00:40:14;
+
+[PlayVoice]=00:34:22	Voice04/04-SE/04-SE-B00/04-SE-B00-0140	1	tai	00:40:14;
+
+[CreateBG]=00:40:12	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-005	00:41:22;
+
+[PrintText]=00:40:14	Makoto	¿En serio...?^	00:41:23;
+
+[PlayVoice]=00:40:14	Voice04/04-SE/04-SE-B00/04-SE-B00-0150	1	mak	00:41:23;
+
+[CreateBG]=00:41:22	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-006	00:46:13;
+
+[PrintText]=00:41:23	Taisuke	Para serte honesto, por eso estaba como 'Hasta que al fin, él está aquí' cuando viniste.	00:46:20;
+
+[PlayVoice]=00:41:23	Voice04/04-SE/04-SE-B00/04-SE-B00-0160	1	tai	00:46:20;
+
+[CreateBG]=00:46:13	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-006B	00:47:15;
+
+[PrintText]=00:46:23	Makoto	¿Eh...?^	00:47:08;
+
+[PlayVoice]=00:46:23	Voice04/04-SE/04-SE-B00/04-SE-B00-0170	1	mak	00:47:08;
+
+[PrintText]=00:47:12	Taisuke	Incluso cuando salíamos, ella siempre pensaba en algo, siempre estaba pendiente de ti.	00:55:01;
+
+[PlayVoice]=00:47:12	Voice04/04-SE/04-SE-B00/04-SE-B00-0180	1	tai	00:55:01;
+
+[CreateBG]=00:47:15	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002A	00:58:12;
+
+[PrintText]=00:55:01	Taisuke	Era obvio que le gustabas.	00:58:14;
+
+[PlayVoice]=00:55:01	Voice04/04-SE/04-SE-B00/04-SE-B00-0181	1	tai	00:58:14;
+
+[CreateBG]=00:58:12	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-009	01:00:14;
+
+[PrintText]=00:58:14	Makoto	Ya veo...	00:59:18;
+
+[PlayVoice]=00:58:14	Voice04/04-SE/04-SE-B00/04-SE-B00-0190	1	mak	00:59:18;
+
+[PrintText]=00:59:19	Taisuke	¡Keh! No te avergüences de mí.	01:01:21;
+
+[PlayVoice]=00:59:19	Voice04/04-SE/04-SE-B00/04-SE-B00-0200	1	tai	01:01:21;
+
+[CreateBG]=01:00:14	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-009B	01:02:23;
+
+[PrintText]=01:01:20	Makoto	Uhh...	01:02:23;
+
+[PlayVoice]=01:01:20	Voice04/04-SE/04-SE-B00/04-SE-B00-0210	1	mak	01:02:23;
+
+[CreateBG]=01:02:23	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-008B	01:05:06;
+
+[PrintText]=01:02:23	Makoto	Ah, tengo otra llamada.	01:04:08;
+
+[PlayVoice]=01:02:23	Voice04/04-SE/04-SE-B00/04-SE-B00-0230	1	mak	01:04:08;
+
+[PrintText]=01:04:09	Taisuke	¿No lo tomarás?^	01:05:05;
+
+[PlayVoice]=01:04:09	Voice04/04-SE/04-SE-B00/04-SE-B00-0240	1	tai	01:05:05;
+
+[PrintText]=01:05:05	Makoto	Ah...	01:05:21;
+
+[PlayVoice]=01:05:05	Voice04/04-SE/04-SE-B00/04-SE-B00-0250	1	mak	01:05:21;
+
+[CreateBG]=01:05:06	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002A	01:07:09;
+
+[PrintText]=01:05:21	Makoto	No... está bien.	01:07:11;
+
+[PlayVoice]=01:05:21	Voice04/04-SE/04-SE-B00/04-SE-B00-0270	1	mak	01:07:11;
+
+[CreateBG]=01:07:09	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-012B	01:12:16;
+
+[PrintText]=01:07:10	Taisuke	¿En serio? ¿Quién es?^	01:09:10;
+
+[PlayVoice]=01:07:10	Voice04/04-SE/04-SE-B00/04-SE-B00-0280	1	tai	01:09:10;
+
+[PrintText]=01:09:10	Makoto	Pues...	01:10:09;
+
+[PlayVoice]=01:09:10	Voice04/04-SE/04-SE-B00/04-SE-B00-0290	1	mak	01:10:09;
+
+[PrintText]=01:10:09	Taisuke	Vamos. ¿Es tu novia?^	01:12:18;
+
+[PlayVoice]=01:10:09	Voice04/04-SE/04-SE-B00/04-SE-B00-0300	1	tai	01:12:18;
+
+[CreateBG]=01:12:16	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002A	01:13:20;
+
+[PrintText]=01:12:17	Makoto	Haha....	01:13:21;
+
+[PlayVoice]=01:12:17	Voice04/04-SE/04-SE-B00/04-SE-B00-0310	1	mak	01:13:21;
+
+[CreateBG]=01:13:20	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-013B	01:18:23;
+
+[PrintText]=01:13:22	Taisuke	Como sea, por ahora, estaré apegado a mi hermana.	01:19:01;
+
+[PlayVoice]=01:13:22	Voice04/04-SE/04-SE-B00/04-SE-B00-0320	1	tai	01:19:01;
+
+[CreateBG]=01:18:23	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002C	01:25:20;
+
+[PrintText]=01:19:01	Makoto	Aww... Has perdido la cabeza, ¿huh?^	01:21:23;
+
+[PlayVoice]=01:19:01	Voice04/04-SE/04-SE-B00/04-SE-B00-0330	1	mak	01:21:23;
+
+[PrintText]=01:21:23	Taisuke	¡Tú eres uno de los que me a hecho perderlo!	01:24:03;
+
+[PlayVoice]=01:21:23	Voice04/04-SE/04-SE-B00/04-SE-B00-0340	1	tai	01:24:03;
+
+[PrintText]=01:24:03	Makoto	P-Perdón...	01:25:22;
+
+[PlayVoice]=01:24:03	Voice04/04-SE/04-SE-B00/04-SE-B00-0350	1	mak	01:25:22;
+
+[CreateBG]=01:25:20	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-012B	01:28:00;
+
+[PrintText]=01:25:22	Taisuke	Deberías presentarme a alguien.	01:28:02;
+
+[PlayVoice]=01:25:22	Voice04/04-SE/04-SE-B00/04-SE-B00-0360	1	tai	01:28:02;
+
+[CreateBG]=01:28:00	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002B	01:33:09;
+
+[PrintText]=01:28:02	Makoto	¿Eh?^	01:28:20;
+
+[PlayVoice]=01:28:02	Voice04/04-SE/04-SE-B00/04-SE-B00-0370	1	mak	01:28:20;
+
+[PrintText]=01:28:20	Taisuke	Lo que digo es que, si Saionji tiene amigas lindas, preséntame a una.	01:33:10;
+
+[PlayVoice]=01:28:20	Voice04/04-SE/04-SE-B00/04-SE-B00-0380	1	tai	01:33:10;
+
+[CreateBG]=01:33:09	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002A	01:50:04;
+
+[PrintText]=01:33:10	Makoto	Las amigas de Sekai, huh. Kanroji... tiene novio. Kiyoura... pues, es un poco pequeña. Aparte de ellas... oh.	01:50:05;
+
+[PlayVoice]=01:33:10	Voice04/04-SE/04-SE-B00/04-SE-B00-0390	1	mak	01:50:05;
+
+[CreateBG]=01:50:04	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-012B	01:52:00;
+
+[PrintText]=01:50:06	Taisuke	¿Tienes a alguien?^	01:52:01;
+
+[PlayVoice]=01:50:06	Voice04/04-SE/04-SE-B00/04-SE-B00-0400	1	tai	01:52:01;
+
+[CreateBG]=01:52:00	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-016	01:56:14;
+
+[PrintText]=01:52:01	Makoto	Kuroda.	01:53:07;
+
+[PlayVoice]=01:52:01	Voice04/04-SE/04-SE-B00/04-SE-B00-0410	1	mak	01:53:07;
+
+[PrintText]=01:53:07	Taisuke	¿Huh?^	01:53:23;
+
+[PlayVoice]=01:53:07	Voice04/04-SE/04-SE-B00/04-SE-B00-0420	1	tai	01:53:23;
+
+[PrintText]=01:53:22	Makoto	Kuroda Hikari. de nuestra clase.	01:56:15;
+
+[PlayVoice]=01:53:22	Voice04/04-SE/04-SE-B00/04-SE-B00-0430	1	mak	01:56:15;
+
+[CreateBG]=01:56:14	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-013B	01:59:00;
+
+[PrintText]=01:56:15	Taisuke	Kuroda, ¿De todas, ella?^	01:59:01;
+
+[PlayVoice]=01:56:15	Voice04/04-SE/04-SE-B00/04-SE-B00-0440	1	tai	01:59:01;
+
+[CreateBG]=01:59:00	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002C	02:15:01;
+
+[PrintText]=01:59:01	Makoto	¿Por qué no? ¿No te gusta? Es una de las chicas mas lindas de nuestra clase ¿No?^	02:04:04;
+
+[PlayVoice]=01:59:01	Voice04/04-SE/04-SE-B00/04-SE-B00-0450	1	mak	02:04:04;
+
+[PrintText]=02:04:05	Taisuke	¿En serio? He pasado con ella tres años en la misma clase, y no me he dado cuenta de ello... 	02:15:02;
+
+[PlayVoice]=02:04:05	Voice04/04-SE/04-SE-B00/04-SE-B00-0460	1	tai	02:15:02;
+
+[CreateBG]=02:15:01	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-018	02:16:22;
+
+[PrintText]=02:15:02	Makoto	¿Como una pareja casada, huh...?^	02:17:02;
+
+[PlayVoice]=02:15:02	Voice04/04-SE/04-SE-B00/04-SE-B00-0470	1	mak	02:17:02;
+
+[CreateBG]=02:16:22	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-024	02:18:02;
+
+[PrintText]=02:17:02	Taisuke	¡No!	02:18:00;
+
+[PlayVoice]=02:17:02	Voice04/04-SE/04-SE-B00/04-SE-B00-0480	1	tai	02:18:00;
+
+[PrintText]=02:18:00	Makoto	Bueno, como sea, Se lo haré saber.	02:20:13;
+
+[PlayVoice]=02:18:00	Voice04/04-SE/04-SE-B00/04-SE-B00-0490	1	mak	02:20:13;
+
+[CreateBG]=02:18:02	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-020	02:20:13;
+
+[CreateBG]=02:20:13	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-024	02:22:07;
+
+[PrintText]=02:20:14	Taisuke	¡P-A-R-A!	02:22:09;
+
+[PlayVoice]=02:20:14	Voice04/04-SE/04-SE-B00/04-SE-B00-0500	1	tai	02:22:09;
+
+[CreateBG]=02:22:07	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002A	02:26:20;
+
+[PrintText]=02:22:09	Makoto	¿Qué? Ella podría decir que si, sabes.	02:26:21;
+
+[PlayVoice]=02:22:09	Voice04/04-SE/04-SE-B00/04-SE-B00-0510	1	mak	02:26:21;
+
+[CreateBG]=02:26:20	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-024	02:28:07;
+
+[PrintText]=02:26:21	Taisuke	¿Para qué?^	02:28:08;
+
+[PlayVoice]=02:26:21	Voice04/04-SE/04-SE-B00/04-SE-B00-0520	1	tai	02:28:08;
+
+[CreateBG]=02:28:07	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-023	02:30:03;
+
+[PrintText]=02:28:08	Makoto	Para ser tu novia.	02:30:04;
+
+[PlayVoice]=02:28:08	Voice04/04-SE/04-SE-B00/04-SE-B00-0530	1	mak	02:30:04;
+
+[CreateBG]=02:30:03	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-024	02:31:22;
+
+[PrintText]=02:30:04	Taisuke	Eso va muy rápido!	02:31:23;
+
+[PlayVoice]=02:30:04	Voice04/04-SE/04-SE-B00/04-SE-B00-0540	1	tai	02:31:23;
+
+[CreateBG]=02:31:22	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-002A	02:34:09;
+
+[PrintText]=02:31:23	Makoto	Eres muy exigente.	02:34:09;
+
+[PlayVoice]=02:31:23	Voice04/04-SE/04-SE-B00/04-SE-B00-0550	1	mak	02:34:09;
+
+[CreateBG]=02:34:09	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-009	02:43:14;
+
+[PrintText]=02:34:09	Taisuke	Cielos... será mejor que no subestimes un corazón roto.	02:37:12;
+
+[PlayVoice]=02:34:09	Voice04/04-SE/04-SE-B00/04-SE-B00-0560	1	tai	02:37:12;
+
+[PrintText]=02:37:11	Makoto	Sí, sí.... por cierto, ya son más de ellas 2, ¿Seguro que no iras a dormir?^	02:43:14;
+
+[PlayVoice]=02:37:11	Voice04/04-SE/04-SE-B00/04-SE-B00-0570	1	mak	02:43:14;
+
+[CreateBG]=02:43:14	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-024	02:49:01;
+
+[PrintText]=02:43:15	Taisuke	¡Cállate! ¡No dormiré hasta que me digas si me presentarás a una chica!	02:49:05;
+
+[PlayVoice]=02:43:15	Voice04/04-SE/04-SE-B00/04-SE-B00-0580	1	tai	02:49:05;
+
+[PrintText]=02:48:23	Makoto	Como dije, Kuroda...	02:50:08;
+
+[PlayVoice]=02:48:23	Voice04/04-SE/04-SE-B00/04-SE-B00-0590	1	mak	02:50:08;
+
+[CreateBG]=02:49:01	BGS	Event04/04-SE/04-SE-B00/04-SE-B00-027	02:49:22;
+
+[PrintText]=02:49:20	Taisuke	¡Ugah!	02:51:03;
+
+[PlayVoice]=02:49:20	Voice04/04-SE/04-SE-B00/04-SE-B00-0600	1	tai	02:51:03;
+
+[PlayMovie]=02:49:22	Movie04/04-SE/04-SE-B00/04-SE-B00-024	0	02:51:06;
+
+ ;
+
+[Next]=02:51:06;
+
+

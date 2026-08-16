@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:54:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:54:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-A04/05-KA-A04-001	00:01:00;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-A04/05-KA-A04-0030	1	xxx	00:00:23;
+
+[CreateBG]=00:01:00	BGS	Event05/05-KA/05-KA-A04/05-KA-A04-002	00:09:11;
+
+[PrintText]=00:01:00	Madre de Makoto	¿Y bien? ¿Vas a presumir? ¿Quejarte? Lo escucharé.	00:05:13;
+
+[PlayVoice]=00:01:00	Voice05/05-KA/05-KA-A04/05-KA-A04-0040	0	mkm	00:05:13;
+
+[PrintText]=00:05:13	Makoto	¡Estás equivocada!	00:07:08;
+
+[PlayVoice]=00:05:13	Voice05/05-KA/05-KA-A04/05-KA-A04-0050	1	mak	00:07:08;
+
+[PrintText]=00:07:10	Madre de Makoto	¿Qué es entonces?^	00:08:10;
+
+[PlayVoice]=00:07:10	Voice05/05-KA/05-KA-A04/05-KA-A04-0060	0	mkm	00:08:10;
+
+[PrintText]=00:08:12	Makoto	...	00:09:09;
+
+[PlayVoice]=00:08:12	Voice05/05-KA/05-KA-A04/05-KA-A04-0070	1	xxx	00:09:09;
+
+[CreateBG]=00:09:11	BGS	Event05/05-KA/05-KA-A04/05-KA-A04-003	00:21:03;
+
+[PrintText]=00:09:11	Madre de Makoto	Los chicos también tienen secretos...	00:12:13;
+
+[PlayVoice]=00:09:11	Voice05/05-KA/05-KA-A04/05-KA-A04-0080	0	mkm	00:19:19;
+
+[PrintText]=00:12:13	Madre de Makoto	Bueno, solo te diré que pienses bastante antes de tomar una decisión que te hará feliz. 	00:19:19;
+
+[PrintText]=00:19:20	Makoto	Lo sé.	00:21:01;
+
+[PlayVoice]=00:19:20	Voice05/05-KA/05-KA-A04/05-KA-A04-0090	1	mak	00:21:01;
+
+[CreateBG]=00:21:03	BGS	Event05/05-KA/05-KA-A04/05-KA-A04-004A	00:30:21;
+
+[PrintText]=00:21:03	Madre de Makoto	¡Oh! y no dejes que de a luz en nuestro hospital. No lo recomiendo. Puede ser la central Oohara o el Centro de maternidad.	00:30:22;
+
+[PlayVoice]=00:21:03	Voice05/05-KA/05-KA-A04/05-KA-A04-0100	0	mkm	00:30:22;
+
+[CreateBG]=00:30:21	BGS	Event05/05-KA/05-KA-A04/05-KA-A04-004B	00:33:18;
+
+[PrintText]=00:30:21	Makoto	¡E-Esa no es la clase de cosas por la que te tendrías que preocupar!	00:33:07;
+
+[PlayVoice]=00:30:21	Voice05/05-KA/05-KA-A04/05-KA-A04-0110	1	mak	00:33:07;
+
+[CreateBG]=00:33:18	BGS	Event05/05-KA/05-KA-A04/05-KA-A04-005	00:38:05;
+
+[PrintText]=00:33:18	Madre de Makoto	Ya veo... Pero asegúrate de usar protección ¿Vale?^	00:38:03;
+
+[PlayVoice]=00:33:18	Voice05/05-KA/05-KA-A04/05-KA-A04-0120	0	mkm	00:38:03;
+
+[CreateBG]=00:38:05	BGS	Event05/05-KA/05-KA-A04/05-KA-A04-006	00:54:04;
+
+[PrintText]=00:38:05	Makoto	¡¿Eh?!	00:38:20;
+
+[PlayVoice]=00:38:05	Voice05/05-KA/05-KA-A04/05-KA-A04-0130	1	mak	00:38:20;
+
+[PrintText]=00:39:09	Madre de Makoto	No me lo puedes esconder. Yo soy la que lavo la ropa.	00:44:14;
+
+[PlayVoice]=00:39:09	Voice05/05-KA/05-KA-A04/05-KA-A04-0140	0	mkm	00:44:14;
+
+[PrintText]=00:44:10	Makoto	...Lo siento.	00:47:18;
+
+[PlayVoice]=00:44:10	Voice05/05-KA/05-KA-A04/05-KA-A04-0150	1	mak	00:47:18;
+
+[PrintText]=00:48:00	Madre de Makoto	Ahahah... y de la nada, acabas de confesarlo...	00:52:21;
+
+[PlayVoice]=00:48:00	Voice05/05-KA/05-KA-A04/05-KA-A04-0160	0	mkm	00:52:21;
+
+[BlackFade]=00:53:04	OUT	00:54:04;
+
+ ;
+
+[Next]=00:54:04;
+
+

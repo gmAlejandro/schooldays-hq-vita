@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:15:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:15:23;
+
+[PlaySe]=00:00:00	1	Se01/01-1K/01-1K-K04/SE01-1K-K04-001	00:15:23;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:15:23;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-K04/01-1K-K04-001	00:11:13;
+
+[PrintText]=00:10:12	Makoto	¡Todo bien!	00:11:12;
+
+[PlayVoice]=00:10:12	Voice01/01-1K/01-1K-K04/01-1K-K04-0040	1	mak	00:11:12;
+
+[CreateBG]=00:11:13	BGS	Event01/01-1K/01-1K-K04/01-1K-K04-002	00:13:02;
+
+[CreateBG]=00:13:02	BGS	Event01/01-1K/01-1K-K04/01-1K-K04-003	00:14:22;
+
+[CreateBG]=00:14:22	BGS	Event01/01-1K/01-1K-K04/01-1K-K04-003B	00:15:23;
+
+[PrintText]=00:14:22	Makoto	Ah.	00:15:14;
+
+[PlayVoice]=00:14:22	Voice01/01-1K/01-1K-K04/01-1K-K04-0060	1	mak	00:15:14;
+
+ ;
+
+[Next]=00:15:23;
+
+
+
+

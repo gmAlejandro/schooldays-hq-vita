@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:08:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:08:22;
+
+[PlaySe]=00:00:00	1	Voice01/01-00/01-00-R00/01-00-R00-0056	00:08:04;
+
+[CreateBG]=00:00:00	BGS	Ini/Event01/01-00/01-00-R04/01-00-R04-001	00:01:12;
+
+#[PrintText]=00:00:00	Makoto	"¿Te refieres al beso?".	00:01:12;
+
+[PlayMovie]=00:01:12	Ini/Movie01/01-00/01-00-R04/01-00-R04-002	0	00:03:08;
+
+#[PrintText]=00:01:12	Sekai	"¿Se lo dijiste a Katsura-san?".	00:03:08;
+
+[CreateBG]=00:03:08	BGS	Ini/Event01/01-00/01-00-R04/01-00-R04-003	00:05:01;
+
+#[PrintText]=00:03:08	Makoto	"¡Como si pudiera!".	00:05:01;
+
+[CreateBG]=00:05:01	BGS	Ini/Event01/01-00/01-00-R04/01-00-R04-004	00:06:21;
+
+#[PrintText]=00:05:01	Sekai	"No importa lo que pase, no se lo puedes decir, ¡¿vale?!".	00:06:21;
+
+[CreateBG]=00:06:21	BGS	Ini/Event01/01-00/01-00-R04/01-00-R04-005	00:08:22;
+
+#[PrintText]=00:06:21	Makoto&Sekai	Makoto: "Sí, Lo sé."\nSekai: "No importa lo que pase, no se lo puedes decir, ¡¿Vale?!"".	00:08:22;
+
+ ;
+
+[Next]=00:08:22;
+
+
+
+

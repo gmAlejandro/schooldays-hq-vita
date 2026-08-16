@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=01:23:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:23:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A0/03-A0-C01/03-A0-C01-001	00:04:08;
+
+[PrintText]=00:00:00	Setsuna	Sekai ¿Estás despierta?^	00:03:01;
+
+[PlayVoice]=00:00:00	Voice03/03-A0/03-A0-C01/03-A0-C01-0030	0	set	00:03:01;
+
+[PrintText]=00:03:00	Sekai	...	00:03:12;
+
+[PlayVoice]=00:03:00	Voice03/03-A0/03-A0-C01/03-A0-C01-0040	0	xxx	00:03:12;
+
+[CreateBG]=00:04:08	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-003	00:10:21;
+
+[PrintText]=00:04:13	Setsuna	¿Recuerdas cuando conocí a Itou?^	00:10:02;
+
+[PlayVoice]=00:04:13	Voice03/03-A0/03-A0-C01/03-A0-C01-0060	0	set	00:10:02;
+
+[PrintText]=00:10:08	Sekai	...	00:10:19;
+
+[PlayVoice]=00:10:08	Voice03/03-A0/03-A0-C01/03-A0-C01-0070	0	xxx	00:10:19;
+
+[CreateBG]=00:10:21	BGS	Event03/03-A0/03-A0-C01/03-A0-C01-003	00:58:05;
+
+[PrintText]=00:11:08	Setsuna	En la ceremonia de apertura, me... confundieron con una estudiante de primaria, y los chicos me estaban molestando.	00:21:09;
+
+[PlayVoice]=00:11:08	Voice03/03-A0/03-A0-C01/03-A0-C01-0090	0	set	00:21:09;
+
+[PrintText]=00:22:13	Setsuna	Fue Itou el que me ayudó en ese entonces ¿No?^	00:26:13;
+
+[PlayVoice]=00:22:13	Voice03/03-A0/03-A0-C01/03-A0-C01-0100	0	set	00:26:13;
+
+[PrintText]=00:27:18	Setsuna	'¡Idiotas, dejen de actuar como niños y no la molesten!', dijo.	00:32:13;
+
+[PlayVoice]=00:27:18	Voice03/03-A0/03-A0-C01/03-A0-C01-0110	0	set	00:32:13;
+
+[PrintText]=00:33:22	Setsuna	Y entonces dijiste, 'Ese Itou es un buen chico'... y empezamos a hablar de él todo el tiempo...	00:42:19;
+
+[PlayVoice]=00:33:22	Voice03/03-A0/03-A0-C01/03-A0-C01-0120	0	set	00:42:19;
+
+[PrintText]=00:43:20	Setsuna	Y un poco después, te empezó a gustar... y prometí darte mi apoyo ¿No?^	00:52:15;
+
+[PlayVoice]=00:43:20	Voice03/03-A0/03-A0-C01/03-A0-C01-0130	0	set	00:52:15;
+
+[PrintText]=00:53:13	Setsuna	Pero la verdad es que, incluso antes de que te gustara... ya en la ceremonia de apertura...	01:02:19;
+
+[PlayVoice]=00:53:13	Voice03/03-A0/03-A0-C01/03-A0-C01-0140	0	set	01:02:19;
+
+[CreateBG]=00:58:05	BGS	Event03/03-A0/03-A0-C01/03-A0-C01-004	01:05:19;
+
+[PrintText]=01:02:19	Setsuna	...	01:05:19;
+
+[PlayVoice]=01:02:19	Voice03/03-A0/03-A0-C01/03-A0-C01-0150	0	xxx	01:05:19;
+
+[CreateBG]=01:05:19	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-003	01:17:05;
+
+[PrintText]=01:05:19	Setsuna	¿... Estás escuchando?^	01:07:13;
+
+[PlayVoice]=01:05:19	Voice03/03-A0/03-A0-C01/03-A0-C01-0160	0	set	01:07:13;
+
+[PrintText]=01:07:23	Setsuna	Sekai...	01:08:21;
+
+[PlayVoice]=01:07:23	Voice03/03-A0/03-A0-C01/03-A0-C01-0180	0	set	01:08:21;
+
+[PrintText]=01:09:16	Setsuna	Itou está ahí para ti, Sekai.	01:12:13;
+
+[PlayVoice]=01:09:16	Voice03/03-A0/03-A0-C01/03-A0-C01-0190	0	set	01:12:13;
+
+[PrintText]=01:13:01	Setsuna	Mientras que él esté a tu lado, todo estará bien.	01:16:20;
+
+[PlayVoice]=01:13:01	Voice03/03-A0/03-A0-C01/03-A0-C01-0200	0	set	01:16:20;
+
+[CreateBG]=01:17:05	BGS	Event03/03-A0/03-A0-C01/03-A0-C01-006	01:23:14;
+
+[PrintText]=01:17:12	Setsuna	Así que... anímate... ¿Vale?^	01:21:06;
+
+[PlayVoice]=01:17:12	Voice03/03-A0/03-A0-C01/03-A0-C01-0210	0	set	01:21:06;
+
+[PrintText]=01:21:13	Sekai	...	01:22:01;
+
+[PlayVoice]=01:21:13	Voice03/03-A0/03-A0-C01/03-A0-C01-0220	0	xxx	01:22:01;
+
+[BlackFade]=01:22:14	OUT	01:23:14;
+
+ ;
+
+[Next]=01:23:14;
+
+

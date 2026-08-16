@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:05:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:05:20;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:05:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-H04/05-5O-H04-003	00:01:11;
+
+[PrintText]=00:00:12	Makoto	...	00:01:01;
+
+[PlayVoice]=00:00:12	Voice05/05-5O/05-5O-H08/05-5O-H08-0030	1	xxx	00:01:01;
+
+[CreateBG]=00:01:11	BGS	Event05/05-5O/05-5O-H08/05-5O-H08-002	00:04:20;
+
+[PrintText]=00:01:14	Kotonoha	¿Qué pasa? Apurémonos y vamos a casa.	00:04:18;
+
+[PlayVoice]=00:01:14	Voice05/05-5O/05-5O-H08/05-5O-H08-0040	0	kot	00:04:18;
+
+[CreateBG]=00:04:20	BGS	Event05/05-5O/05-5O-H04/05-5O-H04-001	00:05:20;
+
+[PrintText]=00:04:23	Makoto	...Vale.	00:05:15;
+
+[PlayVoice]=00:04:23	Voice05/05-5O/05-5O-H08/05-5O-H08-0050	1	mak	00:05:15;
+
+ ;
+
+[Next]=00:05:20;
+
+

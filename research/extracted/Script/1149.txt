@@ -1,0 +1,79 @@
+﻿[SkipFRAME]=00:46:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm14	00:46:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N01/04-SA-N01-001	00:01:11;
+
+[PrintText]=00:00:00	Makoto	¡Ella...!	00:01:11;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N01/04-SA-N01-0030	1	mak	00:01:11;
+
+[CreateBG]=00:01:11	BGS	Event04/04-SA/04-SA-N01/04-SA-N01-002	00:05:21;
+
+[PrintText]=00:01:11	Taisuke	¿... Makoto?^	00:02:16;
+
+[PlayVoice]=00:01:11	Voice04/04-SA/04-SA-N01/04-SA-N01-0050	1	tai	00:02:16;
+
+[PrintText]=00:02:16	Makoto	¡D-Disculpen! ¡Recordé que tenía algo que hacer también!	00:05:21;
+
+[PlayVoice]=00:02:16	Voice04/04-SA/04-SA-N01/04-SA-N01-0060	1	mak	00:05:21;
+
+[PrintText]=00:05:20	Taisuke	¿Ehh? Pero acabas de venir.	00:08:19;
+
+[PlayVoice]=00:05:20	Voice04/04-SA/04-SA-N01/04-SA-N01-0070	1	tai	00:08:19;
+
+[CreateBG]=00:05:21	BGS	Event04/04-SA/04-SA-N01/04-SA-N01-003	00:20:06;
+
+[PrintText]=00:08:19	Makoto	Sí, pero esto es algo importante.	00:12:09;
+
+[PlayVoice]=00:08:19	Voice04/04-SA/04-SA-N01/04-SA-N01-0080	1	mak	00:12:09;
+
+[PrintText]=00:12:09	Taisuke	Olvídalo, ya estás aquí en la piscina.	00:16:06;
+
+[PlayVoice]=00:12:09	Voice04/04-SA/04-SA-N01/04-SA-N01-0090	1	tai	00:16:06;
+
+[PrintText]=00:16:06	Makoto	No puedo. Tengo que ocuparme de lago, sin importar que...	00:20:06;
+
+[PlayVoice]=00:16:06	Voice04/04-SA/04-SA-N01/04-SA-N01-0100	1	mak	00:20:06;
+
+[CreateBG]=00:20:06	BGS	Event04/04-SA/04-SA-N01/04-SA-N01-004a	00:22:08;
+
+[PrintText]=00:20:06	Taisuke	¿Qué es lo que tanto te preocupa de pronto?^	00:22:07;
+
+[PlayVoice]=00:20:06	Voice04/04-SA/04-SA-N01/04-SA-N01-0110	1	tai	00:22:07;
+
+[PrintText]=00:22:07	Makoto	Es... o-oh, sí. Algo que mi madre dijo que tenía que hacer!	00:28:05;
+
+[PlayVoice]=00:22:07	Voice04/04-SA/04-SA-N01/04-SA-N01-0120	1	mak	00:28:05;
+
+[CreateBG]=00:22:08	BGS	Event04/04-SA/04-SA-N01/04-SA-N01-004b	00:35:22;
+
+[PrintText]=00:28:05	Makoto	Son problemas familiares, no puedo decirte los detalles... p-pero de todas maneras ¡Disculpen! ¡... Nos vemos después!	00:35:21;
+
+[PlayVoice]=00:28:05	Voice04/04-SA/04-SA-N01/04-SA-N01-0121	1	mak	00:35:21;
+
+[PrintText]=00:35:21	Kotonoha	Ah...	00:36:18;
+
+[PlayVoice]=00:35:21	Voice04/04-SA/04-SA-N01/04-SA-N01-0140	0	kot	00:36:18;
+
+[CreateBG]=00:35:22	BGS	Event04/04-SA/04-SA-N01/04-SA-N01-005	00:36:18;
+
+[CreateBG]=00:36:18	BGS	Event04/04-SA/04-SA-N01/04-SA-N01-006	00:46:15;
+
+[PrintText]=00:36:18	Taisuke	Problemas familiares, huh... debe ser su hermana, creo.	00:41:06;
+
+[PlayVoice]=00:36:18	Voice04/04-SA/04-SA-N01/04-SA-N01-0150	1	tai	00:41:06;
+
+[PrintText]=00:41:06	Kotonoha	¿En serio?^	00:42:19;
+
+[PlayVoice]=00:41:06	Voice04/04-SA/04-SA-N01/04-SA-N01-0160	0	kot	00:42:19;
+
+[PrintText]=00:42:20	Hikari	¿...Qué se supone que haré si ellos no están?^	00:45:18;
+
+[PlayVoice]=00:42:20	Voice04/04-SA/04-SA-N01/04-SA-N01-0170	0	hik	00:45:18;
+
+ ;
+
+[Next]=00:46:15;
+
+

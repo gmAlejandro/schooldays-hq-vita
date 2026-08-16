@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:31:13;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	00:31:13;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-J02/05-KB-J02-001	00:05:00;
+
+[PlayMovie]=00:05:00	Movie05/05-KB/05-KB-J02/05-KB-J02-002	0	00:10:03;
+
+[PlaySe]=00:05:21	2	SysSe/SE_all/station_train/train_door_close	00:08:09;
+
+[CreateBG]=00:10:03	BGS	Event05/05-KB/05-KB-J02/05-KB-J02-003	00:12:17;
+
+[PrintText]=00:10:07	Kotonoha	...	00:12:13;
+
+[PlayVoice]=00:10:07	Voice05/05-KB/05-KB-J02/05-KB-J02-0040	0	xxx	00:12:13;
+
+[PlayMovie]=00:12:17	Movie00/00-00/00-00-L00/00-00-L00-024	0	00:19:10;
+
+[CreateBG]=00:19:10	BGS	Event05/05-KB/05-KB-J02/05-KB-J02-005	00:22:18;
+
+[PrintText]=00:20:21	Kotonoha	¿Vas a casa?^	00:22:17;
+
+[PlayVoice]=00:20:21	Voice05/05-KB/05-KB-J02/05-KB-J02-0070	0	kot	00:22:17;
+
+[CreateBG]=00:22:18	BGS	Event05/05-KB/05-KB-J02/05-KB-J02-006	00:28:15;
+
+[PrintText]=00:22:18	Makoto	Ah... Kotonoha.	00:26:18;
+
+[PlayVoice]=00:22:18	Voice05/05-KB/05-KB-J02/05-KB-J02-0080	1	mak	00:26:18;
+
+[PrintText]=00:26:18	Kotonoha	¿Vamos juntos?^	00:28:14;
+
+[PlayVoice]=00:26:18	Voice05/05-KB/05-KB-J02/05-KB-J02-0090	0	kot	00:28:14;
+
+[PrintText]=00:28:14	Makoto	Seguro.	00:30:03;
+
+[PlayVoice]=00:28:14	Voice05/05-KB/05-KB-J02/05-KB-J02-0100	1	mak	00:30:03;
+
+[CreateBG]=00:28:15	BGS	Event05/05-KB/05-KB-J02/05-KB-J02-007	00:31:13;
+
+[BlackFade]=00:31:01	OUT	00:31:13;
+
+ ;
+
+[Next]=00:31:13;
+
+
+
+

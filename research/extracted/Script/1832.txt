@@ -1,0 +1,64 @@
+﻿[SkipFRAME]=00:38:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:38:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-H01/05-SE-H01-001	00:07:20;
+
+[PrintText]=00:00:00	Makoto	Estoy feliz por ti.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-H01/05-SE-H01-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:08	Sekai	Sí. Eheheh...	00:04:10;
+
+[PlayVoice]=00:01:08	Voice05/05-SE/05-SE-H01/05-SE-H01-0040	0	sek	00:04:10;
+
+[PrintText]=00:04:10	Makoto	Entonces... estás embarazada.	00:07:20;
+
+[PlayVoice]=00:04:10	Voice05/05-SE/05-SE-H01/05-SE-H01-0050	1	mak	00:07:20;
+
+[CreateBG]=00:07:20	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-014	00:31:21;
+
+[PrintText]=00:07:20	Sekai	Uh-huh. Iré a hacerme una revisión al hospital pronto.	00:11:13;
+
+[PlayVoice]=00:07:20	Voice05/05-SE/05-SE-H01/05-SE-H01-0060	0	sek	00:11:13;
+
+[PrintText]=00:11:13	Makoto	La última vez que lo hicimos, fue antes del festival... son cerca de tres meses ¿No?^	00:17:06;
+
+[PlayVoice]=00:11:13	Voice05/05-SE/05-SE-H01/05-SE-H01-0070	1	mak	00:17:06;
+
+[PrintText]=00:17:10	Sekai	S-Sí, masomenos.	00:20:16;
+
+[PlayVoice]=00:17:10	Voice05/05-SE/05-SE-H01/05-SE-H01-0080	0	sek	00:20:16;
+
+[PrintText]=00:20:15	Makoto	Más preciso...	00:23:19;
+
+[PlayVoice]=00:20:15	Voice05/05-SE/05-SE-H01/05-SE-H01-0090	1	mak	00:23:19;
+
+[PrintText]=00:23:19	Sekai	¿Qué importa eso? Lo importante es que estoy embarazada.	00:28:20;
+
+[PlayVoice]=00:23:19	Voice05/05-SE/05-SE-H01/05-SE-H01-0100	0	sek	00:28:20;
+
+[PrintText]=00:28:20	Makoto	Hmm... creo que tienes razón.	00:31:21;
+
+[PlayVoice]=00:28:20	Voice05/05-SE/05-SE-H01/05-SE-H01-0110	1	mak	00:31:21;
+
+[CreateBG]=00:31:21	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-001	00:38:11;
+
+[PrintText]=00:31:21	Sekai	Ahora ¿Deberíamos volver?^	00:33:14;
+
+[PlayVoice]=00:31:21	Voice05/05-SE/05-SE-H01/05-SE-H01-0120	0	sek	00:33:14;
+
+[PrintText]=00:33:14	Makoto	Sí. No quiero que te enfermes.	00:37:05;
+
+[PlayVoice]=00:33:14	Voice05/05-SE/05-SE-H01/05-SE-H01-0130	1	mak	00:37:05;
+
+[PrintText]=00:37:12	Sekai	Sí.	00:38:11;
+
+[PlayVoice]=00:37:12	Voice05/05-SE/05-SE-H01/05-SE-H01-0140	0	sek	00:38:11;
+
+ ;
+
+[Next]=00:38:11;
+
+
+

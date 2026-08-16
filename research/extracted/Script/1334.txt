@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:06:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:06:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E08/05-5O-E08-001	00:03:14;
+
+[PrintText]=00:00:13	Makoto	Sí... ¿Por qué no?^	00:03:01;
+
+[PlayVoice]=00:00:13	Voice05/05-5O/05-5O-E08/05-5O-E08-0030	1	mak	00:03:01;
+
+[CreateBG]=00:03:14	BGS	Event05/05-5O/05-5O-E08/05-5O-E08-002	00:06:00;
+
+[PrintText]=00:03:20	Taisuke	Vale, entonces vamos.	00:05:14;
+
+[PlayVoice]=00:03:20	Voice05/05-5O/05-5O-E08/05-5O-E08-0040	1	tai	00:05:14;
+
+ ;
+
+[Next]=00:06:00;
+
+

@@ -1,0 +1,529 @@
+﻿[SkipFRAME]=05:25:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	05:25:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B07/03-SA-B07-001	00:12:12;
+
+[PrintText]=00:04:06	Kotonoha	Haah...	00:05:16;
+
+[PlayVoice]=00:04:06	Voice03/03-SA/03-SA-B07/03-SA-B07-0060	0	kot	00:05:16;
+
+[PrintText]=00:06:05	Kotonoha	Nn... Makoto-kun...	00:10:21;
+
+[PlayVoice]=00:06:05	Voice03/03-SA/03-SA-B07/03-SA-B07-0080	0	kot	00:10:21;
+
+[PrintText]=00:11:05	Makoto	Nn...	00:12:06;
+
+[PlayVoice]=00:11:05	Voice03/03-SA/03-SA-B07/03-SA-B07-0090	1	mak	00:12:06;
+
+[PlaySe]=00:12:01	1	SysSe/SE_all/h/nuno1	00:13:15;
+
+[PlayMovie]=00:12:12	Movie03/03-KB/03-KB-N00/H3-KB-N00-002	0	00:30:11;
+
+[PrintText]=00:12:17	Kotonoha	E... Esto es vergonzoso.	00:16:12;
+
+[PlayVoice]=00:12:17	Voice03/03-SA/03-SA-B07/03-SA-B07-0100	0	kot	00:16:12;
+
+[PlaySe]=00:16:03	1	SysSe/SE_all/h/nuno2	00:17:04;
+
+[PrintText]=00:16:09	Makoto	Nadie está mirando... solo yo.	00:20:00;
+
+[PlayVoice]=00:16:09	Voice03/03-SA/03-SA-B07/03-SA-B07-0110	1	mak	00:20:00;
+
+[PlaySe]=00:19:03	1	SysSe/SE_all/h/nuno1	00:20:17;
+
+[PrintText]=00:20:01	Kotonoha	¡Pero... Esto es... mmn!	00:24:08;
+
+[PlayVoice]=00:20:01	Voice03/03-SA/03-SA-B07/03-SA-B07-0120	0	kot	00:24:08;
+
+[PlaySe]=00:20:23	1	SysSe/SE_all/h/nuno2	00:22:00;
+
+[PlaySe]=00:22:15	1	SysSe/SE_all/h/nuno1	00:24:04;
+
+[PrintText]=00:24:12	Makoto	Kotonoha...	00:25:22;
+
+[PlayVoice]=00:24:12	Voice03/03-SA/03-SA-B07/03-SA-B07-0130	1	mak	00:25:22;
+
+[PlaySe]=00:24:13	1	SysSe/SE_all/h/nuno1	00:26:03;
+
+[PrintText]=00:26:07	Kotonoha	Nmn... haah... haah...	00:30:09;
+
+[PlayVoice]=00:26:07	Voice03/03-SA/03-SA-B07/03-SA-B07-0140	0	kot	00:30:09;
+
+[PlaySe]=00:27:17	1	SysSe/SE_all/h/nuno2	00:28:18;
+
+[PlaySe]=00:29:07	1	SysSe/SE_all/h/nuno1	00:30:21;
+
+[PlayMovie]=00:30:11	Movie03/03-KB/03-KB-N00/H3-KB-N00-003	0	00:59:11;
+
+[PrintText]=00:30:17	Makoto	Eres... tan hermosa...	00:34:12;
+
+[PlayVoice]=00:30:17	Voice03/03-SA/03-SA-B07/03-SA-B07-0150	1	mak	00:34:12;
+
+[PlaySe]=00:32:07	1	SysSe/SE_all/h/nuno1	00:33:21;
+
+[PlaySe]=00:33:05	2	SysSe/SE_all/h/h_04	00:55:01;
+
+[PrintText]=00:34:21	Kotonoha	¡Eso no... nn!	00:37:20;
+
+[PlayVoice]=00:34:21	Voice03/03-SA/03-SA-B07/03-SA-B07-0160	0	kot	00:37:20;
+
+[PrintText]=00:38:00	Kotonoha	¡Fwah...! ¡Ah...! ¡Eso...!	00:40:15;
+
+[PlayVoice]=00:38:00	Voice03/03-SA/03-SA-B07/03-SA-B07-0180	0	kot	00:40:15;
+
+[PlaySe]=00:39:14	1	SysSe/SE_all/h/nuno1	00:41:03;
+
+[PrintText]=00:40:15	Makoto	Uh-huh.	00:41:15;
+
+[PlayVoice]=00:40:15	Voice03/03-SA/03-SA-B07/03-SA-B07-0190	1	mak	00:41:15;
+
+[PrintText]=00:42:06	Kotonoha	¡Ahí no... no puedes... mmn!	00:45:05;
+
+[PlayVoice]=00:42:06	Voice03/03-SA/03-SA-B07/03-SA-B07-0200	0	kot	00:45:05;
+
+[PrintText]=00:45:05	Makoto	Puedo...	00:46:21;
+
+[PlayVoice]=00:45:05	Voice03/03-SA/03-SA-B07/03-SA-B07-0210	1	mak	00:46:21;
+
+[PrintText]=00:47:06	Kotonoha	Es... muy obsceno.	00:50:00;
+
+[PlayVoice]=00:47:06	Voice03/03-SA/03-SA-B07/03-SA-B07-0220	0	kot	00:50:00;
+
+[PrintText]=00:49:23	Makoto	Eso no es verdad.	00:51:22;
+
+[PlayVoice]=00:49:23	Voice03/03-SA/03-SA-B07/03-SA-B07-0230	1	mak	00:51:22;
+
+[PlaySe]=00:50:12	1	SysSe/SE_all/h/nuno1	00:52:01;
+
+[PrintText]=00:52:08	Kotonoha	¡Nn...! ¡No...! ¡No... toques... mmn!	00:56:14;
+
+[PlayVoice]=00:52:08	Voice03/03-SA/03-SA-B07/03-SA-B07-0240	0	kot	00:56:14;
+
+[PlaySe]=00:52:22	1	SysSe/SE_all/h/bed3	00:53:16;
+
+[PlaySe]=00:54:07	1	SysSe/SE_all/h/h_04	01:16:02;
+
+[PlaySe]=00:55:19	2	SysSe/SE_all/h/bed3	00:56:13;
+
+[PrintText]=00:56:09	Makoto	Pero mira... estás toda mojada...	01:00:13;
+
+[PlayVoice]=00:56:09	Voice03/03-SA/03-SA-B07/03-SA-B07-0250	1	mak	01:00:13;
+
+[PlaySe]=00:59:08	2	SysSe/SE_all/h/nuno1	01:00:22;
+
+[PlayMovie]=00:59:11	Movie03/03-SA/03-SA-B07/03-SA-B07-004	0	01:38:04;
+
+[PrintText]=01:00:20	Kotonoha	¡Ahh! ¡Ah...! Ah...	01:04:17;
+
+[PlayVoice]=01:00:20	Voice03/03-SA/03-SA-B07/03-SA-B07-0260	0	kot	01:04:17;
+
+[PrintText]=01:04:10	Makoto	Nn...	01:06:04;
+
+[PlayVoice]=01:04:10	Voice03/03-SA/03-SA-B07/03-SA-B07-0270	1	mak	01:06:04;
+
+[PlaySe]=01:04:11	2	SysSe/SE_all/h/bed3	01:05:05;
+
+[PrintText]=01:06:08	Kotonoha	Ah... no... no...	01:10:12;
+
+[PlayVoice]=01:06:08	Voice03/03-SA/03-SA-B07/03-SA-B07-0280	0	kot	01:10:12;
+
+[PrintText]=01:10:13	Makoto	Pero si me detengo... no vamos a ningún lado.	01:15:05;
+
+[PlayVoice]=01:10:13	Voice03/03-SA/03-SA-B07/03-SA-B07-0290	1	mak	01:15:05;
+
+[PrintText]=01:15:02	Kotonoha	Nn... ¿A... ningún lado...?^	01:18:22;
+
+[PlayVoice]=01:15:02	Voice03/03-SA/03-SA-B07/03-SA-B07-0300	0	kot	01:18:22;
+
+[PrintText]=01:18:18	Makoto	Sí... después de todo, vamos a usar esto ¿No?^	01:24:00;
+
+[PlayVoice]=01:18:18	Voice03/03-SA/03-SA-B07/03-SA-B07-0310	1	mak	01:24:00;
+
+[PrintText]=01:24:17	Kotonoha	Ah... eso...	01:27:05;
+
+[PlayVoice]=01:24:17	Voice03/03-SA/03-SA-B07/03-SA-B07-0330	0	kot	01:27:05;
+
+[PlaySe]=01:25:04	1	SysSe/SE_all/h/nuno3	01:25:12;
+
+[PrintText]=01:27:04	Makoto	Usaré esto... y...	01:31:02;
+
+[PlayVoice]=01:27:04	Voice03/03-SA/03-SA-B07/03-SA-B07-0340	1	mak	01:31:02;
+
+[PlaySe]=01:30:10	2	SysSe/SE_all/h/h_04	01:52:05;
+
+[PrintText]=01:31:14	Kotonoha	Haah... haah... uh-huh...	01:36:23;
+
+[PlayVoice]=01:31:14	Voice03/03-SA/03-SA-B07/03-SA-B07-0350	0	kot	01:36:23;
+
+[PlaySe]=01:37:08	1	SysSe/SE_all/h/nuno1	01:38:22;
+
+[PrintText]=01:37:23	Kotonoha	Haah... haah...	01:41:22;
+
+[PlayVoice]=01:37:23	Voice03/03-SA/03-SA-B07/03-SA-B07-0390	0	kot	01:41:22;
+
+[CreateBG]=01:38:04	BGS	Event03/03-SA/03-SA-B07/03-SA-B07-001	01:45:13;
+
+[PrintText]=01:41:19	Makoto	Nn...	01:43:09;
+
+[PlayVoice]=01:41:19	Voice03/03-SA/03-SA-B07/03-SA-B07-0400	1	mak	01:43:09;
+
+[PlaySe]=01:42:06	1	SysSe/SE_all/h/bed3	01:43:00;
+
+[PlayMovie]=01:45:13	Movie03/03-KB/03-KB-N00/H3-KB-N00-004	0	01:56:02;
+
+[PrintText]=01:45:22	Kotonoha	Ah...	01:47:06;
+
+[PlayVoice]=01:45:22	Voice03/03-SA/03-SA-B07/03-SA-B07-0410	0	kot	01:47:06;
+
+[PrintText]=01:47:20	Makoto	Nn...	01:50:14;
+
+[PlayVoice]=01:47:20	Voice03/03-SA/03-SA-B07/03-SA-B07-0420	1	mak	01:50:14;
+
+[PrintText]=01:50:14	Kotonoha	Ah... haah... haah...	01:54:06;
+
+[PlayVoice]=01:50:14	Voice03/03-SA/03-SA-B07/03-SA-B07-0450	0	kot	01:54:06;
+
+[PlaySe]=01:50:18	1	SysSe/SE_all/h/nuno1	01:52:07;
+
+[PlaySe]=01:51:04	3	SysSe/SE_all/h/h_04	02:12:23;
+
+[PlaySe]=01:52:21	2	SysSe/SE_all/h/bed4	01:53:05;
+
+[PrintText]=01:54:04	Makoto	Nn...	01:56:10;
+
+[PlayVoice]=01:54:04	Voice03/03-SA/03-SA-B07/03-SA-B07-0460	1	mak	01:56:10;
+
+[PlayMovie]=01:56:02	Movie03/03-KB/03-KB-N00/H3-KB-N00-002	0	02:14:01;
+
+[PrintText]=01:56:04	Kotonoha	¡Haah...!	01:58:13;
+
+[PlayVoice]=01:56:04	Voice03/03-SA/03-SA-B07/03-SA-B07-0470	0	kot	01:58:13;
+
+[PrintText]=01:58:09	Makoto	Tus pechos... son increíbles...	02:02:12;
+
+[PlayVoice]=01:58:09	Voice03/03-SA/03-SA-B07/03-SA-B07-0480	1	mak	02:02:12;
+
+[PrintText]=02:01:20	Kotonoha	Nn... que vergüenza...	02:04:21;
+
+[PlayVoice]=02:01:20	Voice03/03-SA/03-SA-B07/03-SA-B07-0490	0	kot	02:04:21;
+
+[PrintText]=02:04:21	Makoto	¡Son tan grandes... mmn...!	02:10:00;
+
+[PlayVoice]=02:04:21	Voice03/03-SA/03-SA-B07/03-SA-B07-0500	1	mak	02:10:00;
+
+[PrintText]=02:10:21	Kotonoha	¡Haah...! ¡Ah... ah...!	02:14:22;
+
+[PlayVoice]=02:10:21	Voice03/03-SA/03-SA-B07/03-SA-B07-0510	0	kot	02:14:22;
+
+[PlaySe]=02:11:16	2	SysSe/SE_all/h/bed4	02:12:00;
+
+[PlaySe]=02:12:00	1	SysSe/SE_all/h/h_04	02:23:17;
+
+[PlayMovie]=02:14:01	Movie03/03-KB/03-KB-N00/H3-KB-N00-004	0	02:24:14;
+
+[PrintText]=02:15:01	Makoto	Nn...	02:17:07;
+
+[PlayVoice]=02:15:01	Voice03/03-SA/03-SA-B07/03-SA-B07-0520	1	mak	02:17:07;
+
+[PrintText]=02:17:23	Kotonoha	Haah... aah... no... haah...	02:24:00;
+
+[PlayVoice]=02:17:23	Voice03/03-SA/03-SA-B07/03-SA-B07-0530	0	kot	02:24:00;
+
+[PlaySe]=02:21:16	2	SysSe/SE_all/h/bed4	02:22:00;
+
+[PrintText]=02:23:22	Makoto	Tus pezones...	02:26:07;
+
+[PlayVoice]=02:23:22	Voice03/03-SA/03-SA-B07/03-SA-B07-0540	1	mak	02:26:07;
+
+[PlayMovie]=02:24:14	Movie03/03-KB/03-KB-N00/H3-KB-N00-002	0	02:42:13;
+
+[PrintText]=02:26:03	Kotonoha	Haah... haah... ¿huh...?^	02:31:17;
+
+[PlayVoice]=02:26:03	Voice03/03-SA/03-SA-B07/03-SA-B07-0550	0	kot	02:31:17;
+
+[PlaySe]=02:27:13	2	SysSe/SE_all/h/nuno1	02:29:02;
+
+[PrintText]=02:32:01	Makoto	Se están poniendo... tan duros...	02:35:04;
+
+[PlayVoice]=02:32:01	Voice03/03-SA/03-SA-B07/03-SA-B07-0560	1	mak	02:35:04;
+
+[PrintText]=02:35:10	Kotonoha	¡Nn... es porque... mmn! Los estás lamiendo...	02:42:10;
+
+[PlayVoice]=02:35:10	Voice03/03-SA/03-SA-B07/03-SA-B07-0570	0	kot	02:42:10;
+
+[PlaySe]=02:35:13	1	SysSe/SE_all/h/nuno1	02:37:03;
+
+[PlaySe]=02:37:17	2	SysSe/SE_all/h/bed4	02:38:01;
+
+[PlaySe]=02:38:17	2	SysSe/SE_all/h/bed4	02:39:01;
+
+[PlaySe]=02:40:04	1	SysSe/SE_all/h/nuno1	02:41:18;
+
+[PrintText]=02:42:09	Makoto	Nn... nn...	02:45:15;
+
+[PlayVoice]=02:42:09	Voice03/03-SA/03-SA-B07/03-SA-B07-0580	1	mak	02:45:15;
+
+[PlayMovie]=02:42:13	Movie03/03-KB/03-KB-N00/H3-KB-N00-004	0	02:53:02;
+
+[PlaySe]=02:42:16	3	SysSe/SE_all/h/h_04	02:51:10;
+
+[PrintText]=02:45:11	Kotonoha	¡Tu lengua... aah.... nn! ¡Se siente... ahaaah... nn!	02:52:13;
+
+[PlayVoice]=02:45:11	Voice03/03-SA/03-SA-B07/03-SA-B07-0590	0	kot	02:52:13;
+
+[PlaySe]=02:47:19	2	SysSe/SE_all/h/nuno1	02:49:09;
+
+[PlaySe]=02:47:22	1	SysSe/SE_all/h/bed4	02:48:06;
+
+[PlaySe]=02:50:15	2	SysSe/SE_all/h/bed4	02:50:23;
+
+[PrintText]=02:52:11	Makoto	¡Haah... nn...! Haah...	02:56:16;
+
+[PlayVoice]=02:52:11	Voice03/03-SA/03-SA-B07/03-SA-B07-0600	1	mak	02:56:16;
+
+[PlaySe]=02:53:01	3	SysSe/SE_all/h/h_04	03:01:20;
+
+[PlayMovie]=02:53:02	Movie03/03-KB/03-KB-N00/H3-KB-N00-004	0	03:03:15;
+
+[PlaySe]=02:56:06	2	SysSe/SE_all/h/bed4	02:56:14;
+
+[PrintText]=02:57:10	Kotonoha	¡Makoto-kun... nn...! Haah... haah...	03:04:19;
+
+[PlayVoice]=02:57:10	Voice03/03-SA/03-SA-B07/03-SA-B07-0610	0	kot	03:04:19;
+
+[PlayMovie]=03:03:15	Movie03/03-KB/03-KB-N00/H3-KB-N00-002	0	03:19:08;
+
+[PrintText]=03:04:11	Makoto	Kotonoha... Voy a meterlo...	03:10:07;
+
+[PlayVoice]=03:04:11	Voice03/03-SA/03-SA-B07/03-SA-B07-0620	1	mak	03:10:07;
+
+[PrintText]=03:10:15	Kotonoha	Va... Vale...	03:15:07;
+
+[PlayVoice]=03:10:15	Voice03/03-SA/03-SA-B07/03-SA-B07-0630	0	kot	03:15:07;
+
+[PrintText]=03:15:07	Makoto	Haah... haah...	03:17:21;
+
+[PlayVoice]=03:15:07	Voice03/03-SA/03-SA-B07/03-SA-B07-0640	1	mak	03:17:21;
+
+[PrintText]=03:18:11	Kotonoha	...	03:22:01;
+
+[PlayVoice]=03:18:11	Voice03/03-SA/03-SA-B07/03-SA-B07-0650	0	xxx	03:22:01;
+
+[PlayMovie]=03:19:08	Movie03/03-KB/03-KB-N02/03-KB-N02-001	0	03:28:22;
+
+[PrintText]=03:22:12	Makoto	El condón...	03:23:23;
+
+[PlayVoice]=03:22:12	Voice03/03-SA/03-SA-B07/03-SA-B07-0660	1	mak	03:23:23;
+
+[PrintText]=03:24:07	Kotonoha	Ah... Yo lo haré.	03:27:05;
+
+[PlayVoice]=03:24:07	Voice03/03-SA/03-SA-B07/03-SA-B07-0680	0	kot	03:27:05;
+
+[PlaySe]=03:25:03	2	SysSe/SE_all/h/nuno1	03:26:17;
+
+[PrintText]=03:27:14	Makoto	¿Huh?^	03:28:14;
+
+[PlayVoice]=03:27:14	Voice03/03-SA/03-SA-B07/03-SA-B07-0690	1	mak	03:28:14;
+
+[PlayMovie]=03:28:22	Movie03/03-KB/03-KB-O07/03-KB-O07-001	0	03:31:07;
+
+[PrintText]=03:29:14	Makoto	¡Haah...!	03:30:18;
+
+[PlayVoice]=03:29:14	Voice03/03-SA/03-SA-B07/03-SA-B07-0730	1	mak	03:30:18;
+
+[PlayMovie]=03:31:07	Movie03/03-KB/03-KB-O07/H3-KB-O07-002	0	03:34:02;
+
+[PrintText]=03:31:13	Kotonoha	¿... Así está bien?^	03:33:20;
+
+[PlayVoice]=03:31:13	Voice03/03-SA/03-SA-B07/03-SA-B07-0740	0	kot	03:33:20;
+
+[MoveSom]=03:31:19	1	03:36:19;
+
+[PlaySe]=03:31:20	2	SysSe/SE_all/h/nuno1	03:33:10;
+
+[PlayMovie]=03:34:02	Movie03/03-KB/03-KB-O07/03-KB-O07-003	0	03:38:03;
+
+[PlaySe]=03:34:04	1	SysSe/SE_all/h/condom1	03:35:01;
+
+[PrintText]=03:35:09	Makoto	Sí.	03:37:21;
+
+[PlayVoice]=03:35:09	Voice03/03-SA/03-SA-B07/03-SA-B07-0750	1	mak	03:37:21;
+
+[PlayMovie]=03:38:03	Movie03/03-KB/03-KB-N04/03-KB-N04-001	0	03:59:00;
+
+[PrintText]=03:38:15	Kotonoha	...	03:40:07;
+
+[PlayVoice]=03:38:15	Voice03/03-SA/03-SA-B07/03-SA-B07-0760	0	xxx	03:40:07;
+
+[PrintText]=03:42:03	Makoto	Kotonoha... ¿Estás lista?^	03:50:13;
+
+[PlayVoice]=03:42:03	Voice03/03-SA/03-SA-B07/03-SA-B07-0770	1	mak	03:50:13;
+
+[PrintText]=03:50:19	Kotonoha	S-Sí!	03:52:12;
+
+[PlayVoice]=03:50:19	Voice03/03-SA/03-SA-B07/03-SA-B07-0780	0	kot	03:52:12;
+
+[PrintText]=03:53:07	Makoto	¡Nn...!	03:57:02;
+
+[PlayVoice]=03:53:07	Voice03/03-SA/03-SA-B07/03-SA-B07-0790	1	mak	03:57:02;
+
+[PlaySe]=03:54:05	1	SysSe/SE_all/h/h_02	03:55:20;
+
+[PlaySe]=03:57:01	1	SysSe/SE_all/h/h_02	03:58:15;
+
+[PrintText]=03:57:07	Kotonoha	¡Kuh...!	03:59:19;
+
+[PlayVoice]=03:57:07	Voice03/03-SA/03-SA-B07/03-SA-B07-0810	0	kot	03:59:19;
+
+[PlayMovie]=03:59:00	Movie03/03-KB/03-KB-O09/H3-KB-O09-005	0	04:30:00;
+
+[PrintText]=04:00:02	Makoto	Ha... ah...	04:06:06;
+
+[PlayVoice]=04:00:02	Voice03/03-SA/03-SA-B07/03-SA-B07-0820	1	mak	04:06:06;
+
+[MoveSom]=04:02:03	1	04:30:00;
+
+[PlaySe]=04:03:07	1	SysSe/SE_all/h/h_02	04:04:22;
+
+[PrintText]=04:04:22	Kotonoha	Haah...	04:08:07;
+
+[PlayVoice]=04:04:22	Voice03/03-SA/03-SA-B07/03-SA-B07-0830	0	kot	04:08:07;
+
+[PlaySe]=04:06:15	2	SysSe/SE_all/h/bed4	04:06:22;
+
+[PrintText]=04:08:09	Makoto	¡Ah...!	04:16:04;
+
+[PlayVoice]=04:08:09	Voice03/03-SA/03-SA-B07/03-SA-B07-0840	1	mak	04:16:04;
+
+[PlaySe]=04:09:17	1	SysSe/SE_all/h/h_02	04:11:08;
+
+[PrintText]=04:15:02	Kotonoha	Nn...	04:16:04;
+
+[PlayVoice]=04:15:02	Voice03/03-SA/03-SA-B07/03-SA-B07-0850	0	kot	04:16:04;
+
+[PlaySe]=04:15:22	1	SysSe/SE_all/h/h_02	04:16:21;
+
+[PrintText]=04:16:04	Makoto	¿Es ahí?^	04:21:07;
+
+[PlayVoice]=04:16:04	Voice03/03-SA/03-SA-B07/03-SA-B07-0860	1	mak	04:21:07;
+
+[PlaySe]=04:20:05	1	SysSe/SE_all/h/h_02	04:21:19;
+
+[PrintText]=04:21:14	Makoto	Nn...	04:24:19;
+
+[PlayVoice]=04:21:14	Voice03/03-SA/03-SA-B07/03-SA-B07-0880	1	mak	04:24:19;
+
+[PlayVoice]=04:22:18	Voice03/03-SA/03-SA-B07/03-SA-B07-0870			04:23:07;
+
+[PlaySe]=04:23:10	1	SysSe/SE_all/h/h_02	04:25:00;
+
+[PrintText]=04:23:14	Kotonoha	¡Hyah...!	04:25:16;
+
+[PlayVoice]=04:23:14	Voice03/03-SA/03-SA-B07/03-SA-B07-0890	0	kot	04:25:16;
+
+[PlaySe]=04:24:03	2	SysSe/SE_all/h/bed4	04:24:11;
+
+[PrintText]=04:25:22	Makoto	Haah...	04:27:22;
+
+[PlayVoice]=04:25:22	Voice03/03-SA/03-SA-B07/03-SA-B07-0900	1	mak	04:27:22;
+
+[PrintText]=04:28:04	Kotonoha	¡Ahh...! Nn...	04:32:01;
+
+[PlayVoice]=04:28:04	Voice03/03-SA/03-SA-B07/03-SA-B07-0910	0	kot	04:32:01;
+
+[PlayMovie]=04:30:00	Movie03/03-KB/03-KB-O09/H3-KB-O09-008	0	04:40:00;
+
+[MoveSom]=04:30:00	2	04:56:10;
+
+[PlaySe]=04:30:15	1	SysSe/SE_all/h/nuno1	04:32:05;
+
+[PrintText]=04:31:23	Makoto	Haah... está dentro...	04:38:01;
+
+[PlayVoice]=04:31:23	Voice03/03-SA/03-SA-B07/03-SA-B07-0920	1	mak	04:38:01;
+
+[PrintText]=04:38:09	Kotonoha	Haah... nn...	04:46:06;
+
+[PlayVoice]=04:38:09	Voice03/03-SA/03-SA-B07/03-SA-B07-0930	0	kot	04:46:06;
+
+[PlayMovie]=04:40:00	Movie03/03-KB/03-KB-O09/H3-KB-O09-005	0	05:11:00;
+
+[PlaySe]=04:42:06	1	SysSe/SE_all/h/gucho1	04:44:22;
+
+[PrintText]=04:45:23	Makoto	Está dentro...	04:48:19;
+
+[PlayVoice]=04:45:23	Voice03/03-SA/03-SA-B07/03-SA-B07-0940	1	mak	04:48:19;
+
+[PlaySe]=04:48:11	1	SysSe/SE_all/h/gucho1	04:50:01;
+
+[PrintText]=04:49:03	Kotonoha	¡Uh-huh...!	04:49:22;
+
+[PlayVoice]=04:49:03	Voice03/03-SA/03-SA-B07/03-SA-B07-0950	0	kot	04:49:22;
+
+[PrintText]=04:50:14	Makoto	Te duele ¿No?^	04:54:17;
+
+[PlayVoice]=04:50:14	Voice03/03-SA/03-SA-B07/03-SA-B07-0960	1	mak	04:54:17;
+
+[PlaySe]=04:55:05	1	SysSe/SE_all/h/gucho1	04:57:21;
+
+[PrintText]=04:55:20	Makoto	Pero... se siente tan caliente...	05:02:13;
+
+[PlayVoice]=04:55:20	Voice03/03-SA/03-SA-B07/03-SA-B07-0980	1	mak	05:02:13;
+
+[PlayVoice]=04:55:21	Voice03/03-SA/03-SA-B07/03-SA-B07-0970			04:56:21;
+
+[MoveSom]=04:56:10	1	05:25:20;
+
+[PlaySe]=04:57:21	2	SysSe/SE_all/h/nuno1	04:59:10;
+
+[PlaySe]=05:00:15	2	SysSe/SE_all/h/nuno1	05:02:05;
+
+[PrintText]=05:03:05	Kotonoha	Uh-huh...	05:05:16;
+
+[PlayVoice]=05:03:05	Voice03/03-SA/03-SA-B07/03-SA-B07-0990	0	kot	05:05:16;
+
+[PlaySe]=05:03:07	1	SysSe/SE_all/h/gucho1	05:05:22;
+
+[PrintText]=05:06:02	Makoto	¿Estás lista...?^	05:08:12;
+
+[PlayVoice]=05:06:02	Voice03/03-SA/03-SA-B07/03-SA-B07-1000	1	mak	05:08:12;
+
+[PrintText]=05:08:00	Kotonoha	¿Huh...?^	05:10:01;
+
+[PlayVoice]=05:08:00	Voice03/03-SA/03-SA-B07/03-SA-B07-1010	0	kot	05:10:01;
+
+[PlaySe]=05:08:05	1	SysSe/SE_all/h/gucho1	05:10:21;
+
+[PrintText]=05:09:12	Makoto	Voy a empezar a moverme.	05:14:06;
+
+[PlayVoice]=05:09:12	Voice03/03-SA/03-SA-B07/03-SA-B07-1020	1	mak	05:14:06;
+
+[PlayMovie]=05:11:00	Movie03/03-KB/03-KB-O09/H3-KB-O09-008	0	05:21:00;
+
+[PlaySe]=05:12:04	2	SysSe/SE_all/h/nuno1	05:13:17;
+
+[PrintText]=05:14:21	Kotonoha	¡Vamos... has lo que quieras!	05:20:12;
+
+[PlayVoice]=05:14:21	Voice03/03-SA/03-SA-B07/03-SA-B07-1030	0	kot	05:20:12;
+
+[PlaySe]=05:15:13	1	SysSe/SE_all/h/gucho1	05:18:04;
+
+[PlaySe]=05:17:09	2	SysSe/SE_all/h/nuno1	05:18:23;
+
+[PrintText]=05:20:14	Makoto	Nn...	05:24:01;
+
+[PlayVoice]=05:20:14	Voice03/03-SA/03-SA-B07/03-SA-B07-1040	1	mak	05:24:01;
+
+[PlayMovie]=05:21:00	Movie03/03-KB/03-KB-O09/H3-KB-O09-008	0	05:25:20;
+
+[PlaySe]=05:21:14	1	SysSe/SE_all/h/gucho1	05:24:06;
+
+[PrintText]=05:24:00	Kotonoha	¡Aah!	05:25:13;
+
+[PlayVoice]=05:24:00	Voice03/03-SA/03-SA-B07/03-SA-B07-1050	0	kot	05:25:13;
+
+ ;
+
+[Next]=05:25:20;
+
+

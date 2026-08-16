@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:43:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:43:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-D04/05-SE-D04-001	00:13:07;
+
+[PrintText]=00:00:00	Makoto	...	00:02:20;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-D04/05-KF-D04-0030	1	xxx	00:02:20;
+
+[PrintText]=00:02:20	Kotonoha	...estás actuando un poco raro hoy.	00:06:07;
+
+[PlayVoice]=00:02:20	Voice05/05-KF/05-KF-D04/05-KF-D04-0040	0	kot	00:06:07;
+
+[PrintText]=00:06:07	Makoto	¿Raro?^	00:08:05;
+
+[PlayVoice]=00:06:07	Voice05/05-KF/05-KF-D04/05-KF-D04-0050	1	mak	00:08:05;
+
+[PrintText]=00:08:05	Kotonoha	Es como... más irritable. No como eres siempre.	00:13:08;
+
+[PlayVoice]=00:08:05	Voice05/05-KF/05-KF-D04/05-KF-D04-0060	0	kot	00:13:08;
+
+[CreateBG]=00:13:07	BGS	Event05/05-SE/05-SE-D04/05-SE-D04-002	00:20:19;
+
+[PrintText]=00:13:07	Makoto	Siempre soy así.	00:16:02;
+
+[PlayVoice]=00:13:07	Voice05/05-KF/05-KF-D04/05-KF-D04-0070	1	mak	00:16:02;
+
+[PrintText]=00:16:02	Kotonoha	No es verdad. Usualmente eres muy bueno.	00:21:02;
+
+[PlayVoice]=00:16:02	Voice05/05-KF/05-KF-D04/05-KF-D04-0080	0	kot	00:21:02;
+
+[CreateBG]=00:20:19	BGS	Event05/05-SE/05-SE-D04/05-SE-D04-003	00:28:13;
+
+[PrintText]=00:21:01	Makoto	...No soy bueno.	00:23:21;
+
+[PlayVoice]=00:21:01	Voice05/05-KF/05-KF-D04/05-KF-D04-0090	1	mak	00:23:21;
+
+[PrintText]=00:23:21	Kotonoha	Sí lo eres.	00:25:12;
+
+[PlayVoice]=00:23:21	Voice05/05-KF/05-KF-D04/05-KF-D04-0100	0	kot	00:25:12;
+
+[PrintText]=00:25:12	Makoto	¡No, no lo soy!	00:28:11;
+
+[PlayVoice]=00:25:12	Voice05/05-KF/05-KF-D04/05-KF-D04-0110	1	mak	00:28:11;
+
+[PrintText]=00:28:11	Kotonoha	...	00:29:18;
+
+[PlayVoice]=00:28:11	Voice05/05-KF/05-KF-D04/05-KF-D04-0120	0	xxx	00:29:18;
+
+[CreateBG]=00:28:13	BGS	Event05/05-SE/05-SE-D04/05-SE-D04-001	00:32:14;
+
+[PrintText]=00:29:18	Makoto	...	00:32:13;
+
+[PlayVoice]=00:29:18	Voice05/05-KF/05-KF-D04/05-KF-D04-0130	1	xxx	00:32:13;
+
+[PrintText]=00:32:13	Kotonoha	...terminé de comer.	00:33:18;
+
+[PlayVoice]=00:32:13	Voice05/05-KF/05-KF-D04/05-KF-D04-0140	0	kot	00:33:18;
+
+[CreateBG]=00:32:14	BGS	Event05/05-SE/05-SE-D04/05-SE-D04-005	00:35:17;
+
+[PlaySe]=00:33:13	2	SysSe/SE_all/school/standup	00:35:01;
+
+[PrintText]=00:33:17	Makoto	...	00:35:23;
+
+[PlayVoice]=00:33:17	Voice05/05-KF/05-KF-D04/05-KF-D04-0160	1	xxx	00:35:23;
+
+[CreateBG]=00:35:17	BGS	Event05/05-SE/05-SE-D00/05-SE-D00-001	00:43:05;
+
+[PrintText]=00:36:06	Makoto	Hace frío.	00:38:15;
+
+[PlayVoice]=00:36:06	Voice05/05-KF/05-KF-D04/05-KF-D04-0180	1	mak	00:38:15;
+
+[PrintText]=00:38:23	Makoto	Debería también volver a clases.	00:42:23;
+
+[PlayVoice]=00:38:23	Voice05/05-KF/05-KF-D04/05-KF-D04-0190	1	mak	00:42:23;
+
+ ;
+
+[Next]=00:43:05;
+
+
+
+

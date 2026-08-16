@@ -1,0 +1,193 @@
+﻿[SkipFRAME]=01:43:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:43:05;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:17:08;
+
+[CreateBG]=00:00:05	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-001	00:02:01;
+
+[PrintText]=00:01:23	Makoto	...	00:03:16;
+
+[PlayVoice]=00:01:23	Voice05/05-KF/05-KF-C09/05-KF-C09-0040	1	xxx	00:03:16;
+
+[CreateBG]=00:02:01	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-002	00:03:12;
+
+[PlaySe]=00:02:02	3	SysSe/SE_all/school/standup	00:03:14;
+
+[PrintText]=00:03:10	Sekai	¡Te...! Te estaré esperando ¿Vale?^	00:07:02;
+
+[PlayVoice]=00:03:10	Voice05/05-KF/05-KF-C09/05-KF-C09-0060	0	sek	00:07:02;
+
+[CreateBG]=00:03:12	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-003	00:06:02;
+
+[CreateBG]=00:06:02	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-002	00:11:02;
+
+[PrintText]=00:07:02	Makoto	...	00:08:16;
+
+[PlayVoice]=00:07:02	Voice05/05-KF/05-KF-C09/05-KF-C09-0070	1	xxx	00:08:16;
+
+[PlaySe]=00:07:03	4	SysSe/SE_all/footsteps/asioto_out_run	00:10:21;
+
+[PrintText]=00:08:16	Makoto	...	00:11:03;
+
+[PlayVoice]=00:08:16	Voice05/05-KF/05-KF-C09/05-KF-C09-0090	1	xxx	00:11:03;
+
+[CreateBG]=00:11:02	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-005	00:19:16;
+
+[PrintText]=00:11:03	Nanami	¡Haah... Vamos a casa!	00:13:09;
+
+[PlayVoice]=00:11:03	Voice05/05-KF/05-KF-C09/05-KF-C09-0100	0	nan	00:13:09;
+
+[PrintText]=00:13:09	Hikari	¿Huh? ¿No tenías una cita hoy?^	00:16:23;
+
+[PlayVoice]=00:13:09	Voice05/05-KF/05-KF-C09/05-KF-C09-0110	0	hik	00:16:23;
+
+[PrintText]=00:16:22	Nanami	¡Por eso es que quiero ir a casa!	00:19:18;
+
+[PlayVoice]=00:16:22	Voice05/05-KF/05-KF-C09/05-KF-C09-0120	0	nan	00:19:18;
+
+[CreateBG]=00:19:16	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-006	00:29:15;
+
+[PrintText]=00:19:19	Hikari	Mmn, que suerte la tuya.	00:22:08;
+
+[PlayVoice]=00:19:19	Voice05/05-KF/05-KF-C09/05-KF-C09-0130	0	hik	00:22:08;
+
+[PrintText]=00:22:07	Nanami	Si tienes envidia ¿Por qué no intentas hacer algo con un chico de nuestra clase?^	00:27:06;
+
+[PlayVoice]=00:22:07	Voice05/05-KF/05-KF-C09/05-KF-C09-0140	0	nan	00:27:06;
+
+[PrintText]=00:27:06	Hikari	¿Huh? Dame un respiro.	00:29:19;
+
+[PlayVoice]=00:27:06	Voice05/05-KF/05-KF-C09/05-KF-C09-0150	0	hik	00:29:19;
+
+[CreateBG]=00:29:15	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-007	00:38:14;
+
+[PrintText]=00:29:19	Nanami	Ah... ¿Qué hay de Sawanaga?^	00:32:21;
+
+[PlayVoice]=00:29:19	Voice05/05-KF/05-KF-C09/05-KF-C09-0160	0	nan	00:32:21;
+
+[PrintText]=00:32:21	Taisuke	¿Huh?^	00:33:14;
+
+[PlayVoice]=00:32:21	Voice05/05-KF/05-KF-C09/05-KF-C09-0170	1	tai	00:33:14;
+
+[PlaySe]=00:33:14	5	SysSe/SE_all/footsteps/asioto_school	00:36:18;
+
+[PrintText]=00:33:14	Hikari	¡Tú...! ¡Para ya!	00:36:06;
+
+[PlayVoice]=00:33:14	Voice05/05-KF/05-KF-C09/05-KF-C09-0180	0	hik	00:36:06;
+
+[PrintText]=00:36:06	Nanami	¡Bueno, me voy!	00:38:12;
+
+[PlayVoice]=00:36:06	Voice05/05-KF/05-KF-C09/05-KF-C09-0190	0	nan	00:38:12;
+
+[PlaySe]=00:36:18	6	SysSe/SE_all/door/door_kyousitu	00:42:10;
+
+[PrintText]=00:38:12	Taisuke	¿Huh? ¿Qué? ¿Escuché algo de una cita?^	00:40:21;
+
+[PlayVoice]=00:38:12	Voice05/05-KF/05-KF-C09/05-KF-C09-0200	1	tai	00:40:21;
+
+[CreateBG]=00:38:14	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-008	00:49:06;
+
+[PrintText]=00:40:22	Hikari	Es Víspera de Navidad, solo decimos que todos irán una cita.	00:45:20;
+
+[PlayVoice]=00:40:22	Voice05/05-KF/05-KF-C09/05-KF-C09-0210	0	hik	00:45:20;
+
+[PrintText]=00:45:20	Taisuke	Sí... así que, ya es Víspera de Navidad ¿Huh?^	00:49:09;
+
+[PlayVoice]=00:45:20	Voice05/05-KF/05-KF-C09/05-KF-C09-0220	1	tai	00:49:09;
+
+[CreateBG]=00:49:06	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-009	00:55:18;
+
+[PrintText]=00:49:09	Hikari	¿Qué hay de ti?^	00:51:00;
+
+[PlayVoice]=00:49:09	Voice05/05-KF/05-KF-C09/05-KF-C09-0230	0	hik	00:51:00;
+
+[PrintText]=00:51:00	Taisuke	¿Yo? Haha... Dormiré.	00:54:13;
+
+[PlayVoice]=00:51:00	Voice05/05-KF/05-KF-C09/05-KF-C09-0240	1	tai	00:54:13;
+
+[PrintText]=00:54:13	Hikari	Ya veo...	00:55:17;
+
+[PlayVoice]=00:54:13	Voice05/05-KF/05-KF-C09/05-KF-C09-0250	0	hik	00:55:17;
+
+[PrintText]=00:55:17	Taisuke	¿A quién va la Víspera de navidad de todos modos? Es un evento horrible.	01:00:05;
+
+[PlayVoice]=00:55:17	Voice05/05-KF/05-KF-C09/05-KF-C09-0260	1	tai	01:00:05;
+
+[CreateBG]=00:55:18	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-010	01:12:01;
+
+[PrintText]=01:00:05	Hikari	Sí...	01:02:05;
+
+[PlayVoice]=01:00:05	Voice05/05-KF/05-KF-C09/05-KF-C09-0270	0	hik	01:02:05;
+
+[PrintText]=01:02:05	Taisuke	Hey, estarás ocupada ¿No? Apuesto a que venderás muchos pasteles de Navidad.	01:09:12;
+
+[PlayVoice]=01:02:05	Voice05/05-KF/05-KF-C09/05-KF-C09-0280	1	tai	01:09:12;
+
+[PrintText]=01:09:12	Hikari	Sí, creo.	01:11:01;
+
+[PlayVoice]=01:09:12	Voice05/05-KF/05-KF-C09/05-KF-C09-0290	0	hik	01:11:01;
+
+[PrintText]=01:11:00	Taisuke	Ya sé. ¿Por qué no te ayudo?^	01:14:15;
+
+[PlayVoice]=01:11:00	Voice05/05-KF/05-KF-C09/05-KF-C09-0300	1	tai	01:14:15;
+
+[CreateBG]=01:12:01	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-011	01:14:13;
+
+[CreateBG]=01:14:13	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-012	01:27:03;
+
+[PrintText]=01:14:16	Hikari	¡¿Huh?!	01:15:13;
+
+[PlayVoice]=01:14:16	Voice05/05-KF/05-KF-C09/05-KF-C09-0310	0	hik	01:15:13;
+
+[PrintText]=01:15:13	Taisuke	No tengo nada que hacer. ¿Puedes preguntarle a tu padre por un trabajo de medio tiempo? Supongo que necesitan ayuda esta noche.	01:22:07;
+
+[PlayVoice]=01:15:13	Voice05/05-KF/05-KF-C09/05-KF-C09-0320	1	tai	01:22:07;
+
+[PrintText]=01:22:07	Hikari	¿Tú lo crees?^	01:24:04;
+
+[PlayVoice]=01:22:07	Voice05/05-KF/05-KF-C09/05-KF-C09-0330	0	hik	01:24:04;
+
+[PrintText]=01:24:04	Taisuke	Tú también necesitarás ayuda.	01:27:09;
+
+[PlayVoice]=01:24:04	Voice05/05-KF/05-KF-C09/05-KF-C09-0340	1	tai	01:27:09;
+
+[CreateBG]=01:27:03	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-013	01:34:08;
+
+[PrintText]=01:27:09	Hikari	¿Quieres decir... contigo?^	01:30:02;
+
+[PlayVoice]=01:27:09	Voice05/05-KF/05-KF-C09/05-KF-C09-0350	0	hik	01:30:02;
+
+[PrintText]=01:30:02	Taisuke	Sí. Nos sentiremos mejor estando en movimiento.	01:34:09;
+
+[PlayVoice]=01:30:02	Voice05/05-KF/05-KF-C09/05-KF-C09-0360	1	tai	01:34:09;
+
+[CreateBG]=01:34:08	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-014	01:39:20;
+
+[PrintText]=01:34:10	Hikari	Vale, le preguntaré!	01:37:10;
+
+[PlayVoice]=01:34:10	Voice05/05-KF/05-KF-C09/05-KF-C09-0370	0	hik	01:37:10;
+
+[PrintText]=01:37:10	Taisuke	¡Ah! ¡Espera! ¡Yo también voy!	01:39:22;
+
+[PlayVoice]=01:37:10	Voice05/05-KF/05-KF-C09/05-KF-C09-0380	1	tai	01:39:22;
+
+[PlaySe]=01:37:11	7	SysSe/SE_all/footsteps/asioto_out_run	01:41:05;
+
+[CreateBG]=01:39:21	BGS	Event05/05-KF/05-KF-C09/05-KF-C09-015	01:43:05;
+
+[PrintText]=01:39:22	Makoto	...	01:42:04;
+
+[PlayVoice]=01:39:22	Voice05/05-KF/05-KF-C09/05-KF-C09-0400	1	xxx	01:42:04;
+
+[PlaySe]=01:40:07	8	SysSe/SE_all/footsteps/asioto_out_run	01:43:05;
+
+[BlackFade]=01:42:05	OUT	01:43:05;
+
+ ;
+
+[Next]=01:43:05;
+
+
+
+

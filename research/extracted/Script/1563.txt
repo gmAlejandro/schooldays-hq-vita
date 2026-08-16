@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:22:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:22:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-B05/05-KF-B05-001	00:01:05;
+
+[CreateBG]=00:01:05	BGS	Event00/00-00/00-00-F00/00-00-F00-004	00:03:07;
+
+[PrintText]=00:01:23	Makoto	...	00:03:21;
+
+[PlayVoice]=00:01:23	Voice05/05-KF/05-KF-B05/05-KF-B05-0030	1	xxx	00:03:21;
+
+[CreateBG]=00:03:07	BGS	Event05/05-KF/05-KF-B05/05-KF-B05-003	00:13:13;
+
+[PrintText]=00:03:21	Makoto	...Es cierto.	00:06:08;
+
+[PlayVoice]=00:03:21	Voice05/05-KF/05-KF-B05/05-KF-B05-0040	1	mak	00:06:08;
+
+[PrintText]=00:06:08	Makoto	Yo...	00:08:02;
+
+[PlayVoice]=00:06:08	Voice05/05-KF/05-KF-B05/05-KF-B05-0050	1	mak	00:08:02;
+
+[PrintText]=00:08:02	Makoto	Ya no tengo elección.	00:12:18;
+
+[PlayVoice]=00:08:02	Voice05/05-KF/05-KF-B05/05-KF-B05-0060	1	mak	00:12:18;
+
+[PrintText]=00:13:00	Makoto	Es obvio lo que tengo que hacer.	00:18:01;
+
+[PlayVoice]=00:13:00	Voice05/05-KF/05-KF-B05/05-KF-B05-0070	1	mak	00:18:01;
+
+[CreateBG]=00:13:12	BGS	Event00/00-00/00-00-F00/00-00-F00-004	00:22:20;
+
+[PrintText]=00:18:11	Makoto	Sí.	00:20:00;
+
+[PlayVoice]=00:18:11	Voice05/05-KF/05-KF-B05/05-KF-B05-0080	1	mak	00:20:00;
+
+[PrintText]=00:20:00	Makoto	Yo...	00:21:22;
+
+[PlayVoice]=00:20:00	Voice05/05-KF/05-KF-B05/05-KF-B05-0090	1	mak	00:21:22;
+
+[BlackFade]=00:21:20	OUT	00:22:20;
+
+ ;
+
+[Next]=00:22:21;
+
+
+
+

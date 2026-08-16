@@ -1,0 +1,166 @@
+﻿[SkipFRAME]=03:02:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	01:39:22;
+
+[PlayMovie]=00:00:00	Movie05/05-SB/05-SB-E01/05-SB-E01-001	0	00:02:12;
+
+[PlayMovie]=00:02:12	Movie05/05-SB/05-SB-E01/05-SB-E01-002	0	00:04:12;
+
+[PrintText]=00:02:15	Sekai	...	00:03:08;
+
+[PlayVoice]=00:02:15	Voice05/05-SB/05-SB-E01/05-SB-E01-0050	0	xxx	00:03:08;
+
+[PlayMovie]=00:04:12	Movie05/05-SB/05-SB-E01/05-SB-E01-003	0	00:06:00;
+
+[PlayMovie]=00:06:00	Movie05/05-SB/05-SB-E01/05-SB-E01-004	0	00:07:21;
+
+[PlayMovie]=00:07:21	Movie05/05-SB/05-SB-E01/05-SB-E01-005	0	00:14:00;
+
+[PrintText]=00:07:21	Sekai	Justo ahora...	00:09:05;
+
+[PlayVoice]=00:07:21	Voice05/05-SB/05-SB-E01/05-SB-E01-0070	0	sek	00:09:05;
+
+[PrintText]=00:09:05	Sekai	Makoto y Katsura-san están...	00:11:11;
+
+[PlayVoice]=00:09:05	Voice05/05-SB/05-SB-E01/05-SB-E01-0090	0	sek	00:11:11;
+
+[PrintText]=00:12:00	Sekai	...	00:12:11;
+
+[PlayVoice]=00:12:00	Voice05/05-SB/05-SB-E01/05-SB-E01-0110	0	xxx	00:12:11;
+
+[PlayMovie]=00:14:00	Movie05/05-SB/05-SB-E01/05-SB-E01-006	0	00:15:05;
+
+[PlayVoice]=00:14:00	Voice05/05-SB/05-SB-E01/05-SB-E01-0130	0	sek	00:15:03;
+
+[PlayMovie]=00:15:05	Movie05/05-SB/05-SB-E01/05-SB-E01-007	0	00:18:03;
+
+[PrintText]=00:16:21	Sekai	...Tengo hambre.	00:19:13;
+
+[PlayVoice]=00:16:21	Voice05/05-SB/05-SB-E01/05-SB-E01-0150	0	sek	00:19:13;
+
+[PlayMovie]=00:18:03	Movie05/05-SB/05-SB-E01/05-SB-E01-008	0	00:22:18;
+
+[PrintText]=00:19:23	Sekai	Ahora que lo pienso... no he comido nada desde la mañana.	00:22:18;
+
+[PlayVoice]=00:19:23	Voice05/05-SB/05-SB-E01/05-SB-E01-0160	0	sek	00:22:18;
+
+[PlayMovie]=00:22:18	Movie05/05-SB/05-SB-E01/05-SB-E01-009	0	00:23:23;
+
+[PlayMovie]=00:23:23	Movie05/05-SB/05-SB-E01/05-SB-E01-010	0	00:41:23;
+
+[PrintText]=00:25:04	Sekai	Y prometí hacerle unos sandwiches...	00:28:08;
+
+[PlayVoice]=00:25:04	Voice05/05-SB/05-SB-E01/05-SB-E01-0190	0	sek	00:28:08;
+
+[PrintText]=00:33:18	Sekai	Nunca lo hice ¿No?^	00:38:07;
+
+[PlayVoice]=00:33:18	Voice05/05-SB/05-SB-E01/05-SB-E01-0210	0	sek	00:38:07;
+
+[PlayMovie]=00:41:23	Movie05/05-SB/05-SB-E01/05-SB-E01-011	0	00:56:12;
+
+[PlaySe]=00:47:08	3	Se05/05-SB/05-SB-E01/SE05-SB-E01-001	00:55:20;
+
+[PlaySe]=00:56:12	2	SysSe/SE_all/station_train/start_bell	01:04:23;
+
+[PlayMovie]=00:56:12	Movie05/05-SB/05-SB-E01/05-SB-E01-012	0	01:04:03;
+
+[PlaySe]=01:02:23	3	SysSe/SE_all/station_train/train_start	01:29:04;
+
+[PlayMovie]=01:04:03	Movie05/05-SB/05-SB-E01/05-SB-E01-013	0	01:11:10;
+
+[PlayMovie]=01:11:10	Movie05/05-SB/05-SB-E01/05-SB-E01-014	0	01:23:16;
+
+[PrintText]=01:11:13	Sekai	¡Quiero... que él lo pruebe... Makoto...!	01:22:08;
+
+[PlayVoice]=01:11:13	Voice05/05-SB/05-SB-E01/05-SB-E01-0230	0	sek	01:22:08;
+
+[PrintText]=01:22:07	Makoto	¿Segura?^	01:24:07;
+
+[PlayVoice]=01:22:07	Voice05/05-SB/05-SB-E01/05-SB-E01-0240	1	mak	01:24:07;
+
+[PlayMovie]=01:23:16	Movie05/05-SB/05-SB-E01/05-SB-E01-015	0	01:26:04;
+
+[PlayVoice]=01:24:09	Voice05/05-SB/05-SB-E01/05-SB-E01-0260	0	sek	01:25:08;
+
+[PrintText]=01:25:06	Makoto	Delicioso.	01:28:22;
+
+[PlayVoice]=01:25:06	Voice05/05-SB/05-SB-E01/05-SB-E01-0270	1	mak	01:28:22;
+
+[PlayMovie]=01:26:04	Movie05/05-SB/05-SB-E01/05-SB-E01-016	0	01:32:15;
+
+[PrintText]=01:29:01	Sekai	¡¿Makoto?!	01:30:11;
+
+[PlayVoice]=01:29:01	Voice05/05-SB/05-SB-E01/05-SB-E01-0280	0	sek	01:30:11;
+
+[PrintText]=01:30:15	Makoto	Sí.	01:32:10;
+
+[PlayVoice]=01:30:15	Voice05/05-SB/05-SB-E01/05-SB-E01-0290	1	mak	01:32:10;
+
+[PrintText]=01:32:07	Sekai	¿Pero por qué? Ahora se supone que deberías estar en el hotel con Katsura-san...	01:37:11;
+
+[PlayVoice]=01:32:07	Voice05/05-SB/05-SB-E01/05-SB-E01-0310	0	sek	01:37:11;
+
+[PlayMovie]=01:32:15	Movie05/05-SB/05-SB-E01/05-SB-E01-017	0	01:47:02;
+
+[PrintText]=01:37:10	Makoto	Lo estuve pensando...	01:41:07;
+
+[PlayVoice]=01:37:10	Voice05/05-SB/05-SB-E01/05-SB-E01-0320	1	mak	01:41:07;
+
+[PlaySe]=01:39:14	2	SysSe/SE_all/station_train/gakuenmae_yuugata	02:00:11;
+
+[PrintText]=01:41:08	Sekai	¿Eh?^	01:42:08;
+
+[PlayVoice]=01:41:08	Voice05/05-SB/05-SB-E01/05-SB-E01-0330	0	sek	01:42:08;
+
+[PrintText]=01:42:06	Makoto	Y decidí seguir a mi corazón.	01:47:03;
+
+[PlayVoice]=01:42:06	Voice05/05-SB/05-SB-E01/05-SB-E01-0340	1	mak	01:47:03;
+
+[PlayMovie]=01:47:02	Movie05/05-SB/05-SB-E01/05-SB-E01-018	0	02:06:01;
+
+[PrintText]=01:47:05	Sekai	¿Makoto...?^	01:48:20;
+
+[PlayVoice]=01:47:05	Voice05/05-SB/05-SB-E01/05-SB-E01-0350	0	sek	01:48:20;
+
+[PrintText]=01:48:18	Makoto	Te amo Sekai.	01:52:18;
+
+[PlayVoice]=01:48:18	Voice05/05-SB/05-SB-E01/05-SB-E01-0360	1	mak	01:52:18;
+
+[PrintText]=01:52:20	Sekai	¡Ah...!	01:54:03;
+
+[PlayVoice]=01:52:20	Voice05/05-SB/05-SB-E01/05-SB-E01-0370	0	sek	01:54:03;
+
+[PrintText]=01:57:10	Makoto	Me amas ¿No?^	02:01:21;
+
+[PlayVoice]=01:57:10	Voice05/05-SB/05-SB-E01/05-SB-E01-0380	1	mak	02:01:21;
+
+[PlaySe]=02:02:02	3	Se05/05-SB/05-SB-E01/SE05-SB-E01-002	02:02:17;
+
+[PlaySe]=02:02:13	2	Se05/05-SB/05-SB-E01/SE05-SB-E01-003	02:04:03;
+
+[PrintText]=02:03:01	Sekai	Uh-huh...	02:04:22;
+
+[PlayVoice]=02:03:01	Voice05/05-SB/05-SB-E01/05-SB-E01-0390	0	sek	02:04:22;
+
+[PlayVoice]=02:04:22	Voice05/05-SB/05-SB-E01/05-SB-E01-0400			02:06:03;
+
+[PlayMovie]=02:06:01	Movie05/05-SB/05-SB-E01/05-SB-E01-019	0	02:11:01;
+
+[PrintText]=02:06:03	Sekai	¡Makoto! ¡...Te amo!	02:10:18;
+
+[PlayVoice]=02:06:03	Voice05/05-SB/05-SB-E01/05-SB-E01-0410	0	sek	02:10:18;
+
+[PlayMovie]=02:11:01	Movie05/05-SB/05-SB-E01/05-SB-E01-020	0	02:19:00;
+
+[EndBGM]=02:11:01	BGM/Vocal/SDV09	04:36:12;
+
+[CreateBG]=02:19:00	BGS	Ini/EndRoll/05-15	02:22:00;
+
+[EndRoll]=02:22:00	Ini/EndRoll/GOOD	03:02:00;
+
+ ;
+
+[Next]=03:02:00;
+
+
+

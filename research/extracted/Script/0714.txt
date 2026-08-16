@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:07:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:07:14;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-N02/03-KB-N02-001	0	00:01:23;
+
+[PrintText]=00:00:00	Makoto	Entonces...	00:01:03;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-O05/03-KB-O05-0030	1	mak	00:01:03;
+
+[PrintText]=00:01:04	Kotonoha	Sí.	00:01:22;
+
+[PlayVoice]=00:01:04	Voice03/03-KB/03-KB-O05/03-KB-O05-0040	0	kot	00:01:22;
+
+[PrintText]=00:01:22	Kotonoha	Um...	00:06:04;
+
+[PlayVoice]=00:01:22	Voice03/03-KB/03-KB-O05/03-KB-O05-0060	0	kot	00:06:04;
+
+[PlayMovie]=00:01:23	Movie03/03-KB/03-KB-O05/03-KB-O05-002	0	00:03:22;
+
+[PlaySe]=00:03:09	1	SysSe/SE_all/h/condom1	00:04:06;
+
+[CreateBG]=00:03:22	BGS	Event03/03-KB/03-KB-O05/03-KB-O05-003	00:07:14;
+
+[PrintText]=00:06:04	Kotonoha	Aquí...	00:07:05;
+
+[PlayVoice]=00:06:04	Voice03/03-KB/03-KB-O05/03-KB-O05-0080	0	kot	00:07:05;
+
+ ;
+
+[Next]=00:07:14;
+
+

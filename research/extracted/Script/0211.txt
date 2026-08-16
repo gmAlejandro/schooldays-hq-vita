@@ -1,0 +1,79 @@
+﻿[SkipFRAME]=00:31:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:31:13;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E10/02-2K-E10-001	00:10:00;
+
+[PlaySe]=00:08:15	1	Se02/02-2K/02-2K-E10/SE02-2K-E10-001	00:31:13;
+
+[CreateBG]=00:10:00	BGS	Event02/02-2K/02-2K-E10/02-2K-E10-002	00:13:12;
+
+[PrintText]=00:10:03	Sekai	Makoto.	00:11:00;
+
+[PlayVoice]=00:10:03	Voice02/02-2K/02-2K-E10/02-2K-E10-0040	0	sek	00:11:00;
+
+[PrintText]=00:11:02	Makoto	¿Qué?^	00:12:01;
+
+[PlayVoice]=00:11:02	Voice02/02-2K/02-2K-E10/02-2K-E10-0050	1	mak	00:12:01;
+
+[PrintText]=00:12:04	Sekai	...	00:13:12;
+
+[PlayVoice]=00:12:04	Voice02/02-2K/02-2K-E10/02-2K-E10-0060	0	xxx	00:13:12;
+
+[CreateBG]=00:13:12	BGS	Event02/02-2K/02-2K-E10/02-2K-E10-003	00:19:03;
+
+[PrintText]=00:13:12	Makoto	¿Qué pasa? ¿Por qué te me quedas mirando?^	00:15:09;
+
+[PlayVoice]=00:13:12	Voice02/02-2K/02-2K-E10/02-2K-E10-0070	1	mak	00:15:09;
+
+[PrintText]=00:15:10	Sekai	... ¿Te sientes mejor?.	00:17:09;
+
+[PlayVoice]=00:15:10	Voice02/02-2K/02-2K-E10/02-2K-E10-0080	0	sek	00:17:09;
+
+[PrintText]=00:17:09	Makoto	Estoy bien.	00:18:09;
+
+[PlayVoice]=00:17:09	Voice02/02-2K/02-2K-E10/02-2K-E10-0090	1	mak	00:18:09;
+
+[PrintText]=00:18:09	Sekai	Ya veo...	00:19:03;
+
+[PlayVoice]=00:18:09	Voice02/02-2K/02-2K-E10/02-2K-E10-0100	0	sek	00:19:03;
+
+[CreateBG]=00:19:03	BGS	Event02/02-2K/02-2K-E10/02-2K-E10-004	00:27:10;
+
+[PrintText]=00:19:03	Makoto	...Me has levantado el ánimo...	00:21:19;
+
+[PlayVoice]=00:19:03	Voice02/02-2K/02-2K-E10/02-2K-E10-0110	1	mak	00:21:19;
+
+[PrintText]=00:21:19	Sekai	¿Eh?^	00:22:08;
+
+[PlayVoice]=00:21:19	Voice02/02-2K/02-2K-E10/02-2K-E10-0120	0	sek	00:22:08;
+
+[PrintText]=00:22:09	Makoto	Lo aprecio... gracias.	00:25:10;
+
+[PlayVoice]=00:22:09	Voice02/02-2K/02-2K-E10/02-2K-E10-0130	1	mak	00:25:10;
+
+[PrintText]=00:25:10	Sekai	Ah... sí.	00:27:09;
+
+[PlayVoice]=00:25:10	Voice02/02-2K/02-2K-E10/02-2K-E10-0140	0	sek	00:27:09;
+
+[CreateBG]=00:27:10	BGS	Event02/02-2K/02-2K-E10/02-2K-E10-005	00:31:13;
+
+[PrintText]=00:27:10	Makoto	Bueno, nos vemos mañana.	00:29:10;
+
+[PlayVoice]=00:27:10	Voice02/02-2K/02-2K-E10/02-2K-E10-0150	1	mak	00:29:10;
+
+[PrintText]=00:29:10	Sekai	Adiós.	00:30:08;
+
+[PlayVoice]=00:29:10	Voice02/02-2K/02-2K-E10/02-2K-E10-0160	0	sek	00:30:08;
+
+[BlackFade]=00:30:13	OUT	00:31:13;
+
+ ;
+
+[Next]=00:31:13;
+
+
+
+

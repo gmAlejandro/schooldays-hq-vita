@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:20:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:20:13;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-O04/01-00-O04-001	00:03:16;
+
+[PrintText]=00:00:00	Makoto	¿Qué era lo que querías decirme hoy?^	00:03:16;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-O04/01-00-O04-0030	1	mak	00:03:16;
+
+[CreateBG]=00:03:16	BGS	Event01/01-00/01-00-O04/01-00-O04-002	00:04:17;
+
+[PrintText]=00:03:16	Kotonoha	¿Eh...?^	00:04:16;
+
+[PlayVoice]=00:03:16	Voice01/01-00/01-00-O04/01-00-O04-0040	0	kot	00:04:16;
+
+[PrintText]=00:04:16	Makoto	Durante el almuerzo ¿Recuerdas?^	00:06:18;
+
+[PlayVoice]=00:04:16	Voice01/01-00/01-00-O04/01-00-O04-0050	1	mak	00:06:18;
+
+[CreateBG]=00:04:17	BGS	Event01/01-00/01-00-O04/01-00-O04-003	00:06:18;
+
+[CreateBG]=00:06:18	BGS	Event01/01-00/01-00-O04/01-00-O04-004	00:09:23;
+
+[PrintText]=00:06:18	Kotonoha	Creo que eso ya no importa ahora.	00:09:22;
+
+[PlayVoice]=00:06:18	Voice01/01-00/01-00-O04/01-00-O04-0060	0	kot	00:09:22;
+
+[CreateBG]=00:09:23	BGS	Event01/01-00/01-00-O04/01-00-O04-005	00:17:07;
+
+[PrintText]=00:09:23	Makoto	Pero...	00:10:17;
+
+[PlayVoice]=00:09:23	Voice01/01-00/01-00-O04/01-00-O04-0070	1	mak	00:10:17;
+
+[PrintText]=00:10:17	Kotonoha	U-um, Iré a dormir ahora, así que...	00:13:04;
+
+[PlayVoice]=00:10:17	Voice01/01-00/01-00-O04/01-00-O04-0080	0	kot	00:13:04;
+
+[PrintText]=00:13:04	Makoto	Ah... vale.	00:17:06;
+
+[PlayVoice]=00:13:04	Voice01/01-00/01-00-O04/01-00-O04-0090	1	mak	00:17:06;
+
+[CreateBG]=00:17:07	BGS	Event01/01-00/01-00-O04/01-00-O04-006	00:20:13;
+
+[PrintText]=00:17:07	Kotonoha	Buenas noches.	00:18:12;
+
+[PlayVoice]=00:17:07	Voice01/01-00/01-00-O04/01-00-O04-0100	0	kot	00:18:12;
+
+[BlackFade]=00:19:13	OUT	00:20:13;
+
+ ;
+
+[Next]=00:20:13;
+
+
+
+

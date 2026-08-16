@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:24:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:24:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:24:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D08/04-SE-D08-001	00:01:14;
+
+[PrintText]=00:00:00	Makoto	Es un secreto.	00:01:13;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-D08/04-SE-D08-0030	1	mak	00:01:13;
+
+[PrintText]=00:01:13	Sekai	¿Eh...?^	00:02:16;
+
+[PlayVoice]=00:01:13	Voice04/04-SE/04-SE-D08/04-SE-D08-0040	0	sek	00:02:16;
+
+[CreateBG]=00:01:14	BGS	Event04/04-SE/04-SE-D08/04-SE-D08-002	00:20:00;
+
+[PrintText]=00:02:16	Makoto	Me echare un descanso...	00:06:07;
+
+[PlayVoice]=00:02:16	Voice04/04-SE/04-SE-D08/04-SE-D08-0050	1	mak	00:06:07;
+
+[PrintText]=00:10:00	Makoto	Mnyah...	00:12:08;
+
+[PlayVoice]=00:10:00	Voice04/04-SE/04-SE-D08/04-SE-D08-0070	1	mak	00:12:08;
+
+[PlaySe]=00:17:08	1	SysSe/SE_all/h/nuno2	00:18:09;
+
+[CreateBG]=00:20:00	BGS	Event04/04-SE/04-SE-D08/04-SE-D08-003	00:21:10;
+
+[PrintText]=00:20:00	Sekai	Ah...	00:21:00;
+
+[PlayVoice]=00:20:00	Voice04/04-SE/04-SE-D08/04-SE-D08-0090	0	sek	00:21:00;
+
+[CreateBG]=00:21:10	BGS	Event04/04-SE/04-SE-D08/04-SE-D08-005	00:24:00;
+
+[PrintText]=00:22:00	Sekai	...	00:22:18;
+
+[PlayVoice]=00:22:00	Voice04/04-SE/04-SE-D08/04-SE-D08-0110	0	xxx	00:22:18;
+
+ ;
+
+[Next]=00:24:00;
+
+

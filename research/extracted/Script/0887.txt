@@ -1,0 +1,327 @@
+﻿[SkipFRAME]=06:07:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	05:20:13;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/h/h_03	00:02:20;
+
+[PlayMovie]=00:00:00	Movie04/04-C0/04-C0-I04/04-C0-I04-001	0	00:22:17;
+
+[MoveSom]=00:00:00	1	00:23:07;
+
+[PrintText]=00:00:02	Makoto	Haah... haah...	00:03:21;
+
+[PlayVoice]=00:00:02	Voice04/04-C0/04-C0-I04/04-C0-I04-0060	1	mak	00:03:21;
+
+[PrintText]=00:01:18	Kotonoha	Makoto-kun...	00:05:08;
+
+[PlayVoice]=00:01:18	Voice04/04-C0/04-C0-I04/04-C0-I04-0070	0	kot	00:05:08;
+
+[PrintText]=00:05:09	Makoto	Lo voy a meter...	00:07:03;
+
+[PlayVoice]=00:05:09	Voice04/04-C0/04-C0-I04/04-C0-I04-0080	1	mak	00:07:03;
+
+[PrintText]=00:07:00	Kotonoha	Ah... Vale...	00:09:03;
+
+[PlayVoice]=00:07:00	Voice04/04-C0/04-C0-I04/04-C0-I04-0090	0	kot	00:09:03;
+
+[PrintText]=00:09:12	Makoto	...	00:10:16;
+
+[PlayVoice]=00:09:12	Voice04/04-C0/04-C0-I04/04-C0-I04-0120	1	xxx	00:10:16;
+
+[PrintText]=00:11:17	Makoto	¿...Estás asustada después de todo?^	00:13:09;
+
+[PlayVoice]=00:11:17	Voice04/04-C0/04-C0-I04/04-C0-I04-0100	1	mak	00:13:09;
+
+[PrintText]=00:13:16	Kotonoha	¡N-no! Está bien.	00:16:08;
+
+[PlayVoice]=00:13:16	Voice04/04-C0/04-C0-I04/04-C0-I04-0110	0	kot	00:16:08;
+
+[PrintText]=00:16:06	Makoto	...	00:17:12;
+
+[PlayVoice]=00:16:06	Voice04/04-C0/04-C0-I04/04-C0-I04-0140	1	xxx	00:17:12;
+
+[PrintText]=00:17:03	Kotonoha	Lo digo en serio. Realmente te amo ... así que me gustaría que lo hicieras.	00:26:11;
+
+[PlayVoice]=00:17:03	Voice04/04-C0/04-C0-I04/04-C0-I04-0130	0	kot	00:26:11;
+
+[PlayMovie]=00:22:17	Movie04/04-C0/04-C0-I04/04-C0-I04-002	0	01:29:04;
+
+[MoveSom]=00:23:07	2	00:40:04;
+
+[PrintText]=00:27:10	Kotonoha	Por favor, continúa.	00:29:14;
+
+[PlayVoice]=00:27:10	Voice04/04-C0/04-C0-I04/04-C0-I04-0150	0	kot	00:29:14;
+
+[PrintText]=00:29:08	Makoto	Pero esto es solo...	00:31:08;
+
+[PlayVoice]=00:29:08	Voice04/04-C0/04-C0-I04/04-C0-I04-0160	1	mak	00:31:08;
+
+[PrintText]=00:31:00	Kotonoha	Basta con ver lo excitado que estás...	00:35:16;
+
+[PlayVoice]=00:31:00	Voice04/04-C0/04-C0-I04/04-C0-I04-0170	0	kot	00:35:16;
+
+[PrintText]=00:36:06	Makoto	Ah...	00:38:11;
+
+[PlayVoice]=00:36:06	Voice04/04-C0/04-C0-I04/04-C0-I04-0180	1	mak	00:38:11;
+
+[PrintText]=00:38:04	Kotonoha	Quieres hacerlo ¿No? De lo contrario, no estarías tan excitado.	00:44:06;
+
+[PlayVoice]=00:38:04	Voice04/04-C0/04-C0-I04/04-C0-I04-0190	0	kot	00:44:06;
+
+[MoveSom]=00:40:04	3	01:14:23;
+
+[PrintText]=00:44:09	Makoto	...	00:46:09;
+
+[PlayVoice]=00:44:09	Voice04/04-C0/04-C0-I04/04-C0-I04-0200	1	xxx	00:46:09;
+
+[PlaySe]=00:53:20	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0220	00:55:07;
+
+[PrintText]=00:55:02	Kotonoha	Mira lo mojada que estoy... de querer tu p-pene...	01:09:22;
+
+[PlayVoice]=00:55:02	Voice04/04-C0/04-C0-I04/04-C0-I04-0210	0	kot	01:09:22;
+
+[PlaySe]=01:09:10	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0221	01:10:21;
+
+[PrintText]=01:10:11	Kotonoha	Estoy tan excitada ante la idea de ser uno contigo... así que...um...	01:19:06;
+
+[PlayVoice]=01:10:11	Voice04/04-C0/04-C0-I04/04-C0-I04-0230	0	kot	01:19:06;
+
+[MoveSom]=01:14:23	1	01:31:17;
+
+[PrintText]=01:19:08	Makoto	K-Kotonoha...	01:22:08;
+
+[PlayVoice]=01:19:08	Voice04/04-C0/04-C0-I04/04-C0-I04-0240	1	mak	01:22:08;
+
+[PrintText]=01:21:15	Kotonoha	Quiero... que seas mi primera vez.	01:26:08;
+
+[PlayVoice]=01:21:15	Voice04/04-C0/04-C0-I04/04-C0-I04-0250	0	kot	01:26:08;
+
+[PrintText]=01:26:01	Makoto	Haah... haah...	01:28:05;
+
+[PlayVoice]=01:26:01	Voice04/04-C0/04-C0-I04/04-C0-I04-0260	1	mak	01:28:05;
+
+[PrintText]=01:28:06	Makoto	Kotonoha...	01:29:11;
+
+[PlayVoice]=01:28:06	Voice04/04-C0/04-C0-I04/04-C0-I04-0270	1	mak	01:29:11;
+
+[PlaySe]=01:29:04	3	SysSe/SE_all/h/h_04	01:50:23;
+
+[PlaySe]=01:29:04	4	SysSe/SE_all/h/h_03	02:38:16;
+
+[PlaySe]=01:29:04	6	SysSe/SE_all/h/h_04	01:50:23;
+
+[PlayMovie]=01:29:04	Movie04/04-C0/04-C0-I04/04-C0-I04-003	0	01:51:22;
+
+[PrintText]=01:29:15	Kotonoha	...!	01:30:12;
+
+[PlayVoice]=01:29:15	Voice04/04-C0/04-C0-I04/04-C0-I04-0280	0	kot	01:30:12;
+
+[PlaySe]=01:30:10	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0271	01:36:07;
+
+[MoveSom]=01:31:17	2	01:51:22;
+
+[PlaySe]=01:35:19	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0281	01:36:08;
+
+[PlaySe]=01:37:20	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0282	01:42:11;
+
+[PlaySe]=01:43:05	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0283	01:49:18;
+
+[PrintText]=01:50:05	Kotonoha	Está adentro...	01:54:07;
+
+[PlayVoice]=01:50:05	Voice04/04-C0/04-C0-I04/04-C0-I04-0290	0	kot	01:54:07;
+
+[PlayMovie]=01:51:22	Movie04/04-C0/04-C0-I04/04-C0-I04-004	0	02:02:09;
+
+[MoveSom]=01:51:22	1	02:02:09;
+
+[PlaySe]=01:54:13	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0291	02:03:01;
+
+[PlaySe]=01:54:13	5	SysSe/SE_all/h/h_04	02:16:08;
+
+[PlayMovie]=02:02:09	Movie04/04-C0/04-C0-I04/04-C0-I04-005	0	02:33:09;
+
+[MoveSom]=02:02:09	2	02:33:09;
+
+[PrintText]=02:03:13	Makoto	Kotonoha... Kotonoha... eres increíble. Se siente tan bien...	02:14:17;
+
+[PlayVoice]=02:03:13	Voice04/04-C0/04-C0-I04/04-C0-I04-0300	1	mak	02:14:17;
+
+[PlaySe]=02:07:23	6	SysSe/SE_all/h/h_03	03:17:11;
+
+[PrintText]=02:14:19	Kotonoha	¿... En serio?^	02:19:05;
+
+[PlayVoice]=02:14:19	Voice04/04-C0/04-C0-I04/04-C0-I04-0310	0	kot	02:19:05;
+
+[PlaySe]=02:18:19	3	SysSe/SE_all/h/h_03	03:28:07;
+
+[PrintText]=02:19:01	Makoto	Sí... se siente fantástico...	02:23:03;
+
+[PlayVoice]=02:19:01	Voice04/04-C0/04-C0-I04/04-C0-I04-0320	1	mak	02:23:03;
+
+[PrintText]=02:23:07	Kotonoha	Estoy tan feliz...	02:25:04;
+
+[PlayVoice]=02:23:07	Voice04/04-C0/04-C0-I04/04-C0-I04-0330	0	kot	02:25:04;
+
+[PrintText]=02:25:02	Makoto	Ahora...	02:26:22;
+
+[PlayVoice]=02:25:02	Voice04/04-C0/04-C0-I04/04-C0-I04-0340	1	mak	02:26:22;
+
+[PlaySe]=02:27:04	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0341	02:32:08;
+
+[PlaySe]=02:28:10	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0331	02:29:11;
+
+[PrintText]=02:31:19	Kotonoha	Está bien... si se siente bien para ti... entonces yo...	02:44:15;
+
+[PlayVoice]=02:31:19	Voice04/04-C0/04-C0-I04/04-C0-I04-0350	0	kot	02:44:15;
+
+[PlayMovie]=02:33:09	Movie04/04-C0/04-C0-I04/04-C0-I04-006	0	02:43:20;
+
+[MoveSom]=02:33:09	3	02:43:20;
+
+[PlaySe]=02:34:19	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0342	02:38:22;
+
+[PlaySe]=02:42:05	5	SysSe/SE_all/h/h_04	03:04:00;
+
+[PlayMovie]=02:43:20	Movie04/04-C0/04-C0-I04/04-C0-I04-007	0	02:53:20;
+
+[MoveSom]=02:43:20	2	02:53:20;
+
+[PlaySe]=02:46:18	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0343	02:51:14;
+
+[PrintText]=02:51:02	Kotonoha	Estoy... bien con esto... también...	02:56:22;
+
+[PlayVoice]=02:51:02	Voice04/04-C0/04-C0-I04/04-C0-I04-0360	0	kot	02:56:22;
+
+[PlayMovie]=02:53:20	Movie04/04-C0/04-C0-I04/04-C0-I04-008	0	03:10:14;
+
+[MoveSom]=02:53:20	4	03:10:14;
+
+[PrintText]=02:56:22	Kotonoha	Se siente tan bien...	03:03:02;
+
+[PlayVoice]=02:56:22	Voice04/04-C0/04-C0-I04/04-C0-I04-0380	0	kot	03:03:02;
+
+[PlaySe]=03:03:00	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0344	03:08:01;
+
+[PlayMovie]=03:10:14	Movie04/04-C0/04-C0-I04/04-C0-I04-009	0	03:20:14;
+
+[MoveSom]=03:10:14	2	03:20:14;
+
+[PlaySe]=03:20:06	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0345	03:24:00;
+
+[PlayMovie]=03:20:14	Movie04/04-C0/04-C0-I04/04-C0-I04-010	0	03:31:01;
+
+[MoveSom]=03:20:14	3	03:31:01;
+
+[PlaySe]=03:23:03	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0382	03:28:20;
+
+[PlaySe]=03:26:15	6	SysSe/SE_all/h/h_03	04:09:11;
+
+[PlaySe]=03:27:15	4	SysSe/SE_all/h/h_03	04:09:11;
+
+[PrintText]=03:28:19	Kotonoha	Makoto-kun... esto... realmente... se siente tan bien...	03:48:10;
+
+[PlayVoice]=03:28:19	Voice04/04-C0/04-C0-I04/04-C0-I04-0400	0	kot	03:48:10;
+
+[PlaySe]=03:29:04	5	SysSe/SE_all/h/h_05	04:09:11;
+
+[PlayMovie]=03:31:01	Movie04/04-C0/04-C0-I04/04-C0-I04-011	0	03:47:19;
+
+[MoveSom]=03:31:01	4	03:47:19;
+
+[PlaySe]=03:34:21	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0346	03:44:04;
+
+[PlayMovie]=03:47:19	Movie04/04-C0/04-C0-I04/04-C0-I04-012	0	03:58:06;
+
+[MoveSom]=03:47:19	3	03:58:06;
+
+[PlaySe]=03:48:05	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0381	03:57:04;
+
+[PrintText]=03:57:06	Kotonoha	Makoto-kun... Makoto-kun...	04:09:10;
+
+[PlayVoice]=03:57:06	Voice04/04-C0/04-C0-I04/04-C0-I04-0420	0	kot	04:09:10;
+
+[PlayMovie]=03:58:06	Movie04/04-C0/04-C0-I04/04-C0-I04-013	0	04:08:06;
+
+[MoveSom]=03:58:06	5	04:08:06;
+
+[PlayMovie]=04:08:06	Movie04/04-C0/04-C0-I04/04-C0-I04-014	0	04:29:07;
+
+[PlaySe]=04:09:11	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0381	04:18:10;
+
+[PlaySe]=04:18:23	2	Voice04/04-C0/04-C0-I04/04-C0-I04-0381	04:27:22;
+
+[PlaySe]=04:28:08	1	Voice04/04-C0/04-C0-I04/04-C0-I04-0421	04:37:12;
+
+[CreateBG]=04:29:07	BGS	Event04/04-C0/04-C0-I04/04-C0-I04-023	04:47:17;
+
+[PrintText]=04:35:23	Kotonoha	Haah...	04:38:11;
+
+[PlayVoice]=04:35:23	Voice04/04-C0/04-C0-I04/04-C0-I04-0470	0	kot	04:38:11;
+
+[PrintText]=04:38:19	Makoto	Haah... haah...	04:44:22;
+
+[PlayVoice]=04:38:19	Voice04/04-C0/04-C0-I04/04-C0-I04-0460	1	mak	04:44:22;
+
+[CreateBG]=04:47:17	BGS	Event04/04-C0/04-C0-I04/04-C0-I04-025	05:08:09;
+
+[PrintText]=04:47:22	Makoto	Kotonoha...	04:49:04;
+
+[PlayVoice]=04:47:22	Voice04/04-C0/04-C0-I04/04-C0-I04-0480	1	mak	04:49:04;
+
+[PrintText]=04:49:21	Kotonoha	Makoto-kun... Te amo...	04:54:19;
+
+[PlayVoice]=04:49:21	Voice04/04-C0/04-C0-I04/04-C0-I04-0490	0	kot	04:54:19;
+
+[PrintText]=04:54:16	Makoto	Yo...	04:55:16;
+
+[PlayVoice]=04:54:16	Voice04/04-C0/04-C0-I04/04-C0-I04-0500	1	mak	04:55:16;
+
+[PrintText]=04:56:13	Kotonoha	Está bien... es mi culpa por no aceptar lo que querías...	05:02:20;
+
+[PlayVoice]=04:56:13	Voice04/04-C0/04-C0-I04/04-C0-I04-0510	0	kot	05:02:20;
+
+[PrintText]=05:03:02	Makoto	Pero...	05:04:03;
+
+[PlayVoice]=05:03:02	Voice04/04-C0/04-C0-I04/04-C0-I04-0520	1	mak	05:04:03;
+
+[PrintText]=05:04:02	Kotonoha	Desde ahora... haré cualquier cosa que me digas.	05:08:03;
+
+[PlayVoice]=05:04:02	Voice04/04-C0/04-C0-I04/04-C0-I04-0530	0	kot	05:08:03;
+
+[PrintText]=05:08:03	Makoto	¿Cualquier cosa?^	05:09:22;
+
+[PlayVoice]=05:08:03	Voice04/04-C0/04-C0-I04/04-C0-I04-0540	1	mak	05:09:22;
+
+[CreateBG]=05:08:09	BGS	Event04/04-C0/04-C0-I04/04-C0-I04-026	05:24:12;
+
+[PrintText]=05:10:06	Kotonoha	Sí. Aceptaré cualquier cosa.	05:13:18;
+
+[PlayVoice]=05:10:06	Voice04/04-C0/04-C0-I04/04-C0-I04-0550	0	kot	05:13:18;
+
+[PrintText]=05:13:15	Makoto	Ya veo...	05:14:21;
+
+[PlayVoice]=05:13:15	Voice04/04-C0/04-C0-I04/04-C0-I04-0560	1	mak	05:14:21;
+
+[PrintText]=05:14:20	Kotonoha	Así que... por favor... déjame ser la persona que mas quieres.	05:20:11;
+
+[PlayVoice]=05:14:20	Voice04/04-C0/04-C0-I04/04-C0-I04-0570	0	kot	05:20:11;
+
+[EndBGM]=05:19:23	BGM/Vocal/SDV04	07:30:16;
+
+[PrintText]=05:20:13	Makoto	Sí...	05:21:05;
+
+[PlayVoice]=05:20:13	Voice04/04-C0/04-C0-I04/04-C0-I04-0590	1	mak	05:21:05;
+
+[PlayVoice]=05:21:15	Voice04/04-C0/04-C0-I04/04-C0-I04-0580			05:21:23;
+
+[BlackFade]=05:22:12	OUT	05:24:12;
+
+[CreateBG]=05:24:12	BGS	Ini/EndRoll/04-01	05:27:00;
+
+[EndRoll]=05:27:00	Ini/EndRoll/NORMAL	06:07:00;
+
+ ;
+
+[Next]=06:07:00;
+
+

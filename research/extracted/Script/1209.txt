@@ -1,0 +1,243 @@
+﻿[SkipFRAME]=02:28:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	02:34:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-001	00:03:03;
+
+[PrintText]=00:00:08	Makoto	...	00:01:18;
+
+[PlayVoice]=00:00:08	Voice04/04-SB/04-SB-G05/04-SB-G05-0030	1	xxx	00:01:18;
+
+[PlaySe]=00:03:02	1	SysSe/SE_all/h/h_04	00:24:21;
+
+[PlayMovie]=00:03:03	Movie04/04-SB/04-SB-G05/04-SB-G05-002	0	00:10:11;
+
+[BlackFade]=00:03:03	IN	00:03:14;
+
+[PrintText]=00:03:06	Kotonoha	¡Ah... mira...! ¡Sawanaga-san...! ¡No debes...! Haah...	00:10:13;
+
+[PlayVoice]=00:03:06	Voice04/04-SB/04-SB-G05/04-SB-G05-0040	0	kot	00:10:13;
+
+[PrintText]=00:10:10	Taisuke	Vamos, Vamos.	00:12:06;
+
+[PlayVoice]=00:10:10	Voice04/04-SB/04-SB-G05/04-SB-G05-0050	1	tai	00:12:06;
+
+[CreateBG]=00:10:11	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-003	00:15:21;
+
+[PrintText]=00:12:17	Kotonoha	Paremos... haah... ah... vamos... por favor... ahh...	00:21:01;
+
+[PlayVoice]=00:12:17	Voice04/04-SB/04-SB-G05/04-SB-G05-0060	0	kot	00:21:01;
+
+[PlayMovie]=00:15:21	Movie04/04-SB/04-SB-G05/04-SB-G05-004	0	00:21:07;
+
+[CreateBG]=00:21:07	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-006	00:25:15;
+
+[PrintText]=00:22:14	Makoto	¡Esto es...!	00:24:23;
+
+[PlayVoice]=00:22:14	Voice04/04-SB/04-SB-G05/04-SB-G05-0070	1	mak	00:24:23;
+
+[PlayMovie]=00:25:15	Movie04/04-SB/04-SB-G05/04-SB-G05-007	0	00:30:14;
+
+[PrintText]=00:28:19	Makoto	¡Wah! ¿Kuroda?!	00:31:01;
+
+[PlayVoice]=00:28:19	Voice04/04-SB/04-SB-G05/04-SB-G05-0110	1	mak	00:31:01;
+
+[PrintText]=00:28:20	Hikari	¡Wah!	00:29:14;
+
+[PlayVoice]=00:28:20	Voice04/04-SB/04-SB-G05/04-SB-G05-0100	0	hik	00:29:14;
+
+[PrintText]=00:30:11	Hikari	¡Shh!	00:31:06;
+
+[PlayVoice]=00:30:11	Voice04/04-SB/04-SB-G05/04-SB-G05-0120	0	hik	00:31:06;
+
+[CreateBG]=00:30:14	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-007B	00:33:19;
+
+[PrintText]=00:31:12	Kotonoha	¡E-Escuché algo! ¡Sawanaga-san...!	00:35:09;
+
+[PlayVoice]=00:31:12	Voice04/04-SB/04-SB-G05/04-SB-G05-0130	0	kot	00:35:09;
+
+[CreateBG]=00:33:19	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-008	00:35:18;
+
+[CreateBG]=00:35:18	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-009	00:56:16;
+
+[PrintText]=00:35:22	Taisuke	Es solo tu imaginación...	00:37:12;
+
+[PlayVoice]=00:35:22	Voice04/04-SB/04-SB-G05/04-SB-G05-0140	1	tai	00:37:12;
+
+[PrintText]=00:37:07	Kotonoha	¡P-Pero... si alguien viene... no!	00:42:06;
+
+[PlayVoice]=00:37:07	Voice04/04-SB/04-SB-G05/04-SB-G05-0150	0	kot	00:42:06;
+
+[PrintText]=00:42:13	Taisuke	Este es el viejo cuarto de ciencia. Raramente se usa en estos días.	00:48:11;
+
+[PlayVoice]=00:42:13	Voice04/04-SB/04-SB-G05/04-SB-G05-0160	1	tai	00:48:11;
+
+[PrintText]=00:49:21	Taisuke	Por eso es que nadie vendrá a merodear por aquí.	00:53:09;
+
+[PlayVoice]=00:49:21	Voice04/04-SB/04-SB-G05/04-SB-G05-0161	1	tai	00:53:09;
+
+[PrintText]=00:53:11	Kotonoha	¡Pero... nn!	00:56:13;
+
+[PlayVoice]=00:53:11	Voice04/04-SB/04-SB-G05/04-SB-G05-0170	0	kot	00:56:13;
+
+[PlaySe]=00:56:16	1	SysSe/SE_all/h/h_04	01:17:00;
+
+[PlayMovie]=00:56:16	Movie04/04-SB/04-SB-G05/04-SB-G05-010	0	01:17:00;
+
+[PrintText]=00:56:16	Taisuke	No te preocupes, puedes gritar todo lo que quieras.	01:00:05;
+
+[PlayVoice]=00:56:16	Voice04/04-SB/04-SB-G05/04-SB-G05-0180	1	tai	01:00:05;
+
+[PrintText]=01:00:05	Kotonoha	¡Yo... No quie... ahh! ¡Ahhh!	01:05:16;
+
+[PlayVoice]=01:00:05	Voice04/04-SB/04-SB-G05/04-SB-G05-0190	0	kot	01:05:16;
+
+[PrintText]=01:06:00	Taisuke	Y ahora... mwahaha...	01:08:22;
+
+[PlayVoice]=01:06:00	Voice04/04-SB/04-SB-G05/04-SB-G05-0200	1	tai	01:08:22;
+
+[PrintText]=01:08:17	Kotonoha	¡No... haah... haah...!	01:15:14;
+
+[PlayVoice]=01:08:17	Voice04/04-SB/04-SB-G05/04-SB-G05-0210	0	kot	01:15:14;
+
+[PlaySe]=01:17:00	2	SysSe/SE_all/gaya/kyousitu_rouka	02:06:08;
+
+[CreateBG]=01:17:00	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-011	01:28:21;
+
+[PrintText]=01:17:00	Hikari	I-Itou...	01:19:01;
+
+[PlayVoice]=01:17:00	Voice04/04-SB/04-SB-G05/04-SB-G05-0230	0	hik	01:19:01;
+
+[PrintText]=01:19:14	Makoto	Sí.	01:20:07;
+
+[PlayVoice]=01:19:14	Voice04/04-SB/04-SB-G05/04-SB-G05-0240	1	mak	01:20:07;
+
+[PrintText]=01:20:19	Hikari	Quédate así... si haces algún ruido, lo notarán...	01:25:06;
+
+[PlayVoice]=01:20:19	Voice04/04-SB/04-SB-G05/04-SB-G05-0250	0	hik	01:25:06;
+
+[PrintText]=01:25:17	Makoto	Lo sé.	01:26:21;
+
+[PlayVoice]=01:25:17	Voice04/04-SB/04-SB-G05/04-SB-G05-0260	1	mak	01:26:21;
+
+[PrintText]=01:27:21	Hikari	Wah...	01:28:19;
+
+[PlayVoice]=01:27:21	Voice04/04-SB/04-SB-G05/04-SB-G05-0280	0	hik	01:28:19;
+
+[BlackFade]=01:28:12	OUT	01:28:21;
+
+[CreateBG]=01:28:21	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-012	01:30:17;
+
+[PrintText]=01:28:21	Makoto	Quedate así.	01:29:23;
+
+[PlayVoice]=01:28:21	Voice04/04-SB/04-SB-G05/04-SB-G05-0290	1	mak	01:29:23;
+
+[CreateBG]=01:30:17	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-013	01:37:22;
+
+[BlackFade]=01:30:17	IN	01:31:00;
+
+[PrintText]=01:30:21	Hikari	V-Vale...	01:32:11;
+
+[PlayVoice]=01:30:21	Voice04/04-SB/04-SB-G05/04-SB-G05-0300	0	hik	01:32:11;
+
+[PrintText]=01:32:18	Makoto	...	01:34:00;
+
+[PlayVoice]=01:32:18	Voice04/04-SB/04-SB-G05/04-SB-G05-0320	1	xxx	01:34:00;
+
+[PrintText]=01:35:02	Hikari	...	01:36:14;
+
+[PlayVoice]=01:35:02	Voice04/04-SB/04-SB-G05/04-SB-G05-0330	0	xxx	01:36:14;
+
+[CreateBG]=01:37:22	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-014	01:58:01;
+
+[PrintText]=01:38:14	Taisuke	Haah... haah...	01:41:06;
+
+[PlayVoice]=01:38:14	Voice04/04-SB/04-SB-G05/04-SB-G05-0340	1	tai	01:41:06;
+
+[PrintText]=01:41:14	Kotonoha	¡Ahh... nn...! ¡Ah...! ¡Ah...!	01:46:04;
+
+[PlayVoice]=01:41:14	Voice04/04-SB/04-SB-G05/04-SB-G05-0350	0	kot	01:46:04;
+
+[PrintText]=01:46:01	Taisuke	¡Katsura-san...! ¡V-Voy a meterlo!	01:50:02;
+
+[PlayVoice]=01:46:01	Voice04/04-SB/04-SB-G05/04-SB-G05-0360	1	tai	01:50:02;
+
+[PrintText]=01:50:05	Kotonoha	No...	01:51:17;
+
+[PlayVoice]=01:50:05	Voice04/04-SB/04-SB-G05/04-SB-G05-0370	0	kot	01:51:17;
+
+[PrintText]=01:51:10	Taisuke	¡No dolerá, no con lo mojada que estás!	01:55:00;
+
+[PlayVoice]=01:51:10	Voice04/04-SB/04-SB-G05/04-SB-G05-0380	1	tai	01:55:00;
+
+[PrintText]=01:55:02	Kotonoha	No...	01:56:07;
+
+[PlayVoice]=01:55:02	Voice04/04-SB/04-SB-G05/04-SB-G05-0390	0	kot	01:56:07;
+
+[PrintText]=01:56:12	Taisuke	¡Lo estoy metiendo!	01:57:23;
+
+[PlayVoice]=01:56:12	Voice04/04-SB/04-SB-G05/04-SB-G05-0400	1	tai	01:57:23;
+
+[CreateBG]=01:58:01	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-015	02:06:08;
+
+[PrintText]=01:58:01	Kotonoha	¡Noooo... aaaahn!	02:00:21;
+
+[PlayVoice]=01:58:01	Voice04/04-SB/04-SB-G05/04-SB-G05-0410	0	kot	02:00:21;
+
+[PrintText]=02:00:23	Taisuke	Haah...	02:02:03;
+
+[PlayVoice]=02:00:23	Voice04/04-SB/04-SB-G05/04-SB-G05-0420	1	tai	02:02:03;
+
+[PrintText]=02:02:09	Kotonoha	Ahh...	02:04:22;
+
+[PlayVoice]=02:02:09	Voice04/04-SB/04-SB-G05/04-SB-G05-0430	0	kot	02:04:22;
+
+[PrintText]=02:04:23	Taisuke	¡Katsura-san!	02:06:06;
+
+[PlayVoice]=02:04:23	Voice04/04-SB/04-SB-G05/04-SB-G05-0440	1	tai	02:06:06;
+
+[PlaySe]=02:06:08	1	SysSe/SE_all/h/h_05	02:21:10;
+
+[PlayMovie]=02:06:08	Movie04/04-SB/04-SB-G05/04-SB-G05-016	0	02:21:10;
+
+[PrintText]=02:06:08	Kotonoha	¡Haah... ah...! ¡Ah... ahh...!	02:12:06;
+
+[PlayVoice]=02:06:08	Voice04/04-SB/04-SB-G05/04-SB-G05-0460	0	kot	02:12:06;
+
+[MoveSom]=02:06:08	5	02:21:10;
+
+[PrintText]=02:12:17	Taisuke	¡Haah... haah...!	02:14:10;
+
+[PlayVoice]=02:12:17	Voice04/04-SB/04-SB-G05/04-SB-G05-0470	1	tai	02:14:10;
+
+[PrintText]=02:14:12	Kotonoha	¡Ahh... Ah... Ah... Ah... ah...!	02:19:23;
+
+[PlayVoice]=02:14:12	Voice04/04-SB/04-SB-G05/04-SB-G05-0480	0	kot	02:19:23;
+
+[PrintText]=02:20:04	Makoto	...	02:21:05;
+
+[PlayVoice]=02:20:04	Voice04/04-SB/04-SB-G05/04-SB-G05-0490	1	xxx	02:21:05;
+
+[PlaySe]=02:21:10	2	SysSe/SE_all/gaya/kyousitu_rouka	02:34:10;
+
+[CreateBG]=02:21:10	BGS	Event04/04-SB/04-SB-G05/04-SB-G05-017	02:34:10;
+
+[PrintText]=02:23:14	Makoto	Kuroda...	02:24:16;
+
+[PlayVoice]=02:23:14	Voice04/04-SB/04-SB-G05/04-SB-G05-0510	1	mak	02:24:16;
+
+[PrintText]=02:25:00	Hikari	¿Eh?^	02:25:23;
+
+[PlayVoice]=02:25:00	Voice04/04-SB/04-SB-G05/04-SB-G05-0520	0	hik	02:25:23;
+
+[PrintText]=02:26:18	Makoto	Ah, um...	02:28:17;
+
+[PlayVoice]=02:26:18	Voice04/04-SB/04-SB-G05/04-SB-G05-0530	1	mak	02:28:17;
+
+[SetSELECT]=02:28:08	'¿Quieres ver?'	'¿Te gusta Taisuke?'	02:33:08;
+
+ ;
+
+[Next]=02:34:10;
+
+

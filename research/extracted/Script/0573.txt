@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:08:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:08:14;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H07/SE03-KA-H07-001	00:08:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H07/03-KA-H07-001	00:02:01;
+
+[PrintText]=00:00:00	Makoto	...	00:02:00;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H07/03-KA-H07-0030	1	xxx	00:02:00;
+
+[PrintText]=00:02:00	Setsuna	Entonces, es el tipo de relación por la cual dudaría al hablar.	00:04:04;
+
+[PlayVoice]=00:02:00	Voice03/03-KA/03-KA-H07/03-KA-H07-0040	0	set	00:04:04;
+
+[CreateBG]=00:02:01	BGS	Event03/03-KA/03-KA-H07/03-KA-H07-002	00:06:08;
+
+[PrintText]=00:04:04	Makoto	¡Hey!	00:05:02;
+
+[PlayVoice]=00:04:04	Voice03/03-KA/03-KA-H07/03-KA-H07-0050	1	mak	00:05:02;
+
+[PrintText]=00:05:02	Setsuna	Estaba bromeando.	00:06:05;
+
+[PlayVoice]=00:05:02	Voice03/03-KA/03-KA-H07/03-KA-H07-0060	0	set	00:06:05;
+
+[CreateBG]=00:06:08	BGS	Event03/03-KA/03-KA-H07/03-KA-H07-003	00:08:14;
+
+[PrintText]=00:06:11	Makoto	Mmn...	00:07:05;
+
+[PlayVoice]=00:06:11	Voice03/03-KA/03-KA-H07/03-KA-H07-0070	1	mak	00:07:05;
+
+ ;
+
+[Next]=00:08:14;
+
+

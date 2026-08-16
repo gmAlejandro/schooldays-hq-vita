@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:09:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm14	00:09:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N02/04-SA-N02-001	00:05:04;
+
+[PrintText]=00:00:00	Makoto	¿Ese fue el gran plan...? Me ha dejado solo aquí...	00:05:03;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N02/04-SA-N02-0030	1	mak	00:05:03;
+
+[CreateBG]=00:05:04	BGS	Event04/04-SA/04-SA-N02/04-SA-N02-002	00:06:02;
+
+[PrintText]=00:05:04	Taisuke	¿Qué pasó?^	00:06:02;
+
+[PlayVoice]=00:05:04	Voice04/04-SA/04-SA-N02/04-SA-N02-0040	1	tai	00:06:02;
+
+[CreateBG]=00:06:02	BGS	Event04/04-SA/04-SA-N02/04-SA-N02-003	00:09:23;
+
+[PrintText]=00:06:02	Makoto	¡Nada! Vamos.	00:08:20;
+
+[PlayVoice]=00:06:02	Voice04/04-SA/04-SA-N02/04-SA-N02-0050	1	mak	00:08:20;
+
+[PrintText]=00:08:20	Taisuke	Sí.	00:09:13;
+
+[PlayVoice]=00:08:20	Voice04/04-SA/04-SA-N02/04-SA-N02-0060	1	tai	00:09:13;
+
+ ;
+
+[Next]=00:09:23;
+
+

@@ -1,0 +1,163 @@
+﻿[SkipFRAME]=01:51:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	01:51:04;
+
+[PlayMovie]=00:00:00	Movie05/05-5O/05-5O-J03/05-5O-J03-001	0	00:14:10;
+
+[PrintText]=00:00:17	Otome	Itou... ¿Estás libre hoy?^	00:02:21;
+
+[PlayVoice]=00:00:17	Voice05/05-5O/05-5O-J03/05-5O-J03-0030	0	oto	00:02:21;
+
+[PrintText]=00:03:08	Makoto	No lo sé...	00:04:14;
+
+[PlayVoice]=00:03:08	Voice05/05-5O/05-5O-J03/05-5O-J03-0040	1	mak	00:04:14;
+
+[PrintText]=00:04:23	Otome	Bueno, Yo sí... hoy no hay nada en el club.	00:09:03;
+
+[PlayVoice]=00:04:23	Voice05/05-5O/05-5O-J03/05-5O-J03-0050	0	oto	00:09:03;
+
+[PrintText]=00:09:15	Makoto	Ya veo.	00:10:06;
+
+[PlayVoice]=00:09:15	Voice05/05-5O/05-5O-J03/05-5O-J03-0060	1	mak	00:10:06;
+
+[PrintText]=00:10:15	Otome	¿Te importa darme una respuesta..?^	00:14:05;
+
+[PlayVoice]=00:10:15	Voice05/05-5O/05-5O-J03/05-5O-J03-0070	0	oto	00:14:05;
+
+[CreateBG]=00:14:10	BGS	Event05/05-5O/05-5O-J03/05-5O-J03-003	00:16:23;
+
+[PrintText]=00:15:05	Makoto	¿Eh?^	00:15:18;
+
+[PlayVoice]=00:15:05	Voice05/05-5O/05-5O-J03/05-5O-J03-0080	1	mak	00:15:18;
+
+[PlayMovie]=00:16:23	Movie05/05-5O/05-5O-J03/05-5O-J03-004	0	00:27:08;
+
+[PrintText]=00:17:02	Otome	Siempre desde la primaria... he sentido que no me ves como una chica.	00:24:01;
+
+[PlayVoice]=00:17:02	Voice05/05-5O/05-5O-J03/05-5O-J03-0090	0	oto	00:24:01;
+
+[PrintText]=00:24:12	Makoto	Eso es...	00:25:18;
+
+[PlayVoice]=00:24:12	Voice05/05-5O/05-5O-J03/05-5O-J03-0100	1	mak	00:25:18;
+
+[PrintText]=00:25:15	Otome	Soy una chica.	00:27:01;
+
+[PlayVoice]=00:25:15	Voice05/05-5O/05-5O-J03/05-5O-J03-0110	0	oto	00:27:01;
+
+[CreateBG]=00:27:08	BGS	Event05/05-5O/05-5O-J03/05-5O-J03-005	00:33:15;
+
+[PrintText]=00:27:08	Makoto	Ah... Sí.	00:29:16;
+
+[PlayVoice]=00:27:08	Voice05/05-5O/05-5O-J03/05-5O-J03-0120	1	mak	00:29:16;
+
+[PrintText]=00:29:17	Otome	Quiero que entiendas eso, así que...	00:32:22;
+
+[PlayVoice]=00:29:17	Voice05/05-5O/05-5O-J03/05-5O-J03-0130	0	oto	00:32:22;
+
+[PrintText]=00:33:01	Makoto	...	00:33:14;
+
+[PlayVoice]=00:33:01	Voice05/05-5O/05-5O-J03/05-5O-J03-0140	1	xxx	00:33:14;
+
+[CreateBG]=00:33:15	BGS	Event05/05-5O/05-5O-J03/05-5O-J03-006	00:37:05;
+
+[PrintText]=00:33:22	Otome	¿Te importa darme una respuesta?^	00:36:23;
+
+[PlayVoice]=00:33:22	Voice05/05-5O/05-5O-J03/05-5O-J03-0150	0	oto	00:36:23;
+
+[CreateBG]=00:37:05	BGS	Event05/05-5O/05-5O-J03/05-5O-J03-007	00:38:03;
+
+[PrintText]=00:37:05	Makoto	¿Hoy?^	00:37:23;
+
+[PlayVoice]=00:37:05	Voice05/05-5O/05-5O-J03/05-5O-J03-0160	1	mak	00:37:23;
+
+[PlayMovie]=00:38:03	Movie05/05-5O/05-5O-J03/05-5O-J03-008	0	00:47:15;
+
+[PrintText]=00:38:07	Otome	Estaré ocupada después de las practicas hoy... y pronto parece que tendrás que tomar una decisión.	00:47:08;
+
+[PlayVoice]=00:38:07	Voice05/05-5O/05-5O-J03/05-5O-J03-0170	0	oto	00:47:08;
+
+[PlayMovie]=00:47:15	Movie05/05-5O/05-5O-J03/05-5O-J03-009	0	00:52:01;
+
+[PrintText]=00:47:19	Makoto	¿Decisión?^	00:48:19;
+
+[PlayVoice]=00:47:19	Voice05/05-5O/05-5O-J03/05-5O-J03-0180	1	mak	00:48:19;
+
+[PrintText]=00:48:22	Otome	Entre Saionji-san y Katsura.	00:51:18;
+
+[PlayVoice]=00:48:22	Voice05/05-5O/05-5O-J03/05-5O-J03-0190	0	oto	00:51:18;
+
+[CreateBG]=00:52:01	BGS	Event05/05-5O/05-5O-J03/05-5O-J03-010	01:11:07;
+
+[PrintText]=00:52:02	Makoto	...	00:53:01;
+
+[PlayVoice]=00:52:02	Voice05/05-5O/05-5O-J03/05-5O-J03-0200	1	xxx	00:53:01;
+
+[PrintText]=00:53:10	Otome	Tal vez estás pensando 'Espera' o 'Quiero tiempo para pensarlo' pero...	01:01:01;
+
+[PlayVoice]=00:53:10	Voice05/05-5O/05-5O-J03/05-5O-J03-0210	0	oto	01:01:01;
+
+[PrintText]=01:01:05	Makoto	Sí.	01:02:01;
+
+[PlayVoice]=01:01:05	Voice05/05-5O/05-5O-J03/05-5O-J03-0220	1	mak	01:02:01;
+
+[PrintText]=01:01:20	Otome	Ellas, y probablemente yo también... no creo que podamos esperar.	01:09:18;
+
+[PlayVoice]=01:01:20	Voice05/05-5O/05-5O-J03/05-5O-J03-0230	0	oto	01:09:18;
+
+[PrintText]=01:09:19	Makoto	Ya veo.	01:11:06;
+
+[PlayVoice]=01:09:19	Voice05/05-5O/05-5O-J03/05-5O-J03-0240	1	mak	01:11:06;
+
+[PlayMovie]=01:11:07	Movie05/05-5O/05-5O-J03/05-5O-J03-011	0	01:17:19;
+
+[PrintText]=01:11:07	Otome	No creo que podamos esperar así.	01:17:17;
+
+[PlayVoice]=01:11:07	Voice05/05-5O/05-5O-J03/05-5O-J03-0250	0	oto	01:17:17;
+
+[PlayMovie]=01:17:19	Movie05/05-5O/05-5O-J03/05-5O-J03-009	0	01:19:00;
+
+[PrintText]=01:17:20	Makoto	Ya veo.	01:18:20;
+
+[PlayVoice]=01:17:20	Voice05/05-5O/05-5O-J03/05-5O-J03-0260	1	mak	01:18:20;
+
+[PlayMovie]=01:19:00	Movie05/05-5O/05-5O-J03/05-5O-J03-013	0	01:40:20;
+
+[PrintText]=01:19:06	Otome	Estaré esperándote junto a la playa, cerca de tu casa... en el lugar donde siempre solíamos estar en la primaria.	01:27:12;
+
+[PlayVoice]=01:19:06	Voice05/05-5O/05-5O-J03/05-5O-J03-0270	0	oto	01:27:12;
+
+[PrintText]=01:28:00	Makoto	...	01:29:00;
+
+[PlayVoice]=01:28:00	Voice05/05-5O/05-5O-J03/05-5O-J03-0280	1	xxx	01:29:00;
+
+[PrintText]=01:29:06	Otome	Si crees que después de todo sientes algo por mi... y decides elegirme... entonces te veo ahí.	01:40:14;
+
+[PlayVoice]=01:29:06	Voice05/05-5O/05-5O-J03/05-5O-J03-0290	0	oto	01:40:14;
+
+[CreateBG]=01:40:20	BGS	Event05/05-5O/05-5O-J03/05-5O-J03-014	01:46:21;
+
+[PrintText]=01:40:23	Makoto	...	01:41:21;
+
+[PlayVoice]=01:40:23	Voice05/05-5O/05-5O-J03/05-5O-J03-0300	1	xxx	01:41:21;
+
+[PrintText]=01:42:05	Otome	Si no, me rendiré.	01:44:14;
+
+[PlayVoice]=01:42:05	Voice05/05-5O/05-5O-J03/05-5O-J03-0310	0	oto	01:44:14;
+
+[PrintText]=01:45:00	Makoto	...	01:46:04;
+
+[PlayVoice]=01:45:00	Voice05/05-5O/05-5O-J03/05-5O-J03-0320	1	xxx	01:46:04;
+
+[PlayMovie]=01:46:21	Movie05/05-5O/05-5O-J03/05-5O-J03-009	0	01:51:04;
+
+[PrintText]=01:47:02	Otome	Estaré esperando.	01:50:09;
+
+[PlayVoice]=01:47:02	Voice05/05-5O/05-5O-J03/05-5O-J03-0330	0	oto	01:50:09;
+
+[BlackFade]=01:50:04	OUT	01:51:04;
+
+ ;
+
+[Next]=01:51:04;
+
+

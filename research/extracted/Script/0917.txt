@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:54:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:54:13;
+
+[CreateBG]=00:00:00	BGS	Ini/FIX/04-KA-C01-001	00:01:13;
+
+[PrintText]=00:00:00	Kotonoha	Wow...	00:01:12;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-C01/04-KA-C01-0030	0	kot	00:01:12;
+
+[PrintText]=00:01:12	Makoto	¿Qué pasa?^	00:02:15;
+
+[PlayVoice]=00:01:12	Voice04/04-KA/04-KA-C01/04-KA-C01-0040	1	mak	00:02:15;
+
+[CreateBG]=00:01:13	BGS	Event04/04-KA/04-KA-C01/04-KA-C01-002	00:20:05;
+
+[PrintText]=00:02:15	Kotonoha	Esto es tan emocionante.	00:04:01;
+
+[PlayVoice]=00:02:15	Voice04/04-KA/04-KA-C01/04-KA-C01-0050	0	kot	00:04:01;
+
+[PrintText]=00:04:01	Makoto	¿Emocionante?^	00:04:20;
+
+[PlayVoice]=00:04:01	Voice04/04-KA/04-KA-C01/04-KA-C01-0060	1	mak	00:04:20;
+
+[PrintText]=00:04:19	Kotonoha	Estar en tu casa.	00:07:08;
+
+[PlayVoice]=00:04:19	Voice04/04-KA/04-KA-C01/04-KA-C01-0070	0	kot	00:07:08;
+
+[PrintText]=00:07:04	Makoto	Ya veo...	00:08:00;
+
+[PlayVoice]=00:07:04	Voice04/04-KA/04-KA-C01/04-KA-C01-0080	1	mak	00:08:00;
+
+[PrintText]=00:08:10	Kotonoha	Y cuando pienso en como vamos... a hacerlo en tu cuarto, a pesar de que esta es mi primera vez aquí...um...	00:19:04;
+
+[PlayVoice]=00:08:10	Voice04/04-KA/04-KA-C01/04-KA-C01-0090	0	kot	00:19:04;
+
+[PrintText]=00:19:06	Makoto	Uh-huh.	00:19:23;
+
+[PlayVoice]=00:19:06	Voice04/04-KA/04-KA-C01/04-KA-C01-0100	1	mak	00:19:23;
+
+[CreateBG]=00:20:05	BGS	Event04/04-KA/04-KA-C01/04-KA-C01-002B	00:35:02;
+
+[PrintText]=00:20:07	Kotonoha	Me excita.	00:23:15;
+
+[PlayVoice]=00:20:07	Voice04/04-KA/04-KA-C01/04-KA-C01-0110	0	kot	00:23:15;
+
+[PrintText]=00:23:14	Makoto	Ah...	00:25:11;
+
+[PlayVoice]=00:23:14	Voice04/04-KA/04-KA-C01/04-KA-C01-0130	1	mak	00:25:11;
+
+[PrintText]=00:25:11	Kotonoha	Nunca hubiera pensado en algo así hasta ayer ...	00:31:18;
+
+[PlayVoice]=00:25:11	Voice04/04-KA/04-KA-C01/04-KA-C01-0150	0	kot	00:31:18;
+
+[PrintText]=00:31:18	Makoto	Sí...	00:32:22;
+
+[PlayVoice]=00:31:18	Voice04/04-KA/04-KA-C01/04-KA-C01-0160	1	mak	00:32:22;
+
+[PrintText]=00:32:22	Kotonoha	Pero cuando dormiste conmigo... mis sentimientos cambiaron completamente... 	00:40:03;
+
+[PlayVoice]=00:32:22	Voice04/04-KA/04-KA-C01/04-KA-C01-0170	0	kot	00:40:03;
+
+[CreateBG]=00:35:02	BGS	Event04/04-KA/04-KA-C01/04-KA-C01-002C	00:54:13;
+
+[PrintText]=00:40:03	Makoto	¿Cambiaron?^	00:41:01;
+
+[PlayVoice]=00:40:03	Voice04/04-KA/04-KA-C01/04-KA-C01-0180	1	mak	00:41:01;
+
+[PrintText]=00:41:01	Kotonoha	...Porque se sintió muy bien.	00:44:11;
+
+[PlayVoice]=00:41:01	Voice04/04-KA/04-KA-C01/04-KA-C01-0190	0	kot	00:44:11;
+
+[PrintText]=00:44:11	Makoto	Ah...	00:46:04;
+
+[PlayVoice]=00:44:11	Voice04/04-KA/04-KA-C01/04-KA-C01-0200	1	mak	00:46:04;
+
+[PrintText]=00:46:04	Kotonoha	Por eso es que... siento que quiero hacerlo de nuevo.	00:50:16;
+
+[PlayVoice]=00:46:04	Voice04/04-KA/04-KA-C01/04-KA-C01-0210	0	kot	00:50:16;
+
+[PrintText]=00:50:16	Makoto	...	00:52:04;
+
+[PlayVoice]=00:50:16	Voice04/04-KA/04-KA-C01/04-KA-C01-0220	1	xxx	00:52:04;
+
+[PrintText]=00:52:04	Kotonoha	¿Está mal?^	00:53:13;
+
+[PlayVoice]=00:52:04	Voice04/04-KA/04-KA-C01/04-KA-C01-0230	0	kot	00:53:13;
+
+[PrintText]=00:53:13	Makoto	No...	00:54:07;
+
+[PlayVoice]=00:53:13	Voice04/04-KA/04-KA-C01/04-KA-C01-0240	1	mak	00:54:07;
+
+ ;
+
+[Next]=00:54:13;
+
+

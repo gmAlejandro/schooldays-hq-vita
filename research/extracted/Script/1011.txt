@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:15:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:15:19;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/aqua_square	00:15:19;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-B07/04-KC-B07-001	00:01:05;
+
+[PrintText]=00:00:00	Makoto	...	00:00:22;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-B07/04-KC-B07-0030	1	xxx	00:00:22;
+
+[CreateBG]=00:01:05	BGS	Event04/04-KC/04-KC-B07/04-KC-B07-002	00:10:19;
+
+[PrintText]=00:01:08	Makoto	Sus pechos son tan grandes y suaves, y están justo en frente de mí... pero...	00:07:13;
+
+[PlayVoice]=00:01:08	Voice04/04-KC/04-KC-B07/04-KC-B07-0040	1	xxx	00:07:13;
+
+[PrintText]=00:07:23	Makoto	Un poco no haría...	00:09:01;
+
+[PlayVoice]=00:07:23	Voice04/04-KC/04-KC-B07/04-KC-B07-0050	1	xxx	00:09:01;
+
+[PrintText]=00:09:13	Kotonoha	¿...Makoto-kun?^	00:10:18;
+
+[PlayVoice]=00:09:13	Voice04/04-KC/04-KC-B07/04-KC-B07-0060	0	kot	00:10:18;
+
+[PlayMovie]=00:10:19	Movie04/04-KC/04-KC-B06/04-KC-B06-003	0	00:15:19;
+
+[PlaySe]=00:14:11	1	SysSe/SE_all/h/nuno2	00:15:13;
+
+[PrintText]=00:14:21	Kotonoha	¡¿Eh?!	00:15:15;
+
+[PlayVoice]=00:14:21	Voice04/04-KC/04-KC-B07/04-KC-B07-0080	0	kot	00:15:15;
+
+ ;
+
+[Next]=00:15:19;
+
+

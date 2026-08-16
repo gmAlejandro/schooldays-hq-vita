@@ -1,0 +1,141 @@
+﻿[SkipFRAME]=01:28:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	01:22:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-B03/05-KF-B03-001	00:15:05;
+
+[PrintText]=00:00:00	Makoto	No.	00:01:17;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-B03/05-KF-B03-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:03	Taisuke	Ya veo... así que tampoco sabes.	00:04:21;
+
+[PlayVoice]=00:01:03	Voice05/05-KF/05-KF-B03/05-KF-B03-0040	1	tai	00:04:21;
+
+[PrintText]=00:04:13	Makoto	...	00:07:07;
+
+[PlayVoice]=00:04:13	Voice05/05-KF/05-KF-B03/05-KF-B03-0050	1	xxx	00:07:07;
+
+[PrintText]=00:06:10	Taisuke	Así parece. Si yo que era su novio no lo sabía. Perdón por preguntarte ese tipo de cosas.	00:13:17;
+
+[PlayVoice]=00:06:10	Voice05/05-KF/05-KF-B03/05-KF-B03-0060	1	tai	00:13:17;
+
+[PrintText]=00:13:12	Makoto	No hay problema.	00:15:01;
+
+[PlayVoice]=00:13:12	Voice05/05-KF/05-KF-B03/05-KF-B03-0070	1	mak	00:15:01;
+
+[CreateBG]=00:15:05	BGS	Event05/05-KF/05-KF-B03/05-KF-B03-002	00:29:13;
+
+[PrintText]=00:15:05	Taisuke	Como sea. Estoy sorprendido.	00:17:09;
+
+[PlayVoice]=00:15:05	Voice05/05-KF/05-KF-B03/05-KF-B03-0080	1	tai	00:17:09;
+
+[PrintText]=00:16:18	Makoto	Lo apuesto.	00:19:10;
+
+[PlayVoice]=00:16:18	Voice05/05-KF/05-KF-B03/05-KF-B03-0090	1	mak	00:19:10;
+
+[PrintText]=00:18:21	Taisuke	Quiero tener mi mente despejada. Me tomaré el día libre mañana.	00:23:06;
+
+[PlayVoice]=00:18:21	Voice05/05-KF/05-KF-B03/05-KF-B03-0100	1	tai	00:23:06;
+
+[PrintText]=00:22:23	Makoto	Te haré una copia de mis apuntes por 200 yenes cada página.	00:27:13;
+
+[PlayVoice]=00:22:23	Voice05/05-KF/05-KF-B03/05-KF-B03-0110	1	mak	00:27:13;
+
+[PrintText]=00:26:22	Taisuke	Keh... ¿Me cobrarás en un momento como este?^	00:29:09;
+
+[PlayVoice]=00:26:22	Voice05/05-KF/05-KF-B03/05-KF-B03-0120	1	tai	00:29:09;
+
+[PrintText]=00:28:21	Makoto	Vale, bien. Aplazaré la cuenta de mañana... pero será mejor que me pagues al día siguiente.	00:36:21;
+
+[PlayVoice]=00:28:21	Voice05/05-KF/05-KF-B03/05-KF-B03-0130	1	mak	00:36:21;
+
+[CreateBG]=00:29:13	BGS	Event00/00-00/00-00-H00/00-00-H00-002	00:50:17;
+
+[PrintText]=00:36:23	Taisuke	...¿Un día después, huh?^	00:38:09;
+
+[PlayVoice]=00:36:23	Voice05/05-KF/05-KF-B03/05-KF-B03-0140	1	tai	00:38:09;
+
+[PrintText]=00:37:22	Makoto	Pero así serán 300 yenes por página.	00:41:03;
+
+[PlayVoice]=00:37:22	Voice05/05-KF/05-KF-B03/05-KF-B03-0150	1	mak	00:41:03;
+
+[PrintText]=00:41:05	Taisuke	Eso va de subida...	00:42:19;
+
+[PlayVoice]=00:41:05	Voice05/05-KF/05-KF-B03/05-KF-B03-0160	1	tai	00:42:19;
+
+[PrintText]=00:42:06	Makoto	Si tienes algún problema, dilo.	00:45:18;
+
+[PlayVoice]=00:42:06	Voice05/05-KF/05-KF-B03/05-KF-B03-0170	1	mak	00:45:18;
+
+[PrintText]=00:45:17	Taisuke	Haha... que rudo.	00:48:03;
+
+[PlayVoice]=00:45:17	Voice05/05-KF/05-KF-B03/05-KF-B03-0180	1	tai	00:48:03;
+
+[PrintText]=00:48:03	Makoto	...	00:51:03;
+
+[PlayVoice]=00:48:03	Voice05/05-KF/05-KF-B03/05-KF-B03-0190	1	xxx	00:51:03;
+
+[PrintText]=00:50:16	Taisuke	...gracias, Makoto.	00:52:13;
+
+[PlayVoice]=00:50:16	Voice05/05-KF/05-KF-B03/05-KF-B03-0200	1	tai	00:52:13;
+
+[CreateBG]=00:50:17	BGS	Event05/05-KF/05-KF-B03/05-KF-B03-004	01:11:02;
+
+[PrintText]=00:52:13	Makoto	Olvida eso.	00:53:15;
+
+[PlayVoice]=00:52:13	Voice05/05-KF/05-KF-B03/05-KF-B03-0210	1	mak	00:53:15;
+
+[PrintText]=00:54:02	Taisuke	Estoy feliz de que seas mi amigo.	00:57:07;
+
+[PlayVoice]=00:54:02	Voice05/05-KF/05-KF-B03/05-KF-B03-0220	1	tai	00:57:07;
+
+[PrintText]=00:56:22	Makoto	...	00:59:22;
+
+[PlayVoice]=00:56:22	Voice05/05-KF/05-KF-B03/05-KF-B03-0230	1	xxx	00:59:22;
+
+[PrintText]=00:59:07	Taisuke	Me siento mejor sabiendo que tengo a alguien en quien puedo confiar.	01:07:14;
+
+[PlayVoice]=00:59:07	Voice05/05-KF/05-KF-B03/05-KF-B03-0240	1	tai	01:07:14;
+
+[PrintText]=01:07:13	Makoto	Cierto.	01:08:21;
+
+[PlayVoice]=01:07:13	Voice05/05-KF/05-KF-B03/05-KF-B03-0250	1	mak	01:08:21;
+
+[PrintText]=01:09:02	Taisuke	Bueno, me tomaré el día libre mañana entonces.	01:10:21;
+
+[PlayVoice]=01:09:02	Voice05/05-KF/05-KF-B03/05-KF-B03-0260	1	tai	01:10:21;
+
+[PrintText]=01:10:21	Makoto	Sí.	01:11:14;
+
+[PlayVoice]=01:10:21	Voice05/05-KF/05-KF-B03/05-KF-B03-0270	1	mak	01:11:14;
+
+[CreateBG]=01:11:02	BGS	Event00/00-00/00-00-H00/00-00-H00-002	01:28:00;
+
+[PrintText]=01:12:00	Taisuke	Nos vemos.	01:12:15;
+
+[PlayVoice]=01:12:00	Voice05/05-KF/05-KF-B03/05-KF-B03-0280	1	tai	01:12:15;
+
+[PlaySe]=01:13:03	1	SysSe/SE_all/keitai/hanasityuu	01:21:02;
+
+[PrintText]=01:13:11	Makoto	...	01:15:11;
+
+[PlayVoice]=01:13:11	Voice05/05-KF/05-KF-B03/05-KF-B03-0300	1	xxx	01:15:11;
+
+[PrintText]=01:16:22	Makoto	Perdóname Taisuke.	01:20:15;
+
+[PlayVoice]=01:16:22	Voice05/05-KF/05-KF-B03/05-KF-B03-0310	1	mak	01:20:15;
+
+[PrintText]=01:22:00	Makoto	Soy un bastardo mentiroso.	01:26:16;
+
+[PlayVoice]=01:22:00	Voice05/05-KF/05-KF-B03/05-KF-B03-0320	1	mak	01:26:16;
+
+[BlackFade]=01:27:00	OUT	01:28:00;
+
+ ;
+
+[Next]=01:28:00;
+
+
+
+

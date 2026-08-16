@@ -1,0 +1,211 @@
+﻿[SkipFRAME]=02:41:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	02:41:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-001	00:05:00;
+
+[PrintText]=00:00:23	Kotonoha	Es la primera vez que tomamos este camino ¿No?^	00:05:00;
+
+[PlayVoice]=00:00:23	Voice05/05-SC/05-SC-E00/05-SC-E00-0050	0	kot	00:05:00;
+
+[PrintText]=00:04:23	Makoto	Sí, vives en un extremo inferior al mio.	00:09:00;
+
+[PlayVoice]=00:04:23	Voice05/05-SC/05-SC-E00/05-SC-E00-0060	1	mak	00:09:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-002	00:36:00;
+
+[PrintText]=00:08:22	Kotonoha	...Tal vez nos vimos alguna vez antes.	00:14:21;
+
+[PlayVoice]=00:08:22	Voice05/05-SC/05-SC-E00/05-SC-E00-0070	0	kot	00:14:21;
+
+[PrintText]=00:15:02	Makoto	Sí.	00:15:13;
+
+[PlayVoice]=00:15:02	Voice05/05-SC/05-SC-E00/05-SC-E00-0080	1	mak	00:15:13;
+
+[PrintText]=00:15:14	Kotonoha	Por supuesto, he pasado más tiempo en mis practicas en la primaria, así que no he tenido mucho tiempo para salir.	00:23:19;
+
+[PlayVoice]=00:15:14	Voice05/05-SC/05-SC-E00/05-SC-E00-0090	0	kot	00:23:19;
+
+[PrintText]=00:23:20	Makoto	¿Practicas? ¿Qué tipo de practicas?^	00:26:09;
+
+[PlayVoice]=00:23:20	Voice05/05-SC/05-SC-E00/05-SC-E00-0100	1	mak	00:26:09;
+
+[PrintText]=00:26:12	Kotonoha	Piano, ballet, danza, caligrafía... esas cosas.	00:34:13;
+
+[PlayVoice]=00:26:12	Voice05/05-SC/05-SC-E00/05-SC-E00-0110	0	kot	00:34:13;
+
+[PrintText]=00:34:17	Makoto	¿Pero ya no lo practicas?^	00:36:00;
+
+[PlayVoice]=00:34:17	Voice05/05-SC/05-SC-E00/05-SC-E00-0120	1	mak	00:36:00;
+
+[CreateBG]=00:36:00	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-003	00:52:13;
+
+[PrintText]=00:36:00	Kotonoha	Sí, pienso dejarlo cuando me gradué.	00:41:07;
+
+[PlayVoice]=00:36:00	Voice05/05-SC/05-SC-E00/05-SC-E00-0150	0	kot	00:41:07;
+
+[PrintText]=00:41:07	Makoto	¿Por qué?^	00:42:05;
+
+[PlayVoice]=00:41:07	Voice05/05-SC/05-SC-E00/05-SC-E00-0160	1	mak	00:42:05;
+
+[PrintText]=00:42:06	Kotonoha	Mi mamá me dijo que lo mantendría después de ello, pero le hice hacer una promesa para no hacerlo si voy a una academia.	00:52:13;
+
+[PlayVoice]=00:42:06	Voice05/05-SC/05-SC-E00/05-SC-E00-0170	0	kot	00:52:13;
+
+[PrintText]=00:52:12	Makoto	Y lo que has hecho... sería una perdida de tiempo.	00:56:22;
+
+[PlayVoice]=00:52:12	Voice05/05-SC/05-SC-E00/05-SC-E00-0180	1	mak	00:56:22;
+
+[CreateBG]=00:52:13	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-004	00:59:09;
+
+[PrintText]=00:56:22	Kotonoha	No es verdad.	00:58:12;
+
+[PlayVoice]=00:56:22	Voice05/05-SC/05-SC-E00/05-SC-E00-0190	0	kot	00:58:12;
+
+[PrintText]=00:58:12	Makoto	¿A sí?^	00:59:08;
+
+[PlayVoice]=00:58:12	Voice05/05-SC/05-SC-E00/05-SC-E00-0200	1	mak	00:59:08;
+
+[CreateBG]=00:59:09	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-005	01:29:18;
+
+[PrintText]=00:59:09	Kotonoha	Porque... tuve la suerte de conocerte.	01:04:00;
+
+[PlayVoice]=00:59:09	Voice05/05-SC/05-SC-E00/05-SC-E00-0210	0	kot	01:04:00;
+
+[PrintText]=01:04:00	Makoto	¿Eh...?^	01:05:14;
+
+[PlayVoice]=01:04:00	Voice05/05-SC/05-SC-E00/05-SC-E00-0220	1	mak	01:05:14;
+
+[PrintText]=01:05:15	Kotonoha	Incluso cuando entre, no pensaba en nada más que las practicas...	01:10:14;
+
+[PlayVoice]=01:05:15	Voice05/05-SC/05-SC-E00/05-SC-E00-0230	0	kot	01:10:14;
+
+[PrintText]=01:10:14	Kotonoha	y cuando algunos amigos me invitaban, yo era... muy poco sociable.	01:16:14;
+
+[PlayVoice]=01:10:14	Voice05/05-SC/05-SC-E00/05-SC-E00-0231	0	kot	01:16:14;
+
+[PrintText]=01:16:13	Makoto	En serio...	01:18:07;
+
+[PlayVoice]=01:16:13	Voice05/05-SC/05-SC-E00/05-SC-E00-0240	1	mak	01:18:07;
+
+[PrintText]=01:18:07	Kotonoha	Así que cuando Saionji-san me invitó, creí que no lo aceptaría. Pero después de pensarlo, estoy feliz de haberlo hecho.	01:29:18;
+
+[PlayVoice]=01:18:07	Voice05/05-SC/05-SC-E00/05-SC-E00-0250	0	kot	01:29:18;
+
+[CreateBG]=01:29:18	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-006	01:37:15;
+
+[PrintText]=01:29:18	Makoto	Ya veo...	01:30:15;
+
+[PlayVoice]=01:29:18	Voice05/05-SC/05-SC-E00/05-SC-E00-0260	1	mak	01:30:15;
+
+[PrintText]=01:30:16	Kotonoha	Sí.	01:31:12;
+
+[PlayVoice]=01:30:16	Voice05/05-SC/05-SC-E00/05-SC-E00-0270	0	kot	01:31:12;
+
+[PrintText]=01:31:11	Makoto	Perdóname.	01:35:09;
+
+[PlayVoice]=01:31:11	Voice05/05-SC/05-SC-E00/05-SC-E00-0280	1	mak	01:35:09;
+
+[PrintText]=01:35:10	Kotonoha	¿Eh?^	01:36:07;
+
+[PlayVoice]=01:35:10	Voice05/05-SC/05-SC-E00/05-SC-E00-0290	0	kot	01:36:07;
+
+[PrintText]=01:36:06	Makoto	Por cómo las cosas terminaron.	01:37:17;
+
+[PlayVoice]=01:36:06	Voice05/05-SC/05-SC-E00/05-SC-E00-0300	1	mak	01:37:17;
+
+[CreateBG]=01:37:15	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-007	01:40:03;
+
+[PrintText]=01:37:17	Kotonoha	¿Terminaron...? No creo que a terminado.	01:43:18;
+
+[PlayVoice]=01:37:17	Voice05/05-SC/05-SC-E00/05-SC-E00-0310	0	kot	01:43:18;
+
+[CreateBG]=01:40:03	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-006	01:50:09;
+
+[PrintText]=01:43:17	Makoto	Es así.	01:44:20;
+
+[PlayVoice]=01:43:17	Voice05/05-SC/05-SC-E00/05-SC-E00-0320	1	mak	01:44:20;
+
+[PrintText]=01:44:21	Kotonoha	No, no es así. Solo tuvimos una discusión ¿No?... estaba feliz... de hacer las pases contigo.	01:56:07;
+
+[PlayVoice]=01:44:21	Voice05/05-SC/05-SC-E00/05-SC-E00-0330	0	kot	01:56:07;
+
+[CreateBG]=01:50:09	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-007B	01:57:19;
+
+[PrintText]=01:56:07	Makoto	...	01:57:12;
+
+[PlayVoice]=01:56:07	Voice05/05-SC/05-SC-E00/05-SC-E00-0340	1	xxx	01:57:12;
+
+[PrintText]=01:57:12	Kotonoha	No tiene que ser de esta manera. Incluso si es poco a poco...	02:02:10;
+
+[PlayVoice]=01:57:12	Voice05/05-SC/05-SC-E00/05-SC-E00-0350	0	kot	02:02:10;
+
+[CreateBG]=01:57:19	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-008	02:20:08;
+
+[PrintText]=02:02:09	Makoto	...	02:04:00;
+
+[PlayVoice]=02:02:09	Voice05/05-SC/05-SC-E00/05-SC-E00-0360	1	xxx	02:04:00;
+
+[PrintText]=02:04:00	Kotonoha	No me importa si empezamos nuevamente como amigos... y me des otra oportunidad...	02:10:22;
+
+[PlayVoice]=02:04:00	Voice05/05-SC/05-SC-E00/05-SC-E00-0370	0	kot	02:10:22;
+
+[PrintText]=02:10:21	Makoto	...	02:11:13;
+
+[PlayVoice]=02:10:21	Voice05/05-SC/05-SC-E00/05-SC-E00-0380	1	xxx	02:11:13;
+
+[PrintText]=02:11:13	Kotonoha	Si no me odias, entonces... aún así seamos solo conocidos...	02:19:11;
+
+[PlayVoice]=02:11:13	Voice05/05-SC/05-SC-E00/05-SC-E00-0390	0	kot	02:19:11;
+
+[PrintText]=02:19:10	Makoto	...Vale.	02:20:12;
+
+[PlayVoice]=02:19:10	Voice05/05-SC/05-SC-E00/05-SC-E00-0400	1	mak	02:20:12;
+
+[CreateBG]=02:20:08	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-009	02:23:23;
+
+[PrintText]=02:20:12	Kotonoha	¿Eh?!	02:21:07;
+
+[PlayVoice]=02:20:12	Voice05/05-SC/05-SC-E00/05-SC-E00-0410	0	kot	02:21:07;
+
+[PrintText]=02:21:06	Makoto	No te odio.	02:22:07;
+
+[PlayVoice]=02:21:06	Voice05/05-SC/05-SC-E00/05-SC-E00-0420	1	mak	02:22:07;
+
+[PrintText]=02:22:08	Kotonoha	Makoto-kun.	02:23:23;
+
+[PlayVoice]=02:22:08	Voice05/05-SC/05-SC-E00/05-SC-E00-0430	0	kot	02:23:23;
+
+[PrintText]=02:23:22	Makoto	Nunca lo he hecho... Yo era el que solía enfadarse diciéndote cosas horribles...	02:31:02;
+
+[PlayVoice]=02:23:22	Voice05/05-SC/05-SC-E00/05-SC-E00-0440	1	mak	02:31:02;
+
+[CreateBG]=02:23:23	BGS	Event05/05-SC/05-SC-E00/05-SC-E00-010	02:41:08;
+
+[PrintText]=02:31:04	Kotonoha	¡T-Todo está bien!	02:32:11;
+
+[PlayVoice]=02:31:04	Voice05/05-SC/05-SC-E00/05-SC-E00-0450	0	kot	02:32:11;
+
+[PrintText]=02:32:10	Makoto	Amigos ¿huh?^	02:34:19;
+
+[PlayVoice]=02:32:10	Voice05/05-SC/05-SC-E00/05-SC-E00-0460	1	mak	02:34:19;
+
+[PrintText]=02:34:20	Kotonoha	Sí...	02:35:15;
+
+[PlayVoice]=02:34:20	Voice05/05-SC/05-SC-E00/05-SC-E00-0470	0	kot	02:35:15;
+
+[PrintText]=02:35:15	Makoto	¿Debemos empezar de nuevo y darnos otra oportunidad?^	02:40:14;
+
+[PlayVoice]=02:35:15	Voice05/05-SC/05-SC-E00/05-SC-E00-0480	1	mak	02:40:14;
+
+[PrintText]=02:40:15	Kotonoha	¡Sí!	02:41:06;
+
+[PlayVoice]=02:40:15	Voice05/05-SC/05-SC-E00/05-SC-E00-0490	0	kot	02:41:06;
+
+ ;
+
+[Next]=02:41:08;
+
+
+
+

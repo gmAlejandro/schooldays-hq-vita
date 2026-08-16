@@ -1,0 +1,125 @@
+﻿[SkipFRAME]=02:13:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/station	00:50:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-P00/04-SA-P00-001	00:13:21;
+
+[PrintText]=00:00:09	Makoto	El boleto de la entrada iba a estar bien.	00:02:11;
+
+[PlayVoice]=00:00:09	Voice04/04-SA/04-SA-P00/04-SA-P00-0040	1	mak	00:02:11;
+
+[PrintText]=00:02:11	Sekai	Tengo un pase, por lo que puedo bajar en cualquier estación.	00:06:12;
+
+[PlayVoice]=00:02:11	Voice04/04-SA/04-SA-P00/04-SA-P00-0050	0	sek	00:06:12;
+
+[PrintText]=00:06:12	Makoto	Bueno, vale.	00:07:19;
+
+[PlayVoice]=00:06:12	Voice04/04-SA/04-SA-P00/04-SA-P00-0060	1	mak	00:07:19;
+
+[PrintText]=00:07:18	Sekai	Veamos... ah, hay un expreso.	00:11:20;
+
+[PlayVoice]=00:07:18	Voice04/04-SA/04-SA-P00/04-SA-P00-0070	0	sek	00:11:20;
+
+[PrintText]=00:11:21	Makoto	No parará aquí ¿No?^	00:13:22;
+
+[PlayVoice]=00:11:21	Voice04/04-SA/04-SA-P00/04-SA-P00-0080	1	mak	00:13:22;
+
+[PlayMovie]=00:13:21	Movie04/04-SA/04-SA-P00/04-SA-P00-002	0	01:11:13;
+
+[PrintText]=00:13:22	Sekai	Al parecer, entonces el siguiente tren...	00:18:06;
+
+[PlayVoice]=00:13:22	Voice04/04-SA/04-SA-P00/04-SA-P00-0090	0	sek	00:18:06;
+
+[PrintText]=00:18:06	Sekai	...vendrá después del expreso, huh. Parece que tendremos que esperar un poco. Brrr, hace frío.	00:28:10;
+
+[PlayVoice]=00:18:06	Voice04/04-SA/04-SA-P00/04-SA-P00-0110	0	sek	00:28:10;
+
+[PrintText]=00:28:09	Makoto	...Bueno, ya acaba el otoño...	00:31:23;
+
+[PlayVoice]=00:28:09	Voice04/04-SA/04-SA-P00/04-SA-P00-0120	1	mak	00:31:23;
+
+[PrintText]=00:32:00	Sekai	Sí, tienes razón...	00:33:12;
+
+[PlayVoice]=00:32:00	Voice04/04-SA/04-SA-P00/04-SA-P00-0130	0	sek	00:33:12;
+
+[PrintText]=00:33:13	Makoto	Sekai.	00:34:10;
+
+[PlayVoice]=00:33:13	Voice04/04-SA/04-SA-P00/04-SA-P00-0140	1	mak	00:34:10;
+
+[PrintText]=00:34:11	Sekai	¿Eh?^	00:35:09;
+
+[PlayVoice]=00:34:11	Voice04/04-SA/04-SA-P00/04-SA-P00-0150	0	sek	00:35:09;
+
+[PrintText]=00:36:17	Sekai	¡Wa-wah!	00:37:21;
+
+[PlayVoice]=00:36:17	Voice04/04-SA/04-SA-P00/04-SA-P00-0170	0	sek	00:37:21;
+
+[PrintText]=00:37:08	Makoto	...Ahora estarás caliente.	00:39:14;
+
+[PlayVoice]=00:37:08	Voice04/04-SA/04-SA-P00/04-SA-P00-0180	1	mak	00:39:14;
+
+[PrintText]=00:39:09	Sekai	¡Qu...! ...Makoto.	00:41:20;
+
+[PlayVoice]=00:39:09	Voice04/04-SA/04-SA-P00/04-SA-P00-0190	0	sek	00:41:20;
+
+[PrintText]=00:42:21	Makoto	¿No te gusta?^	00:43:12;
+
+[PlayVoice]=00:42:21	Voice04/04-SA/04-SA-P00/04-SA-P00-0200	1	mak	00:43:12;
+
+[PrintText]=00:43:16	Sekai	...Sí.	00:46:12;
+
+[PlayVoice]=00:43:16	Voice04/04-SA/04-SA-P00/04-SA-P00-0210	0	sek	00:46:12;
+
+[PrintText]=00:48:05	Makoto	Que bueno.	00:49:05;
+
+[PlayVoice]=00:48:05	Voice04/04-SA/04-SA-P00/04-SA-P00-0230	1	mak	00:49:05;
+
+[PrintText]=00:50:12	Sekai	...	00:51:01;
+
+[PlayVoice]=00:50:12	Voice04/04-SA/04-SA-P00/04-SA-P00-0240	0	xxx	00:51:01;
+
+[PrintText]=00:52:02	Makoto	Escucha... yo...	00:55:16;
+
+[PlayVoice]=00:52:02	Voice04/04-SA/04-SA-P00/04-SA-P00-0250	1	mak	00:55:16;
+
+[PrintText]=00:56:13	Makoto	...	00:57:19;
+
+[PlayVoice]=00:56:13	Voice04/04-SA/04-SA-P00/04-SA-P00-0270	1	xxx	00:57:19;
+
+[PlaySe]=00:56:16	1	SysSe/SE_all/station_train/train_stpo	01:05:04;
+
+[PlaySe]=00:56:16	2	SysSe/SE_all/station_train/train_stopping	01:13:08;
+
+[PrintText]=00:59:02	Sekai	Sabes, yo...	01:00:04;
+
+[PlayVoice]=00:59:02	Voice04/04-SA/04-SA-P00/04-SA-P00-0300	0	sek	01:00:04;
+
+[PrintText]=01:00:02	Makoto	¿Eh?^	01:00:17;
+
+[PlayVoice]=01:00:02	Voice04/04-SA/04-SA-P00/04-SA-P00-0320	1	mak	01:00:17;
+
+[PlayMovie]=01:11:13	Movie04/04-SA/04-SA-P00/04-SA-P00-003	0	01:16:13;
+
+[PlayMovie]=01:16:13	Movie04/04-SA/04-SA-P00/04-SA-P00-004	0	01:21:13;
+
+[PrintText]=01:17:16	Kotonoha	¡...!	01:21:10;
+
+[PlayVoice]=01:17:16	Voice04/04-SA/04-SA-P00/04-SA-P00-0380	0	kot	01:21:10;
+
+[EndBGM]=01:21:09	BGM/Vocal/SDV04	03:32:02;
+
+[CreateBG]=01:21:13	BGS	Event04/04-SA/04-SA-P00/04-SA-P00-005	01:24:08;
+
+[PlayMovie]=01:24:08	Movie04/04-SA/04-SA-P00/04-SA-P00-006	0	01:28:02;
+
+[CreateBG]=01:28:02	BGS	Event04/04-SA/04-SA-P00/04-SA-P00-007	01:30:01;
+
+[CreateBG]=01:30:01	BGS	Ini/EndRoll/04-14	01:33:00;
+
+[EndRoll]=01:33:00	Ini/EndRoll/NORMAL	02:13:00;
+
+ ;
+
+[Next]=02:13:00;
+
+

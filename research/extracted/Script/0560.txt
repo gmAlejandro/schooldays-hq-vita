@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:05:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:11:20;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G05/SE03-KA-G05-001	00:11:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G05/03-KA-G05-001	00:01:18;
+
+[PrintText]=00:00:00	Setsuna	¿Sekai?^	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-G05/03-KA-G05-0030	0	set	00:01:00;
+
+[PrintText]=00:01:00	Makoto	¿Eh...?^	00:01:14;
+
+[PlayVoice]=00:01:00	Voice03/03-KA/03-KA-G05/03-KA-G05-0040	1	mak	00:01:14;
+
+[CreateBG]=00:01:18	BGS	Event03/03-KA/03-KA-G05/03-KA-G05-002A	00:11:20;
+
+[PrintText]=00:01:21	Setsuna	Puedes ir si es para ver a Sekai.	00:04:00;
+
+[PlayVoice]=00:01:21	Voice03/03-KA/03-KA-G05/03-KA-G05-0050	0	set	00:04:00;
+
+[PrintText]=00:04:04	Makoto	...	00:05:02;
+
+[PlayVoice]=00:04:04	Voice03/03-KA/03-KA-G05/03-KA-G05-0060	1	xxx	00:05:02;
+
+[SetSELECT]=00:05:20	'Olvídalo'	null	00:10:20;
+
+ ;
+
+[Next]=00:11:20;
+
+

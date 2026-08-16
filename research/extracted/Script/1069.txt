@@ -1,0 +1,181 @@
+﻿[SkipFRAME]=01:35:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	01:35:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-E05/04-KE-E05-001	00:01:11;
+
+[CreateBG]=00:01:11	BGS	Event00/00-00/00-00-F00/00-00-F00-004	00:19:23;
+
+[PrintText]=00:01:12	Taisuke	¿Y cómo fue?^	00:02:20;
+
+[PlayVoice]=00:01:12	Voice04/04-KE/04-KE-E05/04-KE-E05-0040	1	tai	00:02:20;
+
+[PrintText]=00:02:20	Makoto	Hmn... bueno, Ella dijo que no buscaba nada.	00:08:07;
+
+[PlayVoice]=00:02:20	Voice04/04-KE/04-KE-E05/04-KE-E05-0050	1	mak	00:08:07;
+
+[PrintText]=00:08:07	Taisuke	¿En serio?^	00:09:20;
+
+[PlayVoice]=00:08:07	Voice04/04-KE/04-KE-E05/04-KE-E05-0060	1	tai	00:09:20;
+
+[PrintText]=00:09:20	Makoto	Solo había una cosa que quería, sin embargo.	00:13:07;
+
+[PlayVoice]=00:09:20	Voice04/04-KE/04-KE-E05/04-KE-E05-0070	1	mak	00:13:07;
+
+[PrintText]=00:13:07	Taisuke	¿Qué? Dime.	00:14:22;
+
+[PlayVoice]=00:13:07	Voice04/04-KE/04-KE-E05/04-KE-E05-0080	1	tai	00:14:22;
+
+[PrintText]=00:14:21	Makoto	Un portaretrato.	00:16:20;
+
+[PlayVoice]=00:14:21	Voice04/04-KE/04-KE-E05/04-KE-E05-0090	1	mak	00:16:20;
+
+[PrintText]=00:16:20	Taisuke	Un portaretrato ¿huh? ¡Lo tengo!	00:20:01;
+
+[PlayVoice]=00:16:20	Voice04/04-KE/04-KE-E05/04-KE-E05-0100	1	tai	00:20:01;
+
+[CreateBG]=00:19:23	BGS	Event04/04-KE/04-KE-E05/04-KE-E05-003	00:36:08;
+
+[PrintText]=00:20:01	Makoto	Supongo que ya es muy tarde para comprarlo.	00:22:01;
+
+[PlayVoice]=00:20:01	Voice04/04-KE/04-KE-E05/04-KE-E05-0110	1	mak	00:22:01;
+
+[PrintText]=00:22:01	Taisuke	¿Por qué?^	00:23:02;
+
+[PlayVoice]=00:22:01	Voice04/04-KE/04-KE-E05/04-KE-E05-0120	1	tai	00:23:02;
+
+[PrintText]=00:23:02	Makoto	Lo compró.	00:24:10;
+
+[PlayVoice]=00:23:02	Voice04/04-KE/04-KE-E05/04-KE-E05-0130	1	mak	00:24:10;
+
+[PrintText]=00:24:10	Taisuke	Gwah... ¡La hubieras detenido!	00:28:09;
+
+[PlayVoice]=00:24:10	Voice04/04-KE/04-KE-E05/04-KE-E05-0140	1	tai	00:28:09;
+
+[PrintText]=00:28:09	Makoto	Lo iba a hacer, pero ella se adelantó.	00:33:04;
+
+[PlayVoice]=00:28:09	Voice04/04-KE/04-KE-E05/04-KE-E05-0150	1	mak	00:33:04;
+
+[PrintText]=00:33:04	Taisuke	Haah...	00:35:13;
+
+[PlayVoice]=00:33:04	Voice04/04-KE/04-KE-E05/04-KE-E05-0160	1	tai	00:35:13;
+
+[PrintText]=00:35:12	Makoto	Perdón...	00:36:08;
+
+[PlayVoice]=00:35:12	Voice04/04-KE/04-KE-E05/04-KE-E05-0170	1	mak	00:36:08;
+
+[CreateBG]=00:36:08	BGS	Event04/04-KE/04-KE-E05/04-KE-E05-004	00:52:22;
+
+[PrintText]=00:36:09	Taisuke	Bueno, olvídalo. Intentaré buscar algo por mi cuenta.	00:41:16;
+
+[PlayVoice]=00:36:09	Voice04/04-KE/04-KE-E05/04-KE-E05-0180	1	tai	00:41:16;
+
+[PrintText]=00:41:16	Makoto	Vale.	00:42:10;
+
+[PlayVoice]=00:41:16	Voice04/04-KE/04-KE-E05/04-KE-E05-0190	1	mak	00:42:10;
+
+[PlaySe]=00:41:23	1	SysSe/SE_all/keitai/catch	00:43:20;
+
+[PrintText]=00:42:10	Makoto	Ah... tengo una llamada.	00:43:23;
+
+[PlayVoice]=00:42:10	Voice04/04-KE/04-KE-E05/04-KE-E05-0210	1	mak	00:43:23;
+
+[PrintText]=00:43:23	Taisuke	¿Huh?^	00:44:13;
+
+[PlayVoice]=00:43:23	Voice04/04-KE/04-KE-E05/04-KE-E05-0220	1	tai	00:44:13;
+
+[PrintText]=00:44:13	Makoto	Es de Kotonoha.	00:45:21;
+
+[PlayVoice]=00:44:13	Voice04/04-KE/04-KE-E05/04-KE-E05-0230	1	mak	00:45:21;
+
+[PrintText]=00:45:21	Taisuke	Vale, Colgaré, entonces. Gracias por ayudarme hoy, dale las gracias a Kotonoha también.	00:50:06;
+
+[PlayVoice]=00:45:21	Voice04/04-KE/04-KE-E05/04-KE-E05-0240	1	tai	00:50:06;
+
+[PrintText]=00:50:06	Makoto	Bien. Nos vemos.	00:52:01;
+
+[PlayVoice]=00:50:06	Voice04/04-KE/04-KE-E05/04-KE-E05-0250	1	mak	00:52:01;
+
+[PlaySe]=00:52:08	1	SysSe/SE_all/keitai/keitai_sousa	00:52:10;
+
+[CreateBG]=00:52:22	BGS	Event04/04-KE/04-KE-E05/04-KE-E05-004A	00:53:14;
+
+[PrintText]=00:52:22	Makoto	¿Bueno?^	00:53:15;
+
+[PlayVoice]=00:52:22	Voice04/04-KE/04-KE-E05/04-KE-E05-0270	1	mak	00:53:15;
+
+[CreateBG]=00:53:14	BGS	Event04/04-KE/04-KE-E05/04-KE-E05-004B	00:59:02;
+
+[PrintText]=00:53:16	Kotonoha	¿Ah... es Makoto-kun?^	00:56:03;
+
+[PlayVoice]=00:53:16	Voice04/04-KE/04-KE-E05/04-KE-E05-0280	0	kot	00:56:03;
+
+[PrintText]=00:56:03	Makoto	Sí.	00:56:19;
+
+[PlayVoice]=00:56:03	Voice04/04-KE/04-KE-E05/04-KE-E05-0290	1	mak	00:56:19;
+
+[PrintText]=00:56:20	Kotonoha	¿Cómo fue con el presente?^	00:59:02;
+
+[PlayVoice]=00:56:20	Voice04/04-KE/04-KE-E05/04-KE-E05-0300	0	kot	00:59:02;
+
+[CreateBG]=00:59:02	BGS	Event00/00-00/00-00-F00/00-00-F00-004	01:18:15;
+
+[PrintText]=00:59:02	Makoto	...Bueno, no pude hacer nada...	01:01:22;
+
+[PlayVoice]=00:59:02	Voice04/04-KE/04-KE-E05/04-KE-E05-0310	1	mak	01:01:22;
+
+[PrintText]=01:01:21	Kotonoha	Ya veo...	01:03:12;
+
+[PlayVoice]=01:01:21	Voice04/04-KE/04-KE-E05/04-KE-E05-0320	0	kot	01:03:12;
+
+[PrintText]=01:03:12	Makoto	Tal vez ella quiera algo que no compre el dinero.	01:08:19;
+
+[PlayVoice]=01:03:12	Voice04/04-KE/04-KE-E05/04-KE-E05-0330	1	mak	01:08:19;
+
+[PrintText]=01:08:19	Kotonoha	Sí...	01:10:08;
+
+[PlayVoice]=01:08:19	Voice04/04-KE/04-KE-E05/04-KE-E05-0340	0	kot	01:10:08;
+
+[PrintText]=01:10:09	Makoto	Gracias por estar con nosotros hoy.	01:12:20;
+
+[PlayVoice]=01:10:09	Voice04/04-KE/04-KE-E05/04-KE-E05-0350	1	mak	01:12:20;
+
+[PrintText]=01:12:20	Kotonoha	Está bien. Fue divertido.	01:15:04;
+
+[PlayVoice]=01:12:20	Voice04/04-KE/04-KE-E05/04-KE-E05-0360	0	kot	01:15:04;
+
+[PrintText]=01:15:05	Makoto	Sí.	01:16:02;
+
+[PlayVoice]=01:15:05	Voice04/04-KE/04-KE-E05/04-KE-E05-0370	1	mak	01:16:02;
+
+[PrintText]=01:16:02	Kotonoha	Intentaré preguntarle mañana.	01:18:15;
+
+[PlayVoice]=01:16:02	Voice04/04-KE/04-KE-E05/04-KE-E05-0380	0	kot	01:18:15;
+
+[PrintText]=01:18:14	Makoto	¿Huh? ¿Lo harías?^	01:20:18;
+
+[PlayVoice]=01:18:14	Voice04/04-KE/04-KE-E05/04-KE-E05-0390	1	mak	01:20:18;
+
+[CreateBG]=01:18:15	BGS	Event04/04-KE/04-KE-E05/04-KE-E05-006	01:35:01;
+
+[PrintText]=01:20:18	Kotonoha	Sí. Son cosas que puedes hablar fácilmente entre chicas.	01:26:14;
+
+[PlayVoice]=01:20:18	Voice04/04-KE/04-KE-E05/04-KE-E05-0400	0	kot	01:26:14;
+
+[PrintText]=01:26:13	Makoto	Sí, ya lo creo.	01:28:05;
+
+[PlayVoice]=01:26:13	Voice04/04-KE/04-KE-E05/04-KE-E05-0410	1	mak	01:28:05;
+
+[PrintText]=01:28:06	Kotonoha	Hay otra cosa más que también quiero decirle.	01:33:08;
+
+[PlayVoice]=01:28:06	Voice04/04-KE/04-KE-E05/04-KE-E05-0420	0	kot	01:33:08;
+
+[PrintText]=01:33:09	Makoto	Vale...	01:34:08;
+
+[PlayVoice]=01:33:09	Voice04/04-KE/04-KE-E05/04-KE-E05-0430	1	mak	01:34:08;
+
+ ;
+
+[Next]=01:35:01;
+
+

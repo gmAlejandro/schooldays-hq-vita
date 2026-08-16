@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:32:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:38:09;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-E05/SE01-00-E05-001	00:38:09;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-E05/01-00-E05-001	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event01/01-00/01-00-E05/01-00-E05-002	00:24:10;
+
+[PrintText]=00:10:06	Makoto	Ah... mira la hora. deberíamos volver a clases.	00:15:00;
+
+[PlayVoice]=00:10:06	Voice01/01-00/01-00-E05/01-00-E05-0040	1	mak	00:15:00;
+
+[PrintText]=00:14:22	Kotonoha	Vale.	00:15:16;
+
+[PlayVoice]=00:14:22	Voice01/01-00/01-00-E05/01-00-E05-0050	0	kot	00:15:16;
+
+[PrintText]=00:16:02	Makoto	Debería hablar con Sekai una vez que llegue a clases, deberías hablar con ella si la vez.	00:22:16;
+
+[PlayVoice]=00:16:02	Voice01/01-00/01-00-E05/01-00-E05-0060	1	mak	00:22:16;
+
+[PrintText]=00:23:03	Kotonoha	...Itou-kun.	00:24:10;
+
+[PlayVoice]=00:23:03	Voice01/01-00/01-00-E05/01-00-E05-0070	0	kot	00:24:10;
+
+[CreateBG]=00:24:10	BGS	Event01/01-00/01-00-E05/01-00-E05-003	00:27:16;
+
+[PrintText]=00:24:12	Makoto	¿Uhm?^	00:25:02;
+
+[PlayVoice]=00:24:12	Voice01/01-00/01-00-E05/01-00-E05-0080	1	mak	00:25:02;
+
+[PrintText]=00:25:04	Kotonoha	Um...	00:26:06;
+
+[PlayVoice]=00:25:04	Voice01/01-00/01-00-E05/01-00-E05-0090	0	kot	00:26:06;
+
+[PrintText]=00:26:13	Makoto	¿Qué pasó?^	00:27:09;
+
+[PlayVoice]=00:26:13	Voice01/01-00/01-00-E05/01-00-E05-0100	1	mak	00:27:09;
+
+[CreateBG]=00:27:16	BGS	Event01/01-00/01-00-E05/01-00-E05-004	00:30:03;
+
+[PrintText]=00:28:02	Kotonoha	Ko...	00:28:17;
+
+[PlayVoice]=00:28:02	Voice01/01-00/01-00-E05/01-00-E05-0110	0	kot	00:28:17;
+
+[PrintText]=00:29:11	Makoto	¿'Ko'?^	00:30:00;
+
+[PlayVoice]=00:29:11	Voice01/01-00/01-00-E05/01-00-E05-0120	1	mak	00:30:00;
+
+[CreateBG]=00:30:03	BGS	Event01/01-00/01-00-E05/01-00-E05-005	00:32:03;
+
+[PrintText]=00:30:09	Kotonoha	No, no es nada.	00:32:04;
+
+[PlayVoice]=00:30:09	Voice01/01-00/01-00-E05/01-00-E05-0130	0	kot	00:32:04;
+
+[CreateBG]=00:32:03	BGS	Event01/01-00/01-00-E05/01-00-E05-006	00:38:09;
+
+[PrintText]=00:32:03	Makoto	¿Hmn...?^	00:32:20;
+
+[PlayVoice]=00:32:03	Voice01/01-00/01-00-E05/01-00-E05-0140	1	mak	00:32:20;
+
+[SetSELECT]=00:32:09	'Dime'	null	00:37:09;
+
+ ;
+
+[Next]=00:38:09;
+
+
+
+

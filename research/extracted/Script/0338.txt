@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:12:07;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-L01/SE02-2S-L01-001	00:18:08;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-L01/02-2S-L01-001	00:01:15;
+
+[CreateBG]=00:01:15	BGS	Event02/02-2S/02-2S-L01/02-2S-L01-001B	00:03:07;
+
+[CreateBG]=00:03:07	BGS	Event02/02-2S/02-2S-L01/02-2S-L01-001C	00:04:20;
+
+[CreateBG]=00:04:20	BGS	Event02/02-2S/02-2S-L01/02-2S-L01-002	00:07:20;
+
+[CreateBG]=00:07:20	BGS	Event02/02-2S/02-2S-L01/02-2S-L01-003	00:11:19;
+
+[PrintText]=00:07:20	Kotonoha	Makoto-kun, ¿Me estabas esperando?^	00:11:03;
+
+[PlayVoice]=00:07:20	Voice02/02-2S/02-2S-L01/02-2S-L01-0050	0	kot	00:11:03;
+
+[CreateBG]=00:11:19	BGS	Event02/02-2S/02-2S-L01/02-2S-L01-004	00:18:08;
+
+[PrintText]=00:11:19	Makoto	Ah...	00:12:08;
+
+[PlayVoice]=00:11:19	Voice02/02-2S/02-2S-L01/02-2S-L01-0060	1	mak	00:12:08;
+
+[SetSELECT]=00:12:07	'No'	'Vamos a casa juntos'	00:17:07;
+
+ ;
+
+[Next]=00:18:08;
+
+
+
+

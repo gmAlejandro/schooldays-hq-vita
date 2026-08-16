@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:03:02;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E01/05-5O-E01-001	00:01:11;
+
+[PrintText]=00:00:09	Makoto	Sí, iré.	00:01:04;
+
+[PlayVoice]=00:00:09	Voice05/05-5O/05-5O-E01/05-5O-E01-0030	1	mak	00:01:04;
+
+[CreateBG]=00:01:11	BGS	Event05/05-5O/05-5O-E01/05-5O-E01-002	00:03:02;
+
+[PrintText]=00:01:16	Setsuna	...Gracias.	00:02:19;
+
+[PlayVoice]=00:01:16	Voice05/05-5O/05-5O-E01/05-5O-E01-0040	0	set	00:02:19;
+
+ ;
+
+[Next]=00:03:02;
+
+

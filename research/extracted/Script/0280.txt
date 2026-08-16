@@ -1,0 +1,145 @@
+﻿[SkipFRAME]=01:35:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	01:35:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-001	00:02:05;
+
+[PrintText]=00:00:00	Makoto	Perdonen la interrupción.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0030	1	mak	00:01:14;
+
+[CreateBG]=00:02:05	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-002	00:11:22;
+
+[PrintText]=00:02:05	Sekai	Ahah... No estés nervioso.	00:05:17;
+
+[PlayVoice]=00:02:05	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0040	0	sek	00:05:17;
+
+[PrintText]=00:05:17	Makoto	Pero ... creo que no hay nadie en casa.	00:11:22;
+
+[PlayVoice]=00:05:17	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0050	1	mak	00:11:22;
+
+[CreateBG]=00:11:22	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-003A	00:21:14;
+
+[PrintText]=00:11:22	Sekai	¿Qué? Piensas que es así, 'No hay nadie en casa, y así...' ¿Traerte a mi casa... ?^	00:21:14;
+
+[PlayVoice]=00:11:22	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0060	0	sek	00:21:14;
+
+[PlaySe]=00:21:14	1	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0070	00:24:08;
+
+[CreateBG]=00:21:14	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-003B	00:31:06;
+
+[PrintText]=00:24:09	Sekai	Idiota. Pervertido.	00:26:13;
+
+[PlayVoice]=00:24:09	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0080	0	sek	00:26:13;
+
+[PrintText]=00:26:13	Makoto	¿Q-Qué? Kuh...	00:30:23;
+
+[PlayVoice]=00:26:13	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0090	1	mak	00:30:23;
+
+[WhiteFade]=00:31:00	OUT	00:31:06;
+
+[CreateBG]=00:31:06	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-004	00:40:15;
+
+[WhiteFade]=00:31:06	IN	00:31:12;
+
+[PrintText]=00:31:12	Sekai	Creo que metí la pata en el almuerzo. No había nadie por ese lugar, y era muy peligroso...	00:39:09;
+
+[PlayVoice]=00:31:12	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0100	0	sek	00:39:09;
+
+[PrintText]=00:39:09	Makoto	¿Peligroso?^	00:41:04;
+
+[PlayVoice]=00:39:09	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0110	1	mak	00:41:04;
+
+[WhiteFade]=00:40:09	OUT	00:40:15;
+
+[CreateBG]=00:40:15	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-005	00:45:13;
+
+[WhiteFade]=00:40:15	IN	00:40:21;
+
+[PrintText]=00:40:21	Sekai	Claro... dejar a un chico y a una chica solos...	00:45:09;
+
+[PlayVoice]=00:40:21	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0120	0	sek	00:45:09;
+
+[WhiteFade]=00:45:07	OUT	00:45:13;
+
+[CreateBG]=00:45:13	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-006	00:51:03;
+
+[WhiteFade]=00:45:13	IN	00:45:19;
+
+[PrintText]=00:45:19	Makoto	Uuuh...	00:46:11;
+
+[PlayVoice]=00:45:19	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0130	1	mak	00:46:11;
+
+[PrintText]=00:46:10	Sekai	Pero en mi casa, tenemos a mi mamá en la sala.	00:49:21;
+
+[PlayVoice]=00:46:10	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0140	0	sek	00:49:21;
+
+[PrintText]=00:49:23	Makoto	Eso es cierto.	00:51:01;
+
+[PlayVoice]=00:49:23	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0150	1	mak	00:51:01;
+
+[CreateBG]=00:51:03	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-007	01:03:01;
+
+[PrintText]=00:51:06	Sekai	¿Si intentas hacer algo pervertido, voy a gritar ¿De acuerdo?^	00:54:22;
+
+[PlayVoice]=00:51:06	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0160	0	sek	00:54:22;
+
+[PrintText]=00:55:00	Makoto	N-No haré nada.	00:57:00;
+
+[PlayVoice]=00:55:00	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0170	1	mak	00:57:00;
+
+[PrintText]=00:56:15	Sekai	Quien lo dice... después de todo, estabas a punto de besarme en el almuerzo.	01:02:22;
+
+[PlayVoice]=00:56:15	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0180	0	sek	01:02:22;
+
+[CreateBG]=01:03:01	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-008	01:13:13;
+
+[PrintText]=01:03:04	Makoto	Eso fue... Perdón.	01:07:15;
+
+[PlayVoice]=01:03:04	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0190	1	mak	01:07:15;
+
+[PrintText]=01:07:15	Sekai	Mmn.... está bien, siempre y cuando te has dado cuenta de tus errores.	01:11:21;
+
+[PlayVoice]=01:07:15	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0200	0	sek	01:11:21;
+
+[PrintText]=01:11:21	Makoto	Tsk.	01:13:10;
+
+[PlayVoice]=01:11:21	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0210	1	mak	01:13:10;
+
+[CreateBG]=01:13:13	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-009	01:28:19;
+
+[PrintText]=01:13:13	Sekai	Así que, en resumen, nada de cosas pervertidas, puedes hacer esa clase de cosas con Katsura-san.	01:21:23;
+
+[PlayVoice]=01:13:13	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0220	0	sek	01:21:23;
+
+[PrintText]=01:22:01	Makoto	Si.	01:22:18;
+
+[PlayVoice]=01:22:01	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0230	1	mak	01:22:18;
+
+[PrintText]=01:22:22	Sekai	Ahora, dicho eso, vamos a la práctica.	01:27:20;
+
+[PlayVoice]=01:22:22	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0240	0	sek	01:27:20;
+
+[PrintText]=01:27:20	Makoto	Vale.	01:28:18;
+
+[PlayVoice]=01:27:20	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0250	1	mak	01:28:18;
+
+[CreateBG]=01:28:19	BGS	Event02/02-2K/02-2K-Q01/02-2K-Q01-010	01:35:05;
+
+[PrintText]=01:28:19	Sekai	Ah, pero antes de empezar, voy a cambiarme. 	01:33:03;
+
+[PlayVoice]=01:28:19	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0260	0	sek	01:33:03;
+
+[PrintText]=01:33:03	Makoto	Está bien.	01:34:00;
+
+[PlayVoice]=01:33:03	Voice02/02-2K/02-2K-Q01/02-2K-Q01-0270	1	mak	01:34:00;
+
+[BlackFade]=01:34:17	OUT	01:35:05;
+
+ ;
+
+[Next]=01:35:05;
+
+
+
+

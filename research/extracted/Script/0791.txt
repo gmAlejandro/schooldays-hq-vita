@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:20:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:20:02;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-J07/SE03-SA-J07-001	00:20:01;
+
+[PlayMovie]=00:00:00	Movie03/03-SA/03-SA-J07/03-SA-J07-001	0	00:11:00;
+
+[PrintText]=00:00:00	Makoto	Escúchame, Kotonoha. Yo...	00:03:12;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-J07/03-SA-J07-0040	1	mak	00:03:12;
+
+[PrintText]=00:03:12	Otome	Aww...	00:05:12;
+
+[PlayVoice]=00:03:12	Voice03/03-SA/03-SA-J07/03-SA-J07-0060	0	oto	00:05:12;
+
+[PrintText]=00:05:12	Minami	Otome...	00:06:20;
+
+[PlayVoice]=00:05:12	Voice03/03-SA/03-SA-J07/03-SA-J07-0070	0	min	00:06:20;
+
+[PrintText]=00:06:20	Natsumi	No hacemos nada aquí. Vámonos.	00:09:08;
+
+[PlayVoice]=00:06:20	Voice03/03-SA/03-SA-J07/03-SA-J07-0080	0	nat	00:09:08;
+
+[PrintText]=00:09:08	Kumi	S-Sí...	00:11:00;
+
+[PlayVoice]=00:09:08	Voice03/03-SA/03-SA-J07/03-SA-J07-0090	0	kum	00:11:00;
+
+[CreateBG]=00:11:00	BGS	Event03/03-SA/03-SA-J07/03-SA-J07-002	00:12:08;
+
+[PrintText]=00:11:00	Makoto	¿Eh? ¿Qué?^	00:13:03;
+
+[PlayVoice]=00:11:00	Voice03/03-SA/03-SA-J07/03-SA-J07-0100	1	mak	00:13:03;
+
+[CreateBG]=00:12:08	BGS	Event03/03-SA/03-SA-J07/03-SA-J07-003	00:13:04;
+
+[CreateBG]=00:13:04	BGS	Event03/03-SA/03-SA-J07/03-SA-J07-004	00:15:00;
+
+[PrintText]=00:13:04	Natsumi	Katsura.	00:14:00;
+
+[PlayVoice]=00:13:04	Voice03/03-SA/03-SA-J07/03-SA-J07-0120	0	nat	00:14:00;
+
+[PrintText]=00:14:00	Kotonoha	Sí.	00:15:00;
+
+[PlayVoice]=00:14:00	Voice03/03-SA/03-SA-J07/03-SA-J07-0130	0	kot	00:15:00;
+
+[CreateBG]=00:15:00	BGS	Event03/03-SA/03-SA-J07/03-SA-J07-005	00:17:11;
+
+[PrintText]=00:15:00	Natsumi	Puedes usar el cuarto de atrás.	00:16:13;
+
+[PlayVoice]=00:15:00	Voice03/03-SA/03-SA-J07/03-SA-J07-0140	0	nat	00:16:13;
+
+[PrintText]=00:16:13	Otome	Ah...	00:17:11;
+
+[PlayVoice]=00:16:13	Voice03/03-SA/03-SA-J07/03-SA-J07-0150	0	oto	00:17:11;
+
+[PrintText]=00:17:10	Kotonoha	¡Sí!	00:18:05;
+
+[PlayVoice]=00:17:10	Voice03/03-SA/03-SA-J07/03-SA-J07-0160	0	kot	00:18:05;
+
+[CreateBG]=00:17:11	BGS	Event03/03-SA/03-SA-J07/03-SA-J07-004	00:20:02;
+
+[PrintText]=00:18:05	Natsumi	Vámonos, chicas.	00:19:12;
+
+[PlayVoice]=00:18:05	Voice03/03-SA/03-SA-J07/03-SA-J07-0170	0	nat	00:19:12;
+
+ ;
+
+[Next]=00:20:02;
+
+

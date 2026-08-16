@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:15:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:15:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-A05/03-BK-A05-001	00:15:03;
+
+[PrintText]=00:00:00	Makoto	Kotonoha...	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-A05/03-BK-A05-0030	1	mak	00:01:13;
+
+[PrintText]=00:02:02	Makoto	Estuvo de buen humor durante el día, pero de repente en el camino a casa dejó de estarlo...	00:07:12;
+
+[PlayVoice]=00:02:02	Voice03/03-BK/03-BK-A05/03-BK-A05-0040	1	mak	00:07:12;
+
+[PrintText]=00:08:00	Makoto	¿Y después quería que la besara...?^	00:10:16;
+
+[PlayVoice]=00:08:00	Voice03/03-BK/03-BK-A05/03-BK-A05-0050	1	mak	00:10:16;
+
+[PrintText]=00:11:04	Makoto	Simplemente no lo entiendo...	00:12:13;
+
+[PlayVoice]=00:11:04	Voice03/03-BK/03-BK-A05/03-BK-A05-0060	1	mak	00:12:13;
+
+[PrintText]=00:13:01	Makoto	Haah...	00:14:15;
+
+[PlayVoice]=00:13:01	Voice03/03-BK/03-BK-A05/03-BK-A05-0070	1	mak	00:14:15;
+
+ ;
+
+[Next]=00:15:03;
+
+

@@ -1,0 +1,84 @@
+﻿[SkipFRAME]=00:51:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:26:01;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-001	00:03:17;
+
+[CreateBG]=00:03:17	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-002	00:08:00;
+
+[PrintText]=00:03:17	Makoto	Fwah...	00:08:08;
+
+[PlayVoice]=00:03:17	Voice05/05-SE/05-SE-O00/05-SE-O00-0030	1	mak	00:08:08;
+
+[CreateBG]=00:08:00	BGS	Event05/05-SE/05-SE-O00/05-SE-O00-003	00:13:12;
+
+[PrintText]=00:08:00	Taisuke	¡Ah! ¡Makoto!	00:09:16;
+
+[PlayVoice]=00:08:00	Voice05/05-SE/05-SE-O00/05-SE-O00-0040	1	tai	00:09:16;
+
+[PrintText]=00:09:10	Makoto	Mmn... buen día, Taisuke.	00:13:20;
+
+[PlayVoice]=00:09:10	Voice05/05-SE/05-SE-O00/05-SE-O00-0050	1	mak	00:13:20;
+
+[CreateBG]=00:13:12	BGS	Event05/05-SE/05-SE-O00/05-SE-O00-004	00:19:19;
+
+[PrintText]=00:13:18	Taisuke	¿Qué te pasa?^	00:15:17;
+
+[PlayVoice]=00:13:18	Voice05/05-SE/05-SE-O00/05-SE-O00-0060	1	tai	00:15:17;
+
+[PrintText]=00:15:17	Makoto	Siento que no he dormido muy bien.	00:19:22;
+
+[PlayVoice]=00:15:17	Voice05/05-SE/05-SE-O00/05-SE-O00-0070	1	mak	00:19:22;
+
+[CreateBG]=00:19:19	BGS	Event05/05-SE/05-SE-O00/05-SE-O00-005	00:23:07;
+
+[PrintText]=00:19:21	Taisuke	¡Bueno, olvídalo! ¿Ya lo escuchaste?^	00:21:18;
+
+[PlayVoice]=00:19:21	Voice05/05-SE/05-SE-O00/05-SE-O00-0080	1	tai	00:21:18;
+
+[PrintText]=00:21:19	Makoto	¿Escuchar qué?^	00:23:03;
+
+[PlayVoice]=00:21:19	Voice05/05-SE/05-SE-O00/05-SE-O00-0090	1	mak	00:23:03;
+
+[CreateBG]=00:23:07	BGS	Event05/05-SE/05-SE-O00/05-SE-O00-006	00:26:01;
+
+[PrintText]=00:23:07	Taisuke	Dicen que... Sekai se fue de la escuela.	00:25:16;
+
+[PlayVoice]=00:23:07	Voice05/05-SE/05-SE-O00/05-SE-O00-0100	1	tai	00:25:16;
+
+[CreateBG]=00:26:01	BGS	Event05/05-SE/05-SE-O00/05-SE-O00-007	00:30:11;
+
+[PrintText]=00:26:03	Makoto	¿Eh?^	00:26:21;
+
+[PlayVoice]=00:26:03	Voice05/05-SE/05-SE-O00/05-SE-O00-0110	1	mak	00:26:21;
+
+[BlackFade]=00:27:11	OUT	00:30:11;
+
+[PlayMovie]=00:30:11	Movie05/05-SE/05-SE-O00/05-SE-O00-008_011	0	00:43:23;
+
+[PrintText]=00:30:22	Makoto	Justo después de que dejó la escuela, Sekai se fue de su casa y desapareció.	00:35:19;
+
+[PlayVoice]=00:30:22	Voice05/05-SE/05-SE-O00/05-SE-O00-0130	1	xxx	00:35:19;
+
+[PrintText]=00:37:00	Makoto	Naturalmente, no me dijo nada, ni a Taisuke ni a nadie de la clase.	00:43:10;
+
+[PlayVoice]=00:37:00	Voice05/05-SE/05-SE-O00/05-SE-O00-0140	1	xxx	00:43:10;
+
+[BlackFade]=00:43:11	OUT	00:43:23;
+
+[PlayMovie]=00:43:23	Movie05/05-SE/05-SE-O00/05-SE-O00-012	0	00:51:02;
+
+[BlackFade]=00:43:23	IN	00:44:11;
+
+[PrintText]=00:44:10	Makoto	Simplemente se fue.	00:48:03;
+
+[PlayVoice]=00:44:10	Voice05/05-SE/05-SE-O00/05-SE-O00-0150	1	xxx	00:48:03;
+
+[BlackFade]=00:48:02	OUT	00:51:02;
+
+ ;
+
+[Next]=00:51:02;
+
+
+

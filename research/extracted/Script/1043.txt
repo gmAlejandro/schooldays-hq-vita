@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:12:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:12:13;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:12:13;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-H03/04-KC-H03-001	00:03:12;
+
+[PrintText]=00:00:00	Makoto	No... Aquí no.	00:02:23;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-H03/04-KC-H03-0030	1	mak	00:02:23;
+
+[PrintText]=00:03:00	Sekai	Ah...	00:03:13;
+
+[PlayVoice]=00:03:00	Voice04/04-KC/04-KC-H03/04-KC-H03-0040	0	sek	00:03:13;
+
+[PlayMovie]=00:03:12	Movie04/04-KC/04-KC-H03/04-KC-H03-002	0	00:07:16;
+
+[PrintText]=00:03:12	Sekai	Sí... tienes razón.	00:06:20;
+
+[PlayVoice]=00:03:12	Voice04/04-KC/04-KC-H03/04-KC-H03-0060	0	sek	00:06:20;
+
+[PrintText]=00:06:20	Makoto	Uh-huh...	00:07:14;
+
+[PlayVoice]=00:06:20	Voice04/04-KC/04-KC-H03/04-KC-H03-0080	1	mak	00:07:14;
+
+[PrintText]=00:07:14	Sekai	Lo siento.	00:08:18;
+
+[PlayVoice]=00:07:14	Voice04/04-KC/04-KC-H03/04-KC-H03-0090	0	sek	00:08:18;
+
+[PlayMovie]=00:07:16	Movie04/04-KC/04-KC-H03/04-KC-H03-003	0	00:12:13;
+
+[PrintText]=00:08:18	Makoto	No es nada.	00:09:17;
+
+[PlayVoice]=00:08:18	Voice04/04-KC/04-KC-H03/04-KC-H03-0100	1	mak	00:09:17;
+
+[PrintText]=00:09:17	Sekai	...	00:10:11;
+
+[PlayVoice]=00:09:17	Voice04/04-KC/04-KC-H03/04-KC-H03-0110	0	xxx	00:10:11;
+
+ ;
+
+[Next]=00:12:13;
+
+

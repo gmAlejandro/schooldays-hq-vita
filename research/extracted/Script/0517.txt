@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:19:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:19:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-A04/03-KA-A04-001	00:11:14;
+
+[PrintText]=00:00:00	Makoto	...	00:01:01;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-A04/03-KA-A04-0030	1	xxx	00:01:01;
+
+[PrintText]=00:01:12	Kotonoha	¡Ah, pero no es como si no tenga amigos o algo así!	00:05:13;
+
+[PlayVoice]=00:01:12	Voice03/03-KA/03-KA-A04/03-KA-A04-0040	0	kot	00:10:15;
+
+[PrintText]=00:05:13	Kotonoha	Es solo que ellos no me conocen tanto como para venir a mi casa.	00:10:15;
+
+[PrintText]=00:10:18	Makoto	Uh-huh.	00:11:11;
+
+[PlayVoice]=00:10:18	Voice03/03-KA/03-KA-A04/03-KA-A04-0050	1	mak	00:11:11;
+
+[CreateBG]=00:11:14	BGS	Event03/03-KA/03-KA-A04/03-KA-A04-002	00:18:07;
+
+[PrintText]=00:11:19	Kotonoha	Y además, te tengo a ti.	00:15:08;
+
+[PlayVoice]=00:11:19	Voice03/03-KA/03-KA-A04/03-KA-A04-0060	0	kot	00:15:08;
+
+[PrintText]=00:15:21	Makoto	Es verdad.	00:17:05;
+
+[PlayVoice]=00:15:21	Voice03/03-KA/03-KA-A04/03-KA-A04-0070	1	mak	00:17:05;
+
+[PrintText]=00:17:10	Kotonoha	Sí.	00:18:00;
+
+[PlayVoice]=00:17:10	Voice03/03-KA/03-KA-A04/03-KA-A04-0080	0	kot	00:18:00;
+
+[CreateBG]=00:18:07	BGS	Event03/03-KA/03-KA-A04/03-KA-A04-003	00:19:23;
+
+[PrintText]=00:18:11	Makoto	Kotonoha...	00:19:18;
+
+[PlayVoice]=00:18:11	Voice03/03-KA/03-KA-A04/03-KA-A04-0090	1	mak	00:19:18;
+
+ ;
+
+[Next]=00:19:23;
+
+

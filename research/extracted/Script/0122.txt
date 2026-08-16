@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:07:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:13:17;
+
+[PlaySe]=00:00:00	1	Voice01/01-00/01-00-R00/01-00-R00-0054	00:05:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-R02/01-00-R02-001	00:02:00;
+
+[PlayMovie]=00:02:00	Ini/Movie01/01-00/01-00-R02/01-00-R02-002	0	00:04:06;
+
+#[PrintText]=00:02:02	Makoto	"¿Es acerca de Kotonoha?".	00:04:08;
+
+[PlayMovie]=00:04:06	Ini/Movie01/01-00/01-00-R02/01-00-R02-003	0	00:06:16;
+
+#[PrintText]=00:04:08	Sekai	"¡Sí! ¡Lo que hiciste no!".	00:05:15;
+
+[PlaySe]=00:05:21	2	Voice01/01-00/01-00-R00/01-00-R00-0055	00:13:16;
+
+[CreateBG]=00:06:16	BGS	Event01/01-00/01-00-R02/01-00-R02-004	00:13:17;
+
+[PrintText]=00:06:21	Makoto	'Hice', huh...	00:09:18;
+
+[PlayVoice]=00:06:21	Voice01/01-00/01-00-R02/01-00-R02-0040	1	mak	00:09:18;
+
+[SetSELECT]=00:07:17	'¿Te refieres al beso?'	'¿Te refieres a la cita de ayer?'	00:12:17;
+
+ ;
+
+[Next]=00:13:17;
+
+
+
+

@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:09:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:09:14;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-D05/SE01-00-D05-001	00:09:14;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-D05/01-00-D05-001	00:04:01;
+
+[PrintText]=00:00:12	Makoto	...Incómodo.	00:02:02;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-D05/01-00-D05-0030	1	mak	00:02:02;
+
+[PrintText]=00:01:16	Sekai	Eheheh... no te avergüences ahora.	00:04:09;
+
+[PlayVoice]=00:01:16	Voice01/01-00/01-00-D05/01-00-D05-0040	0	sek	00:04:09;
+
+[CreateBG]=00:04:01	BGS	Event01/01-00/01-00-D05/01-00-D05-002	00:05:03;
+
+[PrintText]=00:04:01	Makoto	Tsk.	00:04:20;
+
+[PlayVoice]=00:04:01	Voice01/01-00/01-00-D05/01-00-D05-0050	1	mak	00:04:20;
+
+[CreateBG]=00:05:03	BGS	Event01/01-00/01-00-D05/01-00-D05-003	00:09:13;
+
+[PrintText]=00:05:03	Sekai	Bueno, que tengas suerte.	00:06:16;
+
+[PlayVoice]=00:05:03	Voice01/01-00/01-00-D05/01-00-D05-0060	0	sek	00:06:16;
+
+[PrintText]=00:06:17	Makoto	...Vale.	00:08:10;
+
+[PlayVoice]=00:06:17	Voice01/01-00/01-00-D05/01-00-D05-0070	1	mak	00:08:10;
+
+ ;
+
+[Next]=00:09:14;
+
+
+
+

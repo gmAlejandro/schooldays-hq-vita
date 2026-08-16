@@ -1,0 +1,87 @@
+﻿[SkipFRAME]=00:41:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	00:41:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-A09/03-KA-A09-001A	00:02:19;
+
+[PrintText]=00:00:00	Makoto	Bueno, gracias por invitarme.	00:02:19;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-A09/03-KA-A09-0040	1	mak	00:02:19;
+
+[CreateBG]=00:02:19	BGS	Event03/03-KA/03-KA-A09/03-KA-A09-001B	00:04:19;
+
+[PrintText]=00:02:20	Padre de Kotonoha	Mm... mmn...	00:04:15;
+
+[PlayVoice]=00:02:20	Voice03/03-KA/03-KA-A09/03-KA-A09-0050	1	tit	00:04:15;
+
+[PrintText]=00:03:22	Kokoro	Él no era peligroso como imaginaste, papá.	00:08:18;
+
+[PlayVoice]=00:03:22	Voice03/03-KA/03-KA-A09/03-KA-A09-0060	0	kok	00:08:18;
+
+[CreateBG]=00:04:19	BGS	Event03/03-KA/03-KA-A09/03-KA-A09-001C	00:11:01;
+
+[PrintText]=00:08:15	Kotonoha	'Peligroso'... ¿En qué estabas pensando papá?^	00:13:21;
+
+[PlayVoice]=00:08:15	Voice03/03-KA/03-KA-A09/03-KA-A09-0070	0	kot	00:13:21;
+
+[CreateBG]=00:11:01	BGS	Event03/03-KA/03-KA-A09/03-KA-A09-001D	00:18:01;
+
+[PrintText]=00:13:18	Padre de Kotonoha	Bueno... ya sabes.	00:16:15;
+
+[PlayVoice]=00:13:18	Voice03/03-KA/03-KA-A09/03-KA-A09-0080	1	tit	00:16:15;
+
+[PrintText]=00:16:15	Kotonoha	¡Papá!	00:17:23;
+
+[PlayVoice]=00:16:15	Voice03/03-KA/03-KA-A09/03-KA-A09-0090	0	kot	00:17:23;
+
+[CreateBG]=00:18:01	BGS	Event03/03-KA/03-KA-A09/03-KA-A09-002A	00:21:14;
+
+[PrintText]=00:18:03	Padre de Kotonoha	Ven cuando quieras.	00:20:17;
+
+[PlayVoice]=00:18:03	Voice03/03-KA/03-KA-A09/03-KA-A09-0100	1	tit	00:20:17;
+
+[PrintText]=00:20:15	Makoto	Lo haré.	00:21:12;
+
+[PlayVoice]=00:20:15	Voice03/03-KA/03-KA-A09/03-KA-A09-0110	1	mak	00:21:12;
+
+[CreateBG]=00:21:14	BGS	Event03/03-KA/03-KA-A09/03-KA-A09-002B	00:25:09;
+
+[PrintText]=00:21:16	Madre de Kotonoha	Oh, ¿Ya te vas a casa? ¿Qué hay de la cena?^	00:25:08;
+
+[PlayVoice]=00:21:16	Voice03/03-KA/03-KA-A09/03-KA-A09-0120	0	man	00:25:08;
+
+[CreateBG]=00:25:09	BGS	Event03/03-KA/03-KA-A09/03-KA-A09-002C	00:34:11;
+
+[PrintText]=00:25:10	Makoto	Ah, no, tengo que estar en casa pronto.	00:28:04;
+
+[PlayVoice]=00:25:10	Voice03/03-KA/03-KA-A09/03-KA-A09-0130	1	mak	00:28:04;
+
+[PrintText]=00:28:10	Madre de Kotonoha	¿En serio? Bueno, nos veremos luego. La próxima vez, cenas con nosotros ¿Vale?^	00:33:10;
+
+[PlayVoice]=00:28:10	Voice03/03-KA/03-KA-A09/03-KA-A09-0140	0	man	00:33:10;
+
+[PrintText]=00:33:13	Makoto	Lo haré.	00:34:09;
+
+[PlayVoice]=00:33:13	Voice03/03-KA/03-KA-A09/03-KA-A09-0150	1	mak	00:34:09;
+
+[CreateBG]=00:34:11	BGS	Event03/03-KA/03-KA-A09/03-KA-A09-003	00:41:15;
+
+[PrintText]=00:34:15	Kotonoha	Iré con él hasta la estación mamá.	00:38:08;
+
+[PlayVoice]=00:34:15	Voice03/03-KA/03-KA-A09/03-KA-A09-0160	0	kot	00:38:08;
+
+[PrintText]=00:38:06	Madre de Kotonoha	Sí, está bien.	00:39:04;
+
+[PlayVoice]=00:38:06	Voice03/03-KA/03-KA-A09/03-KA-A09-0170	0	man	00:39:04;
+
+[PrintText]=00:39:08	Makoto	Gracias por invitarme.	00:40:12;
+
+[PlayVoice]=00:39:08	Voice03/03-KA/03-KA-A09/03-KA-A09-0180	1	mak	00:40:12;
+
+[BlackFade]=00:40:15	OUT	00:41:15;
+
+ ;
+
+[Next]=00:41:15;
+
+

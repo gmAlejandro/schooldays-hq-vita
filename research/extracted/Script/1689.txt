@@ -1,0 +1,130 @@
+﻿[SkipFRAME]=02:30:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:46:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	01:46:10;
+
+[PlayMovie]=00:00:00	Movie05/05-SA/05-SA-G05/05-SA-G05-001	0	00:07:01;
+
+[PrintText]=00:00:00	Makoto	Uuh...	00:01:21;
+
+[PlayVoice]=00:00:00	Voice05/05-SA/05-SA-G05/05-SA-G05-0040	1	mak	00:01:21;
+
+[PrintText]=00:01:22	Kotonoha	Voy en serio.	00:05:02;
+
+[PlayVoice]=00:01:22	Voice05/05-SA/05-SA-G05/05-SA-G05-0050	0	kot	00:05:02;
+
+[PrintText]=00:05:02	Makoto	¿Eh...?^	00:07:01;
+
+[PlayVoice]=00:05:02	Voice05/05-SA/05-SA-G05/05-SA-G05-0060	1	mak	00:07:01;
+
+[PlayMovie]=00:07:01	Movie05/05-SA/05-SA-G05/05-SA-G05-002	0	00:26:03;
+
+[PrintText]=00:07:01	Kotonoha	Puedo hacer cualquier cosa por ti... solo no quiero que otra chica se te acerque.	00:15:03;
+
+[PlayVoice]=00:07:01	Voice05/05-SA/05-SA-G05/05-SA-G05-0070	0	kot	00:15:03;
+
+[PrintText]=00:15:04	Makoto	¿Se me acerque...?^	00:18:06;
+
+[PlayVoice]=00:15:04	Voice05/05-SA/05-SA-G05/05-SA-G05-0080	1	mak	00:18:06;
+
+[PrintText]=00:18:06	Kotonoha	Yo... sé que te preocupas por Saionji-san.	00:23:12;
+
+[PlayVoice]=00:18:06	Voice05/05-SA/05-SA-G05/05-SA-G05-0090	0	kot	00:23:12;
+
+[PrintText]=00:23:13	Makoto	...	00:26:02;
+
+[PlayVoice]=00:23:13	Voice05/05-SA/05-SA-G05/05-SA-G05-0100	1	xxx	00:26:02;
+
+[CreateBG]=00:26:03	BGS	Event05/05-SA/05-SA-G05/05-SA-G05-003	00:42:14;
+
+[PrintText]=00:26:03	Kotonoha	Pero te amo más que cualquiera. Puedo hacer más de lo que ella puede.	00:32:12;
+
+[PlayVoice]=00:26:03	Voice05/05-SA/05-SA-G05/05-SA-G05-0110	0	kot	00:32:12;
+
+[PrintText]=00:32:12	Makoto	Kotonoha...	00:35:04;
+
+[PlayVoice]=00:32:12	Voice05/05-SA/05-SA-G05/05-SA-G05-0120	1	mak	00:35:04;
+
+[PrintText]=00:35:04	Kotonoha	Y... también quiero pedirte que me hagas muchas cosas.	00:42:14;
+
+[PlayVoice]=00:35:04	Voice05/05-SA/05-SA-G05/05-SA-G05-0130	0	kot	00:42:14;
+
+[CreateBG]=00:42:14	BGS	Event05/05-SA/05-SA-G05/05-SA-G05-004	00:54:18;
+
+[PrintText]=00:42:14	Kotonoha	Ayer... mientras los lamías, se sentía... terriblemente bien.	00:50:10;
+
+[PlayVoice]=00:42:14	Voice05/05-SA/05-SA-G05/05-SA-G05-0150	0	kot	00:50:10;
+
+[PrintText]=00:50:11	Kotonoha	¿No quieres hacer más cosas conmigo?^	00:54:17;
+
+[PlayVoice]=00:50:11	Voice05/05-SA/05-SA-G05/05-SA-G05-0160	0	kot	00:54:17;
+
+[CreateBG]=00:54:18	BGS	Event05/05-SA/05-SA-G05/05-SA-G05-005	01:11:18;
+
+[PrintText]=00:54:18	Makoto	¿Más...?^	00:57:18;
+
+[PlayVoice]=00:54:18	Voice05/05-SA/05-SA-G05/05-SA-G05-0170	1	mak	00:57:18;
+
+[PrintText]=00:57:18	Kotonoha	No solo con mis pechos, también con todo mi cuerpo... todo lo que quieras...	01:04:08;
+
+[PlayVoice]=00:57:18	Voice05/05-SA/05-SA-G05/05-SA-G05-0180	0	kot	01:04:08;
+
+[PrintText]=01:04:09	Makoto	Todo lo que yo quiera...	01:07:04;
+
+[PlayVoice]=01:04:09	Voice05/05-SA/05-SA-G05/05-SA-G05-0190	1	mak	01:07:04;
+
+[PrintText]=01:07:04	Kotonoha	¿Puedo ir a tu casa hoy?^	01:09:11;
+
+[PlayVoice]=01:07:04	Voice05/05-SA/05-SA-G05/05-SA-G05-0200	0	kot	01:09:11;
+
+[PrintText]=01:09:11	Makoto	¿Eh?^	01:11:17;
+
+[PlayVoice]=01:09:11	Voice05/05-SA/05-SA-G05/05-SA-G05-0210	1	mak	01:11:17;
+
+[CreateBG]=01:11:18	BGS	Event05/05-SA/05-SA-G05/05-SA-G05-006	01:21:11;
+
+[PrintText]=01:11:18	Kotonoha	A tu casa. Quiero hacerlo contigo cuanto antes... quiero que me abraces...	01:21:10;
+
+[PlayVoice]=01:11:18	Voice05/05-SA/05-SA-G05/05-SA-G05-0220	0	kot	01:21:10;
+
+[PlayMovie]=01:21:11	Movie05/05-SA/05-SA-G05/05-SA-G05-007	0	01:30:10;
+
+[PrintText]=01:21:16	Makoto	...Vale.	01:24:01;
+
+[PlayVoice]=01:21:16	Voice05/05-SA/05-SA-G05/05-SA-G05-0230	1	mak	01:24:01;
+
+[PrintText]=01:24:21	Makoto	Tal vez sea deseo...	01:26:11;
+
+[PlayVoice]=01:24:21	Voice05/05-SA/05-SA-G05/05-SA-G05-0250	1	xxx	01:26:11;
+
+[PrintText]=01:27:16	Makoto	Pero aún así...	01:30:00;
+
+[PlayVoice]=01:27:16	Voice05/05-SA/05-SA-G05/05-SA-G05-0260	1	xxx	01:30:00;
+
+[PrintText]=01:30:09	Makoto	...no puedo evitarlo...	01:31:13;
+
+[PlayVoice]=01:30:09	Voice05/05-SA/05-SA-G05/05-SA-G05-0270	1	xxx	01:31:13;
+
+[PlayMovie]=01:30:10	Movie05/05-SA/05-SA-G05/05-SA-G05-008	0	01:46:10;
+
+[PrintText]=01:31:19	Makoto	...poco a poco, la forma en la que siento nuestros cuerpos unidos...	01:38:14;
+
+[PlayVoice]=01:31:19	Voice05/05-SA/05-SA-G05/05-SA-G05-0280	1	xxx	01:38:14;
+
+[PrintText]=01:39:00	Makoto	¿Es esto amor? Me pregunto si lo es...	01:46:09;
+
+[PlayVoice]=01:39:00	Voice05/05-SA/05-SA-G05/05-SA-G05-0290	1	xxx	01:46:09;
+
+[EndBGM]=01:42:04	BGM/Vocal/SDV03	03:46:23;
+
+[CreateBG]=01:46:10	BGS	Ini/EndRoll/05-13	01:50:00;
+
+[EndRoll]=01:50:00	Ini/EndRoll/GOOD	02:30:00;
+
+ ;
+
+[Next]=02:30:00;
+
+
+

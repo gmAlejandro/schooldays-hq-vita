@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:07:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:13:21;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-I00/04-SA-I00-001	00:02:17;
+
+[CreateBG]=00:02:17	BGS	Event04/04-SA/04-SA-I00/04-SA-I00-002	00:13:21;
+
+[PrintText]=00:03:22	Makoto	Haah...	00:05:03;
+
+[PlayVoice]=00:03:22	Voice04/04-SA/04-SA-I00/04-SA-I00-0040	1	mak	00:05:03;
+
+[PrintText]=00:05:09	Makoto	¿Qué debería hacer...?^	00:06:23;
+
+[PlayVoice]=00:05:09	Voice04/04-SA/04-SA-I00/04-SA-I00-0050	1	mak	00:06:23;
+
+[SetSELECT]=00:07:19	*Hablarlo con Sekai*	*No ir*	00:12:19;
+
+ ;
+
+[Next]=00:13:21;
+
+

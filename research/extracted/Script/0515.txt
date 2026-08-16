@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:13:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:13:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-A02/03-KA-A02-001	00:07:20;
+
+[PrintText]=00:00:00	Makoto	Me tienes a mí ¿No?^	00:02:11;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-A02/03-KA-A02-0030	1	mak	00:02:11;
+
+[PrintText]=00:02:07	Kotonoha	¡¿Eh?!	00:03:02;
+
+[PlayVoice]=00:02:07	Voice03/03-KA/03-KA-A02/03-KA-A02-0040	0	kot	00:03:02;
+
+[PrintText]=00:02:21	Makoto	¿O no es suficiente?^	00:05:05;
+
+[PlayVoice]=00:02:21	Voice03/03-KA/03-KA-A02/03-KA-A02-0050	1	mak	00:05:05;
+
+[PrintText]=00:04:22	Kotonoha	¡N-no!	00:06:06;
+
+[PlayVoice]=00:04:22	Voice03/03-KA/03-KA-A02/03-KA-A02-0060	0	kot	00:06:06;
+
+[PrintText]=00:06:11	Makoto	...	00:07:13;
+
+[PlayVoice]=00:06:11	Voice03/03-KA/03-KA-A02/03-KA-A02-0070	1	xxx	00:07:13;
+
+[CreateBG]=00:07:20	BGS	Event03/03-KA/03-KA-A02/03-KA-A02-002	00:12:07;
+
+[PrintText]=00:08:00	Kotonoha	Siempre y cuando te tenga... entonces lo demás... yo...	00:12:06;
+
+[PlayVoice]=00:08:00	Voice03/03-KA/03-KA-A02/03-KA-A02-0080	0	kot	00:12:06;
+
+[CreateBG]=00:12:07	BGS	Event03/03-KA/03-KA-A02/03-KA-A02-003	00:13:21;
+
+[PrintText]=00:12:08	Makoto	Kotonoha...	00:13:13;
+
+[PlayVoice]=00:12:08	Voice03/03-KA/03-KA-A02/03-KA-A02-0090	1	mak	00:13:13;
+
+ ;
+
+[Next]=00:13:21;
+
+

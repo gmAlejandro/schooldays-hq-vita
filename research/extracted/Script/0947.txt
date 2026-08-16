@@ -1,0 +1,141 @@
+﻿[SkipFRAME]=01:04:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:22:01;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-G05/SE04-KA-G05-001	01:04:03;
+
+[PlayMovie]=00:00:00	Movie04/04-KA/04-KA-G06/04-KA-G06-001	0	00:16:02;
+
+[PrintText]=00:00:05	Makoto	¿Qué tengo que pretender ser?^	00:02:03;
+
+[PlayVoice]=00:00:05	Voice04/04-KA/04-KA-G06/04-KA-G06-0030	1	mak	00:02:03;
+
+[PrintText]=00:02:01	Setsuna	¡Labiosh de Pulpo!	00:03:14;
+
+[PlayVoice]=00:02:01	Voice04/04-KA/04-KA-G06/04-KA-G06-0040	0	set	00:03:14;
+
+[PrintText]=00:03:16	Makoto	¿L-Labios de Pulpo?^	00:06:02;
+
+[PlayVoice]=00:03:16	Voice04/04-KA/04-KA-G06/04-KA-G06-0050	1	mak	00:06:02;
+
+[PrintText]=00:06:02	Setsuna	Mantén esos labiossh.	00:08:10;
+
+[PlayVoice]=00:06:02	Voice04/04-KA/04-KA-G06/04-KA-G06-0060	0	set	00:08:10;
+
+[PrintText]=00:08:10	Makoto	¿Oh, así?^	00:11:18;
+
+[PlayVoice]=00:08:10	Voice04/04-KA/04-KA-G06/04-KA-G06-0070	1	mak	00:11:18;
+
+[PrintText]=00:11:11	Setsuna	Entoncessh cuentaa hasta diezz.	00:16:02;
+
+[PlayVoice]=00:11:11	Voice04/04-KA/04-KA-G06/04-KA-G06-0080	0	set	00:16:02;
+
+[CreateBG]=00:16:02	BGS	Event04/04-KA/04-KA-G06/04-KA-G06-002	00:18:07;
+
+[PrintText]=00:16:06	Makoto	¿Hasta diez, huh?^	00:17:11;
+
+[PlayVoice]=00:16:06	Voice04/04-KA/04-KA-G06/04-KA-G06-0090	1	mak	00:17:11;
+
+[PrintText]=00:17:19	Makoto	1, 2, 3...	00:21:15;
+
+[PlayVoice]=00:17:19	Voice04/04-KA/04-KA-G06/04-KA-G06-0100	1	xxx	00:21:15;
+
+[PlayMovie]=00:18:07	Movie04/04-KA/04-KA-G06/04-KA-G06-003	0	00:24:07;
+
+[PrintText]=00:21:20	Makoto	¿Huh...?^	00:22:10;
+
+[PlayVoice]=00:21:20	Voice04/04-KA/04-KA-G06/04-KA-G06-0120	1	mak	00:22:10;
+
+[PrintText]=00:22:06	Setsuna	Nn...	00:24:07;
+
+[PlayVoice]=00:22:06	Voice04/04-KA/04-KA-G06/04-KA-G06-0140	0	set	00:24:07;
+
+[PlaySe]=00:22:09	1	Voice04/04-KA/04-KA-G06/04-KA-G06-0110	00:24:14;
+
+[PlaySe]=00:22:19	2	Se04/04-KA/04-KA-G06/SE04-KA-G06-001	00:23:12;
+
+[PlaySe]=00:23:07	3	Se04/04-KA/04-KA-G06/SE04-KA-G06-001	00:24:00;
+
+[PrintText]=00:24:06	Makoto	¡Bwaaah!	00:25:13;
+
+[PlayVoice]=00:24:06	Voice04/04-KA/04-KA-G06/04-KA-G06-0160	1	mak	00:25:13;
+
+[CreateBG]=00:24:07	BGS	Event04/04-KA/04-KA-G06/04-KA-G06-004	00:25:15;
+
+[PrintText]=00:25:14	Setsuna	Hecho.	00:27:01;
+
+[PlayVoice]=00:25:14	Voice04/04-KA/04-KA-G06/04-KA-G06-0180	0	set	00:27:01;
+
+[PlayBgm]=00:25:15	BGM/SD_BGM/sdbgm13	01:04:03;
+
+[CreateBG]=00:25:15	BGS	Event04/04-KA/04-KA-G06/04-KA-G06-004A	00:26:17;
+
+[PrintText]=00:26:14	Makoto	¿Qué quieres decir con, Hecho? Esto no es broma!	00:31:10;
+
+[PlayVoice]=00:26:14	Voice04/04-KA/04-KA-G06/04-KA-G06-0200	1	mak	00:31:10;
+
+[CreateBG]=00:26:17	BGS	Event04/04-KA/04-KA-G06/04-KA-G06-004B	00:31:04;
+
+[PrintText]=00:31:03	Hikari	Lo tengo.	00:32:19;
+
+[PlayVoice]=00:31:03	Voice04/04-KA/04-KA-G06/04-KA-G06-0210	0	hik	00:32:19;
+
+[CreateBG]=00:31:04	BGS	Event04/04-KA/04-KA-G06/04-KA-G06-004C	00:36:06;
+
+[PrintText]=00:32:10	Makoto	¡Para! ¡Borra esa foto!	00:34:07;
+
+[PlayVoice]=00:32:10	Voice04/04-KA/04-KA-G06/04-KA-G06-0230	1	mak	00:34:07;
+
+[PrintText]=00:34:00	Hikari	¡Creo que iré a decírselo a Sekai!	00:36:16;
+
+[PlayVoice]=00:34:00	Voice04/04-KA/04-KA-G06/04-KA-G06-0240	0	hik	00:36:16;
+
+[PrintText]=00:36:03	Makoto	¡Para ya!	00:38:05;
+
+[PlayVoice]=00:36:03	Voice04/04-KA/04-KA-G06/04-KA-G06-0250	1	mak	00:38:05;
+
+[CreateBG]=00:36:06	BGS	Event04/04-KA/04-KA-G06/04-KA-G06-004D	00:37:18;
+
+[PrintText]=00:37:17	Taisuke	¡Tu y makoto se ven bien juntos, Se-chan! ¡Woooooo!	00:44:11;
+
+[PlayVoice]=00:37:17	Voice04/04-KA/04-KA-G06/04-KA-G06-0260	1	tai	00:44:11;
+
+[CreateBG]=00:37:18	BGS	Event04/04-KA/04-KA-G06/04-KA-G06-004E	00:44:04;
+
+[WhiteFade]=00:43:04	OUT	00:44:04;
+
+[PrintText]=00:44:01	Setsuna	Eheheh...	00:45:00;
+
+[PlayVoice]=00:44:01	Voice04/04-KA/04-KA-G06/04-KA-G06-0280	0	set	00:45:00;
+
+[PlayMovie]=00:44:04	Movie04/04-KA/04-KA-G06/04-KA-G06-005	0	01:04:03;
+
+[WhiteFade]=00:44:04	IN	00:45:04;
+
+[PrintText]=00:44:20	Taisuke	¡Muy bien! ¡Ahora que usted ha tenido el beso, pasa al siguiente reto!	00:52:09;
+
+[PlayVoice]=00:44:20	Voice04/04-KA/04-KA-G06/04-KA-G06-0290	1	tai	00:52:09;
+
+[PrintText]=00:52:00	Setsuna	Daré lo mejooor.	00:53:05;
+
+[PlayVoice]=00:52:00	Voice04/04-KA/04-KA-G06/04-KA-G06-0300	0	set	00:53:05;
+
+[PrintText]=00:52:16	Makoto	¡No hay mas retos! ¡Para ya!	00:55:05;
+
+[PlayVoice]=00:52:16	Voice04/04-KA/04-KA-G06/04-KA-G06-0310	1	mak	00:55:05;
+
+[PrintText]=00:54:21	Hikari	Mantenlo ahí.	00:56:18;
+
+[PlayVoice]=00:54:21	Voice04/04-KA/04-KA-G06/04-KA-G06-0320	0	hik	00:56:18;
+
+[PrintText]=00:56:04	Makoto	¡Uwah...! ¡D-Dejenme ir! ¡Malditos borrachos!	01:02:14;
+
+[PlayVoice]=00:56:04	Voice04/04-KA/04-KA-G06/04-KA-G06-0330	1	mak	01:02:14;
+
+[BlackFade]=01:02:03	OUT	01:04:03;
+
+ ;
+
+[Next]=01:04:03;
+
+

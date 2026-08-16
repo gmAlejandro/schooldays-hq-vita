@@ -1,0 +1,117 @@
+﻿[SkipFRAME]=01:20:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	01:20:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-D08/03-KB-D08-001	00:15:06;
+
+[PrintText]=00:00:00	Makoto	Ya no tengo nada con esa chica.	00:02:06;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-D08/03-KB-D08-0030	1	mak	00:02:06;
+
+[PrintText]=00:02:07	Taisuke	¡¿Eh?!	00:02:20;
+
+[PlayVoice]=00:02:07	Voice03/03-KB/03-KB-D08/03-KB-D08-0040	1	tai	00:02:20;
+
+[PrintText]=00:02:20	Makoto	Simplemente no funcionaba entre nosotros.	00:05:10;
+
+[PlayVoice]=00:02:20	Voice03/03-KB/03-KB-D08/03-KB-D08-0050	1	mak	00:05:10;
+
+[PrintText]=00:05:10	Taisuke	¿'No funcionaba'...? Tuvieron una pequeña pelea ¿No?^	00:10:06;
+
+[PlayVoice]=00:05:10	Voice03/03-KB/03-KB-D08/03-KB-D08-0060	1	tai	00:10:06;
+
+[PrintText]=00:10:06	Makoto	Es más diferente de como nos sentimos que una pel... espera ¡¿Cómo lo sabías?!	00:18:03;
+
+[PlayVoice]=00:10:06	Voice03/03-KB/03-KB-D08/03-KB-D08-0070	1	mak	00:18:03;
+
+[CreateBG]=00:15:06	BGS	Event03/03-KB/03-KB-D08/03-KB-D08-002	00:24:15;
+
+[PrintText]=00:18:03	Taisuke	¿A quién le importa?! Escucha, las peleas siempre suelen suceder en una pareja ¿No?^	00:24:15;
+
+[PlayVoice]=00:18:03	Voice03/03-KB/03-KB-D08/03-KB-D08-0080	1	tai	00:24:15;
+
+[CreateBG]=00:24:15	BGS	Event03/03-KB/03-KB-D08/03-KB-D08-003	00:34:17;
+
+[PrintText]=00:24:15	Makoto	¿Tú... lo crees?^	00:26:23;
+
+[PlayVoice]=00:24:15	Voice03/03-KB/03-KB-D08/03-KB-D08-0090	1	mak	00:26:23;
+
+[PrintText]=00:26:23	Taisuke	No puedes decir 'Venga, terminemos' solo porque tuvieron una pequeña pelea.	00:32:18;
+
+[PlayVoice]=00:26:23	Voice03/03-KB/03-KB-D08/03-KB-D08-0100	1	tai	00:32:18;
+
+[PrintText]=00:32:18	Makoto	S-Sí.	00:34:16;
+
+[PlayVoice]=00:32:18	Voice03/03-KB/03-KB-D08/03-KB-D08-0110	1	mak	00:34:16;
+
+[PrintText]=00:34:16	Taisuke	Sí eres un verdadero caballero, entonces tienes que ponerte en sus zapatos.	00:38:14;
+
+[PlayVoice]=00:34:16	Voice03/03-KB/03-KB-D08/03-KB-D08-0120	1	tai	00:38:14;
+
+[CreateBG]=00:34:17	BGS	Event03/03-KB/03-KB-D08/03-KB-D08-004	00:59:06;
+
+[PrintText]=00:38:13	Makoto	Sí... tienes razón.	00:42:05;
+
+[PlayVoice]=00:38:13	Voice03/03-KB/03-KB-D08/03-KB-D08-0130	1	mak	00:42:05;
+
+[PrintText]=00:42:05	Taisuke	¡Escúchame! ¡Harás las pases con ella!	00:45:19;
+
+[PlayVoice]=00:42:05	Voice03/03-KB/03-KB-D08/03-KB-D08-0140	1	tai	00:45:19;
+
+[PrintText]=00:45:20	Makoto	Ya...Ya veo... Pensaré en ello.	00:49:15;
+
+[PlayVoice]=00:45:20	Voice03/03-KB/03-KB-D08/03-KB-D08-0150	1	mak	00:49:15;
+
+[PrintText]=00:49:15	Taisuke	No solo pienses, ¡Actúa! ¿Vale?^	00:53:20;
+
+[PlayVoice]=00:49:15	Voice03/03-KB/03-KB-D08/03-KB-D08-0160	1	tai	00:53:20;
+
+[PrintText]=00:53:19	Makoto	Vale, arreglaré las cosas.	00:56:19;
+
+[PlayVoice]=00:53:19	Voice03/03-KB/03-KB-D08/03-KB-D08-0170	1	mak	00:56:19;
+
+[PrintText]=00:56:19	Taisuke	Bien, volviendo al tema...	00:59:06;
+
+[PlayVoice]=00:56:19	Voice03/03-KB/03-KB-D08/03-KB-D08-0180	1	tai	00:59:06;
+
+[CreateBG]=00:59:06	BGS	Event03/03-KB/03-KB-D08/03-KB-D08-001	01:12:19;
+
+[PrintText]=00:59:06	Makoto	Sí ¿De qué estábamos hablando?^	01:01:20;
+
+[PlayVoice]=00:59:06	Voice03/03-KB/03-KB-D08/03-KB-D08-0190	1	mak	01:01:20;
+
+[PrintText]=01:01:19	Taisuke	Acerca de que invitaría a Saionji al festival.	01:05:06;
+
+[PlayVoice]=01:01:19	Voice03/03-KB/03-KB-D08/03-KB-D08-0200	1	tai	01:05:06;
+
+[PrintText]=01:05:06	Makoto	Ah...	01:05:21;
+
+[PlayVoice]=01:05:06	Voice03/03-KB/03-KB-D08/03-KB-D08-0210	1	mak	01:05:21;
+
+[PrintText]=01:05:21	Taisuke	Bueno, daré mi mejor esfuerzo, tú también hazlo arreglando las cosas con tu novia.	01:10:16;
+
+[PlayVoice]=01:05:21	Voice03/03-KB/03-KB-D08/03-KB-D08-0220	1	tai	01:10:16;
+
+[PrintText]=01:10:16	Makoto	S-Sí...	01:12:18;
+
+[PlayVoice]=01:10:16	Voice03/03-KB/03-KB-D08/03-KB-D08-0230	1	mak	01:12:18;
+
+[PrintText]=01:12:18	Taisuke	Haah... Me siento tan aliviado al decirte todo. Bien, nos vemos mañana.	01:17:10;
+
+[PlayVoice]=01:12:18	Voice03/03-KB/03-KB-D08/03-KB-D08-0240	1	tai	01:17:10;
+
+[CreateBG]=01:12:19	BGS	Event03/03-KB/03-KB-D08/03-KB-D08-006	01:20:18;
+
+[PrintText]=01:17:11	Makoto	Sí, mañana...	01:19:17;
+
+[PlayVoice]=01:17:11	Voice03/03-KB/03-KB-D08/03-KB-D08-0250	1	mak	01:19:17;
+
+[PrintText]=01:19:17	Makoto	...	01:20:17;
+
+[PlayVoice]=01:19:17	Voice03/03-KB/03-KB-D08/03-KB-D08-0270	1	xxx	01:20:17;
+
+ ;
+
+[Next]=01:20:18;
+
+

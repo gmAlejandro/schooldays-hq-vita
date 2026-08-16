@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:15:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:15:05;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H01/SE03-KA-H01-001	00:15:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H01/03-KA-H01-001	00:08:17;
+
+[PrintText]=00:00:00	Makoto	...Quería estar contigo.	00:03:01;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H01/03-KA-H01-0030	1	mak	00:03:01;
+
+[PrintText]=00:03:01	Kotonoha	Ah...	00:04:04;
+
+[PlayVoice]=00:03:01	Voice03/03-KA/03-KA-H01/03-KA-H01-0040	0	kot	00:04:04;
+
+[PrintText]=00:04:04	Makoto	Y si me convertía en miembro, podíamos estar juntos durante las reuniones también ¿No?^	00:08:17;
+
+[PlayVoice]=00:04:04	Voice03/03-KA/03-KA-H01/03-KA-H01-0050	1	mak	00:08:17;
+
+[CreateBG]=00:08:17	BGS	Event03/03-KA/03-KA-H01/03-KA-H01-002	00:10:05;
+
+[PrintText]=00:08:17	Kotonoha	Es verdad.	00:10:04;
+
+[PlayVoice]=00:08:17	Voice03/03-KA/03-KA-H01/03-KA-H01-0060	0	kot	00:10:04;
+
+[CreateBG]=00:10:05	BGS	Event03/03-KA/03-KA-H01/03-KA-H01-003	00:13:01;
+
+[PrintText]=00:10:05	Makoto	Es solo hasta el festival, pero será agradable trabajar contigo.	00:13:00;
+
+[PlayVoice]=00:10:05	Voice03/03-KA/03-KA-H01/03-KA-H01-0070	1	mak	00:13:00;
+
+[CreateBG]=00:13:01	BGS	Event03/03-KA/03-KA-H01/03-KA-H01-004	00:15:05;
+
+[PrintText]=00:13:01	Kotonoha	Sí, será bueno trabajar contigo también.	00:14:22;
+
+[PlayVoice]=00:13:01	Voice03/03-KA/03-KA-H01/03-KA-H01-0080	0	kot	00:14:22;
+
+ ;
+
+[Next]=00:15:05;
+
+

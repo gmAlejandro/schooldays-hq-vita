@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:10:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:10:21;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-L00/SE03-KA-L00-001	00:10:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L00/03-KA-L00-001	00:01:23;
+
+[PrintText]=00:00:00	Makoto	Olvídalo.	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-L00/03-KA-L00-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:04	Setsuna	¡¿Eh?!	00:01:18;
+
+[PlayVoice]=00:01:04	Voice03/03-KA/03-KA-L00/03-KA-L00-0040	0	set	00:01:18;
+
+[CreateBG]=00:01:23	BGS	Event03/03-KA/03-KA-L00/03-KA-L00-002	00:08:02;
+
+[PrintText]=00:01:23	Makoto	Comeré aquí. Ven, toma tu almuerzo. Vamos a comer.	00:07:22;
+
+[PlayVoice]=00:01:23	Voice03/03-KA/03-KA-L00/03-KA-L00-0050	1	mak	00:07:22;
+
+[CreateBG]=00:08:02	BGS	Event03/03-KA/03-KA-L00/03-KA-L00-003	00:10:21;
+
+[PrintText]=00:08:16	Setsuna	Bien...	00:09:08;
+
+[PlayVoice]=00:08:16	Voice03/03-KA/03-KA-L00/03-KA-L00-0060	0	set	00:09:08;
+
+[BlackFade]=00:09:21	OUT	00:10:21;
+
+ ;
+
+[Next]=00:10:21;
+
+

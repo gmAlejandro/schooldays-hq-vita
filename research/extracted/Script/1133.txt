@@ -1,0 +1,289 @@
+﻿[SkipFRAME]=03:00:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	03:00:13;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-001	00:01:01;
+
+[PrintText]=00:00:05	Hikari	...Hey.	00:01:02;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-L03/04-SA-L03-0030	0	hik	00:01:02;
+
+[CreateBG]=00:01:01	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-002	00:05:11;
+
+[PrintText]=00:01:02	Sekai	¿Hmn?^	00:01:16;
+
+[PlayVoice]=00:01:02	Voice04/04-SA/04-SA-L03/04-SA-L03-0050	0	sek	00:01:16;
+
+[PrintText]=00:01:16	Hikari	Ella es de la clase 4 ¿No?^	00:03:12;
+
+[PlayVoice]=00:01:16	Voice04/04-SA/04-SA-L03/04-SA-L03-0060	0	hik	00:03:12;
+
+[PrintText]=00:03:12	Sekai	¿Katsura-san? Sí.	00:05:11;
+
+[PlayVoice]=00:03:12	Voice04/04-SA/04-SA-L03/04-SA-L03-0070	0	sek	00:05:11;
+
+[CreateBG]=00:05:11	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-003	00:07:12;
+
+[PrintText]=00:05:11	Hikari	así que es 'Katsura'.	00:07:12;
+
+[PlayVoice]=00:05:11	Voice04/04-SA/04-SA-L03/04-SA-L03-0080	0	hik	00:07:12;
+
+[CreateBG]=00:07:12	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-004	00:22:07;
+
+[PrintText]=00:07:12	Sekai	Está bien. Es una conocida mía, así que la alejare de Taisuke para que hable conmigo.	00:15:11;
+
+[PlayVoice]=00:07:12	Voice04/04-SA/04-SA-L03/04-SA-L03-0090	0	sek	00:15:11;
+
+[PrintText]=00:15:11	Hikari	¿En serio...?^	00:16:22;
+
+[PlayVoice]=00:15:11	Voice04/04-SA/04-SA-L03/04-SA-L03-0100	0	hik	00:16:22;
+
+[PrintText]=00:16:22	Sekai	Las cosas podrían ser diferentes si fuera una extraña, pero ya que la conozco, ella estará de acuerdo.	00:22:06;
+
+[PlayVoice]=00:16:22	Voice04/04-SA/04-SA-L03/04-SA-L03-0110	0	sek	00:22:06;
+
+[PrintText]=00:22:06	Hikari	Pero...  ¿Ella no está interesada en Sawanaga? Después de todo, elle acepto venir con él.	00:28:18;
+
+[PlayVoice]=00:22:06	Voice04/04-SA/04-SA-L03/04-SA-L03-0120	0	hik	00:28:18;
+
+[CreateBG]=00:22:07	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-005	00:28:17;
+
+[CreateBG]=00:28:17	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-006	00:34:17;
+
+[PrintText]=00:28:18	Sekai	Eso está totalmente fuera de tema.	00:31:00;
+
+[PlayVoice]=00:28:18	Voice04/04-SA/04-SA-L03/04-SA-L03-0130	0	sek	00:31:00;
+
+[PrintText]=00:31:00	Hikari	¿En serio?^	00:32:07;
+
+[PlayVoice]=00:31:00	Voice04/04-SA/04-SA-L03/04-SA-L03-0140	0	hik	00:32:07;
+
+[PrintText]=00:32:07	Sekai	Sip, definitivamente estará bien.	00:35:01;
+
+[PlayVoice]=00:32:07	Voice04/04-SA/04-SA-L03/04-SA-L03-0150	0	sek	00:35:01;
+
+[CreateBG]=00:34:17	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-007	00:48:02;
+
+[PrintText]=00:35:01	Taisuke	¡Vamos! ¿Deberíamos comenzar con esa piscina? ¿Los toboganes? o tal vez el sauna como personas sofisticadas...	00:43:09;
+
+[PlayVoice]=00:35:01	Voice04/04-SA/04-SA-L03/04-SA-L03-0180	1	tai	00:43:09;
+
+[PrintText]=00:43:10	Kotonoha	¡Me gustaría intentar con los toboganes!	00:46:12;
+
+[PlayVoice]=00:43:10	Voice04/04-SA/04-SA-L03/04-SA-L03-0190	0	kot	00:46:12;
+
+[PrintText]=00:46:12	Taisuke	¡Vale! ¡Vamos a ese!	00:48:10;
+
+[PlayVoice]=00:46:12	Voice04/04-SA/04-SA-L03/04-SA-L03-0200	1	tai	00:48:10;
+
+[CreateBG]=00:48:02	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-008	01:08:01;
+
+[PrintText]=00:48:10	Sekai	Ah... Katsura-san.	00:50:21;
+
+[PlayVoice]=00:48:10	Voice04/04-SA/04-SA-L03/04-SA-L03-0210	0	sek	00:50:21;
+
+[PrintText]=00:50:22	Kotonoha	¿Sí?^	00:51:16;
+
+[PlayVoice]=00:50:22	Voice04/04-SA/04-SA-L03/04-SA-L03-0220	0	kot	00:51:16;
+
+[PrintText]=00:51:16	Sekai	¿Podemos hablar por un momento?^	00:53:02;
+
+[PlayVoice]=00:51:16	Voice04/04-SA/04-SA-L03/04-SA-L03-0230	0	sek	00:53:02;
+
+[PrintText]=00:53:02	Kotonoha	Seguro.	00:54:00;
+
+[PlayVoice]=00:53:02	Voice04/04-SA/04-SA-L03/04-SA-L03-0240	0	kot	00:54:00;
+
+[PrintText]=00:54:00	Sekai	Sawanaga.	00:55:07;
+
+[PlayVoice]=00:54:00	Voice04/04-SA/04-SA-L03/04-SA-L03-0250	0	sek	00:55:07;
+
+[PrintText]=00:55:07	Taisuke	¿Sí?^	00:56:04;
+
+[PlayVoice]=00:55:07	Voice04/04-SA/04-SA-L03/04-SA-L03-0260	1	tai	00:56:04;
+
+[PrintText]=00:56:03	Sekai	Tengo que hablar con Katsura-san de algo. ¿Por qué no se adelantan tú y Hikari?^	01:00:11;
+
+[PlayVoice]=00:56:03	Voice04/04-SA/04-SA-L03/04-SA-L03-0270	0	sek	01:00:11;
+
+[PrintText]=01:00:11	Taisuke	Aww... está bien, pero apúrense y vengan.	01:03:10;
+
+[PlayVoice]=01:00:11	Voice04/04-SA/04-SA-L03/04-SA-L03-0280	1	tai	01:03:10;
+
+[PrintText]=01:03:11	Sekai	Lo sé. Anda, Hikari.	01:06:12;
+
+[PlayVoice]=01:03:11	Voice04/04-SA/04-SA-L03/04-SA-L03-0290	0	sek	01:06:12;
+
+[PrintText]=01:06:12	Hikari	¡V-Vale!	01:08:02;
+
+[PlayVoice]=01:06:12	Voice04/04-SA/04-SA-L03/04-SA-L03-0300	0	hik	01:08:02;
+
+[CreateBG]=01:08:01	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-009	01:13:17;
+
+[PrintText]=01:08:02	Sekai	...	01:08:18;
+
+[PlayVoice]=01:08:02	Voice04/04-SA/04-SA-L03/04-SA-L03-0350	0	xxx	01:08:18;
+
+[PrintText]=01:08:18	Kotonoha	¿Um... Me quieres hablar de algo?^	01:12:17;
+
+[PlayVoice]=01:08:18	Voice04/04-SA/04-SA-L03/04-SA-L03-0360	0	kot	01:12:17;
+
+[PrintText]=01:12:17	Sekai	No.	01:13:20;
+
+[PlayVoice]=01:12:17	Voice04/04-SA/04-SA-L03/04-SA-L03-0370	0	sek	01:13:20;
+
+[CreateBG]=01:13:17	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-009B	01:22:18;
+
+[PrintText]=01:13:20	Kotonoha	¿Ehh?^	01:14:12;
+
+[PlayVoice]=01:13:20	Voice04/04-SA/04-SA-L03/04-SA-L03-0380	0	kot	01:14:12;
+
+[PrintText]=01:14:13	Sekai	Esa fue mi amiga Hikari. Le gusta Sawanaga, y la estoy ayudando.	01:22:21;
+
+[PlayVoice]=01:14:13	Voice04/04-SA/04-SA-L03/04-SA-L03-0390	0	sek	01:22:21;
+
+[CreateBG]=01:22:18	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-009C	01:29:13;
+
+[PrintText]=01:23:06	Kotonoha	Ya veo... entonces no debemos molestarlos.	01:29:11;
+
+[PlayVoice]=01:23:06	Voice04/04-SA/04-SA-L03/04-SA-L03-0400	0	kot	01:29:11;
+
+[CreateBG]=01:29:13	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-009	01:36:23;
+
+[PrintText]=01:29:21	Sekai	Sip, esa es la idea.	01:32:00;
+
+[PlayVoice]=01:29:21	Voice04/04-SA/04-SA-L03/04-SA-L03-0410	0	sek	01:32:00;
+
+[PrintText]=01:32:05	Kotonoha	Haah... ya veo...	01:35:22;
+
+[PlayVoice]=01:32:05	Voice04/04-SA/04-SA-L03/04-SA-L03-0420	0	kot	01:35:22;
+
+[PlayVoice]=01:35:22	Voice04/04-SA/04-SA-L03/04-SA-L03-0430			01:36:23;
+
+[CreateBG]=01:36:23	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-010	01:45:15;
+
+[PrintText]=01:36:23	Sekai	Katsura-san... ¿Te gusta Sawanaga?^	01:40:22;
+
+[PlayVoice]=01:36:23	Voice04/04-SA/04-SA-L03/04-SA-L03-0440	0	sek	01:40:22;
+
+[PrintText]=01:40:22	Kotonoha	¿'Gustar'...? Bueno, es mi amigo.	01:44:12;
+
+[PlayVoice]=01:40:22	Voice04/04-SA/04-SA-L03/04-SA-L03-0450	0	kot	01:44:12;
+
+[PrintText]=01:44:11	Sekai	Ya veo.	01:45:14;
+
+[PlayVoice]=01:44:11	Voice04/04-SA/04-SA-L03/04-SA-L03-0460	0	sek	01:45:14;
+
+[CreateBG]=01:45:15	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-011	01:48:00;
+
+[PrintText]=01:45:15	Kotonoha	Nos conocimos durante el festival.	01:48:01;
+
+[PlayVoice]=01:45:15	Voice04/04-SA/04-SA-L03/04-SA-L03-0470	0	kot	01:48:01;
+
+[CreateBG]=01:48:00	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-012	01:58:18;
+
+[PrintText]=01:48:02	Sekai	Ahora lo entiendo...	01:49:16;
+
+[PlayVoice]=01:48:02	Voice04/04-SA/04-SA-L03/04-SA-L03-0480	0	sek	01:49:16;
+
+[PrintText]=01:49:15	Kotonoha	¿Acerca de qué?^	01:51:16;
+
+[PlayVoice]=01:49:15	Voice04/04-SA/04-SA-L03/04-SA-L03-0490	0	kot	01:51:16;
+
+[PrintText]=01:51:16	Sekai	Bueno... aceptaste su invitación de venir a la piscina, pensé que te gustaba.	01:58:18;
+
+[PlayVoice]=01:51:16	Voice04/04-SA/04-SA-L03/04-SA-L03-0500	0	sek	01:58:18;
+
+[CreateBG]=01:58:18	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-013	02:05:17;
+
+[PrintText]=01:58:18	Kotonoha	Eso no es... yo solo amo a Makoto-kun.	02:05:17;
+
+[PlayVoice]=01:58:18	Voice04/04-SA/04-SA-L03/04-SA-L03-0510	0	kot	02:05:17;
+
+[CreateBG]=02:05:17	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-014	02:06:20;
+
+[PrintText]=02:05:17	Sekai	...	02:06:19;
+
+[PlayVoice]=02:05:17	Voice04/04-SA/04-SA-L03/04-SA-L03-0530	0	xxx	02:06:19;
+
+[PrintText]=02:06:19	Kotonoha	Ya que estamos aquí ¿Te importaría hablar de eso?^	02:09:16;
+
+[PlayVoice]=02:06:19	Voice04/04-SA/04-SA-L03/04-SA-L03-0540	0	kot	02:09:16;
+
+[CreateBG]=02:06:20	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-015	02:09:17;
+
+[PrintText]=02:09:16	Sekai	Seguro, tenemos tiempo.	02:12:15;
+
+[PlayVoice]=02:09:16	Voice04/04-SA/04-SA-L03/04-SA-L03-0550	0	sek	02:12:15;
+
+[CreateBG]=02:09:17	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-016	02:12:16;
+
+[PrintText]=02:12:14	Kotonoha	... Y pues, mientras que he estado ocupada, Makoto-kun y yo nos estuvimos distanciando más y más...	02:19:11;
+
+[PlayVoice]=02:12:14	Voice04/04-SA/04-SA-L03/04-SA-L03-0580	0	kot	02:19:11;
+
+[CreateBG]=02:12:16	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-017	02:20:08;
+
+[PrintText]=02:19:11	Sekai	Ya veo...	02:20:09;
+
+[PlayVoice]=02:19:11	Voice04/04-SA/04-SA-L03/04-SA-L03-0590	0	sek	02:20:09;
+
+[CreateBG]=02:20:08	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-018	02:27:23;
+
+[PrintText]=02:20:09	Kotonoha	¿Podría ser que... a Makoto-kun le gusta la representante de la clase 3?^	02:27:23;
+
+[PlayVoice]=02:20:09	Voice04/04-SA/04-SA-L03/04-SA-L03-0600	0	kot	02:27:23;
+
+[PrintText]=02:27:22	Sekai	¿Ehh?^	02:28:22;
+
+[PlayVoice]=02:27:22	Voice04/04-SA/04-SA-L03/04-SA-L03-0610	0	sek	02:28:22;
+
+[CreateBG]=02:27:23	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-018B	02:28:22;
+
+[CreateBG]=02:28:22	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-018	02:32:11;
+
+[PrintText]=02:28:23	Kotonoha	Después de todo, ella me odia ahora...	02:32:11;
+
+[PlayVoice]=02:28:23	Voice04/04-SA/04-SA-L03/04-SA-L03-0620	0	kot	02:32:11;
+
+[CreateBG]=02:32:11	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-019	02:38:15;
+
+[PrintText]=02:32:11	Sekai	Setsuna sería la ultima persona que se enamoraría de él.	02:36:06;
+
+[PlayVoice]=02:32:11	Voice04/04-SA/04-SA-L03/04-SA-L03-0630	0	sek	02:36:06;
+
+[PrintText]=02:36:06	Kotonoha	¿Realmente lo crees?^	02:37:19;
+
+[PlayVoice]=02:36:06	Voice04/04-SA/04-SA-L03/04-SA-L03-0640	0	kot	02:37:19;
+
+[PrintText]=02:37:19	Sekai	Sip.	02:38:15;
+
+[PlayVoice]=02:37:19	Voice04/04-SA/04-SA-L03/04-SA-L03-0650	0	sek	02:38:15;
+
+[CreateBG]=02:38:15	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-020	02:50:17;
+
+[PrintText]=02:38:16	Kotonoha	Pero ellos se veían muy cercanos durante el festival.	02:42:22;
+
+[PlayVoice]=02:38:16	Voice04/04-SA/04-SA-L03/04-SA-L03-0660	0	kot	02:42:22;
+
+[PrintText]=02:42:22	Kotonoha	Lo invite a venir y ver el festival, pero me rechazo... y estuvo con ella todo ese tiempo...	02:50:17;
+
+[PlayVoice]=02:42:22	Voice04/04-SA/04-SA-L03/04-SA-L03-0661	0	kot	02:50:17;
+
+[CreateBG]=02:50:17	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-021	02:58:14;
+
+[PrintText]=02:50:18	Sekai	No hay manera de que sea verdad. Setsuna y yo somos buenas amigas desde que eramos niñas.	02:58:13;
+
+[PlayVoice]=02:50:18	Voice04/04-SA/04-SA-L03/04-SA-L03-0670	0	sek	02:58:13;
+
+[PrintText]=02:58:13	Kotonoha	¿En serio...?^	03:00:01;
+
+[PlayVoice]=02:58:13	Voice04/04-SA/04-SA-L03/04-SA-L03-0680	0	kot	03:00:01;
+
+[CreateBG]=02:58:14	BGS	Event04/04-SA/04-SA-L03/04-SA-L03-022	03:00:13;
+
+ ;
+
+[Next]=03:00:13;
+
+

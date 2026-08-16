@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:08:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L02/03-KA-L02-001	00:02:07;
+
+[PrintText]=00:00:07	Makoto	...	00:01:19;
+
+[PlayVoice]=00:00:07	Voice03/03-KA/03-KA-L02/03-KA-L02-0050	1	xxx	00:01:19;
+
+[CreateBG]=00:02:07	BGS	Event03/03-KA/03-KA-L02/03-KA-L02-003A	00:14:19;
+
+[PrintText]=00:02:19	Makoto	Mientras que estuve distraído, pensé en ello...	00:05:21;
+
+[PlayVoice]=00:02:19	Voice03/03-KA/03-KA-L02/03-KA-L02-0060	1	xxx	00:05:21;
+
+[PrintText]=00:07:09	Makoto	Yo...	00:08:06;
+
+[PlayVoice]=00:07:09	Voice03/03-KA/03-KA-L02/03-KA-L02-0070	1	xxx	00:08:06;
+
+[SetSELECT]=00:08:16	'Kotonoha...'	'El comité...'	00:13:16;
+
+ ;
+
+[Next]=00:14:19;
+
+

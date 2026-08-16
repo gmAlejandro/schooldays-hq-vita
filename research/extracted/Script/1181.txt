@@ -1,0 +1,111 @@
+﻿[SkipFRAME]=01:01:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	01:01:17;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-002	00:03:13;
+
+[PrintText]=00:02:11	Makoto	...	00:03:17;
+
+[PlayVoice]=00:02:11	Voice04/04-SB/04-SB-B00/04-SB-B00-0050	1	xxx	00:03:17;
+
+[WhiteFade]=00:03:07	OUT	00:03:13;
+
+[CreateBG]=00:03:13	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-003	00:08:16;
+
+[WhiteFade]=00:03:13	IN	00:03:19;
+
+[PrintText]=00:03:23	Taisuke	Vamos, saluda.	00:05:11;
+
+[PlayVoice]=00:03:23	Voice04/04-SB/04-SB-B00/04-SB-B00-0080	1	tai	00:05:11;
+
+[PrintText]=00:05:11	Kotonoha	Mi nombre... es Katsura Kotonoha.	00:08:22;
+
+[PlayVoice]=00:05:11	Voice04/04-SB/04-SB-B00/04-SB-B00-0090	0	kot	00:08:22;
+
+[CreateBG]=00:08:16	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-004	00:19:10;
+
+[PrintText]=00:08:16	Sekai	Sí, ya lo sabemos.	00:12:00;
+
+[PlayVoice]=00:08:16	Voice04/04-SB/04-SB-B00/04-SB-B00-0100	0	sek	00:12:00;
+
+[PrintText]=00:11:21	Kotonoha	Ah... sí, es cierto.	00:14:06;
+
+[PlayVoice]=00:11:21	Voice04/04-SB/04-SB-B00/04-SB-B00-0110	0	kot	00:14:06;
+
+[PrintText]=00:14:06	Sekai	...Aún así, que sorpresa. ¿Desde cuando estás saliendo con Sawanaga?^	00:19:05;
+
+[PlayVoice]=00:14:06	Voice04/04-SB/04-SB-B00/04-SB-B00-0120	0	sek	00:19:05;
+
+[CreateBG]=00:19:10	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-005	00:23:06;
+
+[PrintText]=00:19:13	Kotonoha	Haah... Desde el festival.	00:23:13;
+
+[PlayVoice]=00:19:13	Voice04/04-SB/04-SB-B00/04-SB-B00-0130	0	kot	00:23:13;
+
+[CreateBG]=00:23:06	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-006	00:31:04;
+
+[PrintText]=00:23:14	Sekai	Ya veo... esto es inesperado. ¿Verdad, Makoto?^	00:29:00;
+
+[PlayVoice]=00:23:14	Voice04/04-SB/04-SB-B00/04-SB-B00-0140	0	sek	00:29:00;
+
+[PrintText]=00:29:00	Makoto	S-Sí...	00:31:10;
+
+[PlayVoice]=00:29:00	Voice04/04-SB/04-SB-B00/04-SB-B00-0150	1	mak	00:31:10;
+
+[CreateBG]=00:31:04	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-007	00:40:22;
+
+[PrintText]=00:31:10	Sekai	Entonces, encontraste novia durante el festival. ¡Felicidades!	00:36:02;
+
+[PlayVoice]=00:31:10	Voice04/04-SB/04-SB-B00/04-SB-B00-0160	0	sek	00:36:02;
+
+[PrintText]=00:36:02	Taisuke	¡Uwahahaha! ¿Lo crees?^	00:38:11;
+
+[PlayVoice]=00:36:02	Voice04/04-SB/04-SB-B00/04-SB-B00-0170	1	tai	00:38:11;
+
+[PrintText]=00:38:12	Sekai	¿Cómo la invitaste a salir?^	00:41:01;
+
+[PlayVoice]=00:38:12	Voice04/04-SB/04-SB-B00/04-SB-B00-0180	0	sek	00:41:01;
+
+[CreateBG]=00:40:22	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-008	00:46:04;
+
+[PrintText]=00:41:00	Taisuke	Bueno... digamos que fue un esfuerzo para la victoria.	00:46:09;
+
+[PlayVoice]=00:41:00	Voice04/04-SB/04-SB-B00/04-SB-B00-0190	1	tai	00:46:09;
+
+[CreateBG]=00:46:04	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-009	00:50:01;
+
+[PrintText]=00:46:09	Sekai	¿Hmm... De qué clase?^	00:48:03;
+
+[PlayVoice]=00:46:09	Voice04/04-SB/04-SB-B00/04-SB-B00-0200	0	sek	00:48:03;
+
+[PrintText]=00:48:03	Taisuke	¿Eh?^	00:48:18;
+
+[PlayVoice]=00:48:03	Voice04/04-SB/04-SB-B00/04-SB-B00-0210	1	tai	00:48:18;
+
+[PrintText]=00:48:17	Sekai	¿Qué clase de esfuerzo?^	00:50:05;
+
+[PlayVoice]=00:48:17	Voice04/04-SB/04-SB-B00/04-SB-B00-0220	0	sek	00:50:05;
+
+[CreateBG]=00:50:01	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-010	00:55:01;
+
+[PrintText]=00:50:05	Taisuke	Pues... ya sabes, agallas.	00:55:10;
+
+[PlayVoice]=00:50:05	Voice04/04-SB/04-SB-B00/04-SB-B00-0230	1	tai	00:55:10;
+
+[CreateBG]=00:55:01	BGS	Event04/04-SB/04-SB-B00/04-SB-B00-011	01:01:17;
+
+[PrintText]=00:55:10	Sekai	Eso no tiene nada de sentido.	00:58:01;
+
+[PlayVoice]=00:55:10	Voice04/04-SB/04-SB-B00/04-SB-B00-0240	0	sek	00:58:01;
+
+[PrintText]=00:58:01	Taisuke	Ahahah... bueno...	01:01:05;
+
+[PlayVoice]=00:58:01	Voice04/04-SB/04-SB-B00/04-SB-B00-0250	1	tai	01:01:05;
+
+ ;
+
+[Next]=01:01:17;
+
+

@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:18:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:18:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F06/05-5O-F06-001	00:14:15;
+
+[PrintText]=00:00:10	Sekai	Estoy Bien. He estado pensando en algunas cosas... y finalmente he llegado a una conclusión.	00:05:09;
+
+[PlayVoice]=00:00:10	Voice05/05-5O/05-5O-F07/05-5O-F07-0030	0	sek	00:05:09;
+
+[PrintText]=00:05:16	Makoto	¿Conclusión?^	00:06:12;
+
+[PlayVoice]=00:05:16	Voice05/05-5O/05-5O-F07/05-5O-F07-0040	1	mak	00:06:12;
+
+[PrintText]=00:07:10	Sekai	Sí. Seguiré dando lo mejor de mí, como siempre.	00:14:06;
+
+[PlayVoice]=00:07:10	Voice05/05-5O/05-5O-F07/05-5O-F07-0050	0	sek	00:14:06;
+
+[CreateBG]=00:14:15	BGS	Event05/05-5O/05-5O-F07/05-5O-F07-002	00:16:15;
+
+[PrintText]=00:14:21	Makoto	¿Cómo siempre...?^	00:16:09;
+
+[PlayVoice]=00:14:21	Voice05/05-5O/05-5O-F07/05-5O-F07-0060	1	mak	00:16:09;
+
+[CreateBG]=00:16:15	BGS	Event05/05-5O/05-5O-F06/05-5O-F06-003	00:18:06;
+
+[PrintText]=00:16:21	Sekai	Eheheh...	00:18:00;
+
+[PlayVoice]=00:16:21	Voice05/05-5O/05-5O-F07/05-5O-F07-0070	0	sek	00:18:00;
+
+ ;
+
+[Next]=00:18:06;
+
+

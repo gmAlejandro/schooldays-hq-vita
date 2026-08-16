@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:51:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:51:04;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-O03/01-00-O03-001	00:10:07;
+
+[PrintText]=00:00:00	Makoto	Perdón por lo de hoy...	00:01:15;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-O03/01-00-O03-0030	1	mak	00:01:15;
+
+[PrintText]=00:01:11	Kotonoha	¡¿Eh?! U-um... ¿Pasó algo?^	00:06:23;
+
+[PlayVoice]=00:01:11	Voice01/01-00/01-00-O03/01-00-O03-0040	0	kot	00:06:23;
+
+[PrintText]=00:06:19	Makoto	En la tarde ¿Recuerdas? Hice que te molestaras.	00:10:07;
+
+[PlayVoice]=00:06:19	Voice01/01-00/01-00-O03/01-00-O03-0050	1	mak	00:10:07;
+
+[CreateBG]=00:10:07	BGS	Event01/01-00/01-00-O03/01-00-O03-002	00:21:11;
+
+[PrintText]=00:10:08	Kotonoha	Oh, no, eso fue... eso fue mi culpa. Yo... soy la que debería disculparse.	00:21:10;
+
+[PlayVoice]=00:10:08	Voice01/01-00/01-00-O03/01-00-O03-0060	0	kot	00:21:10;
+
+[PrintText]=00:21:06	Makoto	No es tu culpa.	00:22:20;
+
+[PlayVoice]=00:21:06	Voice01/01-00/01-00-O03/01-00-O03-0070	1	mak	00:22:20;
+
+[CreateBG]=00:21:11	BGS	Event01/01-00/01-00-O03/01-00-O03-003	00:36:02;
+
+[PrintText]=00:22:14	Kotonoha	Pero...	00:23:19;
+
+[PlayVoice]=00:22:14	Voice01/01-00/01-00-O03/01-00-O03-0080	0	kot	00:23:19;
+
+[PrintText]=00:23:18	Makoto	Sentía que querías decirme algo importante en el almuerzo... y quería preguntártelo...	00:31:21;
+
+[PlayVoice]=00:23:18	Voice01/01-00/01-00-O03/01-00-O03-0090	1	mak	00:31:21;
+
+[PrintText]=00:32:09	Makoto	...Pero no actué como esperaba.	00:36:02;
+
+[PlayVoice]=00:32:09	Voice01/01-00/01-00-O03/01-00-O03-0091	1	mak	00:36:02;
+
+[CreateBG]=00:36:02	BGS	Event01/01-00/01-00-O03/01-00-O03-002	00:37:15;
+
+[PrintText]=00:36:03	Kotonoha	Está bien...	00:37:04;
+
+[PlayVoice]=00:36:03	Voice01/01-00/01-00-O03/01-00-O03-0100	0	kot	00:37:04;
+
+[CreateBG]=00:37:15	BGS	Event01/01-00/01-00-O03/01-00-O03-003	00:43:03;
+
+[PrintText]=00:37:15	Makoto	Como sea, quería disculparme contigo... Perdóname.	00:43:00;
+
+[PlayVoice]=00:37:15	Voice01/01-00/01-00-O03/01-00-O03-0110	1	mak	00:43:00;
+
+[CreateBG]=00:43:03	BGS	Event01/01-00/01-00-O03/01-00-O03-006	00:49:07;
+
+[PrintText]=00:43:06	Kotonoha	...Itou-kun.	00:44:07;
+
+[PlayVoice]=00:43:06	Voice01/01-00/01-00-O03/01-00-O03-0120	0	kot	00:44:07;
+
+[PrintText]=00:44:08	Makoto	¿Sí?^	00:44:21;
+
+[PlayVoice]=00:44:08	Voice01/01-00/01-00-O03/01-00-O03-0130	1	mak	00:44:21;
+
+[PrintText]=00:45:08	Kotonoha	Gracias... y... Buenas noches.	00:49:04;
+
+[PlayVoice]=00:45:08	Voice01/01-00/01-00-O03/01-00-O03-0140	0	kot	00:49:04;
+
+[CreateBG]=00:49:07	BGS	Event01/01-00/01-00-O03/01-00-O03-007	00:51:04;
+
+[PrintText]=00:49:09	Makoto	Buenas noches.	00:50:04;
+
+[PlayVoice]=00:49:09	Voice01/01-00/01-00-O03/01-00-O03-0150	1	mak	00:50:04;
+
+[BlackFade]=00:50:04	OUT	00:51:04;
+
+ ;
+
+[Next]=00:51:04;
+
+
+
+

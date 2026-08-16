@@ -1,0 +1,745 @@
+﻿[SkipFRAME]=09:12:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-001	00:07:12;
+
+[PrintText]=00:03:12	Makoto	Haah...	00:04:16;
+
+[PlayVoice]=00:03:12	Voice03/03-A1/03-A1-E08/03-A1-E08-0040	1	mak	00:04:16;
+
+[PrintText]=00:05:04	Taisuke	Hasta que termino...	00:07:12;
+
+[PlayVoice]=00:05:04	Voice03/03-A1/03-A1-E08/03-A1-E08-0050	1	tai	00:07:12;
+
+[PrintText]=00:07:04	Makoto	Al final, estuvimos en la cocina todo el tiempo.	00:11:05;
+
+[PlayVoice]=00:07:04	Voice03/03-A1/03-A1-E08/03-A1-E08-0060	1	mak	00:11:05;
+
+[CreateBG]=00:07:12	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-002	00:19:18;
+
+[PrintText]=00:11:06	Taisuke	Sí, porque Torii, Hasegawa, Ishimaru y Ohka se fueron... todo nuestro equipo de auxilio.	00:17:08;
+
+[PlayVoice]=00:11:06	Voice03/03-A1/03-A1-E08/03-A1-E08-0070	1	tai	00:17:08;
+
+[PrintText]=00:17:13	Makoto	Pero hey... Gracias.	00:19:05;
+
+[PlayVoice]=00:17:13	Voice03/03-A1/03-A1-E08/03-A1-E08-0080	1	mak	00:19:05;
+
+[PrintText]=00:19:01	Taisuke	¿Nn?^	00:19:16;
+
+[PlayVoice]=00:19:01	Voice03/03-A1/03-A1-E08/03-A1-E08-0090	1	tai	00:19:16;
+
+[CreateBG]=00:19:18	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-003	00:25:16;
+
+[PrintText]=00:19:20	Makoto	Ahora estoy en el comité, y no puedo saltarme la escuela.	00:22:20;
+
+[PlayVoice]=00:19:20	Voice03/03-A1/03-A1-E08/03-A1-E08-0100	1	mak	00:25:19;
+
+[PrintText]=00:22:20	Makoto	Tú no tienes obligación de venir, pero aún así lo hiciste.	00:25:19;
+
+[CreateBG]=00:25:16	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-004	00:31:06;
+
+[PrintText]=00:25:21	Taisuke	Solo eres un miembro temporal ¿No? Para eso estamos los amigos.	00:29:18;
+
+[PlayVoice]=00:25:21	Voice03/03-A1/03-A1-E08/03-A1-E08-0110	1	tai	00:29:18;
+
+[PrintText]=00:29:15	Makoto	Haha, Supongo que tienes razón.	00:31:07;
+
+[PlayVoice]=00:29:15	Voice03/03-A1/03-A1-E08/03-A1-E08-0120	1	mak	00:31:07;
+
+[CreateBG]=00:31:06	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-005	00:42:03;
+
+[PrintText]=00:31:10	Taisuke	Pero, aún así seas un miembro temporal, has hecho tu trabajo ¿No?^	00:36:02;
+
+[PlayVoice]=00:31:10	Voice03/03-A1/03-A1-E08/03-A1-E08-0130	1	tai	00:38:16;
+
+[PrintText]=00:36:02	Taisuke	Después de todo, la razón por la que estás agotado, es por la cantidad de clientes.	00:38:16;
+
+[PrintText]=00:38:17	Makoto	Sin duda.	00:39:12;
+
+[PlayVoice]=00:38:17	Voice03/03-A1/03-A1-E08/03-A1-E08-0140	1	mak	00:39:12;
+
+[PrintText]=00:39:21	Taisuke	Bien, es hora... de ir a casa supongo.	00:42:12;
+
+[PlayVoice]=00:39:21	Voice03/03-A1/03-A1-E08/03-A1-E08-0150	1	tai	00:42:12;
+
+[CreateBG]=00:42:03	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-006	00:48:18;
+
+[PrintText]=00:42:09	Makoto	¿Huh? ¿No irás a la fogata?^	00:45:10;
+
+[PlayVoice]=00:42:09	Voice03/03-A1/03-A1-E08/03-A1-E08-0160	1	mak	00:45:10;
+
+[PrintText]=00:45:11	Taisuke	Hombre, a quién le importa eso...	00:47:01;
+
+[PlayVoice]=00:45:11	Voice03/03-A1/03-A1-E08/03-A1-E08-0170	1	tai	00:47:01;
+
+[PrintText]=00:46:17	Hikari	Ah, Sawanaga.	00:48:16;
+
+[PlayVoice]=00:46:17	Voice03/03-A1/03-A1-E08/03-A1-E08-0180	0	hik	00:48:16;
+
+[CreateBG]=00:48:18	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-007	00:54:12;
+
+[PrintText]=00:48:18	Taisuke	¿D-Dime?^	00:50:13;
+
+[PlayVoice]=00:48:18	Voice03/03-A1/03-A1-E08/03-A1-E08-0190	1	tai	00:50:13;
+
+[PrintText]=00:50:12	Hikari	Gracias por trabajar tan duro.	00:51:17;
+
+[PlayVoice]=00:50:12	Voice03/03-A1/03-A1-E08/03-A1-E08-0200	0	hik	00:51:17;
+
+[PrintText]=00:51:23	Taisuke	Sí, tú también Kuroda.	00:54:06;
+
+[PlayVoice]=00:51:23	Voice03/03-A1/03-A1-E08/03-A1-E08-0210	1	tai	00:54:06;
+
+[CreateBG]=00:54:12	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-008	01:03:05;
+
+[PrintText]=00:54:20	Hikari	Todos irán a la fogata ahora... ¿Quieres ir conmigo?^	00:59:17;
+
+[PlayVoice]=00:54:20	Voice03/03-A1/03-A1-E08/03-A1-E08-0220	0	hik	00:59:17;
+
+[PrintText]=01:00:04	Taisuke	Fogata, huh...	01:01:23;
+
+[PlayVoice]=01:00:04	Voice03/03-A1/03-A1-E08/03-A1-E08-0230	1	tai	01:01:23;
+
+[PrintText]=01:02:03	Makoto	Vamos.	01:03:05;
+
+[PlayVoice]=01:02:03	Voice03/03-A1/03-A1-E08/03-A1-E08-0240	1	mak	01:03:05;
+
+[CreateBG]=01:03:05	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-009	01:05:20;
+
+[PrintText]=01:03:07	Taisuke	¿Qué hay de ti?^	01:04:04;
+
+[PlayVoice]=01:03:07	Voice03/03-A1/03-A1-E08/03-A1-E08-0250	1	tai	01:04:04;
+
+[PrintText]=01:04:19	Makoto	Yo...	01:05:20;
+
+[PlayVoice]=01:04:19	Voice03/03-A1/03-A1-E08/03-A1-E08-0260	1	mak	01:05:20;
+
+[CreateBG]=01:05:20	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-010	01:12:09;
+
+[PrintText]=01:05:20	Hikari	Ah, tú te quedas aquí.	01:07:22;
+
+[PlayVoice]=01:05:20	Voice03/03-A1/03-A1-E08/03-A1-E08-0270	0	hik	01:07:22;
+
+[PrintText]=01:07:17	Taisuke	¿Por qué tiene que?^	01:08:22;
+
+[PlayVoice]=01:07:17	Voice03/03-A1/03-A1-E08/03-A1-E08-0280	1	tai	01:08:22;
+
+[PrintText]=01:08:22	Hikari	Setsuna dijo que esperara.	01:10:18;
+
+[PlayVoice]=01:08:22	Voice03/03-A1/03-A1-E08/03-A1-E08-0290	0	hik	01:10:18;
+
+[PrintText]=01:10:18	Taisuke	¿Trabajo del comité?^	01:12:08;
+
+[PlayVoice]=01:10:18	Voice03/03-A1/03-A1-E08/03-A1-E08-0300	1	tai	01:12:08;
+
+[CreateBG]=01:12:09	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-011	01:16:08;
+
+[PrintText]=01:12:09	Hikari	Probablemente. Venga. Vamos.	01:14:21;
+
+[PlayVoice]=01:12:09	Voice03/03-A1/03-A1-E08/03-A1-E08-0310	0	hik	01:14:21;
+
+[PrintText]=01:15:03	Taisuke	Sí, sí.	01:15:22;
+
+[PlayVoice]=01:15:03	Voice03/03-A1/03-A1-E08/03-A1-E08-0320	1	tai	01:15:22;
+
+[CreateBG]=01:16:08	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-027	01:49:09;
+
+[PrintText]=01:19:17	Makoto	Haah... ahora que estoy solo, me siento exhausto.	01:24:10;
+
+[PlayVoice]=01:19:17	Voice03/03-A1/03-A1-E08/03-A1-E08-0340	1	mak	01:24:10;
+
+[PrintText]=01:26:06	Makoto	Después de todo, estuve trabajando todo el día.	01:28:11;
+
+[PlayVoice]=01:26:06	Voice03/03-A1/03-A1-E08/03-A1-E08-0350	1	mak	01:28:11;
+
+[PrintText]=01:30:12	Makoto	Fwah... Kiyoura vendrá...	01:36:03;
+
+[PlayVoice]=01:30:12	Voice03/03-A1/03-A1-E08/03-A1-E08-0360	1	mak	01:36:03;
+
+[PrintText]=01:38:04	Makoto	Mejor que no... me muero de sueño...	01:41:09;
+
+[PlayVoice]=01:38:04	Voice03/03-A1/03-A1-E08/03-A1-E08-0370	1	mak	01:41:09;
+
+[WhiteFade]=01:40:03	OUT	01:49:09;
+
+[PrintText]=01:43:10	Makoto	Phew...	01:44:04;
+
+[PlayVoice]=01:43:10	Voice03/03-A1/03-A1-E08/03-A1-E08-0380	1	mak	01:44:04;
+
+[CreateBG]=01:49:09	BGS	System/Screen/White	01:51:15;
+
+[PlayBgm]=01:51:15	BGM/SD_BGM/sdbgm28	03:47:02;
+
+[PlayMovie]=01:51:15	Movie03/03-A1/03-A1-E08/03-A1-E08-014	0	02:53:14;
+
+[WhiteFade]=01:51:15	IN	01:53:15;
+
+[PrintText]=01:52:08	Setsuna	¡...Kuh...!	01:53:00;
+
+[PlayVoice]=01:52:08	Voice03/03-A1/03-A1-E08/03-A1-E08-0410	0	set	01:53:00;
+
+[PrintText]=01:53:16	Makoto	Venga, no llores.	01:56:05;
+
+[PlayVoice]=01:53:16	Voice03/03-A1/03-A1-E08/03-A1-E08-0420	1	mak	01:56:05;
+
+[PrintText]=01:56:04	Setsuna	Sniff... kuh...	02:05:22;
+
+[PlayVoice]=01:56:04	Voice03/03-A1/03-A1-E08/03-A1-E08-0430	0	set	02:05:22;
+
+[PrintText]=02:07:01	Makoto	¿Quieres mi pañuelo?^	02:08:14;
+
+[PlayVoice]=02:07:01	Voice03/03-A1/03-A1-E08/03-A1-E08-0440	1	mak	02:08:14;
+
+[PrintText]=02:09:00	Setsuna	...yo tengo uno.	02:10:06;
+
+[PlayVoice]=02:09:00	Voice03/03-A1/03-A1-E08/03-A1-E08-0450	0	set	02:10:06;
+
+[PrintText]=02:11:00	Makoto	Pensaba que era mas fuerte, vamos, no llores, es solo una broma.	02:16:15;
+
+[PlayVoice]=02:11:00	Voice03/03-A1/03-A1-E08/03-A1-E08-0460	1	mak	02:16:15;
+
+[PrintText]=02:17:14	Setsuna	...	02:18:02;
+
+[PlayVoice]=02:17:14	Voice03/03-A1/03-A1-E08/03-A1-E08-0470	0	xxx	02:18:02;
+
+[PrintText]=02:19:07	Makoto	Hey, venga... um... Kiyoura ¿No?^	02:23:14;
+
+[PlayVoice]=02:19:07	Voice03/03-A1/03-A1-E08/03-A1-E08-0480	1	mak	02:23:14;
+
+[PrintText]=02:24:04	Setsuna	...	02:24:14;
+
+[PlayVoice]=02:24:04	Voice03/03-A1/03-A1-E08/03-A1-E08-0490	0	xxx	02:24:14;
+
+[PrintText]=02:26:10	Makoto	Escucha, si vienen a molestarte otra vez, llámame y haré algo al respecto.	02:31:22;
+
+[PlayVoice]=02:26:10	Voice03/03-A1/03-A1-E08/03-A1-E08-0500	1	mak	02:31:22;
+
+[PrintText]=02:32:17	Setsuna	...	02:33:03;
+
+[PlayVoice]=02:32:17	Voice03/03-A1/03-A1-E08/03-A1-E08-0510	0	xxx	02:33:03;
+
+[PrintText]=02:34:12	Makoto	Así que no te preocupes ¿Vale?^	02:37:04;
+
+[PlayVoice]=02:34:12	Voice03/03-A1/03-A1-E08/03-A1-E08-0520	1	mak	02:37:04;
+
+[PrintText]=02:37:08	Setsuna	¿...'No te preocupes'?^	02:38:10;
+
+[PlayVoice]=02:37:08	Voice03/03-A1/03-A1-E08/03-A1-E08-0530	0	set	02:38:10;
+
+[PrintText]=02:38:11	Makoto	Sí, solo déjamelo a mí.	02:40:05;
+
+[PlayVoice]=02:38:11	Voice03/03-A1/03-A1-E08/03-A1-E08-0540	1	mak	02:40:05;
+
+[PrintText]=02:41:03	Setsuna	...	02:41:16;
+
+[PlayVoice]=02:41:03	Voice03/03-A1/03-A1-E08/03-A1-E08-0550	0	xxx	02:41:16;
+
+[PrintText]=02:42:21	Makoto	Conozco a esos chicos, y no son del tipo que no escuchan real...	02:46:23;
+
+[PlayVoice]=02:42:21	Voice03/03-A1/03-A1-E08/03-A1-E08-0560	1	mak	02:46:23;
+
+[PrintText]=02:46:22	Setsuna	No quiero.	02:47:21;
+
+[PlayVoice]=02:46:22	Voice03/03-A1/03-A1-E08/03-A1-E08-0570	0	set	02:47:21;
+
+[PrintText]=02:47:21	Makoto	¿Huh?^	02:48:16;
+
+[PlayVoice]=02:47:21	Voice03/03-A1/03-A1-E08/03-A1-E08-0580	1	mak	02:48:16;
+
+[PrintText]=02:49:13	Setsuna	No sé quien eres, pero...	02:52:03;
+
+[PlayVoice]=02:49:13	Voice03/03-A1/03-A1-E08/03-A1-E08-0590	0	set	02:52:03;
+
+[PrintText]=02:52:01	Makoto	Ah, soy Itou.	02:53:21;
+
+[PlayVoice]=02:52:01	Voice03/03-A1/03-A1-E08/03-A1-E08-0600	1	mak	02:53:21;
+
+[CreateBG]=02:53:14	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-015	02:57:16;
+
+[PrintText]=02:53:14	Setsuna	...Como sea...	02:54:16;
+
+[PlayVoice]=02:53:14	Voice03/03-A1/03-A1-E08/03-A1-E08-0610	0	set	02:54:16;
+
+[PrintText]=02:54:10	Makoto	Mi nombre es Makoto.	02:56:05;
+
+[PlayVoice]=02:54:10	Voice03/03-A1/03-A1-E08/03-A1-E08-0620	1	mak	02:56:05;
+
+[PrintText]=02:55:13	Setsuna	¡Como sea!	02:56:17;
+
+[PlayVoice]=02:55:13	Voice03/03-A1/03-A1-E08/03-A1-E08-0630	0	set	02:56:17;
+
+[PrintText]=02:56:18	Makoto	Sí.	02:57:16;
+
+[PlayVoice]=02:56:18	Voice03/03-A1/03-A1-E08/03-A1-E08-0640	1	mak	02:57:16;
+
+[PlayMovie]=02:57:16	Movie03/03-A1/03-A1-E08/03-A1-E08-016	0	03:34:13;
+
+[PrintText]=02:58:00	Setsuna	No quiero depender de nadie.	03:00:00;
+
+[PlayVoice]=02:58:00	Voice03/03-A1/03-A1-E08/03-A1-E08-0650	0	set	03:00:00;
+
+[PrintText]=03:00:07	Makoto	Ya veo. Bueno, creo que es bueno que seas así de fuerte.	03:05:01;
+
+[PlayVoice]=03:00:07	Voice03/03-A1/03-A1-E08/03-A1-E08-0660	1	mak	03:05:01;
+
+[PrintText]=03:05:15	Setsuna	¿Fuerte?^	03:06:17;
+
+[PlayVoice]=03:05:15	Voice03/03-A1/03-A1-E08/03-A1-E08-0670	0	set	03:06:17;
+
+[PrintText]=03:07:03	Makoto	Sí. Si usas esa fuerza para ser presidenta de la clase y tomarte como reto dirigir el salón,	03:12:02;
+
+[PlayVoice]=03:07:03	Voice03/03-A1/03-A1-E08/03-A1-E08-0680	1	mak	03:14:11;
+
+[PrintText]=03:12:02	Makoto	Nadie más volverá a molestarte ¿No crees?^	03:14:11;
+
+[PrintText]=03:14:15	Setsuna	...Ya veo.	03:15:16;
+
+[PlayVoice]=03:14:15	Voice03/03-A1/03-A1-E08/03-A1-E08-0690	0	set	03:15:16;
+
+[PrintText]=03:16:01	Makoto	Sip. Pienso que harías un gran trabajo como presidenta.	03:19:04;
+
+[PlayVoice]=03:16:01	Voice03/03-A1/03-A1-E08/03-A1-E08-0700	1	mak	03:19:04;
+
+[PrintText]=03:19:15	Setsuna	Uh-huh.	03:20:07;
+
+[PlayVoice]=03:19:15	Voice03/03-A1/03-A1-E08/03-A1-E08-0710	0	set	03:20:07;
+
+[PrintText]=03:20:20	Makoto	¿Quieres que te nomine?^	03:22:09;
+
+[PlayVoice]=03:20:20	Voice03/03-A1/03-A1-E08/03-A1-E08-0720	1	mak	03:22:09;
+
+[PrintText]=03:22:18	Setsuna	Yo misma iré a presentarme.	03:24:18;
+
+[PlayVoice]=03:22:18	Voice03/03-A1/03-A1-E08/03-A1-E08-0730	0	set	03:24:18;
+
+[PrintText]=03:25:02	Makoto	Genial, entonces te daré mi voto. Vamos, toma el puesto.	03:29:22;
+
+[PlayVoice]=03:25:02	Voice03/03-A1/03-A1-E08/03-A1-E08-0740	1	mak	03:29:22;
+
+[PrintText]=03:29:20	Setsuna	...Sí.	03:30:11;
+
+[PlayVoice]=03:29:20	Voice03/03-A1/03-A1-E08/03-A1-E08-0750	0	set	03:30:11;
+
+[PrintText]=03:31:07	Makoto	Bien, ahora que has dejado de llorar, creo que debo irme.	03:34:12;
+
+[PlayVoice]=03:31:07	Voice03/03-A1/03-A1-E08/03-A1-E08-0760	1	mak	03:34:12;
+
+[CreateBG]=03:34:13	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-015	03:47:02;
+
+[PrintText]=03:34:13	Setsuna	...No estaba llorando.	03:35:21;
+
+[PlayVoice]=03:34:13	Voice03/03-A1/03-A1-E08/03-A1-E08-0770	0	set	03:35:21;
+
+[PrintText]=03:35:17	Makoto	Oh, claro claro, cierto. Kiyoura es una chica fuerte que no llora.	03:40:11;
+
+[PlayVoice]=03:35:17	Voice03/03-A1/03-A1-E08/03-A1-E08-0780	1	mak	03:40:11;
+
+[PrintText]=03:39:18	Setsuna	Mmn...	03:41:13;
+
+[PlayVoice]=03:39:18	Voice03/03-A1/03-A1-E08/03-A1-E08-0790	0	set	03:41:13;
+
+[PrintText]=03:42:22	Makoto	Vamos, la ceremonia está por empezar.	03:46:04;
+
+[PlayVoice]=03:42:22	Voice03/03-A1/03-A1-E08/03-A1-E08-0800	1	mak	03:46:04;
+
+[WhiteFade]=03:45:02	OUT	03:47:02;
+
+[CreateBG]=03:47:02	BGS	System/Screen/White	03:55:00;
+
+[PrintText]=03:47:14	Makoto	Sí, es cierto.	03:50:06;
+
+[PlayVoice]=03:47:14	Voice03/03-A1/03-A1-E08/03-A1-E08-0820	1	xxx	03:50:06;
+
+[PrintText]=03:51:17	Makoto	Kiyoura es esa clase de persona.	03:55:12;
+
+[PlayVoice]=03:51:17	Voice03/03-A1/03-A1-E08/03-A1-E08-0830	1	xxx	03:55:12;
+
+[PlayMovie]=03:55:00	Movie03/03-A1/03-A1-E08/03-A1-E08-020	0	03:58:09;
+
+[PlayVoice]=03:55:00	Voice03/03-A1/03-A1-E08/03-A1-E08-0840			03:58:23;
+
+[WhiteFade]=03:55:00	IN	03:55:12;
+
+[PrintText]=03:58:07	Makoto	¡¿Uwahh?!	03:59:07;
+
+[PlayVoice]=03:58:07	Voice03/03-A1/03-A1-E08/03-A1-E08-0860	1	mak	03:59:07;
+
+[CreateBG]=03:58:09	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-027	04:01:18;
+
+[PrintText]=03:58:23	Setsuna	¿Despierto?^	04:00:17;
+
+[PlayVoice]=03:58:23	Voice03/03-A1/03-A1-E08/03-A1-E08-0880	0	set	04:00:17;
+
+[PrintText]=04:01:06	Makoto	Sí, perdón... ¿Estabas esperando?^	04:06:09;
+
+[PlayVoice]=04:01:06	Voice03/03-A1/03-A1-E08/03-A1-E08-0890	1	mak	04:06:09;
+
+[PlayMovie]=04:01:18	Movie03/03-A1/03-A1-E08/03-A1-E08-022	0	04:30:09;
+
+[PrintText]=04:06:17	Setsuna	Yo fui la que quería esperar.	04:09:15;
+
+[PlayVoice]=04:06:17	Voice03/03-A1/03-A1-E08/03-A1-E08-0900	0	set	04:09:15;
+
+[PrintText]=04:09:18	Makoto	¿En serio? Pensé que Kuroda...	04:13:09;
+
+[PlayVoice]=04:09:18	Voice03/03-A1/03-A1-E08/03-A1-E08-0910	1	mak	04:13:09;
+
+[PrintText]=04:13:23	Setsuna	Le dije a Hikari que pase el mensaje.	04:16:00;
+
+[PlayVoice]=04:13:23	Voice03/03-A1/03-A1-E08/03-A1-E08-0920	0	set	04:16:00;
+
+[PrintText]=04:16:06	Makoto	Ahh... ahora todo tiene sentido.	04:20:03;
+
+[PlayVoice]=04:16:06	Voice03/03-A1/03-A1-E08/03-A1-E08-0930	1	mak	04:20:03;
+
+[PrintText]=04:21:05	Makoto	Me quede dormido mientras esperaba ¿No?^	04:24:07;
+
+[PlayVoice]=04:21:05	Voice03/03-A1/03-A1-E08/03-A1-E08-0940	1	mak	04:24:07;
+
+[PrintText]=04:24:09	Setsuna	Uh-huh.	04:25:00;
+
+[PlayVoice]=04:24:09	Voice03/03-A1/03-A1-E08/03-A1-E08-0950	0	set	04:25:00;
+
+[PrintText]=04:26:05	Makoto	Está totalmente oscuro... ¿La fogata ya empezó?^	04:30:05;
+
+[PlayVoice]=04:26:05	Voice03/03-A1/03-A1-E08/03-A1-E08-0960	1	mak	04:30:05;
+
+[BlackFade]=04:29:21	OUT	04:30:09;
+
+[CreateBG]=04:30:09	BGS	System/Screen/Black	04:32:06;
+
+[PrintText]=04:30:14	Setsuna	Sí.	04:31:18;
+
+[PlayVoice]=04:30:14	Voice03/03-A1/03-A1-E08/03-A1-E08-0970	0	set	04:31:18;
+
+[PlayMovie]=04:32:06	Movie03/03-A1/03-A1-E08/03-A1-E08-024	0	05:03:09;
+
+[PrintText]=04:32:13	Makoto	Justo ahora, antes de que despertara, tuve un sueño... de ti.	04:40:07;
+
+[PlayVoice]=04:32:13	Voice03/03-A1/03-A1-E08/03-A1-E08-0980	1	mak	04:40:07;
+
+[PrintText]=04:40:12	Setsuna	¿De mí...?^	04:41:16;
+
+[PlayVoice]=04:40:12	Voice03/03-A1/03-A1-E08/03-A1-E08-0990	0	set	04:41:16;
+
+[PrintText]=04:42:06	Makoto	Tal vez fue porque estuvimos hablando el otro día...	04:45:07;
+
+[PlayVoice]=04:42:06	Voice03/03-A1/03-A1-E08/03-A1-E08-1000	1	mak	04:47:13;
+
+[PrintText]=04:45:07	Makoto	Pero esto fue cuando te conocí en la ceremonia de entrada.	04:47:13;
+
+[PrintText]=04:47:13	Setsuna	...	04:48:13;
+
+[PlayVoice]=04:47:13	Voice03/03-A1/03-A1-E08/03-A1-E08-1010	0	xxx	04:48:13;
+
+[PrintText]=04:48:23	Makoto	No has cambiada nada ¿Eh?^	04:52:10;
+
+[PlayVoice]=04:48:23	Voice03/03-A1/03-A1-E08/03-A1-E08-1020	1	mak	04:52:10;
+
+[PrintText]=04:52:18	Setsuna	Uh-huh...	04:53:11;
+
+[PlayVoice]=04:52:18	Voice03/03-A1/03-A1-E08/03-A1-E08-1030	0	set	04:53:11;
+
+[PrintText]=04:54:06	Makoto	Haha... suena nostálgico esto.	04:56:05;
+
+[PlayVoice]=04:54:06	Voice03/03-A1/03-A1-E08/03-A1-E08-1040	1	mak	04:56:05;
+
+[PrintText]=04:56:19	Setsuna	...	04:57:10;
+
+[PlayVoice]=04:56:19	Voice03/03-A1/03-A1-E08/03-A1-E08-1050	0	xxx	04:57:10;
+
+[PrintText]=04:58:08	Makoto	A pesar de que solo han pasado unos meses desde la ceremonia de entrada...	05:03:08;
+
+[PlayVoice]=04:58:08	Voice03/03-A1/03-A1-E08/03-A1-E08-1060	1	mak	05:03:08;
+
+[PlayMovie]=05:03:09	Movie03/03-A1/03-A1-E08/03-A1-E08-025	0	05:25:21;
+
+[PrintText]=05:03:13	Setsuna	Desde entonces... te he amado.	05:08:00;
+
+[PlayVoice]=05:03:13	Voice03/03-A1/03-A1-E08/03-A1-E08-1080	0	set	05:08:00;
+
+[PrintText]=05:08:03	Makoto	¿...Huh?^	05:08:16;
+
+[PlayVoice]=05:08:03	Voice03/03-A1/03-A1-E08/03-A1-E08-1090	1	mak	05:08:16;
+
+[PrintText]=05:09:03	Setsuna	Te amo Itou.	05:10:01;
+
+[PlayVoice]=05:09:03	Voice03/03-A1/03-A1-E08/03-A1-E08-1100	0	set	05:10:01;
+
+[PrintText]=05:10:09	Makoto	¿Eh...? ¿Kiyoura...?^	05:14:09;
+
+[PlayVoice]=05:10:09	Voice03/03-A1/03-A1-E08/03-A1-E08-1110	1	mak	05:14:09;
+
+[PrintText]=05:14:14	Setsuna	Te amo, Itou.	05:17:12;
+
+[PlayVoice]=05:14:14	Voice03/03-A1/03-A1-E08/03-A1-E08-1120	0	set	05:17:12;
+
+[PrintText]=05:18:00	Makoto	Qu-- pero... ¿eh?^	05:22:00;
+
+[PlayVoice]=05:18:00	Voice03/03-A1/03-A1-E08/03-A1-E08-1130	1	mak	05:22:00;
+
+[PrintText]=05:22:06	Setsuna	Te amo.	05:23:08;
+
+[PlayVoice]=05:22:06	Voice03/03-A1/03-A1-E08/03-A1-E08-1140	0	set	05:23:08;
+
+[PrintText]=05:24:06	Makoto	Ah...	05:25:05;
+
+[PlayVoice]=05:24:06	Voice03/03-A1/03-A1-E08/03-A1-E08-1150	1	mak	05:25:05;
+
+[PlayMovie]=05:25:21	Movie03/03-A1/03-A1-E08/03-A1-E08-026	0	06:14:07;
+
+[PrintText]=05:26:02	Setsuna	Solo por una vez, eso es todo lo que pido... quiero que esto solo sea un secreto entre nosotros.	05:32:17;
+
+[PlayVoice]=05:26:02	Voice03/03-A1/03-A1-E08/03-A1-E08-1160	0	set	05:32:17;
+
+[PrintText]=05:33:06	Makoto	¿'Secreto'...?^	05:34:10;
+
+[PlayVoice]=05:33:06	Voice03/03-A1/03-A1-E08/03-A1-E08-1170	1	mak	05:34:10;
+
+[PrintText]=05:36:00	Setsuna	pues...	05:36:21;
+
+[PlayVoice]=05:36:00	Voice03/03-A1/03-A1-E08/03-A1-E08-1190	0	set	05:36:21;
+
+[PrintText]=05:38:05	Makoto	Kiyoura...	05:39:12;
+
+[PlayVoice]=05:38:05	Voice03/03-A1/03-A1-E08/03-A1-E08-1210	1	mak	05:39:12;
+
+[PrintText]=05:40:04	Setsuna	Setsuna.	05:41:03;
+
+[PlayVoice]=05:40:04	Voice03/03-A1/03-A1-E08/03-A1-E08-1220	0	set	05:41:03;
+
+[PrintText]=05:42:05	Makoto	Eh...	05:43:01;
+
+[PlayVoice]=05:42:05	Voice03/03-A1/03-A1-E08/03-A1-E08-1230	1	mak	05:43:01;
+
+[PrintText]=05:44:01	Setsuna	...No, olvídalo.	05:45:02;
+
+[PlayVoice]=05:44:01	Voice03/03-A1/03-A1-E08/03-A1-E08-1240	0	set	05:45:02;
+
+[PrintText]=05:44:20	Makoto	Perdón, no te escuché. ¿Qué dijiste?^	05:49:05;
+
+[PlayVoice]=05:44:20	Voice03/03-A1/03-A1-E08/03-A1-E08-1250	1	mak	05:49:05;
+
+[PrintText]=05:49:07	Setsuna	Está bien. Da un poco de vergüenza.	05:52:01;
+
+[PlayVoice]=05:49:07	Voice03/03-A1/03-A1-E08/03-A1-E08-1260	0	set	05:52:01;
+
+[PrintText]=05:52:14	Makoto	No está bien. Dime.	05:55:19;
+
+[PlayVoice]=05:52:14	Voice03/03-A1/03-A1-E08/03-A1-E08-1270	1	mak	05:55:19;
+
+[PrintText]=05:56:08	Setsuna	...	05:57:02;
+
+[PlayVoice]=05:56:08	Voice03/03-A1/03-A1-E08/03-A1-E08-1280	0	xxx	05:57:02;
+
+[PrintText]=05:58:11	Makoto	Vamos.	05:59:06;
+
+[PlayVoice]=05:58:11	Voice03/03-A1/03-A1-E08/03-A1-E08-1290	1	mak	05:59:06;
+
+[PrintText]=05:59:22	Setsuna	...Quiero que me digas Setsuna.	06:02:17;
+
+[PlayVoice]=05:59:22	Voice03/03-A1/03-A1-E08/03-A1-E08-1300	0	set	06:02:17;
+
+[PrintText]=06:02:20	Makoto	Setsuna, huh.	06:04:09;
+
+[PlayVoice]=06:02:20	Voice03/03-A1/03-A1-E08/03-A1-E08-1310	1	mak	06:04:09;
+
+[PrintText]=06:04:22	Setsuna	Uh-huh.	06:05:13;
+
+[PlayVoice]=06:04:22	Voice03/03-A1/03-A1-E08/03-A1-E08-1320	0	set	06:05:13;
+
+[PrintText]=06:06:10	Makoto	Setsuna...	06:07:12;
+
+[PlayVoice]=06:06:10	Voice03/03-A1/03-A1-E08/03-A1-E08-1330	1	mak	06:07:12;
+
+[PrintText]=06:08:05	Setsuna	Hey...	06:08:20;
+
+[PlayVoice]=06:08:05	Voice03/03-A1/03-A1-E08/03-A1-E08-1340	0	set	06:08:20;
+
+[PrintText]=06:09:11	Makoto	Nn...	06:10:18;
+
+[PlayVoice]=06:09:11	Voice03/03-A1/03-A1-E08/03-A1-E08-1360	1	mak	06:10:18;
+
+[PlayVoice]=06:13:06	Voice03/03-A1/03-A1-E08/03-A1-E08-1350			06:13:16;
+
+[CreateBG]=06:14:07	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-027	06:18:22;
+
+[PrintText]=06:15:18	Setsuna	Tómame...	06:16:14;
+
+[PlayVoice]=06:15:18	Voice03/03-A1/03-A1-E08/03-A1-E08-1370	0	set	06:16:14;
+
+[PlayBgm]=06:18:22	BGM/SD_BGM/sdbgm25	09:18:20;
+
+[PlayMovie]=06:18:22	Movie03/03-A1/03-A1-E08/03-A1-E08-028	0	07:06:04;
+
+[PrintText]=06:19:03	Setsuna	Ah...	06:19:21;
+
+[PlayVoice]=06:19:03	Voice03/03-A1/03-A1-E08/03-A1-E08-1390	0	set	06:19:21;
+
+[PrintText]=06:21:01	Setsuna	¡No solo... mis pechos...!	06:22:18;
+
+[PlayVoice]=06:21:01	Voice03/03-A1/03-A1-E08/03-A1-E08-1440	0	set	06:22:18;
+
+[PrintText]=06:24:02	Setsuna	¡Ahh!	06:24:18;
+
+[PlayVoice]=06:24:02	Voice03/03-A1/03-A1-E08/03-A1-E08-1450	0	set	06:24:18;
+
+[PrintText]=06:25:14	Makoto	¿Se siente bien?^	06:26:11;
+
+[PlayVoice]=06:25:14	Voice03/03-A1/03-A1-E08/03-A1-E08-1460	1	mak	06:26:11;
+
+[PrintText]=06:29:00	Setsuna	Después de todo...	06:29:21;
+
+[PlayVoice]=06:29:00	Voice03/03-A1/03-A1-E08/03-A1-E08-1470	0	set	06:29:21;
+
+[PrintText]=06:30:01	Setsuna	No... son... tan grandes...	06:33:23;
+
+[PlayVoice]=06:30:01	Voice03/03-A1/03-A1-E08/03-A1-E08-1480	0	set	06:33:23;
+
+[PrintText]=06:36:02	Makoto	¡Y ahora... ahí...!	06:38:14;
+
+[PlayVoice]=06:36:02	Voice03/03-A1/03-A1-E08/03-A1-E08-1490	1	mak	06:38:14;
+
+[PrintText]=06:42:20	Setsuna	¡Ahí...!	06:45:05;
+
+[PlayVoice]=06:42:20	Voice03/03-A1/03-A1-E08/03-A1-E08-1500	0	set	06:45:05;
+
+[PlaySe]=06:53:04	1	Voice03/03-A1/03-A1-E08/03-A1-E08-1621	06:55:02;
+
+[PlaySe]=06:57:04	1	Voice03/03-A1/03-A1-E08/03-A1-E08-1631	07:00:09;
+
+[PlayMovie]=07:06:04	Movie03/03-A1/03-A1-E08/03-A1-E08-032	0	07:15:02;
+
+[PlaySe]=07:08:06	1	Voice03/03-A1/03-A1-E08/03-A1-E08-1661	07:16:01;
+
+[PrintText]=07:11:10	Makoto	Eres tan linda...	07:13:00;
+
+[PlayVoice]=07:11:10	Voice03/03-A1/03-A1-E08/03-A1-E08-1510	1	mak	07:13:00;
+
+[PlaySe]=07:15:02	3	SysSe/SE_all/h/h_04	07:31:07;
+
+[PlayMovie]=07:15:02	Movie03/03-A1/03-A1-E08/03-A1-E08-033	0	07:17:11;
+
+[PrintText]=07:16:08	Setsuna	Ahh...!	07:17:08;
+
+[PlayVoice]=07:16:08	Voice03/03-A1/03-A1-E08/03-A1-E08-1520	0	set	07:17:08;
+
+[PlayMovie]=07:17:11	Movie03/03-A1/03-A1-E08/03-A1-E08-033	0	07:19:20;
+
+[PlayMovie]=07:19:20	Movie03/03-A1/03-A1-E08/03-A1-E08-034	0	07:31:07;
+
+[PrintText]=07:19:20	Setsuna	¡Itou...!	07:21:07;
+
+[PlayVoice]=07:19:20	Voice03/03-A1/03-A1-E08/03-A1-E08-1530	0	set	07:21:07;
+
+[PrintText]=07:22:15	Setsuna	Es...	07:23:18;
+
+[PlayVoice]=07:22:15	Voice03/03-A1/03-A1-E08/03-A1-E08-1540	0	set	07:23:18;
+
+[PrintText]=07:24:02	Setsuna	¡Es... suficiente!	07:28:04;
+
+[PlayVoice]=07:24:02	Voice03/03-A1/03-A1-E08/03-A1-E08-1550	0	set	07:28:04;
+
+[PrintText]=07:30:15	Setsuna	¡Tómame...!	07:31:19;
+
+[PlayVoice]=07:30:15	Voice03/03-A1/03-A1-E08/03-A1-E08-1560	0	set	07:31:19;
+
+[CreateBG]=07:31:07	BGS	Event03/03-A1/03-A1-E08/03-A1-E08-012	07:47:22;
+
+[PrintText]=07:33:07	Makoto	Está bien.	07:34:01;
+
+[PlayVoice]=07:33:07	Voice03/03-A1/03-A1-E08/03-A1-E08-1570	1	mak	07:34:01;
+
+[PrintText]=07:38:08	Makoto	Setsuna...	07:39:10;
+
+[PlayVoice]=07:38:08	Voice03/03-A1/03-A1-E08/03-A1-E08-1580	1	mak	07:39:10;
+
+[PrintText]=07:43:20	Setsuna	U... uh-huh...	07:46:00;
+
+[PlayVoice]=07:43:20	Voice03/03-A1/03-A1-E08/03-A1-E08-1590	0	set	07:46:00;
+
+[PlayMovie]=07:47:22	Movie03/03-A1/03-A1-E08/03-A1-E08-041	0	08:06:15;
+
+[MoveSom]=07:48:02	1	07:58:12;
+
+[PrintText]=07:56:04	Setsuna	¡Ouch...!	07:58:03;
+
+[PlayVoice]=07:56:04	Voice03/03-A1/03-A1-E08/03-A1-E08-1600	0	set	07:58:03;
+
+[PlaySe]=07:59:06	2	Voice03/03-A1/03-A1-E08/03-A1-E08-1601	08:33:23;
+
+[PrintText]=08:00:10	Makoto	¿Duele?^	08:01:11;
+
+[PlayVoice]=08:00:10	Voice03/03-A1/03-A1-E08/03-A1-E08-1610	1	mak	08:01:11;
+
+[CreateBG]=08:06:15	BGS	System/Screen/Black	08:07:03;
+
+[PlaySe]=08:07:03	3	SysSe/SE_all/h/h_03	08:34:02;
+
+[PlaySe]=08:07:03	4	SysSe/SE_all/h/h_05	08:34:02;
+
+[PlaySe]=08:07:03	5	SysSe/SE_all/h/h_01	08:16:21;
+
+[PlayMovie]=08:07:03	Movie03/03-A1/03-A1-E08/03-A1-E08-038	0	08:13:09;
+
+[MoveSom]=08:07:03	2	08:19:12;
+
+[CreateBG]=08:13:09	BGS	System/Screen/Black	08:13:21;
+
+[PlayMovie]=08:13:21	Movie03/03-A1/03-A1-E08/03-A1-E08-044	0	08:28:23;
+
+[PlaySe]=08:16:21	6	SysSe/SE_all/h/h_04	08:33:01;
+
+[MoveSom]=08:19:12	3	08:29:01;
+
+[PlayMovie]=08:28:23	Movie03/03-A1/03-A1-E08/03-A1-E08-046	0	08:34:02;
+
+[MoveSom]=08:29:01	4	08:40:16;
+
+[PlayMovie]=08:34:02	Movie03/03-A1/03-A1-E08/03-A1-E08-047	0	09:10:14;
+
+[PrintText]=08:34:02	Setsuna	Tú...	08:35:12;
+
+[PlayVoice]=08:34:02	Voice03/03-A1/03-A1-E08/03-A1-E08-1620	0	set	08:35:12;
+
+[PrintText]=08:37:22	Setsuna	Es... tan... grande...	08:40:00;
+
+[PlayVoice]=08:37:22	Voice03/03-A1/03-A1-E08/03-A1-E08-1630	0	set	08:40:00;
+
+[PrintText]=08:43:09	Setsuna	Está todo dentro de mí...	08:51:20;
+
+[PlayVoice]=08:43:09	Voice03/03-A1/03-A1-E08/03-A1-E08-1640	0	set	08:51:20;
+
+[PlaySe]=08:50:11	2	Voice03/03-A1/03-A1-E08/03-A1-E08-1601	09:08:11;
+
+[PrintText]=08:52:02	Makoto	No creo que sea grande...	08:54:10;
+
+[PlayVoice]=08:52:02	Voice03/03-A1/03-A1-E08/03-A1-E08-1650	1	mak	08:54:10;
+
+[PrintText]=08:54:02	Setsuna	Lo... es ...	09:00:05;
+
+[PlayVoice]=08:54:02	Voice03/03-A1/03-A1-E08/03-A1-E08-1660	0	set	09:00:05;
+
+[PlaySe]=08:56:06	4	SysSe/SE_all/h/nuno1	08:57:19;
+
+[MoveSom]=09:07:20	4	09:18:20;
+
+[PlaySe]=09:08:04	4	SysSe/SE_all/h/h_04	09:18:20;
+
+[PlaySe]=09:08:04	5	SysSe/SE_all/h/h_05	09:18:20;
+
+[PlaySe]=09:08:04	6	SysSe/SE_all/h/h_03	09:18:20;
+
+[PrintText]=09:08:10	Setsuna	¡N... no mis pechos... ah!	09:13:23;
+
+[PlayVoice]=09:08:10	Voice03/03-A1/03-A1-E08/03-A1-E08-1670	0	set	09:13:23;
+
+[PlayMovie]=09:10:14	Movie03/03-A1/03-A1-E08/03-A1-E08-046	0	09:18:20;
+
+[SetSELECT]=09:12:16	*Venirse afuera*	null	09:17:16;
+
+ ;
+
+[Next]=09:18:20;
+
+

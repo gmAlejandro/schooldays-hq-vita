@@ -1,0 +1,221 @@
+﻿[SkipFRAME]=02:37:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:37:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-001	00:15:11;
+
+[PrintText]=00:00:00	Otome	Nanami.	00:01:02;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-J00/04-SE-J00-0030	0	oto	00:01:02;
+
+[PrintText]=00:01:02	Nanami	Otome.	00:02:01;
+
+[PlayVoice]=00:01:02	Voice04/04-SE/04-SE-J00/04-SE-J00-0040	0	nan	00:02:01;
+
+[PrintText]=00:02:01	Otome	Escucha... todos han estado mirándome y hablando de mi hasta el final del almuerzo... ¿Sabes algo?^	00:10:12;
+
+[PlayVoice]=00:02:01	Voice04/04-SE/04-SE-J00/04-SE-J00-0050	0	oto	00:10:12;
+
+[PrintText]=00:10:12	Nanami	Uwah... lo sabía.	00:13:04;
+
+[PlayVoice]=00:10:12	Voice04/04-SE/04-SE-J00/04-SE-J00-0060	0	nan	00:13:04;
+
+[PrintText]=00:13:04	Otome	¿Qué? ¿Lo sabías?^	00:15:12;
+
+[PlayVoice]=00:13:04	Voice04/04-SE/04-SE-J00/04-SE-J00-0070	0	oto	00:15:12;
+
+[CreateBG]=00:15:11	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-002	00:27:19;
+
+[PrintText]=00:15:12	Nanami	Bueno, la cosa es que... recuerdas a mi amiga, Saionji Sekai, la conociste después de educación física ¿No?^	00:23:23;
+
+[PlayVoice]=00:15:12	Voice04/04-SE/04-SE-J00/04-SE-J00-0080	0	nan	00:23:23;
+
+[PrintText]=00:23:23	Otome	Uh-huh.	00:24:22;
+
+[PlayVoice]=00:23:23	Voice04/04-SE/04-SE-J00/04-SE-J00-0090	0	oto	00:24:22;
+
+[PrintText]=00:24:22	Nanami	Ella está saliendo con Itou.	00:27:20;
+
+[PlayVoice]=00:24:22	Voice04/04-SE/04-SE-J00/04-SE-J00-0100	0	nan	00:27:20;
+
+[CreateBG]=00:27:19	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-003	00:35:05;
+
+[PrintText]=00:27:20	Otome	¿Eh?^	00:29:00;
+
+[PlayVoice]=00:27:20	Voice04/04-SE/04-SE-J00/04-SE-J00-0110	0	oto	00:29:00;
+
+[PrintText]=00:29:00	Nanami	Oh, ¿No lo habías oído?^	00:30:16;
+
+[PlayVoice]=00:29:00	Voice04/04-SE/04-SE-J00/04-SE-J00-0120	0	nan	00:30:16;
+
+[PrintText]=00:30:16	Otome	S-Sí... suelen estar juntos, pero...	00:35:06;
+
+[PlayVoice]=00:30:16	Voice04/04-SE/04-SE-J00/04-SE-J00-0130	0	oto	00:35:06;
+
+[CreateBG]=00:35:05	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-004	00:52:10;
+
+[PrintText]=00:35:06	Nanami	Entonces, algunas cosas pasaron, y ahora ella cree que Itou está engañándola con alguien.	00:43:21;
+
+[PlayVoice]=00:35:06	Voice04/04-SE/04-SE-J00/04-SE-J00-0140	0	nan	00:43:21;
+
+[PrintText]=00:43:21	Otome	Uh-huh.	00:44:19;
+
+[PlayVoice]=00:43:21	Voice04/04-SE/04-SE-J00/04-SE-J00-0150	0	oto	00:44:19;
+
+[PrintText]=00:44:19	Nanami	Y pues... para ser más exactos, Sekai piensa de que él la está engañando contigo.	00:52:13;
+
+[PlayVoice]=00:44:19	Voice04/04-SE/04-SE-J00/04-SE-J00-0160	0	nan	00:52:13;
+
+[CreateBG]=00:52:10	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-005	00:57:04;
+
+[PrintText]=00:52:13	Otome	¿Qué?^	00:53:20;
+
+[PlayVoice]=00:52:13	Voice04/04-SE/04-SE-J00/04-SE-J00-0170	0	oto	00:53:20;
+
+[PrintText]=00:53:21	Nanami	¿No se te viene a la mente algo?^	00:55:07;
+
+[PlayVoice]=00:53:21	Voice04/04-SE/04-SE-J00/04-SE-J00-0180	0	nan	00:55:07;
+
+[PrintText]=00:55:06	Otome	¡Por supuesto que no!	00:57:05;
+
+[PlayVoice]=00:55:06	Voice04/04-SE/04-SE-J00/04-SE-J00-0190	0	oto	00:57:05;
+
+[CreateBG]=00:57:04	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-006	01:15:07;
+
+[PrintText]=00:57:05	Nanami	Sí, así lo creí... pero viendo como a pasado todo esto, el rumor se a esparcido muy rápido.	01:05:14;
+
+[PlayVoice]=00:57:05	Voice04/04-SE/04-SE-J00/04-SE-J00-0200	0	nan	01:05:14;
+
+[PrintText]=01:05:14	Otome	¿Por qué ella...?^	01:07:16;
+
+[PlayVoice]=01:05:14	Voice04/04-SE/04-SE-J00/04-SE-J00-0210	0	oto	01:07:16;
+
+[PrintText]=01:07:16	Nanami	No es solo por ti. La gente también comenta de que la está engañando con Katsura de tu clase.	01:14:00;
+
+[PlayVoice]=01:07:16	Voice04/04-SE/04-SE-J00/04-SE-J00-0220	0	nan	01:14:00;
+
+[PrintText]=01:14:00	Otome	¿Katsura?^	01:15:07;
+
+[PlayVoice]=01:14:00	Voice04/04-SE/04-SE-J00/04-SE-J00-0230	0	oto	01:15:07;
+
+[CreateBG]=01:15:07	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-007	01:35:14;
+
+[PrintText]=01:15:07	Nanami	Bueno, en su caso, ella a estado enviando sus feromonas, Sekai la vio y se creó un malentendido.	01:23:13;
+
+[PlayVoice]=01:15:07	Voice04/04-SE/04-SE-J00/04-SE-J00-0240	0	nan	01:23:13;
+
+[PrintText]=01:23:13	Otome	¡Entonces todo es un malentendido!	01:25:15;
+
+[PlayVoice]=01:23:13	Voice04/04-SE/04-SE-J00/04-SE-J00-0250	0	oto	01:25:15;
+
+[PrintText]=01:25:15	Nanami	Otome... ¿En serio?^	01:28:12;
+
+[PlayVoice]=01:25:15	Voice04/04-SE/04-SE-J00/04-SE-J00-0260	0	nan	01:28:12;
+
+[PrintText]=01:28:12	Otome	¿Eh?^	01:29:03;
+
+[PlayVoice]=01:28:12	Voice04/04-SE/04-SE-J00/04-SE-J00-0270	0	oto	01:29:03;
+
+[PrintText]=01:29:03	Nanami	Los rumores dicen que lo besaste, y que estuviste toda una noche con él.	01:35:17;
+
+[PlayVoice]=01:29:03	Voice04/04-SE/04-SE-J00/04-SE-J00-0280	0	nan	01:35:17;
+
+[CreateBG]=01:35:14	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-008	01:41:15;
+
+[PrintText]=01:35:16	Otome	¡No lo hice! ¡No he hecho nada de eso!	01:38:22;
+
+[PlayVoice]=01:35:16	Voice04/04-SE/04-SE-J00/04-SE-J00-0290	0	oto	01:38:22;
+
+[PrintText]=01:38:22	Nanami	Ya veo...	01:39:23;
+
+[PlayVoice]=01:38:22	Voice04/04-SE/04-SE-J00/04-SE-J00-0300	0	nan	01:39:23;
+
+[PrintText]=01:39:23	Otome	¿Q-Qué?^	01:41:16;
+
+[PlayVoice]=01:39:23	Voice04/04-SE/04-SE-J00/04-SE-J00-0310	0	oto	01:41:16;
+
+[CreateBG]=01:41:15	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-009	01:53:22;
+
+[PrintText]=01:41:16	Nanami	Mmn... estuviste hablando con Itou en el almuerzo ¿No?^	01:46:03;
+
+[PlayVoice]=01:41:16	Voice04/04-SE/04-SE-J00/04-SE-J00-0320	0	nan	01:46:03;
+
+[PrintText]=01:46:03	Otome	Uh-huh.	01:46:23;
+
+[PlayVoice]=01:46:03	Voice04/04-SE/04-SE-J00/04-SE-J00-0330	0	oto	01:46:23;
+
+[PrintText]=01:46:23	Nanami	Estaba pensando en que tal vez él te gustaba.	01:53:22;
+
+[PlayVoice]=01:46:23	Voice04/04-SE/04-SE-J00/04-SE-J00-0340	0	nan	01:53:22;
+
+[CreateBG]=01:53:22	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-010	02:06:17;
+
+[PrintText]=01:53:22	Otome	Ah...	01:55:08;
+
+[PlayVoice]=01:53:22	Voice04/04-SE/04-SE-J00/04-SE-J00-0350	0	oto	01:55:08;
+
+[PrintText]=01:55:08	Nanami	¿Estoy en lo cierto?^	01:56:18;
+
+[PlayVoice]=01:55:08	Voice04/04-SE/04-SE-J00/04-SE-J00-0370	0	nan	01:56:18;
+
+[PrintText]=01:56:17	Otome	¡Es solo por un lado! Itou... es algo lento con cosas así.	02:04:11;
+
+[PlayVoice]=01:56:17	Voice04/04-SE/04-SE-J00/04-SE-J00-0380	0	oto	02:04:11;
+
+[PrintText]=02:04:10	Nanami	Ya lo creo...	02:05:23;
+
+[PlayVoice]=02:04:10	Voice04/04-SE/04-SE-J00/04-SE-J00-0390	0	nan	02:05:23;
+
+[PrintText]=02:06:00	Otome	Uh-huh...	02:06:17;
+
+[PlayVoice]=02:06:00	Voice04/04-SE/04-SE-J00/04-SE-J00-0400	0	oto	02:06:17;
+
+[CreateBG]=02:06:17	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-011	02:25:23;
+
+[PrintText]=02:06:17	Nanami	Bueno, soy amiga de Sekai, y no tengo que animarte, pero...	02:13:10;
+
+[PlayVoice]=02:06:17	Voice04/04-SE/04-SE-J00/04-SE-J00-0410	0	nan	02:13:10;
+
+[PrintText]=02:13:10	Otome	No tienes por qué.	02:16:09;
+
+[PlayVoice]=02:13:10	Voice04/04-SE/04-SE-J00/04-SE-J00-0420	0	oto	02:16:09;
+
+[PrintText]=02:16:09	Nanami	...pero yo creo que Itou y tú harían una bonita pareja.	02:20:20;
+
+[PlayVoice]=02:16:09	Voice04/04-SE/04-SE-J00/04-SE-J00-0430	0	nan	02:20:20;
+
+[PrintText]=02:20:20	Otome	Ah... sí.	02:23:00;
+
+[PlayVoice]=02:20:20	Voice04/04-SE/04-SE-J00/04-SE-J00-0440	0	oto	02:23:00;
+
+[PrintText]=02:23:00	Nanami	Si Sekai no estaría, te apoyaría completamente.	02:25:23;
+
+[PlayVoice]=02:23:00	Voice04/04-SE/04-SE-J00/04-SE-J00-0450	0	nan	02:25:23;
+
+[CreateBG]=02:25:23	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-012	02:32:18;
+
+[PrintText]=02:26:00	Otome	G-Gracias...	02:27:23;
+
+[PlayVoice]=02:26:00	Voice04/04-SE/04-SE-J00/04-SE-J00-0460	0	oto	02:27:23;
+
+[PrintText]=02:28:00	Nanami	¡Bien! ¡Ahora, vamos al club!	02:31:23;
+
+[PlayVoice]=02:28:00	Voice04/04-SE/04-SE-J00/04-SE-J00-0470	0	nan	02:31:23;
+
+[PrintText]=02:31:22	Otome	Sí.	02:32:19;
+
+[PlayVoice]=02:31:22	Voice04/04-SE/04-SE-J00/04-SE-J00-0480	0	oto	02:32:19;
+
+[CreateBG]=02:32:18	BGS	Event04/04-SE/04-SE-J00/04-SE-J00-013	02:37:01;
+
+[PrintText]=02:33:19	Kotonoha	...	02:35:01;
+
+[PlayVoice]=02:33:19	Voice04/04-SE/04-SE-J00/04-SE-J00-0500	0	xxx	02:35:01;
+
+[BlackFade]=02:36:06	OUT	02:37:01;
+
+ ;
+
+[Next]=02:37:01;
+
+

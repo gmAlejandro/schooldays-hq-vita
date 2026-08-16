@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=01:13:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	01:13:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-I00/04-SE-I00-001	00:12:16;
+
+[PrintText]=00:00:14	Kotonoha	Saionji-san...	00:02:01;
+
+[PlayVoice]=00:00:14	Voice04/04-SE/04-SE-I00/04-SE-I00-0050	0	kot	00:02:01;
+
+[PrintText]=00:02:11	Sekai	Uh-huh...	00:03:02;
+
+[PlayVoice]=00:02:11	Voice04/04-SE/04-SE-I00/04-SE-I00-0060	0	sek	00:03:02;
+
+[PrintText]=00:03:09	Kotonoha	Hoy... escuché de Katou-san diciéndole a sus amigas que se había quedado despierta toda la noche con Makoto-kun haciendo esto y aquello.	00:15:16;
+
+[PlayVoice]=00:03:09	Voice04/04-SE/04-SE-I00/04-SE-I00-0070	0	kot	00:15:16;
+
+[CreateBG]=00:12:16	BGS	Event04/04-SE/04-SE-I00/04-SE-I00-002	00:28:21;
+
+[PrintText]=00:15:16	Sekai	Uh-huh...	00:16:09;
+
+[PlayVoice]=00:15:16	Voice04/04-SE/04-SE-I00/04-SE-I00-0080	0	sek	00:16:09;
+
+[PrintText]=00:16:09	Kotonoha	Supongo que esto significa que... están en una relación ¿No? Quedarse hasta la mañana... que indecente...	00:28:22;
+
+[PlayVoice]=00:16:09	Voice04/04-SE/04-SE-I00/04-SE-I00-0090	0	kot	00:28:22;
+
+[CreateBG]=00:28:21	BGS	Event04/04-SE/04-SE-I00/04-SE-I00-003	00:34:06;
+
+[PrintText]=00:29:21	Sekai	No, te equivocas...	00:31:11;
+
+[PlayVoice]=00:29:21	Voice04/04-SE/04-SE-I00/04-SE-I00-0100	0	sek	00:31:11;
+
+[PrintText]=00:31:11	Kotonoha	¿Eh?^	00:32:05;
+
+[PlayVoice]=00:31:11	Voice04/04-SE/04-SE-I00/04-SE-I00-0110	0	kot	00:32:05;
+
+[PrintText]=00:32:05	Sekai	Ellos estuvieron en el teléfono hasta tarde.	00:34:08;
+
+[PlayVoice]=00:32:05	Voice04/04-SE/04-SE-I00/04-SE-I00-0120	0	sek	00:34:08;
+
+[CreateBG]=00:34:06	BGS	Event04/04-SE/04-SE-I00/04-SE-I00-004	00:43:06;
+
+[PrintText]=00:34:08	Kotonoha	¿Eh...? Ah... ¿E-enserio? Oh, no. Yo... realmente pensé que...	00:43:08;
+
+[PlayVoice]=00:34:08	Voice04/04-SE/04-SE-I00/04-SE-I00-0130	0	kot	00:43:08;
+
+[CreateBG]=00:43:06	BGS	Event04/04-SE/04-SE-I00/04-SE-I00-005	00:50:12;
+
+[PrintText]=00:43:08	Sekai	Aún así, son bien cercanos para estar en el celular hablando hasta la mañana...	00:47:17;
+
+[PlayVoice]=00:43:08	Voice04/04-SE/04-SE-I00/04-SE-I00-0140	0	sek	00:47:17;
+
+[PrintText]=00:47:17	Kotonoha	Ah... sí...	00:49:14;
+
+[PlayVoice]=00:47:17	Voice04/04-SE/04-SE-I00/04-SE-I00-0150	0	kot	00:49:14;
+
+[PrintText]=00:49:14	Sekai	Haah...	00:50:12;
+
+[PlayVoice]=00:49:14	Voice04/04-SE/04-SE-I00/04-SE-I00-0160	0	sek	00:50:12;
+
+[CreateBG]=00:50:12	BGS	Event04/04-SE/04-SE-I00/04-SE-I00-006	01:07:20;
+
+[PrintText]=00:50:12	Kotonoha	U-um... He estado pensando en esforzarme más, así no perder contra ella. ¿Qué piensas?^	00:59:06;
+
+[PlayVoice]=00:50:12	Voice04/04-SE/04-SE-I00/04-SE-I00-0170	0	kot	00:59:06;
+
+[PrintText]=00:59:06	Sekai	Sí... suena bien.	01:01:06;
+
+[PlayVoice]=00:59:06	Voice04/04-SE/04-SE-I00/04-SE-I00-0180	0	sek	01:01:06;
+
+[PrintText]=01:01:06	Kotonoha	¿En serio? Oh, me hace sentir mil veces mejor que me digas eso.	01:07:20;
+
+[PlayVoice]=01:01:06	Voice04/04-SE/04-SE-I00/04-SE-I00-0190	0	kot	01:07:20;
+
+[CreateBG]=01:07:20	BGS	Event04/04-SE/04-SE-I00/04-SE-I00-007	01:13:23;
+
+[PrintText]=01:07:20	Sekai	Ya veo...	01:08:19;
+
+[PlayVoice]=01:07:20	Voice04/04-SE/04-SE-I00/04-SE-I00-0200	0	sek	01:08:19;
+
+[PrintText]=01:08:20	Kotonoha	Sí... daré mi mejor esfuerzo.	01:11:04;
+
+[PlayVoice]=01:08:20	Voice04/04-SE/04-SE-I00/04-SE-I00-0210	0	kot	01:11:04;
+
+[PrintText]=01:11:10	Sekai	...	01:11:23;
+
+[PlayVoice]=01:11:10	Voice04/04-SE/04-SE-I00/04-SE-I00-0220	0	xxx	01:11:23;
+
+ ;
+
+[Next]=01:13:23;
+
+

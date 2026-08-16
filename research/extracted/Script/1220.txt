@@ -1,0 +1,477 @@
+﻿[SkipFRAME]=03:59:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	03:59:16;
+
+[PlaySe]=00:00:00	4	SysSe/SE_all/gaya/kyousitu_rouka	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-I04/04-SB-I04-001	00:05:10;
+
+[PrintText]=00:00:15	Makoto	Haah... haah...	00:05:05;
+
+[PlayVoice]=00:00:15	Voice04/04-SB/04-SB-I04/04-SB-I04-0030	1	mak	00:05:05;
+
+[PlayMovie]=00:05:10	Movie04/04-SB/04-SB-I02/04-SB-I02-002	0	00:06:17;
+
+[PrintText]=00:05:11	Hikari	¿Eh?^	00:06:11;
+
+[PlayVoice]=00:05:11	Voice04/04-SB/04-SB-I04/04-SB-I04-0050	0	hik	00:06:11;
+
+[PlayMovie]=00:06:17	Movie04/04-SB/04-SB-I04/04-SB-I04-003	0	00:30:05;
+
+[PrintText]=00:06:19	Makoto	Quedate así.	00:08:03;
+
+[PlayVoice]=00:06:19	Voice04/04-SB/04-SB-I04/04-SB-I04-0060	1	mak	00:08:03;
+
+[PlaySe]=00:08:01	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-001	00:10:00;
+
+[PrintText]=00:08:03	Hikari	¿I-Itou...?^	00:09:23;
+
+[PlayVoice]=00:08:03	Voice04/04-SB/04-SB-I04/04-SB-I04-0070	0	hik	00:09:23;
+
+[PrintText]=00:09:23	Makoto	Tienes que quedarte quieto, o lo notarán.	00:15:07;
+
+[PlayVoice]=00:09:23	Voice04/04-SB/04-SB-I04/04-SB-I04-0080	1	mak	00:15:07;
+
+[PlaySe]=00:14:01	1	SysSe/SE_all/h/h_03	00:15:15;
+
+[PrintText]=00:15:03	Hikari	Sí, pero...	00:17:01;
+
+[PlayVoice]=00:15:03	Voice04/04-SB/04-SB-I04/04-SB-I04-0090	0	hik	00:17:01;
+
+[PlaySe]=00:15:15	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:17:00;
+
+[PlaySe]=00:16:23	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:18:08;
+
+[PrintText]=00:17:17	Hikari	¡H-hey! ¿D-Donde crees que intentas tocarme?!	00:21:04;
+
+[PlayVoice]=00:17:17	Voice04/04-SB/04-SB-I04/04-SB-I04-0110	0	hik	00:21:04;
+
+[PlaySe]=00:18:08	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:19:17;
+
+[PlaySe]=00:19:16	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:21:01;
+
+[PrintText]=00:20:14	Makoto	Calmate.	00:21:21;
+
+[PlayVoice]=00:20:14	Voice04/04-SB/04-SB-I04/04-SB-I04-0120	1	mak	00:21:21;
+
+[PlaySe]=00:20:23	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:22:08;
+
+[PrintText]=00:22:04	Hikari	No puedo calmarme así.	00:24:21;
+
+[PlayVoice]=00:22:04	Voice04/04-SB/04-SB-I04/04-SB-I04-0130	0	hik	00:24:21;
+
+[PlaySe]=00:22:07	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:23:16;
+
+[PlaySe]=00:23:15	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:25:00;
+
+[PrintText]=00:24:14	Makoto	¿Por qué no?^	00:25:16;
+
+[PlayVoice]=00:24:14	Voice04/04-SB/04-SB-I04/04-SB-I04-0140	1	mak	00:25:16;
+
+[PlaySe]=00:24:22	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:26:07;
+
+[PrintText]=00:25:18	Hikari	¡E-Estás tocando mis pechos!	00:28:02;
+
+[PlayVoice]=00:25:18	Voice04/04-SB/04-SB-I04/04-SB-I04-0150	0	hik	00:28:02;
+
+[PlaySe]=00:26:05	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:27:14;
+
+[PlaySe]=00:27:12	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:28:21;
+
+[PrintText]=00:27:17	Makoto	Son tan suaves.	00:29:08;
+
+[PlayVoice]=00:27:17	Voice04/04-SB/04-SB-I04/04-SB-I04-0160	1	mak	00:29:08;
+
+[PlaySe]=00:28:19	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	00:30:04;
+
+[PrintText]=00:29:03	Hikari	¡Para!	00:30:16;
+
+[PlayVoice]=00:29:03	Voice04/04-SB/04-SB-I04/04-SB-I04-0170	0	hik	00:30:16;
+
+[PlayMovie]=00:30:05	Movie04/04-SB/04-SB-I04/04-SB-I04-004	0	00:45:02;
+
+[PrintText]=00:30:05	Makoto	Apostaría a que tus pechos se sienten más suaves y bonitos que los de ella.	00:36:00;
+
+[PlayVoice]=00:30:05	Voice04/04-SB/04-SB-I04/04-SB-I04-0180	1	mak	00:36:00;
+
+[PlaySe]=00:30:07	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:32:12;
+
+[PlaySe]=00:32:12	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:34:17;
+
+[PlaySe]=00:34:15	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:36:20;
+
+[PrintText]=00:35:20	Hikari	...	00:37:10;
+
+[PlayVoice]=00:35:20	Voice04/04-SB/04-SB-I04/04-SB-I04-0190	0	xxx	00:37:10;
+
+[PlaySe]=00:36:21	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:39:02;
+
+[PrintText]=00:37:05	Makoto	Y aún así... Taisuke se lo está perdiendo ¿No?^	00:42:23;
+
+[PlayVoice]=00:37:05	Voice04/04-SB/04-SB-I04/04-SB-I04-0200	1	mak	00:42:23;
+
+[PlaySe]=00:39:00	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:41:05;
+
+[PlaySe]=00:41:05	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:43:10;
+
+[PrintText]=00:42:23	Hikari	¿De qué estás...?^	00:45:02;
+
+[PlayVoice]=00:42:23	Voice04/04-SB/04-SB-I04/04-SB-I04-0210	0	hik	00:45:02;
+
+[PlaySe]=00:43:05	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	00:45:02;
+
+[CreateBG]=00:45:02	BGS	Event04/04-SB/04-SB-I04/04-SB-I04-005	00:59:08;
+
+[PrintText]=00:45:02	Makoto	El te ha gustado... durante todo este tiempo ¿No es así?^	00:49:12;
+
+[PlayVoice]=00:45:02	Voice04/04-SB/04-SB-I04/04-SB-I04-0220	1	mak	00:49:12;
+
+[PrintText]=00:49:21	Hikari	...	00:51:05;
+
+[PlayVoice]=00:49:21	Voice04/04-SB/04-SB-I04/04-SB-I04-0230	0	xxx	00:51:05;
+
+[PrintText]=00:51:05	Makoto	Ustedes se conocen desde la primaria ¿No?^	00:53:03;
+
+[PlayVoice]=00:51:05	Voice04/04-SB/04-SB-I04/04-SB-I04-0240	1	mak	00:53:03;
+
+[PrintText]=00:53:00	Hikari	¿Qué hay con eso?^	00:55:19;
+
+[PlayVoice]=00:53:00	Voice04/04-SB/04-SB-I04/04-SB-I04-0250	0	hik	00:55:19;
+
+[PrintText]=00:55:19	Makoto	¿Fue en ese tiempo en el que te empezó a gustar?^	00:59:10;
+
+[PlayVoice]=00:55:19	Voice04/04-SB/04-SB-I04/04-SB-I04-0260	1	mak	00:59:10;
+
+[PlaySe]=00:59:08	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:00:17;
+
+[PlayMovie]=00:59:08	Movie04/04-SB/04-SB-I04/04-SB-I04-006	0	01:28:09;
+
+[PrintText]=00:59:08	Hikari	...	01:00:16;
+
+[PlayVoice]=00:59:08	Voice04/04-SB/04-SB-I04/04-SB-I04-0270	0	xxx	01:00:16;
+
+[PlaySe]=01:00:15	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:02:00;
+
+[PrintText]=01:00:22	Makoto	...Suena a eso.	01:03:05;
+
+[PlayVoice]=01:00:22	Voice04/04-SB/04-SB-I04/04-SB-I04-0280	1	mak	01:03:05;
+
+[PlaySe]=01:01:21	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:03:06;
+
+[PrintText]=01:03:03	Hikari	Mira, solo para.	01:05:15;
+
+[PlayVoice]=01:03:03	Voice04/04-SB/04-SB-I04/04-SB-I04-0290	0	hik	01:05:15;
+
+[PlaySe]=01:03:04	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:04:13;
+
+[PlaySe]=01:04:12	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:05:21;
+
+[PrintText]=01:05:15	Makoto	Si paro, abriré esta puerta.	01:09:09;
+
+[PlayVoice]=01:05:15	Voice04/04-SB/04-SB-I04/04-SB-I04-0300	1	mak	01:09:09;
+
+[PlaySe]=01:05:20	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:07:05;
+
+[PlaySe]=01:07:04	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:08:13;
+
+[PlaySe]=01:08:12	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:09:21;
+
+[PrintText]=01:09:00	Hikari	¿De qué estás hablando?!	01:10:22;
+
+[PlayVoice]=01:09:00	Voice04/04-SB/04-SB-I04/04-SB-I04-0310	0	hik	01:10:22;
+
+[PlaySe]=01:09:19	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:11:04;
+
+[PrintText]=01:11:01	Makoto	Estoy aquí abrazándote, y tocando tus pechos... Me pregunto que pensaría Taisuke.	01:19:11;
+
+[PlayVoice]=01:11:01	Voice04/04-SB/04-SB-I04/04-SB-I04-0320	1	mak	01:19:11;
+
+[PlaySe]=01:11:02	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:12:11;
+
+[PlaySe]=01:12:10	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:13:19;
+
+[PlaySe]=01:13:18	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:15:03;
+
+[PlaySe]=01:15:00	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:16:09;
+
+[PlaySe]=01:16:07	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:17:16;
+
+[PlaySe]=01:17:13	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:18:22;
+
+[PlaySe]=01:18:19	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:20:04;
+
+[PrintText]=01:19:01	Hikari	¿Itou? ¿Tú no puedes...?!	01:21:13;
+
+[PlayVoice]=01:19:01	Voice04/04-SB/04-SB-I04/04-SB-I04-0330	0	hik	01:21:13;
+
+[PlaySe]=01:20:00	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:21:09;
+
+[PrintText]=01:21:00	Makoto	Solo bromeo... si es que te quedas así...	01:24:15;
+
+[PlayVoice]=01:21:00	Voice04/04-SB/04-SB-I04/04-SB-I04-0340	1	mak	01:24:15;
+
+[PlaySe]=01:21:06	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:22:15;
+
+[PlaySe]=01:22:12	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:23:21;
+
+[PlaySe]=01:23:20	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:25:05;
+
+[PrintText]=01:24:15	Hikari	Sabes que eso es chantaje ¿No?^	01:28:12;
+
+[PlayVoice]=01:24:15	Voice04/04-SB/04-SB-I04/04-SB-I04-0350	0	hik	01:28:12;
+
+[PlaySe]=01:25:03	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:26:12;
+
+[PlaySe]=01:26:10	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:27:19;
+
+[PlaySe]=01:27:12	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:28:21;
+
+[PlayMovie]=01:28:09	Movie04/04-SB/04-SB-I04/04-SB-I04-007	0	01:48:04;
+
+[PrintText]=01:28:09	Makoto	Me lo recuerdas después.	01:30:07;
+
+[PlayVoice]=01:28:09	Voice04/04-SB/04-SB-I04/04-SB-I04-0360	1	mak	01:30:07;
+
+[PlaySe]=01:28:22	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:31:03;
+
+[PrintText]=01:30:02	Hikari	...	01:31:07;
+
+[PlayVoice]=01:30:02	Voice04/04-SB/04-SB-I04/04-SB-I04-0370	0	xxx	01:31:07;
+
+[PlaySe]=01:31:03	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:33:08;
+
+[PrintText]=01:31:12	Makoto	Por ahora... solo mira...	01:34:19;
+
+[PlayVoice]=01:31:12	Voice04/04-SB/04-SB-I04/04-SB-I04-0380	1	mak	01:34:19;
+
+[PlaySe]=01:33:06	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:35:11;
+
+[PrintText]=01:34:14	Hikari	Nn...	01:35:17;
+
+[PlayVoice]=01:34:14	Voice04/04-SB/04-SB-I04/04-SB-I04-0390	0	hik	01:35:17;
+
+[PlaySe]=01:35:09	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:37:14;
+
+[PrintText]=01:35:23	Makoto	Y piensa que yo soy Taisuke.	01:38:13;
+
+[PlayVoice]=01:35:23	Voice04/04-SB/04-SB-I04/04-SB-I04-0400	1	mak	01:38:13;
+
+[PlaySe]=01:37:13	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:39:18;
+
+[PrintText]=01:38:19	Hikari	...	01:40:03;
+
+[PlayVoice]=01:38:19	Voice04/04-SB/04-SB-I04/04-SB-I04-0410	0	xxx	01:40:03;
+
+[PlaySe]=01:39:13	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:41:18;
+
+[PrintText]=01:40:14	Makoto	Yo... haré lo mismo.	01:43:21;
+
+[PlayVoice]=01:40:14	Voice04/04-SB/04-SB-I04/04-SB-I04-0420	1	mak	01:43:21;
+
+[PlaySe]=01:41:18	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:43:23;
+
+[PlaySe]=01:43:19	1	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:46:00;
+
+[PrintText]=01:44:04	Hikari	Nn...	01:45:08;
+
+[PlayVoice]=01:44:04	Voice04/04-SB/04-SB-I04/04-SB-I04-0430	0	hik	01:45:08;
+
+[PlaySe]=01:46:00	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-003	01:48:05;
+
+[PrintText]=01:46:01	Hikari	¡Hyah!	01:46:21;
+
+[PlayVoice]=01:46:01	Voice04/04-SB/04-SB-I04/04-SB-I04-0450	0	hik	01:46:21;
+
+[PrintText]=01:46:20	Makoto	Tranquila.	01:48:11;
+
+[PlayVoice]=01:46:20	Voice04/04-SB/04-SB-I04/04-SB-I04-0460	1	mak	01:48:11;
+
+[PlaySe]=01:48:03	1	SysSe/SE_all/h/h_03	02:57:15;
+
+[PlayMovie]=01:48:04	Movie04/04-SB/04-SB-I04/04-SB-I04-008	0	02:03:21;
+
+[PrintText]=01:48:04	Hikari	¡Ahí no!	01:50:14;
+
+[PlayVoice]=01:48:04	Voice04/04-SB/04-SB-I04/04-SB-I04-0470	0	hik	01:50:14;
+
+[PlaySe]=01:49:14	2	Se04/04-SB/04-SB-G03/SE04-SB-G03-004	01:50:23;
+
+[PrintText]=01:50:14	Makoto	Mira, quedate así o...	01:53:15;
+
+[PlayVoice]=01:50:14	Voice04/04-SB/04-SB-I04/04-SB-I04-0480	1	mak	01:53:15;
+
+[PrintText]=01:53:13	Hikari	¡No!	01:55:02;
+
+[PlayVoice]=01:53:13	Voice04/04-SB/04-SB-I04/04-SB-I04-0490	0	hik	01:55:02;
+
+[PrintText]=01:54:20	Makoto	Creo que estabas diciendo eso cuando empezamos, también.	01:59:02;
+
+[PlayVoice]=01:54:20	Voice04/04-SB/04-SB-I04/04-SB-I04-0500	1	mak	01:59:02;
+
+[PlaySe]=01:59:04	5	SysSe/SE_all/gaya/kyousitu_rouka	02:57:20;
+
+[PrintText]=01:59:08	Hikari	Itou... Te mataré después de esto.	02:04:07;
+
+[PlayVoice]=01:59:08	Voice04/04-SB/04-SB-I04/04-SB-I04-0510	0	hik	02:04:07;
+
+[PlayMovie]=02:03:21	Movie04/04-SB/04-SB-I04/04-SB-I04-009	0	02:43:23;
+
+[PrintText]=02:03:21	Makoto	Pues bien.	02:04:23;
+
+[PlayVoice]=02:03:21	Voice04/04-SB/04-SB-I04/04-SB-I04-0520	1	mak	02:04:23;
+
+[PrintText]=02:05:00	Hikari	Kuh...	02:06:05;
+
+[PlayVoice]=02:05:00	Voice04/04-SB/04-SB-I04/04-SB-I04-0530	0	hik	02:06:05;
+
+[PrintText]=02:06:15	Hikari	¡Haah... ah...!	02:11:08;
+
+[PlayVoice]=02:06:15	Voice04/04-SB/04-SB-I04/04-SB-I04-0550	0	hik	02:11:08;
+
+[PrintText]=02:10:21	Makoto	...	02:13:12;
+
+[PlayVoice]=02:10:21	Voice04/04-SB/04-SB-I04/04-SB-I04-0570	1	xxx	02:13:12;
+
+[PrintText]=02:13:17	Hikari	¡Nn... fwah... ah...!	02:19:17;
+
+[PlayVoice]=02:13:17	Voice04/04-SB/04-SB-I04/04-SB-I04-0580	0	hik	02:19:17;
+
+[PrintText]=02:19:13	Makoto	Haah... haah...	02:24:21;
+
+[PlayVoice]=02:19:13	Voice04/04-SB/04-SB-I04/04-SB-I04-0590	1	mak	02:24:21;
+
+[PrintText]=02:25:21	Hikari	¡Ah... ah...! Aah... ah...	02:34:20;
+
+[PlayVoice]=02:25:21	Voice04/04-SB/04-SB-I04/04-SB-I04-0600	0	hik	02:34:20;
+
+[PrintText]=02:35:02	Hikari	Fwah... ah... ah... ahh... aah...	02:43:13;
+
+[PlayVoice]=02:35:02	Voice04/04-SB/04-SB-I04/04-SB-I04-0620	0	hik	02:43:13;
+
+[PlaySe]=02:39:07	3	SysSe/SE_all/h/h_05	03:19:14;
+
+[PlayMovie]=02:43:23	Movie04/04-SB/04-SB-I04/04-SB-I04-010	0	02:57:22;
+
+[PrintText]=02:43:23	Makoto	¿Tú nunca... Has metido tu dedo ahí?^	02:47:11;
+
+[PlayVoice]=02:43:23	Voice04/04-SB/04-SB-I04/04-SB-I04-0630	1	mak	02:47:11;
+
+[PrintText]=02:47:02	Hikari	Mnn...	02:49:15;
+
+[PlayVoice]=02:47:02	Voice04/04-SB/04-SB-I04/04-SB-I04-0640	0	hik	02:49:15;
+
+[PrintText]=02:49:11	Makoto	¿Aún sigues siendo virgen?^	02:52:02;
+
+[PlayVoice]=02:49:11	Voice04/04-SB/04-SB-I04/04-SB-I04-0650	1	mak	02:52:02;
+
+[PlaySe]=02:50:07	2	SysSe/SE_all/h/h_03	03:59:16;
+
+[PrintText]=02:51:11	Hikari	¿Y... qué si lo soy?^	02:56:01;
+
+[PlayVoice]=02:51:11	Voice04/04-SB/04-SB-I04/04-SB-I04-0660	0	hik	02:56:01;
+
+[PrintText]=02:56:11	Makoto	Oh, nada...	02:57:11;
+
+[PlayVoice]=02:56:11	Voice04/04-SB/04-SB-I04/04-SB-I04-0670	1	mak	02:57:11;
+
+[PlayMovie]=02:57:22	Movie04/04-SB/04-SB-I04/04-SB-I04-011	0	03:20:19;
+
+[MoveSom]=02:57:22	5	03:20:19;
+
+[PrintText]=02:58:11	Kotonoha	¡Ahh!	02:59:13;
+
+[PlayVoice]=02:58:11	Voice04/04-SB/04-SB-I04/04-SB-I04-0680	0	kot	02:59:13;
+
+[PrintText]=02:59:14	Taisuke	¡K-Katsura-san!	03:02:04;
+
+[PlayVoice]=02:59:14	Voice04/04-SB/04-SB-I04/04-SB-I04-0690	1	tai	03:02:04;
+
+[PrintText]=03:01:16	Kotonoha	¡Haah... Sí! ¡Ah...! Aaah...!	03:08:03;
+
+[PlayVoice]=03:01:16	Voice04/04-SB/04-SB-I04/04-SB-I04-0700	0	kot	03:08:03;
+
+[PrintText]=03:08:09	Taisuke	¡V-Voy... a venirme...!	03:13:00;
+
+[PlayVoice]=03:08:09	Voice04/04-SB/04-SB-I04/04-SB-I04-0710	1	tai	03:13:00;
+
+[PrintText]=03:12:17	Kotonoha	¡No... afuera! ¡...Aah! ¡Hah... nn...!	03:19:21;
+
+[PlayVoice]=03:12:17	Voice04/04-SB/04-SB-I04/04-SB-I04-0720	0	kot	03:19:21;
+
+[PlaySe]=03:19:17	1	SysSe/SE_all/h/h_05	03:59:15;
+
+[PlaySe]=03:20:17	4	SysSe/SE_all/gaya/kyousitu_rouka	03:59:16;
+
+[PlayMovie]=03:20:19	Movie04/04-SB/04-SB-I04/04-SB-I04-009	0	03:23:13;
+
+[PrintText]=03:20:19	Makoto	Están a punto de terminar...	03:23:15;
+
+[PlayVoice]=03:20:19	Voice04/04-SB/04-SB-I04/04-SB-I04-0730	1	mak	03:23:15;
+
+[PlayMovie]=03:23:13	Movie04/04-SB/04-SB-I04/04-SB-I04-014	0	03:39:09;
+
+[PrintText]=03:23:13	Hikari	¿...Itou?^	03:26:23;
+
+[PlayVoice]=03:23:13	Voice04/04-SB/04-SB-I04/04-SB-I04-0740	0	hik	03:26:23;
+
+[PrintText]=03:27:04	Makoto	Ah... sí.	03:29:09;
+
+[PlayVoice]=03:27:04	Voice04/04-SB/04-SB-I04/04-SB-I04-0750	1	mak	03:29:09;
+
+[PrintText]=03:29:17	Hikari	Haah... haah... phew... ah...	03:36:23;
+
+[PlayVoice]=03:29:17	Voice04/04-SB/04-SB-I04/04-SB-I04-0770	0	hik	03:36:23;
+
+[PrintText]=03:38:01	Makoto	Kuroda.	03:39:09;
+
+[PlayVoice]=03:38:01	Voice04/04-SB/04-SB-I04/04-SB-I04-0780	1	mak	03:39:09;
+
+[PrintText]=03:39:08	Hikari	No... solo un poco más...	03:43:20;
+
+[PlayVoice]=03:39:08	Voice04/04-SB/04-SB-I04/04-SB-I04-0800	0	hik	03:43:20;
+
+[PlayMovie]=03:39:09	Movie04/04-SB/04-SB-I04/04-SB-I04-015	0	03:49:05;
+
+[PrintText]=03:43:17	Makoto	Terminaron.	03:45:10;
+
+[PlayVoice]=03:43:17	Voice04/04-SB/04-SB-I04/04-SB-I04-0810	1	mak	03:45:10;
+
+[PrintText]=03:45:07	Hikari	¿Eh?!	03:46:12;
+
+[PlayVoice]=03:45:07	Voice04/04-SB/04-SB-I04/04-SB-I04-0820	0	hik	03:46:12;
+
+[PrintText]=03:46:01	Makoto	Vámonos antes de que salgan.	03:48:13;
+
+[PlayVoice]=03:46:01	Voice04/04-SB/04-SB-I04/04-SB-I04-0830	1	mak	03:48:13;
+
+[PrintText]=03:48:08	Hikari	Sí...	03:49:13;
+
+[PlayVoice]=03:48:08	Voice04/04-SB/04-SB-I04/04-SB-I04-0840	0	hik	03:49:13;
+
+[CreateBG]=03:49:05	BGS	Event04/04-SB/04-SB-I04/04-SB-I04-005	03:55:17;
+
+[PrintText]=03:50:18	Hikari	Ah...	03:52:13;
+
+[PlayVoice]=03:50:18	Voice04/04-SB/04-SB-I04/04-SB-I04-0860	0	hik	03:52:13;
+
+[PrintText]=03:52:19	Makoto	Wow.	03:54:10;
+
+[PlayVoice]=03:52:19	Voice04/04-SB/04-SB-I04/04-SB-I04-0880	1	mak	03:54:10;
+
+[PrintText]=03:54:02	Hikari	¡V-Vamos!	03:55:21;
+
+[PlayVoice]=03:54:02	Voice04/04-SB/04-SB-I04/04-SB-I04-0890	0	hik	03:55:21;
+
+[CreateBG]=03:55:17	BGS	Event04/04-SB/04-SB-I04/04-SB-I04-017	03:59:16;
+
+[PrintText]=03:55:17	Makoto	Sí.	03:56:20;
+
+[PlayVoice]=03:55:17	Voice04/04-SB/04-SB-I04/04-SB-I04-0910	1	mak	03:56:20;
+
+[BlackFade]=03:57:16	OUT	03:59:16;
+
+ ;
+
+[Next]=03:59:16;
+
+

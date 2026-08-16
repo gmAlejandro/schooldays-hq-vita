@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=01:04:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:10:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-K01/04-SE-K01-001	00:06:06;
+
+[PrintText]=00:00:00	Makoto	...No lo sé.	00:01:06;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-K01/04-SE-K01-0030	1	mak	00:01:06;
+
+[PrintText]=00:01:06	Kotonoha	¿Eh?^	00:02:04;
+
+[PlayVoice]=00:01:06	Voice04/04-SE/04-SE-K01/04-SE-K01-0040	0	kot	00:02:04;
+
+[PrintText]=00:02:04	Makoto	Yo... ya no sé más como me siento.	00:06:07;
+
+[PlayVoice]=00:02:04	Voice04/04-SE/04-SE-K01/04-SE-K01-0050	1	mak	00:06:07;
+
+[CreateBG]=00:06:06	BGS	Event04/04-SE/04-SE-K01/04-SE-K01-002	00:14:07;
+
+[PrintText]=00:06:07	Kotonoha	En ese caso, deberías salir con...	00:08:06;
+
+[PlayVoice]=00:06:07	Voice04/04-SE/04-SE-K01/04-SE-K01-0060	0	kot	00:08:06;
+
+[PrintText]=00:08:06	Makoto	No... ahora, no saldré con nadie.	00:12:21;
+
+[PlayVoice]=00:08:06	Voice04/04-SE/04-SE-K01/04-SE-K01-0070	1	mak	00:12:21;
+
+[PrintText]=00:12:21	Kotonoha	Pero...	00:14:06;
+
+[PlayVoice]=00:12:21	Voice04/04-SE/04-SE-K01/04-SE-K01-0080	0	kot	00:14:06;
+
+[PrintText]=00:14:06	Makoto	Voy a calmarme y pensar las cosas...	00:16:08;
+
+[PlayVoice]=00:14:06	Voice04/04-SE/04-SE-K01/04-SE-K01-0090	1	mak	00:16:08;
+
+[EndBGM]=00:14:06	BGM/Vocal/SDV04	02:24:23;
+
+[CreateBG]=00:14:07	BGS	Event04/04-SE/04-SE-K01/04-SE-K01-003	00:16:10;
+
+[PrintText]=00:16:08	Kotonoha	...	00:17:11;
+
+[PlayVoice]=00:16:08	Voice04/04-SE/04-SE-K01/04-SE-K01-0100	0	xxx	00:17:11;
+
+[CreateBG]=00:16:10	BGS	Event04/04-SE/04-SE-K01/04-SE-K01-004	00:21:10;
+
+[PrintText]=00:17:10	Sekai	Makoto...	00:19:01;
+
+[PlayVoice]=00:17:10	Voice04/04-SE/04-SE-K01/04-SE-K01-0110	0	sek	00:19:01;
+
+[CreateBG]=00:21:10	BGS	Ini/EndRoll/04-21	00:24:00;
+
+[EndRoll]=00:24:00	Ini/EndRoll/NORMAL	01:04:00;
+
+ ;
+
+[Next]=01:04:00;
+
+

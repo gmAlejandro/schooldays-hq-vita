@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:37:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:37:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-001	00:01:21;
+
+[PrintText]=00:00:14	Makoto	No puedo.	00:01:14;
+
+[PlayVoice]=00:00:14	Voice05/05-5O/05-5O-E09/05-5O-E09-0030	1	mak	00:01:14;
+
+[CreateBG]=00:01:21	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-002	00:08:05;
+
+[PrintText]=00:01:22	Taisuke	Oh, Ya veo. Tienes planes ¿Huh?^	00:04:12;
+
+[PlayVoice]=00:01:22	Voice05/05-5O/05-5O-E09/05-5O-E09-0040	1	tai	00:04:12;
+
+[PrintText]=00:04:14	Makoto	¿Eh?^	00:04:22;
+
+[PlayVoice]=00:04:14	Voice05/05-5O/05-5O-E09/05-5O-E09-0050	1	mak	00:04:22;
+
+[PrintText]=00:05:00	Taisuke	Escuché que tienes problemas unas cuantas chicas.	00:08:11;
+
+[PlayVoice]=00:05:00	Voice05/05-5O/05-5O-E09/05-5O-E09-0060	1	tai	00:08:11;
+
+[CreateBG]=00:08:05	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-003	00:09:08;
+
+[PrintText]=00:08:08	Makoto	¿De quién?^	00:09:07;
+
+[PlayVoice]=00:08:08	Voice05/05-5O/05-5O-E09/05-5O-E09-0070	1	mak	00:09:07;
+
+[CreateBG]=00:09:08	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-003B	00:10:10;
+
+[PrintText]=00:09:13	Taisuke	Hikari.	00:10:09;
+
+[PlayVoice]=00:09:13	Voice05/05-5O/05-5O-E09/05-5O-E09-0080	1	tai	00:10:09;
+
+[CreateBG]=00:10:10	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-003C	00:16:10;
+
+[PrintText]=00:10:10	Makoto	¿Hikari...? Oh ¿Te refieres a Kuroda? ¿Están saliendo o algo?^	00:16:08;
+
+[PlayVoice]=00:10:10	Voice05/05-5O/05-5O-E09/05-5O-E09-0090	1	mak	00:16:08;
+
+[PlayBgm]=00:16:08	BGM/SD_BGM/sdbgm17	00:37:08;
+
+[CreateBG]=00:16:10	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-004	00:17:19;
+
+[PrintText]=00:16:11	Taisuke	¿Y qué si es así?^	00:17:22;
+
+[PlayVoice]=00:16:11	Voice05/05-5O/05-5O-E09/05-5O-E09-0100	1	tai	00:17:22;
+
+[CreateBG]=00:17:19	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-005	00:19:06;
+
+[PrintText]=00:17:20	Makoto	No puede ser ¿En serio?^	00:19:09;
+
+[PlayVoice]=00:17:20	Voice05/05-5O/05-5O-E09/05-5O-E09-0110	1	mak	00:19:09;
+
+[CreateBG]=00:19:06	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-006	00:21:01;
+
+[PrintText]=00:19:07	Taisuke	¡Tú fuiste el que nos hizo estar juntos!	00:21:05;
+
+[PlayVoice]=00:19:07	Voice05/05-5O/05-5O-E09/05-5O-E09-0120	1	tai	00:21:05;
+
+[CreateBG]=00:21:01	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-007	00:22:04;
+
+[PrintText]=00:21:03	Makoto	¿A sí?^	00:22:06;
+
+[PlayVoice]=00:21:03	Voice05/05-5O/05-5O-E09/05-5O-E09-0130	1	mak	00:22:06;
+
+[CreateBG]=00:22:04	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-008	00:27:20;
+
+[PrintText]=00:22:05	Taisuke	¡Kuh...! Me siento patético de solo pensar que arriesgué todo por una cabeza de chorlito como tú.	00:28:00;
+
+[PlayVoice]=00:22:05	Voice05/05-5O/05-5O-E09/05-5O-E09-0140	1	tai	00:28:00;
+
+[CreateBG]=00:27:20	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-009	00:30:04;
+
+[PrintText]=00:27:20	Hikari	¿Arriesgaste? ¿Como?^	00:30:08;
+
+[PlayVoice]=00:27:20	Voice05/05-5O/05-5O-E09/05-5O-E09-0150	0	hik	00:30:08;
+
+[CreateBG]=00:30:04	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-010	00:33:01;
+
+[PrintText]=00:30:05	Taisuke	Hikari?! O-oh, Yo solo...	00:33:06;
+
+[PlayVoice]=00:30:05	Voice05/05-5O/05-5O-E09/05-5O-E09-0160	1	tai	00:33:06;
+
+[CreateBG]=00:33:01	BGS	Event05/05-5O/05-5O-E09/05-5O-E09-011	00:37:08;
+
+[PrintText]=00:33:02	Hikari	¡Cielos! ¿No me prometiste que hoy almorzaríamos juntos?^	00:37:06;
+
+[PlayVoice]=00:33:02	Voice05/05-5O/05-5O-E09/05-5O-E09-0170	0	hik	00:37:06;
+
+ ;
+
+[Next]=00:37:08;
+
+

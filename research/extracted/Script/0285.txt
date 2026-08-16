@@ -1,0 +1,121 @@
+﻿[SkipFRAME]=01:57:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:59:05;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-R00/SE02-2K-R00-001	01:11:18;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-001	00:02:16;
+
+[PrintText]=00:00:00	Makoto	Se ha hecho muy tarde ¿no?^	00:02:15;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-R00/02-2K-R00-0050	1	mak	00:02:15;
+
+[CreateBG]=00:02:16	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-002	00:05:01;
+
+[PrintText]=00:02:16	Sekai	¿Tu madre no se preocupa por ti?^	00:05:01;
+
+[PlayVoice]=00:02:16	Voice02/02-2K/02-2K-R00/02-2K-R00-0060	0	sek	00:05:01;
+
+[CreateBG]=00:05:01	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-003	00:07:12;
+
+[PrintText]=00:05:01	Makoto	Gracias a Dios, ella está en el último turno esta noche también.	00:07:11;
+
+[PlayVoice]=00:05:01	Voice02/02-2K/02-2K-R00/02-2K-R00-0070	1	mak	00:07:11;
+
+[CreateBG]=00:07:12	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-004	00:12:21;
+
+[PrintText]=00:07:12	Sekai	Bueno, bueno ... en ese caso, podríamos también haber ido a tu casa.	00:12:21;
+
+[PlayVoice]=00:07:12	Voice02/02-2K/02-2K-R00/02-2K-R00-0080	0	sek	00:12:21;
+
+[PrintText]=00:12:20	Makoto	Sí, y entonces tal vez yo estaría diciendo: '¡No tenía la intención de qué esto terminara así! Créeme'.	00:22:05;
+
+[PlayVoice]=00:12:20	Voice02/02-2K/02-2K-R00/02-2K-R00-0090	1	mak	00:22:05;
+
+[CreateBG]=00:12:21	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-003	00:22:04;
+
+[PlaySe]=00:14:13	2	SysSe/SE_all/station_train/train_stopping	00:31:05;
+
+[CreateBG]=00:22:04	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-006	00:23:20;
+
+[PrintText]=00:22:05	Sekai	Ahaha.	00:23:17;
+
+[PlayVoice]=00:22:05	Voice02/02-2K/02-2K-R00/02-2K-R00-0100	0	sek	00:23:17;
+
+[PlayMovie]=00:23:20	Movie02/02-2K/02-2K-R00/02-2K-R00-007	0	00:31:05;
+
+[PrintText]=00:24:04	Makoto	Nos vemos.	00:24:23;
+
+[PlayVoice]=00:24:04	Voice02/02-2K/02-2K-R00/02-2K-R00-0120	1	mak	00:24:23;
+
+[PrintText]=00:25:12	Sekai	Sip... Bye Bye.	00:27:09;
+
+[PlayVoice]=00:25:12	Voice02/02-2K/02-2K-R00/02-2K-R00-0130	0	sek	00:27:09;
+
+[PrintText]=00:27:14	Makoto	Buenas noches.	00:28:11;
+
+[PlayVoice]=00:27:14	Voice02/02-2K/02-2K-R00/02-2K-R00-0140	1	mak	00:28:11;
+
+[CreateBG]=00:31:05	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-008	00:35:05;
+
+[PrintText]=00:31:10	Sekai	¡Ah!	00:32:08;
+
+[PlayVoice]=00:31:10	Voice02/02-2K/02-2K-R00/02-2K-R00-0150	0	sek	00:32:08;
+
+[PrintText]=00:32:12	Makoto	¿Qué pasó?^	00:33:11;
+
+[PlayVoice]=00:32:12	Voice02/02-2K/02-2K-R00/02-2K-R00-0160	1	mak	00:33:11;
+
+[PlaySe]=00:33:03	3	SysSe/SE_all/station_train/train_door_open	00:35:04;
+
+[PrintText]=00:33:17	Sekai	Escucha.	00:34:18;
+
+[PlayVoice]=00:33:17	Voice02/02-2K/02-2K-R00/02-2K-R00-0170	0	sek	00:34:18;
+
+[CreateBG]=00:35:05	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-009	00:38:15;
+
+[PrintText]=00:35:08	Makoto	¿Qué pasa? El tren está a punto de salir.	00:38:15;
+
+[PlayVoice]=00:35:08	Voice02/02-2K/02-2K-R00/02-2K-R00-0180	1	mak	00:38:15;
+
+[CreateBG]=00:38:15	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-010	00:43:12;
+
+[PrintText]=00:38:15	Sekai	...No le diré nada a Katsura-san.	00:43:19;
+
+[PlayVoice]=00:38:15	Voice02/02-2K/02-2K-R00/02-2K-R00-0200	0	sek	00:43:19;
+
+[PlaySe]=00:41:05	2	SysSe/SE_all/station_train/start_bell	00:45:14;
+
+[CreateBG]=00:43:12	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-011	00:44:23;
+
+[PrintText]=00:43:16	Makoto	¿Eh?^	00:44:10;
+
+[PlayVoice]=00:43:16	Voice02/02-2K/02-2K-R00/02-2K-R00-0210	1	mak	00:44:10;
+
+[CreateBG]=00:44:23	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-012	00:49:04;
+
+[PrintText]=00:44:23	Sekai	¡La práctica termina aquí! ¡Buenas Noches!	00:48:15;
+
+[PlayVoice]=00:44:23	Voice02/02-2K/02-2K-R00/02-2K-R00-0220	0	sek	00:48:15;
+
+[PlaySe]=00:48:06	2	SysSe/SE_all/station_train/train_start	01:06:19;
+
+[PlayMovie]=00:49:04	Movie02/02-2K/02-2K-R00/02-2K-R00-013	0	01:09:08;
+
+[EndBGM]=01:00:15	BGM/Vocal/SDV04	03:11:08;
+
+[CreateBG]=01:09:08	BGS	Event02/02-2K/02-2K-R00/02-2K-R00-015	01:14:07;
+
+[BlackFade]=01:13:07	OUT	01:14:07;
+
+[CreateBG]=01:14:07	BGS	Ini/EndRoll/02-01	01:17:00;
+
+[EndRoll]=01:17:00	Ini/EndRoll/NORMAL	01:57:00;
+
+ ;
+
+[Next]=01:57:00;
+
+
+
+

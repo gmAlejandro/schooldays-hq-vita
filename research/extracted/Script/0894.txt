@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=01:00:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:12:07;
+
+[PlayMovie]=00:00:00	Movie04/04-C1/04-C1-B01/04-C1-B01-001	0	00:16:00;
+
+[PrintText]=00:00:00	Makoto	Perdóname...	00:01:00;
+
+[PlayVoice]=00:00:00	Voice04/04-C1/04-C1-B01/04-C1-B01-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:01	Sekai	Está bien...	00:02:06;
+
+[PlayVoice]=00:01:01	Voice04/04-C1/04-C1-B01/04-C1-B01-0040	0	sek	00:02:06;
+
+[PrintText]=00:02:06	Makoto	Pero... Perdóname...	00:05:05;
+
+[PlayVoice]=00:02:06	Voice04/04-C1/04-C1-B01/04-C1-B01-0050	1	mak	00:05:05;
+
+[PrintText]=00:05:05	Sekai	Está bien... Solo olvídalo... Te amo.	00:13:08;
+
+[PlayVoice]=00:05:05	Voice04/04-C1/04-C1-B01/04-C1-B01-0060	0	sek	00:13:08;
+
+[EndBGM]=00:12:06	BGM/Vocal/SDV04	02:22:23;
+
+[PrintText]=00:13:08	Makoto	...	00:14:12;
+
+[PlayVoice]=00:13:08	Voice04/04-C1/04-C1-B01/04-C1-B01-0070	1	xxx	00:14:12;
+
+[PrintText]=00:14:12	Sekai	Te amo...	00:15:16;
+
+[PlayVoice]=00:14:12	Voice04/04-C1/04-C1-B01/04-C1-B01-0080	0	sek	00:15:16;
+
+[CreateBG]=00:16:00	BGS	Ini/EndRoll/04-03	00:20:00;
+
+[EndRoll]=00:20:00	Ini/EndRoll/NORMAL	01:00:00;
+
+ ;
+
+[Next]=01:00:00;
+
+

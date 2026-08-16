@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:11:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:11:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-F01/03-KA-F01-001	00:02:22;
+
+[PrintText]=00:00:00	Makoto	'Buenas noches.'.	00:02:11;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-F01/03-KA-F01-0030	1	mak	00:02:11;
+
+[PlayMovie]=00:02:22	Movie03/03-KA/03-KA-F01/03-KA-F01-002	0	00:05:11;
+
+[CreateBG]=00:05:11	BGS	Event03/03-KA/03-KA-F01/03-KA-F01-003	00:11:11;
+
+[PrintText]=00:05:14	Makoto	Haah... Parece que tenemos un duro camino por delante.	00:09:10;
+
+[PlayVoice]=00:05:14	Voice03/03-KA/03-KA-F01/03-KA-F01-0050	1	mak	00:09:10;
+
+[BlackFade]=00:10:11	OUT	00:11:11;
+
+ ;
+
+[Next]=00:11:11;
+
+

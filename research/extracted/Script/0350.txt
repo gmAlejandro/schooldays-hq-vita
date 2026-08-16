@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:34:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:34:11;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-O00/SE02-2S-O00-001	00:02:00;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-O00/02-2S-O00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event02/02-2S/02-2S-O00/02-2S-O00-002	00:03:17;
+
+[PrintText]=00:02:17	Madre de Sekai	Sekai.	00:03:13;
+
+[PlayVoice]=00:02:17	Voice02/02-2S/02-2S-O00/02-2S-O00-0050	0	yko	00:03:13;
+
+[CreateBG]=00:03:17	BGS	Event02/02-2S/02-2S-O00/02-2S-O00-003	00:06:16;
+
+[PrintText]=00:04:08	Madre de Sekai	¿Pasó algo? ¿Estabas durmiendo? Es casi la hora de la cena, ya sabes.	00:09:14;
+
+[PlayVoice]=00:04:08	Voice02/02-2S/02-2S-O00/02-2S-O00-0070	0	yko	00:09:14;
+
+[CreateBG]=00:06:16	BGS	Event02/02-2S/02-2S-O00/02-2S-O00-004	00:14:23;
+
+[PrintText]=00:09:10	Sekai	No quiero nada. No tengo hambre.	00:12:06;
+
+[PlayVoice]=00:09:10	Voice02/02-2S/02-2S-O00/02-2S-O00-0080	0	sek	00:12:06;
+
+[PrintText]=00:12:09	Madre de Sekai	No es por eso que estoy aquí. Tienes un invitado.	00:14:23;
+
+[PlayVoice]=00:12:09	Voice02/02-2S/02-2S-O00/02-2S-O00-0090	0	yko	00:14:23;
+
+[CreateBG]=00:14:23	BGS	Event02/02-2S/02-2S-O00/02-2S-O00-005	00:31:13;
+
+[PrintText]=00:14:23	Sekai	No quiero verlo.	00:16:07;
+
+[PlayVoice]=00:14:23	Voice02/02-2S/02-2S-O00/02-2S-O00-0100	0	sek	00:16:07;
+
+[PrintText]=00:16:04	Madre de Sekai	Ahora no podemos hacer eso.	00:18:16;
+
+[PlayVoice]=00:16:04	Voice02/02-2S/02-2S-O00/02-2S-O00-0110	0	yko	00:18:16;
+
+[PrintText]=00:18:22	Sekai	Dile a Setsuna que no me siento bien. Se lo diré todo mañana.	00:24:09;
+
+[PlayVoice]=00:18:22	Voice02/02-2S/02-2S-O00/02-2S-O00-0120	0	sek	00:24:09;
+
+[PrintText]=00:24:14	Madre de Sekai	No es Se-chan.	00:26:07;
+
+[PlayVoice]=00:24:14	Voice02/02-2S/02-2S-O00/02-2S-O00-0130	0	yko	00:26:07;
+
+[PrintText]=00:26:10	Sekai	¿Nanami?^	00:27:07;
+
+[PlayVoice]=00:26:10	Voice02/02-2S/02-2S-O00/02-2S-O00-0140	0	sek	00:27:07;
+
+[PrintText]=00:27:10	Madre de Sekai	Tampoco es ella.	00:28:11;
+
+[PlayVoice]=00:27:10	Voice02/02-2S/02-2S-O00/02-2S-O00-0150	0	yko	00:28:11;
+
+[PrintText]=00:28:18	Sekai	¿Quién es?^	00:29:14;
+
+[PlayVoice]=00:28:18	Voice02/02-2S/02-2S-O00/02-2S-O00-0160	0	sek	00:29:14;
+
+[PrintText]=00:29:16	Madre de Sekai	Deberías saberlo.	00:31:14;
+
+[PlayVoice]=00:29:16	Voice02/02-2S/02-2S-O00/02-2S-O00-0170	0	yko	00:31:14;
+
+[CreateBG]=00:31:13	BGS	Event02/02-2S/02-2S-O00/02-2S-O00-006	00:34:11;
+
+[PrintText]=00:31:13	Sekai	¿Eh?^	00:32:03;
+
+[PlayVoice]=00:31:13	Voice02/02-2S/02-2S-O00/02-2S-O00-0180	0	sek	00:32:03;
+
+[PrintText]=00:32:16	Madre de Sekai	Es un chico.	00:33:23;
+
+[PlayVoice]=00:32:16	Voice02/02-2S/02-2S-O00/02-2S-O00-0200	0	yko	00:33:23;
+
+ ;
+
+[Next]=00:34:11;
+
+
+
+

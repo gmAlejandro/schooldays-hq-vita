@@ -1,0 +1,133 @@
+﻿[SkipFRAME]=00:49:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/footsteps/asioto_school	00:01:13;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/kyousitu_rouka	00:49:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-001A	00:01:03;
+
+[CreateBG]=00:01:03	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-001B	00:03:14;
+
+[PrintText]=00:01:14	Sekai	Makoto. Buen día.	00:03:16;
+
+[PlayVoice]=00:01:14	Voice05/05-KB/05-KB-B04/05-KB-B04-0040	0	sek	00:03:16;
+
+[CreateBG]=00:03:14	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-002A	00:05:16;
+
+[PrintText]=00:03:16	Makoto	...	00:06:02;
+
+[PlayVoice]=00:03:16	Voice05/05-KB/05-KB-B04/05-KB-B04-0050	1	xxx	00:06:02;
+
+[CreateBG]=00:05:16	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-002B	00:06:21;
+
+[PrintText]=00:06:02	Sekai	¿Huh...?^	00:06:22;
+
+[PlayVoice]=00:06:02	Voice05/05-KB/05-KB-B04/05-KB-B04-0070	0	sek	00:06:22;
+
+[CreateBG]=00:06:21	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-003	00:09:01;
+
+[PrintText]=00:06:22	Sekai	H-hey ¿Makoto?^	00:09:03;
+
+[PlayVoice]=00:06:22	Voice05/05-KB/05-KB-B04/05-KB-B04-0100	0	sek	00:09:03;
+
+[CreateBG]=00:09:01	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-004	00:13:04;
+
+[PrintText]=00:09:03	Makoto	...Estaba equivocado acerca de ti.	00:13:04;
+
+[PlayVoice]=00:09:03	Voice05/05-KB/05-KB-B04/05-KB-B04-0120	1	mak	00:13:04;
+
+[CreateBG]=00:13:04	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-002B	00:14:10;
+
+[PrintText]=00:13:11	Sekai	¡¿Eh?!	00:14:01;
+
+[PlayVoice]=00:13:11	Voice05/05-KB/05-KB-B04/05-KB-B04-0130	0	sek	00:14:01;
+
+[CreateBG]=00:14:10	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-006	00:16:00;
+
+[PrintText]=00:14:10	Makoto	¡Kanroji!	00:16:11;
+
+[PlayVoice]=00:14:10	Voice05/05-KB/05-KB-B04/05-KB-B04-0140	1	mak	00:16:11;
+
+[CreateBG]=00:16:00	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-007	00:16:13;
+
+[CreateBG]=00:16:13	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-008	00:18:01;
+
+[PrintText]=00:16:16	Nanami	¿Qué?^	00:17:14;
+
+[PlayVoice]=00:16:16	Voice05/05-KB/05-KB-B04/05-KB-B04-0150	0	nan	00:17:14;
+
+[PrintText]=00:17:23	Makoto	Ambas.	00:20:11;
+
+[PlayVoice]=00:17:23	Voice05/05-KB/05-KB-B04/05-KB-B04-0170	1	mak	00:20:11;
+
+[CreateBG]=00:18:01	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-009	00:20:01;
+
+[CreateBG]=00:20:01	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-010	00:22:07;
+
+[PrintText]=00:20:10	Sekai	¿S-Sí?^	00:22:08;
+
+[PlayVoice]=00:20:10	Voice05/05-KB/05-KB-B04/05-KB-B04-0180	0	sek	00:22:08;
+
+[CreateBG]=00:22:07	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-009	00:26:23;
+
+[PrintText]=00:22:08	Makoto	Si le haces algo más a Kotonoha, no voy a ser compasivo.	00:27:00;
+
+[PlayVoice]=00:22:08	Voice05/05-KB/05-KB-B04/05-KB-B04-0190	1	mak	00:27:00;
+
+[CreateBG]=00:26:23	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-012	00:29:08;
+
+[PrintText]=00:27:00	Sekai	¿Eh?!	00:27:21;
+
+[PlayVoice]=00:27:00	Voice05/05-KB/05-KB-B04/05-KB-B04-0200	0	sek	00:27:21;
+
+[PrintText]=00:27:21	Nanami	Uwah...	00:29:08;
+
+[PlayVoice]=00:27:21	Voice05/05-KB/05-KB-B04/05-KB-B04-0210	0	nan	00:29:08;
+
+[CreateBG]=00:29:08	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-013	00:40:10;
+
+[PrintText]=00:29:08	Makoto	No te hagas la tonta. Has estado hablando con las chicas de la clase 4 para que la molesten ¿No?^	00:37:17;
+
+[PlayVoice]=00:29:08	Voice05/05-KB/05-KB-B04/05-KB-B04-0220	1	mak	00:37:17;
+
+[PrintText]=00:37:18	Sekai	Y-Yo... nunca...	00:40:10;
+
+[PlayVoice]=00:37:18	Voice05/05-KB/05-KB-B04/05-KB-B04-0230	0	sek	00:40:10;
+
+[PrintText]=00:40:09	Makoto	Has sido advertida ¿Vale?^	00:43:08;
+
+[PlayVoice]=00:40:09	Voice05/05-KB/05-KB-B04/05-KB-B04-0240	1	mak	00:43:08;
+
+[CreateBG]=00:40:10	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-009	00:43:08;
+
+[CreateBG]=00:43:08	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-0015	00:46:08;
+
+[PrintText]=00:43:08	Sekai	¿Huh...?^	00:44:13;
+
+[PlayVoice]=00:43:08	Voice05/05-KB/05-KB-B04/05-KB-B04-0260	0	sek	00:44:13;
+
+[PrintText]=00:44:12	Nanami	Aw, cielos...	00:46:06;
+
+[PlayVoice]=00:44:12	Voice05/05-KB/05-KB-B04/05-KB-B04-0270	0	nan	00:46:06;
+
+[PlaySe]=00:44:23	1	SysSe/SE_all/footsteps/asioto_out_walk	00:49:17;
+
+[CreateBG]=00:46:08	BGS	Event05/05-KB/05-KB-B04/05-KB-B04-016	00:49:17;
+
+[PrintText]=00:46:08	Sekai	¿Nanami...?^	00:47:10;
+
+[PlayVoice]=00:46:08	Voice05/05-KB/05-KB-B04/05-KB-B04-0280	0	sek	00:47:10;
+
+[PrintText]=00:47:10	Nanami	¡Discúlpame!	00:48:09;
+
+[PlayVoice]=00:47:10	Voice05/05-KB/05-KB-B04/05-KB-B04-0290	0	nan	00:48:09;
+
+[PrintText]=00:48:09	Sekai	¡¿Huh?!	00:49:13;
+
+[PlayVoice]=00:48:09	Voice05/05-KB/05-KB-B04/05-KB-B04-0300	0	sek	00:49:13;
+
+ ;
+
+[Next]=00:49:17;
+
+

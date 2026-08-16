@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:21:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:21:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-B03/04-SC-B03-001	00:01:14;
+
+[PrintText]=00:00:00	Makoto	...	00:01:18;
+
+[PlayVoice]=00:00:00	Voice04/04-SC/04-SC-B03/04-SC-B03-0030	1	xxx	00:01:18;
+
+[CreateBG]=00:01:14	BGS	Event04/04-SC/04-SC-B03/04-SC-B03-002	00:04:09;
+
+[PrintText]=00:01:18	Sekai	Hey, ¿En qué andas pensando tanto?^	00:04:11;
+
+[PlayVoice]=00:01:18	Voice04/04-SC/04-SC-B03/04-SC-B03-0040	0	sek	00:04:11;
+
+[CreateBG]=00:04:09	BGS	Event04/04-SC/04-SC-B03/04-SC-B03-003	00:08:01;
+
+[PrintText]=00:04:11	Makoto	O-oh, nada... parece que estoy olvidando algo.	00:08:04;
+
+[PlayVoice]=00:04:11	Voice04/04-SC/04-SC-B03/04-SC-B03-0050	1	mak	00:08:04;
+
+[CreateBG]=00:08:01	BGS	Event04/04-SC/04-SC-B03/04-SC-B03-004	00:09:04;
+
+[PrintText]=00:08:09	Sekai	¿Qué?^	00:09:06;
+
+[PlayVoice]=00:08:09	Voice04/04-SC/04-SC-B03/04-SC-B03-0060	0	sek	00:09:06;
+
+[CreateBG]=00:09:04	BGS	Event04/04-SC/04-SC-B03/04-SC-B03-005	00:11:01;
+
+[PrintText]=00:09:06	Makoto	Hmm...	00:11:06;
+
+[PlayVoice]=00:09:06	Voice04/04-SC/04-SC-B03/04-SC-B03-0070	1	mak	00:11:06;
+
+[CreateBG]=00:11:01	BGS	Event04/04-SC/04-SC-B03/04-SC-B03-006	00:17:00;
+
+[PrintText]=00:11:06	Sekai	¡Bueno, lo recordarás en cuanto pruebes mi almuerzo, solo espera hasta mañana!	00:17:04;
+
+[PlayVoice]=00:11:06	Voice04/04-SC/04-SC-B03/04-SC-B03-0080	0	sek	00:17:04;
+
+[CreateBG]=00:17:00	BGS	Event04/04-SC/04-SC-B03/04-SC-B03-007	00:19:05;
+
+[PrintText]=00:17:04	Makoto	¡Ah! ¡Sekai!	00:18:20;
+
+[PlayVoice]=00:17:04	Voice04/04-SC/04-SC-B03/04-SC-B03-0090	1	mak	00:18:20;
+
+[CreateBG]=00:19:05	BGS	Event04/04-SC/04-SC-B03/04-SC-B03-008	00:21:07;
+
+ ;
+
+[Next]=00:21:07;
+
+

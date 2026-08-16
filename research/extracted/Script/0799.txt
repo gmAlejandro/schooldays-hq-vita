@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:39:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:46:01;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-A04/SE03-SB-A04-001	00:46:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-001	00:02:01;
+
+[PrintText]=00:02:00	Sekai	Haah... La puesta de sol es hermosa.	00:06:16;
+
+[PlayVoice]=00:02:00	Voice03/03-SB/03-SB-A04/03-SB-A04-0040	0	sek	00:06:16;
+
+[CreateBG]=00:02:01	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-002	00:05:08;
+
+[CreateBG]=00:05:08	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-003	00:06:16;
+
+[CreateBG]=00:06:16	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-004	00:10:05;
+
+[PrintText]=00:06:16	Makoto	Sí.	00:07:13;
+
+[PlayVoice]=00:06:16	Voice03/03-SB/03-SB-A04/03-SB-A04-0050	1	mak	00:07:13;
+
+[PrintText]=00:07:14	Sekai	De alguna manera, todo esto...	00:10:05;
+
+[PlayVoice]=00:07:14	Voice03/03-SB/03-SB-A04/03-SB-A04-0060	0	sek	00:10:05;
+
+[CreateBG]=00:10:05	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-005	00:22:12;
+
+[PrintText]=00:10:05	Makoto	Kanroji y las otras piensan que estamos saliendo ¿No?^	00:14:11;
+
+[PlayVoice]=00:10:05	Voice03/03-SB/03-SB-A04/03-SB-A04-0070	1	mak	00:14:11;
+
+[PrintText]=00:14:11	Sekai	Sí. Todas me conocen desde hace tiempo... era obvio como me sentía.	00:22:11;
+
+[PlayVoice]=00:14:11	Voice03/03-SB/03-SB-A04/03-SB-A04-0080	0	sek	00:22:11;
+
+[PrintText]=00:22:11	Makoto	...	00:23:09;
+
+[PlayVoice]=00:22:11	Voice03/03-SB/03-SB-A04/03-SB-A04-0090	1	xxx	00:23:09;
+
+[CreateBG]=00:22:12	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-006	00:27:07;
+
+[PrintText]=00:23:09	Sekai	Por eso pensaron que estábamos saliendo desde que solíamos almorzar juntos. Todo a sido un problema.	00:33:07;
+
+[PlayVoice]=00:23:09	Voice03/03-SB/03-SB-A04/03-SB-A04-0100	0	sek	00:33:07;
+
+[CreateBG]=00:27:07	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-007	00:33:19;
+
+[PrintText]=00:33:07	Makoto	...	00:33:19;
+
+[PlayVoice]=00:33:07	Voice03/03-SB/03-SB-A04/03-SB-A04-0110	1	xxx	00:33:19;
+
+[CreateBG]=00:33:19	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-008	00:36:13;
+
+[PrintText]=00:33:19	Sekai	Incluso cuando tu verdadera novia es Katsura-san.	00:38:22;
+
+[PlayVoice]=00:33:19	Voice03/03-SB/03-SB-A04/03-SB-A04-0120	0	sek	00:38:22;
+
+[CreateBG]=00:36:13	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-009	00:38:22;
+
+[CreateBG]=00:38:22	BGS	Event03/03-SB/03-SB-A04/03-SB-A04-010	00:46:01;
+
+[PrintText]=00:38:22	Makoto	...	00:39:23;
+
+[PlayVoice]=00:38:22	Voice03/03-SB/03-SB-A04/03-SB-A04-0130	1	xxx	00:39:23;
+
+[SetSELECT]=00:39:23	'No digas cosas así'	'No puede evitarse'	00:44:23;
+
+ ;
+
+[Next]=00:46:01;
+
+

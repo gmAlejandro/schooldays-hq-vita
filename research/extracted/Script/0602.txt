@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:30:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:30:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L08/03-KA-L08-001	00:03:02;
+
+[PrintText]=00:00:06	Makoto	En lugar de...	00:01:04;
+
+[PlayVoice]=00:00:06	Voice03/03-KA/03-KA-L08/03-KA-L08-0030	1	xxx	00:01:04;
+
+[PrintText]=00:01:22	Makoto	...	00:02:09;
+
+[PlayVoice]=00:01:22	Voice03/03-KA/03-KA-L08/03-KA-L08-0040	1	xxx	00:02:09;
+
+[BlackFade]=00:02:20	OUT	00:03:02;
+
+[CreateBG]=00:03:02	BGS	Event03/03-KA/03-KA-L08/03-KA-L08-002	00:06:09;
+
+[BlackFade]=00:03:02	IN	00:03:08;
+
+[PrintText]=00:03:10	Makoto	Esa forma delicada del cuerpo de Kotonoha estaba en mi mente.	00:05:20;
+
+[PlayVoice]=00:03:10	Voice03/03-KA/03-KA-L08/03-KA-L08-0050	1	xxx	00:05:20;
+
+[BlackFade]=00:06:03	OUT	00:06:09;
+
+[CreateBG]=00:06:09	BGS	Event03/03-KA/03-KA-L08/03-KA-L08-003	00:14:08;
+
+[BlackFade]=00:06:09	IN	00:06:15;
+
+[PrintText]=00:06:17	Makoto	Abrumado por la depresión, no sabia lo que debía hacer...	00:13:18;
+
+[PlayVoice]=00:06:17	Voice03/03-KA/03-KA-L08/03-KA-L08-0060	1	xxx	00:13:18;
+
+[CreateBG]=00:14:08	BGS	Event03/03-KA/03-KA-L08/03-KA-L08-004	00:21:22;
+
+[PrintText]=00:14:22	Makoto	Empecé a sentir que sería peligroso tratar de ser claro con mis sentimientos.	00:21:05;
+
+[PlayVoice]=00:14:22	Voice03/03-KA/03-KA-L08/03-KA-L08-0070	1	xxx	00:21:05;
+
+[CreateBG]=00:21:22	BGS	Event03/03-KA/03-KA-L08/03-KA-L08-001	00:30:06;
+
+[PrintText]=00:22:16	Makoto	Tal vez sería lo mejor si se quedarán así por un poco más de tiempo...	00:28:09;
+
+[PlayVoice]=00:22:16	Voice03/03-KA/03-KA-L08/03-KA-L08-0080	1	xxx	00:28:09;
+
+[BlackFade]=00:29:06	OUT	00:30:06;
+
+ ;
+
+[Next]=00:30:06;
+
+

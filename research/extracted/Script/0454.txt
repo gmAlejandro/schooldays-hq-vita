@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:08:14;
+
+[PlayMovie]=00:00:00	Movie03/03-B2/03-B2-A01/03-B2-A01-001	0	00:06:16;
+
+[PrintText]=00:00:00	Makoto	pero...	00:00:21;
+
+[PlayVoice]=00:00:00	Voice03/03-B2/03-B2-A01/03-B2-A01-0040	1	xxx	00:00:21;
+
+[PrintText]=00:01:19	Makoto	Kotonoha.	00:02:22;
+
+[PlayVoice]=00:01:19	Voice03/03-B2/03-B2-A01/03-B2-A01-0050	1	mak	00:02:22;
+
+[PrintText]=00:02:18	Kotonoha	¿Sí?^	00:03:15;
+
+[PlayVoice]=00:02:18	Voice03/03-B2/03-B2-A01/03-B2-A01-0060	0	kot	00:03:15;
+
+[PrintText]=00:04:02	Makoto	Yo...	00:04:21;
+
+[PlayVoice]=00:04:02	Voice03/03-B2/03-B2-A01/03-B2-A01-0070	1	mak	00:04:21;
+
+[PrintText]=00:05:05	Kotonoha	...	00:06:10;
+
+[PlayVoice]=00:05:05	Voice03/03-B2/03-B2-A01/03-B2-A01-0080	0	xxx	00:06:10;
+
+[CreateBG]=00:06:16	BGS	Event03/03-B2/03-B2-A01/03-B2-A01-002	00:14:15;
+
+[PrintText]=00:06:22	Makoto	Yo...	00:09:04;
+
+[PlayVoice]=00:06:22	Voice03/03-B2/03-B2-A01/03-B2-A01-0090	1	mak	00:09:04;
+
+[SetSELECT]=00:08:14	'Te amo'	null	00:13:14;
+
+ ;
+
+[Next]=00:14:15;
+
+

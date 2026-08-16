@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:17:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:17:04;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-K00/04-SA-K00-001	00:02:05;
+
+[CreateBG]=00:02:05	BGS	Event04/04-SA/04-SA-K00/04-SA-K00-002	00:12:02;
+
+[PrintText]=00:02:11	Kotonoha	...Una voz de una chica.	00:04:06;
+
+[PlayVoice]=00:02:11	Voice04/04-SA/04-SA-K00/04-SA-K00-0040	0	kot	00:04:06;
+
+[PrintText]=00:05:13	Kotonoha	Dijiste que estabas en tu cuarto... mentiroso.	00:11:20;
+
+[PlayVoice]=00:05:13	Voice04/04-SA/04-SA-K00/04-SA-K00-0050	0	kot	00:11:20;
+
+[CreateBG]=00:12:02	BGS	Event04/04-SA/04-SA-K00/04-SA-K00-003	00:17:04;
+
+[PrintText]=00:13:17	Kotonoha	...	00:15:13;
+
+[PlayVoice]=00:13:17	Voice04/04-SA/04-SA-K00/04-SA-K00-0060	0	xxx	00:15:13;
+
+ ;
+
+[Next]=00:17:04;
+
+

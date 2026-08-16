@@ -1,0 +1,101 @@
+﻿[SkipFRAME]=00:55:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:01:13;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C0/04-C0-A00/04-C0-A00-001	00:03:08;
+
+[PlaySe]=00:00:08	1	Se04/04-C0/04-C0-A00/SE04-C0-A00-001	01:01:13;
+
+[CreateBG]=00:03:08	BGS	Event04/04-C0/04-C0-A00/04-C0-A00-002	00:06:03;
+
+[PrintText]=00:03:08	Makoto	Ah...	00:07:07;
+
+[PlayVoice]=00:03:08	Voice04/04-C0/04-C0-A00/04-C0-A00-0040	1	mak	00:07:07;
+
+[CreateBG]=00:06:03	BGS	Event04/04-C0/04-C0-A00/04-C0-A00-003	00:07:08;
+
+[CreateBG]=00:07:08	BGS	Event04/04-C0/04-C0-A00/04-C0-A00-004	00:18:15;
+
+[PrintText]=00:07:08	Kotonoha	Ah...	00:08:10;
+
+[PlayVoice]=00:07:08	Voice04/04-C0/04-C0-A00/04-C0-A00-0060	0	kot	00:08:10;
+
+[PrintText]=00:08:10	Kotonoha	Eheheh... eh venido.	00:11:03;
+
+[PlayVoice]=00:08:10	Voice04/04-C0/04-C0-A00/04-C0-A00-0080	0	kot	00:11:03;
+
+[PrintText]=00:11:02	Makoto	¿Por qué?^	00:12:03;
+
+[PlayVoice]=00:11:02	Voice04/04-C0/04-C0-A00/04-C0-A00-0090	1	mak	00:12:03;
+
+[PrintText]=00:12:03	Kotonoha	El anuncio de la clase, lo vi publicado en el tablón de anuncios de la clase 3, así vine a dártelo.	00:18:15;
+
+[PlayVoice]=00:12:03	Voice04/04-C0/04-C0-A00/04-C0-A00-0100	0	kot	00:18:15;
+
+[PrintText]=00:18:14	Makoto	No, quise decir..., prometimos vernos después de clases, pero nunca viniste.	00:23:18;
+
+[PlayVoice]=00:18:14	Voice04/04-C0/04-C0-A00/04-C0-A00-0110	1	mak	00:23:18;
+
+[CreateBG]=00:18:15	BGS	Event04/04-C0/04-C0-A00/04-C0-A00-006	00:31:10;
+
+[PrintText]=00:23:18	Kotonoha	...	00:24:15;
+
+[PlayVoice]=00:23:18	Voice04/04-C0/04-C0-A00/04-C0-A00-0130	0	xxx	00:24:15;
+
+[PrintText]=00:24:15	Makoto	¿Kotonoha...?^	00:25:15;
+
+[PlayVoice]=00:24:15	Voice04/04-C0/04-C0-A00/04-C0-A00-0140	1	mak	00:25:15;
+
+[PrintText]=00:25:15	Kotonoha	¿Tu madre vendrá a casa tarde?^	00:29:15;
+
+[PlayVoice]=00:25:15	Voice04/04-C0/04-C0-A00/04-C0-A00-0160	0	kot	00:29:15;
+
+[PrintText]=00:29:15	Makoto	Dime.	00:31:10;
+
+[PlayVoice]=00:29:15	Voice04/04-C0/04-C0-A00/04-C0-A00-0170	1	mak	00:31:10;
+
+[CreateBG]=00:31:10	BGS	Event04/04-C0/04-C0-A00/04-C0-A00-007	00:39:16;
+
+[PrintText]=00:31:10	Kotonoha	La mía también, aveces llega tarde, y otras veces no llega, ella solo trabaja.	00:39:15;
+
+[PlayVoice]=00:31:10	Voice04/04-C0/04-C0-A00/04-C0-A00-0180	0	kot	00:39:15;
+
+[PrintText]=00:39:15	Makoto	...	00:42:01;
+
+[PlayVoice]=00:39:15	Voice04/04-C0/04-C0-A00/04-C0-A00-0190	1	xxx	00:42:01;
+
+[CreateBG]=00:39:16	BGS	Event04/04-C0/04-C0-A00/04-C0-A00-008	00:44:22;
+
+[PrintText]=00:42:01	Kotonoha	Makoto-kun.	00:43:03;
+
+[PlayVoice]=00:42:01	Voice04/04-C0/04-C0-A00/04-C0-A00-0200	0	kot	00:43:03;
+
+[PrintText]=00:43:03	Makoto	Dime.	00:44:21;
+
+[PlayVoice]=00:43:03	Voice04/04-C0/04-C0-A00/04-C0-A00-0210	1	mak	00:44:21;
+
+[PrintText]=00:44:21	Kotonoha	¿...Puedo entrar?^	00:47:11;
+
+[PlayVoice]=00:44:21	Voice04/04-C0/04-C0-A00/04-C0-A00-0220	0	kot	00:47:11;
+
+[CreateBG]=00:44:22	BGS	Event04/04-C0/04-C0-A00/04-C0-A00-009	01:01:13;
+
+[PrintText]=00:47:12	Makoto	...	00:49:23;
+
+[PlayVoice]=00:47:12	Voice04/04-C0/04-C0-A00/04-C0-A00-0230	1	xxx	00:49:23;
+
+[PrintText]=00:49:23	Kotonoha	Siempre he querido venir a tu casa.	00:52:22;
+
+[PlayVoice]=00:49:23	Voice04/04-C0/04-C0-A00/04-C0-A00-0240	0	kot	00:52:22;
+
+[PrintText]=00:52:22	Makoto	...	00:56:11;
+
+[PlayVoice]=00:52:22	Voice04/04-C0/04-C0-A00/04-C0-A00-0250	1	xxx	00:56:11;
+
+[SetSELECT]=00:55:11	'Claro'	'No'	01:00:11;
+
+ ;
+
+[Next]=01:01:13;
+
+

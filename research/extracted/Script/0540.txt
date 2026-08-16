@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:17:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:23:22;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C09/SE03-KA-C09-001	00:23:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C09/03-KA-C09-001	00:02:18;
+
+[CreateBG]=00:02:18	BGS	Event03/03-KA/03-KA-C09/03-KA-C09-002	00:04:19;
+
+[PrintText]=00:03:10	Makoto	Haah... Bueno, me voy.	00:06:13;
+
+[PlayVoice]=00:03:10	Voice03/03-KA/03-KA-C09/03-KA-C09-0050	1	mak	00:06:13;
+
+[CreateBG]=00:04:19	BGS	Event03/03-KA/03-KA-C09/03-KA-C09-003	00:06:13;
+
+[CreateBG]=00:06:13	BGS	Event03/03-KA/03-KA-C09/03-KA-C09-004	00:07:10;
+
+[PrintText]=00:06:13	Setsuna	Itou.	00:07:10;
+
+[PlayVoice]=00:06:13	Voice03/03-KA/03-KA-C09/03-KA-C09-0060	0	set	00:07:10;
+
+[CreateBG]=00:07:10	BGS	Event03/03-KA/03-KA-C09/03-KA-C09-005	00:10:06;
+
+[PrintText]=00:07:10	Makoto	¿Sí?^	00:08:08;
+
+[PlayVoice]=00:07:10	Voice03/03-KA/03-KA-C09/03-KA-C09-0070	1	mak	00:08:08;
+
+[PrintText]=00:08:08	Setsuna	Hagamos nuestra reunión.	00:10:05;
+
+[PlayVoice]=00:08:08	Voice03/03-KA/03-KA-C09/03-KA-C09-0080	0	set	00:10:05;
+
+[CreateBG]=00:10:06	BGS	Event03/03-KA/03-KA-C09/03-KA-C09-006	00:12:21;
+
+[PrintText]=00:10:06	Makoto	¿Ahora? Es el almuerzo ¿Sabes?^	00:12:21;
+
+[PlayVoice]=00:10:06	Voice03/03-KA/03-KA-C09/03-KA-C09-0090	1	mak	00:12:21;
+
+[CreateBG]=00:12:21	BGS	Event03/03-KA/03-KA-C09/03-KA-C09-007	00:23:22;
+
+[PrintText]=00:12:21	Setsuna	No podemos hacerlo durante clases, y tengo una reunión después.	00:16:12;
+
+[PlayVoice]=00:12:21	Voice03/03-KA/03-KA-C09/03-KA-C09-0100	0	set	00:16:12;
+
+[PrintText]=00:16:12	Makoto	Cierto, pero.	00:18:07;
+
+[PlayVoice]=00:16:12	Voice03/03-KA/03-KA-C09/03-KA-C09-0110	1	mak	00:18:07;
+
+[SetSELECT]=00:17:19	*Evadir*	*Aceptar*	00:22:19;
+
+ ;
+
+[Next]=00:23:22;
+
+

@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:23:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:23:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-C05/01-00-C05-001	00:02:08;
+
+[PrintText]=00:00:12	Makoto	No puedo.	00:01:13;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-C05/01-00-C05-0030	1	xxx	00:01:13;
+
+[WhiteFade]=00:01:20	OUT	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event01/01-00/01-00-C05/01-00-C05-002	00:05:04;
+
+[WhiteFade]=00:02:08	IN	00:02:20;
+
+[PrintText]=00:03:01	Makoto	Tengo a Katsura, ya estoy saliendo con ella... y... Sekai fue la que hizo que estemos juntos.	00:12:13;
+
+[PlayVoice]=00:03:01	Voice01/01-00/01-00-C05/01-00-C05-0040	1	xxx	00:12:13;
+
+[WhiteFade]=00:04:22	OUT	00:05:04;
+
+[CreateBG]=00:05:04	BGS	Event01/01-00/01-00-C05/01-00-C05-003	00:07:20;
+
+[WhiteFade]=00:05:04	IN	00:05:10;
+
+[WhiteFade]=00:07:14	OUT	00:07:20;
+
+[CreateBG]=00:07:20	BGS	Event01/01-00/01-00-C04/01-00-C04-003	00:10:12;
+
+[WhiteFade]=00:07:20	IN	00:08:02;
+
+[WhiteFade]=00:10:06	OUT	00:10:12;
+
+[CreateBG]=00:10:12	BGS	Event01/01-00/01-00-C05/01-00-C05-005	00:13:03;
+
+[WhiteFade]=00:10:12	IN	00:10:18;
+
+[WhiteFade]=00:12:15	OUT	00:13:03;
+
+[CreateBG]=00:13:03	BGS	Event01/01-00/01-00-C05/01-00-C05-006	00:23:17;
+
+[WhiteFade]=00:13:03	IN	00:13:15;
+
+[PrintText]=00:13:23	Makoto	La chica en la que tanto había pensado y que ahora está conmigo... ¿En qué estoy pensando?^	00:22:07;
+
+[PlayVoice]=00:13:23	Voice01/01-00/01-00-C05/01-00-C05-0050	1	xxx	00:22:07;
+
+[BlackFade]=00:22:17	OUT	00:23:17;
+
+ ;
+
+[Next]=00:23:17;
+
+
+
+

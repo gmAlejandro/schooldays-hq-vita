@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:21:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17_semilong	00:21:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-9H/05-9H-A02/05-9H-A02-001	00:12:22;
+
+[PrintText]=00:00:00	Madre de Makoto	Hola, Kotonoha-san. ¿Quién es esa chica contigo?^	00:07:09;
+
+[PlayVoice]=00:00:00	Voice05/05-9H/05-9H-A02/05-9H-A02-0030	0	mkm	00:07:09;
+
+[PrintText]=00:07:08	Kotonoha	Oh, sí. Es una compañera de clase de Makoto-kun, Kiyoura Setsu...	00:13:07;
+
+[PlayVoice]=00:07:08	Voice05/05-9H/05-9H-A02/05-9H-A02-0040	0	kot	00:13:07;
+
+[PlayMovie]=00:12:22	Movie05/05-9H/05-9H-A02/05-9H-A02-002	0	00:16:18;
+
+[PrintText]=00:12:22	Setsuna	Soy su esposa.	00:14:01;
+
+[PlayVoice]=00:12:22	Voice05/05-9H/05-9H-A02/05-9H-A02-0050	0	set	00:14:01;
+
+[PlaySe]=00:16:18	1	Se05/05-9H/05-9H-A01/SE05-9H-A01-002	00:21:12;
+
+[CreateBG]=00:16:18	BGS	System/Screen/Black	00:21:18;
+
+ ;
+
+[Next]=00:21:18;
+
+

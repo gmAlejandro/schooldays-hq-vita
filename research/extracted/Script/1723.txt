@@ -1,0 +1,32 @@
+﻿[SkipFRAME]=00:15:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:15:02;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-H02/05-SB-H02-001	00:15:02;
+
+[PrintText]=00:00:00	Makoto	Sí, te equivocas.	00:02:00;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-H02/05-SB-H02-0030	1	mak	00:02:00;
+
+[PrintText]=00:02:00	Nanami	¿Vas a seguir jugando como idiota?^	00:03:17;
+
+[PlayVoice]=00:02:00	Voice05/05-SB/05-SB-H02/05-SB-H02-0040	0	nan	00:03:17;
+
+[PrintText]=00:03:17	Makoto	...	00:06:02;
+
+[PlayVoice]=00:03:17	Voice05/05-SB/05-SB-H02/05-SB-H02-0050	1	xxx	00:06:02;
+
+[PrintText]=00:06:02	Nanami	Cuando Sekai estaba llorando, podía escucharla susurrar tu nombre.	00:12:14;
+
+[PlayVoice]=00:06:02	Voice05/05-SB/05-SB-H02/05-SB-H02-0060	0	nan	00:12:14;
+
+[PrintText]=00:12:14	Makoto	...	00:15:02;
+
+[PlayVoice]=00:12:14	Voice05/05-SB/05-SB-H02/05-SB-H02-0070	1	xxx	00:15:02;
+
+ ;
+
+[Next]=00:15:02;
+
+
+

@@ -1,0 +1,79 @@
+﻿[SkipFRAME]=00:22:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:22:21;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-J00/04-KB-J00-001	00:02:00;
+
+[PrintText]=00:01:21	Otome	Itou.	00:03:01;
+
+[PlayVoice]=00:01:21	Voice04/04-KB/04-KB-J00/04-KB-J00-0040	0	oto	00:03:01;
+
+[CreateBG]=00:02:00	BGS	Event04/04-KB/04-KB-J00/04-KB-J00-002	00:03:16;
+
+[PrintText]=00:03:01	Makoto	Ah...	00:03:15;
+
+[PlayVoice]=00:03:01	Voice04/04-KB/04-KB-J00/04-KB-J00-0050	1	mak	00:03:15;
+
+[CreateBG]=00:03:16	BGS	Event04/04-KB/04-KB-J00/04-KB-J00-003	00:05:20;
+
+[PrintText]=00:03:16	Otome	¿Vas a casa?^	00:05:20;
+
+[PlayVoice]=00:03:16	Voice04/04-KB/04-KB-J00/04-KB-J00-0060	0	oto	00:05:20;
+
+[CreateBG]=00:05:20	BGS	Event04/04-KB/04-KB-J00/04-KB-J00-004	00:09:13;
+
+[PrintText]=00:05:20	Makoto	¿Tú también, Katou?^	00:06:23;
+
+[PlayVoice]=00:05:20	Voice04/04-KB/04-KB-J00/04-KB-J00-0070	1	mak	00:06:23;
+
+[PrintText]=00:06:22	Otome	Sí.	00:07:16;
+
+[PlayVoice]=00:06:22	Voice04/04-KB/04-KB-J00/04-KB-J00-0080	0	oto	00:07:16;
+
+[PrintText]=00:07:16	Makoto	¿Qué hay de las actividades del club?^	00:09:12;
+
+[PlayVoice]=00:07:16	Voice04/04-KB/04-KB-J00/04-KB-J00-0090	1	mak	00:09:12;
+
+[PrintText]=00:09:12	Otome	Hoy no hay nada.	00:10:17;
+
+[PlayVoice]=00:09:12	Voice04/04-KB/04-KB-J00/04-KB-J00-0100	0	oto	00:10:17;
+
+[CreateBG]=00:09:13	BGS	Event04/04-KB/04-KB-J00/04-KB-J00-005	00:12:19;
+
+[PrintText]=00:10:18	Makoto	Ah, Vale.	00:11:20;
+
+[PlayVoice]=00:10:18	Voice04/04-KB/04-KB-J00/04-KB-J00-0110	1	mak	00:11:20;
+
+[PrintText]=00:11:20	Otome	Hey.	00:12:19;
+
+[PlayVoice]=00:11:20	Voice04/04-KB/04-KB-J00/04-KB-J00-0120	0	oto	00:12:19;
+
+[PrintText]=00:12:18	Makoto	¿Qué?^	00:13:15;
+
+[PlayVoice]=00:12:18	Voice04/04-KB/04-KB-J00/04-KB-J00-0130	1	mak	00:13:15;
+
+[CreateBG]=00:12:19	BGS	Event04/04-KB/04-KB-J00/04-KB-J00-005A	00:13:16;
+
+[CreateBG]=00:13:16	BGS	Event04/04-KB/04-KB-J00/04-KB-J00-006	00:20:16;
+
+[PrintText]=00:13:16	Otome	¿Vamos a casa juntos?^	00:15:02;
+
+[PlayVoice]=00:13:16	Voice04/04-KB/04-KB-J00/04-KB-J00-0140	0	oto	00:15:02;
+
+[PrintText]=00:15:02	Makoto	¿Huh? Claro. Vamos por la misma ruta que Nishi-harami, ¿No?^	00:19:23;
+
+[PlayVoice]=00:15:02	Voice04/04-KB/04-KB-J00/04-KB-J00-0150	1	mak	00:19:23;
+
+[PrintText]=00:19:23	Otome	Sí.	00:20:16;
+
+[PlayVoice]=00:19:23	Voice04/04-KB/04-KB-J00/04-KB-J00-0160	0	oto	00:20:16;
+
+[CreateBG]=00:20:16	BGS	Event04/04-KB/04-KB-J00/04-KB-J00-007	00:22:21;
+
+[BlackFade]=00:21:21	OUT	00:22:21;
+
+ ;
+
+[Next]=00:22:21;
+
+

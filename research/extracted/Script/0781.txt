@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:25:05;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-H04/SE03-SA-H04-001	00:25:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-H04/03-SA-H04-001	00:03:17;
+
+[PrintText]=00:00:00	Makoto	...	00:00:19;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-H04/03-SA-H04-0030	1	xxx	00:00:19;
+
+[PrintText]=00:00:20	Sekai	¿No quieres?^	00:01:19;
+
+[PlayVoice]=00:00:20	Voice03/03-SA/03-SA-H04/03-SA-H04-0040	0	sek	00:01:19;
+
+[PrintText]=00:01:19	Makoto	No es que sea así.	00:03:16;
+
+[PlayVoice]=00:01:19	Voice03/03-SA/03-SA-H04/03-SA-H04-0050	1	mak	00:03:16;
+
+[CreateBG]=00:03:17	BGS	Event03/03-SA/03-SA-H04/03-SA-H04-002	00:06:11;
+
+[PrintText]=00:03:17	Sekai	No quiero forzarte... si es que no quieres.	00:06:10;
+
+[PlayVoice]=00:03:17	Voice03/03-SA/03-SA-H04/03-SA-H04-0060	0	sek	00:06:10;
+
+[PrintText]=00:06:10	Makoto	¡No te rindas tan rápido, tonta!	00:09:07;
+
+[PlayVoice]=00:06:10	Voice03/03-SA/03-SA-H04/03-SA-H04-0070	1	mak	00:09:07;
+
+[CreateBG]=00:06:11	BGS	Event03/03-SA/03-SA-H04/03-SA-H04-003	00:11:02;
+
+[PrintText]=00:09:07	Sekai	Pero tú...	00:11:02;
+
+[PlayVoice]=00:09:07	Voice03/03-SA/03-SA-H04/03-SA-H04-0080	0	sek	00:11:02;
+
+[CreateBG]=00:11:02	BGS	Event03/03-SA/03-SA-H04/03-SA-H04-004	00:15:23;
+
+[PrintText]=00:11:02	Makoto	El baile folk ¿No? Iré, pero apúrate y regresa al salón.	00:15:02;
+
+[PlayVoice]=00:11:02	Voice03/03-SA/03-SA-H04/03-SA-H04-0090	1	mak	00:15:02;
+
+[PrintText]=00:15:03	Sekai	¿En serio?^	00:15:22;
+
+[PlayVoice]=00:15:03	Voice03/03-SA/03-SA-H04/03-SA-H04-0100	0	sek	00:15:22;
+
+[PrintText]=00:15:22	Makoto	¡En serio!	00:17:20;
+
+[PlayVoice]=00:15:22	Voice03/03-SA/03-SA-H04/03-SA-H04-0110	1	mak	00:17:20;
+
+[CreateBG]=00:15:23	BGS	Event03/03-SA/03-SA-H04/03-SA-H04-005	00:20:13;
+
+[PrintText]=00:17:21	Sekai	Vale, me voy.	00:20:00;
+
+[PlayVoice]=00:17:21	Voice03/03-SA/03-SA-H04/03-SA-H04-0120	0	sek	00:20:00;
+
+[CreateBG]=00:20:13	BGS	Event03/03-SA/03-SA-H04/03-SA-H04-006	00:25:05;
+
+[PrintText]=00:20:13	Makoto	Aún así... el baile folk, huh... hmmn.	00:25:01;
+
+[PlayVoice]=00:20:13	Voice03/03-SA/03-SA-H04/03-SA-H04-0140	1	mak	00:25:01;
+
+ ;
+
+[Next]=00:25:05;
+
+

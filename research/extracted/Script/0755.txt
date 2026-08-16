@@ -1,0 +1,477 @@
+﻿[SkipFRAME]=03:27:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	03:27:02;
+
+[PlaySe]=00:00:00	4	SysSe/SE_all/gaya/kyousitu_rouka	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-001	00:02:12;
+
+[PrintText]=00:00:00	Kotonoha	Gracias, entonces ahora...	00:02:11;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-F00/03-SA-F00-0040	0	kot	00:02:11;
+
+[PlaySe]=00:02:09	1	SysSe/SE_all/school/pipechair4	00:06:09;
+
+[PrintText]=00:02:11	Kotonoha	Veamos... ho...	00:08:19;
+
+[PlayVoice]=00:02:11	Voice03/03-SA/03-SA-F00/03-SA-F00-0060	0	kot	00:08:19;
+
+[PlayMovie]=00:02:12	Movie03/03-SA/03-SA-F00/03-SA-F00-002	0	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-003	00:06:00;
+
+[PlaySe]=00:05:15	2	SysSe/SE_all/school/pipechair4	00:09:15;
+
+[CreateBG]=00:06:00	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-004	00:08:19;
+
+[CreateBG]=00:08:19	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-005	00:10:12;
+
+[PrintText]=00:08:19	Taisuke	¡Uwah!	00:09:12;
+
+[PlayVoice]=00:08:19	Voice03/03-SA/03-SA-F00/03-SA-F00-0090	1	tai	00:09:12;
+
+[PlaySe]=00:09:10	3	SysSe/SE_all/school/pipechair5	00:11:04;
+
+[PrintText]=00:09:12	Sekai	¡Kyah!	00:10:12;
+
+[PlayVoice]=00:09:12	Voice03/03-SA/03-SA-F00/03-SA-F00-0110	0	sek	00:10:12;
+
+[CreateBG]=00:10:12	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-007	00:12:17;
+
+[PrintText]=00:10:12	Taisuke	¡Ah! ¡L-Lo siento!	00:12:16;
+
+[PlayVoice]=00:10:12	Voice03/03-SA/03-SA-F00/03-SA-F00-0130	1	tai	00:12:16;
+
+[PrintText]=00:12:16	Kotonoha	Uuu...	00:13:12;
+
+[PlayVoice]=00:12:16	Voice03/03-SA/03-SA-F00/03-SA-F00-0140	0	kot	00:13:12;
+
+[CreateBG]=00:12:17	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-008	00:13:13;
+
+[CreateBG]=00:13:13	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-009	00:25:21;
+
+[PrintText]=00:13:13	Taisuke	¿Estás bien?^	00:15:07;
+
+[PlayVoice]=00:13:13	Voice03/03-SA/03-SA-F00/03-SA-F00-0160	1	tai	00:15:07;
+
+[PrintText]=00:15:07	Kotonoha	S-Sí, creo...	00:18:11;
+
+[PlayVoice]=00:15:07	Voice03/03-SA/03-SA-F00/03-SA-F00-0170	0	kot	00:18:11;
+
+[PlaySe]=00:17:01	1	SysSe/SE_all/school/pipechair2	00:17:21;
+
+[PrintText]=00:18:12	Taisuke	Realmente discúlpame. No estás herida ¿No?^	00:20:18;
+
+[PlayVoice]=00:18:12	Voice03/03-SA/03-SA-F00/03-SA-F00-0180	1	tai	00:20:18;
+
+[PlaySe]=00:19:13	2	SysSe/SE_all/school/pipechair2	00:20:10;
+
+[PrintText]=00:20:18	Kotonoha	N-no...	00:22:08;
+
+[PlayVoice]=00:20:18	Voice03/03-SA/03-SA-F00/03-SA-F00-0190	0	kot	00:22:08;
+
+[PlaySe]=00:21:00	1	SysSe/SE_all/school/pipechair3	00:21:13;
+
+[PrintText]=00:22:08	Taisuke	Gracias al cielo.	00:23:08;
+
+[PlayVoice]=00:22:08	Voice03/03-SA/03-SA-F00/03-SA-F00-0200	1	tai	00:23:08;
+
+[PrintText]=00:23:08	Kotonoha	Bueno, entonces si me disculpas.	00:25:21;
+
+[PlayVoice]=00:23:08	Voice03/03-SA/03-SA-F00/03-SA-F00-0210	0	kot	00:25:21;
+
+[CreateBG]=00:25:21	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-010	00:27:21;
+
+[PrintText]=00:25:21	Taisuke	E-Espera un momento.	00:27:20;
+
+[PlayVoice]=00:25:21	Voice03/03-SA/03-SA-F00/03-SA-F00-0220	1	tai	00:27:20;
+
+[PlaySe]=00:25:22	2	SysSe/SE_all/school/pipechair4	00:29:22;
+
+[CreateBG]=00:27:21	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-011	00:32:12;
+
+[PrintText]=00:27:21	Kotonoha	¿Sí?^	00:28:23;
+
+[PlayVoice]=00:27:21	Voice03/03-SA/03-SA-F00/03-SA-F00-0230	0	kot	00:28:23;
+
+[PrintText]=00:28:23	Taisuke	¿Estás llevándolo a tu clase?^	00:31:03;
+
+[PlayVoice]=00:28:23	Voice03/03-SA/03-SA-F00/03-SA-F00-0240	1	tai	00:31:03;
+
+[PrintText]=00:31:04	Kotonoha	S-Sí.	00:32:11;
+
+[PlayVoice]=00:31:04	Voice03/03-SA/03-SA-F00/03-SA-F00-0250	0	kot	00:32:11;
+
+[CreateBG]=00:32:12	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-012	00:33:11;
+
+[PrintText]=00:32:12	Taisuke	Te ayudaré.	00:33:11;
+
+[PlayVoice]=00:32:12	Voice03/03-SA/03-SA-F00/03-SA-F00-0270	1	tai	00:33:11;
+
+[PlaySe]=00:33:08	1	SysSe/SE_all/school/pipechair2	00:34:05;
+
+[CreateBG]=00:33:11	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-013	00:38:01;
+
+[PrintText]=00:33:11	Kotonoha	U-um... en serio, estoy bien.	00:37:00;
+
+[PlayVoice]=00:33:11	Voice03/03-SA/03-SA-F00/03-SA-F00-0280	0	kot	00:37:00;
+
+[PlaySe]=00:35:11	2	SysSe/SE_all/school/pipechair2	00:36:07;
+
+[PlaySe]=00:36:23	1	SysSe/SE_all/school/pipechair2	00:37:20;
+
+[PrintText]=00:37:00	Taisuke	No te preocupes.	00:38:01;
+
+[PlayVoice]=00:37:00	Voice03/03-SA/03-SA-F00/03-SA-F00-0290	1	tai	00:38:01;
+
+[CreateBG]=00:38:01	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-014	00:42:03;
+
+[PrintText]=00:38:01	Kotonoha	G...Gracias.	00:42:02;
+
+[PlayVoice]=00:38:01	Voice03/03-SA/03-SA-F00/03-SA-F00-0310	0	kot	00:42:02;
+
+[PlaySe]=00:41:22	1	SysSe/SE_all/school/pipechair4	00:45:22;
+
+[CreateBG]=00:42:03	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-015	00:47:20;
+
+[PrintText]=00:42:03	Taisuke	Así es como debe ser ¿Huh? ¿Estás apurada?^	00:44:01;
+
+[PlayVoice]=00:42:03	Voice03/03-SA/03-SA-F00/03-SA-F00-0340	1	tai	00:44:01;
+
+[PrintText]=00:44:01	Kotonoha	Nos podemos quedar sin asientos, así que...	00:46:18;
+
+[PlayVoice]=00:44:01	Voice03/03-SA/03-SA-F00/03-SA-F00-0350	0	kot	00:46:18;
+
+[PlaySe]=00:45:00	2	SysSe/SE_all/school/pipechair4	00:49:00;
+
+[PrintText]=00:46:19	Taisuke	Ya veo.	00:47:19;
+
+[PlayVoice]=00:46:19	Voice03/03-SA/03-SA-F00/03-SA-F00-0360	1	tai	00:47:19;
+
+[PrintText]=00:47:19	Kotonoha	Está bloqueado, así que no sabía que hacer... pero de alguna manera logré encontrar al responsable y me ayudó.	00:56:04;
+
+[PlayVoice]=00:47:19	Voice03/03-SA/03-SA-F00/03-SA-F00-0370	0	kot	00:56:04;
+
+[CreateBG]=00:47:20	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-017	01:07:23;
+
+[PlaySe]=00:48:01	1	SysSe/SE_all/school/pipechair4	00:52:01;
+
+[PlaySe]=00:51:07	2	SysSe/SE_all/school/pipechair4	00:55:07;
+
+[PlaySe]=00:54:07	1	SysSe/SE_all/school/pipechair4	00:58:07;
+
+[PrintText]=00:56:04	Kotonoha	Ah, pero es solo un asiento, así que no es urgente.	01:01:11;
+
+[PlayVoice]=00:56:04	Voice03/03-SA/03-SA-F00/03-SA-F00-0380	0	kot	01:01:11;
+
+[PlaySe]=00:57:07	2	SysSe/SE_all/school/pipechair4	01:01:07;
+
+[PlaySe]=01:00:13	1	SysSe/SE_all/school/pipechair4	01:04:13;
+
+[PrintText]=01:01:11	Kotonoha	Puedo estar en la recepción, y si estoy cansado, me siento.	01:06:00;
+
+[PlayVoice]=01:01:11	Voice03/03-SA/03-SA-F00/03-SA-F00-0381	0	kot	01:06:00;
+
+[PlaySe]=01:03:07	2	SysSe/SE_all/school/pipechair4	01:07:07;
+
+[PrintText]=01:06:01	Taisuke	Sí.	01:07:04;
+
+[PlayVoice]=01:06:01	Voice03/03-SA/03-SA-F00/03-SA-F00-0390	1	tai	01:07:04;
+
+[PlaySe]=01:07:00	1	SysSe/SE_all/school/pipechair4	01:11:00;
+
+[PrintText]=01:07:04	Kotonoha	Sí.	01:07:23;
+
+[PlayVoice]=01:07:04	Voice03/03-SA/03-SA-F00/03-SA-F00-0400	0	kot	01:07:23;
+
+[CreateBG]=01:07:23	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-016	01:10:05;
+
+[PrintText]=01:07:23	Taisuke	...	01:09:09;
+
+[PlayVoice]=01:07:23	Voice03/03-SA/03-SA-F00/03-SA-F00-0410	1	xxx	01:09:09;
+
+[PrintText]=01:09:09	Kotonoha	...	01:10:04;
+
+[PlayVoice]=01:09:09	Voice03/03-SA/03-SA-F00/03-SA-F00-0420	0	xxx	01:10:04;
+
+[CreateBG]=01:10:05	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-018	01:21:19;
+
+[PrintText]=01:10:05	Taisuke	Um... Eres de la clase de al lado ¿No?^	01:13:11;
+
+[PlayVoice]=01:10:05	Voice03/03-SA/03-SA-F00/03-SA-F00-0430	1	tai	01:13:11;
+
+[PlaySe]=01:10:06	2	SysSe/SE_all/school/pipechair4	01:14:06;
+
+[PrintText]=01:13:11	Kotonoha	Ah, Katsura de la clase 4.	01:16:16;
+
+[PlayVoice]=01:13:11	Voice03/03-SA/03-SA-F00/03-SA-F00-0440	0	kot	01:16:16;
+
+[PlaySe]=01:13:17	1	SysSe/SE_all/school/pipechair4	01:17:17;
+
+[PrintText]=01:16:17	Taisuke	Sawanaga de la clase 3.	01:18:12;
+
+[PlayVoice]=01:16:17	Voice03/03-SA/03-SA-F00/03-SA-F00-0450	1	tai	01:18:12;
+
+[PlaySe]=01:16:19	2	SysSe/SE_all/school/pipechair4	01:20:19;
+
+[PrintText]=01:18:12	Kotonoha	¡Ah, Sí sé de ti!	01:20:07;
+
+[PlayVoice]=01:18:12	Voice03/03-SA/03-SA-F00/03-SA-F00-0460	0	kot	01:20:07;
+
+[PrintText]=01:20:07	Taisuke	¿Eh? ¿Cómo?^	01:21:19;
+
+[PlayVoice]=01:20:07	Voice03/03-SA/03-SA-F00/03-SA-F00-0470	1	tai	01:21:19;
+
+[CreateBG]=01:21:19	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-019	01:46:19;
+
+[PrintText]=01:21:19	Kotonoha	Makoto-kun siempre... oh.	01:25:10;
+
+[PlayVoice]=01:21:19	Voice03/03-SA/03-SA-F00/03-SA-F00-0480	0	kot	01:25:10;
+
+[PrintText]=01:25:10	Taisuke	Makoto... ah ¿Ustedes se conocen?^	01:29:21;
+
+[PlayVoice]=01:25:10	Voice03/03-SA/03-SA-F00/03-SA-F00-0490	1	tai	01:29:21;
+
+[PlaySe]=01:29:15	1	SysSe/SE_all/school/pipechair2	01:30:12;
+
+[PrintText]=01:29:21	Kotonoha	No, um... Saionji-san y Makoto-kun son... um... Quiero decir...	01:38:04;
+
+[PlayVoice]=01:29:21	Voice03/03-SA/03-SA-F00/03-SA-F00-0500	0	kot	01:38:04;
+
+[PrintText]=01:38:05	Taisuke	Oh ¿Andas con ellos?^	01:41:07;
+
+[PlayVoice]=01:38:05	Voice03/03-SA/03-SA-F00/03-SA-F00-0510	1	tai	01:41:07;
+
+[PrintText]=01:41:07	Kotonoha	...Sí.	01:42:20;
+
+[PlayVoice]=01:41:07	Voice03/03-SA/03-SA-F00/03-SA-F00-0520	0	kot	01:42:20;
+
+[PrintText]=01:42:21	Taisuke	Son muy unidos ¿No?^	01:45:12;
+
+[PlayVoice]=01:42:21	Voice03/03-SA/03-SA-F00/03-SA-F00-0530	1	tai	01:45:12;
+
+[PrintText]=01:45:12	Kotonoha	...Sí, lo son.	01:46:18;
+
+[PlayVoice]=01:45:12	Voice03/03-SA/03-SA-F00/03-SA-F00-0540	0	kot	01:46:18;
+
+[PlaySe]=01:46:19	2	SysSe/SE_all/school/pipechair4	01:50:19;
+
+[CreateBG]=01:46:19	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-020	01:58:14;
+
+[PrintText]=01:46:19	Taisuke	Solíamos divertirnos juntos antes del segundo semestre, pero ahora que está con Saionji...	01:53:20;
+
+[PlayVoice]=01:46:19	Voice03/03-SA/03-SA-F00/03-SA-F00-0550	1	tai	01:53:20;
+
+[PlaySe]=01:50:13	1	SysSe/SE_all/school/pipechair4	01:54:13;
+
+[PrintText]=01:53:20	Kotonoha	¿Ellos son...?^	01:55:14;
+
+[PlayVoice]=01:53:20	Voice03/03-SA/03-SA-F00/03-SA-F00-0560	0	kot	01:55:14;
+
+[PlaySe]=01:53:21	2	SysSe/SE_all/school/pipechair4	01:57:21;
+
+[PrintText]=01:55:14	Taisuke	¿Huh?^	01:56:07;
+
+[PlayVoice]=01:55:14	Voice03/03-SA/03-SA-F00/03-SA-F00-0570	1	tai	01:56:07;
+
+[PlaySe]=01:56:00	3	SysSe/SE_all/gaya/kyousitu_rouka	03:27:02;
+
+[PrintText]=01:56:07	Kotonoha	¿Han estado saliendo desde hace tiempo?^	01:58:13;
+
+[PlayVoice]=01:56:07	Voice03/03-SA/03-SA-F00/03-SA-F00-0580	0	kot	01:58:13;
+
+[PlaySe]=01:57:12	1	SysSe/SE_all/school/pipechair4	02:01:12;
+
+[CreateBG]=01:58:14	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-021	02:14:07;
+
+[PrintText]=01:58:14	Taisuke	Así parece. Ellos lo niegan pero Kanroji y Kiyoura lo dicen así.	02:04:08;
+
+[PlayVoice]=01:58:14	Voice03/03-SA/03-SA-F00/03-SA-F00-0590	1	tai	02:04:08;
+
+[PlaySe]=02:00:23	2	SysSe/SE_all/school/pipechair4	02:04:23;
+
+[PrintText]=02:04:08	Kotonoha	¿En serio...?^	02:05:23;
+
+[PlayVoice]=02:04:08	Voice03/03-SA/03-SA-F00/03-SA-F00-0600	0	kot	02:05:23;
+
+[PlaySe]=02:04:14	1	SysSe/SE_all/school/pipechair4	02:08:14;
+
+[PrintText]=02:05:23	Taisuke	Sí.	02:06:19;
+
+[PlayVoice]=02:05:23	Voice03/03-SA/03-SA-F00/03-SA-F00-0610	1	tai	02:06:19;
+
+[PrintText]=02:06:19	Kotonoha	Kanroji... ¿Quieres decir Kanroji Nanami-san?^	02:11:00;
+
+[PlayVoice]=02:06:19	Voice03/03-SA/03-SA-F00/03-SA-F00-0620	0	kot	02:11:00;
+
+[PlaySe]=02:08:05	2	SysSe/SE_all/school/pipechair4	02:12:05;
+
+[PrintText]=02:11:01	Taisuke	Sí. ¿La conoces?^	02:12:10;
+
+[PlayVoice]=02:11:01	Voice03/03-SA/03-SA-F00/03-SA-F00-0630	1	tai	02:12:10;
+
+[PlaySe]=02:11:21	1	SysSe/SE_all/school/pipechair4	02:15:21;
+
+[PrintText]=02:12:10	Kotonoha	Fuimos a la misma escuela primaria.	02:14:06;
+
+[PlayVoice]=02:12:10	Voice03/03-SA/03-SA-F00/03-SA-F00-0640	0	kot	02:14:06;
+
+[CreateBG]=02:14:07	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-022	02:27:12;
+
+[PrintText]=02:14:07	Taisuke	Hahaha... debe haber sido duro, ir a la misma que escuela que ella.	02:19:06;
+
+[PlayVoice]=02:14:07	Voice03/03-SA/03-SA-F00/03-SA-F00-0650	1	tai	02:19:06;
+
+[PlaySe]=02:15:15	2	SysSe/SE_all/school/pipechair4	02:19:15;
+
+[PlaySe]=02:19:03	1	SysSe/SE_all/school/pipechair4	02:23:03;
+
+[PrintText]=02:19:06	Kotonoha	Tal vez... solo un poco.	02:22:16;
+
+[PlayVoice]=02:19:06	Voice03/03-SA/03-SA-F00/03-SA-F00-0670	0	kot	02:22:16;
+
+[PlaySe]=02:22:09	2	SysSe/SE_all/school/pipechair4	02:26:09;
+
+[PrintText]=02:22:16	Taisuke	¿Tú también lo crees? Hahaha.	02:26:03;
+
+[PlayVoice]=02:22:16	Voice03/03-SA/03-SA-F00/03-SA-F00-0680	1	tai	02:26:03;
+
+[PlaySe]=02:25:16	1	SysSe/SE_all/school/pipechair4	02:29:16;
+
+[PrintText]=02:26:03	Kotonoha	Eheheh...	02:27:11;
+
+[PlayVoice]=02:26:03	Voice03/03-SA/03-SA-F00/03-SA-F00-0690	0	kot	02:27:11;
+
+[CreateBG]=02:27:12	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-023	02:49:00;
+
+[PrintText]=02:27:12	Taisuke	H-hey, escucha... solo por curiosidad....	02:33:08;
+
+[PlayVoice]=02:27:12	Voice03/03-SA/03-SA-F00/03-SA-F00-0710	1	tai	02:33:08;
+
+[PlaySe]=02:33:01	1	SysSe/SE_all/school/pipechair2	02:33:21;
+
+[PrintText]=02:33:07	Kotonoha	¿Sí?^	02:34:02;
+
+[PlayVoice]=02:33:07	Voice03/03-SA/03-SA-F00/03-SA-F00-0720	0	kot	02:34:02;
+
+[PrintText]=02:34:02	Taisuke	Tú... ¿Quisieras ir a caminar conmigo durante el festival hoy?^	02:38:00;
+
+[PlayVoice]=02:34:02	Voice03/03-SA/03-SA-F00/03-SA-F00-0730	1	tai	02:38:00;
+
+[PlaySe]=02:37:07	2	SysSe/SE_all/school/pipechair2	02:38:04;
+
+[PrintText]=02:38:00	Kotonoha	¡¿Eh...?!	02:38:14;
+
+[PlayVoice]=02:38:00	Voice03/03-SA/03-SA-F00/03-SA-F00-0740	0	kot	02:38:14;
+
+[PrintText]=02:38:15	Taisuke	¡Estoy libre, sabes... haha!	02:45:06;
+
+[PlayVoice]=02:38:15	Voice03/03-SA/03-SA-F00/03-SA-F00-0750	1	tai	02:45:06;
+
+[PlaySe]=02:40:13	1	SysSe/SE_all/school/pipechair4	02:44:13;
+
+[PlaySe]=02:44:07	2	SysSe/SE_all/school/pipechair4	02:48:07;
+
+[PrintText]=02:45:06	Kotonoha	Ah...	02:47:13;
+
+[PlayVoice]=02:45:06	Voice03/03-SA/03-SA-F00/03-SA-F00-0760	0	kot	02:47:13;
+
+[PrintText]=02:47:13	Taisuke	¿Qué te parece?^	02:48:23;
+
+[PlayVoice]=02:47:13	Voice03/03-SA/03-SA-F00/03-SA-F00-0770	1	tai	02:48:23;
+
+[PlaySe]=02:47:23	1	SysSe/SE_all/school/pipechair4	02:51:23;
+
+[CreateBG]=02:49:00	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-024	02:57:18;
+
+[PrintText]=02:49:00	Kotonoha	Pero...	02:50:03;
+
+[PlayVoice]=02:49:00	Voice03/03-SA/03-SA-F00/03-SA-F00-0780	0	kot	02:50:03;
+
+[PrintText]=02:50:03	Taisuke	...	02:51:06;
+
+[PlayVoice]=02:50:03	Voice03/03-SA/03-SA-F00/03-SA-F00-0790	1	xxx	02:51:06;
+
+[PlaySe]=02:51:06	2	SysSe/SE_all/school/pipechair4	02:55:06;
+
+[PrintText]=02:51:06	Kotonoha	No puedo.	02:53:16;
+
+[PlayVoice]=02:51:06	Voice03/03-SA/03-SA-F00/03-SA-F00-0800	0	kot	02:53:16;
+
+[PrintText]=02:53:16	Taisuke	Ah...	02:54:06;
+
+[PlayVoice]=02:53:16	Voice03/03-SA/03-SA-F00/03-SA-F00-0810	1	tai	02:54:06;
+
+[PrintText]=02:54:06	Kotonoha	Tengo que estar en la casa embrujada todo el tiempo.	02:57:17;
+
+[PlayVoice]=02:54:06	Voice03/03-SA/03-SA-F00/03-SA-F00-0820	0	kot	02:57:17;
+
+[PlaySe]=02:55:10	2	SysSe/SE_all/school/pipechair4	02:59:10;
+
+[CreateBG]=02:57:18	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-025	03:07:07;
+
+[PrintText]=02:57:18	Taisuke	Pero...	02:59:03;
+
+[PlayVoice]=02:57:18	Voice03/03-SA/03-SA-F00/03-SA-F00-0830	1	tai	02:59:03;
+
+[PlaySe]=02:58:12	1	SysSe/SE_all/school/pipechair4	03:02:12;
+
+[PrintText]=02:59:03	Kotonoha	Lo siento... después de todo esto, también.	03:02:17;
+
+[PlayVoice]=02:59:03	Voice03/03-SA/03-SA-F00/03-SA-F00-0840	0	kot	03:02:17;
+
+[PlaySe]=03:02:04	2	SysSe/SE_all/school/pipechair4	03:06:05;
+
+[PrintText]=03:02:18	Taisuke	N-no, no te preocupes.	03:06:09;
+
+[PlayVoice]=03:02:18	Voice03/03-SA/03-SA-F00/03-SA-F00-0850	1	tai	03:06:09;
+
+[PlaySe]=03:05:00	1	SysSe/SE_all/school/pipechair4	03:09:00;
+
+[PrintText]=03:06:09	Kotonoha	...	03:07:07;
+
+[PlayVoice]=03:06:09	Voice03/03-SA/03-SA-F00/03-SA-F00-0860	0	xxx	03:07:07;
+
+[CreateBG]=03:07:07	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-026	03:11:07;
+
+[PrintText]=03:07:07	Kotonoha	Ya estamos, gracias.	03:10:05;
+
+[PlayVoice]=03:07:07	Voice03/03-SA/03-SA-F00/03-SA-F00-0880	0	kot	03:10:05;
+
+[PrintText]=03:10:05	Taisuke	Está bien...	03:11:07;
+
+[PlayVoice]=03:10:05	Voice03/03-SA/03-SA-F00/03-SA-F00-0890	1	tai	03:11:07;
+
+[PlaySe]=03:10:12	2	SysSe/SE_all/school/pipechair2	03:11:09;
+
+[CreateBG]=03:11:07	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-027	03:13:21;
+
+[PrintText]=03:11:07	Kotonoha	Bien... buena suerte.	03:13:21;
+
+[PlayVoice]=03:11:07	Voice03/03-SA/03-SA-F00/03-SA-F00-0900	0	kot	03:13:21;
+
+[PlaySe]=03:12:07	1	SysSe/SE_all/school/pipechair2	03:13:04;
+
+[CreateBG]=03:13:21	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-028	03:21:09;
+
+[PrintText]=03:14:08	Taisuke	S-Sí.	03:15:19;
+
+[PlayVoice]=03:14:08	Voice03/03-SA/03-SA-F00/03-SA-F00-0910	1	tai	03:15:19;
+
+[PrintText]=03:17:18	Taisuke	Katsura-san, huh...	03:20:13;
+
+[PlayVoice]=03:17:18	Voice03/03-SA/03-SA-F00/03-SA-F00-0930	1	tai	03:20:13;
+
+[PlaySe]=03:19:06	4	SysSe/SE_all/footsteps/asioto_school	03:27:02;
+
+[CreateBG]=03:21:09	BGS	Event03/03-SA/03-SA-F00/03-SA-F00-025	03:27:02;
+
+[PrintText]=03:22:05	Taisuke	Ella me ha rechazado... pero fue muy linda.	03:26:19;
+
+[PlayVoice]=03:22:05	Voice03/03-SA/03-SA-F00/03-SA-F00-0940	1	tai	03:26:19;
+
+ ;
+
+[Next]=03:27:02;
+
+

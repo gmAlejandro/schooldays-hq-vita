@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:19:19;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:19:19;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-O02/02-2K-O02-001	00:09:05;
+
+[PrintText]=00:00:00	Makoto	Esto no está bien después de todo.	00:01:19;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-O02/02-2K-O02-0030	1	mak	00:01:19;
+
+[PrintText]=00:01:19	Sekai	... Sí, tienes razón.	00:04:03;
+
+[PlayVoice]=00:01:19	Voice02/02-2K/02-2K-O02/02-2K-O02-0040	0	sek	00:04:03;
+
+[PrintText]=00:04:04	Makoto	Me agradas Sekai, pero Kotonoha ...	00:09:05;
+
+[PlayVoice]=00:04:04	Voice02/02-2K/02-2K-O02/02-2K-O02-0050	1	mak	00:09:05;
+
+[CreateBG]=00:09:05	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-003	00:19:19;
+
+[PrintText]=00:09:05	Sekai	Ahaha... Bueno, creo que no fue una buena idea. ¡Sí... olvida esto!	00:17:03;
+
+[PlayVoice]=00:09:05	Voice02/02-2K/02-2K-O02/02-2K-O02-0060	0	sek	00:17:03;
+
+[PrintText]=00:17:03	Makoto	S...Sí.	00:19:06;
+
+[PlayVoice]=00:17:03	Voice02/02-2K/02-2K-O02/02-2K-O02-0070	1	mak	00:19:06;
+
+ ;
+
+[Next]=00:19:19;
+
+
+
+

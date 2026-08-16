@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:05:20;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-L01/SE03-KA-L01-001	00:05:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L01/03-KA-L01-001	00:01:10;
+
+[PrintText]=00:00:00	Makoto	...	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-L01/03-KA-L01-0030	1	xxx	00:00:23;
+
+[CreateBG]=00:01:10	BGS	Event03/03-KA/03-KA-L01/03-KA-L01-002	00:02:09;
+
+[PrintText]=00:01:11	Setsuna	¡Vamos!	00:02:06;
+
+[PlayVoice]=00:01:11	Voice03/03-KA/03-KA-L01/03-KA-L01-0040	0	set	00:02:06;
+
+[CreateBG]=00:02:09	BGS	Event03/03-KA/03-KA-L01/03-KA-L01-003	00:05:20;
+
+[PrintText]=00:02:15	Makoto	V-Vale...	00:04:13;
+
+[PlayVoice]=00:02:15	Voice03/03-KA/03-KA-L01/03-KA-L01-0050	1	mak	00:04:13;
+
+[BlackFade]=00:04:20	OUT	00:05:20;
+
+ ;
+
+[Next]=00:05:20;
+
+

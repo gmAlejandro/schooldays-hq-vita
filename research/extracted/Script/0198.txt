@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:39:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	00:39:10;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-C00/SE02-2K-C00-001	00:09:18;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-002	00:05:15;
+
+[PrintText]=00:03:06	Makoto	Toma.	00:04:04;
+
+[PlayVoice]=00:03:06	Voice02/02-2K/02-2K-C00/02-2K-C00-0060	1	mak	00:04:04;
+
+[PrintText]=00:04:02	Kotonoha	Gracias.	00:05:02;
+
+[PlayVoice]=00:04:02	Voice02/02-2K/02-2K-C00/02-2K-C00-0070	0	kot	00:05:02;
+
+[CreateBG]=00:05:15	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-003	00:09:18;
+
+[PrintText]=00:05:21	Makoto	Está a punto de empezar.	00:08:02;
+
+[PlayVoice]=00:05:21	Voice02/02-2K/02-2K-C00/02-2K-C00-0080	1	mak	00:08:02;
+
+[PrintText]=00:07:17	Kotonoha	¡Sí, es verdad!	00:09:00;
+
+[PlayVoice]=00:07:17	Voice02/02-2K/02-2K-C00/02-2K-C00-0090	0	kot	00:09:00;
+
+[BlackFade]=00:09:06	OUT	00:09:18;
+
+[CreateBG]=00:09:18	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-004	00:18:16;
+
+[PrintText]=00:09:18	Aldaris	¿Realmente crees que la iglesia permitirá este tipo de acciones...?^	00:13:11;
+
+[PlayVoice]=00:09:18	Voice02/02-2K/02-2K-C00/02-2K-C00-0120	1	ald	00:13:11;
+
+[PrintText]=00:13:07	Kerrigan	¡Espera! Te has equivocado ¡Duke es...!	00:16:06;
+
+[PlayVoice]=00:13:07	Voice02/02-2K/02-2K-C00/02-2K-C00-0130	0	ker	00:16:06;
+
+[PlayVoice]=00:17:03	Voice02/02-2K/02-2K-C00/02-2K-C00-0150			00:17:18;
+
+[CreateBG]=00:18:16	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-005	00:21:13;
+
+[PlaySe]=00:19:16	1	Voice02/02-2K/02-2K-C00/02-2K-C00-0160	00:20:14;
+
+[PlayMovie]=00:21:13	Movie02/02-2K/02-2K-C00/02-2K-C00-006	0	00:26:15;
+
+[PlaySe]=00:22:03	1	Voice02/02-2K/02-2K-C00/02-2K-C00-0170	00:27:00;
+
+[CreateBG]=00:26:15	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-007	00:29:00;
+
+[PrintText]=00:27:06	Kotonoha	¡...!	00:28:01;
+
+[PlayVoice]=00:27:06	Voice02/02-2K/02-2K-C00/02-2K-C00-0180	0	kot	00:28:01;
+
+[CreateBG]=00:29:00	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-008	00:31:03;
+
+[PlayVoice]=00:30:00	Voice02/02-2K/02-2K-C00/02-2K-C00-0210			00:34:11;
+
+[CreateBG]=00:31:03	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-008B	00:33:06;
+
+[CreateBG]=00:33:06	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-008C	00:35:09;
+
+[CreateBG]=00:35:09	BGS	Event02/02-2K/02-2K-C00/02-2K-C00-009	00:39:10;
+
+[BlackFade]=00:38:10	OUT	00:39:10;
+
+ ;
+
+[Next]=00:39:10;
+
+
+
+

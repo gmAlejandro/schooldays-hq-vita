@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:10:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:10:00;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-N02/01-00-N02-001	00:10:01;
+
+[PrintText]=00:00:11	Makoto	'Katsura debe estar pensando lo mismo', huh...	00:03:19;
+
+[PlayVoice]=00:00:11	Voice01/01-00/01-00-N02/01-00-N02-0030	1	mak	00:03:19;
+
+[PrintText]=00:04:11	Makoto	¿Será eso verdad...? Sí lo fuera, yo...	00:09:10;
+
+[PlayVoice]=00:04:11	Voice01/01-00/01-00-N02/01-00-N02-0040	1	mak	00:09:10;
+
+ ;
+
+[Next]=00:10:01;
+
+
+
+

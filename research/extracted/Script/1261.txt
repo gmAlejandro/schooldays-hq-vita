@@ -1,0 +1,99 @@
+﻿[SkipFRAME]=00:33:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:33:18;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-001	00:06:08;
+
+[CreateBG]=00:06:08	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-002	00:09:07;
+
+[PrintText]=00:07:02	Makoto	Phew...	00:08:04;
+
+[PlayVoice]=00:07:02	Voice04/04-SE/04-SE-D05/04-SE-D05-0040	1	mak	00:08:04;
+
+[PrintText]=00:08:03	Sekai	Hamburguesas.	00:09:16;
+
+[PlayVoice]=00:08:03	Voice04/04-SE/04-SE-D05/04-SE-D05-0050	0	sek	00:09:16;
+
+[CreateBG]=00:09:07	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-003	00:10:09;
+
+[PrintText]=00:09:16	Makoto	Ah.	00:10:07;
+
+[PlayVoice]=00:09:16	Voice04/04-SE/04-SE-D05/04-SE-D05-0060	1	mak	00:10:07;
+
+[PrintText]=00:10:07	Sekai	Eheheh.	00:11:11;
+
+[PlayVoice]=00:10:07	Voice04/04-SE/04-SE-D05/04-SE-D05-0070	0	sek	00:11:11;
+
+[CreateBG]=00:10:09	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-004	00:11:12;
+
+[PrintText]=00:11:11	Taisuke	¡Hey, Makoto. Vas a casa, vamos... uwah!	00:13:18;
+
+[PlayVoice]=00:11:11	Voice04/04-SE/04-SE-D05/04-SE-D05-0080	1	tai	00:13:18;
+
+[CreateBG]=00:11:12	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-005	00:13:18;
+
+[PlaySe]=00:12:21	2	SysSe/SE_all/action/chair1	00:13:05;
+
+[CreateBG]=00:13:18	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-006	00:15:04;
+
+[PrintText]=00:13:18	Taisuke	¡Ow!	00:15:03;
+
+[PlayVoice]=00:13:18	Voice04/04-SE/04-SE-D05/04-SE-D05-0100	1	tai	00:15:03;
+
+[PrintText]=00:15:03	Hikari	Ven aquí, Sawanaga.	00:18:00;
+
+[PlayVoice]=00:15:03	Voice04/04-SE/04-SE-D05/04-SE-D05-0110	0	hik	00:18:00;
+
+[CreateBG]=00:15:04	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-007	00:18:16;
+
+[PrintText]=00:18:00	Taisuke	¿Eh?^	00:18:16;
+
+[PlayVoice]=00:18:00	Voice04/04-SE/04-SE-D05/04-SE-D05-0120	1	tai	00:18:16;
+
+[CreateBG]=00:18:16	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-008	00:24:03;
+
+[PrintText]=00:18:16	Setsuna	Has sido invitado a un deslumbrante trabajo de limpieza con tres hermosas chicas.	00:24:02;
+
+[PlayVoice]=00:18:16	Voice04/04-SE/04-SE-D05/04-SE-D05-0130	0	set	00:24:02;
+
+[PrintText]=00:24:02	Taisuke	¿Qué diablos significa eso?^	00:25:10;
+
+[PlayVoice]=00:24:02	Voice04/04-SE/04-SE-D05/04-SE-D05-0140	1	tai	00:25:10;
+
+[CreateBG]=00:24:03	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-009	00:25:10;
+
+[CreateBG]=00:25:10	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-010	00:26:18;
+
+[PrintText]=00:25:10	Nanami	Mira, solo ven con nosotras.	00:26:17;
+
+[PlayVoice]=00:25:10	Voice04/04-SE/04-SE-D05/04-SE-D05-0150	0	nan	00:26:17;
+
+[PrintText]=00:26:17	Taisuke	¡Uwaah!	00:29:08;
+
+[PlayVoice]=00:26:17	Voice04/04-SE/04-SE-D05/04-SE-D05-0160	1	tai	00:29:08;
+
+[CreateBG]=00:26:18	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-011	00:29:08;
+
+[PrintText]=00:29:07	Makoto	Haha...	00:31:06;
+
+[PlayVoice]=00:29:07	Voice04/04-SE/04-SE-D05/04-SE-D05-0180	1	mak	00:31:06;
+
+[CreateBG]=00:29:08	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-012	00:31:06;
+
+[PrintText]=00:31:05	Sekai	Vamos.	00:31:23;
+
+[PlayVoice]=00:31:05	Voice04/04-SE/04-SE-D05/04-SE-D05-0190	0	sek	00:31:23;
+
+[CreateBG]=00:31:06	BGS	Event04/04-SE/04-SE-D05/04-SE-D05-013	00:33:18;
+
+[PrintText]=00:31:23	Makoto	Sí.	00:32:15;
+
+[PlayVoice]=00:31:23	Voice04/04-SE/04-SE-D05/04-SE-D05-0200	1	mak	00:32:15;
+
+[BlackFade]=00:32:18	OUT	00:33:18;
+
+ ;
+
+[Next]=00:33:18;
+
+

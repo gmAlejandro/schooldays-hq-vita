@@ -1,0 +1,68 @@
+﻿[SkipFRAME]=00:46:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:13:17;
+
+[PlaySe]=00:00:00	1	Voice05/05-SB/05-SB-A01/05-SB-A01-0040	00:04:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-A01/05-SB-A01-001	00:13:20;
+
+[PlaySe]=00:05:09	1	Voice05/05-SB/05-SB-A01/05-SB-A01-0041	00:10:09;
+
+[PlaySe]=00:10:10	1	Voice05/05-SB/05-SB-A01/05-SB-A01-0042	00:13:20;
+
+[CreateBG]=00:13:20	BGS	Event05/05-SB/05-SB-A01/05-SB-A01-002	00:19:08;
+
+[PrintText]=00:13:23	Madre de Sekai	¡Sekai! levántate, ya es de día.	00:17:08;
+
+[PlayVoice]=00:13:23	Voice05/05-SB/05-SB-A01/05-SB-A01-0050	0	yko	00:17:08;
+
+[PlayBgm]=00:14:23	BGM/SD_BGM/sdbgm20	00:46:03;
+
+[PrintText]=00:17:09	Sekai	Mmn...	00:19:06;
+
+[PlayVoice]=00:17:09	Voice05/05-SB/05-SB-A01/05-SB-A01-0060	0	sek	00:19:06;
+
+[PrintText]=00:19:06	Madre de Sekai	Será mejor que te apures o llegarás tarde.	00:21:16;
+
+[PlayVoice]=00:19:06	Voice05/05-SB/05-SB-A01/05-SB-A01-0070	0	yko	00:21:16;
+
+[CreateBG]=00:19:08	BGS	Event05/05-SB/05-SB-A01/05-SB-A01-003	00:30:02;
+
+[PrintText]=00:21:17	Sekai	Mamá... no me siento bien, así que tomaré el día libre.	00:26:19;
+
+[PlayVoice]=00:21:17	Voice05/05-SB/05-SB-A01/05-SB-A01-0080	0	sek	00:26:19;
+
+[PrintText]=00:26:20	Madre de Sekai	¿Te sientes realmente mal?^	00:28:23;
+
+[PlayVoice]=00:26:20	Voice05/05-SB/05-SB-A01/05-SB-A01-0090	0	yko	00:28:23;
+
+[PrintText]=00:29:00	Sekai	...	00:30:00;
+
+[PlayVoice]=00:29:00	Voice05/05-SB/05-SB-A01/05-SB-A01-0100	0	xxx	00:30:00;
+
+[PrintText]=00:30:01	Madre de Sekai	Te has tomado los días libres desde que Se-chan se fue ¿No es así? He recibido llamadas del colegio por tus faltas.	00:39:16;
+
+[PlayVoice]=00:30:01	Voice05/05-SB/05-SB-A01/05-SB-A01-0110	0	yko	00:39:16;
+
+[CreateBG]=00:30:02	BGS	Event05/05-SB/05-SB-A01/05-SB-A01-004	00:44:09;
+
+[PrintText]=00:39:16	Sekai	Sí...	00:40:23;
+
+[PlayVoice]=00:39:16	Voice05/05-SB/05-SB-A01/05-SB-A01-0120	0	sek	00:40:23;
+
+[PrintText]=00:41:00	Madre de Sekai	Sé fuerte y ve, incluso si te sientes un poco mal.	00:44:10;
+
+[PlayVoice]=00:41:00	Voice05/05-SB/05-SB-A01/05-SB-A01-0130	0	yko	00:44:10;
+
+[CreateBG]=00:44:09	BGS	Event03/03-A0/03-A0-C00/03-A0-C00-003	00:46:03;
+
+[PrintText]=00:44:10	Sekai	...Bien.	00:45:10;
+
+[PlayVoice]=00:44:10	Voice05/05-SB/05-SB-A01/05-SB-A01-0140	0	sek	00:45:10;
+
+ ;
+
+[Next]=00:46:03;
+
+
+

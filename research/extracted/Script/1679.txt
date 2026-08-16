@@ -1,0 +1,50 @@
+﻿[SkipFRAME]=00:29:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:29:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-B01/05-SA-B01-001	00:17:14;
+
+[PrintText]=00:00:00	Makoto	...	00:02:20;
+
+[PlayVoice]=00:00:00	Voice05/05-SA/05-SA-B01/05-SA-B01-0050	1	xxx	00:02:20;
+
+[PrintText]=00:02:21	Sekai	Makoto...	00:04:08;
+
+[PlayVoice]=00:02:21	Voice05/05-SA/05-SA-B01/05-SA-B01-0060	0	sek	00:04:08;
+
+[PrintText]=00:04:08	Makoto	Sí.	00:06:23;
+
+[PlayVoice]=00:04:08	Voice05/05-SA/05-SA-B01/05-SA-B01-0070	1	mak	00:06:23;
+
+[PrintText]=00:07:00	Sekai	Acabas de... hacerme muy feliz.	00:11:00;
+
+[PlayVoice]=00:07:00	Voice05/05-SA/05-SA-B01/05-SA-B01-0080	0	sek	00:11:00;
+
+[PrintText]=00:10:23	Makoto	Uh-huh...	00:13:03;
+
+[PlayVoice]=00:10:23	Voice05/05-SA/05-SA-B01/05-SA-B01-0090	1	mak	00:13:03;
+
+[PrintText]=00:13:03	Sekai	Estoy tan feliz... de que me hayas escogido...	00:17:14;
+
+[PlayVoice]=00:13:03	Voice05/05-SA/05-SA-B01/05-SA-B01-0100	0	sek	00:17:14;
+
+[PlayMovie]=00:17:14	Movie05/05-SA/05-SA-B01/05-SA-B01-002	0	00:23:17;
+
+[PrintText]=00:17:14	Makoto	Sekai...	00:19:18;
+
+[PlayVoice]=00:17:14	Voice05/05-SA/05-SA-B01/05-SA-B01-0110	1	mak	00:19:18;
+
+[PrintText]=00:19:19	Sekai	Makoto... te amo tanto.	00:23:16;
+
+[PlayVoice]=00:19:19	Voice05/05-SA/05-SA-B01/05-SA-B01-0120	0	sek	00:23:16;
+
+[PlayMovie]=00:23:17	Movie05/05-SA/05-SA-B01/05-SA-B01-003	0	00:29:17;
+
+[PlayVoice]=00:23:17	Voice05/05-SA/05-SA-B01/05-SA-B01-0130			00:29:16;
+
+ ;
+
+[Next]=00:29:17;
+
+
+

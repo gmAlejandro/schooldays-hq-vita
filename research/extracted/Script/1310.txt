@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:17:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:17:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-A05/05-5O-A05-001	00:01:19;
+
+[PrintText]=00:00:08	Makoto	No importa.	00:01:18;
+
+[PlayVoice]=00:00:08	Voice05/05-5O/05-5O-A05/05-5O-A05-0030	1	mak	00:01:18;
+
+[CreateBG]=00:01:19	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-010	00:12:14;
+
+[PrintText]=00:01:21	Sekai	Sí... por supuesto... no te preocuparías por alguien... como yo ¿No?^	00:12:17;
+
+[PlayVoice]=00:01:21	Voice05/05-5O/05-5O-A05/05-5O-A05-0040	0	sek	00:12:17;
+
+[CreateBG]=00:12:14	BGS	Event05/05-5O/05-5O-A05/05-5O-A05-001	00:14:23;
+
+[PrintText]=00:12:21	Makoto	Ah, eso no es lo que...	00:14:16;
+
+[PlayVoice]=00:12:21	Voice05/05-5O/05-5O-A05/05-5O-A05-0050	1	mak	00:14:16;
+
+[PrintText]=00:14:22	Sekai	No. Entiendo...	00:17:20;
+
+[PlayVoice]=00:14:22	Voice05/05-5O/05-5O-A05/05-5O-A05-0060	0	sek	00:17:20;
+
+[CreateBG]=00:14:23	BGS	Event05/05-5O/05-5O-A01/05-5O-A01-006	00:17:22;
+
+ ;
+
+[Next]=00:17:22;
+
+

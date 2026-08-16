@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:18:03;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/aqua_square	00:18:03;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N07/04-SA-N07-001	00:03:04;
+
+[PrintText]=00:00:00	Makoto	¿Quieres disculparte?^	00:01:15;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N07/04-SA-N07-0030	1	mak	00:01:15;
+
+[PrintText]=00:01:15	Kotonoha	Ah...	00:02:05;
+
+[PlayVoice]=00:01:15	Voice04/04-SA/04-SA-N07/04-SA-N07-0040	0	kot	00:02:05;
+
+[PrintText]=00:02:05	Makoto	¿Estoy equivocado?^	00:03:03;
+
+[PlayVoice]=00:02:05	Voice04/04-SA/04-SA-N07/04-SA-N07-0050	1	mak	00:03:03;
+
+[PrintText]=00:03:03	Kotonoha	¡Sí...! ¡No! Yo... quiero disculparme. Sí. Así es.	00:14:21;
+
+[PlayVoice]=00:03:03	Voice04/04-SA/04-SA-N07/04-SA-N07-0060	0	kot	00:14:21;
+
+[CreateBG]=00:03:04	BGS	Event04/04-SA/04-SA-N07/04-SA-N07-002	00:14:21;
+
+[CreateBG]=00:14:21	BGS	Event04/04-SA/04-SA-N07/04-SA-N07-003	00:15:14;
+
+[PrintText]=00:14:21	Makoto	Uh-huh...	00:15:13;
+
+[PlayVoice]=00:14:21	Voice04/04-SA/04-SA-N07/04-SA-N07-0070	1	mak	00:15:13;
+
+[PrintText]=00:15:13	Kotonoha	Makoto-kun...	00:17:05;
+
+[PlayVoice]=00:15:13	Voice04/04-SA/04-SA-N07/04-SA-N07-0080	0	kot	00:17:05;
+
+[CreateBG]=00:15:14	BGS	Event04/04-SA/04-SA-N07/04-SA-N07-004	00:18:03;
+
+ ;
+
+[Next]=00:18:03;
+
+

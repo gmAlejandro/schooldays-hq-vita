@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:03:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/aqua_square	00:03:17;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N09/04-SA-N09-001	00:01:02;
+
+[PrintText]=00:00:03	Makoto	...	00:01:01;
+
+[PlayVoice]=00:00:03	Voice04/04-SA/04-SA-N09/04-SA-N09-0030	1	xxx	00:01:01;
+
+[CreateBG]=00:01:02	BGS	Event04/04-SA/04-SA-N09/04-SA-N09-002	00:02:08;
+
+[PrintText]=00:01:02	Kotonoha	...Lo siento.	00:02:08;
+
+[PlayVoice]=00:01:02	Voice04/04-SA/04-SA-N09/04-SA-N09-0040	0	kot	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event04/04-SA/04-SA-N09/04-SA-N09-003	00:03:17;
+
+[PrintText]=00:02:08	Makoto	No te preocupes por eso...	00:03:10;
+
+[PlayVoice]=00:02:08	Voice04/04-SA/04-SA-N09/04-SA-N09-0050	1	mak	00:03:10;
+
+ ;
+
+[Next]=00:03:17;
+
+

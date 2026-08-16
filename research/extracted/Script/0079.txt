@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:25:05;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-J06/SE01-00-J06-001	00:25:05;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-J06/01-00-J06-001	00:02:10;
+
+[PrintText]=00:00:00	Kotonoha	Perdóname.	00:02:10;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-J06/01-00-J06-0040	0	kot	00:02:10;
+
+[CreateBG]=00:02:10	BGS	Event01/01-00/01-00-J06/01-00-J06-002	00:09:06;
+
+[PrintText]=00:02:10	Makoto	Está bien. Soy alguien que causa malas impresionas, después de todo es mi culpa.	00:09:05;
+
+[PlayVoice]=00:02:10	Voice01/01-00/01-00-J06/01-00-J06-0050	1	mak	00:09:05;
+
+[PrintText]=00:09:05	Kotonoha	Pero...	00:10:10;
+
+[PlayVoice]=00:09:05	Voice01/01-00/01-00-J06/01-00-J06-0060	0	kot	00:10:10;
+
+[CreateBG]=00:09:06	BGS	Event01/01-00/01-00-J06/01-00-J06-003	00:11:22;
+
+[PrintText]=00:10:10	Makoto	En serio, está bien.	00:11:21;
+
+[PlayVoice]=00:10:10	Voice01/01-00/01-00-J06/01-00-J06-0070	1	mak	00:11:21;
+
+[CreateBG]=00:11:22	BGS	Event01/01-00/01-00-J06/01-00-J06-004	00:18:15;
+
+[PrintText]=00:11:22	Kotonoha	...Gracias.	00:14:19;
+
+[PlayVoice]=00:11:22	Voice01/01-00/01-00-J06/01-00-J06-0080	0	kot	00:14:19;
+
+[PrintText]=00:14:19	Makoto	Por cierto...	00:15:23;
+
+[PlayVoice]=00:14:19	Voice01/01-00/01-00-J06/01-00-J06-0090	1	mak	00:15:23;
+
+[PrintText]=00:15:23	Kotonoha	¿Sí?^	00:16:16;
+
+[PlayVoice]=00:15:23	Voice01/01-00/01-00-J06/01-00-J06-0100	0	kot	00:16:16;
+
+[PrintText]=00:16:17	Makoto	¿Tienes hoy reunión del consejo?^	00:18:15;
+
+[PlayVoice]=00:16:17	Voice01/01-00/01-00-J06/01-00-J06-0110	1	mak	00:18:15;
+
+[CreateBG]=00:18:15	BGS	Event01/01-00/01-00-J06/01-00-J06-005	00:25:05;
+
+[PrintText]=00:18:15	Kotonoha	No, no hay reunión del consejo estudiantil por hoy ni mañana.	00:22:19;
+
+[PlayVoice]=00:18:15	Voice01/01-00/01-00-J06/01-00-J06-0120	0	kot	00:22:19;
+
+[PrintText]=00:22:19	Makoto	Ya veo... en ese caso...	00:25:03;
+
+[PlayVoice]=00:22:19	Voice01/01-00/01-00-J06/01-00-J06-0130	1	mak	00:25:03;
+
+ ;
+
+[Next]=00:25:05;
+
+
+
+

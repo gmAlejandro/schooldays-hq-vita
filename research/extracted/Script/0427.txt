@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:20:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:20:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-E05/03-A1-E05-001	00:05:23;
+
+[PrintText]=00:00:00	Setsuna	Itou...	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-E05/03-A1-E05-0030	0	set	00:00:22;
+
+[PrintText]=00:00:22	Makoto	Haha... Me he perdido por un segundo.	00:04:16;
+
+[PlayVoice]=00:00:22	Voice03/03-A1/03-A1-E05/03-A1-E05-0040	1	mak	00:04:16;
+
+[PrintText]=00:04:21	Setsuna	Está bien.	00:05:18;
+
+[PlayVoice]=00:04:21	Voice03/03-A1/03-A1-E05/03-A1-E05-0050	0	set	00:05:18;
+
+[CreateBG]=00:05:23	BGS	Event03/03-A1/03-A1-E05/03-A1-E05-002	00:16:19;
+
+[PrintText]=00:06:04	Makoto	...	00:07:01;
+
+[PlayVoice]=00:06:04	Voice03/03-A1/03-A1-E05/03-A1-E05-0060	1	xxx	00:07:01;
+
+[PrintText]=00:07:14	Setsuna	Es muy triste.	00:09:01;
+
+[PlayVoice]=00:07:14	Voice03/03-A1/03-A1-E05/03-A1-E05-0070	0	set	00:09:01;
+
+[PrintText]=00:09:04	Makoto	Sí.	00:09:20;
+
+[PlayVoice]=00:09:04	Voice03/03-A1/03-A1-E05/03-A1-E05-0080	1	mak	00:09:20;
+
+[PrintText]=00:10:03	Setsuna	¿Lo dejaras así?^	00:11:00;
+
+[PlayVoice]=00:10:03	Voice03/03-A1/03-A1-E05/03-A1-E05-0090	0	set	00:11:00;
+
+[PrintText]=00:11:09	Makoto	Tampoco es así... después de todo, todo esto es mi culpa.	00:15:15;
+
+[PlayVoice]=00:11:09	Voice03/03-A1/03-A1-E05/03-A1-E05-0100	1	mak	00:15:15;
+
+[PrintText]=00:15:20	Setsuna	... Ya veo.	00:16:14;
+
+[PlayVoice]=00:15:20	Voice03/03-A1/03-A1-E05/03-A1-E05-0110	0	set	00:16:14;
+
+[CreateBG]=00:16:19	BGS	Event03/03-A1/03-A1-E05/03-A1-E05-003	00:20:16;
+
+[PrintText]=00:16:22	Makoto	Hey, Gracias.	00:17:23;
+
+[PlayVoice]=00:16:22	Voice03/03-A1/03-A1-E05/03-A1-E05-0120	1	mak	00:17:23;
+
+[PrintText]=00:18:12	Setsuna	...	00:19:10;
+
+[PlayVoice]=00:18:12	Voice03/03-A1/03-A1-E05/03-A1-E05-0130	0	xxx	00:19:10;
+
+[BlackFade]=00:19:16	OUT	00:20:16;
+
+ ;
+
+[Next]=00:20:16;
+
+

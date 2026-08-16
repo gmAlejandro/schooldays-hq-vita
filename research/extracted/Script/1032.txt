@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:25:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:24:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-E05/04-KC-E05-001	00:02:01;
+
+[PrintText]=00:00:00	Makoto	Ella está aquí conmigo.	00:01:09;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-E05/04-KC-E05-0030	1	mak	00:01:09;
+
+[PrintText]=00:01:09	Kotonoha	¿Eh...?^	00:02:01;
+
+[PlayVoice]=00:01:09	Voice04/04-KC/04-KC-E05/04-KC-E05-0040	0	kot	00:02:01;
+
+[CreateBG]=00:02:01	BGS	Event04/04-KC/04-KC-E05/04-KC-E05-002	00:10:07;
+
+[PrintText]=00:02:01	Makoto	...	00:02:17;
+
+[PlayVoice]=00:02:01	Voice04/04-KC/04-KC-E05/04-KC-E05-0050	1	xxx	00:02:17;
+
+[PrintText]=00:02:16	Kotonoha	¡Ah! Ya veo. Como no te sentías bien, ella decidió hacerte compañía ¿No?^	00:09:14;
+
+[PlayVoice]=00:02:16	Voice04/04-KC/04-KC-E05/04-KC-E05-0060	0	kot	00:09:14;
+
+[PrintText]=00:09:14	Makoto	No...	00:10:08;
+
+[PlayVoice]=00:09:14	Voice04/04-KC/04-KC-E05/04-KC-E05-0070	1	mak	00:10:08;
+
+[CreateBG]=00:10:07	BGS	Event04/04-KC/04-KC-E05/04-KC-E05-003	00:25:00;
+
+[PrintText]=00:10:08	Kotonoha	Lo siento. He estado algo abstraída con lo de la piscina que no he podido acompañarte.	00:17:01;
+
+[PlayVoice]=00:10:08	Voice04/04-KC/04-KC-E05/04-KC-E05-0080	0	kot	00:17:01;
+
+[PrintText]=00:17:01	Makoto	Está bien...	00:17:20;
+
+[PlayVoice]=00:17:01	Voice04/04-KC/04-KC-E05/04-KC-E05-0090	1	mak	00:17:20;
+
+[PrintText]=00:17:20	Kotonoha	Me disculpare con Saionji-san después, también...	00:20:20;
+
+[PlayVoice]=00:17:20	Voice04/04-KC/04-KC-E05/04-KC-E05-0100	0	kot	00:20:20;
+
+[PrintText]=00:20:20	Makoto	Kotonoha, Yo...	00:23:19;
+
+[PlayVoice]=00:20:20	Voice04/04-KC/04-KC-E05/04-KC-E05-0110	1	mak	00:23:19;
+
+ ;
+
+[Next]=00:25:00;
+
+

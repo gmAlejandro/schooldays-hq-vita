@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:13:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:13:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-A06/03-BK-A06-001	00:13:07;
+
+[PrintText]=00:00:00	Makoto	¿Qué pasa con ellas...?^	00:03:05;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-A06/03-BK-A06-0030	1	mak	00:03:05;
+
+[PrintText]=00:03:18	Makoto	Sekai me besó, y Kotonoha hablaba de eso....	00:08:21;
+
+[PlayVoice]=00:03:18	Voice03/03-BK/03-BK-A06/03-BK-A06-0040	1	mak	00:08:21;
+
+[PrintText]=00:09:10	Makoto	¿Es algo que hice...?^	00:11:09;
+
+[PlayVoice]=00:09:10	Voice03/03-BK/03-BK-A06/03-BK-A06-0050	1	mak	00:11:09;
+
+[PrintText]=00:11:22	Makoto	Haah...	00:13:00;
+
+[PlayVoice]=00:11:22	Voice03/03-BK/03-BK-A06/03-BK-A06-0060	1	mak	00:13:00;
+
+ ;
+
+[Next]=00:13:07;
+
+

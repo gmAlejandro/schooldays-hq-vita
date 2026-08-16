@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:16:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:16:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:16:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-K01/05-KB-K01-001	00:01:17;
+
+[PrintText]=00:00:00	Makoto	Seguro.	00:01:15;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-K01/05-KB-K01-0030	1	mak	00:01:15;
+
+[PrintText]=00:01:16	Kotonoha	¿En serio?^	00:03:06;
+
+[PlayVoice]=00:01:16	Voice05/05-KB/05-KB-K01/05-KB-K01-0040	0	kot	00:03:06;
+
+[CreateBG]=00:01:17	BGS	Event05/05-KB/05-KB-K01/05-KB-K01-002	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event05/05-KB/05-KB-K01/05-KB-K01-003	00:06:11;
+
+[PrintText]=00:03:06	Makoto	Sí.	00:04:21;
+
+[PlayVoice]=00:03:06	Voice05/05-KB/05-KB-K01/05-KB-K01-0050	1	mak	00:04:21;
+
+[PrintText]=00:04:20	Kotonoha	Gracias al cielo...	00:06:10;
+
+[PlayVoice]=00:04:20	Voice05/05-KB/05-KB-K01/05-KB-K01-0060	0	kot	00:06:10;
+
+[PrintText]=00:06:10	Makoto	Será bueno disfrutar el almuerzo en el tejado otra vez, como cuando nos conocimos.	00:14:03;
+
+[PlayVoice]=00:06:10	Voice05/05-KB/05-KB-K01/05-KB-K01-0070	1	mak	00:14:03;
+
+[PlayMovie]=00:06:11	Movie05/05-KB/05-KB-K02/05-KB-K02-005	0	00:16:09;
+
+[PrintText]=00:14:03	Kotonoha	Sí, lo será.	00:15:11;
+
+[PlayVoice]=00:14:03	Voice05/05-KB/05-KB-K01/05-KB-K01-0080	0	kot	00:15:11;
+
+ ;
+
+[Next]=00:16:09;
+
+
+
+

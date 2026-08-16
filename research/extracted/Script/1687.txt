@@ -1,0 +1,292 @@
+﻿[SkipFRAME]=04:01:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	04:01:07;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	02:47:11;
+
+[PlayMovie]=00:00:00	Movie05/05-SA/05-SA-G04/05-SA-G04-001	0	00:03:00;
+
+[PlayMovie]=00:03:00	Movie05/05-SA/05-SA-G03/05-SA-G03-002	0	00:08:23;
+
+[PrintText]=00:03:00	Makoto	...	00:06:11;
+
+[PlayVoice]=00:03:00	Voice05/05-SA/05-SA-G03/05-SA-G03-0050	1	xxx	00:06:11;
+
+[PrintText]=00:06:11	Makoto	Hey.	00:08:03;
+
+[PlayVoice]=00:06:11	Voice05/05-SA/05-SA-G03/05-SA-G03-0060	1	mak	00:08:03;
+
+[PrintText]=00:08:04	Kotonoha	¿Sí?^	00:08:22;
+
+[PlayVoice]=00:08:04	Voice05/05-SA/05-SA-G03/05-SA-G03-0070	0	kot	00:08:22;
+
+[CreateBG]=00:08:23	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-003	00:19:09;
+
+[PrintText]=00:08:23	Makoto	Parece que Sekai se fue temprano después de la clase de Educación Física ¿Sabes algo de eso?^	00:14:23;
+
+[PlayVoice]=00:08:23	Voice05/05-SA/05-SA-G03/05-SA-G03-0080	1	mak	00:14:23;
+
+[PrintText]=00:15:00	Kotonoha	¿Se fue temprano?^	00:16:22;
+
+[PlayVoice]=00:15:00	Voice05/05-SA/05-SA-G03/05-SA-G03-0090	0	kot	00:16:22;
+
+[PrintText]=00:16:22	Makoto	¿Sabías de eso?^	00:19:09;
+
+[PlayVoice]=00:16:22	Voice05/05-SA/05-SA-G03/05-SA-G03-0100	1	mak	00:19:09;
+
+[CreateBG]=00:19:09	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-004	00:21:20;
+
+[PrintText]=00:19:09	Kotonoha	Debe haberla sorprendido mucho.	00:21:20;
+
+[PlayVoice]=00:19:09	Voice05/05-SA/05-SA-G03/05-SA-G03-0110	0	kot	00:21:20;
+
+[CreateBG]=00:21:20	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-005	00:32:09;
+
+[PrintText]=00:21:20	Makoto	¿Sorprendido...?^	00:24:10;
+
+[PlayVoice]=00:21:20	Voice05/05-SA/05-SA-G03/05-SA-G03-0120	1	mak	00:24:10;
+
+[PrintText]=00:24:11	Kotonoha	Le dije todo lo que había pasado entre nosotros.	00:29:18;
+
+[PlayVoice]=00:24:11	Voice05/05-SA/05-SA-G03/05-SA-G03-0130	0	kot	00:29:18;
+
+[PrintText]=00:29:18	Makoto	...	00:32:08;
+
+[PlayVoice]=00:29:18	Voice05/05-SA/05-SA-G03/05-SA-G03-0140	1	xxx	00:32:08;
+
+[CreateBG]=00:32:09	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-006	00:49:09;
+
+[PrintText]=00:32:09	Kotonoha	AL principio no me creyó, pero al final terminó entendiendo.	00:39:17;
+
+[PlayVoice]=00:32:09	Voice05/05-SA/05-SA-G03/05-SA-G03-0150	0	kot	00:39:17;
+
+[PrintText]=00:39:17	Makoto	¿Bromas cierto...?^	00:42:05;
+
+[PlayVoice]=00:39:17	Voice05/05-SA/05-SA-G03/05-SA-G03-0160	1	mak	00:42:05;
+
+[PrintText]=00:42:05	Kotonoha	Para nada. Hablé con Saionji-san y la convencí para que se rindiera.	00:49:08;
+
+[PlayVoice]=00:42:05	Voice05/05-SA/05-SA-G03/05-SA-G03-0170	0	kot	00:49:08;
+
+[PrintText]=00:49:08	Makoto	No puede ser... Sekai... ella jamás se rendiría por algo así.	00:58:06;
+
+[PlayVoice]=00:49:08	Voice05/05-SA/05-SA-G03/05-SA-G03-0180	1	mak	00:58:06;
+
+[CreateBG]=00:49:09	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-007	00:58:06;
+
+[CreateBG]=00:58:06	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-008	01:01:00;
+
+[PrintText]=00:58:07	Kotonoha	Pero lo hizo.	01:01:00;
+
+[PlayVoice]=00:58:07	Voice05/05-SA/05-SA-G03/05-SA-G03-0190	0	kot	01:01:00;
+
+[PlayMovie]=01:01:00	Movie04/04-KC/04-KC-D05/04-KC-D05-001	0	01:05:00;
+
+[PrintText]=01:01:00	Makoto	¿Le hiciste algo?^	01:03:08;
+
+[PlayVoice]=01:01:00	Voice05/05-SA/05-SA-G03/05-SA-G03-0200	1	mak	01:03:08;
+
+[PrintText]=01:03:09	Kotonoha	¿Qué quieres decir con 'algo'?^	01:04:23;
+
+[PlayVoice]=01:03:09	Voice05/05-SA/05-SA-G03/05-SA-G03-0210	0	kot	01:04:23;
+
+[PrintText]=01:04:23	Makoto	¿Le Hiciste algo para que lo haga?^	01:09:20;
+
+[PlayVoice]=01:04:23	Voice05/05-SA/05-SA-G03/05-SA-G03-0220	1	mak	01:09:20;
+
+[CreateBG]=01:05:00	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-010	01:15:02;
+
+[PrintText]=01:09:21	Kotonoha	Nunca haría algo así. Solo hable con ella.	01:15:02;
+
+[PlayVoice]=01:09:21	Voice05/05-SA/05-SA-G03/05-SA-G03-0230	0	kot	01:15:02;
+
+[CreateBG]=01:15:02	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-011	01:17:21;
+
+[PrintText]=01:15:02	Makoto	¡Es mentira!	01:17:20;
+
+[PlayVoice]=01:15:02	Voice05/05-SA/05-SA-G03/05-SA-G03-0240	1	mak	01:17:20;
+
+[CreateBG]=01:17:21	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-012	01:38:19;
+
+[PrintText]=01:17:21	Kotonoha	Makoto-kun... lo prometiste. Dijiste que si Saionji-san renunciaba, solo tendrías ojos para mí.	01:26:13;
+
+[PlayVoice]=01:17:21	Voice05/05-SA/05-SA-G03/05-SA-G03-0250	0	kot	01:26:13;
+
+[PrintText]=01:26:13	Makoto	...	01:30:20;
+
+[PlayVoice]=01:26:13	Voice05/05-SA/05-SA-G03/05-SA-G03-0260	1	xxx	01:30:20;
+
+[PrintText]=01:30:21	Kotonoha	Ahora que Saionji-san está fuera, tienes que mantener la promesa.	01:38:20;
+
+[PlayVoice]=01:30:21	Voice05/05-SA/05-SA-G03/05-SA-G03-0270	0	kot	01:38:20;
+
+[CreateBG]=01:38:19	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-013	01:55:08;
+
+[PrintText]=01:38:20	Makoto	Entonces... dime una cosa.	01:43:08;
+
+[PlayVoice]=01:38:20	Voice05/05-SA/05-SA-G03/05-SA-G03-0280	1	mak	01:43:08;
+
+[PrintText]=01:43:08	Kotonoha	Bien ¿Qué es?^	01:45:06;
+
+[PlayVoice]=01:43:08	Voice05/05-SA/05-SA-G03/05-SA-G03-0290	0	kot	01:45:06;
+
+[PrintText]=01:45:06	Makoto	¿De qué hablaste con Sekai?^	01:50:01;
+
+[PlayVoice]=01:45:06	Voice05/05-SA/05-SA-G03/05-SA-G03-0300	1	mak	01:50:01;
+
+[PrintText]=01:50:01	Kotonoha	Lo de nosotros.	01:52:17;
+
+[PlayVoice]=01:50:01	Voice05/05-SA/05-SA-G03/05-SA-G03-0310	0	kot	01:52:17;
+
+[PrintText]=01:52:17	Makoto	Dime más.	01:55:08;
+
+[PlayVoice]=01:52:17	Voice05/05-SA/05-SA-G03/05-SA-G03-0320	1	mak	01:55:08;
+
+[CreateBG]=01:55:08	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-014	01:58:20;
+
+[PrintText]=01:55:08	Kotonoha	¿De verdad... importa?^	01:58:19;
+
+[PlayVoice]=01:55:08	Voice05/05-SA/05-SA-G03/05-SA-G03-0330	0	kot	01:58:19;
+
+[PrintText]=01:58:19	Makoto	Sí, dime más.	02:03:06;
+
+[PlayVoice]=01:58:19	Voice05/05-SA/05-SA-G03/05-SA-G03-0340	1	mak	02:03:06;
+
+[CreateBG]=01:58:20	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-015	02:17:02;
+
+[PrintText]=02:03:07	Kotonoha	Lo he olvidado. Creo que todo lo que hice fue hablarle de nuestra relación.	02:09:02;
+
+[PlayVoice]=02:03:07	Voice05/05-SA/05-SA-G03/05-SA-G03-0350	0	kot	02:09:02;
+
+[PrintText]=02:09:01	Makoto	No me mientas. Solo a sido hace unas horas. No hay manera de que te puedes olvidar tan pronto.	02:15:06;
+
+[PlayVoice]=02:09:01	Voice05/05-SA/05-SA-G03/05-SA-G03-0360	1	mak	02:15:06;
+
+[PrintText]=02:15:07	Kotonoha	...	02:17:01;
+
+[PlayVoice]=02:15:07	Voice05/05-SA/05-SA-G03/05-SA-G03-0370	0	xxx	02:17:01;
+
+[PrintText]=02:17:01	Makoto	Si no me quieres decir la verdad, entonces también olvidate de la promesa.	02:24:12;
+
+[PlayVoice]=02:17:01	Voice05/05-SA/05-SA-G03/05-SA-G03-0380	1	mak	02:24:12;
+
+[CreateBG]=02:17:02	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-016	02:32:02;
+
+[PrintText]=02:24:13	Kotonoha	Pero... no es justo.	02:26:16;
+
+[PlayVoice]=02:24:13	Voice05/05-SA/05-SA-G03/05-SA-G03-0390	0	kot	02:26:16;
+
+[PrintText]=02:26:16	Makoto	No, no lo es. Todo lo que tienes que hacer es decirme.	02:32:02;
+
+[PlayVoice]=02:26:16	Voice05/05-SA/05-SA-G03/05-SA-G03-0400	1	mak	02:32:02;
+
+[CreateBG]=02:32:02	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-017	02:37:06;
+
+[PrintText]=02:32:02	Kotonoha	...Todo lo que hice fue decirle lo que pasó ayer.	02:37:05;
+
+[PlayVoice]=02:32:02	Voice05/05-SA/05-SA-G03/05-SA-G03-0410	0	kot	02:37:05;
+
+[PrintText]=02:37:05	Makoto	¿Ayer...?^	02:39:16;
+
+[PlayVoice]=02:37:05	Voice05/05-SA/05-SA-G03/05-SA-G03-0420	1	mak	02:39:16;
+
+[CreateBG]=02:37:06	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-018A	02:39:17;
+
+[CreateBG]=02:39:17	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-018B	02:47:10;
+
+[PrintText]=02:39:17	Kotonoha	Le conté de como disfrutabas lamer mis pechos.	02:47:10;
+
+[PlayVoice]=02:39:17	Voice05/05-SA/05-SA-G03/05-SA-G03-0430	0	kot	02:47:10;
+
+[PlaySe]=02:45:23	2	SysSe/SE_all/station_train/train_in	04:01:07;
+
+[CreateBG]=02:47:10	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-018C	02:55:19;
+
+[PrintText]=02:47:10	Makoto	¿Eh...?^	02:48:22;
+
+[PlayVoice]=02:47:10	Voice05/05-SA/05-SA-G03/05-SA-G03-0440	1	mak	02:48:22;
+
+[PrintText]=02:48:23	Kotonoha	Fue así ¿No?^	02:53:23;
+
+[PlayVoice]=02:48:23	Voice05/05-SA/05-SA-G03/05-SA-G03-0450	0	kot	02:53:23;
+
+[PrintText]=02:53:22	Makoto	...	02:55:19;
+
+[PlayVoice]=02:53:22	Voice05/05-SA/05-SA-G03/05-SA-G03-0460	1	xxx	02:55:19;
+
+[CreateBG]=02:55:19	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-019	03:16:08;
+
+[PrintText]=02:55:19	Kotonoha	Aún tengo las fotos de cómo tenías tu cara entre mis pechos.	03:04:22;
+
+[PlayVoice]=02:55:19	Voice05/05-SA/05-SA-G03/05-SA-G03-0480	0	kot	03:04:22;
+
+[PrintText]=03:04:22	Makoto	Sí... pero...	03:08:09;
+
+[PlayVoice]=03:04:22	Voice05/05-SA/05-SA-G03/05-SA-G03-0490	1	mak	03:08:09;
+
+[PrintText]=03:08:10	Kotonoha	Le mostré esta foto, y le pedí que no interfiera más, porque estamos saliendo.	03:16:08;
+
+[PlayVoice]=03:08:10	Voice05/05-SA/05-SA-G03/05-SA-G03-0500	0	kot	03:16:08;
+
+[CreateBG]=03:16:08	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-020	03:27:12;
+
+[PrintText]=03:16:08	Makoto	...	03:19:06;
+
+[PlayVoice]=03:16:08	Voice05/05-SA/05-SA-G03/05-SA-G03-0510	1	xxx	03:19:06;
+
+[PrintText]=03:19:07	Kotonoha	Se puso pálida cuando vio la foto... pero llegamos a un acuerdo.	03:25:01;
+
+[PlayVoice]=03:19:07	Voice05/05-SA/05-SA-G03/05-SA-G03-0520	0	kot	03:25:01;
+
+[PrintText]=03:25:00	Makoto	Kotonoha...	03:27:13;
+
+[PlayVoice]=03:25:00	Voice05/05-SA/05-SA-G03/05-SA-G03-0530	1	mak	03:27:13;
+
+[CreateBG]=03:27:12	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-021	03:35:19;
+
+[PrintText]=03:27:13	Kotonoha	Makoto-kun...	03:28:16;
+
+[PlayVoice]=03:27:13	Voice05/05-SA/05-SA-G03/05-SA-G03-0540	0	kot	03:28:16;
+
+[PrintText]=03:28:16	Makoto	...	03:32:04;
+
+[PlayVoice]=03:28:16	Voice05/05-SA/05-SA-G03/05-SA-G03-0550	1	xxx	03:32:04;
+
+[PrintText]=03:32:04	Kotonoha	Yo soy tu novia.	03:35:19;
+
+[PlayVoice]=03:32:04	Voice05/05-SA/05-SA-G03/05-SA-G03-0560	0	kot	03:35:19;
+
+[CreateBG]=03:35:19	BGS	Event05/05-SA/05-SA-G03/05-SA-G03-022	03:50:00;
+
+[PrintText]=03:35:19	Makoto	...	03:38:01;
+
+[PlayVoice]=03:35:19	Voice05/05-SA/05-SA-G03/05-SA-G03-0570	1	xxx	03:38:01;
+
+[PrintText]=03:38:02	Kotonoha	Antes, te lastimaba ya que tenía miedo de dejarte hacerme cosas...	03:44:11;
+
+[PlayVoice]=03:38:02	Voice05/05-SA/05-SA-G03/05-SA-G03-0580	0	kot	03:44:11;
+
+[PrintText]=03:44:11	Kotonoha	por no satisfacerte como amante.	03:48:03;
+
+[PlayVoice]=03:44:11	Voice05/05-SA/05-SA-G03/05-SA-G03-0581	0	kot	03:48:03;
+
+[PlayMovie]=03:50:00	Movie04/04-KC/04-KC-D05/04-KC-D05-001	0	04:01:07;
+
+[PrintText]=03:50:01	Kotonoha	Pero ahora... no hay nada que pueda preocuparte.	03:54:18;
+
+[PlayVoice]=03:50:01	Voice05/05-SA/05-SA-G03/05-SA-G03-0590	0	kot	03:54:18;
+
+[PrintText]=03:55:00	Kotonoha	Ya no necesitas ver a Saionji-san.	03:58:06;
+
+[PlayVoice]=03:55:00	Voice05/05-SA/05-SA-G03/05-SA-G03-0600	0	kot	03:58:06;
+
+[PrintText]=03:58:07	Makoto	...	04:01:03;
+
+[PlayVoice]=03:58:07	Voice05/05-SA/05-SA-G03/05-SA-G03-0610	1	xxx	04:01:03;
+
+ ;
+
+[Next]=04:01:07;
+
+
+

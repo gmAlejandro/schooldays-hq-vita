@@ -1,0 +1,189 @@
+﻿[SkipFRAME]=01:51:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	01:51:19;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-001	00:01:03;
+
+[PrintText]=00:00:08	Makoto	En ese caso...	00:01:10;
+
+[PlayVoice]=00:00:08	Voice02/02-2K/02-2K-O01/02-2K-O01-0030	1	mak	00:01:10;
+
+[CreateBG]=00:01:03	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-002	00:05:19;
+
+[PrintText]=00:01:16	Sekai	Uh-huh.	00:02:10;
+
+[PlayVoice]=00:01:16	Voice02/02-2K/02-2K-O01/02-2K-O01-0040	0	sek	00:02:10;
+
+[PrintText]=00:02:14	Makoto	¿Q-Qué debería hacer?^	00:06:11;
+
+[PlayVoice]=00:02:14	Voice02/02-2K/02-2K-O01/02-2K-O01-0050	1	mak	00:06:11;
+
+[PlayMovie]=00:05:19	Movie02/02-2K/02-2K-O01/02-2K-O01-003	0	00:24:19;
+
+[PrintText]=00:06:19	Sekai	Veamos...Vale. Dame un beso.	00:12:19;
+
+[PlayVoice]=00:06:19	Voice02/02-2K/02-2K-O01/02-2K-O01-0060	0	sek	00:12:19;
+
+[PrintText]=00:14:00	Makoto	Beso...	00:15:17;
+
+[PlayVoice]=00:14:00	Voice02/02-2K/02-2K-O01/02-2K-O01-0070	1	mak	00:15:17;
+
+[PrintText]=00:14:17	Sekai	¡Wah! ¡Hey! Solo es una práctica.	00:18:12;
+
+[PlayVoice]=00:14:17	Voice02/02-2K/02-2K-O01/02-2K-O01-0080	0	sek	00:18:12;
+
+[PrintText]=00:18:12	Sekai	Vale... ahora, abrázame.	00:22:22;
+
+[PlayVoice]=00:18:12	Voice02/02-2K/02-2K-O01/02-2K-O01-0100	0	sek	00:22:22;
+
+[PrintText]=00:22:18	Makoto	Oh... oh, está bien.	00:24:14;
+
+[PlayVoice]=00:22:18	Voice02/02-2K/02-2K-O01/02-2K-O01-0090	1	mak	00:24:14;
+
+[PrintText]=00:24:08	Sekai	Ah...	00:25:11;
+
+[PlayVoice]=00:24:08	Voice02/02-2K/02-2K-O01/02-2K-O01-0120	0	sek	00:25:11;
+
+[CreateBG]=00:24:19	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-004	00:30:12;
+
+[PrintText]=00:25:05	Makoto	¡Ah!.. Fue muy rápido?^	00:27:10;
+
+[PlayVoice]=00:25:05	Voice02/02-2K/02-2K-O01/02-2K-O01-0140	1	mak	00:27:10;
+
+[PrintText]=00:27:07	Sekai	N-No, estuvo bien.	00:30:05;
+
+[PlayVoice]=00:27:07	Voice02/02-2K/02-2K-O01/02-2K-O01-0150	0	sek	00:30:05;
+
+[CreateBG]=00:30:12	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-005	00:41:15;
+
+[PrintText]=00:30:14	Makoto	Bien... ¿Ahora?^	00:33:14;
+
+[PlayVoice]=00:30:14	Voice02/02-2K/02-2K-O01/02-2K-O01-0160	1	mak	00:33:14;
+
+[PrintText]=00:33:14	Sekai	Veamos... Susúrrame al oído, 'Te amo'.	00:41:06;
+
+[PlayVoice]=00:33:14	Voice02/02-2K/02-2K-O01/02-2K-O01-0170	0	sek	00:41:06;
+
+[CreateBG]=00:41:15	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-006	00:44:16;
+
+[PrintText]=00:41:15	Makoto	Sekai... Te amo.	00:44:13;
+
+[PlayVoice]=00:41:15	Voice02/02-2K/02-2K-O01/02-2K-O01-0180	1	mak	00:44:13;
+
+[CreateBG]=00:44:16	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-007	00:49:12;
+
+[PrintText]=00:44:20	Sekai	...	00:45:22;
+
+[PlayVoice]=00:44:20	Voice02/02-2K/02-2K-O01/02-2K-O01-0200	0	xxx	00:45:22;
+
+[PrintText]=00:46:06	Makoto	¿...Sekai?^	00:49:10;
+
+[PlayVoice]=00:46:06	Voice02/02-2K/02-2K-O01/02-2K-O01-0210	1	mak	00:49:10;
+
+[CreateBG]=00:49:12	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-008	01:14:19;
+
+[PrintText]=00:49:12	Sekai	A-Así no. Estoy pretendiendo ser Katsura-san, así que debes decir 'Kotonoha'.	00:57:00;
+
+[PlayVoice]=00:49:12	Voice02/02-2K/02-2K-O01/02-2K-O01-0220	0	sek	00:57:00;
+
+[PrintText]=00:56:18	Makoto	Bueno... es que, eres tú quién está al frente... es difícil decir 'Kotonoha'.	01:03:06;
+
+[PlayVoice]=00:56:18	Voice02/02-2K/02-2K-O01/02-2K-O01-0230	1	mak	01:03:06;
+
+[PrintText]=01:02:21	Sekai	Mmm ... creo que es inevitable entonces...	01:07:07;
+
+[PlayVoice]=01:02:21	Voice02/02-2K/02-2K-O01/02-2K-O01-0240	0	sek	01:07:07;
+
+[PrintText]=01:07:07	Makoto	¿Qué sigue?^	01:09:15;
+
+[PlayVoice]=01:07:07	Voice02/02-2K/02-2K-O01/02-2K-O01-0250	1	mak	01:09:15;
+
+[PrintText]=01:09:17	Sekai	Mis pechos... supongo.	01:11:19;
+
+[PlayVoice]=01:09:17	Voice02/02-2K/02-2K-O01/02-2K-O01-0260	0	sek	01:11:19;
+
+[PrintText]=01:11:20	Makoto	¿Supones? eso no suena muy seguro.	01:14:14;
+
+[PlayVoice]=01:11:20	Voice02/02-2K/02-2K-O01/02-2K-O01-0270	1	mak	01:14:14;
+
+[CreateBG]=01:14:19	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-009	01:28:11;
+
+[PrintText]=01:14:19	Sekai	¡Mis pechos! Sé gentil frotándolo...	01:19:22;
+
+[PlayVoice]=01:14:19	Voice02/02-2K/02-2K-O01/02-2K-O01-0280	0	sek	01:19:22;
+
+[PrintText]=01:19:21	Makoto	Tus pechos...	01:20:23;
+
+[PlayVoice]=01:19:21	Voice02/02-2K/02-2K-O01/02-2K-O01-0290	1	mak	01:20:23;
+
+[PrintText]=01:21:07	Sekai	Uh ...	01:21:19;
+
+[PlayVoice]=01:21:07	Voice02/02-2K/02-2K-O01/02-2K-O01-0300	0	sek	01:21:19;
+
+[PrintText]=01:22:03	Makoto	Probablemente no debería tocar...¿No crees?^	01:25:18;
+
+[PlayVoice]=01:22:03	Voice02/02-2K/02-2K-O01/02-2K-O01-0310	1	mak	01:25:18;
+
+[PrintText]=01:25:10	Sekai	E...está bien. Solo si es a través de mi ropa.	01:28:18;
+
+[PlayVoice]=01:25:10	Voice02/02-2K/02-2K-O01/02-2K-O01-0320	0	sek	01:28:18;
+
+[CreateBG]=01:28:11	BGS	Event02/02-2K/02-2K-O01/02-2K-O01-010	01:35:08;
+
+[PrintText]=01:28:11	Makoto	¡¿H-hablas en serio?!	01:30:01;
+
+[PlayVoice]=01:28:11	Voice02/02-2K/02-2K-O01/02-2K-O01-0330	1	mak	01:30:01;
+
+[PrintText]=01:29:22	Sekai	Vamos, date prisa.	01:32:10;
+
+[PlayVoice]=01:29:22	Voice02/02-2K/02-2K-O01/02-2K-O01-0340	0	sek	01:32:10;
+
+[PrintText]=01:32:17	Makoto	V-Vale...	01:35:06;
+
+[PlayVoice]=01:32:17	Voice02/02-2K/02-2K-O01/02-2K-O01-0350	1	mak	01:35:06;
+
+[PlayMovie]=01:35:08	Movie02/02-2K/02-2K-O01/02-2K-O01-011	0	01:51:19;
+
+[PrintText]=01:35:11	Sekai	Nn...	01:36:12;
+
+[PlayVoice]=01:35:11	Voice02/02-2K/02-2K-O01/02-2K-O01-0420	0	sek	01:36:12;
+
+[PrintText]=01:36:10	Makoto	¿Así?^	01:38:04;
+
+[PlayVoice]=01:36:10	Voice02/02-2K/02-2K-O01/02-2K-O01-0430	1	mak	01:38:04;
+
+[PlaySe]=01:37:16	1	SysSe/SE_all/h/nuno1	01:39:06;
+
+[PrintText]=01:39:08	Sekai	Puedes hacerlo un poco fuerte...	01:43:16;
+
+[PlayVoice]=01:39:08	Voice02/02-2K/02-2K-O01/02-2K-O01-0440	0	sek	01:43:16;
+
+[PlaySe]=01:40:15	1	SysSe/SE_all/h/nuno1	01:42:04;
+
+[PlaySe]=01:43:02	1	SysSe/SE_all/h/nuno1	01:44:16;
+
+[PrintText]=01:43:07	Makoto	Lo tengo.	01:44:13;
+
+[PlayVoice]=01:43:07	Voice02/02-2K/02-2K-O01/02-2K-O01-0450	1	mak	01:44:13;
+
+[PrintText]=01:44:14	Sekai	Nn ... 	01:48:13;
+
+[PlayVoice]=01:44:14	Voice02/02-2K/02-2K-O01/02-2K-O01-0470	0	sek	01:48:13;
+
+[PlaySe]=01:45:13	1	SysSe/SE_all/h/nuno1	01:47:03;
+
+[PrintText]=01:46:13	Makoto	Sekai... eres un poco...	01:51:09;
+
+[PlayVoice]=01:46:13	Voice02/02-2K/02-2K-O01/02-2K-O01-0480	1	mak	01:51:09;
+
+[PlaySe]=01:48:05	1	SysSe/SE_all/h/nuno1	01:49:18;
+
+[PlaySe]=01:50:05	1	SysSe/SE_all/h/nuno1	01:51:19;
+
+ ;
+
+[Next]=01:51:19;
+
+
+
+

@@ -1,0 +1,133 @@
+﻿[SkipFRAME]=01:01:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	01:01:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-001	00:06:07;
+
+[PrintText]=00:00:00	Sekai	Mañana...	00:01:04;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-F03/03-KB-F03-0030	0	sek	00:01:04;
+
+[PrintText]=00:01:04	Makoto	Sí.	00:01:22;
+
+[PlayVoice]=00:01:04	Voice03/03-KB/03-KB-F03/03-KB-F03-0040	1	mak	00:01:22;
+
+[PrintText]=00:01:21	Sekai	Mañana...	00:03:14;
+
+[PlayVoice]=00:01:21	Voice03/03-KB/03-KB-F03/03-KB-F03-0060	0	sek	00:03:14;
+
+[PrintText]=00:03:15	Makoto	¿Qué hay mañana?^	00:06:07;
+
+[PlayVoice]=00:03:15	Voice03/03-KB/03-KB-F03/03-KB-F03-0070	1	mak	00:06:07;
+
+[PrintText]=00:06:06	Sekai	¡Demos nuestro mejor esfuerzo mañana!	00:08:17;
+
+[PlayVoice]=00:06:06	Voice03/03-KB/03-KB-F03/03-KB-F03-0080	0	sek	00:08:17;
+
+[CreateBG]=00:06:07	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-002	00:13:17;
+
+[PrintText]=00:08:17	Makoto	O... oh, sí.	00:10:18;
+
+[PlayVoice]=00:08:17	Voice03/03-KB/03-KB-F03/03-KB-F03-0090	1	mak	00:10:18;
+
+[PrintText]=00:10:19	Sekai	Estarás en la cocina mañana ¿No?^	00:13:16;
+
+[PlayVoice]=00:10:19	Voice03/03-KB/03-KB-F03/03-KB-F03-0100	0	sek	00:13:16;
+
+[PrintText]=00:13:16	Makoto	Sí. Estaré haciendo el té y cortando el pan.	00:18:11;
+
+[PlayVoice]=00:13:16	Voice03/03-KB/03-KB-F03/03-KB-F03-0110	1	mak	00:18:11;
+
+[CreateBG]=00:13:17	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-003A	00:18:12;
+
+[PrintText]=00:18:11	Sekai	Ya veo.	00:19:11;
+
+[PlayVoice]=00:18:11	Voice03/03-KB/03-KB-F03/03-KB-F03-0120	0	sek	00:19:11;
+
+[CreateBG]=00:18:12	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-003B	00:19:12;
+
+[PrintText]=00:19:11	Makoto	Estarás de mesera ¿No?^	00:21:12;
+
+[PlayVoice]=00:19:11	Voice03/03-KB/03-KB-F03/03-KB-F03-0130	1	mak	00:21:12;
+
+[CreateBG]=00:19:12	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-003C	00:27:22;
+
+[PrintText]=00:21:12	Sekai	¡S... Sí!	00:22:23;
+
+[PlayVoice]=00:21:12	Voice03/03-KB/03-KB-F03/03-KB-F03-0140	0	sek	00:22:23;
+
+[PrintText]=00:22:22	Makoto	Pero tu uniforme no está listo ¿No?^	00:24:18;
+
+[PlayVoice]=00:22:22	Voice03/03-KB/03-KB-F03/03-KB-F03-0150	1	mak	00:24:18;
+
+[PrintText]=00:24:18	Sekai	Eheheh... Lo haré ahora.	00:27:21;
+
+[PlayVoice]=00:24:18	Voice03/03-KB/03-KB-F03/03-KB-F03-0160	0	sek	00:27:21;
+
+[PrintText]=00:27:21	Makoto	Bueno, esperaré con ansias el día de mañana.	00:30:18;
+
+[PlayVoice]=00:27:21	Voice03/03-KB/03-KB-F03/03-KB-F03-0170	1	mak	00:30:18;
+
+[CreateBG]=00:27:22	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-003A	00:35:22;
+
+[PrintText]=00:30:19	Sekai	¿Eh...?^	00:31:17;
+
+[PlayVoice]=00:30:19	Voice03/03-KB/03-KB-F03/03-KB-F03-0180	0	sek	00:31:17;
+
+[PrintText]=00:31:17	Makoto	Fwah... bueno, iré a dormir.	00:35:22;
+
+[PlayVoice]=00:31:17	Voice03/03-KB/03-KB-F03/03-KB-F03-0190	1	mak	00:35:22;
+
+[CreateBG]=00:35:22	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-005	00:41:07;
+
+[PrintText]=00:35:22	Sekai	V-Vale. ¡Demos nuestro mejor esfuerzo mañana!	00:39:07;
+
+[PlayVoice]=00:35:22	Voice03/03-KB/03-KB-F03/03-KB-F03-0200	0	sek	00:39:07;
+
+[PrintText]=00:39:07	Makoto	Sí, buenas noches...	00:41:06;
+
+[PlayVoice]=00:39:07	Voice03/03-KB/03-KB-F03/03-KB-F03-0210	1	mak	00:41:06;
+
+[PrintText]=00:41:06	Sekai	Haah...	00:42:11;
+
+[PlayVoice]=00:41:06	Voice03/03-KB/03-KB-F03/03-KB-F03-0230	0	sek	00:42:11;
+
+[CreateBG]=00:41:07	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-006	00:51:23;
+
+[PrintText]=00:42:11	Setsuna	Eso fue horrible.	00:43:14;
+
+[PlayVoice]=00:42:11	Voice03/03-KB/03-KB-F03/03-KB-F03-0240	0	set	00:43:14;
+
+[PrintText]=00:43:14	Sekai	U-um, hey, escucha, dijo que no podía esperar por verme en mi traje de mesera.	00:49:16;
+
+[PlayVoice]=00:43:14	Voice03/03-KB/03-KB-F03/03-KB-F03-0250	0	sek	00:49:16;
+
+[PrintText]=00:49:16	Setsuna	Haah, ya veo.	00:51:23;
+
+[PlayVoice]=00:49:16	Voice03/03-KB/03-KB-F03/03-KB-F03-0260	0	set	00:51:23;
+
+[CreateBG]=00:51:23	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-007	00:56:23;
+
+[PrintText]=00:51:23	Sekai	Será mejor que mejore la costura.	00:53:16;
+
+[PlayVoice]=00:51:23	Voice03/03-KB/03-KB-F03/03-KB-F03-0270	0	sek	00:53:16;
+
+[PrintText]=00:53:16	Setsuna	¿No lo invitarás a caminar con él durante el festival?^	00:57:00;
+
+[PlayVoice]=00:53:16	Voice03/03-KB/03-KB-F03/03-KB-F03-0280	0	set	00:57:00;
+
+[CreateBG]=00:56:23	BGS	Event03/03-KB/03-KB-F03/03-KB-F03-008	01:01:23;
+
+[PrintText]=00:57:00	Sekai	¡T-Trabajaré en eso mañana!	01:00:07;
+
+[PlayVoice]=00:57:00	Voice03/03-KB/03-KB-F03/03-KB-F03-0290	0	sek	01:00:07;
+
+[PrintText]=01:00:07	Setsuna	Haah...	01:01:10;
+
+[PlayVoice]=01:00:07	Voice03/03-KB/03-KB-F03/03-KB-F03-0300	0	set	01:01:10;
+
+ ;
+
+[Next]=01:01:23;
+
+

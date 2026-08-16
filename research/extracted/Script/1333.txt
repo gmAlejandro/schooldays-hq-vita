@@ -1,0 +1,279 @@
+﻿[SkipFRAME]=02:56:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	03:02:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-002	00:08:18;
+
+[PrintText]=00:03:02	Otome	Buen día.	00:04:01;
+
+[PlayVoice]=00:03:02	Voice05/05-5O/05-5O-E07/05-5O-E07-0030	0	oto	00:04:01;
+
+[PrintText]=00:04:02	Minami	Ah, Otome. ¡Buen día!	00:05:23;
+
+[PlayVoice]=00:04:02	Voice05/05-5O/05-5O-E07/05-5O-E07-0040	0	min	00:05:23;
+
+[PrintText]=00:05:20	Natsumi	Buen día.	00:07:01;
+
+[PlayVoice]=00:05:20	Voice05/05-5O/05-5O-E07/05-5O-E07-0050	0	nat	00:07:01;
+
+[PrintText]=00:06:21	Kumi	Buen día, Otome-chan.	00:08:12;
+
+[PlayVoice]=00:06:21	Voice05/05-5O/05-5O-E07/05-5O-E07-0060	0	kum	00:08:12;
+
+[CreateBG]=00:08:18	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-003	00:16:04;
+
+[PrintText]=00:08:18	Minami	¡Hey, hey, Escucha! ¡Adivina qué pasó en la clase 3!	00:11:15;
+
+[PlayVoice]=00:08:18	Voice05/05-5O/05-5O-E07/05-5O-E07-0070	0	min	00:11:15;
+
+[PrintText]=00:11:18	Otome	No me digas... ¿Es de Saionji-san e Itou?^	00:15:07;
+
+[PlayVoice]=00:11:18	Voice05/05-5O/05-5O-E07/05-5O-E07-0080	0	oto	00:15:07;
+
+[PrintText]=00:15:08	Minami	Sip.	00:16:02;
+
+[PlayVoice]=00:15:08	Voice05/05-5O/05-5O-E07/05-5O-E07-0090	0	min	00:16:02;
+
+[CreateBG]=00:16:04	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-004	00:22:11;
+
+[PrintText]=00:16:05	Otome	Se escuchan rumores de que él ha estado engañándola conmigo ¿No? Qué problema...	00:22:07;
+
+[PlayVoice]=00:16:05	Voice05/05-5O/05-5O-E07/05-5O-E07-0100	0	oto	00:22:07;
+
+[CreateBG]=00:22:11	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-005	00:40:05;
+
+[PrintText]=00:22:11	Minami	Eso fue en el almuerzo, estoy segura. Pero hay más que eso.	00:27:11;
+
+[PlayVoice]=00:22:11	Voice05/05-5O/05-5O-E07/05-5O-E07-0110	0	min	00:27:11;
+
+[PrintText]=00:27:15	Otome	¿Como qué?^	00:28:16;
+
+[PlayVoice]=00:27:15	Voice05/05-5O/05-5O-E07/05-5O-E07-0120	0	oto	00:28:16;
+
+[PrintText]=00:28:16	Minami	Bueno, después de clases, Itou llamó a Saionji al tejado para hablar...	00:33:00;
+
+[PlayVoice]=00:28:16	Voice05/05-5O/05-5O-E07/05-5O-E07-0130	0	min	00:33:00;
+
+[PrintText]=00:33:02	Minami	pero esto después de lo que pasó en la cafetería ¿Sabes?, unas cuantas personas lo siguieron. Y eso fue lo que escuché...	00:40:03;
+
+[PlayVoice]=00:33:02	Voice05/05-5O/05-5O-E07/05-5O-E07-0131	0	min	00:40:03;
+
+[CreateBG]=00:40:05	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-006	00:42:20;
+
+[PrintText]=00:40:06	Kumi	Hubiera deseado verlo.	00:42:18;
+
+[PlayVoice]=00:40:06	Voice05/05-5O/05-5O-E07/05-5O-E07-0140	0	kum	00:42:18;
+
+[CreateBG]=00:42:20	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-007	00:49:04;
+
+[PrintText]=00:42:21	Minami	Y entonces se convirtió en una discusión, y cuando las cosas se pusieron feas, Katsura apareció!	00:49:05;
+
+[PlayVoice]=00:42:21	Voice05/05-5O/05-5O-E07/05-5O-E07-0150	0	min	00:49:05;
+
+[CreateBG]=00:49:04	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-007B	00:50:08;
+
+[PrintText]=00:49:08	Otome	¿Eh?!	00:50:07;
+
+[PlayVoice]=00:49:08	Voice05/05-5O/05-5O-E07/05-5O-E07-0160	0	oto	00:50:07;
+
+[CreateBG]=00:50:08	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-007C	00:52:01;
+
+[PrintText]=00:50:08	Minami	Increíble ¿no?^	00:52:01;
+
+[PlayVoice]=00:50:08	Voice05/05-5O/05-5O-E07/05-5O-E07-0170	0	min	00:52:01;
+
+[CreateBG]=00:52:01	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-008	01:15:22;
+
+[PrintText]=00:52:01	Otome	Sí.	00:53:03;
+
+[PlayVoice]=00:52:01	Voice05/05-5O/05-5O-E07/05-5O-E07-0180	0	oto	00:53:03;
+
+[PrintText]=00:53:04	Minami	¡Y sabes que más, cuando apareció, empujó a Saionji y se le confesó a Makoto! Todos estaban sorprendidos.	00:59:06;
+
+[PlayVoice]=00:53:04	Voice05/05-5O/05-5O-E07/05-5O-E07-0190	0	min	00:59:06;
+
+[PrintText]=00:59:06	Kumi	¡Tú también!	01:01:06;
+
+[PlayVoice]=00:59:06	Voice05/05-5O/05-5O-E07/05-5O-E07-0200	0	kum	01:01:06;
+
+[PrintText]=01:01:07	Minami	Y ¿Qué crees que pasó después?^	01:03:16;
+
+[PlayVoice]=01:01:07	Voice05/05-5O/05-5O-E07/05-5O-E07-0210	0	min	01:03:16;
+
+[PrintText]=01:03:19	Natsumi	Bueno... supongo que él tuvo que escoger ¿No?^	01:06:20;
+
+[PlayVoice]=01:03:19	Voice05/05-5O/05-5O-E07/05-5O-E07-0220	0	nat	01:06:20;
+
+[PrintText]=01:06:22	Kumi	...Saionji, creo. Katsura es muy molesta después de todo.	01:11:22;
+
+[PlayVoice]=01:06:22	Voice05/05-5O/05-5O-E07/05-5O-E07-0230	0	kum	01:11:22;
+
+[PrintText]=01:12:03	Natsumi	Yo le voy a Katsura entonces. Los chicos la aman.	01:15:21;
+
+[PlayVoice]=01:12:03	Voice05/05-5O/05-5O-E07/05-5O-E07-0240	0	nat	01:15:21;
+
+[CreateBG]=01:15:22	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-009	01:22:07;
+
+[PrintText]=01:16:00	Minami	¡Pues verás! Itou las dejo sin una respuesta. Las dos estaban confundidas después de que las rechazo...	01:22:04;
+
+[PlayVoice]=01:16:00	Voice05/05-5O/05-5O-E07/05-5O-E07-0250	0	min	01:22:04;
+
+[CreateBG]=01:22:07	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-009B	01:29:04;
+
+[PrintText]=01:22:07	Minami	Y ahora se preguntan que habrá querido decir. Por eso todos estaban hablándolo esta mañana.	01:28:23;
+
+[PlayVoice]=01:22:07	Voice05/05-5O/05-5O-E07/05-5O-E07-0251	0	min	01:28:23;
+
+[CreateBG]=01:29:04	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-009C	01:39:00;
+
+[PrintText]=01:29:04	Natsumi	No me esperaba que el no escogiera a ninguna...	01:32:05;
+
+[PlayVoice]=01:29:04	Voice05/05-5O/05-5O-E07/05-5O-E07-0260	0	nat	01:32:05;
+
+[PrintText]=01:32:09	Minami	Sí, es increíble.	01:34:23;
+
+[PlayVoice]=01:32:09	Voice05/05-5O/05-5O-E07/05-5O-E07-0270	0	min	01:34:23;
+
+[PrintText]=01:35:03	Natsumi	Entonces... si Itou no escogió a ninguna de ellas ¿Quiere decir que Otome tiene un chance?^	01:41:11;
+
+[PlayVoice]=01:35:03	Voice05/05-5O/05-5O-E07/05-5O-E07-0280	0	nat	01:41:11;
+
+[CreateBG]=01:39:00	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-009D	01:46:02;
+
+[PrintText]=01:41:15	Kumi	Pues, Otome-chan saldrá con Itou.	01:44:18;
+
+[PlayVoice]=01:41:15	Voice05/05-5O/05-5O-E07/05-5O-E07-0290	0	kum	01:44:18;
+
+[PrintText]=01:45:00	Otome	¡No! Quiero decir, no creo que él esté interesado.	01:50:10;
+
+[PlayVoice]=01:45:00	Voice05/05-5O/05-5O-E07/05-5O-E07-0300	0	oto	01:50:10;
+
+[CreateBG]=01:46:02	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-010	01:53:18;
+
+[PrintText]=01:50:10	Natsumi	¿No lo han entendido?^	01:52:05;
+
+[PlayVoice]=01:50:10	Voice05/05-5O/05-5O-E07/05-5O-E07-0310	0	nat	01:52:05;
+
+[PrintText]=01:52:08	Kumi	¿Qué?^	01:53:15;
+
+[PlayVoice]=01:52:08	Voice05/05-5O/05-5O-E07/05-5O-E07-0320	0	kum	01:53:15;
+
+[CreateBG]=01:53:18	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-011	01:59:03;
+
+[PrintText]=01:53:19	Natsumi	En el almuerzo de ayer, Saionji dijo que Otome era la chica con quien Itou estaba engañándola ¿No?^	01:59:03;
+
+[PlayVoice]=01:53:19	Voice05/05-5O/05-5O-E07/05-5O-E07-0330	0	nat	01:59:03;
+
+[CreateBG]=01:59:03	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-011B	02:00:06;
+
+[PrintText]=01:59:06	Minami	Sí, así fue.	02:00:03;
+
+[PlayVoice]=01:59:06	Voice05/05-5O/05-5O-E07/05-5O-E07-0340	0	min	02:00:03;
+
+[CreateBG]=02:00:06	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-011C	02:05:21;
+
+[PrintText]=02:00:06	Natsumi	Entonces ¿Eso no quiere decir que ahora pueden estar cerca para que su ex-novia se ponga celosa?^	02:05:19;
+
+[PlayVoice]=02:00:06	Voice05/05-5O/05-5O-E07/05-5O-E07-0350	0	nat	02:05:19;
+
+[CreateBG]=02:05:21	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-012	02:20:07;
+
+[PrintText]=02:05:23	Otome	¿T-Tú lo crees...?^	02:08:01;
+
+[PlayVoice]=02:05:23	Voice05/05-5O/05-5O-E07/05-5O-E07-0360	0	oto	02:08:01;
+
+[PrintText]=02:08:05	Natsumi	Más aún, con solo decirlo, Saionji le ha puesto esa idea a Makoto. ¡Es tu oportunidad!	02:14:21;
+
+[PlayVoice]=02:08:05	Voice05/05-5O/05-5O-E07/05-5O-E07-0370	0	nat	02:14:21;
+
+[PrintText]=02:15:02	Otome	De ninguna manera. No puedo ir y decirle después de que acaban de romper.	02:20:04;
+
+[PlayVoice]=02:15:02	Voice05/05-5O/05-5O-E07/05-5O-E07-0380	0	oto	02:20:04;
+
+[CreateBG]=02:20:07	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-013	02:25:14;
+
+[PrintText]=02:20:09	Natsumi	¿Romper? Como sea. Él fue quien las rechazó.	02:25:11;
+
+[PlayVoice]=02:20:09	Voice05/05-5O/05-5O-E07/05-5O-E07-0390	0	nat	02:25:11;
+
+[CreateBG]=02:25:14	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-013B	02:33:04;
+
+[PrintText]=02:25:14	Otome	¿T-Tú crees que...?^	02:28:05;
+
+[PlayVoice]=02:25:14	Voice05/05-5O/05-5O-E07/05-5O-E07-0400	0	oto	02:28:05;
+
+[PrintText]=02:28:09	Natsumi	¡Vamos, Otome!	02:30:06;
+
+[PlayVoice]=02:28:09	Voice05/05-5O/05-5O-E07/05-5O-E07-0410	0	nat	02:30:06;
+
+[PrintText]=02:30:11	Minami	¡Otome!	02:31:12;
+
+[PlayVoice]=02:30:11	Voice05/05-5O/05-5O-E07/05-5O-E07-0420	0	min	02:31:12;
+
+[PrintText]=02:31:14	Otome	¿Yo...?^	02:33:00;
+
+[PlayVoice]=02:31:14	Voice05/05-5O/05-5O-E07/05-5O-E07-0430	0	oto	02:33:00;
+
+[PlayBgm]=02:33:03	BGM/SD_BGM/sdbgm20	02:44:01;
+
+[CreateBG]=02:33:04	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-014	02:35:04;
+
+[PrintText]=02:33:12	Kotonoha	...	02:34:11;
+
+[PlayVoice]=02:33:12	Voice05/05-5O/05-5O-E07/05-5O-E07-0450	0	xxx	02:34:11;
+
+[PlaySe]=02:35:04	1	Voice05/05-5O/05-5O-E07/05-5O-E07-0510	02:42:23;
+
+[CreateBG]=02:35:04	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-015	02:40:04;
+
+[CreateBG]=02:40:04	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-017	02:42:05;
+
+[PrintText]=02:40:17	Makoto	Haah...	02:41:20;
+
+[PlayVoice]=02:40:17	Voice05/05-5O/05-5O-E07/05-5O-E07-0520	1	mak	02:41:20;
+
+[CreateBG]=02:42:05	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-018	02:44:00;
+
+[PrintText]=02:42:14	Nanami	...	02:43:15;
+
+[PlayVoice]=02:42:14	Voice05/05-5O/05-5O-E07/05-5O-E07-0540	0	xxx	02:43:15;
+
+[PlaySe]=02:42:23	1	Voice05/05-5O/05-5O-E07/05-5O-E07-0511	02:44:01;
+
+[CreateBG]=02:44:00	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-019	02:47:00;
+
+[CreateBG]=02:47:00	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-020	02:48:14;
+
+[PrintText]=02:47:07	Makoto	Bien...	02:48:09;
+
+[PlayVoice]=02:47:07	Voice05/05-5O/05-5O-E07/05-5O-E07-0570	1	mak	02:48:09;
+
+[CreateBG]=02:48:14	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-021	02:52:11;
+
+[PrintText]=02:48:23	Taisuke	Ah, Makoto. ¿Irás a almorzar?^	02:51:00;
+
+[PlayVoice]=02:48:23	Voice05/05-5O/05-5O-E07/05-5O-E07-0580	1	tai	02:51:00;
+
+[PrintText]=02:51:12	Makoto	Sí.	02:52:06;
+
+[PlayVoice]=02:51:12	Voice05/05-5O/05-5O-E07/05-5O-E07-0590	1	mak	02:52:06;
+
+[CreateBG]=02:52:11	BGS	Event05/05-5O/05-5O-E07/05-5O-E07-022	03:02:18;
+
+[PrintText]=02:52:15	Taisuke	¿Vamos a la tienda de afuera? Acaban de traer un nuevo saber de las Cup Noddle.	02:56:17;
+
+[PlayVoice]=02:52:15	Voice05/05-5O/05-5O-E07/05-5O-E07-0600	1	tai	02:56:17;
+
+[SetSELECT]=02:56:18	*Ir*	*Rechazar*	03:01:18;
+
+[PrintText]=02:57:05	Makoto	Pues...	02:57:21;
+
+[PlayVoice]=02:57:05	Voice05/05-5O/05-5O-E07/05-5O-E07-0610	1	mak	02:57:21;
+
+ ;
+
+[Next]=03:02:18;
+
+

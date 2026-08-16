@@ -1,0 +1,399 @@
+﻿[SkipFRAME]=03:39:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	01:19:14;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	01:08:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-001	00:08:10;
+
+[PrintText]=00:00:00	Kotonoha	Wow... es increíble.	00:03:02;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-H00/04-KE-H00-0050	0	kot	00:03:02;
+
+[PrintText]=00:02:21	Taisuke	No tenía idea de que podría haber un lugar así en Sakakino-cho...	00:06:06;
+
+[PlayVoice]=00:02:21	Voice04/04-KE/04-KE-H00/04-KE-H00-0060	1	tai	00:06:06;
+
+[PrintText]=00:05:22	Makoto	Sí.	00:06:21;
+
+[PlayVoice]=00:05:22	Voice04/04-KE/04-KE-H00/04-KE-H00-0070	1	mak	00:06:21;
+
+[PrintText]=00:06:19	Kotonoha	Makoto-kun, Makoto-kun.	00:08:13;
+
+[PlayVoice]=00:06:19	Voice04/04-KE/04-KE-H00/04-KE-H00-0080	0	kot	00:08:13;
+
+[CreateBG]=00:08:10	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-002	00:15:15;
+
+[PrintText]=00:08:10	Makoto	¿Hmn?^	00:09:00;
+
+[PlayVoice]=00:08:10	Voice04/04-KE/04-KE-H00/04-KE-H00-0090	1	mak	00:09:00;
+
+[PrintText]=00:09:03	Kotonoha	¡Mira! ¿Qué piensas? ¿No es lindo?^	00:12:22;
+
+[PlayVoice]=00:09:03	Voice04/04-KE/04-KE-H00/04-KE-H00-0100	0	kot	00:12:22;
+
+[PrintText]=00:12:20	Makoto	Hmm... No lo sé...	00:15:20;
+
+[PlayVoice]=00:12:20	Voice04/04-KE/04-KE-H00/04-KE-H00-0110	1	mak	00:15:20;
+
+[CreateBG]=00:15:15	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-003	00:32:08;
+
+[PrintText]=00:15:15	Kotonoha	Ya veo... ¿Qué tal este?^	00:19:18;
+
+[PlayVoice]=00:15:15	Voice04/04-KE/04-KE-H00/04-KE-H00-0120	0	kot	00:19:18;
+
+[PrintText]=00:19:15	Makoto	Te gustan estas cosas lujosas ¿Huh?^	00:22:14;
+
+[PlayVoice]=00:19:15	Voice04/04-KE/04-KE-H00/04-KE-H00-0130	1	mak	00:22:14;
+
+[PrintText]=00:22:13	Kotonoha	No es verdad. ¿Cuál te gusta a ti?^	00:27:06;
+
+[PlayVoice]=00:22:13	Voice04/04-KE/04-KE-H00/04-KE-H00-0140	0	kot	00:27:06;
+
+[PrintText]=00:27:00	Makoto	¿A mí? Hmm... cosas como estas, supongo.	00:32:12;
+
+[PlayVoice]=00:27:00	Voice04/04-KE/04-KE-H00/04-KE-H00-0150	1	mak	00:32:12;
+
+[CreateBG]=00:32:08	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-004	00:47:18;
+
+[PrintText]=00:32:10	Kotonoha	Ah... un portaretrato.	00:35:07;
+
+[PlayVoice]=00:32:10	Voice04/04-KE/04-KE-H00/04-KE-H00-0160	0	kot	00:35:07;
+
+[PrintText]=00:35:03	Makoto	Lo sé, se ve algo pasado de moda cuando ya todos usan celulares, pero ¿No se ve bien?^	00:43:12;
+
+[PlayVoice]=00:35:03	Voice04/04-KE/04-KE-H00/04-KE-H00-0180	1	mak	00:43:12;
+
+[PrintText]=00:43:12	Kotonoha	Sí... pero no es un poco...	00:47:19;
+
+[PlayVoice]=00:43:12	Voice04/04-KE/04-KE-H00/04-KE-H00-0190	0	kot	00:47:19;
+
+[CreateBG]=00:47:18	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-005	00:49:03;
+
+[PrintText]=00:47:18	Makoto	¿Un poco..?^	00:48:21;
+
+[PlayVoice]=00:47:18	Voice04/04-KE/04-KE-H00/04-KE-H00-0200	1	mak	00:48:21;
+
+[CreateBG]=00:49:03	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-006	00:50:20;
+
+[PrintText]=00:49:07	Kotonoha	Un poco lujoso...	00:51:00;
+
+[PlayVoice]=00:49:07	Voice04/04-KE/04-KE-H00/04-KE-H00-0210	0	kot	00:51:00;
+
+[CreateBG]=00:50:20	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-007	00:54:19;
+
+[PrintText]=00:50:20	Makoto	Uwah... hahaha...	00:54:15;
+
+[PlayVoice]=00:50:20	Voice04/04-KE/04-KE-H00/04-KE-H00-0220	1	mak	00:54:15;
+
+[CreateBG]=00:54:19	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-008	00:56:04;
+
+[PrintText]=00:55:13	Taisuke	¡Hey! ¡Makoto!	00:57:18;
+
+[PlayVoice]=00:55:13	Voice04/04-KE/04-KE-H00/04-KE-H00-0250	1	tai	00:57:18;
+
+[CreateBG]=00:56:04	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-009	00:57:15;
+
+[CreateBG]=00:57:15	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-010	01:04:08;
+
+[PrintText]=00:57:15	Makoto	¿Qué?^	00:58:15;
+
+[PlayVoice]=00:57:15	Voice04/04-KE/04-KE-H00/04-KE-H00-0260	1	mak	00:58:15;
+
+[PrintText]=00:58:20	Taisuke	¿Olvidaste el por qué vinimos hoy?^	01:01:13;
+
+[PlayVoice]=00:58:20	Voice04/04-KE/04-KE-H00/04-KE-H00-0270	1	tai	01:01:13;
+
+[PrintText]=01:01:11	Kotonoha	Ah... es cierto.	01:04:04;
+
+[PlayVoice]=01:01:11	Voice04/04-KE/04-KE-H00/04-KE-H00-0280	0	kot	01:04:04;
+
+[CreateBG]=01:04:08	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-011	01:19:14;
+
+[PrintText]=01:04:11	Makoto	Haah... ya sé.	01:07:05;
+
+[PlayVoice]=01:04:11	Voice04/04-KE/04-KE-H00/04-KE-H00-0290	1	mak	01:07:05;
+
+[PrintText]=01:07:06	Taisuke	Vale, entonces. Katsura-san, ¿Por qué no vienes conmigo a ver estas cosas de aquí?^	01:12:20;
+
+[PlayVoice]=01:07:06	Voice04/04-KE/04-KE-H00/04-KE-H00-0300	1	tai	01:12:20;
+
+[PlaySe]=01:08:08	2	SysSe/SE_all/gaya/syoutengai	02:16:15;
+
+[PrintText]=01:12:14	Kotonoha	Uwah... es tan lujoso y a la vez raro... pero hermoso.	01:17:01;
+
+[PlayVoice]=01:12:14	Voice04/04-KE/04-KE-H00/04-KE-H00-0310	0	kot	01:17:01;
+
+[PrintText]=01:16:17	Taisuke	Haha... bueno, vamos a verlo.	01:19:10;
+
+[PlayVoice]=01:16:17	Voice04/04-KE/04-KE-H00/04-KE-H00-0320	1	tai	01:19:10;
+
+[CreateBG]=01:19:14	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-012	01:21:14;
+
+[PrintText]=01:19:22	Makoto	Ahora... entonces...	01:21:12;
+
+[PlayVoice]=01:19:22	Voice04/04-KE/04-KE-H00/04-KE-H00-0340	1	mak	01:21:12;
+
+[CreateBG]=01:21:14	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-013	01:24:10;
+
+[PrintText]=01:21:17	Sekai	...	01:22:08;
+
+[PlayVoice]=01:21:17	Voice04/04-KE/04-KE-H00/04-KE-H00-0350	0	xxx	01:22:08;
+
+[PrintText]=01:22:13	Makoto	¿Bonito, huh? Es la primera vez que lo veo, pero puedo comprarlo si quiero.	01:28:17;
+
+[PlayVoice]=01:22:13	Voice04/04-KE/04-KE-H00/04-KE-H00-0370	1	mak	01:28:17;
+
+[CreateBG]=01:24:10	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-014	01:33:09;
+
+[PrintText]=01:28:21	Sekai	Es el tipo de cosas que comprarías.	01:31:06;
+
+[PlayVoice]=01:28:21	Voice04/04-KE/04-KE-H00/04-KE-H00-0380	0	sek	01:31:06;
+
+[PrintText]=01:30:19	Makoto	¿En serio?^	01:32:02;
+
+[PlayVoice]=01:30:19	Voice04/04-KE/04-KE-H00/04-KE-H00-0390	1	mak	01:32:02;
+
+[PrintText]=01:32:10	Sekai	Uh-huh...	01:33:02;
+
+[PlayVoice]=01:32:10	Voice04/04-KE/04-KE-H00/04-KE-H00-0400	0	sek	01:33:02;
+
+[CreateBG]=01:33:09	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-015	01:39:08;
+
+[PrintText]=01:33:12	Makoto	¿Qué hay de ti? ¿Te gustan este tipo de cosas?^	01:36:06;
+
+[PlayVoice]=01:33:12	Voice04/04-KE/04-KE-H00/04-KE-H00-0410	1	mak	01:36:06;
+
+[PrintText]=01:36:10	Sekai	Sí.	01:37:01;
+
+[PlayVoice]=01:36:10	Voice04/04-KE/04-KE-H00/04-KE-H00-0420	0	sek	01:37:01;
+
+[PrintText]=01:37:07	Makoto	¡Ya veo... espera- ah!	01:40:16;
+
+[PlayVoice]=01:37:07	Voice04/04-KE/04-KE-H00/04-KE-H00-0430	1	mak	01:40:16;
+
+[CreateBG]=01:39:08	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-016	01:40:18;
+
+[CreateBG]=01:40:18	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-017	01:44:17;
+
+[PrintText]=01:41:01	Makoto	Ah...	01:42:08;
+
+[PlayVoice]=01:41:01	Voice04/04-KE/04-KE-H00/04-KE-H00-0450	1	mak	01:42:08;
+
+[PlaySe]=01:42:18	1	SysSe/SE_all/other/register	01:44:00;
+
+[CreateBG]=01:44:17	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-018	01:56:14;
+
+[PrintText]=01:44:20	Sekai	Lo compraré.	01:46:00;
+
+[PlayVoice]=01:44:20	Voice04/04-KE/04-KE-H00/04-KE-H00-0470	0	sek	01:46:00;
+
+[PrintText]=01:46:00	Makoto	Ah... ¿Te a gustado eh?^	01:52:07;
+
+[PlayVoice]=01:46:00	Voice04/04-KE/04-KE-H00/04-KE-H00-0480	1	mak	01:52:07;
+
+[PrintText]=01:52:07	Sekai	¿Y tú?^	01:53:06;
+
+[PlayVoice]=01:52:07	Voice04/04-KE/04-KE-H00/04-KE-H00-0490	0	sek	01:53:06;
+
+[PrintText]=01:53:06	Makoto	S-Sí, también compraré uno...	01:56:13;
+
+[PlayVoice]=01:53:06	Voice04/04-KE/04-KE-H00/04-KE-H00-0500	1	mak	01:56:13;
+
+[CreateBG]=01:56:14	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-019	02:01:21;
+
+[PrintText]=01:56:14	Sekai	Uh-huh...	01:57:07;
+
+[PlayVoice]=01:56:14	Voice04/04-KE/04-KE-H00/04-KE-H00-0520	0	sek	01:57:07;
+
+[PrintText]=01:57:06	Makoto	Es perfecto... bonito y barato también...	02:01:21;
+
+[PlayVoice]=01:57:06	Voice04/04-KE/04-KE-H00/04-KE-H00-0540	1	mak	02:01:21;
+
+[CreateBG]=02:01:21	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-020	02:05:00;
+
+[PrintText]=02:01:21	Sekai	¿Qué?^	02:02:18;
+
+[PlayVoice]=02:01:21	Voice04/04-KE/04-KE-H00/04-KE-H00-0550	0	sek	02:02:18;
+
+[PrintText]=02:02:18	Makoto	Oh, nada.	02:04:07;
+
+[PlayVoice]=02:02:18	Voice04/04-KE/04-KE-H00/04-KE-H00-0560	1	mak	02:04:07;
+
+[PrintText]=02:04:07	Sekai	Ya veo.	02:05:00;
+
+[PlayVoice]=02:04:07	Voice04/04-KE/04-KE-H00/04-KE-H00-0570	0	sek	02:05:00;
+
+[CreateBG]=02:05:00	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-021	02:13:03;
+
+[PrintText]=02:05:01	Makoto	Hey, Sekai.	02:06:16;
+
+[PlayVoice]=02:05:01	Voice04/04-KE/04-KE-H00/04-KE-H00-0580	1	mak	02:06:16;
+
+[PrintText]=02:06:16	Sekai	Uh-huh.	02:07:06;
+
+[PlayVoice]=02:06:16	Voice04/04-KE/04-KE-H00/04-KE-H00-0590	0	sek	02:07:06;
+
+[PrintText]=02:07:06	Makoto	¿Quieres ir a ver algo por ahí por si te gusta?^	02:10:23;
+
+[PlayVoice]=02:07:06	Voice04/04-KE/04-KE-H00/04-KE-H00-0600	1	mak	02:10:23;
+
+[PrintText]=02:10:23	Sekai	Seguro, vamos.	02:13:03;
+
+[PlayVoice]=02:10:23	Voice04/04-KE/04-KE-H00/04-KE-H00-0610	0	sek	02:13:03;
+
+[CreateBG]=02:13:03	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-022	02:14:19;
+
+[BlackFade]=02:14:07	OUT	02:14:19;
+
+[CreateBG]=02:14:19	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-023	02:21:13;
+
+[BlackFade]=02:14:19	IN	02:15:07;
+
+[PrintText]=02:15:07	Makoto	Haah...	02:16:09;
+
+[PlayVoice]=02:15:07	Voice04/04-KE/04-KE-H00/04-KE-H00-0650	1	mak	02:16:09;
+
+[PrintText]=02:16:16	Sekai	...	02:17:05;
+
+[PlayVoice]=02:16:16	Voice04/04-KE/04-KE-H00/04-KE-H00-0660	0	xxx	02:17:05;
+
+[PrintText]=02:17:10	Makoto	Parece que no había nada...	02:21:15;
+
+[PlayVoice]=02:17:10	Voice04/04-KE/04-KE-H00/04-KE-H00-0670	1	mak	02:21:15;
+
+[PlaySe]=02:18:20	1	SysSe/SE_all/gaya/syoutengai	03:27:04;
+
+[CreateBG]=02:21:13	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-024	02:32:12;
+
+[PrintText]=02:21:21	Sekai	Es solo que no me gustaban.	02:23:21;
+
+[PlayVoice]=02:21:21	Voice04/04-KE/04-KE-H00/04-KE-H00-0680	0	sek	02:23:21;
+
+[PrintText]=02:24:04	Makoto	Sí, lo sé. Nada que quieras comprar ¿No?^	02:29:13;
+
+[PlayVoice]=02:24:04	Voice04/04-KE/04-KE-H00/04-KE-H00-0690	1	mak	02:29:13;
+
+[PrintText]=02:29:15	Sekai	Sí.	02:30:06;
+
+[PlayVoice]=02:29:15	Voice04/04-KE/04-KE-H00/04-KE-H00-0700	0	sek	02:30:06;
+
+[PrintText]=02:30:10	Makoto	Haah... esto no tiene remedio.	02:32:11;
+
+[PlayVoice]=02:30:10	Voice04/04-KE/04-KE-H00/04-KE-H00-0710	1	mak	02:32:11;
+
+[CreateBG]=02:32:12	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-025	02:34:23;
+
+[PrintText]=02:32:13	Sekai	¿No tiene remedio?^	02:33:13;
+
+[PlayVoice]=02:32:13	Voice04/04-KE/04-KE-H00/04-KE-H00-0720	0	sek	02:33:13;
+
+[PrintText]=02:33:17	Makoto	La pres... oh, uh, nada.	02:37:01;
+
+[PlayVoice]=02:33:17	Voice04/04-KE/04-KE-H00/04-KE-H00-0730	1	mak	02:37:01;
+
+[CreateBG]=02:34:23	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-026	02:43:05;
+
+[PrintText]=02:37:04	Sekai	¿...?^	02:37:18;
+
+[PlayVoice]=02:37:04	Voice04/04-KE/04-KE-H00/04-KE-H00-0740	0	sek	02:37:18;
+
+[PrintText]=02:37:18	Makoto	Como sea, se está poniendo oscuro. ¿Deberíamos volver?^	02:43:03;
+
+[PlayVoice]=02:37:18	Voice04/04-KE/04-KE-H00/04-KE-H00-0750	1	mak	02:43:03;
+
+[CreateBG]=02:43:05	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-027	02:50:23;
+
+[PrintText]=02:43:11	Sekai	¿Qué hay de Sawanaga y Katsura-san?^	02:45:14;
+
+[PlayVoice]=02:43:11	Voice04/04-KE/04-KE-H00/04-KE-H00-0760	0	sek	02:45:14;
+
+[PrintText]=02:45:19	Makoto	¿A dónde fueron? Ah, ya los ví.	02:50:19;
+
+[PlayVoice]=02:45:19	Voice04/04-KE/04-KE-H00/04-KE-H00-0770	1	mak	02:50:19;
+
+[PlayBgm]=02:50:23	BGM/SD_BGM/sdbgm16	03:38:02;
+
+[CreateBG]=02:50:23	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-028	03:07:11;
+
+[PrintText]=02:51:06	Taisuke	Haah... haah...	02:54:18;
+
+[PlayVoice]=02:51:06	Voice04/04-KE/04-KE-H00/04-KE-H00-0780	1	tai	02:54:18;
+
+[PrintText]=02:54:18	Kotonoha	Regresamos.	02:56:00;
+
+[PlayVoice]=02:54:18	Voice04/04-KE/04-KE-H00/04-KE-H00-0790	0	kot	02:56:00;
+
+[PrintText]=02:56:01	Makoto	¿A dónde fueron?^	02:58:05;
+
+[PlayVoice]=02:56:01	Voice04/04-KE/04-KE-H00/04-KE-H00-0800	1	mak	02:58:05;
+
+[PrintText]=02:58:05	Taisuke	Por todo el edificio.	03:00:16;
+
+[PlayVoice]=02:58:05	Voice04/04-KE/04-KE-H00/04-KE-H00-0810	1	tai	03:00:16;
+
+[PrintText]=03:00:17	Makoto	Wow. ¿Encontraron algo bueno?^	03:04:02;
+
+[PlayVoice]=03:00:17	Voice04/04-KE/04-KE-H00/04-KE-H00-0820	1	mak	03:04:02;
+
+[PrintText]=03:04:02	Taisuke	Katsura-san encontró muchas cosas.	03:07:07;
+
+[PlayVoice]=03:04:02	Voice04/04-KE/04-KE-H00/04-KE-H00-0830	1	tai	03:07:07;
+
+[CreateBG]=03:07:11	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-029	03:15:23;
+
+[PrintText]=03:07:11	Makoto	¿Eh?^	03:08:02;
+
+[PlayVoice]=03:07:11	Voice04/04-KE/04-KE-H00/04-KE-H00-0840	1	mak	03:08:02;
+
+[PrintText]=03:08:02	Kotonoha	Habían muchas cosas que quería que termine comprándola todas.	03:13:14;
+
+[PlayVoice]=03:08:02	Voice04/04-KE/04-KE-H00/04-KE-H00-0850	0	kot	03:13:14;
+
+[PrintText]=03:13:14	Makoto	¿Huh? ¿Donde están las bolsas, entonces?^	03:16:00;
+
+[PlayVoice]=03:13:14	Voice04/04-KE/04-KE-H00/04-KE-H00-0860	1	mak	03:16:00;
+
+[CreateBG]=03:15:23	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-030	03:32:23;
+
+[PrintText]=03:16:00	Kotonoha	Sawanaga-san las cargo por mí.	03:19:02;
+
+[PlayVoice]=03:16:00	Voice04/04-KE/04-KE-H00/04-KE-H00-0870	0	kot	03:19:02;
+
+[PrintText]=03:19:02	Makoto	Por eso te ves cansado...	03:21:04;
+
+[PlayVoice]=03:19:02	Voice04/04-KE/04-KE-H00/04-KE-H00-0880	1	mak	03:21:04;
+
+[PrintText]=03:21:04	Taisuke	Exacto...	03:22:23;
+
+[PlayVoice]=03:21:04	Voice04/04-KE/04-KE-H00/04-KE-H00-0890	1	tai	03:22:23;
+
+[PrintText]=03:23:00	Kotonoha	Pero como llevábamos mucho, lo llevaron a mi casa.	03:28:04;
+
+[PlayVoice]=03:23:00	Voice04/04-KE/04-KE-H00/04-KE-H00-0900	0	kot	03:28:04;
+
+[PlaySe]=03:27:04	2	SysSe/SE_all/gaya/syoutengai	03:38:02;
+
+[PrintText]=03:28:04	Makoto	Ya veo. Eso explica lo de antes.	03:33:00;
+
+[PlayVoice]=03:28:04	Voice04/04-KE/04-KE-H00/04-KE-H00-0910	1	mak	03:33:00;
+
+[CreateBG]=03:32:23	BGS	Event04/04-KE/04-KE-H00/04-KE-H00-028	03:38:02;
+
+[PrintText]=03:33:00	Kotonoha	Sí.	03:33:17;
+
+[PlayVoice]=03:33:00	Voice04/04-KE/04-KE-H00/04-KE-H00-0920	0	kot	03:33:17;
+
+[PrintText]=03:33:17	Taisuke	Uuh... Me duele todo.	03:39:00;
+
+[PlayVoice]=03:33:17	Voice04/04-KE/04-KE-H00/04-KE-H00-0930	1	tai	03:39:00;
+
+[BlackFade]=03:37:02	OUT	03:38:02;
+
+[CreateBG]=03:38:02	BGS	System/Screen/Black	03:39:00;
+
+ ;
+
+[Next]=03:39:00;
+
+

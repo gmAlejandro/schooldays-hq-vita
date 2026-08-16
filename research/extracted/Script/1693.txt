@@ -1,0 +1,28 @@
+﻿[SkipFRAME]=00:09:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:09:01;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-H03/05-SA-H03-001	00:05:11;
+
+[PrintText]=00:00:23	Makoto	...	00:02:01;
+
+[PlayVoice]=00:00:23	Voice05/05-SA/05-SA-H03/05-SA-H03-0030	1	xxx	00:02:01;
+
+[PrintText]=00:02:06	Kotonoha	...	00:04:01;
+
+[PlayVoice]=00:02:06	Voice05/05-SA/05-SA-H03/05-SA-H03-0040	0	xxx	00:04:01;
+
+[PrintText]=00:04:12	Makoto	...Vale.	00:05:04;
+
+[PlayVoice]=00:04:12	Voice05/05-SA/05-SA-H03/05-SA-H03-0050	1	mak	00:05:04;
+
+[CreateBG]=00:05:11	BGS	Event05/05-SA/05-SA-H03/05-SA-H03-002	00:09:01;
+
+[BlackFade]=00:08:07	OUT	00:09:01;
+
+ ;
+
+[Next]=00:09:01;
+
+
+

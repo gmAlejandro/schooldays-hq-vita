@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:24:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:24:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-G10/04-KA-G10-001	00:02:07;
+
+[PrintText]=00:02:04	Makoto	Buen día.	00:03:04;
+
+[PlayVoice]=00:02:04	Voice04/04-KA/04-KA-G10/04-KA-G10-0030	1	mak	00:03:04;
+
+[CreateBG]=00:02:07	BGS	Event04/04-KA/04-KA-G10/04-KA-G10-002	00:05:17;
+
+[PrintText]=00:03:04	Sekai	Buen día. Has llegado tarde.	00:05:18;
+
+[PlayVoice]=00:03:04	Voice04/04-KA/04-KA-G10/04-KA-G10-0040	0	sek	00:05:18;
+
+[CreateBG]=00:05:17	BGS	Event04/04-KA/04-KA-G10/04-KA-G10-003	00:07:14;
+
+[PrintText]=00:06:02	Makoto	S-Sí.	00:07:13;
+
+[PlayVoice]=00:06:02	Voice04/04-KA/04-KA-G10/04-KA-G10-0050	1	mak	00:07:13;
+
+[CreateBG]=00:07:14	BGS	Event04/04-KA/04-KA-G10/04-KA-G10-004	00:11:23;
+
+[PrintText]=00:08:04	Sekai	¿Qué pasa? te ves un poco triste.	00:11:23;
+
+[PlayVoice]=00:08:04	Voice04/04-KA/04-KA-G10/04-KA-G10-0060	0	sek	00:11:23;
+
+[CreateBG]=00:11:23	BGS	Event04/04-KA/04-KA-G10/04-KA-G10-005	00:15:14;
+
+[PrintText]=00:12:10	Makoto	No del todo... estoy bien.	00:15:12;
+
+[PlayVoice]=00:12:10	Voice04/04-KA/04-KA-G10/04-KA-G10-0070	1	mak	00:15:12;
+
+[CreateBG]=00:15:14	BGS	Event04/04-KA/04-KA-G10/04-KA-G10-006	00:24:02;
+
+[PrintText]=00:15:18	Sekai	¿En serio? Bueno, a cambio yo, no me siento muy bien. Ahaha...	00:22:20;
+
+[PlayVoice]=00:15:18	Voice04/04-KA/04-KA-G10/04-KA-G10-0080	0	sek	00:22:20;
+
+ ;
+
+[Next]=00:24:02;
+
+

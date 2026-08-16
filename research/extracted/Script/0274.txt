@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:02:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:02:22;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-O07/02-2K-O07-001	00:02:22;
+
+[PrintText]=00:00:06	Makoto	Ahora lo entiendo.	00:01:09;
+
+[PlayVoice]=00:00:06	Voice02/02-2K/02-2K-O07/02-2K-O07-0030	1	mak	00:01:09;
+
+[BlackFade]=00:01:22	OUT	00:02:22;
+
+ ;
+
+[Next]=00:02:22;
+
+
+
+

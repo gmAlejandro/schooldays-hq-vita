@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:14:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L05/03-KA-L05-001	00:05:20;
+
+[PrintText]=00:00:10	Makoto	No, probablemente es mejor no pensar en ello.	00:05:08;
+
+[PlayVoice]=00:00:10	Voice03/03-KA/03-KA-L05/03-KA-L05-0030	1	xxx	00:05:08;
+
+[CreateBG]=00:05:20	BGS	Event03/03-KA/03-KA-L05/03-KA-L05-002	00:10:20;
+
+[PrintText]=00:06:05	Makoto	No es hora de sacar conclusiones.	00:10:15;
+
+[PlayVoice]=00:06:05	Voice03/03-KA/03-KA-L05/03-KA-L05-0040	1	xxx	00:10:15;
+
+[CreateBG]=00:10:20	BGS	Event03/03-KA/03-KA-L05/03-KA-L05-003	00:14:11;
+
+[PrintText]=00:11:11	Makoto	Lo que estoy sintiendo...	00:12:21;
+
+[PlayVoice]=00:11:11	Voice03/03-KA/03-KA-L05/03-KA-L05-0050	1	xxx	00:12:21;
+
+[BlackFade]=00:13:11	OUT	00:14:11;
+
+ ;
+
+[Next]=00:14:11;
+
+

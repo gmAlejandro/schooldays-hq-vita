@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:28:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	00:28:09;
+
+[PlaySe]=00:00:00	1	Se05/05-KB/05-KB-A03/SE05-KB-A03-001	00:03:01;
+
+[PlaySe]=00:00:00	2	Se05/05-KB/05-KB-A03/SE05-KB-A03-002	00:15:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-A03/05-KB-A03-001	00:07:22;
+
+[PrintText]=00:00:00	Kotonoha	¿Hmmn hmm hmmn...?^	00:03:03;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-A03/05-KB-A03-0030	0	kot	00:03:03;
+
+[PrintText]=00:03:03	Kokoro	Hoy de nuevo ¿No?^	00:05:09;
+
+[PlayVoice]=00:03:03	Voice05/05-KB/05-KB-A03/05-KB-A03-0060	0	kok	00:05:09;
+
+[PlaySe]=00:05:08	1	Se05/05-KB/05-KB-A03/SE05-KB-A03-001	00:08:09;
+
+[PrintText]=00:05:09	Madre de Kotonoha	Tal vez las cosas no fueron bien después de todo.	00:08:00;
+
+[PlayVoice]=00:05:09	Voice05/05-KB/05-KB-A03/05-KB-A03-0070	0	man	00:08:00;
+
+[CreateBG]=00:07:22	BGS	Event05/05-KB/05-KB-A03/05-KB-A03-002	00:19:16;
+
+[PrintText]=00:08:00	Kokoro	Lo dices por Makoto-kun ¿No? Espero que venga a jugar nuevo.	00:12:18;
+
+[PlayVoice]=00:08:00	Voice05/05-KB/05-KB-A03/05-KB-A03-0080	0	kok	00:12:18;
+
+[PlaySe]=00:11:04	1	Se05/05-KB/05-KB-A03/SE05-KB-A03-001	00:14:05;
+
+[PrintText]=00:12:18	Madre de Kotonoha	¡¡Yo también! ¡Si te enteras que va a venir, asegurate de avisarme!	00:19:00;
+
+[PlayVoice]=00:12:18	Voice05/05-KB/05-KB-A03/05-KB-A03-0090	0	man	00:19:00;
+
+[PlaySe]=00:13:02	3	Se05/05-KB/05-KB-A03/SE05-KB-A03-002	00:20:02;
+
+[PrintText]=00:19:00	Kokoro	¡Vale!	00:19:15;
+
+[PlayVoice]=00:19:00	Voice05/05-KB/05-KB-A03/05-KB-A03-0100	0	kok	00:19:15;
+
+[PlaySe]=00:19:16	2	Se05/05-KB/05-KB-A03/SE05-KB-A03-003	00:20:16;
+
+[CreateBG]=00:19:16	BGS	Event05/05-KB/05-KB-A03/05-KB-A03-003	00:21:13;
+
+[PlaySe]=00:20:03	1	Se05/05-KB/05-KB-A03/SE05-KB-A03-004	00:22:23;
+
+[PrintText]=00:20:20	Kotonoha	¡Kyah!	00:22:03;
+
+[PlayVoice]=00:20:20	Voice05/05-KB/05-KB-A03/05-KB-A03-0120	0	kot	00:22:03;
+
+[CreateBG]=00:21:13	BGS	Event05/05-KB/05-KB-A03/05-KB-A03-004	00:22:05;
+
+[PrintText]=00:22:03	Kokoro	Aunque tal vez no pase.	00:23:18;
+
+[PlayVoice]=00:22:03	Voice05/05-KB/05-KB-A03/05-KB-A03-0130	0	kok	00:23:18;
+
+[CreateBG]=00:22:05	BGS	Event05/05-KB/05-KB-A03/05-KB-A03-005	00:28:09;
+
+[PrintText]=00:23:19	Madre de Kotonoha	¡No te rindas! Hay que desearle lo mejor.	00:26:16;
+
+[PlayVoice]=00:23:19	Voice05/05-KB/05-KB-A03/05-KB-A03-0140	0	man	00:26:16;
+
+[PrintText]=00:26:16	Kokoro	Uh-huh...	00:27:10;
+
+[PlayVoice]=00:26:16	Voice05/05-KB/05-KB-A03/05-KB-A03-0150	0	kok	00:27:10;
+
+ ;
+
+[Next]=00:28:09;
+
+

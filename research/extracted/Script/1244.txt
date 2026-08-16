@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=00:26:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:26:07;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-E00/04-SC-E00-001	00:01:04;
+
+[CreateBG]=00:01:04	BGS	Event04/04-SC/04-SC-E00/04-SC-E00-002	00:06:01;
+
+[PrintText]=00:01:10	Kotonoha	Haah... Llegué tarde a la reunión.	00:06:04;
+
+[PlayVoice]=00:01:10	Voice04/04-SC/04-SC-E00/04-SC-E00-0040	0	kot	00:06:04;
+
+[CreateBG]=00:06:01	BGS	Event04/04-SC/04-SC-E00/04-SC-E00-003	00:07:02;
+
+[PrintText]=00:06:03	Nanami	Katsura.	00:07:02;
+
+[PlayVoice]=00:06:03	Voice04/04-SC/04-SC-E00/04-SC-E00-0050	0	nan	00:07:02;
+
+[CreateBG]=00:07:02	BGS	Event04/04-SC/04-SC-E00/04-SC-E00-004	00:11:01;
+
+[PrintText]=00:07:02	Kotonoha	Ah... Kanroji-san.	00:09:23;
+
+[PlayVoice]=00:07:02	Voice04/04-SC/04-SC-E00/04-SC-E00-0060	0	kot	00:09:23;
+
+[PrintText]=00:09:23	Nanami	¿Tienes un segundo?^	00:11:02;
+
+[PlayVoice]=00:09:23	Voice04/04-SC/04-SC-E00/04-SC-E00-0070	0	nan	00:11:02;
+
+[CreateBG]=00:11:01	BGS	Event04/04-SC/04-SC-E00/04-SC-E00-005	00:14:15;
+
+[PrintText]=00:11:01	Kotonoha	U-um... Estoy algo apurada.	00:14:18;
+
+[PlayVoice]=00:11:01	Voice04/04-SC/04-SC-E00/04-SC-E00-0080	0	kot	00:14:18;
+
+[CreateBG]=00:14:15	BGS	Event04/04-SC/04-SC-E00/04-SC-E00-006	00:16:05;
+
+[PrintText]=00:14:19	Nanami	¿Itou te está esperando?^	00:16:08;
+
+[PlayVoice]=00:14:19	Voice04/04-SC/04-SC-E00/04-SC-E00-0090	0	nan	00:16:08;
+
+[CreateBG]=00:16:05	BGS	Event04/04-SC/04-SC-E00/04-SC-E00-007	00:17:03;
+
+[PrintText]=00:16:07	Kotonoha	¿Eh...?^	00:17:04;
+
+[PlayVoice]=00:16:07	Voice04/04-SC/04-SC-E00/04-SC-E00-0100	0	kot	00:17:04;
+
+[CreateBG]=00:17:03	BGS	Event04/04-SC/04-SC-E00/04-SC-E00-007B	00:26:07;
+
+[PrintText]=00:17:04	Nanami	¿Y bien?^	00:18:05;
+
+[PlayVoice]=00:17:04	Voice04/04-SC/04-SC-E00/04-SC-E00-0110	0	nan	00:18:05;
+
+[PrintText]=00:18:05	Kotonoha	...Sí.	00:19:05;
+
+[PlayVoice]=00:18:05	Voice04/04-SC/04-SC-E00/04-SC-E00-0120	0	kot	00:19:05;
+
+[PrintText]=00:19:05	Nanami	De eso quería hablar... Vendrás ¿No?^	00:24:11;
+
+[PlayVoice]=00:19:05	Voice04/04-SC/04-SC-E00/04-SC-E00-0130	0	nan	00:24:11;
+
+[PrintText]=00:24:11	Kotonoha	Sí.	00:25:07;
+
+[PlayVoice]=00:24:11	Voice04/04-SC/04-SC-E00/04-SC-E00-0140	0	kot	00:25:07;
+
+ ;
+
+[Next]=00:26:07;
+
+

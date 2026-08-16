@@ -1,0 +1,139 @@
+﻿[SkipFRAME]=00:56:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:02:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-D01/03-A1-D01-001	00:04:08;
+
+[PrintText]=00:00:00	Makoto	Sí, estamos saliendo.	00:01:06;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-D01/03-A1-D01-0030	1	mak	00:01:06;
+
+[PrintText]=00:01:16	Setsuna	...	00:02:13;
+
+[PlayVoice]=00:01:16	Voice03/03-A1/03-A1-D01/03-A1-D01-0040	0	xxx	00:02:13;
+
+[PrintText]=00:02:20	Makoto	¿Hay algún problema?^	00:04:03;
+
+[PlayVoice]=00:02:20	Voice03/03-A1/03-A1-D01/03-A1-D01-0050	1	mak	00:04:03;
+
+[CreateBG]=00:04:08	BGS	Event03/03-A1/03-A1-D01/03-A1-D01-002	00:08:04;
+
+[PrintText]=00:04:13	Setsuna	Eso lo explica todo.	00:06:07;
+
+[PlayVoice]=00:04:13	Voice03/03-A1/03-A1-D01/03-A1-D01-0060	0	set	00:06:07;
+
+[PrintText]=00:06:12	Makoto	Me alegra oírlo.	00:07:22;
+
+[PlayVoice]=00:06:12	Voice03/03-A1/03-A1-D01/03-A1-D01-0070	1	mak	00:07:22;
+
+[CreateBG]=00:08:04	BGS	Event03/03-A1/03-A1-D01/03-A1-D01-003	00:29:00;
+
+[PrintText]=00:08:07	Setsuna	En otras palabras, esto pasó porque ustedes dos estaban discutiendo.	00:12:06;
+
+[PlayVoice]=00:08:07	Voice03/03-A1/03-A1-D01/03-A1-D01-0090	0	set	00:12:06;
+
+[PrintText]=00:12:08	Makoto	¿'Esto'?^	00:13:05;
+
+[PlayVoice]=00:12:08	Voice03/03-A1/03-A1-D01/03-A1-D01-0100	1	mak	00:13:05;
+
+[PrintText]=00:13:08	Setsuna	En el almuerzo.	00:14:07;
+
+[PlayVoice]=00:13:08	Voice03/03-A1/03-A1-D01/03-A1-D01-0110	0	set	00:14:07;
+
+[PrintText]=00:14:12	Makoto	¿Almuerzo?^	00:15:04;
+
+[PlayVoice]=00:14:12	Voice03/03-A1/03-A1-D01/03-A1-D01-0120	1	mak	00:15:04;
+
+[PrintText]=00:15:13	Setsuna	Podrías decir que Katsura-san vino a pedir ayuda, pero la ignoraste.	00:21:19;
+
+[PlayVoice]=00:15:13	Voice03/03-A1/03-A1-D01/03-A1-D01-0130	0	set	00:21:19;
+
+[PrintText]=00:21:19	Makoto	Ella no vino aquí para pedirme ayuda.	00:24:03;
+
+[PlayVoice]=00:21:19	Voice03/03-A1/03-A1-D01/03-A1-D01-0140	1	mak	00:24:03;
+
+[PrintText]=00:24:03	Setsuna	¿En serio?^	00:24:22;
+
+[PlayVoice]=00:24:03	Voice03/03-A1/03-A1-D01/03-A1-D01-0150	0	set	00:24:22;
+
+[PrintText]=00:24:22	Makoto	Lo has malentendido.	00:26:13;
+
+[PlayVoice]=00:24:22	Voice03/03-A1/03-A1-D01/03-A1-D01-0160	1	mak	00:26:13;
+
+[PrintText]=00:26:13	Setsuna	Lo que había entendido mal fue otra cosa.	00:28:21;
+
+[PlayVoice]=00:26:13	Voice03/03-A1/03-A1-D01/03-A1-D01-0170	0	set	00:28:21;
+
+[CreateBG]=00:29:00	BGS	Event03/03-A1/03-A1-D01/03-A1-D01-004	00:30:10;
+
+[PrintText]=00:29:05	Makoto	¿Algo más?^	00:30:00;
+
+[PlayVoice]=00:29:05	Voice03/03-A1/03-A1-D01/03-A1-D01-0180	1	mak	00:30:00;
+
+[CreateBG]=00:30:10	BGS	Event03/03-A1/03-A1-D01/03-A1-D01-005	00:33:03;
+
+[PrintText]=00:30:13	Setsuna	Pensé que Sekai y tú estaban saliendo.	00:33:00;
+
+[PlayVoice]=00:30:13	Voice03/03-A1/03-A1-D01/03-A1-D01-0190	0	set	00:33:00;
+
+[CreateBG]=00:33:03	BGS	Event03/03-A1/03-A1-D01/03-A1-D01-006	00:44:08;
+
+[PrintText]=00:33:06	Makoto	...	00:34:02;
+
+[PlayVoice]=00:33:06	Voice03/03-A1/03-A1-D01/03-A1-D01-0200	1	xxx	00:34:02;
+
+[PrintText]=00:34:02	Setsuna	Pero no es así.	00:35:08;
+
+[PlayVoice]=00:34:02	Voice03/03-A1/03-A1-D01/03-A1-D01-0210	0	set	00:35:08;
+
+[PrintText]=00:35:08	Makoto	...	00:36:00;
+
+[PlayVoice]=00:35:08	Voice03/03-A1/03-A1-D01/03-A1-D01-0220	1	xxx	00:36:00;
+
+[PrintText]=00:36:03	Setsuna	La razón por la que Sekai está deprimida es porque la dejaste ir.	00:40:11;
+
+[PlayVoice]=00:36:03	Voice03/03-A1/03-A1-D01/03-A1-D01-0230	0	set	00:40:11;
+
+[PrintText]=00:40:12	Makoto	No la deje ir... ella lo hizo.	00:44:05;
+
+[PlayVoice]=00:40:12	Voice03/03-A1/03-A1-D01/03-A1-D01-0240	1	mak	00:44:05;
+
+[CreateBG]=00:44:08	BGS	Event03/03-A1/03-A1-D01/03-A1-D01-007	00:47:00;
+
+[PrintText]=00:44:10	Setsuna	...	00:44:20;
+
+[PlayVoice]=00:44:10	Voice03/03-A1/03-A1-D01/03-A1-D01-0250	0	xxx	00:44:20;
+
+[PrintText]=00:45:03	Makoto	Me dijo que vaya con Kotonoha....	00:48:22;
+
+[PlayVoice]=00:45:03	Voice03/03-A1/03-A1-D01/03-A1-D01-0260	1	mak	00:48:22;
+
+[CreateBG]=00:47:00	BGS	Event03/03-A1/03-A1-D01/03-A1-D01-008	01:02:08;
+
+[PrintText]=00:48:22	Setsuna	¿... En serio?^	00:50:03;
+
+[PlayVoice]=00:48:22	Voice03/03-A1/03-A1-D01/03-A1-D01-0270	0	set	00:50:03;
+
+[PrintText]=00:50:03	Makoto	Es la verdad.	00:51:06;
+
+[PlayVoice]=00:50:03	Voice03/03-A1/03-A1-D01/03-A1-D01-0280	1	mak	00:51:06;
+
+[PrintText]=00:51:12	Setsuna	...	00:51:22;
+
+[PlayVoice]=00:51:12	Voice03/03-A1/03-A1-D01/03-A1-D01-0290	0	xxx	00:51:22;
+
+[PrintText]=00:52:07	Makoto	Pero yo...	00:55:09;
+
+[PlayVoice]=00:52:07	Voice03/03-A1/03-A1-D01/03-A1-D01-0300	1	mak	00:55:09;
+
+[PrintText]=00:55:16	Setsuna	¿La amas?^	00:56:12;
+
+[PlayVoice]=00:55:16	Voice03/03-A1/03-A1-D01/03-A1-D01-0310	0	set	00:56:12;
+
+[SetSELECT]=00:56:07	'Ya no lo sé'	'Sí'	01:01:07;
+
+ ;
+
+[Next]=01:02:08;
+
+

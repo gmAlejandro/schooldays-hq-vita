@@ -1,0 +1,24 @@
+﻿[SkipFRAME]=00:09:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:09:13;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-A02/05-SD-A02-001	00:01:08;
+
+[PrintText]=00:00:12	Makoto	...	00:02:01;
+
+[PlayVoice]=00:00:12	Voice05/05-SD/05-SD-A02/05-SD-A02-0040	1	xxx	00:02:01;
+
+[PlayMovie]=00:01:08	Movie05/05-SD/05-SD-A02/H5-SD-A02-002	0	00:09:13;
+
+[PrintText]=00:07:11	Setsuna	Empecemos.	00:08:21;
+
+[PlayVoice]=00:07:11	Voice05/05-SD/05-SD-A02/05-SD-A02-0060	0	set	00:08:21;
+
+ ;
+
+[Next]=00:09:13;
+
+
+
+
+

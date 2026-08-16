@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:05:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:11:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	00:11:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-C00/04-SB-C00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event04/04-SB/04-SB-C00/04-SB-C00-002	00:03:00;
+
+[PrintText]=00:02:03	Makoto	Ah...	00:02:18;
+
+[PlayVoice]=00:02:03	Voice04/04-SB/04-SB-C00/04-SB-C00-0040	1	mak	00:02:18;
+
+[CreateBG]=00:03:00	BGS	Event04/04-SB/04-SB-C00/04-SB-C00-003	00:04:04;
+
+[CreateBG]=00:04:04	BGS	Event04/04-SB/04-SB-C00/04-SB-C00-004	00:05:02;
+
+[CreateBG]=00:05:02	BGS	Event04/04-SB/04-SB-C00/04-SB-C00-005	00:11:11;
+
+[SetSELECT]=00:05:10	*Llamarla*	null	00:10:10;
+
+ ;
+
+[Next]=00:11:11;
+
+

@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:31:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:31:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-E01/04-SE-E01-001	00:01:05;
+
+[PrintText]=00:00:00	Makoto	Sí, lo somos.	00:01:06;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-E01/04-SE-E01-0030	1	mak	00:01:06;
+
+[CreateBG]=00:01:05	BGS	Event04/04-SE/04-SE-E01/04-SE-E01-002	00:11:05;
+
+[PrintText]=00:01:06	Sekai	¿Eh?^	00:02:02;
+
+[PlayVoice]=00:01:06	Voice04/04-SE/04-SE-E01/04-SE-E01-0040	0	sek	00:02:02;
+
+[PrintText]=00:02:01	Makoto	Ella era una de las personas con quien me llevaba bien en la primaria. Esos eran buenos tiempos.	00:08:03;
+
+[PlayVoice]=00:02:01	Voice04/04-SE/04-SE-E01/04-SE-E01-0050	1	mak	00:08:03;
+
+[PrintText]=00:08:03	Sekai	Mas divertido que ahora lo apuesto.	00:11:05;
+
+[PlayVoice]=00:08:03	Voice04/04-SE/04-SE-E01/04-SE-E01-0060	0	sek	00:11:05;
+
+[CreateBG]=00:11:05	BGS	Event04/04-SE/04-SE-E01/04-SE-E01-003	00:16:03;
+
+[PrintText]=00:11:05	Makoto	Ah... ¿Qué? ¿Estás celosa?^	00:14:16;
+
+[PlayVoice]=00:11:05	Voice04/04-SE/04-SE-E01/04-SE-E01-0070	1	mak	00:14:16;
+
+[PrintText]=00:14:17	Sekai	No realmente.	00:16:01;
+
+[PlayVoice]=00:14:17	Voice04/04-SE/04-SE-E01/04-SE-E01-0080	0	sek	00:16:01;
+
+[PrintText]=00:16:01	Makoto	No es así, tonta. En la primaria, las chicas y los chicos solo son amigos, así eran las cosas.	00:25:11;
+
+[PlayVoice]=00:16:01	Voice04/04-SE/04-SE-E01/04-SE-E01-0090	1	mak	00:25:11;
+
+[CreateBG]=00:16:03	BGS	Event04/04-SE/04-SE-E01/04-SE-E01-004	00:31:10;
+
+[PrintText]=00:25:11	Sekai	Suena indecente.	00:26:17;
+
+[PlayVoice]=00:25:11	Voice04/04-SE/04-SE-E01/04-SE-E01-0100	0	sek	00:26:17;
+
+[PrintText]=00:26:17	Makoto	¿De qué hablas? Como dije, no es como crees.	00:29:22;
+
+[PlayVoice]=00:26:17	Voice04/04-SE/04-SE-E01/04-SE-E01-0110	1	mak	00:29:22;
+
+[PrintText]=00:29:23	Sekai	Como sea.	00:31:00;
+
+[PlayVoice]=00:29:23	Voice04/04-SE/04-SE-E01/04-SE-E01-0120	0	sek	00:31:00;
+
+ ;
+
+[Next]=00:31:10;
+
+

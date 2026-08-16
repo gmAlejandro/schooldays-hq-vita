@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:53:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:53:00;
+
+[PlayMovie]=00:00:00	Movie05/05-KB/05-KB-J03/05-KB-J03-001	0	00:04:16;
+
+[CreateBG]=00:04:16	BGS	Event05/05-SA/05-SA-B00/05-SA-B00-002	00:06:09;
+
+[PrintText]=00:04:16	Kotonoha	¡Makoto-kun!	00:05:17;
+
+[PlayVoice]=00:04:16	Voice05/05-SA/05-SA-B00/05-SA-B00-0060	0	kot	00:05:17;
+
+[PlayVoice]=00:05:18	Voice05/05-SA/05-SA-B00/05-SA-B00-0070			00:06:10;
+
+[PlayMovie]=00:06:09	Movie05/05-SA/05-SA-B00/05-SA-B00-004	0	00:30:23;
+
+[PrintText]=00:06:09	Makoto	Hey.	00:08:10;
+
+[PlayVoice]=00:06:09	Voice05/05-SA/05-SA-B00/05-SA-B00-0080	1	mak	00:08:10;
+
+[PrintText]=00:07:20	Kotonoha	Eheheh... buen día.	00:11:05;
+
+[PlayVoice]=00:07:20	Voice05/05-SA/05-SA-B00/05-SA-B00-0090	0	kot	00:11:05;
+
+[PrintText]=00:11:03	Makoto	Uwah...! ¿Huh?^	00:14:20;
+
+[PlayVoice]=00:11:03	Voice05/05-SA/05-SA-B00/05-SA-B00-0110	1	mak	00:14:20;
+
+[PrintText]=00:14:21	Kotonoha	Estás caliente... eheheh...	00:17:11;
+
+[PlayVoice]=00:14:21	Voice05/05-SA/05-SA-B00/05-SA-B00-0130	0	kot	00:17:11;
+
+[PrintText]=00:17:13	Makoto	U... um... estamos en público, entonces...	00:24:16;
+
+[PlayVoice]=00:17:13	Voice05/05-SA/05-SA-B00/05-SA-B00-0140	1	mak	00:24:16;
+
+[PrintText]=00:24:16	Kotonoha	Es perfectamente natural. Después de todo somos una pareja.	00:27:11;
+
+[PlayVoice]=00:24:16	Voice05/05-SA/05-SA-B00/05-SA-B00-0150	0	kot	00:27:11;
+
+[PrintText]=00:27:12	Makoto	...	00:31:00;
+
+[PlayVoice]=00:27:12	Voice05/05-SA/05-SA-B00/05-SA-B00-0170	1	xxx	00:31:00;
+
+[CreateBG]=00:30:23	BGS	Event05/05-SA/05-SA-B00/05-SA-B00-005	00:32:03;
+
+[PrintText]=00:31:01	Kotonoha	Makoto-kun.	00:32:02;
+
+[PlayVoice]=00:31:01	Voice05/05-SA/05-SA-B00/05-SA-B00-0180	0	kot	00:32:02;
+
+[CreateBG]=00:32:03	BGS	Event05/05-SA/05-SA-B00/05-SA-B00-006	00:42:20;
+
+[PrintText]=00:32:03	Makoto	¡¿Huh?! ¿Q-Qué?^	00:35:22;
+
+[PlayVoice]=00:32:03	Voice05/05-SA/05-SA-B00/05-SA-B00-0190	1	mak	00:35:22;
+
+[PrintText]=00:35:22	Kotonoha	¿Estás libre después de clases?^	00:38:04;
+
+[PlayVoice]=00:35:22	Voice05/05-SA/05-SA-B00/05-SA-B00-0200	0	kot	00:38:04;
+
+[PrintText]=00:38:04	Makoto	¿Huh...? Oh, sí.	00:42:19;
+
+[PlayVoice]=00:38:04	Voice05/05-SA/05-SA-B00/05-SA-B00-0210	1	mak	00:42:19;
+
+[PrintText]=00:42:19	Kotonoha	Tengo que atender algo del consejo durante el almuerzo, pero estaré libre después de clases.	00:47:19;
+
+[PlayVoice]=00:42:19	Voice05/05-SA/05-SA-B00/05-SA-B00-0220	0	kot	00:47:19;
+
+[CreateBG]=00:42:20	BGS	Event05/05-SA/05-SA-B00/05-SA-B00-007	00:51:06;
+
+[PrintText]=00:47:20	Makoto	Ya veo.	00:50:00;
+
+[PlayVoice]=00:47:20	Voice05/05-SA/05-SA-B00/05-SA-B00-0230	1	mak	00:50:00;
+
+[PrintText]=00:49:23	Kotonoha	Por favor, hazme compañía.	00:51:06;
+
+[PlayVoice]=00:49:23	Voice05/05-SA/05-SA-B00/05-SA-B00-0240	0	kot	00:51:06;
+
+[CreateBG]=00:51:06	BGS	Event05/05-SA/05-SA-B00/05-SA-B00-007B	00:53:00;
+
+[PrintText]=00:51:06	Makoto	¡¿Eh?!	00:52:23;
+
+[PlayVoice]=00:51:06	Voice05/05-SA/05-SA-B00/05-SA-B00-0250	1	mak	00:52:23;
+
+ ;
+
+[Next]=00:53:00;
+
+
+
+

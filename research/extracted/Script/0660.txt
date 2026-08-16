@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:52:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:42:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-G00/03-KB-G00-001	00:02:20;
+
+[CreateBG]=00:02:20	BGS	Event02/02-2K/02-2K-L00/02-2K-L00-005	00:05:12;
+
+[CreateBG]=00:05:12	BGS	Event03/03-KB/03-KB-G00/03-KB-G00-003	00:08:06;
+
+[PrintText]=00:08:05	Kotonoha	Makoto-kun ¿Quieres caminar conmigo durante el festival...?^	00:15:17;
+
+[PlayVoice]=00:08:05	Voice03/03-KB/03-KB-G00/03-KB-G00-0040	0	kot	00:15:17;
+
+[CreateBG]=00:08:06	BGS	Event03/03-KB/03-KB-G00/03-KB-G00-004	00:32:23;
+
+[PrintText]=00:15:17	Kotonoha	Makoto-kun, por favor ven conmigo  ver el festival... Makoto-kun, veamos el festival juntos... umm... umm...	00:32:23;
+
+[PlayVoice]=00:15:17	Voice03/03-KB/03-KB-G00/03-KB-G00-0041	0	kot	00:32:23;
+
+[CreateBG]=00:32:23	BGS	Event03/03-KB/03-KB-G00/03-KB-G00-003	00:40:21;
+
+[PrintText]=00:32:23	Kotonoha	Haah... no está bien... ni tengo el coraje de llamarlo.	00:40:22;
+
+[PlayVoice]=00:32:23	Voice03/03-KB/03-KB-G00/03-KB-G00-0050	0	kot	00:40:22;
+
+[CreateBG]=00:40:21	BGS	Event03/03-KB/03-KB-G00/03-KB-G00-007	00:46:00;
+
+[PrintText]=00:40:22	Kokoro	Onee-chan, Mamá dice que te tomes un baño ahora.	00:44:15;
+
+[PlayVoice]=00:40:22	Voice03/03-KB/03-KB-G00/03-KB-G00-0070	0	kok	00:44:15;
+
+[PrintText]=00:44:15	Kotonoha	Vale, vale.	00:45:23;
+
+[PlayVoice]=00:44:15	Voice03/03-KB/03-KB-G00/03-KB-G00-0080	0	kot	00:45:23;
+
+[PrintText]=00:45:23	Kotonoha	Haah...	00:46:20;
+
+[PlayVoice]=00:45:23	Voice03/03-KB/03-KB-G00/03-KB-G00-0100	0	kot	00:46:20;
+
+[CreateBG]=00:46:00	BGS	Event03/03-KB/03-KB-G00/03-KB-G00-008	00:46:21;
+
+[PrintText]=00:46:20	Kotonoha	Mañana... lo invitaré en cuanto lo vea entonces.	00:51:00;
+
+[PlayVoice]=00:46:20	Voice03/03-KB/03-KB-G00/03-KB-G00-0110	0	kot	00:51:00;
+
+[CreateBG]=00:46:21	BGS	Event03/03-KB/03-KB-G00/03-KB-G00-006	00:52:03;
+
+ ;
+
+[Next]=00:52:03;
+
+

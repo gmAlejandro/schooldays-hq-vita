@@ -1,0 +1,175 @@
+﻿[SkipFRAME]=01:52:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	01:52:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-K00/04-KA-K00-001	00:24:04;
+
+[PrintText]=00:00:00	Sekai	¿Eh...? ¡Espera...! No... Makoto...	00:05:04;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-K00/04-KA-K00-0040	0	sek	00:05:04;
+
+[PrintText]=00:05:04	Sekai	Vinimos a comer ¿No? Nnn....!	00:08:21;
+
+[PlayVoice]=00:05:04	Voice04/04-KA/04-KA-K00/04-KA-K00-0060	0	sek	00:08:21;
+
+[PrintText]=00:08:21	Makoto	Podemos hacerlo... antes de comer ¿No?^	00:12:22;
+
+[PlayVoice]=00:08:21	Voice04/04-KA/04-KA-K00/04-KA-K00-0070	1	mak	00:12:22;
+
+[PrintText]=00:12:22	Sekai	¡No...! ¡No podemos!	00:16:09;
+
+[PlayVoice]=00:12:22	Voice04/04-KA/04-KA-K00/04-KA-K00-0080	0	sek	00:16:09;
+
+[PrintText]=00:16:09	Makoto	...Vamos.	00:18:02;
+
+[PlayVoice]=00:16:09	Voice04/04-KA/04-KA-K00/04-KA-K00-0090	1	mak	00:18:02;
+
+[PrintText]=00:18:02	Sekai	¡Te dije que no... Para!	00:22:04;
+
+[PlayVoice]=00:18:02	Voice04/04-KA/04-KA-K00/04-KA-K00-0100	0	sek	00:22:04;
+
+[PrintText]=00:22:04	Makoto	Quédate quieta.	00:24:03;
+
+[PlayVoice]=00:22:04	Voice04/04-KA/04-KA-K00/04-KA-K00-0110	1	mak	00:24:03;
+
+[PrintText]=00:24:03	Sekai	Cielos... no me siento con ganas de querer hacerlo hoy.	00:28:19;
+
+[PlayVoice]=00:24:03	Voice04/04-KA/04-KA-K00/04-KA-K00-0120	0	sek	00:28:19;
+
+[PlayMovie]=00:24:04	Movie04/04-KA/04-KA-K00/04-KA-K00-002	0	01:52:05;
+
+[PrintText]=00:28:19	Makoto	¿Por qué?^	00:29:20;
+
+[PlayVoice]=00:28:19	Voice04/04-KA/04-KA-K00/04-KA-K00-0130	1	mak	00:29:20;
+
+[PrintText]=00:29:20	Sekai	Estoy con mi periodo.	00:31:03;
+
+[PlayVoice]=00:29:20	Voice04/04-KA/04-KA-K00/04-KA-K00-0140	0	sek	00:31:03;
+
+[PrintText]=00:31:03	Makoto	Mentirosa.	00:32:13;
+
+[PlayVoice]=00:31:03	Voice04/04-KA/04-KA-K00/04-KA-K00-0150	1	mak	00:32:13;
+
+[PrintText]=00:32:13	Sekai	¡Es verdad... nnn! ¡Para!..	00:37:05;
+
+[PlayVoice]=00:32:13	Voice04/04-KA/04-KA-K00/04-KA-K00-0160	0	sek	00:37:05;
+
+[PrintText]=00:37:05	Makoto	Sekai... Te amo...	00:40:15;
+
+[PlayVoice]=00:37:05	Voice04/04-KA/04-KA-K00/04-KA-K00-0170	1	mak	00:40:15;
+
+[PrintText]=00:40:15	Sekai	No puedes... pasar por alto este tipo de cosas... ah...	00:46:12;
+
+[PlayVoice]=00:40:15	Voice04/04-KA/04-KA-K00/04-KA-K00-0180	0	sek	00:46:12;
+
+[PrintText]=00:46:13	Makoto	Nn...	00:48:11;
+
+[PlayVoice]=00:46:13	Voice04/04-KA/04-KA-K00/04-KA-K00-0190	1	mak	00:48:11;
+
+[PrintText]=00:48:11	Sekai	No... no... No lo...	00:52:19;
+
+[PlayVoice]=00:48:11	Voice04/04-KA/04-KA-K00/04-KA-K00-0200	0	sek	00:52:19;
+
+[PrintText]=00:52:19	Makoto	Estará bien.	00:54:17;
+
+[PlayVoice]=00:52:19	Voice04/04-KA/04-KA-K00/04-KA-K00-0210	1	mak	00:54:17;
+
+[PrintText]=00:54:17	Sekai	Haah... haah...	00:57:07;
+
+[PlayVoice]=00:54:17	Voice04/04-KA/04-KA-K00/04-KA-K00-0220	0	sek	00:57:07;
+
+[PrintText]=00:57:07	Makoto	...	00:58:11;
+
+[PlayVoice]=00:57:07	Voice04/04-KA/04-KA-K00/04-KA-K00-0230	1	xxx	00:58:11;
+
+[PrintText]=00:58:11	Sekai	Hey... Makoto...	01:02:02;
+
+[PlayVoice]=00:58:11	Voice04/04-KA/04-KA-K00/04-KA-K00-0240	0	sek	01:02:02;
+
+[PrintText]=01:02:02	Makoto	¿Sí?^	01:03:02;
+
+[PlayVoice]=01:02:02	Voice04/04-KA/04-KA-K00/04-KA-K00-0250	1	mak	01:03:02;
+
+[PrintText]=01:03:02	Sekai	Vale, si te disculpas apropiadamente por lo del baile del festival, te perdonaré.	01:09:06;
+
+[PlayVoice]=01:03:02	Voice04/04-KA/04-KA-K00/04-KA-K00-0270	0	sek	01:09:06;
+
+[PrintText]=01:09:06	Makoto	Me disculpé por teléfono ¿No?^	01:11:08;
+
+[PlayVoice]=01:09:06	Voice04/04-KA/04-KA-K00/04-KA-K00-0280	1	mak	01:11:08;
+
+[PrintText]=01:11:08	Sekai	¡No por el teléfono, en persona... nn! ¿Vale?^	01:17:02;
+
+[PlayVoice]=01:11:08	Voice04/04-KA/04-KA-K00/04-KA-K00-0290	0	sek	01:17:02;
+
+[PrintText]=01:17:01	Makoto	Seguro, ¿Eso importa?^	01:20:13;
+
+[PlayVoice]=01:17:01	Voice04/04-KA/04-KA-K00/04-KA-K00-0300	1	mak	01:20:13;
+
+[PrintText]=01:20:13	Sekai	¿Eh...?^	01:21:04;
+
+[PlayVoice]=01:20:13	Voice04/04-KA/04-KA-K00/04-KA-K00-0310	0	sek	01:21:04;
+
+[PrintText]=01:21:11	Makoto	Vamos... apúrate y quítate la blusa.	01:24:21;
+
+[PlayVoice]=01:21:11	Voice04/04-KA/04-KA-K00/04-KA-K00-0330	1	mak	01:24:21;
+
+[PrintText]=01:24:21	Sekai	...	01:26:13;
+
+[PlayVoice]=01:24:21	Voice04/04-KA/04-KA-K00/04-KA-K00-0340	0	xxx	01:26:13;
+
+[PlaySe]=01:25:21	1	SysSe/SE_all/action/chair1	01:26:05;
+
+[PrintText]=01:26:16	Makoto	¿Sekai...?^	01:27:15;
+
+[PlayVoice]=01:26:16	Voice04/04-KA/04-KA-K00/04-KA-K00-0350	1	mak	01:27:15;
+
+[PrintText]=01:27:15	Sekai	No te importa.	01:29:21;
+
+[PlayVoice]=01:27:15	Voice04/04-KA/04-KA-K00/04-KA-K00-0360	0	sek	01:29:21;
+
+[PrintText]=01:29:22	Makoto	¿Huh?^	01:30:17;
+
+[PlayVoice]=01:29:22	Voice04/04-KA/04-KA-K00/04-KA-K00-0370	1	mak	01:30:17;
+
+[PrintText]=01:30:17	Sekai	Solo viniste para hacerlo conmigo ¿No?^	01:33:16;
+
+[PlayVoice]=01:30:17	Voice04/04-KA/04-KA-K00/04-KA-K00-0380	0	sek	01:33:16;
+
+[PrintText]=01:33:16	Makoto	¿Q-Qué?^	01:35:04;
+
+[PlayVoice]=01:33:16	Voice04/04-KA/04-KA-K00/04-KA-K00-0390	1	mak	01:35:04;
+
+[PrintText]=01:35:05	Sekai	Solo piensas en sexo. No piensas en mí.	01:39:01;
+
+[PlayVoice]=01:35:05	Voice04/04-KA/04-KA-K00/04-KA-K00-0400	0	sek	01:39:01;
+
+[PrintText]=01:39:01	Makoto	Lo hago. Así que...	01:41:10;
+
+[PlayVoice]=01:39:01	Voice04/04-KA/04-KA-K00/04-KA-K00-0410	1	mak	01:41:10;
+
+[PrintText]=01:41:10	Sekai	¿Ves? Ahí vas de nuevo, pensando solo en sexo.	01:45:03;
+
+[PlayVoice]=01:41:10	Voice04/04-KA/04-KA-K00/04-KA-K00-0420	0	sek	01:45:03;
+
+[PrintText]=01:45:04	Makoto	No es así.	01:46:20;
+
+[PlayVoice]=01:45:04	Voice04/04-KA/04-KA-K00/04-KA-K00-0430	1	mak	01:46:20;
+
+[PrintText]=01:46:20	Sekai	¡Olvídalo!	01:48:03;
+
+[PlayVoice]=01:46:20	Voice04/04-KA/04-KA-K00/04-KA-K00-0440	0	sek	01:48:03;
+
+[PrintText]=01:48:07	Makoto	¿... Qué es todo esto?^	01:50:20;
+
+[PlayVoice]=01:48:07	Voice04/04-KA/04-KA-K00/04-KA-K00-0460	1	mak	01:50:20;
+
+[PrintText]=01:50:21	Makoto	¡Maldición!	01:51:18;
+
+[PlayVoice]=01:50:21	Voice04/04-KA/04-KA-K00/04-KA-K00-0470	1	mak	01:51:18;
+
+ ;
+
+[Next]=01:52:05;
+
+

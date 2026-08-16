@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:25:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:25:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-K01/03-KA-K01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-K01/03-KA-K01-002	00:05:07;
+
+[PrintText]=00:03:02	Setsuna	Sekai.	00:04:01;
+
+[PlayVoice]=00:03:02	Voice03/03-KA/03-KA-K01/03-KA-K01-0040	0	set	00:04:01;
+
+[PrintText]=00:04:09	Sekai	Uh-huh...	00:05:02;
+
+[PlayVoice]=00:04:09	Voice03/03-KA/03-KA-K01/03-KA-K01-0050	0	sek	00:05:02;
+
+[CreateBG]=00:05:07	BGS	Event03/03-KA/03-KA-K01/03-KA-K01-003	00:12:08;
+
+[PrintText]=00:05:08	Setsuna	¿Estabas ocupado durante el almuerzo?^	00:08:01;
+
+[PlayVoice]=00:05:08	Voice03/03-KA/03-KA-K01/03-KA-K01-0060	0	set	00:08:01;
+
+[PrintText]=00:08:06	Sekai	...	00:08:19;
+
+[PlayVoice]=00:08:06	Voice03/03-KA/03-KA-K01/03-KA-K01-0070	0	xxx	00:08:19;
+
+[PrintText]=00:09:04	Setsuna	Te mande un correo, pero no viniste.	00:12:05;
+
+[PlayVoice]=00:09:04	Voice03/03-KA/03-KA-K01/03-KA-K01-0080	0	set	00:12:05;
+
+[CreateBG]=00:12:08	BGS	Event03/03-KA/03-KA-K01/03-KA-K01-004A	00:17:21;
+
+[PrintText]=00:12:13	Sekai	Me aleje por un rato...	00:14:22;
+
+[PlayVoice]=00:12:13	Voice03/03-KA/03-KA-K01/03-KA-K01-0090	0	sek	00:14:22;
+
+[PrintText]=00:15:03	Setsuna	Itou se sentía solo sabes.	00:18:02;
+
+[PlayVoice]=00:15:03	Voice03/03-KA/03-KA-K01/03-KA-K01-0100	0	set	00:18:02;
+
+[CreateBG]=00:17:21	BGS	Event03/03-KA/03-KA-K01/03-KA-K01-004B	00:19:09;
+
+[PlayVoice]=00:17:23	Voice03/03-KA/03-KA-K01/03-KA-K01-0110			00:18:20;
+
+[CreateBG]=00:19:09	BGS	Event03/03-KA/03-KA-K01/03-KA-K01-003	00:21:07;
+
+[PrintText]=00:19:11	Setsuna	Hubieras venido.	00:21:03;
+
+[PlayVoice]=00:19:11	Voice03/03-KA/03-KA-K01/03-KA-K01-0120	0	set	00:21:03;
+
+[CreateBG]=00:21:07	BGS	Event03/03-KA/03-KA-K01/03-KA-K01-002	00:25:13;
+
+[PrintText]=00:21:14	Sekai	Está bien...	00:22:12;
+
+[PlayVoice]=00:21:14	Voice03/03-KA/03-KA-K01/03-KA-K01-0130	0	sek	00:22:12;
+
+[PrintText]=00:23:03	Setsuna	...Ya veo.	00:23:21;
+
+[PlayVoice]=00:23:03	Voice03/03-KA/03-KA-K01/03-KA-K01-0140	0	set	00:23:21;
+
+[BlackFade]=00:24:13	OUT	00:25:13;
+
+ ;
+
+[Next]=00:25:13;
+
+

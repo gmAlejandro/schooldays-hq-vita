@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:15:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:15:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-C03/05-KG-C03-001	00:05:00;
+
+[PrintText]=00:01:05	Makoto	...	00:02:06;
+
+[PlayVoice]=00:01:05	Voice05/05-KG/05-KG-C04/05-KG-C04-0030	1	xxx	00:02:06;
+
+[CreateBG]=00:05:02	BGS	Event05/05-KG/05-KG-C03/05-KG-C03-002	00:10:21;
+
+[PrintText]=00:05:12	Makoto	No, no debería estar pensando en ella.	00:09:12;
+
+[PlayVoice]=00:05:12	Voice05/05-KG/05-KG-C04/05-KG-C04-0040	1	xxx	00:09:12;
+
+[PrintText]=00:10:09	Makoto	No puedo sacarla de mi cabeza, pero... tengo a Sekai...	00:15:13;
+
+[PlayVoice]=00:10:09	Voice05/05-KG/05-KG-C04/05-KG-C04-0050	1	xxx	00:15:13;
+
+[CreateBG]=00:10:21	BGS	Event05/05-KG/05-KG-C03/05-KG-C03-003	00:15:21;
+
+ ;
+
+[Next]=00:15:22;
+
+
+
+

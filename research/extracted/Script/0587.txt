@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:06:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:06:22;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-I10/SE03-KA-I10-001	00:06:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I10/03-KA-I10-001	00:06:22;
+
+[PrintText]=00:00:00	Makoto	...	00:01:05;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I10/03-KA-I10-0030	1	xxx	00:01:05;
+
+[PrintText]=00:01:09	Setsuna	Te olvidaste aquí.	00:04:01;
+
+[PlayVoice]=00:01:09	Voice03/03-KA/03-KA-I10/03-KA-I10-0050	0	set	00:04:01;
+
+[PrintText]=00:04:09	Makoto	O-oh...	00:06:08;
+
+[PlayVoice]=00:04:09	Voice03/03-KA/03-KA-I10/03-KA-I10-0060	1	mak	00:06:08;
+
+ ;
+
+[Next]=00:06:22;
+
+

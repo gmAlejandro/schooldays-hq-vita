@@ -1,0 +1,109 @@
+﻿[SkipFRAME]=00:42:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:42:18;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C08/SE03-KA-C08-001	00:42:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-001	00:02:00;
+
+[PrintText]=00:00:08	Makoto	Phew...	00:01:11;
+
+[PlayVoice]=00:00:08	Voice03/03-KA/03-KA-C08/03-KA-C08-0030	1	mak	00:01:11;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-002	00:03:16;
+
+[PrintText]=00:02:02	Setsuna	...Satisfecha.	00:03:10;
+
+[PlayVoice]=00:02:02	Voice03/03-KA/03-KA-C08/03-KA-C08-0040	0	set	00:03:10;
+
+[CreateBG]=00:03:16	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-003	00:07:14;
+
+[PrintText]=00:03:20	Makoto	Te demoras en comer.	00:07:10;
+
+[PlayVoice]=00:03:20	Voice03/03-KA/03-KA-C08/03-KA-C08-0050	1	mak	00:07:10;
+
+[CreateBG]=00:07:14	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-004A	00:09:14;
+
+[PrintText]=00:07:15	Setsuna	Usualmente no.	00:09:13;
+
+[PlayVoice]=00:07:15	Voice03/03-KA/03-KA-C08/03-KA-C08-0060	0	set	00:09:13;
+
+[CreateBG]=00:09:14	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-005A	00:15:17;
+
+[PrintText]=00:09:15	Makoto	¿En serio? ¿Quiere decir que has comido hoy super lento?^	00:13:19;
+
+[PlayVoice]=00:09:15	Voice03/03-KA/03-KA-C08/03-KA-C08-0070	1	mak	00:13:19;
+
+[PrintText]=00:13:22	Setsuna	Uh-huh.	00:14:13;
+
+[PlayVoice]=00:13:22	Voice03/03-KA/03-KA-C08/03-KA-C08-0080	0	set	00:14:13;
+
+[PrintText]=00:14:17	Makoto	¿Por qué?^	00:15:15;
+
+[PlayVoice]=00:14:17	Voice03/03-KA/03-KA-C08/03-KA-C08-0090	1	mak	00:15:15;
+
+[CreateBG]=00:15:17	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-005B	00:17:12;
+
+[PrintText]=00:15:18	Setsuna	Estaba esperando a Sekai.	00:17:11;
+
+[PlayVoice]=00:15:18	Voice03/03-KA/03-KA-C08/03-KA-C08-0100	0	set	00:17:11;
+
+[CreateBG]=00:17:12	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-005C	00:33:16;
+
+[PrintText]=00:17:13	Makoto	Ah...	00:18:03;
+
+[PlayVoice]=00:17:13	Voice03/03-KA/03-KA-C08/03-KA-C08-0110	1	mak	00:18:03;
+
+[PrintText]=00:18:05	Setsuna	Le envié un correo hace un rato, pero parece que no vendrá.	00:22:11;
+
+[PlayVoice]=00:18:05	Voice03/03-KA/03-KA-C08/03-KA-C08-0120	0	set	00:22:11;
+
+[PrintText]=00:22:14	Makoto	Ese correo entonces... ¿Era para Sekai?^	00:26:06;
+
+[PlayVoice]=00:22:14	Voice03/03-KA/03-KA-C08/03-KA-C08-0130	1	mak	00:26:06;
+
+[PrintText]=00:26:12	Setsuna	Lo siento.	00:27:08;
+
+[PlayVoice]=00:26:12	Voice03/03-KA/03-KA-C08/03-KA-C08-0140	0	set	00:27:08;
+
+[PrintText]=00:27:09	Makoto	Hey, no hay por qué disculparse.	00:30:04;
+
+[PlayVoice]=00:27:09	Voice03/03-KA/03-KA-C08/03-KA-C08-0150	1	mak	00:30:04;
+
+[PrintText]=00:30:08	Setsuna	...	00:30:20;
+
+[PlayVoice]=00:30:08	Voice03/03-KA/03-KA-C08/03-KA-C08-0160	0	xxx	00:30:20;
+
+[PrintText]=00:31:09	Makoto	Además, yo...	00:33:13;
+
+[PlayVoice]=00:31:09	Voice03/03-KA/03-KA-C08/03-KA-C08-0170	1	mak	00:33:13;
+
+[CreateBG]=00:33:16	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-004A	00:37:21;
+
+[PrintText]=00:33:19	Makoto	Ah... para que ya terminó el almuerzo.	00:37:03;
+
+[PlayVoice]=00:33:19	Voice03/03-KA/03-KA-C08/03-KA-C08-0190	1	mak	00:37:03;
+
+[PrintText]=00:37:04	Setsuna	Uh-huh.	00:37:19;
+
+[PlayVoice]=00:37:04	Voice03/03-KA/03-KA-C08/03-KA-C08-0200	0	set	00:37:19;
+
+[CreateBG]=00:37:21	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-006	00:40:12;
+
+[PrintText]=00:37:21	Makoto	Bueno, nos vemos después. Gracias por la explicación.	00:40:09;
+
+[PlayVoice]=00:37:21	Voice03/03-KA/03-KA-C08/03-KA-C08-0210	1	mak	00:40:09;
+
+[CreateBG]=00:40:12	BGS	Event03/03-KA/03-KA-C08/03-KA-C08-007	00:42:18;
+
+[PrintText]=00:40:21	Setsuna	...	00:41:14;
+
+[PlayVoice]=00:40:21	Voice03/03-KA/03-KA-C08/03-KA-C08-0220	0	xxx	00:41:14;
+
+[BlackFade]=00:41:18	OUT	00:42:18;
+
+ ;
+
+[Next]=00:42:18;
+
+

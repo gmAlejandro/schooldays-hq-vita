@@ -1,0 +1,281 @@
+﻿[SkipFRAME]=02:29:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	02:29:14;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:33:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-001	00:01:04;
+
+[CreateBG]=00:01:04	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-001B	00:02:09;
+
+[PrintText]=00:01:05	Sekai	Buen día.	00:02:12;
+
+[PlayVoice]=00:01:05	Voice04/04-SG/04-SG-B00/04-SG-B00-0040	0	sek	00:02:12;
+
+[CreateBG]=00:02:09	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-001C	00:11:13;
+
+[PrintText]=00:02:12	Makoto	Ah... Buen día.	00:04:12;
+
+[PlayVoice]=00:02:12	Voice04/04-SG/04-SG-B00/04-SG-B00-0050	1	mak	00:04:12;
+
+[PrintText]=00:04:13	Sekai	Hoy es un buen día ¿No? Incluso hace un poco de frío.	00:08:17;
+
+[PlayVoice]=00:04:13	Voice04/04-SG/04-SG-B00/04-SG-B00-0060	0	sek	00:08:17;
+
+[PrintText]=00:08:17	Makoto	S-Sí, un poco...	00:11:17;
+
+[PlayVoice]=00:08:17	Voice04/04-SG/04-SG-B00/04-SG-B00-0070	1	mak	00:11:17;
+
+[CreateBG]=00:11:13	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-002	00:16:03;
+
+[PrintText]=00:11:17	Sekai	¿Estás... libre para almorzar conmigo hoy?^	00:16:03;
+
+[PlayVoice]=00:11:17	Voice04/04-SG/04-SG-B00/04-SG-B00-0080	0	sek	00:16:03;
+
+[CreateBG]=00:16:03	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-003	00:18:07;
+
+[PrintText]=00:16:03	Makoto	Claro, almorcemos juntos.	00:18:12;
+
+[PlayVoice]=00:16:03	Voice04/04-SG/04-SG-B00/04-SG-B00-0090	1	mak	00:18:12;
+
+[CreateBG]=00:18:07	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-004	00:25:03;
+
+[PrintText]=00:18:12	Sekai	¿Has comprado algo de pan o alguna bebida?^	00:21:02;
+
+[PlayVoice]=00:18:12	Voice04/04-SG/04-SG-B00/04-SG-B00-0100	0	sek	00:21:02;
+
+[PrintText]=00:21:02	Makoto	No, me levante tarde, así que pensé en comprar algo de la cafetería.	00:25:08;
+
+[PlayVoice]=00:21:02	Voice04/04-SG/04-SG-B00/04-SG-B00-0110	1	mak	00:25:08;
+
+[CreateBG]=00:25:03	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-005	00:28:09;
+
+[PrintText]=00:25:08	Sekai	¿Por qué no comemos en clase, entonces?^	00:27:19;
+
+[PlayVoice]=00:25:08	Voice04/04-SG/04-SG-B00/04-SG-B00-0120	0	sek	00:27:19;
+
+[PrintText]=00:27:19	Makoto	Vale.	00:28:14;
+
+[PlayVoice]=00:27:19	Voice04/04-SG/04-SG-B00/04-SG-B00-0130	1	mak	00:28:14;
+
+[CreateBG]=00:28:09	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-006	00:30:21;
+
+[PrintText]=00:28:14	Sekai	Eheheh.	00:29:18;
+
+[PlayVoice]=00:28:14	Voice04/04-SG/04-SG-B00/04-SG-B00-0140	0	sek	00:29:18;
+
+[PrintText]=00:29:23	Makoto	...	00:30:16;
+
+[PlayVoice]=00:29:23	Voice04/04-SG/04-SG-B00/04-SG-B00-0150	1	xxx	00:30:16;
+
+[CreateBG]=00:30:21	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-007	00:32:16;
+
+[BlackFade]=00:32:04	OUT	00:32:16;
+
+[CreateBG]=00:32:16	BGS	System/Screen/Black	00:34:02;
+
+[CreateBG]=00:34:02	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-008	00:48:04;
+
+[BlackFade]=00:34:02	IN	00:34:14;
+
+[PrintText]=00:35:06	Profesor	Aquí vemos un problema, para hacerlo más fácil, empezaremos por dos.	00:42:01;
+
+[PlayVoice]=00:35:06	Voice04/04-SG/04-SG-B00/04-SG-B00-0200	1	suu	00:42:01;
+
+[PrintText]=00:42:01	Profesor	Intentemos resolver el problema. Tal vez... Kiyoura.	00:48:09;
+
+[PlayVoice]=00:42:01	Voice04/04-SG/04-SG-B00/04-SG-B00-0201	1	suu	00:48:09;
+
+[CreateBG]=00:48:04	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-009	01:01:03;
+
+[PrintText]=00:48:11	Setsuna	Con dos discos, este toma tres movimientos. Con tres, toma siente. Cuatro, quince. Y cinco es...	01:01:03;
+
+[PlayVoice]=00:48:11	Voice04/04-SG/04-SG-B00/04-SG-B00-0210	0	set	01:01:03;
+
+[CreateBG]=01:01:03	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-010	01:04:15;
+
+[PrintText]=01:01:03	Profesor	En esa parte está un poco difícil.	01:04:16;
+
+[PlayVoice]=01:01:03	Voice04/04-SG/04-SG-B00/04-SG-B00-0220	1	suu	01:04:16;
+
+[CreateBG]=01:04:15	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-011	01:06:15;
+
+[PrintText]=01:04:15	Setsuna	Um... Cinco es treinta y uno. Seis es...	01:10:09;
+
+[PlayVoice]=01:04:15	Voice04/04-SG/04-SG-B00/04-SG-B00-0230	0	set	01:10:09;
+
+[CreateBG]=01:06:15	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-012	01:08:00;
+
+[CreateBG]=01:08:00	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-013	01:10:07;
+
+[PrintText]=01:08:00	Sekai	...	01:09:07;
+
+[PlayVoice]=01:08:00	Voice04/04-SG/04-SG-B00/04-SG-B00-0260	0	xxx	01:09:07;
+
+[PlaySe]=01:09:03	1	SysSe/SE_all/school/chime	01:27:13;
+
+[BlackFade]=01:09:09	OUT	01:10:11;
+
+[CreateBG]=01:10:11	BGS	System/Screen/Black	01:12:19;
+
+[CreateBG]=01:12:19	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-014	01:14:10;
+
+[BlackFade]=01:12:19	IN	01:13:17;
+
+[PlaySe]=01:13:02	2	SysSe/SE_all/gaya/kyousitu_rouka	02:29:01;
+
+[CreateBG]=01:14:10	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-015	01:16:13;
+
+[PrintText]=01:14:10	Makoto	Bueno ¿Vamos?^	01:15:14;
+
+[PlayVoice]=01:14:10	Voice04/04-SG/04-SG-B00/04-SG-B00-0300	1	mak	01:15:14;
+
+[PrintText]=01:15:13	Sekai	Uh-huh.	01:16:12;
+
+[PlayVoice]=01:15:13	Voice04/04-SG/04-SG-B00/04-SG-B00-0310	0	sek	01:16:12;
+
+[CreateBG]=01:16:13	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-016	01:22:14;
+
+[PrintText]=01:17:07	Hikari	Ahh... ¿Sekai realmente está saliendo con Itou después de todo?^	01:22:17;
+
+[PlayVoice]=01:17:07	Voice04/04-SG/04-SG-B00/04-SG-B00-0330	0	hik	01:22:17;
+
+[CreateBG]=01:22:14	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-017	01:25:08;
+
+[PrintText]=01:22:17	Setsuna	Eso es lo que dices, pero realmente, estás calmada.	01:25:12;
+
+[PlayVoice]=01:22:17	Voice04/04-SG/04-SG-B00/04-SG-B00-0340	0	set	01:25:12;
+
+[CreateBG]=01:25:08	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-018	01:29:03;
+
+[PrintText]=01:25:11	Nanami	Sí. Muy dentro estás diciendo 'Bien por ella'.	01:29:05;
+
+[PlayVoice]=01:25:11	Voice04/04-SG/04-SG-B00/04-SG-B00-0350	0	nan	01:29:05;
+
+[CreateBG]=01:29:03	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-019	01:31:21;
+
+[PrintText]=01:29:05	Hikari	¿D-De qué estás hablando?^	01:31:18;
+
+[PlayVoice]=01:29:05	Voice04/04-SG/04-SG-B00/04-SG-B00-0360	0	hik	01:31:18;
+
+[BlackFade]=01:31:14	OUT	01:31:21;
+
+[CreateBG]=01:31:21	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-020	01:36:19;
+
+[BlackFade]=01:31:21	IN	01:32:05;
+
+[PrintText]=01:32:18	Kotonoha	...	01:34:17;
+
+[PlayVoice]=01:32:18	Voice04/04-SG/04-SG-B00/04-SG-B00-0410	0	xxx	01:34:17;
+
+[PrintText]=01:34:17	Minami	¿Eh? ¿Quieres decir que fuiste a la piscina?^	01:39:02;
+
+[PlayVoice]=01:34:17	Voice04/04-SG/04-SG-B00/04-SG-B00-0440	0	min	01:39:02;
+
+[CreateBG]=01:36:19	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-022	01:38:23;
+
+[CreateBG]=01:38:23	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-023	01:41:01;
+
+[PrintText]=01:39:02	Otome	Fufu... sip.	01:41:02;
+
+[PlayVoice]=01:39:02	Voice04/04-SG/04-SG-B00/04-SG-B00-0450	0	oto	01:41:02;
+
+[CreateBG]=01:41:01	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-024	01:44:21;
+
+[PrintText]=01:41:03	Kumi	Eso suena genial, Otome-chan.	01:43:11;
+
+[PlayVoice]=01:41:03	Voice04/04-SG/04-SG-B00/04-SG-B00-0460	0	kum	01:43:11;
+
+[PrintText]=01:43:11	Natsumi	¿Con quién fuiste?^	01:44:22;
+
+[PlayVoice]=01:43:11	Voice04/04-SG/04-SG-B00/04-SG-B00-0470	0	nat	01:44:22;
+
+[CreateBG]=01:44:21	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-025	01:48:00;
+
+[PrintText]=01:44:22	Otome	Uh... pues...	01:48:01;
+
+[PlayVoice]=01:44:22	Voice04/04-SG/04-SG-B00/04-SG-B00-0480	0	oto	01:48:01;
+
+[CreateBG]=01:48:00	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-026	01:49:22;
+
+[PrintText]=01:48:01	Kumi	¿Quizas con tu novio?^	01:49:23;
+
+[PlayVoice]=01:48:01	Voice04/04-SG/04-SG-B00/04-SG-B00-0490	0	kum	01:49:23;
+
+[CreateBG]=01:49:22	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-027	01:50:23;
+
+[PrintText]=01:49:23	Otome	¿Eh?^	01:51:00;
+
+[PlayVoice]=01:49:23	Voice04/04-SG/04-SG-B00/04-SG-B00-0500	0	oto	01:51:00;
+
+[CreateBG]=01:50:23	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-028	01:55:23;
+
+[PrintText]=01:51:00	Natsumi	No lo parece, juzgando su reacción. Además, no parece que tuviera uno.	01:56:01;
+
+[PlayVoice]=01:51:00	Voice04/04-SG/04-SG-B00/04-SG-B00-0510	0	nat	01:56:01;
+
+[CreateBG]=01:55:23	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-029	01:59:18;
+
+[PrintText]=01:56:02	Otome	Y-Yo... podría. Nunca sabes.	01:59:20;
+
+[PlayVoice]=01:56:02	Voice04/04-SG/04-SG-B00/04-SG-B00-0520	0	oto	01:59:20;
+
+[CreateBG]=01:59:18	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-030	02:02:04;
+
+[PrintText]=01:59:21	Natsumi	Vamos, dinos entonces.¿Fuiste con alguien?^	02:02:09;
+
+[PlayVoice]=01:59:21	Voice04/04-SG/04-SG-B00/04-SG-B00-0530	0	nat	02:02:09;
+
+[CreateBG]=02:02:04	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-031	02:07:13;
+
+[PrintText]=02:02:09	Otome	Uuh... con mi prima y mi hermana.	02:07:15;
+
+[PlayVoice]=02:02:09	Voice04/04-SG/04-SG-B00/04-SG-B00-0540	0	oto	02:07:15;
+
+[CreateBG]=02:07:13	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-032	02:13:09;
+
+[PrintText]=02:07:15	Natsumi	¿Lo ves?^	02:08:18;
+
+[PlayVoice]=02:07:15	Voice04/04-SG/04-SG-B00/04-SG-B00-0550	0	nat	02:08:18;
+
+[PrintText]=02:08:18	Minami	Aún así, que envidia. Tienen todo tipo de piscinas ¿No?^	02:13:10;
+
+[PlayVoice]=02:08:18	Voice04/04-SG/04-SG-B00/04-SG-B00-0560	0	min	02:13:10;
+
+[CreateBG]=02:13:09	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-033	02:17:11;
+
+[PrintText]=02:13:10	Otome	¡Sí, sí! El deslizador es increíble.	02:17:12;
+
+[PlayVoice]=02:13:10	Voice04/04-SG/04-SG-B00/04-SG-B00-0570	0	oto	02:17:12;
+
+[CreateBG]=02:17:11	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-034	02:22:07;
+
+[PrintText]=02:17:12	Kumi	Uwah... Suena genial.	02:20:13;
+
+[PlayVoice]=02:17:12	Voice04/04-SG/04-SG-B00/04-SG-B00-0580	0	kum	02:20:13;
+
+[PrintText]=02:20:13	Natsumi	Otome, ¿Comerás en la cafetería hoy?^	02:22:10;
+
+[PlayVoice]=02:20:13	Voice04/04-SG/04-SG-B00/04-SG-B00-0590	0	nat	02:22:10;
+
+[CreateBG]=02:22:07	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-035	02:25:08;
+
+[PrintText]=02:22:12	Otome	Sí ¿Vamos?^	02:24:00;
+
+[PlayVoice]=02:22:12	Voice04/04-SG/04-SG-B00/04-SG-B00-0600	0	oto	02:24:00;
+
+[PrintText]=02:24:00	Minami	Si, Vamos.	02:25:00;
+
+[PlayVoice]=02:24:00	Voice04/04-SG/04-SG-B00/04-SG-B00-0610	0	min	02:25:00;
+
+[CreateBG]=02:25:08	BGS	Event04/04-SG/04-SG-B00/04-SG-B00-036	02:29:13;
+
+[PrintText]=02:25:17	Kotonoha	Haah...	02:26:11;
+
+[PlayVoice]=02:25:17	Voice04/04-SG/04-SG-B00/04-SG-B00-0630	0	kot	02:26:11;
+
+ ;
+
+[Next]=02:29:14;
+
+

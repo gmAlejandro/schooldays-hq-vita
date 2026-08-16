@@ -1,0 +1,85 @@
+﻿[SkipFRAME]=00:49:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:49:00;
+
+[PlaySe]=00:00:00	3	Se05/05-KG/05-KG-A00/SE05-KG-A00-001	00:49:00;
+
+[PlayMovie]=00:00:00	Ini/Event05/05-KG/05-KG-A00/05-KG-A00-001	0	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-KG/05-KG-A00/05-KG-A00-002	00:06:00;
+
+[PlaySe]=00:06:00	1	SysSe/SE_all/keitai/yobidasi	00:09:05;
+
+[CreateBG]=00:06:00	BGS	Event05/05-KG/05-KG-A00/05-KG-A00-004	00:09:20;
+
+[PrintText]=00:06:00	Kotonoha	...	00:09:02;
+
+[PlayVoice]=00:06:00	Voice05/05-KG/05-KG-A00/05-KG-A00-0050	0	xxx	00:09:02;
+
+[PlaySe]=00:09:05	2	SysSe/SE_all/keitai/keitai_sousa	00:09:07;
+
+[CreateBG]=00:09:20	BGS	Event05/05-KG/05-KG-A00/05-KG-A00-005	00:20:06;
+
+[PrintText]=00:09:20	Taisuke	Hola, habla Sawanaga.	00:12:07;
+
+[PlayVoice]=00:09:20	Voice05/05-KG/05-KG-A00/05-KG-A00-0070	1	tai	00:12:07;
+
+[PrintText]=00:12:11	Kotonoha	Sawanaga-san.	00:13:17;
+
+[PlayVoice]=00:12:11	Voice05/05-KG/05-KG-A00/05-KG-A00-0080	0	kot	00:13:17;
+
+[PrintText]=00:13:16	Taisuke	¡Ah, Katsura-san! Que sorpresa que llames. ¿Qué pasa?^	00:20:03;
+
+[PlayVoice]=00:13:16	Voice05/05-KG/05-KG-A00/05-KG-A00-0090	1	tai	00:20:03;
+
+[CreateBG]=00:20:06	BGS	Event05/05-KG/05-KG-A00/05-KG-A00-006	00:29:07;
+
+[PrintText]=00:20:06	Kotonoha	...Lo siento.	00:21:08;
+
+[PlayVoice]=00:20:06	Voice05/05-KG/05-KG-A00/05-KG-A00-0100	0	kot	00:21:08;
+
+[PrintText]=00:21:13	Taisuke	¿Eh? ¿Acerca de?^	00:23:01;
+
+[PlayVoice]=00:21:13	Voice05/05-KG/05-KG-A00/05-KG-A00-0110	1	tai	00:23:01;
+
+[PrintText]=00:23:12	Kotonoha	...No puedo renunciar a la persona que amo.	00:28:03;
+
+[PlayVoice]=00:23:12	Voice05/05-KG/05-KG-A00/05-KG-A00-0120	0	kot	00:28:03;
+
+[PrintText]=00:28:12	Taisuke	¿Eh...?^	00:29:03;
+
+[PlayVoice]=00:28:12	Voice05/05-KG/05-KG-A00/05-KG-A00-0130	1	tai	00:29:03;
+
+[CreateBG]=00:29:07	BGS	Event05/05-KG/05-KG-A00/05-KG-A00-007	00:33:00;
+
+[PrintText]=00:29:07	Kotonoha	Es por eso que ya no puedo salir contigo.	00:32:10;
+
+[PlayVoice]=00:29:07	Voice05/05-KG/05-KG-A00/05-KG-A00-0140	0	kot	00:32:10;
+
+[CreateBG]=00:33:00	BGS	Event05/05-KG/05-KG-A00/05-KG-A00-008	00:39:02;
+
+[PrintText]=00:33:00	Taisuke	¿D-De qué hablas? Yo... no lo entiendo... ¿uh...?^	00:38:15;
+
+[PlayVoice]=00:33:00	Voice05/05-KG/05-KG-A00/05-KG-A00-0150	1	tai	00:38:15;
+
+[PrintText]=00:38:01	Kotonoha	Adiós.	00:39:01;
+
+[PlayVoice]=00:38:01	Voice05/05-KG/05-KG-A00/05-KG-A00-0160	0	kot	00:39:01;
+
+[PlaySe]=00:39:02	1	SysSe/SE_all/keitai/keitai_sousa	00:39:04;
+
+[CreateBG]=00:39:02	BGS	Event05/05-KG/05-KG-A00/05-KG-A00-009	00:49:00;
+
+[PrintText]=00:44:00	Kotonoha	No dudaré más.	00:45:23;
+
+[PlayVoice]=00:44:00	Voice05/05-KG/05-KG-A00/05-KG-A00-0190	0	kot	00:45:23;
+
+[BlackFade]=00:48:04	OUT	00:48:23;
+
+ ;
+
+[Next]=00:49:00;
+
+
+
+

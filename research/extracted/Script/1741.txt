@@ -1,0 +1,84 @@
+﻿[SkipFRAME]=00:44:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:50:13;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-001	00:02:12;
+
+[PrintText]=00:00:07	Kotonoha	Makoto-kun...	00:02:05;
+
+[PlayVoice]=00:00:07	Voice05/05-SC/05-SC-D00/05-SC-D00-0040	0	kot	00:02:05;
+
+[CreateBG]=00:02:12	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-002	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-003	00:08:20;
+
+[PrintText]=00:05:03	Kotonoha	...	00:06:02;
+
+[PlayVoice]=00:05:03	Voice05/05-SC/05-SC-D00/05-SC-D00-0100	0	xxx	00:06:02;
+
+[PrintText]=00:06:01	Madre de Makoto	¿Hola?^	00:06:22;
+
+[PlayVoice]=00:06:01	Voice05/05-SC/05-SC-D00/05-SC-D00-0110	0	mkm	00:06:22;
+
+[PrintText]=00:06:22	Kotonoha	¡S-Sí! ¡Disculpe!	00:09:13;
+
+[PlayVoice]=00:06:22	Voice05/05-SC/05-SC-D00/05-SC-D00-0120	0	kot	00:09:13;
+
+[CreateBG]=00:08:20	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-004	00:13:20;
+
+[PlaySe]=00:09:18	1	SysSe/SE_all/door/door_mansyon	00:14:23;
+
+[PrintText]=00:13:18	Makoto	Ah, parece que mi madre está de vuelta. Te llamaré después. ¿Huh? Sí, vale. Todo bien, buenas noches.	00:26:00;
+
+[PlayVoice]=00:13:18	Voice05/05-SC/05-SC-D00/05-SC-D00-0190	1	mak	00:26:00;
+
+[CreateBG]=00:13:20	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-005	00:20:02;
+
+[CreateBG]=00:20:02	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-006	00:30:05;
+
+[PrintText]=00:26:00	Madre de Makoto	¿Makoto?^	00:27:00;
+
+[PlayVoice]=00:26:00	Voice05/05-SC/05-SC-D00/05-SC-D00-0200	0	mkm	00:27:00;
+
+[PrintText]=00:27:01	Makoto	¡Sí!	00:27:19;
+
+[PlayVoice]=00:27:01	Voice05/05-SC/05-SC-D00/05-SC-D00-0210	1	mak	00:27:19;
+
+[PrintText]=00:27:19	Madre de Makoto	Tienes visita.	00:29:10;
+
+[PlayVoice]=00:27:19	Voice05/05-SC/05-SC-D00/05-SC-D00-0220	0	mkm	00:29:10;
+
+[PrintText]=00:29:10	Makoto	¿Eh? ¿Quién...? ¿Katou? ¿Ashikaga?^	00:34:09;
+
+[PlayVoice]=00:29:10	Voice05/05-SC/05-SC-D00/05-SC-D00-0230	1	mak	00:34:09;
+
+[CreateBG]=00:30:05	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-007	00:35:05;
+
+[PrintText]=00:34:09	Madre de Makoto	No es uno de tus amigos de la primaria.	00:37:02;
+
+[PlayVoice]=00:34:09	Voice05/05-SC/05-SC-D00/05-SC-D00-0240	0	mkm	00:37:02;
+
+[CreateBG]=00:35:05	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-008	00:40:05;
+
+[PrintText]=00:37:02	Makoto	¿Quién es?^	00:37:17;
+
+[PlayVoice]=00:37:02	Voice05/05-SC/05-SC-D00/05-SC-D00-0250	1	mak	00:37:17;
+
+[PrintText]=00:37:18	Madre de Makoto	Ufufu... tienes una linda novia. Estaba un poco sorprendida.	00:43:05;
+
+[PlayVoice]=00:37:18	Voice05/05-SC/05-SC-D00/05-SC-D00-0260	0	mkm	00:43:05;
+
+[CreateBG]=00:40:05	BGS	Event05/05-SC/05-SC-D00/05-SC-D00-009	00:50:13;
+
+[PrintText]=00:43:05	Makoto	¡¿Eh?!	00:44:10;
+
+[PlayVoice]=00:43:05	Voice05/05-SC/05-SC-D00/05-SC-D00-0270	1	mak	00:44:10;
+
+[SetSELECT]=00:44:10	'Ella no es mi novia'	'Sí... lo es.'	00:49:10;
+
+ ;
+
+[Next]=00:50:13;
+
+
+

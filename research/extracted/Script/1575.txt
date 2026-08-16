@@ -1,0 +1,127 @@
+﻿[SkipFRAME]=01:40:18;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-D00/05-SE-D00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-KF/05-KF-D00/05-KF-D00-002	00:11:00;
+
+[PrintText]=00:03:00	Kotonoha	Eheheh... hace mucho frío.	00:06:06;
+
+[PlayVoice]=00:03:00	Voice05/05-KF/05-KF-D00/05-KF-D00-0040	0	kot	00:06:06;
+
+[PrintText]=00:06:06	Makoto	Sí, es Diciembre.	00:11:01;
+
+[PlayVoice]=00:06:06	Voice05/05-KF/05-KF-D00/05-KF-D00-0050	1	mak	00:11:01;
+
+[CreateBG]=00:11:00	BGS	Event05/05-SE/05-SE-D00/05-SE-D00-003	00:18:23;
+
+[PrintText]=00:11:01	Kotonoha	Si no te importa ¿Por qué no empezamos a almorzar en mi salón?^	00:15:17;
+
+[PlayVoice]=00:11:01	Voice05/05-KF/05-KF-D00/05-KF-D00-0060	0	kot	00:15:17;
+
+[PrintText]=00:15:17	Makoto	¿Clase 4?^	00:18:05;
+
+[PlayVoice]=00:15:17	Voice05/05-KF/05-KF-D00/05-KF-D00-0070	1	mak	00:18:05;
+
+[PrintText]=00:18:05	Kotonoha	Sí.	00:18:22;
+
+[PlayVoice]=00:18:05	Voice05/05-KF/05-KF-D00/05-KF-D00-0080	0	kot	00:18:22;
+
+[PrintText]=00:18:22	Makoto	Pues...	00:21:17;
+
+[PlayVoice]=00:18:22	Voice05/05-KF/05-KF-D00/05-KF-D00-0090	1	mak	00:21:17;
+
+[CreateBG]=00:18:23	BGS	Event05/05-SE/05-SE-D00/05-SE-D00-004	00:26:16;
+
+[PrintText]=00:21:17	Kotonoha	Después de todo, quiero que todos sepan que eres mi novio.	00:26:16;
+
+[PlayVoice]=00:21:17	Voice05/05-KF/05-KF-D00/05-KF-D00-0100	0	kot	00:26:16;
+
+[CreateBG]=00:26:16	BGS	Event05/05-SE/05-SE-D00/05-SE-D00-005	00:47:21;
+
+[PrintText]=00:26:16	Makoto	¿Eh?^	00:27:18;
+
+[PlayVoice]=00:26:16	Voice05/05-KF/05-KF-D00/05-KF-D00-0110	1	mak	00:27:18;
+
+[PrintText]=00:27:19	Kotonoha	¡Ah! ¡Quiero decir...!	00:29:11;
+
+[PlayVoice]=00:27:19	Voice05/05-KF/05-KF-D00/05-KF-D00-0120	0	kot	00:29:11;
+
+[PrintText]=00:29:11	Makoto	¿Qué acabas de decir?^	00:31:08;
+
+[PlayVoice]=00:29:11	Voice05/05-KF/05-KF-D00/05-KF-D00-0130	1	mak	00:31:08;
+
+[PrintText]=00:31:08	Kotonoha	¡Bueno... sabes, eres muy popular!	00:37:17;
+
+[PlayVoice]=00:31:08	Voice05/05-KF/05-KF-D00/05-KF-D00-0140	0	kot	00:37:17;
+
+[PrintText]=00:37:17	Makoto	¿Huh...?^	00:39:14;
+
+[PlayVoice]=00:37:17	Voice05/05-KF/05-KF-D00/05-KF-D00-0150	1	mak	00:39:14;
+
+[PrintText]=00:39:15	Kotonoha	Hay... dos o tres chicas que están interesadas en ti.	00:47:20;
+
+[PlayVoice]=00:39:15	Voice05/05-KF/05-KF-D00/05-KF-D00-0160	0	kot	00:47:20;
+
+[CreateBG]=00:47:21	BGS	Event05/05-KF/05-KF-D00/05-KF-D00-F006	00:58:20;
+
+[PrintText]=00:47:21	Makoto	¿En serio ¿Quienes?^	00:51:19;
+
+[PlayVoice]=00:47:21	Voice05/05-KF/05-KF-D00/05-KF-D00-0170	1	mak	00:51:19;
+
+[PrintText]=00:51:18	Kotonoha	¡No te lo diré! Si lo supieras, empezarías una relación con ellas.	00:56:06;
+
+[PlayVoice]=00:51:18	Voice05/05-KF/05-KF-D00/05-KF-D00-0180	0	kot	00:56:06;
+
+[PrintText]=00:56:06	Makoto	¿Relación?^	00:58:19;
+
+[PlayVoice]=00:56:06	Voice05/05-KF/05-KF-D00/05-KF-D00-0190	1	mak	00:58:19;
+
+[PrintText]=00:58:19	Kotonoha	Y además... Katou-san y Obuchi-san aún no creen que estamos saliendo.	01:08:06;
+
+[PlayVoice]=00:58:19	Voice05/05-KF/05-KF-D00/05-KF-D00-0200	0	kot	01:08:06;
+
+[CreateBG]=00:58:20	BGS	Event05/05-SE/05-SE-D00/05-SE-D00-007	01:28:11;
+
+[PrintText]=01:08:06	Makoto	¿Katou?^	01:10:20;
+
+[PlayVoice]=01:08:06	Voice05/05-KF/05-KF-D00/05-KF-D00-0210	1	mak	01:10:20;
+
+[PrintText]=01:10:20	Kotonoha	Katou-san fue a la misma primaria que tú ¿No es así?^	01:15:08;
+
+[PlayVoice]=01:10:20	Voice05/05-KF/05-KF-D00/05-KF-D00-0220	0	kot	01:15:08;
+
+[PlaySe]=01:11:12	2	SysSe/SE_all/gaya/okujou	01:46:22;
+
+[PrintText]=01:15:08	Makoto	Sí. Estábamos en la misma clase, casi siempre juntos.	01:22:04;
+
+[PlayVoice]=01:15:08	Voice05/05-KF/05-KF-D00/05-KF-D00-0230	1	mak	01:22:04;
+
+[PrintText]=01:22:04	Kotonoha	Dijo que te conocía muy bien, y no podía imaginarme junto a ti.	01:28:13;
+
+[PlayVoice]=01:22:04	Voice05/05-KF/05-KF-D00/05-KF-D00-0240	0	kot	01:28:13;
+
+[CreateBG]=01:28:11	BGS	Event05/05-KF/05-KF-D00/05-KF-D00-008	01:46:22;
+
+[PrintText]=01:28:14	Makoto	Katou dijo ¿huh?^	01:31:02;
+
+[PlayVoice]=01:28:14	Voice05/05-KF/05-KF-D00/05-KF-D00-0250	1	mak	01:31:02;
+
+[PrintText]=01:31:02	Kotonoha	Por eso pienso que si almorzamos en mi salón, todos finalmente sabrían la verdad.	01:38:06;
+
+[PlayVoice]=01:31:02	Voice05/05-KF/05-KF-D00/05-KF-D00-0260	0	kot	01:38:06;
+
+[PrintText]=01:38:06	Makoto	Ya veo...	01:40:17;
+
+[PlayVoice]=01:38:06	Voice05/05-KF/05-KF-D00/05-KF-D00-0270	1	mak	01:40:17;
+
+[SetSELECT]=01:40:18	'¿Así que quieres presumir?'	'No gracias'	01:45:18;
+
+ ;
+
+[Next]=01:46:22;
+
+
+
+

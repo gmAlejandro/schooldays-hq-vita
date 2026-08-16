@@ -1,0 +1,123 @@
+﻿[SkipFRAME]=01:45:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm10	00:39:11;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-A09/SE03-SB-A09-001	01:02:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-A09/03-SB-A09-001	00:02:03;
+
+[PrintText]=00:00:00	Makoto	Yo quiero estar contigo.	00:02:02;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-A09/03-SB-A09-0030	1	mak	00:02:02;
+
+[CreateBG]=00:02:03	BGS	Event03/03-SB/03-SB-A09/03-SB-A09-002	00:10:07;
+
+[PrintText]=00:02:03	Sekai	N-No podemos. Como te dije antes, la fogata es solo para las parejas...	00:09:01;
+
+[PlayVoice]=00:02:03	Voice03/03-SB/03-SB-A09/03-SB-A09-0040	0	sek	00:09:01;
+
+[PrintText]=00:09:01	Makoto	Bailemos aquí.	00:10:07;
+
+[PlayVoice]=00:09:01	Voice03/03-SB/03-SB-A09/03-SB-A09-0050	1	mak	00:10:07;
+
+[CreateBG]=00:10:07	BGS	Event03/03-SB/03-SB-A09/03-SB-A09-003	00:26:08;
+
+[PrintText]=00:10:07	Sekai	¿Aquí?^	00:11:04;
+
+[PlayVoice]=00:10:07	Voice03/03-SB/03-SB-A09/03-SB-A09-0060	0	sek	00:11:04;
+
+[PrintText]=00:11:03	Makoto	Sí. Podemos escuchar la música mientras bailamos.	00:17:05;
+
+[PlayVoice]=00:11:03	Voice03/03-SB/03-SB-A09/03-SB-A09-0070	1	mak	00:17:05;
+
+[PrintText]=00:17:05	Sekai	...	00:17:17;
+
+[PlayVoice]=00:17:05	Voice03/03-SB/03-SB-A09/03-SB-A09-0080	0	xxx	00:17:17;
+
+[PrintText]=00:17:17	Makoto	No habrá nadie por supuesto. Pero por otra parte, estaré contigo todo el tiempo.	00:25:02;
+
+[PlayVoice]=00:17:17	Voice03/03-SB/03-SB-A09/03-SB-A09-0090	1	mak	00:25:02;
+
+[PrintText]=00:25:02	Sekai	...	00:25:12;
+
+[PlayVoice]=00:25:02	Voice03/03-SB/03-SB-A09/03-SB-A09-0100	0	xxx	00:25:12;
+
+[PrintText]=00:25:12	Makoto	¿No?^	00:26:08;
+
+[PlayVoice]=00:25:12	Voice03/03-SB/03-SB-A09/03-SB-A09-0110	1	mak	00:26:08;
+
+[CreateBG]=00:26:08	BGS	Event03/03-SB/03-SB-A09/03-SB-A09-004	00:27:08;
+
+[PrintText]=00:26:08	Sekai	No es justo.	00:27:07;
+
+[PlayVoice]=00:26:08	Voice03/03-SB/03-SB-A09/03-SB-A09-0120	0	sek	00:27:07;
+
+[PrintText]=00:27:07	Makoto	¿Eh...?^	00:27:22;
+
+[PlayVoice]=00:27:07	Voice03/03-SB/03-SB-A09/03-SB-A09-0130	1	mak	00:27:22;
+
+[CreateBG]=00:27:08	BGS	Event03/03-SB/03-SB-A09/03-SB-A09-005	00:27:22;
+
+[CreateBG]=00:27:22	BGS	Event03/03-SB/03-SB-A09/03-SB-A09-006	00:33:08;
+
+[PrintText]=00:27:23	Sekai	La manera en que tú... sugieres las cosas que quiero hacer.	00:32:21;
+
+[PlayVoice]=00:27:23	Voice03/03-SB/03-SB-A09/03-SB-A09-0140	0	sek	00:32:21;
+
+[PrintText]=00:32:21	Makoto	Pues claro.	00:34:16;
+
+[PlayVoice]=00:32:21	Voice03/03-SB/03-SB-A09/03-SB-A09-0150	1	mak	00:34:16;
+
+[CreateBG]=00:33:08	BGS	Event03/03-SB/03-SB-A09/03-SB-A09-007	00:39:11;
+
+[PrintText]=00:34:16	Sekai	Uh-huh...	00:35:08;
+
+[PlayVoice]=00:34:16	Voice03/03-SB/03-SB-A09/03-SB-A09-0160	0	sek	00:35:08;
+
+[PrintText]=00:35:08	Makoto	Después de todo... hay cosas que también quiero hacer.	00:38:18;
+
+[PlayVoice]=00:35:08	Voice03/03-SB/03-SB-A09/03-SB-A09-0170	1	mak	00:38:18;
+
+[PrintText]=00:38:18	Sekai	Uh-huh...	00:39:10;
+
+[PlayVoice]=00:38:18	Voice03/03-SB/03-SB-A09/03-SB-A09-0180	0	sek	00:39:10;
+
+[PrintText]=00:39:10	Makoto	Vamos, ya empezó.	00:41:09;
+
+[PlayVoice]=00:39:10	Voice03/03-SB/03-SB-A09/03-SB-A09-0200	1	mak	00:41:09;
+
+[PlaySe]=00:39:11	2	Se03/03-SB/03-SB-A09/SE03-SB-A09-002	00:59:06;
+
+[PlayMovie]=00:39:11	Movie03/03-SB/03-SB-A09/03-SB-A09-008	0	00:41:21;
+
+[PrintText]=00:41:09	Sekai	Uh-huh.	00:42:12;
+
+[PlayVoice]=00:41:09	Voice03/03-SB/03-SB-A09/03-SB-A09-0210	0	sek	00:42:12;
+
+[PlayMovie]=00:41:21	Movie03/03-SB/03-SB-A09/03-SB-A09-009	0	00:47:11;
+
+[PlayVoice]=00:42:08	Voice03/03-SB/03-SB-A09/03-SB-A09-0220			00:42:23;
+
+[PrintText]=00:43:16	Makoto	¿Me concedes esta pieza?^	00:46:05;
+
+[PlayVoice]=00:43:16	Voice03/03-SB/03-SB-A09/03-SB-A09-0230	1	mak	00:46:05;
+
+[PlayMovie]=00:47:11	Movie03/03-SB/03-SB-A09/03-SB-A09-010	0	00:51:16;
+
+[PrintText]=00:49:00	Sekai	...Sí.	00:51:15;
+
+[PlayVoice]=00:49:00	Voice03/03-SB/03-SB-A09/03-SB-A09-0250	0	sek	00:51:15;
+
+[PlayMovie]=00:51:16	Movie03/03-SB/03-SB-A09/03-SB-A09-011	0	01:02:20;
+
+[EndBGM]=00:58:05	BGM/Vocal/SDV04	03:08:22;
+
+[CreateBG]=01:02:20	BGS	Ini/EndRoll/03-13	01:05:00;
+
+[EndRoll]=01:05:00	Ini/EndRoll/NORMAL	01:45:00;
+
+ ;
+
+[Next]=01:45:00;
+
+

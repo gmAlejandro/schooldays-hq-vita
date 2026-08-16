@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:04:08;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:04:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-H04/05-5O-H04-003	00:02:00;
+
+[PrintText]=00:00:10	Makoto	Vale.	00:01:10;
+
+[PlayVoice]=00:00:10	Voice05/05-5O/05-5O-H07/05-5O-H07-0030	1	mak	00:01:10;
+
+[CreateBG]=00:02:00	BGS	Event05/05-5O/05-5O-H07/05-5O-H07-002	00:04:08;
+
+[PrintText]=00:02:03	Kotonoha	Bien, entonces vamos.	00:04:02;
+
+[PlayVoice]=00:02:03	Voice05/05-5O/05-5O-H07/05-5O-H07-0040	0	kot	00:04:02;
+
+ ;
+
+[Next]=00:04:08;
+
+

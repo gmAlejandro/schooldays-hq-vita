@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:22:03;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-J01/SE03-SA-J01-001	00:22:03;
+
+[PlayMovie]=00:00:00	Movie03/03-SA/03-SA-J01/03-SA-J01-001	0	00:22:03;
+
+[PrintText]=00:00:00	Makoto	Solo pasaba por aquí.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-J01/03-SA-J01-0030	1	mak	00:01:14;
+
+[PrintText]=00:01:15	Kotonoha	¿Eh...?^	00:02:14;
+
+[PlayVoice]=00:01:15	Voice03/03-SA/03-SA-J01/03-SA-J01-0040	0	kot	00:02:14;
+
+[PrintText]=00:02:14	Otome	¿Lo... Lo ves?! Como pensé. Cielos, ya me preocupaba.	00:07:16;
+
+[PlayVoice]=00:02:14	Voice03/03-SA/03-SA-J01/03-SA-J01-0050	0	oto	00:07:16;
+
+[PrintText]=00:07:16	Makoto	Kotonoha.	00:08:16;
+
+[PlayVoice]=00:07:16	Voice03/03-SA/03-SA-J01/03-SA-J01-0060	1	mak	00:08:16;
+
+[PrintText]=00:08:17	Kotonoha	...	00:10:20;
+
+[PlayVoice]=00:08:17	Voice03/03-SA/03-SA-J01/03-SA-J01-0070	0	xxx	00:10:20;
+
+[PrintText]=00:10:20	Makoto	Lo siento. Quería disculparme todo este tiempo... pero no podía decírtelo.	00:17:04;
+
+[PlayVoice]=00:10:20	Voice03/03-SA/03-SA-J01/03-SA-J01-0080	1	mak	00:17:04;
+
+[PrintText]=00:17:04	Kotonoha	No...	00:18:19;
+
+[PlayVoice]=00:17:04	Voice03/03-SA/03-SA-J01/03-SA-J01-0090	0	kot	00:18:19;
+
+[PrintText]=00:18:20	Makoto	Adiós.	00:19:23;
+
+[PlayVoice]=00:18:20	Voice03/03-SA/03-SA-J01/03-SA-J01-0100	1	mak	00:19:23;
+
+[PrintText]=00:19:23	Kotonoha	¡Ah! ¡Makoto-kun!	00:22:03;
+
+[PlayVoice]=00:19:23	Voice03/03-SA/03-SA-J01/03-SA-J01-0110	0	kot	00:22:03;
+
+ ;
+
+[Next]=00:22:03;
+
+

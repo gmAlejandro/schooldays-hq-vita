@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:25:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:25:15;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I01/SE03-KB-I01-001	00:25:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I01/03-KB-I01-001	00:01:04;
+
+[PrintText]=00:00:04	Taisuke	...	00:01:02;
+
+[PlayVoice]=00:00:04	Voice03/03-KB/03-KB-I01/03-KB-I01-0030	1	xxx	00:01:02;
+
+[CreateBG]=00:01:04	BGS	Event03/03-KB/03-KB-I01/03-KB-I01-002	00:20:22;
+
+[PrintText]=00:01:04	Makoto	Cielos... ¿Qué pasa con este chico?^	00:05:13;
+
+[PlayVoice]=00:01:04	Voice03/03-KB/03-KB-I01/03-KB-I01-0050	1	mak	00:05:13;
+
+[PrintText]=00:05:13	Makoto	Todos tienen el día libre menos él, y desaparece...	00:10:03;
+
+[PlayVoice]=00:05:13	Voice03/03-KB/03-KB-I01/03-KB-I01-0060	1	mak	00:10:03;
+
+[PrintText]=00:10:03	Makoto	Si no vuelve, estaré en la cocina para siempre...	00:14:19;
+
+[PlayVoice]=00:10:03	Voice03/03-KB/03-KB-I01/03-KB-I01-0070	1	mak	00:14:19;
+
+[PrintText]=00:14:19	Makoto	Bueno, como sea. No es como tuviera algo mejor que hacer.	00:20:22;
+
+[PlayVoice]=00:14:19	Voice03/03-KB/03-KB-I01/03-KB-I01-0080	1	mak	00:20:22;
+
+[CreateBG]=00:20:22	BGS	Event03/03-KB/03-KB-I01/03-KB-I01-003	00:25:15;
+
+ ;
+
+[Next]=00:25:15;
+
+

@@ -1,0 +1,345 @@
+﻿[SkipFRAME]=03:15:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/yuugata	01:15:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-001	00:07:13;
+
+[PrintText]=00:00:00	Taisuke	Nos divertimos hoy.	00:01:21;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-H01/04-KC-H01-0040	1	tai	00:01:21;
+
+[PrintText]=00:01:21	Kotonoha	Sí.	00:02:18;
+
+[PlayVoice]=00:01:21	Voice04/04-KC/04-KC-H01/04-KC-H01-0050	0	kot	00:02:18;
+
+[PrintText]=00:03:02	Taisuke	Un poco feo como Makoto y Saionji se fueron a la mitad, sin embargo ...	00:07:12;
+
+[PlayVoice]=00:03:02	Voice04/04-KC/04-KC-H01/04-KC-H01-0060	1	tai	00:07:12;
+
+[CreateBG]=00:07:13	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-002	00:12:02;
+
+[PrintText]=00:07:18	Kotonoha	Es que no se sentían bien.	00:11:23;
+
+[PlayVoice]=00:07:18	Voice04/04-KC/04-KC-H01/04-KC-H01-0070	0	kot	00:11:23;
+
+[CreateBG]=00:12:02	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-003	00:25:00;
+
+[PrintText]=00:12:06	Taisuke	Haha... esa es solo una excusa. Pasa todo el tiempo ¿No? Las cosas se ponen calientes, y se van...	00:19:12;
+
+[PlayVoice]=00:12:06	Voice04/04-KC/04-KC-H01/04-KC-H01-0080	1	tai	00:19:12;
+
+[PrintText]=00:19:17	Kotonoha	Makoto-kun y Saionji-san no harían eso.	00:23:14;
+
+[PlayVoice]=00:19:17	Voice04/04-KC/04-KC-H01/04-KC-H01-0090	0	kot	00:23:14;
+
+[PrintText]=00:23:18	Taisuke	¿Tu crees?^	00:24:23;
+
+[PlayVoice]=00:23:18	Voice04/04-KC/04-KC-H01/04-KC-H01-0100	1	tai	00:24:23;
+
+[CreateBG]=00:25:00	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-004	00:33:04;
+
+[PrintText]=00:25:04	Kotonoha	¡Sí!	00:26:05;
+
+[PlayVoice]=00:25:04	Voice04/04-KC/04-KC-H01/04-KC-H01-0110	0	kot	00:26:05;
+
+[PrintText]=00:26:09	Taisuke	Bueno, está bien, entonces.	00:28:06;
+
+[PlayVoice]=00:26:09	Voice04/04-KC/04-KC-H01/04-KC-H01-0120	1	tai	00:28:06;
+
+[PrintText]=00:28:08	Kotonoha	Sawanaga-san, no está bien ver todo desde esa perspectiva.	00:33:04;
+
+[PlayVoice]=00:28:08	Voice04/04-KC/04-KC-H01/04-KC-H01-0130	0	kot	00:33:04;
+
+[CreateBG]=00:33:04	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-005	00:42:01;
+
+[PrintText]=00:33:08	Taisuke	Pero... sabes, no soy el único que piensa así.	00:36:23;
+
+[PlayVoice]=00:33:08	Voice04/04-KC/04-KC-H01/04-KC-H01-0140	1	tai	00:36:23;
+
+[PrintText]=00:37:03	Kotonoha	¿Eh?^	00:37:16;
+
+[PlayVoice]=00:37:03	Voice04/04-KC/04-KC-H01/04-KC-H01-0150	0	kot	00:37:16;
+
+[PrintText]=00:37:23	Taisuke	Los de nuestra clase hablan de que ellos están saliendo.	00:42:00;
+
+[PlayVoice]=00:37:23	Voice04/04-KC/04-KC-H01/04-KC-H01-0160	1	tai	00:42:00;
+
+[CreateBG]=00:42:01	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-006	00:43:17;
+
+[PrintText]=00:42:04	Kotonoha	Oh, de seguro no...	00:43:15;
+
+[PlayVoice]=00:42:04	Voice04/04-KC/04-KC-H01/04-KC-H01-0170	0	kot	00:43:15;
+
+[CreateBG]=00:43:17	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-007	01:01:05;
+
+[PrintText]=00:43:18	Taisuke	Bueno, principalmente Kiyoura, que ya no está.	00:47:23;
+
+[PlayVoice]=00:43:18	Voice04/04-KC/04-KC-H01/04-KC-H01-0180	1	tai	00:47:23;
+
+[PrintText]=00:47:23	Taisuke	Además, ahora ya no los veo juntos como antes, así que ya no escucho rumores como esos...	00:53:16;
+
+[PlayVoice]=00:47:23	Voice04/04-KC/04-KC-H01/04-KC-H01-0181	1	tai	00:53:16;
+
+[PrintText]=00:53:19	Kotonoha	¿Lo ves?^	00:55:03;
+
+[PlayVoice]=00:53:19	Voice04/04-KC/04-KC-H01/04-KC-H01-0190	0	kot	00:55:03;
+
+[PrintText]=00:55:07	Taisuke	Hmm... pero personalmente, es un poco sospechoso.	01:01:04;
+
+[PlayVoice]=00:55:07	Voice04/04-KC/04-KC-H01/04-KC-H01-0200	1	tai	01:01:04;
+
+[CreateBG]=01:01:05	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-008	01:05:05;
+
+[PrintText]=01:01:07	Kotonoha	¡Por supuesto que no!	01:02:22;
+
+[PlayVoice]=01:01:07	Voice04/04-KC/04-KC-H01/04-KC-H01-0210	0	kot	01:02:22;
+
+[PrintText]=01:03:05	Taisuke	V-Vale...	01:05:04;
+
+[PlayVoice]=01:03:05	Voice04/04-KC/04-KC-H01/04-KC-H01-0220	1	tai	01:05:04;
+
+[CreateBG]=01:05:05	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-009	01:07:12;
+
+[PrintText]=01:05:10	Hikari	¿Huh? ¿Sawanaga?^	01:07:12;
+
+[PlayVoice]=01:05:10	Voice04/04-KC/04-KC-H01/04-KC-H01-0230	0	hik	01:07:12;
+
+[CreateBG]=01:07:12	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-010	01:14:01;
+
+[PrintText]=01:07:20	Taisuke	Ah... Kuroda.	01:10:04;
+
+[PlayVoice]=01:07:20	Voice04/04-KC/04-KC-H01/04-KC-H01-0240	1	tai	01:10:04;
+
+[PrintText]=01:10:16	Kotonoha	Um... estás en la clase 3...	01:13:16;
+
+[PlayVoice]=01:10:16	Voice04/04-KC/04-KC-H01/04-KC-H01-0250	0	kot	01:13:16;
+
+[CreateBG]=01:14:01	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-012	01:18:19;
+
+[PlaySe]=01:14:12	2	SysSe/SE_all/gaya/yuugata	02:29:12;
+
+[PrintText]=01:14:16	Hikari	¡Uwah! ¿Qué es esto? ¿Sawanaga en una cita?!	01:18:18;
+
+[PlayVoice]=01:14:16	Voice04/04-KC/04-KC-H01/04-KC-H01-0260	0	hik	01:18:18;
+
+[CreateBG]=01:18:19	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-012B	01:19:23;
+
+[PrintText]=01:19:00	Kotonoha	No, es un malentendido.	01:20:04;
+
+[PlayVoice]=01:19:00	Voice04/04-KC/04-KC-H01/04-KC-H01-0270	0	kot	01:20:04;
+
+[CreateBG]=01:19:23	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-012C	01:21:01;
+
+[PrintText]=01:20:08	Taisuke	¡Harsh!	01:21:01;
+
+[PlayVoice]=01:20:08	Voice04/04-KC/04-KC-H01/04-KC-H01-0280	1	tai	01:21:01;
+
+[CreateBG]=01:21:01	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-013	01:24:19;
+
+[PrintText]=01:21:05	Kotonoha	Solo porque estabas haciendo bromas extrañas.	01:24:18;
+
+[PlayVoice]=01:21:05	Voice04/04-KC/04-KC-H01/04-KC-H01-0290	0	kot	01:24:18;
+
+[CreateBG]=01:24:19	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-014	01:32:09;
+
+[PrintText]=01:24:22	Hikari	Tú... Eres de la clase 4 ¿Verdad?^	01:28:09;
+
+[PlayVoice]=01:24:22	Voice04/04-KC/04-KC-H01/04-KC-H01-0300	0	hik	01:28:09;
+
+[PrintText]=01:28:10	Kotonoha	Soy Katsura.	01:29:17;
+
+[PlayVoice]=01:28:10	Voice04/04-KC/04-KC-H01/04-KC-H01-0310	0	kot	01:29:17;
+
+[PrintText]=01:29:23	Hikari	Soy Kuroda, de la clase 3.	01:32:09;
+
+[PlayVoice]=01:29:23	Voice04/04-KC/04-KC-H01/04-KC-H01-0320	0	hik	01:32:09;
+
+[CreateBG]=01:32:09	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-015	01:41:06;
+
+[PrintText]=01:32:14	Kotonoha	Sí, tenemos educación física juntas ¿No?^	01:35:10;
+
+[PlayVoice]=01:32:14	Voice04/04-KC/04-KC-H01/04-KC-H01-0330	0	kot	01:35:10;
+
+[PrintText]=01:35:16	Hikari	Sí.	01:36:20;
+
+[PlayVoice]=01:35:16	Voice04/04-KC/04-KC-H01/04-KC-H01-0340	0	hik	01:36:20;
+
+[PrintText]=01:37:07	Kotonoha	Kuroda-san, ¿Sawanaga-san y tu están saliendo?^	01:41:06;
+
+[PlayVoice]=01:37:07	Voice04/04-KC/04-KC-H01/04-KC-H01-0350	0	kot	01:41:06;
+
+[CreateBG]=01:41:06	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-016	01:42:10;
+
+[PrintText]=01:41:08	Hikari	¡¿Ehh?!	01:42:10;
+
+[PlayVoice]=01:41:08	Voice04/04-KC/04-KC-H01/04-KC-H01-0360	0	hik	01:42:10;
+
+[CreateBG]=01:42:10	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-017	01:52:07;
+
+[PrintText]=01:42:15	Taisuke	¿D-De que hablas?^	01:45:04;
+
+[PlayVoice]=01:42:15	Voice04/04-KC/04-KC-H01/04-KC-H01-0370	1	tai	01:45:04;
+
+[PrintText]=01:45:14	Kotonoha	Simplemente estoy preguntando.	01:48:13;
+
+[PlayVoice]=01:45:14	Voice04/04-KC/04-KC-H01/04-KC-H01-0380	0	kot	01:48:13;
+
+[PrintText]=01:48:18	Taisuke	Vamos...	01:50:16;
+
+[PlayVoice]=01:48:18	Voice04/04-KC/04-KC-H01/04-KC-H01-0390	1	tai	01:50:16;
+
+[PrintText]=01:50:14	Hikari	¿Qué es todo esto?^	01:52:06;
+
+[PlayVoice]=01:50:14	Voice04/04-KC/04-KC-H01/04-KC-H01-0400	0	hik	01:52:06;
+
+[CreateBG]=01:52:07	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-018	01:56:05;
+
+[PrintText]=01:52:13	Kotonoha	Parece que a Sawanaga-san le gustaría tener una cita contigo.	01:56:04;
+
+[PlayVoice]=01:52:13	Voice04/04-KC/04-KC-H01/04-KC-H01-0410	0	kot	01:56:04;
+
+[CreateBG]=01:56:05	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-019	02:01:20;
+
+[PrintText]=01:56:05	Hikari	¡¿Ehh?!	01:57:05;
+
+[PlayVoice]=01:56:05	Voice04/04-KC/04-KC-H01/04-KC-H01-0420	0	hik	01:57:05;
+
+[PrintText]=01:57:04	Taisuke	¡H-hey, Espera!	01:58:23;
+
+[PlayVoice]=01:57:04	Voice04/04-KC/04-KC-H01/04-KC-H01-0430	1	tai	01:58:23;
+
+[PrintText]=01:59:05	Hikari	¿S-Sawanaga...?^	02:01:19;
+
+[PlayVoice]=01:59:05	Voice04/04-KC/04-KC-H01/04-KC-H01-0440	0	hik	02:01:19;
+
+[CreateBG]=02:01:20	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-020	02:15:05;
+
+[PrintText]=02:02:06	Kotonoha	Te regreso el favor.	02:04:11;
+
+[PlayVoice]=02:02:06	Voice04/04-KC/04-KC-H01/04-KC-H01-0460	0	kot	02:04:11;
+
+[PrintText]=02:04:06	Taisuke	¿Regresar...? Solo decía que Makoto y...	02:09:03;
+
+[PlayVoice]=02:04:06	Voice04/04-KC/04-KC-H01/04-KC-H01-0470	1	tai	02:09:03;
+
+[PrintText]=02:09:06	Kotonoha	Ahora, no quiero molestar, iré a casa. Que se diviertan.	02:15:05;
+
+[PlayVoice]=02:09:06	Voice04/04-KC/04-KC-H01/04-KC-H01-0480	0	kot	02:15:05;
+
+[PlaySe]=02:15:05	1	SysSe/SE_all/footsteps/asioto_okugai	02:18:07;
+
+[CreateBG]=02:15:05	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-022	02:25:10;
+
+[PrintText]=02:16:06	Taisuke	¿Divertir?^	02:18:14;
+
+[PlayVoice]=02:16:06	Voice04/04-KC/04-KC-H01/04-KC-H01-0500	1	tai	02:18:14;
+
+[PrintText]=02:18:19	Hikari	...Sawanaga.	02:20:08;
+
+[PlayVoice]=02:18:19	Voice04/04-KC/04-KC-H01/04-KC-H01-0510	0	hik	02:20:08;
+
+[PrintText]=02:20:18	Taisuke	¿Qué?^	02:22:00;
+
+[PlayVoice]=02:20:18	Voice04/04-KC/04-KC-H01/04-KC-H01-0520	1	tai	02:22:00;
+
+[PrintText]=02:22:11	Hikari	¿Es verdad que quieres una cita?^	02:25:09;
+
+[PlayVoice]=02:22:11	Voice04/04-KC/04-KC-H01/04-KC-H01-0530	0	hik	02:25:09;
+
+[CreateBG]=02:25:10	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-023	02:36:16;
+
+[PrintText]=02:25:17	Taisuke	¡N-No la tomes en serio, tonta! Katsura-san estaba bromeando.	02:32:20;
+
+[PlayVoice]=02:25:17	Voice04/04-KC/04-KC-H01/04-KC-H01-0540	1	tai	02:32:20;
+
+[PlaySe]=02:28:20	1	SysSe/SE_all/gaya/yuugata	03:15:05;
+
+[PrintText]=02:32:21	Hikari	Ya veo...	02:34:03;
+
+[PlayVoice]=02:32:21	Voice04/04-KC/04-KC-H01/04-KC-H01-0550	0	hik	02:34:03;
+
+[PrintText]=02:34:14	Taisuke	...Sí.	02:36:16;
+
+[PlayVoice]=02:34:14	Voice04/04-KC/04-KC-H01/04-KC-H01-0560	1	tai	02:36:16;
+
+[CreateBG]=02:36:16	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-024	02:49:21;
+
+[PrintText]=02:37:10	Hikari	...	02:38:16;
+
+[PlayVoice]=02:37:10	Voice04/04-KC/04-KC-H01/04-KC-H01-0570	0	xxx	02:38:16;
+
+[PrintText]=02:38:22	Taisuke	...	02:40:02;
+
+[PlayVoice]=02:38:22	Voice04/04-KC/04-KC-H01/04-KC-H01-0580	1	xxx	02:40:02;
+
+[PrintText]=02:40:15	Hikari	Creo que me gustaría, sin embargo.	02:44:09;
+
+[PlayVoice]=02:40:15	Voice04/04-KC/04-KC-H01/04-KC-H01-0590	0	hik	02:44:09;
+
+[PrintText]=02:44:17	Taisuke	¿Eh?^	02:45:07;
+
+[PlayVoice]=02:44:17	Voice04/04-KC/04-KC-H01/04-KC-H01-0600	1	tai	02:45:07;
+
+[PrintText]=02:45:20	Hikari	Una cita.	02:46:19;
+
+[PlayVoice]=02:45:20	Voice04/04-KC/04-KC-H01/04-KC-H01-0610	0	hik	02:46:19;
+
+[PrintText]=02:47:09	Taisuke	¿Conmigo?^	02:48:12;
+
+[PlayVoice]=02:47:09	Voice04/04-KC/04-KC-H01/04-KC-H01-0620	1	tai	02:48:12;
+
+[PrintText]=02:48:23	Hikari	Uh-huh.	02:49:20;
+
+[PlayVoice]=02:48:23	Voice04/04-KC/04-KC-H01/04-KC-H01-0630	0	hik	02:49:20;
+
+[CreateBG]=02:49:21	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-025	02:59:17;
+
+[PrintText]=02:50:02	Taisuke	Ah...	02:50:19;
+
+[PlayVoice]=02:50:02	Voice04/04-KC/04-KC-H01/04-KC-H01-0640	1	tai	02:50:19;
+
+[PrintText]=02:51:03	Hikari	No tienes que si no quieres, sin embargo.	02:53:01;
+
+[PlayVoice]=02:51:03	Voice04/04-KC/04-KC-H01/04-KC-H01-0650	0	hik	02:53:01;
+
+[PrintText]=02:53:08	Taisuke	No... Creo que debería de todas maneras.	02:59:17;
+
+[PlayVoice]=02:53:08	Voice04/04-KC/04-KC-H01/04-KC-H01-0660	1	tai	02:59:17;
+
+[CreateBG]=02:59:17	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-026	03:05:15;
+
+[PrintText]=02:59:22	Hikari	¿Deberías?^	03:00:20;
+
+[PlayVoice]=02:59:22	Voice04/04-KC/04-KC-H01/04-KC-H01-0670	0	hik	03:00:20;
+
+[PrintText]=03:01:00	Taisuke	No, Lo haré.	03:03:23;
+
+[PlayVoice]=03:01:00	Voice04/04-KC/04-KC-H01/04-KC-H01-0680	1	tai	03:03:23;
+
+[PrintText]=03:04:07	Hikari	Uh-huh...	03:05:09;
+
+[PlayVoice]=03:04:07	Voice04/04-KC/04-KC-H01/04-KC-H01-0690	0	hik	03:05:09;
+
+[CreateBG]=03:05:15	BGS	Event04/04-KC/04-KC-H01/04-KC-H01-027	03:15:05;
+
+[PrintText]=03:05:15	Taisuke	¿Deberíamos ir, entonces?^	03:07:19;
+
+[PlayVoice]=03:05:15	Voice04/04-KC/04-KC-H01/04-KC-H01-0700	1	tai	03:07:19;
+
+[PrintText]=03:08:01	Hikari	Uh-huh...	03:09:07;
+
+[PlayVoice]=03:08:01	Voice04/04-KC/04-KC-H01/04-KC-H01-0710	0	hik	03:09:07;
+
+[PrintText]=03:09:10	Taisuke	¿A dónde deberíamos ir?^	03:11:01;
+
+[PlayVoice]=03:09:10	Voice04/04-KC/04-KC-H01/04-KC-H01-0720	1	tai	03:11:01;
+
+[PrintText]=03:11:08	Hikari	Veamos...	03:14:05;
+
+[PlayVoice]=03:11:08	Voice04/04-KC/04-KC-H01/04-KC-H01-0730	0	hik	03:14:05;
+
+ ;
+
+[Next]=03:15:05;
+
+

@@ -1,0 +1,111 @@
+﻿[SkipFRAME]=01:00:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	01:00:01;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-001	00:02:02;
+
+[PrintText]=00:00:00	Setsuna	Phew...	00:01:14;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-A03/05-SD-A03-0050	0	set	00:01:14;
+
+[PrintText]=00:02:01	Makoto	¿Estás segura de esto?^	00:04:17;
+
+[PlayVoice]=00:02:01	Voice05/05-SD/05-SD-A03/05-SD-A03-0070	1	mak	00:04:17;
+
+[CreateBG]=00:02:02	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-003	00:08:18;
+
+[PrintText]=00:05:00	Setsuna	Uh-huh. Gracias por la ayuda.	00:08:10;
+
+[PlayVoice]=00:05:00	Voice05/05-SD/05-SD-A03/05-SD-A03-0080	0	set	00:08:10;
+
+[CreateBG]=00:08:18	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-004	00:16:21;
+
+[PrintText]=00:08:18	Makoto	De alguna manera, siento que estuviera engañando a Sekai...	00:12:02;
+
+[PlayVoice]=00:08:18	Voice05/05-SD/05-SD-A03/05-SD-A03-0090	1	mak	00:12:02;
+
+[PrintText]=00:12:08	Setsuna	¿En serio?^	00:13:11;
+
+[PlayVoice]=00:12:08	Voice05/05-SD/05-SD-A03/05-SD-A03-0100	0	set	00:13:11;
+
+[PrintText]=00:13:20	Makoto	Sé que esta es una gran idea para que no se transfiera, pero...	00:16:21;
+
+[PlayVoice]=00:13:20	Voice05/05-SD/05-SD-A03/05-SD-A03-0110	1	mak	00:16:21;
+
+[CreateBG]=00:16:21	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-005	00:23:18;
+
+[PrintText]=00:17:05	Setsuna	Bueno, personalmente no puedo decir que esperaba esto.	00:20:23;
+
+[PlayVoice]=00:17:05	Voice05/05-SD/05-SD-A03/05-SD-A03-0120	0	set	00:20:23;
+
+[PrintText]=00:21:03	Makoto	¿Eh?^	00:22:05;
+
+[PlayVoice]=00:21:03	Voice05/05-SD/05-SD-A03/05-SD-A03-0130	1	mak	00:22:05;
+
+[PrintText]=00:22:10	Setsuna	Oh, nada.	00:23:12;
+
+[PlayVoice]=00:22:10	Voice05/05-SD/05-SD-A03/05-SD-A03-0140	0	set	00:23:12;
+
+[CreateBG]=00:23:18	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-001	00:38:21;
+
+[PrintText]=00:23:18	Makoto	Kiyoura... ¿Qué deberíamos hacer ahora?^	00:27:19;
+
+[PlayVoice]=00:23:18	Voice05/05-SD/05-SD-A03/05-SD-A03-0150	1	mak	00:27:19;
+
+[PrintText]=00:28:00	Setsuna	Nada.	00:29:05;
+
+[PlayVoice]=00:28:00	Voice05/05-SD/05-SD-A03/05-SD-A03-0160	0	set	00:29:05;
+
+[PrintText]=00:29:10	Makoto	¿Eh?^	00:30:02;
+
+[PlayVoice]=00:29:10	Voice05/05-SD/05-SD-A03/05-SD-A03-0170	1	mak	00:30:02;
+
+[PrintText]=00:30:07	Setsuna	Arreglar las cosas y amistarnos con Sekai de nuevo.	00:34:18;
+
+[PlayVoice]=00:30:07	Voice05/05-SD/05-SD-A03/05-SD-A03-0180	0	set	00:34:18;
+
+[PrintText]=00:34:18	Makoto	Sí... vale.	00:38:21;
+
+[PlayVoice]=00:34:18	Voice05/05-SD/05-SD-A03/05-SD-A03-0190	1	mak	00:38:21;
+
+[CreateBG]=00:38:21	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-007	00:48:13;
+
+[PrintText]=00:39:01	Setsuna	Dale tu apoyo. No dejes de vuelva a llorar.	00:48:12;
+
+[PlayVoice]=00:39:01	Voice05/05-SD/05-SD-A03/05-SD-A03-0200	0	set	00:48:12;
+
+[CreateBG]=00:48:13	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-008	00:53:16;
+
+[PrintText]=00:48:13	Makoto	Lo prometo.	00:49:16;
+
+[PlayVoice]=00:48:13	Voice05/05-SD/05-SD-A03/05-SD-A03-0210	1	mak	00:49:16;
+
+[PrintText]=00:49:16	Setsuna	...Bien.	00:52:21;
+
+[PlayVoice]=00:49:16	Voice05/05-SD/05-SD-A03/05-SD-A03-0220	0	set	00:52:21;
+
+[PrintText]=00:52:22	Makoto	Sí.	00:53:11;
+
+[PlayVoice]=00:52:22	Voice05/05-SD/05-SD-A03/05-SD-A03-0230	1	mak	00:53:11;
+
+[CreateBG]=00:53:16	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-009	00:58:00;
+
+[PrintText]=00:53:16	Setsuna	...Porque ya no voy a poder protegerla.	00:58:01;
+
+[PlayVoice]=00:53:16	Voice05/05-SD/05-SD-A03/05-SD-A03-0240	0	set	00:58:01;
+
+[CreateBG]=00:58:00	BGS	Event05/05-SD/05-SD-A03/05-SD-A03-010	01:00:01;
+
+[PrintText]=00:58:07	Makoto	¿Eh?^	00:58:22;
+
+[PlayVoice]=00:58:07	Voice05/05-SD/05-SD-A03/05-SD-A03-0250	1	mak	00:58:22;
+
+[BlackFade]=00:59:01	OUT	01:00:01;
+
+ ;
+
+[Next]=01:00:01;
+
+
+
+

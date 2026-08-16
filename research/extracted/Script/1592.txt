@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:36:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:36:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/footsteps/asioto_okugai	00:05:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-001	00:05:19;
+
+[PrintText]=00:00:00	Makoto	No se lo mencionaste.	00:04:04;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-H00/05-KF-H00-0040	1	mak	00:04:04;
+
+[PrintText]=00:04:04	Sekai	Uh-huh.	00:05:09;
+
+[PlayVoice]=00:04:04	Voice05/05-KF/05-KF-H00/05-KF-H00-0050	0	sek	00:05:09;
+
+[PrintText]=00:05:09	Makoto	¿Por qué?^	00:06:20;
+
+[PlayVoice]=00:05:09	Voice05/05-KF/05-KF-H00/05-KF-H00-0060	1	mak	00:06:20;
+
+[CreateBG]=00:05:18	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-002	00:17:14;
+
+[PrintText]=00:06:20	Sekai	Pensé en hacerlo, pero Sawanaga podía sorprenderse si escuchaba que salía contigo.	00:15:22;
+
+[PlayVoice]=00:06:20	Voice05/05-KF/05-KF-H00/05-KF-H00-0070	0	sek	00:15:22;
+
+[PrintText]=00:15:22	Makoto	Sí.	00:17:13;
+
+[PlayVoice]=00:15:22	Voice05/05-KF/05-KF-H00/05-KF-H00-0080	1	mak	00:17:13;
+
+[PrintText]=00:17:13	Sekai	Se notaba sorprendido cuando escucho que estábamos terminando. No podía echar sal en la herida.	00:27:20;
+
+[PlayVoice]=00:17:13	Voice05/05-KF/05-KF-H00/05-KF-H00-0090	0	sek	00:27:20;
+
+[CreateBG]=00:17:14	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-003	00:30:06;
+
+[PrintText]=00:27:21	Makoto	Ya veo...	00:30:04;
+
+[PlayVoice]=00:27:21	Voice05/05-KF/05-KF-H00/05-KF-H00-0100	1	mak	00:30:04;
+
+[PrintText]=00:30:04	Sekai	¿Crees que debí decírselo?^	00:33:08;
+
+[PlayVoice]=00:30:04	Voice05/05-KF/05-KF-H00/05-KF-H00-0110	0	sek	00:33:08;
+
+[CreateBG]=00:30:06	BGS	Event05/05-KF/05-KF-H02/05-KF-H02-002	00:36:00;
+
+[PrintText]=00:33:08	Makoto	Pues...	00:35:05;
+
+[PlayVoice]=00:33:08	Voice05/05-KF/05-KF-H00/05-KF-H00-0120	1	mak	00:35:05;
+
+ ;
+
+[Next]=00:36:00;
+
+
+
+

@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:35:10;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-D04/SE01-00-D04-001	00:35:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-D04/01-00-D04-001	00:02:20;
+
+[PrintText]=00:00:12	Makoto	...Restrictivo.	00:01:19;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-D04/01-00-D04-0030	1	mak	00:01:19;
+
+[PrintText]=00:01:15	Sekai	¿Restrictivo...?^	00:02:17;
+
+[PlayVoice]=00:01:15	Voice01/01-00/01-00-D04/01-00-D04-0040	0	sek	00:02:17;
+
+[CreateBG]=00:02:20	BGS	Event01/01-00/01-00-D04/01-00-D04-002	00:11:02;
+
+[PrintText]=00:02:23	Makoto	Pensaba que íbamos a seguir siendo amigos aún así este saliendo con Katsura.	00:09:15;
+
+[PlayVoice]=00:02:23	Voice01/01-00/01-00-D04/01-00-D04-0050	1	mak	00:09:15;
+
+[PrintText]=00:09:14	Sekai	Somos amigos.	00:11:00;
+
+[PlayVoice]=00:09:14	Voice01/01-00/01-00-D04/01-00-D04-0060	0	sek	00:11:00;
+
+[CreateBG]=00:11:02	BGS	Event01/01-00/01-00-D04/01-00-D04-003	00:14:20;
+
+[PrintText]=00:11:03	Makoto	Pero ya no almorzaremos como siempre ¿No?^	00:14:21;
+
+[PlayVoice]=00:11:03	Voice01/01-00/01-00-D04/01-00-D04-0070	1	mak	00:14:21;
+
+[CreateBG]=00:14:20	BGS	Event01/01-00/01-00-D04/01-00-D04-004	00:16:15;
+
+[PrintText]=00:14:20	Sekai	Sí...	00:16:08;
+
+[PlayVoice]=00:14:20	Voice01/01-00/01-00-D04/01-00-D04-0080	0	sek	00:16:08;
+
+[CreateBG]=00:16:15	BGS	Event01/01-00/01-00-D04/01-00-D04-005	00:23:14;
+
+[PrintText]=00:17:00	Makoto	Se siente un poco restrictivo... ya no poder almorzar más con mi amiga.	00:22:12;
+
+[PlayVoice]=00:17:00	Voice01/01-00/01-00-D04/01-00-D04-0090	1	mak	00:22:12;
+
+[PrintText]=00:22:10	Sekai	Bueno...	00:23:18;
+
+[PlayVoice]=00:22:10	Voice01/01-00/01-00-D04/01-00-D04-0100	0	sek	00:23:18;
+
+[CreateBG]=00:23:14	BGS	Event01/01-00/01-00-D04/01-00-D04-006	00:31:22;
+
+[PrintText]=00:23:14	Makoto	Vamos, si realmente somos amigos, deberías poder almorzar con nosotros ¿No?^	00:28:13;
+
+[PlayVoice]=00:23:14	Voice01/01-00/01-00-D04/01-00-D04-0110	1	mak	00:28:13;
+
+[PrintText]=00:28:20	Sekai	Sí, creo que tienes razón...	00:31:20;
+
+[PlayVoice]=00:28:20	Voice01/01-00/01-00-D04/01-00-D04-0120	0	sek	00:31:20;
+
+[CreateBG]=00:31:22	BGS	Event01/01-00/01-00-D04/01-00-D04-007	00:35:10;
+
+[PrintText]=00:31:23	Makoto	¿Ves? Vamos de una vez.	00:34:09;
+
+[PlayVoice]=00:31:23	Voice01/01-00/01-00-D04/01-00-D04-0130	1	mak	00:34:09;
+
+[BlackFade]=00:34:10	OUT	00:35:10;
+
+ ;
+
+[Next]=00:35:10;
+
+
+
+

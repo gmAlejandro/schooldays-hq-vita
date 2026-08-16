@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:18:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:18:06;
+
+[PlaySe]=00:00:00	1	Voice01/01-00/01-00-R00/01-00-R00-0055	00:14:19;
+
+[CreateBG]=00:00:00	BGS	Ini/Event01/01-00/01-00-R05/01-00-R05-001	00:02:21;
+
+#[PrintText]=00:00:00	Makoto	"¿Te refieres al beso?".	00:02:21;
+
+[CreateBG]=00:02:21	BGS	Event01/01-00/01-00-R05/01-00-R05-002	00:04:20;
+
+[PlayMovie]=00:04:20	Ini/Movie01/01-00/01-00-R05/01-00-R05-003	0	00:07:14;
+
+#[PrintText]=00:04:21	Sekai	"¡¿La besaste?! ¿Ayer?!".	00:07:13;
+
+[PlayMovie]=00:07:14	Movie01/01-00/01-00-R05/01-00-R05-004	0	00:10:09;
+
+[CreateBG]=00:10:09	BGS	Event01/01-00/01-00-R05/01-00-R05-005	00:10:21;
+
+[CreateBG]=00:10:21	BGS	Ini/Event01/01-00/01-00-R05/01-00-R05-006	00:13:06;
+
+#[PrintText]=00:10:21	Makoto	"Por supuesto que no, Tonta!\n¡Quiero decir lo que pasó contigo ayer!".	00:13:06;
+
+[CreateBG]=00:13:06	BGS	Ini/Event01/01-00/01-00-R05/01-00-R05-007	00:15:09;
+
+#[PrintText]=00:13:06	Sekai	"¡Te dije que olvidaras eso!".	00:15:08;
+
+[PlaySe]=00:14:19	2	Voice01/01-00/01-00-R00/01-00-R00-0056	00:18:06;
+
+[CreateBG]=00:15:09	BGS	Event01/01-00/01-00-R05/01-00-R05-008	00:18:06;
+
+[PrintText]=00:15:19	Makoto	Como si pudiera olvidarlo...	00:17:12;
+
+[PlayVoice]=00:15:19	Voice01/01-00/01-00-R05/01-00-R05-0090	1	mak	00:17:12;
+
+ ;
+
+[Next]=00:18:06;
+
+
+
+

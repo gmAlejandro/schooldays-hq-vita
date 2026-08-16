@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:08:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:08:21;
+
+[PlaySe]=00:00:00	1	Voice01/01-1K/01-1K-K00/01-1K-K00-0091	00:08:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-K02/01-1K-K02-001A	00:02:13;
+
+[CreateBG]=00:02:13	BGS	Ini/Event01/01-1K/01-1K-K02/01-1K-K02-001B	00:05:17;
+
+#[PrintText]=00:02:13	Sekai	"¿Te peleaste con Katsura-san?".	00:08:21;
+
+[CreateBG]=00:05:17	BGS	Ini/Event01/01-1K/01-1K-K02/01-1K-K02-001C	00:08:21;
+
+ ;
+
+[Next]=00:08:21;
+
+
+
+

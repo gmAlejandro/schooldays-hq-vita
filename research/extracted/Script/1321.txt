@@ -1,0 +1,285 @@
+﻿[SkipFRAME]=03:58:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	01:10:14;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-D03/05-5O-D03-001	00:13:14;
+
+[PrintText]=00:01:01	Itaru	¡Hamburguesa hamburguesa, las hamburguesas de onii-cha son deliciosas! Kfufu.	00:12:23;
+
+[PlayVoice]=00:01:01	Voice05/05-5O/05-5O-D03/05-5O-D03-0030	0	ita	00:12:23;
+
+[CreateBG]=00:13:14	BGS	Event05/05-5O/05-5O-D03/05-5O-D03-002	00:34:10;
+
+[PrintText]=00:13:22	Makoto	Sí... uh-huh. Itaru está aquí ahora. Sí. Le haré una hamburguesa ¿Huh? Sí, ya sé.	00:26:01;
+
+[PlayVoice]=00:13:22	Voice05/05-5O/05-5O-D03/05-5O-D03-0050	1	mak	00:26:01;
+
+[PrintText]=00:26:07	Makoto	Después que se calme, la llevaré a casa mañana.	00:29:07;
+
+[PlayVoice]=00:26:07	Voice05/05-5O/05-5O-D03/05-5O-D03-0051	1	mak	00:29:07;
+
+[PrintText]=00:29:14	Itaru	¡Onii-cha!	00:31:02;
+
+[PlayVoice]=00:29:14	Voice05/05-5O/05-5O-D03/05-5O-D03-0060	0	ita	00:31:02;
+
+[PrintText]=00:31:13	Makoto	Ah, me está llamando. Hablamos después.	00:33:20;
+
+[PlayVoice]=00:31:13	Voice05/05-5O/05-5O-D03/05-5O-D03-0070	1	mak	00:33:20;
+
+[CreateBG]=00:34:11	BGS	Event05/05-5O/05-5O-D03/05-5O-D03-003	00:54:16;
+
+[PrintText]=00:34:16	Itaru	¡Gracias por la comida, Onii-cha!	00:36:23;
+
+[PlayVoice]=00:34:16	Voice05/05-5O/05-5O-D03/05-5O-D03-0090	0	ita	00:36:23;
+
+[PrintText]=00:37:07	Makoto	Aww, Mira toda tu boca.	00:41:08;
+
+[PlayVoice]=00:37:07	Voice05/05-5O/05-5O-D03/05-5O-D03-0100	1	mak	00:41:08;
+
+[PrintText]=00:41:15	Itaru	Hehe... ¿Fui una buena niña?^	00:43:11;
+
+[PlayVoice]=00:41:15	Voice05/05-5O/05-5O-D03/05-5O-D03-0110	0	ita	00:43:11;
+
+[PrintText]=00:43:17	Makoto	Sí, lo fuiste. Te lo comiste todo.	00:46:15;
+
+[PlayVoice]=00:43:17	Voice05/05-5O/05-5O-D03/05-5O-D03-0120	1	mak	00:46:15;
+
+[PrintText]=00:46:21	Itaru	¡Fui elogiada!	00:48:17;
+
+[PlayVoice]=00:46:21	Voice05/05-5O/05-5O-D03/05-5O-D03-0130	0	ita	00:48:17;
+
+[PrintText]=00:49:01	Makoto	Uwah, también hay restos en tu ropa... te tomarás un baño.	00:54:22;
+
+[PlayVoice]=00:49:01	Voice05/05-5O/05-5O-D03/05-5O-D03-0140	1	mak	00:54:22;
+
+[CreateBG]=00:54:16	BGS	Event05/05-5O/05-5O-D03/05-5O-D03-003B	01:10:14;
+
+[PrintText]=00:54:16	Itaru	¿Ehh? Quiero jugar.	00:58:05;
+
+[PlayVoice]=00:54:16	Voice05/05-5O/05-5O-D03/05-5O-D03-0150	0	ita	00:58:05;
+
+[PrintText]=00:57:21	Makoto	No, tenemos que quitarte eso y lavarlo rápido.	01:01:07;
+
+[PlayVoice]=00:57:21	Voice05/05-5O/05-5O-D03/05-5O-D03-0160	1	mak	01:01:07;
+
+[PrintText]=01:01:13	Itaru	Mmn... no quiero.	01:04:12;
+
+[PlayVoice]=01:01:13	Voice05/05-5O/05-5O-D03/05-5O-D03-0170	0	ita	01:04:12;
+
+[PrintText]=01:04:17	Makoto	Entraré contigo ¿Vale?^	01:06:12;
+
+[PlayVoice]=01:04:17	Voice05/05-5O/05-5O-D03/05-5O-D03-0180	1	mak	01:06:12;
+
+[PrintText]=01:06:20	Itaru	¿En serio?^	01:07:22;
+
+[PlayVoice]=01:06:20	Voice05/05-5O/05-5O-D03/05-5O-D03-0190	0	ita	01:07:22;
+
+[PrintText]=01:08:04	Makoto	Sí.	01:08:19;
+
+[PlayVoice]=01:08:04	Voice05/05-5O/05-5O-D03/05-5O-D03-0200	1	mak	01:08:19;
+
+[PrintText]=01:08:21	Itaru	¡Bieeen!	01:10:11;
+
+[PlayVoice]=01:08:21	Voice05/05-5O/05-5O-D03/05-5O-D03-0210	0	ita	01:10:11;
+
+[CreateBG]=01:10:14	BGS	Event05/05-5O/05-5O-D07/05-5O-D07-002	01:12:14;
+
+[PlayBgm]=01:12:14	BGM/SD_BGM/sdbgm08	03:58:00;
+
+[PlayMovie]=01:12:14	Movie05/05-5O/05-5O-D03/05-5O-D03-007	0	01:27:14;
+
+[PrintText]=01:12:18	Itaru	Onii-cha.	01:14:11;
+
+[PlayVoice]=01:12:18	Voice05/05-5O/05-5O-D03/05-5O-D03-0250	0	ita	01:14:11;
+
+[PrintText]=01:14:12	Makoto	¿Hmn?^	01:15:12;
+
+[PlayVoice]=01:14:12	Voice05/05-5O/05-5O-D03/05-5O-D03-0260	1	mak	01:15:12;
+
+[PrintText]=01:15:11	Itaru	Lo siento...	01:17:00;
+
+[PlayVoice]=01:15:11	Voice05/05-5O/05-5O-D03/05-5O-D03-0270	0	ita	01:17:00;
+
+[PrintText]=01:17:17	Makoto	¿Por?^	01:18:21;
+
+[PlayVoice]=01:17:17	Voice05/05-5O/05-5O-D03/05-5O-D03-0280	1	mak	01:18:21;
+
+[PrintText]=01:19:06	Itaru	Te veías triste...y... he venido.	01:24:05;
+
+[PlayVoice]=01:19:06	Voice05/05-5O/05-5O-D03/05-5O-D03-0290	0	ita	01:24:05;
+
+[PrintText]=01:24:14	Makoto	Tontita, estoy bien.	01:27:19;
+
+[PlayVoice]=01:24:14	Voice05/05-5O/05-5O-D03/05-5O-D03-0300	1	mak	01:27:19;
+
+[PrintText]=01:27:13	Itaru	No, puedo decirlo. Porque lo siento.	01:33:11;
+
+[PlayVoice]=01:27:13	Voice05/05-5O/05-5O-D03/05-5O-D03-0310	0	ita	01:33:11;
+
+[PlayMovie]=01:27:14	Movie05/05-5O/05-5O-D03/05-5O-D03-008	0	01:47:04;
+
+[PrintText]=01:34:07	Makoto	Ya veo... si, creo que es así.	01:39:09;
+
+[PlayVoice]=01:34:07	Voice05/05-5O/05-5O-D03/05-5O-D03-0320	1	mak	01:39:09;
+
+[PrintText]=01:39:13	Itaru	¿Hay algo que te molesta?^	01:41:21;
+
+[PlayVoice]=01:39:13	Voice05/05-5O/05-5O-D03/05-5O-D03-0330	0	ita	01:41:21;
+
+[PrintText]=01:42:13	Makoto	¿Eh...?^	01:43:06;
+
+[PlayVoice]=01:42:13	Voice05/05-5O/05-5O-D03/05-5O-D03-0340	1	mak	01:43:06;
+
+[PrintText]=01:43:11	Itaru	Escucharé tus problemas.	01:46:15;
+
+[PlayVoice]=01:43:11	Voice05/05-5O/05-5O-D03/05-5O-D03-0350	0	ita	01:46:15;
+
+[PlayMovie]=01:47:04	Movie05/05-5O/05-5O-D03/05-5O-D03-009	0	02:05:19;
+
+[PrintText]=01:47:07	Makoto	Quieres decir ¿Como una consejera?^	01:49:12;
+
+[PlayVoice]=01:47:07	Voice05/05-5O/05-5O-D03/05-5O-D03-0360	1	mak	01:49:12;
+
+[PrintText]=01:49:20	Itaru	Uh-huh. Como en la TV, la señorita escuchando los problemas de las personas detrás de un cristal borroso.	01:57:09;
+
+[PlayVoice]=01:49:20	Voice05/05-5O/05-5O-D03/05-5O-D03-0370	0	ita	01:57:09;
+
+[PrintText]=01:57:16	Makoto	Haha... ¿Ese show, huh?^	02:00:02;
+
+[PlayVoice]=01:57:16	Voice05/05-5O/05-5O-D03/05-5O-D03-0380	1	mak	02:00:02;
+
+[PrintText]=02:00:06	Itaru	Dime tus problemas, Onii-cha.	02:02:20;
+
+[PlayVoice]=02:00:06	Voice05/05-5O/05-5O-D03/05-5O-D03-0390	0	ita	02:02:20;
+
+[PrintText]=02:03:00	Makoto	Problemas ¿huh?^	02:04:18;
+
+[PlayVoice]=02:03:00	Voice05/05-5O/05-5O-D03/05-5O-D03-0400	1	mak	02:04:18;
+
+[PrintText]=02:04:15	Itaru	Uh-huh.	02:05:13;
+
+[PlayVoice]=02:04:15	Voice05/05-5O/05-5O-D03/05-5O-D03-0410	0	ita	02:05:13;
+
+[PlayMovie]=02:05:19	Movie05/05-5O/05-5O-D03/05-5O-D03-010	0	02:24:15;
+
+[PrintText]=02:05:19	Makoto	Bueno... creo que el hablarlo me hará sentir mejor.	02:10:20;
+
+[PlayVoice]=02:05:19	Voice05/05-5O/05-5O-D03/05-5O-D03-0420	1	mak	02:10:20;
+
+[PrintText]=02:11:00	Itaru	¿Fweh?^	02:12:01;
+
+[PlayVoice]=02:11:00	Voice05/05-5O/05-5O-D03/05-5O-D03-0430	0	ita	02:12:01;
+
+[PrintText]=02:12:08	Makoto	Itaru.	02:13:07;
+
+[PlayVoice]=02:12:08	Voice05/05-5O/05-5O-D03/05-5O-D03-0440	1	mak	02:13:07;
+
+[PrintText]=02:13:07	Itaru	Uh-huh.	02:14:02;
+
+[PlayVoice]=02:13:07	Voice05/05-5O/05-5O-D03/05-5O-D03-0450	0	ita	02:14:02;
+
+[PrintText]=02:14:12	Makoto	No quiero que pienses tanto en esto ¿Vale? Solo quiero que me escuches, me hará sentir mejor.	02:24:14;
+
+[PlayVoice]=02:14:12	Voice05/05-5O/05-5O-D03/05-5O-D03-0460	1	mak	02:24:14;
+
+[PlayMovie]=02:24:15	Movie05/05-5O/05-5O-D03/05-5O-D03-011	0	02:27:06;
+
+[PrintText]=02:24:22	Itaru	Vale, escucharé.	02:26:10;
+
+[PlayVoice]=02:24:22	Voice05/05-5O/05-5O-D03/05-5O-D03-0470	0	ita	02:26:10;
+
+[CreateBG]=02:27:06	BGS	Event05/05-5O/05-5O-D07/05-5O-D07-002	02:48:12;
+
+[PrintText]=02:27:08	Makoto	Bien, sabes, hay una chica que a tu hermano le gusta.	02:30:21;
+
+[PlayVoice]=02:27:08	Voice05/05-5O/05-5O-D03/05-5O-D03-0480	1	mak	02:30:21;
+
+[PrintText]=02:31:04	Itaru	¿Itaru?^	02:32:09;
+
+[PlayVoice]=02:31:04	Voice05/05-5O/05-5O-D03/05-5O-D03-0490	0	ita	02:32:09;
+
+[PrintText]=02:32:19	Makoto	Tú también me gustas. pero esta chica es diferente.	02:36:00;
+
+[PlayVoice]=02:32:19	Voice05/05-5O/05-5O-D03/05-5O-D03-0500	1	mak	02:36:00;
+
+[PrintText]=02:36:14	Itaru	Bien.	02:37:14;
+
+[PlayVoice]=02:36:14	Voice05/05-5O/05-5O-D03/05-5O-D03-0510	0	ita	02:37:14;
+
+[PrintText]=02:37:17	Makoto	Pero de alguna manera, termine con otra chica. Me gusta esta nueva chica, podría decir que estoy enamorado.	02:48:01;
+
+[PlayVoice]=02:37:17	Voice05/05-5O/05-5O-D03/05-5O-D03-0520	1	mak	02:48:01;
+
+[PlayMovie]=02:48:12	Movie05/05-5O/05-5O-D03/05-5O-D03-013	0	03:18:13;
+
+[PrintText]=02:48:18	Itaru	Uh-huh.	02:49:19;
+
+[PlayVoice]=02:48:18	Voice05/05-5O/05-5O-D03/05-5O-D03-0530	0	ita	02:49:19;
+
+[PrintText]=02:50:12	Makoto	Después, noté que estaba equivocado, y decidí ser honesto conmigo.	02:56:11;
+
+[PlayVoice]=02:50:12	Voice05/05-5O/05-5O-D03/05-5O-D03-0540	1	mak	02:56:11;
+
+[PrintText]=02:57:04	Itaru	Uh-huh.	02:58:05;
+
+[PlayVoice]=02:57:04	Voice05/05-5O/05-5O-D03/05-5O-D03-0550	0	ita	02:58:05;
+
+[PrintText]=02:59:10	Makoto	Pero... la chica que realmente quiero, me sigue diciendo que salga con la chica que creía estar enamorado.	03:10:02;
+
+[PlayVoice]=02:59:10	Voice05/05-5O/05-5O-D03/05-5O-D03-0560	1	mak	03:10:02;
+
+[PrintText]=03:11:01	Makoto	Pensaba que tal vez no le gusto después de todo.	03:15:06;
+
+[PlayVoice]=03:11:01	Voice05/05-5O/05-5O-D03/05-5O-D03-0561	1	mak	03:15:06;
+
+[PrintText]=03:16:17	Itaru	¿Te odia?^	03:17:22;
+
+[PlayVoice]=03:16:17	Voice05/05-5O/05-5O-D03/05-5O-D03-0570	0	ita	03:17:22;
+
+[PlayMovie]=03:18:13	Movie05/05-5O/05-5O-D03/05-5O-D03-014	0	03:50:03;
+
+[PrintText]=03:18:19	Makoto	Lo pensaba así, pero ahora... ya no lo sé.	03:25:03;
+
+[PlayVoice]=03:18:19	Voice05/05-5O/05-5O-D03/05-5O-D03-0580	1	mak	03:25:03;
+
+[PrintText]=03:26:04	Itaru	Uh-huh.	03:27:08;
+
+[PlayVoice]=03:26:04	Voice05/05-5O/05-5O-D03/05-5O-D03-0590	0	ita	03:27:08;
+
+[PrintText]=03:27:18	Makoto	Entonces mientras pensaba en que podía hacer, una tercera chica me dice que le gusto. ¿Recuerdas a Katou-san?^	03:36:15;
+
+[PlayVoice]=03:27:18	Voice05/05-5O/05-5O-D03/05-5O-D03-0600	1	mak	03:36:15;
+
+[PrintText]=03:37:22	Itaru	¿Katou...?^	03:39:20;
+
+[PlayVoice]=03:37:22	Voice05/05-5O/05-5O-D03/05-5O-D03-0610	0	ita	03:39:20;
+
+[PrintText]=03:40:18	Makoto	Ya sabes, una de las amigas con quien siempre estaba en la primaria... con una cola de caballo.	03:49:04;
+
+[PlayVoice]=03:40:18	Voice05/05-5O/05-5O-D03/05-5O-D03-0620	1	mak	03:49:04;
+
+[PlayMovie]=03:50:03	Movie05/05-5O/05-5O-D03/05-5O-D03-015	0	03:56:19;
+
+[PrintText]=03:50:07	Itaru	Uh-huh. La conozco.	03:51:23;
+
+[PlayVoice]=03:50:07	Voice05/05-5O/05-5O-D03/05-5O-D03-0630	0	ita	03:51:23;
+
+[PrintText]=03:52:08	Makoto	Es ella.	03:53:11;
+
+[PlayVoice]=03:52:08	Voice05/05-5O/05-5O-D03/05-5O-D03-0640	1	mak	03:53:11;
+
+[PrintText]=03:54:19	Itaru	Katou...	03:56:18;
+
+[PlayVoice]=03:54:19	Voice05/05-5O/05-5O-D03/05-5O-D03-0650	0	ita	03:56:18;
+
+[CreateBG]=03:56:19	BGS	Event05/05-5O/05-5O-D03/05-5O-D03-014	03:58:00;
+
+[PrintText]=03:56:22	Makoto	Sí.	03:57:16;
+
+[PlayVoice]=03:56:22	Voice05/05-5O/05-5O-D03/05-5O-D03-0660	1	mak	03:57:16;
+
+ ;
+
+[Next]=03:58:00;
+
+

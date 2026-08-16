@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:18:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-E09/SE03-SA-E09-001	00:18:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-E09/03-SA-E09-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-E09/03-SA-E09-002	00:09:22;
+
+[PrintText]=00:02:00	Makoto	No falta mucho para el baile de la fogata...	00:04:03;
+
+[PlayVoice]=00:02:00	Voice03/03-SA/03-SA-E09/03-SA-E09-0040	1	mak	00:04:03;
+
+[PrintText]=00:04:03	Makoto	Pero si voy ahora, entonces me harán ayudar con la limpieza...	00:09:21;
+
+[PlayVoice]=00:04:03	Voice03/03-SA/03-SA-E09/03-SA-E09-0050	1	mak	00:09:21;
+
+[PrintText]=00:09:21	Makoto	Hmmn...	00:11:03;
+
+[PlayVoice]=00:09:21	Voice03/03-SA/03-SA-E09/03-SA-E09-0060	1	mak	00:11:03;
+
+[CreateBG]=00:09:22	BGS	Event03/03-SA/03-SA-E09/03-SA-E09-003	00:18:00;
+
+[SetSELECT]=00:12:00	*Ir ahora*	null	00:17:00;
+
+ ;
+
+[Next]=00:18:00;
+
+

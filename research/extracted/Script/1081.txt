@@ -1,0 +1,213 @@
+﻿[SkipFRAME]=02:41:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:38:09;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-001	00:01:15;
+
+[CreateBG]=00:01:15	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-002	00:12:03;
+
+[PrintText]=00:02:06	Madre de Sekai	¿Sekai? ¿Te estás tomando el día libre hoy también?^	00:04:19;
+
+[PlayVoice]=00:02:06	Voice04/04-SA/04-SA-B00/04-SA-B00-0030	0	yko	00:04:19;
+
+[PrintText]=00:04:19	Sekai	Uh-huh...	00:05:14;
+
+[PlayVoice]=00:04:19	Voice04/04-SA/04-SA-B00/04-SA-B00-0040	0	sek	00:05:14;
+
+[PrintText]=00:05:16	Madre de Sekai	Con todo estos días ¿Estás segura de que tendrás suficientes asistencias?^	00:09:10;
+
+[PlayVoice]=00:05:16	Voice04/04-SA/04-SA-B00/04-SA-B00-0050	0	yko	00:09:10;
+
+[PrintText]=00:09:11	Sekai	No lo sé... probablemente.	00:12:04;
+
+[PlayVoice]=00:09:11	Voice04/04-SA/04-SA-B00/04-SA-B00-0060	0	sek	00:12:04;
+
+[CreateBG]=00:12:03	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-003	00:17:23;
+
+[PrintText]=00:12:11	Madre de Sekai	Supongo que no se puede evitar. Mañana anda a la escuela ¿Vale?^	00:17:12;
+
+[PlayVoice]=00:12:11	Voice04/04-SA/04-SA-B00/04-SA-B00-0070	0	yko	00:17:12;
+
+[PrintText]=00:17:21	Sekai	Uh-huh...	00:18:15;
+
+[PlayVoice]=00:17:21	Voice04/04-SA/04-SA-B00/04-SA-B00-0080	0	sek	00:18:15;
+
+[CreateBG]=00:17:23	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-004	00:23:14;
+
+[PrintText]=00:18:16	Madre de Sekai	Bueno, me voy. Asegurate de comer.	00:22:18;
+
+[PlayVoice]=00:18:16	Voice04/04-SA/04-SA-B00/04-SA-B00-0090	0	yko	00:22:18;
+
+[PrintText]=00:22:19	Sekai	Uh-huh...	00:23:14;
+
+[PlayVoice]=00:22:19	Voice04/04-SA/04-SA-B00/04-SA-B00-0100	0	sek	00:23:14;
+
+[CreateBG]=00:23:14	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-005	00:38:09;
+
+[PrintText]=00:24:00	Sekai	Setsuna...	00:25:11;
+
+[PlayVoice]=00:24:00	Voice04/04-SA/04-SA-B00/04-SA-B00-0130	0	sek	00:25:11;
+
+[PrintText]=00:26:11	Sekai	Sin Setsuna... estoy completamente sola...	00:32:11;
+
+[PlayVoice]=00:26:11	Voice04/04-SA/04-SA-B00/04-SA-B00-0140	0	sek	00:32:11;
+
+[PrintText]=00:33:06	Sekai	Setsuna...	00:36:21;
+
+[PlayVoice]=00:33:06	Voice04/04-SA/04-SA-B00/04-SA-B00-0150	0	sek	00:36:21;
+
+[BlackFade]=00:36:09	OUT	00:38:09;
+
+[CreateBG]=00:38:09	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-006	00:41:23;
+
+[PrintText]=00:38:10	Sekai	Haah... otro día faltando a la escuela.	00:41:23;
+
+[PlayVoice]=00:38:10	Voice04/04-SA/04-SA-B00/04-SA-B00-0190	0	sek	00:41:23;
+
+[PlaySe]=00:41:12	1	SysSe/SE_all/home/door_chime1	00:44:02;
+
+[CreateBG]=00:41:23	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-007	00:47:06;
+
+[PlaySe]=00:43:06	2	SysSe/SE_all/home/makoto_door_opn	00:46:02;
+
+[PrintText]=00:45:23	Hikari	¡Hola!	00:47:12;
+
+[PlayVoice]=00:45:23	Voice04/04-SA/04-SA-B00/04-SA-B00-0220	0	hik	00:47:12;
+
+[CreateBG]=00:47:06	BGS	System/Screen/Black	00:47:17;
+
+[PlayBgm]=00:47:17	BGM/SD_BGM/sdbgm17	02:41:07;
+
+[CreateBG]=00:47:17	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-009	00:51:04;
+
+[PrintText]=00:47:18	Hikari	Eheheh... ah, toma.	00:50:11;
+
+[PlayVoice]=00:47:18	Voice04/04-SA/04-SA-B00/04-SA-B00-0240	0	hik	00:50:11;
+
+[PrintText]=00:50:12	Sekai	G-Gracias.	00:52:13;
+
+[PlayVoice]=00:50:12	Voice04/04-SA/04-SA-B00/04-SA-B00-0250	0	sek	00:52:13;
+
+[CreateBG]=00:51:04	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-010	00:52:11;
+
+[CreateBG]=00:52:11	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-011	01:11:15;
+
+[PrintText]=00:52:18	Hikari	Bueno, ahora es solo un poco de nuestra torta. ¡Marron Cake! ¡El sabor del Otoño! ¡Mont Blanc no tiene nada como esto!	01:01:01;
+
+[PlayVoice]=00:52:18	Voice04/04-SA/04-SA-B00/04-SA-B00-0260	0	hik	01:01:01;
+
+[PrintText]=01:01:03	Sekai	¿Qué pasó?^	01:02:06;
+
+[PlayVoice]=01:01:03	Voice04/04-SA/04-SA-B00/04-SA-B00-0280	0	sek	01:02:06;
+
+[PrintText]=01:02:06	Hikari	Mmn... pues, quiero hablarte de algo. Ahora que lo pienso, es la primera vez que vengo aquí ¿No?^	01:10:17;
+
+[PlayVoice]=01:02:06	Voice04/04-SA/04-SA-B00/04-SA-B00-0290	0	hik	01:10:17;
+
+[PrintText]=01:10:16	Sekai	Uh-huh.	01:11:15;
+
+[PlayVoice]=01:10:16	Voice04/04-SA/04-SA-B00/04-SA-B00-0300	0	sek	01:11:15;
+
+[CreateBG]=01:11:15	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-011B	01:21:03;
+
+[PrintText]=01:11:21	Hikari	Incluso has estado en mi casa varias veces.	01:14:10;
+
+[PlayVoice]=01:11:21	Voice04/04-SA/04-SA-B00/04-SA-B00-0310	0	hik	01:14:10;
+
+[PrintText]=01:14:10	Hikari	¿Recuerdas que a Nanami le encantaba el pastel? Tienes que venir con nosotras y podremos comer juntas.	01:21:01;
+
+[PlayVoice]=01:14:10	Voice04/04-SA/04-SA-B00/04-SA-B00-0311	0	hik	01:21:01;
+
+[CreateBG]=01:21:03	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-011C	01:23:15;
+
+[PrintText]=01:21:08	Sekai	Ahaha, sí.	01:23:19;
+
+[PlayVoice]=01:21:08	Voice04/04-SA/04-SA-B00/04-SA-B00-0320	0	sek	01:23:19;
+
+[CreateBG]=01:23:15	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-011D	01:34:02;
+
+[PrintText]=01:24:01	Hikari	¿...Te estoy molestando? Te has tomado el día, así que pensé en venir... pero Setsuna... sabes...	01:34:02;
+
+[PlayVoice]=01:24:01	Voice04/04-SA/04-SA-B00/04-SA-B00-0330	0	hik	01:34:02;
+
+[CreateBG]=01:34:02	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-011E	01:37:21;
+
+[PrintText]=01:34:10	Sekai	¿Setsuna? ¿Dijo algo?^	01:37:21;
+
+[PlayVoice]=01:34:10	Voice04/04-SA/04-SA-B00/04-SA-B00-0340	0	sek	01:37:21;
+
+[CreateBG]=01:37:21	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-012	01:55:13;
+
+[PrintText]=01:38:04	Hikari	Hable con Setsuna antes de que se vaya, y quería decirte algo.	01:42:18;
+
+[PlayVoice]=01:38:04	Voice04/04-SA/04-SA-B00/04-SA-B00-0350	0	hik	01:42:18;
+
+[PrintText]=01:42:18	Sekai	¿Setsuna dijo eso...?^	01:44:03;
+
+[PlayVoice]=01:42:18	Voice04/04-SA/04-SA-B00/04-SA-B00-0360	0	sek	01:44:03;
+
+[PrintText]=01:44:04	Hikari	¿Apagaste el celular? Sentí que no querías contestar en ese momento.	01:51:04;
+
+[PlayVoice]=01:44:04	Voice04/04-SA/04-SA-B00/04-SA-B00-0370	0	hik	01:51:04;
+
+[PrintText]=01:51:04	Sekai	Sí...	01:51:22;
+
+[PlayVoice]=01:51:04	Voice04/04-SA/04-SA-B00/04-SA-B00-0380	0	sek	01:51:22;
+
+[PrintText]=01:51:23	Hikari	Probablemente debí haber esperado hasta que volvieras, pero...	01:55:14;
+
+[PlayVoice]=01:51:23	Voice04/04-SA/04-SA-B00/04-SA-B00-0390	0	hik	01:55:14;
+
+[CreateBG]=01:55:13	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-013	02:06:19;
+
+[PrintText]=01:55:19	Sekai	No,	01:57:03;
+
+[PlayVoice]=01:55:19	Voice04/04-SA/04-SA-B00/04-SA-B00-0400	0	sek	01:57:03;
+
+[PrintText]=01:57:03	Sekai	Mi madre me está diciendo que vaya a la escuela... así que pensé en ir mañana.	02:06:11;
+
+[PlayVoice]=01:57:03	Voice04/04-SA/04-SA-B00/04-SA-B00-0401	0	sek	02:06:11;
+
+[PrintText]=02:06:18	Hikari	Ah... Ya veo. Sí, es cierto. Tienes que regresar, todos están preocupados por ti.	02:14:14;
+
+[PlayVoice]=02:06:18	Voice04/04-SA/04-SA-B00/04-SA-B00-0410	0	hik	02:14:14;
+
+[CreateBG]=02:06:19	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-014	02:24:02;
+
+[PrintText]=02:14:15	Sekai	Haha... Sí.	02:17:20;
+
+[PlayVoice]=02:14:15	Voice04/04-SA/04-SA-B00/04-SA-B00-0420	0	sek	02:17:20;
+
+[PrintText]=02:17:20	Hikari	¿Te importaría si te pregunto por qué no venías? Probablemente ya sepa la respuesta... pero aún así...	02:24:02;
+
+[PlayVoice]=02:17:20	Voice04/04-SA/04-SA-B00/04-SA-B00-0430	0	hik	02:24:02;
+
+[CreateBG]=02:24:02	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-015	02:27:19;
+
+[PrintText]=02:24:08	Sekai	Es lo que estás pensando.	02:27:19;
+
+[PlayVoice]=02:24:08	Voice04/04-SA/04-SA-B00/04-SA-B00-0440	0	sek	02:27:19;
+
+[CreateBG]=02:27:19	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-016	02:35:23;
+
+[PrintText]=02:28:02	Hikari	Eras muy cercana a Setsuna. Para ser una chica pequeña, sabe manejar las cosas.	02:35:03;
+
+[PlayVoice]=02:28:02	Voice04/04-SA/04-SA-B00/04-SA-B00-0460	0	hik	02:35:03;
+
+[PrintText]=02:35:08	Sekai	Sí...	02:35:22;
+
+[PlayVoice]=02:35:08	Voice04/04-SA/04-SA-B00/04-SA-B00-0470	0	sek	02:35:22;
+
+[CreateBG]=02:35:23	BGS	Event04/04-SA/04-SA-B00/04-SA-B00-012	02:41:07;
+
+[PrintText]=02:36:17	Hikari	Entonces, a lo que vine a hablar contigo...	02:40:07;
+
+[PlayVoice]=02:36:17	Voice04/04-SA/04-SA-B00/04-SA-B00-0480	0	hik	02:40:07;
+
+[BlackFade]=02:40:07	OUT	02:41:07;
+
+ ;
+
+[Next]=02:41:07;
+
+

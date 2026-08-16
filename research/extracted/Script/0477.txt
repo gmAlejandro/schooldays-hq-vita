@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=00:40:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:46:08;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-B01/SE03-BK-B01-001	00:26:07;
+
+[PlayMovie]=00:00:00	Movie03/03-KA/03-KA-O00/03-KA-O00-001	0	00:03:00;
+
+[PlayMovie]=00:03:00	Movie03/03-BK/03-BK-B03/03-BK-B03-009	0	00:06:10;
+
+[PrintText]=00:03:00	Kotonoha	...	00:04:02;
+
+[PlayVoice]=00:03:00	Voice03/03-BK/03-BK-B01/03-BK-B01-0040	0	xxx	00:04:02;
+
+[PrintText]=00:04:02	Makoto	¿Cansada?^	00:05:03;
+
+[PlayVoice]=00:04:02	Voice03/03-BK/03-BK-B01/03-BK-B01-0050	1	mak	00:05:03;
+
+[PlayVoice]=00:05:03	Voice03/03-BK/03-BK-B01/03-BK-B01-0060			00:06:09;
+
+[PrintText]=00:06:09	Makoto	Te ves un poco decaída hoy.	00:10:11;
+
+[PlayVoice]=00:06:09	Voice03/03-BK/03-BK-B01/03-BK-B01-0070	1	mak	00:10:11;
+
+[PlayMovie]=00:06:10	Movie03/03-BK/03-BK-B01/03-BK-B01-003	0	00:10:12;
+
+[CreateBG]=00:10:12	BGS	Event03/03-BK/03-BK-B01/03-BK-B01-004	00:12:07;
+
+[PrintText]=00:10:12	Kotonoha	...	00:12:06;
+
+[PlayVoice]=00:10:12	Voice03/03-BK/03-BK-B01/03-BK-B01-0080	0	xxx	00:12:06;
+
+[PrintText]=00:12:06	Makoto	¿Huh... ? ¿Qué pasa?^	00:14:19;
+
+[PlayVoice]=00:12:06	Voice03/03-BK/03-BK-B01/03-BK-B01-0100	1	mak	00:14:19;
+
+[CreateBG]=00:12:07	BGS	Event03/03-BK/03-BK-B01/03-BK-B01-005	00:14:19;
+
+[CreateBG]=00:14:19	BGS	Event03/03-BK/03-BK-B01/03-BK-B01-006	00:17:13;
+
+[PrintText]=00:14:19	Kotonoha	...Bésame.	00:15:17;
+
+[PlayVoice]=00:14:19	Voice03/03-BK/03-BK-B01/03-BK-B01-0110	0	kot	00:15:17;
+
+[PrintText]=00:15:17	Makoto	¡¿Eh?!	00:16:07;
+
+[PlayVoice]=00:15:17	Voice03/03-BK/03-BK-B01/03-BK-B01-0120	1	mak	00:16:07;
+
+[PrintText]=00:16:07	Kotonoha	Quiero que me des un beso.	00:17:13;
+
+[PlayVoice]=00:16:07	Voice03/03-BK/03-BK-B01/03-BK-B01-0130	0	kot	00:17:13;
+
+[PlayMovie]=00:17:13	Movie03/03-BK/03-BK-B01/03-BK-B01-007	0	00:30:17;
+
+[PrintText]=00:17:13	Makoto	¡¿Huh?! N-No puedo. Estamos... en público.	00:23:15;
+
+[PlayVoice]=00:17:13	Voice03/03-BK/03-BK-B01/03-BK-B01-0140	1	mak	00:23:15;
+
+[PlayVoice]=00:23:15	Voice03/03-BK/03-BK-B01/03-BK-B01-0150			00:24:09;
+
+[PrintText]=00:24:09	Makoto	Pero... si fuéramos a un lugar más tranquilo.	00:30:16;
+
+[PlayVoice]=00:24:09	Voice03/03-BK/03-BK-B01/03-BK-B01-0160	1	mak	00:30:16;
+
+[PlaySe]=00:26:06	2	Se03/03-BK/03-BK-B01/SE03-BK-B01-001	00:46:08;
+
+[PlayVoice]=00:30:16	Voice03/03-BK/03-BK-B01/03-BK-B01-0170			00:31:18;
+
+[CreateBG]=00:30:17	BGS	Event03/03-BK/03-BK-B01/03-BK-B01-008	00:35:03;
+
+[PrintText]=00:31:18	Makoto	Bueno... es un problema.	00:35:02;
+
+[PlayVoice]=00:31:18	Voice03/03-BK/03-BK-B01/03-BK-B01-0180	1	mak	00:35:02;
+
+[PrintText]=00:35:02	Kotonoha	Quiero que me beses.	00:36:16;
+
+[PlayVoice]=00:35:02	Voice03/03-BK/03-BK-B01/03-BK-B01-0190	0	kot	00:36:16;
+
+[CreateBG]=00:35:03	BGS	Event03/03-BK/03-BK-B01/03-BK-B01-009	00:46:08;
+
+[PrintText]=00:36:16	Makoto	Kotonoha... ¿Por qué...?^	00:39:20;
+
+[PlayVoice]=00:36:16	Voice03/03-BK/03-BK-B01/03-BK-B01-0200	1	mak	00:39:20;
+
+[PrintText]=00:39:20	Kotonoha	...	00:40:11;
+
+[PlayVoice]=00:39:20	Voice03/03-BK/03-BK-B01/03-BK-B01-0210	0	xxx	00:40:11;
+
+[SetSELECT]=00:40:03	*Besarla*	null	00:45:03;
+
+ ;
+
+[Next]=00:46:08;
+
+

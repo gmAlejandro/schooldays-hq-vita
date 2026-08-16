@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:17:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:17:12;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-K10/03-KB-K10-001	0	00:04:16;
+
+[PrintText]=00:00:00	Makoto	Yo... te amo después de todo.	00:04:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-K10/03-KB-K10-0040	1	mak	00:04:08;
+
+[PrintText]=00:04:02	Kotonoha	Ah...	00:04:20;
+
+[PlayVoice]=00:04:02	Voice03/03-KB/03-KB-K10/03-KB-K10-0050	0	kot	00:04:20;
+
+[PlayMovie]=00:04:16	Movie03/03-KB/03-KB-K10/03-KB-K10-002	0	00:10:03;
+
+[PrintText]=00:05:03	Makoto	Te amo.	00:06:00;
+
+[PlayVoice]=00:05:03	Voice03/03-KB/03-KB-K10/03-KB-K10-0070	1	mak	00:06:00;
+
+[PrintText]=00:06:00	Kotonoha	¡Makoto-kun!	00:07:17;
+
+[PlayVoice]=00:06:00	Voice03/03-KB/03-KB-K10/03-KB-K10-0080	0	kot	00:07:17;
+
+[BlackFade]=00:07:15	OUT	00:10:03;
+
+[PrintText]=00:10:02	Makoto	Kotonoha.	00:11:01;
+
+[PlayVoice]=00:10:02	Voice03/03-KB/03-KB-K10/03-KB-K10-0130	1	mak	00:11:01;
+
+[PlayMovie]=00:10:03	Movie03/03-KB/03-KB-K10/03-KB-K10-003	0	00:13:12;
+
+[PrintText]=00:11:01	Kotonoha	L-Lo siento... sé que es repentino...	00:15:03;
+
+[PlayVoice]=00:11:01	Voice03/03-KB/03-KB-K10/03-KB-K10-0140	0	kot	00:15:03;
+
+[CreateBG]=00:13:12	BGS	Event03/03-KB/03-KB-K10/03-KB-K10-004	00:15:23;
+
+[PlayVoice]=00:15:02	Voice03/03-KB/03-KB-K10/03-KB-K10-0150			00:15:23;
+
+[CreateBG]=00:15:23	BGS	Event03/03-KB/03-KB-K10/03-KB-K10-005	00:17:12;
+
+[PrintText]=00:15:23	Kotonoha	Nn...	00:17:11;
+
+[PlayVoice]=00:15:23	Voice03/03-KB/03-KB-K10/03-KB-K10-0160	0	kot	00:17:11;
+
+ ;
+
+[Next]=00:17:12;
+
+

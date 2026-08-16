@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:11:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:11:18;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:11:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-F04/05-KB-F04-001	00:02:10;
+
+[PrintText]=00:00:00	Nanami	¿Viste ayer la TV?^	00:02:10;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-F04/05-KB-F04-0030	0	nan	00:02:10;
+
+[CreateBG]=00:02:10	BGS	Event05/05-KB/05-KB-F04/05-KB-F04-002	00:11:18;
+
+[PrintText]=00:02:10	Makoto	¿Hubo algo interesante?^	00:08:03;
+
+[PlayVoice]=00:02:10	Voice05/05-KB/05-KB-F04/05-KB-F04-0040	1	mak	00:08:03;
+
+[PrintText]=00:08:03	Nanami	Claro.	00:09:17;
+
+[PlayVoice]=00:08:03	Voice05/05-KB/05-KB-F04/05-KB-F04-0050	0	nan	00:09:17;
+
+[PrintText]=00:09:17	Makoto	¿Como qué?^	00:11:17;
+
+[PlayVoice]=00:09:17	Voice05/05-KB/05-KB-F04/05-KB-F04-0060	1	mak	00:11:17;
+
+ ;
+
+[Next]=00:11:18;
+
+
+
+

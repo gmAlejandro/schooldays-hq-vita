@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:10:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	00:16:22;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-F01/SE02-2K-F01-001	00:16:22;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-F05/02-2K-F05-001	00:16:22;
+
+[PrintText]=00:00:00	Makoto	Ahora, ya no sentirás frío.	00:02:01;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-F01/02-2K-F01-0030	1	mak	00:02:01;
+
+[PrintText]=00:02:01	Kotonoha	Ah... uh... um...	00:06:17;
+
+[PlayVoice]=00:02:01	Voice02/02-2K/02-2K-F01/02-2K-F01-0040	0	kot	00:06:17;
+
+[PrintText]=00:06:17	Makoto	Kotonoha.	00:07:19;
+
+[PlayVoice]=00:06:17	Voice02/02-2K/02-2K-F01/02-2K-F01-0050	1	mak	00:07:19;
+
+[PrintText]=00:07:20	Kotonoha	S...Sí...	00:09:18;
+
+[PlayVoice]=00:07:20	Voice02/02-2K/02-2K-F01/02-2K-F01-0060	0	kot	00:09:18;
+
+[PrintText]=00:09:18	Makoto	Kotonoha, tú...	00:11:02;
+
+[PlayVoice]=00:09:18	Voice02/02-2K/02-2K-F01/02-2K-F01-0070	1	mak	00:11:02;
+
+[SetSELECT]=00:10:20	'Hueles bien'	'Eres muy suave'	00:15:20;
+
+ ;
+
+[Next]=00:16:22;
+
+
+
+

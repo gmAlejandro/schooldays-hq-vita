@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:18:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:18:17;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-M03/04-SA-M03-001	00:06:10;
+
+[PrintText]=00:00:06	Taisuke	Haah... que agotador.	00:02:20;
+
+[PlayVoice]=00:00:06	Voice04/04-SA/04-SA-M03/04-SA-M03-0040	1	tai	00:02:20;
+
+[PrintText]=00:02:20	Hikari	Sí, pero divertido.	00:06:11;
+
+[PlayVoice]=00:02:20	Voice04/04-SA/04-SA-M03/04-SA-M03-0050	0	hik	00:06:11;
+
+[CreateBG]=00:06:10	BGS	Event04/04-SA/04-SA-M03/04-SA-M03-002	00:12:12;
+
+[PrintText]=00:06:16	Taisuke	Cierto, regresemos otro día.	00:09:07;
+
+[PlayVoice]=00:06:16	Voice04/04-SA/04-SA-M03/04-SA-M03-0060	1	tai	00:09:07;
+
+[PrintText]=00:09:08	Hikari	Será mejor que me invites también.	00:11:09;
+
+[PlayVoice]=00:09:08	Voice04/04-SA/04-SA-M03/04-SA-M03-0070	0	hik	00:11:09;
+
+[PrintText]=00:11:09	Taisuke	Por supuesto que lo haré.	00:12:14;
+
+[PlayVoice]=00:11:09	Voice04/04-SA/04-SA-M03/04-SA-M03-0080	1	tai	00:12:14;
+
+[CreateBG]=00:12:12	BGS	Event04/04-SA/04-SA-M03/04-SA-M03-003	00:16:15;
+
+[PrintText]=00:12:20	Hikari	Ah... sí, Gracias.	00:16:18;
+
+[PlayVoice]=00:12:20	Voice04/04-SA/04-SA-M03/04-SA-M03-0090	0	hik	00:16:18;
+
+[CreateBG]=00:16:15	BGS	Event04/04-SA/04-SA-M03/04-SA-M03-004	00:18:17;
+
+[PrintText]=00:16:18	Taisuke	No hay de que...	00:17:21;
+
+[PlayVoice]=00:16:18	Voice04/04-SA/04-SA-M03/04-SA-M03-0100	1	tai	00:17:21;
+
+ ;
+
+[Next]=00:18:17;
+
+

@@ -1,0 +1,54 @@
+﻿[SkipFRAME]=00:17:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:17:18;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou_yuugata	00:17:18;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-C08/05-KA-C08-001	00:01:02;
+
+[PrintText]=00:00:00	Makoto	La odio.	00:00:23;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-C09/05-KA-C09-0030	1	mak	00:00:23;
+
+[CreateBG]=00:01:02	BGS	Event05/05-KA/05-KA-C08/05-KA-C08-002	00:02:09;
+
+[PrintText]=00:01:05	Setsuna	¿Por qué?^	00:02:06;
+
+[PlayVoice]=00:01:05	Voice05/05-KA/05-KA-C09/05-KA-C09-0040	0	set	00:02:06;
+
+[CreateBG]=00:02:09	BGS	Event05/05-KA/05-KA-C08/05-KA-C08-001	00:03:20;
+
+[PrintText]=00:02:12	Makoto	¿Qué quieres decir con 'Por qué'?^	00:03:19;
+
+[PlayVoice]=00:02:12	Voice05/05-KA/05-KA-C09/05-KA-C09-0050	1	mak	00:03:19;
+
+[CreateBG]=00:03:20	BGS	Event05/05-KA/05-KA-C09/05-KA-C09-004	00:11:14;
+
+[PrintText]=00:03:21	Setsuna	Sekai te ama.	00:07:00;
+
+[PlayVoice]=00:03:21	Voice05/05-KA/05-KA-C09/05-KA-C09-0060	0	set	00:07:00;
+
+[PrintText]=00:07:01	Makoto	...	00:07:20;
+
+[PlayVoice]=00:07:01	Voice05/05-KA/05-KA-C09/05-KA-C09-0070	1	xxx	00:07:20;
+
+[PrintText]=00:08:05	Setsuna	¿Tomaste ventaja de sus sentimientos para engañarla?^	00:11:12;
+
+[PlayVoice]=00:08:05	Voice05/05-KA/05-KA-C09/05-KA-C09-0080	0	set	00:11:12;
+
+[CreateBG]=00:11:14	BGS	Event05/05-KA/05-KA-C09/05-KA-C09-007	00:17:18;
+
+[PrintText]=00:11:16	Makoto	¡Y no la engañe...! Yo... nunca tuve la intención de...	00:16:11;
+
+[PlayVoice]=00:11:16	Voice05/05-KA/05-KA-C09/05-KA-C09-0090	1	mak	00:16:11;
+
+[PrintText]=00:16:16	Setsuna	...	00:17:12;
+
+[PlayVoice]=00:16:16	Voice05/05-KA/05-KA-C09/05-KA-C09-0100	0	xxx	00:17:12;
+
+ ;
+
+[Next]=00:17:18;
+
+
+

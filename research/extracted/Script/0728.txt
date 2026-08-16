@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:12:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:12:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B04/03-SA-B04-001	00:02:00;
+
+[PrintText]=00:00:00	Hikari	¿Huh? ¿Dónde está Sawanaga?^	00:01:23;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-B04/03-SA-B04-0030	0	hik	00:01:23;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-B04/03-SA-B04-002	00:09:18;
+
+[PrintText]=00:02:00	Sekai	Una de los focos se quebró mientras decorábamos, así que fue a traer uno nuevo.	00:06:18;
+
+[PlayVoice]=00:02:00	Voice03/03-SA/03-SA-B04/03-SA-B04-0040	0	sek	00:06:18;
+
+[PrintText]=00:06:18	Hikari	Cielos... ¿En qué está pensando?^	00:09:17;
+
+[PlayVoice]=00:06:18	Voice03/03-SA/03-SA-B04/03-SA-B04-0050	0	hik	00:09:17;
+
+[CreateBG]=00:09:18	BGS	Event03/03-SA/03-SA-B04/03-SA-B04-003	00:12:10;
+
+[PrintText]=00:09:18	Makoto	Sí.	00:10:07;
+
+[PlayVoice]=00:09:18	Voice03/03-SA/03-SA-B04/03-SA-B04-0070	1	mak	00:10:07;
+
+[PrintText]=00:10:08	Makoto	Y entonces, el festival escolar inició.	00:12:09;
+
+[PlayVoice]=00:10:08	Voice03/03-SA/03-SA-B04/03-SA-B04-0090	1	xxx	00:12:09;
+
+ ;
+
+[Next]=00:12:10;
+
+

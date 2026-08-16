@@ -1,0 +1,511 @@
+﻿[SkipFRAME]=04:18:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	04:18:03;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-G06/SE03-SB-G06-001	01:58:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-001	00:04:09;
+
+[PrintText]=00:00:00	Makoto	Hola.	00:00:15;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-G06/03-SB-G06-0050	1	mak	00:00:15;
+
+[PrintText]=00:00:15	Kotonoha	Ah... Makoto-kun.	00:03:14;
+
+[PlayVoice]=00:00:15	Voice03/03-SB/03-SB-G06/03-SB-G06-0060	0	kot	00:03:14;
+
+[PrintText]=00:03:14	Makoto	¿Te hice esperar?^	00:04:09;
+
+[PlayVoice]=00:03:14	Voice03/03-SB/03-SB-G06/03-SB-G06-0070	1	mak	00:04:09;
+
+[CreateBG]=00:04:09	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-002	00:34:07;
+
+[PrintText]=00:04:09	Makoto	Bien. Vamos entonces.	00:07:07;
+
+[PlayVoice]=00:04:09	Voice03/03-SB/03-SB-G06/03-SB-G06-0090	1	mak	00:07:07;
+
+[PrintText]=00:07:07	Kotonoha	En realidad...	00:08:23;
+
+[PlayVoice]=00:07:07	Voice03/03-SB/03-SB-G06/03-SB-G06-0100	0	kot	00:08:23;
+
+[PrintText]=00:08:23	Makoto	¿Qué pasa?^	00:10:00;
+
+[PlayVoice]=00:08:23	Voice03/03-SB/03-SB-G06/03-SB-G06-0110	1	mak	00:10:00;
+
+[PrintText]=00:10:00	Kotonoha	Ella no vendrá.	00:11:05;
+
+[PlayVoice]=00:10:00	Voice03/03-SB/03-SB-G06/03-SB-G06-0120	0	kot	00:11:05;
+
+[PrintText]=00:11:05	Makoto	¿'No vendrá?'.	00:12:03;
+
+[PlayVoice]=00:11:05	Voice03/03-SB/03-SB-G06/03-SB-G06-0130	1	mak	00:12:03;
+
+[PrintText]=00:12:02	Kotonoha	Mi reemplazo... habíamos decidido que cambiaríamos cada hora.	00:19:12;
+
+[PlayVoice]=00:12:02	Voice03/03-SB/03-SB-G06/03-SB-G06-0140	0	kot	00:19:12;
+
+[PrintText]=00:19:13	Makoto	¿Eh?^	00:20:04;
+
+[PlayVoice]=00:19:13	Voice03/03-SB/03-SB-G06/03-SB-G06-0150	1	mak	00:20:04;
+
+[PrintText]=00:20:04	Kotonoha	La verdad es que, alguien iba a sentarse aquí en la mañana también.	00:24:08;
+
+[PlayVoice]=00:20:04	Voice03/03-SB/03-SB-G06/03-SB-G06-0160	0	kot	00:24:08;
+
+[PrintText]=00:24:08	Kotonoha	Pero nadie a venido. Ni antes ni después que tomara la recepción...	00:34:06;
+
+[PlayVoice]=00:24:08	Voice03/03-SB/03-SB-G06/03-SB-G06-0170	0	kot	00:34:06;
+
+[PrintText]=00:34:06	Makoto	Ya veo.	00:35:13;
+
+[PlayVoice]=00:34:06	Voice03/03-SB/03-SB-G06/03-SB-G06-0180	1	mak	00:35:13;
+
+[CreateBG]=00:34:07	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-003	00:44:07;
+
+[PrintText]=00:35:12	Kotonoha	Lo siento.... parece que no quisiera ir... y después de que te he forzado a venir...	00:42:19;
+
+[PlayVoice]=00:35:12	Voice03/03-SB/03-SB-G06/03-SB-G06-0190	0	kot	00:42:19;
+
+[PrintText]=00:42:19	Makoto	No me has forzado a venir...	00:44:06;
+
+[PlayVoice]=00:42:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0200	1	mak	00:44:06;
+
+[PrintText]=00:44:06	Kotonoha	Ah...	00:45:07;
+
+[PlayVoice]=00:44:06	Voice03/03-SB/03-SB-G06/03-SB-G06-0220	0	kot	00:45:07;
+
+[CreateBG]=00:44:07	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-004	00:45:08;
+
+[PrintText]=00:45:07	Makoto	Katou y las otras son de la clase 4 ¿No?^	00:47:09;
+
+[PlayVoice]=00:45:07	Voice03/03-SB/03-SB-G06/03-SB-G06-0230	1	mak	00:47:09;
+
+[CreateBG]=00:45:08	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-005	01:00:02;
+
+[PrintText]=00:47:09	Kotonoha	Sí.	00:48:05;
+
+[PlayVoice]=00:47:09	Voice03/03-SB/03-SB-G06/03-SB-G06-0240	0	kot	00:48:05;
+
+[PrintText]=00:48:05	Makoto	¿No se supone que ellas tienen que ver por la recepción?^	00:51:19;
+
+[PlayVoice]=00:48:05	Voice03/03-SB/03-SB-G06/03-SB-G06-0250	1	mak	00:51:19;
+
+[PrintText]=00:51:18	Kotonoha	Obuchi-san y Koizumi-san tienen receso, pero...	00:55:20;
+
+[PlayVoice]=00:51:18	Voice03/03-SB/03-SB-G06/03-SB-G06-0260	0	kot	00:55:20;
+
+[PrintText]=00:55:20	Makoto	¿Obuchi and Koizumi?^	00:57:20;
+
+[PlayVoice]=00:55:20	Voice03/03-SB/03-SB-G06/03-SB-G06-0270	1	mak	00:57:20;
+
+[PrintText]=00:57:19	Kotonoha	Las otras detrás de Katou-san...	01:00:01;
+
+[PlayVoice]=00:57:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0280	0	kot	01:00:01;
+
+[PrintText]=01:00:01	Otome	¿Eh? ¿Itou?^	01:01:18;
+
+[PlayVoice]=01:00:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0310	0	oto	01:01:18;
+
+[CreateBG]=01:00:02	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-006	01:06:20;
+
+[PrintText]=01:01:18	Natsumi	Oh, hablando del diablo.	01:04:01;
+
+[PlayVoice]=01:01:18	Voice03/03-SB/03-SB-G06/03-SB-G06-0320	0	nat	01:04:01;
+
+[PrintText]=01:04:01	Minami	Sí.	01:05:01;
+
+[PlayVoice]=01:04:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0330	0	min	01:05:01;
+
+[PrintText]=01:05:01	Makoto	¿De qué hablan?^	01:06:18;
+
+[PlayVoice]=01:05:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0340	1	mak	01:06:18;
+
+[PrintText]=01:06:19	Otome	N-No es nada.	01:09:01;
+
+[PlayVoice]=01:06:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0350	0	oto	01:09:01;
+
+[CreateBG]=01:06:20	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-007	01:09:01;
+
+[CreateBG]=01:09:01	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-008	01:22:00;
+
+[PrintText]=01:09:01	Natsumi	Otome.	01:09:23;
+
+[PlayVoice]=01:09:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0360	0	nat	01:09:23;
+
+[PrintText]=01:09:23	Otome	Está bien.	01:11:11;
+
+[PlayVoice]=01:09:23	Voice03/03-SB/03-SB-G06/03-SB-G06-0370	0	oto	01:11:11;
+
+[PrintText]=01:11:12	Minami	Pero...	01:12:08;
+
+[PlayVoice]=01:11:12	Voice03/03-SB/03-SB-G06/03-SB-G06-0380	0	min	01:12:08;
+
+[PrintText]=01:12:07	Natsumi	Vamos. Tú lo dijiste. Si lo encuentras, entonces tú...	01:15:20;
+
+[PlayVoice]=01:12:07	Voice03/03-SB/03-SB-G06/03-SB-G06-0390	0	nat	01:15:20;
+
+[PrintText]=01:15:21	Otome	Uuu...	01:17:02;
+
+[PlayVoice]=01:15:21	Voice03/03-SB/03-SB-G06/03-SB-G06-0400	0	oto	01:17:02;
+
+[PrintText]=01:17:01	Natsumi	Bueno, lo hemos encontrado, así que es mejor que hagas algo.	01:20:01;
+
+[PlayVoice]=01:17:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0410	0	nat	01:20:01;
+
+[PrintText]=01:20:01	Otome	Uuuuh...	01:22:02;
+
+[PlayVoice]=01:20:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0420	0	oto	01:22:02;
+
+[CreateBG]=01:21:23	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-009	01:24:18;
+
+[PrintText]=01:22:01	Makoto	¿Qué pasa?^	01:23:12;
+
+[PlayVoice]=01:22:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0430	1	mak	01:23:12;
+
+[PrintText]=01:23:12	Otome	...	01:24:16;
+
+[PlayVoice]=01:23:12	Voice03/03-SB/03-SB-G06/03-SB-G06-0440	0	xxx	01:24:16;
+
+[PrintText]=01:24:16	Makoto	Hey, Katou.	01:25:19;
+
+[PlayVoice]=01:24:16	Voice03/03-SB/03-SB-G06/03-SB-G06-0450	1	mak	01:25:19;
+
+[CreateBG]=01:24:18	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-010	01:29:23;
+
+[PrintText]=01:25:19	Otome	¡S-Sí!	01:27:04;
+
+[PlayVoice]=01:25:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0460	0	oto	01:27:04;
+
+[PrintText]=01:27:04	Makoto	¿Puedo hablar contigo por un segundo?^	01:29:22;
+
+[PlayVoice]=01:27:04	Voice03/03-SB/03-SB-G06/03-SB-G06-0470	1	mak	01:29:22;
+
+[PrintText]=01:29:22	Otome	¿Eh?^	01:30:17;
+
+[PlayVoice]=01:29:22	Voice03/03-SB/03-SB-G06/03-SB-G06-0480	0	oto	01:30:17;
+
+[CreateBG]=01:29:23	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-011	01:30:19;
+
+[PrintText]=01:30:18	Minami	¡Uwah!	01:31:17;
+
+[PlayVoice]=01:30:18	Voice03/03-SB/03-SB-G06/03-SB-G06-0490	0	min	01:31:17;
+
+[CreateBG]=01:30:19	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-012	01:32:20;
+
+[PrintText]=01:31:17	Natsumi	¡Aquí viene!	01:32:21;
+
+[PlayVoice]=01:31:17	Voice03/03-SB/03-SB-G06/03-SB-G06-0500	0	nat	01:32:21;
+
+[CreateBG]=01:32:20	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-013	01:34:15;
+
+[PrintText]=01:32:21	Otome	S-Seguro.	01:34:14;
+
+[PlayVoice]=01:32:21	Voice03/03-SB/03-SB-G06/03-SB-G06-0510	0	oto	01:34:14;
+
+[PlayMovie]=01:34:15	Movie03/03-SB/03-SB-G06/03-SB-G06-014	0	01:36:04;
+
+[PrintText]=01:34:15	Otome	¿Q-Qué pasa?^	01:36:03;
+
+[PlayVoice]=01:34:15	Voice03/03-SB/03-SB-G06/03-SB-G06-0530	0	oto	01:36:03;
+
+[PrintText]=01:36:03	Makoto	Escucha, esas chicas que están contigo...	01:39:16;
+
+[PlayVoice]=01:36:03	Voice03/03-SB/03-SB-G06/03-SB-G06-0540	1	mak	01:39:16;
+
+[CreateBG]=01:36:04	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-015	01:42:11;
+
+[PrintText]=01:39:16	Otome	Uh-huh.	01:40:13;
+
+[PlayVoice]=01:39:16	Voice03/03-SB/03-SB-G06/03-SB-G06-0550	0	oto	01:40:13;
+
+[PrintText]=01:40:13	Makoto	Quiero hablar con ellas.	01:42:09;
+
+[PlayVoice]=01:40:13	Voice03/03-SB/03-SB-G06/03-SB-G06-0560	1	mak	01:42:09;
+
+[PrintText]=01:42:09	Otome	¿N-No me digas que...?^	01:44:13;
+
+[PlayVoice]=01:42:09	Voice03/03-SB/03-SB-G06/03-SB-G06-0570	0	oto	01:44:13;
+
+[PlayMovie]=01:42:11	Movie03/03-SB/03-SB-G06/03-SB-G06-016	0	02:05:03;
+
+[PrintText]=01:44:13	Makoto	Sí. ¿Lo notaste?^	01:47:02;
+
+[PlayVoice]=01:44:13	Voice03/03-SB/03-SB-G06/03-SB-G06-0580	1	mak	01:47:02;
+
+[PrintText]=01:47:02	Otome	Estás bromeando ¿Cierto?^	01:48:08;
+
+[PlayVoice]=01:47:02	Voice03/03-SB/03-SB-G06/03-SB-G06-0590	0	oto	01:48:08;
+
+[PrintText]=01:48:08	Makoto	Bueno, no está bien que yo se lo diga... ¿Puedes hacerlo por mí entonces?^	01:54:20;
+
+[PlayVoice]=01:48:08	Voice03/03-SB/03-SB-G06/03-SB-G06-0600	1	mak	01:54:20;
+
+[PrintText]=01:54:21	Otome	¿A cuál de las dos?^	01:56:08;
+
+[PlayVoice]=01:54:21	Voice03/03-SB/03-SB-G06/03-SB-G06-0610	0	oto	01:56:08;
+
+[PrintText]=01:56:08	Makoto	Ambas.	01:57:18;
+
+[PlayVoice]=01:56:08	Voice03/03-SB/03-SB-G06/03-SB-G06-0620	1	mak	01:57:18;
+
+[PrintText]=01:57:18	Otome	No puedo hacerlo si dices 'ambas'... ¿Cuál? Si tuvieras que escoger.	02:01:18;
+
+[PlayVoice]=01:57:18	Voice03/03-SB/03-SB-G06/03-SB-G06-0630	0	oto	02:01:18;
+
+[PlaySe]=01:59:17	2	Se03/03-SB/03-SB-G06/SE03-SB-G06-001	03:58:03;
+
+[PrintText]=02:01:18	Makoto	Uh, Espera un segundo.	02:05:01;
+
+[PlayVoice]=02:01:18	Voice03/03-SB/03-SB-G06/03-SB-G06-0640	1	mak	02:05:01;
+
+[CreateBG]=02:05:01	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-020	02:05:21;
+
+[PrintText]=02:05:01	Otome	Vale.	02:05:20;
+
+[PlayVoice]=02:05:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0650	0	oto	02:05:20;
+
+[PrintText]=02:05:19	Makoto	Kotonoha.	02:06:20;
+
+[PlayVoice]=02:05:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0670	1	mak	02:06:20;
+
+[CreateBG]=02:05:21	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-021	02:09:21;
+
+[PrintText]=02:06:19	Kotonoha	¿Sí?^	02:07:13;
+
+[PlayVoice]=02:06:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0680	0	kot	02:07:13;
+
+[PrintText]=02:07:13	Makoto	¿Cual de ellas tenía que tomar el puesto?^	02:09:20;
+
+[PlayVoice]=02:07:13	Voice03/03-SB/03-SB-G06/03-SB-G06-0690	1	mak	02:09:20;
+
+[PrintText]=02:09:20	Kotonoha	Veamos... Koizumi-san tenía el turno de la mañana y Obuchi-san tiene el siguiente turno.	02:17:04;
+
+[PlayVoice]=02:09:20	Voice03/03-SB/03-SB-G06/03-SB-G06-0700	0	kot	02:17:04;
+
+[CreateBG]=02:09:21	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-022	02:17:05;
+
+[PrintText]=02:17:04	Makoto	Gracias. Ahora espera un segundo.	02:19:08;
+
+[PlayVoice]=02:17:04	Voice03/03-SB/03-SB-G06/03-SB-G06-0710	1	mak	02:19:08;
+
+[CreateBG]=02:17:05	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-023	02:20:03;
+
+[PrintText]=02:19:08	Kotonoha	Vale.	02:20:02;
+
+[PlayVoice]=02:19:08	Voice03/03-SB/03-SB-G06/03-SB-G06-0720	0	kot	02:20:02;
+
+[PrintText]=02:20:02	Otome	Itou ¿Tú y Katsura se conocen?^	02:23:06;
+
+[PlayVoice]=02:20:02	Voice03/03-SB/03-SB-G06/03-SB-G06-0740	0	oto	02:23:06;
+
+[PlayMovie]=02:20:03	Movie03/03-SB/03-SB-G06/03-SB-G06-024	0	02:25:18;
+
+[PrintText]=02:23:06	Makoto	No te preocupes por eso.	02:24:07;
+
+[PlayVoice]=02:23:06	Voice03/03-SB/03-SB-G06/03-SB-G06-0750	1	mak	02:24:07;
+
+[PrintText]=02:24:07	Otome	B-Bien.	02:25:17;
+
+[PlayVoice]=02:24:07	Voice03/03-SB/03-SB-G06/03-SB-G06-0760	0	oto	02:25:17;
+
+[PrintText]=02:25:17	Makoto	Ahora, en qué estabamos ¿Cuál? ¿No?^	02:28:20;
+
+[PlayVoice]=02:25:17	Voice03/03-SB/03-SB-G06/03-SB-G06-0770	1	mak	02:28:20;
+
+[CreateBG]=02:25:18	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-025	02:33:06;
+
+[PrintText]=02:28:20	Otome	¿Cuál de las dos?^	02:30:00;
+
+[PlayVoice]=02:28:20	Voice03/03-SB/03-SB-G06/03-SB-G06-0780	0	oto	02:30:00;
+
+[PrintText]=02:30:00	Makoto	Primero Koizumi, y luego Obuchi.	02:33:05;
+
+[PlayVoice]=02:30:00	Voice03/03-SB/03-SB-G06/03-SB-G06-0790	1	mak	02:33:05;
+
+[PrintText]=02:33:05	Otome	¡¿Ehh?! ¿Quieres decir que todo este tiempo Natsumi...?^	02:36:06;
+
+[PlayVoice]=02:33:05	Voice03/03-SB/03-SB-G06/03-SB-G06-0800	0	oto	02:36:06;
+
+[CreateBG]=02:33:06	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-026	02:41:11;
+
+[PrintText]=02:36:06	Makoto	Entonces, su nombre es Natsumi.	02:38:20;
+
+[PlayVoice]=02:36:06	Voice03/03-SB/03-SB-G06/03-SB-G06-0810	1	mak	02:38:20;
+
+[PrintText]=02:38:19	Otome	¿Eh? ¿No sabías su nombre?^	02:41:09;
+
+[PlayVoice]=02:38:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0820	0	oto	02:41:09;
+
+[PrintText]=02:41:09	Makoto	Pues claro. Ella es de la otra clase.	02:45:15;
+
+[PlayVoice]=02:41:09	Voice03/03-SB/03-SB-G06/03-SB-G06-0830	1	mak	02:45:15;
+
+[PlayMovie]=02:41:11	Movie03/03-SB/03-SB-G06/03-SB-G06-027	0	02:45:14;
+
+[CreateBG]=02:45:14	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-028	02:49:22;
+
+[PrintText]=02:45:15	Otome	Y-Ya veo. ¿Entonces es solo...?^	02:49:19;
+
+[PlayVoice]=02:45:15	Voice03/03-SB/03-SB-G06/03-SB-G06-0840	0	oto	02:49:19;
+
+[PrintText]=02:49:19	Makoto	Ahora, el turno de Obuchi...	02:52:20;
+
+[PlayVoice]=02:49:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0850	1	mak	02:52:20;
+
+[PlayMovie]=02:49:22	Movie03/03-SB/03-SB-G06/03-SB-G06-029	0	02:55:01;
+
+[PrintText]=02:52:20	Otome	¿Qué pasa con Minami?^	02:55:01;
+
+[PlayVoice]=02:52:20	Voice03/03-SB/03-SB-G06/03-SB-G06-0860	0	oto	02:55:01;
+
+[CreateBG]=02:55:01	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-030	02:57:14;
+
+[PrintText]=02:55:01	Makoto	¡No es que sea bueno. Es malo!	02:57:13;
+
+[PlayVoice]=02:55:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0870	1	mak	02:57:13;
+
+[PrintText]=02:57:13	Otome	Si es malo Entonces ¿Por qué?^	02:59:10;
+
+[PlayVoice]=02:57:13	Voice03/03-SB/03-SB-G06/03-SB-G06-0880	0	oto	02:59:10;
+
+[PlayMovie]=02:57:14	Movie03/03-SB/03-SB-G06/03-SB-G06-031	0	03:14:15;
+
+[PrintText]=02:59:10	Makoto	Bueno, para ser preciso, es más que difícil en este punto.	03:04:08;
+
+[PlayVoice]=02:59:10	Voice03/03-SB/03-SB-G06/03-SB-G06-0890	1	mak	03:04:08;
+
+[PrintText]=03:04:09	Otome	Entonces, tú... Minami...	03:06:20;
+
+[PlayVoice]=03:04:09	Voice03/03-SB/03-SB-G06/03-SB-G06-0900	0	oto	03:06:20;
+
+[PrintText]=03:06:19	Makoto	Sip. Por Minami, quieres decir Obuchi ¿No?.. Quiero hablarte de que será malo para ella.	03:14:14;
+
+[PlayVoice]=03:06:19	Voice03/03-SB/03-SB-G06/03-SB-G06-0910	1	mak	03:14:14;
+
+[PrintText]=03:14:14	Otome	¡Perdón... pero no puedo ser parte de esa discusión!	03:17:08;
+
+[PlayVoice]=03:14:14	Voice03/03-SB/03-SB-G06/03-SB-G06-0920	0	oto	03:17:08;
+
+[CreateBG]=03:14:15	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-032	03:15:13;
+
+[PlayMovie]=03:15:13	Movie03/03-SB/03-SB-G06/03-SB-G06-033	0	03:17:09;
+
+[PrintText]=03:17:08	Makoto	¿Huh?^	03:18:01;
+
+[PlayVoice]=03:17:08	Voice03/03-SB/03-SB-G06/03-SB-G06-0930	1	mak	03:18:01;
+
+[CreateBG]=03:17:09	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-034	03:18:03;
+
+[PrintText]=03:18:01	Otome	¡Probablemente has venido sin saber nada... pero también tengo sentimientos, y no puedo hacer esto!	03:25:02;
+
+[PlayVoice]=03:18:01	Voice03/03-SB/03-SB-G06/03-SB-G06-0940	0	oto	03:25:02;
+
+[PlayMovie]=03:18:03	Movie03/03-SB/03-SB-G06/03-SB-G06-035	0	03:25:02;
+
+[CreateBG]=03:25:02	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-036	03:27:07;
+
+[PrintText]=03:25:02	Makoto	Pero esto no tiene nada que ver contigo.	03:27:05;
+
+[PlayVoice]=03:25:02	Voice03/03-SB/03-SB-G06/03-SB-G06-0950	1	mak	03:27:05;
+
+[PrintText]=03:27:05	Otome	¡Lo es!	03:28:17;
+
+[PlayVoice]=03:27:05	Voice03/03-SB/03-SB-G06/03-SB-G06-0960	0	oto	03:28:17;
+
+[CreateBG]=03:27:07	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-037	03:28:18;
+
+[PrintText]=03:28:17	Makoto	Escucha, es verdad que hemos sido buenos amigos,	03:34:10;
+
+[PlayVoice]=03:28:17	Voice03/03-SB/03-SB-G06/03-SB-G06-0970	1	mak	03:34:10;
+
+[CreateBG]=03:28:18	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-038	03:40:11;
+
+[PrintText]=03:34:10	Makoto	Pero no creo que ella deba saltarse el turno porque habló contigo, así que relájate.	03:40:10;
+
+[PlayVoice]=03:34:10	Voice03/03-SB/03-SB-G06/03-SB-G06-0971	1	mak	03:40:10;
+
+[PrintText]=03:40:10	Otome	¿Eh? ¿Saltarse...?^	03:42:04;
+
+[PlayVoice]=03:40:10	Voice03/03-SB/03-SB-G06/03-SB-G06-0980	0	oto	03:42:04;
+
+[CreateBG]=03:40:11	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-039	03:42:05;
+
+[PrintText]=03:42:04	Makoto	Parece que Kotonoha ha estado aquí sentada durante toda la mañana.	03:46:12;
+
+[PlayVoice]=03:42:04	Voice03/03-SB/03-SB-G06/03-SB-G06-0990	1	mak	03:46:12;
+
+[PlayMovie]=03:42:05	Movie03/03-SB/03-SB-G06/03-SB-G06-040	0	03:56:01;
+
+[PrintText]=03:46:12	Makoto	Quiero que las personas que tiene su turno, pues tomen ahora el puesto,	03:50:13;
+
+[PlayVoice]=03:46:12	Voice03/03-SB/03-SB-G06/03-SB-G06-1000	1	mak	03:50:13;
+
+[PrintText]=03:50:13	Makoto	Y ahora ellas dos han venido... ¿No te importa si cambian de turno?^	03:55:23;
+
+[PlayVoice]=03:50:13	Voice03/03-SB/03-SB-G06/03-SB-G06-1001	1	mak	03:55:23;
+
+[CreateBG]=03:55:23	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-041	03:57:18;
+
+[PrintText]=03:55:23	Otome	¿Tur...no?^	03:57:17;
+
+[PlayVoice]=03:55:23	Voice03/03-SB/03-SB-G06/03-SB-G06-1010	0	oto	03:57:17;
+
+[PlaySe]=03:56:16	1	Se03/03-SB/03-SB-G06/SE03-SB-G06-001	04:18:03;
+
+[PrintText]=03:57:17	Makoto	Sí. Para la recepción.	03:59:22;
+
+[PlayVoice]=03:57:17	Voice03/03-SB/03-SB-G06/03-SB-G06-1020	1	mak	03:59:22;
+
+[PlayMovie]=03:57:18	Movie03/03-SB/03-SB-G06/03-SB-G06-042	0	03:59:23;
+
+[PrintText]=03:59:22	Otome	Aha... ahahahaha.	04:03:06;
+
+[PlayVoice]=03:59:22	Voice03/03-SB/03-SB-G06/03-SB-G06-1030	0	oto	04:03:06;
+
+[CreateBG]=03:59:23	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-043	04:03:07;
+
+[PrintText]=04:03:06	Makoto	¿Q-Qué pasa? ¿Pasa algo Katou?^	04:06:09;
+
+[PlayVoice]=04:03:06	Voice03/03-SB/03-SB-G06/03-SB-G06-1040	1	mak	04:06:09;
+
+[CreateBG]=04:03:07	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-044	04:06:10;
+
+[CreateBG]=04:06:10	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-045	04:09:20;
+
+[PrintText]=04:06:12	Otome	¡Nada!	04:08:06;
+
+[PlayVoice]=04:06:12	Voice03/03-SB/03-SB-G06/03-SB-G06-1050	0	oto	04:08:06;
+
+[PrintText]=04:08:03	Makoto	Que rara.	04:09:19;
+
+[PlayVoice]=04:08:03	Voice03/03-SB/03-SB-G06/03-SB-G06-1060	1	mak	04:09:19;
+
+[PrintText]=04:09:19	Minami	Um...	04:10:19;
+
+[PlayVoice]=04:09:19	Voice03/03-SB/03-SB-G06/03-SB-G06-1090	0	min	04:10:19;
+
+[CreateBG]=04:09:20	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-046	04:16:08;
+
+[PrintText]=04:10:19	Natsumi	¿Por qué tenemos que atender en la recepción?^	04:13:04;
+
+[PlayVoice]=04:10:19	Voice03/03-SB/03-SB-G06/03-SB-G06-1100	0	nat	04:13:04;
+
+[PrintText]=04:13:03	Otome	¡Todo es tu culpa!	04:15:09;
+
+[PlayVoice]=04:13:03	Voice03/03-SB/03-SB-G06/03-SB-G06-1110	0	oto	04:15:09;
+
+[PrintText]=04:15:10	Minami	¡Eek!	04:16:08;
+
+[PlayVoice]=04:15:10	Voice03/03-SB/03-SB-G06/03-SB-G06-1120	0	min	04:16:08;
+
+[CreateBG]=04:16:08	BGS	Event03/03-SB/03-SB-G06/03-SB-G06-047	04:18:03;
+
+[PrintText]=04:16:08	Natsumi	¡Ah, Bienvenido!	04:18:01;
+
+[PlayVoice]=04:16:08	Voice03/03-SB/03-SB-G06/03-SB-G06-1140	0	nat	04:18:01;
+
+ ;
+
+[Next]=04:18:03;
+
+

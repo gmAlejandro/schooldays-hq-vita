@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:13:01;
+
+[PlaySe]=00:00:00	2	Se02/02-2K/02-2K-F06/SE02-2K-F06-001	00:19:04;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-F06/02-2K-F06-001	00:05:07;
+
+[PrintText]=00:00:00	Kotonoha	Es Suficiente...	00:03:03;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-F06/02-2K-F06-0030	0	kot	00:03:03;
+
+[PrintText]=00:03:03	Makoto	¡Pero... yo quiero... ah!	00:06:10;
+
+[PlayVoice]=00:03:03	Voice02/02-2K/02-2K-F06/02-2K-F06-0040	1	mak	00:06:10;
+
+[PlaySe]=00:03:12	1	Voice02/02-2K/02-2K-F06/02-2K-F06-0050	00:07:22;
+
+[CreateBG]=00:05:07	BGS	Event02/02-2K/02-2K-F06/02-2K-F06-002	00:06:20;
+
+[CreateBG]=00:06:20	BGS	Event02/02-2K/02-2K-F03/02-2K-F03-003	00:19:04;
+
+[PrintText]=00:07:22	Kotonoha	Haah... haah...	00:11:01;
+
+[PlayVoice]=00:07:22	Voice02/02-2K/02-2K-F06/02-2K-F06-0060	0	kot	00:11:01;
+
+[PrintText]=00:10:20	Makoto	Kotonoha...	00:12:04;
+
+[PlayVoice]=00:10:20	Voice02/02-2K/02-2K-F06/02-2K-F06-0070	1	mak	00:12:04;
+
+[PrintText]=00:12:14	Kotonoha	...	00:13:16;
+
+[PlayVoice]=00:12:14	Voice02/02-2K/02-2K-F06/02-2K-F06-0080	0	xxx	00:13:16;
+
+[SetSELECT]=00:13:01	'Perdón'	'¿Por qué?'	00:18:01;
+
+ ;
+
+[Next]=00:19:04;
+
+
+
+

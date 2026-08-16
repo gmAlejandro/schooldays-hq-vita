@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:17:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:17:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/h/h_04	00:17:02;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-N00/H3-KB-N00-004	0	00:07:23;
+
+[PrintText]=00:00:00	Kotonoha	Haah... haah...	00:05:09;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-N07/03-KB-N07-0040	0	kot	00:05:09;
+
+[PlaySe]=00:01:02	2	SysSe/SE_all/h/nuno1	00:02:16;
+
+[PlaySe]=00:03:01	2	SysSe/SE_all/h/bed3	00:03:19;
+
+[PrintText]=00:05:08	Makoto	Nn...	00:09:07;
+
+[PlayVoice]=00:05:08	Voice03/03-KB/03-KB-N07/03-KB-N07-0050	1	mak	00:09:07;
+
+[PlayMovie]=00:07:23	Movie03/03-KB/03-KB-N00/H3-KB-N00-004	0	00:17:02;
+
+[PrintText]=00:09:07	Kotonoha	Ah...	00:11:21;
+
+[PlayVoice]=00:09:07	Voice03/03-KB/03-KB-N07/03-KB-N07-0060	0	kot	00:11:21;
+
+[PlaySe]=00:11:07	2	SysSe/SE_all/h/bed3	00:12:01;
+
+[PrintText]=00:11:21	Makoto	Nn...	00:17:02;
+
+[PlayVoice]=00:11:21	Voice03/03-KB/03-KB-N07/03-KB-N07-0070	1	mak	00:17:02;
+
+ ;
+
+[Next]=00:17:02;
+
+

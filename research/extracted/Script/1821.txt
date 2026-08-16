@@ -1,0 +1,80 @@
+﻿[SkipFRAME]=00:35:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:41:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-015	00:03:08;
+
+[PrintText]=00:00:00	Makoto	...	00:01:05;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-C10/05-SE-C10-0030	1	xxx	00:01:05;
+
+[PrintText]=00:01:13	Sekai	¿Makoto?^	00:02:11;
+
+[PlayVoice]=00:01:13	Voice05/05-SE/05-SE-C10/05-SE-C10-0040	0	sek	00:02:11;
+
+[PrintText]=00:02:16	Makoto	...no es nada.	00:03:19;
+
+[PlayVoice]=00:02:16	Voice05/05-SE/05-SE-C10/05-SE-C10-0050	1	mak	00:03:19;
+
+[CreateBG]=00:03:08	BGS	Event05/05-SE/05-SE-C10/05-SE-C10-002	00:13:11;
+
+[PrintText]=00:04:01	Sekai	¿En serio? Bueno, tienes que ver este enrollado de cerdo con espárragos, está delicioso.	00:09:16;
+
+[PlayVoice]=00:04:01	Voice05/05-SE/05-SE-C10/05-SE-C10-0060	0	sek	00:09:16;
+
+[PrintText]=00:09:21	Makoto	Uh-huh.	00:10:14;
+
+[PlayVoice]=00:09:21	Voice05/05-SE/05-SE-C10/05-SE-C10-0070	1	mak	00:10:14;
+
+[PrintText]=00:11:02	Sekai	Aquí, prueba. Te lo daré yo.	00:13:21;
+
+[PlayVoice]=00:11:02	Voice05/05-SE/05-SE-C10/05-SE-C10-0080	0	sek	00:13:21;
+
+[CreateBG]=00:13:11	BGS	Event05/05-SE/05-SE-C10/05-SE-C10-003	00:21:18;
+
+[PrintText]=00:14:01	Makoto	Está bien.	00:14:23;
+
+[PlayVoice]=00:14:01	Voice05/05-SE/05-SE-C10/05-SE-C10-0090	1	mak	00:14:23;
+
+[PrintText]=00:15:03	Sekai	Vamos, no seas tímido. Somos una pareja, no hay nada de qué avergonzarse.	00:21:15;
+
+[PlayVoice]=00:15:03	Voice05/05-SE/05-SE-C10/05-SE-C10-0100	0	sek	00:21:15;
+
+[PrintText]=00:21:16	Makoto	Sekai...	00:22:14;
+
+[PlayVoice]=00:21:16	Voice05/05-SE/05-SE-C10/05-SE-C10-0110	1	mak	00:22:14;
+
+[CreateBG]=00:21:18	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-014	00:41:07;
+
+[PrintText]=00:22:16	Sekai	¿Qué pasa?^	00:23:11;
+
+[PlayVoice]=00:22:16	Voice05/05-SE/05-SE-C10/05-SE-C10-0120	0	sek	00:23:11;
+
+[PrintText]=00:24:00	Makoto	¿Está bien... decir que estamos saliendo?^	00:27:12;
+
+[PlayVoice]=00:24:00	Voice05/05-SE/05-SE-C10/05-SE-C10-0130	1	mak	00:27:12;
+
+[PrintText]=00:27:11	Sekai	¿Eh...?^	00:28:00;
+
+[PlayVoice]=00:27:11	Voice05/05-SE/05-SE-C10/05-SE-C10-0140	0	sek	00:28:00;
+
+[PrintText]=00:28:12	Makoto	Quiero decir...	00:29:10;
+
+[PlayVoice]=00:28:12	Voice05/05-SE/05-SE-C10/05-SE-C10-0150	1	mak	00:29:10;
+
+[PrintText]=00:29:18	Sekai	¿Sí?^	00:30:13;
+
+[PlayVoice]=00:29:18	Voice05/05-SE/05-SE-C10/05-SE-C10-0160	0	sek	00:30:13;
+
+[PrintText]=00:31:09	Makoto	Quiero decir... el bebé que está dentro de ti...	00:36:00;
+
+[PlayVoice]=00:31:09	Voice05/05-SE/05-SE-C10/05-SE-C10-0170	1	mak	00:36:00;
+
+[SetSELECT]=00:35:04	'Es de Taisuke'	'No es mío'	00:40:04;
+
+ ;
+
+[Next]=00:41:07;
+
+
+

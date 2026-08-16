@@ -1,0 +1,303 @@
+﻿[SkipFRAME]=02:24:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	02:24:17;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-B05/SE03-SA-B05-001	00:29:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-001	00:09:00;
+
+[PrintText]=00:00:00	Sekai	¡Siguiente! ¡Tres sandwiches y té negro, Café y pie de manzana!	00:05:11;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-B05/03-SA-B05-0040	0	sek	00:05:11;
+
+[PrintText]=00:05:11	Makoto	¡Vale! ¡Primero, tres sandwiches!	00:07:23;
+
+[PlayVoice]=00:05:11	Voice03/03-SA/03-SA-B05/03-SA-B05-0050	1	mak	00:07:23;
+
+[PrintText]=00:08:00	Sekai	¡Bien!	00:08:22;
+
+[PlayVoice]=00:08:00	Voice03/03-SA/03-SA-B05/03-SA-B05-0060	0	sek	00:08:22;
+
+[PrintText]=00:08:23	Makoto	Ahora, a cortar el pie de manzana...	00:11:06;
+
+[PlayVoice]=00:08:23	Voice03/03-SA/03-SA-B05/03-SA-B05-0080	1	mak	00:11:06;
+
+[CreateBG]=00:09:00	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-002	00:12:19;
+
+[PrintText]=00:11:06	Nanami	Increíble.	00:12:18;
+
+[PlayVoice]=00:11:06	Voice03/03-SA/03-SA-B05/03-SA-B05-0090	0	nan	00:12:18;
+
+[CreateBG]=00:12:19	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-017	00:23:00;
+
+[PrintText]=00:12:19	Makoto	¿Huh?^	00:13:11;
+
+[PlayVoice]=00:12:19	Voice03/03-SA/03-SA-B05/03-SA-B05-0100	1	mak	00:13:11;
+
+[PrintText]=00:13:11	Nanami	Ustedes dos se complementan perfectamente.	00:14:17;
+
+[PlayVoice]=00:13:11	Voice03/03-SA/03-SA-B05/03-SA-B05-0110	0	nan	00:14:17;
+
+[PrintText]=00:14:18	Makoto	Sí, supongo.	00:15:15;
+
+[PlayVoice]=00:14:18	Voice03/03-SA/03-SA-B05/03-SA-B05-0120	1	mak	00:15:15;
+
+[PrintText]=00:15:15	Nanami	Parece una pareja-acaramelada.	00:16:18;
+
+[PlayVoice]=00:15:15	Voice03/03-SA/03-SA-B05/03-SA-B05-0130	0	nan	00:16:18;
+
+[PrintText]=00:16:18	Makoto	Cállate. ¿Por qué no haces algo también, Kanroji?^	00:19:13;
+
+[PlayVoice]=00:16:18	Voice03/03-SA/03-SA-B05/03-SA-B05-0140	1	mak	00:19:13;
+
+[PrintText]=00:19:13	Nanami	Estoy a punto de ir al club de baloncesto.	00:22:22;
+
+[PlayVoice]=00:19:13	Voice03/03-SA/03-SA-B05/03-SA-B05-0150	0	nan	00:22:22;
+
+[PrintText]=00:22:23	Makoto	Mentirosa. Ese asunto es para más tarde.	00:26:01;
+
+[PlayVoice]=00:22:23	Voice03/03-SA/03-SA-B05/03-SA-B05-0160	1	mak	00:26:01;
+
+[CreateBG]=00:23:00	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-004	00:33:20;
+
+[PrintText]=00:26:01	Nanami	Oh ¿Lo sabías?^	00:27:22;
+
+[PlayVoice]=00:26:01	Voice03/03-SA/03-SA-B05/03-SA-B05-0170	0	nan	00:27:22;
+
+[PrintText]=00:27:23	Makoto	Sí. Ven, ayúdame aquí.	00:30:12;
+
+[PlayVoice]=00:27:23	Voice03/03-SA/03-SA-B05/03-SA-B05-0180	1	mak	00:30:12;
+
+[PlaySe]=00:29:03	2	Se03/03-SA/03-SA-B05/SE03-SA-B05-001	00:58:10;
+
+[PrintText]=00:30:13	Nanami	Ahaha.	00:32:04;
+
+[PlayVoice]=00:30:13	Voice03/03-SA/03-SA-B05/03-SA-B05-0190	0	nan	00:32:04;
+
+[PrintText]=00:32:05	Makoto	No me cambies de tema.	00:33:19;
+
+[PlayVoice]=00:32:05	Voice03/03-SA/03-SA-B05/03-SA-B05-0200	1	mak	00:33:19;
+
+[PrintText]=00:33:19	Sekai	¡Nanami! Tu novio está aquí.	00:37:02;
+
+[PlayVoice]=00:33:19	Voice03/03-SA/03-SA-B05/03-SA-B05-0220	0	sek	00:37:02;
+
+[CreateBG]=00:33:20	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-005	00:37:05;
+
+[PrintText]=00:37:02	Nanami	Aww.	00:38:09;
+
+[PlayVoice]=00:37:02	Voice03/03-SA/03-SA-B05/03-SA-B05-0230	0	nan	00:38:09;
+
+[CreateBG]=00:37:05	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-017	00:43:20;
+
+[PrintText]=00:38:09	Makoto	¿Qué? ¿Te saltarás el trabajo para ir a una cita?^	00:41:03;
+
+[PlayVoice]=00:38:09	Voice03/03-SA/03-SA-B05/03-SA-B05-0240	1	mak	00:41:03;
+
+[PrintText]=00:41:04	Nanami	¡Regresaré para ayudar después! ¡Adiós!	00:43:20;
+
+[PlayVoice]=00:41:04	Voice03/03-SA/03-SA-B05/03-SA-B05-0250	0	nan	00:43:20;
+
+[CreateBG]=00:43:20	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-004	00:45:22;
+
+[PrintText]=00:43:20	Makoto	¡Hey!	00:44:16;
+
+[PlayVoice]=00:43:20	Voice03/03-SA/03-SA-B05/03-SA-B05-0260	1	mak	00:44:16;
+
+[PrintText]=00:44:16	Makoto	Cielos...	00:45:21;
+
+[PlayVoice]=00:44:16	Voice03/03-SA/03-SA-B05/03-SA-B05-0280	1	mak	00:45:21;
+
+[PrintText]=00:45:21	Sekai	Oh, ¿Qué importa? Es solo por hoy.	00:48:12;
+
+[PlayVoice]=00:45:21	Voice03/03-SA/03-SA-B05/03-SA-B05-0290	0	sek	00:48:12;
+
+[CreateBG]=00:45:22	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-008	00:56:01;
+
+[PrintText]=00:48:13	Makoto	Así no podemos, ni con los demás ausentes.	00:52:20;
+
+[PlayVoice]=00:48:13	Voice03/03-SA/03-SA-B05/03-SA-B05-0300	1	mak	00:52:20;
+
+[PrintText]=00:52:20	Sekai	Pero, al menos estamos juntos.	00:56:00;
+
+[PlayVoice]=00:52:20	Voice03/03-SA/03-SA-B05/03-SA-B05-0310	0	sek	00:56:00;
+
+[CreateBG]=00:56:01	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-009	01:04:09;
+
+[PrintText]=00:56:01	Makoto	No sé si puedes llamar a este caos 'Estamos juntos'...	00:59:07;
+
+[PlayVoice]=00:56:01	Voice03/03-SA/03-SA-B05/03-SA-B05-0320	1	mak	00:59:07;
+
+[PlaySe]=00:58:09	1	Se03/03-SA/03-SA-B05/SE03-SA-B05-001	01:27:16;
+
+[PrintText]=00:59:07	Sekai	Ahaha.	01:00:19;
+
+[PlayVoice]=00:59:07	Voice03/03-SA/03-SA-B05/03-SA-B05-0330	0	sek	01:00:19;
+
+[PrintText]=01:00:20	Setsuna	Itou.	01:01:16;
+
+[PlayVoice]=01:00:20	Voice03/03-SA/03-SA-B05/03-SA-B05-0350	0	set	01:01:16;
+
+[PrintText]=01:01:16	Makoto	Ah, lo siento. ¡El pie de manzana en un momento!	01:04:09;
+
+[PlayVoice]=01:01:16	Voice03/03-SA/03-SA-B05/03-SA-B05-0360	1	mak	01:04:09;
+
+[CreateBG]=01:04:09	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-010	01:08:10;
+
+[PrintText]=01:04:09	Setsuna	Eso no.	01:05:15;
+
+[PlayVoice]=01:04:09	Voice03/03-SA/03-SA-B05/03-SA-B05-0370	0	set	01:05:15;
+
+[PrintText]=01:05:15	Makoto	¿No?^	01:06:14;
+
+[PlayVoice]=01:05:15	Voice03/03-SA/03-SA-B05/03-SA-B05-0380	1	mak	01:06:14;
+
+[PrintText]=01:06:15	Setsuna	Puedes ir a tomar un descanso.	01:08:10;
+
+[PlayVoice]=01:06:15	Voice03/03-SA/03-SA-B05/03-SA-B05-0390	0	set	01:08:10;
+
+[CreateBG]=01:08:10	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-011	01:18:12;
+
+[PrintText]=01:08:10	Makoto	¿En serio? Pero estoy bien...	01:11:12;
+
+[PlayVoice]=01:08:10	Voice03/03-SA/03-SA-B05/03-SA-B05-0400	1	mak	01:11:12;
+
+[PrintText]=01:11:12	Setsuna	Sawanaga estará aquí pronto.	01:13:19;
+
+[PlayVoice]=01:11:12	Voice03/03-SA/03-SA-B05/03-SA-B05-0410	0	set	01:13:19;
+
+[PrintText]=01:13:20	Makoto	Ya veo. Vale, Me tomaré un pequeño descanso entonces.	01:18:12;
+
+[PlayVoice]=01:13:20	Voice03/03-SA/03-SA-B05/03-SA-B05-0420	1	mak	01:18:12;
+
+[CreateBG]=01:18:12	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-012	01:26:01;
+
+[PrintText]=01:18:12	Setsuna	Tú también, Sekai.	01:19:11;
+
+[PlayVoice]=01:18:12	Voice03/03-SA/03-SA-B05/03-SA-B05-0430	0	set	01:19:11;
+
+[PrintText]=01:19:12	Sekai	¡¿Eh?! ¡¿Yo?!	01:21:05;
+
+[PlayVoice]=01:19:12	Voice03/03-SA/03-SA-B05/03-SA-B05-0440	0	sek	01:21:05;
+
+[PrintText]=01:21:06	Setsuna	Hikari y yo estaremos aquí, y Katsu-san y la otras vendrán también.	01:26:00;
+
+[PlayVoice]=01:21:06	Voice03/03-SA/03-SA-B05/03-SA-B05-0450	0	set	01:26:00;
+
+[CreateBG]=01:26:00	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-013	01:30:02;
+
+[PrintText]=01:26:00	Sekai	Ya veo... bueno, tomaré tu oferta entonces.	01:30:02;
+
+[PlayVoice]=01:26:00	Voice03/03-SA/03-SA-B05/03-SA-B05-0460	0	sek	01:30:02;
+
+[PlaySe]=01:27:15	2	Se03/03-SA/03-SA-B05/SE03-SA-B05-001	01:56:22;
+
+[CreateBG]=01:30:02	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-014	01:32:09;
+
+[PrintText]=01:30:02	Makoto	¿También vienes, Sekai?^	01:31:16;
+
+[PlayVoice]=01:30:02	Voice03/03-SA/03-SA-B05/03-SA-B05-0470	1	mak	01:31:16;
+
+[PrintText]=01:31:16	Sekai	Sip.	01:32:09;
+
+[PlayVoice]=01:31:16	Voice03/03-SA/03-SA-B05/03-SA-B05-0480	0	sek	01:32:09;
+
+[CreateBG]=01:32:09	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-015	01:37:19;
+
+[PrintText]=01:32:09	Setsuna	Ah, Sekai.	01:33:20;
+
+[PlayVoice]=01:32:09	Voice03/03-SA/03-SA-B05/03-SA-B05-0490	0	set	01:33:20;
+
+[PrintText]=01:33:20	Sekai	¿Qué pasa Setsuna?^	01:35:05;
+
+[PlayVoice]=01:33:20	Voice03/03-SA/03-SA-B05/03-SA-B05-0500	0	sek	01:35:05;
+
+[PrintText]=01:35:06	Makoto	Me adelantaré ¿Vale?^	01:36:13;
+
+[PlayVoice]=01:35:06	Voice03/03-SA/03-SA-B05/03-SA-B05-0510	1	mak	01:36:13;
+
+[PrintText]=01:36:12	Sekai	Bien, estaré ahí.	01:37:19;
+
+[PlayVoice]=01:36:12	Voice03/03-SA/03-SA-B05/03-SA-B05-0520	0	sek	01:37:19;
+
+[CreateBG]=01:37:19	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-017	01:46:12;
+
+[PrintText]=01:37:19	Sekai	¡Ahora, solo limpiaré un poco aquí y ordenaré, para entonces descansar!	01:45:14;
+
+[PlayVoice]=01:37:19	Voice03/03-SA/03-SA-B05/03-SA-B05-0530	0	sek	01:45:14;
+
+[PrintText]=01:45:15	Setsuna	Escúchame...	01:46:11;
+
+[PlayVoice]=01:45:15	Voice03/03-SA/03-SA-B05/03-SA-B05-0540	0	set	01:46:11;
+
+[CreateBG]=01:46:12	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-018	01:49:10;
+
+[PrintText]=01:46:12	Setsuna	Tómate tu tiempo.	01:48:18;
+
+[PlayVoice]=01:46:12	Voice03/03-SA/03-SA-B05/03-SA-B05-0550	0	set	01:48:18;
+
+[PrintText]=01:48:18	Sekai	Ah...	01:49:10;
+
+[PlayVoice]=01:48:18	Voice03/03-SA/03-SA-B05/03-SA-B05-0560	0	sek	01:49:10;
+
+[CreateBG]=01:49:10	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-019	01:52:01;
+
+[PrintText]=01:49:10	Setsuna	Estaremos bien.	01:52:01;
+
+[PlayVoice]=01:49:10	Voice03/03-SA/03-SA-B05/03-SA-B05-0570	0	set	01:52:01;
+
+[CreateBG]=01:52:01	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-020	01:53:03;
+
+[PrintText]=01:52:01	Sekai	Gracias.	01:53:02;
+
+[PlayVoice]=01:52:01	Voice03/03-SA/03-SA-B05/03-SA-B05-0590	0	sek	01:53:02;
+
+[CreateBG]=01:53:03	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-021	01:55:01;
+
+[PrintText]=01:55:00	Hikari	Hablan de la pareja de caramelo.	01:57:03;
+
+[PlayVoice]=01:55:00	Voice03/03-SA/03-SA-B05/03-SA-B05-0610	0	hik	01:57:03;
+
+[CreateBG]=01:55:01	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-009	02:03:06;
+
+[PrintText]=01:57:03	Setsuna	...Están algo mal.	01:58:19;
+
+[PlayVoice]=01:57:03	Voice03/03-SA/03-SA-B05/03-SA-B05-0620	0	set	01:58:19;
+
+[PlaySe]=01:58:18	1	Se03/03-SA/03-SA-B05/SE03-SA-B05-001	02:24:20;
+
+[PrintText]=01:58:20	Hikari	Realmente cuidas bastante a Sekai ¿No?^	02:02:14;
+
+[PlayVoice]=01:58:20	Voice03/03-SA/03-SA-B05/03-SA-B05-0630	0	hik	02:02:14;
+
+[PrintText]=02:02:15	Setsuna	Uh-huh.	02:03:06;
+
+[PlayVoice]=02:02:15	Voice03/03-SA/03-SA-B05/03-SA-B05-0640	0	set	02:03:06;
+
+[CreateBG]=02:03:06	BGS	Event03/03-SA/03-SA-B05/03-SA-B05-023	02:24:20;
+
+[PrintText]=02:03:06	Hikari	Incluso cuando parece que ella cuida de ti. Que extraño.	02:08:21;
+
+[PlayVoice]=02:03:06	Voice03/03-SA/03-SA-B05/03-SA-B05-0650	0	hik	02:08:21;
+
+[PrintText]=02:08:19	Setsuna	Uh-huh... pero siempre  y cuando Itou esté con ella, estará bien.	02:16:06;
+
+[PlayVoice]=02:08:19	Voice03/03-SA/03-SA-B05/03-SA-B05-0660	0	set	02:16:06;
+
+[PrintText]=02:16:06	Hikari	Sip, así es. El tiempo hará todo para tu hija.	02:20:03;
+
+[PlayVoice]=02:16:06	Voice03/03-SA/03-SA-B05/03-SA-B05-0670	0	hik	02:20:03;
+
+[PrintText]=02:20:03	Setsuna	Deja de ser tonta y preocupate por el trabajo de Sekai también.	02:23:12;
+
+[PlayVoice]=02:20:03	Voice03/03-SA/03-SA-B05/03-SA-B05-0680	0	set	02:23:12;
+
+[PrintText]=02:23:12	Hikari	¡Vale!	02:24:14;
+
+[PlayVoice]=02:23:12	Voice03/03-SA/03-SA-B05/03-SA-B05-0690	0	hik	02:24:14;
+
+ ;
+
+[Next]=02:24:20;
+
+

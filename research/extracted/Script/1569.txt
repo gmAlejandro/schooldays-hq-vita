@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:39:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-C04/05-KF-C04-001	00:05:19;
+
+[PrintText]=00:05:09	Makoto	Phew...	00:07:16;
+
+[PlayVoice]=00:05:09	Voice05/05-KF/05-KF-C04/05-KF-C04-0040	1	mak	00:07:16;
+
+[PlaySe]=00:05:19	2	SysSe/SE_all/gaya/kyousitu_rouka	00:39:04;
+
+[CreateBG]=00:05:19	BGS	Event05/05-KF/05-KF-C04/05-KF-C04-002	00:07:17;
+
+[PrintText]=00:07:16	Sekai	¿No has dormido?^	00:10:10;
+
+[PlayVoice]=00:07:16	Voice05/05-KF/05-KF-C04/05-KF-C04-0050	0	sek	00:10:10;
+
+[CreateBG]=00:07:17	BGS	Event05/05-KF/05-KF-C04/05-KF-C04-003	00:20:21;
+
+[PrintText]=00:10:10	Makoto	Me siento cansado.	00:15:00;
+
+[PlayVoice]=00:10:10	Voice05/05-KF/05-KF-C04/05-KF-C04-0060	1	mak	00:15:00;
+
+[PrintText]=00:15:00	Sekai	Es difícil dormir sabiendo que tienes algo que hacer ¿No es así?^	00:19:05;
+
+[PlayVoice]=00:15:00	Voice05/05-KF/05-KF-C04/05-KF-C04-0070	0	sek	00:19:05;
+
+[PrintText]=00:19:05	Makoto	Sí.	00:21:00;
+
+[PlayVoice]=00:19:05	Voice05/05-KF/05-KF-C04/05-KF-C04-0080	1	mak	00:21:00;
+
+[CreateBG]=00:20:21	BGS	Event05/05-KF/05-KF-C04/05-KF-C04-004	00:25:12;
+
+[PrintText]=00:20:23	Sekai	Me siento igual.	00:22:10;
+
+[PlayVoice]=00:20:23	Voice05/05-KF/05-KF-C04/05-KF-C04-0090	0	sek	00:22:10;
+
+[PrintText]=00:22:11	Taisuke	¡Sekai! ¡Vamos a comer!	00:25:13;
+
+[PlayVoice]=00:22:11	Voice05/05-KF/05-KF-C04/05-KF-C04-0100	1	tai	00:25:13;
+
+[CreateBG]=00:25:12	BGS	Event05/05-KF/05-KF-C04/05-KF-C04-005	00:33:00;
+
+[PrintText]=00:25:13	Sekai	Ah... vale.	00:27:16;
+
+[PlayVoice]=00:25:13	Voice05/05-KF/05-KF-C04/05-KF-C04-0110	0	sek	00:27:16;
+
+[PrintText]=00:27:15	Taisuke	¡Vamos, Vamos! ¡Si no nos apuramos, la cafetería se va a llenar!	00:31:15;
+
+[PlayVoice]=00:27:15	Voice05/05-KF/05-KF-C04/05-KF-C04-0120	1	tai	00:31:15;
+
+[PrintText]=00:31:16	Sekai	Vale...	00:33:00;
+
+[PlayVoice]=00:31:16	Voice05/05-KF/05-KF-C04/05-KF-C04-0130	0	sek	00:33:00;
+
+[CreateBG]=00:33:00	BGS	Event05/05-KF/05-KF-C04/05-KF-C04-006	00:39:04;
+
+[PrintText]=00:33:00	Makoto	...	00:35:19;
+
+[PlayVoice]=00:33:00	Voice05/05-KF/05-KF-C04/05-KF-C04-0150	1	xxx	00:35:19;
+
+[PrintText]=00:35:19	Makoto	...También debería irme.	00:38:20;
+
+[PlayVoice]=00:35:19	Voice05/05-KF/05-KF-C04/05-KF-C04-0170	1	mak	00:38:20;
+
+ ;
+
+[Next]=00:39:04;
+
+
+
+

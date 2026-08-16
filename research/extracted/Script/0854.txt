@@ -1,0 +1,165 @@
+﻿[SkipFRAME]=01:36:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:36:16;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-I01/SE03-SB-I01-001	01:23:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-001	00:18:19;
+
+[PrintText]=00:00:00	Makoto	¿Algo relacionado con el comité? Ella está en el comité después de todo.	00:05:04;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-I01/03-SB-I01-0030	1	mak	00:05:04;
+
+[PrintText]=00:05:04	Nanami	¡Eso es!	00:06:09;
+
+[PlayVoice]=00:05:04	Voice03/03-SB/03-SB-I01/03-SB-I01-0040	0	nan	00:06:09;
+
+[PrintText]=00:06:10	Makoto	Ya veo. Supongo que algo urgente acaba de pasar... siempre sucede.	00:13:01;
+
+[PlayVoice]=00:06:10	Voice03/03-SB/03-SB-I01/03-SB-I01-0050	1	mak	00:13:01;
+
+[PrintText]=00:13:01	Nanami	¡Sí, Sí!	00:14:09;
+
+[PlayVoice]=00:13:01	Voice03/03-SB/03-SB-I01/03-SB-I01-0060	0	nan	00:14:09;
+
+[PrintText]=00:14:09	Makoto	Es inevitable. La esperaré en su salón hasta que regrese entonces.	00:18:19;
+
+[PlayVoice]=00:14:09	Voice03/03-SB/03-SB-I01/03-SB-I01-0070	1	mak	00:18:19;
+
+[CreateBG]=00:18:19	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-002	00:22:12;
+
+[PrintText]=00:18:19	Nanami	¿Eh?^	00:19:12;
+
+[PlayVoice]=00:18:19	Voice03/03-SB/03-SB-I01/03-SB-I01-0080	0	nan	00:19:12;
+
+[PrintText]=00:19:12	Makoto	Vamos, sal de mi camino. Iré a la clase 4.	00:22:12;
+
+[PlayVoice]=00:19:12	Voice03/03-SB/03-SB-I01/03-SB-I01-0090	1	mak	00:22:12;
+
+[CreateBG]=00:22:12	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-003	00:34:16;
+
+[PrintText]=00:22:12	Nanami	¡Awawah! ¡E-Espera un segundo!	00:24:17;
+
+[PlayVoice]=00:22:12	Voice03/03-SB/03-SB-I01/03-SB-I01-0100	0	nan	00:24:17;
+
+[PrintText]=00:24:17	Makoto	Ya no deseas nada ¿No? Me voy.	00:27:06;
+
+[PlayVoice]=00:24:17	Voice03/03-SB/03-SB-I01/03-SB-I01-0110	1	mak	00:27:06;
+
+[PrintText]=00:27:05	Nanami	¡E-Ella dijo que le iba a tomar tiempo!	00:31:03;
+
+[PlayVoice]=00:27:05	Voice03/03-SB/03-SB-I01/03-SB-I01-0120	0	nan	00:31:03;
+
+[PrintText]=00:31:03	Makoto	¿En serio?^	00:32:14;
+
+[PlayVoice]=00:31:03	Voice03/03-SB/03-SB-I01/03-SB-I01-0130	1	mak	00:32:14;
+
+[PrintText]=00:32:12	Nanami	Totalmente, Totalmente. Totalmente en serio.	00:34:16;
+
+[PlayVoice]=00:32:12	Voice03/03-SB/03-SB-I01/03-SB-I01-0140	0	nan	00:34:16;
+
+[CreateBG]=00:34:16	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-004	00:39:19;
+
+[PrintText]=00:34:16	Makoto	Me pregunto que a pasado. ¿Le dieron una nueva orden?^	00:39:18;
+
+[PlayVoice]=00:34:16	Voice03/03-SB/03-SB-I01/03-SB-I01-0150	1	mak	00:39:18;
+
+[PrintText]=00:39:18	Nanami	Entonces, me dijo que vayas a divertirte tú solo...	00:43:23;
+
+[PlayVoice]=00:39:18	Voice03/03-SB/03-SB-I01/03-SB-I01-0160	0	nan	00:43:23;
+
+[CreateBG]=00:39:19	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-005	00:49:16;
+
+[PrintText]=00:43:23	Makoto	¿Kotonoha dijo eso?^	00:47:17;
+
+[PlayVoice]=00:43:23	Voice03/03-SB/03-SB-I01/03-SB-I01-0170	1	mak	00:47:17;
+
+[PrintText]=00:47:17	Nanami	S-Sí... probablemente...	00:50:14;
+
+[PlayVoice]=00:47:17	Voice03/03-SB/03-SB-I01/03-SB-I01-0180	0	nan	00:50:14;
+
+[CreateBG]=00:49:16	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-005B	00:53:21;
+
+[PrintText]=00:50:14	Makoto	¿Probablemente?^	00:51:14;
+
+[PlayVoice]=00:50:14	Voice03/03-SB/03-SB-I01/03-SB-I01-0190	1	mak	00:51:14;
+
+[PrintText]=00:51:14	Nanami	¡N-no, lo hizo!	00:53:21;
+
+[PlayVoice]=00:51:14	Voice03/03-SB/03-SB-I01/03-SB-I01-0200	0	nan	00:53:21;
+
+[CreateBG]=00:53:21	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-006	01:09:03;
+
+[PrintText]=00:53:21	Makoto	Ya veo... bueno, no se puede evitar.	00:57:10;
+
+[PlayVoice]=00:53:21	Voice03/03-SB/03-SB-I01/03-SB-I01-0210	1	mak	00:57:10;
+
+[PrintText]=00:57:10	Nanami	Entonces, estás libre ahora ¿No?^	01:00:18;
+
+[PlayVoice]=00:57:10	Voice03/03-SB/03-SB-I01/03-SB-I01-0220	0	nan	01:00:18;
+
+[PrintText]=01:00:19	Makoto	No, no lo estoy.	01:01:22;
+
+[PlayVoice]=01:00:19	Voice03/03-SB/03-SB-I01/03-SB-I01-0230	1	mak	01:01:22;
+
+[PrintText]=01:01:23	Nanami	¡¿Por qué no?! Ahora que Katsura se a ido, puedes hacer lo que quieras ¡¿No?!	01:06:01;
+
+[PlayVoice]=01:01:23	Voice03/03-SB/03-SB-I01/03-SB-I01-0240	0	nan	01:06:01;
+
+[PrintText]=01:06:00	Makoto	Tal vez vuelva. Esperaré.	01:09:03;
+
+[PlayVoice]=01:06:00	Voice03/03-SB/03-SB-I01/03-SB-I01-0250	1	mak	01:09:03;
+
+[CreateBG]=01:09:03	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-007	01:11:15;
+
+[PrintText]=01:09:04	Nanami	¡No hay por qué esperar a alguien como ella!	01:11:15;
+
+[PlayVoice]=01:09:04	Voice03/03-SB/03-SB-I01/03-SB-I01-0260	0	nan	01:11:15;
+
+[CreateBG]=01:11:15	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-008	01:19:10;
+
+[PrintText]=01:11:15	Makoto	¿'Alguien como ella'?^	01:12:20;
+
+[PlayVoice]=01:11:15	Voice03/03-SB/03-SB-I01/03-SB-I01-0270	1	mak	01:12:20;
+
+[PrintText]=01:12:20	Nanami	¡Quiero decir, Katsura dijo que no tenías que esperarla!	01:17:17;
+
+[PlayVoice]=01:12:20	Voice03/03-SB/03-SB-I01/03-SB-I01-0280	0	nan	01:17:17;
+
+[PrintText]=01:17:17	Makoto	¿En serio...?^	01:18:17;
+
+[PlayVoice]=01:17:17	Voice03/03-SB/03-SB-I01/03-SB-I01-0290	1	mak	01:18:17;
+
+[PrintText]=01:18:17	Nanami	S-Sí...	01:20:11;
+
+[PlayVoice]=01:18:17	Voice03/03-SB/03-SB-I01/03-SB-I01-0300	0	nan	01:20:11;
+
+[CreateBG]=01:19:10	BGS	Event03/03-SB/03-SB-I01/03-SB-I01-009	01:36:16;
+
+[PrintText]=01:20:11	Makoto	Ya veo...me pregunto si es así como van estas cosas...	01:25:04;
+
+[PlayVoice]=01:20:11	Voice03/03-SB/03-SB-I01/03-SB-I01-0310	1	mak	01:25:04;
+
+[PlaySe]=01:23:03	2	Se03/03-SB/03-SB-I01/SE03-SB-I01-001	01:36:16;
+
+[PrintText]=01:25:04	Nanami	Por eso es que...	01:27:08;
+
+[PlayVoice]=01:25:04	Voice03/03-SB/03-SB-I01/03-SB-I01-0320	0	nan	01:27:08;
+
+[PrintText]=01:27:08	Makoto	Bien. Entonces como no tengo nada que hacer, iré a ayudarla.	01:31:07;
+
+[PlayVoice]=01:27:08	Voice03/03-SB/03-SB-I01/03-SB-I01-0330	1	mak	01:31:07;
+
+[PrintText]=01:31:06	Nanami	¡Waah! ¡Solo le causarás problemas!	01:33:19;
+
+[PlayVoice]=01:31:06	Voice03/03-SB/03-SB-I01/03-SB-I01-0340	0	nan	01:33:19;
+
+[PrintText]=01:33:18	Makoto	No lo haré. Solo iré a veré que puedo hacer.	01:36:12;
+
+[PlayVoice]=01:33:18	Voice03/03-SB/03-SB-I01/03-SB-I01-0350	1	mak	01:36:12;
+
+ ;
+
+[Next]=01:36:16;
+
+

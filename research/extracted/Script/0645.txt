@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:06:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:12:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E02/03-KB-E02-001	00:02:20;
+
+[PrintText]=00:00:00	Makoto	Espera.	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E02/03-KB-E02-0030	1	mak	00:00:23;
+
+[PrintText]=00:00:23	Taisuke	¿Eh?^	00:01:13;
+
+[PlayVoice]=00:00:23	Voice03/03-KB/03-KB-E02/03-KB-E02-0040	1	tai	00:01:13;
+
+[PrintText]=00:01:13	Makoto	Sekai está...	00:02:19;
+
+[PlayVoice]=00:01:13	Voice03/03-KB/03-KB-E02/03-KB-E02-0050	1	mak	00:02:19;
+
+[CreateBG]=00:02:20	BGS	Event03/03-KB/03-KB-E02/03-KB-E02-002	00:12:18;
+
+[PrintText]=00:02:20	Taisuke	¿Sí?^	00:04:21;
+
+[PlayVoice]=00:02:20	Voice03/03-KB/03-KB-E02/03-KB-E02-0060	1	tai	00:04:21;
+
+[PrintText]=00:04:21	Makoto	Sekai está...	00:06:02;
+
+[PlayVoice]=00:04:21	Voice03/03-KB/03-KB-E02/03-KB-E02-0070	1	mak	00:06:02;
+
+[SetSELECT]=00:06:17	'Saliendo conmigo'	'Ella probablemente diga que sí'	00:11:17;
+
+ ;
+
+[Next]=00:12:18;
+
+

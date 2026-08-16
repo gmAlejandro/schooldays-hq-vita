@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:33:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:33:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:33:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-E03/04-SE-E03-001	00:01:02;
+
+[PrintText]=00:00:04	Makoto	...	00:01:00;
+
+[PlayVoice]=00:00:04	Voice04/04-SE/04-SE-E03/04-SE-E03-0030	1	xxx	00:01:00;
+
+[CreateBG]=00:01:02	BGS	Event04/04-SE/04-SE-E03/04-SE-E03-002	00:08:05;
+
+[PrintText]=00:01:02	Sekai	Entonces... estabas saliendo con ella después de todo.	00:04:05;
+
+[PlayVoice]=00:01:02	Voice04/04-SE/04-SE-E03/04-SE-E03-0040	0	sek	00:04:05;
+
+[PrintText]=00:04:05	Makoto	¿Eh?^	00:04:19;
+
+[PlayVoice]=00:04:05	Voice04/04-SE/04-SE-E03/04-SE-E03-0050	1	mak	00:04:19;
+
+[PrintText]=00:04:19	Sekai	¿Katou-san fue tu novia de la primaria?^	00:08:05;
+
+[PlayVoice]=00:04:19	Voice04/04-SE/04-SE-E03/04-SE-E03-0060	0	sek	00:08:05;
+
+[CreateBG]=00:08:05	BGS	Event04/04-SE/04-SE-E03/04-SE-E03-003	00:13:04;
+
+[PrintText]=00:08:05	Makoto	¡Qu-! No, no es así.	00:11:22;
+
+[PlayVoice]=00:08:05	Voice04/04-SE/04-SE-E03/04-SE-E03-0070	1	mak	00:11:22;
+
+[PrintText]=00:11:22	Sekai	Ya lo creo...	00:13:04;
+
+[PlayVoice]=00:11:22	Voice04/04-SE/04-SE-E03/04-SE-E03-0080	0	sek	00:13:04;
+
+[CreateBG]=00:13:04	BGS	Event04/04-SE/04-SE-E03/04-SE-E03-004	00:33:01;
+
+[PrintText]=00:13:04	Makoto	No es así, tonta. En la primaria, las chicas y los chicos solo son amigos, así eran las cosas.	00:25:10;
+
+[PlayVoice]=00:13:04	Voice04/04-SE/04-SE-E03/04-SE-E03-0090	1	mak	00:25:10;
+
+[PrintText]=00:25:10	Sekai	Suena indecente.	00:26:21;
+
+[PlayVoice]=00:25:10	Voice04/04-SE/04-SE-E03/04-SE-E03-0100	0	sek	00:26:21;
+
+[PrintText]=00:26:21	Makoto	¡Ya te dije, no es como crees! ¡Créeme!	00:30:12;
+
+[PlayVoice]=00:26:21	Voice04/04-SE/04-SE-E03/04-SE-E03-0110	1	mak	00:30:12;
+
+[PrintText]=00:30:12	Sekai	Como sea.	00:31:13;
+
+[PlayVoice]=00:30:12	Voice04/04-SE/04-SE-E03/04-SE-E03-0120	0	sek	00:31:13;
+
+[BlackFade]=00:32:01	OUT	00:33:01;
+
+ ;
+
+[Next]=00:33:01;
+
+

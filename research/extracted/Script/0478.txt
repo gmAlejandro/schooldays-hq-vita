@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:29:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:29:12;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-B02/SE03-BK-B02-001	00:14:17;
+
+[PlayMovie]=00:00:00	Movie03/03-BK/03-BK-B02/03-BK-B02-001	0	00:06:17;
+
+[PrintText]=00:00:00	Makoto	¡...!	00:03:18;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-B02/03-BK-B02-0040	1	mak	00:03:18;
+
+[PrintText]=00:03:18	Kotonoha	Mmn...	00:05:17;
+
+[PlayVoice]=00:03:18	Voice03/03-BK/03-BK-B02/03-BK-B02-0050	0	kot	00:05:17;
+
+[PrintText]=00:05:17	Kotonoha	Mmn...	00:06:16;
+
+[PlayVoice]=00:05:17	Voice03/03-BK/03-BK-B02/03-BK-B02-0070	0	kot	00:06:16;
+
+[CreateBG]=00:06:17	BGS	Event03/03-BK/03-BK-B02/03-BK-B02-002	00:07:23;
+
+[PlayMovie]=00:07:23	Movie03/03-BK/03-BK-B03/03-BK-B03-009	0	00:11:13;
+
+[PlayVoice]=00:07:23	Voice03/03-BK/03-BK-B02/03-BK-B02-0090	1	ana	00:10:13;
+
+[PrintText]=00:10:13	Makoto	¡Fwaah...!	00:11:13;
+
+[PlayVoice]=00:10:13	Voice03/03-BK/03-BK-B02/03-BK-B02-0110	1	mak	00:11:13;
+
+[CreateBG]=00:11:13	BGS	Event03/03-BK/03-BK-B02/03-BK-B02-004	00:14:17;
+
+[PrintText]=00:11:13	Kotonoha	Makoto-kun.	00:12:17;
+
+[PlayVoice]=00:11:13	Voice03/03-BK/03-BK-B02/03-BK-B02-0120	0	kot	00:12:17;
+
+[PrintText]=00:12:17	Makoto	Uh-huh.	00:13:12;
+
+[PlayVoice]=00:12:17	Voice03/03-BK/03-BK-B02/03-BK-B02-0130	1	mak	00:13:12;
+
+[PrintText]=00:13:23	Kotonoha	...Tonto.	00:14:17;
+
+[PlayVoice]=00:13:23	Voice03/03-BK/03-BK-B02/03-BK-B02-0140	0	kot	00:14:17;
+
+[PlaySe]=00:14:17	2	Se03/03-BK/03-BK-B02/SE03-BK-B02-002	00:29:12;
+
+[PlayMovie]=00:14:17	Movie03/03-BK/03-BK-B02/03-BK-B02-005	0	00:29:12;
+
+[PrintText]=00:15:06	Makoto	¿Eh? ¿Qué?^	00:16:21;
+
+[PlayVoice]=00:15:06	Voice03/03-BK/03-BK-B02/03-BK-B02-0150	1	mak	00:16:21;
+
+[PrintText]=00:26:17	Makoto	¡Ah!	00:27:09;
+
+[PlayVoice]=00:26:17	Voice03/03-BK/03-BK-B02/03-BK-B02-0180	1	mak	00:27:09;
+
+[PrintText]=00:27:20	Kotonoha	...Buenas noches.	00:29:00;
+
+[PlayVoice]=00:27:20	Voice03/03-BK/03-BK-B02/03-BK-B02-0190	0	kot	00:29:00;
+
+[BlackFade]=00:29:00	OUT	00:29:12;
+
+ ;
+
+[Next]=00:29:12;
+
+

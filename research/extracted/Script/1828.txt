@@ -1,0 +1,91 @@
+﻿[SkipFRAME]=00:45:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:45:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-002	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-003	00:13:18;
+
+[PrintText]=00:06:16	Kotonoha	Makoto-kun...	00:07:21;
+
+[PlayVoice]=00:06:16	Voice05/05-SE/05-SE-E01/05-SE-E01-0040	0	kot	00:07:21;
+
+[PrintText]=00:07:21	Makoto	Kuh...	00:13:03;
+
+[PlayVoice]=00:07:21	Voice05/05-SE/05-SE-E01/05-SE-E01-0070	1	mak	00:13:03;
+
+[PrintText]=00:13:03	Kotonoha	...	00:13:17;
+
+[PlayVoice]=00:13:03	Voice05/05-SE/05-SE-E01/05-SE-E01-0080	0	xxx	00:13:17;
+
+[CreateBG]=00:13:18	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-004	00:15:00;
+
+[CreateBG]=00:15:00	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-005	00:21:08;
+
+[PrintText]=00:15:02	Kotonoha	Ah...	00:15:19;
+
+[PlayVoice]=00:15:02	Voice05/05-SE/05-SE-E01/05-SE-E01-0100	0	kot	00:15:19;
+
+[PrintText]=00:15:22	Makoto	...	00:21:02;
+
+[PlayVoice]=00:15:22	Voice05/05-SE/05-SE-E01/05-SE-E01-0110	1	xxx	00:21:02;
+
+[CreateBG]=00:21:08	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-006	00:22:15;
+
+[PrintText]=00:21:13	Kotonoha	Makoto-kun...	00:22:15;
+
+[PlayVoice]=00:21:13	Voice05/05-SE/05-SE-E01/05-SE-E01-0130	0	kot	00:22:15;
+
+[CreateBG]=00:22:15	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-007	00:24:03;
+
+[PrintText]=00:22:15	Makoto	...	00:24:02;
+
+[PlayVoice]=00:22:15	Voice05/05-SE/05-SE-E01/05-SE-E01-0140	1	xxx	00:24:02;
+
+[PrintText]=00:24:02	Kotonoha	Nunca te traicionaría.	00:27:13;
+
+[PlayVoice]=00:24:02	Voice05/05-SE/05-SE-E01/05-SE-E01-0150	0	kot	00:27:13;
+
+[CreateBG]=00:24:03	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-008	00:30:00;
+
+[PrintText]=00:27:13	Makoto	...	00:30:00;
+
+[PlayVoice]=00:27:13	Voice05/05-SE/05-SE-E01/05-SE-E01-0160	1	xxx	00:30:00;
+
+[CreateBG]=00:30:00	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-009	00:34:19;
+
+[PrintText]=00:30:00	Kotonoha	Solo tengo ojos para ti...	00:33:07;
+
+[PlayVoice]=00:30:00	Voice05/05-SE/05-SE-E01/05-SE-E01-0170	0	kot	00:33:07;
+
+[PrintText]=00:33:07	Makoto	...	00:34:19;
+
+[PlayVoice]=00:33:07	Voice05/05-SE/05-SE-E01/05-SE-E01-0180	1	xxx	00:34:19;
+
+[CreateBG]=00:34:19	BGS	Event05/05-SE/05-SE-E01/05-SE-E01-010	00:45:21;
+
+[PrintText]=00:34:19	Kotonoha	Quiero... tener a nuestro hijo.	00:40:18;
+
+[PlayVoice]=00:34:19	Voice05/05-SE/05-SE-E01/05-SE-E01-0190	0	kot	00:40:18;
+
+[PrintText]=00:41:06	Makoto	...Gracias.	00:42:09;
+
+[PlayVoice]=00:41:06	Voice05/05-SE/05-SE-E01/05-SE-E01-0200	1	mak	00:42:09;
+
+[PrintText]=00:43:00	Kotonoha	...Te amo.	00:44:08;
+
+[PlayVoice]=00:43:00	Voice05/05-SE/05-SE-E01/05-SE-E01-0210	0	kot	00:44:08;
+
+[PrintText]=00:45:00	Makoto	Lo sé.	00:45:19;
+
+[PlayVoice]=00:45:00	Voice05/05-SE/05-SE-E01/05-SE-E01-0220	1	mak	00:45:19;
+
+ ;
+
+[Next]=00:45:21;
+
+
+
+

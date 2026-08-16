@@ -1,0 +1,50 @@
+﻿[SkipFRAME]=00:17:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:17:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-C03/05-KA-C03-001	00:02:16;
+
+[PrintText]=00:00:00	Makoto	...	00:00:19;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-C03/05-KA-C03-0030	1	xxx	00:00:19;
+
+[PrintText]=00:00:21	Sekai	¿No me dirás?^	00:02:16;
+
+[PlayVoice]=00:00:21	Voice05/05-KA/05-KA-C03/05-KA-C03-0040	0	sek	00:02:16;
+
+[CreateBG]=00:02:16	BGS	Event05/05-KA/05-KA-C03/05-KA-C03-002	00:03:12;
+
+[PrintText]=00:02:18	Makoto	¿Eh?^	00:03:09;
+
+[PlayVoice]=00:02:18	Voice05/05-KA/05-KA-C03/05-KA-C03-0050	1	mak	00:03:09;
+
+[CreateBG]=00:03:12	BGS	Event05/05-KA/05-KA-C03/05-KA-C03-003	00:10:08;
+
+[PrintText]=00:03:12	Sekai	Después de todo... estuviste en la clase 4, y te acostaste con Katsura-san.	00:10:08;
+
+[PlayVoice]=00:03:12	Voice05/05-KA/05-KA-C03/05-KA-C03-0060	0	sek	00:10:08;
+
+[CreateBG]=00:10:08	BGS	Event05/05-KA/05-KA-C03/05-KA-C03-004	00:12:17;
+
+[PrintText]=00:10:08	Makoto	¿D-De qué estás...?^	00:12:12;
+
+[PlayVoice]=00:10:08	Voice05/05-KA/05-KA-C03/05-KA-C03-0070	1	mak	00:12:12;
+
+[CreateBG]=00:12:17	BGS	Event05/05-KA/05-KA-C03/05-KA-C03-005	00:16:11;
+
+[PrintText]=00:12:17	Sekai	No tienes que ocultarlo. Ya lo sabía.	00:16:09;
+
+[PlayVoice]=00:12:17	Voice05/05-KA/05-KA-C03/05-KA-C03-0080	0	sek	00:16:09;
+
+[CreateBG]=00:16:11	BGS	Event05/05-KA/05-KA-C03/05-KA-C03-006	00:17:12;
+
+[PrintText]=00:16:11	Makoto	Uuh...	00:17:12;
+
+[PlayVoice]=00:16:11	Voice05/05-KA/05-KA-C03/05-KA-C03-0090	1	mak	00:17:12;
+
+ ;
+
+[Next]=00:17:12;
+
+
+

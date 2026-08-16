@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:21:10;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-G10/SE03-SA-G10-001	00:21:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-G08/03-SA-G08-003	00:21:10;
+
+[PrintText]=00:00:00	Makoto	Dejemos de lado el trabajo.	00:01:07;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-G10/03-SA-G10-0030	1	mak	00:01:07;
+
+[PrintText]=00:01:07	Sekai	¡No podemos hacer eso... aahn!	00:05:18;
+
+[PlayVoice]=00:01:07	Voice03/03-SA/03-SA-G10/03-SA-G10-0040	0	sek	00:05:18;
+
+[PrintText]=00:05:18	Makoto	Pero tu cuerpo no dice lo mismo.	00:09:10;
+
+[PlayVoice]=00:05:18	Voice03/03-SA/03-SA-G10/03-SA-G10-0050	1	mak	00:09:10;
+
+[PrintText]=00:09:11	Sekai	Eso... ya sabes... mis puntos sensibles.	00:16:08;
+
+[PlayVoice]=00:09:11	Voice03/03-SA/03-SA-G10/03-SA-G10-0060	0	sek	00:16:08;
+
+[PrintText]=00:16:07	Makoto	Te haré sentirlo aún mejor.	00:18:03;
+
+[PlayVoice]=00:16:07	Voice03/03-SA/03-SA-G10/03-SA-G10-0070	1	mak	00:18:03;
+
+[PrintText]=00:18:04	Sekai	¡Mmn...! ¡Ahh...!	00:21:10;
+
+[PlayVoice]=00:18:04	Voice03/03-SA/03-SA-G10/03-SA-G10-0080	0	sek	00:21:10;
+
+ ;
+
+[Next]=00:21:10;
+
+

@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:18:12;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-K04/SE03-KB-K04-001	00:24:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-K04/03-KB-K04-001	00:01:10;
+
+[CreateBG]=00:01:10	BGS	Event03/03-KB/03-KB-K04/03-KB-K04-002	00:03:02;
+
+[CreateBG]=00:03:02	BGS	Event03/03-KB/03-KB-K04/03-KB-K04-003	00:03:17;
+
+[PrintText]=00:03:02	Makoto	Ah.	00:03:17;
+
+[PlayVoice]=00:03:02	Voice03/03-KB/03-KB-K04/03-KB-K04-0040	1	mak	00:03:17;
+
+[CreateBG]=00:03:17	BGS	Event03/03-KB/03-KB-K04/03-KB-K04-004	00:06:16;
+
+[PrintText]=00:03:17	Nanami	Hey, pero si es Itou ¿Qué pasa?^	00:06:16;
+
+[PlayVoice]=00:03:17	Voice03/03-KB/03-KB-K04/03-KB-K04-0050	0	nan	00:06:16;
+
+[PrintText]=00:06:15	Makoto	Nada...	00:07:15;
+
+[PlayVoice]=00:06:15	Voice03/03-KB/03-KB-K04/03-KB-K04-0060	1	mak	00:07:15;
+
+[CreateBG]=00:06:16	BGS	Event03/03-KB/03-KB-K04/03-KB-K04-005	00:07:16;
+
+[PrintText]=00:07:15	Nanami	Estás en el mejor momento. Estaba pensando en llamarte.	00:11:17;
+
+[PlayVoice]=00:07:15	Voice03/03-KB/03-KB-K04/03-KB-K04-0070	0	nan	00:11:17;
+
+[CreateBG]=00:07:16	BGS	Event03/03-KB/03-KB-K04/03-KB-K04-006	00:16:15;
+
+[PrintText]=00:11:17	Makoto	¿A mí?^	00:12:11;
+
+[PlayVoice]=00:11:17	Voice03/03-KB/03-KB-K04/03-KB-K04-0080	1	mak	00:12:11;
+
+[PrintText]=00:12:11	Nanami	Sip.	00:13:03;
+
+[PlayVoice]=00:12:11	Voice03/03-KB/03-KB-K04/03-KB-K04-0090	0	nan	00:13:03;
+
+[PrintText]=00:13:03	Otome	Ah... um, escucha, Itou.	00:15:20;
+
+[PlayVoice]=00:13:03	Voice03/03-KB/03-KB-K04/03-KB-K04-0100	0	oto	00:15:20;
+
+[PrintText]=00:15:21	Makoto	Sí.	00:16:14;
+
+[PlayVoice]=00:15:21	Voice03/03-KB/03-KB-K04/03-KB-K04-0110	1	mak	00:16:14;
+
+[CreateBG]=00:16:15	BGS	Event03/03-KB/03-KB-K04/03-KB-K04-007	00:24:12;
+
+[PrintText]=00:16:15	Otome	¿Estás libre ahora mismo?^	00:18:20;
+
+[PlayVoice]=00:16:15	Voice03/03-KB/03-KB-K04/03-KB-K04-0120	0	oto	00:18:20;
+
+[SetSELECT]=00:18:12	'Sí'	'No'	00:23:12;
+
+ ;
+
+[Next]=00:24:12;
+
+

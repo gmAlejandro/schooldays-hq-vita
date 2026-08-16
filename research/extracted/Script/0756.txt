@@ -1,0 +1,141 @@
+﻿[SkipFRAME]=00:57:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:57:08;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-F01/SE03-SA-F01-001	00:57:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-001	00:03:06;
+
+[PrintText]=00:00:00	Makoto	Escucha, puedes al menos ayudar a limpiar...	00:03:06;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-F01/03-SA-F01-0030	1	mak	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-002	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-003	00:10:14;
+
+[PrintText]=00:05:00	Natsumi	Ahaha... eso sería gracioso.	00:08:00;
+
+[PlayVoice]=00:05:00	Voice03/03-SA/03-SA-F01/03-SA-F01-0080	0	nat	00:08:00;
+
+[PrintText]=00:08:00	Minami	Sí, bastante.	00:09:04;
+
+[PlayVoice]=00:08:00	Voice03/03-SA/03-SA-F01/03-SA-F01-0090	0	min	00:09:04;
+
+[PrintText]=00:09:05	Kumi	Mírala.	00:10:13;
+
+[PlayVoice]=00:09:05	Voice03/03-SA/03-SA-F01/03-SA-F01-0100	0	kum	00:10:13;
+
+[PrintText]=00:10:13	Natsumi	Eso debería enseñarle una lección.	00:12:14;
+
+[PlayVoice]=00:10:13	Voice03/03-SA/03-SA-F01/03-SA-F01-0120	0	nat	00:12:14;
+
+[CreateBG]=00:10:14	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-004	00:12:14;
+
+[CreateBG]=00:12:14	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-005	00:20:20;
+
+[PrintText]=00:12:15	Minami	Sí. Sola llorando.	00:15:20;
+
+[PlayVoice]=00:12:15	Voice03/03-SA/03-SA-F01/03-SA-F01-0130	0	min	00:15:20;
+
+[PrintText]=00:15:20	Natsumi	¡Iba totalmente con esa mentira una y otra vez. Clásico!	00:20:20;
+
+[PlayVoice]=00:15:20	Voice03/03-SA/03-SA-F01/03-SA-F01-0140	0	nat	00:20:20;
+
+[CreateBG]=00:20:20	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-006	00:25:15;
+
+[PrintText]=00:20:21	Kumi	Estaba como 'Él vendrá, definitivamente lo hará' ¡Qué idiota!	00:25:15;
+
+[PlayVoice]=00:20:21	Voice03/03-SA/03-SA-F01/03-SA-F01-0150	0	kum	00:25:15;
+
+[CreateBG]=00:25:15	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-007	00:34:16;
+
+[PrintText]=00:25:15	Minami	Faltarían como 100 años más para que ella tenga novio.	00:28:23;
+
+[PlayVoice]=00:25:15	Voice03/03-SA/03-SA-F01/03-SA-F01-0160	0	min	00:28:23;
+
+[PrintText]=00:29:00	Kumi	En serio. Itou de la clase 3 ¿No? No hay manera de que puedan estar juntos.	00:34:23;
+
+[PlayVoice]=00:29:00	Voice03/03-SA/03-SA-F01/03-SA-F01-0170	0	kum	00:34:23;
+
+[CreateBG]=00:34:16	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-008	00:37:23;
+
+[PrintText]=00:34:18	Minami	¡Ahahaha... Tendrían que acostumbrarse!	00:37:23;
+
+[PlayVoice]=00:34:18	Voice03/03-SA/03-SA-F01/03-SA-F01-0180	0	min	00:37:23;
+
+[CreateBG]=00:37:23	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-009	00:39:10;
+
+[PrintText]=00:38:00	Natsumi	¡H-hey!	00:39:09;
+
+[PlayVoice]=00:38:00	Voice03/03-SA/03-SA-F01/03-SA-F01-0190	0	nat	00:39:09;
+
+[PrintText]=00:39:09	Minami	Ah...	00:40:06;
+
+[PlayVoice]=00:39:09	Voice03/03-SA/03-SA-F01/03-SA-F01-0210	0	min	00:40:06;
+
+[CreateBG]=00:39:10	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-010	00:40:07;
+
+[CreateBG]=00:40:07	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-011	00:41:04;
+
+[PrintText]=00:40:07	Kumi	Mierda...	00:41:04;
+
+[PlayVoice]=00:40:07	Voice03/03-SA/03-SA-F01/03-SA-F01-0220	0	kum	00:41:04;
+
+[CreateBG]=00:41:04	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-012	00:42:03;
+
+[PrintText]=00:41:04	Makoto	...	00:42:03;
+
+[PlayVoice]=00:41:04	Voice03/03-SA/03-SA-F01/03-SA-F01-0230	1	xxx	00:42:03;
+
+[CreateBG]=00:42:03	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-013	00:43:17;
+
+[CreateBG]=00:43:17	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-002	00:44:18;
+
+[CreateBG]=00:44:18	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-015	00:48:12;
+
+[PrintText]=00:45:21	Kotonoha	Estaré esperando en la clase 4.	00:48:11;
+
+[PlayVoice]=00:45:21	Voice03/03-SA/03-SA-F01/03-SA-F01-0260	0	kot	00:48:11;
+
+[PrintText]=00:48:11	Makoto	No puedo hacerlo.	00:49:09;
+
+[PlayVoice]=00:48:11	Voice03/03-SA/03-SA-F01/03-SA-F01-0270	1	mak	00:49:09;
+
+[CreateBG]=00:48:12	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-016	00:49:10;
+
+[CreateBG]=00:49:10	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-017	00:53:00;
+
+[PrintText]=00:49:10	Kotonoha	Estaré esperando.	00:50:19;
+
+[PlayVoice]=00:49:10	Voice03/03-SA/03-SA-F01/03-SA-F01-0280	0	kot	00:50:19;
+
+[PrintText]=00:50:19	Makoto	Yo...	00:51:16;
+
+[PlayVoice]=00:50:19	Voice03/03-SA/03-SA-F01/03-SA-F01-0290	1	mak	00:51:16;
+
+[PrintText]=00:51:17	Kotonoha	Estaré esperándote.	00:52:23;
+
+[PlayVoice]=00:51:17	Voice03/03-SA/03-SA-F01/03-SA-F01-0300	0	kot	00:52:23;
+
+[PrintText]=00:52:23	Makoto	En ese momento...	00:54:05;
+
+[PlayVoice]=00:52:23	Voice03/03-SA/03-SA-F01/03-SA-F01-0320	1	mak	00:54:05;
+
+[CreateBG]=00:53:00	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-018	00:54:06;
+
+[PrintText]=00:54:05	Makoto	¡Maldición! ¡Yo..!	00:56:11;
+
+[PlayVoice]=00:54:05	Voice03/03-SA/03-SA-F01/03-SA-F01-0330	1	mak	00:56:11;
+
+[CreateBG]=00:54:06	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-019	00:56:11;
+
+[CreateBG]=00:56:11	BGS	Event03/03-SA/03-SA-F01/03-SA-F01-020	00:57:08;
+
+[PlayVoice]=00:56:11	Voice03/03-SA/03-SA-F01/03-SA-F01-0340			00:57:08;
+
+ ;
+
+[Next]=00:57:08;
+
+

@@ -1,0 +1,89 @@
+﻿[SkipFRAME]=00:45:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:51:12;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H00/SE03-SB-H00-001	00:51:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-002	00:11:11;
+
+[PrintText]=00:02:00	Kotonoha	Gracias.	00:03:17;
+
+[PlayVoice]=00:02:00	Voice03/03-SB/03-SB-H00/03-SB-H00-0040	0	kot	00:03:17;
+
+[PrintText]=00:03:17	Makoto	No hay problema. Que bien que Katou llego a tiempo.	00:07:01;
+
+[PlayVoice]=00:03:17	Voice03/03-SB/03-SB-H00/03-SB-H00-0050	1	mak	00:07:01;
+
+[PrintText]=00:07:01	Kotonoha	¿Katou-san y tú son muy cercanos?^	00:09:10;
+
+[PlayVoice]=00:07:01	Voice03/03-SB/03-SB-H00/03-SB-H00-0060	0	kot	00:09:10;
+
+[PrintText]=00:09:09	Makoto	No exactamente 'cercanos'.	00:11:13;
+
+[PlayVoice]=00:09:09	Voice03/03-SB/03-SB-H00/03-SB-H00-0070	1	mak	00:11:13;
+
+[CreateBG]=00:11:11	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-003	00:17:16;
+
+[PrintText]=00:11:13	Makoto	En la primaria, los chicas y las chicas siempre hacían tonterías juntos. Y ella era la que andaba conmigo.	00:17:15;
+
+[PlayVoice]=00:11:13	Voice03/03-SB/03-SB-H00/03-SB-H00-0080	1	mak	00:17:15;
+
+[CreateBG]=00:17:16	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-004	00:19:11;
+
+[PrintText]=00:17:16	Kotonoha	Ya veo...	00:19:11;
+
+[PlayVoice]=00:17:16	Voice03/03-SB/03-SB-H00/03-SB-H00-0090	0	kot	00:19:11;
+
+[CreateBG]=00:19:10	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-005	00:30:11;
+
+[PrintText]=00:19:10	Makoto	Nos fuimos por nuestro lado una vez que nos graduamos...	00:23:04;
+
+[PlayVoice]=00:19:10	Voice03/03-SB/03-SB-H00/03-SB-H00-0100	1	mak	00:23:04;
+
+[PrintText]=00:23:04	Makoto	Pero Katou y yo terminamos en la misma escuela... tantos recuerdos. Debí haber invitado a los chicos al festival.	00:30:11;
+
+[PlayVoice]=00:23:04	Voice03/03-SB/03-SB-H00/03-SB-H00-0101	1	mak	00:30:11;
+
+[CreateBG]=00:30:11	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-006	00:31:10;
+
+[PrintText]=00:30:11	Kotonoha	...	00:31:09;
+
+[PlayVoice]=00:30:11	Voice03/03-SB/03-SB-H00/03-SB-H00-0110	0	xxx	00:31:09;
+
+[PrintText]=00:31:09	Makoto	Ah... perdón. Entre en nostalgia por un instante ¿A dónde deberíamos ir?^	00:37:09;
+
+[PlayVoice]=00:31:09	Voice03/03-SB/03-SB-H00/03-SB-H00-0120	1	mak	00:37:09;
+
+[CreateBG]=00:31:10	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-007	00:36:10;
+
+[CreateBG]=00:36:10	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-007	00:37:09;
+
+[CreateBG]=00:37:09	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-008	00:40:10;
+
+[PrintText]=00:37:09	Kotonoha	Donde quieras, está bien por mí...	00:39:12;
+
+[PlayVoice]=00:37:09	Voice03/03-SB/03-SB-H00/03-SB-H00-0130	0	kot	00:39:12;
+
+[PrintText]=00:39:12	Makoto	Ya veo.	00:40:10;
+
+[PlayVoice]=00:39:12	Voice03/03-SB/03-SB-H00/03-SB-H00-0140	1	mak	00:40:10;
+
+[CreateBG]=00:40:10	BGS	Event03/03-SB/03-SB-H00/03-SB-H00-009	00:51:12;
+
+[PrintText]=00:40:10	Kotonoha	¿Hay algún lugar a donde quieras ir?^	00:44:00;
+
+[PlayVoice]=00:40:10	Voice03/03-SB/03-SB-H00/03-SB-H00-0150	0	kot	00:44:00;
+
+[PrintText]=00:44:00	Makoto	...	00:45:11;
+
+[PlayVoice]=00:44:00	Voice03/03-SB/03-SB-H00/03-SB-H00-0160	1	mak	00:45:11;
+
+[SetSELECT]=00:45:11	'Restaurante de mi salón'	null	00:50:11;
+
+ ;
+
+[Next]=00:51:12;
+
+

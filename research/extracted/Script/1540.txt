@@ -1,0 +1,196 @@
+﻿[SkipFRAME]=02:40:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-001A	00:06:18;
+
+[PrintText]=00:00:00	Makoto	Bueno, vamos a comer.	00:02:11;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-L03/05-KB-L03-0040	1	mak	00:02:11;
+
+[PlaySe]=00:01:19	2	Se05/05-KB/05-KB-L03/SE05-KB-L03-001	00:01:20;
+
+[PlaySe]=00:02:10	2	Se05/05-KB/05-KB-L03/SE05-KB-L03-002	00:03:13;
+
+[PrintText]=00:02:12	Kotonoha	Sí.	00:03:06;
+
+[PlayVoice]=00:02:12	Voice05/05-KB/05-KB-L03/05-KB-L03-0050	0	kot	00:03:06;
+
+[PrintText]=00:03:06	Makoto	Veamos.	00:06:17;
+
+[PlayVoice]=00:03:06	Voice05/05-KB/05-KB-L03/05-KB-L03-0060	1	mak	00:06:17;
+
+[PrintText]=00:06:17	Kotonoha	¿Cómo está?^	00:07:22;
+
+[PlayVoice]=00:06:17	Voice05/05-KB/05-KB-L03/05-KB-L03-0070	0	kot	00:07:22;
+
+[CreateBG]=00:06:18	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-001B	00:07:22;
+
+[CreateBG]=00:07:22	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-001C	00:11:11;
+
+[PrintText]=00:07:22	Makoto	...	00:11:11;
+
+[PlayVoice]=00:07:22	Voice05/05-KB/05-KB-L03/05-KB-L03-0080	1	xxx	00:11:11;
+
+[PlayMovie]=00:11:11	Movie05/05-KB/05-KB-L03/05-KB-L03-002	0	00:15:23;
+
+[CreateBG]=00:15:23	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-003	00:24:15;
+
+[PrintText]=00:15:23	Kotonoha	Mwah.	00:16:17;
+
+[PlayVoice]=00:15:23	Voice05/05-KB/05-KB-L03/05-KB-L03-0100	0	kot	00:16:17;
+
+[PrintText]=00:16:17	Makoto	¡Pfft... hahahaha!	00:22:15;
+
+[PlayVoice]=00:16:17	Voice05/05-KB/05-KB-L03/05-KB-L03-0110	1	mak	00:22:15;
+
+[PrintText]=00:22:15	Kotonoha	¿Qué pasa...?^	00:24:14;
+
+[PlayVoice]=00:22:15	Voice05/05-KB/05-KB-L03/05-KB-L03-0120	0	kot	00:24:14;
+
+[CreateBG]=00:24:15	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-004	00:30:00;
+
+[PrintText]=00:24:15	Makoto	Mezclaste el azúcar con la sal... haha...	00:30:00;
+
+[PlayVoice]=00:24:15	Voice05/05-KB/05-KB-L03/05-KB-L03-0130	1	mak	00:30:00;
+
+[PrintText]=00:29:23	Kotonoha	¿Entonces el almuerzo de ayer también...?^	00:32:23;
+
+[PlayVoice]=00:29:23	Voice05/05-KB/05-KB-L03/05-KB-L03-0140	0	kot	00:32:23;
+
+[CreateBG]=00:30:00	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-005	00:32:23;
+
+[CreateBG]=00:32:23	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-006	00:36:07;
+
+[PrintText]=00:32:23	Makoto	Creo que debo agradecerles a las chicas de la clase 4.	00:36:06;
+
+[PlayVoice]=00:32:23	Voice05/05-KB/05-KB-L03/05-KB-L03-0150	1	mak	00:36:06;
+
+[CreateBG]=00:36:07	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-007	00:49:22;
+
+[PrintText]=00:36:07	Kotonoha	Ooh... por favor no digas eso. Ah! Makoto-kun... ¿Lo sabías?^	00:43:09;
+
+[PlayVoice]=00:36:07	Voice05/05-KB/05-KB-L03/05-KB-L03-0160	0	kot	00:43:09;
+
+[PrintText]=00:43:09	Makoto	Está bien. Solo sigue practicando, paso por paso.	00:48:11;
+
+[PlayVoice]=00:43:09	Voice05/05-KB/05-KB-L03/05-KB-L03-0170	1	mak	00:48:11;
+
+[PrintText]=00:48:11	Kotonoha	Pero...	00:49:21;
+
+[PlayVoice]=00:48:11	Voice05/05-KB/05-KB-L03/05-KB-L03-0180	0	kot	00:49:21;
+
+[CreateBG]=00:49:22	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-008	00:54:04;
+
+[PrintText]=00:49:22	Makoto	Tenemos bastante tiempo. El suficiente para que pueda quedar como este.	00:58:06;
+
+[PlayVoice]=00:49:22	Voice05/05-KB/05-KB-L03/05-KB-L03-0190	1	mak	00:58:06;
+
+[PlayMovie]=00:54:04	Movie05/05-KB/05-KB-L03/05-KB-L03-009	0	01:03:16;
+
+[PrintText]=00:58:06	Kotonoha	¡Mm... uwah, está delicioso!	01:03:15;
+
+[PlayVoice]=00:58:06	Voice05/05-KB/05-KB-L03/05-KB-L03-0210	0	kot	01:03:15;
+
+[PrintText]=01:03:15	Makoto	¿Cómo está?^	01:05:08;
+
+[PlayVoice]=01:03:15	Voice05/05-KB/05-KB-L03/05-KB-L03-0220	1	mak	01:05:08;
+
+[CreateBG]=01:03:16	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-010	01:18:02;
+
+[PrintText]=01:05:08	Kotonoha	Ooh... comparado con este, el mio...	01:09:05;
+
+[PlayVoice]=01:05:08	Voice05/05-KB/05-KB-L03/05-KB-L03-0230	0	kot	01:09:05;
+
+[PlaySe]=01:08:01	2	SysSe/SE_all/gaya/okujou	01:52:13;
+
+[PrintText]=01:09:05	Makoto	¡Hey, como te dije, no te desanimes!	01:12:09;
+
+[PlayVoice]=01:09:05	Voice05/05-KB/05-KB-L03/05-KB-L03-0240	1	mak	01:12:09;
+
+[PrintText]=01:12:09	Kotonoha	¡Vale, entonces... seguiré esforzándome!	01:16:17;
+
+[PlayVoice]=01:12:09	Voice05/05-KB/05-KB-L03/05-KB-L03-0250	0	kot	01:16:17;
+
+[PrintText]=01:16:17	Makoto	Sí.	01:18:01;
+
+[PlayVoice]=01:16:17	Voice05/05-KB/05-KB-L03/05-KB-L03-0260	1	mak	01:18:01;
+
+[PrintText]=01:18:01	Makoto	Delicioso.	01:21:05;
+
+[PlayVoice]=01:18:01	Voice05/05-KB/05-KB-L03/05-KB-L03-0280	1	mak	01:21:05;
+
+[PlayMovie]=01:18:02	Movie05/05-KB/05-KB-L03/05-KB-L03-011	0	01:30:15;
+
+[PrintText]=01:21:05	Kotonoha	Ah...	01:22:01;
+
+[PlayVoice]=01:21:05	Voice05/05-KB/05-KB-L03/05-KB-L03-0290	0	kot	01:22:01;
+
+[PrintText]=01:22:01	Makoto	¿Qué?^	01:24:01;
+
+[PlayVoice]=01:22:01	Voice05/05-KB/05-KB-L03/05-KB-L03-0300	1	mak	01:24:01;
+
+[PrintText]=01:24:01	Kotonoha	Un beso indirecto...	01:25:18;
+
+[PlayVoice]=01:24:01	Voice05/05-KB/05-KB-L03/05-KB-L03-0310	0	kot	01:25:18;
+
+[PrintText]=01:25:18	Makoto	Haha...	01:28:19;
+
+[PlayVoice]=01:25:18	Voice05/05-KB/05-KB-L03/05-KB-L03-0320	1	mak	01:28:19;
+
+[PrintText]=01:28:19	Kotonoha	...	01:30:14;
+
+[PlayVoice]=01:28:19	Voice05/05-KB/05-KB-L03/05-KB-L03-0330	0	xxx	01:30:14;
+
+[PrintText]=01:30:14	Makoto	Parece también que tenemos un largo camino por recorrer...	01:34:16;
+
+[PlayVoice]=01:30:14	Voice05/05-KB/05-KB-L03/05-KB-L03-0350	1	mak	01:34:16;
+
+[CreateBG]=01:30:15	BGS	Event05/05-KB/05-KB-L03/05-KB-L03-012	01:46:03;
+
+[PrintText]=01:34:16	Kotonoha	¿Huh?^	01:35:10;
+
+[PlayVoice]=01:34:16	Voice05/05-KB/05-KB-L03/05-KB-L03-0360	0	kot	01:35:10;
+
+[PrintText]=01:35:11	Makoto	Olvídalo.	01:38:16;
+
+[PlayVoice]=01:35:11	Voice05/05-KB/05-KB-L03/05-KB-L03-0370	1	mak	01:38:16;
+
+[PrintText]=01:38:16	Kotonoha	¿Qué pasa? Por favor dímelo!	01:41:07;
+
+[PlayVoice]=01:38:16	Voice05/05-KB/05-KB-L03/05-KB-L03-0380	0	kot	01:41:07;
+
+[PrintText]=01:41:07	Makoto	Hablo de la manera directa.	01:44:04;
+
+[PlayVoice]=01:41:07	Voice05/05-KB/05-KB-L03/05-KB-L03-0390	1	mak	01:44:04;
+
+[PrintText]=01:44:04	Kotonoha	¿Directa...?^	01:46:03;
+
+[PlayVoice]=01:44:04	Voice05/05-KB/05-KB-L03/05-KB-L03-0400	0	kot	01:46:03;
+
+[PlayMovie]=01:46:03	Movie05/05-KB/05-KB-L03/05-KB-L03-013	0	01:47:18;
+
+[PlayMovie]=01:47:18	Movie05/05-KB/05-KB-L03/05-KB-L03-014	0	01:49:22;
+
+[PrintText]=01:48:03	Kotonoha	¡¿Mmn?!	01:49:03;
+
+[PlayVoice]=01:48:03	Voice05/05-KB/05-KB-L03/05-KB-L03-0420	0	kot	01:49:03;
+
+[PlayMovie]=01:49:22	Movie05/05-KB/05-KB-L03/05-KB-L03-016	0	01:57:00;
+
+[EndBGM]=01:52:04	BGM/Vocal/SDV07	03:54:15;
+
+[BlackFade]=01:55:00	OUT	01:57:00;
+
+[CreateBG]=01:57:00	BGS	Ini/EndRoll/05-09	02:00:00;
+
+[EndRoll]=02:00:00	Ini/EndRoll/GOOD	02:40:00;
+
+ ;
+
+[Next]=02:40:00;
+
+
+
+
+

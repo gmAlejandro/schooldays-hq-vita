@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:21:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:21:15;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-K02/SE03-KB-K02-001	00:21:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-K02/03-KB-K02-001	00:05:01;
+
+[PrintText]=00:00:00	Makoto	No lo somos, terminamos.	00:01:04;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-K02/03-KB-K02-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:04	Kotonoha	¡No, no es así!	00:02:13;
+
+[PlayVoice]=00:01:04	Voice03/03-KB/03-KB-K02/03-KB-K02-0040	0	kot	00:02:13;
+
+[PrintText]=00:02:13	Makoto	Kotonoha...	00:05:00;
+
+[PlayVoice]=00:02:13	Voice03/03-KB/03-KB-K02/03-KB-K02-0050	1	mak	00:05:00;
+
+[PrintText]=00:05:00	Kotonoha	Tu fuiste el único que dijo que deberíamos estar alejados.	00:08:20;
+
+[PlayVoice]=00:05:00	Voice03/03-KB/03-KB-K02/03-KB-K02-0060	0	kot	00:08:20;
+
+[CreateBG]=00:05:01	BGS	Event03/03-KB/03-KB-K02/03-KB-K02-002	00:16:15;
+
+[PrintText]=00:08:20	Makoto	Mira...	00:09:21;
+
+[PlayVoice]=00:08:20	Voice03/03-KB/03-KB-K02/03-KB-K02-0070	1	mak	00:09:21;
+
+[PrintText]=00:09:21	Kotonoha	Hacer un muro entre nosotros... para poder estar tranquilos y pensar como es debido...	00:16:15;
+
+[PlayVoice]=00:09:21	Voice03/03-KB/03-KB-K02/03-KB-K02-0080	0	kot	00:16:15;
+
+[CreateBG]=00:16:15	BGS	Event03/03-KB/03-KB-K02/03-KB-K02-003	00:21:15;
+
+[PrintText]=00:16:15	Makoto	...	00:17:17;
+
+[PlayVoice]=00:16:15	Voice03/03-KB/03-KB-K02/03-KB-K02-0090	1	xxx	00:17:17;
+
+ ;
+
+[Next]=00:21:15;
+
+

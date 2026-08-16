@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:23:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:23:14;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-K01/SE03-BK-K01-001	00:23:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-K01/03-BK-K01-001	00:03:15;
+
+[PrintText]=00:00:00	Makoto	¡Yo...!	00:02:22;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-K01/03-BK-K01-0040	1	mak	00:02:22;
+
+[PrintText]=00:02:11	Kotonoha	¡¿Eh?!	00:03:06;
+
+[PlayVoice]=00:02:11	Voice03/03-BK/03-BK-K01/03-BK-K01-0050	0	kot	00:03:06;
+
+[PrintText]=00:03:00	Makoto	¡Perdóname!	00:03:14;
+
+[PlayVoice]=00:03:00	Voice03/03-BK/03-BK-K01/03-BK-K01-0070	1	mak	00:03:14;
+
+[CreateBG]=00:03:15	BGS	Event03/03-BK/03-BK-K01/03-BK-K01-002	00:06:14;
+
+[PrintText]=00:03:15	Kotonoha	¡¿Eh?! ¿M-Makoto-kun?^	00:06:15;
+
+[PlayVoice]=00:03:15	Voice03/03-BK/03-BK-K01/03-BK-K01-0080	0	kot	00:06:15;
+
+[CreateBG]=00:06:14	BGS	Event03/03-BK/03-BK-K01/03-BK-K01-003	00:18:05;
+
+[PrintText]=00:06:14	Makoto	Yo ya... no puedo mantener en silencio lo que verdaderamente siento.	00:10:12;
+
+[PlayVoice]=00:06:14	Voice03/03-BK/03-BK-K01/03-BK-K01-0090	1	mak	00:10:12;
+
+[PrintText]=00:10:07	Kotonoha	¿Como... verdaderamente te sientes?^	00:13:08;
+
+[PlayVoice]=00:10:07	Voice03/03-BK/03-BK-K01/03-BK-K01-0100	0	kot	00:13:08;
+
+[PrintText]=00:13:09	Makoto	Como verdaderamente me siento... y a la persona que realmente amo.	00:18:13;
+
+[PlayVoice]=00:13:09	Voice03/03-BK/03-BK-K01/03-BK-K01-0110	1	mak	00:18:13;
+
+[CreateBG]=00:18:05	BGS	Event03/03-BK/03-BK-K01/03-BK-K01-004	00:23:14;
+
+[PrintText]=00:18:05	Kotonoha	¡¿Eh...?!	00:19:01;
+
+[PlayVoice]=00:18:05	Voice03/03-BK/03-BK-K01/03-BK-K01-0120	0	kot	00:19:01;
+
+[PrintText]=00:18:22	Makoto	¡En serio, discúlpame!	00:20:21;
+
+[PlayVoice]=00:18:22	Voice03/03-BK/03-BK-K01/03-BK-K01-0130	1	mak	00:20:21;
+
+[BlackFade]=00:22:14	OUT	00:23:14;
+
+ ;
+
+[Next]=00:23:14;
+
+

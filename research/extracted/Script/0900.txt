@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:24:20;
+
+[PlaySe]=00:00:00	1	Se04/04-C1/04-C1-G00/SE04-C1-G00-001	00:24:20;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/station_train/train_in	00:07:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C1/04-C1-G00/04-C1-G00-001	00:03:23;
+
+[PrintText]=00:03:00	Sekai	Ah...	00:03:23;
+
+[PlayVoice]=00:03:00	Voice04/04-C1/04-C1-G00/04-C1-G00-0060	0	sek	00:03:23;
+
+[CreateBG]=00:03:23	BGS	Event04/04-C1/04-C1-G00/04-C1-G00-002	00:12:21;
+
+[PrintText]=00:03:23	Makoto	Mira, el tren está llegando.	00:06:17;
+
+[PlayVoice]=00:03:23	Voice04/04-C1/04-C1-G00/04-C1-G00-0070	1	mak	00:06:17;
+
+[PrintText]=00:06:17	Sekai	Hey... ¿Quieres venir hoy?^	00:09:23;
+
+[PlayVoice]=00:06:17	Voice04/04-C1/04-C1-G00/04-C1-G00-0080	0	sek	00:09:23;
+
+[PlaySe]=00:08:03	3	SysSe/SE_all/station_train/train_door_open	00:10:04;
+
+[PrintText]=00:10:00	Makoto	¿Qué estás diciendo? Tonta.	00:12:22;
+
+[PlayVoice]=00:10:00	Voice04/04-C1/04-C1-G00/04-C1-G00-0090	1	mak	00:12:22;
+
+[PlaySe]=00:10:16	2	SysSe/SE_all/station_train/start_bell	00:19:03;
+
+[CreateBG]=00:12:21	BGS	Event04/04-C1/04-C1-G00/04-C1-G00-003	00:24:20;
+
+[PrintText]=00:13:00	Sekai	Mmn... en ese caso, tal vez debería ir a tu casa.	00:18:01;
+
+[PlayVoice]=00:13:00	Voice04/04-C1/04-C1-G00/04-C1-G00-0100	0	sek	00:18:01;
+
+[PlaySe]=00:16:13	3	SysSe/SE_all/station_train/train_start	00:24:20;
+
+[PrintText]=00:18:02	Makoto	Hey, ahora...	00:19:08;
+
+[PlayVoice]=00:18:02	Voice04/04-C1/04-C1-G00/04-C1-G00-0110	1	mak	00:19:08;
+
+[PrintText]=00:19:09	Sekai	Estoy segura que te gustaría que vaya a tu cuarto.	00:23:01;
+
+[PlayVoice]=00:19:09	Voice04/04-C1/04-C1-G00/04-C1-G00-0120	0	sek	00:23:01;
+
+[PrintText]=00:23:02	Makoto	Hmm...	00:24:05;
+
+[PlayVoice]=00:23:02	Voice04/04-C1/04-C1-G00/04-C1-G00-0130	1	mak	00:24:05;
+
+ ;
+
+[Next]=00:24:20;
+
+

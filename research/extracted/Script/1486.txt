@@ -1,0 +1,24 @@
+﻿[SkipFRAME]=00:20:20;
+
+[PlaySe]=00:00:00	1	Se05/05-KA/05-KA-D01/SE05-KA-D01-001	00:14:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-D01/05-KA-D01-001	00:12:09;
+
+[CreateBG]=00:12:09	BGS	Event05/05-KA/05-KA-D01/05-KA-D01-002	00:20:20;
+
+[PrintText]=00:13:01	Makoto	Tercer piso... en frente del segundo cuarto de cienca ¿Huh..?^	00:16:15;
+
+[PlayVoice]=00:13:01	Voice05/05-KA/05-KA-D01/05-KA-D01-0040	1	mak	00:16:15;
+
+[PrintText]=00:18:01	Makoto	...	00:19:08;
+
+[PlayVoice]=00:18:01	Voice05/05-KA/05-KA-D01/05-KA-D01-0050	1	xxx	00:19:08;
+
+[BlackFade]=00:19:20	OUT	00:20:20;
+
+ ;
+
+[Next]=00:20:20;
+
+
+

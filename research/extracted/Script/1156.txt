@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:08:03;
+
+[PlaySe]=00:00:00	2	Se04/04-SA/04-SA-N08/SE04-SA-N08-001	00:08:03;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N08/04-SA-N08-001	00:03:19;
+
+[PrintText]=00:00:00	Makoto	¿Quieres que te toque?^	00:01:16;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N08/04-SA-N08-0030	1	mak	00:01:16;
+
+[PrintText]=00:01:16	Kotonoha	¿Eh...?^	00:02:07;
+
+[PlayVoice]=00:01:16	Voice04/04-SA/04-SA-N08/04-SA-N08-0040	0	kot	00:02:07;
+
+[PrintText]=00:02:07	Makoto	Así...	00:03:19;
+
+[PlayVoice]=00:02:07	Voice04/04-SA/04-SA-N08/04-SA-N08-0050	1	mak	00:03:19;
+
+[PlayMovie]=00:03:19	Movie04/04-SA/04-SA-N08/04-SA-N08-002	0	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event04/04-SA/04-SA-N08/04-SA-N08-003	00:08:03;
+
+[PrintText]=00:06:00	Kotonoha	¡Kyaaah!	00:07:07;
+
+[PlayVoice]=00:06:00	Voice04/04-SA/04-SA-N08/04-SA-N08-0070	0	kot	00:07:07;
+
+[PlaySe]=00:07:04	1	Se04/04-SA/04-SA-N08/SE04-SA-N08-002	00:07:19;
+
+ ;
+
+[Next]=00:08:03;
+
+

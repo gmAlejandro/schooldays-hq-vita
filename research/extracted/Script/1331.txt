@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:04:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:10:02;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-E05/05-5O-E05-001	00:02:01;
+
+[PrintText]=00:00:10	Makoto	Me gusta, pero...	00:01:16;
+
+[PlayVoice]=00:00:10	Voice05/05-5O/05-5O-E05/05-5O-E05-0030	1	mak	00:01:16;
+
+[CreateBG]=00:02:01	BGS	Event05/05-5O/05-5O-E05/05-5O-E05-002	00:04:00;
+
+[PrintText]=00:02:02	Setsuna	Entonces ve.	00:03:17;
+
+[PlayVoice]=00:02:02	Voice05/05-5O/05-5O-E05/05-5O-E05-0040	0	set	00:03:17;
+
+[CreateBG]=00:04:00	BGS	Event05/05-5O/05-5O-E05/05-5O-E05-003	00:10:02;
+
+[PrintText]=00:04:02	Makoto	...	00:05:02;
+
+[PlayVoice]=00:04:02	Voice05/05-5O/05-5O-E05/05-5O-E05-0050	1	xxx	00:05:02;
+
+[SetSELECT]=00:04:03	*Ir*	null	00:09:03;
+
+ ;
+
+[Next]=00:10:02;
+
+

@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=01:03:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	01:03:09;
+
+[PlaySe]=00:00:00	1	Se03/03-AS/03-AS-A00/SE03-AS-A00-001	00:01:01;
+
+[PlayMovie]=00:00:00	Movie03/03-AS/03-AS-A00/03-AS-A00-001	0	00:01:01;
+
+[PlaySe]=00:01:01	2	Se03/03-AS/03-AS-A00/SE03-AS-A00-002	00:02:14;
+
+[CreateBG]=00:01:01	BGS	Event03/03-AS/03-AS-A00/03-AS-A00-002	00:02:14;
+
+[PrintText]=00:01:01	Setsuna	...	00:02:01;
+
+[PlayVoice]=00:01:01	Voice03/03-AS/03-AS-A00/03-AS-A00-0020	0	xxx	00:02:01;
+
+[WhiteFade]=00:02:02	OUT	00:02:14;
+
+[CreateBG]=00:02:14	BGS	Event03/03-AS/03-AS-A00/03-AS-A00-003	00:04:12;
+
+[WhiteFade]=00:02:14	IN	00:03:02;
+
+[PrintText]=00:03:02	Sekai	¡Setsuna!	00:05:02;
+
+[PlayVoice]=00:03:02	Voice03/03-AS/03-AS-A00/03-AS-A00-0090	0	sek	00:05:02;
+
+[CreateBG]=00:04:12	BGS	Event03/03-AS/03-AS-A00/03-AS-A00-004	00:22:20;
+
+[PrintText]=00:04:12	Setsuna	Sekai.	00:06:08;
+
+[PlayVoice]=00:04:12	Voice03/03-AS/03-AS-A00/03-AS-A00-0120	0	set	00:06:08;
+
+[PrintText]=00:05:14	Sekai	¡Hey, hey! ¡¿Te metiste en problemas con unos chicos?!	00:09:23;
+
+[PlayVoice]=00:05:14	Voice03/03-AS/03-AS-A00/03-AS-A00-0130	0	sek	00:09:23;
+
+[PrintText]=00:09:10	Setsuna	Estoy bien.	00:11:05;
+
+[PlayVoice]=00:09:10	Voice03/03-AS/03-AS-A00/03-AS-A00-0140	0	set	00:11:05;
+
+[PrintText]=00:10:14	Sekai	¿En serio? Yamagata-san me dijo que estabas preocupada. Me dijo que estabas rodeada de unos deportistas o algo así,	00:20:13;
+
+[PlayVoice]=00:10:14	Voice03/03-AS/03-AS-A00/03-AS-A00-0150	0	sek	00:20:13;
+
+[PrintText]=00:20:14	Sekai	¡Así que vino corriendo a ayudarte!	00:23:10;
+
+[PlayVoice]=00:20:14	Voice03/03-AS/03-AS-A00/03-AS-A00-0151	0	sek	00:23:10;
+
+[CreateBG]=00:22:20	BGS	Event03/03-AS/03-AS-A00/03-AS-A00-005	00:44:15;
+
+[PrintText]=00:22:20	Setsuna	Pero estoy bien.	00:25:16;
+
+[PlayVoice]=00:22:20	Voice03/03-AS/03-AS-A00/03-AS-A00-0160	0	set	00:25:16;
+
+[PrintText]=00:25:10	Sekai	Oh. Bien, esa es nuestra Setsuna. Incluso ni los chicos grandes te asustan ¿No? Yo no podía haber manejado eso.	00:36:05;
+
+[PlayVoice]=00:25:10	Voice03/03-AS/03-AS-A00/03-AS-A00-0170	0	sek	00:36:05;
+
+[PrintText]=00:35:09	Setsuna	Eso no... alguien me ayudo.	00:39:21;
+
+[PlayVoice]=00:35:09	Voice03/03-AS/03-AS-A00/03-AS-A00-0180	0	set	00:39:21;
+
+[PrintText]=00:39:13	Sekai	Te ayudo ¿Quién?^	00:42:19;
+
+[PlayVoice]=00:39:13	Voice03/03-AS/03-AS-A00/03-AS-A00-0190	0	sek	00:42:19;
+
+[PrintText]=00:42:08	Setsuna	Parece ser un chico de nuestra clase.	00:44:22;
+
+[PlayVoice]=00:42:08	Voice03/03-AS/03-AS-A00/03-AS-A00-0200	0	set	00:44:22;
+
+[CreateBG]=00:44:15	BGS	Event03/03-AS/03-AS-A00/03-AS-A00-006	01:03:09;
+
+[PrintText]=00:44:18	Sekai	Ya veo... así que hay chicos buenos aquí. ¿Cómo se llama?^	00:50:10;
+
+[PlayVoice]=00:44:18	Voice03/03-AS/03-AS-A00/03-AS-A00-0210	0	sek	00:50:10;
+
+[PrintText]=00:50:00	Setsuna	Se apellida 'Itou'.	00:52:19;
+
+[PlayVoice]=00:50:00	Voice03/03-AS/03-AS-A00/03-AS-A00-0220	0	set	00:52:19;
+
+[PrintText]=00:52:08	Sekai	Hmm, 'Itou', huh. Eheheh... Vale, voy a ir a comprobarlo entonces.	00:59:02;
+
+[PlayVoice]=00:52:08	Voice03/03-AS/03-AS-A00/03-AS-A00-0230	0	sek	00:59:02;
+
+[PrintText]=00:58:10	Setsuna	¡¿Eh?! Ah... Sekai...	01:02:02;
+
+[PlayVoice]=00:58:10	Voice03/03-AS/03-AS-A00/03-AS-A00-0240	0	set	01:02:02;
+
+[BlackFade]=01:01:09	OUT	01:03:09;
+
+ ;
+
+[Next]=01:03:09;
+
+

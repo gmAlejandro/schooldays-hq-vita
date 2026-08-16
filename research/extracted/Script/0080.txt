@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:24:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:24:21;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-K00/SE01-00-K00-001	00:24:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-K00/01-00-K00-001	00:03:08;
+
+[CreateBG]=00:03:08	BGS	Event01/01-00/01-00-K00/01-00-K00-002	00:06:00;
+
+[PlayMovie]=00:06:00	Movie01/01-00/01-00-K00/01-00-K00-003	0	00:13:08;
+
+[PrintText]=00:06:03	Hikari	¡Y entonces Nanami se confesó a este chico!	00:10:07;
+
+[PlayVoice]=00:06:03	Voice01/01-00/01-00-K00/01-00-K00-0050	0	hik	00:10:07;
+
+[PrintText]=00:10:07	Sekai	Hmmm.	00:11:19;
+
+[PlayVoice]=00:10:07	Voice01/01-00/01-00-K00/01-00-K00-0060	0	sek	00:11:19;
+
+[PrintText]=00:11:19	Hikari	Y pues... ¿Qué crees que le dijo?^	00:16:08;
+
+[PlayVoice]=00:11:19	Voice01/01-00/01-00-K00/01-00-K00-0070	0	hik	00:16:08;
+
+[CreateBG]=00:13:08	BGS	Event01/01-00/01-00-K00/01-00-K00-004	00:16:09;
+
+[CreateBG]=00:16:09	BGS	Event01/01-00/01-00-K00/01-00-K00-005	00:24:21;
+
+[PrintText]=00:16:09	Sekai	¡Ah! Perdón ¡H-hay algo que olvidé!	00:19:08;
+
+[PlayVoice]=00:16:09	Voice01/01-00/01-00-K00/01-00-K00-0100	0	sek	00:19:08;
+
+[PrintText]=00:19:08	Hikari	¡¿Eh?! ¡Sekai?!	00:21:01;
+
+[PlayVoice]=00:19:08	Voice01/01-00/01-00-K00/01-00-K00-0110	0	hik	00:21:01;
+
+[PrintText]=00:21:02	Sekai	Perdónenme, tengo que ir a casa por hoy, nos vemos mañana.	00:24:18;
+
+[PlayVoice]=00:21:02	Voice01/01-00/01-00-K00/01-00-K00-0120	0	sek	00:24:18;
+
+ ;
+
+[Next]=00:24:21;
+
+
+
+

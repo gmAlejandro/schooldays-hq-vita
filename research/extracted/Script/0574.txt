@@ -1,0 +1,83 @@
+﻿[SkipFRAME]=00:43:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:49:17;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H08/SE03-KA-H08-001	00:49:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H08/03-KA-H08-001	00:03:00;
+
+[CreateBG]=00:02:23	BGS	Event03/03-KA/03-KA-H08/03-KA-H08-002	00:16:23;
+
+[PrintText]=00:02:23	Makoto	Fwah... finalmente acabo.	00:07:20;
+
+[PlayVoice]=00:02:23	Voice03/03-KA/03-KA-H08/03-KA-H08-0040	1	mak	00:07:20;
+
+[PrintText]=00:07:16	Setsuna	¿Estabas a punto de dormirte?^	00:09:04;
+
+[PlayVoice]=00:07:16	Voice03/03-KA/03-KA-H08/03-KA-H08-0050	0	set	00:09:04;
+
+[PrintText]=00:09:07	Makoto	Bueno, no realmente. Más como... ¿Aburrido?^	00:13:22;
+
+[PlayVoice]=00:09:07	Voice03/03-KA/03-KA-H08/03-KA-H08-0060	1	mak	00:13:22;
+
+[PrintText]=00:13:20	Setsuna	No estabas escuchando la explicación ¿No?^	00:16:20;
+
+[PlayVoice]=00:13:20	Voice03/03-KA/03-KA-H08/03-KA-H08-0070	0	set	00:16:20;
+
+[CreateBG]=00:16:23	BGS	Event03/03-KA/03-KA-H08/03-KA-H08-003	00:20:16;
+
+[PrintText]=00:17:00	Makoto	...Bueno, solo me sacaré alguna duda contigo de algo que no entienda.	00:20:13;
+
+[PlayVoice]=00:17:00	Voice03/03-KA/03-KA-H08/03-KA-H08-0080	1	mak	00:20:13;
+
+[CreateBG]=00:20:16	BGS	Event03/03-KA/03-KA-H08/03-KA-H08-004	00:28:17;
+
+[PrintText]=00:20:17	Setsuna	Se lo vamos a tener que explicar a toda la clase,	00:24:12;
+
+[PlayVoice]=00:20:17	Voice03/03-KA/03-KA-H08/03-KA-H08-0090	0	set	00:28:14;
+
+[PrintText]=00:24:12	Setsuna	Así que las cosas no van a ir fáciles si me lo tienes que preguntar a mí.	00:28:14;
+
+[CreateBG]=00:28:17	BGS	Event03/03-KA/03-KA-H08/03-KA-H08-005	00:32:22;
+
+[PrintText]=00:28:18	Makoto	¿En serio? Eso será un problema.	00:32:19;
+
+[PlayVoice]=00:28:18	Voice03/03-KA/03-KA-H08/03-KA-H08-0100	1	mak	00:32:19;
+
+[CreateBG]=00:32:22	BGS	Event03/03-KA/03-KA-H08/03-KA-H08-006	00:38:11;
+
+[PrintText]=00:33:00	Setsuna	¿Quieres que te lo explique ahora?^	00:35:10;
+
+[PlayVoice]=00:33:00	Voice03/03-KA/03-KA-H08/03-KA-H08-0110	0	set	00:35:10;
+
+[PrintText]=00:35:11	Makoto	Uuu...	00:37:16;
+
+[PlayVoice]=00:35:11	Voice03/03-KA/03-KA-H08/03-KA-H08-0120	1	mak	00:37:16;
+
+[PrintText]=00:37:17	Kotonoha	Makoto-kun.	00:38:16;
+
+[PlayVoice]=00:37:17	Voice03/03-KA/03-KA-H08/03-KA-H08-0130	0	kot	00:38:16;
+
+[CreateBG]=00:38:11	BGS	Event03/03-KA/03-KA-H08/03-KA-H08-007	00:40:22;
+
+[PrintText]=00:38:14	Makoto	Ah...	00:39:08;
+
+[PlayVoice]=00:38:14	Voice03/03-KA/03-KA-H08/03-KA-H08-0140	1	mak	00:39:08;
+
+[PrintText]=00:39:16	Kotonoha	¿Vamos?^	00:40:20;
+
+[PlayVoice]=00:39:16	Voice03/03-KA/03-KA-H08/03-KA-H08-0150	0	kot	00:40:20;
+
+[CreateBG]=00:40:22	BGS	Event03/03-KA/03-KA-H08/03-KA-H08-007B	00:49:17;
+
+[PrintText]=00:40:22	Makoto	Uuu... um...	00:43:20;
+
+[PlayVoice]=00:40:22	Voice03/03-KA/03-KA-H08/03-KA-H08-0160	1	mak	00:43:20;
+
+[SetSELECT]=00:43:14	'¡No puedo ir!'	'Ahora mismo iré'	00:48:14;
+
+ ;
+
+[Next]=00:49:17;
+
+

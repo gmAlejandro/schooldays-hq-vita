@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:09:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:09:13;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-C05/SE03-SB-C05-001	00:09:13;
+
+[PrintText]=00:00:00	Makoto	Seguro.	00:01:22;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-C05/03-SB-C05-0030	1	mak	00:01:22;
+
+[PlayMovie]=00:00:04	Movie03/03-SB/03-SB-C05/03-SB-C05-001	0	00:04:10;
+
+[PrintText]=00:01:22	Kotonoha	¿En serio?!	00:03:14;
+
+[PlayVoice]=00:01:22	Voice03/03-SB/03-SB-C05/03-SB-C05-0040	0	kot	00:03:14;
+
+[PrintText]=00:03:13	Makoto	Sí.	00:04:05;
+
+[PlayVoice]=00:03:13	Voice03/03-SB/03-SB-C05/03-SB-C05-0050	1	mak	00:04:05;
+
+[PrintText]=00:04:05	Kotonoha	Es una promesa entonces.	00:05:12;
+
+[PlayVoice]=00:04:05	Voice03/03-SB/03-SB-C05/03-SB-C05-0060	0	kot	00:05:12;
+
+[PlayMovie]=00:04:10	Movie03/03-SB/03-SB-C05/03-SB-C05-002	0	00:08:04;
+
+[PrintText]=00:05:13	Makoto	¿Eh..? Oh, vale.	00:07:23;
+
+[PlayVoice]=00:05:13	Voice03/03-SB/03-SB-C05/03-SB-C05-0070	1	mak	00:07:23;
+
+[PrintText]=00:07:23	Kotonoha	Ufufu...	00:09:06;
+
+[PlayVoice]=00:07:23	Voice03/03-SB/03-SB-C05/03-SB-C05-0080	0	kot	00:09:06;
+
+[PlayMovie]=00:08:04	Movie03/03-SB/03-SB-C05/03-SB-C05-003	0	00:09:13;
+
+ ;
+
+[Next]=00:09:13;
+
+

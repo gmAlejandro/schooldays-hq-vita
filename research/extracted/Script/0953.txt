@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:07:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:07:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-I00/04-KA-I00-001	00:04:03;
+
+[PlaySe]=00:00:10	1	SysSe/SE_all/home/makoto_door_opn	00:03:06;
+
+[PrintText]=00:02:13	Makoto	Perdonen la intrusión...	00:04:08;
+
+[PlayVoice]=00:02:13	Voice04/04-KA/04-KA-I00/04-KA-I00-0040	1	mak	00:04:08;
+
+[CreateBG]=00:04:03	BGS	Event04/04-KA/04-KA-I00/04-KA-I00-002	00:07:05;
+
+[PrintText]=00:04:18	Kotonoha	Por favor, pasa.	00:06:03;
+
+[PlayVoice]=00:04:18	Voice04/04-KA/04-KA-I00/04-KA-I00-0060	0	kot	00:06:03;
+
+ ;
+
+[Next]=00:07:05;
+
+

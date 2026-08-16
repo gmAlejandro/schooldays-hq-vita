@@ -1,0 +1,433 @@
+﻿[SkipFRAME]=06:13:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	01:42:09;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-002	00:23:03;
+
+[PrintText]=00:03:00	Madre de Sekai	¿Hmm hmm hmmn?^	00:05:11;
+
+[PlayVoice]=00:03:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0030	0	yko	00:05:11;
+
+[PrintText]=00:05:11	Sekai	¡Ah! Setsuna se quedará a dormir hoy. No te importa ¿No?^	00:09:00;
+
+[PlayVoice]=00:05:11	Voice04/04-SB/04-SB-M00/04-SB-M00-0040	0	sek	00:09:00;
+
+[PrintText]=00:09:00	Madre de Sekai	¿Se-chan? Oh, Ya veo, ¿Está tomando refugio aquí?^	00:13:01;
+
+[PlayVoice]=00:09:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0050	0	yko	00:13:01;
+
+[PrintText]=00:13:04	Sekai	¿Refugió?^	00:14:08;
+
+[PlayVoice]=00:13:04	Voice04/04-SB/04-SB-M00/04-SB-M00-0060	0	sek	00:14:08;
+
+[PrintText]=00:14:08	Madre de Sekai	Creo que la mamá de Se-chan no está de buen humor hoy.	00:18:04;
+
+[PlayVoice]=00:14:08	Voice04/04-SB/04-SB-M00/04-SB-M00-0070	0	yko	00:18:04;
+
+[PrintText]=00:18:05	Sekai	Mamá, ¿Te peleaste otra vez con la mamá de Setsuna? ¿No se enferman estando así?^	00:25:22;
+
+[PlayVoice]=00:18:05	Voice04/04-SB/04-SB-M00/04-SB-M00-0080	0	sek	00:25:22;
+
+[CreateBG]=00:23:03	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-002B	00:42:00;
+
+[PrintText]=00:25:21	Madre de Sekai	Fufu... Bueno, somos rivales después de todo.	00:28:08;
+
+[PlayVoice]=00:25:21	Voice04/04-SB/04-SB-M00/04-SB-M00-0090	0	yko	00:28:08;
+
+[PrintText]=00:28:08	Sekai	Bueno, calmate... hablando de eso, no tienes trabajo hoy, así que no saldrás ¿No?^	00:38:00;
+
+[PlayVoice]=00:28:08	Voice04/04-SB/04-SB-M00/04-SB-M00-0100	0	sek	00:38:00;
+
+[PrintText]=00:38:00	Madre de Sekai	Iré en un momento, pero escucha.	00:42:00;
+
+[PlayVoice]=00:38:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0110	0	yko	00:42:00;
+
+[CreateBG]=00:42:00	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-002C	01:06:21;
+
+[PrintText]=00:42:00	Sekai	¿Qué es? Pareces disfrutarlo.	00:45:06;
+
+[PlayVoice]=00:42:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0120	0	sek	00:45:06;
+
+[PrintText]=00:45:06	Madre de Sekai	¡Escucha, lo he cogido!	00:48:13;
+
+[PlayVoice]=00:45:06	Voice04/04-SB/04-SB-M00/04-SB-M00-0130	0	yko	00:48:13;
+
+[PrintText]=00:48:13	Sekai	¿Cogido...?^	00:49:19;
+
+[PlayVoice]=00:48:13	Voice04/04-SB/04-SB-M00/04-SB-M00-0140	0	sek	00:49:19;
+
+[PrintText]=00:49:19	Madre de Sekai	¡Trabajar en una tienda de París! Parece que les a gustado la idea de trabajar en un negocio allí.	00:57:01;
+
+[PlayVoice]=00:49:19	Voice04/04-SB/04-SB-M00/04-SB-M00-0150	0	yko	00:57:01;
+
+[PrintText]=00:57:01	Sekai	Wow.	00:58:11;
+
+[PlayVoice]=00:57:01	Voice04/04-SB/04-SB-M00/04-SB-M00-0160	0	sek	00:58:11;
+
+[PrintText]=00:58:10	Madre de Sekai	La decisión se tomó entre la mamá de Se-chan y yo. ¡Y me escogieron! ¡Estoy tan feliz!	01:06:20;
+
+[PlayVoice]=00:58:10	Voice04/04-SB/04-SB-M00/04-SB-M00-0170	0	yko	01:06:20;
+
+[PrintText]=01:06:20	Sekai	Tú y la mamá de Setsuna siempre están compitiendo ¿No?^	01:10:22;
+
+[PlayVoice]=01:06:20	Voice04/04-SB/04-SB-M00/04-SB-M00-0180	0	sek	01:10:22;
+
+[CreateBG]=01:06:21	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-002	01:24:21;
+
+[PrintText]=01:10:22	Madre de Sekai	No tendría porque perder ante ella. Soy su rival después de todo. Está vez, estuvo muy cerca al parecer.	01:18:21;
+
+[PlayVoice]=01:10:22	Voice04/04-SB/04-SB-M00/04-SB-M00-0190	0	yko	01:18:21;
+
+[PrintText]=01:19:06	Madre de Sekai	Ya venía desde antes para ganar la decisión de la tienda de Paris.	01:22:10;
+
+[PlayVoice]=01:19:06	Voice04/04-SB/04-SB-M00/04-SB-M00-0191	0	yko	01:22:10;
+
+[PrintText]=01:22:17	Sekai	Hmmn... bueno, que bien por ti.	01:25:00;
+
+[PlayVoice]=01:22:17	Voice04/04-SB/04-SB-M00/04-SB-M00-0200	0	sek	01:25:00;
+
+[CreateBG]=01:24:21	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-003	01:32:04;
+
+[PrintText]=01:25:00	Madre de Sekai	¡Sí, Gracias... es mejor que vayas preparando todo también, Sekai!	01:29:16;
+
+[PlayVoice]=01:25:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0210	0	yko	01:29:16;
+
+[PrintText]=01:29:16	Sekai	¿... Preparando?^	01:30:15;
+
+[PlayVoice]=01:29:16	Voice04/04-SB/04-SB-M00/04-SB-M00-0220	0	sek	01:30:15;
+
+[PrintText]=01:30:15	Madre de Sekai	Para ir a París.	01:32:05;
+
+[PlayVoice]=01:30:15	Voice04/04-SB/04-SB-M00/04-SB-M00-0230	0	yko	01:32:05;
+
+[CreateBG]=01:32:04	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-004	01:42:04;
+
+[PrintText]=01:32:05	Sekai	Oh, ¿También iré? Vacaciones en Francia, huh... Me encantaría, pero ¿No puede esperar hasta las vacaciones de invierno?^	01:42:05;
+
+[PlayVoice]=01:32:05	Voice04/04-SB/04-SB-M00/04-SB-M00-0240	0	sek	01:42:05;
+
+[CreateBG]=01:42:04	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-005	01:55:22;
+
+[PrintText]=01:42:06	Madre de Sekai	¿Vacaciones? ¿De qué hablas? Nos iremos a vivir allí. Es una transferencia de trabajo.	01:47:02;
+
+[PlayVoice]=01:42:06	Voice04/04-SB/04-SB-M00/04-SB-M00-0250	0	yko	01:47:02;
+
+[PlayBgm]=01:43:19	BGM/SD_BGM/sdbgm20	05:21:21;
+
+[PrintText]=01:47:05	Madre de Sekai	Tenemos que tener el papeleo de la transferencia de escuela y empezar a empacar tus cosas también.	01:51:20;
+
+[PlayVoice]=01:47:05	Voice04/04-SB/04-SB-M00/04-SB-M00-0251	0	yko	01:51:20;
+
+[PrintText]=01:52:00	Sekai	¿Eh...?^	01:52:14;
+
+[PlayVoice]=01:52:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0260	0	sek	01:52:14;
+
+[PrintText]=01:52:14	Madre de Sekai	¿No te había mencionado que iríamos a París?^	01:55:22;
+
+[PlayVoice]=01:52:14	Voice04/04-SB/04-SB-M00/04-SB-M00-0270	0	yko	01:55:22;
+
+[CreateBG]=01:55:22	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-006	02:10:22;
+
+[PrintText]=01:55:22	Sekai	No te referías a un viaje de Negocios ¿No?^	01:58:16;
+
+[PlayVoice]=01:55:22	Voice04/04-SB/04-SB-M00/04-SB-M00-0280	0	sek	01:58:16;
+
+[PrintText]=01:58:16	Madre de Sekai	Bueno, no lo habían decidido en ese momento, por lo que hubiera sido solo un viaje de negocios... pero ahora lo han decidido.	02:07:02;
+
+[PlayVoice]=01:58:16	Voice04/04-SB/04-SB-M00/04-SB-M00-0290	0	yko	02:07:02;
+
+[PrintText]=02:07:02	Sekai	¿Decidido...? Pero no podemos.	02:10:22;
+
+[PlayVoice]=02:07:02	Voice04/04-SB/04-SB-M00/04-SB-M00-0300	0	sek	02:10:22;
+
+[CreateBG]=02:10:22	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-002	02:21:05;
+
+[PrintText]=02:10:22	Madre de Sekai	Por supuesto que podemos. Mi viaje de mañana es parte de ello. Estaré bien ocupada ahora que nos moveremos a una nueva casa.	02:21:06;
+
+[PlayVoice]=02:10:22	Voice04/04-SB/04-SB-M00/04-SB-M00-0310	0	yko	02:21:06;
+
+[PlayMovie]=02:21:05	Movie04/04-SB/04-SB-M00/04-SB-M00-008	0	02:46:22;
+
+[PrintText]=02:21:06	Sekai	No... No iré.	02:23:13;
+
+[PlayVoice]=02:21:06	Voice04/04-SB/04-SB-M00/04-SB-M00-0320	0	sek	02:23:13;
+
+[PlaySe]=02:21:08	1	Se04/04-SB/04-SB-M00/SE04-SB-M00-002	02:22:06;
+
+[PrintText]=02:23:14	Madre de Sekai	No podemos hacer eso. No hay ningún pariente en quien podamos confiar, y no puedo dejarte aquí sola.	02:32:05;
+
+[PlayVoice]=02:23:14	Voice04/04-SB/04-SB-M00/04-SB-M00-0330	0	yko	02:32:05;
+
+[PrintText]=02:32:05	Sekai	Iré a la casa de Setsuna.	02:34:00;
+
+[PlayVoice]=02:32:05	Voice04/04-SB/04-SB-M00/04-SB-M00-0340	0	sek	02:34:00;
+
+[PrintText]=02:34:00	Madre de Sekai	¡No seas ridícula!	02:35:11;
+
+[PlayVoice]=02:34:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0350	0	yko	02:35:11;
+
+[PrintText]=02:35:12	Sekai	No... De ninguna manera puedo transferirme a otra escuela.	02:38:11;
+
+[PlayVoice]=02:35:12	Voice04/04-SB/04-SB-M00/04-SB-M00-0360	0	sek	02:38:11;
+
+[PrintText]=02:38:11	Madre de Sekai	Por favor entiende... París es una gran oportunidad para mí. Sabes cuanto he estado esperando por esto...	02:46:22;
+
+[PlayVoice]=02:38:11	Voice04/04-SB/04-SB-M00/04-SB-M00-0370	0	yko	02:46:22;
+
+[PrintText]=02:46:21	Sekai	¡No, No lo haré! ¡No quiero ir a París!	02:50:01;
+
+[PlayVoice]=02:46:21	Voice04/04-SB/04-SB-M00/04-SB-M00-0380	0	sek	02:50:01;
+
+[PlayMovie]=02:46:22	Movie04/04-SB/04-SB-M00/04-SB-M00-009	0	03:04:03;
+
+[PrintText]=02:50:17	Madre de Sekai	¡Sekai!	02:51:19;
+
+[PlayVoice]=02:50:17	Voice04/04-SB/04-SB-M00/04-SB-M00-0390	0	yko	02:51:19;
+
+[PlaySe]=02:51:10	1	Se04/04-SB/04-SB-M00/SE04-SB-M00-001	02:52:01;
+
+[PrintText]=02:51:19	Sekai	¡Uu... uwaaaaah!	02:58:13;
+
+[PlayVoice]=02:51:19	Voice04/04-SB/04-SB-M00/04-SB-M00-0410	0	sek	02:58:13;
+
+[PlaySe]=02:54:18	1	Se04/04-SB/04-SB-M00/SE04-SB-M00-003	02:58:16;
+
+[PlaySe]=02:58:10	2	Se04/04-SB/04-SB-M00/SE04-SB-M00-004	03:00:02;
+
+[PrintText]=03:00:16	Madre de Sekai	Sekai... Lo siento.	03:04:00;
+
+[PlayVoice]=03:00:16	Voice04/04-SB/04-SB-M00/04-SB-M00-0430	0	yko	03:04:00;
+
+[CreateBG]=03:04:03	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-002	03:08:00;
+
+[PrintText]=03:04:05	Madre de Sekai	Pero por favor, entiende...	03:07:00;
+
+[PlayVoice]=03:04:05	Voice04/04-SB/04-SB-M00/04-SB-M00-0450	0	yko	03:07:00;
+
+[BlackFade]=03:07:00	OUT	03:08:00;
+
+[CreateBG]=03:08:00	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-011	03:11:00;
+
+[CreateBG]=03:11:00	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-012	03:27:08;
+
+[PrintText]=03:11:00	Sekai	Uuh... uh...!	03:13:03;
+
+[PlayVoice]=03:11:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0460	0	sek	03:13:03;
+
+[PrintText]=03:13:07	Sekai	Uh...! Uuh...	03:17:06;
+
+[PlayVoice]=03:13:07	Voice04/04-SB/04-SB-M00/04-SB-M00-0540	0	sek	03:17:06;
+
+[PrintText]=03:17:07	Setsuna	Sekai...	03:18:08;
+
+[PlayVoice]=03:17:07	Voice04/04-SB/04-SB-M00/04-SB-M00-0550	0	set	03:18:08;
+
+[PrintText]=03:18:09	Sekai	Setsuna...	03:20:00;
+
+[PlayVoice]=03:18:09	Voice04/04-SB/04-SB-M00/04-SB-M00-0560	0	sek	03:20:00;
+
+[PrintText]=03:20:00	Setsuna	Uh-huh.	03:20:16;
+
+[PlayVoice]=03:20:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0570	0	set	03:20:16;
+
+[PrintText]=03:20:16	Sekai	Escucha... mamá esta...	03:23:20;
+
+[PlayVoice]=03:20:16	Voice04/04-SB/04-SB-M00/04-SB-M00-0580	0	sek	03:23:20;
+
+[PrintText]=03:23:19	Setsuna	Lo Escuché.	03:24:17;
+
+[PlayVoice]=03:23:19	Voice04/04-SB/04-SB-M00/04-SB-M00-0590	0	set	03:24:17;
+
+[PrintText]=03:24:17	Sekai	¿Eh?^	03:25:14;
+
+[PlayVoice]=03:24:17	Voice04/04-SB/04-SB-M00/04-SB-M00-0600	0	sek	03:25:14;
+
+[PrintText]=03:25:15	Setsuna	De mi mamá.	03:27:08;
+
+[PlayVoice]=03:25:15	Voice04/04-SB/04-SB-M00/04-SB-M00-0610	0	set	03:27:08;
+
+[CreateBG]=03:27:08	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-013	03:47:05;
+
+[PrintText]=03:27:08	Sekai	Ya veo... mi mamá dijo que tenía que elegir porque competía con tu mamá.	03:36:02;
+
+[PlayVoice]=03:27:08	Voice04/04-SB/04-SB-M00/04-SB-M00-0620	0	sek	03:36:02;
+
+[PrintText]=03:36:03	Setsuna	Mi mamá estaba llorando en casa, como tú.	03:40:19;
+
+[PlayVoice]=03:36:03	Voice04/04-SB/04-SB-M00/04-SB-M00-0630	0	set	03:40:19;
+
+[PrintText]=03:40:18	Sekai	Ya veo...	03:41:17;
+
+[PlayVoice]=03:40:18	Voice04/04-SB/04-SB-M00/04-SB-M00-0640	0	sek	03:41:17;
+
+[PrintText]=03:41:18	Setsuna	...	03:42:16;
+
+[PlayVoice]=03:41:18	Voice04/04-SB/04-SB-M00/04-SB-M00-0650	0	xxx	03:42:16;
+
+[PrintText]=03:42:15	Sekai	...Sniff... uuh...	03:47:04;
+
+[PlayVoice]=03:42:15	Voice04/04-SB/04-SB-M00/04-SB-M00-0660	0	sek	03:47:04;
+
+[CreateBG]=03:47:05	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-014	03:59:03;
+
+[PrintText]=03:47:05	Setsuna	Sekai...	03:48:11;
+
+[PlayVoice]=03:47:05	Voice04/04-SB/04-SB-M00/04-SB-M00-0680	0	set	03:48:11;
+
+[PrintText]=03:48:10	Sekai	Uu... uuh...	03:51:10;
+
+[PlayVoice]=03:48:10	Voice04/04-SB/04-SB-M00/04-SB-M00-0690	0	sek	03:51:10;
+
+[PrintText]=03:51:10	Setsuna	¿Será pronto?^	03:53:00;
+
+[PlayVoice]=03:51:10	Voice04/04-SB/04-SB-M00/04-SB-M00-0700	0	set	03:53:00;
+
+[PrintText]=03:53:00	Sekai	Dice que irá a París hoy para decidir donde vivir...	03:58:05;
+
+[PlayVoice]=03:53:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0710	0	sek	03:58:05;
+
+[PrintText]=03:58:06	Setsuna	Ya veo.	03:59:06;
+
+[PlayVoice]=03:58:06	Voice04/04-SB/04-SB-M00/04-SB-M00-0720	0	set	03:59:06;
+
+[CreateBG]=03:59:03	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-014A	04:05:14;
+
+[PrintText]=03:59:05	Sekai	...	04:00:18;
+
+[PlayVoice]=03:59:05	Voice04/04-SB/04-SB-M00/04-SB-M00-0730	0	xxx	04:00:18;
+
+[PrintText]=04:00:18	Setsuna	¿Estás bien con esto, Sekai?^	04:03:15;
+
+[PlayVoice]=04:00:18	Voice04/04-SB/04-SB-M00/04-SB-M00-0740	0	set	04:03:15;
+
+[PrintText]=04:03:15	Sekai	...No.	04:04:21;
+
+[PlayVoice]=04:03:15	Voice04/04-SB/04-SB-M00/04-SB-M00-0750	0	sek	04:04:21;
+
+[PrintText]=04:04:21	Setsuna	Entonces...	04:05:17;
+
+[PlayVoice]=04:04:21	Voice04/04-SB/04-SB-M00/04-SB-M00-0760	0	set	04:05:17;
+
+[CreateBG]=04:05:14	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-014B	04:27:03;
+
+[PrintText]=04:05:17	Sekai	Yo no.... pero mamá... Soy solo yo y ella...	04:15:05;
+
+[PlayVoice]=04:05:17	Voice04/04-SB/04-SB-M00/04-SB-M00-0770	0	sek	04:15:05;
+
+[PrintText]=04:15:05	Sekai	No tenemos un pariente aquí, y no puedo vivir por mi cuenta...	04:21:07;
+
+[PlayVoice]=04:15:05	Voice04/04-SB/04-SB-M00/04-SB-M00-0771	0	sek	04:21:07;
+
+[PrintText]=04:21:08	Setsuna	Puedes venir a mi casa.	04:22:23;
+
+[PlayVoice]=04:21:08	Voice04/04-SB/04-SB-M00/04-SB-M00-0780	0	set	04:22:23;
+
+[PrintText]=04:22:21	Sekai	Mi mamá no me deja...	04:25:17;
+
+[PlayVoice]=04:22:21	Voice04/04-SB/04-SB-M00/04-SB-M00-0790	0	sek	04:25:17;
+
+[PrintText]=04:25:18	Setsuna	Sí, pero...	04:27:04;
+
+[PlayVoice]=04:25:18	Voice04/04-SB/04-SB-M00/04-SB-M00-0800	0	set	04:27:04;
+
+[CreateBG]=04:27:03	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-012	05:05:18;
+
+[PrintText]=04:27:03	Sekai	Lo sé. Tengo que ir con mamá... lo sé, pero... es tan triste... uu... uhh...	04:40:01;
+
+[PlayVoice]=04:27:03	Voice04/04-SB/04-SB-M00/04-SB-M00-0810	0	sek	04:40:01;
+
+[PrintText]=04:40:02	Setsuna	¿Estás segura? ¿Qué hay de Itou?^	04:43:11;
+
+[PlayVoice]=04:40:02	Voice04/04-SB/04-SB-M00/04-SB-M00-0820	0	set	04:43:11;
+
+[PrintText]=04:43:11	Sekai	No quiero dejarlo... pero no se puede evitar...	04:48:19;
+
+[PlayVoice]=04:43:11	Voice04/04-SB/04-SB-M00/04-SB-M00-0830	0	sek	04:48:19;
+
+[PrintText]=04:48:19	Setsuna	Entonces, se separarán.	04:51:11;
+
+[PlayVoice]=04:48:19	Voice04/04-SB/04-SB-M00/04-SB-M00-0840	0	set	04:51:11;
+
+[PrintText]=04:51:10	Sekai	No quiero...	04:53:23;
+
+[PlayVoice]=04:51:10	Voice04/04-SB/04-SB-M00/04-SB-M00-0850	0	sek	04:53:23;
+
+[PrintText]=04:54:00	Setsuna	¿Qué harás?^	04:55:03;
+
+[PlayVoice]=04:54:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0860	0	set	04:55:03;
+
+[PrintText]=04:55:03	Sekai	¡No hay nada que pueda hacer! ¡No se sentirá bien estar en contacto con él desde París...! ¡Todo esto... se termino!	05:05:19;
+
+[PlayVoice]=04:55:03	Voice04/04-SB/04-SB-M00/04-SB-M00-0870	0	sek	05:05:19;
+
+[CreateBG]=05:05:18	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-016	05:13:05;
+
+[PrintText]=05:05:19	Setsuna	...	05:06:18;
+
+[PlayVoice]=05:05:19	Voice04/04-SB/04-SB-M00/04-SB-M00-0890	0	xxx	05:06:18;
+
+[PrintText]=05:06:18	Sekai	¡Uu... uuh... sniff... uuh...!	05:12:01;
+
+[PlayVoice]=05:06:18	Voice04/04-SB/04-SB-M00/04-SB-M00-0900	0	sek	05:12:01;
+
+[PrintText]=05:12:01	Setsuna	...Sekai.	05:13:06;
+
+[PlayVoice]=05:12:01	Voice04/04-SB/04-SB-M00/04-SB-M00-0910	0	set	05:13:06;
+
+[CreateBG]=05:13:05	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-017	05:20:16;
+
+[PrintText]=05:13:06	Sekai	...	05:15:01;
+
+[PlayVoice]=05:13:06	Voice04/04-SB/04-SB-M00/04-SB-M00-0920	0	xxx	05:15:01;
+
+[PrintText]=05:15:01	Setsuna	Vale.	05:17:00;
+
+[PlayVoice]=05:15:01	Voice04/04-SB/04-SB-M00/04-SB-M00-0930	0	set	05:17:00;
+
+[PrintText]=05:17:00	Sekai	¿Eh...? ¿Vale?^	05:20:15;
+
+[PlayVoice]=05:17:00	Voice04/04-SB/04-SB-M00/04-SB-M00-0940	0	sek	05:20:15;
+
+[CreateBG]=05:20:16	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-017A	05:25:23;
+
+[PrintText]=05:20:16	Setsuna	No te preocupes.	05:21:21;
+
+[PlayVoice]=05:20:16	Voice04/04-SB/04-SB-M00/04-SB-M00-0950	0	set	05:21:21;
+
+[PrintText]=05:21:21	Sekai	...	05:22:18;
+
+[PlayVoice]=05:21:21	Voice04/04-SB/04-SB-M00/04-SB-M00-0960	0	xxx	05:22:18;
+
+[PrintText]=05:22:17	Setsuna	Tomaré a Itou.	05:26:03;
+
+[PlayVoice]=05:22:17	Voice04/04-SB/04-SB-M00/04-SB-M00-0970	0	set	05:26:03;
+
+[EndBGM]=05:25:08	BGM/Vocal/SDV04	07:36:01;
+
+[CreateBG]=05:25:23	BGS	Event04/04-SB/04-SB-M00/04-SB-M00-017B	05:30:23;
+
+[PrintText]=05:26:03	Sekai	¿Eh...?!	05:27:06;
+
+[PlayVoice]=05:26:03	Voice04/04-SB/04-SB-M00/04-SB-M00-0980	0	sek	05:27:06;
+
+[PrintText]=05:27:06	Setsuna	Puedes estar tranquila cuando te transfieras de aquí.	05:29:09;
+
+[PlayVoice]=05:27:06	Voice04/04-SB/04-SB-M00/04-SB-M00-0990	0	set	05:29:09;
+
+[PrintText]=05:29:09	Sekai	¿...Setsuna?^	05:30:21;
+
+[PlayVoice]=05:29:09	Voice04/04-SB/04-SB-M00/04-SB-M00-1000	0	sek	05:30:21;
+
+[EndRoll]=05:30:23	Movie04/04-SB/04-SB-M00/04-SB-M00-018	07:36:23;
+
+[CreateBG]=05:30:23	BGS	Ini/EndRoll/04-19	05:33:23;
+
+[EndRoll]=05:33:23	Ini/EndRoll/NORMAL	06:13:23;
+
+ ;
+
+[Next]=06:13:23;
+
+

@@ -1,0 +1,64 @@
+﻿[SkipFRAME]=00:28:17;
+
+[PlaySe]=00:00:00	3	Se02/02-2S/02-2S-Y00/SE02-2S-Y00-001	00:05:08;
+
+[PlaySe]=00:00:00	5	SysSe/SE_all/gaya/kyousitu_rouka	00:07:12;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-Y00/02-2S-Y00-001	00:03:00;
+
+[PlayMovie]=00:03:00	Movie02/02-2S/02-2S-Y00/02-2S-Y00-002	0	00:07:12;
+
+[PrintText]=00:03:00	Kotonoha	¡Haah...!	00:07:12;
+
+[PlayVoice]=00:03:00	Voice02/02-2S/02-2S-Y00/02-2S-Y00-0040	0	kot	00:07:12;
+
+[PlaySe]=00:05:08	4	Se02/02-2S/02-2S-Y00/SE02-2S-Y00-001	00:07:12;
+
+[PlaySe]=00:07:12	1	Voice02/02-2S/02-2S-T04/02-2S-T04-0060	00:10:09;
+
+[PlaySe]=00:07:12	6	SysSe/SE_all/gaya/okujou	00:10:09;
+
+[PlayMovie]=00:07:12	Movie02/02-2S/02-2S-Y00/02-2S-Y00-003	0	00:10:09;
+
+[PlaySe]=00:10:09	2	Voice02/02-2S/02-2S-Y00/02-2S-Y00-0040	00:13:06;
+
+[PlaySe]=00:10:09	5	SysSe/SE_all/gaya/kyousitu_rouka	00:13:06;
+
+[PlayMovie]=00:10:09	Movie02/02-2S/02-2S-Y00/02-2S-Y00-004	0	00:13:06;
+
+[PlaySe]=00:10:16	3	Se02/02-2S/02-2S-Y00/SE02-2S-Y00-001	00:13:06;
+
+[PlaySe]=00:13:06	1	Voice02/02-2S/02-2S-T04/02-2S-T04-0080	00:15:14;
+
+[PlaySe]=00:13:06	6	SysSe/SE_all/gaya/okujou	00:15:14;
+
+[PlayMovie]=00:13:06	Movie02/02-2S/02-2S-Y00/02-2S-Y00-005	0	00:15:14;
+
+[PlaySe]=00:15:14	2	Voice02/02-2S/02-2S-Y00/02-2S-Y00-0040	00:18:15;
+
+[PlaySe]=00:15:14	3	Se02/02-2S/02-2S-Y00/SE02-2S-Y00-001	00:18:15;
+
+[PlaySe]=00:15:14	5	SysSe/SE_all/gaya/kyousitu_rouka	00:28:17;
+
+[PlayMovie]=00:15:14	Movie02/02-2S/02-2S-Y00/02-2S-Y00-006	0	00:18:15;
+
+[PlayMovie]=00:18:15	Ini/Movie02/02-2S/02-2S-Y00/02-2S-Y00-007	0	00:20:14;
+
+[CreateBG]=00:20:14	BGS	Event02/02-2S/02-2S-Y00/02-2S-Y00-008	00:23:17;
+
+[PlaySe]=00:23:17	3	Se02/02-2S/02-2S-Y00/SE02-2S-Y00-001	00:28:17;
+
+[PlayMovie]=00:23:17	Movie02/02-2S/02-2S-Y00/02-2S-Y00-009	0	00:28:17;
+
+[PrintText]=00:23:17	Kotonoha	¡Makoto-kun... Makoto-kun...!	00:28:17;
+
+[PlayVoice]=00:23:17	Voice02/02-2S/02-2S-Y00/02-2S-Y00-0050	0	kot	00:28:17;
+
+ ;
+
+[Next]=00:28:17;
+
+
+
+
+

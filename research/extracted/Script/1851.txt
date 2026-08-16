@@ -1,0 +1,192 @@
+﻿[SkipFRAME]=01:52:05;
+
+[PlaySe]=00:00:00	1	Se05/05-SE/05-SE-R00/SE05-SE-R00-001	00:03:01;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-H00/00-00-H00-001	00:03:01;
+
+[PlaySe]=00:03:01	2	Se05/05-SE/05-SE-R00/SE05-SE-R00-002	00:06:09;
+
+[CreateBG]=00:03:01	BGS	Event00/00-00/00-00-H00/00-00-H00-002	00:06:15;
+
+[PlaySe]=00:06:09	1	Se05/05-SE/05-SE-R00/SE05-SE-R00-003	00:06:11;
+
+[CreateBG]=00:06:15	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-003	00:08:20;
+
+[PrintText]=00:06:17	Makoto	¿Sí?^	00:07:12;
+
+[PlayVoice]=00:06:17	Voice05/05-SE/05-SE-R00/05-SE-R00-0040	1	mak	00:07:12;
+
+[PrintText]=00:07:10	Sekai	Ah, Makoto.	00:09:01;
+
+[PlayVoice]=00:07:10	Voice05/05-SE/05-SE-R00/05-SE-R00-0050	0	sek	00:09:01;
+
+[CreateBG]=00:08:20	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-004	00:13:10;
+
+[PrintText]=00:09:05	Makoto	¿...Sekai?^	00:10:10;
+
+[PlayVoice]=00:09:05	Voice05/05-SE/05-SE-R00/05-SE-R00-0060	1	mak	00:10:10;
+
+[PrintText]=00:10:05	Sekai	Uh-huh. Hey ¿Estás libre mañana?^	00:13:13;
+
+[PlayVoice]=00:10:05	Voice05/05-SE/05-SE-R00/05-SE-R00-0070	0	sek	00:13:13;
+
+[CreateBG]=00:13:10	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-005	00:19:18;
+
+[PrintText]=00:13:10	Makoto	¿Huh?^	00:14:01;
+
+[PlayVoice]=00:13:10	Voice05/05-SE/05-SE-R00/05-SE-R00-0080	1	mak	00:14:01;
+
+[PrintText]=00:14:05	Sekai	Si lo estás, me gustaría ir contigo a un sitio.	00:17:16;
+
+[PlayVoice]=00:14:05	Voice05/05-SE/05-SE-R00/05-SE-R00-0090	0	sek	00:17:16;
+
+[PrintText]=00:17:14	Makoto	¿A un sitio? ¿A Dónde?^	00:19:21;
+
+[PlayVoice]=00:17:14	Voice05/05-SE/05-SE-R00/05-SE-R00-0100	1	mak	00:19:21;
+
+[CreateBG]=00:19:18	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-005B	00:39:23;
+
+[PrintText]=00:19:18	Sekai	Al Hospital.	00:20:13;
+
+[PlayVoice]=00:19:18	Voice05/05-SE/05-SE-R00/05-SE-R00-0110	0	sek	00:20:13;
+
+[PrintText]=00:20:21	Makoto	¿Te refieres a ver a la obstetra?^	00:23:21;
+
+[PlayVoice]=00:20:21	Voice05/05-SE/05-SE-R00/05-SE-R00-0120	1	mak	00:23:21;
+
+[PrintText]=00:23:16	Sekai	Sí, vendrás ¿No?^	00:25:08;
+
+[PlayVoice]=00:23:16	Voice05/05-SE/05-SE-R00/05-SE-R00-0130	0	sek	00:25:08;
+
+[PrintText]=00:25:14	Makoto	...	00:26:20;
+
+[PlayVoice]=00:25:14	Voice05/05-SE/05-SE-R00/05-SE-R00-0140	1	xxx	00:26:20;
+
+[PrintText]=00:26:23	Sekai	Cuando se trata de tenerlo, ellos no hablan solamente con su mamá.	00:31:09;
+
+[PlayVoice]=00:26:23	Voice05/05-SE/05-SE-R00/05-SE-R00-0150	0	sek	00:31:09;
+
+[PrintText]=00:31:10	Sekai	Ellos también quieren al padre, así que nos pueden enseñar como prepararnos. Por eso es que...	00:40:15;
+
+[PlayVoice]=00:31:10	Voice05/05-SE/05-SE-R00/05-SE-R00-0151	0	sek	00:40:15;
+
+[CreateBG]=00:39:23	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-003	00:41:06;
+
+[PrintText]=00:39:23	Makoto	...No iré.	00:41:05;
+
+[PlayVoice]=00:39:23	Voice05/05-SE/05-SE-R00/05-SE-R00-0160	1	mak	00:41:05;
+
+[CreateBG]=00:41:06	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-006B	00:42:11;
+
+[PrintText]=00:41:06	Sekai	¿Eh?^	00:41:19;
+
+[PlayVoice]=00:41:06	Voice05/05-SE/05-SE-R00/05-SE-R00-0170	0	sek	00:41:19;
+
+[PlayBgm]=00:41:18	BGM/SD_BGM/sdbgm19	01:16:01;
+
+[CreateBG]=00:42:11	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-004	00:54:17;
+
+[PrintText]=00:42:14	Makoto	Porque no soy el padre.	00:45:17;
+
+[PlayVoice]=00:42:14	Voice05/05-SE/05-SE-R00/05-SE-R00-0180	1	mak	00:45:17;
+
+[PrintText]=00:45:15	Sekai	S-Sí lo eres. Eres el padre de este bebé. ¿Por qué dirías algo así?^	00:53:06;
+
+[PlayVoice]=00:45:15	Voice05/05-SE/05-SE-R00/05-SE-R00-0190	0	sek	00:53:06;
+
+[PrintText]=00:53:08	Makoto	...Vamos a detenernos aquí.	00:54:15;
+
+[PlayVoice]=00:53:08	Voice05/05-SE/05-SE-R00/05-SE-R00-0200	1	mak	00:54:15;
+
+[CreateBG]=00:54:17	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-008	01:09:23;
+
+[PrintText]=00:54:18	Sekai	¿Detenernos...?^	00:55:16;
+
+[PlayVoice]=00:54:18	Voice05/05-SE/05-SE-R00/05-SE-R00-0210	0	sek	00:55:16;
+
+[PrintText]=00:56:05	Makoto	Las cosas no van bien entre nosotros. No estoy seguro que pueda amarte, con el hijo de Taisuke.	01:05:16;
+
+[PlayVoice]=00:56:05	Voice05/05-SE/05-SE-R00/05-SE-R00-0220	1	mak	01:05:16;
+
+[PrintText]=01:05:13	Sekai	N-no, es tuyo. Es tu bebé...	01:10:20;
+
+[PlayVoice]=01:05:13	Voice05/05-SE/05-SE-R00/05-SE-R00-0230	0	sek	01:10:20;
+
+[PrintText]=01:09:10	Makoto	Es suficiente.	01:11:01;
+
+[PlayVoice]=01:09:10	Voice05/05-SE/05-SE-R00/05-SE-R00-0240	1	mak	01:11:01;
+
+[CreateBG]=01:09:23	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-009	01:16:00;
+
+[PrintText]=01:11:04	Sekai	...	01:12:04;
+
+[PlayVoice]=01:11:04	Voice05/05-SE/05-SE-R00/05-SE-R00-0250	0	xxx	01:12:04;
+
+[PrintText]=01:12:12	Makoto	Colgaré ahora.	01:15:01;
+
+[PlayVoice]=01:12:12	Voice05/05-SE/05-SE-R00/05-SE-R00-0260	1	mak	01:15:01;
+
+[CreateBG]=01:16:00	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-009B	01:37:20;
+
+[PrintText]=01:16:01	Sekai	...Es Katsura-san ¿No es así?^	01:17:11;
+
+[PlayVoice]=01:16:01	Voice05/05-SE/05-SE-R00/05-SE-R00-0270	0	sek	01:17:11;
+
+[PrintText]=01:17:08	Makoto	¿Eh?^	01:17:22;
+
+[PlayVoice]=01:17:08	Voice05/05-SE/05-SE-R00/05-SE-R00-0280	1	mak	01:17:22;
+
+[PrintText]=01:18:11	Sekai	Katsura-san te ha contado alguna historia.	01:22:08;
+
+[PlayVoice]=01:18:11	Voice05/05-SE/05-SE-R00/05-SE-R00-0290	0	sek	01:22:08;
+
+[PrintText]=01:22:05	Makoto	H-hey ¿Qué quieres decir con...?^	01:25:08;
+
+[PlayVoice]=01:22:05	Voice05/05-SE/05-SE-R00/05-SE-R00-0300	1	mak	01:25:08;
+
+[PrintText]=01:24:14	Sekai	No eres la clase de persona que diría algo así. ¡Katsura-san te está manipulando!	01:33:06;
+
+[PlayVoice]=01:24:14	Voice05/05-SE/05-SE-R00/05-SE-R00-0310	0	sek	01:33:06;
+
+[PrintText]=01:31:22	Makoto	¿De qué hablas? Es verdad que he hablado con ella, pero...	01:38:11;
+
+[PlayVoice]=01:31:22	Voice05/05-SE/05-SE-R00/05-SE-R00-0320	1	mak	01:38:11;
+
+[CreateBG]=01:37:20	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-011	01:42:20;
+
+[PrintText]=01:37:20	Sekai	¡Lo sabía!	01:38:20;
+
+[PlayVoice]=01:37:20	Voice05/05-SE/05-SE-R00/05-SE-R00-0330	0	sek	01:38:20;
+
+[PrintText]=01:38:12	Makoto	¡Hey! ¡Sekai!	01:39:22;
+
+[PlayVoice]=01:38:12	Voice05/05-SE/05-SE-R00/05-SE-R00-0340	1	mak	01:39:22;
+
+[PrintText]=01:40:00	Sekai	...	01:41:00;
+
+[PlayVoice]=01:40:00	Voice05/05-SE/05-SE-R00/05-SE-R00-0350	0	xxx	01:41:00;
+
+[PlaySe]=01:40:15	1	Se05/05-SE/05-SE-R00/SE05-SE-R00-004	01:44:13;
+
+[CreateBG]=01:42:20	BGS	Event00/00-00/00-00-H00/00-00-H00-002	01:47:14;
+
+[PrintText]=01:45:05	Makoto	...	01:46:07;
+
+[PlayVoice]=01:45:05	Voice05/05-SE/05-SE-R00/05-SE-R00-0370	1	xxx	01:46:07;
+
+[BlackFade]=01:46:14	OUT	01:47:14;
+
+[PlayBgm]=01:47:14	BGM/SD_BGM/sdbgm20	01:52:05;
+
+[CreateBG]=01:47:14	BGS	Event05/05-SE/05-SE-R00/05-SE-R00-013	01:52:05;
+
+[BlackFade]=01:47:14	IN	01:48:14;
+
+[BlackFade]=01:51:05	OUT	01:52:05;
+
+ ;
+
+[Next]=01:52:05;
+
+
+

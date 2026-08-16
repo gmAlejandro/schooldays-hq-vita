@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:07:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-C02/05-KF-C02-001	00:07:19;
+
+[PrintText]=00:00:00	Makoto	Uh-huh.	00:01:09;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-C02/05-KF-C02-0030	1	mak	00:01:09;
+
+[PrintText]=00:01:09	Sekai	Haré que lo entienda...	00:05:14;
+
+[PlayVoice]=00:01:09	Voice05/05-KF/05-KF-C02/05-KF-C02-0040	0	sek	00:05:14;
+
+[PrintText]=00:05:14	Makoto	...	00:07:19;
+
+[PlayVoice]=00:05:14	Voice05/05-KF/05-KF-C02/05-KF-C02-0050	1	xxx	00:07:19;
+
+ ;
+
+[Next]=00:07:19;
+
+
+
+

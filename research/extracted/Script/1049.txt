@@ -1,0 +1,77 @@
+﻿[SkipFRAME]=00:49:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:49:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-N00/04-KC-N00-001	00:11:16;
+
+[PrintText]=00:00:00	Makoto	...	00:00:20;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-N00/04-KC-N00-0030	1	xxx	00:00:20;
+
+[PrintText]=00:00:18	Sekai	¡Solo bromeaba! Ahaha... ¿Cómo puedes hacer que una chica diga eso? ¡Cielos!	00:06:21;
+
+[PlayVoice]=00:00:18	Voice04/04-KC/04-KC-N00/04-KC-N00-0040	0	sek	00:06:21;
+
+[PrintText]=00:06:21	Makoto	Me gustaría hacerlo.	00:10:02;
+
+[PlayVoice]=00:06:21	Voice04/04-KC/04-KC-N00/04-KC-N00-0050	1	mak	00:10:02;
+
+[PrintText]=00:10:01	Sekai	¿Eh...?^	00:10:14;
+
+[PlayVoice]=00:10:01	Voice04/04-KC/04-KC-N00/04-KC-N00-0060	0	sek	00:10:14;
+
+[PrintText]=00:10:15	Makoto	¿Está bien?^	00:11:16;
+
+[PlayVoice]=00:10:15	Voice04/04-KC/04-KC-N00/04-KC-N00-0070	1	mak	00:11:16;
+
+[CreateBG]=00:11:16	BGS	Event04/04-KC/04-KC-N00/04-KC-N00-002	00:17:07;
+
+[PrintText]=00:11:16	Sekai	Hmn... creo que no hay remedio.	00:14:21;
+
+[PlayVoice]=00:11:16	Voice04/04-KC/04-KC-N00/04-KC-N00-0080	0	sek	00:14:21;
+
+[PrintText]=00:14:21	Makoto	Vale, entonces vamos.	00:17:06;
+
+[PlayVoice]=00:14:21	Voice04/04-KC/04-KC-N00/04-KC-N00-0090	1	mak	00:17:06;
+
+[PrintText]=00:17:06	Sekai	¡¿Eh?! ¿Ahora?^	00:19:06;
+
+[PlayVoice]=00:17:06	Voice04/04-KC/04-KC-N00/04-KC-N00-0100	0	sek	00:19:06;
+
+[CreateBG]=00:17:07	BGS	Event04/04-KC/04-KC-N00/04-KC-N00-003	00:41:05;
+
+[PrintText]=00:19:06	Makoto	Después de haber tocado tus senos así... no puedo aguantarlo más.	00:27:18;
+
+[PlayVoice]=00:19:06	Voice04/04-KC/04-KC-N00/04-KC-N00-0110	1	mak	00:27:18;
+
+[PrintText]=00:27:18	Sekai	Haha... Vale, vamos. Pero debemos decirle algo a Taisuke y a Katsura-san.	00:36:22;
+
+[PlayVoice]=00:27:18	Voice04/04-KC/04-KC-N00/04-KC-N00-0120	0	sek	00:36:22;
+
+[PrintText]=00:36:22	Makoto	Le enviaremos un correo diciendo que estamos enfermos, así nos podremos ir a casa.	00:41:06;
+
+[PlayVoice]=00:36:22	Voice04/04-KC/04-KC-N00/04-KC-N00-0130	1	mak	00:41:06;
+
+[CreateBG]=00:41:05	BGS	Event04/04-KC/04-KC-N00/04-KC-N00-004	00:49:00;
+
+[PrintText]=00:41:06	Sekai	¿Ambos, al mismo tiempo?^	00:42:14;
+
+[PlayVoice]=00:41:06	Voice04/04-KC/04-KC-N00/04-KC-N00-0140	0	sek	00:42:14;
+
+[PrintText]=00:42:15	Makoto	¿...Crees que lo sospechen?^	00:44:01;
+
+[PlayVoice]=00:42:15	Voice04/04-KC/04-KC-N00/04-KC-N00-0150	1	mak	00:44:01;
+
+[PrintText]=00:44:00	Sekai	Quien sabe, pero vamos...	00:48:03;
+
+[PlayVoice]=00:44:00	Voice04/04-KC/04-KC-N00/04-KC-N00-0160	0	sek	00:48:03;
+
+[PrintText]=00:48:03	Makoto	Vale.	00:48:20;
+
+[PlayVoice]=00:48:03	Voice04/04-KC/04-KC-N00/04-KC-N00-0170	1	mak	00:48:20;
+
+ ;
+
+[Next]=00:49:00;
+
+

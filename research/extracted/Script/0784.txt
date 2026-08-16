@@ -1,0 +1,69 @@
+﻿[SkipFRAME]=02:09:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-I03/SE03-SA-I03-001	00:09:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-I03/03-SA-I03-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-I03/03-SA-I03-002	00:04:00;
+
+[PlayMovie]=00:04:00	Movie03/03-SA/03-SA-I03/03-SA-I03-003	0	00:09:08;
+
+[PrintText]=00:07:01	Sekai	¡Vamos, bailemos!	00:08:17;
+
+[PlayVoice]=00:07:01	Voice03/03-SA/03-SA-I03/03-SA-I03-0030	0	sek	00:08:17;
+
+[PrintText]=00:08:15	Makoto	Sí...	00:09:08;
+
+[PlayVoice]=00:08:15	Voice03/03-SA/03-SA-I03/03-SA-I03-0040	1	mak	00:09:08;
+
+[PlaySe]=00:09:08	2	Se03/03-SA/03-SA-I03/SE03-SA-I03-002	01:18:07;
+
+[PlayMovie]=00:09:08	Movie03/03-SA/03-SA-I03/03-SA-I03-004	0	00:29:08;
+
+[PlayMovie]=00:29:08	Movie03/03-SA/03-SA-I03/03-SA-I03-005	0	00:38:05;
+
+[PlayMovie]=00:38:05	Movie03/03-SA/03-SA-I03/03-SA-I03-006	0	00:41:07;
+
+[PrintText]=00:40:01	Kotonoha	...	00:41:14;
+
+[PlayVoice]=00:40:01	Voice03/03-SA/03-SA-I03/03-SA-I03-0070	0	xxx	00:41:14;
+
+[PlayMovie]=00:41:07	Movie03/03-SA/03-SA-I03/03-SA-I03-007	0	00:45:01;
+
+[PlayMovie]=00:45:01	Movie03/03-SA/03-SA-I03/03-SA-I03-008	0	00:55:13;
+
+[PlayMovie]=00:55:13	Movie03/03-SA/03-SA-I03/03-SA-I03-009	0	00:59:11;
+
+[PrintText]=00:55:16	Kotonoha	No... Makoto-kun...	00:59:13;
+
+[PlayVoice]=00:55:16	Voice03/03-SA/03-SA-I03/03-SA-I03-0090	0	kot	00:59:13;
+
+[PlayMovie]=00:59:11	Movie03/03-SA/03-SA-I03/03-SA-I03-010	0	01:07:00;
+
+[PlayMovie]=01:07:00	Movie03/03-SA/03-SA-I03/03-SA-I03-012	0	01:14:00;
+
+[PrintText]=01:07:07	Kotonoha	Ah...	01:08:10;
+
+[PlayVoice]=01:07:07	Voice03/03-SA/03-SA-I03/03-SA-I03-0120	0	kot	01:08:10;
+
+[PrintText]=01:08:18	Kotonoha	Kuh... uuh... ah...	01:15:15;
+
+[PlayVoice]=01:08:18	Voice03/03-SA/03-SA-I03/03-SA-I03-0160	0	kot	01:15:15;
+
+[PlayMovie]=01:14:00	Movie03/03-SA/03-SA-I03/03-SA-I03-013	0	01:26:00;
+
+[PrintText]=01:15:22	Kotonoha	¡Uuh...! ¡...Kuh... uwah... ahh...!	01:26:00;
+
+[PlayVoice]=01:15:22	Voice03/03-SA/03-SA-I03/03-SA-I03-0180	0	kot	01:26:00;
+
+[EndBGM]=01:17:00	BGM/Vocal/SDV04	03:27:17;
+
+[CreateBG]=01:26:00	BGS	Ini/EndRoll/03-11	01:29:00;
+
+[EndRoll]=01:29:00	Ini/EndRoll/NORMAL	02:09:00;
+
+ ;
+
+[Next]=02:09:00;
+
+

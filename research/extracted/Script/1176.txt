@@ -1,0 +1,89 @@
+﻿[SkipFRAME]=00:34:17;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:13:23;
+
+[PlayMovie]=00:00:00	Movie04/04-SA/04-SA-R00/04-SA-R00-001	0	00:03:00;
+
+[PrintText]=00:01:12	Kotonoha	...	00:01:22;
+
+[PlayVoice]=00:01:12	Voice04/04-SA/04-SA-R00/04-SA-R00-0050	0	xxx	00:01:22;
+
+[CreateBG]=00:03:00	BGS	Event04/04-SA/04-SA-R00/04-SA-R00-002	00:07:20;
+
+[PrintText]=00:03:01	Makoto	Zzz... zzz...	00:07:17;
+
+[PlayVoice]=00:03:01	Voice04/04-SA/04-SA-R00/04-SA-R00-0070	1	mak	00:07:17;
+
+[PlayMovie]=00:07:20	Movie04/04-SA/04-SA-R00/04-SA-R00-003	0	00:10:19;
+
+[CreateBG]=00:10:19	BGS	Event04/04-SA/04-SA-R00/04-SA-R00-004	00:12:06;
+
+[PrintText]=00:11:02	Kotonoha	...	00:11:15;
+
+[PlayVoice]=00:11:02	Voice04/04-SA/04-SA-R00/04-SA-R00-0080	0	xxx	00:11:15;
+
+[PlayMovie]=00:12:06	Movie04/04-SA/04-SA-R00/04-SA-R00-005	0	00:13:23;
+
+[PlayVoice]=00:12:15	Voice04/04-SA/04-SA-R00/04-SA-R00-0120	1	ana	00:13:23;
+
+[BlackFade]=00:13:11	OUT	00:13:23;
+
+[CreateBG]=00:13:23	BGS	System/Screen/Black	00:17:12;
+
+[PrintText]=00:14:13	Kotonoha	...kun... Makoto-kun.	00:17:04;
+
+[PlayVoice]=00:14:13	Voice04/04-SA/04-SA-R00/04-SA-R00-0130	0	kot	00:17:04;
+
+[PlaySe]=00:17:12	2	SysSe/SE_all/station_train/station	00:34:17;
+
+[CreateBG]=00:17:12	BGS	Event04/04-SA/04-SA-R00/04-SA-R00-007	00:20:05;
+
+[BlackFade]=00:17:12	IN	00:18:00;
+
+[PrintText]=00:18:00	Makoto	¿Ah...?^	00:19:23;
+
+[PlayVoice]=00:18:00	Voice04/04-SA/04-SA-R00/04-SA-R00-0140	1	mak	00:19:23;
+
+[CreateBG]=00:20:05	BGS	Event04/04-SA/04-SA-R00/04-SA-R00-008	00:27:06;
+
+[PrintText]=00:20:12	Kotonoha	Ya llegamos. Este es tu paradero.	00:24:05;
+
+[PlayVoice]=00:20:12	Voice04/04-SA/04-SA-R00/04-SA-R00-0150	0	kot	00:24:05;
+
+[PrintText]=00:24:13	Makoto	Ah... Sí.	00:27:03;
+
+[PlayVoice]=00:24:13	Voice04/04-SA/04-SA-R00/04-SA-R00-0160	1	mak	00:27:03;
+
+[CreateBG]=00:27:06	BGS	System/Screen/Black	00:28:01;
+
+[CreateBG]=00:28:01	BGS	Event04/04-SA/04-SA-R00/04-SA-R00-010	00:29:10;
+
+[PrintText]=00:28:06	Kotonoha	Makoto-kun.	00:29:05;
+
+[PlayVoice]=00:28:06	Voice04/04-SA/04-SA-R00/04-SA-R00-0180	0	kot	00:29:05;
+
+[CreateBG]=00:29:10	BGS	Event04/04-SA/04-SA-R00/04-SA-R00-011	00:33:00;
+
+[PrintText]=00:29:15	Makoto	¿Hmn?^	00:30:11;
+
+[PlayVoice]=00:29:15	Voice04/04-SA/04-SA-R00/04-SA-R00-0190	1	mak	00:30:11;
+
+[PrintText]=00:30:13	Kotonoha	Nos vemos mañana.	00:31:15;
+
+[PlayVoice]=00:30:13	Voice04/04-SA/04-SA-R00/04-SA-R00-0200	0	kot	00:31:15;
+
+[PrintText]=00:31:20	Makoto	Sí.	00:32:18;
+
+[PlayVoice]=00:31:20	Voice04/04-SA/04-SA-R00/04-SA-R00-0210	1	mak	00:32:18;
+
+[CreateBG]=00:33:00	BGS	Event04/04-SA/04-SA-R00/04-SA-R00-010	00:34:17;
+
+[PrintText]=00:33:08	Kotonoha	Mañana...	00:34:05;
+
+[PlayVoice]=00:33:08	Voice04/04-SA/04-SA-R00/04-SA-R00-0230	0	kot	00:34:05;
+
+ ;
+
+[Next]=00:34:17;
+
+

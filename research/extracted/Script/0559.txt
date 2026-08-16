@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:05:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:11:11;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-G04/SE03-KA-G04-001	00:11:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-G04/03-KA-G04-001	00:02:02;
+
+[PrintText]=00:00:00	Setsuna	¿Katsura-san?^	00:01:04;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-G04/03-KA-G04-0030	0	set	00:01:04;
+
+[PrintText]=00:01:04	Makoto	¿Eh...?^	00:01:18;
+
+[PlayVoice]=00:01:04	Voice03/03-KA/03-KA-G04/03-KA-G04-0040	1	mak	00:01:18;
+
+[CreateBG]=00:02:02	BGS	Event03/03-KA/03-KA-G04/03-KA-G04-002A	00:11:11;
+
+[PrintText]=00:02:05	Setsuna	La persona con quién hiciste planes.	00:03:20;
+
+[PlayVoice]=00:02:05	Voice03/03-KA/03-KA-G04/03-KA-G04-0050	0	set	00:03:20;
+
+[PrintText]=00:03:23	Makoto	Um...	00:05:17;
+
+[PlayVoice]=00:03:23	Voice03/03-KA/03-KA-G04/03-KA-G04-0060	1	mak	00:05:17;
+
+[SetSELECT]=00:05:04	'No'	null	00:10:04;
+
+ ;
+
+[Next]=00:11:11;
+
+

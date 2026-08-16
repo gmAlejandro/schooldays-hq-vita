@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:24:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:24:04;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-O02/04-SA-O02-001	00:09:05;
+
+[PrintText]=00:00:00	Makoto	Es muy interesante.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-O02/04-SA-O02-0030	1	mak	00:01:14;
+
+[PrintText]=00:01:14	Sekai	Ella es muy ruda y tonta.	00:03:23;
+
+[PlayVoice]=00:01:14	Voice04/04-SA/04-SA-O02/04-SA-O02-0040	0	sek	00:03:23;
+
+[PrintText]=00:03:23	Makoto	Apuesto a que es por eso por la que eres una gran persona.	00:09:12;
+
+[PlayVoice]=00:03:23	Voice04/04-SA/04-SA-O02/04-SA-O02-0050	1	mak	00:09:12;
+
+[CreateBG]=00:09:05	BGS	Event04/04-SA/04-SA-O02/04-SA-O02-002	00:11:13;
+
+[PrintText]=00:09:05	Sekai	¿Qué quieres decir con, gran persona?^	00:11:14;
+
+[PlayVoice]=00:09:05	Voice04/04-SA/04-SA-O02/04-SA-O02-0060	0	sek	00:11:14;
+
+[CreateBG]=00:11:13	BGS	Event04/04-SA/04-SA-O02/04-SA-O02-003	00:22:08;
+
+[PrintText]=00:11:13	Makoto	Eres muy animada y divertida... y quieres hacer a todos felices, pero cuando se trata de ti, sueles vacilar.	00:22:02;
+
+[PlayVoice]=00:11:13	Voice04/04-SA/04-SA-O02/04-SA-O02-0070	1	mak	00:22:02;
+
+[CreateBG]=00:22:08	BGS	Event04/04-SA/04-SA-O02/04-SA-O02-004	00:24:04;
+
+[PrintText]=00:22:14	Sekai	...	00:23:20;
+
+[PlayVoice]=00:22:14	Voice04/04-SA/04-SA-O02/04-SA-O02-0080	0	xxx	00:23:20;
+
+ ;
+
+[Next]=00:24:04;
+
+

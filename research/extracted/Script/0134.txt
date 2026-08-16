@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:12:08;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-S03/SE01-00-S03-001	00:12:08;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-S03/01-00-S03-001	00:03:23;
+
+[PrintText]=00:00:00	Makoto	¡Mmn... No creo que deb... ah!	00:05:07;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-S03/01-00-S03-0030	1	mak	00:05:07;
+
+[CreateBG]=00:03:23	BGS	Event01/01-00/01-00-S03/01-00-S03-002	00:12:08;
+
+[PrintText]=00:06:00	Sekai	Zzz... Zzz...	00:06:18;
+
+[PlayVoice]=00:06:00	Voice01/01-00/01-00-S03/01-00-S03-0050	0	sek	00:06:18;
+
+[PrintText]=00:07:19	Makoto	...Y ya se durmió.	00:11:02;
+
+[PlayVoice]=00:07:19	Voice01/01-00/01-00-S03/01-00-S03-0060	1	mak	00:11:02;
+
+[BlackFade]=00:11:08	OUT	00:12:08;
+
+ ;
+
+[Next]=00:12:08;
+
+
+
+

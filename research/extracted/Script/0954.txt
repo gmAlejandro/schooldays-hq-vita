@@ -1,0 +1,211 @@
+﻿[SkipFRAME]=02:12:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:22:14;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/h/h_03	00:21:17;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-001	00:01:06;
+
+[PrintText]=00:00:00	Kotonoha	¡Ah... aah! ¡Ahh...!	00:06:00;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-I01/04-KA-I01-0040	0	kot	00:06:00;
+
+[CreateBG]=00:01:06	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-002	00:02:08;
+
+[PlayMovie]=00:02:08	Movie04/04-KA/04-KA-I01/04-KA-I01-003	0	00:12:12;
+
+[PlaySe]=00:05:14	1	Voice04/04-KA/04-KA-I01/04-KA-I01-0040	00:11:15;
+
+[PrintText]=00:05:23	Makoto	¡Haah... haah...!	00:10:21;
+
+[PlayVoice]=00:05:23	Voice04/04-KA/04-KA-I01/04-KA-I01-0050	1	mak	00:10:21;
+
+[PrintText]=00:12:09	Kotonoha	¡Makoto-kun! ¡Ah... aah... haah!	00:19:20;
+
+[PlayVoice]=00:12:09	Voice04/04-KA/04-KA-I01/04-KA-I01-0060	0	kot	00:19:20;
+
+[PlayMovie]=00:12:12	Movie04/04-KA/04-KA-I01/04-KA-I01-004	0	00:20:12;
+
+[PlaySe]=00:13:20	1	Voice04/04-KA/04-KA-I01/04-KA-I01-0050	00:18:18;
+
+[CreateBG]=00:20:12	BGS	System/Screen/Black	00:23:12;
+
+[PlayMovie]=00:23:12	Movie04/04-KA/04-KA-I01/04-KA-I01-005	0	00:26:23;
+
+[PlayBgm]=00:26:23	BGM/SD_BGM/sdbgm08	02:18:19;
+
+[CreateBG]=00:26:23	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-014	00:28:18;
+
+[CreateBG]=00:28:18	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-007	00:37:00;
+
+[PrintText]=00:28:19	Kotonoha	Nos hemos saltado la escuela, ¿No?^	00:31:13;
+
+[PlayVoice]=00:28:19	Voice04/04-KA/04-KA-I01/04-KA-I01-0100	0	kot	00:31:13;
+
+[PrintText]=00:31:13	Makoto	... Sí.	00:32:09;
+
+[PlayVoice]=00:31:13	Voice04/04-KA/04-KA-I01/04-KA-I01-0110	1	mak	00:32:09;
+
+[PrintText]=00:32:16	Kotonoha	Pero me estoy divirtiendo.	00:35:04;
+
+[PlayVoice]=00:32:16	Voice04/04-KA/04-KA-I01/04-KA-I01-0120	0	kot	00:35:04;
+
+[PrintText]=00:35:12	Makoto	...	00:36:20;
+
+[PlayVoice]=00:35:12	Voice04/04-KA/04-KA-I01/04-KA-I01-0130	1	xxx	00:36:20;
+
+[CreateBG]=00:37:00	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-008	00:41:17;
+
+[PrintText]=00:37:05	Kotonoha	¿También te diviertes? Después de todo, lo hemos hecho muchas veces...	00:41:21;
+
+[PlayVoice]=00:37:05	Voice04/04-KA/04-KA-I01/04-KA-I01-0140	0	kot	00:41:21;
+
+[CreateBG]=00:41:17	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-009	00:50:08;
+
+[PrintText]=00:41:17	Makoto	Yo...	00:42:18;
+
+[PlayVoice]=00:41:17	Voice04/04-KA/04-KA-I01/04-KA-I01-0160	1	mak	00:42:18;
+
+[PrintText]=00:42:14	Kotonoha	Tienes sed, ¿verdad? Voy a traerte un poco de té ...	00:46:04;
+
+[PlayVoice]=00:42:14	Voice04/04-KA/04-KA-I01/04-KA-I01-0170	0	kot	00:46:04;
+
+[PlaySe]=00:45:20	1	Se04/04-KA/04-KA-I01/SE04-KA-I01-002	00:48:10;
+
+[PlaySe]=00:48:08	2	Se04/04-KA/04-KA-I01/SE04-KA-I01-001	00:50:05;
+
+[CreateBG]=00:50:08	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-010	01:21:03;
+
+[PrintText]=00:51:03	Kotonoha	¡Ah, Mamá!	00:53:10;
+
+[PlayVoice]=00:51:03	Voice04/04-KA/04-KA-I01/04-KA-I01-0190	0	kot	00:53:10;
+
+[PrintText]=00:52:23	Madre de Kotonoha	¿Tenemos un invitado?^	00:54:00;
+
+[PlayVoice]=00:52:23	Voice04/04-KA/04-KA-I01/04-KA-I01-0200	0	man	00:54:00;
+
+[PrintText]=00:54:05	Kotonoha	S-Sí ... Más o menos.	00:57:06;
+
+[PlayVoice]=00:54:05	Voice04/04-KA/04-KA-I01/04-KA-I01-0210	0	kot	00:57:06;
+
+[PrintText]=00:57:03	Madre de Kotonoha	¿Un amigo tuyo?^	00:58:06;
+
+[PlayVoice]=00:57:03	Voice04/04-KA/04-KA-I01/04-KA-I01-0220	0	man	00:58:06;
+
+[PrintText]=00:58:05	Kotonoha	Sí.	00:59:08;
+
+[PlayVoice]=00:58:05	Voice04/04-KA/04-KA-I01/04-KA-I01-0230	0	kot	00:59:08;
+
+[PrintText]=00:59:08	Madre de Kotonoha	¿Es tu Novio?^	01:00:18;
+
+[PlayVoice]=00:59:08	Voice04/04-KA/04-KA-I01/04-KA-I01-0240	0	man	01:00:18;
+
+[PrintText]=01:00:18	Kotonoha	N-no... No lo es... es una amiga de clase... una chica.	01:08:21;
+
+[PlayVoice]=01:00:18	Voice04/04-KA/04-KA-I01/04-KA-I01-0250	0	kot	01:08:21;
+
+[PrintText]=01:08:16	Madre de Kotonoha	Esos eran los zapatos de un chico que vi en el pasillo.	01:12:06;
+
+[PlayVoice]=01:08:16	Voice04/04-KA/04-KA-I01/04-KA-I01-0260	0	man	01:12:06;
+
+[PrintText]=01:12:04	Kotonoha	Uuu...	01:14:02;
+
+[PlayVoice]=01:12:04	Voice04/04-KA/04-KA-I01/04-KA-I01-0270	0	kot	01:14:02;
+
+[PrintText]=01:14:04	Madre de Kotonoha	Ufufu ... ¿He interrumpido algo por regresar temprano?^	01:18:16;
+
+[PlayVoice]=01:14:04	Voice04/04-KA/04-KA-I01/04-KA-I01-0280	0	man	01:18:16;
+
+[PrintText]=01:18:18	Kotonoha	...Estás siendo molesta, Mamá.	01:20:23;
+
+[PlayVoice]=01:18:18	Voice04/04-KA/04-KA-I01/04-KA-I01-0290	0	kot	01:20:23;
+
+[PrintText]=01:20:00	Madre de Kotonoha	Ufufu... Su nombre es 'Makoto', ¿No?^	01:23:21;
+
+[PlayVoice]=01:20:00	Voice04/04-KA/04-KA-I01/04-KA-I01-0300	0	man	01:23:21;
+
+[CreateBG]=01:21:03	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-011	01:53:18;
+
+[PrintText]=01:23:21	Kotonoha	Uh-huh.	01:24:16;
+
+[PlayVoice]=01:23:21	Voice04/04-KA/04-KA-I01/04-KA-I01-0310	0	kot	01:24:16;
+
+[PrintText]=01:24:23	Madre de Kotonoha	Se quedará a comer, ¿verdad?^	01:26:15;
+
+[PlayVoice]=01:24:23	Voice04/04-KA/04-KA-I01/04-KA-I01-0320	0	man	01:26:15;
+
+[PrintText]=01:26:10	Kotonoha	¿Eh...?^	01:27:05;
+
+[PlayVoice]=01:26:10	Voice04/04-KA/04-KA-I01/04-KA-I01-0330	0	kot	01:27:05;
+
+[PrintText]=01:27:12	Madre de Kotonoha	Dile que se quede a comer con nosotros. he ordenado sushi.	01:31:08;
+
+[PlayVoice]=01:27:12	Voice04/04-KA/04-KA-I01/04-KA-I01-0340	0	man	01:31:08;
+
+[PrintText]=01:31:07	Kotonoha	No tenías por qué.	01:33:00;
+
+[PlayVoice]=01:31:07	Voice04/04-KA/04-KA-I01/04-KA-I01-0350	0	kot	01:33:00;
+
+[PrintText]=01:32:12	Madre de Kotonoha	Es Abe Sushi de la segunda avenida, por lo que estarán aquí pronto.	01:37:14;
+
+[PlayVoice]=01:32:12	Voice04/04-KA/04-KA-I01/04-KA-I01-0360	0	man	01:37:14;
+
+[PrintText]=01:37:12	Kotonoha	Vale.	01:38:17;
+
+[PlayVoice]=01:37:12	Voice04/04-KA/04-KA-I01/04-KA-I01-0370	0	kot	01:38:17;
+
+[PrintText]=01:38:17	Madre de Kotonoha	Ah... pero puedo esperar el tiempo suficiente para que usted pueda besarlo.	01:44:13;
+
+[PlayVoice]=01:38:17	Voice04/04-KA/04-KA-I01/04-KA-I01-0380	0	man	01:44:13;
+
+[PrintText]=01:44:08	Kotonoha	¡Mamá!	01:45:19;
+
+[PlayVoice]=01:44:08	Voice04/04-KA/04-KA-I01/04-KA-I01-0390	0	kot	01:45:19;
+
+[PrintText]=01:45:14	Madre de Kotonoha	Ufufu... asegurate de hacerlo sentir bien cuando esté aquí abajo.	01:49:12;
+
+[PlayVoice]=01:45:14	Voice04/04-KA/04-KA-I01/04-KA-I01-0400	0	man	01:49:12;
+
+[PrintText]=01:50:01	Makoto	...	01:51:00;
+
+[PlayVoice]=01:50:01	Voice04/04-KA/04-KA-I01/04-KA-I01-0420	1	xxx	01:51:00;
+
+[PlaySe]=01:51:21	1	Se04/04-KA/04-KA-I01/SE04-KA-I01-001	01:53:18;
+
+[CreateBG]=01:53:18	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-012	02:02:17;
+
+[PrintText]=01:53:22	Kotonoha	¿...Escuchaste todo?^	01:56:18;
+
+[PlayVoice]=01:53:22	Voice04/04-KA/04-KA-I01/04-KA-I01-0440	0	kot	01:56:18;
+
+[PrintText]=01:56:14	Makoto	Sí, Esa fue tu madre, ¿No?^	02:01:08;
+
+[PlayVoice]=01:56:14	Voice04/04-KA/04-KA-I01/04-KA-I01-0450	1	mak	02:01:08;
+
+[PrintText]=02:01:07	Kotonoha	Sí...	02:02:12;
+
+[PlayVoice]=02:01:07	Voice04/04-KA/04-KA-I01/04-KA-I01-0460	0	kot	02:02:12;
+
+[CreateBG]=02:02:17	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-013	02:07:00;
+
+[PrintText]=02:02:23	Makoto	Haha... estaba un poco sorprendido.	02:06:20;
+
+[PlayVoice]=02:02:23	Voice04/04-KA/04-KA-I01/04-KA-I01-0470	1	mak	02:06:20;
+
+[CreateBG]=02:07:00	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-014	02:18:19;
+
+[PrintText]=02:07:02	Kotonoha	Lo siento. Parece que regresó mas temprano...	02:11:20;
+
+[PlayVoice]=02:07:02	Voice04/04-KA/04-KA-I01/04-KA-I01-0480	0	kot	02:11:20;
+
+[PrintText]=02:11:15	Makoto	Está bien, pero...	02:13:12;
+
+[PlayVoice]=02:11:15	Voice04/04-KA/04-KA-I01/04-KA-I01-0490	1	mak	02:13:12;
+
+[SetSELECT]=02:12:18	'Ella piensa que soy tu novio'	'Eres muy diferente en tu casa'	02:17:18;
+
+ ;
+
+[Next]=02:18:19;
+
+

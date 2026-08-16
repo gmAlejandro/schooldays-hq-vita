@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:09:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:09:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-B02/05-SD-B02-001	00:03:04;
+
+[CreateBG]=00:03:04	BGS	Event05/05-SD/05-SD-B02/05-SD-B02-002	00:06:01;
+
+[PrintText]=00:04:04	Sekai	Haah...	00:04:23;
+
+[PlayVoice]=00:04:04	Voice05/05-SD/05-SD-B02/05-SD-B02-0060	0	sek	00:04:23;
+
+[CreateBG]=00:06:01	BGS	Event05/05-SD/05-SD-B02/05-SD-B02-003	00:09:00;
+
+[PrintText]=00:06:11	Sekai	...	00:08:14;
+
+[PlayVoice]=00:06:11	Voice05/05-SD/05-SD-B02/05-SD-B02-0040	0	xxx	00:08:14;
+
+ ;
+
+[Next]=00:09:00;
+
+
+
+

@@ -1,0 +1,126 @@
+﻿[SkipFRAME]=00:58:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm33	00:58:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/door/door_mansyon	00:05:04;
+
+[PlaySe]=00:00:00	4	SysSe/SE_all/gaya/okujou	00:58:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-L01/05-KB-L01-001	00:07:17;
+
+[PrintText]=00:04:16	Makoto	¡Kotonoha!	00:06:14;
+
+[PlayVoice]=00:04:16	Voice05/05-KB/05-KB-L01/05-KB-L01-0030	1	mak	00:06:14;
+
+[PrintText]=00:06:14	Kotonoha	Sí.	00:07:16;
+
+[PlayVoice]=00:06:14	Voice05/05-KB/05-KB-L01/05-KB-L01-0040	0	kot	00:07:16;
+
+[PrintText]=00:07:16	Makoto	...Traje algo de la panadería.	00:09:22;
+
+[PlayVoice]=00:07:16	Voice05/05-KB/05-KB-L01/05-KB-L01-0070	1	mak	00:09:22;
+
+[CreateBG]=00:07:17	BGS	Event05/05-KB/05-KB-L01/05-KB-L01-004	00:09:23;
+
+[PrintText]=00:09:22	Kotonoha	Entonces pondré el té.	00:12:02;
+
+[PlayVoice]=00:09:22	Voice05/05-KB/05-KB-L01/05-KB-L01-0080	0	kot	00:12:02;
+
+[CreateBG]=00:09:23	BGS	Event05/05-KB/05-KB-L01/05-KB-L01-003	00:13:17;
+
+[PrintText]=00:12:02	Makoto	Vale.	00:13:17;
+
+[PlayVoice]=00:12:02	Voice05/05-KB/05-KB-L01/05-KB-L01-0090	1	mak	00:13:17;
+
+[PlaySe]=00:12:06	1	SysSe/SE_all/school/chime	00:30:16;
+
+[CreateBG]=00:13:17	BGS	Event05/05-KB/05-KB-L01/05-KB-L01-004	00:28:07;
+
+[PrintText]=00:15:17	Kotonoha	Ah...	00:17:05;
+
+[PlayVoice]=00:15:17	Voice05/05-KB/05-KB-L01/05-KB-L01-0110	0	kot	00:17:05;
+
+[PrintText]=00:17:05	Makoto	¿Deberíamos volver?^	00:20:05;
+
+[PlayVoice]=00:17:05	Voice05/05-KB/05-KB-L01/05-KB-L01-0120	1	mak	00:20:05;
+
+[PrintText]=00:20:05	Kotonoha	...	00:22:11;
+
+[PlayVoice]=00:20:05	Voice05/05-KB/05-KB-L01/05-KB-L01-0130	0	xxx	00:22:11;
+
+[PrintText]=00:22:11	Makoto	Kotonoha.	00:24:04;
+
+[PlayVoice]=00:22:11	Voice05/05-KB/05-KB-L01/05-KB-L01-0140	1	mak	00:24:04;
+
+[PrintText]=00:24:04	Kotonoha	Yo... estaba esperando por este almuerzo...	00:28:07;
+
+[PlayVoice]=00:24:04	Voice05/05-KB/05-KB-L01/05-KB-L01-0150	0	kot	00:28:07;
+
+[CreateBG]=00:28:07	BGS	Event05/05-KB/05-KB-L01/05-KB-L01-005B	00:38:10;
+
+[PrintText]=00:28:07	Makoto	Sí, parece que nos hemos hecho tarde...	00:32:02;
+
+[PlayVoice]=00:28:07	Voice05/05-KB/05-KB-L01/05-KB-L01-0160	1	mak	00:32:02;
+
+[PrintText]=00:32:02	Kotonoha	Lo siento... todo es mi culpa...	00:36:06;
+
+[PlayVoice]=00:32:02	Voice05/05-KB/05-KB-L01/05-KB-L01-0170	0	kot	00:36:06;
+
+[PrintText]=00:36:07	Makoto	Está bien.	00:38:09;
+
+[PlayVoice]=00:36:07	Voice05/05-KB/05-KB-L01/05-KB-L01-0180	1	mak	00:38:09;
+
+[PrintText]=00:38:09	Kotonoha	¡Pero..! Te he causado problemas...	00:40:23;
+
+[PlayVoice]=00:38:09	Voice05/05-KB/05-KB-L01/05-KB-L01-0190	0	kot	00:40:23;
+
+[PlayMovie]=00:38:10	Movie05/05-KB/05-KB-L01/05-KB-L01-006	0	00:44:02;
+
+[PlaySe]=00:39:05	1	SysSe/SE_all/footsteps/asioto_okugai	00:40:18;
+
+[PlaySe]=00:39:16	3	SysSe/SE_all/h/nuno2	00:40:17;
+
+[PlaySe]=00:40:06	2	SysSe/SE_all/h/nuno1	00:41:19;
+
+[PrintText]=00:40:23	Kotonoha	Ah...	00:42:05;
+
+[PlayVoice]=00:40:23	Voice05/05-KB/05-KB-L01/05-KB-L01-0210	0	kot	00:42:05;
+
+[PrintText]=00:42:05	Makoto	Almorcemos mañana...	00:46:12;
+
+[PlayVoice]=00:42:05	Voice05/05-KB/05-KB-L01/05-KB-L01-0220	1	mak	00:46:12;
+
+[CreateBG]=00:44:02	BGS	Event05/05-KB/05-KB-L01/05-KB-L01-007A	00:56:01;
+
+[PrintText]=00:46:12	Kotonoha	¿Otra vez... mañana?^	00:48:10;
+
+[PlayVoice]=00:46:12	Voice05/05-KB/05-KB-L01/05-KB-L01-0230	0	kot	00:48:10;
+
+[PrintText]=00:48:10	Makoto	También traeré mi almuerzo, así intercambiaremos.	00:53:06;
+
+[PlayVoice]=00:48:10	Voice05/05-KB/05-KB-L01/05-KB-L01-0240	1	mak	00:53:06;
+
+[PrintText]=00:53:06	Kotonoha	Ah...	00:54:08;
+
+[PlayVoice]=00:53:06	Voice05/05-KB/05-KB-L01/05-KB-L01-0250	0	kot	00:54:08;
+
+[PrintText]=00:54:08	Makoto	¿Qué te parece?^	00:56:00;
+
+[PlayVoice]=00:54:08	Voice05/05-KB/05-KB-L01/05-KB-L01-0260	1	mak	00:56:00;
+
+[PrintText]=00:56:00	Kotonoha	¡Seguro!	00:56:23;
+
+[PlayVoice]=00:56:00	Voice05/05-KB/05-KB-L01/05-KB-L01-0270	0	kot	00:56:23;
+
+[CreateBG]=00:56:01	BGS	Event05/05-KB/05-KB-L01/05-KB-L01-008	00:58:10;
+
+[BlackFade]=00:57:10	OUT	00:58:10;
+
+ ;
+
+[Next]=00:58:10;
+
+
+
+
+

@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:13:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:13:00;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/beach1	00:13:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-H02/05-KF-H02-001	00:04:09;
+
+[PrintText]=00:00:00	Sekai	¿Qué hay de ti?^	00:01:21;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-H03/05-KF-H03-0030	0	sek	00:01:21;
+
+[PrintText]=00:01:21	Makoto	¿De mí?^	00:03:15;
+
+[PlayVoice]=00:01:21	Voice05/05-KF/05-KF-H03/05-KF-H03-0040	1	mak	00:03:15;
+
+[PrintText]=00:03:15	Sekai	Uh-huh.	00:04:08;
+
+[PlayVoice]=00:03:15	Voice05/05-KF/05-KF-H03/05-KF-H03-0050	0	sek	00:04:08;
+
+[PrintText]=00:04:08	Makoto	Bueno, se lo dije, pero...	00:09:08;
+
+[PlayVoice]=00:04:08	Voice05/05-KF/05-KF-H03/05-KF-H03-0060	1	mak	00:09:08;
+
+[PlaySe]=00:04:09	1	SysSe/SE_all/footsteps/asioto_okugai	00:13:00;
+
+[CreateBG]=00:04:09	BGS	Event05/05-KF/05-KF-H03/05-KF-H03-002	00:13:00;
+
+[PrintText]=00:09:08	Sekai	¿Te las arreglaste para decírselo?^	00:10:11;
+
+[PlayVoice]=00:09:08	Voice05/05-KF/05-KF-H03/05-KF-H03-0070	0	sek	00:10:11;
+
+[PrintText]=00:10:11	Makoto	Sí, algo así.	00:12:11;
+
+[PlayVoice]=00:10:11	Voice05/05-KF/05-KF-H03/05-KF-H03-0080	1	mak	00:12:11;
+
+ ;
+
+[Next]=00:13:00;
+
+
+
+

@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:11:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:11:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A0/03-A0-B01/03-A0-B01-001	00:05:00;
+
+[PrintText]=00:00:00	Makoto	Creo que no debí haber hecho eso hoy...	00:04:02;
+
+[PlayVoice]=00:00:00	Voice03/03-A0/03-A0-B01/03-A0-B01-0040	1	mak	00:04:02;
+
+[PlayMovie]=00:05:00	Movie03/03-A0/03-A0-B01/03-A0-B01-002	0	00:09:23;
+
+[CreateBG]=00:09:23	BGS	Event03/03-A0/03-A0-B01/03-A0-B01-003	00:11:18;
+
+[PrintText]=00:10:04	Makoto	¡Tsk!	00:11:03;
+
+[PlayVoice]=00:10:04	Voice03/03-A0/03-A0-B01/03-A0-B01-0080	1	mak	00:11:03;
+
+ ;
+
+[Next]=00:11:18;
+
+

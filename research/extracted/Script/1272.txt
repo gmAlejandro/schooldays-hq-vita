@@ -1,0 +1,119 @@
+﻿[SkipFRAME]=00:54:16;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:54:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-001	00:01:12;
+
+[CreateBG]=00:01:12	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-002	00:02:23;
+
+[PlayBgm]=00:01:14	BGM/SD_BGM/sdbgm21	00:54:16;
+
+[PrintText]=00:01:14	Makoto	Kotonoha...	00:02:23;
+
+[PlayVoice]=00:01:14	Voice04/04-SE/04-SE-F00/04-SE-F00-0040	1	mak	00:02:23;
+
+[PrintText]=00:02:22	Kotonoha	Ah.	00:03:20;
+
+[PlayVoice]=00:02:22	Voice04/04-SE/04-SE-F00/04-SE-F00-0060	0	kot	00:03:20;
+
+[CreateBG]=00:02:23	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-003	00:03:21;
+
+[PrintText]=00:03:20	Kotonoha	Um... ¿Podemos hablar?^	00:08:06;
+
+[PlayVoice]=00:03:20	Voice04/04-SE/04-SE-F00/04-SE-F00-0080	0	kot	00:08:06;
+
+[CreateBG]=00:03:21	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-003B	00:05:09;
+
+[CreateBG]=00:05:09	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-004	00:11:15;
+
+[PrintText]=00:08:06	Makoto	Kotonoha... Yo ahora...	00:11:16;
+
+[PlayVoice]=00:08:06	Voice04/04-SE/04-SE-F00/04-SE-F00-0090	1	mak	00:11:16;
+
+[CreateBG]=00:11:15	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-005	00:19:10;
+
+[PrintText]=00:11:15	Kotonoha	No, no contigo.	00:14:04;
+
+[PlayVoice]=00:11:15	Voice04/04-SE/04-SE-F00/04-SE-F00-0100	0	kot	00:14:04;
+
+[PrintText]=00:14:05	Makoto	¿Eh?^	00:14:22;
+
+[PlayVoice]=00:14:05	Voice04/04-SE/04-SE-F00/04-SE-F00-0110	1	mak	00:14:22;
+
+[PrintText]=00:14:23	Kotonoha	Quiero hablar con Saionji-san.	00:17:20;
+
+[PlayVoice]=00:14:23	Voice04/04-SE/04-SE-F00/04-SE-F00-0120	0	kot	00:17:20;
+
+[PrintText]=00:17:19	Sekai	¿Conmigo..?^	00:18:18;
+
+[PlayVoice]=00:17:19	Voice04/04-SE/04-SE-F00/04-SE-F00-0130	0	sek	00:18:18;
+
+[PrintText]=00:18:18	Kotonoha	Sí.	00:19:11;
+
+[PlayVoice]=00:18:18	Voice04/04-SE/04-SE-F00/04-SE-F00-0140	0	kot	00:19:11;
+
+[CreateBG]=00:19:10	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-006	00:34:15;
+
+[PrintText]=00:19:12	Makoto	Espera, ¿No soy yo con quien quieres hablar?^	00:22:23;
+
+[PlayVoice]=00:19:12	Voice04/04-SE/04-SE-F00/04-SE-F00-0150	1	mak	00:22:23;
+
+[PrintText]=00:22:22	Kotonoha	Es verdad que quiero hablar contigo... pero primero quiero hablar a solas con Saionji-san.	00:30:20;
+
+[PlayVoice]=00:22:22	Voice04/04-SE/04-SE-F00/04-SE-F00-0160	0	kot	00:30:20;
+
+[PrintText]=00:30:20	Makoto	Eso es algo...	00:32:15;
+
+[PlayVoice]=00:30:20	Voice04/04-SE/04-SE-F00/04-SE-F00-0170	1	mak	00:32:15;
+
+[PrintText]=00:32:15	Kotonoha	¿Puedo?^	00:33:15;
+
+[PlayVoice]=00:32:15	Voice04/04-SE/04-SE-F00/04-SE-F00-0180	0	kot	00:33:15;
+
+[PrintText]=00:33:15	Sekai	Está bien.	00:34:15;
+
+[PlayVoice]=00:33:15	Voice04/04-SE/04-SE-F00/04-SE-F00-0190	0	sek	00:34:15;
+
+[CreateBG]=00:34:15	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-007	00:35:14;
+
+[PrintText]=00:34:15	Makoto	Sekai...	00:35:14;
+
+[PlayVoice]=00:34:15	Voice04/04-SE/04-SE-F00/04-SE-F00-0200	1	mak	00:35:14;
+
+[CreateBG]=00:35:14	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-007B	00:37:16;
+
+[PrintText]=00:35:14	Sekai	Lo siento.	00:36:11;
+
+[PlayVoice]=00:35:14	Voice04/04-SE/04-SE-F00/04-SE-F00-0210	0	sek	00:36:11;
+
+[PrintText]=00:36:11	Makoto	No hay problema... ¿Pero estarás bien?^	00:39:23;
+
+[PlayVoice]=00:36:11	Voice04/04-SE/04-SE-F00/04-SE-F00-0220	1	mak	00:39:23;
+
+[CreateBG]=00:37:16	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-008	00:39:23;
+
+[PrintText]=00:39:22	Sekai	Todo esto empezó por mí, creo que soy la indicada ahora.	00:48:12;
+
+[PlayVoice]=00:39:22	Voice04/04-SE/04-SE-F00/04-SE-F00-0230	0	sek	00:48:12;
+
+[CreateBG]=00:39:23	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-009	00:49:16;
+
+[PrintText]=00:48:12	Makoto	Ya veo...	00:49:17;
+
+[PlayVoice]=00:48:12	Voice04/04-SE/04-SE-F00/04-SE-F00-0240	1	mak	00:49:17;
+
+[CreateBG]=00:49:16	BGS	Event04/04-SE/04-SE-F00/04-SE-F00-010	00:54:16;
+
+[PrintText]=00:49:17	Sekai	No te preocupes, te llamaré cuando este en casa.	00:53:04;
+
+[PlayVoice]=00:49:17	Voice04/04-SE/04-SE-F00/04-SE-F00-0250	0	sek	00:53:04;
+
+[PrintText]=00:53:03	Makoto	Vale.	00:53:19;
+
+[PlayVoice]=00:53:03	Voice04/04-SE/04-SE-F00/04-SE-F00-0260	1	mak	00:53:19;
+
+ ;
+
+[Next]=00:54:16;
+
+

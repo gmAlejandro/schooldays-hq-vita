@@ -1,0 +1,499 @@
+﻿[SkipFRAME]=04:36:14;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-G00/SE04-KA-G00-001	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-001	00:06:16;
+
+[PrintText]=00:00:00	Makoto	Sí.	00:00:19;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-G00/04-KA-G00-0030	1	mak	00:00:19;
+
+[PrintText]=00:00:18	Taisuke	Vale, se lo haré saber a Kiyoura.	00:03:20;
+
+[PlayVoice]=00:00:18	Voice04/04-KA/04-KA-G00/04-KA-G00-0040	1	tai	00:03:20;
+
+[PrintText]=00:03:19	Makoto	Sí... Gracias.	00:05:13;
+
+[PlayVoice]=00:03:19	Voice04/04-KA/04-KA-G00/04-KA-G00-0050	1	mak	00:05:13;
+
+[BlackFade]=00:05:16	OUT	00:06:16;
+
+[CreateBG]=00:06:16	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-002	00:08:01;
+
+[CreateBG]=00:08:01	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-003	00:08:23;
+
+[PrintText]=00:08:04	Makoto	Espera, ¿La fiesta es en nuestro salón?^	00:11:05;
+
+[PlayVoice]=00:08:04	Voice04/04-KA/04-KA-G00/04-KA-G00-0100	1	mak	00:11:05;
+
+[CreateBG]=00:08:23	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-004	00:20:01;
+
+[PrintText]=00:11:01	Setsuna	Después de todo, es nuestra mejor opción.	00:14:05;
+
+[PlayVoice]=00:11:01	Voice04/04-KA/04-KA-G00/04-KA-G00-0110	0	set	00:14:05;
+
+[PrintText]=00:14:01	Makoto	¡Viste lo ocupado que estábamos! ¿Estás diciendo que no lo tomemos?^	00:17:10;
+
+[PlayVoice]=00:14:01	Voice04/04-KA/04-KA-G00/04-KA-G00-0120	1	mak	00:17:10;
+
+[PrintText]=00:17:08	Setsuna	Gastamos demasiado en la torta y el té.	00:19:23;
+
+[PlayVoice]=00:17:08	Voice04/04-KA/04-KA-G00/04-KA-G00-0130	0	set	00:19:23;
+
+[CreateBG]=00:20:01	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-005	00:33:02;
+
+[PrintText]=00:20:02	Hikari	Bueno, queríamos tener un sabroso pastel.	00:24:06;
+
+[PlayVoice]=00:20:02	Voice04/04-KA/04-KA-G00/04-KA-G00-0140	0	hik	00:24:06;
+
+[PrintText]=00:24:03	Makoto	¿Qué tipo de pastel tienen?^	00:26:16;
+
+[PlayVoice]=00:24:03	Voice04/04-KA/04-KA-G00/04-KA-G00-0150	1	mak	00:26:16;
+
+[PrintText]=00:26:14	Setsuna	Hemos hecho un pastel de primera calidad con el tipo de ingredientes que incluso en la tienda de Hikari utilizamos raramente.	00:33:03;
+
+[PlayVoice]=00:26:14	Voice04/04-KA/04-KA-G00/04-KA-G00-0160	0	set	00:33:03;
+
+[CreateBG]=00:33:02	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-006	00:44:13;
+
+[PrintText]=00:33:02	Taisuke	... Parece que nos cuesta 380 por cada 400 yenes.	00:38:07;
+
+[PlayVoice]=00:33:02	Voice04/04-KA/04-KA-G00/04-KA-G00-0170	1	tai	00:38:07;
+
+[PrintText]=00:38:06	Makoto	Geh ... ¿Quieres decir que nuestro beneficio es solo 20 yenes por pastel?^	00:42:02;
+
+[PlayVoice]=00:38:06	Voice04/04-KA/04-KA-G00/04-KA-G00-0180	1	mak	00:42:02;
+
+[PrintText]=00:42:00	Setsuna	Sip.	00:42:17;
+
+[PlayVoice]=00:42:00	Voice04/04-KA/04-KA-G00/04-KA-G00-0190	0	set	00:42:17;
+
+[PrintText]=00:43:03	Makoto	...	00:44:08;
+
+[PlayVoice]=00:43:03	Voice04/04-KA/04-KA-G00/04-KA-G00-0200	1	xxx	00:44:08;
+
+[CreateBG]=00:44:13	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-007	00:55:00;
+
+[PrintText]=00:44:19	Hikari	¡Y eso sin contar a los otros! ¡Ustedes son tan codiciosos!	00:49:13;
+
+[PlayVoice]=00:44:19	Voice04/04-KA/04-KA-G00/04-KA-G00-0210	0	hik	00:49:13;
+
+[PrintText]=00:49:07	Makoto	...Eso es cierto. Yo tuve dos. Por el precio, no es de extrañar que sabía muy bien.	01:00:22;
+
+[PlayVoice]=00:49:07	Voice04/04-KA/04-KA-G00/04-KA-G00-0220	1	mak	01:00:22;
+
+[CreateBG]=00:55:00	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-008	01:03:00;
+
+[PrintText]=01:00:10	Hikari	¿También comiste? ¡Argh!	01:03:07;
+
+[PlayVoice]=01:00:10	Voice04/04-KA/04-KA-G00/04-KA-G00-0230	0	hik	01:03:07;
+
+[CreateBG]=01:03:00	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-009	01:16:15;
+
+[PrintText]=01:03:00	Makoto	Haah... Bueno, este tipo de fiesta no es tan malo de vez en cuando.	01:09:03;
+
+[PlayVoice]=01:03:00	Voice04/04-KA/04-KA-G00/04-KA-G00-0240	1	mak	01:09:03;
+
+[PrintText]=01:08:22	Hikari	Mmm. Te tomó bastante tiempo para entender.	01:11:05;
+
+[PlayVoice]=01:08:22	Voice04/04-KA/04-KA-G00/04-KA-G00-0250	0	hik	01:11:05;
+
+[PrintText]=01:11:06	Setsuna	¡Muy bien, buen trabajo, todo el mundo. Salud!	01:16:12;
+
+[PlayVoice]=01:11:06	Voice04/04-KA/04-KA-G00/04-KA-G00-0260	0	set	01:16:12;
+
+[WhiteFade]=01:16:03	OUT	01:16:15;
+
+[PlayMovie]=01:16:15	Movie04/04-KA/04-KA-G00/04-KA-G00-010	0	01:19:17;
+
+[WhiteFade]=01:16:15	IN	01:17:03;
+
+[PlayVoice]=01:16:17	Voice04/04-KA/04-KA-G00/04-KA-G00-0270C	0	x02	01:18:18;
+
+[PrintText]=01:16:18	All	¡Salud!	01:18:04;
+
+[PlayVoice]=01:16:18	Voice04/04-KA/04-KA-G00/04-KA-G00-0270B	0	x02	01:17:23;
+
+[PlayVoice]=01:16:18	Voice04/04-KA/04-KA-G00/04-KA-G00-0270A	0	x02	01:18:04;
+
+[WhiteFade]=01:19:11	OUT	01:19:17;
+
+[PlayMovie]=01:19:17	Movie04/04-KA/04-KA-G00/04-KA-G00-011	0	01:34:14;
+
+[PrintText]=01:19:17	Hikari	¡Fwaah!	01:21:05;
+
+[PlayVoice]=01:19:17	Voice04/04-KA/04-KA-G00/04-KA-G00-0280	0	hik	01:21:05;
+
+[WhiteFade]=01:19:17	IN	01:19:23;
+
+[PlayBgm]=01:19:18	BGM/SD_BGM/sdbgm16	04:42:18;
+
+[PrintText]=01:20:22	Taisuke	¡Hey, veo que puedes mantener tu bebida.Toma otra! ¡Otra!	01:26:11;
+
+[PlayVoice]=01:20:22	Voice04/04-KA/04-KA-G00/04-KA-G00-0290	1	tai	01:26:11;
+
+[PrintText]=01:25:11	Hikari	Gracias.	01:27:03;
+
+[PlayVoice]=01:25:11	Voice04/04-KA/04-KA-G00/04-KA-G00-0300	0	hik	01:27:03;
+
+[PrintText]=01:27:04	Hikari	¡Glug glug... fwah! ¡Una más!	01:32:05;
+
+[PlayVoice]=01:27:04	Voice04/04-KA/04-KA-G00/04-KA-G00-0320	0	hik	01:32:05;
+
+[PrintText]=01:31:23	Taisuke	¡Como ordene!	01:34:08;
+
+[PlayVoice]=01:31:23	Voice04/04-KA/04-KA-G00/04-KA-G00-0330	1	tai	01:34:08;
+
+[CreateBG]=01:34:14	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-014	01:48:09;
+
+[PrintText]=01:34:21	Hikari	Ahora que lo pienso de ella, Nanami no está aquí. ¿Mañana no se supone que es partido de baloncesto?^	01:40:03;
+
+[PlayVoice]=01:34:21	Voice04/04-KA/04-KA-G00/04-KA-G00-0340	0	hik	01:40:03;
+
+[PrintText]=01:40:03	Setsuna	Lo arreglaron para hoy.	01:42:02;
+
+[PlayVoice]=01:40:03	Voice04/04-KA/04-KA-G00/04-KA-G00-0350	0	set	01:42:02;
+
+[PrintText]=01:42:04	Hikari	Ya veo... whoa, es suficiente.	01:48:10;
+
+[PlayVoice]=01:42:04	Voice04/04-KA/04-KA-G00/04-KA-G00-0360	0	hik	01:48:10;
+
+[CreateBG]=01:48:09	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-014A	01:50:12;
+
+[PrintText]=01:48:09	Taisuke	¿Qué hay de tu novia, Makoto?^	01:50:04;
+
+[PlayVoice]=01:48:09	Voice04/04-KA/04-KA-G00/04-KA-G00-0370	1	tai	01:50:04;
+
+[PrintText]=01:49:18	Makoto	¡Pfft!	01:50:12;
+
+[PlayVoice]=01:49:18	Voice04/04-KA/04-KA-G00/04-KA-G00-0380	1	mak	01:50:12;
+
+[CreateBG]=01:50:12	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-014B	01:52:07;
+
+[PrintText]=01:50:12	Makoto	Espera... ¿Novia?^	01:52:17;
+
+[PlayVoice]=01:50:12	Voice04/04-KA/04-KA-G00/04-KA-G00-0400	1	mak	01:52:17;
+
+[CreateBG]=01:52:07	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-015	01:57:00;
+
+[PrintText]=01:52:07	Hikari	Sekai dijo que no, cuando se enteró que Itou iba a ir.	01:56:09;
+
+[PlayVoice]=01:52:07	Voice04/04-KA/04-KA-G00/04-KA-G00-0420	0	hik	01:56:09;
+
+[PrintText]=01:56:05	Makoto	Geh...	01:56:20;
+
+[PlayVoice]=01:56:05	Voice04/04-KA/04-KA-G00/04-KA-G00-0430	1	mak	01:56:20;
+
+[PlayMovie]=01:57:00	Movie04/04-KA/04-KA-G00/04-KA-G00-016	0	02:05:15;
+
+[PrintText]=01:57:03	Setsuna	¿Están peleados?^	01:58:03;
+
+[PlayVoice]=01:57:03	Voice04/04-KA/04-KA-G00/04-KA-G00-0440	0	set	01:58:03;
+
+[PrintText]=01:58:02	Makoto	Uh... Bueno, sí.	02:00:14;
+
+[PlayVoice]=01:58:02	Voice04/04-KA/04-KA-G00/04-KA-G00-0450	1	mak	02:00:14;
+
+[PlaySe]=01:58:21	2	Se04/04-KA/04-KA-G00/SE04-KA-G00-001	03:58:02;
+
+[PrintText]=02:00:17	Setsuna	Ya veo.	02:05:13;
+
+[PlayVoice]=02:00:17	Voice04/04-KA/04-KA-G00/04-KA-G00-0460	0	set	02:05:13;
+
+[CreateBG]=02:05:15	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-017	02:11:00;
+
+[PrintText]=02:05:17	Makoto	Bueno, sin que ella esté por aquí, al menos puedo relajarme.	02:09:14;
+
+[PlayVoice]=02:05:17	Voice04/04-KA/04-KA-G00/04-KA-G00-0480	1	mak	02:09:14;
+
+[PrintText]=02:09:16	Setsuna	En ese caso...	02:10:09;
+
+[PlayVoice]=02:09:16	Voice04/04-KA/04-KA-G00/04-KA-G00-0490	0	set	02:10:09;
+
+[PrintText]=02:10:08	Makoto	¿Huh?^	02:10:22;
+
+[PlayVoice]=02:10:08	Voice04/04-KA/04-KA-G00/04-KA-G00-0500	1	mak	02:10:22;
+
+[CreateBG]=02:11:00	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-018	02:18:05;
+
+[PrintText]=02:11:02	Setsuna	Cuidaré de ti.	02:12:02;
+
+[PlayVoice]=02:11:02	Voice04/04-KA/04-KA-G00/04-KA-G00-0510	0	set	02:12:02;
+
+[PrintText]=02:11:21	Makoto	¿K-Kiyoura?^	02:13:06;
+
+[PlayVoice]=02:11:21	Voice04/04-KA/04-KA-G00/04-KA-G00-0530	1	mak	02:13:06;
+
+[PrintText]=02:13:03	Setsuna	... para asegurarme de que no harás nada.	02:16:04;
+
+[PlayVoice]=02:13:03	Voice04/04-KA/04-KA-G00/04-KA-G00-0540	0	set	02:16:04;
+
+[PrintText]=02:15:23	Makoto	¡H-hey! ¡Kiyoura actuando así!	02:18:15;
+
+[PlayVoice]=02:15:23	Voice04/04-KA/04-KA-G00/04-KA-G00-0550	1	mak	02:18:15;
+
+[CreateBG]=02:18:05	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-019	02:25:05;
+
+[PrintText]=02:18:05	Taisuke	¿De qué hablas? Ella está bien.	02:22:05;
+
+[PlayVoice]=02:18:05	Voice04/04-KA/04-KA-G00/04-KA-G00-0560	1	tai	02:22:05;
+
+[PrintText]=02:22:03	Makoto	¿...Qué fue eso?^	02:23:02;
+
+[PlayVoice]=02:22:03	Voice04/04-KA/04-KA-G00/04-KA-G00-0580	1	mak	02:23:02;
+
+[PrintText]=02:23:07	Hikari	Una bebida deliciosa.	02:25:05;
+
+[PlayVoice]=02:23:07	Voice04/04-KA/04-KA-G00/04-KA-G00-0590	0	hik	02:25:05;
+
+[CreateBG]=02:25:05	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-019A	02:28:08;
+
+[PrintText]=02:25:05	Makoto	¿Eso es alcohol?¡.	02:26:18;
+
+[PlayVoice]=02:25:05	Voice04/04-KA/04-KA-G00/04-KA-G00-0600	1	mak	02:26:18;
+
+[PrintText]=02:26:09	Taisuke	¡Ven, tú también toma uno!	02:28:10;
+
+[PlayVoice]=02:26:09	Voice04/04-KA/04-KA-G00/04-KA-G00-0610	1	tai	02:28:10;
+
+[PlayMovie]=02:28:08	Movie04/04-KA/04-KA-G00/04-KA-G00-018	0	02:41:09;
+
+[PrintText]=02:28:08	Setsuna	¡Hic!	02:29:02;
+
+[PlayVoice]=02:28:08	Voice04/04-KA/04-KA-G00/04-KA-G00-0620	0	set	02:29:02;
+
+[PrintText]=02:29:01	Makoto	...Tal vez si te encargaras de la borracha que se sostiene de mí.	02:33:01;
+
+[PlayVoice]=02:29:01	Voice04/04-KA/04-KA-G00/04-KA-G00-0630	1	mak	02:33:01;
+
+[PrintText]=02:32:18	Hikari	¡Woo! ¡Setsuna! ¡Ustedes hacen muy buena pareja!	02:36:05;
+
+[PlayVoice]=02:32:18	Voice04/04-KA/04-KA-G00/04-KA-G00-0640	0	hik	02:36:05;
+
+[PrintText]=02:35:20	Makoto	¡Para ya!	02:37:19;
+
+[PlayVoice]=02:35:20	Voice04/04-KA/04-KA-G00/04-KA-G00-0650	1	mak	02:37:19;
+
+[PrintText]=02:37:11	Setsuna	¡Woo!	02:39:16;
+
+[PlayVoice]=02:37:11	Voice04/04-KA/04-KA-G00/04-KA-G00-0660	0	set	02:39:16;
+
+[PrintText]=02:38:23	Taisuke	¡Woo!	02:42:23;
+
+[PlayVoice]=02:38:23	Voice04/04-KA/04-KA-G00/04-KA-G00-0670	1	tai	02:42:23;
+
+[CreateBG]=02:41:09	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-021	02:45:18;
+
+[PrintText]=02:41:09	Makoto	Esto no tiene remedio. Están todos borrachos.	02:46:01;
+
+[PlayVoice]=02:41:09	Voice04/04-KA/04-KA-G00/04-KA-G00-0680	1	mak	02:46:01;
+
+[CreateBG]=02:45:18	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-021A	02:49:10;
+
+[PrintText]=02:45:18	Hikari	¡En cuanto a mí, voy a agarrar Sawanaga!	02:49:21;
+
+[PlayVoice]=02:45:18	Voice04/04-KA/04-KA-G00/04-KA-G00-0690	0	hik	02:49:21;
+
+[CreateBG]=02:49:10	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-021B	02:54:09;
+
+[PrintText]=02:49:10	Taisuke	¿¡Qué!? No si te agarro primero!	02:55:03;
+
+[PlayVoice]=02:49:10	Voice04/04-KA/04-KA-G00/04-KA-G00-0700	1	tai	02:55:03;
+
+[WhiteFade]=02:53:21	OUT	02:54:09;
+
+[PlayMovie]=02:54:09	Movie04/04-KA/04-KA-G00/04-KA-G00-022	0	03:00:17;
+
+[PrintText]=02:54:09	Hikari	¡Kyah!	02:56:03;
+
+[PlayVoice]=02:54:09	Voice04/04-KA/04-KA-G00/04-KA-G00-0710	0	hik	02:56:03;
+
+[WhiteFade]=02:54:09	IN	02:54:21;
+
+[PrintText]=02:55:20	Makoto	...Esto debería hacerse una foto interesante.	03:00:12;
+
+[PlayVoice]=02:55:20	Voice04/04-KA/04-KA-G00/04-KA-G00-0720	1	mak	03:00:12;
+
+[CreateBG]=03:00:17	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-031	03:12:03;
+
+[PrintText]=03:00:21	Makoto	Aún así están bebiendo ¿No?^	03:03:15;
+
+[PlayVoice]=03:00:21	Voice04/04-KA/04-KA-G00/04-KA-G00-0740	1	mak	03:03:15;
+
+[PrintText]=03:04:11	Makoto	...40% alcohol.	03:06:19;
+
+[PlayVoice]=03:04:11	Voice04/04-KA/04-KA-G00/04-KA-G00-0760	1	mak	03:06:19;
+
+[PrintText]=03:07:06	Makoto	Si los profesores encuentran esto, nos suspenderán.	03:12:03;
+
+[PlayVoice]=03:07:06	Voice04/04-KA/04-KA-G00/04-KA-G00-0770	1	mak	03:12:03;
+
+[PlayMovie]=03:12:03	Movie04/04-KA/04-KA-G00/04-KA-G00-024	0	03:22:12;
+
+[PrintText]=03:12:04	Setsuna	Está bien, está bien... mnyah.	03:16:04;
+
+[PlayVoice]=03:12:04	Voice04/04-KA/04-KA-G00/04-KA-G00-0780	0	set	03:16:04;
+
+[PrintText]=03:15:20	Makoto	Hey, no te duermas en mi brazo.	03:19:23;
+
+[PlayVoice]=03:15:20	Voice04/04-KA/04-KA-G00/04-KA-G00-0790	1	mak	03:19:23;
+
+[PrintText]=03:18:12	Setsuna	Caallaate.	03:20:13;
+
+[PlayVoice]=03:18:12	Voice04/04-KA/04-KA-G00/04-KA-G00-0800	0	set	03:20:13;
+
+[PrintText]=03:20:10	Makoto	...Su edad mental está disminuyendo rápidamente.	03:22:08;
+
+[PlayVoice]=03:20:10	Voice04/04-KA/04-KA-G00/04-KA-G00-0810	1	mak	03:22:08;
+
+[CreateBG]=03:22:12	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-025	03:29:02;
+
+[PrintText]=03:22:12	Taisuke	¡Kuroda!	03:26:03;
+
+[PlayVoice]=03:22:12	Voice04/04-KA/04-KA-G00/04-KA-G00-0820	1	tai	03:26:03;
+
+[PrintText]=03:25:14	Hikari	¡Sawanaga!	03:27:11;
+
+[PlayVoice]=03:25:14	Voice04/04-KA/04-KA-G00/04-KA-G00-0830	0	hik	03:27:11;
+
+[PrintText]=03:27:09	Makoto	Haah ... oye, suéltame. Me voy a casa.	03:34:01;
+
+[PlayVoice]=03:27:09	Voice04/04-KA/04-KA-G00/04-KA-G00-0850	1	mak	03:34:01;
+
+[CreateBG]=03:29:02	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-026	03:48:18;
+
+[PrintText]=03:33:17	Setsuna	Naw.	03:34:18;
+
+[PlayVoice]=03:33:17	Voice04/04-KA/04-KA-G00/04-KA-G00-0860	0	set	03:34:18;
+
+[PrintText]=03:34:16	Makoto	No digas eso.	03:36:13;
+
+[PlayVoice]=03:34:16	Voice04/04-KA/04-KA-G00/04-KA-G00-0870	1	mak	03:36:13;
+
+[PrintText]=03:36:08	Setsuna	¡Nooquierooo!	03:38:11;
+
+[PlayVoice]=03:36:08	Voice04/04-KA/04-KA-G00/04-KA-G00-0880	0	set	03:38:11;
+
+[PrintText]=03:38:12	Makoto	Kiyoura...	03:40:19;
+
+[PlayVoice]=03:38:12	Voice04/04-KA/04-KA-G00/04-KA-G00-0890	1	mak	03:40:19;
+
+[PrintText]=03:40:16	Setsuna	¿... Puedeshh sheentirloo?^	03:42:23;
+
+[PlayVoice]=03:40:16	Voice04/04-KA/04-KA-G00/04-KA-G00-0900	0	set	03:42:23;
+
+[PrintText]=03:42:23	Makoto	¿Huh?^	03:43:16;
+
+[PlayVoice]=03:42:23	Voice04/04-KA/04-KA-G00/04-KA-G00-0910	1	mak	03:43:16;
+
+[PrintText]=03:44:04	Setsuna	¿Pienshaas que ellossh deberíaaan?^	03:48:16;
+
+[PlayVoice]=03:44:04	Voice04/04-KA/04-KA-G00/04-KA-G00-0920	0	set	03:48:16;
+
+[CreateBG]=03:48:18	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-027	03:58:01;
+
+[PrintText]=03:48:19	Makoto	¡No!	03:50:14;
+
+[PlayVoice]=03:48:19	Voice04/04-KA/04-KA-G00/04-KA-G00-0940	1	mak	03:50:14;
+
+[PrintText]=03:50:21	Setsuna	¿Lo Sientessh?^	03:52:03;
+
+[PlayVoice]=03:50:21	Voice04/04-KA/04-KA-G00/04-KA-G00-0950	0	set	03:52:03;
+
+[PrintText]=03:52:00	Makoto	¿P-Puedo sentir qué? ¿Qué se supone que debo decir?^	03:58:01;
+
+[PlayVoice]=03:52:00	Voice04/04-KA/04-KA-G00/04-KA-G00-0960	1	mak	03:58:01;
+
+[PlaySe]=03:57:09	1	Se04/04-KA/04-KA-G00/SE04-KA-G00-001	04:42:05;
+
+[CreateBG]=03:58:01	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-028	04:00:03;
+
+[PrintText]=03:58:01	Setsuna	Hey...	03:59:03;
+
+[PlayVoice]=03:58:01	Voice04/04-KA/04-KA-G00/04-KA-G00-0970	0	set	03:59:03;
+
+[PrintText]=03:58:22	Makoto	¿Sí?^	03:59:18;
+
+[PlayVoice]=03:58:22	Voice04/04-KA/04-KA-G00/04-KA-G00-0980	1	mak	03:59:18;
+
+[CreateBG]=04:00:03	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-028A	04:02:07;
+
+[PrintText]=04:00:03	Setsuna	...No esshtoy trayendo soshten.	04:02:16;
+
+[PlayVoice]=04:00:03	Voice04/04-KA/04-KA-G00/04-KA-G00-0990	0	set	04:02:16;
+
+[CreateBG]=04:02:07	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-028	04:03:13;
+
+[PrintText]=04:02:07	Makoto	¡Pfft!	04:03:10;
+
+[PlayVoice]=04:02:07	Voice04/04-KA/04-KA-G00/04-KA-G00-1000	1	mak	04:03:10;
+
+[CreateBG]=04:03:13	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-029	04:12:05;
+
+[PrintText]=04:03:13	Setsuna	¿Lo Sientessh?^	04:04:23;
+
+[PlayVoice]=04:03:13	Voice04/04-KA/04-KA-G00/04-KA-G00-1010	0	set	04:04:23;
+
+[PrintText]=04:05:01	Makoto	¡S-s-s-Sí! ¡Puedo sentirlo y estoy avergonzado! ¡Dejame ir!	04:12:09;
+
+[PlayVoice]=04:05:01	Voice04/04-KA/04-KA-G00/04-KA-G00-1020	1	mak	04:12:09;
+
+[PlayMovie]=04:12:05	Movie04/04-KA/04-KA-G00/04-KA-G00-030	0	04:14:22;
+
+[PrintText]=04:12:05	Setsuna	Eheheh...	04:13:02;
+
+[PlayVoice]=04:12:05	Voice04/04-KA/04-KA-G00/04-KA-G00-1030	0	set	04:13:02;
+
+[PrintText]=04:13:05	Makoto	Uwah...	04:14:18;
+
+[PlayVoice]=04:13:05	Voice04/04-KA/04-KA-G00/04-KA-G00-1050	1	mak	04:14:18;
+
+[CreateBG]=04:14:22	BGS	Event04/04-KA/04-KA-G00/04-KA-G00-031	04:42:18;
+
+[PrintText]=04:14:23	Setsuna	Itooo...	04:16:03;
+
+[PlayVoice]=04:14:23	Voice04/04-KA/04-KA-G00/04-KA-G00-1060	0	set	04:16:03;
+
+[PrintText]=04:15:20	Makoto	Sí... Sí...	04:17:05;
+
+[PlayVoice]=04:15:20	Voice04/04-KA/04-KA-G00/04-KA-G00-1070	1	mak	04:17:05;
+
+[PrintText]=04:17:06	Setsuna	¿Itooo... ama Sekai?^	04:20:14;
+
+[PlayVoice]=04:17:06	Voice04/04-KA/04-KA-G00/04-KA-G00-1080	0	set	04:20:14;
+
+[PrintText]=04:20:14	Makoto	¿Eh...?^	04:21:04;
+
+[PlayVoice]=04:20:14	Voice04/04-KA/04-KA-G00/04-KA-G00-1090	1	mak	04:21:04;
+
+[PrintText]=04:21:12	Setsuna	¿Amaaa?^	04:22:15;
+
+[PlayVoice]=04:21:12	Voice04/04-KA/04-KA-G00/04-KA-G00-1100	0	set	04:22:15;
+
+[PrintText]=04:22:18	Makoto	Deberías preguntárselo a ella.	04:27:11;
+
+[PlayVoice]=04:22:18	Voice04/04-KA/04-KA-G00/04-KA-G00-1110	1	mak	04:27:11;
+
+[PrintText]=04:27:17	Setsuna	...	04:28:17;
+
+[PlayVoice]=04:27:17	Voice04/04-KA/04-KA-G00/04-KA-G00-1120	0	xxx	04:28:17;
+
+[PrintText]=04:29:07	Makoto	¿Si respondo, me dejarás ir?^	04:32:09;
+
+[PlayVoice]=04:29:07	Voice04/04-KA/04-KA-G00/04-KA-G00-1130	1	mak	04:32:09;
+
+[PrintText]=04:32:09	Setsuna	Dependee de lo que respondasssh.	04:34:03;
+
+[PlayVoice]=04:32:09	Voice04/04-KA/04-KA-G00/04-KA-G00-1140	0	set	04:34:03;
+
+[PrintText]=04:34:00	Makoto	Haah... pues entonces. huh...	04:37:03;
+
+[PlayVoice]=04:34:00	Voice04/04-KA/04-KA-G00/04-KA-G00-1150	1	mak	04:37:03;
+
+[SetSELECT]=04:36:14	*La Amo*	*La Odio*	04:41:14;
+
+ ;
+
+[Next]=04:42:18;
+
+

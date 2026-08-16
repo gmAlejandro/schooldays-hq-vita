@@ -1,0 +1,113 @@
+﻿[SkipFRAME]=00:52:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:52:11;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-I02/SE03-SB-I02-001	00:52:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-001	00:03:06;
+
+[PrintText]=00:00:00	Makoto	¿Algo para su clase?^	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-I02/03-SB-I02-0030	1	mak	00:01:13;
+
+[PrintText]=00:01:12	Nanami	¡Sí, eso!	00:03:05;
+
+[PlayVoice]=00:01:12	Voice03/03-SB/03-SB-I02/03-SB-I02-0040	0	nan	00:03:05;
+
+[CreateBG]=00:03:06	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-002	00:12:08;
+
+[PrintText]=00:03:06	Makoto	Ya veo... tratándose del comité de implementación, debe ser, debe tener muchas cosas por hacer.	00:10:23;
+
+[PlayVoice]=00:03:06	Voice03/03-SB/03-SB-I02/03-SB-I02-0050	1	mak	00:10:23;
+
+[PrintText]=00:10:23	Nanami	¡Sí, Sí!	00:12:09;
+
+[PlayVoice]=00:10:23	Voice03/03-SB/03-SB-I02/03-SB-I02-0060	0	nan	00:12:09;
+
+[CreateBG]=00:12:08	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-003	00:22:06;
+
+[PrintText]=00:12:08	Makoto	Me pregunto si los de la clase 4 la forzarán a hacer el trabajo otra vez. Hablaré con Katou de eso.	00:20:04;
+
+[PlayVoice]=00:12:08	Voice03/03-SB/03-SB-I02/03-SB-I02-0070	1	mak	00:20:04;
+
+[PrintText]=00:20:04	Nanami	¡Waah! ¡Espera un segundo!	00:22:06;
+
+[PlayVoice]=00:20:04	Voice03/03-SB/03-SB-I02/03-SB-I02-0080	0	nan	00:22:06;
+
+[CreateBG]=00:22:06	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-004	00:30:04;
+
+[PrintText]=00:22:06	Makoto	¿Qué?^	00:23:17;
+
+[PlayVoice]=00:22:06	Voice03/03-SB/03-SB-I02/03-SB-I02-0090	1	mak	00:23:17;
+
+[PrintText]=00:23:17	Nanami	K-Katou es la chica del club de baloncesto ¿No?^	00:27:11;
+
+[PlayVoice]=00:23:17	Voice03/03-SB/03-SB-I02/03-SB-I02-0100	0	nan	00:27:11;
+
+[PrintText]=00:27:11	Makoto	Sí.	00:28:05;
+
+[PlayVoice]=00:27:11	Voice03/03-SB/03-SB-I02/03-SB-I02-0110	1	mak	00:28:05;
+
+[PrintText]=00:28:06	Nanami	¿Se conocen? ¡Qué sorpresa!	00:31:05;
+
+[PlayVoice]=00:28:06	Voice03/03-SB/03-SB-I02/03-SB-I02-0120	0	nan	00:31:05;
+
+[CreateBG]=00:30:04	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-004B	00:37:16;
+
+[PrintText]=00:31:05	Makoto	Fuimos a la misma primaria.	00:33:06;
+
+[PlayVoice]=00:31:05	Voice03/03-SB/03-SB-I02/03-SB-I02-0130	1	mak	00:33:06;
+
+[PrintText]=00:33:06	Nanami	Wow, ya veo.	00:36:03;
+
+[PlayVoice]=00:33:06	Voice03/03-SB/03-SB-I02/03-SB-I02-0140	0	nan	00:36:03;
+
+[PrintText]=00:36:03	Makoto	...	00:37:00;
+
+[PlayVoice]=00:36:03	Voice03/03-SB/03-SB-I02/03-SB-I02-0150	1	xxx	00:37:00;
+
+[PrintText]=00:37:00	Nanami	¿..?^	00:37:15;
+
+[PlayVoice]=00:37:00	Voice03/03-SB/03-SB-I02/03-SB-I02-0160	0	nan	00:37:15;
+
+[PrintText]=00:37:15	Makoto	Kanroji.	00:38:19;
+
+[PlayVoice]=00:37:15	Voice03/03-SB/03-SB-I02/03-SB-I02-0170	1	mak	00:38:19;
+
+[CreateBG]=00:37:16	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-005	00:40:17;
+
+[PrintText]=00:38:20	Nanami	¿S-Sí?^	00:40:16;
+
+[PlayVoice]=00:38:20	Voice03/03-SB/03-SB-I02/03-SB-I02-0180	0	nan	00:40:16;
+
+[PrintText]=00:40:16	Makoto	¿Me estás ocultando algo?^	00:43:13;
+
+[PlayVoice]=00:40:16	Voice03/03-SB/03-SB-I02/03-SB-I02-0190	1	mak	00:43:13;
+
+[CreateBG]=00:40:17	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-005B	00:45:19;
+
+[PrintText]=00:43:13	Nanami	P-Para nada.	00:45:19;
+
+[PlayVoice]=00:43:13	Voice03/03-SB/03-SB-I02/03-SB-I02-0200	0	nan	00:45:19;
+
+[CreateBG]=00:45:19	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-005C	00:49:15;
+
+[PrintText]=00:45:19	Makoto	Que sospechoso.	00:47:00;
+
+[PlayVoice]=00:45:19	Voice03/03-SB/03-SB-I02/03-SB-I02-0210	1	mak	00:47:00;
+
+[PrintText]=00:47:00	Nanami	...	00:47:23;
+
+[PlayVoice]=00:47:00	Voice03/03-SB/03-SB-I02/03-SB-I02-0220	0	xxx	00:47:23;
+
+[PrintText]=00:48:00	Makoto	Bien, como sea. Iré a la clase 4.	00:52:10;
+
+[PlayVoice]=00:48:00	Voice03/03-SB/03-SB-I02/03-SB-I02-0230	1	mak	00:52:10;
+
+[CreateBG]=00:49:15	BGS	Event03/03-SB/03-SB-I02/03-SB-I02-005D	00:52:11;
+
+ ;
+
+[Next]=00:52:11;
+
+

@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:23:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:29:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/h/h_02	00:07:21;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/h/h_03	00:29:15;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/h/h_05	00:29:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-I00/04-SB-I00-001	00:03:00;
+
+[PlayMovie]=00:03:00	Movie04/04-SB/04-SB-G05/04-SB-G05-016	0	00:10:10;
+
+[PrintText]=00:03:00	Kotonoha	¡No...! ¡Hah... haah... Haah...!	00:08:21;
+
+[PlayVoice]=00:03:00	Voice04/04-SB/04-SB-I00/04-SB-I00-0040	0	kot	00:08:21;
+
+[MoveSom]=00:03:00	5	00:10:10;
+
+[PrintText]=00:08:16	Taisuke	¡Hah... hah...!	00:10:17;
+
+[PlayVoice]=00:08:16	Voice04/04-SB/04-SB-I00/04-SB-I00-0050	1	tai	00:10:17;
+
+[PlaySe]=00:10:00	1	SysSe/SE_all/h/h_02	00:17:21;
+
+[CreateBG]=00:10:10	BGS	Event04/04-SB/04-SB-I00/04-SB-I00-001	00:15:16;
+
+[PrintText]=00:11:02	Hikari	...	00:12:09;
+
+[PlayVoice]=00:11:02	Voice04/04-SB/04-SB-I00/04-SB-I00-0080	0	xxx	00:12:09;
+
+[PrintText]=00:12:22	Makoto	...	00:15:08;
+
+[PlayVoice]=00:12:22	Voice04/04-SB/04-SB-I00/04-SB-I00-0090	1	xxx	00:15:08;
+
+[PlayMovie]=00:15:16	Movie04/04-SB/04-SB-I00/04-SB-I00-004	0	00:22:18;
+
+[PrintText]=00:15:16	Kotonoha	¡Hah... Ah... Ah... Aah...!	00:20:02;
+
+[PlayVoice]=00:15:16	Voice04/04-SB/04-SB-I00/04-SB-I00-0100	0	kot	00:20:02;
+
+[MoveSom]=00:15:16	5	00:22:18;
+
+[PrintText]=00:19:23	Taisuke	¡Hah... hah... hah...!	00:22:16;
+
+[PlayVoice]=00:19:23	Voice04/04-SB/04-SB-I00/04-SB-I00-0110	1	tai	00:22:16;
+
+[PlaySe]=00:20:01	1	SysSe/SE_all/h/h_01	00:29:19;
+
+[CreateBG]=00:22:18	BGS	Event04/04-SB/04-SB-I00/04-SB-I00-001	00:29:15;
+
+[PrintText]=00:22:18	Makoto	Esto...	00:23:20;
+
+[PlayVoice]=00:22:18	Voice04/04-SB/04-SB-I00/04-SB-I00-0120	1	mak	00:23:20;
+
+[SetSELECT]=00:23:13	*Esto es insoportable*	*Esto me excita*	00:28:13;
+
+ ;
+
+[Next]=00:29:19;
+
+

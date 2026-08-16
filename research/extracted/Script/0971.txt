@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:12:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:12:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-B06/04-KB-B06-001	00:02:16;
+
+[PrintText]=00:00:00	Makoto	Tus pechos son enormes.	00:02:15;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-B06/04-KB-B06-0030	1	mak	00:02:15;
+
+[PrintText]=00:02:15	Kotonoha	¿Ehh?!	00:03:16;
+
+[PlayVoice]=00:02:15	Voice04/04-KB/04-KB-B06/04-KB-B06-0040	0	kot	00:03:16;
+
+[CreateBG]=00:02:16	BGS	Event04/04-KB/04-KB-B06/04-KB-B06-002	00:07:05;
+
+[PrintText]=00:03:17	Makoto	Hagamos lo que estábamos haciendo en el festival, y...	00:07:04;
+
+[PlayVoice]=00:03:17	Voice04/04-KB/04-KB-B06/04-KB-B06-0050	1	mak	00:07:04;
+
+[PlayMovie]=00:07:05	Movie04/04-KA/04-KB-B06/04-KB-B06-003	0	00:12:05;
+
+[PrintText]=00:11:00	Kotonoha	¡Kyah!	00:11:19;
+
+[PlayVoice]=00:11:00	Voice04/04-KB/04-KB-B06/04-KB-B06-0070	0	kot	00:11:19;
+
+ ;
+
+[Next]=00:12:05;
+
+

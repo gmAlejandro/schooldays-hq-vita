@@ -1,0 +1,111 @@
+﻿[SkipFRAME]=01:05:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	01:05:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-I03/04-KA-I03-001	00:08:01;
+
+[PrintText]=00:00:16	Makoto	Eres muy diferente en tu casa.	00:02:12;
+
+[PlayVoice]=00:00:16	Voice04/04-KA/04-KA-I03/04-KA-I03-0030	1	mak	00:02:12;
+
+[PrintText]=00:02:14	Kotonoha	¿En serio?^	00:04:07;
+
+[PlayVoice]=00:02:14	Voice04/04-KA/04-KA-I03/04-KA-I03-0040	0	kot	00:04:07;
+
+[PrintText]=00:04:09	Makoto	Si... hay una especie de sensación "suave" en ti.	00:08:04;
+
+[PlayVoice]=00:04:09	Voice04/04-KA/04-KA-I03/04-KA-I03-0050	1	mak	00:08:04;
+
+[CreateBG]=00:08:01	BGS	Event04/04-KA/04-KA-I03/04-KA-I03-002	00:17:21;
+
+[PrintText]=00:08:11	Kotonoha	¿Eh ...? ¿Quieres decir que soy difícil de llevarme con la escuela?^	00:12:19;
+
+[PlayVoice]=00:08:11	Voice04/04-KA/04-KA-I03/04-KA-I03-0060	0	kot	00:12:19;
+
+[PrintText]=00:12:12	Makoto	No, pero... eres algo dura...	00:16:14;
+
+[PlayVoice]=00:12:12	Voice04/04-KA/04-KA-I03/04-KA-I03-0070	1	mak	00:16:14;
+
+[PrintText]=00:16:21	Kotonoha	Dura...	00:18:00;
+
+[PlayVoice]=00:16:21	Voice04/04-KA/04-KA-I03/04-KA-I03-0080	0	kot	00:18:00;
+
+[CreateBG]=00:17:21	BGS	Event04/04-KA/04-KA-I03/04-KA-I03-003	00:26:22;
+
+[PrintText]=00:17:23	Makoto	Creo que eres muy linda así...	00:20:06;
+
+[PlayVoice]=00:17:23	Voice04/04-KA/04-KA-I03/04-KA-I03-0090	1	mak	00:20:06;
+
+[PrintText]=00:20:08	Kotonoha	G...Gracias.	00:23:20;
+
+[PlayVoice]=00:20:08	Voice04/04-KA/04-KA-I03/04-KA-I03-0100	0	kot	00:23:20;
+
+[PrintText]=00:23:20	Makoto	Ves, por eso es que digo 'Dura'.	00:27:01;
+
+[PlayVoice]=00:23:20	Voice04/04-KA/04-KA-I03/04-KA-I03-0110	1	mak	00:27:01;
+
+[CreateBG]=00:26:22	BGS	Event04/04-KA/04-KA-I02/04-KA-I02-002	00:36:13;
+
+[PrintText]=00:27:03	Kotonoha	Ya veo... esto es difícil.	00:31:14;
+
+[PlayVoice]=00:27:03	Voice04/04-KA/04-KA-I03/04-KA-I03-0120	0	kot	00:31:14;
+
+[PrintText]=00:31:13	Makoto	No, no lo es. Solo se como cuando hablas con tu madre.	00:35:11;
+
+[PlayVoice]=00:31:13	Voice04/04-KA/04-KA-I03/04-KA-I03-0130	1	mak	00:35:11;
+
+[PrintText]=00:35:12	Kotonoha	Hmmn...	00:36:13;
+
+[PlayVoice]=00:35:12	Voice04/04-KA/04-KA-I03/04-KA-I03-0140	0	kot	00:36:13;
+
+[CreateBG]=00:36:13	BGS	Event04/04-KA/04-KA-I03/04-KA-I03-001	00:46:12;
+
+[PrintText]=00:36:13	Makoto	Bueno, no lo estás haciendo conscientemente, así que supongo que es fácil poder cambiar... de todos modos, ¿por qué no bajamos?^	00:43:19;
+
+[PlayVoice]=00:36:13	Voice04/04-KA/04-KA-I03/04-KA-I03-0150	1	mak	00:43:19;
+
+[PrintText]=00:44:03	Kotonoha	Um...	00:45:16;
+
+[PlayVoice]=00:44:03	Voice04/04-KA/04-KA-I03/04-KA-I03-0160	0	kot	00:45:16;
+
+[PrintText]=00:45:18	Makoto	¿Qué?^	00:46:12;
+
+[PlayVoice]=00:45:18	Voice04/04-KA/04-KA-I03/04-KA-I03-0170	1	mak	00:46:12;
+
+[CreateBG]=00:46:12	BGS	Event04/04-KA/04-KA-I03/04-KA-I03-006	00:49:20;
+
+[PrintText]=00:46:21	Kotonoha	Mamá dijo que deberíamos...	00:49:16;
+
+[PlayVoice]=00:46:21	Voice04/04-KA/04-KA-I03/04-KA-I03-0180	0	kot	00:49:16;
+
+[CreateBG]=00:49:20	BGS	Event04/04-KA/04-KA-I03/04-KA-I03-007	01:00:14;
+
+[PrintText]=00:50:08	Makoto	¿Besarnos?^	00:51:06;
+
+[PlayVoice]=00:50:08	Voice04/04-KA/04-KA-I03/04-KA-I03-0190	1	mak	00:51:06;
+
+[PrintText]=00:51:06	Kotonoha	¿Podemos?^	00:52:18;
+
+[PlayVoice]=00:51:06	Voice04/04-KA/04-KA-I03/04-KA-I03-0200	0	kot	00:52:18;
+
+[PrintText]=00:52:18	Makoto	No es que no podemos... pero hemos estado haciendo mucho mas que eso hoy.	00:58:22;
+
+[PlayVoice]=00:52:18	Voice04/04-KA/04-KA-I03/04-KA-I03-0210	1	mak	00:58:22;
+
+[PrintText]=00:58:22	Kotonoha	Sí... tienes razón.	01:00:17;
+
+[PlayVoice]=00:58:22	Voice04/04-KA/04-KA-I03/04-KA-I03-0220	0	kot	01:00:17;
+
+[CreateBG]=01:00:14	BGS	Event04/04-KA/04-KA-I03/04-KA-I03-008	01:05:01;
+
+[PrintText]=01:00:21	Makoto	Sí.	01:02:02;
+
+[PlayVoice]=01:00:21	Voice04/04-KA/04-KA-I03/04-KA-I03-0230	1	mak	01:02:02;
+
+[PlayVoice]=01:02:03	Voice04/04-KA/04-KA-I03/04-KA-I03-0240			01:03:14;
+
+ ;
+
+[Next]=01:05:01;
+
+

@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:03:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:03:12;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-J02/02-2S-J02-001	00:01:22;
+
+[PrintText]=00:00:13	Sekai	...	00:01:01;
+
+[PlayVoice]=00:00:13	Voice02/02-2S/02-2S-J02/02-2S-J02-0040	0	xxx	00:01:01;
+
+[CreateBG]=00:01:22	BGS	Event02/02-2S/02-2S-J02/02-2S-J02-002	00:03:12;
+
+[PrintText]=00:02:02	Makoto	...	00:03:01;
+
+[PlayVoice]=00:02:02	Voice02/02-2S/02-2S-J02/02-2S-J02-0050	1	xxx	00:03:01;
+
+ ;
+
+[Next]=00:03:12;
+
+
+
+

@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:15:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:21:15;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-J01/SE01-00-J01-001	00:21:15;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-J01/01-00-J01-001	00:04:04;
+
+[PrintText]=00:00:22	Makoto	¡Katsura!	00:01:18;
+
+[PlayVoice]=00:00:22	Voice01/01-00/01-00-J01/01-00-J01-0030	1	mak	00:01:18;
+
+[PrintText]=00:02:03	Kotonoha	Ah... Itou-kun.	00:04:02;
+
+[PlayVoice]=00:02:03	Voice01/01-00/01-00-J01/01-00-J01-0050	0	kot	00:04:02;
+
+[CreateBG]=00:04:04	BGS	Event01/01-00/01-00-J01/01-00-J01-002	00:05:05;
+
+[PrintText]=00:04:06	Makoto	¿Puedo hablar contigo un segundo?^	00:05:06;
+
+[PlayVoice]=00:04:06	Voice01/01-00/01-00-J01/01-00-J01-0060	1	mak	00:05:06;
+
+[CreateBG]=00:05:05	BGS	Event01/01-00/01-00-J01/01-00-J01-003	00:12:22;
+
+[PrintText]=00:05:05	Kotonoha	¿Huh...? Estoy a punto de...	00:09:07;
+
+[PlayVoice]=00:05:05	Voice01/01-00/01-00-J01/01-00-J01-0070	0	kot	00:09:07;
+
+[PrintText]=00:08:21	Makoto	Vas a la reunión del comité? ¿No? Lo sé, pero será solo un segundo.	00:13:00;
+
+[PlayVoice]=00:08:21	Voice01/01-00/01-00-J01/01-00-J01-0080	1	mak	00:13:00;
+
+[CreateBG]=00:12:22	BGS	Event01/01-00/01-00-J01/01-00-J01-004	00:21:15;
+
+[PrintText]=00:12:22	Kotonoha	Vale.	00:13:17;
+
+[PlayVoice]=00:12:22	Voice01/01-00/01-00-J01/01-00-J01-0090	0	kot	00:13:17;
+
+[PrintText]=00:13:16	Makoto	U-um, pues verás...	00:15:22;
+
+[PlayVoice]=00:13:16	Voice01/01-00/01-00-J01/01-00-J01-0100	1	mak	00:15:22;
+
+[SetSELECT]=00:15:13	'¡Perdóname!'	'¿Estuvo aburrido el almuerzo hoy?'	00:20:13;
+
+ ;
+
+[Next]=00:21:15;
+
+
+
+

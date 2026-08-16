@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:18:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:18:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-G00/01-1K-G00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-1K/01-1K-G00/01-1K-G00-002	00:05:18;
+
+[CreateBG]=00:05:18	BGS	Event01/01-1K/01-1K-G00/01-1K-G00-003	00:18:20;
+
+[PrintText]=00:06:00	Makoto	'Sí le gustas, ella no lo rechazará'... huh.	00:11:11;
+
+[PlayVoice]=00:06:00	Voice01/01-1K/01-1K-G00/01-1K-G00-0030	1	mak	00:11:11;
+
+[PrintText]=00:12:07	Makoto	Ella me rechazo completamente... ¿Entonces?^	00:15:07;
+
+[PlayVoice]=00:12:07	Voice01/01-1K/01-1K-G00/01-1K-G00-0040	1	mak	00:15:07;
+
+[PrintText]=00:16:06	Makoto	Haah...	00:17:13;
+
+[PlayVoice]=00:16:06	Voice01/01-1K/01-1K-G00/01-1K-G00-0050	1	mak	00:17:13;
+
+[BlackFade]=00:17:20	OUT	00:18:20;
+
+ ;
+
+[Next]=00:18:20;
+
+
+
+

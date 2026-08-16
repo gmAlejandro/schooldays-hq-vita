@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:21:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:21:07;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-A05/SE03-KB-A05-001	00:21:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-A05/03-KB-A05-001A	00:01:04;
+
+[PrintText]=00:00:00	Makoto	¿Quieres que te ayude?^	00:01:04;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-A05/03-KB-A05-0030	1	mak	00:01:04;
+
+[CreateBG]=00:01:04	BGS	Event03/03-KB/03-KB-A05/03-KB-A05-001B	00:13:02;
+
+[PrintText]=00:01:04	Kotonoha	Um... Y-Yo... estoy bien.	00:06:11;
+
+[PlayVoice]=00:01:04	Voice03/03-KB/03-KB-A05/03-KB-A05-0040	0	kot	00:06:11;
+
+[PrintText]=00:06:11	Makoto	Pero están pesados.	00:08:22;
+
+[PlayVoice]=00:06:11	Voice03/03-KB/03-KB-A05/03-KB-A05-0050	1	mak	00:08:22;
+
+[PrintText]=00:08:22	Kotonoha	Estaré bien.	00:13:02;
+
+[PlayVoice]=00:08:22	Voice03/03-KB/03-KB-A05/03-KB-A05-0060	0	kot	00:13:02;
+
+[CreateBG]=00:13:02	BGS	Event03/03-KB/03-KB-A05/03-KB-A05-001C	00:21:07;
+
+[PrintText]=00:13:02	Makoto	Sí, después de todo. No puedo hacer nada.	00:20:07;
+
+[PlayVoice]=00:13:02	Voice03/03-KB/03-KB-A05/03-KB-A05-0080	1	mak	00:20:07;
+
+[PlayVoice]=00:20:07	Voice03/03-KB/03-KB-A05/03-KB-A05-0090			00:21:07;
+
+ ;
+
+[Next]=00:21:07;
+
+

@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:02:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:02:06;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SA/05-SA-H01/05-SA-H01-001	00:01:02;
+
+[PrintText]=00:00:07	Makoto	...Claro.	00:01:02;
+
+[PlayVoice]=00:00:07	Voice05/05-SA/05-SA-H01/05-SA-H01-0030	1	mak	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Event05/05-SA/05-SA-H01/05-SA-H01-002	00:02:06;
+
+[PlayVoice]=00:01:03	Voice05/05-SA/05-SA-H01/05-SA-H01-0040			00:02:05;
+
+ ;
+
+[Next]=00:02:06;
+
+

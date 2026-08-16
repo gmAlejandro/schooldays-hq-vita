@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:10:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:16:14;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H00/SE01-00-H00-001	00:16:14;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H00/01-00-H00-001	00:01:01;
+
+[PrintText]=00:00:06	Makoto	¿Q-Qué pasa?^	00:02:03;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-H00/01-00-H00-0040	1	mak	00:02:03;
+
+[CreateBG]=00:01:01	BGS	Event01/01-00/01-00-H00/01-00-H00-002	00:02:05;
+
+[CreateBG]=00:02:05	BGS	Event01/01-00/01-00-H00/01-00-H00-003	00:08:19;
+
+[PrintText]=00:02:07	Sekai	Nada, solo noto que se están llevando bien.	00:07:05;
+
+[PlayVoice]=00:02:07	Voice01/01-00/01-00-H00/01-00-H00-0050	0	sek	00:07:05;
+
+[PrintText]=00:07:09	Makoto	¿Llevándonos bien...?^	00:08:14;
+
+[PlayVoice]=00:07:09	Voice01/01-00/01-00-H00/01-00-H00-0060	1	mak	00:08:14;
+
+[CreateBG]=00:08:19	BGS	Event01/01-00/01-00-H00/01-00-H00-004	00:16:14;
+
+[PrintText]=00:09:07	Makoto	Pues...	00:11:02;
+
+[PlayVoice]=00:09:07	Voice01/01-00/01-00-H00/01-00-H00-0080	1	mak	00:11:02;
+
+[SetSELECT]=00:10:14	'Por Supuesto'	'No Realmente'	00:15:14;
+
+ ;
+
+[Next]=00:16:14;
+
+
+
+

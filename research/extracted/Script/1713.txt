@@ -1,0 +1,98 @@
+﻿[SkipFRAME]=01:02:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-001	00:28:11;
+
+[PrintText]=00:00:00	Hikari	Haah... de seguro es un buen CD. Tal vez deba ir a comprar la primera edición.	00:06:03;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-E00/05-SB-E00-0040	0	hik	00:06:03;
+
+[PrintText]=00:06:03	Sekai	Siendo primera edición o no, la música es la misma.	00:09:04;
+
+[PlayVoice]=00:06:03	Voice05/05-SB/05-SB-E00/05-SB-E00-0050	0	sek	00:09:04;
+
+[PrintText]=00:09:04	Hikari	Sí, pero las notas y esas cosas son diferentes.	00:12:16;
+
+[PlayVoice]=00:09:04	Voice05/05-SB/05-SB-E00/05-SB-E00-0060	0	hik	00:12:16;
+
+[PrintText]=00:12:16	Sekai	¿A sí?^	00:14:04;
+
+[PlayVoice]=00:12:16	Voice05/05-SB/05-SB-E00/05-SB-E00-0070	0	sek	00:14:04;
+
+[PrintText]=00:14:04	Hikari	¡Sí!	00:14:21;
+
+[PlayVoice]=00:14:04	Voice05/05-SB/05-SB-E00/05-SB-E00-0080	0	hik	00:14:21;
+
+[PrintText]=00:14:22	Sekai	Hmn.	00:16:06;
+
+[PlayVoice]=00:14:22	Voice05/05-SB/05-SB-E00/05-SB-E00-0090	0	sek	00:16:06;
+
+[PrintText]=00:16:05	Hikari	¿Segura que no quieres ir a la tienda de hamburguesas?^	00:18:21;
+
+[PlayVoice]=00:16:05	Voice05/05-SB/05-SB-E00/05-SB-E00-0100	0	hik	00:18:21;
+
+[PrintText]=00:18:21	Sekai	¿Por qué preguntas?^	00:19:18;
+
+[PlayVoice]=00:18:21	Voice05/05-SB/05-SB-E00/05-SB-E00-0110	0	sek	00:19:18;
+
+[PrintText]=00:19:18	Hikari	Bueno, no has estado por ahí últimamente. Pensé que sería bueno tomarnos unas malteadas de litchi.	00:26:17;
+
+[PlayVoice]=00:19:18	Voice05/05-SB/05-SB-E00/05-SB-E00-0120	0	hik	00:26:17;
+
+[PrintText]=00:26:17	Sekai	Eso... ¡ah!	00:29:01;
+
+[PlayVoice]=00:26:17	Voice05/05-SB/05-SB-E00/05-SB-E00-0130	0	sek	00:29:01;
+
+[CreateBG]=00:28:11	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-002	00:30:02;
+
+[PlayBgm]=00:29:01	BGM/SD_BGM/sdbgm19	01:02:07;
+
+[PlayMovie]=00:30:02	Movie05/05-SB/05-SB-E00/05-SB-E00-003_005	0	00:35:23;
+
+[CreateBG]=00:35:23	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-006	00:37:08;
+
+[PrintText]=00:36:02	Hikari	¿Qué pasa?^	00:37:06;
+
+[PlayVoice]=00:36:02	Voice05/05-SB/05-SB-E00/05-SB-E00-0160	0	hik	00:37:06;
+
+[PrintText]=00:37:06	Sekai	No es nada.	00:38:05;
+
+[PlayVoice]=00:37:06	Voice05/05-SB/05-SB-E00/05-SB-E00-0170	0	sek	00:38:05;
+
+[CreateBG]=00:37:08	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-007	00:38:07;
+
+[PlayMovie]=00:38:07	Movie05/05-SB/05-SB-E00/05-SB-E00-008_010	0	00:44:07;
+
+[CreateBG]=00:44:07	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-011	00:58:16;
+
+[PrintText]=00:44:09	Sekai	¡H-hey, escucha! Creo que iré por la malteada después de todo.	00:49:01;
+
+[PlayVoice]=00:44:09	Voice05/05-SB/05-SB-E00/05-SB-E00-0200	0	sek	00:49:01;
+
+[PrintText]=00:49:01	Hikari	¿En serio?^	00:50:00;
+
+[PlayVoice]=00:49:01	Voice05/05-SB/05-SB-E00/05-SB-E00-0210	0	hik	00:50:00;
+
+[PrintText]=00:50:00	Sekai	Sí, venga, regresemos.	00:52:07;
+
+[PlayVoice]=00:50:00	Voice05/05-SB/05-SB-E00/05-SB-E00-0220	0	sek	00:52:07;
+
+[PrintText]=00:52:07	Hikari	¿Eh? ¿Por qué no solo vamos a la tienda de hamburguesas de la estación Mothara-sakashita? Está en esa dirección.	00:58:15;
+
+[PlayVoice]=00:52:07	Voice05/05-SB/05-SB-E00/05-SB-E00-0230	0	hik	00:58:15;
+
+[CreateBG]=00:58:16	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-012	01:02:07;
+
+[PrintText]=00:58:16	Sekai	Está bien, solo regresemos.	01:00:22;
+
+[PlayVoice]=00:58:16	Voice05/05-SB/05-SB-E00/05-SB-E00-0240	0	sek	01:00:22;
+
+[PrintText]=01:00:22	Hikari	Vale.	01:02:01;
+
+[PlayVoice]=01:00:22	Voice05/05-SB/05-SB-E00/05-SB-E00-0250	0	hik	01:02:01;
+
+ ;
+
+[Next]=01:02:07;
+
+
+

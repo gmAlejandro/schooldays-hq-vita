@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:58:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:58:17;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-M06/03-KB-M06-001	0	00:52:16;
+
+[CreateBG]=00:52:16	BGS	Event04/04-SF/04-SF-B00/04-SF-B00-002	00:55:17;
+
+[PrintText]=00:53:02	Kotonoha	No...	00:54:08;
+
+[PlayVoice]=00:53:02	Voice04/04-SF/04-SF-B00/04-SF-B00-0040	0	kot	00:54:08;
+
+[CreateBG]=00:55:17	BGS	Event04/04-SF/04-SF-B00/04-SF-B00-003	00:58:17;
+
+ ;
+
+[Next]=00:58:17;
+
+

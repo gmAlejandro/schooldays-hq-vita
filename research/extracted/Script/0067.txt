@@ -1,0 +1,79 @@
+﻿[SkipFRAME]=00:37:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:37:16;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H05/SE01-00-H05-001	00:37:16;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H05/01-00-H05-001	00:04:18;
+
+[PrintText]=00:00:06	Sekai	¿Q-Qué paso? No tienes que estar siempre callado.	00:04:14;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-H05/01-00-H05-0030	0	sek	00:04:14;
+
+[CreateBG]=00:04:18	BGS	Event01/01-00/01-00-H05/01-00-H05-002	00:10:20;
+
+[PrintText]=00:04:20	Kotonoha	Itou-kun...	00:06:01;
+
+[PlayVoice]=00:04:20	Voice01/01-00/01-00-H05/01-00-H05-0040	0	kot	00:06:01;
+
+[PrintText]=00:06:01	Makoto	Ah. Bueno... um... sí. Perdóname.	00:13:04;
+
+[PlayVoice]=00:06:01	Voice01/01-00/01-00-H05/01-00-H05-0050	1	mak	00:13:04;
+
+[CreateBG]=00:10:20	BGS	Event01/01-00/01-00-H05/01-00-H05-003	00:16:01;
+
+[PrintText]=00:13:19	Kotonoha	...	00:15:06;
+
+[PlayVoice]=00:13:19	Voice01/01-00/01-00-H05/01-00-H05-0060	0	xxx	00:15:06;
+
+[CreateBG]=00:16:01	BGS	Event01/01-00/01-00-H01/01-00-H01-003	00:25:19;
+
+[PrintText]=00:16:04	Sekai	M-Mira, Makoto siempre hace cosas estúpidas, no deberías tomar esto en serio.	00:26:01;
+
+[PlayVoice]=00:16:04	Voice01/01-00/01-00-H05/01-00-H05-0070	0	sek	00:26:01;
+
+[CreateBG]=00:25:19	BGS	Event01/01-00/01-00-H05/01-00-H05-005	00:27:11;
+
+[PrintText]=00:25:19	Kotonoha	V-Vale...	00:27:11;
+
+[PlayVoice]=00:25:19	Voice01/01-00/01-00-H05/01-00-H05-0080	0	kot	00:27:11;
+
+[CreateBG]=00:27:11	BGS	Event01/01-00/01-00-H05/01-00-H05-006	00:31:09;
+
+[PrintText]=00:27:11	Sekai	¡Makoto, deberías disculparte con Katsura-San también!	00:30:12;
+
+[PlayVoice]=00:27:11	Voice01/01-00/01-00-H05/01-00-H05-0090	0	sek	00:30:12;
+
+[PrintText]=00:30:09	Makoto	S-Sí.	00:31:12;
+
+[PlayVoice]=00:30:09	Voice01/01-00/01-00-H05/01-00-H05-0100	1	mak	00:31:12;
+
+[CreateBG]=00:31:09	BGS	Event01/01-00/01-00-H05/01-00-H05-007	00:34:02;
+
+[PrintText]=00:31:14	Sekai	¡Pero hazlo!	00:32:10;
+
+[PlayVoice]=00:31:14	Voice01/01-00/01-00-H05/01-00-H05-0110	0	sek	00:32:10;
+
+[PrintText]=00:32:14	Makoto	P-Perdóname.	00:34:04;
+
+[PlayVoice]=00:32:14	Voice01/01-00/01-00-H05/01-00-H05-0120	1	mak	00:34:04;
+
+[CreateBG]=00:34:02	BGS	Event01/01-00/01-00-H05/01-00-H05-008	00:35:15;
+
+[PrintText]=00:34:06	Kotonoha	Está bien...	00:35:10;
+
+[PlayVoice]=00:34:06	Voice01/01-00/01-00-H05/01-00-H05-0130	0	kot	00:35:10;
+
+[CreateBG]=00:35:15	BGS	Event01/01-00/01-00-H05/01-00-H05-009	00:37:16;
+
+[PrintText]=00:35:22	Sekai	Cielos...	00:36:23;
+
+[PlayVoice]=00:35:22	Voice01/01-00/01-00-H05/01-00-H05-0140	0	sek	00:36:23;
+
+ ;
+
+[Next]=00:37:16;
+
+
+
+

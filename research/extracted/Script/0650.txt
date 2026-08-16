@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:11:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:11:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E07/03-KB-E07-001	00:07:23;
+
+[PrintText]=00:00:00	Makoto	...Ella está saliendo conmigo.	00:01:12;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E07/03-KB-E07-0030	1	mak	00:01:12;
+
+[PrintText]=00:01:12	Taisuke	¡¿Eh?! ¡¿Q-Qué has dicho...?!	00:04:17;
+
+[PlayVoice]=00:01:12	Voice03/03-KB/03-KB-E07/03-KB-E07-0040	1	tai	00:04:17;
+
+[PrintText]=00:04:18	Makoto	Mañana ¡Sekai saldrá conmigo!	00:07:23;
+
+[PlayVoice]=00:04:18	Voice03/03-KB/03-KB-E07/03-KB-E07-0050	1	mak	00:07:23;
+
+[PlaySe]=00:07:21	1	SysSe/SE_all/keitai/keitai_sousa	00:07:23;
+
+[CreateBG]=00:07:23	BGS	Event03/03-KB/03-KB-E07/03-KB-E07-002	00:11:12;
+
+[PrintText]=00:07:23	Makoto	Haah...	00:10:07;
+
+[PlayVoice]=00:07:23	Voice03/03-KB/03-KB-E07/03-KB-E07-0070	1	mak	00:10:07;
+
+[PrintText]=00:10:07	Makoto	Sekai...	00:11:12;
+
+[PlayVoice]=00:10:07	Voice03/03-KB/03-KB-E07/03-KB-E07-0080	1	mak	00:11:12;
+
+ ;
+
+[Next]=00:11:12;
+
+

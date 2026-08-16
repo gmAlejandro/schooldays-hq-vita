@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:10:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:10:08;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H01/SE03-SB-H01-001	00:10:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H01/03-SB-H01-001	00:04:10;
+
+[PrintText]=00:00:00	Makoto	Al restaurante de mi salón, supongo.	00:01:17;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-H01/03-SB-H01-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:17	Kotonoha	¿A tu salón?^	00:03:18;
+
+[PlayVoice]=00:01:17	Voice03/03-SB/03-SB-H01/03-SB-H01-0040	0	kot	00:03:18;
+
+[PrintText]=00:03:18	Makoto	¿No crees?^	00:04:10;
+
+[PlayVoice]=00:03:18	Voice03/03-SB/03-SB-H01/03-SB-H01-0050	1	mak	00:04:10;
+
+[PrintText]=00:04:09	Kotonoha	No, estoy un poco con hambre. Seguro.	00:08:22;
+
+[PlayVoice]=00:04:09	Voice03/03-SB/03-SB-H01/03-SB-H01-0060	0	kot	00:08:22;
+
+[CreateBG]=00:04:10	BGS	Event03/03-SB/03-SB-H01/03-SB-H01-002	00:10:08;
+
+[PrintText]=00:08:23	Makoto	Vamos entonces.	00:10:02;
+
+[PlayVoice]=00:08:23	Voice03/03-SB/03-SB-H01/03-SB-H01-0070	1	mak	00:10:02;
+
+ ;
+
+[Next]=00:10:08;
+
+

@@ -1,0 +1,103 @@
+﻿[SkipFRAME]=01:02:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:02:21;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-B00/SE02-2K-B00-001	01:02:21;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-B00/02-2K-B00-001	00:04:20;
+
+[PrintText]=00:00:00	Makoto	...Phew. Está delicioso.	00:03:15;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-B00/02-2K-B00-0040	1	mak	00:03:15;
+
+[PrintText]=00:03:15	Kotonoha	¿En serio?^	00:04:19;
+
+[PlayVoice]=00:03:15	Voice02/02-2K/02-2K-B00/02-2K-B00-0050	0	kot	00:04:19;
+
+[CreateBG]=00:04:20	BGS	Event02/02-2K/02-2K-B00/02-2K-B00-002	00:15:14;
+
+[PrintText]=00:04:20	Makoto	La limonada es la mejor bebida para este clima ¿No lo crees?^	00:08:18;
+
+[PlayVoice]=00:04:20	Voice02/02-2K/02-2K-B00/02-2K-B00-0060	1	mak	00:08:18;
+
+[PrintText]=00:08:18	Kotonoha	Es deliciosa cuando está fría, pero era mejor tenerla caliente ahora por este frío.	00:15:13;
+
+[PlayVoice]=00:08:18	Voice02/02-2K/02-2K-B00/02-2K-B00-0070	0	kot	00:15:13;
+
+[PrintText]=00:15:13	Makoto	Ya veo, esto de verdad te calienta.	00:19:00;
+
+[PlayVoice]=00:15:13	Voice02/02-2K/02-2K-B00/02-2K-B00-0080	1	mak	00:19:00;
+
+[CreateBG]=00:15:14	BGS	Event02/02-2K/02-2K-B00/02-2K-B00-003	00:21:13;
+
+[PrintText]=00:19:01	Kotonoha	Ufufu... eso es bueno de escuchar, Oh, por cierto...	00:23:07;
+
+[PlayVoice]=00:19:01	Voice02/02-2K/02-2K-B00/02-2K-B00-0090	0	kot	00:23:07;
+
+[CreateBG]=00:21:13	BGS	Event02/02-2K/02-2K-B00/02-2K-B00-004	00:32:02;
+
+[PrintText]=00:23:07	Makoto	¿Hmn?^	00:23:22;
+
+[PlayVoice]=00:23:07	Voice02/02-2K/02-2K-B00/02-2K-B00-0100	1	mak	00:23:22;
+
+[PrintText]=00:23:23	Kotonoha	¿Quieres ir a ver una película?, tengo unos pases.	00:28:19;
+
+[PlayVoice]=00:23:23	Voice02/02-2K/02-2K-B00/02-2K-B00-0110	0	kot	00:28:19;
+
+[PrintText]=00:28:19	Makoto	¿Una película?^	00:29:14;
+
+[PlayVoice]=00:28:19	Voice02/02-2K/02-2K-B00/02-2K-B00-0120	1	mak	00:29:14;
+
+[PrintText]=00:29:15	Kotonoha	Sí, este.	00:32:02;
+
+[PlayVoice]=00:29:15	Voice02/02-2K/02-2K-B00/02-2K-B00-0130	0	kot	00:32:02;
+
+[PrintText]=00:32:01	Makoto	Romance...eh.., al parecer va estar disponible toda esta semana, también el Viernes.	00:40:09;
+
+[PlayVoice]=00:32:01	Voice02/02-2K/02-2K-B00/02-2K-B00-0140	1	mak	00:40:09;
+
+[CreateBG]=00:32:02	BGS	Event02/02-2K/02-2K-B00/02-2K-B00-005	00:41:15;
+
+[PrintText]=00:40:09	Kotonoha	Sí, tienes razón.	00:41:15;
+
+[PlayVoice]=00:40:09	Voice02/02-2K/02-2K-B00/02-2K-B00-0150	0	kot	00:41:15;
+
+[CreateBG]=00:41:15	BGS	Event02/02-2K/02-2K-B00/02-2K-B00-001	00:58:12;
+
+[PrintText]=00:41:15	Makoto	Creo que tengo tiempo, ¿Tienes tiempo? ¿Hay reunión del consejo?^	00:52:14;
+
+[PlayVoice]=00:41:15	Voice02/02-2K/02-2K-B00/02-2K-B00-0160	1	mak	00:52:14;
+
+[PrintText]=00:52:15	Kotonoha	Viernes esta bien para mí.	00:55:01;
+
+[PlayVoice]=00:52:15	Voice02/02-2K/02-2K-B00/02-2K-B00-0170	0	kot	00:55:01;
+
+[PrintText]=00:55:01	Makoto	Entonces, será el Viernes.	00:57:08;
+
+[PlayVoice]=00:55:01	Voice02/02-2K/02-2K-B00/02-2K-B00-0180	1	mak	00:57:08;
+
+[PrintText]=00:57:09	Kotonoha	¿En serio?^	00:58:12;
+
+[PlayVoice]=00:57:09	Voice02/02-2K/02-2K-B00/02-2K-B00-0190	0	kot	00:58:12;
+
+[CreateBG]=00:58:12	BGS	Event02/02-2K/02-2K-B00/02-2K-B00-006B	01:00:10;
+
+[PrintText]=00:58:12	Makoto	Por supuesto.	01:00:09;
+
+[PlayVoice]=00:58:12	Voice02/02-2K/02-2K-B00/02-2K-B00-0200	1	mak	01:00:09;
+
+[CreateBG]=01:00:10	BGS	Event02/02-2K/02-2K-B00/02-2K-B00-006C	01:02:21;
+
+[PrintText]=01:00:10	Kotonoha	Está bien.	01:01:11;
+
+[PlayVoice]=01:00:10	Voice02/02-2K/02-2K-B00/02-2K-B00-0210	0	kot	01:01:11;
+
+[BlackFade]=01:01:21	OUT	01:02:21;
+
+ ;
+
+[Next]=01:02:21;
+
+
+
+

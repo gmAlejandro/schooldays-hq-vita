@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:08:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:08:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/footsteps/asioto_school	00:02:22;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/kyousitu_rouka	00:08:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-013	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-SE/05-SE-E00/05-SE-E00-002	00:05:12;
+
+[PrintText]=00:03:18	Makoto	Ah...	00:04:17;
+
+[PlayVoice]=00:03:18	Voice05/05-SE/05-SE-E00/05-SE-E00-0050	1	mak	00:04:17;
+
+[CreateBG]=00:05:12	BGS	Event05/05-SE/05-SE-E00/05-SE-E00-003	00:08:11;
+
+[BlackFade]=00:07:11	OUT	00:08:11;
+
+ ;
+
+[Next]=00:08:11;
+
+
+
+

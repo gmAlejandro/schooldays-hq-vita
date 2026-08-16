@@ -1,0 +1,36 @@
+﻿[SkipFRAME]=00:16:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	00:16:04;
+
+[PlayMovie]=00:00:00	Movie05/05-KB/05-KB-J00/05-KB-J00-001	0	00:03:05;
+
+[CreateBG]=00:03:05	BGS	Event05/05-KB/05-KB-J00/05-KB-J00-002	00:05:16;
+
+[PrintText]=00:04:18	Kotonoha	Haah...	00:05:15;
+
+[PlayVoice]=00:04:18	Voice05/05-KB/05-KB-J00/05-KB-J00-0030	0	kot	00:05:15;
+
+[CreateBG]=00:05:16	BGS	Event05/05-KB/05-KB-J00/05-KB-J00-003	00:07:06;
+
+[PrintText]=00:06:01	Kotonoha	Ah...	00:06:16;
+
+[PlayVoice]=00:06:01	Voice05/05-KB/05-KB-J00/05-KB-J00-0050	0	kot	00:06:16;
+
+[CreateBG]=00:07:06	BGS	Event05/05-KB/05-KB-J00/05-KB-J00-004A	00:09:22;
+
+[CreateBG]=00:09:22	BGS	Event05/05-KB/05-KB-J00/05-KB-J00-004B	00:12:16;
+
+[CreateBG]=00:12:16	BGS	Event05/05-KB/05-KB-J00/05-KB-J00-004C	00:16:04;
+
+[PrintText]=00:13:02	Kotonoha	Makoto-kun...	00:14:09;
+
+[PlayVoice]=00:13:02	Voice05/05-KB/05-KB-J00/05-KB-J00-0070	0	kot	00:14:09;
+
+ ;
+
+[Next]=00:16:04;
+
+
+
+
+

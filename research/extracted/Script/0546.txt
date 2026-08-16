@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:13:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:13:18;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-D04/SE03-KA-D04-001	00:13:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-D04/03-KA-D04-001	00:01:13;
+
+[PrintText]=00:00:00	Makoto	Solo bromeo.	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-D04/03-KA-D04-0030	1	mak	00:01:08;
+
+[CreateBG]=00:01:13	BGS	Event03/03-KA/03-KA-D04/03-KA-D04-002	00:08:01;
+
+[PrintText]=00:01:16	Kotonoha	...	00:02:03;
+
+[PlayVoice]=00:01:16	Voice03/03-KA/03-KA-D04/03-KA-D04-0040	0	xxx	00:02:03;
+
+[PrintText]=00:02:10	Makoto	Perdóname. Fue una broma. No diré nada.	00:05:15;
+
+[PlayVoice]=00:02:10	Voice03/03-KA/03-KA-D04/03-KA-D04-0050	1	mak	00:05:15;
+
+[PrintText]=00:06:01	Kotonoha	...Está bien.	00:07:16;
+
+[PlayVoice]=00:06:01	Voice03/03-KA/03-KA-D04/03-KA-D04-0060	0	kot	00:07:16;
+
+[CreateBG]=00:08:01	BGS	Event03/03-KA/03-KA-D04/03-KA-D04-003	00:10:14;
+
+[PrintText]=00:08:09	Makoto	Haha...	00:10:08;
+
+[PlayVoice]=00:08:09	Voice03/03-KA/03-KA-D04/03-KA-D04-0070	1	mak	00:10:08;
+
+[CreateBG]=00:10:14	BGS	Event03/03-KA/03-KA-D04/03-KA-D04-004	00:13:18;
+
+[PrintText]=00:11:01	Kotonoha	...	00:12:15;
+
+[PlayVoice]=00:11:01	Voice03/03-KA/03-KA-D04/03-KA-D04-0080	0	xxx	00:12:15;
+
+[BlackFade]=00:12:18	OUT	00:13:18;
+
+ ;
+
+[Next]=00:13:18;
+
+

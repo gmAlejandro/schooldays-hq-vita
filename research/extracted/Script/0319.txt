@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:06:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:06:05;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-I03/SE02-2S-I03-001	00:06:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-I03/02-2S-I03-001	00:02:03;
+
+[PrintText]=00:00:00	Makoto	Voy contigo.	00:01:18;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-I03/02-2S-I03-0030	1	mak	00:01:18;
+
+[CreateBG]=00:02:03	BGS	Event02/02-2S/02-2S-I03/02-2S-I03-001B	00:03:11;
+
+[PrintText]=00:02:03	Kotonoha	Ah...	00:02:23;
+
+[PlayVoice]=00:02:03	Voice02/02-2S/02-2S-I03/02-2S-I03-0040	0	kot	00:02:23;
+
+[CreateBG]=00:03:11	BGS	Event02/02-2S/02-2S-I03/02-2S-I03-002	00:06:05;
+
+[BlackFade]=00:05:05	OUT	00:06:05;
+
+ ;
+
+[Next]=00:06:05;
+
+
+
+

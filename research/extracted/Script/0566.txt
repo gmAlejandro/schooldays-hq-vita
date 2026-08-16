@@ -1,0 +1,103 @@
+﻿[SkipFRAME]=00:48:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:54:07;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-H00/SE03-KA-H00-001	00:54:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-001	00:04:13;
+
+[PrintText]=00:00:00	Makoto	Fwah...	00:04:05;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-H00/03-KA-H00-0050	1	mak	00:04:05;
+
+[CreateBG]=00:04:13	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-002	00:07:02;
+
+[PrintText]=00:04:19	Setsuna	...	00:05:18;
+
+[PlayVoice]=00:04:19	Voice03/03-KA/03-KA-H00/03-KA-H00-0060	0	xxx	00:05:18;
+
+[PrintText]=00:05:20	Kotonoha	¿Qué pasa, Makoto-kun?^	00:08:20;
+
+[PlayVoice]=00:05:20	Voice03/03-KA/03-KA-H00/03-KA-H00-0080	0	kot	00:08:20;
+
+[CreateBG]=00:07:02	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-003A	00:11:03;
+
+[PrintText]=00:08:21	Makoto	Kotonoha.	00:10:23;
+
+[PlayVoice]=00:08:21	Voice03/03-KA/03-KA-H00/03-KA-H00-0090	1	mak	00:10:23;
+
+[CreateBG]=00:11:03	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-003B	00:22:05;
+
+[PrintText]=00:11:04	Kotonoha	U-um... Estamos a punto de tener una reunión del comité.	00:16:23;
+
+[PlayVoice]=00:11:04	Voice03/03-KA/03-KA-H00/03-KA-H00-0100	0	kot	00:16:23;
+
+[PrintText]=00:16:22	Makoto	Sí, así es.	00:18:15;
+
+[PlayVoice]=00:16:22	Voice03/03-KA/03-KA-H00/03-KA-H00-0110	1	mak	00:18:15;
+
+[PrintText]=00:18:21	Kotonoha	¿Te importaría adelantarte y esperarme?^	00:22:06;
+
+[PlayVoice]=00:18:21	Voice03/03-KA/03-KA-H00/03-KA-H00-0120	0	kot	00:22:06;
+
+[CreateBG]=00:22:05	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-003C	00:27:07;
+
+[PrintText]=00:22:05	Makoto	¿Adelantarte?^	00:22:23;
+
+[PlayVoice]=00:22:05	Voice03/03-KA/03-KA-H00/03-KA-H00-0130	1	mak	00:22:23;
+
+[PrintText]=00:22:21	Kotonoha	Sí. Iré al tejado después de que la reunión haya terminado.	00:27:06;
+
+[PlayVoice]=00:22:21	Voice03/03-KA/03-KA-H00/03-KA-H00-0140	0	kot	00:27:06;
+
+[CreateBG]=00:27:07	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-003A	00:34:08;
+
+[PrintText]=00:27:07	Makoto	No, aquí está bien.	00:29:02;
+
+[PlayVoice]=00:27:07	Voice03/03-KA/03-KA-H00/03-KA-H00-0150	1	mak	00:29:02;
+
+[PrintText]=00:29:02	Kotonoha	Vamos a tener una reunión del comité de implementación por el festival.	00:32:12;
+
+[PlayVoice]=00:29:02	Voice03/03-KA/03-KA-H00/03-KA-H00-0160	0	kot	00:32:12;
+
+[PrintText]=00:32:06	Makoto	Lo sé.	00:33:07;
+
+[PlayVoice]=00:32:06	Voice03/03-KA/03-KA-H00/03-KA-H00-0170	1	mak	00:33:07;
+
+[PrintText]=00:33:13	Kotonoha	¿Eh...?^	00:34:05;
+
+[PlayVoice]=00:33:13	Voice03/03-KA/03-KA-H00/03-KA-H00-0180	0	kot	00:34:05;
+
+[CreateBG]=00:34:08	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-004	00:41:08;
+
+[PrintText]=00:34:10	Makoto	También soy un miembro del comité.	00:36:11;
+
+[PlayVoice]=00:34:10	Voice03/03-KA/03-KA-H00/03-KA-H00-0190	1	mak	00:36:11;
+
+[PrintText]=00:36:10	Kotonoha	¡¿Eh?! Pero el de la clase 3...	00:41:10;
+
+[PlayVoice]=00:36:10	Voice03/03-KA/03-KA-H00/03-KA-H00-0200	0	kot	00:41:10;
+
+[CreateBG]=00:41:08	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-005	00:45:10;
+
+[PrintText]=00:41:11	Makoto	El está en el hospital porque se fracturó, y soy el reemplazo.	00:45:14;
+
+[PlayVoice]=00:41:11	Voice03/03-KA/03-KA-H00/03-KA-H00-0210	1	mak	00:45:14;
+
+[CreateBG]=00:45:10	BGS	Event03/03-KA/03-KA-H00/03-KA-H00-006	00:54:07;
+
+[PrintText]=00:45:12	Kotonoha	¡¿En serio..?!	00:47:12;
+
+[PlayVoice]=00:45:12	Voice03/03-KA/03-KA-H00/03-KA-H00-0220	0	kot	00:47:12;
+
+[PrintText]=00:47:14	Makoto	Pues sí....	00:48:15;
+
+[PlayVoice]=00:47:14	Voice03/03-KA/03-KA-H00/03-KA-H00-0230	1	mak	00:48:15;
+
+[SetSELECT]=00:48:06	'Quería estar contigo'	'No tenía nada que hacer'	00:53:06;
+
+ ;
+
+[Next]=00:54:07;
+
+

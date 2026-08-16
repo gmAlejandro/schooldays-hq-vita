@@ -1,0 +1,171 @@
+﻿[SkipFRAME]=01:20:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	01:26:10;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-G04/SE03-SB-G04-001	00:29:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-001	00:03:21;
+
+[PrintText]=00:00:00	Makoto	Vale, te ayudaré.	00:02:06;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-G04/03-SB-G04-0030	1	mak	00:02:06;
+
+[PrintText]=00:02:06	Taisuke	Eso es lo que quería oír.	00:03:22;
+
+[PlayVoice]=00:02:06	Voice03/03-SB/03-SB-G04/03-SB-G04-0040	1	tai	00:03:22;
+
+[CreateBG]=00:03:21	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-002	00:07:00;
+
+[PrintText]=00:03:22	Makoto	Bien. Me encargaré de cortar el pastel.	00:06:23;
+
+[PlayVoice]=00:03:22	Voice03/03-SB/03-SB-G04/03-SB-G04-0050	1	mak	00:06:23;
+
+[PrintText]=00:06:23	Taisuke	¡Vale, y yo me encargaré de comérmelo!	00:09:16;
+
+[PlayVoice]=00:06:23	Voice03/03-SB/03-SB-G04/03-SB-G04-0060	1	tai	00:09:16;
+
+[CreateBG]=00:07:00	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-003	00:12:23;
+
+[PrintText]=00:09:16	Makoto	Bien, yo te daré las rondas de pastel y... ¡¿Qué eres, estúpido?!	00:14:06;
+
+[PlayVoice]=00:09:16	Voice03/03-SB/03-SB-G04/03-SB-G04-0070	1	mak	00:14:06;
+
+[CreateBG]=00:12:23	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-004	00:17:19;
+
+[PrintText]=00:14:06	Taisuke	Vale, ya lo tengo. Me ocuparé de las bebidas.	00:17:18;
+
+[PlayVoice]=00:14:06	Voice03/03-SB/03-SB-G04/03-SB-G04-0080	1	tai	00:17:18;
+
+[CreateBG]=00:17:19	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-005	00:18:19;
+
+[PrintText]=00:17:19	Makoto	Cielos.	00:18:19;
+
+[PlayVoice]=00:17:19	Voice03/03-SB/03-SB-G04/03-SB-G04-0090	1	mak	00:18:19;
+
+[CreateBG]=00:18:19	BGS	System/Screen/Black	00:20:04;
+
+[PrintText]=00:18:19	Hikari	¡Muy lento! Ah, Sawanaga.	00:22:01;
+
+[PlayVoice]=00:18:19	Voice03/03-SB/03-SB-G04/03-SB-G04-0100	0	hik	00:22:01;
+
+[CreateBG]=00:20:04	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-007	00:22:16;
+
+[PrintText]=00:22:01	Taisuke	Hey, tú nuevo asistente todopoderoso está aquí!	00:25:05;
+
+[PlayVoice]=00:22:01	Voice03/03-SB/03-SB-G04/03-SB-G04-0110	1	tai	00:25:05;
+
+[CreateBG]=00:22:16	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-008	00:29:18;
+
+[PrintText]=00:25:05	Hikari	No te llames a ti mismo así.	00:26:16;
+
+[PlayVoice]=00:25:05	Voice03/03-SB/03-SB-G04/03-SB-G04-0120	0	hik	00:26:16;
+
+[PrintText]=00:26:16	Taisuke	¡Vale, es tiempo hervir el té!	00:30:18;
+
+[PlayVoice]=00:26:16	Voice03/03-SB/03-SB-G04/03-SB-G04-0130	1	tai	00:30:18;
+
+[PlaySe]=00:28:21	2	Se03/03-SB/03-SB-G04/SE03-SB-G04-001	00:58:04;
+
+[CreateBG]=00:29:18	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-009	00:33:19;
+
+[PrintText]=00:30:19	Hikari	¡Bien, ahora la siguiente orden!	00:33:18;
+
+[PlayVoice]=00:30:19	Voice03/03-SB/03-SB-G04/03-SB-G04-0140	0	hik	00:33:18;
+
+[PrintText]=00:33:18	Makoto	¡Está bien!	00:34:10;
+
+[PlayVoice]=00:33:18	Voice03/03-SB/03-SB-G04/03-SB-G04-0150	1	mak	00:34:10;
+
+[CreateBG]=00:33:19	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-010	00:34:12;
+
+[PrintText]=00:34:10	Makoto	Haah... las cosas ya se calmaron.	00:37:16;
+
+[PlayVoice]=00:34:10	Voice03/03-SB/03-SB-G04/03-SB-G04-0170	1	mak	00:37:16;
+
+[CreateBG]=00:34:12	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-011	00:37:16;
+
+[CreateBG]=00:37:16	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-012	00:49:13;
+
+[PrintText]=00:37:16	Taisuke	Sí, me ayudaste mucho.	00:39:14;
+
+[PlayVoice]=00:37:16	Voice03/03-SB/03-SB-G04/03-SB-G04-0180	1	tai	00:39:14;
+
+[PrintText]=00:39:14	Makoto	Es mejor que estés agradecido.	00:40:23;
+
+[PlayVoice]=00:39:14	Voice03/03-SB/03-SB-G04/03-SB-G04-0190	1	mak	00:40:23;
+
+[PrintText]=00:40:23	Taisuke	Sí. Aquí, una muestra de mi gratitud, te daré una rebanada de pastel.	00:44:19;
+
+[PlayVoice]=00:40:23	Voice03/03-SB/03-SB-G04/03-SB-G04-0200	1	tai	00:44:19;
+
+[PrintText]=00:44:19	Makoto	¡Hey se supone que eso está en venta!	00:46:11;
+
+[PlayVoice]=00:44:19	Voice03/03-SB/03-SB-G04/03-SB-G04-0210	1	mak	00:46:11;
+
+[PrintText]=00:46:11	Taisuke	Whoa, estás muy animado.	00:48:14;
+
+[PlayVoice]=00:46:11	Voice03/03-SB/03-SB-G04/03-SB-G04-0220	1	tai	00:48:14;
+
+[PrintText]=00:48:14	Makoto	Cielos...	00:49:12;
+
+[PlayVoice]=00:48:14	Voice03/03-SB/03-SB-G04/03-SB-G04-0230	1	mak	00:49:12;
+
+[PrintText]=00:49:12	Setsuna	Debemos limpiar y... ah, Itou.	00:54:14;
+
+[PlayVoice]=00:49:12	Voice03/03-SB/03-SB-G04/03-SB-G04-0240	0	set	00:54:14;
+
+[CreateBG]=00:49:13	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-013	00:54:15;
+
+[PrintText]=00:54:14	Makoto	Hola.	00:55:07;
+
+[PlayVoice]=00:54:14	Voice03/03-SB/03-SB-G04/03-SB-G04-0250	1	mak	00:55:07;
+
+[CreateBG]=00:54:15	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-014	00:59:21;
+
+[PrintText]=00:55:07	Setsuna	¿Qué haces aquí?^	00:57:11;
+
+[PlayVoice]=00:55:07	Voice03/03-SB/03-SB-G04/03-SB-G04-0260	0	set	00:57:11;
+
+[PrintText]=00:57:11	Taisuke	Estaba ayudando.	00:59:02;
+
+[PlayVoice]=00:57:11	Voice03/03-SB/03-SB-G04/03-SB-G04-0270	1	tai	00:59:02;
+
+[PlaySe]=00:57:18	1	Se03/03-SB/03-SB-G04/SE03-SB-G04-001	01:26:10;
+
+[PrintText]=00:59:01	Setsuna	Ya veo... Itou ¿Tienes un momento?^	01:03:07;
+
+[PlayVoice]=00:59:01	Voice03/03-SB/03-SB-G04/03-SB-G04-0280	0	set	01:03:07;
+
+[CreateBG]=00:59:21	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-015	01:03:04;
+
+[CreateBG]=01:03:04	BGS	Event03/03-SB/03-SB-G04/03-SB-G04-016	01:05:08;
+
+[PrintText]=01:03:07	Makoto	¿Hmn? Seguro.	01:05:08;
+
+[PlayVoice]=01:03:07	Voice03/03-SB/03-SB-G04/03-SB-G04-0290	1	mak	01:05:08;
+
+[PrintText]=01:05:07	Sekai	¡Ah ¿Makoto?!	01:07:00;
+
+[PlayVoice]=01:05:07	Voice03/03-SB/03-SB-G04/03-SB-G04-0320	0	sek	01:07:00;
+
+[PlayMovie]=01:05:08	Movie03/03-SB/03-SB-G04/03-SB-G04-017	0	01:26:10;
+
+[PrintText]=01:07:00	Makoto	Oh, Sekai ¿Qué pasa?^	01:09:21;
+
+[PlayVoice]=01:07:00	Voice03/03-SB/03-SB-G04/03-SB-G04-0330	1	mak	01:09:21;
+
+[PrintText]=01:09:21	Sekai	¿'Qué pasa'? ...Estoy de camarera.	01:13:05;
+
+[PlayVoice]=01:09:21	Voice03/03-SB/03-SB-G04/03-SB-G04-0340	0	sek	01:13:05;
+
+[PrintText]=01:13:04	Makoto	Así que... Hmmn... ese uniforme de camarera...	01:20:06;
+
+[PlayVoice]=01:13:04	Voice03/03-SB/03-SB-G04/03-SB-G04-0350	1	mak	01:20:06;
+
+[SetSELECT]=01:20:06	'Es muy bonito'	'Es muy sexy'	01:25:06;
+
+ ;
+
+[Next]=01:26:10;
+
+

@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:42:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:42:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-001	00:04:01;
+
+[PrintText]=00:00:00	Makoto	Bien, bailaré contigo.	00:02:00;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-F09/03-SB-F09-0030	1	mak	00:02:00;
+
+[PrintText]=00:02:00	Kotonoha	Makoto-kun...	00:04:01;
+
+[PlayVoice]=00:02:00	Voice03/03-SB/03-SB-F09/03-SB-F09-0040	0	kot	00:04:01;
+
+[CreateBG]=00:04:01	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-002	00:07:14;
+
+[PrintText]=00:04:01	Makoto	No tengo idea si te gusta el baile folk.	00:07:14;
+
+[PlayVoice]=00:04:01	Voice03/03-SB/03-SB-F09/03-SB-F09-0050	1	mak	00:07:14;
+
+[CreateBG]=00:07:14	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-003	00:15:06;
+
+[PrintText]=00:07:14	Kotonoha	Ah, no es que me guste el baile folk, en realidad es una tradición escolar...	00:15:07;
+
+[PlayVoice]=00:07:14	Voice03/03-SB/03-SB-F09/03-SB-F09-0060	0	kot	00:15:07;
+
+[CreateBG]=00:15:06	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-004	00:21:20;
+
+[PrintText]=00:15:06	Makoto	¿Hmn?^	00:15:21;
+
+[PlayVoice]=00:15:06	Voice03/03-SB/03-SB-F09/03-SB-F09-0070	1	mak	00:15:21;
+
+[PrintText]=00:15:21	Kotonoha	O-oh, nada. Solo estoy feliz de que prometieras ir conmigo.	00:21:19;
+
+[PlayVoice]=00:15:21	Voice03/03-SB/03-SB-F09/03-SB-F09-0080	0	kot	00:21:19;
+
+[CreateBG]=00:21:20	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-005	00:23:18;
+
+[PrintText]=00:21:20	Makoto	No es realmente una 'promesa'...	00:23:17;
+
+[PlayVoice]=00:21:20	Voice03/03-SB/03-SB-F09/03-SB-F09-0090	1	mak	00:23:17;
+
+[CreateBG]=00:23:18	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-006	00:27:05;
+
+[PrintText]=00:23:18	Kotonoha	¿No es... una promesa?^	00:27:04;
+
+[PlayVoice]=00:23:18	Voice03/03-SB/03-SB-F09/03-SB-F09-0100	0	kot	00:27:04;
+
+[PrintText]=00:27:04	Makoto	Aww, bien, ya entiendo. Es una promesa.	00:30:16;
+
+[PlayVoice]=00:27:04	Voice03/03-SB/03-SB-F09/03-SB-F09-0110	1	mak	00:30:16;
+
+[CreateBG]=00:27:05	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-007	00:30:15;
+
+[CreateBG]=00:30:14	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-008	00:31:21;
+
+[PrintText]=00:30:15	Kotonoha	Eheheh...	00:31:21;
+
+[PlayVoice]=00:30:15	Voice03/03-SB/03-SB-F09/03-SB-F09-0120	0	kot	00:31:21;
+
+[CreateBG]=00:31:21	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-009	00:38:14;
+
+[PrintText]=00:31:22	Makoto	Vale, entonces iré a dormir ahora.	00:33:23;
+
+[PlayVoice]=00:31:22	Voice03/03-SB/03-SB-F09/03-SB-F09-0130	1	mak	00:33:23;
+
+[PrintText]=00:34:00	Kotonoha	Ah, sí. Bien, buenas noches entonces.	00:38:13;
+
+[PlayVoice]=00:34:00	Voice03/03-SB/03-SB-F09/03-SB-F09-0140	0	kot	00:38:13;
+
+[CreateBG]=00:38:14	BGS	Ini/Event03/03-SB/03-SB-F09/03-SB-F09-010	00:40:00;
+
+[CreateBG]=00:40:00	BGS	Event03/03-SB/03-SB-F09/03-SB-F09-011	00:42:22;
+
+[BlackFade]=00:41:22	OUT	00:42:22;
+
+ ;
+
+[Next]=00:42:22;
+
+

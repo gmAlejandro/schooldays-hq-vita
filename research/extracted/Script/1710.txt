@@ -1,0 +1,322 @@
+﻿[SkipFRAME]=03:53:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	03:53:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-001	00:29:15;
+
+[PrintText]=00:00:00	Makoto	¿Dónde demonios estamos?^	00:02:15;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-D04/05-SB-D04-0130	1	mak	00:02:15;
+
+[PrintText]=00:02:07	Hikari	La sala de video.	00:03:16;
+
+[PlayVoice]=00:02:07	Voice05/05-SB/05-SB-D04/05-SB-D04-0140	0	hik	00:03:16;
+
+[PrintText]=00:03:01	Makoto	¡¿Por qué almorzaremos en la sala de video?! ¿Este lugar no está fuera de nuestros límites?^	00:09:04;
+
+[PlayVoice]=00:03:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0150	1	mak	00:09:04;
+
+[PrintText]=00:08:18	Nanami	¿Huh? ¿No sabías? Sawanaga es del club de cine.	00:12:07;
+
+[PlayVoice]=00:08:18	Voice05/05-SB/05-SB-D04/05-SB-D04-0160	0	nan	00:12:07;
+
+[PrintText]=00:12:06	Makoto	¿El club de cine? ¿Quieres decir el club que hizo ese video estúpido para el festival...?^	00:18:23;
+
+[PlayVoice]=00:12:06	Voice05/05-SB/05-SB-D04/05-SB-D04-0170	1	mak	00:18:23;
+
+[PrintText]=00:18:17	Taisuke	No los llames estúpido.	00:20:17;
+
+[PlayVoice]=00:18:17	Voice05/05-SB/05-SB-D04/05-SB-D04-0180	1	tai	00:20:17;
+
+[PrintText]=00:21:01	Nanami	Ahora que lo pienso, esa estupidez es lo que la gente estaba hablando.	00:24:20;
+
+[PlayVoice]=00:21:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0190	0	nan	00:24:20;
+
+[PrintText]=00:24:18	Taisuke	¡¿Qué fue eso?! ¡Qué clase cosas hablas acerca de nuestra obra maestro!	00:29:16;
+
+[PlayVoice]=00:24:18	Voice05/05-SB/05-SB-D04/05-SB-D04-0200	1	tai	00:29:16;
+
+[PrintText]=00:29:14	Hikari	¿Huh? Nanami ¿Olvidaste de traer tu bebida?^	00:33:14;
+
+[PlayVoice]=00:29:14	Voice05/05-SB/05-SB-D04/05-SB-D04-0220	0	hik	00:33:14;
+
+[CreateBG]=00:29:15	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-002	00:51:06;
+
+[PrintText]=00:33:19	Nanami	Oh, tienes razón.	00:35:20;
+
+[PlayVoice]=00:33:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0230	0	nan	00:35:20;
+
+[PrintText]=00:35:08	Makoto	¿Quieres un poco de té?^	00:39:10;
+
+[PlayVoice]=00:35:08	Voice05/05-SB/05-SB-D04/05-SB-D04-0240	1	mak	00:39:10;
+
+[PrintText]=00:38:15	Hikari	¡Uwah! ¿En serio? ¿Has traído un termo?^	00:41:20;
+
+[PlayVoice]=00:38:15	Voice05/05-SB/05-SB-D04/05-SB-D04-0250	0	hik	00:41:20;
+
+[PrintText]=00:41:08	Makoto	Sí. Ya sabes, también he traído mi almuerzo.	00:45:18;
+
+[PlayVoice]=00:41:08	Voice05/05-SB/05-SB-D04/05-SB-D04-0260	1	mak	00:45:18;
+
+[PrintText]=00:45:03	Hikari	¿...Hecho a mano?^	00:46:07;
+
+[PlayVoice]=00:45:03	Voice05/05-SB/05-SB-D04/05-SB-D04-0270	0	hik	00:46:07;
+
+[PrintText]=00:46:01	Makoto	Pues claro.	00:47:08;
+
+[PlayVoice]=00:46:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0290	1	mak	00:47:08;
+
+[PrintText]=00:47:09	Nanami	¿A Mano por quién? No me digas que...	00:51:06;
+
+[PlayVoice]=00:47:09	Voice05/05-SB/05-SB-D04/05-SB-D04-0300	0	nan	00:51:06;
+
+[PrintText]=00:51:01	Makoto	Por mí.	00:53:02;
+
+[PlayVoice]=00:51:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0310	1	mak	00:53:02;
+
+[CreateBG]=00:51:06	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-003	01:12:08;
+
+[PrintText]=00:52:10	Hikari	¿Haah?^	00:53:07;
+
+[PlayVoice]=00:52:10	Voice05/05-SB/05-SB-D04/05-SB-D04-0320	0	hik	00:53:07;
+
+[PrintText]=00:53:03	Makoto	Mi hermana me estaba molestando para que haga su almuerzo, así que aproveche en hacerme uno también ¿Tienes un problema con eso?^	01:00:09;
+
+[PlayVoice]=00:53:03	Voice05/05-SB/05-SB-D04/05-SB-D04-0330	1	mak	01:00:09;
+
+[PrintText]=00:59:14	Nanami	No, pero...	01:01:04;
+
+[PlayVoice]=00:59:14	Voice05/05-SB/05-SB-D04/05-SB-D04-0340	0	nan	01:01:04;
+
+[PrintText]=01:01:02	Hikari	Es algo sorprendente escuchar que sabes cocinar...	01:03:18;
+
+[PlayVoice]=01:01:02	Voice05/05-SB/05-SB-D04/05-SB-D04-0350	0	hik	01:03:18;
+
+[PrintText]=01:03:00	Makoto	No es complicado. Arroz por aquí, agregar un poco de algas, freír unos huevos, y echar un poco de comida congelada.	01:12:08;
+
+[PlayVoice]=01:03:00	Voice05/05-SB/05-SB-D04/05-SB-D04-0360	1	mak	01:12:08;
+
+[CreateBG]=01:12:08	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-004	01:42:09;
+
+[PrintText]=01:12:08	Nanami	Incluso así, se ve bastante bueno...	01:14:21;
+
+[PlayVoice]=01:12:08	Voice05/05-SB/05-SB-D04/05-SB-D04-0370	0	nan	01:14:21;
+
+[PrintText]=01:14:21	Taisuke	Sí. No lo hubieras pensando, pero este chico cocina bastante bien. He tenido la oportunidad antes y...	01:20:08;
+
+[PlayVoice]=01:14:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0380	1	tai	01:20:08;
+
+[PrintText]=01:20:03	Hikari	¡Te mantienes alejado de su comida!	01:22:08;
+
+[PlayVoice]=01:20:03	Voice05/05-SB/05-SB-D04/05-SB-D04-0390	0	hik	01:22:08;
+
+[PrintText]=01:22:08	Taisuke	Uuh...	01:23:10;
+
+[PlayVoice]=01:22:08	Voice05/05-SB/05-SB-D04/05-SB-D04-0400	1	tai	01:23:10;
+
+[PrintText]=01:23:09	Nanami	C-Como sea, he olvidado traer mi bebida, así que iré a comprar algo.	01:27:11;
+
+[PlayVoice]=01:23:09	Voice05/05-SB/05-SB-D04/05-SB-D04-0410	0	nan	01:27:11;
+
+[PrintText]=01:27:14	Hikari	Sí, es cierto, deberías.	01:30:05;
+
+[PlayVoice]=01:27:14	Voice05/05-SB/05-SB-D04/05-SB-D04-0420	0	hik	01:30:05;
+
+[PrintText]=01:30:04	Taisuke	¡En ese caso, tal vez deba probar un poco de ese té!	01:34:21;
+
+[PlayVoice]=01:30:04	Voice05/05-SB/05-SB-D04/05-SB-D04-0440	1	tai	01:34:21;
+
+[PrintText]=01:34:21	Hikari	Tú también irás a comprar algo!	01:36:22;
+
+[PlayVoice]=01:34:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0450	0	hik	01:36:22;
+
+[PrintText]=01:36:21	Taisuke	¡Estoy algo corto de dinero este mes, así que es un poco difícil!	01:40:20;
+
+[PlayVoice]=01:36:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0460	1	tai	01:40:20;
+
+[PrintText]=01:40:21	Hikari	¡Te prestaré! ¡Aquí!	01:43:09;
+
+[PlayVoice]=01:40:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0470	0	hik	01:43:09;
+
+[CreateBG]=01:42:09	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-005	01:44:20;
+
+[PrintText]=01:44:02	Makoto	¿Qué les pasa...?^	01:46:23;
+
+[PlayVoice]=01:44:02	Voice05/05-SB/05-SB-D04/05-SB-D04-0500	1	mak	01:46:23;
+
+[CreateBG]=01:44:20	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-006	01:51:16;
+
+[PrintText]=01:47:00	Sekai	...	01:47:11;
+
+[PlayVoice]=01:47:00	Voice05/05-SB/05-SB-D04/05-SB-D04-0510	0	xxx	01:47:11;
+
+[PrintText]=01:47:10	Makoto	¡Incluso nos han arrastrado hasta aquí!	01:52:02;
+
+[PlayVoice]=01:47:10	Voice05/05-SB/05-SB-D04/05-SB-D04-0520	1	mak	01:52:02;
+
+[PrintText]=01:51:14	Sekai	Sí...	01:52:09;
+
+[PlayVoice]=01:51:14	Voice05/05-SB/05-SB-D04/05-SB-D04-0530	0	sek	01:52:09;
+
+[CreateBG]=01:51:16	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-007	02:13:11;
+
+[PrintText]=01:52:21	Makoto	Estás mas delgada ahora ¿No? No creo que sea mi imaginación.	02:01:04;
+
+[PlayVoice]=01:52:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0540	1	mak	02:01:04;
+
+[PrintText]=02:01:05	Sekai	¿Tú lo crees...?^	02:02:17;
+
+[PlayVoice]=02:01:05	Voice05/05-SB/05-SB-D04/05-SB-D04-0550	0	sek	02:02:17;
+
+[PrintText]=02:02:16	Makoto	Sí.	02:04:06;
+
+[PlayVoice]=02:02:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0560	1	mak	02:04:06;
+
+[PrintText]=02:04:13	Sekai	Creo que no tengo mucho apetito.	02:07:22;
+
+[PlayVoice]=02:04:13	Voice05/05-SB/05-SB-D04/05-SB-D04-0570	0	sek	02:07:22;
+
+[PrintText]=02:07:16	Makoto	¿Quieres decir que no estás comiendo?^	02:10:14;
+
+[PlayVoice]=02:07:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0580	1	mak	02:10:14;
+
+[PrintText]=02:09:20	Sekai	No, no es así. Como de vez en cuando.	02:12:19;
+
+[PlayVoice]=02:09:20	Voice05/05-SB/05-SB-D04/05-SB-D04-0590	0	sek	02:12:19;
+
+[PrintText]=02:12:16	Makoto	¿Recuedas cuando solíamos almorzar en el tejado, entonces prometiste hacerme un almuerzo?^	02:21:16;
+
+[PlayVoice]=02:12:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0600	1	mak	02:21:16;
+
+[CreateBG]=02:13:11	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-008	02:43:16;
+
+[PrintText]=02:21:16	Sekai	Uh-huh.	02:22:07;
+
+[PlayVoice]=02:21:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0610	0	sek	02:22:07;
+
+[PrintText]=02:22:07	Makoto	Si tenemos la oportunidad de almorzar como antes,	02:27:09;
+
+[PlayVoice]=02:22:07	Voice05/05-SB/05-SB-D04/05-SB-D04-0620	1	mak	02:27:09;
+
+[PrintText]=02:27:09	Makoto	¿Por que no intercambiamos almuerzos la próxima vez? Kanroji y las otros también pueden unirse.	02:33:18;
+
+[PlayVoice]=02:27:09	Voice05/05-SB/05-SB-D04/05-SB-D04-0621	1	mak	02:33:18;
+
+[PrintText]=02:33:18	Sekai	Sí...	02:34:20;
+
+[PlayVoice]=02:33:18	Voice05/05-SB/05-SB-D04/05-SB-D04-0630	0	sek	02:34:20;
+
+[PrintText]=02:34:21	Makoto	Lo estaré esperando con ansias sabes.	02:39:05;
+
+[PlayVoice]=02:34:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0640	1	mak	02:39:05;
+
+[PrintText]=02:39:05	Sekai	¿El qué?^	02:40:02;
+
+[PlayVoice]=02:39:05	Voice05/05-SB/05-SB-D04/05-SB-D04-0650	0	sek	02:40:02;
+
+[PrintText]=02:40:02	Makoto	Comer tus sandwiches.	02:43:16;
+
+[PlayVoice]=02:40:02	Voice05/05-SB/05-SB-D04/05-SB-D04-0660	1	mak	02:43:16;
+
+[CreateBG]=02:43:16	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-009	02:58:15;
+
+[PrintText]=02:43:16	Sekai	Ya veo...	02:44:16;
+
+[PlayVoice]=02:43:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0670	0	sek	02:44:16;
+
+[PrintText]=02:44:17	Makoto	...	02:47:12;
+
+[PlayVoice]=02:44:17	Voice05/05-SB/05-SB-D04/05-SB-D04-0680	1	xxx	02:47:12;
+
+[PrintText]=02:47:13	Sekai	Hey, Makoto... Escuché todo eso.	02:51:00;
+
+[PlayVoice]=02:47:13	Voice05/05-SB/05-SB-D04/05-SB-D04-0690	0	sek	02:51:00;
+
+[PrintText]=02:51:00	Makoto	¿De?^	02:52:18;
+
+[PlayVoice]=02:51:00	Voice05/05-SB/05-SB-D04/05-SB-D04-0700	1	mak	02:52:18;
+
+[PrintText]=02:52:19	Sekai	Lo de la Víspera de navidad. Irás a reunirte con Katsura-san a un Hotel...	02:58:15;
+
+[PlayVoice]=02:52:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0710	0	sek	02:58:15;
+
+[CreateBG]=02:58:15	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-010	03:12:15;
+
+[PrintText]=02:58:15	Makoto	Ah... ¿Kotonoha te lo dijo?^	03:04:23;
+
+[PlayVoice]=02:58:15	Voice05/05-SB/05-SB-D04/05-SB-D04-0720	1	mak	03:04:23;
+
+[PrintText]=03:04:23	Sekai	Sí.	03:05:15;
+
+[PlayVoice]=03:04:23	Voice05/05-SB/05-SB-D04/05-SB-D04-0730	0	sek	03:05:15;
+
+[PrintText]=03:05:15	Makoto	Cielos...	03:08:07;
+
+[PlayVoice]=03:05:15	Voice05/05-SB/05-SB-D04/05-SB-D04-0740	1	mak	03:08:07;
+
+[PrintText]=03:08:07	Sekai	...	03:08:18;
+
+[PlayVoice]=03:08:07	Voice05/05-SB/05-SB-D04/05-SB-D04-0750	0	xxx	03:08:18;
+
+[PrintText]=03:08:19	Makoto	No se lo digas a nadie ¿Vale? Es vergonzoso.	03:12:14;
+
+[PlayVoice]=03:08:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0760	1	mak	03:12:14;
+
+[CreateBG]=03:12:15	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-011	03:32:19;
+
+[PrintText]=03:12:15	Sekai	Bien.	03:13:06;
+
+[PlayVoice]=03:12:15	Voice05/05-SB/05-SB-D04/05-SB-D04-0770	0	sek	03:13:06;
+
+[PrintText]=03:13:06	Makoto	Ha estado muy agresiva últimamente... forzándome a salir a citas y esas cosas.	03:21:11;
+
+[PlayVoice]=03:13:06	Voice05/05-SB/05-SB-D04/05-SB-D04-0780	1	mak	03:21:11;
+
+[PrintText]=03:21:11	Sekai	¿En serio?^	03:22:16;
+
+[PlayVoice]=03:21:11	Voice05/05-SB/05-SB-D04/05-SB-D04-0790	0	sek	03:22:16;
+
+[PrintText]=03:22:01	Makoto	Me he quejado así antes ¿No?^	03:26:16;
+
+[PlayVoice]=03:22:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0800	1	mak	03:26:16;
+
+[PrintText]=03:26:04	Sekai	Sí.	03:26:22;
+
+[PlayVoice]=03:26:04	Voice05/05-SB/05-SB-D04/05-SB-D04-0810	0	sek	03:26:22;
+
+[PrintText]=03:26:16	Makoto	Comparado por como era antes, es como si hubiera cambiado totalmente.	03:31:22;
+
+[PlayVoice]=03:26:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0820	1	mak	03:31:22;
+
+[PrintText]=03:31:23	Sekai	Ya veo...	03:32:19;
+
+[PlayVoice]=03:31:23	Voice05/05-SB/05-SB-D04/05-SB-D04-0830	0	sek	03:32:19;
+
+[CreateBG]=03:32:19	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-012	03:50:19;
+
+[PrintText]=03:32:19	Makoto	Aún así... a parte de todo eso, nada a cambiado realmente.	03:38:05;
+
+[PlayVoice]=03:32:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0840	1	mak	03:38:05;
+
+[PrintText]=03:38:05	Sekai	...	03:39:19;
+
+[PlayVoice]=03:38:05	Voice05/05-SB/05-SB-D04/05-SB-D04-0850	0	xxx	03:39:19;
+
+[PrintText]=03:39:19	Makoto	Últimamente, he estado pensando que tal vez no sea tan malo. Estoy haciendo un verdadero esfuerzo ¿Sabes?^	03:50:19;
+
+[PlayVoice]=03:39:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0860	1	mak	03:50:19;
+
+[CreateBG]=03:50:19	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-013	03:53:12;
+
+[PrintText]=03:50:19	Sekai	Si...	03:52:00;
+
+[PlayVoice]=03:50:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0870	0	sek	03:52:00;
+
+[BlackFade]=03:52:12	OUT	03:53:12;
+
+ ;
+
+[Next]=03:53:12;
+
+
+

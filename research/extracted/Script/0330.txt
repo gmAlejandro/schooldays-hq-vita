@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:03:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:09:18;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-J07/02-2S-J07-001	00:03:03;
+
+[PrintText]=00:00:06	Makoto	Cómo me siento...	00:02:07;
+
+[PlayVoice]=00:00:06	Voice02/02-2S/02-2S-J07/02-2S-J07-0030	1	xxx	00:02:07;
+
+[CreateBG]=00:03:03	BGS	Ini/Event02/02-2S/02-2S-J07/02-2S-J07-002	00:09:18;
+
+#[PrintText]=00:03:03	Makoto	"La verdad es que, Yo...".	00:09:17;
+
+[PlayVoice]=00:03:09	Voice02/02-2S/02-2S-J07/02-2S-J07-0050	1	mak	00:04:12;
+
+[SetSELECT]=00:03:18	'Creo que no lo sé'	'Creo que me gusta Kotonoha'	00:08:18;
+
+ ;
+
+[Next]=00:09:18;
+
+
+
+

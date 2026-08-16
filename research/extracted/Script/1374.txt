@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:10:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F09/05-5O-F09-001	00:03:19;
+
+[PrintText]=00:00:08	Makoto	...	00:03:12;
+
+[PlayVoice]=00:00:08	Voice05/05-5O/05-5O-L00/05-5O-L00-0030	1	xxx	00:03:12;
+
+[CreateBG]=00:03:19	BGS	Event05/05-5O/05-5O-L00/05-5O-L00-002	00:10:10;
+
+[PrintText]=00:03:22	Sekai	Toma asiento, Makoto. Hice el almuerzo.	00:08:05;
+
+[PlayVoice]=00:03:22	Voice05/05-5O/05-5O-L00/05-5O-L00-0040	0	sek	00:08:05;
+
+[PrintText]=00:08:07	Makoto	¿Eh? Oh, vale...	00:10:07;
+
+[PlayVoice]=00:08:07	Voice05/05-5O/05-5O-L00/05-5O-L00-0050	1	mak	00:10:07;
+
+ ;
+
+[Next]=00:10:10;
+
+

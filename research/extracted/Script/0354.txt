@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:05:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:11:14;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-P02/SE02-2S-P02-001	00:11:14;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-P02/02-2S-P02-001	00:11:14;
+
+[PrintText]=00:00:00	Makoto	Acerca de Kotonoha...	00:01:11;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-P02/02-2S-P02-0040	1	mak	00:01:11;
+
+[PrintText]=00:01:11	Sekai	Ah...	00:02:00;
+
+[PlayVoice]=00:01:11	Voice02/02-2S/02-2S-P02/02-2S-P02-0050	0	sek	00:02:00;
+
+[PrintText]=00:02:17	Makoto	Pues...	00:06:04;
+
+[PlayVoice]=00:02:17	Voice02/02-2S/02-2S-P02/02-2S-P02-0060	1	mak	00:06:04;
+
+[SetSELECT]=00:05:14	'No siento nada por ella'	'No me atrevo a odiarla'	00:10:14;
+
+ ;
+
+[Next]=00:11:14;
+
+
+
+

@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:52:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:58:12;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-C05/01-1K-C05-001	00:07:21;
+
+[PrintText]=00:00:00	Makoto	Debería escoger otra película, solo si el cupón no funcionara.	00:04:22;
+
+[PlayVoice]=00:00:00	Voice01/01-1K/01-1K-C05/01-1K-C05-0030	1	mak	00:04:22;
+
+[PrintText]=00:05:09	Makoto	Veamos...	00:07:12;
+
+[PlayVoice]=00:05:09	Voice01/01-1K/01-1K-C05/01-1K-C05-0040	1	mak	00:07:12;
+
+[CreateBG]=00:07:21	BGS	Event01/01-1K/01-1K-C05/01-1K-C05-002	00:26:22;
+
+[PrintText]=00:07:21	Makoto	'Noise Base - Mobile Zombies Strike Back-'... ¿Qué es?, ¿Una película de terror?^	00:17:18;
+
+[PlayVoice]=00:07:21	Voice01/01-1K/01-1K-C05/01-1K-C05-0050	1	mak	00:17:18;
+
+[PrintText]=00:18:12	Makoto	¿Qué más...? Ah, También hay una película para adultos.	00:23:23;
+
+[PlayVoice]=00:18:12	Voice01/01-1K/01-1K-C05/01-1K-C05-0060	1	mak	00:23:23;
+
+[PrintText]=00:24:14	Makoto	Una película porno, huh...	00:26:11;
+
+[PlayVoice]=00:24:14	Voice01/01-1K/01-1K-C05/01-1K-C05-0070	1	mak	00:26:11;
+
+[CreateBG]=00:26:22	BGS	Event01/01-1K/01-1K-C01/01-1K-C01-002	00:45:20;
+
+[PrintText]=00:27:13	Makoto	'Tren Rábano -Maníaco sexual en el Tren- Baños termales -12 hermanas embarazadas-.	00:34:08;
+
+[PlayVoice]=00:27:13	Voice01/01-1K/01-1K-C05/01-1K-C05-0080	1	mak	00:34:08;
+
+[PrintText]=00:34:13	Makoto	La Profesora Katsugi ama la lección de esas gotas cayendo en su culo blanco'... característica triple... huh.	00:41:12;
+
+[PlayVoice]=00:34:13	Voice01/01-1K/01-1K-C05/01-1K-C05-0081	1	mak	00:41:12;
+
+[PrintText]=00:42:04	Makoto	E-Ese suena interesante...	00:45:20;
+
+[PlayVoice]=00:42:04	Voice01/01-1K/01-1K-C05/01-1K-C05-0090	1	mak	00:45:20;
+
+[CreateBG]=00:45:20	BGS	Event00/00-00/00-00-H00/00-00-H00-002	00:58:12;
+
+[PrintText]=00:45:20	Makoto	Espera, no... déjame ver...	00:49:06;
+
+[PlayVoice]=00:45:20	Voice01/01-1K/01-1K-C05/01-1K-C05-0100	1	mak	00:49:06;
+
+[PrintText]=00:49:14	Makoto	¿Que película debería ver con Kotonoha?^	00:53:04;
+
+[PlayVoice]=00:49:14	Voice01/01-1K/01-1K-C05/01-1K-C05-0110	1	mak	00:53:04;
+
+[SetSELECT]=00:52:12	*Ver la Película de Terror*	*Ver la Película Porno*	00:57:12;
+
+ ;
+
+[Next]=00:58:12;
+
+
+
+

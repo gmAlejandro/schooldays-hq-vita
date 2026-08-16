@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:50:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	00:50:00;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-D00/SE02-2K-D00-001	00:26:07;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-D00/02-2K-D00-001	0	00:03:01;
+
+[PrintText]=00:03:00	Makoto	Estuvo interesante la película.	00:05:20;
+
+[PlayVoice]=00:03:00	Voice02/02-2K/02-2K-D00/02-2K-D00-0040	1	mak	00:05:20;
+
+[PlayMovie]=00:03:01	Movie02/02-2K/02-2K-D00/02-2K-D00-002	0	00:26:10;
+
+[PrintText]=00:05:19	Kotonoha	Bastante, no esperaba tanto de ella...	00:10:14;
+
+[PlayVoice]=00:05:19	Voice02/02-2K/02-2K-D00/02-2K-D00-0050	0	kot	00:10:14;
+
+[PrintText]=00:10:15	Makoto	Sí, de pronto se convirtió en una película de espías y de terror...	00:14:17;
+
+[PlayVoice]=00:10:15	Voice02/02-2K/02-2K-D00/02-2K-D00-0060	1	mak	00:14:17;
+
+[PrintText]=00:14:17	Kotonoha	Dijeron que era un remake de la película original, así que puede que hayan hecho algunos cambios.	00:21:14;
+
+[PlayVoice]=00:14:17	Voice02/02-2K/02-2K-D00/02-2K-D00-0070	0	kot	00:21:14;
+
+[PrintText]=00:21:14	Makoto	No creo, tal vez pueda pedir prestado el original en algún momento.	00:26:09;
+
+[PlayVoice]=00:21:14	Voice02/02-2K/02-2K-D00/02-2K-D00-0080	1	mak	00:26:09;
+
+[PlaySe]=00:26:06	2	Se02/02-2K/02-2K-D00/SE02-2K-D00-001	00:50:00;
+
+[PrintText]=00:26:09	Kotonoha	Ah... en ese caso, ¿Por qué no lo vemos juntos?^	00:29:14;
+
+[PlayVoice]=00:26:09	Voice02/02-2K/02-2K-D00/02-2K-D00-0090	0	kot	00:29:14;
+
+[CreateBG]=00:26:10	BGS	Event02/02-2K/02-2K-D00/02-2K-D00-003	00:37:07;
+
+[PrintText]=00:29:14	Makoto	Suena bien.	00:30:22;
+
+[PlayVoice]=00:29:14	Voice02/02-2K/02-2K-D00/02-2K-D00-0100	1	mak	00:30:22;
+
+[PrintText]=00:30:22	Kotonoha	Vale, tendré todo listo en mi casa para entonces.	00:33:20;
+
+[PlayVoice]=00:30:22	Voice02/02-2K/02-2K-D00/02-2K-D00-0110	0	kot	00:33:20;
+
+[PrintText]=00:33:20	Makoto	¿Lo vamos a ver en tu casa?^	00:35:18;
+
+[PlayVoice]=00:33:20	Voice02/02-2K/02-2K-D00/02-2K-D00-0120	1	mak	00:35:18;
+
+[PrintText]=00:35:18	Kotonoha	¿No quieres?^	00:37:06;
+
+[PlayVoice]=00:35:18	Voice02/02-2K/02-2K-D00/02-2K-D00-0130	0	kot	00:37:06;
+
+[PlayMovie]=00:37:07	Movie02/02-2K/02-2K-D00/02-2K-D00-004	0	00:48:05;
+
+[PrintText]=00:37:07	Makoto	Claro que quiero, solo me siento un poco nervioso porque es tu casa...	00:43:02;
+
+[PlayVoice]=00:37:07	Voice02/02-2K/02-2K-D00/02-2K-D00-0140	1	mak	00:43:02;
+
+[PrintText]=00:43:01	Kotonoha	¿En serio?^	00:44:13;
+
+[PlayVoice]=00:43:01	Voice02/02-2K/02-2K-D00/02-2K-D00-0150	0	kot	00:44:13;
+
+[PrintText]=00:44:14	Makoto	Lo estaré esperando con ansias.	00:48:07;
+
+[PlayVoice]=00:44:14	Voice02/02-2K/02-2K-D00/02-2K-D00-0160	1	mak	00:48:07;
+
+[PlayMovie]=00:48:05	Movie02/02-2K/02-2K-D00/02-2K-D00-005	0	00:50:00;
+
+[PrintText]=00:48:07	Kotonoha	Ufufu...	00:49:14;
+
+[PlayVoice]=00:48:07	Voice02/02-2K/02-2K-D00/02-2K-D00-0170	0	kot	00:49:14;
+
+ ;
+
+[Next]=00:50:00;
+
+
+
+

@@ -1,0 +1,57 @@
+﻿[SkipFRAME]=00:15:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:15:14;
+
+[PlaySe]=00:00:00	1	Se04/04-E0/04-E0-E01/SE04-KA-E01-001	00:15:14;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-E01/04-KA-E01-001	00:03:23;
+
+[PrintText]=00:00:13	Makoto	Uuh... eso fue horrible.	00:03:15;
+
+[PlayVoice]=00:00:13	Voice04/04-KA/04-KA-E01/04-KA-E01-0040	1	mak	00:03:15;
+
+[CreateBG]=00:03:23	BGS	Event04/04-KA/04-KA-E01/04-KA-E01-002	00:08:01;
+
+[PrintText]=00:04:01	Kotonoha	Makoto-kun.	00:05:01;
+
+[PlayVoice]=00:04:01	Voice04/04-KA/04-KA-E01/04-KA-E01-0050	0	kot	00:05:01;
+
+[PrintText]=00:05:05	Makoto	Ah...	00:05:21;
+
+[PlayVoice]=00:05:05	Voice04/04-KA/04-KA-E01/04-KA-E01-0060	1	mak	00:05:21;
+
+[PrintText]=00:06:04	Kotonoha	¿Vas a casa?^	00:07:22;
+
+[PlayVoice]=00:06:04	Voice04/04-KA/04-KA-E01/04-KA-E01-0070	0	kot	00:07:22;
+
+[CreateBG]=00:08:01	BGS	Event04/04-KA/04-KA-E01/04-KA-E01-003	00:11:11;
+
+[PrintText]=00:08:03	Makoto	¿Me estabas esperando?^	00:09:05;
+
+[PlayVoice]=00:08:03	Voice04/04-KA/04-KA-E01/04-KA-E01-0080	1	mak	00:09:05;
+
+[PrintText]=00:09:11	Kotonoha	Sí...	00:10:04;
+
+[PlayVoice]=00:09:11	Voice04/04-KA/04-KA-E01/04-KA-E01-0090	0	kot	00:10:04;
+
+[PrintText]=00:10:11	Makoto	Ya veo...	00:11:07;
+
+[PlayVoice]=00:10:11	Voice04/04-KA/04-KA-E01/04-KA-E01-0100	1	mak	00:11:07;
+
+[CreateBG]=00:11:11	BGS	Event04/04-KA/04-KA-E01/04-KA-E01-002	00:15:14;
+
+[PrintText]=00:11:14	Kotonoha	¿Vamos?^	00:12:20;
+
+[PlayVoice]=00:11:14	Voice04/04-KA/04-KA-E01/04-KA-E01-0110	0	kot	00:12:20;
+
+[PrintText]=00:13:04	Makoto	Sí.	00:13:21;
+
+[PlayVoice]=00:13:04	Voice04/04-KA/04-KA-E01/04-KA-E01-0120	1	mak	00:13:21;
+
+[BlackFade]=00:14:14	OUT	00:15:14;
+
+ ;
+
+[Next]=00:15:14;
+
+

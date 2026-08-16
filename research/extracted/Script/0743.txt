@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:07:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:07:15;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-D02/SE03-SA-D02-001	00:07:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-D02/03-SA-D02-001	00:02:12;
+
+[PrintText]=00:00:00	Makoto	Vale ¿Dónde?^	00:01:14;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-D02/03-SA-D02-0030	1	mak	00:01:14;
+
+[PrintText]=00:01:14	Sekai	Al Club de Astronomía.	00:02:12;
+
+[PlayVoice]=00:01:14	Voice03/03-SA/03-SA-D02/03-SA-D02-0040	0	sek	00:02:12;
+
+[CreateBG]=00:02:12	BGS	Event03/03-SA/03-SA-E00/03-SA-E00-002	00:05:15;
+
+[PrintText]=00:02:12	Makoto	¿El club de Astronomía...? ¿Tenemos uno?^	00:05:14;
+
+[PlayVoice]=00:02:12	Voice03/03-SA/03-SA-D02/03-SA-D02-0050	1	mak	00:05:14;
+
+[CreateBG]=00:05:15	BGS	Event03/03-SA/03-SA-D02/03-SA-D02-003	00:07:15;
+
+[PrintText]=00:05:15	Sekai	Sip, ven.	00:07:00;
+
+[PlayVoice]=00:05:15	Voice03/03-SA/03-SA-D02/03-SA-D02-0060	0	sek	00:07:00;
+
+[PrintText]=00:07:00	Makoto	Vale.	00:07:15;
+
+[PlayVoice]=00:07:00	Voice03/03-SA/03-SA-D02/03-SA-D02-0070	1	mak	00:07:15;
+
+ ;
+
+[Next]=00:07:15;
+
+

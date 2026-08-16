@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:29:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:29:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-C00/04-SE-C00-001	00:02:22;
+
+[PrintText]=00:00:00	Kotonoha	Makoto-kun...	00:02:02;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-C00/04-SE-C00-0040	0	kot	00:02:02;
+
+[PlaySe]=00:02:17	1	SysSe/SE_all/keitai/keitai_vib	00:05:03;
+
+[CreateBG]=00:02:22	BGS	Event04/04-SE/04-SE-C00/04-SE-C00-002	00:05:06;
+
+[CreateBG]=00:05:06	BGS	Event04/04-SE/04-SE-C00/04-SE-C00-003	00:08:02;
+
+[PrintText]=00:05:16	Kotonoha	¿Makoto-kun?!	00:07:00;
+
+[PlayVoice]=00:05:16	Voice04/04-SE/04-SE-C00/04-SE-C00-0060	0	kot	00:07:00;
+
+[CreateBG]=00:08:02	BGS	Event04/04-SE/04-SE-C00/04-SE-C00-004	00:09:20;
+
+[PrintText]=00:08:02	Kotonoha	Ah...	00:09:03;
+
+[PlayVoice]=00:08:02	Voice04/04-SE/04-SE-C00/04-SE-C00-0080	0	kot	00:09:03;
+
+[PlaySe]=00:08:08	1	Se04/04-SE/04-SE-C00/SE04-SE-C00-001	00:08:13;
+
+[CreateBG]=00:09:20	BGS	Event04/04-SE/04-SE-C00/04-SE-C00-002	00:16:05;
+
+[PrintText]=00:14:08	Kotonoha	No...	00:15:07;
+
+[PlayVoice]=00:14:08	Voice04/04-SE/04-SE-C00/04-SE-C00-0100	0	kot	00:15:07;
+
+[CreateBG]=00:16:05	BGS	Event04/04-SE/04-SE-C00/04-SE-C00-007	00:22:08;
+
+[PrintText]=00:16:05	Kotonoha	Makoto-kun...!	00:19:09;
+
+[PlayVoice]=00:16:05	Voice04/04-SE/04-SE-C00/04-SE-C00-0120	0	kot	00:19:09;
+
+[CreateBG]=00:22:08	BGS	Event04/04-SE/04-SE-C00/04-SE-C00-002	00:25:05;
+
+[CreateBG]=00:25:05	BGS	Event04/04-SE/04-SE-C00/04-SE-C00-009	00:29:08;
+
+[BlackFade]=00:28:08	OUT	00:29:08;
+
+ ;
+
+[Next]=00:29:08;
+
+

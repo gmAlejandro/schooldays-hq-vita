@@ -1,0 +1,192 @@
+﻿[SkipFRAME]=02:27:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:08:14;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-002	00:05:00;
+
+[PlaySe]=00:04:18	1	Voice05/05-SB/05-SB-A00/05-SB-A00-0060	00:08:14;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-003	00:08:14;
+
+[PlayBgm]=00:08:13	BGM/SD_BGM/sdbgm20	02:13:22;
+
+[CreateBG]=00:08:14	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-004	00:12:10;
+
+[PlaySe]=00:09:14	2	SysSe/SE_all/keitai/tyakusin_sekai	00:17:15;
+
+[PrintText]=00:10:09	Sekai	...	00:10:20;
+
+[PlayVoice]=00:10:09	Voice05/05-SB/05-SB-A00/05-SB-A00-0080	0	xxx	00:10:20;
+
+[PlayMovie]=00:12:10	Movie01/01-00/01-00-A00/01-00-A00-002	0	00:15:23;
+
+[PrintText]=00:12:17	Sekai	...	00:13:07;
+
+[PlayVoice]=00:12:17	Voice05/05-SB/05-SB-A00/05-SB-A00-0110	0	xxx	00:13:07;
+
+[PrintText]=00:13:19	Sekai	Haah...	00:14:15;
+
+[PlayVoice]=00:13:19	Voice05/05-SB/05-SB-A00/05-SB-A00-0140	0	sek	00:14:15;
+
+[PlayMovie]=00:15:23	Movie05/05-SB/05-SB-A00/05-SB-A00-006	0	00:17:11;
+
+[CreateBG]=00:17:11	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-004	00:21:09;
+
+[PrintText]=00:19:19	Sekai	...	00:20:06;
+
+[PlayVoice]=00:19:19	Voice05/05-SB/05-SB-A00/05-SB-A00-0170	0	xxx	00:20:06;
+
+[PlaySe]=00:20:21	2	SysSe/SE_all/keitai/tyakusin_sekai	00:28:00;
+
+[PlayMovie]=00:21:09	Movie05/05-SB/05-SB-A00/05-SB-A00-008	0	00:24:10;
+
+[CreateBG]=00:24:10	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-003	00:28:09;
+
+[PlaySe]=00:28:01	1	SysSe/SE_all/keitai/keitai_sousa	00:28:04;
+
+[CreateBG]=00:28:09	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-011	00:41:10;
+
+[PrintText]=00:28:12	Sekai	¿Si?^	00:29:11;
+
+[PlayVoice]=00:28:12	Voice05/05-SB/05-SB-A00/05-SB-A00-0190	0	sek	00:29:11;
+
+[PrintText]=00:29:07	Kotonoha	¡Ah! Saionji-san.	00:31:03;
+
+[PlayVoice]=00:29:07	Voice05/05-SB/05-SB-A00/05-SB-A00-0210	0	kot	00:31:03;
+
+[PrintText]=00:32:03	Sekai	Uh-huh.	00:32:21;
+
+[PlayVoice]=00:32:03	Voice05/05-SB/05-SB-A00/05-SB-A00-0220	0	sek	00:32:21;
+
+[PrintText]=00:33:07	Kotonoha	¿Estabas dormida?^	00:35:18;
+
+[PlayVoice]=00:33:07	Voice05/05-SB/05-SB-A00/05-SB-A00-0230	0	kot	00:35:18;
+
+[PrintText]=00:36:06	Sekai	No.	00:37:04;
+
+[PlayVoice]=00:36:06	Voice05/05-SB/05-SB-A00/05-SB-A00-0240	0	sek	00:37:04;
+
+[PrintText]=00:37:16	Kotonoha	Gracias al cielo. ¡Hay algo que debes oír!	00:41:08;
+
+[PlayVoice]=00:37:16	Voice05/05-SB/05-SB-A00/05-SB-A00-0250	0	kot	00:41:08;
+
+[CreateBG]=00:41:10	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-012A	00:50:01;
+
+[PrintText]=00:42:16	Sekai	¿Algo en especial?^	00:44:04;
+
+[PlayVoice]=00:42:16	Voice05/05-SB/05-SB-A00/05-SB-A00-0260	0	sek	00:44:04;
+
+[PrintText]=00:44:04	Kotonoha	Sí.	00:45:02;
+
+[PlayVoice]=00:44:04	Voice05/05-SB/05-SB-A00/05-SB-A00-0270	0	kot	00:45:02;
+
+[PrintText]=00:45:19	Sekai	¿Es acerca de Makoto?^	00:47:11;
+
+[PlayVoice]=00:45:19	Voice05/05-SB/05-SB-A00/05-SB-A00-0280	0	sek	00:47:11;
+
+[PrintText]=00:47:11	Kotonoha	¡Sí!	00:48:12;
+
+[PlayVoice]=00:47:11	Voice05/05-SB/05-SB-A00/05-SB-A00-0290	0	kot	00:48:12;
+
+[PrintText]=00:49:04	Sekai	Ya veo...	00:49:22;
+
+[PlayVoice]=00:49:04	Voice05/05-SB/05-SB-A00/05-SB-A00-0300	0	sek	00:49:22;
+
+[CreateBG]=00:50:01	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-012B	00:57:17;
+
+[PrintText]=00:50:08	Kotonoha	Eheheh... bueno, como decía, estaba al teléfono con él.	00:57:17;
+
+[PlayVoice]=00:50:08	Voice05/05-SB/05-SB-A00/05-SB-A00-0310	0	kot	00:57:17;
+
+[CreateBG]=00:57:17	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-012C	01:04:08;
+
+[PrintText]=00:58:07	Sekai	...	00:58:22;
+
+[PlayVoice]=00:58:07	Voice05/05-SB/05-SB-A00/05-SB-A00-0320	0	xxx	00:58:22;
+
+[PrintText]=00:59:02	Kotonoha	Y... aceptó ir al hotel.	01:02:09;
+
+[PlayVoice]=00:59:02	Voice05/05-SB/05-SB-A00/05-SB-A00-0330	0	kot	01:02:09;
+
+[PrintText]=01:02:22	Sekai	...Ya veo.	01:04:07;
+
+[PlayVoice]=01:02:22	Voice05/05-SB/05-SB-A00/05-SB-A00-0360	0	sek	01:04:07;
+
+[CreateBG]=01:04:08	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-013	01:24:08;
+
+[PrintText]=01:04:18	Kotonoha	Parece que irá de fiesta con su hermana el 25, pero estará libre el día anterior.	01:12:20;
+
+[PlayVoice]=01:04:18	Voice05/05-SB/05-SB-A00/05-SB-A00-0370	0	kot	01:12:20;
+
+[PrintText]=01:14:00	Sekai	...	01:14:20;
+
+[PlayVoice]=01:14:00	Voice05/05-SB/05-SB-A00/05-SB-A00-0380	0	xxx	01:14:20;
+
+[PrintText]=01:15:10	Kotonoha	Estaba pensando que la Víspera de Navidad será increíble. Me hace tan feliz de solo saberlo ahora.	01:24:08;
+
+[PlayVoice]=01:15:10	Voice05/05-SB/05-SB-A00/05-SB-A00-0390	0	kot	01:24:08;
+
+[CreateBG]=01:24:08	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-014	01:53:04;
+
+[PrintText]=01:25:05	Sekai	...	01:25:16;
+
+[PlayVoice]=01:25:05	Voice05/05-SB/05-SB-A00/05-SB-A00-0400	0	xxx	01:25:16;
+
+[PrintText]=01:26:03	Kotonoha	¿Sabes que la Víspera de Navidad es el viernes?^	01:30:02;
+
+[PlayVoice]=01:26:03	Voice05/05-SB/05-SB-A00/05-SB-A00-0410	0	kot	01:30:02;
+
+[PrintText]=01:30:08	Kotonoha	Bueno, después de la escuela podremos cambiarnos antes de reunirnos en el hotel.	01:36:13;
+
+[PlayVoice]=01:30:08	Voice05/05-SB/05-SB-A00/05-SB-A00-0411	0	kot	01:36:13;
+
+[PrintText]=01:37:08	Sekai	...	01:39:09;
+
+[PlayVoice]=01:37:08	Voice05/05-SB/05-SB-A00/05-SB-A00-0420	0	xxx	01:39:09;
+
+[PrintText]=01:39:15	Kotonoha	Me pregunto por qué nuestra escuela tiene su ceremonia de cierre el 27...	01:44:12;
+
+[PlayVoice]=01:39:15	Voice05/05-SB/05-SB-A00/05-SB-A00-0430	0	kot	01:44:12;
+
+[PrintText]=01:45:03	Kotonoha	Sería mucho mejor si fuera el 24... de esa manera podríamos pasar la Navidad mas tiempo juntos.	01:52:22;
+
+[PlayVoice]=01:45:03	Voice05/05-SB/05-SB-A00/05-SB-A00-0431	0	kot	01:52:22;
+
+[CreateBG]=01:53:04	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-015	02:14:22;
+
+[PrintText]=01:54:06	Sekai	...	01:56:06;
+
+[PlayVoice]=01:54:06	Voice05/05-SB/05-SB-A00/05-SB-A00-0440	0	xxx	01:56:06;
+
+[PrintText]=01:55:20	Kotonoha	¡Ah! ¡Ahora que todo está pasando, puedo sentir mi corazón super agitado! ¿Entiendes cómo se siento en este momento?^	02:04:02;
+
+[PlayVoice]=01:55:20	Voice05/05-SB/05-SB-A00/05-SB-A00-0450	0	kot	02:04:02;
+
+[PrintText]=02:04:21	Sekai	Sí...	02:07:12;
+
+[PlayVoice]=02:04:21	Voice05/05-SB/05-SB-A00/05-SB-A00-0460	0	sek	02:07:12;
+
+[PrintText]=02:07:10	Kotonoha	¡Estoy tan feliz! Por supuesto creí que tenías que ser la primera en saberlo...	02:14:02;
+
+[PlayVoice]=02:07:10	Voice05/05-SB/05-SB-A00/05-SB-A00-0470	0	kot	02:14:02;
+
+[PrintText]=02:13:10	Sekai	...	02:16:19;
+
+[PlayVoice]=02:13:10	Voice05/05-SB/05-SB-A00/05-SB-A00-0490	0	xxx	02:16:19;
+
+[PlaySe]=02:14:05	2	SysSe/SE_all/keitai/keitai_sousa	02:14:08;
+
+[CreateBG]=02:14:22	BGS	Event05/05-SB/05-SB-A00/05-SB-A00-016	02:27:22;
+
+[PrintText]=02:17:02	Sekai	Kuh... uuh...	02:27:02;
+
+[PlayVoice]=02:17:02	Voice05/05-SB/05-SB-A00/05-SB-A00-0500	0	sek	02:27:02;
+
+ ;
+
+[Next]=02:27:22;
+
+
+

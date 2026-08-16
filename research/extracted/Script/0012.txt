@@ -1,0 +1,217 @@
+﻿[SkipFRAME]=01:35:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	01:35:20;
+
+[PlaySe]=00:00:00	1	Se00/00-00/00-00-F00/SE00-00-F00-001	00:02:15;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-F00/00-00-F00-001	00:05:09;
+
+[PlaySe]=00:02:15	2	Se00/00-00/00-00-F00/SE00-00-F00-004	00:02:17;
+
+[PrintText]=00:02:18	Makoto	¿Hola?^	00:03:11;
+
+[PlayVoice]=00:02:18	Voice00/00-00/00-00-F00/00-00-F00-0040	1	mak	00:03:11;
+
+[PrintText]=00:03:07	Sekai	Ah, ¿Makoto?^	00:04:21;
+
+[PlayVoice]=00:03:07	Voice00/00-00/00-00-F00/00-00-F00-0050	0	sek	00:04:21;
+
+[PrintText]=00:04:18	Makoto	Sí.	00:05:08;
+
+[PlayVoice]=00:04:18	Voice00/00-00/00-00-F00/00-00-F00-0060	1	mak	00:05:08;
+
+[CreateBG]=00:05:09	BGS	Event00/00-00/00-00-F00/00-00-F00-001b	00:06:14;
+
+[PrintText]=00:05:09	Sekai	Escucha, escucha.	00:06:18;
+
+[PlayVoice]=00:05:09	Voice00/00-00/00-00-F00/00-00-F00-0070	0	sek	00:06:18;
+
+[CreateBG]=00:06:14	BGS	Event00/00-00/00-00-F00/00-00-F00-001c	00:13:14;
+
+[PrintText]=00:06:14	Makoto	Sí...	00:07:04;
+
+[PlayVoice]=00:06:14	Voice00/00-00/00-00-F00/00-00-F00-0080	1	mak	00:07:04;
+
+[PrintText]=00:07:06	Sekai	He quedado con Katsura-san para almorzar juntos.	00:12:04;
+
+[PlayVoice]=00:07:06	Voice00/00-00/00-00-F00/00-00-F00-0090	0	sek	00:12:04;
+
+[PrintText]=00:12:02	Makoto	Wow...	00:13:02;
+
+[PlayVoice]=00:12:02	Voice00/00-00/00-00-F00/00-00-F00-0100	1	mak	00:13:02;
+
+[PrintText]=00:13:03	Sekai	¡Será en el tejado del colegio, donde almorzamos!	00:16:10;
+
+[PlayVoice]=00:13:03	Voice00/00-00/00-00-F00/00-00-F00-0110	0	sek	00:16:10;
+
+[PlayMovie]=00:13:14	Movie00/00-00/00-00-F00/00-00-F00-002	0	00:23:15;
+
+[PrintText]=00:16:08	Makoto	Ah... ese lugar... suena bien.	00:19:05;
+
+[PlayVoice]=00:16:08	Voice00/00-00/00-00-F00/00-00-F00-0120	1	mak	00:19:05;
+
+[PrintText]=00:19:03	Sekai	Sí. Se ve tan secreto ese lugar... Será genial!	00:23:16;
+
+[PlayVoice]=00:19:03	Voice00/00-00/00-00-F00/00-00-F00-0130	0	sek	00:23:16;
+
+[CreateBG]=00:23:15	BGS	Event00/00-00/00-00-F00/00-00-F00-003	00:33:18;
+
+[PrintText]=00:23:15	Makoto	Entonces creo que iré a la cafetería...	00:26:03;
+
+[PlayVoice]=00:23:15	Voice00/00-00/00-00-F00/00-00-F00-0140	1	mak	00:26:03;
+
+[PrintText]=00:25:12	Sekai	¡¿Huh?! ¿De qué hablas? También vienes conmigo.	00:30:12;
+
+[PlayVoice]=00:25:12	Voice00/00-00/00-00-F00/00-00-F00-0150	0	sek	00:30:12;
+
+[PrintText]=00:30:12	Makoto	¿Eh?^	00:31:03;
+
+[PlayVoice]=00:30:12	Voice00/00-00/00-00-F00/00-00-F00-0160	1	mak	00:31:03;
+
+[PrintText]=00:31:09	Sekai	Le dije a Katsura-san que íbamos a almorzar los 3 juntos.	00:34:07;
+
+[PlayVoice]=00:31:09	Voice00/00-00/00-00-F00/00-00-F00-0170	0	sek	00:34:07;
+
+[CreateBG]=00:33:18	BGS	Event00/00-00/00-00-F00/00-00-F00-004	00:43:15;
+
+[PrintText]=00:33:18	Makoto	¡E-espera un minuto!	00:35:13;
+
+[PlayVoice]=00:33:18	Voice00/00-00/00-00-F00/00-00-F00-0180	1	mak	00:35:13;
+
+[PrintText]=00:35:09	Sekai	¿Qué?^	00:36:04;
+
+[PlayVoice]=00:35:09	Voice00/00-00/00-00-F00/00-00-F00-0190	0	sek	00:36:04;
+
+[PrintText]=00:36:02	Makoto	¿Quieres decir que también almorzare en el tejado?^	00:37:13;
+
+[PlayVoice]=00:36:02	Voice00/00-00/00-00-F00/00-00-F00-0200	1	mak	00:37:13;
+
+[PrintText]=00:37:09	Sekai	Sí.	00:38:02;
+
+[PlayVoice]=00:37:09	Voice00/00-00/00-00-F00/00-00-F00-0210	0	sek	00:38:02;
+
+[PrintText]=00:38:01	Makoto	¿Contigo y con Katsura?^	00:40:00;
+
+[PlayVoice]=00:38:01	Voice00/00-00/00-00-F00/00-00-F00-0220	1	mak	00:40:00;
+
+[PrintText]=00:39:20	Sekai	Exacto.	00:40:17;
+
+[PlayVoice]=00:39:20	Voice00/00-00/00-00-F00/00-00-F00-0230	0	sek	00:40:17;
+
+[PrintText]=00:40:17	Makoto	...No puedo.	00:42:17;
+
+[PlayVoice]=00:40:17	Voice00/00-00/00-00-F00/00-00-F00-0240	1	mak	00:42:17;
+
+[PrintText]=00:42:14	Sekai	¡¿Qué?!	00:43:15;
+
+[PlayVoice]=00:42:14	Voice00/00-00/00-00-F00/00-00-F00-0250	0	sek	00:43:15;
+
+[PlayMovie]=00:43:15	Movie00/00-00/00-00-F00/00-00-F00-005	0	00:46:21;
+
+[PrintText]=00:43:15	Makoto	No estoy listo para algo como eso.	00:45:11;
+
+[PlayVoice]=00:43:15	Voice00/00-00/00-00-F00/00-00-F00-0260	1	mak	00:45:11;
+
+[PrintText]=00:45:05	Sekai	¡Makoto!	00:47:00;
+
+[PlayVoice]=00:45:05	Voice00/00-00/00-00-F00/00-00-F00-0270	0	sek	00:47:00;
+
+[PlayMovie]=00:46:21	Movie00/00-00/00-00-F00/00-00-F00-006	0	01:09:02;
+
+[PrintText]=00:46:21	Makoto	No puedo hacerlo, mis piernas empezaron a temblar cuando me puse a pensar en ello.	00:50:20;
+
+[PlayVoice]=00:46:21	Voice00/00-00/00-00-F00/00-00-F00-0280	1	mak	00:50:20;
+
+[PrintText]=00:50:15	Sekai	¿De qué hablas? ¡Si vas a seguir así, no podrás salir jamas con ella en tu vida!	00:55:21;
+
+[PlayVoice]=00:50:15	Voice00/00-00/00-00-F00/00-00-F00-0290	0	sek	00:55:21;
+
+[PrintText]=00:55:18	Makoto	...Está bien. Pasaré el resto de mi vida mirando de lejos.	00:58:21;
+
+[PlayVoice]=00:55:18	Voice00/00-00/00-00-F00/00-00-F00-0300	1	mak	00:58:21;
+
+[PrintText]=00:58:20	Sekai	¿Estás de broma, no?^	01:00:17;
+
+[PlayVoice]=00:58:20	Voice00/00-00/00-00-F00/00-00-F00-0310	0	sek	01:00:17;
+
+[PrintText]=01:00:13	Makoto	No, es enserio.	01:02:07;
+
+[PlayVoice]=01:00:13	Voice00/00-00/00-00-F00/00-00-F00-0320	1	mak	01:02:07;
+
+[PrintText]=01:02:09	Sekai	¡Mira, vamos!	01:04:04;
+
+[PlayVoice]=01:02:09	Voice00/00-00/00-00-F00/00-00-F00-0330	0	sek	01:04:04;
+
+[PrintText]=01:03:23	Makoto	¡No puedo, no puedo!	01:05:04;
+
+[PlayVoice]=01:03:23	Voice00/00-00/00-00-F00/00-00-F00-0340	1	mak	01:05:04;
+
+[PrintText]=01:05:01	Sekai	¡Makoto!	01:06:01;
+
+[PlayVoice]=01:05:01	Voice00/00-00/00-00-F00/00-00-F00-0350	0	sek	01:06:01;
+
+[PrintText]=01:05:21	Makoto	¡No puedo No puedo No puedo No puedo!	01:07:08;
+
+[PlayVoice]=01:05:21	Voice00/00-00/00-00-F00/00-00-F00-0360	1	mak	01:07:08;
+
+[PrintText]=01:07:09	Sekai	...	01:08:21;
+
+[PlayVoice]=01:07:09	Voice00/00-00/00-00-F00/00-00-F00-0370	0	xxx	01:08:21;
+
+[CreateBG]=01:09:02	BGS	Event00/00-00/00-00-F00/00-00-F00-007	01:12:06;
+
+[PrintText]=01:09:06	Makoto	...¿Sekai?^	01:10:06;
+
+[PlayVoice]=01:09:06	Voice00/00-00/00-00-F00/00-00-F00-0380	1	mak	01:10:06;
+
+[PrintText]=01:10:07	Sekai	¡Cobarde! ¡Idiota! ¡Muérete!	01:12:10;
+
+[PlayVoice]=01:10:07	Voice00/00-00/00-00-F00/00-00-F00-0390	0	sek	01:12:10;
+
+[PlaySe]=01:12:06	1	Se00/00-00/00-00-F00/SE00-00-F00-002	01:16:04;
+
+[CreateBG]=01:12:06	BGS	Event00/00-00/00-00-F00/00-00-F00-008	01:19:07;
+
+[PrintText]=01:12:19	Makoto	Guh...¿Con 'Muérete' no va muy lejos?^	01:19:07;
+
+[PlayVoice]=01:12:19	Voice00/00-00/00-00-F00/00-00-F00-0410	1	mak	01:19:07;
+
+[PlaySe]=01:19:04	1	Se00/00-00/00-00-F00/SE00-00-F00-003	01:19:23;
+
+[CreateBG]=01:19:07	BGS	Event00/00-00/00-00-F00/00-00-F00-008B	01:21:16;
+
+[PrintText]=01:19:21	Makoto	Ah... llegó un correo.	01:21:10;
+
+[PlayVoice]=01:19:21	Voice00/00-00/00-00-F00/00-00-F00-0430	1	mak	01:21:10;
+
+[PlaySe]=01:21:14	1	Se00/00-00/00-00-F00/SE00-00-F00-004	01:21:16;
+
+[PlayMovie]=01:21:16	Ini/Movie00/00-00/00-00-F00/00-00-F00-009	0	01:29:10;
+
+#[PrintText]=01:21:16	Celular	De: Saionji Sekai\nSub: Muérete si quieres.	01:23:06;
+
+#[PrintText]=01:23:06	Celular	¡Muérete si quieres, pero si todavía sigues vivo para mañana, el almuerzo es obligatorio! - Sekai-sama.	01:27:12;
+
+[PrintText]=01:27:12	Makoto	Siempre agregando el '-sama'.	01:29:04;
+
+[PlayVoice]=01:27:12	Voice00/00-00/00-00-F00/00-00-F00-0460	1	mak	01:29:04;
+
+[CreateBG]=01:29:10	BGS	Event00/00-00/00-00-F00/00-00-F00-010	01:35:20;
+
+[PrintText]=01:29:20	Makoto	haha... mañana, huh.	01:33:02;
+
+[PlayVoice]=01:29:20	Voice00/00-00/00-00-F00/00-00-F00-0470	1	mak	01:33:02;
+
+[PrintText]=01:33:02	Makoto	Es demasiado pronto.	01:34:17;
+
+[PlayVoice]=01:33:02	Voice00/00-00/00-00-F00/00-00-F00-0480	1	mak	01:34:17;
+
+[BlackFade]=01:34:18	OUT	01:35:20;
+
+ ;
+
+[Next]=01:35:20;
+
+
+
+

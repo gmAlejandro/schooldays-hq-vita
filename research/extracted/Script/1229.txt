@@ -1,0 +1,71 @@
+﻿[SkipFRAME]=00:26:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:26:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-001	00:01:02;
+
+[PrintText]=00:00:06	Makoto	No...	00:01:04;
+
+[PlayVoice]=00:00:06	Voice04/04-SC/04-SC-B02/04-SC-B02-0030	1	mak	00:01:04;
+
+[CreateBG]=00:01:02	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-002	00:03:22;
+
+[PrintText]=00:01:04	Sekai	¿Eh? ¿No sería apropiado?^	00:04:00;
+
+[PlayVoice]=00:01:04	Voice04/04-SC/04-SC-B02/04-SC-B02-0040	0	sek	00:04:00;
+
+[CreateBG]=00:03:22	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-003	00:05:05;
+
+[PrintText]=00:04:00	Makoto	Um, pues...	00:05:07;
+
+[PlayVoice]=00:04:00	Voice04/04-SC/04-SC-B02/04-SC-B02-0050	1	mak	00:05:07;
+
+[CreateBG]=00:05:05	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-004	00:08:18;
+
+[PrintText]=00:05:07	Sekai	¡Ah! Ya sé.	00:08:23;
+
+[PlayVoice]=00:05:07	Voice04/04-SC/04-SC-B02/04-SC-B02-0060	0	sek	00:08:23;
+
+[CreateBG]=00:08:18	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-005	00:09:17;
+
+[PrintText]=00:08:23	Makoto	¿Eh...?^	00:09:18;
+
+[PlayVoice]=00:08:23	Voice04/04-SC/04-SC-B02/04-SC-B02-0070	1	mak	00:09:18;
+
+[CreateBG]=00:09:17	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-006	00:14:06;
+
+[PrintText]=00:09:18	Sekai	Ya sé lo que piensas, '¿Qué clase de comida de pacotilla va a hacer?' ¿No?^	00:14:07;
+
+[PlayVoice]=00:09:18	Voice04/04-SC/04-SC-B02/04-SC-B02-0080	0	sek	00:14:07;
+
+[CreateBG]=00:14:06	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-006B	00:15:21;
+
+[PrintText]=00:14:07	Makoto	No, eso no es.	00:16:00;
+
+[PlayVoice]=00:14:07	Voice04/04-SC/04-SC-B02/04-SC-B02-0090	1	mak	00:16:00;
+
+[CreateBG]=00:15:21	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-007	00:19:17;
+
+[PrintText]=00:16:00	Sekai	Ahahah... ¡Daré mi mejor esfuerzo, así que no hay necesidad de que estés asustado!	00:19:21;
+
+[PlayVoice]=00:16:00	Voice04/04-SC/04-SC-B02/04-SC-B02-0100	0	sek	00:19:21;
+
+[CreateBG]=00:19:17	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-008	00:21:13;
+
+[PrintText]=00:19:21	Makoto	V-Vale.	00:21:15;
+
+[PlayVoice]=00:19:21	Voice04/04-SC/04-SC-B02/04-SC-B02-0110	1	mak	00:21:15;
+
+[CreateBG]=00:21:13	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-009	00:24:15;
+
+[PrintText]=00:21:15	Sekai	¡Bien, entonces espera por ello mañana!	00:24:12;
+
+[PlayVoice]=00:21:15	Voice04/04-SC/04-SC-B02/04-SC-B02-0120	0	sek	00:24:12;
+
+[CreateBG]=00:24:15	BGS	Event04/04-SC/04-SC-B02/04-SC-B02-010	00:26:08;
+
+ ;
+
+[Next]=00:26:08;
+
+

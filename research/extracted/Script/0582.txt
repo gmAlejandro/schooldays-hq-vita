@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:12:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:18:13;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-I05/SE03-KA-I05-001	00:18:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-I05/03-KA-I05-001	00:10:14;
+
+[PrintText]=00:00:00	Makoto	...Somos muy cercanos.	00:01:09;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-I05/03-KA-I05-0030	1	mak	00:01:09;
+
+[PrintText]=00:01:15	Setsuna	Ya veo...	00:02:20;
+
+[PlayVoice]=00:01:15	Voice03/03-KA/03-KA-I05/03-KA-I05-0040	0	set	00:02:20;
+
+[PrintText]=00:02:21	Makoto	Así son las cosas.	00:04:09;
+
+[PlayVoice]=00:02:21	Voice03/03-KA/03-KA-I05/03-KA-I05-0050	1	mak	00:04:09;
+
+[PrintText]=00:04:22	Setsuna	¿Debería llamarte también 'Makoto'?^	00:09:00;
+
+[PlayVoice]=00:04:22	Voice03/03-KA/03-KA-I05/03-KA-I05-0060	0	set	00:09:00;
+
+[PrintText]=00:08:14	Makoto	¡Hey! ¡¿Como es que eso funciona?!	00:10:19;
+
+[PlayVoice]=00:08:14	Voice03/03-KA/03-KA-I05/03-KA-I05-0070	1	mak	00:10:19;
+
+[CreateBG]=00:10:14	BGS	Event03/03-KA/03-KA-I05/03-KA-I05-002	00:18:13;
+
+[PrintText]=00:10:15	Setsuna	Después de todo, somos cercanos.	00:11:23;
+
+[PlayVoice]=00:10:15	Voice03/03-KA/03-KA-I05/03-KA-I05-0080	0	set	00:11:23;
+
+[PrintText]=00:11:20	Makoto	¿Ehh...?^	00:12:20;
+
+[PlayVoice]=00:11:20	Voice03/03-KA/03-KA-I05/03-KA-I05-0090	1	mak	00:12:20;
+
+[SetSELECT]=00:12:11	'Sí'	'No'	00:17:11;
+
+ ;
+
+[Next]=00:18:13;
+
+

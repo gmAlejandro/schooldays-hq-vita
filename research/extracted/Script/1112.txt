@@ -1,0 +1,89 @@
+﻿[SkipFRAME]=00:34:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:34:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-001	00:06:07;
+
+[PrintText]=00:00:05	Makoto	...	00:01:16;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-H03/04-SA-H03-0030	1	xxx	00:01:16;
+
+[PrintText]=00:01:17	Sekai	Lo sé.	00:02:17;
+
+[PlayVoice]=00:01:17	Voice04/04-SA/04-SA-H03/04-SA-H03-0040	0	sek	00:02:17;
+
+[PrintText]=00:02:17	Makoto	¿Eh?^	00:03:08;
+
+[PlayVoice]=00:02:17	Voice04/04-SA/04-SA-H03/04-SA-H03-0050	1	mak	00:03:08;
+
+[PrintText]=00:03:09	Sekai	Déjamelo a mí. Tengo un gran plan.	00:06:10;
+
+[PlayVoice]=00:03:09	Voice04/04-SA/04-SA-H03/04-SA-H03-0060	0	sek	00:06:10;
+
+[CreateBG]=00:06:07	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-002	00:07:20;
+
+[PrintText]=00:06:13	Makoto	¿Gran plan?^	00:07:21;
+
+[PlayVoice]=00:06:13	Voice04/04-SA/04-SA-H03/04-SA-H03-0070	1	mak	00:07:21;
+
+[CreateBG]=00:07:20	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-003	00:14:15;
+
+[PrintText]=00:07:22	Sekai	Solo espera y verás.	00:11:04;
+
+[PlayVoice]=00:07:22	Voice04/04-SA/04-SA-H03/04-SA-H03-0080	0	sek	00:11:04;
+
+[PrintText]=00:11:04	Makoto	entonces es un secreto.	00:12:20;
+
+[PlayVoice]=00:11:04	Voice04/04-SA/04-SA-H03/04-SA-H03-0090	1	mak	00:12:20;
+
+[PrintText]=00:12:17	Sekai	Sip, un secreto.	00:14:15;
+
+[PlayVoice]=00:12:17	Voice04/04-SA/04-SA-H03/04-SA-H03-0100	0	sek	00:14:15;
+
+[CreateBG]=00:14:15	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-004	00:17:17;
+
+[PrintText]=00:15:07	Sekai	Bueno, me iré entonces.	00:16:17;
+
+[PlayVoice]=00:15:07	Voice04/04-SA/04-SA-H03/04-SA-H03-0120	0	sek	00:16:17;
+
+[PrintText]=00:16:17	Makoto	Ah... hey, Sekai.	00:19:15;
+
+[PlayVoice]=00:16:17	Voice04/04-SA/04-SA-H03/04-SA-H03-0130	1	mak	00:19:15;
+
+[CreateBG]=00:17:17	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-004B	00:19:14;
+
+[CreateBG]=00:19:14	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-004C	00:26:02;
+
+[PrintText]=00:19:15	Sekai	¿Hmn?^	00:20:05;
+
+[PlayVoice]=00:19:15	Voice04/04-SA/04-SA-H03/04-SA-H03-0140	0	sek	00:20:05;
+
+[PrintText]=00:20:05	Makoto	¿Vendras a la escuela de nuevo, mañana?^	00:23:14;
+
+[PlayVoice]=00:20:05	Voice04/04-SA/04-SA-H03/04-SA-H03-0150	1	mak	00:23:14;
+
+[PrintText]=00:24:05	Sekai	Bueno, viendo lo que ha pasado. No puedo tomarme el día otra ves...	00:28:05;
+
+[PlayVoice]=00:24:05	Voice04/04-SA/04-SA-H03/04-SA-H03-0160	0	sek	00:28:05;
+
+[CreateBG]=00:26:02	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-004D	00:29:01;
+
+[PrintText]=00:28:05	Makoto	Ya veo...	00:29:04;
+
+[PlayVoice]=00:28:05	Voice04/04-SA/04-SA-H03/04-SA-H03-0170	1	mak	00:29:04;
+
+[CreateBG]=00:29:01	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-005	00:34:00;
+
+[PrintText]=00:29:12	Sekai	Bueno, nos vemos después.	00:30:20;
+
+[PlayVoice]=00:29:12	Voice04/04-SA/04-SA-H03/04-SA-H03-0180	0	sek	00:30:20;
+
+[PrintText]=00:30:20	Makoto	Sí, nos vemos después.	00:32:19;
+
+[PlayVoice]=00:30:20	Voice04/04-SA/04-SA-H03/04-SA-H03-0190	1	mak	00:32:19;
+
+ ;
+
+[Next]=00:34:00;
+
+

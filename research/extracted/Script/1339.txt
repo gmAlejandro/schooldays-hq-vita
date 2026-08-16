@@ -1,0 +1,17 @@
+﻿[SkipFRAME]=00:05:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:05:02;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F02/05-5O-F02-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-F02/05-5O-F02-002	00:05:02;
+
+[PrintText]=00:03:14	Makoto	Phew...	00:04:11;
+
+[PlayVoice]=00:03:14	Voice05/05-5O/05-5O-F02/05-5O-F02-0040	1	mak	00:04:11;
+
+ ;
+
+[Next]=00:05:02;
+
+

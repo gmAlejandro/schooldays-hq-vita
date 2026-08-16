@@ -1,0 +1,169 @@
+﻿[SkipFRAME]=01:58:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	01:58:12;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-001A	00:03:16;
+
+[PrintText]=00:00:00	Makoto	Por eso, debería alejarme de ti.	00:03:16;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-K06/02-2K-K06-0030	1	mak	00:03:16;
+
+[CreateBG]=00:03:16	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-001B	00:12:03;
+
+[PrintText]=00:03:16	Kotonoha	¡¿Eh?!	00:04:11;
+
+[PlayVoice]=00:03:16	Voice02/02-2K/02-2K-K06/02-2K-K06-0040	0	kot	00:04:11;
+
+[PrintText]=00:04:11	Makoto	Solo veo que te hago sentir muy mal... y...	00:10:04;
+
+[PlayVoice]=00:04:11	Voice02/02-2K/02-2K-K06/02-2K-K06-0050	1	mak	00:10:04;
+
+[PrintText]=00:10:05	Kotonoha	E-Espera...	00:12:03;
+
+[PlayVoice]=00:10:05	Voice02/02-2K/02-2K-K06/02-2K-K06-0060	0	kot	00:12:03;
+
+[PrintText]=00:12:02	Makoto	Está bien... sé que también es difícil de soportar.	00:17:11;
+
+[PlayVoice]=00:12:02	Voice02/02-2K/02-2K-K06/02-2K-K06-0070	1	mak	00:17:11;
+
+[CreateBG]=00:12:03	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-002	00:21:08;
+
+[PrintText]=00:17:12	Kotonoha	Puedo soportarlo... Puedo hacerlo.	00:20:06;
+
+[PlayVoice]=00:17:12	Voice02/02-2K/02-2K-K06/02-2K-K06-0080	0	kot	00:20:06;
+
+[PrintText]=00:20:05	Makoto	Pero...	00:21:08;
+
+[PlayVoice]=00:20:05	Voice02/02-2K/02-2K-K06/02-2K-K06-0090	1	mak	00:21:08;
+
+[CreateBG]=00:21:08	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-003A	00:42:20;
+
+[PrintText]=00:21:08	Kotonoha	Entiendo como te sientes...	00:25:19;
+
+[PlayVoice]=00:21:08	Voice02/02-2K/02-2K-K06/02-2K-K06-0100	0	kot	00:25:19;
+
+[PrintText]=00:25:20	Makoto	¿En serio?^	00:26:18;
+
+[PlayVoice]=00:25:20	Voice02/02-2K/02-2K-K06/02-2K-K06-0110	1	mak	00:26:18;
+
+[PrintText]=00:26:18	Kotonoha	Lo entiendo... así que debo soportarlo...	00:32:02;
+
+[PlayVoice]=00:26:18	Voice02/02-2K/02-2K-K06/02-2K-K06-0120	0	kot	00:32:02;
+
+[PrintText]=00:32:03	Makoto	Kotonoha...	00:34:02;
+
+[PlayVoice]=00:32:03	Voice02/02-2K/02-2K-K06/02-2K-K06-0130	1	mak	00:34:02;
+
+[PrintText]=00:34:02	Kotonoha	Por favor, no digas que quieres alejarte de mí...	00:37:05;
+
+[PlayVoice]=00:34:02	Voice02/02-2K/02-2K-K06/02-2K-K06-0140	0	kot	00:37:05;
+
+[PrintText]=00:37:05	Makoto	...	00:38:12;
+
+[PlayVoice]=00:37:05	Voice02/02-2K/02-2K-K06/02-2K-K06-0150	1	xxx	00:38:12;
+
+[PrintText]=00:38:13	Kotonoha	Porque, quiero que estemos juntos.	00:42:21;
+
+[PlayVoice]=00:38:13	Voice02/02-2K/02-2K-K06/02-2K-K06-0160	0	kot	00:42:21;
+
+[CreateBG]=00:42:20	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-003B	00:47:21;
+
+[PrintText]=00:42:21	Makoto	Gracias.	00:43:22;
+
+[PlayVoice]=00:42:21	Voice02/02-2K/02-2K-K06/02-2K-K06-0170	1	mak	00:43:22;
+
+[PrintText]=00:43:23	Kotonoha	Está bien, debo ser yo la que se tendría que disculpar.	00:47:21;
+
+[PlayVoice]=00:43:23	Voice02/02-2K/02-2K-K06/02-2K-K06-0180	0	kot	00:47:21;
+
+[PrintText]=00:47:20	Makoto	No tienes por qué.	00:50:21;
+
+[PlayVoice]=00:47:20	Voice02/02-2K/02-2K-K06/02-2K-K06-0190	1	mak	00:50:21;
+
+[CreateBG]=00:47:21	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-004A	01:07:08;
+
+[PrintText]=00:50:21	Kotonoha	Sí, pero cuando pienso en todo lo que te he hecho sufrir, me duele...	00:58:16;
+
+[PlayVoice]=00:50:21	Voice02/02-2K/02-2K-K06/02-2K-K06-0200	0	kot	00:58:16;
+
+[PrintText]=00:58:16	Makoto	Con el tiempo, estoy seguro que vamos a encontrar el tiempo suficiente para nosotros y construir una buena relación con eso.	01:04:13;
+
+[PlayVoice]=00:58:16	Voice02/02-2K/02-2K-K06/02-2K-K06-0210	1	mak	01:04:13;
+
+[PrintText]=01:04:13	Kotonoha	Sí.	01:05:04;
+
+[PlayVoice]=01:04:13	Voice02/02-2K/02-2K-K06/02-2K-K06-0220	0	kot	01:05:04;
+
+[PrintText]=01:05:04	Makoto	Será mejor que cuelgue.	01:07:08;
+
+[PlayVoice]=01:05:04	Voice02/02-2K/02-2K-K06/02-2K-K06-0230	1	mak	01:07:08;
+
+[CreateBG]=01:07:08	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-004B	01:20:02;
+
+[PrintText]=01:07:08	Kotonoha	Eh... verás...	01:09:19;
+
+[PlayVoice]=01:07:08	Voice02/02-2K/02-2K-K06/02-2K-K06-0240	0	kot	01:09:19;
+
+[PrintText]=01:09:19	Makoto	¿Eh?^	01:10:09;
+
+[PlayVoice]=01:09:19	Voice02/02-2K/02-2K-K06/02-2K-K06-0250	1	mak	01:10:09;
+
+[PrintText]=01:10:10	Kotonoha	Cuando me abrazaste ... estaba un poco nerviosa, y me sentí un poco mal, pero...	01:19:08;
+
+[PlayVoice]=01:10:10	Voice02/02-2K/02-2K-K06/02-2K-K06-0260	0	kot	01:19:08;
+
+[PrintText]=01:19:07	Makoto	Ajá ...	01:20:02;
+
+[PlayVoice]=01:19:07	Voice02/02-2K/02-2K-K06/02-2K-K06-0270	1	mak	01:20:02;
+
+[CreateBG]=01:20:02	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-004C	01:24:12;
+
+[PrintText]=01:20:02	Kotonoha	... estaba un poco feliz.	01:24:11;
+
+[PlayVoice]=01:20:02	Voice02/02-2K/02-2K-K06/02-2K-K06-0280	0	kot	01:24:11;
+
+[PrintText]=01:24:11	Makoto	¿En serio?^	01:27:22;
+
+[PlayVoice]=01:24:11	Voice02/02-2K/02-2K-K06/02-2K-K06-0290	1	mak	01:27:22;
+
+[CreateBG]=01:24:12	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-004D	01:46:07;
+
+[PrintText]=01:27:22	Kotonoha	Sí... eso es parte de como me siento... por eso necesito tiempo.	01:38:21;
+
+[PlayVoice]=01:27:22	Voice02/02-2K/02-2K-K06/02-2K-K06-0300	0	kot	01:38:21;
+
+[PrintText]=01:38:21	Makoto	Sí, tienes razón. Vamos a tomar las cosas un paso a la vez...	01:42:08;
+
+[PlayVoice]=01:38:21	Voice02/02-2K/02-2K-K06/02-2K-K06-0310	1	mak	01:42:08;
+
+[PrintText]=01:42:09	Kotonoha	Sí. Un paso a la vez ...	01:45:06;
+
+[PlayVoice]=01:42:09	Voice02/02-2K/02-2K-K06/02-2K-K06-0320	0	kot	01:45:06;
+
+[PrintText]=01:45:05	Makoto	Haha ...	01:46:06;
+
+[PlayVoice]=01:45:05	Voice02/02-2K/02-2K-K06/02-2K-K06-0330	1	mak	01:46:06;
+
+[CreateBG]=01:46:07	BGS	Event02/02-2K/02-2K-K06/02-2K-K06-005	01:58:12;
+
+[PrintText]=01:46:07	Kotonoha	Estoy feliz que llamaras.	01:49:00;
+
+[PlayVoice]=01:46:07	Voice02/02-2K/02-2K-K06/02-2K-K06-0340	0	kot	01:49:00;
+
+[PrintText]=01:49:00	Makoto	También me alegro de haber hablado contigo, buenas noches.	01:54:22;
+
+[PlayVoice]=01:49:00	Voice02/02-2K/02-2K-K06/02-2K-K06-0350	1	mak	01:54:22;
+
+[PrintText]=01:54:22	Kotonoha	Buenas noches.	01:57:11;
+
+[PlayVoice]=01:54:22	Voice02/02-2K/02-2K-K06/02-2K-K06-0360	0	kot	01:57:11;
+
+[BlackFade]=01:57:12	OUT	01:58:12;
+
+ ;
+
+[Next]=01:58:12;
+
+
+
+

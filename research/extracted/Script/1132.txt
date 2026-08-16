@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:20:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:20:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-L02/04-SA-L02-001	00:05:08;
+
+[PrintText]=00:00:00	Taisuke	¿Donde está Makoto?^	00:00:21;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-L02/04-SA-L02-0030	1	tai	00:00:21;
+
+[PrintText]=00:00:21	Sekai	Ahh... me dijo que no se sentía bien hoy, y que no vendrá.	00:05:10;
+
+[PlayVoice]=00:00:21	Voice04/04-SA/04-SA-L02/04-SA-L02-0040	0	sek	00:05:10;
+
+[CreateBG]=00:05:08	BGS	Event04/04-SA/04-SA-L02/04-SA-L02-002	00:15:03;
+
+[PrintText]=00:05:10	Kotonoha	¿Eh...?^	00:06:03;
+
+[PlayVoice]=00:05:10	Voice04/04-SA/04-SA-L02/04-SA-L02-0050	0	kot	00:06:03;
+
+[PrintText]=00:06:03	Sekai	No se puede hacer nada con él ¿No? Es como un niño con fiebre antes de una excursión.	00:11:10;
+
+[PlayVoice]=00:06:03	Voice04/04-SA/04-SA-L02/04-SA-L02-0060	0	sek	00:11:10;
+
+[PrintText]=00:11:10	Taisuke	Hahaha, totalmente.	00:13:07;
+
+[PlayVoice]=00:11:10	Voice04/04-SA/04-SA-L02/04-SA-L02-0070	1	tai	00:13:07;
+
+[PrintText]=00:13:07	Kotonoha	Me pregunto si está bien...	00:15:04;
+
+[PlayVoice]=00:13:07	Voice04/04-SA/04-SA-L02/04-SA-L02-0080	0	kot	00:15:04;
+
+[CreateBG]=00:15:03	BGS	Event04/04-SA/04-SA-L02/04-SA-L02-003	00:17:07;
+
+[PrintText]=00:15:04	Taisuke	No te preocupes, Katsura-san. Es solo Makoto.	00:19:16;
+
+[PlayVoice]=00:15:04	Voice04/04-SA/04-SA-L02/04-SA-L02-0090	1	tai	00:19:16;
+
+[CreateBG]=00:17:07	BGS	Event04/04-SA/04-SA-L02/04-SA-L02-004	00:20:01;
+
+ ;
+
+[Next]=00:20:01;
+
+

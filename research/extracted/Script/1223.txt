@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=01:36:00;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/station_train/gakuenmae_yuugata	00:51:03;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-L01/04-SB-L01-001	00:03:11;
+
+[PrintText]=00:00:04	Makoto	¡También te amo!	00:03:11;
+
+[PlayVoice]=00:00:04	Voice04/04-SB/04-SB-L01/04-SB-L01-0030	1	mak	00:03:11;
+
+[CreateBG]=00:03:11	BGS	Event04/04-SB/04-SB-L01/04-SB-L01-002	00:11:00;
+
+[PrintText]=00:03:11	Kotonoha	¿Tú... también?^	00:06:16;
+
+[PlayVoice]=00:03:11	Voice04/04-SB/04-SB-L01/04-SB-L01-0040	0	kot	00:06:16;
+
+[PrintText]=00:06:17	Makoto	Sí.	00:07:09;
+
+[PlayVoice]=00:06:17	Voice04/04-SB/04-SB-L01/04-SB-L01-0050	1	mak	00:07:09;
+
+[PrintText]=00:07:08	Kotonoha	¿Quieres decir que aún me amas?^	00:10:23;
+
+[PlayVoice]=00:07:08	Voice04/04-SB/04-SB-L01/04-SB-L01-0060	0	kot	00:10:23;
+
+[CreateBG]=00:11:00	BGS	Event04/04-SB/04-SB-L01/04-SB-L01-003	00:12:00;
+
+[PrintText]=00:11:07	Makoto	Sí.	00:12:00;
+
+[PlayVoice]=00:11:07	Voice04/04-SB/04-SB-L01/04-SB-L01-0070	1	mak	00:12:00;
+
+[CreateBG]=00:12:00	BGS	Event01/01-00/01-00-L00/01-00-L00-001	00:25:07;
+
+[PrintText]=00:12:00	Kotonoha	Entonces... no voy a rendirme.	00:16:23;
+
+[PlayVoice]=00:12:00	Voice04/04-SB/04-SB-L01/04-SB-L01-0080	0	kot	00:16:23;
+
+[PrintText]=00:17:00	Makoto	¿Eh...?^	00:17:18;
+
+[PlayVoice]=00:17:00	Voice04/04-SB/04-SB-L01/04-SB-L01-0090	1	mak	00:17:18;
+
+[PrintText]=00:17:18	Kotonoha	Solo mira. Te traeré devuelta de Saionji-san.	00:21:15;
+
+[PlayVoice]=00:17:18	Voice04/04-SB/04-SB-L01/04-SB-L01-0100	0	kot	00:21:15;
+
+[PlaySe]=00:20:20	1	SysSe/SE_all/station_train/train_door_close	00:25:15;
+
+[PrintText]=00:21:15	Makoto	Ah...	00:23:11;
+
+[PlayVoice]=00:21:15	Voice04/04-SB/04-SB-L01/04-SB-L01-0130	1	mak	00:23:11;
+
+[PlaySe]=00:24:09	2	SysSe/SE_all/station_train/train_start	00:50:14;
+
+[PlayMovie]=00:25:07	Movie00/00-00/00-00-L00/00-00-L00-024	0	00:29:07;
+
+[CreateBG]=00:29:07	BGS	Event04/04-SB/04-SB-L01/04-SB-L01-006	00:45:08;
+
+[PrintText]=00:29:07	Makoto	¿Por qué...?^	00:30:11;
+
+[PlayVoice]=00:29:07	Voice04/04-SB/04-SB-L01/04-SB-L01-0150	1	mak	00:30:11;
+
+[PrintText]=00:30:12	Makoto	¿Por qué digo cosas como esas en estos momentos...?^	00:34:17;
+
+[PlayVoice]=00:30:12	Voice04/04-SB/04-SB-L01/04-SB-L01-0160	1	mak	00:34:17;
+
+[PrintText]=00:34:17	Makoto	Amo a Kotonoha... pero estoy saliendo con Sekai.	00:41:05;
+
+[PlayVoice]=00:34:17	Voice04/04-SB/04-SB-L01/04-SB-L01-0170	1	mak	00:41:05;
+
+[PrintText]=00:41:05	Makoto	Soy... un idiota.	00:44:07;
+
+[PlayVoice]=00:41:05	Voice04/04-SB/04-SB-L01/04-SB-L01-0180	1	mak	00:44:07;
+
+[PrintText]=00:44:07	Makoto	Haah...	00:45:07;
+
+[PlayVoice]=00:44:07	Voice04/04-SB/04-SB-L01/04-SB-L01-0190	1	mak	00:45:07;
+
+[EndBGM]=00:45:06	BGM/Vocal/SDV04	02:55:23;
+
+[CreateBG]=00:45:08	BGS	Event04/04-SB/04-SB-L01/04-SB-L01-007	00:48:14;
+
+[PrintText]=00:46:06	Hikari	Ya veo... así es como es Katsura...	00:51:12;
+
+[PlayVoice]=00:46:06	Voice04/04-SB/04-SB-L01/04-SB-L01-0210	0	hik	00:51:12;
+
+[CreateBG]=00:48:14	BGS	Event04/04-SB/04-SB-L01/04-SB-L01-008	00:51:16;
+
+[CreateBG]=00:51:16	BGS	Ini/EndRoll/04-18	00:54:00;
+
+[EndRoll]=00:54:00	Ini/EndRoll/NORMAL	01:34:00;
+
+ ;
+
+[Next]=01:36:00;
+
+

@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:24:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:24:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-C02/04-KB-C02-001	00:02:09;
+
+[PrintText]=00:00:00	Makoto	¡No!	00:01:16;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-C02/04-KB-C02-0030	1	mak	00:01:16;
+
+[PrintText]=00:01:16	Sekai	¿Eh?^	00:02:08;
+
+[PlayVoice]=00:01:16	Voice04/04-KB/04-KB-C02/04-KB-C02-0040	0	sek	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event04/04-KB/04-KB-C02/04-KB-C02-002	00:13:06;
+
+[PrintText]=00:02:08	Makoto	¡Uuh... muere, cerebro! ¡Alejate de mí, frustración!	00:07:05;
+
+[PlayVoice]=00:02:08	Voice04/04-KB/04-KB-C02/04-KB-C02-0050	1	mak	00:07:05;
+
+[PrintText]=00:07:05	Sekai	¿Huh...?^	00:07:23;
+
+[PlayVoice]=00:07:05	Voice04/04-KB/04-KB-C02/04-KB-C02-0060	0	sek	00:07:23;
+
+[PrintText]=00:07:23	Makoto	¡Estaba realmente considerando tocar tus senos!	00:13:05;
+
+[PlayVoice]=00:07:23	Voice04/04-KB/04-KB-C02/04-KB-C02-0070	1	mak	00:13:05;
+
+[PrintText]=00:13:05	Sekai	¿Oh?^	00:13:22;
+
+[PlayVoice]=00:13:05	Voice04/04-KB/04-KB-C02/04-KB-C02-0080	0	sek	00:13:22;
+
+[CreateBG]=00:13:06	BGS	Event04/04-KB/04-KB-C02/04-KB-C02-003	00:24:23;
+
+[PrintText]=00:13:22	Makoto	¡Gyah! ¡Desearía morirme!	00:16:19;
+
+[PlayVoice]=00:13:22	Voice04/04-KB/04-KB-C02/04-KB-C02-0090	1	mak	00:16:19;
+
+[PrintText]=00:16:18	Sekai	Mufu... puedes tocarme si quieres.	00:20:13;
+
+[PlayVoice]=00:16:18	Voice04/04-KB/04-KB-C02/04-KB-C02-0100	0	sek	00:20:13;
+
+[PrintText]=00:20:13	Makoto	¡Uwaaaah! ¡No digas otra palabra!	00:22:21;
+
+[PlayVoice]=00:20:13	Voice04/04-KB/04-KB-C02/04-KB-C02-0110	1	mak	00:22:21;
+
+[PrintText]=00:22:21	Sekai	¡Ahahaha!	00:24:17;
+
+[PlayVoice]=00:22:21	Voice04/04-KB/04-KB-C02/04-KB-C02-0120	0	sek	00:24:17;
+
+ ;
+
+[Next]=00:24:23;
+
+

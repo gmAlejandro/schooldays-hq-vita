@@ -1,0 +1,102 @@
+﻿[SkipFRAME]=01:15:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	01:15:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-H02/05-SE-H02-003	00:14:08;
+
+[PrintText]=00:00:00	Makoto	...	00:01:08;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-H03/05-SE-H03-0030	1	xxx	00:01:08;
+
+[PrintText]=00:01:08	Sekai	¿Huh? ¿No estás feliz por mí?^	00:04:11;
+
+[PlayVoice]=00:01:08	Voice05/05-SE/05-SE-H03/05-SE-H03-0040	0	sek	00:04:11;
+
+[PrintText]=00:04:11	Makoto	No lo sé. Todo a sido tan rápido...	00:09:12;
+
+[PlayVoice]=00:04:11	Voice05/05-SE/05-SE-H03/05-SE-H03-0050	1	mak	00:09:12;
+
+[PrintText]=00:09:12	Sekai	Sí... creo que tienes razón.	00:12:21;
+
+[PlayVoice]=00:09:12	Voice05/05-SE/05-SE-H03/05-SE-H03-0060	0	sek	00:12:21;
+
+[PrintText]=00:12:21	Makoto	Un bebe ¿huh?^	00:14:07;
+
+[PlayVoice]=00:12:21	Voice05/05-SE/05-SE-H03/05-SE-H03-0070	1	mak	00:14:07;
+
+[PrintText]=00:14:07	Sekai	Sí. Iré al hospital para una revisión, pero realmente no hay ningún problema.	00:21:06;
+
+[PlayVoice]=00:14:07	Voice05/05-SE/05-SE-H03/05-SE-H03-0080	0	sek	00:21:06;
+
+[CreateBG]=00:14:08	BGS	Event05/05-SE/05-SE-H02/05-SE-H02-004	00:46:14;
+
+[PrintText]=00:21:06	Makoto	¿Cómo puedes asegurarlo?^	00:22:10;
+
+[PlayVoice]=00:21:06	Voice05/05-SE/05-SE-H03/05-SE-H03-0090	1	mak	00:22:10;
+
+[PrintText]=00:22:10	Sekai	He estado enferma y con fiebre. Mi mamá me dijo que también fue así para ella.	00:30:13;
+
+[PlayVoice]=00:22:10	Voice05/05-SE/05-SE-H03/05-SE-H03-0100	0	sek	00:30:13;
+
+[PrintText]=00:30:13	Makoto	Así que tu madre también lo sabe.	00:36:02;
+
+[PlayVoice]=00:30:13	Voice05/05-SE/05-SE-H03/05-SE-H03-0110	1	mak	00:36:02;
+
+[PrintText]=00:36:03	Sekai	Sí. Me tuvo a la edad que tengo. Así que no está en contra.	00:45:11;
+
+[PlayVoice]=00:36:03	Voice05/05-SE/05-SE-H03/05-SE-H03-0120	0	sek	00:45:11;
+
+[PrintText]=00:45:11	Makoto	Ya veo.	00:46:14;
+
+[PlayVoice]=00:45:11	Voice05/05-SE/05-SE-H03/05-SE-H03-0130	1	mak	00:46:14;
+
+[PrintText]=00:46:13	Sekai	¿No quieres tener al bebé?^	00:47:18;
+
+[PlayVoice]=00:46:13	Voice05/05-SE/05-SE-H03/05-SE-H03-0140	0	sek	00:47:18;
+
+[CreateBG]=00:46:14	BGS	Event05/05-SE/05-SE-H02/05-SE-H02-001	01:02:23;
+
+[PrintText]=00:47:18	Makoto	Como dije, todo a sido de repente. ¿Cuando fue la última vez que lo hicimos?^	00:53:21;
+
+[PlayVoice]=00:47:18	Voice05/05-SE/05-SE-H03/05-SE-H03-0150	1	mak	00:59:22;
+
+[PrintText]=00:53:21	Makoto	Fue antes del festival... así que... ¿Dos meses? ¿Tres tal vez?^	00:59:23;
+
+[PrintText]=00:59:23	Sekai	¿Acaso importa?^	01:01:23;
+
+[PlayVoice]=00:59:23	Voice05/05-SE/05-SE-H03/05-SE-H03-0160	0	sek	01:01:23;
+
+[PrintText]=01:01:23	Makoto	Pero...	01:02:22;
+
+[PlayVoice]=01:01:23	Voice05/05-SE/05-SE-H03/05-SE-H03-0170	1	mak	01:02:22;
+
+[CreateBG]=01:02:23	BGS	Event05/05-SE/05-SE-H02/05-SE-H02-002	01:10:11;
+
+[PrintText]=01:02:23	Sekai	Tú hijo está dentro de mí.	01:06:18;
+
+[PlayVoice]=01:02:23	Voice05/05-SE/05-SE-H03/05-SE-H03-0180	0	sek	01:06:18;
+
+[PrintText]=01:06:17	Makoto	Sí... creo que tienes razón.	01:10:11;
+
+[PlayVoice]=01:06:17	Voice05/05-SE/05-SE-H03/05-SE-H03-0190	1	mak	01:10:11;
+
+[CreateBG]=01:10:11	BGS	Event05/05-SE/05-SE-H00/05-SE-H00-001	01:15:11;
+
+[PrintText]=01:10:11	Sekai	Uh-huh.	01:11:03;
+
+[PlayVoice]=01:10:11	Voice05/05-SE/05-SE-H03/05-SE-H03-0200	0	sek	01:11:03;
+
+[PrintText]=01:11:03	Makoto	No debería dejar que estés aquí con este frío ¿Verdad? Regresemos.	01:14:17;
+
+[PlayVoice]=01:11:03	Voice05/05-SE/05-SE-H03/05-SE-H03-0210	1	mak	01:14:17;
+
+[PrintText]=01:14:17	Sekai	Vale.	01:15:08;
+
+[PlayVoice]=01:14:17	Voice05/05-SE/05-SE-H03/05-SE-H03-0220	0	sek	01:15:08;
+
+ ;
+
+[Next]=01:15:11;
+
+
+

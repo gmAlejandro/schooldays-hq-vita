@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:13:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:13:15;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-I06/05-5O-I06-001	00:09:22;
+
+[PrintText]=00:00:08	Makoto	Le prometí a Kiyoura que visitaría a Sekai, pero...	00:04:22;
+
+[PlayVoice]=00:00:08	Voice05/05-5O/05-5O-I06/05-5O-I06-0030	1	xxx	00:04:22;
+
+[PrintText]=00:05:07	Makoto	No puedo ir a verla así ¿Eh?^	00:09:10;
+
+[PlayVoice]=00:05:07	Voice05/05-5O/05-5O-I06/05-5O-I06-0040	1	xxx	00:09:10;
+
+[CreateBG]=00:09:22	BGS	Event05/05-5O/05-5O-I06/05-5O-I06-002	00:13:15;
+
+[PrintText]=00:10:10	Makoto	No mientras Kotonoha esté conmigo...	00:12:02;
+
+[PlayVoice]=00:10:10	Voice05/05-5O/05-5O-I06/05-5O-I06-0050	1	xxx	00:12:02;
+
+[BlackFade]=00:12:15	OUT	00:13:15;
+
+ ;
+
+[Next]=00:13:15;
+
+

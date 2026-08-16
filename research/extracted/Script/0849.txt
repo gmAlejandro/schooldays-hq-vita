@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:23:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:23:07;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H06/SE03-SB-H06-001	00:23:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H06/03-SB-H06-001	00:01:14;
+
+[PrintText]=00:00:00	Makoto	...	00:00:20;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-H06/03-SB-H06-0030	1	xxx	00:00:20;
+
+[PrintText]=00:00:20	Sekai	...	00:01:14;
+
+[PlayVoice]=00:00:20	Voice03/03-SB/03-SB-H06/03-SB-H06-0040	0	xxx	00:01:14;
+
+[CreateBG]=00:01:14	BGS	Event03/03-SB/03-SB-H06/03-SB-H06-002	00:03:02;
+
+[PrintText]=00:01:14	Makoto	¿Qué pasa?^	00:03:01;
+
+[PlayVoice]=00:01:14	Voice03/03-SB/03-SB-H06/03-SB-H06-0050	1	mak	00:03:01;
+
+[PrintText]=00:03:01	Sekai	Creo que Nanami no está mostrando un poco de consideración.	00:06:22;
+
+[PlayVoice]=00:03:01	Voice03/03-SB/03-SB-H06/03-SB-H06-0060	0	sek	00:06:22;
+
+[CreateBG]=00:03:02	BGS	Event03/03-SB/03-SB-H06/03-SB-H06-003	00:06:22;
+
+[CreateBG]=00:06:22	BGS	Event03/03-SB/03-SB-H06/03-SB-H06-004	00:07:22;
+
+[PrintText]=00:06:22	Makoto	¿Por qué?^	00:07:22;
+
+[PlayVoice]=00:06:22	Voice03/03-SB/03-SB-H06/03-SB-H06-0070	1	mak	00:07:22;
+
+[CreateBG]=00:07:22	BGS	Event03/03-SB/03-SB-H06/03-SB-H06-005	00:11:15;
+
+[PrintText]=00:07:22	Sekai	Ella piensa que estamos saliendo.	00:11:18;
+
+[PlayVoice]=00:07:22	Voice03/03-SB/03-SB-H06/03-SB-H06-0080	0	sek	00:11:18;
+
+[CreateBG]=00:11:15	BGS	Event03/03-SB/03-SB-H06/03-SB-H06-006	00:16:17;
+
+[PrintText]=00:11:18	Makoto	Ya veo... por eso es que.	00:14:16;
+
+[PlayVoice]=00:11:18	Voice03/03-SB/03-SB-H06/03-SB-H06-0090	1	mak	00:14:16;
+
+[PrintText]=00:14:17	Sekai	Sí. Lo siento.	00:16:18;
+
+[PlayVoice]=00:14:17	Voice03/03-SB/03-SB-H06/03-SB-H06-0100	0	sek	00:16:18;
+
+[CreateBG]=00:16:17	BGS	Event03/03-SB/03-SB-H06/03-SB-H06-007	00:22:10;
+
+[PrintText]=00:16:18	Makoto	No tienes por qué disculparte.	00:18:10;
+
+[PlayVoice]=00:16:18	Voice03/03-SB/03-SB-H06/03-SB-H06-0110	1	mak	00:18:10;
+
+[PrintText]=00:18:10	Sekai	....	00:19:04;
+
+[PlayVoice]=00:18:10	Voice03/03-SB/03-SB-H06/03-SB-H06-0120	0	sek	00:19:04;
+
+[PrintText]=00:19:04	Makoto	Hey ¿Por qué no vamos al lugar de siempre?^	00:22:11;
+
+[PlayVoice]=00:19:04	Voice03/03-SB/03-SB-H06/03-SB-H06-0130	1	mak	00:22:11;
+
+[CreateBG]=00:22:10	BGS	Event03/03-SB/03-SB-H06/03-SB-H06-008	00:23:07;
+
+[PrintText]=00:22:10	Sekai	Vale.	00:23:04;
+
+[PlayVoice]=00:22:10	Voice03/03-SB/03-SB-H06/03-SB-H06-0140	0	sek	00:23:04;
+
+ ;
+
+[Next]=00:23:07;
+
+

@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:41:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:41:08;
+
+[CreateBG]=00:00:00	BGS	Event05/05-B0/05-B0-C00/05-B0-C00-001	00:06:00;
+
+[PrintText]=00:00:00	Minami	Vaya, qué limpio está tu escritorio. Queda bien contigo, Katsura-san.	00:04:08;
+
+[PlayVoice]=00:00:00	Voice05/05-B0/05-B0-C00/05-B0-C00-0050	0	min	00:04:08;
+
+[PrintText]=00:04:08	Kotonoha	Sí.	00:05:03;
+
+[PlayVoice]=00:04:08	Voice05/05-B0/05-B0-C00/05-B0-C00-0070	0	kot	00:05:03;
+
+[PrintText]=00:05:03	Minami	Escuché que fuiste desechada por Itou de la clase. ¿Al parecer está totalmente enamorado de esa chica Saionji? ¿Tengo razón?	00:13:19;
+
+[PlayVoice]=00:05:03	Voice05/05-B0/05-B0-C00/05-B0-C00-0080	0	min	00:13:19;
+
+[CreateBG]=00:06:00	BGS	Ini/Event05/05-B0/05-B0-C00/05-B0-C00-002	00:12:12;
+
+[CreateBG]=00:12:12	BGS	Ini/Event05/05-B0/05-B0-C00/05-B0-C00-003	00:20:00;
+
+[PrintText]=00:13:22	Kotonoha	Te equivocas.	00:15:01;
+
+[PlayVoice]=00:13:22	Voice05/05-B0/05-B0-C00/05-B0-C00-0090	0	kot	00:15:01;
+
+[PrintText]=00:14:23	Minami	¿Qué quieres decir?^	00:16:08;
+
+[PlayVoice]=00:14:23	Voice05/05-B0/05-B0-C00/05-B0-C00-0100	0	min	00:16:08;
+
+[PrintText]=00:16:08	Kotonoha	No hemos terminado.	00:17:17;
+
+[PlayVoice]=00:16:08	Voice05/05-B0/05-B0-C00/05-B0-C00-0110	0	kot	00:17:17;
+
+[PrintText]=00:17:17	Minami	¿De qué hablas? Todos saben que ahora él sale con su nueva novia y que te evaden.	00:25:00;
+
+[PlayVoice]=00:17:17	Voice05/05-B0/05-B0-C00/05-B0-C00-0120	0	min	00:25:00;
+
+[CreateBG]=00:20:00	BGS	Event05/05-B0/05-B0-C00/05-B0-C00-004	00:25:00;
+
+[PlayMovie]=00:25:00	Movie05/05-B0/05-B0-C00/05-B0-C00-005	0	00:41:08;
+
+[PrintText]=00:25:00	Kotonoha	Él no tiene una nueva novia.	00:30:02;
+
+[PlayVoice]=00:25:00	Voice05/05-B0/05-B0-C00/05-B0-C00-0130	0	kot	00:30:02;
+
+[PrintText]=00:31:12	Kotonoha	...Estamos cada noche juntos.	00:34:10;
+
+[PlayVoice]=00:31:12	Voice05/05-B0/05-B0-C00/05-B0-C00-0150	0	kot	00:34:10;
+
+[PrintText]=00:34:17	Minami	Ya... Ya veo...	00:36:05;
+
+[PlayVoice]=00:34:17	Voice05/05-B0/05-B0-C00/05-B0-C00-0170	0	min	00:36:05;
+
+[PrintText]=00:36:22	Kotonoha	Sí, estamos juntos...	00:39:12;
+
+[PlayVoice]=00:36:22	Voice05/05-B0/05-B0-C00/05-B0-C00-0180	0	kot	00:39:12;
+
+[BlackFade]=00:40:08	OUT	00:41:08;
+
+ ;
+
+[Next]=00:41:08;
+
+

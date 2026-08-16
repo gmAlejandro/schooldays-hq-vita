@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:09:21;
+
+[PlaySe]=00:00:00	1	Se04/04-C1/04-C1-C00/SE04-C1-C00-001	00:09:21;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C1/04-C1-C00/04-C1-C00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-C1/04-C1-C00/04-C1-C00-002	00:09:21;
+
+[PrintText]=00:04:00	Kotonoha	Makoto-kun...	00:05:09;
+
+[PlayVoice]=00:04:00	Voice04/04-C1/04-C1-C00/04-C1-C00-0040	0	kot	00:05:09;
+
+[PrintText]=00:06:00	Kotonoha	De seguro se hizo tarde...	00:07:09;
+
+[PlayVoice]=00:06:00	Voice04/04-C1/04-C1-C00/04-C1-C00-0060	0	kot	00:07:09;
+
+ ;
+
+[Next]=00:09:21;
+
+

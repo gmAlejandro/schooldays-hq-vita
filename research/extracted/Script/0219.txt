@@ -1,0 +1,23 @@
+﻿[SkipFRAME]=00:02:14;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-F07/SE02-2K-F07-001	00:02:14;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-F07/02-2K-F07-001A	00:01:02;
+
+[PrintText]=00:00:00	Makoto	Perdón.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-F07/02-2K-F07-0030	1	mak	00:00:20;
+
+[CreateBG]=00:01:02	BGS	Event02/02-2K/02-2K-F07/02-2K-F07-001B	00:02:14;
+
+[PrintText]=00:01:07	Kotonoha	No hay problema.	00:02:08;
+
+[PlayVoice]=00:01:07	Voice02/02-2K/02-2K-F07/02-2K-F07-0040	0	kot	00:02:08;
+
+ ;
+
+[Next]=00:02:14;
+
+
+
+

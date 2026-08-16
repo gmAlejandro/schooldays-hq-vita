@@ -1,0 +1,171 @@
+﻿[SkipFRAME]=02:24:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:24:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KC/05-KC-E00/05-KC-E00-001	00:08:08;
+
+[PrintText]=00:03:03	Sekai	Haah...	00:04:05;
+
+[PlayVoice]=00:03:03	Voice05/05-KC/05-KC-E00/05-KC-E00-0040	0	sek	00:04:05;
+
+[PrintText]=00:04:21	Sekai	Esto... no está bien...	00:08:05;
+
+[PlayVoice]=00:04:21	Voice05/05-KC/05-KC-E00/05-KC-E00-0060	0	sek	00:08:05;
+
+[CreateBG]=00:08:08	BGS	Event05/05-KC/05-KC-E00/05-KC-E00-002	00:16:12;
+
+[PrintText]=00:09:08	Sekai	Makoto... ¿Qué te a pasado..?^	00:12:22;
+
+[PlayVoice]=00:09:08	Voice05/05-KC/05-KC-E00/05-KC-E00-0080	0	sek	00:12:22;
+
+[PrintText]=00:14:02	Sekai	¿Katsura-san es muy buena...?^	00:16:17;
+
+[PlayVoice]=00:14:02	Voice05/05-KC/05-KC-E00/05-KC-E00-0090	0	sek	00:16:17;
+
+[CreateBG]=00:16:12	BGS	Event05/05-KC/05-KC-E00/05-KC-E00-003	00:38:12;
+
+[PrintText]=00:18:00	Sekai	Yo... no creo que el sexo lo sea todo cuando se trata de salir con alguien.	00:24:13;
+
+[PlayVoice]=00:18:00	Voice05/05-KC/05-KC-E00/05-KC-E00-0100	0	sek	00:24:13;
+
+[PrintText]=00:25:13	Sekai	¿No lo crees Makoto?^	00:27:06;
+
+[PlayVoice]=00:25:13	Voice05/05-KC/05-KC-E00/05-KC-E00-0110	0	sek	00:27:06;
+
+[PrintText]=00:28:05	Sekai	¿Prefieres a las chicas que solo quieren sexo...?^	00:32:23;
+
+[PlayVoice]=00:28:05	Voice05/05-KC/05-KC-E00/05-KC-E00-0120	0	sek	00:32:23;
+
+[PrintText]=00:34:01	Sekai	¿Tener sexo conmigo... no es suficiente...?^	00:37:23;
+
+[PlayVoice]=00:34:01	Voice05/05-KC/05-KC-E00/05-KC-E00-0140	0	sek	00:37:23;
+
+[PlayMovie]=00:38:12	Movie05/05-KC/05-KC-E00/05-KC-E00-004	0	00:46:10;
+
+[PrintText]=00:39:15	Sekai	Haah...	00:41:15;
+
+[PlayVoice]=00:39:15	Voice05/05-KC/05-KC-E00/05-KC-E00-0150	0	sek	00:41:15;
+
+[PrintText]=00:42:09	Sekai	Makoto...	00:44:09;
+
+[PlayVoice]=00:42:09	Voice05/05-KC/05-KC-E00/05-KC-E00-0180	0	sek	00:44:09;
+
+[PrintText]=00:45:02	Sekai	Nn... haah...	00:48:21;
+
+[PlayVoice]=00:45:02	Voice05/05-KC/05-KC-E00/05-KC-E00-0190	0	sek	00:48:21;
+
+[PlayMovie]=00:46:10	Movie05/05-KC/05-KC-E00/05-KC-E00-005	0	00:58:00;
+
+[PrintText]=00:49:20	Sekai	Haah... haah...	00:53:19;
+
+[PlayVoice]=00:49:20	Voice05/05-KC/05-KC-E00/05-KC-E00-0210	0	sek	00:53:19;
+
+[PrintText]=00:54:10	Sekai	Makoto...	00:56:05;
+
+[PlayVoice]=00:54:10	Voice05/05-KC/05-KC-E00/05-KC-E00-0230	0	sek	00:56:05;
+
+[PrintText]=00:57:10	Sekai	Sí, más... haah... haah...	01:04:12;
+
+[PlayVoice]=00:57:10	Voice05/05-KC/05-KC-E00/05-KC-E00-0240	0	sek	01:04:12;
+
+[PlayMovie]=00:58:00	Movie05/05-KC/05-KC-E00/05-KC-E00-006	0	01:10:03;
+
+[PrintText]=01:05:12	Sekai	¡Haah... mmn...!	01:09:11;
+
+[PlayVoice]=01:05:12	Voice05/05-KC/05-KC-E00/05-KC-E00-0250	0	sek	01:09:11;
+
+[CreateBG]=01:10:03	BGS	Event05/05-KC/05-KC-E00/05-KC-E00-007	01:25:00;
+
+[PrintText]=01:10:07	Sekai	¡Nn!	01:11:12;
+
+[PlayVoice]=01:10:07	Voice05/05-KC/05-KC-E00/05-KC-E00-0270	0	sek	01:11:12;
+
+[PrintText]=01:12:11	Sekai	¡Haah... Makoto... haah...!	01:18:03;
+
+[PlayVoice]=01:12:11	Voice05/05-KC/05-KC-E00/05-KC-E00-0290	0	sek	01:18:03;
+
+[PrintText]=01:18:11	Sekai	¡Haah... haah...! ¡Nn...!	01:22:22;
+
+[PlayVoice]=01:18:11	Voice05/05-KC/05-KC-E00/05-KC-E00-0310	0	sek	01:22:22;
+
+[PrintText]=01:23:20	Sekai	¡Haah... haah...! ¡Haah... ah...!	01:29:16;
+
+[PlayVoice]=01:23:20	Voice05/05-KC/05-KC-E00/05-KC-E00-0330	0	sek	01:29:16;
+
+[PlaySe]=01:24:02	1	SysSe/SE_all/h/h_02	01:31:23;
+
+[PlayMovie]=01:25:00	Movie05/05-KC/05-KC-E00/H5-KC-E00-008	0	01:36:13;
+
+[PrintText]=01:30:07	Sekai	¡Haah... ah...! ¡Nn...!	01:34:19;
+
+[PlayVoice]=01:30:07	Voice05/05-KC/05-KC-E00/05-KC-E00-0350	0	sek	01:34:19;
+
+[PlaySe]=01:31:21	2	SysSe/SE_all/h/h_03	02:06:19;
+
+[PrintText]=01:35:04	Sekai	¡Aah... hah... ah... ah... ah...	01:41:14;
+
+[PlayVoice]=01:35:04	Voice05/05-KC/05-KC-E00/05-KC-E00-0370	0	sek	01:41:14;
+
+[PlayMovie]=01:36:13	Movie05/05-KC/05-KC-E00/H5-KC-E00-009	0	01:56:14;
+
+[PrintText]=01:42:18	Sekai	¡Makoto...! Ah...!	01:46:20;
+
+[PlayVoice]=01:42:18	Voice05/05-KC/05-KC-E00/05-KC-E00-0380	0	sek	01:46:20;
+
+[PrintText]=01:46:21	Sekai	¡Makoto... Te amo...! ¡Haah...!	01:51:22;
+
+[PlayVoice]=01:46:21	Voice05/05-KC/05-KC-E00/05-KC-E00-0410	0	sek	01:51:22;
+
+[PrintText]=01:52:11	Sekai	¡Haah... haah...! ¡Ah...! ¡Ah...!	01:56:11;
+
+[PlayVoice]=01:52:11	Voice05/05-KC/05-KC-E00/05-KC-E00-0420	0	sek	01:56:11;
+
+[PrintText]=01:56:12	Sekai	¡Makoto... ah...! Makoto...! ¡Nn...! ¡Ah... ah...!	02:03:21;
+
+[PlayVoice]=01:56:12	Voice05/05-KC/05-KC-E00/05-KC-E00-0440	0	sek	02:03:21;
+
+[PlayMovie]=01:56:14	Movie05/05-KC/05-KC-E00/H5-KC-E00-010	0	02:08:08;
+
+[PlaySe]=02:03:06	1	SysSe/SE_all/keitai/keitai_vib	02:05:16;
+
+[PlaySe]=02:03:06	4	SysSe/SE_all/keitai/mail_sekai	02:07:07;
+
+[PrintText]=02:03:21	Sekai	¡Ah... aaah...!	02:08:07;
+
+[PlayVoice]=02:03:21	Voice05/05-KC/05-KC-E00/05-KC-E00-0450	0	sek	02:08:07;
+
+[PlaySe]=02:05:19	3	SysSe/SE_all/keitai/keitai_vib	02:08:05;
+
+[WhiteFade]=02:07:00	OUT	02:08:08;
+
+[CreateBG]=02:08:08	BGS	System/Screen/White	02:10:00;
+
+[CreateBG]=02:10:00	BGS	Event05/05-KC/05-KC-E00/05-KC-E00-011	02:14:09;
+
+[WhiteFade]=02:10:00	IN	02:10:22;
+
+[PrintText]=02:12:02	Sekai	Haah... haah...	02:17:20;
+
+[PlayVoice]=02:12:02	Voice05/05-KC/05-KC-E00/05-KC-E00-0480	0	sek	02:17:20;
+
+[CreateBG]=02:14:09	BGS	Ini/Event05/05-KC/05-KC-E00/05-KC-E00-014	02:21:04;
+
+#[PrintText]=02:14:09	Celular	De: Katsura Kotonoha | Título: ¿Estás bien? Te fuiste a casa temprano. ¿Está todo bien?^	02:17:12;
+
+#[PrintText]=02:17:12	Celular	Estoy pensando en quedarme en la casa de Makoto-kun el sábado y hacer el amor con él todo el día. ¿Podrás hacerlo?^	02:21:03;
+
+[PlayMovie]=02:21:04	Movie05/05-KC/05-KC-E00/05-KC-E00-013	0	02:24:07;
+
+[PrintText]=02:21:16	Sekai	...	02:23:14;
+
+[PlayVoice]=02:21:16	Voice05/05-KC/05-KC-E00/05-KC-E00-0530	0	xxx	02:23:14;
+
+[BlackFade]=02:23:07	OUT	02:24:07;
+
+ ;
+
+[Next]=02:24:07;
+
+
+
+

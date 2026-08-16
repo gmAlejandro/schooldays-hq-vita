@@ -1,0 +1,43 @@
+﻿[SkipFRAME]=00:10:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:10:11;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C05/SE03-KA-C05-001	00:10:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C05/03-KA-C05-001	00:02:14;
+
+[PrintText]=00:00:00	Makoto	¿Quieres que almorcemos juntos?^	00:01:09;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-C05/03-KA-C05-0030	1	mak	00:01:09;
+
+[PrintText]=00:01:18	Setsuna	Uh-huh.	00:02:09;
+
+[PlayVoice]=00:01:18	Voice03/03-KA/03-KA-C05/03-KA-C05-0040	0	set	00:02:09;
+
+[CreateBG]=00:02:14	BGS	Event03/03-KA/03-KA-C05/03-KA-C05-002	00:04:01;
+
+[CreateBG]=00:04:01	BGS	Event03/03-KA/03-KA-C05/03-KA-C05-001	00:05:03;
+
+[PrintText]=00:04:05	Makoto	¿Uh-huh?^	00:04:20;
+
+[PlayVoice]=00:04:05	Voice03/03-KA/03-KA-C05/03-KA-C05-0060	1	mak	00:04:20;
+
+[CreateBG]=00:05:03	BGS	Event03/03-KA/03-KA-C05/03-KA-C05-004	00:06:09;
+
+[PrintText]=00:05:12	Setsuna	...	00:06:03;
+
+[PlayVoice]=00:05:12	Voice03/03-KA/03-KA-C05/03-KA-C05-0080	0	xxx	00:06:03;
+
+[CreateBG]=00:06:09	BGS	Event03/03-KA/03-KA-C05/03-KA-C05-005	00:10:11;
+
+[PrintText]=00:06:12	Makoto	Vale, Es mejor que empecemos a comer....	00:09:06;
+
+[PlayVoice]=00:06:12	Voice03/03-KA/03-KA-C05/03-KA-C05-0090	1	mak	00:09:06;
+
+[BlackFade]=00:09:11	OUT	00:10:11;
+
+ ;
+
+[Next]=00:10:11;
+
+

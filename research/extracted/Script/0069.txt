@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:19:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:19:04;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H07/SE01-00-H07-001	00:19:04;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H07/01-00-H07-001	00:06:17;
+
+[PrintText]=00:00:06	Makoto	No hay por qué.	00:01:00;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-H07/01-00-H07-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:13	Kotonoha	...	00:02:07;
+
+[PlayVoice]=00:01:13	Voice01/01-00/01-00-H07/01-00-H07-0040	0	xxx	00:02:07;
+
+[PrintText]=00:02:19	Makoto	Sekai tiene razón, es mejor que no pierdas tiempo, vamos algún día otra vez.	00:07:21;
+
+[PlayVoice]=00:02:19	Voice01/01-00/01-00-H07/01-00-H07-0050	1	mak	00:07:21;
+
+[CreateBG]=00:06:17	BGS	Event01/01-00/01-00-H07/01-00-H07-003	00:09:15;
+
+[PrintText]=00:07:21	Kotonoha	Vale.	00:09:10;
+
+[PlayVoice]=00:07:21	Voice01/01-00/01-00-H07/01-00-H07-0060	0	kot	00:09:10;
+
+[CreateBG]=00:09:15	BGS	Event01/01-00/01-00-H07/01-00-H07-001	00:11:23;
+
+[PrintText]=00:09:15	Makoto	Estupendo.	00:10:07;
+
+[PlayVoice]=00:09:15	Voice01/01-00/01-00-H07/01-00-H07-0070	1	mak	00:10:07;
+
+[PrintText]=00:10:16	Kotonoha	...	00:11:15;
+
+[PlayVoice]=00:10:16	Voice01/01-00/01-00-H07/01-00-H07-0080	0	xxx	00:11:15;
+
+[CreateBG]=00:11:23	BGS	Event01/01-00/01-00-H07/01-00-H07-004	00:15:10;
+
+[PrintText]=00:12:02	Kotonoha	U-um...	00:14:20;
+
+[PlayVoice]=00:12:02	Voice01/01-00/01-00-H07/01-00-H07-0090	0	kot	00:14:20;
+
+[PrintText]=00:14:15	Makoto	¿Hmn?^	00:15:04;
+
+[PlayVoice]=00:14:15	Voice01/01-00/01-00-H07/01-00-H07-0100	1	mak	00:15:04;
+
+[CreateBG]=00:15:10	BGS	Event01/01-00/01-00-H07/01-00-H07-005	00:19:04;
+
+[PrintText]=00:15:20	Kotonoha	No, no es nada...	00:17:21;
+
+[PlayVoice]=00:15:20	Voice01/01-00/01-00-H07/01-00-H07-0110	0	kot	00:17:21;
+
+[PrintText]=00:18:00	Sekai	¿Katsura-san?^	00:19:01;
+
+[PlayVoice]=00:18:00	Voice01/01-00/01-00-H07/01-00-H07-0120	0	sek	00:19:01;
+
+ ;
+
+[Next]=00:19:04;
+
+
+
+

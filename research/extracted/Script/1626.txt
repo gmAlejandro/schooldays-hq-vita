@@ -1,0 +1,225 @@
+﻿[SkipFRAME]=02:21:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	02:21:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/yuugata	01:15:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-001A	00:08:21;
+
+[PrintText]=00:00:00	Makoto	Mmn... delicioso.	00:02:15;
+
+[PlayVoice]=00:00:00	Voice05/05-KG/05-KG-H00/05-KG-H00-0040	1	mak	00:02:15;
+
+[PrintText]=00:02:16	Sekai	¿Ves?^	00:04:01;
+
+[PlayVoice]=00:02:16	Voice05/05-KG/05-KG-H00/05-KG-H00-0050	0	sek	00:04:01;
+
+[PrintText]=00:04:01	Makoto	Esta malteada de litchi salió cuando en la primaria ¿No?^	00:10:22;
+
+[PlayVoice]=00:04:01	Voice05/05-KG/05-KG-H00/05-KG-H00-0060	1	mak	00:10:22;
+
+[CreateBG]=00:08:21	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-001B	00:18:14;
+
+[PrintText]=00:10:22	Sekai	Sí. Creo que fue por... sexto grado.	00:14:17;
+
+[PlayVoice]=00:10:22	Voice05/05-KG/05-KG-H00/05-KG-H00-0070	0	sek	00:14:17;
+
+[PrintText]=00:14:17	Makoto	Esto me trae recuerdos... ¡¿Qué tipo de cosas hacías para divertirte en la primaria?!	00:21:19;
+
+[PlayVoice]=00:14:17	Voice05/05-KG/05-KG-H00/05-KG-H00-0080	1	mak	00:21:19;
+
+[CreateBG]=00:18:14	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-001C	00:24:03;
+
+[PrintText]=00:21:19	Sekai	Siempre solía estar en patines.	00:24:15;
+
+[PlayVoice]=00:21:19	Voice05/05-KG/05-KG-H00/05-KG-H00-0090	0	sek	00:24:15;
+
+[CreateBG]=00:24:03	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-001D	00:39:00;
+
+[PrintText]=00:24:15	Makoto	Era muy popular ¿No?^	00:27:08;
+
+[PlayVoice]=00:24:15	Voice05/05-KG/05-KG-H00/05-KG-H00-0100	1	mak	00:27:08;
+
+[PrintText]=00:27:08	Sekai	En nuestro vecindario, Motehara-sakashita, es conocida por sus grandes pendientes, yo solía usarla.	00:35:12;
+
+[PlayVoice]=00:27:08	Voice05/05-KG/05-KG-H00/05-KG-H00-0110	0	sek	00:35:12;
+
+[PrintText]=00:35:12	Makoto	Wow, suena bueno.	00:38:02;
+
+[PlayVoice]=00:35:12	Voice05/05-KG/05-KG-H00/05-KG-H00-0120	1	mak	00:38:02;
+
+[PrintText]=00:38:03	Sekai	¿Qué hay de ti?^	00:39:02;
+
+[PlayVoice]=00:38:03	Voice05/05-KG/05-KG-H00/05-KG-H00-0130	0	sek	00:39:02;
+
+[CreateBG]=00:39:00	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-002	00:52:23;
+
+[PrintText]=00:39:02	Makoto	Vivimos por el mar, así que aveces suelo salir a la playa.	00:45:00;
+
+[PlayVoice]=00:39:02	Voice05/05-KG/05-KG-H00/05-KG-H00-0140	1	mak	00:45:00;
+
+[PrintText]=00:45:00	Sekai	¿No es genial el mar? Trabajaba en un restaurante llamado Summer Radish en Haramihama.	00:51:22;
+
+[PlayVoice]=00:45:00	Voice05/05-KG/05-KG-H00/05-KG-H00-0150	0	sek	00:51:22;
+
+[PrintText]=00:51:23	Makoto	Conozco ese lugar. Está bastante lejos de mi casa sin embargo, nunca he ido.	00:56:12;
+
+[PlayVoice]=00:51:23	Voice05/05-KG/05-KG-H00/05-KG-H00-0160	1	mak	00:56:12;
+
+[CreateBG]=00:52:23	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-003	00:56:12;
+
+[CreateBG]=00:56:12	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-004	01:00:11;
+
+[PrintText]=00:56:13	Sekai	Tienes que ir la próxima vez que este de turno. Te haré algo bueno.	01:00:13;
+
+[PlayVoice]=00:56:13	Voice05/05-KG/05-KG-H00/05-KG-H00-0170	0	sek	01:00:13;
+
+[CreateBG]=01:00:11	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-005	01:05:11;
+
+[PrintText]=01:00:13	Makoto	¿En serio? Vale, entonces, iré de por seguro.	01:03:22;
+
+[PlayVoice]=01:00:13	Voice05/05-KG/05-KG-H00/05-KG-H00-0180	1	mak	01:03:22;
+
+[PrintText]=01:03:23	Sekai	Solo será durante el verano sin embargo.	01:05:23;
+
+[PlayVoice]=01:03:23	Voice05/05-KG/05-KG-H00/05-KG-H00-0190	0	sek	01:05:23;
+
+[CreateBG]=01:05:11	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-006	01:10:11;
+
+[PrintText]=01:05:23	Makoto	Urgh... Ya veo, será larga la espera.	01:10:13;
+
+[PlayVoice]=01:05:23	Voice05/05-KG/05-KG-H00/05-KG-H00-0200	1	mak	01:10:13;
+
+[CreateBG]=01:10:11	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-007	01:19:10;
+
+[PrintText]=01:10:14	Sekai	...Hey, Makoto.	01:12:16;
+
+[PlayVoice]=01:10:14	Voice05/05-KG/05-KG-H00/05-KG-H00-0210	0	sek	01:12:16;
+
+[PlaySe]=01:12:10	2	SysSe/SE_all/gaya/yuugata	02:21:04;
+
+[PrintText]=01:12:15	Makoto	¿Sí?^	01:13:17;
+
+[PlayVoice]=01:12:15	Voice05/05-KG/05-KG-H00/05-KG-H00-0220	1	mak	01:13:17;
+
+[PrintText]=01:13:18	Sekai	¿Por qué los tres... estuvimos almorzando juntos?^	01:17:20;
+
+[PlayVoice]=01:13:18	Voice05/05-KG/05-KG-H00/05-KG-H00-0230	0	sek	01:17:20;
+
+[PrintText]=01:17:19	Makoto	¿Eh?^	01:19:10;
+
+[PlayVoice]=01:17:19	Voice05/05-KG/05-KG-H00/05-KG-H00-0240	1	mak	01:19:10;
+
+[CreateBG]=01:19:10	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-008	01:24:10;
+
+[PrintText]=01:19:10	Sekai	Después de todo... las cosas ya no van bien entre nosotros.	01:23:17;
+
+[PlayVoice]=01:19:10	Voice05/05-KG/05-KG-H00/05-KG-H00-0250	0	sek	01:23:17;
+
+[PrintText]=01:23:17	Makoto	Pero Kotonoha dijo que quería almorzar con nosotros.	01:27:08;
+
+[PlayVoice]=01:23:17	Voice05/05-KG/05-KG-H00/05-KG-H00-0260	1	mak	01:27:08;
+
+[CreateBG]=01:24:10	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-009	01:29:10;
+
+[PrintText]=01:27:09	Sekai	¡¿No soy yo tu novia?!	01:30:10;
+
+[PlayVoice]=01:27:09	Voice05/05-KG/05-KG-H00/05-KG-H00-0270	0	sek	01:30:10;
+
+[CreateBG]=01:29:10	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-010	01:34:10;
+
+[PrintText]=01:30:10	Makoto	Ah...	01:32:11;
+
+[PlayVoice]=01:30:10	Voice05/05-KG/05-KG-H00/05-KG-H00-0280	1	mak	01:32:11;
+
+[PrintText]=01:32:12	Sekai	¡Tener ahí a Katsura-san me hizo sentir nerviosa!	01:36:00;
+
+[PlayVoice]=01:32:12	Voice05/05-KG/05-KG-H00/05-KG-H00-0290	0	sek	01:36:00;
+
+[CreateBG]=01:34:10	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-011	01:39:10;
+
+[PrintText]=01:36:00	Makoto	Y-Ya veo... perdón, no lo noté.	01:41:06;
+
+[PlayVoice]=01:36:00	Voice05/05-KG/05-KG-H00/05-KG-H00-0300	1	mak	01:41:06;
+
+[CreateBG]=01:39:10	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-012A	01:47:23;
+
+[PrintText]=01:41:06	Sekai	...Sí, yo también lo siento.	01:44:16;
+
+[PlayVoice]=01:41:06	Voice05/05-KG/05-KG-H00/05-KG-H00-0310	0	sek	01:44:16;
+
+[PrintText]=01:44:16	Makoto	Está bien... mira, la próxima vez si viene, no aceptaré.	01:49:02;
+
+[PlayVoice]=01:44:16	Voice05/05-KG/05-KG-H00/05-KG-H00-0320	1	mak	01:49:02;
+
+[CreateBG]=01:47:23	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-013	01:52:23;
+
+[PrintText]=01:49:03	Sekai	Vale...	01:49:20;
+
+[PlayVoice]=01:49:03	Voice05/05-KG/05-KG-H00/05-KG-H00-0330	0	sek	01:49:20;
+
+[PrintText]=01:49:19	Makoto	Haha... ¿Tienes algo más que decir?^	01:54:01;
+
+[PlayVoice]=01:49:19	Voice05/05-KG/05-KG-H00/05-KG-H00-0340	1	mak	01:54:01;
+
+[CreateBG]=01:52:23	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-014	01:57:23;
+
+[PrintText]=01:54:01	Sekai	Teléfono y correo...	01:55:22;
+
+[PlayVoice]=01:54:01	Voice05/05-KG/05-KG-H00/05-KG-H00-0350	0	sek	01:55:22;
+
+[PrintText]=01:55:22	Makoto	¿Eh?^	01:57:06;
+
+[PlayVoice]=01:55:22	Voice05/05-KG/05-KG-H00/05-KG-H00-0360	1	mak	01:57:06;
+
+[PrintText]=01:57:06	Sekai	¡No contestes, incluso si te llama!	01:59:15;
+
+[PlayVoice]=01:57:06	Voice05/05-KG/05-KG-H00/05-KG-H00-0370	0	sek	01:59:15;
+
+[CreateBG]=01:57:23	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-015	02:02:23;
+
+[PrintText]=01:59:15	Makoto	Eso es absurdo...	02:02:02;
+
+[PlayVoice]=01:59:15	Voice05/05-KG/05-KG-H00/05-KG-H00-0380	1	mak	02:02:02;
+
+[PrintText]=02:02:02	Sekai	Bloquea sus llamadas.	02:03:21;
+
+[PlayVoice]=02:02:02	Voice05/05-KG/05-KG-H00/05-KG-H00-0390	0	sek	02:03:21;
+
+[CreateBG]=02:02:23	BGS	Event05/05-KG/05-KG-H00/05-KG-H00-016	02:21:04;
+
+[PrintText]=02:03:22	Makoto	B-Bien, vale...	02:07:07;
+
+[PlayVoice]=02:03:22	Voice05/05-KG/05-KG-H00/05-KG-H00-0400	1	mak	02:07:07;
+
+[PrintText]=02:07:08	Sekai	Hazlo ahora. Quiero verlo.	02:09:13;
+
+[PlayVoice]=02:07:08	Voice05/05-KG/05-KG-H00/05-KG-H00-0410	0	sek	02:09:13;
+
+[PrintText]=02:09:13	Makoto	...Vale, ahí. ¿Lo ves?^	02:14:15;
+
+[PlayVoice]=02:09:13	Voice05/05-KG/05-KG-H00/05-KG-H00-0420	1	mak	02:14:15;
+
+[PrintText]=02:14:16	Sekai	Sí.	02:15:09;
+
+[PlayVoice]=02:14:16	Voice05/05-KG/05-KG-H00/05-KG-H00-0440	0	sek	02:15:09;
+
+[PrintText]=02:15:09	Makoto	...	02:18:04;
+
+[PlayVoice]=02:15:09	Voice05/05-KG/05-KG-H00/05-KG-H00-0450	1	xxx	02:18:04;
+
+[PlaySe]=02:16:15	1	SysSe/SE_all/keitai/keitai_sousa	02:16:17;
+
+[PlaySe]=02:17:02	1	SysSe/SE_all/keitai/keitai_sousa	02:17:04;
+
+[PlaySe]=02:18:02	1	SysSe/SE_all/keitai/keitai_sousa	02:18:05;
+
+[PlaySe]=02:19:02	1	SysSe/SE_all/keitai/keitai_sousa	02:19:05;
+
+ ;
+
+[Next]=02:21:04;
+
+
+
+

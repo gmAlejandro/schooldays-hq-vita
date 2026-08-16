@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:02:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:02:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-O09/03-KB-O09-020	00:02:19;
+
+[PrintText]=00:00:00	Kotonoha	¿Está todo bien?^	00:01:03;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-O08/03-KB-O08-0030	0	kot	00:01:03;
+
+[PrintText]=00:01:10	Makoto	Sí.	00:02:12;
+
+[PlayVoice]=00:01:10	Voice03/03-KB/03-KB-O08/03-KB-O08-0040	1	mak	00:02:12;
+
+ ;
+
+[Next]=00:02:19;
+
+

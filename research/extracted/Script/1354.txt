@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:19:04;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:25:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-002	00:04:03;
+
+[PrintText]=00:03:00	Makoto	Kotonoha...	00:04:02;
+
+[PlayVoice]=00:03:00	Voice05/05-5O/05-5O-H01/05-5O-H01-0040	1	mak	00:04:02;
+
+[CreateBG]=00:04:03	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-003	00:06:05;
+
+[PrintText]=00:04:07	Kotonoha	¿Vamos a casa juntos?^	00:06:02;
+
+[PlayVoice]=00:04:07	Voice05/05-5O/05-5O-H01/05-5O-H01-0050	0	kot	00:06:02;
+
+[CreateBG]=00:06:05	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-004	00:11:04;
+
+[PrintText]=00:06:09	Makoto	Tengo que ocuparme de algo hoy...	00:08:21;
+
+[PlayVoice]=00:06:09	Voice05/05-5O/05-5O-H01/05-5O-H01-0060	1	mak	00:08:21;
+
+[PrintText]=00:08:23	Kotonoha	¿De algo?^	00:10:09;
+
+[PlayVoice]=00:08:23	Voice05/05-5O/05-5O-H01/05-5O-H01-0070	0	kot	00:10:09;
+
+[PrintText]=00:10:12	Makoto	Sí.	00:11:02;
+
+[PlayVoice]=00:10:12	Voice05/05-5O/05-5O-H01/05-5O-H01-0080	1	mak	00:11:02;
+
+[CreateBG]=00:11:04	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-005	00:12:19;
+
+[PrintText]=00:11:06	Kotonoha	¿De qué?^	00:12:18;
+
+[PlayVoice]=00:11:06	Voice05/05-5O/05-5O-H01/05-5O-H01-0090	0	kot	00:12:18;
+
+[CreateBG]=00:12:19	BGS	Event05/05-5O/05-5O-H01/05-5O-H01-006	00:15:18;
+
+[PrintText]=00:12:21	Makoto	¿Por qué quieres saber?^	00:15:14;
+
+[PlayVoice]=00:12:21	Voice05/05-5O/05-5O-H01/05-5O-H01-0100	1	mak	00:15:14;
+
+[CreateBG]=00:15:18	BGS	Event05/05-5O/05-5O-H00/05-5O-H00-001	00:25:04;
+
+[PrintText]=00:15:20	Kotonoha	Si es posible, me gustaría acompañarte.	00:19:03;
+
+[PlayVoice]=00:15:20	Voice05/05-5O/05-5O-H01/05-5O-H01-0110	0	kot	00:19:03;
+
+[SetSELECT]=00:19:04	'Iré a la casa de Sekai'	null	00:24:04;
+
+[PrintText]=00:19:10	Makoto	Pues verás...	00:20:12;
+
+[PlayVoice]=00:19:10	Voice05/05-5O/05-5O-H01/05-5O-H01-0120	1	mak	00:20:12;
+
+ ;
+
+[Next]=00:25:04;
+
+

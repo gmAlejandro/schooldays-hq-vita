@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:09:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:09:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-D03/03-SB-D03-001	00:03:12;
+
+[PrintText]=00:00:00	Makoto	No, nadie.	00:01:21;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-D03/03-SB-D03-0030	1	mak	00:01:21;
+
+[PrintText]=00:01:21	Sekai	¿En serio?^	00:02:16;
+
+[PlayVoice]=00:01:21	Voice03/03-SB/03-SB-D03/03-SB-D03-0040	0	sek	00:02:16;
+
+[PrintText]=00:02:16	Makoto	S-Sí.	00:04:14;
+
+[PlayVoice]=00:02:16	Voice03/03-SB/03-SB-D03/03-SB-D03-0050	1	mak	00:04:14;
+
+[CreateBG]=00:03:12	BGS	Event03/03-SB/03-SB-D03/03-SB-D03-002	00:04:14;
+
+[CreateBG]=00:04:14	BGS	Event03/03-SB/03-SB-D03/03-SB-D03-003	00:09:00;
+
+[PrintText]=00:04:14	Sekai	Ah, cambiando de tema, ayer en la TV...	00:08:15;
+
+[PlayVoice]=00:04:14	Voice03/03-SB/03-SB-D03/03-SB-D03-0070	0	sek	00:08:15;
+
+ ;
+
+[Next]=00:09:00;
+
+

@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:18:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:18:17;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H05/SE03-SB-H05-001	00:18:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H05/03-SB-H05-001	00:03:19;
+
+[PrintText]=00:00:00	Makoto	...	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-H05/03-SB-H05-0030	1	xxx	00:01:00;
+
+[PrintText]=00:01:00	Kotonoha	U-um...	00:03:18;
+
+[PlayVoice]=00:01:00	Voice03/03-SB/03-SB-H05/03-SB-H05-0040	0	kot	00:03:18;
+
+[PrintText]=00:03:18	Makoto	O-oh, cierto...	00:07:04;
+
+[PlayVoice]=00:03:18	Voice03/03-SB/03-SB-H05/03-SB-H05-0050	1	mak	00:07:04;
+
+[CreateBG]=00:03:19	BGS	Event03/03-SB/03-SB-H05/03-SB-H05-002	00:07:04;
+
+[CreateBG]=00:07:04	BGS	Event03/03-SB/03-SB-H05/03-SB-H05-003	00:12:01;
+
+[PrintText]=00:07:04	Kotonoha	Makoto-kun ¿Te molesta caminar conmigo así?^	00:11:17;
+
+[PlayVoice]=00:07:04	Voice03/03-SB/03-SB-H05/03-SB-H05-0060	0	kot	00:11:17;
+
+[PrintText]=00:11:17	Makoto	¡P-Parada nada! Uh, veamos...	00:16:14;
+
+[PlayVoice]=00:11:17	Voice03/03-SB/03-SB-H05/03-SB-H05-0070	1	mak	00:16:14;
+
+[CreateBG]=00:12:01	BGS	Event03/03-SB/03-SB-H05/03-SB-H05-004	00:18:17;
+
+[PrintText]=00:16:14	Kotonoha	Sí.	00:17:10;
+
+[PlayVoice]=00:16:14	Voice03/03-SB/03-SB-H05/03-SB-H05-0080	0	kot	00:17:10;
+
+[PrintText]=00:17:10	Makoto	Hmm...	00:18:16;
+
+[PlayVoice]=00:17:10	Voice03/03-SB/03-SB-H05/03-SB-H05-0090	1	mak	00:18:16;
+
+ ;
+
+[Next]=00:18:17;
+
+

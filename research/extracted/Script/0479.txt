@@ -1,0 +1,123 @@
+﻿[SkipFRAME]=00:50:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:50:19;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-B03/SE03-BK-B03-001	00:26:07;
+
+[PlayMovie]=00:00:00	Movie03/03-BK/03-BK-B03/03-BK-B03-001	0	00:03:00;
+
+[PlayMovie]=00:03:00	Movie03/03-BK/03-BK-B03/03-BK-B03-002	0	00:07:18;
+
+[PrintText]=00:03:00	Makoto	...	00:04:17;
+
+[PlayVoice]=00:03:00	Voice03/03-BK/03-BK-B03/03-BK-B03-0030	1	xxx	00:04:17;
+
+[PrintText]=00:04:17	Kotonoha	...	00:07:14;
+
+[PlayVoice]=00:04:17	Voice03/03-BK/03-BK-B03/03-BK-B03-0040	0	xxx	00:07:14;
+
+[CreateBG]=00:07:15	BGS	Event03/03-BK/03-BK-B03/03-BK-B03-003	00:11:03;
+
+[PrintText]=00:07:15	Makoto	¿Qué pasa? Estás actuando un poco extraño...	00:11:02;
+
+[PlayVoice]=00:07:15	Voice03/03-BK/03-BK-B03/03-BK-B03-0050	1	mak	00:11:02;
+
+[PrintText]=00:11:02	Kotonoha	Quiero decir...	00:12:10;
+
+[PlayVoice]=00:11:02	Voice03/03-BK/03-BK-B03/03-BK-B03-0060	0	kot	00:12:10;
+
+[PlayMovie]=00:11:03	Movie03/03-BK/03-BK-B03/03-BK-B03-004	0	00:14:15;
+
+[PrintText]=00:12:10	Makoto	Estamos en el tren...	00:14:14;
+
+[PlayVoice]=00:12:10	Voice03/03-BK/03-BK-B03/03-BK-B03-0070	1	mak	00:14:14;
+
+[CreateBG]=00:14:15	BGS	Event03/03-BK/03-BK-B03/03-BK-B03-005	00:27:18;
+
+[PrintText]=00:14:15	Kotonoha	Soy tu novia ¿No?^	00:18:08;
+
+[PlayVoice]=00:14:15	Voice03/03-BK/03-BK-B03/03-BK-B03-0080	0	kot	00:18:08;
+
+[PrintText]=00:18:08	Makoto	Uuh...	00:19:16;
+
+[PlayVoice]=00:18:08	Voice03/03-BK/03-BK-B03/03-BK-B03-0090	1	mak	00:19:16;
+
+[PrintText]=00:19:16	Kotonoha	Entonces...	00:20:17;
+
+[PlayVoice]=00:19:16	Voice03/03-BK/03-BK-B03/03-BK-B03-0100	0	kot	00:20:17;
+
+[PrintText]=00:20:18	Makoto	...Bien. Lo haré.	00:26:06;
+
+[PlayVoice]=00:20:18	Voice03/03-BK/03-BK-B03/03-BK-B03-0110	1	mak	00:26:06;
+
+[PlaySe]=00:26:06	2	Se03/03-BK/03-BK-B03/SE03-BK-B03-001	00:44:16;
+
+[PrintText]=00:26:06	Kotonoha	...	00:27:08;
+
+[PlayVoice]=00:26:06	Voice03/03-BK/03-BK-B03/03-BK-B03-0120	0	xxx	00:27:08;
+
+[PlayMovie]=00:27:18	Movie03/03-BK/03-BK-B03/03-BK-B03-007	0	00:28:16;
+
+[PrintText]=00:27:20	Makoto	Venga.	00:28:16;
+
+[PlayVoice]=00:27:20	Voice03/03-BK/03-BK-B03/03-BK-B03-0130	1	mak	00:28:16;
+
+[PrintText]=00:28:15	Kotonoha	...Está bien.	00:29:16;
+
+[PlayVoice]=00:28:15	Voice03/03-BK/03-BK-B03/03-BK-B03-0140	0	kot	00:29:16;
+
+[CreateBG]=00:28:16	BGS	Event03/03-BK/03-BK-B03/03-BK-B03-008	00:30:08;
+
+[PrintText]=00:29:16	Makoto	¿Eh?^	00:30:07;
+
+[PlayVoice]=00:29:16	Voice03/03-BK/03-BK-B03/03-BK-B03-0150	1	mak	00:30:07;
+
+[PrintText]=00:30:07	Kotonoha	Olvídalo.	00:31:20;
+
+[PlayVoice]=00:30:07	Voice03/03-BK/03-BK-B03/03-BK-B03-0160	0	kot	00:31:20;
+
+[CreateBG]=00:30:08	BGS	Event03/03-BK/03-BK-B03/03-BK-B03-008	00:31:21;
+
+[PrintText]=00:31:20	Makoto	¿P-Por qué?^	00:33:16;
+
+[PlayVoice]=00:31:20	Voice03/03-BK/03-BK-B03/03-BK-B03-0170	1	mak	00:33:16;
+
+[PlayMovie]=00:31:21	Movie03/03-BK/03-BK-B03/03-BK-B03-009	0	00:42:14;
+
+[PrintText]=00:33:16	Kotonoha	Si te obligo... será lo mismo.	00:36:15;
+
+[PlayVoice]=00:33:16	Voice03/03-BK/03-BK-B03/03-BK-B03-0180	0	kot	00:36:15;
+
+[PrintText]=00:36:15	Makoto	¿Eh? ¿Lo mismo de qué?^	00:39:00;
+
+[PlayVoice]=00:36:15	Voice03/03-BK/03-BK-B03/03-BK-B03-0190	1	mak	00:39:00;
+
+[PlayVoice]=00:39:00	Voice03/03-BK/03-BK-B03/03-BK-B03-0200			00:39:23;
+
+[PlayVoice]=00:39:23	Voice03/03-BK/03-BK-B03/03-BK-B03-0210	1	ana	00:42:13;
+
+[PrintText]=00:42:13	Makoto	Ah, esto es...	00:44:16;
+
+[PlayVoice]=00:42:13	Voice03/03-BK/03-BK-B03/03-BK-B03-0220	1	mak	00:44:16;
+
+[CreateBG]=00:42:14	BGS	Event03/03-BK/03-BK-B03/03-BK-B03-011	00:50:19;
+
+[PlaySe]=00:44:16	1	Se03/03-BK/03-BK-B03/SE03-BK-B03-002	00:50:19;
+
+[PrintText]=00:45:01	Makoto	Kotonoha.	00:46:07;
+
+[PlayVoice]=00:45:01	Voice03/03-BK/03-BK-B03/03-BK-B03-0240	1	mak	00:46:07;
+
+[PlayVoice]=00:46:15	Voice03/03-BK/03-BK-B03/03-BK-B03-0250			00:47:14;
+
+[PrintText]=00:48:05	Kotonoha	Buenas noches.	00:49:09;
+
+[PlayVoice]=00:48:05	Voice03/03-BK/03-BK-B03/03-BK-B03-0260	0	kot	00:49:09;
+
+[BlackFade]=00:49:19	OUT	00:50:19;
+
+ ;
+
+[Next]=00:50:19;
+
+

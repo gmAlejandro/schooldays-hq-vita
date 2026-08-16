@@ -1,0 +1,62 @@
+﻿[SkipFRAME]=00:13:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:13:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-B06/05-KA-B06-001	00:03:13;
+
+[PrintText]=00:00:00	Setsuna	Itou.	00:00:21;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-B06/05-KA-B06-0030	0	set	00:00:21;
+
+[PrintText]=00:00:21	Makoto	Kiyoura...	00:02:01;
+
+[PlayVoice]=00:00:21	Voice05/05-KA/05-KA-B06/05-KA-B06-0040	1	mak	00:02:01;
+
+[PrintText]=00:02:02	Setsuna	Tenemos que hablar.	00:03:14;
+
+[PlayVoice]=00:02:02	Voice05/05-KA/05-KA-B06/05-KA-B06-0050	0	set	00:03:14;
+
+[CreateBG]=00:03:13	BGS	Event05/05-KA/05-KA-B06/05-KA-B06-002	00:07:03;
+
+[PrintText]=00:03:13	Makoto	¿De qué?^	00:04:12;
+
+[PlayVoice]=00:03:13	Voice05/05-KA/05-KA-B06/05-KA-B06-0060	1	mak	00:04:12;
+
+[PrintText]=00:04:13	Setsuna	de Sekai.	00:05:22;
+
+[PlayVoice]=00:04:13	Voice05/05-KA/05-KA-B06/05-KA-B06-0070	0	set	00:05:22;
+
+[PrintText]=00:06:00	Makoto	...	00:07:02;
+
+[PlayVoice]=00:06:00	Voice05/05-KA/05-KA-B06/05-KA-B06-0080	1	xxx	00:07:02;
+
+[CreateBG]=00:07:03	BGS	Event05/05-KA/05-KA-B06/05-KA-B06-003	00:08:19;
+
+[PrintText]=00:07:03	Setsuna	¿Está bien?^	00:08:00;
+
+[PlayVoice]=00:07:03	Voice05/05-KA/05-KA-B06/05-KA-B06-0090	0	set	00:08:00;
+
+[PrintText]=00:08:01	Makoto	Sí.	00:08:17;
+
+[PlayVoice]=00:08:01	Voice05/05-KA/05-KA-B06/05-KA-B06-0100	1	mak	00:08:17;
+
+[CreateBG]=00:08:19	BGS	Event05/05-KA/05-KA-B06/05-KA-B06-004	00:10:00;
+
+[PrintText]=00:08:19	Setsuna	Después de clases, en el tejado.	00:11:03;
+
+[PlayVoice]=00:08:19	Voice05/05-KA/05-KA-B06/05-KA-B06-0110	0	set	00:11:03;
+
+[CreateBG]=00:10:00	BGS	Event05/05-KA/05-KA-B06/05-KA-B06-005	00:13:05;
+
+[PrintText]=00:11:04	Makoto	Vale.	00:12:04;
+
+[PlayVoice]=00:11:04	Voice05/05-KA/05-KA-B06/05-KA-B06-0120	1	mak	00:12:04;
+
+[BlackFade]=00:12:05	OUT	00:13:05;
+
+ ;
+
+[Next]=00:13:05;
+
+
+

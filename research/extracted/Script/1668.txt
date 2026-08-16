@@ -1,0 +1,35 @@
+﻿[SkipFRAME]=00:19:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/station	00:19:02;
+
+[PlayMovie]=00:00:00	Movie05/05-KB/05-KB-J03/05-KB-J03-001	0	00:04:16;
+
+[CreateBG]=00:04:16	BGS	Event05/05-KB/05-KB-J03/05-KB-J03-002	00:07:03;
+
+[PrintText]=00:04:16	Kotonoha	Ah... Makoto-kun.	00:06:22;
+
+[PlayVoice]=00:04:16	Voice05/05-KB/05-KB-J03/05-KB-J03-0040	0	kot	00:06:22;
+
+[CreateBG]=00:07:03	BGS	Event05/05-KB/05-KB-J03/05-KB-J03-003	00:10:18;
+
+[PrintText]=00:07:11	Makoto	¿Qué es lo que estás cargando?^	00:10:17;
+
+[PlayVoice]=00:07:11	Voice05/05-KB/05-KB-J03/05-KB-J03-0100	1	mak	00:10:17;
+
+[CreateBG]=00:10:18	BGS	Event05/05-KB/05-KB-J03/05-KB-J03-004	00:14:02;
+
+[PrintText]=00:10:18	Kotonoha	Ufufu... lo descubrirás pronto.	00:14:02;
+
+[PlayVoice]=00:10:18	Voice05/05-KB/05-KB-J03/05-KB-J03-0110	0	kot	00:14:02;
+
+[CreateBG]=00:14:02	BGS	Event05/05-KB/05-KB-J03/05-KB-J03-005	00:19:02;
+
+[BlackFade]=00:18:02	OUT	00:19:02;
+
+ ;
+
+[Next]=00:19:02;
+
+
+
+

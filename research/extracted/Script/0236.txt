@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:21:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:27:13;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-J00/SE02-2K-J00-001	00:26:04;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J00/02-2K-J00-001	0	00:03:01;
+
+[PlayMovie]=00:03:01	Movie02/02-2K/02-2K-J00/02-2K-J00-002	0	00:27:13;
+
+[PrintText]=00:03:01	Kotonoha	Está muy lleno.	00:04:21;
+
+[PlayVoice]=00:03:01	Voice02/02-2K/02-2K-J00/02-2K-J00-0040	0	kot	00:04:21;
+
+[PrintText]=00:04:21	Makoto	Sí, todas las escuelas salen a está misma hora.	00:07:13;
+
+[PlayVoice]=00:04:21	Voice02/02-2K/02-2K-J00/02-2K-J00-0050	1	mak	00:07:13;
+
+[PrintText]=00:07:13	Kotonoha	Sí...	00:09:07;
+
+[PlayVoice]=00:07:13	Voice02/02-2K/02-2K-J00/02-2K-J00-0060	0	kot	00:09:07;
+
+[PrintText]=00:09:07	Makoto	¿No sueles tomarlo a está hora?^	00:13:00;
+
+[PlayVoice]=00:09:07	Voice02/02-2K/02-2K-J00/02-2K-J00-0070	1	mak	00:13:00;
+
+[PrintText]=00:13:01	Kotonoha	No. En los días que tengo reunión del consejo, paso un poco de tiempo en la biblioteca cuando ya no hay muchas personas.	00:19:14;
+
+[PlayVoice]=00:13:01	Voice02/02-2K/02-2K-J00/02-2K-J00-0080	0	kot	00:19:14;
+
+[PrintText]=00:19:15	Makoto	Ya veo...	00:20:18;
+
+[PlayVoice]=00:19:15	Voice02/02-2K/02-2K-J00/02-2K-J00-0090	1	mak	00:20:18;
+
+[PrintText]=00:20:17	Kotonoha	Sí...	00:21:13;
+
+[PlayVoice]=00:20:17	Voice02/02-2K/02-2K-J00/02-2K-J00-0100	0	kot	00:21:13;
+
+[SetSELECT]=00:21:12	'¿Por qué me esperaste hoy?'	'Deberías haber hecho eso hoy'	00:26:12;
+
+[PlaySe]=00:26:04	2	Se02/02-2K/02-2K-J00/SE02-2K-J00-001	00:27:13;
+
+ ;
+
+[Next]=00:27:13;
+
+
+
+

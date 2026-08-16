@@ -1,0 +1,125 @@
+﻿[SkipFRAME]=01:20:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	01:20:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-001	00:11:23;
+
+[PrintText]=00:00:00	Makoto	¿Vas a confesarme tu amor?!	00:01:17;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-D01/03-KB-D01-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:17	Taisuke	¿Eh...?!	00:02:08;
+
+[PlayVoice]=00:01:17	Voice03/03-KB/03-KB-D01/03-KB-D01-0040	1	tai	00:02:08;
+
+[PrintText]=00:02:08	Makoto	...	00:04:00;
+
+[PlayVoice]=00:02:08	Voice03/03-KB/03-KB-D01/03-KB-D01-0050	1	xxx	00:04:00;
+
+[PrintText]=00:04:00	Taisuke	Ah, no. De hecho, esto... um... bueno, quiero tu consejo...	00:11:22;
+
+[PlayVoice]=00:04:00	Voice03/03-KB/03-KB-D01/03-KB-D01-0060	1	tai	00:11:22;
+
+[PrintText]=00:11:22	Makoto	¡Idiota! ¡Dame un descanso!	00:14:00;
+
+[PlayVoice]=00:11:22	Voice03/03-KB/03-KB-D01/03-KB-D01-0080	1	mak	00:14:00;
+
+[CreateBG]=00:11:23	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-002	00:18:04;
+
+[PrintText]=00:14:00	Taisuke	¡¿Ehh?!	00:14:16;
+
+[PlayVoice]=00:14:00	Voice03/03-KB/03-KB-D01/03-KB-D01-0090	1	tai	00:14:16;
+
+[PrintText]=00:14:16	Makoto	¡No soy Gay! ¡Inténtalo con otro!	00:18:04;
+
+[PlayVoice]=00:14:16	Voice03/03-KB/03-KB-D01/03-KB-D01-0100	1	mak	00:18:04;
+
+[PrintText]=00:18:03	Taisuke	Tú y Saionji... espera, ¡¿Gay?!	00:22:20;
+
+[PlayVoice]=00:18:03	Voice03/03-KB/03-KB-D01/03-KB-D01-0110	1	tai	00:22:20;
+
+[CreateBG]=00:18:04	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-003	00:34:02;
+
+[PrintText]=00:22:21	Makoto	Pienso que está bien ser amigos ¿Vale? ¿Vale? ¡Por favor, entiende!	00:28:21;
+
+[PlayVoice]=00:22:21	Voice03/03-KB/03-KB-D01/03-KB-D01-0120	1	mak	00:28:21;
+
+[PrintText]=00:28:21	Taisuke	¡I-Idiota! ¡¿Quién demonios se te declararía?!	00:34:02;
+
+[PlayVoice]=00:28:21	Voice03/03-KB/03-KB-D01/03-KB-D01-0130	1	tai	00:34:02;
+
+[CreateBG]=00:34:02	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-004	00:49:03;
+
+[PrintText]=00:34:02	Makoto	Entonces ¿Quién? No haré nada siempre y cuando no tenga nada que ver conmigo, solo toma a alguien de afuera...	00:42:10;
+
+[PlayVoice]=00:34:02	Voice03/03-KB/03-KB-D01/03-KB-D01-0140	1	mak	00:42:10;
+
+[PrintText]=00:42:10	Taisuke	¡Mira, no es algo gay!	00:46:21;
+
+[PlayVoice]=00:42:10	Voice03/03-KB/03-KB-D01/03-KB-D01-0150	1	tai	00:46:21;
+
+[PrintText]=00:46:22	Makoto	¿No lo es?^	00:48:04;
+
+[PlayVoice]=00:46:22	Voice03/03-KB/03-KB-D01/03-KB-D01-0160	1	mak	00:48:04;
+
+[PrintText]=00:48:04	Taisuke	No.	00:49:03;
+
+[PlayVoice]=00:48:04	Voice03/03-KB/03-KB-D01/03-KB-D01-0170	1	tai	00:49:03;
+
+[CreateBG]=00:49:03	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-005	00:56:11;
+
+[PrintText]=00:49:03	Makoto	¿No te sientes raro mostrando tus pectorales o tus biceps?^	00:55:05;
+
+[PlayVoice]=00:49:03	Voice03/03-KB/03-KB-D01/03-KB-D01-0180	1	mak	00:55:05;
+
+[PrintText]=00:55:06	Taisuke	¡Como si pudiera!	00:56:10;
+
+[PlayVoice]=00:55:06	Voice03/03-KB/03-KB-D01/03-KB-D01-0190	1	tai	00:56:10;
+
+[PrintText]=00:56:10	Makoto	¿En serio? Que alivio.	01:00:07;
+
+[PlayVoice]=00:56:10	Voice03/03-KB/03-KB-D01/03-KB-D01-0210	1	mak	01:00:07;
+
+[CreateBG]=00:56:11	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-006	01:11:10;
+
+[PrintText]=01:00:07	Taisuke	Usa el sentido común.	01:01:10;
+
+[PlayVoice]=01:00:07	Voice03/03-KB/03-KB-D01/03-KB-D01-0220	1	tai	01:01:10;
+
+[PrintText]=01:01:10	Makoto	Haah... cierto. Después de todo, tienes un complejo de hermana, así que no puedes estar interesado en alguien más.	01:08:21;
+
+[PlayVoice]=01:01:10	Voice03/03-KB/03-KB-D01/03-KB-D01-0230	1	mak	01:08:21;
+
+[PrintText]=01:08:21	Taisuke	¿No crees que te estás pasando?^	01:11:10;
+
+[PlayVoice]=01:08:21	Voice03/03-KB/03-KB-D01/03-KB-D01-0240	1	tai	01:11:10;
+
+[CreateBG]=01:11:10	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-007	01:19:13;
+
+[PrintText]=01:11:10	Makoto	¿Pero es verdad no?^	01:12:19;
+
+[PlayVoice]=01:11:10	Voice03/03-KB/03-KB-D01/03-KB-D01-0250	1	mak	01:12:19;
+
+[PrintText]=01:12:19	Taisuke	Pues no es así.	01:14:07;
+
+[PlayVoice]=01:12:19	Voice03/03-KB/03-KB-D01/03-KB-D01-0260	1	tai	01:14:07;
+
+[PrintText]=01:14:07	Makoto	¿En serio?^	01:15:19;
+
+[PlayVoice]=01:14:07	Voice03/03-KB/03-KB-D01/03-KB-D01-0270	1	mak	01:15:19;
+
+[PrintText]=01:15:19	Taisuke	Sí. Hay una chica en la que estoy interesado.	01:19:12;
+
+[PlayVoice]=01:15:19	Voice03/03-KB/03-KB-D01/03-KB-D01-0280	1	tai	01:19:12;
+
+[PrintText]=01:19:12	Makoto	¿Oh?^	01:20:06;
+
+[PlayVoice]=01:19:12	Voice03/03-KB/03-KB-D01/03-KB-D01-0290	1	mak	01:20:06;
+
+[CreateBG]=01:19:13	BGS	Event03/03-KB/03-KB-D01/03-KB-D01-008	01:20:07;
+
+ ;
+
+[Next]=01:20:07;
+
+

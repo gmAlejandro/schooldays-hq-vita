@@ -1,0 +1,89 @@
+﻿[SkipFRAME]=00:41:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:41:12;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-001	00:01:06;
+
+[CreateBG]=00:01:06	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-001B	00:02:02;
+
+#[PrintText]=00:01:06	Makoto	"En ese caso..."\nAh...	00:02:02;
+
+[PlayVoice]=00:01:06	Voice04/04-SE/04-SE-D04/04-SE-D04-0050	1	mak	00:03:05;
+
+[CreateBG]=00:02:02	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-002	00:03:05;
+
+[CreateBG]=00:03:05	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-003	00:04:00;
+
+[PrintText]=00:03:05	Makoto	Bueno, olvídalo...	00:05:01;
+
+[PlayVoice]=00:03:05	Voice04/04-SE/04-SE-D04/04-SE-D04-0060	1	xxx	00:05:01;
+
+[CreateBG]=00:04:00	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-004	00:05:01;
+
+[CreateBG]=00:05:01	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-005	00:06:18;
+
+#[PrintText]=00:05:01	Sekai	"En ese caso ¿Qué?".	00:06:18;
+
+[CreateBG]=00:06:18	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-006	00:09:00;
+
+[CreateBG]=00:09:00	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-007	00:10:17;
+
+#[PrintText]=00:09:00	Sekai	"Podría ser que...\n¿Estaba tan enojada que también te hice enojar a ti?".	00:10:17;
+
+[CreateBG]=00:10:17	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-006	00:12:23;
+
+[CreateBG]=00:12:23	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-009A	00:14:21;
+
+#[PrintText]=00:12:23	Sekai	"Hey... Estaba bromeando.\nNo te enojes ¿Vale?".	00:14:21;
+
+[CreateBG]=00:14:21	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-009B	00:15:20;
+
+#[PrintText]=00:14:21	Makoto	"¿En serio?".	00:15:20;
+
+[CreateBG]=00:15:20	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010	00:17:12;
+
+[CreateBG]=00:17:12	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010B	00:19:11;
+
+#[PrintText]=00:17:12	Sekai&Makoto	Sekai: "Realmente no estoy enojada."\nMakoto: "¿Estás segura?".	00:19:11;
+
+[CreateBG]=00:19:11	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010C	00:21:03;
+
+[CreateBG]=00:21:03	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010D	00:23:03;
+
+#[PrintText]=00:21:03	Sekai	"Solo estaba pensando en después de clases.".	00:23:03;
+
+[CreateBG]=00:23:03	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010E	00:24:13;
+
+#[PrintText]=00:23:03	Makoto	"¿Después de clases?".	00:24:13;
+
+[CreateBG]=00:24:13	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010F	00:27:02;
+
+#[PrintText]=00:24:13	Sekai	"Estaba pensando en que podíamos ir la tienda de hamburguesas juntos.".	00:27:02;
+
+[CreateBG]=00:27:02	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010G	00:28:16;
+
+#[PrintText]=00:27:02	Makoto	"Suena bien.".	00:28:16;
+
+[CreateBG]=00:28:16	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010H	00:30:17;
+
+#[PrintText]=00:28:16	Sekai	"¿Quieres ir?".	00:30:17;
+
+[CreateBG]=00:30:17	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010I	00:32:00;
+
+#[PrintText]=00:30:17	Makoto	"Sí.".	00:32:00;
+
+[CreateBG]=00:32:00	BGS	Ini/Event04/04-SE/04-SE-D04/04-SE-D04-010J	00:34:12;
+
+#[PrintText]=00:32:00	Sekai	"¡Está decidido entonces!\nEheheh...".	00:34:11;
+
+[CreateBG]=00:34:12	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-011	00:36:12;
+
+[CreateBG]=00:36:12	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-012	00:41:12;
+
+[PlayVoice]=00:37:01	Voice04/04-SE/04-SE-D04/04-SE-D04-0260			00:38:02;
+
+ ;
+
+[Next]=00:41:12;
+
+

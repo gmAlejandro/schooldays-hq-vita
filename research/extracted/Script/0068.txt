@@ -1,0 +1,371 @@
+﻿[SkipFRAME]=03:42:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	03:48:02;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-H06/SE01-00-H06-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-H06/01-00-H06-001	00:02:07;
+
+[PrintText]=00:00:06	Sekai	¡Oh, Es cierto!	00:01:17;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-H06/01-00-H06-0050	0	sek	00:01:17;
+
+[PrintText]=00:01:12	Kotonoha	¿Sí?^	00:02:11;
+
+[PlayVoice]=00:01:12	Voice01/01-00/01-00-H06/01-00-H06-0060	0	kot	00:02:11;
+
+[CreateBG]=00:02:07	BGS	Event01/01-00/01-00-H06/01-00-H06-002	00:07:00;
+
+[PrintText]=00:02:07	Sekai	¿La cita de ayer? fuiste a Sakakino Hills, ¿No? ¿Cómo es?^	00:07:02;
+
+[PlayVoice]=00:02:07	Voice01/01-00/01-00-H06/01-00-H06-0070	0	sek	00:07:02;
+
+[CreateBG]=00:07:00	BGS	Event01/01-00/01-00-H06/01-00-H06-003	00:08:03;
+
+[PrintText]=00:07:00	Makoto	¿Qué quieres decir...?^	00:08:03;
+
+[PlayVoice]=00:07:00	Voice01/01-00/01-00-H06/01-00-H06-0080	1	mak	00:08:03;
+
+[CreateBG]=00:08:03	BGS	Event01/01-00/01-00-H06/01-00-H06-004	00:11:13;
+
+[PrintText]=00:08:03	Sekai	Sakakino Hills está en Sakakino-cho, ¿No?^	00:11:18;
+
+[PlayVoice]=00:08:03	Voice01/01-00/01-00-H06/01-00-H06-0090	0	sek	00:11:18;
+
+[CreateBG]=00:11:13	BGS	Event01/01-00/01-00-H06/01-00-H06-005	00:18:08;
+
+[PrintText]=00:11:13	Makoto	Bueno, sí. Por eso es que se llama 'Sakakino' Hills.	00:15:12;
+
+[PlayVoice]=00:11:13	Voice01/01-00/01-00-H06/01-00-H06-0100	1	mak	00:15:12;
+
+[PrintText]=00:15:01	Sekai	Aw, cielos...deja de encontrar errores en todo lo que digo.	00:18:03;
+
+[PlayVoice]=00:15:01	Voice01/01-00/01-00-H06/01-00-H06-0110	0	sek	00:18:03;
+
+[CreateBG]=00:18:08	BGS	Event01/01-00/01-00-H06/01-00-H06-006	00:27:10;
+
+[PrintText]=00:18:15	Sekai	Como sea, Sakakino-cho no es un lugar tan lejos de donde vivo, pero nunca he estado ahí antes.	00:27:17;
+
+[PlayVoice]=00:18:15	Voice01/01-00/01-00-H06/01-00-H06-0120	0	sek	00:27:17;
+
+[CreateBG]=00:27:10	BGS	Event01/01-00/01-00-H06/01-00-H06-007	00:29:03;
+
+[PrintText]=00:27:10	Kotonoha	¿En serio?^	00:29:01;
+
+[PlayVoice]=00:27:10	Voice01/01-00/01-00-H06/01-00-H06-0130	0	kot	00:29:01;
+
+[CreateBG]=00:29:03	BGS	Event01/01-00/01-00-H06/01-00-H06-008	00:35:05;
+
+[PrintText]=00:29:10	Sekai	Es por Oohara Walker, se ve interesante ese lugar. ¿Cómo es?^	00:35:03;
+
+[PlayVoice]=00:29:10	Voice01/01-00/01-00-H06/01-00-H06-0140	0	sek	00:35:03;
+
+[CreateBG]=00:35:05	BGS	Event01/01-00/01-00-H06/01-00-H06-009	00:40:11;
+
+[PrintText]=00:35:06	Makoto	¿Interesante dices?, habían unas construcciones grandes y ridículas.	00:40:10;
+
+[PlayVoice]=00:35:06	Voice01/01-00/01-00-H06/01-00-H06-0150	1	mak	00:40:10;
+
+[CreateBG]=00:40:11	BGS	Event01/01-00/01-00-H06/01-00-H06-010	00:50:14;
+
+[PrintText]=00:40:11	Sekai	Ellos tienen esos lugares como hoteles o billares ¿No?^	00:43:03;
+
+[PlayVoice]=00:40:11	Voice01/01-00/01-00-H06/01-00-H06-0160	0	sek	00:43:03;
+
+[PrintText]=00:42:23	Makoto	Sí. Tienen lugares como supermercados y juegos de arcade.	00:50:18;
+
+[PlayVoice]=00:42:23	Voice01/01-00/01-00-H06/01-00-H06-0170	1	mak	00:50:18;
+
+[CreateBG]=00:50:14	BGS	Event01/01-00/01-00-H06/01-00-H06-011	00:55:00;
+
+[PrintText]=00:50:15	Sekai	Wow, juegos. Suena bien.	00:53:13;
+
+[PlayVoice]=00:50:15	Voice01/01-00/01-00-H06/01-00-H06-0180	0	sek	00:53:13;
+
+[PrintText]=00:53:09	Makoto	¿Te gustan los Videojuegos?^	00:55:06;
+
+[PlayVoice]=00:53:09	Voice01/01-00/01-00-H06/01-00-H06-0190	1	mak	00:55:06;
+
+[CreateBG]=00:55:00	BGS	Event01/01-00/01-00-H06/01-00-H06-012	01:06:08;
+
+[PrintText]=00:55:00	Sekai	Por supuesto, amo esos juegos en los arcades... ¿Cómo se llama?^	00:58:05;
+
+[PrintText]=00:58:05	Sekai	Tú sabes, ese que coges una gran arma y luego, '¡Bang! ¡Bang!'.	01:02:21;
+
+[PlayVoice]=00:55:00	Voice01/01-00/01-00-H06/01-00-H06-0200	0	sek	01:02:21;
+
+[PrintText]=01:02:17	Makoto	Uh, una chica normal no haría cosas como esas.	01:06:18;
+
+[PlayVoice]=01:02:17	Voice01/01-00/01-00-H06/01-00-H06-0210	1	mak	01:06:18;
+
+[CreateBG]=01:06:08	BGS	Event01/01-00/01-00-H06/01-00-H06-013	01:14:04;
+
+[PrintText]=01:06:10	Sekai	No me importa. Siempre llevo a Nanami y a Setsuna a jugar conmigo.	01:11:20;
+
+[PlayVoice]=01:06:10	Voice01/01-00/01-00-H06/01-00-H06-0220	0	sek	01:11:20;
+
+[PlaySe]=01:09:05	2	Se01/01-00/01-00-H06/SE01-00-H06-001	02:18:10;
+
+[PrintText]=01:11:18	Makoto	Que valientes ustedes...	01:13:11;
+
+[PlayVoice]=01:11:18	Voice01/01-00/01-00-H06/01-00-H06-0230	1	mak	01:13:11;
+
+[PrintText]=01:13:03	Sekai	Heh heh heh...	01:14:05;
+
+[PlayVoice]=01:13:03	Voice01/01-00/01-00-H06/01-00-H06-0240	0	sek	01:14:05;
+
+[CreateBG]=01:14:04	BGS	Event01/01-00/01-00-H06/01-00-H06-014	01:18:16;
+
+[PrintText]=01:14:04	Makoto	Bueno, personalmente, también me gustan esos juegos.	01:17:12;
+
+[PlayVoice]=01:14:04	Voice01/01-00/01-00-H06/01-00-H06-0250	1	mak	01:17:12;
+
+[PrintText]=01:17:07	Sekai	¿Lo ves?^	01:18:18;
+
+[PlayVoice]=01:17:07	Voice01/01-00/01-00-H06/01-00-H06-0260	0	sek	01:18:18;
+
+[CreateBG]=01:18:16	BGS	Event01/01-00/01-00-H06/01-00-H06-015	01:22:09;
+
+[PrintText]=01:18:16	Makoto	¿Por que no jugamos uno juntos la próxima vez?^	01:20:10;
+
+[PlayVoice]=01:18:16	Voice01/01-00/01-00-H06/01-00-H06-0270	1	mak	01:20:10;
+
+[PrintText]=01:20:04	Sekai	Claro. Ahora, ¿Cuando deberíamos ir...? Espera, ¿Qué hay de ti Katsura-san?^	01:24:16;
+
+[PlayVoice]=01:20:04	Voice01/01-00/01-00-H06/01-00-H06-0280	0	sek	01:24:16;
+
+[CreateBG]=01:22:09	BGS	Event01/01-00/01-00-H06/01-00-H06-016	01:24:20;
+
+[CreateBG]=01:24:20	BGS	Event01/01-00/01-00-H06/01-00-H06-017	01:31:23;
+
+[PrintText]=01:25:10	Kotonoha	Ah... No me gustan los video juegos...	01:29:03;
+
+[PlayVoice]=01:25:10	Voice01/01-00/01-00-H06/01-00-H06-0290	0	kot	01:29:03;
+
+[PrintText]=01:29:03	Makoto	¿En serio?^	01:30:11;
+
+[PlayVoice]=01:29:03	Voice01/01-00/01-00-H06/01-00-H06-0300	1	mak	01:30:11;
+
+[PrintText]=01:30:21	Kotonoha	Sí...	01:31:19;
+
+[PlayVoice]=01:30:21	Voice01/01-00/01-00-H06/01-00-H06-0310	0	kot	01:31:19;
+
+[CreateBG]=01:31:23	BGS	Event01/01-00/01-00-H06/01-00-H06-018	01:35:15;
+
+[PrintText]=01:32:00	Makoto	Supongo que no se puede hacer nada, deberíamos ir por nuestra cuenta.	01:34:22;
+
+[PlayVoice]=01:32:00	Voice01/01-00/01-00-H06/01-00-H06-0320	1	mak	01:34:22;
+
+[PrintText]=01:35:02	Kotonoha	¿Eh...?^	01:35:22;
+
+[PlayVoice]=01:35:02	Voice01/01-00/01-00-H06/01-00-H06-0330	0	kot	01:35:22;
+
+[CreateBG]=01:35:15	BGS	Event01/01-00/01-00-H06/01-00-H06-019	01:46:01;
+
+[PrintText]=01:35:15	Sekai	Idiota.	01:36:17;
+
+[PlayVoice]=01:35:15	Voice01/01-00/01-00-H06/01-00-H06-0340	0	sek	01:36:17;
+
+[PrintText]=01:36:13	Makoto	¿Qué hice mal?^	01:37:23;
+
+[PlayVoice]=01:36:13	Voice01/01-00/01-00-H06/01-00-H06-0350	1	mak	01:37:23;
+
+[PrintText]=01:37:17	Sekai	No dejes a tu novia solo porque irás al arcade.	01:42:03;
+
+[PlayVoice]=01:37:17	Voice01/01-00/01-00-H06/01-00-H06-0360	0	sek	01:42:03;
+
+[PrintText]=01:42:03	Makoto	¿De qué estas hablando? Todo fue tu idea.	01:45:05;
+
+[PlayVoice]=01:42:03	Voice01/01-00/01-00-H06/01-00-H06-0370	1	mak	01:45:05;
+
+[PrintText]=01:44:23	Sekai	Cállate.	01:45:23;
+
+[PlayVoice]=01:44:23	Voice01/01-00/01-00-H06/01-00-H06-0380	0	sek	01:45:23;
+
+[CreateBG]=01:46:01	BGS	Event01/01-00/01-00-H06/01-00-H06-020	01:48:00;
+
+[PrintText]=01:46:06	Makoto	Cielos...	01:47:03;
+
+[PlayVoice]=01:46:06	Voice01/01-00/01-00-H06/01-00-H06-0390	1	mak	01:47:03;
+
+[CreateBG]=01:48:00	BGS	Event01/01-00/01-00-H06/01-00-H06-021	01:50:23;
+
+[PrintText]=01:48:00	Sekai	¿Qué hay de ti Katsura-san? ¿Qué piensas del lugar Sakakino Hills?^	01:51:02;
+
+[PlayVoice]=01:48:00	Voice01/01-00/01-00-H06/01-00-H06-0400	0	sek	01:51:02;
+
+[CreateBG]=01:50:23	BGS	Event01/01-00/01-00-H06/01-00-H06-022	02:02:12;
+
+[PrintText]=01:51:05	Kotonoha	Había una gran librería, con muchos pero muchos libros.	01:56:06;
+
+[PlayVoice]=01:51:05	Voice01/01-00/01-00-H06/01-00-H06-0410	0	kot	01:56:06;
+
+[PrintText]=01:56:06	Sekai	Wow, ya veo, realmente te gustan mucho los libros ¿No?^	02:00:17;
+
+[PlayVoice]=01:56:06	Voice01/01-00/01-00-H06/01-00-H06-0420	0	sek	02:00:17;
+
+[PrintText]=02:00:14	Makoto	¿Era lo de ahí una librería?^	02:02:16;
+
+[PlayVoice]=02:00:14	Voice01/01-00/01-00-H06/01-00-H06-0430	1	mak	02:02:16;
+
+[CreateBG]=02:02:12	BGS	Event01/01-00/01-00-H06/01-00-H06-023	02:12:08;
+
+[PrintText]=02:02:12	Kotonoha	Sí, estaba al costado de la tienda de música.	02:05:21;
+
+[PlayVoice]=02:02:12	Voice01/01-00/01-00-H06/01-00-H06-0440	0	kot	02:05:21;
+
+[PrintText]=02:05:20	Makoto	Ah, ¿Sí?^	02:07:13;
+
+[PlayVoice]=02:05:20	Voice01/01-00/01-00-H06/01-00-H06-0450	1	mak	02:07:13;
+
+[PrintText]=02:07:08	Kotonoha	Nos salteamos ese lugar porque querías ir a la tienda de música.	02:12:11;
+
+[PlayVoice]=02:07:08	Voice01/01-00/01-00-H06/01-00-H06-0460	0	kot	02:12:11;
+
+[CreateBG]=02:12:08	BGS	Event01/01-00/01-00-H06/01-00-H06-024	02:14:14;
+
+[PrintText]=02:12:08	Makoto	Haha... No me acuerdo de nada.	02:14:16;
+
+[PlayVoice]=02:12:08	Voice01/01-00/01-00-H06/01-00-H06-0470	1	mak	02:14:16;
+
+[CreateBG]=02:14:14	BGS	Event01/01-00/01-00-H06/01-00-H06-025	02:21:23;
+
+[PrintText]=02:14:14	Sekai	Idiota.	02:15:11;
+
+[PlayVoice]=02:14:14	Voice01/01-00/01-00-H06/01-00-H06-0480	0	sek	02:15:11;
+
+[PrintText]=02:15:04	Makoto	¿Q-Qué? Había un disco nuevo que salía.	02:18:11;
+
+[PlayVoice]=02:15:04	Voice01/01-00/01-00-H06/01-00-H06-0490	1	mak	02:18:11;
+
+[PrintText]=02:18:06	Sekai	¡Idiota, idiota, idiota!	02:20:07;
+
+[PlayVoice]=02:18:06	Voice01/01-00/01-00-H06/01-00-H06-0500	0	sek	02:20:07;
+
+[PlaySe]=02:18:10	1	Se01/01-00/01-00-H06/SE01-00-H06-001	03:10:19;
+
+[PrintText]=02:20:02	Makoto	Cállate.	02:21:08;
+
+[PlayVoice]=02:20:02	Voice01/01-00/01-00-H06/01-00-H06-0510	1	mak	02:21:08;
+
+[CreateBG]=02:21:23	BGS	Event01/01-00/01-00-H06/01-00-H06-026	02:29:20;
+
+[PrintText]=02:21:23	Sekai	Bueno, obviando las fallas de ayer...	02:24:12;
+
+[PlayVoice]=02:21:23	Voice01/01-00/01-00-H06/01-00-H06-0520	0	sek	02:24:12;
+
+[PrintText]=02:24:06	Makoto	¿Fallas...?^	02:25:19;
+
+[PlayVoice]=02:24:06	Voice01/01-00/01-00-H06/01-00-H06-0530	1	mak	02:25:19;
+
+[PrintText]=02:25:17	Sekai	Trata de no repetirlos hoy.	02:28:12;
+
+[PlayVoice]=02:25:17	Voice01/01-00/01-00-H06/01-00-H06-0540	0	sek	02:28:12;
+
+[PrintText]=02:28:10	Makoto	Uuuh...	02:29:15;
+
+[PlayVoice]=02:28:10	Voice01/01-00/01-00-H06/01-00-H06-0550	1	mak	02:29:15;
+
+[CreateBG]=02:29:20	BGS	Event01/01-00/01-00-H06/01-00-H06-027	02:37:12;
+
+[PrintText]=02:30:02	Sekai	¿Qué están planeando hacer hoy?^	02:31:11;
+
+[PlayVoice]=02:30:02	Voice01/01-00/01-00-H06/01-00-H06-0560	0	sek	02:31:11;
+
+[PrintText]=02:31:12	Makoto	¿Qué quieres decir...?^	02:32:13;
+
+[PlayVoice]=02:31:12	Voice01/01-00/01-00-H06/01-00-H06-0570	1	mak	02:32:13;
+
+[PrintText]=02:32:16	Sekai	¿Van a ir a casa juntos, o tal vez hacer una parada en el camino?^	02:35:21;
+
+[PlayVoice]=02:32:16	Voice01/01-00/01-00-H06/01-00-H06-0580	0	sek	02:35:21;
+
+[PrintText]=02:36:01	Makoto	O-oh, cierto. Sí. ¿Deberíamos ir... a casa juntos?^	02:42:06;
+
+[PlayVoice]=02:36:01	Voice01/01-00/01-00-H06/01-00-H06-0590	1	mak	02:42:06;
+
+[CreateBG]=02:37:12	BGS	Event01/01-00/01-00-H06/01-00-H06-028	02:43:14;
+
+[PrintText]=02:42:12	Kotonoha	Ah... Tengo otra reunión hoy, así que...	02:46:18;
+
+[PlayVoice]=02:42:12	Voice01/01-00/01-00-H06/01-00-H06-0600	0	kot	02:46:18;
+
+[CreateBG]=02:43:14	BGS	Event01/01-00/01-00-H06/01-00-H06-029	02:55:16;
+
+[PrintText]=02:46:15	Makoto	En ese caso, esperare hasta que la reunión termine, como ayer.	02:49:10;
+
+[PlayVoice]=02:46:15	Voice01/01-00/01-00-H06/01-00-H06-0610	1	mak	02:49:10;
+
+[PrintText]=02:49:08	Kotonoha	Pues verás, ayer no llegue temprano a mi casa, y mi papá me dijo que llegara temprano hoy...	02:55:18;
+
+[PlayVoice]=02:49:08	Voice01/01-00/01-00-H06/01-00-H06-0620	0	kot	02:55:18;
+
+[CreateBG]=02:55:16	BGS	Event01/01-00/01-00-H06/01-00-H06-030	03:04:09;
+
+[PrintText]=02:55:16	Makoto	Ah... ya veo.	02:58:10;
+
+[PlayVoice]=02:55:16	Voice01/01-00/01-00-H06/01-00-H06-0630	1	mak	02:58:10;
+
+[PrintText]=02:58:04	Sekai	Tus padres son muy estrictos cuando tienes que estar en casa.	03:01:06;
+
+[PlayVoice]=02:58:04	Voice01/01-00/01-00-H06/01-00-H06-0640	0	sek	03:01:06;
+
+[PrintText]=03:01:07	Kotonoha	Mi mamá no es así, pero mi padre...	03:06:08;
+
+[PlayVoice]=03:01:07	Voice01/01-00/01-00-H06/01-00-H06-0650	0	kot	03:06:08;
+
+[CreateBG]=03:04:09	BGS	Event01/01-00/01-00-H06/01-00-H06-031	03:15:06;
+
+[PrintText]=03:06:08	Sekai	Ya veo, en mi caso, solo somos mi mamá y yo, así que no sé cómo es tener un padre estricto, pero, suena difícil.	03:13:23;
+
+[PlayVoice]=03:06:08	Voice01/01-00/01-00-H06/01-00-H06-0660	0	sek	03:13:23;
+
+[PlaySe]=03:10:17	2	Se01/01-00/01-00-H06/SE01-00-H06-001	03:48:02;
+
+[PrintText]=03:14:02	Kotonoha	Haah...	03:15:01;
+
+[PlayVoice]=03:14:02	Voice01/01-00/01-00-H06/01-00-H06-0670	0	kot	03:15:01;
+
+[CreateBG]=03:15:06	BGS	Event01/01-00/01-00-H06/01-00-H06-032	03:19:14;
+
+[PrintText]=03:15:06	Sekai	B-Bueno, como sea, creo que no hay nada que se pueda hacer hoy.	03:18:11;
+
+[PlayVoice]=03:15:06	Voice01/01-00/01-00-H06/01-00-H06-0680	0	sek	03:18:11;
+
+[PrintText]=03:18:15	Kotonoha	Sí.	03:19:09;
+
+[PlayVoice]=03:18:15	Voice01/01-00/01-00-H06/01-00-H06-0690	0	kot	03:19:09;
+
+[CreateBG]=03:19:14	BGS	Event01/01-00/01-00-H06/01-00-H06-033	03:33:21;
+
+[PrintText]=03:19:19	Sekai	¿Tienes reunión de consejo estudiantil todos los días?^	03:22:02;
+
+[PlayVoice]=03:19:19	Voice01/01-00/01-00-H06/01-00-H06-0700	0	sek	03:22:02;
+
+[PrintText]=03:22:05	Kotonoha	No todos los días, pero el comité está ocupado porque se acerca el festival escolar.	03:28:05;
+
+[PlayVoice]=03:22:05	Voice01/01-00/01-00-H06/01-00-H06-0710	0	kot	03:28:05;
+
+[PrintText]=03:28:09	Sekai	El festival escolar ¿Eh? Setsuna estaba diciendo lo difícil que era para el comité, también.	03:33:19;
+
+[PlayVoice]=03:28:09	Voice01/01-00/01-00-H06/01-00-H06-0720	0	sek	03:33:19;
+
+[CreateBG]=03:33:21	BGS	Event01/01-00/01-00-H06/01-00-H06-034	03:48:02;
+
+[PrintText]=03:33:22	Kotonoha	Pues... Perdón.	03:36:14;
+
+[PlayVoice]=03:33:22	Voice01/01-00/01-00-H06/01-00-H06-0730	0	kot	03:36:14;
+
+[PrintText]=03:36:12	Sekai	Oh, vamos, no hay porque te tengas que disculpar ¿No, Makoto?^	03:42:09;
+
+[PlayVoice]=03:36:12	Voice01/01-00/01-00-H06/01-00-H06-0740	0	sek	03:42:09;
+
+[SetSELECT]=03:42:02	'No hay por qué'	null	03:47:02;
+
+ ;
+
+[Next]=03:48:02;
+
+
+
+

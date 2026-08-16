@@ -1,0 +1,167 @@
+﻿[SkipFRAME]=01:50:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:56:09;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-F00/SE02-2K-F00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-001	00:03:03;
+
+[CreateBG]=00:03:03	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-002	00:11:15;
+
+[PrintText]=00:03:03	Kotonoha	Ehehe... tengo un poco de té negro hoy.	00:06:08;
+
+[PlayVoice]=00:03:03	Voice02/02-2K/02-2K-F00/02-2K-F00-0040	0	kot	00:06:08;
+
+[PrintText]=00:08:15	Makoto	Ah... huele bien.	00:11:22;
+
+[PlayVoice]=00:08:15	Voice02/02-2K/02-2K-F00/02-2K-F00-0060	1	mak	00:11:22;
+
+[CreateBG]=00:11:15	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-003	00:16:17;
+
+[PrintText]=00:11:23	Kotonoha	Es un recuerdo del viaje de negocios de mi mamá.	00:16:16;
+
+[PlayVoice]=00:11:23	Voice02/02-2K/02-2K-F00/02-2K-F00-0070	0	kot	00:16:16;
+
+[CreateBG]=00:16:17	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-004	00:23:21;
+
+[PrintText]=00:16:17	Makoto	Wow... se ve caro.	00:18:20;
+
+[PlayVoice]=00:16:17	Voice02/02-2K/02-2K-F00/02-2K-F00-0080	1	mak	00:18:20;
+
+[PrintText]=00:18:21	Kotonoha	No realmente.	00:20:16;
+
+[PlayVoice]=00:18:21	Voice02/02-2K/02-2K-F00/02-2K-F00-0090	0	kot	00:20:16;
+
+[PrintText]=00:20:11	Makoto	¿Qué clase de té negro es?^	00:22:03;
+
+[PlayVoice]=00:20:11	Voice02/02-2K/02-2K-F00/02-2K-F00-0100	1	mak	00:22:03;
+
+[PrintText]=00:22:07	Kotonoha	Se hace llamar 'Keemun'.	00:24:00;
+
+[PlayVoice]=00:22:07	Voice02/02-2K/02-2K-F00/02-2K-F00-0110	0	kot	00:24:00;
+
+[CreateBG]=00:23:21	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-005	00:34:12;
+
+[PrintText]=00:23:21	Makoto	Keemun... ah, está delicioso.	00:32:08;
+
+[PlayVoice]=00:23:21	Voice02/02-2K/02-2K-F00/02-2K-F00-0120	1	mak	00:32:08;
+
+[PrintText]=00:32:12	Kotonoha	Ufufu...	00:33:19;
+
+[PlayVoice]=00:32:12	Voice02/02-2K/02-2K-F00/02-2K-F00-0130	0	kot	00:33:19;
+
+[BlackFade]=00:34:00	OUT	00:34:12;
+
+[CreateBG]=00:34:12	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-006	00:36:19;
+
+[CreateBG]=00:36:19	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-007A	00:45:05;
+
+[PrintText]=00:36:19	Kotonoha	Siempre solemos estar solos aquí ¿no?^	00:40:19;
+
+[PlayVoice]=00:36:19	Voice02/02-2K/02-2K-F00/02-2K-F00-0170	0	kot	00:40:19;
+
+[PrintText]=00:40:17	Makoto	Sí, porque este lugar normalmente está fuera del límite de los estudiantes.	00:45:01;
+
+[PlayVoice]=00:40:17	Voice02/02-2K/02-2K-F00/02-2K-F00-0190	1	mak	00:45:01;
+
+[CreateBG]=00:45:05	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-007B	00:48:13;
+
+[PrintText]=00:45:05	Kotonoha	¿Eh?.. entonces estamos...	00:48:14;
+
+[PlayVoice]=00:45:05	Voice02/02-2K/02-2K-F00/02-2K-F00-0200	0	kot	00:48:14;
+
+[PrintText]=00:48:07	Makoto	Bueno... sí, pero Sekai tiene un permiso.	00:52:01;
+
+[PlayVoice]=00:48:07	Voice02/02-2K/02-2K-F00/02-2K-F00-0210	1	mak	00:52:01;
+
+[CreateBG]=00:48:13	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-007C	00:52:02;
+
+[CreateBG]=00:52:02	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-008	00:58:07;
+
+[PrintText]=00:52:02	Kotonoha	¿Saionji-san...?^	00:53:16;
+
+[PlayVoice]=00:52:02	Voice02/02-2K/02-2K-F00/02-2K-F00-0220	0	kot	00:53:16;
+
+[PrintText]=00:53:19	Makoto	Sí, ella tiene permiso por esto.	00:58:02;
+
+[PlayVoice]=00:53:19	Voice02/02-2K/02-2K-F00/02-2K-F00-0230	1	mak	00:58:02;
+
+[CreateBG]=00:58:07	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-009	01:13:08;
+
+[PrintText]=00:58:07	Makoto	Supuestamente intenta revivir el club de astronomía y tener a sus amigos como miembros falsos.	01:04:06;
+
+[PlayVoice]=00:58:07	Voice02/02-2K/02-2K-F00/02-2K-F00-0231	1	mak	01:04:06;
+
+[PrintText]=01:04:05	Kotonoha	Ya veo...	01:05:23;
+
+[PlayVoice]=01:04:05	Voice02/02-2K/02-2K-F00/02-2K-F00-0240	0	kot	01:05:23;
+
+[PrintText]=01:06:07	Makoto	Por eso dejó de venir por aquí, deberíamos unirnos al club de astronomía.	01:13:05;
+
+[PlayVoice]=01:06:07	Voice02/02-2K/02-2K-F00/02-2K-F00-0250	1	mak	01:13:05;
+
+[PlaySe]=01:08:06	2	Se02/02-2K/02-2K-F00/SE02-2K-F00-001	01:56:09;
+
+[CreateBG]=01:13:08	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-010	01:16:16;
+
+[PrintText]=01:13:12	Kotonoha	Miembros del club de astronomía...	01:15:19;
+
+[PlayVoice]=01:13:12	Voice02/02-2K/02-2K-F00/02-2K-F00-0260	0	kot	01:15:19;
+
+[PrintText]=01:15:22	Makoto	¿No te gusta la idea?^	01:16:14;
+
+[PlayVoice]=01:15:22	Voice02/02-2K/02-2K-F00/02-2K-F00-0270	1	mak	01:16:14;
+
+[CreateBG]=01:16:16	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-011	01:30:22;
+
+[PrintText]=01:16:16	Kotonoha	No, me gustan las estrellas. Sería bueno si pudiéramos ver las estrellas, en vez de ser solo miembros del club en nombre nada más.	01:26:05;
+
+[PlayVoice]=01:16:16	Voice02/02-2K/02-2K-F00/02-2K-F00-0280	0	kot	01:26:05;
+
+[PrintText]=01:26:04	Makoto	Bueno... escuche que el club se disolvió, ya no tenían utilería...	01:30:22;
+
+[PlayVoice]=01:26:04	Voice02/02-2K/02-2K-F00/02-2K-F00-0290	1	mak	01:30:22;
+
+[CreateBG]=01:30:22	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-012	01:41:19;
+
+[PrintText]=01:30:22	Kotonoha	Sí, por supuesto...	01:32:10;
+
+[PlayVoice]=01:30:22	Voice02/02-2K/02-2K-F00/02-2K-F00-0300	0	kot	01:32:10;
+
+[PrintText]=01:32:08	Makoto	Si quieres ir a ver las estrellas podemos ir al planetario en Sakakino Hills.	01:37:21;
+
+[PlayVoice]=01:32:08	Voice02/02-2K/02-2K-F00/02-2K-F00-0310	1	mak	01:37:21;
+
+[PrintText]=01:37:21	Kotonoha	Un Planetario...	01:39:06;
+
+[PlayVoice]=01:37:21	Voice02/02-2K/02-2K-F00/02-2K-F00-0320	0	kot	01:39:06;
+
+[PrintText]=01:39:07	Makoto	Vayamos alguna vez...	01:40:15;
+
+[PlayVoice]=01:39:07	Voice02/02-2K/02-2K-F00/02-2K-F00-0330	1	mak	01:40:15;
+
+[PrintText]=01:40:16	Kotonoha	Sí.	01:41:14;
+
+[PlayVoice]=01:40:16	Voice02/02-2K/02-2K-F00/02-2K-F00-0340	0	kot	01:41:14;
+
+[CreateBG]=01:41:19	BGS	Event02/02-2K/02-2K-F00/02-2K-F00-013	01:44:22;
+
+[PlayMovie]=01:44:22	Movie02/02-2K/02-2K-F00/02-2K-F00-014	0	01:56:09;
+
+[PrintText]=01:44:22	Kotonoha	Está empezando a hacer un poco de frío ¿No?^	01:48:22;
+
+[PlayVoice]=01:44:22	Voice02/02-2K/02-2K-F00/02-2K-F00-0370	0	kot	01:48:22;
+
+[PrintText]=01:49:12	Kotonoha	¿Eh?^	01:50:19;
+
+[PlayVoice]=01:49:12	Voice02/02-2K/02-2K-F00/02-2K-F00-0400	0	kot	01:50:19;
+
+[SetSELECT]=01:50:08	'Ahora ya no sentirás frío'	'Quédate así'	01:55:08;
+
+ ;
+
+[Next]=01:56:09;
+
+
+
+

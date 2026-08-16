@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:05:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:05:15;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-R01/SE02-2S-R01-001	00:05:15;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-R01/02-2S-R01-001	00:05:15;
+
+[PrintText]=00:00:06	Makoto	... No es nada. Buen día.	00:03:03;
+
+[PlayVoice]=00:00:06	Voice02/02-2S/02-2S-R01/02-2S-R01-0030	1	mak	00:03:03;
+
+[PrintText]=00:03:17	Sekai	¿...?^	00:04:06;
+
+[PlayVoice]=00:03:17	Voice02/02-2S/02-2S-R01/02-2S-R01-0040	0	sek	00:04:06;
+
+[BlackFade]=00:04:15	OUT	00:05:15;
+
+ ;
+
+[Next]=00:05:15;
+
+
+
+

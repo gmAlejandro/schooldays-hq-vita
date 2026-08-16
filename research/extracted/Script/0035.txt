@@ -1,0 +1,21 @@
+﻿[SkipFRAME]=00:05:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:05:02;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-C06/01-00-C06-001	00:01:05;
+
+[CreateBG]=00:01:05	BGS	Event01/01-00/01-00-C06/01-00-C06-002	00:05:02;
+
+[PrintText]=00:01:14	Kotonoha	...	00:03:23;
+
+[PlayVoice]=00:01:14	Voice01/01-00/01-00-C06/01-00-C06-0040	0	xxx	00:03:23;
+
+[BlackFade]=00:04:02	OUT	00:05:02;
+
+ ;
+
+[Next]=00:05:02;
+
+
+
+

@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:15:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:15:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-I03/04-SA-I03-001	00:11:10;
+
+[PrintText]=00:00:07	Makoto	Ahora que lo pienso bien, no ayudaría en nada.	00:02:16;
+
+[PlayVoice]=00:00:07	Voice04/04-SA/04-SA-I03/04-SA-I03-0030	1	mak	00:02:16;
+
+[PrintText]=00:03:17	Makoto	No hay necesidad en que vaya. Lo habré logrado siempre y cuando Sekai se anime.	00:11:00;
+
+[PlayVoice]=00:03:17	Voice04/04-SA/04-SA-I03/04-SA-I03-0040	1	mak	00:11:00;
+
+[CreateBG]=00:11:10	BGS	Event04/04-SA/04-SA-I03/04-SA-I03-002	00:15:01;
+
+[PrintText]=00:12:04	Makoto	Haah... Debería dormir.	00:14:04;
+
+[PlayVoice]=00:12:04	Voice04/04-SA/04-SA-I03/04-SA-I03-0050	1	mak	00:14:04;
+
+ ;
+
+[Next]=00:15:01;
+
+

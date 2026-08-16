@@ -1,0 +1,59 @@
+﻿[SkipFRAME]=00:25:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:31:11;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-G10/SE03-SB-G10-001	00:31:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G10/03-SB-G10-001	00:08:19;
+
+[PrintText]=00:00:00	Makoto	...	00:00:18;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-G10/03-SB-G10-0030	1	xxx	00:00:18;
+
+[PrintText]=00:00:18	Setsuna	¿Seguro que no puedes?^	00:02:06;
+
+[PlayVoice]=00:00:18	Voice03/03-SB/03-SB-G10/03-SB-G10-0040	0	set	00:02:06;
+
+[PrintText]=00:02:06	Makoto	No es que no pueda... pero acabo de cambiar de turno ¿Sabes?^	00:07:21;
+
+[PlayVoice]=00:02:06	Voice03/03-SB/03-SB-G10/03-SB-G10-0050	1	mak	00:07:21;
+
+[PrintText]=00:07:20	Setsuna	...	00:08:20;
+
+[PlayVoice]=00:07:20	Voice03/03-SB/03-SB-G10/03-SB-G10-0060	0	xxx	00:08:20;
+
+[CreateBG]=00:08:18	BGS	Event03/03-SB/03-SB-G10/03-SB-G10-002	00:22:22;
+
+[PrintText]=00:08:20	Nanami	V-Vamos, estabas ayudando, sabes. La cocina está muy ocupada con toda esta cantidad de clientes.	00:16:18;
+
+[PlayVoice]=00:08:20	Voice03/03-SB/03-SB-G10/03-SB-G10-0070	0	nan	00:16:18;
+
+[PrintText]=00:16:18	Makoto	Cierto, estábamos muy ocupados.	00:19:04;
+
+[PlayVoice]=00:16:18	Voice03/03-SB/03-SB-G10/03-SB-G10-0080	1	mak	00:19:04;
+
+[PrintText]=00:19:04	Nanami	Sí, así que solo por un momento...	00:21:21;
+
+[PlayVoice]=00:19:04	Voice03/03-SB/03-SB-G10/03-SB-G10-0090	0	nan	00:21:21;
+
+[PrintText]=00:21:21	Makoto	Por un momento, huh...	00:23:08;
+
+[PlayVoice]=00:21:21	Voice03/03-SB/03-SB-G10/03-SB-G10-0100	1	mak	00:23:08;
+
+[CreateBG]=00:22:22	BGS	Event03/03-SB/03-SB-G10/03-SB-G10-003	00:31:11;
+
+[PrintText]=00:23:08	Setsuna	Por favor.	00:24:09;
+
+[PlayVoice]=00:23:08	Voice03/03-SB/03-SB-G10/03-SB-G10-0110	0	set	00:24:09;
+
+[PrintText]=00:24:09	Makoto	Hmmn...	00:25:09;
+
+[PlayVoice]=00:24:09	Voice03/03-SB/03-SB-G10/03-SB-G10-0120	1	mak	00:25:09;
+
+[SetSELECT]=00:25:10	*Ayudar*	null	00:30:10;
+
+ ;
+
+[Next]=00:31:11;
+
+

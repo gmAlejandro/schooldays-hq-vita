@@ -1,0 +1,33 @@
+﻿[SkipFRAME]=00:17:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:17:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-L00/04-SA-L00-001	00:01:06;
+
+[CreateBG]=00:01:06	BGS	Event04/04-SA/04-SA-L00/04-SA-L00-002	00:02:15;
+
+[PrintText]=00:01:06	Sekai	¿Gracias por esperarme... oh, Katsura-san?^	00:05:15;
+
+[PlayVoice]=00:01:06	Voice04/04-SA/04-SA-L00/04-SA-L00-0040	0	sek	00:05:15;
+
+[CreateBG]=00:02:15	BGS	Event04/04-SA/04-SA-L00/04-SA-L00-003	00:05:15;
+
+[CreateBG]=00:05:15	BGS	Event04/04-SA/04-SA-L00/04-SA-L00-004	00:17:16;
+
+[PrintText]=00:05:15	Kotonoha	Sí, largo tiempo sin verte.	00:08:04;
+
+[PlayVoice]=00:05:15	Voice04/04-SA/04-SA-L00/04-SA-L00-0050	0	kot	00:08:04;
+
+[PrintText]=00:08:03	Sekai	Entonces, fuiste tú la chica que Taisuke invito.	00:12:15;
+
+[PlayVoice]=00:08:03	Voice04/04-SA/04-SA-L00/04-SA-L00-0060	0	sek	00:12:15;
+
+[PrintText]=00:12:15	Kotonoha	Sí, él menciono que tú y Makoto-kun vendrían...	00:17:06;
+
+[PlayVoice]=00:12:15	Voice04/04-SA/04-SA-L00/04-SA-L00-0070	0	kot	00:17:06;
+
+ ;
+
+[Next]=00:17:16;
+
+

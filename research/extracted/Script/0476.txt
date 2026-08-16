@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:20:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:20:23;
+
+[PlaySe]=00:00:00	2	Se03/03-BK/03-BK-B00/SE03-BK-B00-002	00:04:00;
+
+[PlayMovie]=00:00:00	Movie03/03-BK/03-BK-B00/03-BK-B00-001	0	00:02:00;
+
+[PlayMovie]=00:02:00	Movie03/03-BK/03-BK-B04/03-BK-B04-005	0	00:04:00;
+
+[PlaySe]=00:04:00	1	Se03/03-BK/03-BK-B00/SE03-BK-B00-001	00:12:12;
+
+[PlayMovie]=00:04:00	Movie03/03-BK/03-BK-B00/03-BK-B00-003	0	00:12:12;
+
+[CreateBG]=00:12:12	BGS	Event03/03-BK/03-BK-B00/03-BK-B00-004	00:14:11;
+
+[PlaySe]=00:14:11	2	Se03/03-BK/03-BK-B00/SE03-BK-B00-002	00:20:23;
+
+[CreateBG]=00:14:11	BGS	Event03/03-BK/03-BK-B00/03-BK-B00-005	00:16:03;
+
+[PrintText]=00:14:14	Kotonoha	Buen día.	00:16:02;
+
+[PlayVoice]=00:14:14	Voice03/03-BK/03-BK-B00/03-BK-B00-0040	0	kot	00:16:02;
+
+[CreateBG]=00:16:03	BGS	Event03/03-BK/03-BK-B00/03-BK-B00-006	00:17:10;
+
+[PrintText]=00:16:04	Makoto	Buen día.	00:17:07;
+
+[PlayVoice]=00:16:04	Voice03/03-BK/03-BK-B00/03-BK-B00-0050	1	mak	00:17:07;
+
+[PlayMovie]=00:17:10	Movie03/03-BK/03-BK-B00/03-BK-B00-007	0	00:20:23;
+
+[PrintText]=00:17:12	Kotonoha	Ufufu.	00:18:19;
+
+[PlayVoice]=00:17:12	Voice03/03-BK/03-BK-B00/03-BK-B00-0060	0	kot	00:18:19;
+
+[PrintText]=00:18:09	Makoto	Haha.	00:19:14;
+
+[PlayVoice]=00:18:09	Voice03/03-BK/03-BK-B00/03-BK-B00-0070	1	mak	00:19:14;
+
+[BlackFade]=00:19:23	OUT	00:20:23;
+
+ ;
+
+[Next]=00:20:23;
+
+

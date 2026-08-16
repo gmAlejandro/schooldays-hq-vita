@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:11:21;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:17:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-E00/04-SA-E00-001	00:01:07;
+
+[CreateBG]=00:01:07	BGS	Event04/04-SA/04-SA-E00/04-SA-E00-002	00:03:05;
+
+[PrintText]=00:01:13	Taisuke	Hey, Buen día.	00:03:07;
+
+[PlayVoice]=00:01:13	Voice04/04-SA/04-SA-E00/04-SA-E00-0030	1	tai	00:03:07;
+
+[CreateBG]=00:03:05	BGS	Event04/04-SA/04-SA-E00/04-SA-E00-003	00:06:04;
+
+[PrintText]=00:03:10	Makoto	Buen día...	00:04:16;
+
+[PlayVoice]=00:03:10	Voice04/04-SA/04-SA-E00/04-SA-E00-0040	1	mak	00:04:16;
+
+[PrintText]=00:04:17	Taisuke	Hey.	00:05:11;
+
+[PlayVoice]=00:04:17	Voice04/04-SA/04-SA-E00/04-SA-E00-0050	1	tai	00:05:11;
+
+[PrintText]=00:05:11	Makoto	¿Qué pasa?^	00:06:07;
+
+[PlayVoice]=00:05:11	Voice04/04-SA/04-SA-E00/04-SA-E00-0060	1	mak	00:06:07;
+
+[CreateBG]=00:06:04	BGS	Event04/04-SA/04-SA-E00/04-SA-E00-003B	00:09:01;
+
+[PrintText]=00:06:10	Taisuke	Sabes mucho de chicas ¿No?^	00:09:04;
+
+[PlayVoice]=00:06:10	Voice04/04-SA/04-SA-E00/04-SA-E00-0070	1	tai	00:09:04;
+
+[CreateBG]=00:09:01	BGS	Event04/04-SA/04-SA-E00/04-SA-E00-003C	00:10:12;
+
+[PrintText]=00:09:09	Makoto	¿Tu crees que..?^	00:10:15;
+
+[PlayVoice]=00:09:09	Voice04/04-SA/04-SA-E00/04-SA-E00-0080	1	mak	00:10:15;
+
+[CreateBG]=00:10:12	BGS	Event04/04-SA/04-SA-E00/04-SA-E00-003D	00:17:22;
+
+[PrintText]=00:10:18	Taisuke	Sí, puedo notarlo...	00:12:08;
+
+[PlayVoice]=00:10:18	Voice04/04-SA/04-SA-E00/04-SA-E00-0090	1	tai	00:12:08;
+
+[SetSELECT]=00:11:21	'Sí'	'Realmente no'	00:16:21;
+
+ ;
+
+[Next]=00:17:22;
+
+

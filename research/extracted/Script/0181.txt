@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:23:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:23:13;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-H00/01-1S-H00-001	00:03:18;
+
+[CreateBG]=00:03:18	BGS	Event01/01-1S/01-1S-H00/01-1S-H00-002	00:06:14;
+
+[CreateBG]=00:06:14	BGS	Ini/Event01/01-1S/01-1S-H00/01-1S-H00-003	00:10:22;
+
+#[PrintText]=00:06:14	Kotonoha	"Buenas Noches, Kotonoha".	00:09:22;
+
+[PrintText]=00:09:22	Kotonoha	...	00:10:22;
+
+[CreateBG]=00:10:22	BGS	Event01/01-1S/01-1S-H00/01-1S-H00-004	00:15:03;
+
+[PrintText]=00:10:22	Makoto	Sostener su mano, huh...	00:14:12;
+
+[PlayVoice]=00:11:03	Voice01/01-1S/01-1S-H00/01-1S-H00-0070	1	mak	00:14:12;
+
+[CreateBG]=00:15:03	BGS	Event01/01-1S/01-1S-H00/01-1S-H00-005	00:19:01;
+
+[PlaySe]=00:16:04	1	Voice01/01-1S/01-1S-H00/01-1S-H00-0080	00:17:16;
+
+[CreateBG]=00:19:01	BGS	Event01/01-1S/01-1S-H00/01-1S-H00-006	00:23:13;
+
+[PrintText]=00:19:16	Makoto	Me siento un bicho raro.	00:21:07;
+
+[PlayVoice]=00:19:16	Voice01/01-1S/01-1S-H00/01-1S-H00-0090	1	mak	00:21:07;
+
+[BlackFade]=00:22:13	OUT	00:23:13;
+
+ ;
+
+[Next]=00:23:13;
+
+
+
+

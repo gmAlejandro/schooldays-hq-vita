@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:09:10;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:09:10;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-G00/05-SE-G00-010	00:03:22;
+
+[PrintText]=00:00:00	Makoto	...	00:02:18;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-G09/05-KF-G09-0030	1	xxx	00:02:18;
+
+[PrintText]=00:02:18	Kotonoha	¿Makoto-kun?^	00:03:21;
+
+[PlayVoice]=00:02:18	Voice05/05-KF/05-KF-G09/05-KF-G09-0040	0	kot	00:03:21;
+
+[PlayVoice]=00:03:21	Voice05/05-KF/05-KF-G09/05-KF-G09-0050	1	mak	00:05:22;
+
+[CreateBG]=00:03:22	BGS	Event05/05-KF/05-KF-G08/05-KF-G08-003	00:09:10;
+
+[PrintText]=00:05:22	Kotonoha	¡Ah! ¡Espera!	00:08:03;
+
+[PlayVoice]=00:05:22	Voice05/05-KF/05-KF-G09/05-KF-G09-0070	0	kot	00:08:03;
+
+[BlackFade]=00:08:10	OUT	00:09:10;
+
+ ;
+
+[Next]=00:09:10;
+
+
+
+

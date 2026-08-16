@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:11:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:11:19;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/beach1	00:11:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-H06/05-KF-H06-001	00:05:19;
+
+[PrintText]=00:00:00	Makoto	Pero tú eres la única persona a la que amo.	00:05:20;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-H06/05-KF-H06-0030	1	mak	00:05:20;
+
+[CreateBG]=00:05:19	BGS	Event05/05-KF/05-KF-H06/05-KF-H06-002	00:07:14;
+
+[PrintText]=00:05:20	Sekai	También te amo.	00:07:02;
+
+[PlayVoice]=00:05:20	Voice05/05-KF/05-KF-H06/05-KF-H06-0040	0	sek	00:07:02;
+
+[PrintText]=00:07:02	Makoto	Sekai...	00:08:22;
+
+[PlayVoice]=00:07:02	Voice05/05-KF/05-KF-H06/05-KF-H06-0050	1	mak	00:08:22;
+
+[CreateBG]=00:07:14	BGS	Event05/05-KF/05-KF-H06/05-KF-H06-003	00:10:00;
+
+[CreateBG]=00:10:00	BGS	Event05/05-KF/05-KF-H06/05-KF-H06-004	00:11:19;
+
+[PlayVoice]=00:10:00	Voice05/05-KF/05-KF-H06/05-KF-H06-0060			00:10:10;
+
+[BlackFade]=00:10:19	OUT	00:11:19;
+
+ ;
+
+[Next]=00:11:19;
+
+
+
+

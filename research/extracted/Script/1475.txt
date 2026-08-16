@@ -1,0 +1,40 @@
+﻿[SkipFRAME]=00:14:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	00:14:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-C01/05-KA-C01-001	00:05:12;
+
+[PrintText]=00:00:00	Makoto	Estaba durmiendo, en clase... te lo dije el otro día por teléfono ¿No?^	00:05:12;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-C01/05-KA-C01-0030	1	mak	00:05:12;
+
+[CreateBG]=00:05:12	BGS	Event05/05-KA/05-KA-C01/05-KA-C01-002	00:06:16;
+
+[PrintText]=00:05:12	Sekai	...Mentiroso.	00:06:13;
+
+[PlayVoice]=00:05:12	Voice05/05-KA/05-KA-C01/05-KA-C01-0040	0	sek	00:06:13;
+
+[CreateBG]=00:06:16	BGS	Event05/05-KA/05-KA-C01/05-KA-C01-003	00:07:23;
+
+[PrintText]=00:06:16	Makoto	¿Eh?^	00:07:19;
+
+[PlayVoice]=00:06:16	Voice05/05-KA/05-KA-C01/05-KA-C01-0050	1	mak	00:07:19;
+
+[CreateBG]=00:07:23	BGS	Event05/05-KA/05-KA-C01/05-KA-C01-004	00:13:03;
+
+[PrintText]=00:07:23	Sekai	¡Estabas en la clase 4, te acostaste con Katsura-san!	00:13:01;
+
+[PlayVoice]=00:07:23	Voice05/05-KA/05-KA-C01/05-KA-C01-0060	0	sek	00:13:01;
+
+[CreateBG]=00:13:03	BGS	Event05/05-KA/05-KA-C01/05-KA-C01-005	00:14:00;
+
+[PrintText]=00:13:03	Makoto	Ah...	00:13:23;
+
+[PlayVoice]=00:13:03	Voice05/05-KA/05-KA-C01/05-KA-C01-0070	1	mak	00:13:23;
+
+ ;
+
+[Next]=00:14:00;
+
+
+

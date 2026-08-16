@@ -1,0 +1,233 @@
+﻿[SkipFRAME]=01:47:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	01:53:16;
+
+[PlaySe]=00:00:00	4	Se03/03-SB/03-SB-G08/SE03-SB-G08-001	00:29:07;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-001	00:01:19;
+
+[PrintText]=00:00:00	Makoto	Supongo que no se puede evitar.	00:01:18;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-G08/03-SB-G08-0030	1	mak	00:01:18;
+
+[CreateBG]=00:01:19	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-002	00:05:23;
+
+[PrintText]=00:01:19	Kotonoha	Ah...	00:02:17;
+
+[PlayVoice]=00:01:19	Voice03/03-SB/03-SB-G08/03-SB-G08-0040	0	kot	00:02:17;
+
+[PrintText]=00:02:16	Makoto	Trataré de hacer lo posible para minimizar el número de clientes y podremos tener nuestro tiempo ¿Vale?^	00:05:22;
+
+[PlayVoice]=00:02:16	Voice03/03-SB/03-SB-G08/03-SB-G08-0050	1	mak	00:05:22;
+
+[CreateBG]=00:05:23	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-003	00:13:16;
+
+[PrintText]=00:05:23	Nanami	No, trabajaras todo el tiempo...	00:07:17;
+
+[PlayVoice]=00:05:23	Voice03/03-SB/03-SB-G08/03-SB-G08-0060	0	nan	00:07:17;
+
+[PrintText]=00:07:17	Setsuna	Está bien. Gracias.	00:12:06;
+
+[PlayVoice]=00:07:17	Voice03/03-SB/03-SB-G08/03-SB-G08-0080	0	set	00:12:06;
+
+[PrintText]=00:12:06	Makoto	Bueno... lo siento, pero voy a estar aquí por un tiempo.	00:17:03;
+
+[PlayVoice]=00:12:06	Voice03/03-SB/03-SB-G08/03-SB-G08-0090	1	mak	00:17:03;
+
+[CreateBG]=00:13:16	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-004	00:17:04;
+
+[PrintText]=00:17:02	Kotonoha	Vale.	00:17:19;
+
+[PlayVoice]=00:17:02	Voice03/03-SB/03-SB-G08/03-SB-G08-0100	0	kot	00:17:19;
+
+[CreateBG]=00:17:04	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-005	00:20:14;
+
+[PrintText]=00:17:20	Makoto	Terminaré pronto, así que espera un momento.	00:20:15;
+
+[PlayVoice]=00:17:20	Voice03/03-SB/03-SB-G08/03-SB-G08-0110	1	mak	00:20:15;
+
+[CreateBG]=00:20:14	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-006	00:27:13;
+
+[PrintText]=00:20:14	Nanami	Katsura.	00:21:12;
+
+[PlayVoice]=00:20:14	Voice03/03-SB/03-SB-G08/03-SB-G08-0140	0	nan	00:21:12;
+
+[PrintText]=00:21:12	Kotonoha	Ah ¿Sí?^	00:22:18;
+
+[PlayVoice]=00:21:12	Voice03/03-SB/03-SB-G08/03-SB-G08-0150	0	kot	00:22:18;
+
+[PrintText]=00:22:18	Nanami	Tenemos que hablar. ¿Tienes tiempo?^	00:25:16;
+
+[PlayVoice]=00:22:18	Voice03/03-SB/03-SB-G08/03-SB-G08-0160	0	nan	00:25:16;
+
+[PrintText]=00:25:16	Kotonoha	S-Sí.	00:27:13;
+
+[PlayVoice]=00:25:16	Voice03/03-SB/03-SB-G08/03-SB-G08-0170	0	kot	00:27:13;
+
+[PrintText]=00:27:12	Setsuna	Tres pedazos de pastel y dos tazas de cafés, después...	00:33:06;
+
+[PlayVoice]=00:27:12	Voice03/03-SB/03-SB-G08/03-SB-G08-0210	0	set	00:33:06;
+
+[PlayMovie]=00:27:13	Movie03/03-SB/03-SB-G08/03-SB-G08-007	0	00:38:02;
+
+[PlaySe]=00:28:23	3	Se03/03-SB/03-SB-G08/SE03-SB-G08-001	00:58:06;
+
+[PlaySe]=00:29:08	1	Se03/03-SB/03-SB-G08/SE03-SB-G08-002	00:32:23;
+
+[PlaySe]=00:33:00	2	Se03/03-SB/03-SB-G08/SE03-SB-G08-003	00:35:11;
+
+[PrintText]=00:33:06	Makoto	¡Wah! ¡Espera, espera, espera! ¡Lo haré en orden!	00:36:09;
+
+[PlayVoice]=00:33:06	Voice03/03-SB/03-SB-G08/03-SB-G08-0220	1	mak	00:36:09;
+
+[PlaySe]=00:35:04	1	Se03/03-SB/03-SB-G08/SE03-SB-G08-002	00:38:02;
+
+[PrintText]=00:36:08	Setsuna	Vale.	00:36:23;
+
+[PlayVoice]=00:36:08	Voice03/03-SB/03-SB-G08/03-SB-G08-0230	0	set	00:36:23;
+
+[PrintText]=00:37:00	Makoto	¿Por qué andamos tan ocupados?^	00:40:15;
+
+[PlayVoice]=00:37:00	Voice03/03-SB/03-SB-G08/03-SB-G08-0240	1	mak	00:40:15;
+
+[CreateBG]=00:38:02	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-008	00:40:15;
+
+[PlayMovie]=00:40:15	Movie03/03-SB/03-SB-G08/03-SB-G08-009	0	00:45:17;
+
+[PrintText]=00:40:15	Makoto	No parecía tan lleno hasta ver todos estas ordenes viniendo...	00:45:17;
+
+[PlayVoice]=00:40:15	Voice03/03-SB/03-SB-G08/03-SB-G08-0260	1	mak	00:45:17;
+
+[CreateBG]=00:45:17	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-010	00:50:10;
+
+[PrintText]=00:45:17	Setsuna	Hey.	00:46:20;
+
+[PlayVoice]=00:45:17	Voice03/03-SB/03-SB-G08/03-SB-G08-0270	0	set	00:46:20;
+
+[PrintText]=00:46:21	Makoto	¿Qué?^	00:48:02;
+
+[PlayVoice]=00:46:21	Voice03/03-SB/03-SB-G08/03-SB-G08-0280	1	mak	00:48:02;
+
+[PrintText]=00:48:02	Setsuna	Deja de mirar a otro lado y empieza a trabajar.	00:50:13;
+
+[PlayVoice]=00:48:02	Voice03/03-SB/03-SB-G08/03-SB-G08-0290	0	set	00:50:13;
+
+[CreateBG]=00:50:10	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-011	01:00:07;
+
+[PrintText]=00:50:12	Makoto	Tsk. Vale, ya lo tengo.	00:52:19;
+
+[PlayVoice]=00:50:12	Voice03/03-SB/03-SB-G08/03-SB-G08-0300	1	mak	00:52:19;
+
+[PrintText]=00:52:19	Makoto	¡Veamos, tres pedazos de pastel, dos tazas de café! ¿Qué más?^	01:00:07;
+
+[PlayVoice]=00:52:19	Voice03/03-SB/03-SB-G08/03-SB-G08-0310	1	mak	01:00:07;
+
+[PlaySe]=00:57:23	4	Se03/03-SB/03-SB-G08/SE03-SB-G08-001	01:27:06;
+
+[CreateBG]=01:00:07	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-012	01:04:15;
+
+[PrintText]=01:00:07	Setsuna	Después...	01:01:07;
+
+[PlayVoice]=01:00:07	Voice03/03-SB/03-SB-G08/03-SB-G08-0320	0	set	01:01:07;
+
+[PrintText]=01:01:07	Nanami	Setsuna... Listo.	01:03:03;
+
+[PlayVoice]=01:01:07	Voice03/03-SB/03-SB-G08/03-SB-G08-0340	0	nan	01:03:03;
+
+[PrintText]=01:03:03	Setsuna	Uh-huh.	01:03:18;
+
+[PlayVoice]=01:03:03	Voice03/03-SB/03-SB-G08/03-SB-G08-0350	0	set	01:03:18;
+
+[PrintText]=01:03:18	Makoto	¿Qué sigue?^	01:04:15;
+
+[PlayVoice]=01:03:18	Voice03/03-SB/03-SB-G08/03-SB-G08-0360	1	mak	01:04:15;
+
+[CreateBG]=01:04:15	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-011	01:16:20;
+
+[PrintText]=01:04:15	Setsuna	¿Eh?^	01:05:06;
+
+[PlayVoice]=01:04:15	Voice03/03-SB/03-SB-G08/03-SB-G08-0370	0	set	01:05:06;
+
+[PrintText]=01:05:06	Makoto	¡Vamos, siguiente orden!	01:07:10;
+
+[PlayVoice]=01:05:06	Voice03/03-SB/03-SB-G08/03-SB-G08-0380	1	mak	01:07:10;
+
+[PrintText]=01:07:11	Setsuna	Ya estamos bien.	01:08:16;
+
+[PlayVoice]=01:07:11	Voice03/03-SB/03-SB-G08/03-SB-G08-0390	0	set	01:08:16;
+
+[PrintText]=01:08:16	Makoto	¿Qué? ¿Eso es todo?^	01:11:18;
+
+[PlayVoice]=01:08:16	Voice03/03-SB/03-SB-G08/03-SB-G08-0400	1	mak	01:11:18;
+
+[PrintText]=01:11:18	Nanami	Gracias por el duro trabajo.	01:13:06;
+
+[PlayVoice]=01:11:18	Voice03/03-SB/03-SB-G08/03-SB-G08-0410	0	nan	01:13:06;
+
+[PrintText]=01:13:05	Makoto	No bromees con el 'duro trabajo'. Nos vemos después.	01:16:01;
+
+[PlayVoice]=01:13:05	Voice03/03-SB/03-SB-G08/03-SB-G08-0420	1	mak	01:16:01;
+
+[PlaySe]=01:13:16	1	Se03/03-SB/03-SB-G08/SE03-SB-G08-002	01:17:07;
+
+[BlackFade]=01:16:03	OUT	01:16:20;
+
+[CreateBG]=01:16:20	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-015	01:21:16;
+
+[BlackFade]=01:16:20	IN	01:17:12;
+
+[PrintText]=01:18:06	Makoto	Perdón por hacerte esperar, Kotonoha.	01:20:01;
+
+[PlayVoice]=01:18:06	Voice03/03-SB/03-SB-G08/03-SB-G08-0440	1	mak	01:20:01;
+
+[PrintText]=01:20:01	Makoto	¿Huh?^	01:20:20;
+
+[PlayVoice]=01:20:01	Voice03/03-SB/03-SB-G08/03-SB-G08-0450	1	mak	01:20:20;
+
+[PrintText]=01:20:20	Nanami	Itou.	01:21:16;
+
+[PlayVoice]=01:20:20	Voice03/03-SB/03-SB-G08/03-SB-G08-0460	0	nan	01:21:16;
+
+[CreateBG]=01:21:16	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-016	01:32:15;
+
+[PrintText]=01:21:16	Makoto	Kanroji ¿Kotonoha no estaba aquí?^	01:25:04;
+
+[PlayVoice]=01:21:16	Voice03/03-SB/03-SB-G08/03-SB-G08-0470	1	mak	01:25:04;
+
+[PrintText]=01:25:04	Nanami	Sí. Katsura dijo que tenía algo que hacer y se fue...	01:29:20;
+
+[PlayVoice]=01:25:04	Voice03/03-SB/03-SB-G08/03-SB-G08-0480	0	nan	01:29:20;
+
+[PlaySe]=01:26:19	3	Se03/03-SB/03-SB-G08/SE03-SB-G08-001	01:53:15;
+
+[PrintText]=01:29:20	Makoto	¿Algo urgente?^	01:30:18;
+
+[PlayVoice]=01:29:20	Voice03/03-SB/03-SB-G08/03-SB-G08-0490	1	mak	01:30:18;
+
+[PrintText]=01:30:18	Nanami	Sí, algo urgente.	01:32:16;
+
+[PlayVoice]=01:30:18	Voice03/03-SB/03-SB-G08/03-SB-G08-0500	0	nan	01:32:16;
+
+[CreateBG]=01:32:15	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-017	01:37:19;
+
+[PrintText]=01:32:16	Makoto	No puede ser... ¿Acaso ella dijo que tenía 'algo' que hacer?^	01:37:20;
+
+[PlayVoice]=01:32:16	Voice03/03-SB/03-SB-G08/03-SB-G08-0510	1	mak	01:37:20;
+
+[CreateBG]=01:37:19	BGS	Event03/03-SB/03-SB-G08/03-SB-G08-018	01:53:15;
+
+[PrintText]=01:37:20	Nanami	Ese... 'algo', huh... veamos... ella tal vez... no... ella no...	01:46:08;
+
+[PlayVoice]=01:37:20	Voice03/03-SB/03-SB-G08/03-SB-G08-0520	0	nan	01:46:08;
+
+[PrintText]=01:46:08	Makoto	Por ejemplo...	01:47:14;
+
+[PlayVoice]=01:46:08	Voice03/03-SB/03-SB-G08/03-SB-G08-0530	1	mak	01:47:14;
+
+[SetSELECT]=01:47:15	'¿Algo relacionado con el comité?'	'¿Algo para su clase?'	01:52:15;
+
+ ;
+
+[Next]=01:53:16;
+
+

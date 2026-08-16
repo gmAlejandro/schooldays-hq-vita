@@ -1,0 +1,193 @@
+﻿[SkipFRAME]=02:00:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	02:00:13;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-P00/SE02-2K-P00-001	00:29:07;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-001	00:02:16;
+
+[PrintText]=00:00:00	Sekai	...Ya veo.	00:01:16;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-P00/02-2K-P00-0050	0	sek	00:01:16;
+
+[PrintText]=00:01:16	Makoto	...	00:02:15;
+
+[PlayVoice]=00:01:16	Voice02/02-2K/02-2K-P00/02-2K-P00-0060	1	xxx	00:02:15;
+
+[PrintText]=00:02:15	Sekai	Definitivamente es tu culpa.	00:05:16;
+
+[PlayVoice]=00:02:15	Voice02/02-2K/02-2K-P00/02-2K-P00-0070	0	sek	00:05:16;
+
+[CreateBG]=00:02:16	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-002	00:09:23;
+
+[PrintText]=00:05:17	Makoto	Uuu...	00:07:00;
+
+[PlayVoice]=00:05:17	Voice02/02-2K/02-2K-P00/02-2K-P00-0080	1	mak	00:07:00;
+
+[PrintText]=00:07:00	Sekai	Parece que nuestra practica no hizo nada.	00:09:23;
+
+[PlayVoice]=00:07:00	Voice02/02-2K/02-2K-P00/02-2K-P00-0090	0	sek	00:09:23;
+
+[CreateBG]=00:09:23	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-003	00:21:05;
+
+[PrintText]=00:09:23	Makoto	Guh...	00:11:12;
+
+[PlayVoice]=00:09:23	Voice02/02-2K/02-2K-P00/02-2K-P00-0100	1	mak	00:11:12;
+
+[PrintText]=00:11:12	Sekai	No es solo Katsura-san. Cualquiera se asustaría en una situación como esa.	00:17:10;
+
+[PlayVoice]=00:11:12	Voice02/02-2K/02-2K-P00/02-2K-P00-0110	0	sek	00:17:10;
+
+[PrintText]=00:17:10	Makoto	Uguh...	00:21:04;
+
+[PlayVoice]=00:17:10	Voice02/02-2K/02-2K-P00/02-2K-P00-0120	1	mak	00:21:04;
+
+[PrintText]=00:21:04	Sekai	Haah... parece que la práctica no funcionó del todo.	00:25:18;
+
+[PlayVoice]=00:21:04	Voice02/02-2K/02-2K-P00/02-2K-P00-0130	0	sek	00:25:18;
+
+[CreateBG]=00:21:05	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-004	00:25:18;
+
+[CreateBG]=00:25:18	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-005	00:48:13;
+
+[PrintText]=00:25:18	Makoto	Sí... y después que pusiste tu cuerpo para enseñarme..., realmente estoy desesperado.	00:34:19;
+
+[PlayVoice]=00:25:18	Voice02/02-2K/02-2K-P00/02-2K-P00-0140	1	mak	00:34:19;
+
+[PlaySe]=00:29:07	2	Se02/02-2K/02-2K-P00/SE02-2K-P00-001	00:58:14;
+
+[PrintText]=00:34:20	Sekai	¿Oh?^	00:35:18;
+
+[PlayVoice]=00:34:20	Voice02/02-2K/02-2K-P00/02-2K-P00-0150	0	sek	00:35:18;
+
+[PrintText]=00:35:18	Makoto	Estoy odiándome más y más...	00:38:09;
+
+[PlayVoice]=00:35:18	Voice02/02-2K/02-2K-P00/02-2K-P00-0160	1	mak	00:38:09;
+
+[PrintText]=00:38:09	Sekai	¿Es así?^	00:39:08;
+
+[PlayVoice]=00:38:09	Voice02/02-2K/02-2K-P00/02-2K-P00-0170	0	sek	00:39:08;
+
+[PrintText]=00:39:08	Makoto	No puedo ver a Kotonoha así ... ni siquiera quiero venir en el tren mañana.	00:47:13;
+
+[PlayVoice]=00:39:08	Voice02/02-2K/02-2K-P00/02-2K-P00-0180	1	mak	00:47:13;
+
+[PrintText]=00:47:13	Sekai	Ahaha... es inevitable ¿no?, eres un cobarde.	00:53:03;
+
+[PlayVoice]=00:47:13	Voice02/02-2K/02-2K-P00/02-2K-P00-0190	0	sek	00:53:03;
+
+[CreateBG]=00:48:13	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-006	00:59:04;
+
+[PrintText]=00:53:03	Makoto	Sí, pero ...	00:54:10;
+
+[PlayVoice]=00:53:03	Voice02/02-2K/02-2K-P00/02-2K-P00-0200	1	mak	00:54:10;
+
+[PrintText]=00:54:10	Sekai	No puedes renunciar solo porque has fallado una o dos veces.	00:59:03;
+
+[PlayVoice]=00:54:10	Voice02/02-2K/02-2K-P00/02-2K-P00-0210	0	sek	00:59:03;
+
+[PlaySe]=00:58:14	1	Se02/02-2K/02-2K-P00/SE02-2K-P00-001	01:27:21;
+
+[CreateBG]=00:59:04	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-001	01:12:17;
+
+[PrintText]=00:59:04	Makoto	Pero ...	01:00:02;
+
+[PlayVoice]=00:59:04	Voice02/02-2K/02-2K-P00/02-2K-P00-0220	1	mak	01:00:02;
+
+[PrintText]=01:00:02	Sekai	Si fallas hoy, entonces simplemente practica un poco más y vuelva a intentarlo.	01:05:16;
+
+[PlayVoice]=01:00:02	Voice02/02-2K/02-2K-P00/02-2K-P00-0230	0	sek	01:05:16;
+
+[PrintText]=01:05:17	Makoto	Intentarlo de nuevo...	01:08:11;
+
+[PlayVoice]=01:05:17	Voice02/02-2K/02-2K-P00/02-2K-P00-0240	1	mak	01:08:11;
+
+[PrintText]=01:08:11	Sekai	Después de mucho entrenamiento. Eso...	01:10:11;
+
+[PlayVoice]=01:08:11	Voice02/02-2K/02-2K-P00/02-2K-P00-0250	0	sek	01:10:11;
+
+[PrintText]=01:10:11	Makoto	... Es inútil.	01:12:17;
+
+[PlayVoice]=01:10:11	Voice02/02-2K/02-2K-P00/02-2K-P00-0260	1	mak	01:12:17;
+
+[CreateBG]=01:12:17	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-007B	01:16:03;
+
+[PrintText]=01:12:17	Sekai	¡No es inútil!	01:13:23;
+
+[PlayVoice]=01:12:17	Voice02/02-2K/02-2K-P00/02-2K-P00-0270	0	sek	01:13:23;
+
+[PrintText]=01:14:00	Makoto	Uuu...	01:16:02;
+
+[PlayVoice]=01:14:00	Voice02/02-2K/02-2K-P00/02-2K-P00-0280	1	mak	01:16:02;
+
+[PrintText]=01:16:02	Sekai	¡Si quieres que ocurra, sucederá! 	01:21:11;
+
+[PlayVoice]=01:16:02	Voice02/02-2K/02-2K-P00/02-2K-P00-0290	0	sek	01:21:11;
+
+[CreateBG]=01:16:03	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-008	01:24:17;
+
+[PrintText]=01:21:12	Makoto	¿E-Enserio?^	01:24:16;
+
+[PlayVoice]=01:21:12	Voice02/02-2K/02-2K-P00/02-2K-P00-0300	1	mak	01:24:16;
+
+[PrintText]=01:24:16	Sekai	Si. Te lo garantizo.	01:27:10;
+
+[PlayVoice]=01:24:16	Voice02/02-2K/02-2K-P00/02-2K-P00-0310	0	sek	01:27:10;
+
+[CreateBG]=01:24:17	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-009	01:34:11;
+
+[PrintText]=01:27:10	Makoto	Ya veo ... pasará después de todo.	01:31:12;
+
+[PlayVoice]=01:27:10	Voice02/02-2K/02-2K-P00/02-2K-P00-0320	1	mak	01:31:12;
+
+[PlaySe]=01:27:21	2	Se02/02-2K/02-2K-P00/SE02-2K-P00-001	01:57:06;
+
+[PrintText]=01:31:12	Sekai	Bueno, eso depende de cuánto te esfuerces.	01:34:10;
+
+[PlayVoice]=01:31:12	Voice02/02-2K/02-2K-P00/02-2K-P00-0330	0	sek	01:34:10;
+
+[PlayMovie]=01:34:11	Movie02/02-2K/02-2K-P00/02-2K-P00-010	0	01:44:18;
+
+[PrintText]=01:34:11	Makoto	Uuuh ... es inútil entonces...	01:37:19;
+
+[PlayVoice]=01:34:11	Voice02/02-2K/02-2K-P00/02-2K-P00-0340	1	mak	01:37:19;
+
+[PrintText]=01:37:19	Sekai	Ah... Deja eso.	01:42:05;
+
+[PlayVoice]=01:37:19	Voice02/02-2K/02-2K-P00/02-2K-P00-0350	0	sek	01:42:05;
+
+[PrintText]=01:42:06	Makoto	Pero ...	01:43:09;
+
+[PlayVoice]=01:42:06	Voice02/02-2K/02-2K-P00/02-2K-P00-0360	1	mak	01:43:09;
+
+[PrintText]=01:43:08	Sekai	¡Practiquemos!	01:44:18;
+
+[PlayVoice]=01:43:08	Voice02/02-2K/02-2K-P00/02-2K-P00-0370	0	sek	01:44:18;
+
+[CreateBG]=01:44:18	BGS	Event02/02-2K/02-2K-P00/02-2K-P00-011	02:00:13;
+
+[PrintText]=01:46:01	Sekai	Te ayudaré.	01:47:16;
+
+[PlayVoice]=01:46:01	Voice02/02-2K/02-2K-P00/02-2K-P00-0390	0	sek	01:47:16;
+
+[PrintText]=01:47:16	Makoto	Sekai...	01:51:17;
+
+[PlayVoice]=01:47:16	Voice02/02-2K/02-2K-P00/02-2K-P00-0400	1	mak	01:51:17;
+
+[PrintText]=01:51:17	Sekai	Vamos a continuar en mi casa ... ¿Vale?^	01:55:21;
+
+[PlayVoice]=01:51:17	Voice02/02-2K/02-2K-P00/02-2K-P00-0410	0	sek	01:55:21;
+
+[PlaySe]=01:55:21	1	Voice02/02-2K/02-2K-P00/02-2K-P00-0420	01:59:13;
+
+[PlaySe]=01:57:06	3	Se02/02-2K/02-2K-P00/SE02-2K-P00-001	02:00:13;
+
+[BlackFade]=01:59:13	OUT	02:00:13;
+
+ ;
+
+[Next]=02:00:13;
+
+
+
+

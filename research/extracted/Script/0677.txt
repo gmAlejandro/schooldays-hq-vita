@@ -1,0 +1,89 @@
+﻿[SkipFRAME]=00:37:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:37:12;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-J00/SE03-KB-J00-001	00:37:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-001	00:02:12;
+
+[PrintText]=00:02:11	Setsuna	Sekai.	00:03:09;
+
+[PlayVoice]=00:02:11	Voice03/03-KB/03-KB-J00/03-KB-J00-0030	0	set	00:03:09;
+
+[CreateBG]=00:02:12	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-002	00:06:08;
+
+[PrintText]=00:03:09	Sekai	Ah... Setsuna.	00:05:02;
+
+[PlayVoice]=00:03:09	Voice03/03-KB/03-KB-J00/03-KB-J00-0040	0	sek	00:05:02;
+
+[PrintText]=00:05:02	Setsuna	¿A dónde vas?^	00:06:08;
+
+[PlayVoice]=00:05:02	Voice03/03-KB/03-KB-J00/03-KB-J00-0050	0	set	00:06:08;
+
+[CreateBG]=00:06:08	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-003	00:15:10;
+
+[PrintText]=00:06:08	Sekai	Creo, que ando algo mal, así que iré a comprar algo.	00:10:10;
+
+[PlayVoice]=00:06:08	Voice03/03-KB/03-KB-J00/03-KB-J00-0060	0	sek	00:10:10;
+
+[PrintText]=00:10:10	Setsuna	...	00:11:11;
+
+[PlayVoice]=00:10:10	Voice03/03-KB/03-KB-J00/03-KB-J00-0070	0	xxx	00:11:11;
+
+[PrintText]=00:11:10	Sekai	Ah, sí algo que quieras, dímelo.	00:15:09;
+
+[PlayVoice]=00:11:10	Voice03/03-KB/03-KB-J00/03-KB-J00-0080	0	sek	00:15:09;
+
+[PrintText]=00:15:09	Setsuna	¿Ya le preguntaste?^	00:17:16;
+
+[PlayVoice]=00:15:09	Voice03/03-KB/03-KB-J00/03-KB-J00-0090	0	set	00:17:16;
+
+[CreateBG]=00:15:10	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-004	00:17:17;
+
+[CreateBG]=00:17:17	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-005	00:18:21;
+
+[PrintText]=00:17:23	Sekai	¿Eh?^	00:18:12;
+
+[PlayVoice]=00:17:23	Voice03/03-KB/03-KB-J00/03-KB-J00-0100	0	sek	00:18:12;
+
+[CreateBG]=00:18:21	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-006	00:24:17;
+
+[PrintText]=00:18:21	Setsuna	Itou dijo que no tenía nada que hacer hoy.	00:23:06;
+
+[PlayVoice]=00:18:21	Voice03/03-KB/03-KB-J00/03-KB-J00-0110	0	set	00:23:06;
+
+[PrintText]=00:23:07	Sekai	P-Pero escuché que todos los chicos del cambio ya se fueron, y él estará todo el rato en la cocina...	00:29:01;
+
+[PlayVoice]=00:23:07	Voice03/03-KB/03-KB-J00/03-KB-J00-0120	0	sek	00:29:01;
+
+[CreateBG]=00:24:17	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-007	00:33:03;
+
+[PrintText]=00:29:01	Setsuna	¿Vas a rendirte ahora?^	00:30:04;
+
+[PlayVoice]=00:29:01	Voice03/03-KB/03-KB-J00/03-KB-J00-0130	0	set	00:30:04;
+
+[PrintText]=00:30:04	Sekai	No es así...	00:32:03;
+
+[PlayVoice]=00:30:04	Voice03/03-KB/03-KB-J00/03-KB-J00-0140	0	sek	00:32:03;
+
+[PrintText]=00:32:03	Setsuna	...	00:33:03;
+
+[PlayVoice]=00:32:03	Voice03/03-KB/03-KB-J00/03-KB-J00-0150	0	xxx	00:33:03;
+
+[CreateBG]=00:33:03	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-008	00:36:14;
+
+[PrintText]=00:33:03	Sekai	¡Mira, yo no puedo!	00:36:14;
+
+[PlayVoice]=00:33:03	Voice03/03-KB/03-KB-J00/03-KB-J00-0160	0	sek	00:36:14;
+
+[CreateBG]=00:36:08	BGS	Event03/03-KB/03-KB-J00/03-KB-J00-009	00:37:12;
+
+[PrintText]=00:36:14	Setsuna	Ah...	00:37:06;
+
+[PlayVoice]=00:36:14	Voice03/03-KB/03-KB-J00/03-KB-J00-0180	0	set	00:37:06;
+
+ ;
+
+[Next]=00:37:12;
+
+

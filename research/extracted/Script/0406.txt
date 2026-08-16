@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:13:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:19:00;
+
+[PlaySe]=00:00:00	1	Se03/03-A1/03-A1-B01/SE03-A1-B01-001	00:19:00;
+
+[PlaySe]=00:00:00	2	Se03/03-A1/03-A1-B01/SE03-A1-B01-002	00:19:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-B00/03-A1-B00-002	00:01:14;
+
+[PrintText]=00:00:00	Makoto	¿Qué te pasó hoy?^	00:01:21;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-B01/03-A1-B01-0030	1	mak	00:01:21;
+
+[CreateBG]=00:01:14	BGS	Event03/03-A1/03-A1-B01/03-A1-B01-002	00:02:17;
+
+[PrintText]=00:02:04	Kotonoha	¡¿Eh?!	00:02:23;
+
+[PlayVoice]=00:02:04	Voice03/03-A1/03-A1-B01/03-A1-B01-0040	0	kot	00:02:23;
+
+[PrintText]=00:02:14	Makoto	Has estado muy distante.	00:04:12;
+
+[PlayVoice]=00:02:14	Voice03/03-A1/03-A1-B01/03-A1-B01-0050	1	mak	00:04:12;
+
+[CreateBG]=00:02:17	BGS	Event03/03-A1/03-A1-B00/03-A1-B00-002	00:04:14;
+
+[CreateBG]=00:04:14	BGS	Event03/03-A1/03-A1-B01/03-A1-B01-004	00:11:09;
+
+[PrintText]=00:04:15	Kotonoha	¿E-En serio?^	00:07:06;
+
+[PlayVoice]=00:04:15	Voice03/03-A1/03-A1-B01/03-A1-B01-0060	0	kot	00:07:06;
+
+[PrintText]=00:07:07	Makoto	Sí.	00:08:01;
+
+[PlayVoice]=00:07:07	Voice03/03-A1/03-A1-B01/03-A1-B01-0070	1	mak	00:08:01;
+
+[PrintText]=00:08:00	Kotonoha	Yo... no lo creo.	00:11:09;
+
+[PlayVoice]=00:08:00	Voice03/03-A1/03-A1-B01/03-A1-B01-0080	0	kot	00:11:09;
+
+[CreateBG]=00:11:09	BGS	Event03/03-A1/03-A1-B01/03-A1-B01-005	00:19:00;
+
+[PrintText]=00:11:09	Makoto	Pues...	00:12:02;
+
+[PlayVoice]=00:11:09	Voice03/03-A1/03-A1-B01/03-A1-B01-0090	1	mak	00:12:02;
+
+[SetSELECT]=00:13:00	'¡Si lo estás!'	'No volveré a tocarte.'	00:18:00;
+
+ ;
+
+[Next]=00:19:00;
+
+

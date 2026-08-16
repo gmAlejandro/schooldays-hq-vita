@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:08:13;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-F07/SE03-SA-F07-001	00:08:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F07/03-SA-F07-001	00:01:11;
+
+[PrintText]=00:00:00	Makoto	...	00:01:11;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-F07/03-SA-F07-0030	1	xxx	00:01:11;
+
+[CreateBG]=00:01:11	BGS	Event03/03-SA/03-SA-F07/03-SA-F07-002	00:04:07;
+
+[PrintText]=00:01:11	Taisuke	¡Hey, Makoto! ¿Qué pasó con todos?^	00:04:00;
+
+[PlayVoice]=00:01:11	Voice03/03-SA/03-SA-F07/03-SA-F07-0040	1	tai	00:04:00;
+
+[PrintText]=00:03:18	Makoto	Ah...	00:04:05;
+
+[PlayVoice]=00:03:18	Voice03/03-SA/03-SA-F07/03-SA-F07-0050	1	mak	00:04:05;
+
+[PlayMovie]=00:04:07	Movie03/03-SA/03-SA-F07/03-SA-F07-003	0	00:08:13;
+
+[PrintText]=00:04:07	Otome	¿¡Itou!?^	00:05:12;
+
+[PlayVoice]=00:04:07	Voice03/03-SA/03-SA-F07/03-SA-F07-0060	0	oto	00:05:12;
+
+[PrintText]=00:05:12	Makoto	Ahh...	00:07:05;
+
+[PlayVoice]=00:05:12	Voice03/03-SA/03-SA-F07/03-SA-F07-0070	1	mak	00:07:05;
+
+[PrintText]=00:07:06	Kotonoha	Makoto-kun...	00:08:13;
+
+[PlayVoice]=00:07:06	Voice03/03-SA/03-SA-F07/03-SA-F07-0090	0	kot	00:08:13;
+
+ ;
+
+[Next]=00:08:13;
+
+

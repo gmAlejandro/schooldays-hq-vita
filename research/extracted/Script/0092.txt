@@ -1,0 +1,131 @@
+﻿[SkipFRAME]=01:28:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	01:28:01;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-M09/SE01-00-M09-001	01:28:01;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-M09/01-00-M09-001	00:02:23;
+
+[PrintText]=00:00:00	Makoto	Ella va a terminar conmigo después de todo...	00:02:19;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-M09/01-00-M09-0030	1	xxx	00:02:19;
+
+[CreateBG]=00:02:23	BGS	Event01/01-00/01-00-M09/01-00-M09-002	00:06:07;
+
+[PrintText]=00:02:23	Makoto	Pero ella dijo que todo estaba bien...	00:06:07;
+
+[PlayVoice]=00:02:23	Voice01/01-00/01-00-M09/01-00-M09-0040	1	xxx	00:06:07;
+
+[CreateBG]=00:06:07	BGS	Event01/01-00/01-00-M09/01-00-M09-003	00:11:01;
+
+[PrintText]=00:06:07	Makoto	No, espera, ella de seguro esta por decir 'Seamos amigos'...	00:11:01;
+
+[PlayVoice]=00:06:07	Voice01/01-00/01-00-M09/01-00-M09-0050	1	xxx	00:11:01;
+
+[CreateBG]=00:11:01	BGS	Event01/01-00/01-00-M08/01-00-M08-007	00:14:07;
+
+[PrintText]=00:11:01	Kotonoha	Acerca de lo que te iba a decir ayer...	00:14:06;
+
+[PlayVoice]=00:11:01	Voice01/01-00/01-00-M09/01-00-M09-0060	0	kot	00:14:06;
+
+[PrintText]=00:14:06	Makoto	¡Wah! ¡Wah! ¡N-No quiero oírlo!	00:16:18;
+
+[PlayVoice]=00:14:06	Voice01/01-00/01-00-M09/01-00-M09-0070	1	mak	00:16:18;
+
+[CreateBG]=00:14:07	BGS	Event01/01-00/01-00-M08/01-00-M08-006	00:20:00;
+
+[PrintText]=00:16:19	Kotonoha	¡¿Ehh?!	00:17:16;
+
+[PlayVoice]=00:16:19	Voice01/01-00/01-00-M09/01-00-M09-0080	0	kot	00:17:16;
+
+[PrintText]=00:17:15	Makoto	Puede que tal vez haya sido aburrida la cita, pero no hay por qué hablar de repente de terminar...	00:24:01;
+
+[PlayVoice]=00:17:15	Voice01/01-00/01-00-M09/01-00-M09-0090	1	mak	00:24:01;
+
+[CreateBG]=00:20:00	BGS	Event01/01-00/01-00-M08/01-00-M08-007	00:26:21;
+
+[PrintText]=00:24:01	Kotonoha	¿Eh...? ¿Terminar...?^	00:26:20;
+
+[PlayVoice]=00:24:01	Voice01/01-00/01-00-M09/01-00-M09-0100	0	kot	00:26:20;
+
+[CreateBG]=00:26:21	BGS	Event01/01-00/01-00-M09/01-00-M09-007	00:42:00;
+
+[PrintText]=00:26:21	Makoto	Ah... ¿No es eso?^	00:30:00;
+
+[PlayVoice]=00:26:21	Voice01/01-00/01-00-M09/01-00-M09-0110	1	mak	00:30:00;
+
+[PrintText]=00:30:01	Kotonoha	Quiero que me llames por mi nombre, como lo haces con Saionji-San.	00:38:23;
+
+[PlayVoice]=00:30:01	Voice01/01-00/01-00-M09/01-00-M09-0120	0	kot	00:38:23;
+
+[PrintText]=00:38:23	Makoto	¿Tu nombre...?^	00:39:21;
+
+[PlayVoice]=00:38:23	Voice01/01-00/01-00-M09/01-00-M09-0130	1	mak	00:39:21;
+
+[PrintText]=00:39:22	Kotonoha	...¿No puedo?^	00:41:23;
+
+[PlayVoice]=00:39:22	Voice01/01-00/01-00-M09/01-00-M09-0140	0	kot	00:41:23;
+
+[PrintText]=00:41:23	Makoto	Tu nombre, así como Sekai me dice 'Makoto'?^	00:48:10;
+
+[PlayVoice]=00:41:23	Voice01/01-00/01-00-M09/01-00-M09-0150	1	mak	00:48:10;
+
+[CreateBG]=00:42:00	BGS	Event01/01-00/01-00-M09/01-00-M09-008	00:48:10;
+
+[CreateBG]=00:48:10	BGS	Event01/01-00/01-00-M08/01-00-M08-006	00:56:13;
+
+[PrintText]=00:48:10	Makoto	Haha... w-wow, yo pensaba que... Claro. ¿Entonces me llamarás por mi nombre, también?^	01:02:02;
+
+[PlayVoice]=00:48:10	Voice01/01-00/01-00-M09/01-00-M09-0170	1	mak	01:02:02;
+
+[CreateBG]=00:56:13	BGS	Event01/01-00/01-00-M09/01-00-M09-010	01:06:23;
+
+[PrintText]=01:02:02	Kotonoha	Sí.	01:02:20;
+
+[PlayVoice]=01:02:02	Voice01/01-00/01-00-M09/01-00-M09-0180	0	kot	01:02:20;
+
+[PrintText]=01:02:21	Makoto	Entonces aquí voy, emm... Kotonoha.	01:06:23;
+
+[PlayVoice]=01:02:21	Voice01/01-00/01-00-M09/01-00-M09-0190	1	mak	01:06:23;
+
+[CreateBG]=01:06:23	BGS	Event01/01-00/01-00-M09/01-00-M09-011	01:18:02;
+
+[PrintText]=01:06:23	Kotonoha	S-Sí, Makoto-kun.	01:10:17;
+
+[PlayVoice]=01:06:23	Voice01/01-00/01-00-M09/01-00-M09-0200	0	kot	01:10:17;
+
+[PrintText]=01:10:17	Makoto	Oh, no tienes porque agregar el '-kun'.	01:13:05;
+
+[PlayVoice]=01:10:17	Voice01/01-00/01-00-M09/01-00-M09-0210	1	mak	01:13:05;
+
+[PrintText]=01:13:05	Kotonoha	N-no...	01:14:16;
+
+[PlayVoice]=01:13:05	Voice01/01-00/01-00-M09/01-00-M09-0220	0	kot	01:14:16;
+
+[PrintText]=01:14:16	Makoto	Bueno... puedes hacerlo si te gusta.	01:17:04;
+
+[PlayVoice]=01:14:16	Voice01/01-00/01-00-M09/01-00-M09-0230	1	mak	01:17:04;
+
+[PrintText]=01:17:05	Kotonoha	Sí...	01:18:01;
+
+[PlayVoice]=01:17:05	Voice01/01-00/01-00-M09/01-00-M09-0240	0	kot	01:18:01;
+
+[PrintText]=01:18:01	Makoto	Makoto-kun, huh... realmente, suena un poco vergonzoso... haha...	01:25:17;
+
+[PlayVoice]=01:18:01	Voice01/01-00/01-00-M09/01-00-M09-0250	1	mak	01:25:17;
+
+[CreateBG]=01:18:02	BGS	Event01/01-00/01-00-M10/01-00-M10-007	01:23:01;
+
+[CreateBG]=01:23:01	BGS	Event01/01-00/01-00-M08/01-00-M08-006	01:28:01;
+
+[PrintText]=01:25:17	Kotonoha	Ufufu...	01:27:12;
+
+[PlayVoice]=01:25:17	Voice01/01-00/01-00-M09/01-00-M09-0260	0	kot	01:27:12;
+
+ ;
+
+[Next]=01:28:01;
+
+
+
+

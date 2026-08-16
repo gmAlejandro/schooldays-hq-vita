@@ -1,0 +1,20 @@
+﻿[SkipFRAME]=00:02:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	00:02:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-C08/05-SE-C08-001	00:02:19;
+
+[PrintText]=00:00:00	Makoto	No es que fuera mi hijo.	00:01:14;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-P00/05-SE-P00-0030	1	mak	00:01:14;
+
+[PrintText]=00:01:14	Sekai	¿Eh?^	00:02:13;
+
+[PlayVoice]=00:01:14	Voice05/05-SE/05-SE-P00/05-SE-P00-0040	0	sek	00:02:13;
+
+ ;
+
+[Next]=00:02:19;
+
+
+

@@ -1,0 +1,238 @@
+﻿[SkipFRAME]=02:32:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	02:32:15;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-001	00:04:13;
+
+[PrintText]=00:00:00	Sekai	¿Acaban de regresar de una cita?^	00:02:00;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-G00/05-SD-G00-0040	0	sek	00:02:00;
+
+[PrintText]=00:02:01	Setsuna	Uh-huh.	00:02:17;
+
+[PlayVoice]=00:02:01	Voice05/05-SD/05-SD-G00/05-SD-G00-0050	0	set	00:02:17;
+
+[PrintText]=00:02:17	Sekai	¿Se divirtieron?^	00:03:19;
+
+[PlayVoice]=00:02:17	Voice05/05-SD/05-SD-G00/05-SD-G00-0060	0	sek	00:03:19;
+
+[PrintText]=00:03:19	Setsuna	Uh-huh.	00:04:12;
+
+[PlayVoice]=00:03:19	Voice05/05-SD/05-SD-G00/05-SD-G00-0070	0	set	00:04:12;
+
+[PrintText]=00:04:12	Sekai	Sí, lo apuesto. Vi a Makoto saliendo del tren muy feliz.	00:10:06;
+
+[PlayVoice]=00:04:12	Voice05/05-SD/05-SD-G00/05-SD-G00-0080	0	sek	00:10:06;
+
+[CreateBG]=00:04:13	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-002	00:15:04;
+
+[PrintText]=00:10:06	Setsuna	Uh-huh.	00:11:00;
+
+[PlayVoice]=00:10:06	Voice05/05-SD/05-SD-G00/05-SD-G00-0090	0	set	00:11:00;
+
+[PrintText]=00:11:00	Sekai	¿Me pregunto como es su relación como pareja?^	00:15:04;
+
+[PlayVoice]=00:11:00	Voice05/05-SD/05-SD-G00/05-SD-G00-0100	0	sek	00:15:04;
+
+[CreateBG]=00:15:04	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-003	00:16:21;
+
+[PrintText]=00:15:04	Setsuna	Sekai...	00:16:05;
+
+[PlayVoice]=00:15:04	Voice05/05-SD/05-SD-G00/05-SD-G00-0110	0	set	00:16:05;
+
+[CreateBG]=00:16:21	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-004	00:21:15;
+
+[PrintText]=00:16:21	Sekai	Después de todo... no he sido capaz de ser parte de él.	00:21:03;
+
+[PlayVoice]=00:16:21	Voice05/05-SD/05-SD-G00/05-SD-G00-0120	0	sek	00:21:03;
+
+[CreateBG]=00:21:15	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-005	00:31:14;
+
+[PrintText]=00:21:15	Setsuna	Si vas a empezar con eso, entonces...	00:23:09;
+
+[PlayVoice]=00:21:15	Voice05/05-SD/05-SD-G00/05-SD-G00-0130	0	set	00:23:09;
+
+[PrintText]=00:23:08	Sekai	Bueno, voy a transferirme... ya no estaré más aquí, así que...	00:30:12;
+
+[PlayVoice]=00:23:08	Voice05/05-SD/05-SD-G00/05-SD-G00-0140	0	sek	00:30:12;
+
+[PrintText]=00:30:13	Setsuna	Sekai...	00:31:14;
+
+[PlayVoice]=00:30:13	Voice05/05-SD/05-SD-G00/05-SD-G00-0150	0	set	00:31:14;
+
+[PrintText]=00:31:13	Sekai	Y una vez que me vaya... en lugar de que esté con otra persona, será mejor si estás con él ¿No?^	00:45:23;
+
+[PlayVoice]=00:31:13	Voice05/05-SD/05-SD-G00/05-SD-G00-0160	0	sek	00:45:23;
+
+[CreateBG]=00:31:14	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-006	00:45:23;
+
+[CreateBG]=00:45:23	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-007	00:58:10;
+
+[PrintText]=00:45:23	Setsuna	...	00:46:21;
+
+[PlayVoice]=00:45:23	Voice05/05-SD/05-SD-G00/05-SD-G00-0170	0	xxx	00:46:21;
+
+[PrintText]=00:48:02	Sekai	Siempre y cuando él te ame... yo seré feliz.	00:55:17;
+
+[PlayVoice]=00:48:02	Voice05/05-SD/05-SD-G00/05-SD-G00-0180	0	sek	00:55:17;
+
+[PrintText]=00:55:18	Setsuna	¿Estás segura que esto es lo que quieres?^	00:58:10;
+
+[PlayVoice]=00:55:18	Voice05/05-SD/05-SD-G00/05-SD-G00-0190	0	set	00:58:10;
+
+[PrintText]=00:58:09	Sekai	Ya... no me importa.	01:00:19;
+
+[PlayVoice]=00:58:09	Voice05/05-SD/05-SD-G00/05-SD-G00-0200	0	sek	01:00:19;
+
+[CreateBG]=00:58:10	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-008	01:05:15;
+
+[PrintText]=01:00:19	Setsuna	...	01:01:14;
+
+[PlayVoice]=01:00:19	Voice05/05-SD/05-SD-G00/05-SD-G00-0210	0	xxx	01:01:14;
+
+[PrintText]=01:01:14	Sekai	Si él es feliz, entonces no importa...	01:07:10;
+
+[PlayVoice]=01:01:14	Voice05/05-SD/05-SD-G00/05-SD-G00-0220	0	sek	01:07:10;
+
+[CreateBG]=01:05:15	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-009	01:09:23;
+
+[PrintText]=01:08:02	Setsuna	...Vale.	01:08:20;
+
+[PlayVoice]=01:08:02	Voice05/05-SD/05-SD-G00/05-SD-G00-0230	0	set	01:08:20;
+
+[PrintText]=01:08:21	Sekai	...	01:09:08;
+
+[PlayVoice]=01:08:21	Voice05/05-SD/05-SD-G00/05-SD-G00-0240	0	xxx	01:09:08;
+
+[CreateBG]=01:09:23	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-010	01:12:22;
+
+[PrintText]=01:09:23	Setsuna	Entonces iré a hacerlo con él.	01:12:22;
+
+[PlayVoice]=01:09:23	Voice05/05-SD/05-SD-G00/05-SD-G00-0250	0	set	01:12:22;
+
+[CreateBG]=01:12:22	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-011	01:13:20;
+
+[PrintText]=01:13:00	Sekai	¿Eh?^	01:13:21;
+
+[PlayVoice]=01:13:00	Voice05/05-SD/05-SD-G00/05-SD-G00-0260	0	sek	01:13:21;
+
+[CreateBG]=01:13:20	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-012	01:30:12;
+
+[PrintText]=01:13:21	Setsuna	No lo estábamos haciendo cuando tomé esa foto sabes.	01:17:17;
+
+[PlayVoice]=01:13:21	Voice05/05-SD/05-SD-G00/05-SD-G00-0270	0	set	01:17:17;
+
+[PrintText]=01:17:18	Sekai	¡P-Pero en la foto del correo, estaban desnudos y...!	01:22:19;
+
+[PlayVoice]=01:17:18	Voice05/05-SD/05-SD-G00/05-SD-G00-0280	0	sek	01:22:19;
+
+[PrintText]=01:22:18	Setsuna	Lo forcé a que se desnudara para tomar la foto. Él no te traicionaría.	01:30:12;
+
+[PlayVoice]=01:22:18	Voice05/05-SD/05-SD-G00/05-SD-G00-0290	0	set	01:30:12;
+
+[CreateBG]=01:30:12	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-013	01:31:14;
+
+[PrintText]=01:30:13	Sekai	Makoto...	01:31:15;
+
+[PlayVoice]=01:30:13	Voice05/05-SD/05-SD-G00/05-SD-G00-0300	0	sek	01:31:15;
+
+[CreateBG]=01:31:14	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-014	01:42:02;
+
+[PrintText]=01:31:14	Setsuna	Pero si estás bien con esto, entonces lo haré con él ahora.	01:36:10;
+
+[PlayVoice]=01:31:14	Voice05/05-SD/05-SD-G00/05-SD-G00-0310	0	set	01:36:10;
+
+[PrintText]=01:36:11	Sekai	...	01:37:05;
+
+[PlayVoice]=01:36:11	Voice05/05-SD/05-SD-G00/05-SD-G00-0320	0	xxx	01:37:05;
+
+[PrintText]=01:37:15	Setsuna	Le diré que estás bien con esto.	01:42:03;
+
+[PlayVoice]=01:37:15	Voice05/05-SD/05-SD-G00/05-SD-G00-0330	0	set	01:42:03;
+
+[CreateBG]=01:42:02	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-015	01:52:02;
+
+[PrintText]=01:42:04	Sekai	No está bien-.	01:43:14;
+
+[PlayVoice]=01:42:04	Voice05/05-SD/05-SD-G00/05-SD-G00-0340	0	sek	01:43:14;
+
+[PrintText]=01:43:13	Setsuna	¿Lo ves?^	01:44:08;
+
+[PlayVoice]=01:43:13	Voice05/05-SD/05-SD-G00/05-SD-G00-0350	0	set	01:44:08;
+
+[PrintText]=01:44:09	Sekai	No está bien... pero no puedo evitarlo... así que hazlo.	01:52:03;
+
+[PlayVoice]=01:44:09	Voice05/05-SD/05-SD-G00/05-SD-G00-0360	0	sek	01:52:03;
+
+[CreateBG]=01:52:02	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-016	01:53:06;
+
+[PrintText]=01:52:02	Setsuna	¡Sekai!	01:53:05;
+
+[PlayVoice]=01:52:02	Voice05/05-SD/05-SD-G00/05-SD-G00-0370	0	set	01:53:05;
+
+[CreateBG]=01:53:06	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-017	02:03:09;
+
+[PrintText]=01:53:07	Sekai	Está bien.... después de todo, estás enamorada de él. No puedo detenerte.	02:03:11;
+
+[PlayVoice]=01:53:07	Voice05/05-SD/05-SD-G00/05-SD-G00-0380	0	sek	02:03:11;
+
+[CreateBG]=02:03:09	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-018	02:18:17;
+
+[PrintText]=02:03:10	Setsuna	Realmente lo haré ¿Sabes?^	02:05:01;
+
+[PlayVoice]=02:03:10	Voice05/05-SD/05-SD-G00/05-SD-G00-0390	0	set	02:05:01;
+
+[PrintText]=02:05:19	Sekai	Uh-huh...	02:06:13;
+
+[PlayVoice]=02:05:19	Voice05/05-SD/05-SD-G00/05-SD-G00-0400	0	sek	02:06:13;
+
+[PrintText]=02:07:11	Setsuna	¿Cuando está listo el papeleo de transferencia?^	02:12:11;
+
+[PlayVoice]=02:07:11	Voice05/05-SD/05-SD-G00/05-SD-G00-0410	0	set	02:12:11;
+
+[PrintText]=02:12:12	Sekai	El Lunes.	02:14:22;
+
+[PlayVoice]=02:12:12	Voice05/05-SD/05-SD-G00/05-SD-G00-0420	0	sek	02:14:22;
+
+[PrintText]=02:14:20	Setsuna	Entonces el fin de semana lo haré con él.	02:17:17;
+
+[PlayVoice]=02:14:20	Voice05/05-SD/05-SD-G00/05-SD-G00-0430	0	set	02:17:17;
+
+[PrintText]=02:17:18	Sekai	¿Eh...?^	02:18:18;
+
+[PlayVoice]=02:17:18	Voice05/05-SD/05-SD-G00/05-SD-G00-0440	0	sek	02:18:18;
+
+[PrintText]=02:18:16	Setsuna	El viernes de camino a casa, lo haremos en su casa.	02:22:08;
+
+[PlayVoice]=02:18:16	Voice05/05-SD/05-SD-G00/05-SD-G00-0450	0	set	02:22:08;
+
+[CreateBG]=02:18:17	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-019	02:26:21;
+
+[PrintText]=02:22:10	Sekai	...	02:23:18;
+
+[PlayVoice]=02:22:10	Voice05/05-SD/05-SD-G00/05-SD-G00-0460	0	xxx	02:23:18;
+
+[PrintText]=02:23:16	Setsuna	No importa ¿Verdad?^	02:26:21;
+
+[PlayVoice]=02:23:16	Voice05/05-SD/05-SD-G00/05-SD-G00-0470	0	set	02:26:21;
+
+[CreateBG]=02:26:21	BGS	Event05/05-SD/05-SD-G00/05-SD-G00-020	02:32:15;
+
+[PrintText]=02:26:23	Sekai	Uh-huh...	02:28:10;
+
+[PlayVoice]=02:26:23	Voice05/05-SD/05-SD-G00/05-SD-G00-0480	0	sek	02:28:10;
+
+[PrintText]=02:28:09	Setsuna	Bueno, entonces, buenas noches.	02:30:07;
+
+[PlayVoice]=02:28:09	Voice05/05-SD/05-SD-G00/05-SD-G00-0490	0	set	02:30:07;
+
+[PrintText]=02:30:08	Sekai	...	02:31:23;
+
+[PlayVoice]=02:30:08	Voice05/05-SD/05-SD-G00/05-SD-G00-0510	0	xxx	02:31:23;
+
+ ;
+
+[Next]=02:32:15;
+
+
+

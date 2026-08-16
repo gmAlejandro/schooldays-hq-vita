@@ -1,0 +1,19 @@
+﻿[SkipFRAME]=00:05:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:05:21;
+
+[PlaySe]=00:00:00	1	Voice01/01-00/01-00-R00/01-00-R00-0054	00:05:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-B00/01-00-B00-003	00:02:15;
+
+[PlayMovie]=00:02:15	Ini/Movie01/01-00/01-00-R01/01-00-R01-002	0	00:05:21;
+
+#[PrintText]=00:02:17	Makoto	"¿Te refieres al beso?".	00:05:21;
+
+ ;
+
+[Next]=00:05:21;
+
+
+
+

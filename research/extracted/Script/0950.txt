@@ -1,0 +1,103 @@
+﻿[SkipFRAME]=00:53:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:53:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-001	00:01:12;
+
+[CreateBG]=00:01:12	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-001A	00:05:23;
+
+[PrintText]=00:01:15	Makoto	Buen día.	00:02:19;
+
+[PlayVoice]=00:01:15	Voice04/04-KA/04-KA-G09/04-KA-G09-0030	1	mak	00:02:19;
+
+[PrintText]=00:02:21	Taisuke	Hey, rebelde.	00:04:17;
+
+[PlayVoice]=00:02:21	Voice04/04-KA/04-KA-G09/04-KA-G09-0040	1	tai	00:04:17;
+
+[PrintText]=00:04:18	Makoto	Cállate.	00:05:22;
+
+[PlayVoice]=00:04:18	Voice04/04-KA/04-KA-G09/04-KA-G09-0050	1	mak	00:05:22;
+
+[CreateBG]=00:05:23	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-001B	00:07:10;
+
+[PrintText]=00:06:03	Taisuke	¿Qué estuviste haciendo?^	00:07:11;
+
+[PlayVoice]=00:06:03	Voice04/04-KA/04-KA-G09/04-KA-G09-0060	1	tai	00:07:11;
+
+[CreateBG]=00:07:10	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-001C	00:10:23;
+
+[PrintText]=00:07:10	Makoto	Me quedé dormido, y no quise venir a la escuela.	00:10:23;
+
+[PlayVoice]=00:07:10	Voice04/04-KA/04-KA-G09/04-KA-G09-0070	1	mak	00:10:23;
+
+[CreateBG]=00:10:23	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-001	00:13:18;
+
+[PrintText]=00:10:23	Taisuke	Eso es raro.	00:12:18;
+
+[PlayVoice]=00:10:23	Voice04/04-KA/04-KA-G09/04-KA-G09-0080	1	tai	00:12:18;
+
+[PrintText]=00:12:20	Makoto	No molestes.	00:13:19;
+
+[PlayVoice]=00:12:20	Voice04/04-KA/04-KA-G09/04-KA-G09-0090	1	mak	00:13:19;
+
+[CreateBG]=00:13:18	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-002	00:14:21;
+
+[CreateBG]=00:14:21	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-003	00:21:08;
+
+[PrintText]=00:15:03	Sekai	Buen día.	00:16:06;
+
+[PlayVoice]=00:15:03	Voice04/04-KA/04-KA-G09/04-KA-G09-0110	0	sek	00:16:06;
+
+[PrintText]=00:16:04	Makoto	Sí, Buen día.	00:18:02;
+
+[PlayVoice]=00:16:04	Voice04/04-KA/04-KA-G09/04-KA-G09-0120	1	mak	00:18:02;
+
+[PrintText]=00:18:05	Sekai	...estaba preocupada por ti ayer.	00:21:05;
+
+[PlayVoice]=00:18:05	Voice04/04-KA/04-KA-G09/04-KA-G09-0130	0	sek	00:21:05;
+
+[CreateBG]=00:21:08	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-004	00:27:20;
+
+[PrintText]=00:21:08	Makoto	Perdón.	00:22:04;
+
+[PlayVoice]=00:21:08	Voice04/04-KA/04-KA-G09/04-KA-G09-0140	1	mak	00:22:04;
+
+[PrintText]=00:22:09	Sekai	¿Te sentías mal?^	00:24:05;
+
+[PlayVoice]=00:22:09	Voice04/04-KA/04-KA-G09/04-KA-G09-0150	0	sek	00:24:05;
+
+[PrintText]=00:24:06	Makoto	...No, solo me quedé dormido, y decidí no venir.	00:27:16;
+
+[PlayVoice]=00:24:06	Voice04/04-KA/04-KA-G09/04-KA-G09-0160	1	mak	00:27:16;
+
+[CreateBG]=00:27:20	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-005	00:35:16;
+
+[PrintText]=00:27:21	Sekai	Oh, Ya veo... haha. No tenía que haberme preocupado, Incluso ayer te llamé.	00:35:17;
+
+[PlayVoice]=00:27:21	Voice04/04-KA/04-KA-G09/04-KA-G09-0170	0	sek	00:35:17;
+
+[CreateBG]=00:35:16	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-006	00:46:04;
+
+[PrintText]=00:35:16	Makoto	S-Sí. Me di cuenta cuando me levanté.	00:39:18;
+
+[PlayVoice]=00:35:16	Voice04/04-KA/04-KA-G09/04-KA-G09-0180	1	mak	00:39:18;
+
+[PrintText]=00:39:19	Sekai	¿Qué? te fuiste a la cama temprano, y todavía te quedaste dormido? Duermes mucho, Makoto.	00:46:06;
+
+[PlayVoice]=00:39:19	Voice04/04-KA/04-KA-G09/04-KA-G09-0190	0	sek	00:46:06;
+
+[CreateBG]=00:46:04	BGS	Event04/04-KA/04-KA-G09/04-KA-G09-007	00:53:11;
+
+[PrintText]=00:46:05	Makoto	Haha...	00:47:10;
+
+[PlayVoice]=00:46:05	Voice04/04-KA/04-KA-G09/04-KA-G09-0200	1	mak	00:47:10;
+
+[PrintText]=00:47:10	Sekai	Cielos... ahaha.	00:50:04;
+
+[PlayVoice]=00:47:10	Voice04/04-KA/04-KA-G09/04-KA-G09-0210	0	sek	00:50:04;
+
+ ;
+
+[Next]=00:53:11;
+
+

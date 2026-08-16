@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:08:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:08:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-B00/04-KE-B00-008	00:05:17;
+
+[PrintText]=00:00:00	Makoto	No...	00:00:18;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-B02/04-KE-B02-0030	1	mak	00:00:18;
+
+[PrintText]=00:00:18	Kotonoha	¿Eh...?^	00:01:15;
+
+[PlayVoice]=00:00:18	Voice04/04-KE/04-KE-B02/04-KE-B02-0040	0	kot	00:01:15;
+
+[PrintText]=00:01:15	Makoto	No...no estoy de humor hoy.	00:05:16;
+
+[PlayVoice]=00:01:15	Voice04/04-KE/04-KE-B02/04-KE-B02-0050	1	mak	00:05:16;
+
+[PrintText]=00:05:16	Kotonoha	Ya veo...	00:07:07;
+
+[PlayVoice]=00:05:16	Voice04/04-KE/04-KE-B02/04-KE-B02-0060	0	kot	00:07:07;
+
+[CreateBG]=00:05:17	BGS	Event04/04-KE/04-KE-B02/04-KE-B02-002	00:08:00;
+
+ ;
+
+[Next]=00:08:00;
+
+

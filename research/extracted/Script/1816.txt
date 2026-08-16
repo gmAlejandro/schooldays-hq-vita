@@ -1,0 +1,109 @@
+﻿[SkipFRAME]=01:09:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-F01/04-KC-F01-001	00:05:16;
+
+[PrintText]=00:00:00	Nanami	He estado esperando todo este tiempo el poder conocer una chica tan joven y hermosa como tú.	00:07:03;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-C05/05-KF-C05-0050	0	nan	00:07:03;
+
+[PlayMovie]=00:05:16	Movie00/00-00/00-00-A03/00-00-A03-004	0	00:06:17;
+
+[CreateBG]=00:06:17	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-003	00:10:00;
+
+[PrintText]=00:07:04	Hikari	¡Pero, profesor! ¡Yo ya tengo un novio...!	00:10:12;
+
+[PlayVoice]=00:07:04	Voice05/05-KF/05-KF-C05/05-KF-C05-0060	0	hik	00:10:12;
+
+#[PrintText]=00:07:12	Sekai	Ah...	00:09:17;
+
+[PlayVoice]=00:07:12	Voice05/05-KF/05-KF-C05/05-KF-C05-0090	0	sek	00:09:17;
+
+[CreateBG]=00:10:00	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-004	00:13:19;
+
+[PrintText]=00:10:09	Makoto	...	00:12:15;
+
+[PlayVoice]=00:10:09	Voice05/05-KF/05-KF-C05/05-KF-C05-0110	1	xxx	00:12:15;
+
+[PlayVoice]=00:10:12	Voice05/05-KF/05-KF-C05/05-KF-C05-0070	0	nan	00:17:14;
+
+[CreateBG]=00:13:19	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-005	00:17:21;
+
+[PlayVoice]=00:17:18	Voice05/05-KF/05-KF-C05/05-KF-C05-0071	0	nan	00:25:14;
+
+[CreateBG]=00:17:21	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-006	00:20:12;
+
+[CreateBG]=00:20:12	BGS	Ini/Event05/05-KF/05-KF-C05/05-KF-C05-006B	00:25:02;
+
+#[PrintText]=00:20:12	Sekai	Me aseguraré de decírselo después de clase.	00:25:02;
+
+[CreateBG]=00:25:02	BGS	Ini/Event05/05-KF/05-KF-C05/05-KF-C05-006C	00:28:08;
+
+#[PrintText]=00:25:02	Makoto	Yo también.	00:28:08;
+
+[PlayVoice]=00:25:19	Voice05/05-KF/05-KF-C05/05-KF-C05-0072	0	nan	00:37:11;
+
+[CreateBG]=00:28:08	BGS	Ini/Event05/05-KF/05-KF-C05/05-KF-C05-007	00:31:16;
+
+#[PrintText]=00:28:08	Sekai	¡Lo haremos!	00:31:16;
+
+[CreateBG]=00:31:16	BGS	Event05/05-SE/05-SE-C05/05-SE-C05-008	00:37:09;
+
+[CreateBG]=00:37:09	BGS	Event05/05-SE/05-SE-C05/05-SE-C05-009	00:46:23;
+
+[PlayVoice]=00:37:18	Voice05/05-KF/05-KF-C05/05-KF-C05-0073	0	nan	00:46:23;
+
+[PlayVoice]=00:44:12	Voice05/05-KF/05-KF-C05/05-KF-C05-0140			00:46:18;
+
+[BlackFade]=00:46:11	OUT	00:46:23;
+
+[PlaySe]=00:46:23	1	Se05/05-KF/05-KF-C05/SE05-KF-C05-001	01:09:02;
+
+[CreateBG]=00:46:23	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-010	00:51:23;
+
+[PrintText]=00:49:20	Makoto	Vale, entonces...	00:52:01;
+
+[PlayVoice]=00:49:20	Voice05/05-KF/05-KF-C05/05-KF-C05-0200	1	mak	00:52:01;
+
+[CreateBG]=00:51:23	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-006	00:53:17;
+
+[PrintText]=00:52:18	Sekai	Sí.	00:53:11;
+
+[PlayVoice]=00:52:18	Voice05/05-KF/05-KF-C05/05-KF-C05-0210	0	sek	00:53:11;
+
+[CreateBG]=00:53:17	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-012	00:58:22;
+
+[PrintText]=00:54:02	Sekai	Sawanaga...	00:55:14;
+
+[PlayVoice]=00:54:02	Voice05/05-KF/05-KF-C05/05-KF-C05-0230	0	sek	00:55:14;
+
+[PrintText]=00:55:14	Taisuke	¿Sí?^	00:56:09;
+
+[PlayVoice]=00:55:14	Voice05/05-KF/05-KF-C05/05-KF-C05-0240	1	tai	00:56:09;
+
+[PrintText]=00:56:09	Sekai	¿Podemos hablar?^	00:58:23;
+
+[PlayVoice]=00:56:09	Voice05/05-KF/05-KF-C05/05-KF-C05-0250	0	sek	00:58:23;
+
+[CreateBG]=00:58:22	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-013	01:04:14;
+
+[PrintText]=00:58:22	Taisuke	Seguro. Estoy de limpieza ¿Te parece si lo hablamos cuando termine?^	01:02:16;
+
+[PlayVoice]=00:58:22	Voice05/05-KF/05-KF-C05/05-KF-C05-0260	1	tai	01:02:16;
+
+[PrintText]=01:02:16	Sekai	Vale.	01:03:16;
+
+[PlayVoice]=01:02:16	Voice05/05-KF/05-KF-C05/05-KF-C05-0270	0	sek	01:03:16;
+
+[PrintText]=01:03:16	Taisuke	Bien, entonces. ¡Me aseguraré de hacerlo rápido!	01:07:19;
+
+[PlayVoice]=01:03:16	Voice05/05-KF/05-KF-C05/05-KF-C05-0280	1	tai	01:07:19;
+
+[CreateBG]=01:04:14	BGS	Event05/05-KF/05-KF-C05/05-KF-C05-014	01:09:02;
+
+[BlackFade]=01:08:02	OUT	01:09:02;
+
+ ;
+
+[Next]=01:09:02;
+
+

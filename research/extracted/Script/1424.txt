@@ -1,0 +1,73 @@
+﻿[SkipFRAME]=00:38:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:38:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-D06/05-KB-D06-001	00:02:13;
+
+[PrintText]=00:00:00	Makoto	Estoy enfadado contigo.	00:02:13;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-D06/05-KB-D06-0030	1	mak	00:02:13;
+
+[CreateBG]=00:02:13	BGS	Event05/05-KB/05-KB-D06/05-KB-D06-002	00:13:09;
+
+[PrintText]=00:02:13	Kotonoha	Realmente lo siento. He venido hasta aquí...	00:07:15;
+
+[PlayVoice]=00:02:13	Voice05/05-KB/05-KB-D06/05-KB-D06-0040	0	kot	00:07:15;
+
+[PrintText]=00:07:15	Kotonoha	pero pensaba regresar cuando tu mamá me recibió, y...	00:13:08;
+
+[PlayVoice]=00:07:15	Voice05/05-KB/05-KB-D06/05-KB-D06-0041	0	kot	00:13:08;
+
+[PrintText]=00:12:18	Makoto	Haah... suena a ella. No te preocupes.	00:17:15;
+
+[PlayVoice]=00:12:18	Voice05/05-KB/05-KB-D06/05-KB-D06-0050	1	mak	00:17:15;
+
+[CreateBG]=00:13:09	BGS	Event05/05-KB/05-KB-D06/05-KB-D06-003	00:23:15;
+
+[PrintText]=00:17:16	Kotonoha	...Lo siento.	00:19:03;
+
+[PlayVoice]=00:17:16	Voice05/05-KB/05-KB-D06/05-KB-D06-0060	0	kot	00:19:03;
+
+[PrintText]=00:19:02	Makoto	Olvídalo.	00:22:04;
+
+[PlayVoice]=00:19:02	Voice05/05-KB/05-KB-D06/05-KB-D06-0070	1	mak	00:22:04;
+
+[PrintText]=00:22:04	Kotonoha	Vale...	00:23:00;
+
+[PlayVoice]=00:22:04	Voice05/05-KB/05-KB-D06/05-KB-D06-0080	0	kot	00:23:00;
+
+[PrintText]=00:23:00	Makoto	Vas a casa ¿No? Te acompañaré.	00:27:03;
+
+[PlayVoice]=00:23:00	Voice05/05-KB/05-KB-D06/05-KB-D06-0090	1	mak	00:27:03;
+
+[CreateBG]=00:23:15	BGS	Event05/05-KB/05-KB-D06/05-KB-D06-004A	00:27:03;
+
+[CreateBG]=00:27:03	BGS	Event05/05-KB/05-KB-D06/05-KB-D06-004B	00:30:20;
+
+[PrintText]=00:27:03	Kotonoha	Ah... pero...	00:28:21;
+
+[PlayVoice]=00:27:03	Voice05/05-KB/05-KB-D06/05-KB-D06-0100	0	kot	00:28:21;
+
+[PrintText]=00:28:00	Makoto	No te preocupes.	00:30:19;
+
+[PlayVoice]=00:28:00	Voice05/05-KB/05-KB-D06/05-KB-D06-0110	1	mak	00:30:19;
+
+[CreateBG]=00:30:20	BGS	Event05/05-KB/05-KB-D06/05-KB-D06-004C	00:35:07;
+
+[PrintText]=00:30:20	Kotonoha	...Bien. Gracias...	00:34:08;
+
+[PlayVoice]=00:30:20	Voice05/05-KB/05-KB-D06/05-KB-D06-0120	0	kot	00:34:08;
+
+[BlackFade]=00:34:19	OUT	00:35:07;
+
+[CreateBG]=00:35:07	BGS	Event05/05-KB/05-KB-D06/05-KB-D06-005	00:35:16;
+
+[CreateBG]=00:35:16	BGS	Event05/05-KB/05-KB-D06/05-KB-D06-006	00:38:00;
+
+[BlackFade]=00:35:16	IN	00:36:04;
+
+ ;
+
+[Next]=00:38:00;
+
+

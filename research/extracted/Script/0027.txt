@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=00:47:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:47:20;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-B05/SE01-00-B05-001	00:47:20;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-B05/01-00-B05-001	00:09:14;
+
+[PrintText]=00:00:12	Sekai	Katsura-san y tú parecían estar tan bien que quería fastidiarte...	00:07:18;
+
+[PlayVoice]=00:00:12	Voice01/01-00/01-00-B05/01-00-B05-0030	0	sek	00:07:18;
+
+[PrintText]=00:07:19	Sekai	No pude evitarlo.	00:09:15;
+
+[PlayVoice]=00:07:19	Voice01/01-00/01-00-B05/01-00-B05-0031	0	sek	00:09:15;
+
+[CreateBG]=00:09:14	BGS	Event01/01-00/01-00-B05/01-00-B05-002	00:12:00;
+
+[PrintText]=00:09:14	Makoto	¿Fasti...diarme?^	00:12:02;
+
+[PlayVoice]=00:09:14	Voice01/01-00/01-00-B05/01-00-B05-0040	1	mak	00:12:02;
+
+[CreateBG]=00:12:00	BGS	Event01/01-00/01-00-B05/01-00-B05-003	00:28:14;
+
+[PrintText]=00:12:00	Sekai	¡Sí! Disculpa. ¿Te sorprendí?^	00:15:01;
+
+[PlayVoice]=00:12:00	Voice01/01-00/01-00-B05/01-00-B05-0050	0	sek	00:15:01;
+
+[PrintText]=00:14:23	Makoto	S-Sí.	00:16:19;
+
+[PlayVoice]=00:14:23	Voice01/01-00/01-00-B05/01-00-B05-0060	1	mak	00:16:19;
+
+[PrintText]=00:16:15	Sekai	No te preocupes, No estoy pensando en hacer algo malo para alejarte de Katsura-san.	00:23:19;
+
+[PlayVoice]=00:16:15	Voice01/01-00/01-00-B05/01-00-B05-0070	0	sek	00:23:19;
+
+[PrintText]=00:24:01	Sekai	Solo se bueno con ella.	00:26:19;
+
+[PlayVoice]=00:24:01	Voice01/01-00/01-00-B05/01-00-B05-0071	0	sek	00:26:19;
+
+[PrintText]=00:26:18	Makoto	V-Vale...	00:28:11;
+
+[PlayVoice]=00:26:18	Voice01/01-00/01-00-B05/01-00-B05-0080	1	mak	00:28:11;
+
+[CreateBG]=00:28:14	BGS	Event01/01-00/01-00-B05/01-00-B05-004	00:36:07;
+
+[PrintText]=00:28:14	Sekai	Hablando de eso, ¿Ayer la pasaste bien no?^	00:32:07;
+
+[PlayVoice]=00:28:14	Voice01/01-00/01-00-B05/01-00-B05-0090	0	sek	00:32:07;
+
+[PrintText]=00:32:07	Makoto	¿Katsura te lo dijo?^	00:33:22;
+
+[PlayVoice]=00:32:07	Voice01/01-00/01-00-B05/01-00-B05-0100	1	mak	00:33:22;
+
+[PrintText]=00:33:20	Sekai	Me envió un correo.	00:34:21;
+
+[PlayVoice]=00:33:20	Voice01/01-00/01-00-B05/01-00-B05-0110	0	sek	00:34:21;
+
+[PrintText]=00:35:01	Makoto	Ya veo...	00:35:19;
+
+[PlayVoice]=00:35:01	Voice01/01-00/01-00-B05/01-00-B05-0120	1	mak	00:35:19;
+
+[CreateBG]=00:36:07	BGS	Event01/01-00/01-00-B05/01-00-B05-005	00:40:07;
+
+[PrintText]=00:36:11	Makoto	Pero, aún...	00:38:04;
+
+[PlayVoice]=00:36:11	Voice01/01-00/01-00-B05/01-00-B05-0130	1	mak	00:38:04;
+
+[PrintText]=00:37:19	Sekai	Estarás bien sin mí desde ahora ¿No?^	00:40:10;
+
+[PlayVoice]=00:37:19	Voice01/01-00/01-00-B05/01-00-B05-0140	0	sek	00:40:10;
+
+[CreateBG]=00:40:07	BGS	Event01/01-00/01-00-B05/01-00-B05-006	00:45:04;
+
+[PrintText]=00:40:07	Makoto	¿Huh...?^	00:40:19;
+
+[PlayVoice]=00:40:07	Voice01/01-00/01-00-B05/01-00-B05-0150	1	mak	00:40:19;
+
+[PrintText]=00:41:06	Sekai	Pero si la haces llorar, te la vas a ver conmigo.	00:44:23;
+
+[PlayVoice]=00:41:06	Voice01/01-00/01-00-B05/01-00-B05-0160	0	sek	00:44:23;
+
+[CreateBG]=00:45:04	BGS	Event01/01-00/01-00-B05/01-00-B05-007	00:47:20;
+
+[PrintText]=00:45:08	Makoto	Sekai...	00:46:07;
+
+[PlayVoice]=00:45:08	Voice01/01-00/01-00-B05/01-00-B05-0170	1	mak	00:46:07;
+
+[BlackFade]=00:46:20	OUT	00:47:20;
+
+ ;
+
+[Next]=00:47:20;
+
+
+
+

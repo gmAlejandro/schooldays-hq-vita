@@ -1,0 +1,222 @@
+﻿[SkipFRAME]=02:36:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:36:00;
+
+[PlaySe]=00:00:00	5	Se03/03-SA/03-SA-J08/SE03-SA-J08-001	01:39:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-001	00:11:21;
+
+[PrintText]=00:00:00	Chica A	Hey, ¿Crees que realmente venga?^	00:02:13;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-J08/03-SA-J08-0040	0	joa	00:02:13;
+
+[PrintText]=00:03:13	Chica B	¿Quién sabe? Si está interesado lo hará, si no, pues ya ves...	00:07:22;
+
+[PlayVoice]=00:02:13	Voice03/03-SA/03-SA-J08/03-SA-J08-0050	0	job	00:07:22;
+
+[PrintText]=00:07:23	Chica D	¿Qué pasa?^	00:09:09;
+
+[PlayVoice]=00:07:23	Voice03/03-SA/03-SA-J08/03-SA-J08-0060	0	jod	00:09:09;
+
+[PrintText]=00:09:09	Chica B	Esas chicas de la clase 4 tienen algo.	00:11:18;
+
+[PlayVoice]=00:09:09	Voice03/03-SA/03-SA-J08/03-SA-J08-0070	0	job	00:11:18;
+
+[PrintText]=00:11:18	Chica A	¿Conoces a Katsura?^	00:14:16;
+
+[PlayVoice]=00:11:18	Voice03/03-SA/03-SA-J08/03-SA-J08-0080	0	joa	00:14:16;
+
+[CreateBG]=00:11:21	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-002	00:26:07;
+
+[PrintText]=00:14:16	Chica D	Sí, esa chica de los pechos enormes. ¿Qué hay de ella?^	00:18:23;
+
+[PlayVoice]=00:14:19	Voice03/03-SA/03-SA-J08/03-SA-J08-0090	0	jod	00:18:23;
+
+[PrintText]=00:19:21	Chica B	¡Le dijo a las otras chicas que está saliendo con Itou de la clase 3, y ellas quieren pruebas!	00:26:06;
+
+[PlayVoice]=00:18:21	Voice03/03-SA/03-SA-J08/03-SA-J08-0100	0	job	00:26:06;
+
+[CreateBG]=00:26:07	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-003	00:39:11;
+
+[PrintText]=00:27:07	Chica D	¿Itou?^	00:29:01;
+
+[PlayVoice]=00:26:07	Voice03/03-SA/03-SA-J08/03-SA-J08-0110	0	jod	00:29:01;
+
+[PrintText]=00:29:01	Chica A	Ya sabes, el chico que suele andar con Sawanaga.	00:32:01;
+
+[PlayVoice]=00:29:01	Voice03/03-SA/03-SA-J08/03-SA-J08-0120	0	joa	00:32:01;
+
+[PrintText]=00:32:01	Chica D	¿Sawanaga? ¿Ese chico?^	00:34:03;
+
+[PlayVoice]=00:32:01	Voice03/03-SA/03-SA-J08/03-SA-J08-0130	0	jod	00:34:03;
+
+[PrintText]=00:34:04	Chica A	Sí, ese chico que siempre andaba haciendo cosas estúpidas con Shiba en la primaria.	00:39:11;
+
+[PlayVoice]=00:34:04	Voice03/03-SA/03-SA-J08/03-SA-J08-0140	0	joa	00:39:11;
+
+[CreateBG]=00:39:11	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-004	01:20:05;
+
+[PrintText]=00:39:11	Chica B	Que estaba loco por Mori.	00:42:16;
+
+[PlayVoice]=00:39:11	Voice03/03-SA/03-SA-J08/03-SA-J08-0150	0	job	00:49:07;
+
+[PrintText]=00:42:16	Chica B	¿Recuerdas cuando lloró en la graduación cuando escucho que estaba saliendo con Shiba? Eso fue duro.	00:49:07;
+
+[PrintText]=00:49:07	Chica B	Pero olvida a Sawanaga. ¿No crees que Itou es lindo?^	00:54:12;
+
+[PlayVoice]=00:49:07	Voice03/03-SA/03-SA-J08/03-SA-J08-0160	0	job	00:54:12;
+
+[PrintText]=00:54:13	Chica C	¡Sí, Sí! Hay chicas en nuestra clase que también están mirándolo.	00:58:14;
+
+[PlayVoice]=00:54:13	Voice03/03-SA/03-SA-J08/03-SA-J08-0170	0	joc	00:58:14;
+
+[PrintText]=00:58:14	Chica A	No podemos permitir que Katsura esté con él.	01:01:18;
+
+[PlayVoice]=00:58:14	Voice03/03-SA/03-SA-J08/03-SA-J08-0180	0	joa	01:01:18;
+
+[PrintText]=01:01:18	Chica B	Ya lo dijiste. ¡Espero que esté mintiendo... así él es todo mio!	01:05:22;
+
+[PlayVoice]=01:01:18	Voice03/03-SA/03-SA-J08/03-SA-J08-0190	0	job	01:05:22;
+
+[PrintText]=01:05:23	Chica D	¡Whoa, poniendo las cartas en la mesa!	01:07:21;
+
+[PlayVoice]=01:05:23	Voice03/03-SA/03-SA-J08/03-SA-J08-0200	0	jod	01:07:21;
+
+[PlaySe]=01:07:21	1	Voice03/03-SA/03-SA-J08/03-SA-J08-0210jyosiA	01:09:21;
+
+[PlaySe]=01:07:21	2	Voice03/03-SA/03-SA-J08/03-SA-J08-0210jyosiB	01:20:04;
+
+[PlaySe]=01:07:21	3	Voice03/03-SA/03-SA-J08/03-SA-J08-0210jyosiC	01:15:09;
+
+[PlaySe]=01:07:23	4	Voice03/03-SA/03-SA-J08/03-SA-J08-0210jyosiD	01:10:06;
+
+[CreateBG]=01:20:05	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-005	01:21:02;
+
+[PrintText]=01:20:08	Sekai	Ah...	01:21:01;
+
+[PlayVoice]=01:20:08	Voice03/03-SA/03-SA-J08/03-SA-J08-0230	0	sek	01:21:01;
+
+[CreateBG]=01:21:02	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-006	01:40:13;
+
+[PrintText]=01:21:02	Minami	¿Y bien? ¿Cuando vendrá?^	01:24:10;
+
+[PlayVoice]=01:21:02	Voice03/03-SA/03-SA-J08/03-SA-J08-0260	0	min	01:24:10;
+
+[PrintText]=01:24:10	Kotonoha	...	01:25:02;
+
+[PlayVoice]=01:24:10	Voice03/03-SA/03-SA-J08/03-SA-J08-0270	0	xxx	01:25:02;
+
+[PrintText]=01:25:02	Natsumi	Si no sabemos cuando vendrá, no podremos disfrutar del festival.	01:29:15;
+
+[PlayVoice]=01:25:02	Voice03/03-SA/03-SA-J08/03-SA-J08-0280	0	nat	01:29:15;
+
+[PrintText]=01:29:15	Kotonoha	...	01:32:00;
+
+[PlayVoice]=01:29:15	Voice03/03-SA/03-SA-J08/03-SA-J08-0290	0	xxx	01:32:00;
+
+[PrintText]=01:32:00	Kumi	Si nos vamos, entonces no sabremos si él vendrá.	01:36:06;
+
+[PlayVoice]=01:32:00	Voice03/03-SA/03-SA-J08/03-SA-J08-0300	0	kum	01:36:06;
+
+[PrintText]=01:36:06	Natsumi	Uwah. Que pesado.	01:38:17;
+
+[PlayVoice]=01:36:06	Voice03/03-SA/03-SA-J08/03-SA-J08-0310	0	nat	01:38:17;
+
+[PrintText]=01:38:17	Minami	¡¿Es ese tu plan?!	01:40:13;
+
+[PlayVoice]=01:38:17	Voice03/03-SA/03-SA-J08/03-SA-J08-0320	0	min	01:40:13;
+
+[PlaySe]=01:39:13	6	Se03/03-SA/03-SA-J08/SE03-SA-J08-001	02:35:19;
+
+[CreateBG]=01:40:13	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-007	01:42:23;
+
+[PrintText]=01:40:13	Kotonoha	No, no es... así.	01:42:23;
+
+[PlayVoice]=01:40:13	Voice03/03-SA/03-SA-J08/03-SA-J08-0330	0	kot	01:42:23;
+
+[PlayMovie]=01:42:23	Movie03/03-SA/03-SA-J08/03-SA-J08-008	0	02:08:01;
+
+[PrintText]=01:42:23	Minami	¡¿Entonces dónde está él?!	01:44:18;
+
+[PlayVoice]=01:42:23	Voice03/03-SA/03-SA-J08/03-SA-J08-0340	0	min	01:44:18;
+
+[PrintText]=01:44:19	Kotonoha	Probablemente... ocupado.	01:48:09;
+
+[PlayVoice]=01:44:19	Voice03/03-SA/03-SA-J08/03-SA-J08-0350	0	kot	01:48:09;
+
+[PrintText]=01:48:10	Kumi	Tal vez ella no lo invitó. Y nos ha estado mintiendo todo este tiempo.	01:53:16;
+
+[PlayVoice]=01:48:10	Voice03/03-SA/03-SA-J08/03-SA-J08-0370	0	kum	01:53:16;
+
+[PrintText]=01:53:17	Minami	¡¿Todo este tiempo!? Si en realidad no lo has invitado, pagarás por eso.	02:00:10;
+
+[PlayVoice]=01:53:17	Voice03/03-SA/03-SA-J08/03-SA-J08-0380	0	min	02:00:10;
+
+[PrintText]=02:00:10	Kotonoha	Lo he invitado... lo hice. Estoy segura... que él tiene cosas que hacer.	02:08:01;
+
+[PlayVoice]=02:00:10	Voice03/03-SA/03-SA-J08/03-SA-J08-0390	0	kot	02:08:01;
+
+[CreateBG]=02:08:01	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-009	02:19:13;
+
+[PrintText]=02:08:01	Kumi	¿Cómo qué, huh?^	02:10:05;
+
+[PlayVoice]=02:08:01	Voice03/03-SA/03-SA-J08/03-SA-J08-0400	0	kum	02:10:05;
+
+[PrintText]=02:10:05	Kotonoha	Yo... no lo sé.	02:14:11;
+
+[PlayVoice]=02:10:05	Voice03/03-SA/03-SA-J08/03-SA-J08-0410	0	kot	02:14:11;
+
+[PrintText]=02:14:12	Minami	¡Vale, me está sacando de mis casillas!	02:17:22;
+
+[PlayVoice]=02:14:12	Voice03/03-SA/03-SA-J08/03-SA-J08-0420	0	min	02:17:22;
+
+[PrintText]=02:17:21	Kotonoha	...	02:19:12;
+
+[PlayVoice]=02:17:21	Voice03/03-SA/03-SA-J08/03-SA-J08-0430	0	xxx	02:19:12;
+
+[PlayMovie]=02:19:13	Movie03/03-SA/03-SA-J08/03-SA-J08-010	0	02:31:18;
+
+[PrintText]=02:19:13	Otome	...Hey, Katsura.	02:22:05;
+
+[PlayVoice]=02:19:13	Voice03/03-SA/03-SA-J08/03-SA-J08-0440	0	oto	02:22:05;
+
+[PrintText]=02:22:05	Kotonoha	¿Sí...?^	02:23:04;
+
+[PlayVoice]=02:22:05	Voice03/03-SA/03-SA-J08/03-SA-J08-0450	0	kot	02:23:04;
+
+[PrintText]=02:23:05	Otome	¿No crees que es suficiente?^	02:25:07;
+
+[PlayVoice]=02:23:05	Voice03/03-SA/03-SA-J08/03-SA-J08-0460	0	oto	02:25:07;
+
+[PrintText]=02:25:06	Kotonoha	¿Disculpa?^	02:26:16;
+
+[PlayVoice]=02:25:06	Voice03/03-SA/03-SA-J08/03-SA-J08-0470	0	kot	02:26:16;
+
+[PrintText]=02:26:16	Otome	Solo admítelo. Itou y tú no son pareja.	02:30:18;
+
+[PlayVoice]=02:26:16	Voice03/03-SA/03-SA-J08/03-SA-J08-0480	0	oto	02:30:18;
+
+[PrintText]=02:30:18	Kotonoha	¡¿..?!	02:31:17;
+
+[PlayVoice]=02:30:18	Voice03/03-SA/03-SA-J08/03-SA-J08-0490	0	kot	02:31:17;
+
+[CreateBG]=02:31:18	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-011	02:34:07;
+
+[PrintText]=02:31:18	Otome	Todos aquí saben que estás mintiendo.	02:34:07;
+
+[PlayVoice]=02:31:18	Voice03/03-SA/03-SA-J08/03-SA-J08-0500	0	oto	02:34:07;
+
+[CreateBG]=02:34:07	BGS	Event03/03-SA/03-SA-J08/03-SA-J08-012	02:36:00;
+
+[PrintText]=02:34:07	Minami	Sí.	02:35:07;
+
+[PlayVoice]=02:34:07	Voice03/03-SA/03-SA-J08/03-SA-J08-0510	0	min	02:35:07;
+
+[PrintText]=02:35:08	Natsumi	Uh-huh.	02:36:00;
+
+[PlayVoice]=02:35:08	Voice03/03-SA/03-SA-J08/03-SA-J08-0520	0	nat	02:36:00;
+
+ ;
+
+[Next]=02:36:00;
+

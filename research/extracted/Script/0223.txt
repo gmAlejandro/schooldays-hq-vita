@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:04:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:10:19;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-G00/SE02-2K-G00-001	00:10:19;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-G00/02-2K-G00-001	00:10:19;
+
+[PrintText]=00:00:00	Kotonoha	Es cierto... tenemos que volver a clases.	00:04:11;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-G00/02-2K-G00-0030	0	kot	00:04:11;
+
+[PrintText]=00:04:11	Makoto	¿Eh...?^	00:05:02;
+
+[PlayVoice]=00:04:11	Voice02/02-2K/02-2K-G00/02-2K-G00-0040	1	mak	00:05:02;
+
+[SetSELECT]=00:04:17	'Aún tenemos tiempo'	*Ir a clases*	00:09:17;
+
+ ;
+
+[Next]=00:10:19;
+
+
+
+

@@ -1,0 +1,209 @@
+﻿[SkipFRAME]=01:47:06;
+
+[PlaySe]=00:00:00	1	Voice04/04-SA/04-SA-G00/04-SA-G00-0040	00:03:22;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/kyousitu_rouka	01:47:06;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-001	00:04:08;
+
+[CreateBG]=00:04:08	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-002	00:07:01;
+
+[PrintText]=00:05:13	Kotonoha	...	00:06:07;
+
+[PlayVoice]=00:05:13	Voice04/04-SA/04-SA-G00/04-SA-G00-0050	0	xxx	00:06:07;
+
+[CreateBG]=00:07:01	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-003	00:11:12;
+
+[PrintText]=00:07:10	Taisuke	¿Ah... Katsura-san?^	00:09:15;
+
+[PlayVoice]=00:07:10	Voice04/04-SA/04-SA-G00/04-SA-G00-0070	1	tai	00:09:15;
+
+[PrintText]=00:10:15	Taisuke	Katsura-san.	00:11:15;
+
+[PlayVoice]=00:10:15	Voice04/04-SA/04-SA-G00/04-SA-G00-0100	1	tai	00:11:15;
+
+[CreateBG]=00:11:12	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-004	00:16:12;
+
+[PrintText]=00:11:19	Kotonoha	Ah...	00:12:12;
+
+[PlayVoice]=00:11:19	Voice04/04-SA/04-SA-G00/04-SA-G00-0110	0	kot	00:12:12;
+
+[PrintText]=00:12:22	Taisuke	Soy Sawanaga de la clase 3... ¿Me recuerdas?^	00:15:10;
+
+[PlayVoice]=00:12:22	Voice04/04-SA/04-SA-G00/04-SA-G00-0120	1	tai	00:15:10;
+
+[PrintText]=00:15:10	Kotonoha	Sí.	00:16:12;
+
+[PlayVoice]=00:15:10	Voice04/04-SA/04-SA-G00/04-SA-G00-0130	0	kot	00:16:12;
+
+[CreateBG]=00:16:12	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-005	00:18:20;
+
+[PrintText]=00:16:20	Taisuke	¿... Puedo comer contigo?^	00:18:19;
+
+[PlayVoice]=00:16:20	Voice04/04-SA/04-SA-G00/04-SA-G00-0150	1	tai	00:18:19;
+
+[CreateBG]=00:18:20	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-006	00:22:00;
+
+[PrintText]=00:19:02	Kotonoha	Claro, adelante.	00:21:04;
+
+[PlayVoice]=00:19:02	Voice04/04-SA/04-SA-G00/04-SA-G00-0160	0	kot	00:21:04;
+
+[CreateBG]=00:22:00	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-008	00:38:21;
+
+[PrintText]=00:23:03	Taisuke	Ha pasado tiempo desde la ultima vez que te vi, se siente un poco nostálgico.	00:26:11;
+
+[PlayVoice]=00:23:03	Voice04/04-SA/04-SA-G00/04-SA-G00-0180	1	tai	00:26:11;
+
+[PrintText]=00:26:11	Kotonoha	Sí, ya veo.	00:27:17;
+
+[PlayVoice]=00:26:11	Voice04/04-SA/04-SA-G00/04-SA-G00-0190	0	kot	00:27:17;
+
+[PrintText]=00:27:18	Taisuke	¿Siempre sueles comer aquí en la cafetería?^	00:29:14;
+
+[PlayVoice]=00:27:18	Voice04/04-SA/04-SA-G00/04-SA-G00-0200	1	tai	00:29:14;
+
+[PrintText]=00:29:13	Kotonoha	¿Eh? Sí...	00:31:02;
+
+[PlayVoice]=00:29:13	Voice04/04-SA/04-SA-G00/04-SA-G00-0210	0	kot	00:31:02;
+
+[PrintText]=00:31:02	Taisuke	Yo también. Pero no te veía por aquí seguido.	00:34:06;
+
+[PlayVoice]=00:31:02	Voice04/04-SA/04-SA-G00/04-SA-G00-0220	1	tai	00:34:06;
+
+[PrintText]=00:34:05	Kotonoha	A veces solo compro pan.	00:36:03;
+
+[PlayVoice]=00:34:05	Voice04/04-SA/04-SA-G00/04-SA-G00-0230	0	kot	00:36:03;
+
+[PrintText]=00:36:04	Taisuke	La competencia es muy dura aquí ¿No?^	00:38:20;
+
+[PlayVoice]=00:36:04	Voice04/04-SA/04-SA-G00/04-SA-G00-0240	1	tai	00:38:20;
+
+[CreateBG]=00:38:21	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-009	00:45:19;
+
+[PrintText]=00:39:05	Kotonoha	Oh, no. Lo compro de una tienda en la mañana...	00:44:13;
+
+[PlayVoice]=00:39:05	Voice04/04-SA/04-SA-G00/04-SA-G00-0250	0	kot	00:44:13;
+
+[PrintText]=00:44:13	Taisuke	Ah... Ya veo.	00:45:23;
+
+[PlayVoice]=00:44:13	Voice04/04-SA/04-SA-G00/04-SA-G00-0260	1	tai	00:45:23;
+
+[CreateBG]=00:45:19	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-010	00:50:19;
+
+[PrintText]=00:46:07	Kotonoha	...	00:48:10;
+
+[PlayVoice]=00:46:07	Voice04/04-SA/04-SA-G00/04-SA-G00-0270	0	xxx	00:48:10;
+
+[PrintText]=00:48:11	Taisuke	...	00:49:13;
+
+[PlayVoice]=00:48:11	Voice04/04-SA/04-SA-G00/04-SA-G00-0280	1	xxx	00:49:13;
+
+[PrintText]=00:49:15	Kotonoha	...	00:50:17;
+
+[PlayVoice]=00:49:15	Voice04/04-SA/04-SA-G00/04-SA-G00-0290	0	xxx	00:50:17;
+
+[CreateBG]=00:50:19	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-011	01:03:07;
+
+[PrintText]=00:51:03	Taisuke	¡H-hey, escucha!	00:53:03;
+
+[PlayVoice]=00:51:03	Voice04/04-SA/04-SA-G00/04-SA-G00-0300	1	tai	00:53:03;
+
+[PrintText]=00:53:05	Kotonoha	¿Si?^	00:54:00;
+
+[PlayVoice]=00:53:05	Voice04/04-SA/04-SA-G00/04-SA-G00-0310	0	kot	00:54:00;
+
+[PrintText]=00:54:02	Taisuke	¿Estás libre este fin de semana?^	00:56:22;
+
+[PlayVoice]=00:54:02	Voice04/04-SA/04-SA-G00/04-SA-G00-0320	1	tai	00:56:22;
+
+[PrintText]=00:56:21	Kotonoha	¿Eh...?^	00:57:11;
+
+[PlayVoice]=00:56:21	Voice04/04-SA/04-SA-G00/04-SA-G00-0330	0	kot	00:57:11;
+
+[PrintText]=00:57:19	Taisuke	La cosa es, tengo unas entradas a la piscina, y me preguntaba si te gustaría ir... ya sabes.	01:03:10;
+
+[PlayVoice]=00:57:19	Voice04/04-SA/04-SA-G00/04-SA-G00-0340	1	tai	01:03:10;
+
+[CreateBG]=01:03:07	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-012	01:07:06;
+
+[PrintText]=01:03:15	Kotonoha	¿La piscina? Oh, no... yo...	01:07:10;
+
+[PlayVoice]=01:03:15	Voice04/04-SA/04-SA-G00/04-SA-G00-0350	0	kot	01:07:10;
+
+[CreateBG]=01:07:06	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-013	01:29:21;
+
+[PrintText]=01:07:13	Taisuke	Sabes del balneario en Sakakino Hills ¿No? Tengo unas entradas para esa, ¿Por qué no vamos?^	01:14:12;
+
+[PlayVoice]=01:07:13	Voice04/04-SA/04-SA-G00/04-SA-G00-0370	1	tai	01:14:12;
+
+[PrintText]=01:14:11	Kotonoha	...	01:16:02;
+
+[PlayVoice]=01:14:11	Voice04/04-SA/04-SA-G00/04-SA-G00-0380	0	xxx	01:16:02;
+
+[PrintText]=01:16:05	Taisuke	P-Por supuesto, no creas que solo los dos, no es así. También vienen unos amigos.	01:22:20;
+
+[PlayVoice]=01:16:05	Voice04/04-SA/04-SA-G00/04-SA-G00-0390	1	tai	01:22:20;
+
+[PrintText]=01:23:02	Taisuke	Mencionaste que conoces a Makoto y a Saionji, ¿No?^	01:27:02;
+
+[PlayVoice]=01:23:02	Voice04/04-SA/04-SA-G00/04-SA-G00-0391	1	tai	01:27:02;
+
+[PrintText]=01:27:01	Kotonoha	Sí.	01:27:22;
+
+[PlayVoice]=01:27:01	Voice04/04-SA/04-SA-G00/04-SA-G00-0400	0	kot	01:27:22;
+
+[PrintText]=01:27:22	Taisuke	Ellos también vienen ¿Qué te parece?^	01:30:00;
+
+[PlayVoice]=01:27:22	Voice04/04-SA/04-SA-G00/04-SA-G00-0410	1	tai	01:30:00;
+
+[CreateBG]=01:29:21	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-014	01:31:12;
+
+[PrintText]=01:30:05	Kotonoha	¿Makoto-kun, también...?^	01:31:13;
+
+[PlayVoice]=01:30:05	Voice04/04-SA/04-SA-G00/04-SA-G00-0420	0	kot	01:31:13;
+
+[CreateBG]=01:31:12	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-015	01:40:00;
+
+[PrintText]=01:31:19	Taisuke	Sí, será solo personas que conoces, para que puedas estar tranquila.	01:36:02;
+
+[PlayVoice]=01:31:19	Voice04/04-SA/04-SA-G00/04-SA-G00-0430	1	tai	01:36:02;
+
+[PrintText]=01:36:00	Kotonoha	Sí, es verdad.	01:37:13;
+
+[PlayVoice]=01:36:00	Voice04/04-SA/04-SA-G00/04-SA-G00-0440	0	kot	01:37:13;
+
+[PrintText]=01:37:14	Taisuke	¿Entonces vienes?^	01:39:08;
+
+[PlayVoice]=01:37:14	Voice04/04-SA/04-SA-G00/04-SA-G00-0450	1	tai	01:39:08;
+
+[PrintText]=01:39:09	Kotonoha	Sí.	01:40:02;
+
+[PlayVoice]=01:39:09	Voice04/04-SA/04-SA-G00/04-SA-G00-0460	0	kot	01:40:02;
+
+[CreateBG]=01:40:00	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-016	01:41:06;
+
+[PrintText]=01:40:05	Taisuke	¡Genial!	01:41:08;
+
+[PlayVoice]=01:40:05	Voice04/04-SA/04-SA-G00/04-SA-G00-0470	1	tai	01:41:08;
+
+[CreateBG]=01:41:06	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-017	01:43:01;
+
+[PrintText]=01:41:09	Kotonoha	Makoto-kun...	01:42:14;
+
+[PlayVoice]=01:41:09	Voice04/04-SA/04-SA-G00/04-SA-G00-0480	0	kot	01:42:14;
+
+[CreateBG]=01:43:01	BGS	Event04/04-SA/04-SA-G00/04-SA-G00-018	01:47:06;
+
+[PrintText]=01:43:08	Taisuke	Es el fin de semana, nos vemos entonces.	01:45:23;
+
+[PlayVoice]=01:43:08	Voice04/04-SA/04-SA-G00/04-SA-G00-0490	1	tai	01:45:23;
+
+[PrintText]=01:45:23	Kotonoha	Está bien.	01:46:15;
+
+[PlayVoice]=01:45:23	Voice04/04-SA/04-SA-G00/04-SA-G00-0510	0	kot	01:46:15;
+
+ ;
+
+[Next]=01:47:06;
+
+

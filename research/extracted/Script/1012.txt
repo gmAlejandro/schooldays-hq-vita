@@ -1,0 +1,229 @@
+﻿[SkipFRAME]=02:13:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	02:13:19;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-001	00:01:04;
+
+[PlayVoice]=00:00:08	Voice04/04-KC/04-KC-B08/04-KC-B08-0040			00:01:04;
+
+[PlaySe]=00:00:20	1	SysSe/SE_all/action/hirate	00:01:11;
+
+[CreateBG]=00:01:04	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-002	00:01:23;
+
+[PrintText]=00:01:04	Makoto	Ah...	00:01:22;
+
+[PlayVoice]=00:01:04	Voice04/04-KC/04-KC-B08/04-KC-B08-0050	1	mak	00:01:22;
+
+[PrintText]=00:01:22	Kotonoha	Haah... haah...	00:05:21;
+
+[PlayVoice]=00:01:22	Voice04/04-KC/04-KC-B08/04-KC-B08-0070	0	kot	00:05:21;
+
+[CreateBG]=00:01:23	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-003	00:05:21;
+
+[PrintText]=00:05:20	Makoto	Um...	00:07:11;
+
+[PlayVoice]=00:05:20	Voice04/04-KC/04-KC-B08/04-KC-B08-0080	1	mak	00:07:11;
+
+[CreateBG]=00:05:21	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-004	00:09:19;
+
+[PrintText]=00:07:11	Kotonoha	...	00:10:19;
+
+[PlayVoice]=00:07:11	Voice04/04-KC/04-KC-B08/04-KC-B08-0090	0	xxx	00:10:19;
+
+[CreateBG]=00:09:19	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-005	00:10:20;
+
+[PrintText]=00:10:19	Makoto	...Perdón.	00:11:17;
+
+[PlayVoice]=00:10:19	Voice04/04-KC/04-KC-B08/04-KC-B08-0110	1	mak	00:11:17;
+
+[CreateBG]=00:10:20	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-006	00:24:18;
+
+[PrintText]=00:11:17	Kotonoha	Ah... um... Yo... fue instinto...	00:21:10;
+
+[PlayVoice]=00:11:17	Voice04/04-KC/04-KC-B08/04-KC-B08-0130	0	kot	00:21:10;
+
+[PrintText]=00:21:10	Makoto	No...	00:22:05;
+
+[PlayVoice]=00:21:10	Voice04/04-KC/04-KC-B08/04-KC-B08-0150	1	mak	00:22:05;
+
+[PrintText]=00:22:05	Kotonoha	...Lo siento.	00:23:21;
+
+[PlayVoice]=00:22:05	Voice04/04-KC/04-KC-B08/04-KC-B08-0160	0	kot	00:23:21;
+
+[PrintText]=00:23:21	Makoto	...	00:24:17;
+
+[PlayVoice]=00:23:21	Voice04/04-KC/04-KC-B08/04-KC-B08-0170	1	xxx	00:24:17;
+
+[PrintText]=00:24:17	Kotonoha	Ah...	00:25:15;
+
+[PlayVoice]=00:24:17	Voice04/04-KC/04-KC-B08/04-KC-B08-0190	0	kot	00:25:15;
+
+[CreateBG]=00:24:18	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-007	00:27:08;
+
+[CreateBG]=00:27:08	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-008	00:28:08;
+
+[CreateBG]=00:28:08	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-009	00:38:02;
+
+[PrintText]=00:28:08	Sekai	Makoto.	00:29:08;
+
+[PlayVoice]=00:28:08	Voice04/04-KC/04-KC-B08/04-KC-B08-0230	0	sek	00:29:08;
+
+[PrintText]=00:29:08	Taisuke	¿Qué pasó? ¿Intentaste hacer un movimiento con ella y terminaste aporreado?^	00:33:13;
+
+[PlayVoice]=00:29:08	Voice04/04-KC/04-KC-B08/04-KC-B08-0240	1	tai	00:33:13;
+
+[PrintText]=00:33:12	Makoto	Cállate.	00:34:17;
+
+[PlayVoice]=00:33:12	Voice04/04-KC/04-KC-B08/04-KC-B08-0250	1	mak	00:34:17;
+
+[PrintText]=00:34:16	Taisuke	¿Lo ves? ¡Uwahaha!	00:38:01;
+
+[PlayVoice]=00:34:16	Voice04/04-KC/04-KC-B08/04-KC-B08-0260	1	tai	00:38:01;
+
+[PrintText]=00:38:01	Makoto	Vamos, piérdete.	00:39:15;
+
+[PlayVoice]=00:38:01	Voice04/04-KC/04-KC-B08/04-KC-B08-0270	1	mak	00:39:15;
+
+[CreateBG]=00:38:02	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-010	00:39:16;
+
+[PrintText]=00:39:15	Taisuke	Sí, Sí. Hora de cambiar.	00:42:05;
+
+[PlayVoice]=00:39:15	Voice04/04-KC/04-KC-B08/04-KC-B08-0280	1	tai	00:42:05;
+
+[CreateBG]=00:39:16	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-011	00:43:03;
+
+[PrintText]=00:42:05	Makoto	...	00:43:03;
+
+[PlayVoice]=00:42:05	Voice04/04-KC/04-KC-B08/04-KC-B08-0300	1	xxx	00:43:03;
+
+[PrintText]=00:43:02	Sekai	Sawanaga me estaba hablando de su hermana... fue muy divertido.	00:48:19;
+
+[PlayVoice]=00:43:02	Voice04/04-KC/04-KC-B08/04-KC-B08-0310	0	sek	00:48:19;
+
+[CreateBG]=00:43:03	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-012	01:11:08;
+
+[PrintText]=00:48:18	Makoto	Ese Siscon.	00:51:02;
+
+[PlayVoice]=00:48:18	Voice04/04-KC/04-KC-B08/04-KC-B08-0320	1	mak	00:51:02;
+
+[PrintText]=00:51:02	Sekai	Si. Todo fue como un 'Amor de hermana'. Sin embargo, ella tiene un novio, por lo que ya está perdido.	00:59:09;
+
+[PlayVoice]=00:51:02	Voice04/04-KC/04-KC-B08/04-KC-B08-0330	0	sek	00:59:09;
+
+[PrintText]=00:59:10	Makoto	Sería un problema si no fuera así.	01:01:10;
+
+[PlayVoice]=00:59:10	Voice04/04-KC/04-KC-B08/04-KC-B08-0340	1	mak	01:01:10;
+
+[PrintText]=01:01:10	Sekai	Ahaha, tienes razón en eso.	01:03:23;
+
+[PlayVoice]=01:01:10	Voice04/04-KC/04-KC-B08/04-KC-B08-0350	0	sek	01:03:23;
+
+[PrintText]=01:03:23	Makoto	...	01:04:14;
+
+[PlayVoice]=01:03:23	Voice04/04-KC/04-KC-B08/04-KC-B08-0360	1	xxx	01:04:14;
+
+[PrintText]=01:04:14	Sekai	¿... Sawanaga estaba diciendo la verdad?^	01:08:15;
+
+[PlayVoice]=01:04:14	Voice04/04-KC/04-KC-B08/04-KC-B08-0370	0	sek	01:08:15;
+
+[PrintText]=01:08:16	Makoto	¿Eh? ¿De su hermana?^	01:11:07;
+
+[PlayVoice]=01:08:16	Voice04/04-KC/04-KC-B08/04-KC-B08-0380	1	mak	01:11:07;
+
+[PrintText]=01:11:07	Sekai	No, de que estabas haciendo cosas indecentes con Katsura-san...	01:16:02;
+
+[PlayVoice]=01:11:07	Voice04/04-KC/04-KC-B08/04-KC-B08-0390	0	sek	01:16:02;
+
+[CreateBG]=01:11:08	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-013	01:27:22;
+
+[PrintText]=01:16:01	Makoto	Si. No iba a tocarla, pero... sucedió. No puedo negarlo. La toqué con mi mano.	01:27:21;
+
+[PlayVoice]=01:16:01	Voice04/04-KC/04-KC-B08/04-KC-B08-0400	1	mak	01:27:21;
+
+[PrintText]=01:27:21	Sekai	Ya veo... y ¿Cómo estaban?^	01:31:02;
+
+[PlayVoice]=01:27:21	Voice04/04-KC/04-KC-B08/04-KC-B08-0410	0	sek	01:31:02;
+
+[CreateBG]=01:27:22	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-014	01:39:03;
+
+[PrintText]=01:31:03	Makoto	¿Cómo estaban qué?^	01:32:11;
+
+[PlayVoice]=01:31:03	Voice04/04-KC/04-KC-B08/04-KC-B08-0420	1	mak	01:32:11;
+
+[PrintText]=01:32:11	Sekai	Sus senos. Son enormes ¿No?^	01:35:17;
+
+[PlayVoice]=01:32:11	Voice04/04-KC/04-KC-B08/04-KC-B08-0430	0	sek	01:35:17;
+
+[PrintText]=01:35:16	Makoto	Importa poco, si no puedo tocarlas...	01:39:03;
+
+[PlayVoice]=01:35:16	Voice04/04-KC/04-KC-B08/04-KC-B08-0440	1	mak	01:39:03;
+
+[CreateBG]=01:39:03	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-013	01:43:08;
+
+[PrintText]=01:39:03	Sekai	Entonces, ella no te dejo.	01:41:08;
+
+[PlayVoice]=01:39:03	Voice04/04-KC/04-KC-B08/04-KC-B08-0450	0	sek	01:41:08;
+
+[PrintText]=01:41:08	Makoto	Ah... no.	01:43:08;
+
+[PlayVoice]=01:41:08	Voice04/04-KC/04-KC-B08/04-KC-B08-0460	1	mak	01:43:08;
+
+[CreateBG]=01:43:08	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-016	01:56:06;
+
+[PrintText]=01:43:08	Sekai	Seguro es ingenua con cosas así.	01:46:14;
+
+[PlayVoice]=01:43:08	Voice04/04-KC/04-KC-B08/04-KC-B08-0470	0	sek	01:46:14;
+
+[PrintText]=01:46:13	Makoto	No es ingenua, Es solo que... no lo sé. No tiene que actuar como si no lo odiara...	01:53:12;
+
+[PlayVoice]=01:46:13	Voice04/04-KC/04-KC-B08/04-KC-B08-0490	1	mak	01:53:12;
+
+[PrintText]=01:53:12	Sekai	...	01:54:02;
+
+[PlayVoice]=01:53:12	Voice04/04-KC/04-KC-B08/04-KC-B08-0500	0	xxx	01:54:02;
+
+[PrintText]=01:54:02	Makoto	Haah...	01:55:01;
+
+[PlayVoice]=01:54:02	Voice04/04-KC/04-KC-B08/04-KC-B08-0510	1	mak	01:55:01;
+
+[PrintText]=01:55:02	Sekai	...	01:55:12;
+
+[PlayVoice]=01:55:02	Voice04/04-KC/04-KC-B08/04-KC-B08-0520	0	xxx	01:55:12;
+
+[PrintText]=01:55:12	Makoto	...	01:56:05;
+
+[PlayVoice]=01:55:12	Voice04/04-KC/04-KC-B08/04-KC-B08-0530	1	xxx	01:56:05;
+
+[CreateBG]=01:56:06	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-017	02:06:10;
+
+[PrintText]=01:56:06	Sekai	Estás cansado ¿No?^	01:58:23;
+
+[PlayVoice]=01:56:06	Voice04/04-KC/04-KC-B08/04-KC-B08-0550	0	sek	01:58:23;
+
+[PrintText]=01:58:23	Makoto	¿Eh?^	01:59:16;
+
+[PlayVoice]=01:58:23	Voice04/04-KC/04-KC-B08/04-KC-B08-0560	1	mak	01:59:16;
+
+[PrintText]=01:59:15	Sekai	Me siento triste desde que Setsuna se fue... pero te ves peor que yo.	02:06:09;
+
+[PlayVoice]=01:59:15	Voice04/04-KC/04-KC-B08/04-KC-B08-0570	0	sek	02:06:09;
+
+[CreateBG]=02:06:10	BGS	Event04/04-KC/04-KC-B08/04-KC-B08-018	02:13:19;
+
+[PrintText]=02:06:10	Makoto	¿En serio?^	02:07:22;
+
+[PlayVoice]=02:06:10	Voice04/04-KC/04-KC-B08/04-KC-B08-0580	1	mak	02:07:22;
+
+[PrintText]=02:07:22	Sekai	Tú... pareces del tipo que no hablan de las cosas que le molestan.	02:13:03;
+
+[PlayVoice]=02:07:22	Voice04/04-KC/04-KC-B08/04-KC-B08-0590	0	sek	02:13:03;
+
+[PrintText]=02:13:03	Makoto	...	02:13:18;
+
+[PlayVoice]=02:13:03	Voice04/04-KC/04-KC-B08/04-KC-B08-0600	1	xxx	02:13:18;
+
+ ;
+
+[Next]=02:13:19;
+
+

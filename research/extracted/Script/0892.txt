@@ -1,0 +1,99 @@
+﻿[SkipFRAME]=01:20:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	01:20:12;
+
+[PlaySe]=00:00:00	1	Se04/04-C1/04-C1-A03/SE04-C1-A03-001	00:30:00;
+
+[PlayMovie]=00:00:00	Movie04/04-C1/04-C1-A03/04-C1-A03-001	0	00:13:08;
+
+[PrintText]=00:00:03	Kotonoha	Ah... haah... haah...	00:05:06;
+
+[PlayVoice]=00:00:03	Voice04/04-C1/04-C1-A03/04-C1-A03-0030	0	kot	00:05:06;
+
+[PrintText]=00:06:03	Kotonoha	Haah... haah...	00:10:10;
+
+[PlayVoice]=00:06:03	Voice04/04-C1/04-C1-A03/04-C1-A03-0040	0	kot	00:10:10;
+
+[PrintText]=00:11:03	Kotonoha	Ah... aah... ah...	00:16:05;
+
+[PlayVoice]=00:11:03	Voice04/04-C1/04-C1-A03/04-C1-A03-0050	0	kot	00:16:05;
+
+[PlayMovie]=00:13:08	Movie04/04-C1/04-C1-A03/04-C1-A03-002	0	00:21:20;
+
+[PrintText]=00:16:21	Kotonoha	Makoto-kun... Makoto-kun...	00:20:02;
+
+[PlayVoice]=00:16:21	Voice04/04-C1/04-C1-A03/04-C1-A03-0070	0	kot	00:20:02;
+
+[PrintText]=00:20:03	Kotonoha	Nn... haah... haah...	00:25:16;
+
+[PlayVoice]=00:20:03	Voice04/04-C1/04-C1-A03/04-C1-A03-0080	0	kot	00:25:16;
+
+[PlayMovie]=00:21:20	Movie04/04-C1/04-C1-A03/04-C1-A03-001	0	00:35:04;
+
+[PrintText]=00:26:01	Kotonoha	Te amo...! Makoto-kun... Te amo..!	00:30:18;
+
+[PlayVoice]=00:26:01	Voice04/04-C1/04-C1-A03/04-C1-A03-0090	0	kot	00:30:18;
+
+[PlaySe]=00:29:11	2	Se04/04-C1/04-C1-A03/SE04-C1-A03-001	00:59:11;
+
+[PrintText]=00:31:08	Kotonoha	Ah...! No...	00:37:13;
+
+[PlayVoice]=00:31:08	Voice04/04-C1/04-C1-A03/04-C1-A03-0110	0	kot	00:37:13;
+
+[PlayMovie]=00:35:04	Movie04/04-C1/04-C1-A03/04-C1-A03-002	0	00:43:16;
+
+[PrintText]=00:37:17	Kotonoha	Lo haré...por ti...	00:42:05;
+
+[PlayVoice]=00:37:17	Voice04/04-C1/04-C1-A03/04-C1-A03-0120	0	kot	00:42:05;
+
+[PrintText]=00:42:08	Kotonoha	Así que... hazlo por mí... también...	00:47:11;
+
+[PlayVoice]=00:42:08	Voice04/04-C1/04-C1-A03/04-C1-A03-0130	0	kot	00:47:11;
+
+[PlayMovie]=00:43:16	Movie04/04-C1/04-C1-A03/04-C1-A03-001	0	00:57:00;
+
+[PrintText]=00:47:18	Kotonoha	Por mí...	00:53:02;
+
+[PlayVoice]=00:47:18	Voice04/04-C1/04-C1-A03/04-C1-A03-0140	0	kot	00:53:02;
+
+[PrintText]=00:53:10	Kotonoha	Ha... haah... haah...	00:57:00;
+
+[PlayVoice]=00:53:10	Voice04/04-C1/04-C1-A03/04-C1-A03-0150	0	kot	00:57:00;
+
+[PlayMovie]=00:56:18	Movie04/04-C1/04-C1-A03/04-C1-A03-002	0	01:05:06;
+
+[PrintText]=00:57:05	Kotonoha	Haah... haah...	01:02:05;
+
+[PlayVoice]=00:57:05	Voice04/04-C1/04-C1-A03/04-C1-A03-0170	0	kot	01:02:05;
+
+[PlaySe]=00:59:03	1	Se04/04-C1/04-C1-A03/SE04-C1-A03-001	01:20:12;
+
+[PrintText]=01:02:01	Kotonoha	Makoto-kun... Makoto-kun...	01:06:03;
+
+[PlayVoice]=01:02:01	Voice04/04-C1/04-C1-A03/04-C1-A03-0180	0	kot	01:06:03;
+
+[PlayMovie]=01:05:06	Movie04/04-C1/04-C1-A03/04-C1-A03-007	0	01:16:10;
+
+[PrintText]=01:05:21	Kotonoha	Nn...	01:07:02;
+
+[PlayVoice]=01:05:21	Voice04/04-C1/04-C1-A03/04-C1-A03-0190	0	kot	01:07:02;
+
+[PrintText]=01:08:00	Kotonoha	...!	01:09:18;
+
+[PlayVoice]=01:08:00	Voice04/04-C1/04-C1-A03/04-C1-A03-0210	0	kot	01:09:18;
+
+[PrintText]=01:10:12	Kotonoha	Haah... haah...	01:17:06;
+
+[PlayVoice]=01:10:12	Voice04/04-C1/04-C1-A03/04-C1-A03-0230	0	kot	01:17:06;
+
+[CreateBG]=01:16:11	BGS	System/Screen/Black	01:20:12;
+
+[PrintText]=01:18:05	Kotonoha	Makoto-kun...	01:19:18;
+
+[PlayVoice]=01:18:05	Voice04/04-C1/04-C1-A03/04-C1-A03-0240	0	kot	01:19:18;
+
+ ;
+
+[Next]=01:20:12;
+
+

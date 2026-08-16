@@ -1,0 +1,231 @@
+﻿[SkipFRAME]=01:53:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:14:02;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-001	00:10:01;
+
+[PrintText]=00:01:01	Makoto	Al parecer estás sangrando un poco.	00:03:19;
+
+[PlayVoice]=00:01:01	Voice05/05-5H/05-5H-C08/05-5H-C08-0050	1	mak	00:03:19;
+
+[PrintText]=00:03:21	Hikari	Uh-huh.	00:04:16;
+
+[PlayVoice]=00:03:21	Voice05/05-5H/05-5H-C08/05-5H-C08-0060	0	hik	00:04:16;
+
+[PrintText]=00:04:20	Makoto	¿Te dolió?^	00:05:18;
+
+[PlayVoice]=00:04:20	Voice05/05-5H/05-5H-C08/05-5H-C08-0070	1	mak	00:05:18;
+
+[PrintText]=00:06:00	Hikari	No mucho... pero...	00:09:20;
+
+[PlayVoice]=00:06:00	Voice05/05-5H/05-5H-C08/05-5H-C08-0080	0	hik	00:09:20;
+
+[PlayMovie]=00:10:01	Movie05/05-5H/05-5H-C08/05-5H-C08-002	0	00:29:18;
+
+[PrintText]=00:10:02	Makoto	¿Pero?^	00:11:04;
+
+[PlayVoice]=00:10:02	Voice05/05-5H/05-5H-C08/05-5H-C08-0090	1	mak	00:11:04;
+
+[PrintText]=00:11:05	Hikari	Fue sorprendente.	00:13:08;
+
+[PlayVoice]=00:11:05	Voice05/05-5H/05-5H-C08/05-5H-C08-0100	0	hik	00:13:08;
+
+[PrintText]=00:13:16	Makoto	¿Por qué?^	00:14:15;
+
+[PlayVoice]=00:13:16	Voice05/05-5H/05-5H-C08/05-5H-C08-0110	1	mak	00:14:15;
+
+[PrintText]=00:15:00	Hikari	...se sintió MUY BIEN.	00:19:20;
+
+[PlayVoice]=00:15:00	Voice05/05-5H/05-5H-C08/05-5H-C08-0120	0	hik	00:19:20;
+
+[PrintText]=00:19:07	Makoto	¡Haha!	00:21:02;
+
+[PlayVoice]=00:19:07	Voice05/05-5H/05-5H-C08/05-5H-C08-0130	1	mak	00:21:02;
+
+[PrintText]=00:21:03	Hikari	La razón por la que todos tienen sexo... es porque se siente muy bien.	00:25:19;
+
+[PlayVoice]=00:21:03	Voice05/05-5H/05-5H-C08/05-5H-C08-0140	0	hik	00:25:19;
+
+[PrintText]=00:25:15	Makoto	Así es.	00:27:04;
+
+[PlayVoice]=00:25:15	Voice05/05-5H/05-5H-C08/05-5H-C08-0150	1	mak	00:27:04;
+
+[PrintText]=00:28:01	Taisuke	Hey.	00:28:20;
+
+[PlayVoice]=00:28:01	Voice05/05-5H/05-5H-C08/05-5H-C08-0160	1	tai	00:28:20;
+
+[CreateBG]=00:29:18	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-003	00:41:04;
+
+[PrintText]=00:29:18	Makoto	¿Qué?^	00:30:15;
+
+[PlayVoice]=00:29:18	Voice05/05-5H/05-5H-C08/05-5H-C08-0170	1	mak	00:30:15;
+
+[PrintText]=00:30:19	Taisuke	Solo con mirarlos... me he excitado demasiado.	00:38:04;
+
+[PlayVoice]=00:30:19	Voice05/05-5H/05-5H-C08/05-5H-C08-0180	1	tai	00:38:04;
+
+[PrintText]=00:38:14	Hikari	¿E-En serio...?^	00:40:15;
+
+[PlayVoice]=00:38:14	Voice05/05-5H/05-5H-C08/05-5H-C08-0190	0	hik	00:40:15;
+
+[CreateBG]=00:41:04	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-004	00:47:11;
+
+[PrintText]=00:41:04	Taisuke	Ya no puedo resistirlo... ¿No te importa Kuroda?^	00:45:23;
+
+[PlayVoice]=00:41:04	Voice05/05-5H/05-5H-C08/05-5H-C08-0200	1	tai	00:45:23;
+
+[PrintText]=00:46:07	Hikari	¡¿Eh?!	00:47:03;
+
+[PlayVoice]=00:46:07	Voice05/05-5H/05-5H-C08/05-5H-C08-0210	0	hik	00:47:03;
+
+[PlayMovie]=00:47:11	Movie05/05-5H/05-5H-C08/05-5H-C08-005	0	00:58:15;
+
+[PrintText]=00:47:19	Makoto	¿Puede descansar un momento?^	00:50:07;
+
+[PlayVoice]=00:47:19	Voice05/05-5H/05-5H-C08/05-5H-C08-0220	1	mak	00:50:07;
+
+[PrintText]=00:50:21	Hikari	...No te preocupes.	00:53:14;
+
+[PlayVoice]=00:50:21	Voice05/05-5H/05-5H-C08/05-5H-C08-0230	0	hik	00:53:14;
+
+[PrintText]=00:54:00	Makoto	Debes descansar...	00:55:13;
+
+[PlayVoice]=00:54:00	Voice05/05-5H/05-5H-C08/05-5H-C08-0240	1	mak	00:55:13;
+
+[PrintText]=00:56:00	Hikari	Ahora que Sawanaga quiere hacerlo...	00:58:18;
+
+[PlayVoice]=00:56:00	Voice05/05-5H/05-5H-C08/05-5H-C08-0250	0	hik	00:58:18;
+
+[CreateBG]=00:58:15	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-006	01:07:05;
+
+[PrintText]=00:58:18	Makoto	Ya veo... vale.	01:01:20;
+
+[PlayVoice]=00:58:18	Voice05/05-5H/05-5H-C08/05-5H-C08-0260	1	mak	01:01:20;
+
+[PrintText]=01:02:11	Taisuke	Ah... ¿Makoto?^	01:03:13;
+
+[PlayVoice]=01:02:11	Voice05/05-5H/05-5H-C08/05-5H-C08-0270	1	tai	01:03:13;
+
+[PrintText]=01:03:13	Makoto	Bueno, vamos Kotonoha.	01:06:21;
+
+[PlayVoice]=01:03:13	Voice05/05-5H/05-5H-C08/05-5H-C08-0280	1	mak	01:06:21;
+
+[CreateBG]=01:07:05	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-007	01:13:17;
+
+[PrintText]=01:07:12	Kotonoha	Bien.	01:08:05;
+
+[PlayVoice]=01:07:12	Voice05/05-5H/05-5H-C08/05-5H-C08-0290	0	kot	01:08:05;
+
+[PrintText]=01:08:16	Taisuke	¿No lo harás aquí?^	01:10:04;
+
+[PlayVoice]=01:08:16	Voice05/05-5H/05-5H-C08/05-5H-C08-0300	1	tai	01:10:04;
+
+[PrintText]=01:10:05	Makoto	No hay mucho espacio para cuatro.	01:12:00;
+
+[PlayVoice]=01:10:05	Voice05/05-5H/05-5H-C08/05-5H-C08-0310	1	mak	01:12:00;
+
+[PrintText]=01:12:01	Taisuke	Creo que tienes razón...	01:13:08;
+
+[PlayVoice]=01:12:01	Voice05/05-5H/05-5H-C08/05-5H-C08-0320	1	tai	01:13:08;
+
+[CreateBG]=01:13:17	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-008	01:17:09;
+
+[PrintText]=01:13:22	Hikari	Nn...	01:16:09;
+
+[PlayVoice]=01:13:22	Voice05/05-5H/05-5H-C08/05-5H-C08-0340	0	hik	01:16:09;
+
+[PrintText]=01:16:06	Taisuke	Kuroda...	01:17:11;
+
+[PlayVoice]=01:16:06	Voice05/05-5H/05-5H-C08/05-5H-C08-0350	1	tai	01:17:11;
+
+[CreateBG]=01:17:09	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-009	01:25:14;
+
+[PrintText]=01:17:09	Hikari	...dime Hikari.	01:19:18;
+
+[PlayVoice]=01:17:09	Voice05/05-5H/05-5H-C08/05-5H-C08-0360	0	hik	01:19:18;
+
+[PrintText]=01:19:18	Taisuke	Vale.	01:20:14;
+
+[PlayVoice]=01:19:18	Voice05/05-5H/05-5H-C08/05-5H-C08-0370	1	tai	01:20:14;
+
+[PrintText]=01:20:15	Hikari	¿Puedo llamarte Taisuke?^	01:23:08;
+
+[PlayVoice]=01:20:15	Voice05/05-5H/05-5H-C08/05-5H-C08-0380	0	hik	01:23:08;
+
+[PrintText]=01:23:13	Taisuke	¡Seguro... eheheh... bien!	01:26:20;
+
+[PlayVoice]=01:23:13	Voice05/05-5H/05-5H-C08/05-5H-C08-0390	1	tai	01:26:20;
+
+[CreateBG]=01:25:14	BGS	System/Screen/Black	01:26:18;
+
+[CreateBG]=01:26:18	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-011	01:33:03;
+
+[PrintText]=01:26:18	Hikari	¡Kyah! ¡No...! Sé más gentil...	01:32:05;
+
+[PlayVoice]=01:26:18	Voice05/05-5H/05-5H-C08/05-5H-C08-0410	0	hik	01:32:05;
+
+[BlackFade]=01:32:03	OUT	01:33:03;
+
+[PlayBgm]=01:33:03	BGM/SD_BGM/sdbgm19	01:53:07;
+
+[CreateBG]=01:33:03	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-012	01:39:11;
+
+[PrintText]=01:33:05	Makoto	...	01:33:21;
+
+[PlayVoice]=01:33:05	Voice05/05-5H/05-5H-C08/05-5H-C08-0430	1	xxx	01:33:21;
+
+[PrintText]=01:33:21	Kotonoha	Makoto-kun...	01:35:10;
+
+[PlayVoice]=01:33:21	Voice05/05-5H/05-5H-C08/05-5H-C08-0470	0	kot	01:35:10;
+
+[PrintText]=01:35:10	Makoto	...	01:36:04;
+
+[PlayVoice]=01:35:10	Voice05/05-5H/05-5H-C08/05-5H-C08-0480	1	xxx	01:36:04;
+
+[PrintText]=01:36:04	Kotonoha	¿También lo haremos?^	01:39:13;
+
+[PlayVoice]=01:36:04	Voice05/05-5H/05-5H-C08/05-5H-C08-0490	0	kot	01:39:13;
+
+[CreateBG]=01:39:11	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-013	01:41:13;
+
+[PrintText]=01:39:13	Makoto	No...	01:40:07;
+
+[PlayVoice]=01:39:13	Voice05/05-5H/05-5H-C08/05-5H-C08-0500	1	mak	01:40:07;
+
+[PrintText]=01:40:10	Kotonoha	Pero...	01:41:15;
+
+[PlayVoice]=01:40:10	Voice05/05-5H/05-5H-C08/05-5H-C08-0510	0	kot	01:41:15;
+
+[PrintText]=01:41:12	Makoto	No lo haremos.	01:42:12;
+
+[PlayVoice]=01:41:12	Voice05/05-5H/05-5H-C08/05-5H-C08-0520	1	mak	01:42:12;
+
+[CreateBG]=01:41:13	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-014	01:42:12;
+
+[CreateBG]=01:42:12	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-015	01:46:06;
+
+[PrintText]=01:42:12	Kotonoha	Pero Sawanaga-san y Kuroda-san ya...	01:46:06;
+
+[PlayVoice]=01:42:12	Voice05/05-5H/05-5H-C08/05-5H-C08-0530	0	kot	01:46:06;
+
+[CreateBG]=01:46:06	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-016	01:47:07;
+
+[PrintText]=01:46:06	Makoto	...	01:47:06;
+
+[PlayVoice]=01:46:06	Voice05/05-5H/05-5H-C08/05-5H-C08-0550	1	xxx	01:47:06;
+
+[CreateBG]=01:47:07	BGS	Event05/05-5H/05-5H-C08/05-5H-C08-017	01:52:08;
+
+[PrintText]=01:48:19	Kotonoha	Ya veo...	01:50:08;
+
+[PlayVoice]=01:48:19	Voice05/05-5H/05-5H-C08/05-5H-C08-0560	0	kot	01:50:08;
+
+[BlackFade]=01:51:17	OUT	01:52:08;
+
+[CreateBG]=01:52:08	BGS	System/Screen/Black	01:53:07;
+
+ ;
+
+[Next]=01:53:07;
+
+

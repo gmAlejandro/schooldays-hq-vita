@@ -1,0 +1,95 @@
+﻿[SkipFRAME]=00:37:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:37:04;
+
+[PlaySe]=00:00:00	2	Se03/03-KA/03-KA-C02/SE03-KA-C02-001	00:37:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-001	00:01:01;
+
+[PrintText]=00:00:00	Makoto	¿Debería hacerlo?^	00:01:08;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-C02/03-KA-C02-0030	1	mak	00:01:08;
+
+[CreateBG]=00:01:01	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-002	00:06:06;
+
+[PrintText]=00:01:01	Hikari	¿Eh?^	00:01:19;
+
+[PlayVoice]=00:01:01	Voice03/03-KA/03-KA-C02/03-KA-C02-0040	0	hik	00:01:19;
+
+[PrintText]=00:01:19	Taisuke	Hey, hey. ¿Qué está pasando aquí? No eres esa clase de persona que toma el trabajo de otro.	00:06:13;
+
+[PlayVoice]=00:01:19	Voice03/03-KA/03-KA-C02/03-KA-C02-0050	1	tai	00:06:13;
+
+[CreateBG]=00:06:06	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-003	00:07:18;
+
+[PrintText]=00:06:14	Makoto	Sí, bueno...	00:07:15;
+
+[PlayVoice]=00:06:14	Voice03/03-KA/03-KA-C02/03-KA-C02-0060	1	mak	00:07:15;
+
+[PrintText]=00:07:13	Taisuke	¿Qué te traes?^	00:09:22;
+
+[PlayVoice]=00:07:13	Voice03/03-KA/03-KA-C02/03-KA-C02-0070	1	tai	00:09:22;
+
+[CreateBG]=00:07:18	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-004	00:12:00;
+
+[PrintText]=00:09:20	Makoto	Solo quise hacerlo.	00:11:09;
+
+[PlayVoice]=00:09:20	Voice03/03-KA/03-KA-C02/03-KA-C02-0080	1	mak	00:11:09;
+
+[CreateBG]=00:12:00	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-005	00:17:04;
+
+[PrintText]=00:12:05	Makoto	No puedo decirle exactamente que quiero tener la oportunidad de estar con Kotonoha.	00:17:03;
+
+[PlayVoice]=00:12:05	Voice03/03-KA/03-KA-C02/03-KA-C02-0090	1	xxx	00:17:03;
+
+[CreateBG]=00:17:04	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-006	00:24:03;
+
+[PrintText]=00:17:04	Taisuke	Olvídalo. No te vas a beneficiar con hac... ¡gwah!	00:22:04;
+
+[PlayVoice]=00:17:04	Voice03/03-KA/03-KA-C02/03-KA-C02-0100	1	tai	00:22:04;
+
+[PlaySe]=00:21:00	1	Se03/03-KA/03-KA-C02/SE03-KA-C02-002	00:21:07;
+
+[PrintText]=00:21:21	Hikari	Cállate.	00:22:19;
+
+[PlayVoice]=00:21:21	Voice03/03-KA/03-KA-C02/03-KA-C02-0120	0	hik	00:22:19;
+
+[PrintText]=00:22:15	Taisuke	Gwah...	00:24:03;
+
+[PlayVoice]=00:22:15	Voice03/03-KA/03-KA-C02/03-KA-C02-0130	1	tai	00:24:03;
+
+[PlaySe]=00:23:17	1	Se03/03-KA/03-KA-C02/SE03-KA-C02-003	00:24:13;
+
+[PrintText]=00:24:02	Hikari	¿Estás seguro de esto?^	00:25:09;
+
+[PlayVoice]=00:24:02	Voice03/03-KA/03-KA-C02/03-KA-C02-0140	0	hik	00:25:09;
+
+[CreateBG]=00:24:03	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-008	00:25:08;
+
+[CreateBG]=00:25:08	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-009	00:30:14;
+
+[PrintText]=00:25:08	Makoto	Uh... Bueno, es solo hasta que Tanaka salga del hospital ¿No? Puedo hacer mucho.	00:30:13;
+
+[PlayVoice]=00:25:08	Voice03/03-KA/03-KA-C02/03-KA-C02-0150	1	mak	00:30:13;
+
+[PrintText]=00:30:08	Hikari	¡Será mejor que así sea! ¡Setsuna! ¡Itou dijo que lo hará!	00:34:07;
+
+[PlayVoice]=00:30:08	Voice03/03-KA/03-KA-C02/03-KA-C02-0160	0	hik	00:34:07;
+
+[CreateBG]=00:30:14	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-010	00:32:03;
+
+[CreateBG]=00:32:03	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-011	00:34:19;
+
+[CreateBG]=00:34:19	BGS	Event03/03-KA/03-KA-C02/03-KA-C02-012	00:37:04;
+
+[PrintText]=00:35:02	Makoto	Phew...	00:35:23;
+
+[PlayVoice]=00:35:02	Voice03/03-KA/03-KA-C02/03-KA-C02-0180	1	mak	00:35:23;
+
+[BlackFade]=00:36:04	OUT	00:37:04;
+
+ ;
+
+[Next]=00:37:04;
+
+

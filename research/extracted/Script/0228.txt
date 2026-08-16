@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:08:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:08:21;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-H02/02-2K-H02-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Ini/Event02/02-2K/02-2K-H02/02-2K-H02-002	00:06:12;
+
+#[PrintText]=00:03:00	Makoto	"De: Itou Makoto\nMsg: Re: Perdón\nMe gustaría abrazarte de nuevo.".	00:06:11;
+
+[PlayVoice]=00:03:13	Voice02/02-2K/02-2K-H02/02-2K-H02-0050	0	xxx	00:04:21;
+
+[CreateBG]=00:06:12	BGS	Event02/02-2K/02-2K-H02/02-2K-H02-003	00:08:21;
+
+[PrintText]=00:06:15	Kotonoha	Haah...	00:07:13;
+
+[PlayVoice]=00:06:15	Voice02/02-2K/02-2K-H02/02-2K-H02-0070	0	kot	00:07:13;
+
+ ;
+
+[Next]=00:08:21;
+
+
+
+

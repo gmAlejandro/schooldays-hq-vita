@@ -1,0 +1,28 @@
+﻿[SkipFRAME]=00:07:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:07:05;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:07:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-B04/05-KA-B04-001	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Event05/05-KA/05-KA-B04/05-KA-B04-002	00:03:18;
+
+[PrintText]=00:01:09	Makoto	...	00:02:16;
+
+[PlayVoice]=00:01:09	Voice05/05-KA/05-KA-B04/05-KA-B04-0040	1	xxx	00:02:16;
+
+[CreateBG]=00:03:18	BGS	Event05/05-KA/05-KA-B04/05-KA-B04-003	00:07:05;
+
+[PrintText]=00:04:18	Makoto	Haah...	00:05:19;
+
+[PlayVoice]=00:04:18	Voice05/05-KA/05-KA-B04/05-KA-B04-0060	1	mak	00:05:19;
+
+[BlackFade]=00:06:05	OUT	00:07:05;
+
+ ;
+
+[Next]=00:07:05;
+
+
+

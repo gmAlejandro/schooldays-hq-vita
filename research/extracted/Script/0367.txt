@@ -1,0 +1,31 @@
+﻿[SkipFRAME]=00:13:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:13:00;
+
+[PlayMovie]=00:00:00	Movie02/02-2S/02-2S-R04/02-2S-R04-001	0	00:02:17;
+
+[PrintText]=00:00:00	Makoto	¿Es que no amo a Sekai?^	00:01:20;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-R04/02-2S-R04-0030	1	xxx	00:01:20;
+
+[CreateBG]=00:02:17	BGS	Event02/02-2S/02-2S-R04/02-2S-R04-002	00:04:20;
+
+[PrintText]=00:03:01	Makoto	Yo la amo.	00:04:09;
+
+[PlayVoice]=00:03:01	Voice02/02-2S/02-2S-R04/02-2S-R04-0060	1	xxx	00:04:09;
+
+[CreateBG]=00:04:20	BGS	Event02/02-2S/02-2S-R04/02-2S-R04-003	00:10:04;
+
+[PrintText]=00:05:08	Makoto	Pero... Kotonoha y yo...	00:09:12;
+
+[PlayVoice]=00:05:08	Voice02/02-2S/02-2S-R04/02-2S-R04-0070	1	xxx	00:09:12;
+
+[CreateBG]=00:10:04	BGS	Event02/02-2S/02-2S-R04/02-2S-R04-004	00:13:00;
+
+ ;
+
+[Next]=00:13:00;
+
+
+
+

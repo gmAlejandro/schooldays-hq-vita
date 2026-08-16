@@ -1,0 +1,53 @@
+﻿[SkipFRAME]=00:25:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:25:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-O01/03-KB-O01-001	00:11:14;
+
+[PrintText]=00:00:00	Makoto	Bueno... no.	00:04:05;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-O01/03-KB-O01-0030	1	mak	00:04:05;
+
+[PrintText]=00:04:05	Kotonoha	Ya veo...	00:05:22;
+
+[PlayVoice]=00:04:05	Voice03/03-KB/03-KB-O01/03-KB-O01-0040	0	kot	00:05:22;
+
+[PrintText]=00:05:22	Makoto	Pero sabes... SOY un chico, después de todo.	00:11:00;
+
+[PlayVoice]=00:05:22	Voice03/03-KB/03-KB-O01/03-KB-O01-0050	1	mak	00:11:00;
+
+[PrintText]=00:11:00	Kotonoha	Sí.	00:11:13;
+
+[PlayVoice]=00:11:00	Voice03/03-KB/03-KB-O01/03-KB-O01-0060	0	kot	00:11:13;
+
+[PrintText]=00:11:13	Makoto	Lo quiero tanto... que no puedo contenerme.	00:16:02;
+
+[PlayVoice]=00:11:13	Voice03/03-KB/03-KB-O01/03-KB-O01-0070	1	mak	00:16:02;
+
+[PlayMovie]=00:11:14	Movie03/03-KB/03-KB-O01/03-KB-O01-002	0	00:25:10;
+
+[PrintText]=00:16:02	Kotonoha	...	00:16:14;
+
+[PlayVoice]=00:16:02	Voice03/03-KB/03-KB-O01/03-KB-O01-0080	0	xxx	00:16:14;
+
+[PrintText]=00:16:13	Makoto	...déjamelo todo a mí.	00:20:01;
+
+[PlayVoice]=00:16:13	Voice03/03-KB/03-KB-O01/03-KB-O01-0090	1	mak	00:20:01;
+
+[PrintText]=00:20:02	Kotonoha	Vale...	00:20:20;
+
+[PlayVoice]=00:20:02	Voice03/03-KB/03-KB-O01/03-KB-O01-0100	0	kot	00:20:20;
+
+[PrintText]=00:20:20	Makoto	Nn...	00:24:07;
+
+[PlayVoice]=00:20:20	Voice03/03-KB/03-KB-O01/03-KB-O01-0110	1	mak	00:24:07;
+
+[PrintText]=00:24:06	Kotonoha	Ah...	00:25:10;
+
+[PlayVoice]=00:24:06	Voice03/03-KB/03-KB-O01/03-KB-O01-0120	0	kot	00:25:10;
+
+ ;
+
+[Next]=00:25:10;
+
+

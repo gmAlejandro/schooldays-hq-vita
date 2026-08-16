@@ -1,0 +1,577 @@
+﻿[SkipFRAME]=03:27:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	03:25:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-002	00:03:06;
+
+[PrintText]=00:02:00	Otome	Idiota.	00:03:04;
+
+[PlayVoice]=00:02:00	Voice03/03-SA/03-SA-B10/03-SA-B10-0070	0	oto	00:03:04;
+
+[PrintText]=00:03:04	Taisuke	Esto... uwah... ¿Ya fue usado?^	00:08:11;
+
+[PlayVoice]=00:03:04	Voice03/03-SA/03-SA-B10/03-SA-B10-0120	1	tai	00:08:11;
+
+[CreateBG]=00:03:06	BGS	Event03/03-KB/03-KB-O07/03-KB-O07-010	00:12:18;
+
+[PrintText]=00:08:11	Kotonoha	Huele raro.	00:10:12;
+
+[PlayVoice]=00:08:11	Voice03/03-SA/03-SA-B10/03-SA-B10-0130	0	kot	00:10:12;
+
+[PrintText]=00:10:13	Taisuke	Sí...	00:12:02;
+
+[PlayVoice]=00:10:13	Voice03/03-SA/03-SA-B10/03-SA-B10-0140	1	tai	00:12:02;
+
+[PrintText]=00:12:01	Kotonoha	...	00:12:18;
+
+[PlayVoice]=00:12:01	Voice03/03-SA/03-SA-B10/03-SA-B10-0150	0	xxx	00:12:18;
+
+[PrintText]=00:12:17	Taisuke	Um... no te sientes mal para nada ¿Vale?^	00:16:14;
+
+[PlayVoice]=00:12:17	Voice03/03-SA/03-SA-B10/03-SA-B10-0160	1	tai	00:16:14;
+
+[CreateBG]=00:12:18	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-004	00:22:15;
+
+[PrintText]=00:16:14	Kotonoha	Estoy bien.	00:18:00;
+
+[PlayVoice]=00:16:14	Voice03/03-SA/03-SA-B10/03-SA-B10-0170	0	kot	00:18:00;
+
+[PrintText]=00:18:00	Taisuke	El tiempo lo cura todo, después de todo... quiero decir, estoy feliz de ser quien lo curará.	00:25:17;
+
+[PlayVoice]=00:18:00	Voice03/03-SA/03-SA-B10/03-SA-B10-0180	1	tai	00:25:17;
+
+[CreateBG]=00:22:15	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-005	00:32:06;
+
+[PrintText]=00:25:17	Kotonoha	En serio, no me molesta.	00:27:18;
+
+[PlayVoice]=00:25:17	Voice03/03-SA/03-SA-B10/03-SA-B10-0190	0	kot	00:27:18;
+
+[PrintText]=00:27:18	Taisuke	No tienes por qué ponerte de mal humor.	00:30:10;
+
+[PlayVoice]=00:27:18	Voice03/03-SA/03-SA-B10/03-SA-B10-0200	1	tai	00:30:10;
+
+[PrintText]=00:30:11	Kotonoha	No estoy de mal humor.	00:32:05;
+
+[PlayVoice]=00:30:11	Voice03/03-SA/03-SA-B10/03-SA-B10-0210	0	kot	00:32:05;
+
+[PrintText]=00:32:05	Taisuke	Ponerte de mal humor no lo traerá de vuelta sabes. Debes buscar otra persona.	00:37:10;
+
+[PlayVoice]=00:32:05	Voice03/03-SA/03-SA-B10/03-SA-B10-0220	1	tai	00:37:10;
+
+[CreateBG]=00:32:06	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-004	00:37:10;
+
+[PrintText]=00:37:09	Kotonoha	¡El Volverá! Solo lo a malentendido. Él de verdad... me ama...	00:47:07;
+
+[PlayVoice]=00:37:09	Voice03/03-SA/03-SA-B10/03-SA-B10-0230	0	kot	00:47:07;
+
+[CreateBG]=00:37:10	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-007	00:52:05;
+
+[PrintText]=00:47:07	Taisuke	Como creí... no puedes olvidarlo después de todo.	00:50:02;
+
+[PlayVoice]=00:47:07	Voice03/03-SA/03-SA-B10/03-SA-B10-0240	1	tai	00:50:02;
+
+[PrintText]=00:50:01	Kotonoha	Por supuesto que no.	00:52:04;
+
+[PlayVoice]=00:50:01	Voice03/03-SA/03-SA-B10/03-SA-B10-0250	0	kot	00:52:04;
+
+[PrintText]=00:52:04	Taisuke	Eres muy terca...	00:53:14;
+
+[PlayVoice]=00:52:04	Voice03/03-SA/03-SA-B10/03-SA-B10-0260	1	tai	00:53:14;
+
+[CreateBG]=00:52:05	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-008	00:55:02;
+
+[PrintText]=00:53:14	Kotonoha	Prefiero ser así.	00:55:01;
+
+[PlayVoice]=00:53:14	Voice03/03-SA/03-SA-B10/03-SA-B10-0270	0	kot	00:55:01;
+
+[PrintText]=00:55:01	Otome	Ella se enamorará de ti si la fuerzas a hacerlo.	00:59:01;
+
+[PlayVoice]=00:55:01	Voice03/03-SA/03-SA-B10/03-SA-B10-0290	0	oto	00:59:01;
+
+[CreateBG]=00:55:02	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-009	00:59:02;
+
+[PlayVoice]=00:59:01	Voice03/03-SA/03-SA-B10/03-SA-B10-0310			01:00:00;
+
+[CreateBG]=00:59:02	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-008	01:00:01;
+
+[PrintText]=01:00:00	Kotonoha	Más importante, Sawanaga-san... todo se darán una mala idea de que eres mi novio...	01:08:03;
+
+[PlayVoice]=01:00:00	Voice03/03-SA/03-SA-B10/03-SA-B10-0320	0	kot	01:08:03;
+
+[PlayMovie]=01:00:01	Movie03/03-SA/03-SA-B10/03-SA-B10-010	0	01:13:04;
+
+[PrintText]=01:08:03	Kotonoha	¿Hay alguna forma de que podamos resolver este malentendido...?^	01:10:21;
+
+[PlayVoice]=01:08:03	Voice03/03-SA/03-SA-B10/03-SA-B10-0340	0	kot	01:10:21;
+
+[PrintText]=01:10:21	Taisuke	¡Katsura-san!	01:12:05;
+
+[PlayVoice]=01:10:21	Voice03/03-SA/03-SA-B10/03-SA-B10-0350	1	tai	01:12:05;
+
+[PlaySe]=01:12:00	1	SysSe/SE_all/h/nuno2	01:13:01;
+
+[PrintText]=01:12:05	Kotonoha	¡Kyah!	01:13:03;
+
+[PlayVoice]=01:12:05	Voice03/03-SA/03-SA-B10/03-SA-B10-0360	0	kot	01:13:03;
+
+[PlayMovie]=01:13:04	Movie03/03-SA/03-SA-B10/03-SA-B10-011	0	01:37:08;
+
+[PrintText]=01:13:04	Kotonoha	¡No!	01:14:08;
+
+[PlayVoice]=01:13:04	Voice03/03-SA/03-SA-B10/03-SA-B10-0380	0	kot	01:14:08;
+
+[PlaySe]=01:13:09	1	SysSe/SE_all/h/bed3	01:14:03;
+
+[PlaySe]=01:13:16	2	SysSe/SE_all/h/bed4	01:13:23;
+
+[PrintText]=01:14:07	Taisuke	¡Katsura-san! ¡Te amo!	01:17:23;
+
+[PlayVoice]=01:14:07	Voice03/03-SA/03-SA-B10/03-SA-B10-0390	1	tai	01:17:23;
+
+[PrintText]=01:18:00	Kotonoha	¡No! ¡Yo... ya estoy saliendo con alguien!	01:22:03;
+
+[PlayVoice]=01:18:00	Voice03/03-SA/03-SA-B10/03-SA-B10-0400	0	kot	01:22:03;
+
+[PrintText]=01:22:03	Taisuke	¡El te dejó! ¡Olvídate de él!	01:25:00;
+
+[PlayVoice]=01:22:03	Voice03/03-SA/03-SA-B10/03-SA-B10-0410	1	tai	01:25:00;
+
+[PrintText]=01:25:00	Kotonoha	¡El no me dejó! ¡Kyah...! ¡No!	01:29:23;
+
+[PlayVoice]=01:25:00	Voice03/03-SA/03-SA-B10/03-SA-B10-0420	0	kot	01:29:23;
+
+[PlaySe]=01:26:12	1	SysSe/SE_all/h/bed3	01:27:06;
+
+[PlaySe]=01:26:20	2	SysSe/SE_all/h/nuno2	01:27:21;
+
+[PlaySe]=01:27:10	1	SysSe/SE_all/h/bed3	01:28:04;
+
+[PlaySe]=01:28:01	2	SysSe/SE_all/h/nuno2	01:29:02;
+
+[PlaySe]=01:28:07	1	SysSe/SE_all/h/bed3	01:29:01;
+
+[PlaySe]=01:29:05	1	SysSe/SE_all/h/bed3	01:29:23;
+
+[PlaySe]=01:29:08	2	SysSe/SE_all/h/nuno2	01:30:10;
+
+[PrintText]=01:29:23	Taisuke	Quédate quieta!	01:31:21;
+
+[PlayVoice]=01:29:23	Voice03/03-SA/03-SA-B10/03-SA-B10-0430	1	tai	01:31:21;
+
+[PlaySe]=01:30:02	1	SysSe/SE_all/h/bed3	01:30:20;
+
+[PlaySe]=01:30:17	2	SysSe/SE_all/h/nuno2	01:31:18;
+
+[PlaySe]=01:31:00	1	SysSe/SE_all/h/bed3	01:31:18;
+
+[PrintText]=01:31:21	Kotonoha	¡No! ¡Ayuda! ¡Alguien! ¡Ayúdeme!	01:37:07;
+
+[PlayVoice]=01:31:21	Voice03/03-SA/03-SA-B10/03-SA-B10-0440	0	kot	01:37:07;
+
+[PlaySe]=01:31:22	1	SysSe/SE_all/h/bed3	01:32:16;
+
+[PlaySe]=01:32:05	2	SysSe/SE_all/h/nuno2	01:33:06;
+
+[PlaySe]=01:32:20	1	SysSe/SE_all/h/bed3	01:33:14;
+
+[PlaySe]=01:33:10	2	SysSe/SE_all/h/nuno2	01:34:12;
+
+[PlaySe]=01:33:19	1	SysSe/SE_all/h/bed3	01:34:13;
+
+[PlaySe]=01:34:17	1	SysSe/SE_all/h/bed3	01:35:11;
+
+[PlaySe]=01:34:20	2	SysSe/SE_all/h/nuno2	01:35:21;
+
+[CreateBG]=01:37:08	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-012	01:38:09;
+
+[CreateBG]=01:38:09	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-013	01:39:12;
+
+[PrintText]=01:38:09	Minami	...	01:39:11;
+
+[PlayVoice]=01:38:09	Voice03/03-SA/03-SA-B10/03-SA-B10-0470	0	xxx	01:39:11;
+
+[PlayMovie]=01:39:12	Movie03/03-SA/03-SA-B10/03-SA-B10-014	0	01:41:11;
+
+[PrintText]=01:39:12	Kotonoha	¡Mako... Makoto-kun! ¡No! ¡Makoto-kun!	01:45:14;
+
+[PlayVoice]=01:39:12	Voice03/03-SA/03-SA-B10/03-SA-B10-0490	0	kot	01:45:14;
+
+[PlaySe]=01:39:13	2	SysSe/SE_all/h/nuno2	01:40:15;
+
+[PlaySe]=01:39:15	1	SysSe/SE_all/h/bed3	01:40:09;
+
+[PlaySe]=01:40:12	1	SysSe/SE_all/h/bed3	01:41:06;
+
+[PlaySe]=01:40:19	2	SysSe/SE_all/h/nuno2	01:41:20;
+
+[PlaySe]=01:41:10	1	SysSe/SE_all/h/bed3	01:42:04;
+
+[PlayMovie]=01:41:11	Movie03/03-SA/03-SA-B10/03-SA-B10-015	0	01:42:22;
+
+[CreateBG]=01:42:22	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-016	01:50:05;
+
+[PlaySe]=01:43:07	1	SysSe/SE_all/h/bed3	01:44:01;
+
+[PlaySe]=01:43:09	2	SysSe/SE_all/h/nuno2	01:44:10;
+
+[PlaySe]=01:44:05	1	SysSe/SE_all/h/bed3	01:44:23;
+
+[PlaySe]=01:44:15	2	SysSe/SE_all/h/nuno2	01:45:16;
+
+[PlaySe]=01:45:01	1	SysSe/SE_all/h/bed3	01:45:19;
+
+[PrintText]=01:45:14	Taisuke	¿Qué... estás diciendo, Katsura-san?!	01:50:05;
+
+[PlayVoice]=01:45:14	Voice03/03-SA/03-SA-B10/03-SA-B10-0500	1	tai	01:50:05;
+
+[PlaySe]=01:45:21	2	SysSe/SE_all/h/nuno2	01:46:22;
+
+[PlaySe]=01:45:23	1	SysSe/SE_all/h/bed3	01:46:16;
+
+[PlaySe]=01:46:20	1	SysSe/SE_all/h/bed3	01:47:14;
+
+[PlaySe]=01:47:02	2	SysSe/SE_all/h/nuno2	01:48:04;
+
+[PlaySe]=01:47:17	1	SysSe/SE_all/h/bed3	01:48:11;
+
+[PlaySe]=01:48:08	2	SysSe/SE_all/h/nuno2	01:49:09;
+
+[PlaySe]=01:48:15	1	SysSe/SE_all/h/bed3	01:49:09;
+
+[PlaySe]=01:49:14	1	SysSe/SE_all/h/bed3	01:50:08;
+
+[PlaySe]=01:49:15	2	SysSe/SE_all/h/nuno2	01:50:16;
+
+[PlayMovie]=01:50:05	Movie03/03-SA/03-SA-B10/03-SA-B10-017	0	01:53:21;
+
+[PrintText]=01:50:05	Kotonoha	¡Makoto-kun...! ¡Makoto-kun...!	01:53:21;
+
+[PlayVoice]=01:50:05	Voice03/03-SA/03-SA-B10/03-SA-B10-0510	0	kot	01:53:21;
+
+[PlaySe]=01:50:13	1	SysSe/SE_all/h/bed3	01:51:07;
+
+[PlaySe]=01:50:20	2	SysSe/SE_all/h/nuno2	01:51:22;
+
+[PlaySe]=01:52:09	2	SysSe/SE_all/h/nuno2	01:53:10;
+
+[PlaySe]=01:52:18	1	SysSe/SE_all/h/bed3	01:53:12;
+
+[PrintText]=01:53:20	Taisuke	¿Dices que el chico con quien sales es... Makoto?^	01:59:00;
+
+[PlayVoice]=01:53:20	Voice03/03-SA/03-SA-B10/03-SA-B10-0520	1	tai	01:59:00;
+
+[CreateBG]=01:53:21	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-018	01:59:01;
+
+[PlaySe]=01:54:03	1	SysSe/SE_all/h/bed3	01:54:20;
+
+[PlaySe]=01:54:15	2	SysSe/SE_all/h/nuno2	01:55:16;
+
+[PlaySe]=01:56:05	1	SysSe/SE_all/h/bed3	01:56:23;
+
+[PlaySe]=01:56:16	2	SysSe/SE_all/h/nuno2	01:57:17;
+
+[PlaySe]=01:58:03	1	SysSe/SE_all/h/bed3	01:58:21;
+
+[PlaySe]=01:58:13	2	SysSe/SE_all/h/nuno2	01:59:14;
+
+[PrintText]=01:59:00	Kotonoha	¡Sí! ¡Así que... por favor! ¡Déjame ir!	02:03:13;
+
+[PlayVoice]=01:59:00	Voice03/03-SA/03-SA-B10/03-SA-B10-0530	0	kot	02:03:13;
+
+[PlayMovie]=01:59:01	Movie03/03-SA/03-SA-B10/03-SA-B10-019	0	02:03:14;
+
+[PlaySe]=01:59:21	1	SysSe/SE_all/h/bed3	02:00:15;
+
+[PlaySe]=02:00:09	2	SysSe/SE_all/h/nuno2	02:01:10;
+
+[PlaySe]=02:01:03	1	SysSe/SE_all/h/bed3	02:01:20;
+
+[PlaySe]=02:01:22	2	SysSe/SE_all/h/nuno2	02:02:23;
+
+[PlaySe]=02:02:16	1	SysSe/SE_all/h/bed3	02:03:10;
+
+[PrintText]=02:03:13	Taisuke	¡Si hablas de Makoto, entonces él está con Saionji ahora!	02:07:23;
+
+[PlayVoice]=02:03:13	Voice03/03-SA/03-SA-B10/03-SA-B10-0540	1	tai	02:07:23;
+
+[CreateBG]=02:03:14	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-018	02:11:18;
+
+[PlaySe]=02:03:19	2	SysSe/SE_all/h/nuno2	02:04:20;
+
+[PlaySe]=02:04:01	1	SysSe/SE_all/h/bed3	02:04:19;
+
+[PlaySe]=02:05:13	1	SysSe/SE_all/h/bed3	02:06:07;
+
+[PlaySe]=02:05:21	2	SysSe/SE_all/h/nuno2	02:06:22;
+
+[PlaySe]=02:06:16	1	SysSe/SE_all/h/bed1	02:07:15;
+
+[PlaySe]=02:07:08	2	SysSe/SE_all/h/nuno4	02:08:09;
+
+[PrintText]=02:07:23	Kotonoha	¡...!	02:08:23;
+
+[PlayVoice]=02:07:23	Voice03/03-SA/03-SA-B10/03-SA-B10-0550	0	kot	02:08:23;
+
+[PlaySe]=02:08:02	1	SysSe/SE_all/h/bed3	02:08:20;
+
+[PrintText]=02:08:23	Taisuke	Makoto y Saionji están saliendo.	02:11:18;
+
+[PlayVoice]=02:08:23	Voice03/03-SA/03-SA-B10/03-SA-B10-0560	1	tai	02:11:18;
+
+[PlaySe]=02:09:00	1	SysSe/SE_all/h/bed3	02:09:18;
+
+[PlaySe]=02:09:01	2	SysSe/SE_all/h/nuno2	02:10:03;
+
+[PlaySe]=02:10:08	1	SysSe/SE_all/h/bed1	02:11:07;
+
+[PlaySe]=02:10:17	2	SysSe/SE_all/h/nuno2	02:11:19;
+
+[PrintText]=02:11:17	Kotonoha	Eso... es mentira! Saionji-san... Saionji-san no...	02:20:13;
+
+[PlayVoice]=02:11:17	Voice03/03-SA/03-SA-B10/03-SA-B10-0570	0	kot	02:20:13;
+
+[PlayMovie]=02:11:18	Movie03/03-SA/03-SA-B10/03-SA-B10-021	0	02:20:14;
+
+[PlaySe]=02:11:22	1	SysSe/SE_all/h/bed3	02:12:15;
+
+[PlaySe]=02:12:11	2	SysSe/SE_all/h/nuno2	02:13:12;
+
+[PlaySe]=02:13:01	1	SysSe/SE_all/h/bed3	02:13:19;
+
+[PlaySe]=02:13:21	2	SysSe/SE_all/h/nuno1	02:15:11;
+
+[PlaySe]=02:14:00	1	SysSe/SE_all/h/bed1	02:15:00;
+
+[PlaySe]=02:15:08	1	SysSe/SE_all/h/bed3	02:16:02;
+
+[PlaySe]=02:15:21	2	SysSe/SE_all/h/nuno2	02:16:22;
+
+[PlaySe]=02:16:10	1	SysSe/SE_all/h/bed2	02:17:04;
+
+[PlaySe]=02:17:02	2	SysSe/SE_all/h/nuno2	02:18:03;
+
+[PlaySe]=02:17:09	1	SysSe/SE_all/h/bed3	02:18:03;
+
+[PlaySe]=02:18:08	2	SysSe/SE_all/h/nuno4	02:19:09;
+
+[PlaySe]=02:18:09	1	SysSe/SE_all/h/bed1	02:19:08;
+
+[PlaySe]=02:19:13	1	SysSe/SE_all/h/bed3	02:20:07;
+
+[PlaySe]=02:19:20	2	SysSe/SE_all/h/nuno1	02:21:10;
+
+[CreateBG]=02:20:14	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-018	02:22:02;
+
+[PrintText]=02:20:14	Taisuke	No es una mentira.	02:22:01;
+
+[PlayVoice]=02:20:14	Voice03/03-SA/03-SA-B10/03-SA-B10-0580	1	tai	02:22:01;
+
+[PlaySe]=02:21:00	1	SysSe/SE_all/h/bed3	02:21:17;
+
+[PlaySe]=02:21:23	1	SysSe/SE_all/h/bed1	02:22:22;
+
+[PlaySe]=02:22:00	2	SysSe/SE_all/h/nuno4	02:23:02;
+
+[PrintText]=02:22:01	Kotonoha	¡Saionji-san y Makoto-kun no pueden... entonces los perdonaré! ¡Así que..!	02:32:20;
+
+[PlayVoice]=02:22:01	Voice03/03-SA/03-SA-B10/03-SA-B10-0590	0	kot	02:32:20;
+
+[PlayMovie]=02:22:02	Movie03/03-SA/03-SA-B10/03-SA-B10-023	0	02:32:21;
+
+[PlaySe]=02:23:05	1	SysSe/SE_all/h/bed1	02:24:04;
+
+[PlaySe]=02:23:10	2	SysSe/SE_all/h/nuno4	02:24:11;
+
+[PlaySe]=02:24:11	1	SysSe/SE_all/h/bed3	02:25:04;
+
+[PlaySe]=02:25:02	2	SysSe/SE_all/h/nuno4	02:26:04;
+
+[PlaySe]=02:25:13	1	SysSe/SE_all/h/bed3	02:26:07;
+
+[PlaySe]=02:26:07	2	SysSe/SE_all/h/nuno4	02:27:08;
+
+[PlaySe]=02:26:19	1	SysSe/SE_all/h/bed3	02:27:13;
+
+[PlaySe]=02:27:19	1	SysSe/SE_all/h/bed1	02:28:18;
+
+[PlaySe]=02:28:01	2	SysSe/SE_all/h/nuno2	02:29:02;
+
+[PlaySe]=02:29:07	1	SysSe/SE_all/h/bed3	02:30:01;
+
+[PlaySe]=02:29:19	2	SysSe/SE_all/h/nuno4	02:30:20;
+
+[PlaySe]=02:30:08	1	SysSe/SE_all/h/bed1	02:31:07;
+
+[PlaySe]=02:31:05	2	SysSe/SE_all/h/nuno2	02:32:07;
+
+[PlaySe]=02:31:13	1	SysSe/SE_all/h/bed1	02:32:13;
+
+[PrintText]=02:32:20	Taisuke	Oh, entonces sabías que están saliendo.	02:37:06;
+
+[PlayVoice]=02:32:20	Voice03/03-SA/03-SA-B10/03-SA-B10-0600	1	tai	02:37:06;
+
+[PlaySe]=02:32:21	1	SysSe/SE_all/h/bed1	02:33:20;
+
+[PlayMovie]=02:32:21	Movie03/03-SA/03-SA-B10/03-SA-B10-024	0	02:37:07;
+
+[PlaySe]=02:33:06	2	SysSe/SE_all/h/nuno1	02:34:20;
+
+[PlaySe]=02:34:01	1	SysSe/SE_all/h/bed3	02:34:19;
+
+[PlaySe]=02:35:01	1	SysSe/SE_all/h/bed6	02:35:08;
+
+[PlaySe]=02:35:12	2	SysSe/SE_all/h/nuno2	02:36:13;
+
+[PlaySe]=02:35:20	1	SysSe/SE_all/h/bed1	02:36:19;
+
+[PlaySe]=02:37:02	1	SysSe/SE_all/h/bed3	02:37:19;
+
+[PlaySe]=02:37:04	2	SysSe/SE_all/h/nuno4	02:38:06;
+
+[PrintText]=02:37:06	Kotonoha	¡Ellos no están saliendo! ¡Ellos no...!	02:40:19;
+
+[PlayVoice]=02:37:06	Voice03/03-SA/03-SA-B10/03-SA-B10-0610	0	kot	02:40:19;
+
+[PlayMovie]=02:37:07	Movie03/03-SA/03-SA-B10/03-SA-B10-025	0	02:40:20;
+
+[PlaySe]=02:38:01	1	SysSe/SE_all/h/bed3	02:38:19;
+
+[PlaySe]=02:38:16	2	SysSe/SE_all/h/nuno1	02:40:06;
+
+[PlaySe]=02:39:06	1	SysSe/SE_all/h/bed1	02:40:05;
+
+[PlaySe]=02:40:14	2	SysSe/SE_all/h/nuno1	02:42:04;
+
+[PlaySe]=02:40:16	1	SysSe/SE_all/h/bed1	02:41:15;
+
+[PrintText]=02:40:19	Taisuke	...Déjalo ya.	02:44:12;
+
+[PlayVoice]=02:40:19	Voice03/03-SA/03-SA-B10/03-SA-B10-0620	1	tai	02:44:12;
+
+[CreateBG]=02:40:20	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-018	02:49:19;
+
+[PlaySe]=02:42:18	1	SysSe/SE_all/h/bed3	02:43:12;
+
+[PlaySe]=02:44:02	1	SysSe/SE_all/h/bed1	02:45:01;
+
+[PlaySe]=02:44:07	2	SysSe/SE_all/h/nuno1	02:45:21;
+
+[PrintText]=02:44:12	Kotonoha	¡No lo haré!	02:46:04;
+
+[PlayVoice]=02:44:12	Voice03/03-SA/03-SA-B10/03-SA-B10-0630	0	kot	02:46:04;
+
+[PlaySe]=02:45:09	1	SysSe/SE_all/h/bed3	02:46:03;
+
+[PrintText]=02:46:04	Taisuke	Te haré olvidarlo.	02:49:18;
+
+[PlayVoice]=02:46:04	Voice03/03-SA/03-SA-B10/03-SA-B10-0640	1	tai	02:49:18;
+
+[PlaySe]=02:46:06	2	SysSe/SE_all/h/nuno2	02:47:08;
+
+[PlaySe]=02:47:02	1	SysSe/SE_all/h/bed3	02:47:20;
+
+[PlaySe]=02:48:00	2	SysSe/SE_all/h/nuno1	02:49:14;
+
+[PlaySe]=02:48:10	1	SysSe/SE_all/h/bed1	02:49:09;
+
+[PlaySe]=02:49:14	1	SysSe/SE_all/h/bed3	02:50:08;
+
+[PrintText]=02:49:18	Kotonoha	¡Nooooo!	02:52:02;
+
+[PlayVoice]=02:49:18	Voice03/03-SA/03-SA-B10/03-SA-B10-0650	0	kot	02:52:02;
+
+[PlayMovie]=02:49:19	Movie03/03-SA/03-SA-B10/03-SA-B10-027	0	02:53:14;
+
+[PlaySe]=02:49:20	2	SysSe/SE_all/h/bed3	02:50:13;
+
+[PlaySe]=02:50:09	1	SysSe/SE_all/h/bed3	02:51:03;
+
+[PlaySe]=02:50:14	2	SysSe/SE_all/h/bed3	02:51:08;
+
+[PlaySe]=02:51:03	1	SysSe/SE_all/h/bed3	02:51:21;
+
+[PlaySe]=02:51:08	2	SysSe/SE_all/h/bed3	02:52:02;
+
+[BlackFade]=02:51:14	OUT	02:53:14;
+
+[PlaySe]=02:51:23	1	SysSe/SE_all/h/bed3	02:52:17;
+
+[PlaySe]=02:52:06	2	SysSe/SE_all/h/bed3	02:53:00;
+
+[CreateBG]=02:53:14	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-028	02:56:03;
+
+[CreateBG]=02:56:03	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-029	03:01:20;
+
+[PrintText]=02:56:03	Taisuke	Haah...	02:58:16;
+
+[PlayVoice]=02:56:03	Voice03/03-SA/03-SA-B10/03-SA-B10-0710	1	tai	02:58:16;
+
+[BlackFade]=02:56:03	IN	02:57:03;
+
+[PlaySe]=02:56:05	1	SysSe/SE_all/h/bed3	02:56:23;
+
+[PlaySe]=02:57:08	2	SysSe/SE_all/h/nuno1	02:58:22;
+
+[PrintText]=02:58:16	Kotonoha	...	03:01:19;
+
+[PlayVoice]=02:58:16	Voice03/03-SA/03-SA-B10/03-SA-B10-0720	0	xxx	03:01:19;
+
+[PlaySe]=02:58:17	1	SysSe/SE_all/h/bed3	02:59:11;
+
+[PlaySe]=02:59:22	2	SysSe/SE_all/h/nuno1	03:01:12;
+
+[PlaySe]=03:01:11	1	SysSe/SE_all/h/bed3	03:02:05;
+
+[PrintText]=03:01:19	Taisuke	Se siente... increíble.	03:06:23;
+
+[PlayVoice]=03:01:19	Voice03/03-SA/03-SA-B10/03-SA-B10-0730	1	tai	03:06:23;
+
+[CreateBG]=03:01:20	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-030	03:07:00;
+
+[PlaySe]=03:04:04	2	SysSe/SE_all/h/bed3	03:04:22;
+
+[CreateBG]=03:07:00	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-031	03:19:16;
+
+[PrintText]=03:07:00	Kotonoha	...	03:10:02;
+
+[PlayVoice]=03:07:00	Voice03/03-SA/03-SA-B10/03-SA-B10-0740	0	xxx	03:10:02;
+
+[PlaySe]=03:08:08	1	SysSe/SE_all/h/bed3	03:09:02;
+
+[PrintText]=03:10:02	Taisuke	¡H-hey, realmente me gustas, sabes. En serio ¿Por qué no salimos juntos?^	03:19:15;
+
+[PlayVoice]=03:10:02	Voice03/03-SA/03-SA-B10/03-SA-B10-0750	1	tai	03:19:15;
+
+[PlaySe]=03:12:23	2	SysSe/SE_all/h/nuno1	03:14:13;
+
+[PrintText]=03:19:15	Kotonoha	...	03:22:20;
+
+[PlayVoice]=03:19:15	Voice03/03-SA/03-SA-B10/03-SA-B10-0760	0	xxx	03:22:20;
+
+[CreateBG]=03:19:16	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-030	03:24:01;
+
+[PlaySe]=03:22:01	1	SysSe/SE_all/h/bed3	03:22:19;
+
+[PrintText]=03:22:20	Taisuke	¿Katsura-san?^	03:24:01;
+
+[PlayVoice]=03:22:20	Voice03/03-SA/03-SA-B10/03-SA-B10-0770	1	tai	03:24:01;
+
+[PlayVoice]=03:24:00	Voice03/03-SA/03-SA-B10/03-SA-B10-0780			03:25:14;
+
+[CreateBG]=03:24:01	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-016	03:25:15;
+
+[PlaySe]=03:24:05	1	SysSe/SE_all/h/bed3	03:24:23;
+
+[PrintText]=03:25:14	Taisuke	Ah...	03:26:06;
+
+[PlayVoice]=03:25:14	Voice03/03-SA/03-SA-B10/03-SA-B10-0790	1	tai	03:26:06;
+
+[CreateBG]=03:25:15	BGS	Event03/03-SA/03-SA-B10/03-SA-B10-034	03:27:00;
+
+ ;
+
+[Next]=03:27:00;
+
+

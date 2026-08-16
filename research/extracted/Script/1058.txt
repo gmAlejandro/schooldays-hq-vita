@@ -1,0 +1,39 @@
+﻿[SkipFRAME]=00:14:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:14:12;
+
+[PlayMovie]=00:00:00	Movie04/04-KE/04-KE-B05/04-KE-B05-001	0	00:02:03;
+
+[PrintText]=00:00:00	Makoto	Kotonoha.	00:02:03;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-B05/04-KE-B05-0030	1	mak	00:02:03;
+
+[CreateBG]=00:02:03	BGS	Event04/04-KE/04-KE-B05/04-KE-B05-002	00:10:21;
+
+[PrintText]=00:02:03	Kotonoha	¿Huh...?^	00:02:16;
+
+[PlayVoice]=00:02:03	Voice04/04-KE/04-KE-B05/04-KE-B05-0040	0	kot	00:02:16;
+
+[PrintText]=00:02:16	Makoto	Perdón, no estoy de humor.	00:05:15;
+
+[PlayVoice]=00:02:16	Voice04/04-KE/04-KE-B05/04-KE-B05-0050	1	mak	00:05:15;
+
+[PrintText]=00:05:15	Kotonoha	Ah... Y-Ya veo. Lo siento.	00:10:21;
+
+[PlayVoice]=00:05:15	Voice04/04-KE/04-KE-B05/04-KE-B05-0060	0	kot	00:10:21;
+
+[CreateBG]=00:10:21	BGS	Event04/04-KE/04-KE-B05/04-KE-B05-003	00:14:12;
+
+[PrintText]=00:10:21	Makoto	No... Discúlpame a mí.	00:13:06;
+
+[PlayVoice]=00:10:21	Voice04/04-KE/04-KE-B05/04-KE-B05-0070	1	mak	00:13:06;
+
+[PrintText]=00:13:06	Kotonoha	...	00:14:08;
+
+[PlayVoice]=00:13:06	Voice04/04-KE/04-KE-B05/04-KE-B05-0080	0	xxx	00:14:08;
+
+ ;
+
+[Next]=00:14:12;
+
+

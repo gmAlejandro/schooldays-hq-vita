@@ -1,0 +1,75 @@
+﻿[SkipFRAME]=00:29:18;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-J05/SE01-00-J05-001	00:29:18;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-J05/01-00-J05-001	00:02:16;
+
+[PrintText]=00:00:06	Setsuna	Katsura-san.	00:01:08;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-J05/01-00-J05-0030	0	set	00:01:08;
+
+[PrintText]=00:01:03	Kotonoha	¡Huh! ...¿Sí?^	00:02:16;
+
+[PlayVoice]=00:01:03	Voice01/01-00/01-00-J05/01-00-J05-0040	0	kot	00:02:16;
+
+[CreateBG]=00:02:16	BGS	Event01/01-00/01-00-J05/01-00-J05-002	00:09:09;
+
+[PrintText]=00:02:16	Setsuna	Reunión del consejo, ya todos están ahí.	00:06:16;
+
+[PlayVoice]=00:02:16	Voice01/01-00/01-00-J05/01-00-J05-0050	0	set	00:06:16;
+
+[PrintText]=00:06:08	Kotonoha	¡Ehh! Ah, ¡Vale! ¡Estaré ahí! Itou-kun, te veo después...	00:11:12;
+
+[PlayVoice]=00:06:08	Voice01/01-00/01-00-J05/01-00-J05-0060	0	kot	00:11:12;
+
+[CreateBG]=00:09:09	BGS	Event01/01-00/01-00-J05/01-00-J05-003	00:12:21;
+
+[PrintText]=00:10:23	Makoto	¡Ah! ¡Espera!	00:12:08;
+
+[PlayVoice]=00:10:23	Voice01/01-00/01-00-J05/01-00-J05-0070	1	mak	00:12:08;
+
+[CreateBG]=00:12:21	BGS	Event01/01-00/01-00-J05/01-00-J05-004	00:21:15;
+
+[PrintText]=00:13:01	Makoto	Katsura...	00:14:06;
+
+[PlayVoice]=00:13:01	Voice01/01-00/01-00-J05/01-00-J05-0090	1	mak	00:14:06;
+
+[PrintText]=00:14:11	Setsuna	Itou, tú...	00:15:16;
+
+[PlayVoice]=00:14:11	Voice01/01-00/01-00-J05/01-00-J05-0100	0	set	00:15:16;
+
+[PrintText]=00:15:16	Makoto	¿Q-Qué?^	00:17:08;
+
+[PlayVoice]=00:15:16	Voice01/01-00/01-00-J05/01-00-J05-0110	1	mak	00:17:08;
+
+[PrintText]=00:17:09	Setsuna	Ya tienes a Sekai, y ahora andas con otra chica, le voy a decir a Sekai.	00:24:05;
+
+[PlayVoice]=00:17:09	Voice01/01-00/01-00-J05/01-00-J05-0120	0	set	00:24:05;
+
+[CreateBG]=00:21:15	BGS	Event01/01-00/01-00-J05/01-00-J05-005	00:25:17;
+
+[PrintText]=00:23:23	Makoto	Ton- ¡Te equivocas en todo!	00:26:04;
+
+[PlayVoice]=00:23:23	Voice01/01-00/01-00-J05/01-00-J05-0130	1	mak	00:26:04;
+
+[CreateBG]=00:25:17	BGS	Event01/01-00/01-00-J05/01-00-J05-006	00:26:18;
+
+[PrintText]=00:26:01	Setsuna	Pft.	00:26:15;
+
+[PlayVoice]=00:26:01	Voice01/01-00/01-00-J05/01-00-J05-0140	0	set	00:26:15;
+
+[CreateBG]=00:26:18	BGS	Event01/01-00/01-00-J05/01-00-J05-007	00:29:18;
+
+[PrintText]=00:27:01	Makoto	Guh...	00:28:04;
+
+[PlayVoice]=00:27:01	Voice01/01-00/01-00-J05/01-00-J05-0160	1	mak	00:28:04;
+
+[BlackFade]=00:28:18	OUT	00:29:18;
+
+ ;
+
+[Next]=00:29:18;
+
+
+
+

@@ -1,0 +1,147 @@
+﻿[SkipFRAME]=01:33:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	01:33:18;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-I07/04-SA-I07-001	00:18:21;
+
+[PrintText]=00:00:04	Makoto	Seguro...	00:01:08;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-I07/04-SA-I07-0030	1	mak	00:01:08;
+
+[PrintText]=00:01:08	Kotonoha	¡U-um! ¡Acerca de la piscina este fin de semana!	00:06:00;
+
+[PlayVoice]=00:01:08	Voice04/04-SA/04-SA-I07/04-SA-I07-0040	0	kot	00:06:00;
+
+[PrintText]=00:06:00	Makoto	¿Piscina?^	00:07:00;
+
+[PlayVoice]=00:06:00	Voice04/04-SA/04-SA-I07/04-SA-I07-0050	1	mak	00:07:00;
+
+[PrintText]=00:07:00	Kotonoha	Sawanaga-san me lo mencionó.	00:09:01;
+
+[PlayVoice]=00:07:00	Voice04/04-SA/04-SA-I07/04-SA-I07-0060	0	kot	00:09:01;
+
+[PrintText]=00:09:02	Makoto	Oh, ¿Entonces eres tú la chica que invitó...?^	00:15:03;
+
+[PlayVoice]=00:09:02	Voice04/04-SA/04-SA-I07/04-SA-I07-0070	1	mak	00:15:03;
+
+[PrintText]=00:15:03	Kotonoha	Sí, porque dijo que vendrías.	00:18:21;
+
+[PlayVoice]=00:15:03	Voice04/04-SA/04-SA-I07/04-SA-I07-0080	0	kot	00:18:21;
+
+[CreateBG]=00:18:21	BGS	Event04/04-SA/04-SA-I07/04-SA-I07-002	00:30:21;
+
+[PrintText]=00:19:04	Makoto	...Entonces es así.	00:20:16;
+
+[PlayVoice]=00:19:04	Voice04/04-SA/04-SA-I07/04-SA-I07-0090	1	mak	00:20:16;
+
+[PrintText]=00:20:18	Kotonoha	¿U-um... Makoto-kun?^	00:24:17;
+
+[PlayVoice]=00:20:18	Voice04/04-SA/04-SA-I07/04-SA-I07-0100	0	kot	00:24:17;
+
+[PrintText]=00:24:17	Makoto	Perdón... pero creo que no iré.	00:28:15;
+
+[PlayVoice]=00:24:17	Voice04/04-SA/04-SA-I07/04-SA-I07-0110	1	mak	00:28:15;
+
+[PrintText]=00:28:17	Kotonoha	¿Eh? ¿Por qué no?^	00:30:23;
+
+[PlayVoice]=00:28:17	Voice04/04-SA/04-SA-I07/04-SA-I07-0120	0	kot	00:30:23;
+
+[CreateBG]=00:30:21	BGS	Event04/04-SA/04-SA-I07/04-SA-I07-003	00:53:21;
+
+[PrintText]=00:31:07	Makoto	En realidad, ya había invitado a otros dos, pero Taisuke dijo que tenía cuatro entradas.	00:38:00;
+
+[PlayVoice]=00:31:07	Voice04/04-SA/04-SA-I07/04-SA-I07-0130	1	mak	00:38:00;
+
+[PrintText]=00:38:00	Kotonoha	¿Quieres decir que no puedes ir porque no tienes entrada?^	00:40:15;
+
+[PlayVoice]=00:38:00	Voice04/04-SA/04-SA-I07/04-SA-I07-0140	0	kot	00:40:15;
+
+[PrintText]=00:40:13	Makoto	Sí, además, solo iba para hacer que Taisuke esté con la chica que le interesa.	00:47:06;
+
+[PlayVoice]=00:40:13	Voice04/04-SA/04-SA-I07/04-SA-I07-0150	1	mak	00:47:06;
+
+[PrintText]=00:47:07	Kotonoha	Ya veo...	00:49:11;
+
+[PlayVoice]=00:47:07	Voice04/04-SA/04-SA-I07/04-SA-I07-0160	0	kot	00:49:11;
+
+[PrintText]=00:49:09	Makoto	Pues, ahora que lo sabes.	00:51:00;
+
+[PlayVoice]=00:49:09	Voice04/04-SA/04-SA-I07/04-SA-I07-0170	1	mak	00:51:00;
+
+[PrintText]=00:51:01	Kotonoha	¡Ah! ¡P-Por favor, espera!	00:53:05;
+
+[PlayVoice]=00:51:01	Voice04/04-SA/04-SA-I07/04-SA-I07-0180	0	kot	00:53:05;
+
+[PrintText]=00:53:05	Makoto	¿Hmn?^	00:53:20;
+
+[PlayVoice]=00:53:05	Voice04/04-SA/04-SA-I07/04-SA-I07-0190	1	mak	00:53:20;
+
+[CreateBG]=00:53:21	BGS	Event04/04-SA/04-SA-I07/04-SA-I07-004	01:04:00;
+
+[PrintText]=00:54:05	Kotonoha	El balneario está en Sakakino Hills, ¿No?^	00:58:15;
+
+[PlayVoice]=00:54:05	Voice04/04-SA/04-SA-I07/04-SA-I07-0200	0	kot	00:58:15;
+
+[PrintText]=00:58:14	Makoto	Sí.	00:59:06;
+
+[PlayVoice]=00:58:14	Voice04/04-SA/04-SA-I07/04-SA-I07-0210	1	mak	00:59:06;
+
+[PrintText]=00:59:06	Kotonoha	Estará bien. Creo poder conseguir una entrada por mi padre.	01:04:00;
+
+[PlayVoice]=00:59:06	Voice04/04-SA/04-SA-I07/04-SA-I07-0220	0	kot	01:04:00;
+
+[CreateBG]=01:04:00	BGS	Event04/04-SA/04-SA-I07/04-SA-I07-005	01:16:09;
+
+[PrintText]=01:04:06	Makoto	¿Eh...?^	01:04:21;
+
+[PlayVoice]=01:04:06	Voice04/04-SA/04-SA-I07/04-SA-I07-0230	1	mak	01:04:21;
+
+[PrintText]=01:04:21	Kotonoha	Mi padre trabajo en una empresa de propiedad allí.	01:09:05;
+
+[PlayVoice]=01:04:21	Voice04/04-SA/04-SA-I07/04-SA-I07-0240	0	kot	01:09:05;
+
+[PrintText]=01:09:05	Makoto	¿Ehh?^	01:09:22;
+
+[PlayVoice]=01:09:05	Voice04/04-SA/04-SA-I07/04-SA-I07-0250	1	mak	01:09:22;
+
+[PrintText]=01:09:21	Kotonoha	Si es para este fin de semana, creo poder preguntarle, estará bien.	01:16:10;
+
+[PlayVoice]=01:09:21	Voice04/04-SA/04-SA-I07/04-SA-I07-0260	0	kot	01:16:10;
+
+[CreateBG]=01:16:09	BGS	Event04/04-SA/04-SA-I07/04-SA-I07-006	01:26:11;
+
+[PrintText]=01:16:19	Makoto	Ya... ya veo.	01:18:19;
+
+[PlayVoice]=01:16:19	Voice04/04-SA/04-SA-I07/04-SA-I07-0270	1	mak	01:18:19;
+
+[PrintText]=01:18:20	Kotonoha	Así que por favor, ven.	01:21:11;
+
+[PlayVoice]=01:18:20	Voice04/04-SA/04-SA-I07/04-SA-I07-0280	0	kot	01:21:11;
+
+[PrintText]=01:21:11	Makoto	Vale...	01:22:06;
+
+[PlayVoice]=01:21:11	Voice04/04-SA/04-SA-I07/04-SA-I07-0290	1	mak	01:22:06;
+
+[PrintText]=01:22:09	Kotonoha	No hemos hablado hace tiempo, te he extrañado...	01:26:13;
+
+[PlayVoice]=01:22:09	Voice04/04-SA/04-SA-I07/04-SA-I07-0300	0	kot	01:26:13;
+
+[CreateBG]=01:26:11	BGS	Event04/04-SA/04-SA-I07/04-SA-I07-007	01:33:18;
+
+[PrintText]=01:26:19	Makoto	Kotonoha...	01:27:23;
+
+[PlayVoice]=01:26:19	Voice04/04-SA/04-SA-I07/04-SA-I07-0310	1	mak	01:27:23;
+
+[PrintText]=01:28:00	Kotonoha	No puedo esperar a que llegue...	01:31:03;
+
+[PlayVoice]=01:28:00	Voice04/04-SA/04-SA-I07/04-SA-I07-0320	0	kot	01:31:03;
+
+[PrintText]=01:31:09	Makoto	Sí.	01:32:03;
+
+[PlayVoice]=01:31:09	Voice04/04-SA/04-SA-I07/04-SA-I07-0330	1	mak	01:32:03;
+
+ ;
+
+[Next]=01:33:18;
+
+

@@ -1,0 +1,117 @@
+﻿[SkipFRAME]=01:23:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:23:00;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-J10/SE03-SA-J10-001	01:23:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-001	00:11:18;
+
+[PrintText]=00:00:00	Otome	Escucha ¿Por qué no te disculpas con todos?^	00:03:00;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-J10/03-SA-J10-0040	0	oto	00:03:00;
+
+[PrintText]=00:03:00	Minami	Sí, Sí.	00:03:21;
+
+[PlayVoice]=00:03:00	Voice03/03-SA/03-SA-J10/03-SA-J10-0050	0	min	00:03:21;
+
+[PrintText]=00:03:21	Otome	Solo di que te disculpas por mentirnos a todos.	00:07:03;
+
+[PlayVoice]=00:03:21	Voice03/03-SA/03-SA-J10/03-SA-J10-0060	0	oto	00:07:03;
+
+[PrintText]=00:07:04	Kotonoha	...	00:08:23;
+
+[PlayVoice]=00:07:04	Voice03/03-SA/03-SA-J10/03-SA-J10-0070	0	xxx	00:08:23;
+
+[PrintText]=00:08:23	Otome	¡Katsura!	00:10:02;
+
+[PlayVoice]=00:08:23	Voice03/03-SA/03-SA-J10/03-SA-J10-0080	0	oto	00:10:02;
+
+[PrintText]=00:10:02	Kotonoha	...	00:11:17;
+
+[PlayVoice]=00:10:02	Voice03/03-SA/03-SA-J10/03-SA-J10-0090	0	xxx	00:11:17;
+
+[CreateBG]=00:11:18	BGS	Event03/03-SA/03-SA-F06/03-SA-F06-024	00:18:02;
+
+[PlayVoice]=00:11:18	Voice03/03-SA/03-SA-J10/03-SA-J10-0110	1	ana	00:18:01;
+
+[PrintText]=00:18:01	Kotonoha	Ah...	00:18:17;
+
+[PlayVoice]=00:18:01	Voice03/03-SA/03-SA-J10/03-SA-J10-0120	0	kot	00:18:17;
+
+[CreateBG]=00:18:02	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-003	00:18:18;
+
+[CreateBG]=00:18:18	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-004	00:26:00;
+
+[PrintText]=00:18:18	Minami	¡Vale, tenemos a una mentirosa aquí!	00:21:07;
+
+[PlayVoice]=00:18:18	Voice03/03-SA/03-SA-J10/03-SA-J10-0130	0	min	00:21:07;
+
+[PrintText]=00:21:07	Natsumi	¿Por qué ha hecho todo este hasta el final?^	00:24:01;
+
+[PlayVoice]=00:21:07	Voice03/03-SA/03-SA-J10/03-SA-J10-0140	0	nat	00:24:01;
+
+[PrintText]=00:24:02	Kumi	Le gusta molestar a los demás.	00:25:23;
+
+[PlayVoice]=00:24:02	Voice03/03-SA/03-SA-J10/03-SA-J10-0150	0	kum	00:25:23;
+
+[CreateBG]=00:26:00	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-001	00:44:11;
+
+[PrintText]=00:26:00	Otome	Katsura.	00:27:00;
+
+[PlayVoice]=00:26:00	Voice03/03-SA/03-SA-J10/03-SA-J10-0160	0	oto	00:27:00;
+
+[PrintText]=00:27:01	Kotonoha	Sí...	00:27:21;
+
+[PlayVoice]=00:27:01	Voice03/03-SA/03-SA-J10/03-SA-J10-0170	0	kot	00:27:21;
+
+[PrintText]=00:27:20	Otome	Harás todo lo encargado sola mañana ¿Vale? Estamos cansadas de estar al lado tuyo todo el día.	00:34:14;
+
+[PlayVoice]=00:27:20	Voice03/03-SA/03-SA-J10/03-SA-J10-0180	0	oto	00:34:14;
+
+[PrintText]=00:34:14	Kotonoha	...Sí.	00:35:07;
+
+[PlayVoice]=00:34:14	Voice03/03-SA/03-SA-J10/03-SA-J10-0190	0	kot	00:35:07;
+
+[PrintText]=00:35:07	Otome	Cielos... te hubiéramos dejado en paz si tan solo hubieras admitido que no estabas saliendo con Itou.	00:40:19;
+
+[PlayVoice]=00:35:07	Voice03/03-SA/03-SA-J10/03-SA-J10-0200	0	oto	00:40:19;
+
+[PrintText]=00:40:20	Kotonoha	Makoto-kun y yo... estamos saliendo.	00:44:11;
+
+[PlayVoice]=00:40:20	Voice03/03-SA/03-SA-J10/03-SA-J10-0210	0	kot	00:44:11;
+
+[CreateBG]=00:44:11	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-006	00:45:22;
+
+[PrintText]=00:44:11	Otome	¡¿Vas a seguir diciendo eso?!	00:45:22;
+
+[PlayVoice]=00:44:11	Voice03/03-SA/03-SA-J10/03-SA-J10-0220	0	oto	00:45:22;
+
+[CreateBG]=00:45:22	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-007	01:03:03;
+
+[PrintText]=00:45:22	Kotonoha	Makoto-kun... está molesto ahora... pero él realmente me ama... y sé que sonreirá y después me perdonará... ¡kuh!	01:12:13;
+
+[PlayVoice]=00:45:22	Voice03/03-SA/03-SA-J10/03-SA-J10-0230	0	kot	01:12:13;
+
+[CreateBG]=01:03:03	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-008	01:15:19;
+
+[PrintText]=01:12:14	Otome	¡Hah! Vámonos.	01:14:15;
+
+[PlayVoice]=01:12:14	Voice03/03-SA/03-SA-J10/03-SA-J10-0250	0	oto	01:14:15;
+
+[PrintText]=01:14:16	Minami	¡Sí!	01:15:19;
+
+[PlayVoice]=01:14:16	Voice03/03-SA/03-SA-J10/03-SA-J10-0260	0	min	01:15:19;
+
+[CreateBG]=01:15:19	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-009	01:18:00;
+
+[CreateBG]=01:18:00	BGS	Event03/03-SA/03-SA-J10/03-SA-J10-010	01:23:00;
+
+[PrintText]=01:18:00	Sekai	...	01:19:06;
+
+[PlayVoice]=01:18:00	Voice03/03-SA/03-SA-J10/03-SA-J10-0290	0	sek	01:19:06;
+
+;
+
+[Next]=01:23:00;
+
+

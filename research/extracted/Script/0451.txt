@@ -1,0 +1,29 @@
+﻿[SkipFRAME]=00:08:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm14	00:08:03;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-D06/SE03-BK-D06-002	00:05:08;
+
+[CreateBG]=00:00:00	BGS	Event03/03-B1/03-B1-B00/03-B1-B00-001	00:02:00;
+
+[PlayMovie]=00:02:00	Movie03/03-B1/03-B1-B00/03-B1-B00-002	0	00:06:17;
+
+[PrintText]=00:02:00	Makoto	¡Haah...! ¡Haah...!	00:05:15;
+
+[PlayVoice]=00:02:00	Voice03/03-B1/03-B1-B00/03-B1-B00-0050	1	mak	00:05:15;
+
+[BlackFade]=00:04:05	OUT	00:06:17;
+
+[PlaySe]=00:05:08	2	Se03/03-BK/03-BK-D06/SE03-BK-D06-002	00:08:03;
+
+[PrintText]=00:05:19	Makoto	Kotonoha...	00:07:14;
+
+[PlayVoice]=00:05:19	Voice03/03-B1/03-B1-B00/03-B1-B00-0070	1	mak	00:07:14;
+
+[CreateBG]=00:06:17	BGS	Event03/03-AK/03-AK-B00/03-AK-B00-003	00:08:03;
+
+ ;
+
+[Next]=00:08:03;
+
+

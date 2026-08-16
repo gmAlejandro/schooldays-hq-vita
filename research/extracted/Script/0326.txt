@@ -1,0 +1,47 @@
+﻿[SkipFRAME]=00:17:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:23:11;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-J03/02-2S-J03-001	00:02:17;
+
+[PrintText]=00:00:13	Sekai	...	00:01:16;
+
+[PlayVoice]=00:00:13	Voice02/02-2S/02-2S-J03/02-2S-J03-0040	0	xxx	00:01:16;
+
+[CreateBG]=00:02:17	BGS	Event02/02-2S/02-2S-J03/02-2S-J03-002	00:05:05;
+
+[CreateBG]=00:05:05	BGS	Event02/02-2S/02-2S-J03/02-2S-J03-003	00:08:02;
+
+[CreateBG]=00:08:02	BGS	Event02/02-2S/02-2S-J03/02-2S-J03-004A	00:09:00;
+
+[PrintText]=00:08:06	Sekai	...	00:08:21;
+
+[PlayVoice]=00:08:06	Voice02/02-2S/02-2S-J03/02-2S-J03-0070	0	xxx	00:08:21;
+
+[CreateBG]=00:09:00	BGS	Ini/Event02/02-2S/02-2S-J03/02-2S-J03-004B	00:10:12;
+
+#[PrintText]=00:09:00	Makoto	"No me hagas esa cara. No pude decirle, pero se lo diré después ¿vale?".	00:10:11;
+
+[CreateBG]=00:10:12	BGS	Ini/Event02/02-2S/02-2S-J03/02-2S-J03-004C	00:12:12;
+
+#[PrintText]=00:10:12	Sekai	"Sí, de seguro lo harás!".	00:12:11;
+
+[CreateBG]=00:12:12	BGS	Event02/02-2S/02-2S-J03/02-2S-J03-005	00:14:19;
+
+#[PrintText]=00:12:18	Makoto	"Lo haré".	00:14:14;
+
+[PlayVoice]=00:12:18	Voice02/02-2S/02-2S-J03/02-2S-J03-0110	1	mak	00:14:14;
+
+[CreateBG]=00:14:19	BGS	Ini/Event02/02-2S/02-2S-J03/02-2S-J03-006	00:23:11;
+
+[PrintText]=00:14:18	Makoto	Yo...	00:23:10;
+
+[SetSELECT]=00:17:06	'Amo a Sekai'	'Amo a Sekai más que a Kotonoha'	00:22:06;
+
+ ;
+
+[Next]=00:23:11;
+
+
+
+

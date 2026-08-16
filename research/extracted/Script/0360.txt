@@ -1,0 +1,55 @@
+﻿[SkipFRAME]=00:26:05;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:32:06;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-Q00/SE02-2S-Q00-001	00:32:06;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-Q00/02-2S-Q00-001	00:03:02;
+
+[PlaySe]=00:03:02	2	Se02/02-2S/02-2S-Q00/SE02-2S-Q00-002	00:32:06;
+
+[CreateBG]=00:03:02	BGS	Event02/02-2S/02-2S-Q00/02-2S-Q00-002	00:07:01;
+
+[PlaySe]=00:07:00	3	Se02/02-2S/02-2S-Q00/SE02-2S-Q00-003	00:15:12;
+
+[PlayMovie]=00:07:01	Movie02/02-2S/02-2S-Q00/02-2S-Q00-003	0	00:15:18;
+
+[PlaySe]=00:15:18	4	SysSe/SE_all/footsteps/asioto_okugai	00:19:03;
+
+[PlayMovie]=00:15:18	Movie02/02-2S/02-2S-Q00/02-2S-Q00-004	0	00:19:03;
+
+[PlaySe]=00:18:19	3	SysSe/SE_all/station_train/train_door_open	00:20:20;
+
+[PlayMovie]=00:19:03	Movie02/02-2S/02-2S-Q00/02-2S-Q00-005	0	00:20:20;
+
+[PlaySe]=00:20:20	4	SysSe/SE_all/footsteps/asioto_okugai	00:22:18;
+
+[PlayMovie]=00:20:20	Movie02/02-2S/02-2S-Q00/02-2S-Q00-006	0	00:24:01;
+
+[PrintText]=00:21:20	Kotonoha	Makoto-kun.	00:23:10;
+
+[PlayVoice]=00:21:20	Voice02/02-2S/02-2S-Q00/02-2S-Q00-0040	0	kot	00:23:10;
+
+[PrintText]=00:24:00	Makoto	Ah...	00:24:15;
+
+[PlayVoice]=00:24:00	Voice02/02-2S/02-2S-Q00/02-2S-Q00-0050	1	mak	00:24:15;
+
+[PlaySe]=00:24:01	4	SysSe/SE_all/footsteps/asioto_okugai	00:25:09;
+
+[PlayMovie]=00:24:01	Movie02/02-2S/02-2S-Q00/02-2S-Q00-007	0	00:25:16;
+
+[PrintText]=00:25:15	Kotonoha	Buen día.	00:26:13;
+
+[PlayVoice]=00:25:15	Voice02/02-2S/02-2S-Q00/02-2S-Q00-0060	0	kot	00:26:13;
+
+[CreateBG]=00:25:16	BGS	Event02/02-2S/02-2S-Q00/02-2S-Q00-008	00:32:06;
+
+[SetSELECT]=00:26:05	'¡¡Buen día!!'	null	00:31:05;
+
+ ;
+
+[Next]=00:32:06;
+
+
+
+

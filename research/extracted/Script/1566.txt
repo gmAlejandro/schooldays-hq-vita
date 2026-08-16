@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:15:22;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:15:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-C01/05-KF-C01-001	00:04:08;
+
+[PrintText]=00:00:00	Makoto	¿Planearlo?^	00:01:22;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-C01/05-KF-C01-0030	1	mak	00:01:22;
+
+[PrintText]=00:01:10	Sekai	¿Huh?^	00:02:07;
+
+[PlayVoice]=00:01:10	Voice05/05-KF/05-KF-C01/05-KF-C01-0040	0	sek	00:02:07;
+
+[PrintText]=00:02:07	Makoto	...	00:04:01;
+
+[PlayVoice]=00:02:07	Voice05/05-KF/05-KF-C01/05-KF-C01-0050	1	xxx	00:04:01;
+
+[CreateBG]=00:04:08	BGS	Event05/05-KF/05-KF-C01/05-KF-C01-002	00:10:17;
+
+[PrintText]=00:04:10	Sekai	Se lo diré. Estoy segura.	00:07:04;
+
+[PlayVoice]=00:04:10	Voice05/05-KF/05-KF-C01/05-KF-C01-0060	0	sek	00:07:04;
+
+[PrintText]=00:06:20	Makoto	Vale.	00:08:03;
+
+[PlayVoice]=00:06:20	Voice05/05-KF/05-KF-C01/05-KF-C01-0070	1	mak	00:08:03;
+
+[PrintText]=00:08:07	Sekai	Entonces tú también...	00:10:14;
+
+[PlayVoice]=00:08:07	Voice05/05-KF/05-KF-C01/05-KF-C01-0080	0	sek	00:10:14;
+
+[CreateBG]=00:10:17	BGS	Event05/05-KF/05-KF-C01/05-KF-C01-003	00:15:22;
+
+[PrintText]=00:10:18	Makoto	Yo también se lo diré en la hora del almuerzo.	00:13:21;
+
+[PlayVoice]=00:10:18	Voice05/05-KF/05-KF-C01/05-KF-C01-0090	1	mak	00:13:21;
+
+[PrintText]=00:13:19	Sekai	Vale.	00:14:17;
+
+[PlayVoice]=00:13:19	Voice05/05-KF/05-KF-C01/05-KF-C01-0100	0	sek	00:14:17;
+
+[BlackFade]=00:14:22	OUT	00:15:22;
+
+ ;
+
+[Next]=00:15:22;
+
+
+
+

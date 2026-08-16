@@ -1,0 +1,63 @@
+﻿[SkipFRAME]=00:14:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:20:23;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-C00/SE03-SB-C00-001	00:20:23;
+
+[PlayMovie]=00:00:00	Movie03/03-SB/03-SB-C00/03-SB-C00-001	0	00:00:13;
+
+[PlayMovie]=00:00:13	Movie03/03-SB/03-SB-C00/03-SB-C00-002	0	00:01:22;
+
+[PlayMovie]=00:01:22	Movie03/03-SB/03-SB-C00/03-SB-C00-003	0	00:12:06;
+
+[PrintText]=00:01:22	Makoto	...	00:02:10;
+
+[PlayVoice]=00:01:22	Voice03/03-SB/03-SB-C00/03-SB-C00-0040	1	xxx	00:02:10;
+
+[PrintText]=00:02:10	Kotonoha	...	00:03:11;
+
+[PlayVoice]=00:02:10	Voice03/03-SB/03-SB-C00/03-SB-C00-0060	0	xxx	00:03:11;
+
+[PrintText]=00:03:11	Kotonoha	U-um...	00:05:16;
+
+[PlayVoice]=00:03:11	Voice03/03-SB/03-SB-C00/03-SB-C00-0070	0	kot	00:05:16;
+
+[PrintText]=00:05:16	Makoto	¿Hmn?^	00:06:06;
+
+[PlayVoice]=00:05:16	Voice03/03-SB/03-SB-C00/03-SB-C00-0080	1	mak	00:06:06;
+
+[PrintText]=00:06:06	Kotonoha	Oh, no es nada...	00:12:05;
+
+[PlayVoice]=00:06:06	Voice03/03-SB/03-SB-C00/03-SB-C00-0090	0	kot	00:12:05;
+
+[PrintText]=00:12:05	Makoto	¿...?^	00:13:00;
+
+[PlayVoice]=00:12:05	Voice03/03-SB/03-SB-C00/03-SB-C00-0100	1	mak	00:13:00;
+
+[PlayMovie]=00:12:06	Movie03/03-SB/03-SB-C00/03-SB-C00-002	0	00:13:01;
+
+[PrintText]=00:13:00	Kotonoha	...	00:13:23;
+
+[PlayVoice]=00:13:00	Voice03/03-SB/03-SB-C00/03-SB-C00-0130	0	xxx	00:13:23;
+
+[PlayMovie]=00:13:01	Movie03/03-SB/03-SB-C00/03-SB-C00-006	0	00:13:23;
+
+[PrintText]=00:13:22	Makoto	¿Eh?^	00:14:12;
+
+[PlayVoice]=00:13:22	Voice03/03-SB/03-SB-C00/03-SB-C00-0150	1	mak	00:14:12;
+
+[CreateBG]=00:13:23	BGS	Event03/03-SB/03-SB-C00/03-SB-C00-007	00:14:13;
+
+[PrintText]=00:14:12	Makoto	Ah...	00:15:08;
+
+[PlayVoice]=00:14:12	Voice03/03-SB/03-SB-C00/03-SB-C00-0170	1	mak	00:15:08;
+
+[CreateBG]=00:14:13	BGS	Ini/Event03/03-SB/03-SB-C00/03-SB-C00-008	00:20:23;
+
+[SetSELECT]=00:14:23	*Alejarse*	*Permitir*	00:19:23;
+
+ ;
+
+[Next]=00:20:23;
+
+

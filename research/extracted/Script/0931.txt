@@ -1,0 +1,45 @@
+﻿[SkipFRAME]=00:13:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:13:16;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-G00/SE04-KA-G00-001	00:13:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-F01/04-KA-F01-001	00:06:01;
+
+[PrintText]=00:00:04	Makoto	No lo sé.	00:01:04;
+
+[PlayVoice]=00:00:04	Voice04/04-KA/04-KA-F01/04-KA-F01-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:04	Taisuke	¿Qué quieres decir?^	00:02:15;
+
+[PlayVoice]=00:01:04	Voice04/04-KA/04-KA-F01/04-KA-F01-0040	1	tai	00:02:15;
+
+[PrintText]=00:02:14	Makoto	Lo pensaré después y veré si no estoy tan cansado...	00:06:02;
+
+[PlayVoice]=00:02:14	Voice04/04-KA/04-KA-F01/04-KA-F01-0050	1	mak	00:06:02;
+
+[CreateBG]=00:06:01	BGS	Event04/04-KA/04-KA-F01/04-KA-F01-002	00:11:00;
+
+[PrintText]=00:06:01	Taisuke	Yo estoy jodido...	00:08:01;
+
+[PlayVoice]=00:06:01	Voice04/04-KA/04-KA-F01/04-KA-F01-0060	1	tai	00:08:01;
+
+[PrintText]=00:08:00	Makoto	Supongo que podré dormir ahora.	00:10:23;
+
+[PlayVoice]=00:08:00	Voice04/04-KA/04-KA-F01/04-KA-F01-0070	1	mak	00:10:23;
+
+[CreateBG]=00:11:00	BGS	Event04/04-KA/04-KA-F01/04-KA-F01-003	00:13:16;
+
+[PrintText]=00:11:00	Taisuke	Vale, nos vemos después entonces.	00:12:13;
+
+[PlayVoice]=00:11:00	Voice04/04-KA/04-KA-F01/04-KA-F01-0080	1	tai	00:12:13;
+
+[PrintText]=00:12:16	Makoto	Sí.	00:13:12;
+
+[PlayVoice]=00:12:16	Voice04/04-KA/04-KA-F01/04-KA-F01-0090	1	mak	00:13:12;
+
+ ;
+
+[Next]=00:13:16;
+
+

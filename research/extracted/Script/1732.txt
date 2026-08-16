@@ -1,0 +1,76 @@
+﻿[SkipFRAME]=00:35:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	00:35:12;
+
+[PlaySe]=00:00:00	2	Se05/05-KB/05-KB-A03/SE05-KB-A03-002	00:15:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-A02/05-KB-A02-003	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Event05/05-KB/05-KB-A02/05-KB-A02-002	00:09:19;
+
+[PrintText]=00:01:02	Kokoro	¿Qué hace onee-chan en la cocina?^	00:03:22;
+
+[PlayVoice]=00:01:02	Voice05/05-KB/05-KB-A02/05-KB-A02-0050	0	kok	00:03:22;
+
+[PlaySe]=00:03:05	1	Se05/05-KB/05-KB-A03/SE05-KB-A03-001	00:06:06;
+
+[PrintText]=00:03:22	Madre de Kotonoha	Dice que está haciendo su almuerzo para mañana.	00:06:05;
+
+[PlayVoice]=00:03:22	Voice05/05-KB/05-KB-A02/05-KB-A02-0060	0	man	00:06:05;
+
+[PrintText]=00:06:05	Kokoro	¿Está segura que no necesita tu ayuda?^	00:09:23;
+
+[PlayVoice]=00:06:05	Voice05/05-KB/05-KB-A02/05-KB-A02-0070	0	kok	00:09:23;
+
+[PlaySe]=00:09:04	1	Se05/05-KB/05-KB-A03/SE05-KB-A03-001	00:12:05;
+
+[CreateBG]=00:09:19	BGS	Event05/05-KB/05-KB-A02/05-KB-A02-003	00:15:14;
+
+[PrintText]=00:09:23	Madre de Kotonoha	Me dijo que no lo necesita. Lo hará todo por su propia cuenta.	00:15:15;
+
+[PlayVoice]=00:09:23	Voice05/05-KB/05-KB-A02/05-KB-A02-0080	0	man	00:15:15;
+
+[PlaySe]=00:13:23	3	Se05/05-KB/05-KB-A03/SE05-KB-A03-002	00:26:09;
+
+[PlaySe]=00:15:01	1	Se05/05-KB/05-KB-A03/SE05-KB-A03-001	00:18:02;
+
+[CreateBG]=00:15:14	BGS	Event05/05-KB/05-KB-A02/05-KB-A02-004	00:29:10;
+
+[PrintText]=00:15:15	Kokoro	Aww... la has puesto de malas.	00:19:00;
+
+[PlayVoice]=00:15:15	Voice05/05-KB/05-KB-A02/05-KB-A02-0090	0	kok	00:19:00;
+
+[PrintText]=00:19:00	Madre de Kotonoha	Tienes razón. No me ha dicho nada de su novio, incluso cuando le dije que lo trajera aquí....	00:26:18;
+
+[PlayVoice]=00:19:00	Voice05/05-KB/05-KB-A02/05-KB-A02-0100	0	man	00:26:18;
+
+[PlaySe]=00:26:04	1	Se05/05-KB/05-KB-A03/SE05-KB-A03-003	00:27:04;
+
+[PlaySe]=00:26:14	2	Se05/05-KB/05-KB-A03/SE05-KB-A03-004	00:29:10;
+
+[PrintText]=00:26:19	Kotonoha	¡Kyah!	00:28:05;
+
+[PlayVoice]=00:26:19	Voice05/05-KB/05-KB-A02/05-KB-A02-0120	0	kot	00:28:05;
+
+[CreateBG]=00:29:10	BGS	Event05/05-KB/05-KB-A02/05-KB-A02-005	00:35:12;
+
+[PrintText]=00:29:10	Kokoro	¿Estára bien?^	00:31:18;
+
+[PlayVoice]=00:29:10	Voice05/05-KB/05-KB-A02/05-KB-A02-0140	0	kok	00:31:18;
+
+[PrintText]=00:31:19	Madre de Kotonoha	Esperamos eso.	00:33:13;
+
+[PlayVoice]=00:31:19	Voice05/05-KB/05-KB-A02/05-KB-A02-0150	0	man	00:33:13;
+
+[PrintText]=00:33:13	Kokoro	Sí...	00:34:05;
+
+[PlayVoice]=00:33:13	Voice05/05-KB/05-KB-A02/05-KB-A02-0160	0	kok	00:34:05;
+
+[BlackFade]=00:34:12	OUT	00:35:12;
+
+ ;
+
+[Next]=00:35:12;
+
+
+

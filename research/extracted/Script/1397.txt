@@ -1,0 +1,105 @@
+﻿[SkipFRAME]=00:51:22;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/yuugata	00:27:21;
+
+[CreateBG]=00:00:00	BGS	Event05/05-A2/05-A2-E00/05-A2-E00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-A2/05-A2-E00/05-A2-E00-002	00:30:04;
+
+[PrintText]=00:03:00	Makoto	...	00:05:05;
+
+[PlayVoice]=00:03:00	Voice05/05-A2/05-A2-E00/05-A2-E00-0030	1	xxx	00:05:05;
+
+[PrintText]=00:05:19	Sekai	Makoto...	00:06:20;
+
+[PlayVoice]=00:05:19	Voice05/05-A2/05-A2-E00/05-A2-E00-0040	0	sek	00:06:20;
+
+[PrintText]=00:07:06	Makoto	Está bien.	00:09:14;
+
+[PlayVoice]=00:07:06	Voice05/05-A2/05-A2-E00/05-A2-E00-0050	1	mak	00:09:14;
+
+[PrintText]=00:09:20	Sekai	P-Pero...	00:11:14;
+
+[PlayVoice]=00:09:20	Voice05/05-A2/05-A2-E00/05-A2-E00-0060	0	sek	00:11:14;
+
+[PrintText]=00:11:22	Makoto	No voy a dar marcha atrás... estaré solo para ti, Sekai.	00:18:09;
+
+[PlayVoice]=00:11:22	Voice05/05-A2/05-A2-E00/05-A2-E00-0070	1	mak	00:18:09;
+
+[PrintText]=00:18:07	Sekai	S-Sí... pero ella dijo que no se rendiría...	00:24:18;
+
+[PlayVoice]=00:18:07	Voice05/05-A2/05-A2-E00/05-A2-E00-0080	0	sek	00:24:18;
+
+[PrintText]=00:24:17	Makoto	Está bien. Estoy segura que lo enten...	00:28:09;
+
+[PlayVoice]=00:24:17	Voice05/05-A2/05-A2-E00/05-A2-E00-0090	1	mak	00:28:09;
+
+[PlaySe]=00:27:20	1	Se05/05-A2/05-A2-E00/SE05-A2-E00-001	00:32:08;
+
+[PrintText]=00:28:19	Makoto	¿Hmn...?^	00:30:01;
+
+[PlayVoice]=00:28:19	Voice05/05-A2/05-A2-E00/05-A2-E00-0110	1	mak	00:30:01;
+
+[PlayMovie]=00:30:04	Movie05/05-A2/05-A2-E00/05-A2-E00-003	0	00:33:12;
+
+[PlaySe]=00:30:11	2	Se05/05-A2/05-A2-E00/SE05-A2-E00-002	00:31:16;
+
+[PrintText]=00:31:00	Makoto	¿Un celular..?^	00:33:08;
+
+[PlayVoice]=00:31:00	Voice05/05-A2/05-A2-E00/05-A2-E00-0130	1	mak	00:33:08;
+
+[PlaySe]=00:33:12	2	Se05/05-A2/05-A2-E00/SE05-A2-E00-007	00:36:20;
+
+[PlayMovie]=00:33:12	Movie05/05-A2/05-A2-E00/05-A2-E00-004	0	00:36:20;
+
+[PrintText]=00:33:19	Sekai	¿Ella es Katsura-san...?^	00:36:16;
+
+[PlayVoice]=00:33:19	Voice05/05-A2/05-A2-E00/05-A2-E00-0140	0	sek	00:36:16;
+
+[PlayMovie]=00:36:20	Movie05/05-A2/05-A2-E00/05-A2-E00-005	0	00:39:05;
+
+[PrintText]=00:37:20	Makoto Makoto·Sekai Sekai	¿....?^	00:38:19;
+
+[PlayVoice]=00:37:20	Voice05/05-A2/05-A2-E00/05-A2-E00-0170A	0	x01	00:38:19;
+
+[PlayVoice]=00:37:20	Voice05/05-A2/05-A2-E00/05-A2-E00-0170B	0	x01	00:39:01;
+
+[PlayBgm]=00:39:05	BGM/SD_BGM/sdbgm27	00:45:06;
+
+[PlayMovie]=00:39:05	Movie05/05-A2/05-A2-E00/05-A2-E00-006	0	00:40:08;
+
+[PlaySe]=00:40:07	1	Se05/05-A2/05-A2-E00/SE05-A2-E00-002	00:41:12;
+
+[PlayMovie]=00:40:08	Movie05/05-A2/05-A2-E00/05-A2-E00-007	0	00:41:08;
+
+[PlaySe]=00:41:08	2	Se05/05-A2/05-A2-E00/SE05-A2-E00-003	00:46:03;
+
+[PlayMovie]=00:41:08	Movie05/05-A2/05-A2-E00/05-A2-E00-008	0	00:42:04;
+
+[PlayMovie]=00:42:04	Movie05/05-A2/05-A2-E00/05-A2-E00-009	0	00:45:06;
+
+[PlaySe]=00:42:06	3	Se05/05-A2/05-A2-E00/SE05-A2-E00-002	00:43:11;
+
+[PlaySe]=00:45:06	4	Se05/05-A2/05-A2-E00/SE05-A2-E00-002	00:46:11;
+
+[PlayMovie]=00:45:06	Movie05/05-A2/05-A2-E00/05-A2-E00-010	0	00:48:00;
+
+[PlaySe]=00:46:16	1	Se05/05-A2/05-A2-E00/SE05-A2-E00-004	00:48:03;
+
+[PlaySe]=00:46:16	2	Se05/05-A2/05-A2-E00/SE05-A2-E00-005	00:51:05;
+
+[PlaySe]=00:46:16	3	Se05/05-A2/05-A2-E00/SE05-A2-E00-006	00:51:22;
+
+[PrintText]=00:47:21	Sekai	¡Nooooooo!	00:51:03;
+
+[PlayVoice]=00:47:21	Voice05/05-A2/05-A2-E00/05-A2-E00-0190	0	sek	00:51:03;
+
+[PlayMovie]=00:48:00	Movie05/05-A2/05-A2-E00/05-A2-E00-011	0	00:51:22;
+
+[BlackFade]=00:50:22	OUT	00:51:22;
+
+ ;
+
+[Next]=00:51:22;
+
+

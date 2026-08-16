@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:29:03;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:29:03;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-J03/SE03-KA-J03-001	00:29:03;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-001	00:05:09;
+
+[PrintText]=00:00:00	Makoto	Haah... Se está haciendo tarde ¿No?^	00:04:04;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-J03/03-KA-J03-0030	1	mak	00:04:04;
+
+[PrintText]=00:04:00	Setsuna	Buen trabajo.	00:05:09;
+
+[PlayVoice]=00:04:00	Voice03/03-KA/03-KA-J03/03-KA-J03-0040	0	set	00:05:09;
+
+[CreateBG]=00:05:09	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-002	00:07:17;
+
+[PrintText]=00:05:09	Makoto	Tú también.	00:06:19;
+
+[PlayVoice]=00:05:09	Voice03/03-KA/03-KA-J03/03-KA-J03-0050	1	mak	00:06:19;
+
+[PrintText]=00:06:20	Setsuna	Uh-huh.	00:07:11;
+
+[PlayVoice]=00:06:20	Voice03/03-KA/03-KA-J03/03-KA-J03-0060	0	set	00:07:11;
+
+[CreateBG]=00:07:17	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-003	00:10:00;
+
+[PrintText]=00:07:18	Makoto	¿Quieres tomar un bocado para comer en algún lugar?^	00:09:21;
+
+[PlayVoice]=00:07:18	Voice03/03-KA/03-KA-J03/03-KA-J03-0070	1	mak	00:09:21;
+
+[CreateBG]=00:10:00	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-004A	00:12:17;
+
+[PrintText]=00:10:01	Setsuna	¡¿Eh?! ...Uuu...	00:12:14;
+
+[PlayVoice]=00:10:01	Voice03/03-KA/03-KA-J03/03-KA-J03-0080	0	set	00:12:14;
+
+[CreateBG]=00:12:17	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-004B	00:13:18;
+
+[PrintText]=00:12:21	Makoto	Ah...	00:13:11;
+
+[PlayVoice]=00:12:21	Voice03/03-KA/03-KA-J03/03-KA-J03-0100	1	mak	00:13:11;
+
+[CreateBG]=00:13:18	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-004C	00:15:03;
+
+[PrintText]=00:13:20	Setsuna	¿Pasó algo malo?^	00:15:00;
+
+[PlayVoice]=00:13:20	Voice03/03-KA/03-KA-J03/03-KA-J03-0110	0	set	00:15:00;
+
+[CreateBG]=00:15:03	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-004D	00:17:17;
+
+[PrintText]=00:15:04	Makoto	Lo siento, tengo que ocuparme de algo.	00:17:15;
+
+[PlayVoice]=00:15:04	Voice03/03-KA/03-KA-J03/03-KA-J03-0120	1	mak	00:17:15;
+
+[CreateBG]=00:17:17	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-002	00:22:10;
+
+[PrintText]=00:17:19	Setsuna	No tienes por qué. No hicimos planes aún.	00:22:12;
+
+[PlayVoice]=00:17:19	Voice03/03-KA/03-KA-J03/03-KA-J03-0130	0	set	00:22:12;
+
+[CreateBG]=00:22:10	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-003	00:26:15;
+
+[PrintText]=00:22:10	Makoto	Haha... estoy empezando a acostumbrarme a como hablas. Bueno, nos vemos.	00:26:14;
+
+[PlayVoice]=00:22:10	Voice03/03-KA/03-KA-J03/03-KA-J03-0140	1	mak	00:26:14;
+
+[CreateBG]=00:26:15	BGS	Event03/03-KA/03-KA-J03/03-KA-J03-001	00:29:03;
+
+[PrintText]=00:26:17	Setsuna	Nos vemos mañana.	00:27:22;
+
+[PlayVoice]=00:26:17	Voice03/03-KA/03-KA-J03/03-KA-J03-0150	0	set	00:27:22;
+
+[BlackFade]=00:28:03	OUT	00:29:03;
+
+ ;
+
+[Next]=00:29:03;
+
+

@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=01:07:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:20:14;
+
+[PlaySe]=00:00:00	1	Se03/03-B1/03-B1-D00/SE03-B1-D00-001	00:24:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-B1/03-B1-D00/03-B1-D00-001	00:04:02;
+
+[PrintText]=00:00:00	Makoto	¡Haah...! ¡Haah...!	00:04:02;
+
+[PlayVoice]=00:00:00	Voice03/03-B1/03-B1-D00/03-B1-D00-0050	1	mak	00:04:02;
+
+[CreateBG]=00:04:02	BGS	Event03/03-B1/03-B1-D00/03-B1-D00-002	00:08:11;
+
+[PrintText]=00:04:02	Kotonoha	Ah...	00:05:09;
+
+[PlayVoice]=00:04:02	Voice03/03-B1/03-B1-D00/03-B1-D00-0060	0	kot	00:05:09;
+
+[PrintText]=00:05:09	Makoto	Phew... perdón por hacerte esperar.	00:09:15;
+
+[PlayVoice]=00:05:09	Voice03/03-B1/03-B1-D00/03-B1-D00-0070	1	mak	00:09:15;
+
+[CreateBG]=00:08:11	BGS	Event03/03-B1/03-B1-D00/03-B1-D00-003	00:13:19;
+
+[PrintText]=00:09:16	Kotonoha	¡E-Está bien! ¿Pero cómo...?^	00:13:19;
+
+[PlayVoice]=00:09:16	Voice03/03-B1/03-B1-D00/03-B1-D00-0080	0	kot	00:13:19;
+
+[CreateBG]=00:13:19	BGS	Event03/03-B1/03-B1-D00/03-B1-D00-004	00:18:19;
+
+[PrintText]=00:13:19	Makoto	No puedo estar contigo durante todo el día, así que imaginé que vendrías aquí.	00:17:21;
+
+[PlayVoice]=00:13:19	Voice03/03-B1/03-B1-D00/03-B1-D00-0090	1	mak	00:17:21;
+
+[PrintText]=00:17:21	Kotonoha	Ah...	00:18:18;
+
+[PlayVoice]=00:17:21	Voice03/03-B1/03-B1-D00/03-B1-D00-0100	0	kot	00:18:18;
+
+[PrintText]=00:18:18	Makoto	Ven, bailemos.	00:21:17;
+
+[PlayVoice]=00:18:18	Voice03/03-B1/03-B1-D00/03-B1-D00-0120	1	mak	00:21:17;
+
+[CreateBG]=00:18:19	BGS	Event03/03-B1/03-B1-D00/03-B1-D00-005A	00:21:17;
+
+[EndBGM]=00:19:01	BGM/Vocal/SDV04	02:29:18;
+
+[CreateBG]=00:21:17	BGS	Event03/03-B1/03-B1-D00/03-B1-D00-005B	00:22:21;
+
+[PrintText]=00:21:17	Kotonoha	¡Sí!	00:22:18;
+
+[PlayVoice]=00:21:17	Voice03/03-B1/03-B1-D00/03-B1-D00-0130	0	kot	00:22:18;
+
+[CreateBG]=00:22:21	BGS	Event03/03-B1/03-B1-D00/03-B1-D00-006	00:24:00;
+
+[BlackFade]=00:23:00	OUT	00:24:00;
+
+[CreateBG]=00:24:00	BGS	Ini/EndRoll/03-03	00:27:00;
+
+[EndRoll]=00:27:00	Ini/EndRoll/NORMAL	01:07:00;
+
+ ;
+
+[Next]=01:07:00;
+
+

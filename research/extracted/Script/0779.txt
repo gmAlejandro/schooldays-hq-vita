@@ -1,0 +1,37 @@
+﻿[SkipFRAME]=00:07:21;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-H02/SE03-SA-H02-001	00:07:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-H02/03-SA-H02-001	00:01:00;
+
+[PrintText]=00:00:00	Makoto	Lo haré.	00:00:23;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-H02/03-SA-H02-0030	1	mak	00:00:23;
+
+[CreateBG]=00:01:00	BGS	Event03/03-SA/03-SA-H02/03-SA-H02-002	00:05:06;
+
+[PrintText]=00:01:00	Sekai	Eheheh... Gracias.	00:03:07;
+
+[PlayVoice]=00:01:00	Voice03/03-SA/03-SA-H02/03-SA-H02-0040	0	sek	00:03:07;
+
+[PrintText]=00:03:06	Makoto	Bien, nos vemos después.	00:05:05;
+
+[PlayVoice]=00:03:06	Voice03/03-SA/03-SA-H02/03-SA-H02-0050	1	mak	00:05:05;
+
+[CreateBG]=00:05:06	BGS	Event03/03-SA/03-SA-H02/03-SA-H02-003	00:05:20;
+
+[PrintText]=00:05:06	Sekai	Sip.	00:05:21;
+
+[PlayVoice]=00:05:06	Voice03/03-SA/03-SA-H02/03-SA-H02-0060	0	sek	00:05:21;
+
+[CreateBG]=00:05:20	BGS	Event03/03-SA/03-SA-H02/03-SA-H02-004	00:07:21;
+
+[PrintText]=00:05:21	Makoto	El baile folk, huh...	00:07:17;
+
+[PlayVoice]=00:05:21	Voice03/03-SA/03-SA-H02/03-SA-H02-0080	1	mak	00:07:17;
+
+ ;
+
+[Next]=00:07:21;
+
+

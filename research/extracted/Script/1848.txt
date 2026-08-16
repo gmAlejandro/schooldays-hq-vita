@@ -1,0 +1,158 @@
+﻿[SkipFRAME]=01:58:01;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	01:40:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-002	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-003	00:06:04;
+
+[PrintText]=00:05:01	Makoto	Ah...	00:05:23;
+
+[PlayVoice]=00:05:01	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0050	1	mak	00:05:23;
+
+[CreateBG]=00:06:04	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-004	00:08:05;
+
+[PlayMovie]=00:08:05	Movie05/05-SE/05-SE-Q00/05-SE-Q00-005	0	00:17:20;
+
+[PrintText]=00:08:05	Kotonoha	¿Cómo fue?^	00:09:11;
+
+[PlayVoice]=00:08:05	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0070	0	kot	00:09:11;
+
+[PrintText]=00:09:13	Makoto	¿Cómo fue qué?^	00:10:14;
+
+[PlayVoice]=00:09:13	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0080	1	mak	00:10:14;
+
+[PrintText]=00:10:20	Kotonoha	Saionji-san. ¿Qué te dijo sobre el bebé?^	00:16:14;
+
+[PlayVoice]=00:10:20	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0090	0	kot	00:16:14;
+
+[PrintText]=00:16:17	Makoto	...	00:17:12;
+
+[PlayVoice]=00:16:17	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0100	1	xxx	00:17:12;
+
+[CreateBG]=00:17:20	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-002	00:21:22;
+
+[PrintText]=00:18:01	Kotonoha	¿Le has dicho algo?^	00:19:23;
+
+[PlayVoice]=00:18:01	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0110	0	kot	00:19:23;
+
+[PrintText]=00:20:14	Makoto	¿Cómo podría?^	00:21:18;
+
+[PlayVoice]=00:20:14	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0120	1	mak	00:21:18;
+
+[CreateBG]=00:21:22	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-007	00:29:08;
+
+[PrintText]=00:22:01	Kotonoha	Sí, lo suponía.	00:23:18;
+
+[PlayVoice]=00:22:01	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0130	0	kot	00:23:18;
+
+[PrintText]=00:24:01	Makoto	...	00:25:05;
+
+[PlayVoice]=00:24:01	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0140	1	xxx	00:25:05;
+
+[PrintText]=00:25:15	Kotonoha	Si estás contento con todo esto...	00:29:08;
+
+[PlayVoice]=00:25:15	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0150	0	kot	00:29:08;
+
+[CreateBG]=00:29:08	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-008	00:38:14;
+
+[PrintText]=00:29:08	Kotonoha	Y la aceptas, con su bebé y todo...	00:34:06;
+
+[PlayVoice]=00:29:08	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0151	0	kot	00:34:06;
+
+[PrintText]=00:34:07	Kotonoha	Entonces creo que es lo mejor.	00:36:22;
+
+[PlayVoice]=00:34:07	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0152	0	kot	00:36:22;
+
+[PrintText]=00:37:07	Makoto	Uh...	00:38:11;
+
+[PlayVoice]=00:37:07	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0160	1	mak	00:38:11;
+
+[CreateBG]=00:38:14	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-009	00:51:11;
+
+[PrintText]=00:38:19	Kotonoha	Te amo, Makoto-kun.	00:42:10;
+
+[PlayVoice]=00:38:19	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0170	0	kot	00:42:10;
+
+[PrintText]=00:42:18	Makoto	Uh-huh.	00:44:16;
+
+[PlayVoice]=00:42:18	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0180	1	mak	00:44:16;
+
+[PrintText]=00:45:08	Kotonoha	Pero si tienes sentimientos muy fuertes por Saionji-san... entonces no tengo opción.	00:53:18;
+
+[PlayVoice]=00:45:08	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0190	0	kot	00:53:18;
+
+[CreateBG]=00:51:11	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-010	00:55:17;
+
+[PrintText]=00:54:03	Makoto	...	00:55:06;
+
+[PlayVoice]=00:54:03	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0200	1	xxx	00:55:06;
+
+[CreateBG]=00:55:17	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-011	01:09:03;
+
+[PrintText]=00:56:03	Kotonoha	Renunciaré a ti... y los apoyaré.	01:08:23;
+
+[PlayVoice]=00:56:03	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0210	0	kot	01:08:23;
+
+[CreateBG]=01:09:03	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-012	01:39:19;
+
+[PrintText]=01:09:08	Makoto	...También te amo, Kotonoha.	01:13:02;
+
+[PlayVoice]=01:09:08	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0230	1	mak	01:13:02;
+
+[PrintText]=01:13:13	Kotonoha	¿Huh...? Pero Saionji-san...	01:17:16;
+
+[PlayVoice]=01:13:13	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0240	0	kot	01:17:16;
+
+[PrintText]=01:18:03	Makoto	Sekai... no es que no la quiera, pero...	01:23:22;
+
+[PlayVoice]=01:18:03	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0250	1	mak	01:23:22;
+
+[PrintText]=01:25:00	Makoto	Simplemente no puedo soportar la carga de un hijo que no es mio. Es mucho para mí.	01:32:17;
+
+[PlayVoice]=01:25:00	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0260	1	mak	01:32:17;
+
+[PrintText]=01:33:02	Kotonoha	S-SÍ...	01:35:00;
+
+[PlayVoice]=01:33:02	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0270	0	kot	01:35:00;
+
+[PrintText]=01:35:04	Makoto	Para ser honesto, no puedo seguir con ella.	01:39:16;
+
+[PlayVoice]=01:35:04	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0280	1	mak	01:39:16;
+
+[CreateBG]=01:39:19	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-002	01:49:11;
+
+[PrintText]=01:39:22	Kotonoha	Ya veo.	01:40:23;
+
+[PlayVoice]=01:39:22	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0290	0	kot	01:40:23;
+
+[PlaySe]=01:40:00	2	SysSe/SE_all/station_train/gakuenmae_yuugata	01:58:01;
+
+[PrintText]=01:41:15	Makoto	Esto tal vez suene extraño, o tal vez suene muy egoísta, pero...	01:47:14;
+
+[PlayVoice]=01:41:15	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0300	1	mak	01:47:14;
+
+[PrintText]=01:47:22	Kotonoha	N-no.	01:49:08;
+
+[PlayVoice]=01:47:22	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0310	0	kot	01:49:08;
+
+[CreateBG]=01:49:11	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-014	01:55:13;
+
+[PrintText]=01:49:17	Makoto	Te... Te amo.	01:55:07;
+
+[PlayVoice]=01:49:17	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0320	1	mak	01:55:07;
+
+[CreateBG]=01:55:13	BGS	Event05/05-SE/05-SE-Q00/05-SE-Q00-015	01:58:01;
+
+[PrintText]=01:55:19	Kotonoha	Makoto-kun...	01:57:05;
+
+[PlayVoice]=01:55:19	Voice05/05-SE/05-SE-Q00/05-SE-Q00-0330	0	kot	01:57:05;
+
+ ;
+
+[Next]=01:58:01;
+
+
+

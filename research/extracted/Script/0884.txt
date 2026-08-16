@@ -1,0 +1,97 @@
+﻿[SkipFRAME]=01:04:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:04:19;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C0/04-C0-I01/04-C0-I01-001	00:07:23;
+
+[PrintText]=00:00:00	Makoto	¡...!	00:00:21;
+
+[PlayVoice]=00:00:00	Voice04/04-C0/04-C0-I01/04-C0-I01-0030	1	mak	00:00:21;
+
+[PlaySe]=00:00:15	1	SysSe/SE_all/action/chair1	00:00:22;
+
+[PrintText]=00:00:21	Kotonoha	¡Kyah!	00:01:18;
+
+[PlayVoice]=00:00:21	Voice04/04-C0/04-C0-I01/04-C0-I01-0050	0	kot	00:01:18;
+
+[PrintText]=00:01:18	Makoto	No puedes...	00:02:21;
+
+[PlayVoice]=00:01:18	Voice04/04-C0/04-C0-I01/04-C0-I01-0060	1	mak	00:02:21;
+
+[PrintText]=00:02:21	Kotonoha	Makoto-kun...	00:05:18;
+
+[PlayVoice]=00:02:21	Voice04/04-C0/04-C0-I01/04-C0-I01-0070	0	kot	00:05:18;
+
+[PrintText]=00:05:19	Makoto	No puedes...	00:06:18;
+
+[PlayVoice]=00:05:19	Voice04/04-C0/04-C0-I01/04-C0-I01-0080	1	mak	00:06:18;
+
+[PrintText]=00:06:18	Kotonoha	¿Por qué no?^	00:07:23;
+
+[PlayVoice]=00:06:18	Voice04/04-C0/04-C0-I01/04-C0-I01-0090	0	kot	00:07:23;
+
+[CreateBG]=00:07:23	BGS	Event04/04-C0/04-C0-I01/04-C0-I01-003	00:10:14;
+
+[PrintText]=00:07:23	Makoto	La verdad es que... yo...	00:10:13;
+
+[PlayVoice]=00:07:23	Voice04/04-C0/04-C0-I01/04-C0-I01-0100	1	mak	00:10:13;
+
+[CreateBG]=00:10:14	BGS	Event04/04-C0/04-C0-I01/04-C0-I01-004	00:23:20;
+
+[PrintText]=00:10:14	Kotonoha	¡Lo sé! Lo estabas haciendo con Saionji-san! ¡Eso no me importa!.... Mientras que me ames.	00:19:03;
+
+[PlayVoice]=00:10:14	Voice04/04-C0/04-C0-I01/04-C0-I01-0110	0	kot	00:19:03;
+
+[PrintText]=00:19:03	Makoto	Kuh...	00:20:02;
+
+[PlayVoice]=00:19:03	Voice04/04-C0/04-C0-I01/04-C0-I01-0120	1	mak	00:20:02;
+
+[PrintText]=00:20:03	Kotonoha	¡Quiero... hacerlo! ¡Quiero que me toques!	00:23:20;
+
+[PlayVoice]=00:20:03	Voice04/04-C0/04-C0-I01/04-C0-I01-0130	0	kot	00:23:20;
+
+[CreateBG]=00:23:20	BGS	Event04/04-C0/04-C0-I01/04-C0-I01-005	00:27:14;
+
+[PrintText]=00:23:20	Makoto	¡Perdóname!	00:24:18;
+
+[PlayVoice]=00:23:20	Voice04/04-C0/04-C0-I01/04-C0-I01-0140	1	mak	00:24:18;
+
+[PlaySe]=00:24:06	2	SysSe/SE_all/action/chair1	00:24:14;
+
+[PlaySe]=00:24:13	1	SysSe/SE_all/home/makoto_door_close	00:25:13;
+
+[PrintText]=00:24:19	Kotonoha	¡Makoto-kun!	00:27:14;
+
+[PlayVoice]=00:24:19	Voice04/04-C0/04-C0-I01/04-C0-I01-0170	0	kot	00:27:14;
+
+[CreateBG]=00:27:14	BGS	Event04/04-C0/04-C0-I01/04-C0-I01-006	00:28:03;
+
+[PrintText]=00:27:14	Kotonoha	¡Makoto-kun! ¡Dilo!, por favor, Dilo!	00:32:00;
+
+[PlayVoice]=00:27:14	Voice04/04-C0/04-C0-I01/04-C0-I01-0190	0	kot	00:32:00;
+
+[CreateBG]=00:28:03	BGS	Event04/04-C0/04-C0-I01/04-C0-I01-007	00:47:05;
+
+[PrintText]=00:32:01	Kotonoha	¡Makoto-kun! ¡Makoto-kun!	00:35:14;
+
+[PlayVoice]=00:32:01	Voice04/04-C0/04-C0-I01/04-C0-I01-0200	0	kot	00:35:14;
+
+[PrintText]=00:35:15	Makoto	...	00:38:11;
+
+[PlayVoice]=00:35:15	Voice04/04-C0/04-C0-I01/04-C0-I01-0210	1	xxx	00:38:11;
+
+[PrintText]=00:38:11	Kotonoha	¡Makoto-kun! Makoto-kun... Makoto-kun... uuh...	00:50:21;
+
+[PlayVoice]=00:38:11	Voice04/04-C0/04-C0-I01/04-C0-I01-0220	0	kot	00:50:21;
+
+[CreateBG]=00:47:05	BGS	Event04/04-C0/04-C0-I01/04-C0-I01-008	01:04:19;
+
+[PrintText]=00:50:22	Kotonoha	¡Makoto... kun... kuh...! Uu... uwaaaah...!	01:04:15;
+
+[PlayVoice]=00:50:22	Voice04/04-C0/04-C0-I01/04-C0-I01-0230	0	kot	01:04:15;
+
+ ;
+
+[Next]=01:04:19;
+
+

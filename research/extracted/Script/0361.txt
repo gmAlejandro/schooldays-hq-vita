@@ -1,0 +1,27 @@
+﻿[SkipFRAME]=00:04:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:04:06;
+
+[PlaySe]=00:00:00	2	Se02/02-2S/02-2S-Q01/SE02-2S-Q01-001	00:04:06;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-Q01/02-2S-Q01-001	00:04:06;
+
+[PrintText]=00:00:00	Makoto	¡¡Buen día!!	00:01:04;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-Q01/02-2S-Q01-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:05	Kotonoha	Ufufu...	00:02:12;
+
+[PlayVoice]=00:01:05	Voice02/02-2S/02-2S-Q01/02-2S-Q01-0040	0	kot	00:02:12;
+
+[PlaySe]=00:02:05	1	Voice02/02-2S/02-2S-Q01/02-2S-Q01-0050	00:03:05;
+
+[BlackFade]=00:03:06	OUT	00:04:06;
+
+ ;
+
+[Next]=00:04:06;
+
+
+
+

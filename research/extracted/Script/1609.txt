@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:16:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:22:02;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KG/05-KG-C01/05-KG-C01-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-KG/05-KG-C01/05-KG-C01-002	00:06:13;
+
+[PrintText]=00:03:02	Makoto	¿A la que verdaderamente amo...uh?^	00:06:12;
+
+[PlayVoice]=00:03:02	Voice05/05-KG/05-KG-C01/05-KG-C01-0040	1	xxx	00:06:12;
+
+[CreateBG]=00:06:13	BGS	Event05/05-KG/05-KG-C01/05-KG-C01-003	00:10:08;
+
+[PrintText]=00:06:17	Makoto	Eso es lo que ella piensa de mí... pero...	00:10:06;
+
+[PlayVoice]=00:06:17	Voice05/05-KG/05-KG-C01/05-KG-C01-0050	1	xxx	00:10:06;
+
+[CreateBG]=00:10:08	BGS	Event05/05-KG/05-KG-C01/05-KG-C01-004	00:12:11;
+
+[PrintText]=00:10:14	Makoto	Qué estoy haciendo...	00:12:05;
+
+[PlayVoice]=00:10:14	Voice05/05-KG/05-KG-C01/05-KG-C01-0060	1	xxx	00:12:05;
+
+[CreateBG]=00:12:11	BGS	Event05/05-KG/05-KG-C01/05-KG-C01-005	00:16:09;
+
+[PrintText]=00:12:20	Makoto	Kotonoha...	00:16:01;
+
+[PlayVoice]=00:12:20	Voice05/05-KG/05-KG-C01/05-KG-C01-0070	1	xxx	00:16:01;
+
+[SetSELECT]=00:16:02	'¿La amo?'	'¿Le tengo lastima?'	00:21:02;
+
+[CreateBG]=00:16:09	BGS	Event05/05-KG/05-KG-C01/05-KG-C01-006	00:22:02;
+
+ ;
+
+[Next]=00:22:02;
+
+
+
+

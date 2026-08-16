@@ -1,0 +1,36 @@
+﻿[SkipFRAME]=00:18:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:18:11;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/keitai/hanasityuu	00:02:19;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-A01/05-KB-A01-002	00:08:05;
+
+[PlaySe]=00:02:19	3	SysSe/SE_all/keitai/mailedit	00:03:08;
+
+[PrintText]=00:03:02	Kotonoha	...	00:04:16;
+
+[PlayVoice]=00:03:02	Voice05/05-KB/05-KB-A01/05-KB-A01-0050	0	xxx	00:04:16;
+
+[PlaySe]=00:04:12	4	SysSe/SE_all/keitai/mailedit	00:06:12;
+
+[PlayMovie]=00:08:05	Movie05/05-KB/05-KB-A01/05-KB-A01-003	0	00:11:23;
+
+[PlaySe]=00:08:16	2	SysSe/SE_all/keitai/hanasityuu	00:11:14;
+
+[PlaySe]=00:11:14	5	SysSe/SE_all/keitai/mailedit	00:11:23;
+
+[CreateBG]=00:11:23	BGS	Event05/05-KB/05-KB-A01/05-KB-A01-004	00:13:17;
+
+[CreateBG]=00:13:17	BGS	Event05/05-KB/05-KB-A01/05-KB-A01-007	00:18:11;
+
+[PrintText]=00:13:23	Kotonoha	Me pregunto si estará ella al teléfono con Makoto-kun...	00:17:13;
+
+[PlayVoice]=00:13:23	Voice05/05-KB/05-KB-A01/05-KB-A01-0090	0	kot	00:17:13;
+
+ ;
+
+[Next]=00:18:11;
+
+
+

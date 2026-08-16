@@ -1,0 +1,61 @@
+﻿[SkipFRAME]=00:31:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:31:19;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-I01/02-2K-I01-001	00:04:00;
+
+[PrintText]=00:03:08	Sekai	¿Huh? Makoto, no irás a ver a Katsura-san... ah.	00:08:04;
+
+[PlayVoice]=00:03:08	Voice02/02-2K/02-2K-I01/02-2K-I01-0050	0	sek	00:08:04;
+
+[CreateBG]=00:04:00	BGS	Event02/02-2K/02-2K-I01/02-2K-I01-002	00:06:10;
+
+[CreateBG]=00:06:10	BGS	Event02/02-2K/02-2K-I01/02-2K-I01-003	00:10:07;
+
+[PrintText]=00:08:15	Makoto	...	00:10:00;
+
+[PlayVoice]=00:08:15	Voice02/02-2K/02-2K-I01/02-2K-I01-0070	1	xxx	00:10:00;
+
+[CreateBG]=00:10:07	BGS	Event02/02-2K/02-2K-I01/02-2K-I01-004	00:20:17;
+
+[PrintText]=00:10:07	Sekai	¿Qué pasó?^	00:11:15;
+
+[PlayVoice]=00:10:07	Voice02/02-2K/02-2K-I01/02-2K-I01-0080	0	sek	00:11:15;
+
+[PrintText]=00:12:00	Makoto	Hice exactamente lo que me dijiste.	00:14:04;
+
+[PlayVoice]=00:12:00	Voice02/02-2K/02-2K-I01/02-2K-I01-0090	1	mak	00:14:04;
+
+[PrintText]=00:14:10	Sekai	Me parece que trataste de hacer algo contra su voluntad...	00:18:00;
+
+[PlayVoice]=00:14:10	Voice02/02-2K/02-2K-I01/02-2K-I01-0100	0	sek	00:18:00;
+
+[PrintText]=00:18:08	Makoto	...	00:20:12;
+
+[PlayVoice]=00:18:08	Voice02/02-2K/02-2K-I01/02-2K-I01-0110	1	xxx	00:20:12;
+
+[CreateBG]=00:20:17	BGS	Event02/02-2K/02-2K-I01/02-2K-I01-005	00:25:04;
+
+[PrintText]=00:20:23	Sekai	Lo sabía.	00:22:15;
+
+[PlayVoice]=00:20:23	Voice02/02-2K/02-2K-I01/02-2K-I01-0120	0	sek	00:22:15;
+
+[PrintText]=00:22:18	Makoto	Uuu ...	00:24:17;
+
+[PlayVoice]=00:22:18	Voice02/02-2K/02-2K-I01/02-2K-I01-0130	1	mak	00:24:17;
+
+[CreateBG]=00:25:04	BGS	Event02/02-2K/02-2K-I01/02-2K-I01-006	00:31:19;
+
+[PrintText]=00:25:15	Sekai	Haah ... creo que lo menos que puedo hacer por ti es escucharte.	00:30:13;
+
+[PlayVoice]=00:25:15	Voice02/02-2K/02-2K-I01/02-2K-I01-0160	0	sek	00:30:13;
+
+[BlackFade]=00:30:19	OUT	00:31:19;
+
+ ;
+
+[Next]=00:31:19;
+
+
+
+

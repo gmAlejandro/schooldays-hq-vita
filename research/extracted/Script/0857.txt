@@ -1,0 +1,67 @@
+﻿[SkipFRAME]=00:28:10;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-I04/SE03-SB-I04-001	00:28:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-I04/03-SB-I04-001	00:03:06;
+
+[PrintText]=00:02:00	Makoto	...	00:03:05;
+
+[PlayVoice]=00:02:00	Voice03/03-SB/03-SB-I04/03-SB-I04-0030	1	xxx	00:03:05;
+
+[PrintText]=00:03:05	Setsuna	Bien.	00:04:07;
+
+[PlayVoice]=00:03:05	Voice03/03-SB/03-SB-I04/03-SB-I04-0040	0	set	00:04:07;
+
+[CreateBG]=00:03:06	BGS	Event03/03-SB/03-SB-I04/03-SB-I04-002	00:06:12;
+
+[PrintText]=00:04:08	Nanami	¿Setsuna?^	00:05:11;
+
+[PlayVoice]=00:04:08	Voice03/03-SB/03-SB-I04/03-SB-I04-0050	0	nan	00:05:11;
+
+[PrintText]=00:05:12	Setsuna	Ya no te preguntaré más.	00:06:21;
+
+[PlayVoice]=00:05:12	Voice03/03-SB/03-SB-I04/03-SB-I04-0060	0	set	00:06:21;
+
+[CreateBG]=00:06:12	BGS	Event03/03-SB/03-SB-I04/03-SB-I04-003	00:14:22;
+
+[PrintText]=00:06:20	Nanami	Espera, Setsuna.	00:08:19;
+
+[PlayVoice]=00:06:20	Voice03/03-SB/03-SB-I04/03-SB-I04-0080	0	nan	00:08:19;
+
+[PrintText]=00:08:19	Kotonoha	¿Está bien?^	00:10:05;
+
+[PlayVoice]=00:08:19	Voice03/03-SB/03-SB-I04/03-SB-I04-0100	0	kot	00:10:05;
+
+[PrintText]=00:10:05	Makoto	Sí.	00:10:21;
+
+[PlayVoice]=00:10:05	Voice03/03-SB/03-SB-I04/03-SB-I04-0110	1	mak	00:10:21;
+
+[PrintText]=00:10:21	Kotonoha	Lo siento... creo que todo es mi culpa.	00:14:22;
+
+[PlayVoice]=00:10:21	Voice03/03-SB/03-SB-I04/03-SB-I04-0120	0	kot	00:14:22;
+
+[CreateBG]=00:14:22	BGS	Event03/03-SB/03-SB-I04/03-SB-I04-004	00:18:18;
+
+[PrintText]=00:14:22	Makoto	No es tu culpa. Ellos están locos.	00:18:18;
+
+[PlayVoice]=00:14:22	Voice03/03-SB/03-SB-I04/03-SB-I04-0130	1	mak	00:18:18;
+
+[CreateBG]=00:18:18	BGS	Event03/03-SB/03-SB-I04/03-SB-I04-005	00:28:10;
+
+[PrintText]=00:18:18	Kotonoha	...	00:19:23;
+
+[PlayVoice]=00:18:18	Voice03/03-SB/03-SB-I04/03-SB-I04-0140	0	xxx	00:19:23;
+
+[PrintText]=00:20:00	Makoto	Vamos. Si están desesperados con mi ayuda, entonces es probable que estén teniendo problema con las ordenes.	00:26:22;
+
+[PlayVoice]=00:20:00	Voice03/03-SB/03-SB-I04/03-SB-I04-0150	1	mak	00:26:22;
+
+[PrintText]=00:26:22	Kotonoha	Ah, Vale.	00:28:09;
+
+[PlayVoice]=00:26:22	Voice03/03-SB/03-SB-I04/03-SB-I04-0170	0	kot	00:28:09;
+
+ ;
+
+[Next]=00:28:10;
+
+

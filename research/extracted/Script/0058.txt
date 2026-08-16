@@ -1,0 +1,65 @@
+﻿[SkipFRAME]=00:50:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:50:15;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-G01/01-00-G01-001	00:02:01;
+
+[PrintText]=00:00:06	Makoto	...¿Quería terminar conmigo?!	00:01:20;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-G01/01-00-G01-0030	1	xxx	00:01:20;
+
+[PlayMovie]=00:02:01	Movie00/00-00/00-00-A07/00-00-A07-001	0	00:07:19;
+
+[PrintText]=00:02:16	Makoto	Es cierto... nuestra cita de ayer fue un tanto incómoda, y ni hablamos...	00:07:14;
+
+[PlayVoice]=00:02:16	Voice01/01-00/01-00-G01/01-00-G01-0040	1	xxx	00:07:14;
+
+[CreateBG]=00:07:19	BGS	Event01/01-00/01-00-G01/01-00-G01-003	00:13:21;
+
+[PrintText]=00:07:19	Makoto	Y ella dijo algo acerca de que la metí en problemas por llegar tarde.	00:12:00;
+
+[PlayVoice]=00:07:19	Voice01/01-00/01-00-G01/01-00-G01-0050	1	xxx	00:12:00;
+
+[PrintText]=00:12:14	Makoto	De seguro su padre dijo algo como '¡No permitiré que estés con chico como él!'...	00:18:10;
+
+[PlayVoice]=00:12:14	Voice01/01-00/01-00-G01/01-00-G01-0060	1	xxx	00:18:10;
+
+[CreateBG]=00:13:21	BGS	Event01/01-00/01-00-G01/01-00-G01-004	00:21:15;
+
+[PrintText]=00:19:02	Makoto	No, espera. Cálmate... ella hablaría de la primera cita con sus padres, no haría eso.	00:27:06;
+
+[PlayVoice]=00:19:02	Voice01/01-00/01-00-G01/01-00-G01-0070	1	xxx	00:27:06;
+
+[CreateBG]=00:21:15	BGS	Event01/01-00/01-00-G01/01-00-G01-005	00:28:19;
+
+[PrintText]=00:27:23	Makoto	Ah...	00:28:13;
+
+[PlayVoice]=00:27:23	Voice01/01-00/01-00-G01/01-00-G01-0080	1	xxx	00:28:13;
+
+[CreateBG]=00:28:19	BGS	Event01/01-00/01-00-G01/01-00-G01-006	00:40:15;
+
+[PrintText]=00:29:05	Makoto	Pero tal vez cosas como esas se han ido sumando, y ahora ya no le gusto.	00:36:04;
+
+[PlayVoice]=00:29:05	Voice01/01-00/01-00-G01/01-00-G01-0090	1	xxx	00:36:04;
+
+[PrintText]=00:36:19	Makoto	En ese caso, ella debería terminar conmigo después de todo.	00:44:01;
+
+[PlayVoice]=00:36:19	Voice01/01-00/01-00-G01/01-00-G01-0100	1	xxx	00:44:01;
+
+[CreateBG]=00:40:15	BGS	Event01/01-00/01-00-G01/01-00-G01-007	00:45:21;
+
+[PrintText]=00:44:20	Makoto	De todas maneras, le pregunta mañana después de clase.	00:48:16;
+
+[PlayVoice]=00:44:20	Voice01/01-00/01-00-G01/01-00-G01-0110	1	xxx	00:48:16;
+
+[CreateBG]=00:45:21	BGS	Event01/01-00/01-00-G01/01-00-G01-006	00:50:15;
+
+[BlackFade]=00:49:15	OUT	00:50:15;
+
+ ;
+
+[Next]=00:50:15;
+
+
+
+

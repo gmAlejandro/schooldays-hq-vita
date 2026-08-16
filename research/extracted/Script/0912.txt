@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:10:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:10:14;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-B00/04-KA-B00-001	00:03:21;
+
+[PrintText]=00:01:09	Makoto	Fwaah...	00:05:07;
+
+[PlayVoice]=00:01:09	Voice04/04-KA/04-KA-B00/04-KA-B00-0030	1	mak	00:05:07;
+
+[PlayMovie]=00:03:21	Movie04/04-KA/04-KA-B00/04-KA-B00-002	0	00:07:05;
+
+[CreateBG]=00:07:05	BGS	Event04/04-KA/04-KA-B00/04-KA-B00-003	00:08:23;
+
+[CreateBG]=00:08:23	BGS	Event04/04-KA/04-KA-B00/04-KA-B00-004	00:10:14;
+
+[PrintText]=00:09:02	Makoto	¡Maldición!	00:10:06;
+
+[PlayVoice]=00:09:02	Voice04/04-KA/04-KA-B00/04-KA-B00-0050	1	mak	00:10:06;
+
+ ;
+
+[Next]=00:10:14;
+
+

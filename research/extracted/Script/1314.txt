@@ -1,0 +1,343 @@
+﻿[SkipFRAME]=05:00:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	03:35:08;
+
+[PlaySe]=00:00:00	1	Se05/05-5O/05-5O-A09/SE05-5O-A09-001	00:49:02;
+
+[PlayMovie]=00:00:00	Movie05/05-5O/05-5O-A09/05-5O-A09-001	0	00:05:06;
+
+[PlaySe]=00:00:03	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-003	00:00:10;
+
+[PlaySe]=00:00:21	3	Se05/05-5O/05-5O-A09/SE05-5O-A09-004	00:01:06;
+
+[PlaySe]=00:01:17	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-003	00:02:00;
+
+[PlaySe]=00:02:12	3	Se05/05-5O/05-5O-A09/SE05-5O-A09-004	00:02:21;
+
+[PlaySe]=00:03:07	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-003	00:03:14;
+
+[PlaySe]=00:04:02	3	Se05/05-5O/05-5O-A09/SE05-5O-A09-004	00:04:11;
+
+[PlaySe]=00:04:23	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-003	00:05:06;
+
+[PlayMovie]=00:05:06	Movie05/05-5O/05-5O-A09/05-5O-A09-002	0	00:39:03;
+
+[PrintText]=00:05:06	Setsuna	Sekai.	00:06:03;
+
+[PlayVoice]=00:05:06	Voice05/05-5O/05-5O-A09/05-5O-A09-0040	0	set	00:06:03;
+
+[PrintText]=00:06:11	Sekai	...	00:07:05;
+
+[PlayVoice]=00:06:11	Voice05/05-5O/05-5O-A09/05-5O-A09-0050	0	xxx	00:07:05;
+
+[PrintText]=00:07:14	Setsuna	Vine a ver que hacías.	00:09:15;
+
+[PlayVoice]=00:07:14	Voice05/05-5O/05-5O-A09/05-5O-A09-0060	0	set	00:09:15;
+
+[PrintText]=00:09:21	Sekai	Uh-huh...	00:10:14;
+
+[PlayVoice]=00:09:21	Voice05/05-5O/05-5O-A09/05-5O-A09-0070	0	sek	00:10:14;
+
+[PrintText]=00:10:20	Setsuna	Ya es de noche. ¿Por qué no entras? hace mucho frío.	00:14:09;
+
+[PlayVoice]=00:10:20	Voice05/05-5O/05-5O-A09/05-5O-A09-0080	0	set	00:14:09;
+
+[PrintText]=00:14:18	Sekai	No te preocupes.	00:15:16;
+
+[PlayVoice]=00:14:18	Voice05/05-5O/05-5O-A09/05-5O-A09-0090	0	sek	00:15:16;
+
+[PrintText]=00:15:19	Setsuna	Ya veo...	00:16:15;
+
+[PlayVoice]=00:15:19	Voice05/05-5O/05-5O-A09/05-5O-A09-0100	0	set	00:16:15;
+
+[PrintText]=00:17:04	Sekai	Setsuna.	00:18:09;
+
+[PlayVoice]=00:17:04	Voice05/05-5O/05-5O-A09/05-5O-A09-0110	0	sek	00:18:09;
+
+[PrintText]=00:18:09	Setsuna	Uh-huh.	00:19:00;
+
+[PlayVoice]=00:18:09	Voice05/05-5O/05-5O-A09/05-5O-A09-0120	0	set	00:19:00;
+
+[PrintText]=00:19:07	Sekai	Makoto... No vendrá ¿Verdad?^	00:24:04;
+
+[PlayVoice]=00:19:07	Voice05/05-5O/05-5O-A09/05-5O-A09-0130	0	sek	00:24:04;
+
+[PrintText]=00:24:12	Setsuna	Lo escuché al teléfono con Hikari.	00:27:23;
+
+[PlayVoice]=00:24:12	Voice05/05-5O/05-5O-A09/05-5O-A09-0140	0	set	00:27:23;
+
+[PrintText]=00:28:03	Sekai	Uh-huh.	00:28:17;
+
+[PlayVoice]=00:28:03	Voice05/05-5O/05-5O-A09/05-5O-A09-0150	0	sek	00:28:17;
+
+[PrintText]=00:28:23	Setsuna	Dijo que Katsura-san también había hecho planes con Itou.	00:32:18;
+
+[PlayVoice]=00:28:23	Voice05/05-5O/05-5O-A09/05-5O-A09-0160	0	set	00:32:18;
+
+[PrintText]=00:32:23	Sekai	¡¿Eh?!	00:33:23;
+
+[PlayVoice]=00:32:23	Voice05/05-5O/05-5O-A09/05-5O-A09-0170	0	sek	00:33:23;
+
+[PrintText]=00:34:02	Setsuna	Hikari se enteró cuando se encontró a Katsura-san cerca de la estación.	00:37:08;
+
+[PlayVoice]=00:34:02	Voice05/05-5O/05-5O-A09/05-5O-A09-0180	0	set	00:37:08;
+
+[PrintText]=00:37:14	Sekai	Ya veo...	00:38:22;
+
+[PlayVoice]=00:37:14	Voice05/05-5O/05-5O-A09/05-5O-A09-0190	0	sek	00:38:22;
+
+[CreateBG]=00:39:03	BGS	Event05/05-5O/05-5O-A09/05-5O-A09-003	00:54:05;
+
+[PrintText]=00:39:03	Setsuna	Dijo que Katsura-san estaba sorprendida al escuchar que él había hecho planes contigo.	00:46:06;
+
+[PlayVoice]=00:39:03	Voice05/05-5O/05-5O-A09/05-5O-A09-0200	0	set	00:46:06;
+
+[PrintText]=00:46:13	Sekai	No lo hicimos. Todo lo que hice fue decirle que venga...	00:52:13;
+
+[PlayVoice]=00:46:13	Voice05/05-5O/05-5O-A09/05-5O-A09-0210	0	sek	00:52:13;
+
+[PlaySe]=00:48:13	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-001	01:37:15;
+
+[PrintText]=00:53:01	Setsuna	¿Oh?^	00:53:21;
+
+[PlayVoice]=00:53:01	Voice05/05-5O/05-5O-A09/05-5O-A09-0220	0	set	00:53:21;
+
+[PlayMovie]=00:54:05	Movie05/05-5O/05-5O-A09/05-5O-A09-004	0	02:13:15;
+
+[PrintText]=00:54:05	Sekai	Sí, y entonces, él ya tenía planes con Katsura-san. No hay manera de que venga ¿Cierto?^	01:05:10;
+
+[PlayVoice]=00:54:05	Voice05/05-5O/05-5O-A09/05-5O-A09-0230	0	sek	01:05:10;
+
+[PrintText]=01:05:17	Setsuna	Parece que Sawanaga fue a hablar con ella después de que se encontrará con Itou.	01:13:20;
+
+[PlayVoice]=01:05:17	Voice05/05-5O/05-5O-A09/05-5O-A09-0240	0	set	01:13:20;
+
+[PrintText]=01:14:02	Sekai	¿Qué dijo?^	01:14:23;
+
+[PlayVoice]=01:14:02	Voice05/05-5O/05-5O-A09/05-5O-A09-0250	0	sek	01:14:23;
+
+[PrintText]=01:15:04	Setsuna	Dijo 'Por favor respeta su decisión, incluso si escoge a Sekai'.	01:20:02;
+
+[PlayVoice]=01:15:04	Voice05/05-5O/05-5O-A09/05-5O-A09-0260	0	set	01:20:02;
+
+[PrintText]=01:20:08	Sekai	Ya veo...	01:21:09;
+
+[PlayVoice]=01:20:08	Voice05/05-5O/05-5O-A09/05-5O-A09-0270	0	sek	01:21:09;
+
+[PrintText]=01:21:18	Setsuna	Eso va también para ti, sabes.	01:23:02;
+
+[PlayVoice]=01:21:18	Voice05/05-5O/05-5O-A09/05-5O-A09-0280	0	set	01:23:02;
+
+[PrintText]=01:23:09	Sekai	Sí, tienes razón.	01:26:08;
+
+[PlayVoice]=01:23:09	Voice05/05-5O/05-5O-A09/05-5O-A09-0290	0	sek	01:26:08;
+
+[PrintText]=01:26:16	Setsuna	Si viene, tendrás que creer en sus sentimientos.	01:33:17;
+
+[PlayVoice]=01:26:16	Voice05/05-5O/05-5O-A09/05-5O-A09-0300	0	set	01:33:17;
+
+[PrintText]=01:34:01	Sekai	S-Sí, pero...	01:38:17;
+
+[PlayVoice]=01:34:01	Voice05/05-5O/05-5O-A09/05-5O-A09-0310	0	sek	01:38:17;
+
+[PlaySe]=01:37:02	1	Se05/05-5O/05-5O-A09/SE05-5O-A09-001	02:26:04;
+
+[PrintText]=01:38:23	Setsuna	Sin peros.	01:40:16;
+
+[PlayVoice]=01:38:23	Voice05/05-5O/05-5O-A09/05-5O-A09-0320	0	set	01:40:16;
+
+[PrintText]=01:41:00	Sekai	No, quiero decir, si el viene a decirme que ama, por supuesto que voy a creerle... pero él no vendrá.	01:56:23;
+
+[PlayVoice]=01:41:00	Voice05/05-5O/05-5O-A09/05-5O-A09-0330	0	sek	01:56:23;
+
+[PrintText]=01:57:08	Setsuna	Incluso si no...	01:58:13;
+
+[PlayVoice]=01:57:08	Voice05/05-5O/05-5O-A09/05-5O-A09-0340	0	set	01:58:13;
+
+[PrintText]=01:58:22	Sekai	Quieres decir, que si no es así ¿Tendré que renunciar a él...?^	02:03:19;
+
+[PlayVoice]=01:58:22	Voice05/05-5O/05-5O-A09/05-5O-A09-0350	0	sek	02:03:19;
+
+[PrintText]=02:04:02	Setsuna	Sí.	02:05:12;
+
+[PlayVoice]=02:04:02	Voice05/05-5O/05-5O-A09/05-5O-A09-0360	0	set	02:05:12;
+
+[PrintText]=02:05:19	Sekai	No... Yo... no quería renunciar a él...	02:11:22;
+
+[PlayVoice]=02:05:19	Voice05/05-5O/05-5O-A09/05-5O-A09-0370	0	sek	02:11:22;
+
+[PrintText]=02:12:05	Setsuna	Sekai...	02:13:04;
+
+[PlayVoice]=02:12:05	Voice05/05-5O/05-5O-A09/05-5O-A09-0390	0	set	02:13:04;
+
+[CreateBG]=02:13:15	BGS	Event05/05-5O/05-5O-A09/05-5O-A09-005	02:31:11;
+
+[PrintText]=02:13:15	Sekai	Lo amo... y todo este tiempo, lamento no haber confiado en sus palabras cuando decía sentir lo mismo...	02:28:11;
+
+[PlayVoice]=02:13:15	Voice05/05-5O/05-5O-A09/05-5O-A09-0400	0	sek	02:28:11;
+
+[PlaySe]=02:25:15	3	Se05/05-5O/05-5O-A09/SE05-5O-A09-001	03:14:17;
+
+[PrintText]=02:28:12	Sekai	Pero... ¿Renunciar a él..? No puedo hacerlo.	02:35:07;
+
+[PlayVoice]=02:28:12	Voice05/05-5O/05-5O-A09/05-5O-A09-0401	0	sek	02:35:07;
+
+[PlayMovie]=02:31:11	Movie05/05-5O/05-5O-A09/05-5O-A09-006	0	02:56:13;
+
+[PrintText]=02:35:17	Setsuna	Escucha Sekai...	02:37:08;
+
+[PlayVoice]=02:35:17	Voice05/05-5O/05-5O-A09/05-5O-A09-0410	0	set	02:37:08;
+
+[PrintText]=02:37:17	Sekai	Ya sé... sé lo que quiere decir el que no esté aquí.	02:43:21;
+
+[PlayVoice]=02:37:17	Voice05/05-5O/05-5O-A09/05-5O-A09-0420	0	sek	02:43:21;
+
+[PrintText]=02:44:03	Setsuna	Uh-huh... bueno, acerca de eso...	02:47:18;
+
+[PlayVoice]=02:44:03	Voice05/05-5O/05-5O-A09/05-5O-A09-0430	0	set	02:47:18;
+
+[PrintText]=02:47:22	Sekai	Uuh... Makoto...	02:52:17;
+
+[PlayVoice]=02:47:22	Voice05/05-5O/05-5O-A09/05-5O-A09-0440	0	sek	02:52:17;
+
+[PlaySe]=02:48:00	1	Se05/05-5O/05-5O-A09/SE05-5O-A09-003	02:48:07;
+
+[PlaySe]=02:48:21	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-004	02:49:06;
+
+[PlaySe]=02:49:21	1	Se05/05-5O/05-5O-A09/SE05-5O-A09-003	02:50:04;
+
+[PlaySe]=02:50:19	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-004	02:51:04;
+
+[PlaySe]=02:51:18	1	Se05/05-5O/05-5O-A09/SE05-5O-A09-003	02:52:01;
+
+[PlaySe]=02:52:15	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-004	02:53:00;
+
+[PrintText]=02:53:05	Makoto	¿Sí?^	02:54:01;
+
+[PlayVoice]=02:53:05	Voice05/05-5O/05-5O-A09/05-5O-A09-0450	1	mak	02:54:01;
+
+[PrintText]=02:55:07	Sekai	¿Eh...?^	02:56:06;
+
+[PlayVoice]=02:55:07	Voice05/05-5O/05-5O-A09/05-5O-A09-0470	0	sek	02:56:06;
+
+[PlayMovie]=02:56:13	Movie05/05-5O/05-5O-A09/05-5O-A09-007	0	03:03:11;
+
+[PlaySe]=02:57:01	1	Se05/05-5O/05-5O-A09/SE05-5O-A09-003	02:57:08;
+
+[PrintText]=02:57:19	Setsuna	Él vino aquí desde desde hace un rato, pero seguía pensando en no poder verte a la cara y lo traje aquí.	03:04:21;
+
+[PlayVoice]=02:57:19	Voice05/05-5O/05-5O-A09/05-5O-A09-0480	0	set	03:04:21;
+
+[PlaySe]=02:57:22	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-004	02:58:07;
+
+[PlayMovie]=03:03:11	Movie05/05-5O/05-5O-A09/05-5O-A09-008	0	03:27:22;
+
+[PrintText]=03:05:11	Makoto	Lo siento. Cuando me di cuenta que tú eras a la que amaba, pensé en todas las cosas que hice para lastimarte...	03:15:10;
+
+[PlayVoice]=03:05:11	Voice05/05-5O/05-5O-A09/05-5O-A09-0500	1	mak	03:15:10;
+
+[PlaySe]=03:13:20	1	Se05/05-5O/05-5O-A09/SE05-5O-A09-001	03:35:15;
+
+[PrintText]=03:15:13	Makoto	Y no sabía si tener que verte a la cara...	03:18:19;
+
+[PlayVoice]=03:15:13	Voice05/05-5O/05-5O-A09/05-5O-A09-0501	1	mak	03:18:19;
+
+[PrintText]=03:19:00	Sekai	No lo creo... ¿Eres tú, Makoto?^	03:22:11;
+
+[PlayVoice]=03:19:00	Voice05/05-5O/05-5O-A09/05-5O-A09-0510	0	sek	03:22:11;
+
+[PrintText]=03:22:15	Makoto	Sí.	03:23:09;
+
+[PlayVoice]=03:22:15	Voice05/05-5O/05-5O-A09/05-5O-A09-0520	1	mak	03:23:09;
+
+[PrintText]=03:23:15	Sekai	¿Y estás de acuerdo con esto?^	03:25:05;
+
+[PlayVoice]=03:23:15	Voice05/05-5O/05-5O-A09/05-5O-A09-0530	0	sek	03:25:05;
+
+[PrintText]=03:25:10	Makoto	Sí.	03:26:03;
+
+[PlayVoice]=03:25:10	Voice05/05-5O/05-5O-A09/05-5O-A09-0540	1	mak	03:26:03;
+
+[PrintText]=03:26:09	Sekai	No puede ser... no... no lo creo.	03:32:00;
+
+[PlayVoice]=03:26:09	Voice05/05-5O/05-5O-A09/05-5O-A09-0550	0	sek	03:32:00;
+
+[PlayMovie]=03:27:22	Movie05/05-5O/05-5O-A09/05-5O-A09-009	0	03:38:12;
+
+[PlaySe]=03:32:01	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-006	03:32:18;
+
+[PrintText]=03:32:06	Makoto	Es mejor que lo creas.	03:33:06;
+
+[PlayVoice]=03:32:06	Voice05/05-5O/05-5O-A09/05-5O-A09-0560	1	mak	03:33:06;
+
+[PrintText]=03:33:13	Sekai	Ah...	03:34:18;
+
+[PlayVoice]=03:33:13	Voice05/05-5O/05-5O-A09/05-5O-A09-0570	0	sek	03:34:18;
+
+[PlaySe]=03:34:22	2	Se05/05-5O/05-5O-A09/SE05-5O-A09-007	03:36:12;
+
+[EndBGM]=03:35:08	BGM/Vocal/SDV06	06:28:12;
+
+[PlaySe]=03:36:12	3	Se05/05-5O/05-5O-A09/SE05-5O-A09-002	03:37:07;
+
+[PlayMovie]=03:38:12	Movie05/05-5O/05-5O-A09/05-5O-A09-011	0	03:51:01;
+
+[PrintText]=03:39:02	Makoto	Desde ahora... haré que lo creas.	03:42:14;
+
+[PlayVoice]=03:39:02	Voice05/05-5O/05-5O-A09/05-5O-A09-0590	1	mak	03:42:14;
+
+[PrintText]=03:42:22	Sekai	Sí... lo creo.	03:46:18;
+
+[PlayVoice]=03:42:22	Voice05/05-5O/05-5O-A09/05-5O-A09-0600	0	sek	03:46:18;
+
+[PrintText]=03:47:10	Setsuna	...	03:48:09;
+
+[PlayVoice]=03:47:10	Voice05/05-5O/05-5O-A09/05-5O-A09-0670	0	xxx	03:48:09;
+
+[PrintText]=03:50:02	Makoto	Te amo.	03:53:09;
+
+[PlayVoice]=03:50:02	Voice05/05-5O/05-5O-A09/05-5O-A09-0610	1	mak	03:53:09;
+
+[PlayMovie]=03:51:01	Movie05/05-5O/05-5O-A09/05-5O-A09-012	0	04:17:13;
+
+[PrintText]=03:54:06	Sekai	Uh-huh...	03:56:20;
+
+[PlayVoice]=03:54:06	Voice05/05-5O/05-5O-A09/05-5O-A09-0620	0	sek	03:56:20;
+
+[PrintText]=03:57:05	Makoto	Mas... Más que a nadie...	04:00:10;
+
+[PlayVoice]=03:57:05	Voice05/05-5O/05-5O-A09/05-5O-A09-0630	1	mak	04:00:10;
+
+[PrintText]=04:00:21	Sekai	Uh-huh...	04:02:11;
+
+[PlayVoice]=04:00:21	Voice05/05-5O/05-5O-A09/05-5O-A09-0640	0	sek	04:02:11;
+
+[PrintText]=04:02:22	Makoto	Ya no te dejaré ir.	04:04:04;
+
+[PlayVoice]=04:02:22	Voice05/05-5O/05-5O-A09/05-5O-A09-0650	1	mak	04:04:04;
+
+[PrintText]=04:04:19	Sekai	Uh-huh...	04:06:07;
+
+[PlayVoice]=04:04:19	Voice05/05-5O/05-5O-A09/05-5O-A09-0660	0	sek	04:06:07;
+
+[PrintText]=04:06:21	Sekai	Makoto...	04:09:00;
+
+[PlayVoice]=04:06:21	Voice05/05-5O/05-5O-A09/05-5O-A09-0700	0	sek	04:09:00;
+
+[PrintText]=04:09:12	Makoto	Sekai...	04:10:09;
+
+[PlayVoice]=04:09:12	Voice05/05-5O/05-5O-A09/05-5O-A09-0710	1	mak	04:10:09;
+
+[PlayVoice]=04:14:18	Voice05/05-5O/05-5O-A09/05-5O-A09-0720			04:17:03;
+
+[WhiteFade]=04:16:13	OUT	04:17:13;
+
+[CreateBG]=04:17:13	BGS	Ini/EndRoll/05-02	04:20:00;
+
+[EndRoll]=04:20:00	Ini/EndRoll/GOOD	05:00:00;
+
+ ;
+
+[Next]=05:00:00;
+
+

@@ -1,0 +1,18 @@
+[SkipFRAME]=00:11:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:11:00;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-H05/02-2K-H05-001	00:03:01;
+
+[PlaySe]=00:00:14	1	SysSe/SE_all/keitai/keitai_vib	00:03:00;
+
+[CreateBG]=00:03:01	BGS	Event02/02-2K/02-2K-H05/02-2K-H05-002	00:07:00;
+
+[CreateBG]=00:07:00	BGS	Event02/02-2K/02-2K-H05/02-2K-H05-003	00:11:00;
+
+[BlackFade]=00:10:00	OUT	00:11:00;
+
+ ;
+
+[Next]=00:11:00;
+

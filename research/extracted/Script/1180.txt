@@ -1,0 +1,311 @@
+﻿[SkipFRAME]=03:05:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	02:57:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-001	00:02:08;
+
+[CreateBG]=00:02:08	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-002	00:05:04;
+
+[PrintText]=00:02:12	Sekai	Y entonces ¿Qué pasó con Sawanaga?^	00:05:11;
+
+[PlayVoice]=00:02:12	Voice04/04-SB/04-SB-A00/04-SB-A00-0040	0	sek	00:05:11;
+
+[CreateBG]=00:05:04	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-002A	00:09:15;
+
+[PrintText]=00:05:14	Makoto	Oh, cierto. Taisuke está en camino.	00:08:19;
+
+[PlayVoice]=00:05:14	Voice04/04-SB/04-SB-A00/04-SB-A00-0050	1	mak	00:08:19;
+
+[PrintText]=00:08:19	Sekai	¿Donde?^	00:09:16;
+
+[PlayVoice]=00:08:19	Voice04/04-SB/04-SB-A00/04-SB-A00-0060	0	sek	00:09:16;
+
+[CreateBG]=00:09:15	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-002B	00:10:10;
+
+[PrintText]=00:09:19	Makoto	Aquí.	00:10:11;
+
+[PlayVoice]=00:09:19	Voice04/04-SB/04-SB-A00/04-SB-A00-0070	1	mak	00:10:11;
+
+[CreateBG]=00:10:10	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-003	00:13:03;
+
+[PrintText]=00:10:13	Sekai	¿Ehh? ¿Por qué?^	00:13:04;
+
+[PlayVoice]=00:10:13	Voice04/04-SB/04-SB-A00/04-SB-A00-0080	0	sek	00:13:04;
+
+[CreateBG]=00:13:04	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-004	00:18:04;
+
+[PrintText]=00:13:04	Makoto	Dijo que quería reunirse durante el almuerzo, así que lo invité.	00:18:02;
+
+[PlayVoice]=00:13:04	Voice04/04-SB/04-SB-A00/04-SB-A00-0090	1	mak	00:18:02;
+
+[CreateBG]=00:18:04	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-005	00:21:21;
+
+[PrintText]=00:18:09	Sekai	Desearía que no trajeras a otras personas.	00:22:03;
+
+[PlayVoice]=00:18:09	Voice04/04-SB/04-SB-A00/04-SB-A00-0100	0	sek	00:22:03;
+
+[CreateBG]=00:21:21	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-006	00:34:19;
+
+[PrintText]=00:22:04	Makoto	Lo sé,	00:23:13;
+
+[PlayVoice]=00:22:04	Voice04/04-SB/04-SB-A00/04-SB-A00-0110	1	mak	00:23:13;
+
+[PrintText]=00:23:13	Makoto	pero no quiero arruinar el almuerzo con Taisuke. Conociéndolo, no sé cuanto tiempo podría esperar.	00:32:04;
+
+[PlayVoice]=00:23:13	Voice04/04-SB/04-SB-A00/04-SB-A00-0111	1	mak	00:32:04;
+
+[PrintText]=00:32:03	Sekai	Hmm, supongo.	00:34:22;
+
+[PlayVoice]=00:32:03	Voice04/04-SB/04-SB-A00/04-SB-A00-0120	0	sek	00:34:22;
+
+[CreateBG]=00:34:19	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-007	00:38:02;
+
+[PrintText]=00:34:22	Makoto	Tus sandwiches se ven bien.	00:38:06;
+
+[PlayVoice]=00:34:22	Voice04/04-SB/04-SB-A00/04-SB-A00-0130	1	mak	00:38:06;
+
+[CreateBG]=00:38:02	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-008	00:39:15;
+
+[PrintText]=00:38:06	Sekai	Venga, toma uno.	00:39:14;
+
+[PlayVoice]=00:38:06	Voice04/04-SB/04-SB-A00/04-SB-A00-0140	0	sek	00:39:14;
+
+[PrintText]=00:39:14	Makoto	Te lo cambio con algo de mi almuerzo entonces.	00:42:06;
+
+[PlayVoice]=00:39:14	Voice04/04-SB/04-SB-A00/04-SB-A00-0150	1	mak	00:42:06;
+
+[CreateBG]=00:39:15	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-009	00:45:05;
+
+[PrintText]=00:42:06	Sekai	¿Tu madre lo hizo?^	00:45:10;
+
+[PlayVoice]=00:42:06	Voice04/04-SB/04-SB-A00/04-SB-A00-0160	0	sek	00:45:10;
+
+[CreateBG]=00:45:05	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-009A	00:53:04;
+
+[PrintText]=00:45:10	Makoto	No, yo lo hice.	00:46:18;
+
+[PlayVoice]=00:45:10	Voice04/04-SB/04-SB-A00/04-SB-A00-0170	1	mak	00:46:18;
+
+[PrintText]=00:46:17	Sekai	¡No te creo!	00:47:12;
+
+[PlayVoice]=00:46:17	Voice04/04-SB/04-SB-A00/04-SB-A00-0180	0	sek	00:47:12;
+
+[PrintText]=00:47:12	Makoto	Itaru vino ayer, así que...	00:49:10;
+
+[PlayVoice]=00:47:12	Voice04/04-SB/04-SB-A00/04-SB-A00-0190	1	mak	00:49:10;
+
+[PrintText]=00:49:10	Sekai	¿Tu hermana menor?^	00:50:12;
+
+[PlayVoice]=00:49:10	Voice04/04-SB/04-SB-A00/04-SB-A00-0200	0	sek	00:50:12;
+
+[PrintText]=00:50:12	Makoto	Sí. Antes de que vaya a la escuela, le hice el almuerzo mientras me preparaba uno también.	00:59:15;
+
+[PlayVoice]=00:50:12	Voice04/04-SB/04-SB-A00/04-SB-A00-0210	1	mak	00:59:15;
+
+[CreateBG]=00:53:04	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-009B	00:57:13;
+
+[CreateBG]=00:57:13	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-009C	00:59:11;
+
+[CreateBG]=00:59:11	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-009D	01:10:17;
+
+[PrintText]=00:59:15	Sekai	¡Qué increíble! Mira, incluso tienes las algas ordenadas y los huevos bien cocidos. ¡No puedo creerlo!	01:08:18;
+
+[PlayVoice]=00:59:15	Voice04/04-SB/04-SB-A00/04-SB-A00-0220	0	sek	01:08:18;
+
+[PrintText]=01:08:18	Makoto	Pues créelo, a excepción de los huevos, lo demás es comida congelada.	01:14:21;
+
+[PlayVoice]=01:08:18	Voice04/04-SB/04-SB-A00/04-SB-A00-0230	1	mak	01:14:21;
+
+[CreateBG]=01:10:17	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-009E	01:16:23;
+
+[PrintText]=01:14:21	Sekai	Aún así, es increíble.	01:17:05;
+
+[PlayVoice]=01:14:21	Voice04/04-SB/04-SB-A00/04-SB-A00-0240	0	sek	01:17:05;
+
+[CreateBG]=01:16:23	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-010	01:19:20;
+
+[PrintText]=01:17:05	Makoto	Heh... bueno, veamos entonces.	01:19:19;
+
+[PlayVoice]=01:17:05	Voice04/04-SB/04-SB-A00/04-SB-A00-0250	1	mak	01:19:19;
+
+[PrintText]=01:19:19	Sekai	¡Vale, entonces, tomaré los huevos cocidos!	01:25:00;
+
+[PlayVoice]=01:19:19	Voice04/04-SB/04-SB-A00/04-SB-A00-0260	0	sek	01:25:00;
+
+[CreateBG]=01:19:20	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-011	01:28:19;
+
+[PrintText]=01:25:11	Makoto	¿Qué tal?^	01:26:05;
+
+[PlayVoice]=01:25:11	Voice04/04-SB/04-SB-A00/04-SB-A00-0270	1	mak	01:26:05;
+
+[PrintText]=01:26:20	Sekai	¡...Delicioso!	01:28:17;
+
+[PlayVoice]=01:26:20	Voice04/04-SB/04-SB-A00/04-SB-A00-0280	0	sek	01:28:17;
+
+[CreateBG]=01:28:19	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-012	01:46:10;
+
+[PrintText]=01:28:19	Makoto	¿Lo ves?^	01:29:17;
+
+[PlayVoice]=01:28:19	Voice04/04-SB/04-SB-A00/04-SB-A00-0290	1	mak	01:29:17;
+
+[PrintText]=01:29:15	Sekai	¡No lo creo! ¡Esta es la primera vez que traes tu almuerzo ¿No? No parece hecho por un principiante	01:37:07;
+
+[PlayVoice]=01:29:15	Voice04/04-SB/04-SB-A00/04-SB-A00-0300	0	sek	01:37:07;
+
+[PrintText]=01:37:08	Makoto	Vivo solo con mi madre. Puedo hacer mi propio almuerzo... no quiero molestarla la mayor parte del tiempo.	01:46:05;
+
+[PlayVoice]=01:37:08	Voice04/04-SB/04-SB-A00/04-SB-A00-0310	1	mak	01:46:05;
+
+[CreateBG]=01:46:10	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-013	01:51:09;
+
+[PrintText]=01:46:14	Sekai	Uuu... no te creo. No te comas el mio.	01:51:09;
+
+[PlayVoice]=01:46:14	Voice04/04-SB/04-SB-A00/04-SB-A00-0320	0	sek	01:51:09;
+
+[CreateBG]=01:51:09	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-006	02:05:05;
+
+[PrintText]=01:51:12	Makoto	¡¿Ehh?!	01:52:16;
+
+[PlayVoice]=01:51:12	Voice04/04-SB/04-SB-A00/04-SB-A00-0330	1	mak	01:52:16;
+
+[PrintText]=01:52:14	Sekai	No puedo dejar que alguien con un buen almuerzo tenga algo mio.	01:56:20;
+
+[PlayVoice]=01:52:14	Voice04/04-SB/04-SB-A00/04-SB-A00-0340	0	sek	01:56:20;
+
+[PrintText]=01:56:22	Makoto	¿De qué hablas? Dame algo.	01:59:14;
+
+[PlayVoice]=01:56:22	Voice04/04-SB/04-SB-A00/04-SB-A00-0350	1	mak	01:59:14;
+
+[PrintText]=01:59:12	Sekai	¡Aahn! ¡De ninguna manera!	02:01:23;
+
+[PlayVoice]=01:59:12	Voice04/04-SB/04-SB-A00/04-SB-A00-0360	0	sek	02:01:23;
+
+[PrintText]=02:02:01	Makoto	¡Solo mírame!	02:04:03;
+
+[PlayVoice]=02:02:01	Voice04/04-SB/04-SB-A00/04-SB-A00-0380	1	mak	02:04:03;
+
+[PrintText]=02:04:00	Sekai	¡Kyaah!	02:05:09;
+
+[PlayVoice]=02:04:00	Voice04/04-SB/04-SB-A00/04-SB-A00-0400	0	sek	02:05:09;
+
+[CreateBG]=02:05:05	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-015	02:08:04;
+
+[PrintText]=02:05:06	Taisuke	¿Qué están haciendo chicos así?^	02:08:02;
+
+[PlayVoice]=02:05:06	Voice04/04-SB/04-SB-A00/04-SB-A00-0410	1	tai	02:08:02;
+
+[CreateBG]=02:08:04	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-016	02:17:08;
+
+[PrintText]=02:08:06	Sekai	¡Wah!	02:09:08;
+
+[PlayVoice]=02:08:06	Voice04/04-SB/04-SB-A00/04-SB-A00-0430	0	sek	02:09:08;
+
+[PrintText]=02:09:10	Makoto	T-Taisuke... ¿Hace cuanto que estás ahí?^	02:14:02;
+
+[PlayVoice]=02:09:10	Voice04/04-SB/04-SB-A00/04-SB-A00-0450	1	mak	02:14:02;
+
+[PrintText]=02:13:19	Taisuke	Hace un momento.	02:15:08;
+
+[PlayVoice]=02:13:19	Voice04/04-SB/04-SB-A00/04-SB-A00-0460	1	tai	02:15:08;
+
+[PrintText]=02:15:11	Sekai	O-oh.	02:17:11;
+
+[PlayVoice]=02:15:11	Voice04/04-SB/04-SB-A00/04-SB-A00-0470	0	sek	02:17:11;
+
+[PrintText]=02:17:07	Taisuke	Entonces, sobre lo que querías hablar.	02:20:03;
+
+[PlayVoice]=02:17:07	Voice04/04-SB/04-SB-A00/04-SB-A00-0480	1	tai	02:20:03;
+
+[CreateBG]=02:17:08	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-017	02:24:06;
+
+[PrintText]=02:20:04	Makoto	Sí.	02:20:22;
+
+[PlayVoice]=02:20:04	Voice04/04-SB/04-SB-A00/04-SB-A00-0490	1	mak	02:20:22;
+
+[PrintText]=02:20:22	Taisuke	¡Créeme o no...!	02:24:07;
+
+[PlayVoice]=02:20:22	Voice04/04-SB/04-SB-A00/04-SB-A00-0500	1	tai	02:24:07;
+
+[CreateBG]=02:24:06	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-018	02:26:12;
+
+[PrintText]=02:24:07	Makoto	No nos dejes así.	02:26:00;
+
+[PlayVoice]=02:24:07	Voice04/04-SB/04-SB-A00/04-SB-A00-0510	1	mak	02:26:00;
+
+[CreateBG]=02:26:12	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-019	02:37:14;
+
+[PrintText]=02:26:12	Taisuke	¡La verdad es que, ya tengo novia también!	02:31:15;
+
+[PlayVoice]=02:26:12	Voice04/04-SB/04-SB-A00/04-SB-A00-0520	1	tai	02:31:15;
+
+[PrintText]=02:31:10	Makoto	¿Ehhhh?^	02:32:09;
+
+[PlayVoice]=02:31:10	Voice04/04-SB/04-SB-A00/04-SB-A00-0530	1	mak	02:32:09;
+
+[PrintText]=02:32:15	Taisuke	¿Sorprendido?^	02:35:21;
+
+[PlayVoice]=02:32:15	Voice04/04-SB/04-SB-A00/04-SB-A00-0540	1	tai	02:35:21;
+
+[PrintText]=02:36:06	Makoto	Sí.	02:37:04;
+
+[PlayVoice]=02:36:06	Voice04/04-SB/04-SB-A00/04-SB-A00-0550	1	mak	02:37:04;
+
+[PrintText]=02:37:12	Sekai	Hmm... Bueno, se de alguien que le gusta a Sawanaga.	02:43:16;
+
+[PlayVoice]=02:37:12	Voice04/04-SB/04-SB-A00/04-SB-A00-0560	0	sek	02:43:16;
+
+[CreateBG]=02:37:14	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-020	02:46:13;
+
+[PrintText]=02:43:17	Makoto	¿Quién?^	02:44:21;
+
+[PlayVoice]=02:43:17	Voice04/04-SB/04-SB-A00/04-SB-A00-0570	1	mak	02:44:21;
+
+[PrintText]=02:44:20	Sekai	Está en nuestra clase...	02:46:13;
+
+[PlayVoice]=02:44:20	Voice04/04-SB/04-SB-A00/04-SB-A00-0580	0	sek	02:46:13;
+
+[CreateBG]=02:46:13	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-017	02:51:20;
+
+[PrintText]=02:46:14	Taisuke	Parece que Saionji la conoce también... quería que ustedes sean los primeros en saberlo.	02:51:20;
+
+[PlayVoice]=02:46:14	Voice04/04-SB/04-SB-A00/04-SB-A00-0590	1	tai	02:51:20;
+
+[CreateBG]=02:51:20	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-022	02:54:08;
+
+[PrintText]=02:51:20	Makoto	¿Lo hicimos?^	02:52:21;
+
+[PlayVoice]=02:51:20	Voice04/04-SB/04-SB-A00/04-SB-A00-0600	1	mak	02:52:21;
+
+[PrintText]=02:52:21	Sekai	¿Lo ves?^	02:54:07;
+
+[PlayVoice]=02:52:21	Voice04/04-SB/04-SB-A00/04-SB-A00-0610	0	sek	02:54:07;
+
+[PrintText]=02:54:07	Makoto	...Sí.	02:55:09;
+
+[PlayVoice]=02:54:07	Voice04/04-SB/04-SB-A00/04-SB-A00-0620	1	mak	02:55:09;
+
+[CreateBG]=02:54:08	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-023	02:57:00;
+
+[PrintText]=02:55:20	Kotonoha	...	02:57:01;
+
+[PlayVoice]=02:55:20	Voice04/04-SB/04-SB-A00/04-SB-A00-0640	0	xxx	02:57:01;
+
+[CreateBG]=02:57:00	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-024	02:59:00;
+
+[PrintText]=02:57:00	Makoto	¿Eh?^	02:57:14;
+
+[PlayVoice]=02:57:00	Voice04/04-SB/04-SB-A00/04-SB-A00-0630	1	mak	02:57:14;
+
+[CreateBG]=02:59:00	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-025	03:02:00;
+
+[CreateBG]=03:02:00	BGS	Event04/04-SB/04-SB-A00/04-SB-A00-026	03:05:16;
+
+[PrintText]=03:02:04	Makoto	¿Kotonoha...?^	03:03:21;
+
+[PlayVoice]=03:02:04	Voice04/04-SB/04-SB-A00/04-SB-A00-0660	1	mak	03:03:21;
+
+ ;
+
+[Next]=03:05:16;
+
+

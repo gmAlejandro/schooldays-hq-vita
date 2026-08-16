@@ -1,0 +1,49 @@
+﻿[SkipFRAME]=00:10:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm26	00:16:05;
+
+[PlaySe]=00:00:00	1	Se03/03-A0/03-A0-A07/SE03-A0-A07-001	00:16:05;
+
+[PlayMovie]=00:00:00	Movie02/02-2K/02-2K-J05/02-2K-J05-003	0	00:03:01;
+
+[PrintText]=00:00:00	Makoto	Solo un poco más...	00:01:07;
+
+[PlayVoice]=00:00:00	Voice03/03-A0/03-A0-A07/03-A0-A07-0040	1	xxx	00:01:07;
+
+[PrintText]=00:01:20	Kotonoha	¡Nn...! ¡M-Makoto-kun!	00:06:17;
+
+[PlayVoice]=00:01:20	Voice03/03-A0/03-A0-A07/03-A0-A07-0060	0	kot	00:06:17;
+
+[PlayMovie]=00:03:01	Movie02/02-2K/02-2K-J05/02-2K-J05-002	0	00:06:17;
+
+[PlayMovie]=00:06:17	Movie02/02-2K/02-2K-J05/02-2K-J05-003	0	00:09:18;
+
+[PrintText]=00:06:17	Makoto	...	00:08:03;
+
+[PlayVoice]=00:06:17	Voice03/03-A0/03-A0-A07/03-A0-A07-0070	1	xxx	00:08:03;
+
+[PrintText]=00:08:04	Kotonoha	¡Hey... Makoto-kun!	00:10:19;
+
+[PlayVoice]=00:08:04	Voice03/03-A0/03-A0-A07/03-A0-A07-0080	0	kot	00:10:19;
+
+[PlayMovie]=00:09:18	Movie02/02-2K/02-2K-J05/02-2K-J05-001	0	00:16:05;
+
+[SetSELECT]=00:10:01	'Debería parar'	'Seguir haciéndolo'	00:15:01;
+
+[PrintText]=00:10:19	Makoto	...	00:12:00;
+
+[PlayVoice]=00:10:19	Voice03/03-A0/03-A0-A07/03-A0-A07-0090	1	xxx	00:12:00;
+
+[PrintText]=00:12:00	Kotonoha	No...	00:13:00;
+
+[PlayVoice]=00:12:00	Voice03/03-A0/03-A0-A07/03-A0-A07-0100	0	kot	00:13:00;
+
+[PrintText]=00:13:00	Makoto	...	00:14:02;
+
+[PlayVoice]=00:13:00	Voice03/03-A0/03-A0-A07/03-A0-A07-0110	1	xxx	00:14:02;
+
+ ;
+
+[Next]=00:16:05;
+
+

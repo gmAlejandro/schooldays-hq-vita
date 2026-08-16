@@ -1,0 +1,41 @@
+﻿[SkipFRAME]=00:13:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:13:19;
+
+[PlayMovie]=00:00:00	Movie05/05-5O/05-5O-D07/05-5O-D07-001	0	00:10:00;
+
+[PrintText]=00:00:00	Itaru	Ella es linda.	00:01:22;
+
+[PlayVoice]=00:00:00	Voice05/05-5O/05-5O-D07/05-5O-D07-0030	0	ita	00:01:22;
+
+[PrintText]=00:01:15	Makoto	¿Eh...?^	00:02:22;
+
+[PlayVoice]=00:01:15	Voice05/05-5O/05-5O-D07/05-5O-D07-0040	1	mak	00:02:22;
+
+[PrintText]=00:02:08	Itaru	Cuando estaba en casa, me acarició la cabeza.	00:06:19;
+
+[PlayVoice]=00:02:08	Voice05/05-5O/05-5O-D07/05-5O-D07-0050	0	ita	00:06:19;
+
+[PrintText]=00:06:20	Makoto	Ya veo...	00:08:05;
+
+[PlayVoice]=00:06:20	Voice05/05-5O/05-5O-D07/05-5O-D07-0060	1	mak	00:08:05;
+
+[PrintText]=00:08:01	Itaru	Ella me gusta.	00:10:03;
+
+[PlayVoice]=00:08:01	Voice05/05-5O/05-5O-D07/05-5O-D07-0070	0	ita	00:10:03;
+
+[CreateBG]=00:10:00	BGS	Event05/05-5O/05-5O-D07/05-5O-D07-002	00:13:19;
+
+[PrintText]=00:10:00	Makoto	Sí, también me gusta.	00:12:21;
+
+[PlayVoice]=00:10:00	Voice05/05-5O/05-5O-D07/05-5O-D07-0080	1	mak	00:12:21;
+
+[PrintText]=00:12:12	Itaru	Hehe...	00:13:15;
+
+[PlayVoice]=00:12:12	Voice05/05-5O/05-5O-D07/05-5O-D07-0090	0	ita	00:13:15;
+
+ ;
+
+[Next]=00:13:19;
+
+

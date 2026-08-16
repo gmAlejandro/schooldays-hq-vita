@@ -1,0 +1,206 @@
+﻿[SkipFRAME]=02:26:16;
+
+[PlaySe]=00:00:00	1	Voice05/05-SB/05-SB-B00/05-SB-B00-0050	00:10:21;
+
+[PrintText]=00:00:00	Profesor	Siguiente problema. 'A large number of passengers (    ) in the train crash'. Completa la oración... Sawanaga.	00:10:21;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-B01/00-00-B01-001	00:25:14;
+
+[PlaySe]=00:10:21	2	Voice05/05-SB/05-SB-B00/05-SB-B00-0060	00:24:20;
+
+[PrintText]=00:10:21	Sawanaga	Umm... número 4, "dieay by beolenice.".	00:18:21;
+
+[PrintText]=00:18:21	Sawanaga	Uh, espera, no. Quiero decir "¡die by VIOLENCE!" ¿......No?^	00:24:20;
+
+[PlaySe]=00:24:20	1	Voice05/05-SB/05-SB-B00/05-SB-B00-0070	00:35:01;
+
+[PrintText]=00:24:20	Profesor	Es suficiente, siéntate.	00:27:07;
+
+[PrintText]=00:27:07	Profesor	Cada uno de estos problemas presenta una causa diferente para....	00:31:08;
+
+[CreateBG]=00:25:14	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-002	00:35:05;
+
+[PrintText]=00:31:08	Sekai	Ah...	00:32:08;
+
+[PlayVoice]=00:31:08	Voice05/05-SB/05-SB-B00/05-SB-B00-0140	0	sek	00:32:08;
+
+[PlaySe]=00:34:07	3	SysSe/SE_all/school/chime	00:52:17;
+
+[BlackFade]=00:34:16	OUT	00:35:05;
+
+[CreateBG]=00:35:05	BGS	System/Screen/Black	00:36:05;
+
+[CreateBG]=00:36:05	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-004	00:46:04;
+
+[BlackFade]=00:36:05	IN	00:36:17;
+
+[PrintText]=00:37:16	Sekai	...	00:38:03;
+
+[PlayVoice]=00:37:16	Voice05/05-SB/05-SB-B00/05-SB-B00-0160	0	xxx	00:38:03;
+
+[PlaySe]=00:41:12	4	SysSe/SE_all/gaya/kyousitu_rouka	02:26:16;
+
+[PrintText]=00:41:14	Hikari	Sekai, Vamos a comer.	00:44:09;
+
+[PlayVoice]=00:41:14	Voice05/05-SB/05-SB-B00/05-SB-B00-0180	0	hik	00:44:09;
+
+[PrintText]=00:44:21	Sekai	Sí...	00:45:16;
+
+[PlayVoice]=00:44:21	Voice05/05-SB/05-SB-B00/05-SB-B00-0190	0	sek	00:45:16;
+
+[BlackFade]=00:45:15	OUT	00:46:04;
+
+[CreateBG]=00:46:04	BGS	System/Screen/Black	00:47:05;
+
+[CreateBG]=00:47:05	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-005	01:03:09;
+
+[BlackFade]=00:47:05	IN	00:47:17;
+
+[PrintText]=00:50:09	Sekai	...	00:50:20;
+
+[PlayVoice]=00:50:09	Voice05/05-SB/05-SB-B00/05-SB-B00-0230	0	xxx	00:50:20;
+
+[PrintText]=00:51:22	Hikari	H-hey, ¿Sabían que la tienda de hamburguesas a traído un menú limitado?^	00:57:19;
+
+[PlayVoice]=00:51:22	Voice05/05-SB/05-SB-B00/05-SB-B00-0240	0	hik	00:57:19;
+
+[PrintText]=00:57:18	Nanami	¿Eh? ¿En serio? ¿Qué tienen?^	01:00:16;
+
+[PlayVoice]=00:57:18	Voice05/05-SB/05-SB-B00/05-SB-B00-0250	0	nan	01:00:16;
+
+[PrintText]=01:00:16	Hikari	Una malteada de litchi.	01:02:01;
+
+[PlayVoice]=01:00:16	Voice05/05-SB/05-SB-B00/05-SB-B00-0260	0	hik	01:02:01;
+
+[PrintText]=01:02:01	Nanami	Oh ¿Eso?^	01:03:09;
+
+[PlayVoice]=01:02:01	Voice05/05-SB/05-SB-B00/05-SB-B00-0270	0	nan	01:03:09;
+
+[CreateBG]=01:03:09	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-005B	01:14:03;
+
+[PrintText]=01:03:09	Hikari	Uwah. ¿Qué pasa? ¿Tienes algo con la malteada de litchi?^	01:07:02;
+
+[PlayVoice]=01:03:09	Voice05/05-SB/05-SB-B00/05-SB-B00-0280	0	hik	01:07:02;
+
+[PrintText]=01:07:01	Nanami	No sabe bien ¿No?^	01:09:18;
+
+[PlayVoice]=01:07:01	Voice05/05-SB/05-SB-B00/05-SB-B00-0290	0	nan	01:09:18;
+
+[PrintText]=01:09:17	Hikari	¡Eso no es verdad! ¡Es la mejor!	01:14:03;
+
+[PlayVoice]=01:09:17	Voice05/05-SB/05-SB-B00/05-SB-B00-0300	0	hik	01:14:03;
+
+[CreateBG]=01:14:03	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-005C	01:31:18;
+
+[PrintText]=01:14:03	Nanami	Prefiero comer un rollo de canela de la cafetería a eso.	01:18:06;
+
+[PlayVoice]=01:14:03	Voice05/05-SB/05-SB-B00/05-SB-B00-0310	0	nan	01:18:06;
+
+[PrintText]=01:18:05	Hikari	Geh. ¿Por qué los comparas?^	01:21:09;
+
+[PlayVoice]=01:18:05	Voice05/05-SB/05-SB-B00/05-SB-B00-0320	0	hik	01:21:09;
+
+[PrintText]=01:21:09	Nanami	Es que son malos.	01:23:09;
+
+[PlayVoice]=01:21:09	Voice05/05-SB/05-SB-B00/05-SB-B00-0330	0	nan	01:23:09;
+
+[PrintText]=01:23:08	Hikari	Los rollos de canela de la cafetería no son los verdaderos ¿No es así? Estoy segura de eso.	01:28:07;
+
+[PlayVoice]=01:23:08	Voice05/05-SB/05-SB-B00/05-SB-B00-0340	0	hik	01:28:07;
+
+[PrintText]=01:28:07	Nanami	Sí. Tienen un sabor raro... eso no es canela.	01:33:07;
+
+[PlayVoice]=01:28:07	Voice05/05-SB/05-SB-B00/05-SB-B00-0350	0	nan	01:33:07;
+
+[CreateBG]=01:31:18	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-005D	01:49:19;
+
+[PrintText]=01:33:07	Hikari	Me gustaría que no compares eso con la malteada de litchi.	01:37:04;
+
+[PlayVoice]=01:33:07	Voice05/05-SB/05-SB-B00/05-SB-B00-0360	0	hik	01:37:04;
+
+[PrintText]=01:37:03	Nanami	Lo que sabe mal es simplemente malo.	01:39:03;
+
+[PlayVoice]=01:37:03	Voice05/05-SB/05-SB-B00/05-SB-B00-0370	0	nan	01:39:03;
+
+[PrintText]=01:39:02	Hikari	Eso fue hace un año, cambiarás de idea ahora si lo pruebas.	01:44:17;
+
+[PlayVoice]=01:39:02	Voice05/05-SB/05-SB-B00/05-SB-B00-0380	0	hik	01:44:17;
+
+[PrintText]=01:44:17	Nanami	De alguna manera lo dudo.	01:47:01;
+
+[PlayVoice]=01:44:17	Voice05/05-SB/05-SB-B00/05-SB-B00-0390	0	nan	01:47:01;
+
+[PrintText]=01:47:00	Hikari	Vamos entonces.	01:48:23;
+
+[PlayVoice]=01:47:00	Voice05/05-SB/05-SB-B00/05-SB-B00-0400	0	hik	01:48:23;
+
+[PrintText]=01:48:23	Nanami	Vale.	01:49:20;
+
+[PlayVoice]=01:48:23	Voice05/05-SB/05-SB-B00/05-SB-B00-0410	0	nan	01:49:20;
+
+[CreateBG]=01:49:19	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-006	01:55:02;
+
+[PrintText]=01:49:19	Hikari	Sekai, tú también deberías...	01:51:23;
+
+[PlayVoice]=01:49:19	Voice05/05-SB/05-SB-B00/05-SB-B00-0420	0	hik	01:51:23;
+
+[PrintText]=01:51:23	Sekai	...	01:52:11;
+
+[PlayVoice]=01:51:23	Voice05/05-SB/05-SB-B00/05-SB-B00-0430	0	xxx	01:52:11;
+
+[PrintText]=01:54:01	Nanami	Sekai.	01:55:03;
+
+[PlayVoice]=01:54:01	Voice05/05-SB/05-SB-B00/05-SB-B00-0450	0	nan	01:55:03;
+
+[CreateBG]=01:55:02	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-007	02:17:09;
+
+[PrintText]=01:55:02	Sekai	Ah... lo siento ¿De qué estaban hablando?^	01:58:22;
+
+[PlayVoice]=01:55:02	Voice05/05-SB/05-SB-B00/05-SB-B00-0460	0	sek	01:58:22;
+
+[PrintText]=01:58:21	Hikari	Del menú limitado de la tienda de hamburguesas.	02:02:00;
+
+[PlayVoice]=01:58:21	Voice05/05-SB/05-SB-B00/05-SB-B00-0470	0	hik	02:02:00;
+
+[PrintText]=02:02:00	Sekai	Ah... sí.	02:04:06;
+
+[PlayVoice]=02:02:00	Voice05/05-SB/05-SB-B00/05-SB-B00-0480	0	sek	02:04:06;
+
+[PrintText]=02:04:06	Hikari	También vienes ¿No? Quiero decir, después de clases.	02:06:16;
+
+[PlayVoice]=02:04:06	Voice05/05-SB/05-SB-B00/05-SB-B00-0490	0	hik	02:06:16;
+
+[PrintText]=02:06:16	Sekai	Yo... paso por hoy.	02:10:04;
+
+[PlayVoice]=02:06:16	Voice05/05-SB/05-SB-B00/05-SB-B00-0500	0	sek	02:10:04;
+
+[PrintText]=02:10:03	Hikari	¿Por qué? ¿Estás trabajando?^	02:12:04;
+
+[PlayVoice]=02:10:03	Voice05/05-SB/05-SB-B00/05-SB-B00-0510	0	hik	02:12:04;
+
+[PrintText]=02:12:04	Sekai	No es eso... es solo que no me siento bien hoy.	02:16:11;
+
+[PlayVoice]=02:12:04	Voice05/05-SB/05-SB-B00/05-SB-B00-0520	0	sek	02:16:11;
+
+[PrintText]=02:16:11	Hikari	¿Estás en 'esos días'?^	02:17:10;
+
+[PlayVoice]=02:16:11	Voice05/05-SB/05-SB-B00/05-SB-B00-0530	0	hik	02:17:10;
+
+[CreateBG]=02:17:09	BGS	Event05/05-SB/05-SB-B00/05-SB-B00-008	02:26:16;
+
+[PrintText]=02:17:09	Sekai	¡No! En serio, no te preocupes. ¿Por qué no van solo las dos?^	02:22:23;
+
+[PlayVoice]=02:17:09	Voice05/05-SB/05-SB-B00/05-SB-B00-0540	0	sek	02:22:23;
+
+[PrintText]=02:22:22	Hikari	Vale...	02:23:21;
+
+[PlayVoice]=02:22:22	Voice05/05-SB/05-SB-B00/05-SB-B00-0550	0	hik	02:23:21;
+
+[BlackFade]=02:24:21	OUT	02:26:16;
+
+ ;
+
+[Next]=02:26:16;
+
+
+

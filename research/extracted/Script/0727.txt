@@ -1,0 +1,51 @@
+﻿[SkipFRAME]=00:19:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	00:19:17;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-B03/03-SA-B03-001B	00:05:04;
+
+[PrintText]=00:00:00	Makoto	...	00:00:22;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-B03/03-SA-B03-0030	1	xxx	00:00:22;
+
+[PrintText]=00:00:22	Sekai	¿Hay algo raro?^	00:03:08;
+
+[PlayVoice]=00:00:22	Voice03/03-SA/03-SA-B03/03-SA-B03-0040	0	sek	00:03:08;
+
+[PrintText]=00:03:09	Makoto	N-no...	00:05:04;
+
+[PlayVoice]=00:03:09	Voice03/03-SA/03-SA-B03/03-SA-B03-0050	1	mak	00:05:04;
+
+[CreateBG]=00:05:04	BGS	Event03/03-SA/03-SA-B03/03-SA-B03-002	00:07:07;
+
+[PrintText]=00:05:04	Hikari	¡¿Qué pasa con esa cara de asombro?!	00:07:13;
+
+[PlayVoice]=00:05:04	Voice03/03-SA/03-SA-B03/03-SA-B03-0060	0	hik	00:07:13;
+
+[CreateBG]=00:07:07	BGS	Event03/03-SA/03-SA-B03/03-SA-B03-003	00:08:16;
+
+[PrintText]=00:07:13	Makoto	¡Ow! Oh, eres tú, Kuroda.	00:11:20;
+
+[PlayVoice]=00:07:13	Voice03/03-SA/03-SA-B03/03-SA-B03-0080	1	mak	00:11:20;
+
+[CreateBG]=00:08:16	BGS	Event03/03-SA/03-SA-B03/03-SA-B03-004	00:17:04;
+
+[PrintText]=00:11:21	Hikari	¡Sekai, deja de distraer a tu novio, y empieza a hacer tus cosas!	00:16:00;
+
+[PlayVoice]=00:11:21	Voice03/03-SA/03-SA-B03/03-SA-B03-0090	0	hik	00:16:00;
+
+[PrintText]=00:16:00	Sekai	¡Vale... nos vemos después, Makoto!	00:19:00;
+
+[PlayVoice]=00:16:00	Voice03/03-SA/03-SA-B03/03-SA-B03-0100	0	sek	00:19:00;
+
+[CreateBG]=00:17:04	BGS	Event03/03-SA/03-SA-B03/03-SA-B03-005	00:19:17;
+
+[PrintText]=00:19:00	Makoto	¡Vale!	00:19:16;
+
+[PlayVoice]=00:19:00	Voice03/03-SA/03-SA-B03/03-SA-B03-0110	1	mak	00:19:16;
+
+ ;
+
+[Next]=00:19:17;
+
+

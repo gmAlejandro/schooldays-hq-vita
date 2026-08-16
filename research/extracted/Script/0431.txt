@@ -1,0 +1,81 @@
+﻿[SkipFRAME]=00:45:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:45:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-002	00:05:18;
+
+[PrintText]=00:02:08	Kotonoha	Makoto-kun...	00:03:12;
+
+[PlayVoice]=00:02:08	Voice03/03-A1/03-A1-F00/03-A1-F00-0040	0	kot	00:03:12;
+
+[PrintText]=00:04:09	Kotonoha	...	00:05:06;
+
+[PlayVoice]=00:04:09	Voice03/03-A1/03-A1-F00/03-A1-F00-0060	0	xxx	00:05:06;
+
+[CreateBG]=00:05:18	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-004	00:11:15;
+
+[PrintText]=00:05:23	Kotonoha	...Me pregunto si se quedó dormido.	00:08:03;
+
+[PlayVoice]=00:05:23	Voice03/03-A1/03-A1-F00/03-A1-F00-0080	0	kot	00:08:03;
+
+[PrintText]=00:09:00	Kotonoha	A pesar de que... el festival escolar es mañana...	00:11:08;
+
+[PlayVoice]=00:09:00	Voice03/03-A1/03-A1-F00/03-A1-F00-0090	0	kot	00:11:08;
+
+[CreateBG]=00:11:15	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-003	00:12:12;
+
+[PlaySe]=00:12:04	1	SysSe/SE_all/keitai/keitai_sousa	00:12:06;
+
+[PlaySe]=00:12:12	1	SysSe/SE_all/keitai/yobidasi	00:27:09;
+
+[CreateBG]=00:12:12	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-006	00:28:23;
+
+[PrintText]=00:12:21	Kotonoha	A pesar de que... tenemos que estar bien...	00:16:06;
+
+[PlayVoice]=00:12:21	Voice03/03-A1/03-A1-F00/03-A1-F00-0110	0	kot	00:16:06;
+
+[PrintText]=00:17:00	Kotonoha	A este ritmo... si Makoto-kun sigue enojado...	00:21:14;
+
+[PlayVoice]=00:17:00	Voice03/03-A1/03-A1-F00/03-A1-F00-0120	0	kot	00:28:16;
+
+[PrintText]=00:21:14	Kotonoha	No podremos ir al festival juntos... y bailar en la fogata.	00:28:16;
+
+[PlaySe]=00:27:10	1	SysSe/SE_all/keitai/yobidasi	00:32:14;
+
+[CreateBG]=00:28:23	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-007	00:36:07;
+
+[PrintText]=00:29:09	Kotonoha	Makoto-kun... contesta...	00:32:06;
+
+[PlayVoice]=00:29:09	Voice03/03-A1/03-A1-F00/03-A1-F00-0130	0	kot	00:32:06;
+
+[PrintText]=00:32:16	Servicio	Estamos transfiriendo la llamada al servicio de mensajería de voz...	00:36:02;
+
+[PlayVoice]=00:32:16	Voice03/03-A1/03-A1-F00/03-A1-F00-0140	1	rus	00:36:02;
+
+[PlaySe]=00:36:03	1	SysSe/SE_all/keitai/keitai_sousa	00:36:05;
+
+[CreateBG]=00:36:07	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-012	00:37:15;
+
+[CreateBG]=00:37:15	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-009	00:40:04;
+
+[PrintText]=00:37:23	Kotonoha	Haah...	00:38:16;
+
+[PlayVoice]=00:37:23	Voice03/03-A1/03-A1-F00/03-A1-F00-0160	0	kot	00:38:16;
+
+[PlayMovie]=00:40:04	Ini/Movie03/03-A1/03-A1-F00/03-A1-F00-010	0	00:42:04;
+
+[CreateBG]=00:42:04	BGS	Event03/03-A1/03-A1-F00/03-A1-F00-012	00:45:06;
+
+[PrintText]=00:42:15	Kotonoha	Makoto-kun...	00:43:19;
+
+[PlayVoice]=00:42:15	Voice03/03-A1/03-A1-F00/03-A1-F00-0200	0	kot	00:43:19;
+
+[BlackFade]=00:44:06	OUT	00:45:06;
+
+ ;
+
+[Next]=00:45:06;
+
+

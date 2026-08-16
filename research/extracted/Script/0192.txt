@@ -1,0 +1,117 @@
+﻿[SkipFRAME]=01:06:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:06:11;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-001	00:03:00;
+
+[CreateBG]=00:03:01	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-002	00:06:01;
+
+[CreateBG]=00:06:01	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-003	00:09:05;
+
+[PrintText]=00:06:07	Makoto	Afuera... ella dijo afuera de la escuela.	00:09:01;
+
+[PlayVoice]=00:06:07	Voice01/01-1S/01-1S-O00/01-1S-O00-0030	1	mak	00:09:01;
+
+[CreateBG]=00:09:05	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-004	00:14:11;
+
+[PrintText]=00:11:05	Taisuke	¿Makoto, pasó algo?^	00:13:05;
+
+[PlayVoice]=00:11:05	Voice01/01-1S/01-1S-O00/01-1S-O00-0050	1	tai	00:13:05;
+
+[PrintText]=00:13:06	Makoto	Taisuke...	00:14:09;
+
+[PlayVoice]=00:13:06	Voice01/01-1S/01-1S-O00/01-1S-O00-0060	1	mak	00:14:09;
+
+[CreateBG]=00:14:11	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-005	00:18:11;
+
+[PrintText]=00:14:11	Taisuke	¿Ah, También irás afuera?^	00:16:15;
+
+[PlayVoice]=00:14:11	Voice01/01-1S/01-1S-O00/01-1S-O00-0070	1	tai	00:16:15;
+
+[PrintText]=00:16:19	Makoto	S-Sí.	00:18:06;
+
+[PlayVoice]=00:16:19	Voice01/01-1S/01-1S-O00/01-1S-O00-0080	1	mak	00:18:06;
+
+[CreateBG]=00:18:11	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-006	00:28:08;
+
+[PrintText]=00:18:15	Taisuke	Yo también.Estoy harto del pan de la cafetería, así que estado últimamente en la tienda de conveniencia afuera.	00:24:15;
+
+[PlayVoice]=00:18:15	Voice01/01-1S/01-1S-O00/01-1S-O00-0090	1	tai	00:28:05;
+
+[PrintText]=00:24:15	Taisuke	Cualquier persona se enfermaría con este alimento, el mismo menú todos los días...	00:28:05;
+
+[CreateBG]=00:28:08	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-007	00:33:14;
+
+[PrintText]=00:28:13	Makoto	Eh, Taisuke.	00:29:22;
+
+[PlayVoice]=00:28:13	Voice01/01-1S/01-1S-O00/01-1S-O00-0100	1	mak	00:29:22;
+
+[PrintText]=00:29:15	Taisuke	¿Qué? No voy a darte nada ¿Vale?^	00:32:03;
+
+[PlayVoice]=00:29:15	Voice01/01-1S/01-1S-O00/01-1S-O00-0110	1	tai	00:32:03;
+
+[PrintText]=00:32:05	Makoto	¿La has visto a Sekai?^	00:33:16;
+
+[PlayVoice]=00:32:05	Voice01/01-1S/01-1S-O00/01-1S-O00-0120	1	mak	00:33:16;
+
+[CreateBG]=00:33:14	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-008	00:36:18;
+
+[PrintText]=00:33:14	Taisuke	Sí, está en el lugar de siempre.	00:36:15;
+
+[PlayVoice]=00:33:14	Voice01/01-1S/01-1S-O00/01-1S-O00-0130	1	tai	00:36:15;
+
+[CreateBG]=00:36:18	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-009	00:46:18;
+
+[PrintText]=00:36:20	Makoto	¿Siempre...?^	00:37:19;
+
+[PlayVoice]=00:36:20	Voice01/01-1S/01-1S-O00/01-1S-O00-0140	1	mak	00:37:19;
+
+[PrintText]=00:38:04	Taisuke	Tal vez intentas tener todo eso en secreto, pero es tan obvio que ustedes están saliendo.	00:43:04;
+
+[PlayVoice]=00:38:04	Voice01/01-1S/01-1S-O00/01-1S-O00-0150	1	tai	00:43:04;
+
+[PrintText]=00:43:12	Taisuke	últimamente, he visto a Saionji esperándote a ti todos los días.	00:47:03;
+
+[PlayVoice]=00:43:12	Voice01/01-1S/01-1S-O00/01-1S-O00-0151	1	tai	00:47:03;
+
+[CreateBG]=00:46:18	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-010	00:52:07;
+
+[PrintText]=00:46:18	Makoto	¿Dónde?^	00:47:15;
+
+[PlayVoice]=00:46:18	Voice01/01-1S/01-1S-O00/01-1S-O00-0160	1	mak	00:47:15;
+
+[PrintText]=00:47:17	Taisuke	En el banco del patio, puedes obtener una vista de ella desde la puerta del colegio.	00:51:05;
+
+[PlayVoice]=00:47:17	Voice01/01-1S/01-1S-O00/01-1S-O00-0170	1	tai	00:51:05;
+
+[PrintText]=00:50:22	Makoto	¿Patio...?^	00:52:03;
+
+[PlayVoice]=00:50:22	Voice01/01-1S/01-1S-O00/01-1S-O00-0180	1	mak	00:52:03;
+
+[CreateBG]=00:52:07	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-011	01:04:04;
+
+[PrintText]=00:52:07	Taisuke	Alguien más notaria si se reunieran allí.	00:56:15;
+
+[PlayVoice]=00:52:07	Voice01/01-1S/01-1S-O00/01-1S-O00-0190	1	tai	00:56:15;
+
+[PrintText]=00:56:15	Taisuke	Qué suertudo, yo estoy a punto de ir a la tienda que está fuera del colegio...	01:00:07;
+
+[PlayVoice]=00:56:15	Voice01/01-1S/01-1S-O00/01-1S-O00-0191	1	tai	01:00:07;
+
+[PrintText]=01:00:07	Taisuke	Hey, escucha. Si me presentas a una chica también, voy a mantener silencio acerca de esto... ¡hey!	01:05:18;
+
+[PlayVoice]=01:00:07	Voice01/01-1S/01-1S-O00/01-1S-O00-0192	1	tai	01:05:18;
+
+[PlayVoice]=01:02:22	Voice01/01-1S/01-1S-O00/01-1S-O00-0200			01:04:22;
+
+[CreateBG]=01:04:04	BGS	Event01/01-1S/01-1S-O00/01-1S-O00-012	01:06:11;
+
+[BlackFade]=01:05:11	OUT	01:06:11;
+
+ ;
+
+[Next]=01:06:11;
+
+
+
+

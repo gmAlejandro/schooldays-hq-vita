@@ -1,0 +1,25 @@
+﻿[SkipFRAME]=00:10:20;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-C01/SE03-KB-C01-001	00:10:20;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-C01/03-KB-C01-001	0	00:04:00;
+
+[PrintText]=00:00:00	Sekai	Haah... haah...	00:04:12;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-C01/03-KB-C01-0050	0	sek	00:04:12;
+
+[CreateBG]=00:04:00	BGS	Event03/03-KB/03-KB-C01/03-KB-C01-002	00:10:20;
+
+[PrintText]=00:04:17	Sekai	...	00:06:11;
+
+[PlayVoice]=00:04:17	Voice03/03-KB/03-KB-C01/03-KB-C01-0060	0	xxx	00:06:11;
+
+[PrintText]=00:07:07	Sekai	No lo debo invitar...	00:10:14;
+
+[PlayVoice]=00:07:07	Voice03/03-KB/03-KB-C01/03-KB-C01-0070	0	sek	00:10:14;
+
+ ;
+
+[Next]=00:10:20;
+
+
