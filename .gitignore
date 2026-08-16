@@ -1,0 +1,106 @@
+# ============================================================
+# School Days HQ - local game files
+# ============================================================
+
+# Original game installation
+Original/
+
+# Game executables / DLLs / data
+*.exe
+*.dll
+*.GPK
+*.gpk
+*.DAT
+*.dat
+
+# Game media
+*.wmv
+*.avi
+*.mp4
+*.mkv
+*.wav
+*.ogg
+*.mp3
+*.mp2
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tga
+*.dds
+
+# Saves / local configuration
+Save/
+*.sav
+
+# ============================================================
+# Installation archives / disc images
+# ============================================================
+
+*.iso
+*.ISO
+*.rar
+*.RAR
+*.7z
+*.zip
+*.ZIP
+
+# ============================================================
+# Build output
+# ============================================================
+
+build/
+bin/
+obj/
+out/
+dist/
+.vscode/
+.idea/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+
+# ============================================================
+# Vita / SDK generated files
+# ============================================================
+
+*.vpk
+*.self
+*.suprx
+*.skprx
+*.velf
+*.elf
+
+# ============================================================
+# Logs / temporary files
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ============================================================
+# Local research generated from the game
+# ============================================================
+
+research/local/
+research/output/
+tools/output/
