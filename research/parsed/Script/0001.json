@@ -1,0 +1,1024 @@
+{
+  "script": "0001.txt",
+  "command_count": 99,
+  "commands": [
+    {
+      "type": "SkipFRAME",
+      "time": "01:53:08",
+      "args": [],
+      "line": 1
+    },
+    {
+      "type": "PlayMovie",
+      "time": "00:00:00",
+      "args": [
+        "Movie00/00-00/00-00-A01/00-00-A01-001",
+        "0",
+        "00:07:00"
+      ],
+      "line": 3
+    },
+    {
+      "type": "PlayBgm",
+      "time": "00:04:00",
+      "args": [
+        "BGM/SD_BGM/sdbgm07",
+        "01:53:08"
+      ],
+      "line": 5
+    },
+    {
+      "type": "PrintText",
+      "time": "00:04:07",
+      "args": [
+        "Taisuke",
+        "Hey Makoto ¿Ya escuchaste las últimas?^",
+        "00:05:15"
+      ],
+      "line": 7
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:04:07",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0030",
+        "1",
+        "tai",
+        "00:05:23"
+      ],
+      "line": 9
+    },
+    {
+      "type": "PrintText",
+      "time": "00:06:04",
+      "args": [
+        "Makoto",
+        "¿Acerca de..?^",
+        "00:07:00"
+      ],
+      "line": 11
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:06:04",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0050",
+        "1",
+        "mak",
+        "00:07:00"
+      ],
+      "line": 13
+    },
+    {
+      "type": "PlaySe",
+      "time": "00:06:07",
+      "args": [
+        "1",
+        "Se00/00-00/00-00-A01/SE00-00-A01-002",
+        "00:06:13"
+      ],
+      "line": 15
+    },
+    {
+      "type": "CreateBG",
+      "time": "00:07:00",
+      "args": [
+        "BGS",
+        "Event00/00-00/00-00-A01/00-00-A01-002",
+        "00:30:16"
+      ],
+      "line": 17
+    },
+    {
+      "type": "PlaySe",
+      "time": "00:07:05",
+      "args": [
+        "3",
+        "Se00/00-00/00-00-A01/SE00-00-A01-001",
+        "01:53:08"
+      ],
+      "line": 19
+    },
+    {
+      "type": "PrintText",
+      "time": "00:07:21",
+      "args": [
+        "Taisuke",
+        "Dicen que volveremos a cambiar asientos.",
+        "00:09:04"
+      ],
+      "line": 21
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:07:21",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0080",
+        "1",
+        "tai",
+        "00:09:04"
+      ],
+      "line": 23
+    },
+    {
+      "type": "PrintText",
+      "time": "00:09:05",
+      "args": [
+        "Makoto",
+        "¿Qué? pero si ya habíamos hecho los cambios en el primer semestre.",
+        "00:13:19"
+      ],
+      "line": 25
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:09:05",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0090",
+        "1",
+        "mak",
+        "00:13:19"
+      ],
+      "line": 27
+    },
+    {
+      "type": "PrintText",
+      "time": "00:13:23",
+      "args": [
+        "Taisuke",
+        "Sí, pero dicen que lo tenemos que volver a hacer.",
+        "00:15:18"
+      ],
+      "line": 29
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:13:23",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0100",
+        "1",
+        "tai",
+        "00:15:18"
+      ],
+      "line": 31
+    },
+    {
+      "type": "PrintText",
+      "time": "00:16:05",
+      "args": [
+        "Makoto",
+        "¿De quién has escuchado eso?^",
+        "00:18:07"
+      ],
+      "line": 33
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:16:05",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0110",
+        "1",
+        "mak",
+        "00:18:07"
+      ],
+      "line": 35
+    },
+    {
+      "type": "PrintText",
+      "time": "00:18:15",
+      "args": [
+        "Taisuke",
+        "Kiyoura lo escuchó de Yamamoto esta mañana.",
+        "00:21:01"
+      ],
+      "line": 37
+    },
+    {
+      "type": "PrintText",
+      "time": "00:21:01",
+      "args": [
+        "Taisuke",
+        "Sabes cómo es la clase de Yamamoto...¿no?^",
+        "00:23:06"
+      ],
+      "line": 39
+    },
+    {
+      "type": "PrintText",
+      "time": "00:23:06",
+      "args": [
+        "Taisuke",
+        "Ella comentó que cambiaríamos de asientos.",
+        "00:26:12"
+      ],
+      "line": 41
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:18:15",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0120",
+        "1",
+        "tai",
+        "00:26:12"
+      ],
+      "line": 43
+    },
+    {
+      "type": "PrintText",
+      "time": "00:26:22",
+      "args": [
+        "Makoto",
+        "¿En serio?^",
+        "00:27:23"
+      ],
+      "line": 45
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:26:22",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0140",
+        "1",
+        "mak",
+        "00:27:23"
+      ],
+      "line": 47
+    },
+    {
+      "type": "PrintText",
+      "time": "00:28:06",
+      "args": [
+        "Taisuke",
+        "Así parece ser.",
+        "00:29:04"
+      ],
+      "line": 49
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:28:06",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0150",
+        "1",
+        "tai",
+        "00:29:04"
+      ],
+      "line": 51
+    },
+    {
+      "type": "PrintText",
+      "time": "00:29:07",
+      "args": [
+        "Makoto",
+        "Ah...",
+        "00:30:08"
+      ],
+      "line": 53
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:29:07",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0160",
+        "1",
+        "mak",
+        "00:30:08"
+      ],
+      "line": 55
+    },
+    {
+      "type": "CreateBG",
+      "time": "00:30:16",
+      "args": [
+        "BGS",
+        "Event00/00-00/00-00-A01/00-00-A01-003",
+        "00:44:04"
+      ],
+      "line": 57
+    },
+    {
+      "type": "PrintText",
+      "time": "00:31:21",
+      "args": [
+        "Taisuke",
+        "¿Tu celular tiene cámara?^",
+        "00:34:14"
+      ],
+      "line": 59
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:31:21",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0180",
+        "1",
+        "tai",
+        "00:34:14"
+      ],
+      "line": 61
+    },
+    {
+      "type": "PrintText",
+      "time": "00:34:20",
+      "args": [
+        "Makoto",
+        "Sí...",
+        "00:35:12"
+      ],
+      "line": 63
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:34:20",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0190",
+        "1",
+        "mak",
+        "00:35:12"
+      ],
+      "line": 65
+    },
+    {
+      "type": "PrintText",
+      "time": "00:36:01",
+      "args": [
+        "Taisuke",
+        "Qué genial...",
+        "00:36:21"
+      ],
+      "line": 67
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:36:01",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0200",
+        "1",
+        "tai",
+        "00:36:21"
+      ],
+      "line": 69
+    },
+    {
+      "type": "PrintText",
+      "time": "00:37:01",
+      "args": [
+        "Makoto",
+        "No es algo fuera de lo común en estos días.",
+        "00:39:03"
+      ],
+      "line": 71
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:37:01",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0210",
+        "1",
+        "mak",
+        "00:39:03"
+      ],
+      "line": 73
+    },
+    {
+      "type": "PrintText",
+      "time": "00:39:03",
+      "args": [
+        "Taisuke",
+        "Bueno... sí ¡Pero la mía aún es en blanco y negro! ",
+        "00:44:05"
+      ],
+      "line": 75
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:39:03",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0220",
+        "1",
+        "tai",
+        "00:44:05"
+      ],
+      "line": 77
+    },
+    {
+      "type": "CreateBG",
+      "time": "00:44:04",
+      "args": [
+        "BGS",
+        "Event00/00-00/00-00-A01/00-00-A01-004",
+        "00:54:05"
+      ],
+      "line": 79
+    },
+    {
+      "type": "PrintText",
+      "time": "00:44:05",
+      "args": [
+        "Makoto",
+        "Entonces comprate uno nuevo.",
+        "00:45:13"
+      ],
+      "line": 81
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:44:05",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0230",
+        "1",
+        "mak",
+        "00:45:13"
+      ],
+      "line": 83
+    },
+    {
+      "type": "PrintText",
+      "time": "00:45:17",
+      "args": [
+        "Taisuke",
+        "¡Soy pobre!",
+        "00:47:11"
+      ],
+      "line": 85
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:45:17",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0240",
+        "1",
+        "tai",
+        "00:47:11"
+      ],
+      "line": 87
+    },
+    {
+      "type": "PrintText",
+      "time": "00:47:11",
+      "args": [
+        "Makoto",
+        "Tus padres y tu hermana trabajan ¿no?^ ",
+        "00:50:22"
+      ],
+      "line": 89
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:47:11",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0250",
+        "1",
+        "mak",
+        "00:50:22"
+      ],
+      "line": 91
+    },
+    {
+      "type": "PrintText",
+      "time": "00:50:18",
+      "args": [
+        "Taisuke",
+        "Sí...",
+        "00:51:11"
+      ],
+      "line": 93
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:50:18",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0260",
+        "1",
+        "tai",
+        "00:51:11"
+      ],
+      "line": 95
+    },
+    {
+      "type": "PrintText",
+      "time": "00:51:19",
+      "args": [
+        "Makoto",
+        "Entonces, ¿Cómo es que eres pobre?^ ",
+        "00:53:22"
+      ],
+      "line": 97
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:51:19",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0270",
+        "1",
+        "mak",
+        "00:53:22"
+      ],
+      "line": 99
+    },
+    {
+      "type": "PrintText",
+      "time": "00:54:03",
+      "args": [
+        "Taisuke",
+        "Mi padre fue despedido,y mi hermana está vertiendo todo su dinero en su relación a larga distancia.",
+        "01:03:03"
+      ],
+      "line": 101
+    },
+    {
+      "type": "PlayVoice",
+      "time": "00:54:03",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0280",
+        "1",
+        "tai",
+        "01:03:03"
+      ],
+      "line": 103
+    },
+    {
+      "type": "PlayMovie",
+      "time": "00:54:05",
+      "args": [
+        "Movie00/00-00/00-00-A01/00-00-A01-005",
+        "0",
+        "01:03:05"
+      ],
+      "line": 105
+    },
+    {
+      "type": "PlayMovie",
+      "time": "01:03:05",
+      "args": [
+        "Movie00/00-00/00-00-A01/00-00-A01-006",
+        "0",
+        "01:14:15"
+      ],
+      "line": 107
+    },
+    {
+      "type": "PrintText",
+      "time": "01:03:20",
+      "args": [
+        "Taisuke",
+        "Desearía tener uno... con una cámara, claro.",
+        "01:06:22"
+      ],
+      "line": 109
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:03:20",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0300",
+        "1",
+        "tai",
+        "01:06:22"
+      ],
+      "line": 111
+    },
+    {
+      "type": "PrintText",
+      "time": "01:07:01",
+      "args": [
+        "Makoto",
+        "No eres una chica para estarlo usando bastante.",
+        "01:10:09"
+      ],
+      "line": 113
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:07:01",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0310",
+        "1",
+        "mak",
+        "01:10:09"
+      ],
+      "line": 115
+    },
+    {
+      "type": "PrintText",
+      "time": "01:10:09",
+      "args": [
+        "Taisuke",
+        "¿Has escuchado del conjuro que se hace con el celular?^ ",
+        "01:12:23"
+      ],
+      "line": 117
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:10:09",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0320",
+        "1",
+        "tai",
+        "01:12:23"
+      ],
+      "line": 119
+    },
+    {
+      "type": "PrintText",
+      "time": "01:12:22",
+      "args": [
+        "Makoto",
+        "¿Qu-Qué?^",
+        "01:14:15"
+      ],
+      "line": 121
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:12:22",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0330",
+        "1",
+        "mak",
+        "01:14:15"
+      ],
+      "line": 123
+    },
+    {
+      "type": "PlayMovie",
+      "time": "01:14:15",
+      "args": [
+        "Movie00/00-00/00-00-A01/00-00-A01-007",
+        "0",
+        "01:28:04"
+      ],
+      "line": 125
+    },
+    {
+      "type": "PrintText",
+      "time": "01:14:15",
+      "args": [
+        "Taisuke",
+        "Tomas la foto de la persona que te gusta, y la pones como fondo de pantalla.",
+        "01:19:06"
+      ],
+      "line": 127
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:14:15",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0340",
+        "1",
+        "tai",
+        "01:19:06"
+      ],
+      "line": 129
+    },
+    {
+      "type": "PrintText",
+      "time": "01:19:06",
+      "args": [
+        "Makoto",
+        "Sí...",
+        "01:20:12"
+      ],
+      "line": 131
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:19:06",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0350",
+        "1",
+        "mak",
+        "01:20:12"
+      ],
+      "line": 133
+    },
+    {
+      "type": "PrintText",
+      "time": "01:19:21",
+      "args": [
+        "Taisuke",
+        "Entonces, si haces que nadie lo vea por 3 semanas ¡Saldrás con ella!",
+        "01:26:05"
+      ],
+      "line": 135
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:19:21",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0360",
+        "1",
+        "tai",
+        "01:26:05"
+      ],
+      "line": 137
+    },
+    {
+      "type": "PrintText",
+      "time": "01:26:19",
+      "args": [
+        "Makoto",
+        "Oh...",
+        "01:28:05"
+      ],
+      "line": 139
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:26:19",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0370",
+        "1",
+        "mak",
+        "01:28:05"
+      ],
+      "line": 141
+    },
+    {
+      "type": "PlayMovie",
+      "time": "01:28:04",
+      "args": [
+        "Movie00/00-00/00-00-A01/00-00-A01-008",
+        "0",
+        "01:47:16"
+      ],
+      "line": 143
+    },
+    {
+      "type": "PrintText",
+      "time": "01:28:20",
+      "args": [
+        "Taisuke",
+        "¿Qué? ¿Nunca has escuchado de eso? Es muy popular entre las chicas.",
+        "01:33:13"
+      ],
+      "line": 145
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:28:20",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0380",
+        "1",
+        "tai",
+        "01:33:13"
+      ],
+      "line": 147
+    },
+    {
+      "type": "PrintText",
+      "time": "01:33:13",
+      "args": [
+        "Makoto",
+        "No creo en ese tipo de cosas.",
+        "01:35:12"
+      ],
+      "line": 149
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:33:13",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0390",
+        "1",
+        "mak",
+        "01:35:12"
+      ],
+      "line": 151
+    },
+    {
+      "type": "PrintText",
+      "time": "01:35:03",
+      "args": [
+        "Taisuke",
+        "Si es así, entonces veamos tu celular...",
+        "01:38:03"
+      ],
+      "line": 153
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:35:03",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0400",
+        "1",
+        "tai",
+        "01:38:03"
+      ],
+      "line": 155
+    },
+    {
+      "type": "PrintText",
+      "time": "01:37:08",
+      "args": [
+        "Makoto",
+        "¡H-hey! ¡Para ya!",
+        "01:39:17"
+      ],
+      "line": 157
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:37:08",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0420",
+        "1",
+        "mak",
+        "01:39:17"
+      ],
+      "line": 159
+    },
+    {
+      "type": "PlaySe",
+      "time": "01:37:15",
+      "args": [
+        "1",
+        "Se00/00-00/00-00-A01/SE00-00-A01-003",
+        "01:38:10"
+      ],
+      "line": 161
+    },
+    {
+      "type": "PlaySe",
+      "time": "01:38:00",
+      "args": [
+        "2",
+        "Se00/00-00/00-00-A01/SE00-00-A01-004",
+        "01:38:20"
+      ],
+      "line": 163
+    },
+    {
+      "type": "PrintText",
+      "time": "01:39:11",
+      "args": [
+        "Taisuke",
+        "Lo escondes eh... eso quiere decir que tú...",
+        "01:43:18"
+      ],
+      "line": 165
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:39:11",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0430",
+        "1",
+        "tai",
+        "01:43:18"
+      ],
+      "line": 167
+    },
+    {
+      "type": "PrintText",
+      "time": "01:43:10",
+      "args": [
+        "Makoto",
+        "No es lo que piensas. Solo no me gusta que miren en mi celular.",
+        "01:48:08"
+      ],
+      "line": 169
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:43:10",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0440",
+        "1",
+        "mak",
+        "01:48:08"
+      ],
+      "line": 171
+    },
+    {
+      "type": "PlayMovie",
+      "time": "01:47:16",
+      "args": [
+        "Movie00/00-00/00-00-A01/00-00-A01-009",
+        "0",
+        "01:51:11"
+      ],
+      "line": 173
+    },
+    {
+      "type": "PlaySe",
+      "time": "01:48:01",
+      "args": [
+        "1",
+        "Se00/00-00/00-00-A01/SE00-00-A01-005",
+        "01:49:08"
+      ],
+      "line": 175
+    },
+    {
+      "type": "PrintText",
+      "time": "01:48:01",
+      "args": [
+        "Taisuke",
+        "¡Oh, vamos!...",
+        "01:49:08"
+      ],
+      "line": 177
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:48:01",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0450",
+        "1",
+        "tai",
+        "01:49:08"
+      ],
+      "line": 179
+    },
+    {
+      "type": "PlaySe",
+      "time": "01:48:22",
+      "args": [
+        "2",
+        "Se00/00-00/00-00-A01/SE00-00-A01-006",
+        "01:51:20"
+      ],
+      "line": 181
+    },
+    {
+      "type": "PrintText",
+      "time": "01:49:06",
+      "args": [
+        "Makoto",
+        "¡Mira, Yamamoto está aquí!",
+        "01:51:08"
+      ],
+      "line": 183
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:49:06",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0480",
+        "1",
+        "mak",
+        "01:51:08"
+      ],
+      "line": 185
+    },
+    {
+      "type": "PlaySe",
+      "time": "01:49:08",
+      "args": [
+        "4",
+        "SysSe/SE_all/school/chime",
+        "01:53:08"
+      ],
+      "line": 187
+    },
+    {
+      "type": "BlackFade",
+      "time": "01:50:11",
+      "args": [
+        "OUT",
+        "01:51:11"
+      ],
+      "line": 189
+    },
+    {
+      "type": "CreateBG",
+      "time": "01:51:11",
+      "args": [
+        "BGS",
+        "System/Screen/Black",
+        "01:53:08"
+      ],
+      "line": 191
+    },
+    {
+      "type": "PrintText",
+      "time": "01:51:11",
+      "args": [
+        "Taisuke",
+        "Está bien, hablamos después.",
+        "01:53:00"
+      ],
+      "line": 193
+    },
+    {
+      "type": "PlayVoice",
+      "time": "01:51:11",
+      "args": [
+        "Voice00/00-00/00-00-A01/00-00-A01-0490",
+        "1",
+        "tai",
+        "01:53:00"
+      ],
+      "line": 195
+    },
+    {
+      "type": "Next",
+      "time": "01:53:08",
+      "args": [],
+      "line": 199
+    }
+  ]
+}

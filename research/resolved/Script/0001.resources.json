@@ -1,0 +1,478 @@
+{
+  "script": "0001.json",
+  "resource_counts": {
+    "background": 3,
+    "bgm": 1,
+    "movie": 6,
+    "se": 6,
+    "sysse": 1,
+    "system": 1,
+    "voice": 38
+  },
+  "resources": {
+    "background": [
+      "Event00/00-00/00-00-A01/00-00-A01-002",
+      "Event00/00-00/00-00-A01/00-00-A01-003",
+      "Event00/00-00/00-00-A01/00-00-A01-004"
+    ],
+    "bgm": [
+      "BGM/SD_BGM/sdbgm07"
+    ],
+    "movie": [
+      "Movie00/00-00/00-00-A01/00-00-A01-001",
+      "Movie00/00-00/00-00-A01/00-00-A01-005",
+      "Movie00/00-00/00-00-A01/00-00-A01-006",
+      "Movie00/00-00/00-00-A01/00-00-A01-007",
+      "Movie00/00-00/00-00-A01/00-00-A01-008",
+      "Movie00/00-00/00-00-A01/00-00-A01-009"
+    ],
+    "se": [
+      "Se00/00-00/00-00-A01/SE00-00-A01-001",
+      "Se00/00-00/00-00-A01/SE00-00-A01-002",
+      "Se00/00-00/00-00-A01/SE00-00-A01-003",
+      "Se00/00-00/00-00-A01/SE00-00-A01-004",
+      "Se00/00-00/00-00-A01/SE00-00-A01-005",
+      "Se00/00-00/00-00-A01/SE00-00-A01-006"
+    ],
+    "sysse": [
+      "SysSe/SE_all/school/chime"
+    ],
+    "system": [
+      "System/Screen/Black"
+    ],
+    "voice": [
+      "Voice00/00-00/00-00-A01/00-00-A01-0030",
+      "Voice00/00-00/00-00-A01/00-00-A01-0050",
+      "Voice00/00-00/00-00-A01/00-00-A01-0080",
+      "Voice00/00-00/00-00-A01/00-00-A01-0090",
+      "Voice00/00-00/00-00-A01/00-00-A01-0100",
+      "Voice00/00-00/00-00-A01/00-00-A01-0110",
+      "Voice00/00-00/00-00-A01/00-00-A01-0120",
+      "Voice00/00-00/00-00-A01/00-00-A01-0140",
+      "Voice00/00-00/00-00-A01/00-00-A01-0150",
+      "Voice00/00-00/00-00-A01/00-00-A01-0160",
+      "Voice00/00-00/00-00-A01/00-00-A01-0180",
+      "Voice00/00-00/00-00-A01/00-00-A01-0190",
+      "Voice00/00-00/00-00-A01/00-00-A01-0200",
+      "Voice00/00-00/00-00-A01/00-00-A01-0210",
+      "Voice00/00-00/00-00-A01/00-00-A01-0220",
+      "Voice00/00-00/00-00-A01/00-00-A01-0230",
+      "Voice00/00-00/00-00-A01/00-00-A01-0240",
+      "Voice00/00-00/00-00-A01/00-00-A01-0250",
+      "Voice00/00-00/00-00-A01/00-00-A01-0260",
+      "Voice00/00-00/00-00-A01/00-00-A01-0270",
+      "Voice00/00-00/00-00-A01/00-00-A01-0280",
+      "Voice00/00-00/00-00-A01/00-00-A01-0300",
+      "Voice00/00-00/00-00-A01/00-00-A01-0310",
+      "Voice00/00-00/00-00-A01/00-00-A01-0320",
+      "Voice00/00-00/00-00-A01/00-00-A01-0330",
+      "Voice00/00-00/00-00-A01/00-00-A01-0340",
+      "Voice00/00-00/00-00-A01/00-00-A01-0350",
+      "Voice00/00-00/00-00-A01/00-00-A01-0360",
+      "Voice00/00-00/00-00-A01/00-00-A01-0370",
+      "Voice00/00-00/00-00-A01/00-00-A01-0380",
+      "Voice00/00-00/00-00-A01/00-00-A01-0390",
+      "Voice00/00-00/00-00-A01/00-00-A01-0400",
+      "Voice00/00-00/00-00-A01/00-00-A01-0420",
+      "Voice00/00-00/00-00-A01/00-00-A01-0430",
+      "Voice00/00-00/00-00-A01/00-00-A01-0440",
+      "Voice00/00-00/00-00-A01/00-00-A01-0450",
+      "Voice00/00-00/00-00-A01/00-00-A01-0480",
+      "Voice00/00-00/00-00-A01/00-00-A01-0490"
+    ]
+  },
+  "occurrences": [
+    {
+      "command": "PlayMovie",
+      "line": 3,
+      "time": "00:00:00",
+      "resource": "Movie00/00-00/00-00-A01/00-00-A01-001",
+      "category": "movie"
+    },
+    {
+      "command": "PlayBgm",
+      "line": 5,
+      "time": "00:04:00",
+      "resource": "BGM/SD_BGM/sdbgm07",
+      "category": "bgm"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 9,
+      "time": "00:04:07",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0030",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 13,
+      "time": "00:06:04",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0050",
+      "category": "voice"
+    },
+    {
+      "command": "PlaySe",
+      "line": 15,
+      "time": "00:06:07",
+      "resource": "Se00/00-00/00-00-A01/SE00-00-A01-002",
+      "category": "se"
+    },
+    {
+      "command": "CreateBG",
+      "line": 17,
+      "time": "00:07:00",
+      "resource": "Event00/00-00/00-00-A01/00-00-A01-002",
+      "category": "background"
+    },
+    {
+      "command": "PlaySe",
+      "line": 19,
+      "time": "00:07:05",
+      "resource": "Se00/00-00/00-00-A01/SE00-00-A01-001",
+      "category": "se"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 23,
+      "time": "00:07:21",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0080",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 27,
+      "time": "00:09:05",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0090",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 31,
+      "time": "00:13:23",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0100",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 35,
+      "time": "00:16:05",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0110",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 43,
+      "time": "00:18:15",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0120",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 47,
+      "time": "00:26:22",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0140",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 51,
+      "time": "00:28:06",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0150",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 55,
+      "time": "00:29:07",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0160",
+      "category": "voice"
+    },
+    {
+      "command": "CreateBG",
+      "line": 57,
+      "time": "00:30:16",
+      "resource": "Event00/00-00/00-00-A01/00-00-A01-003",
+      "category": "background"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 61,
+      "time": "00:31:21",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0180",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 65,
+      "time": "00:34:20",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0190",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 69,
+      "time": "00:36:01",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0200",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 73,
+      "time": "00:37:01",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0210",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 77,
+      "time": "00:39:03",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0220",
+      "category": "voice"
+    },
+    {
+      "command": "CreateBG",
+      "line": 79,
+      "time": "00:44:04",
+      "resource": "Event00/00-00/00-00-A01/00-00-A01-004",
+      "category": "background"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 83,
+      "time": "00:44:05",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0230",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 87,
+      "time": "00:45:17",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0240",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 91,
+      "time": "00:47:11",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0250",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 95,
+      "time": "00:50:18",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0260",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 99,
+      "time": "00:51:19",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0270",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 103,
+      "time": "00:54:03",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0280",
+      "category": "voice"
+    },
+    {
+      "command": "PlayMovie",
+      "line": 105,
+      "time": "00:54:05",
+      "resource": "Movie00/00-00/00-00-A01/00-00-A01-005",
+      "category": "movie"
+    },
+    {
+      "command": "PlayMovie",
+      "line": 107,
+      "time": "01:03:05",
+      "resource": "Movie00/00-00/00-00-A01/00-00-A01-006",
+      "category": "movie"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 111,
+      "time": "01:03:20",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0300",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 115,
+      "time": "01:07:01",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0310",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 119,
+      "time": "01:10:09",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0320",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 123,
+      "time": "01:12:22",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0330",
+      "category": "voice"
+    },
+    {
+      "command": "PlayMovie",
+      "line": 125,
+      "time": "01:14:15",
+      "resource": "Movie00/00-00/00-00-A01/00-00-A01-007",
+      "category": "movie"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 129,
+      "time": "01:14:15",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0340",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 133,
+      "time": "01:19:06",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0350",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 137,
+      "time": "01:19:21",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0360",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 141,
+      "time": "01:26:19",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0370",
+      "category": "voice"
+    },
+    {
+      "command": "PlayMovie",
+      "line": 143,
+      "time": "01:28:04",
+      "resource": "Movie00/00-00/00-00-A01/00-00-A01-008",
+      "category": "movie"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 147,
+      "time": "01:28:20",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0380",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 151,
+      "time": "01:33:13",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0390",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 155,
+      "time": "01:35:03",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0400",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 159,
+      "time": "01:37:08",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0420",
+      "category": "voice"
+    },
+    {
+      "command": "PlaySe",
+      "line": 161,
+      "time": "01:37:15",
+      "resource": "Se00/00-00/00-00-A01/SE00-00-A01-003",
+      "category": "se"
+    },
+    {
+      "command": "PlaySe",
+      "line": 163,
+      "time": "01:38:00",
+      "resource": "Se00/00-00/00-00-A01/SE00-00-A01-004",
+      "category": "se"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 167,
+      "time": "01:39:11",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0430",
+      "category": "voice"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 171,
+      "time": "01:43:10",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0440",
+      "category": "voice"
+    },
+    {
+      "command": "PlayMovie",
+      "line": 173,
+      "time": "01:47:16",
+      "resource": "Movie00/00-00/00-00-A01/00-00-A01-009",
+      "category": "movie"
+    },
+    {
+      "command": "PlaySe",
+      "line": 175,
+      "time": "01:48:01",
+      "resource": "Se00/00-00/00-00-A01/SE00-00-A01-005",
+      "category": "se"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 179,
+      "time": "01:48:01",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0450",
+      "category": "voice"
+    },
+    {
+      "command": "PlaySe",
+      "line": 181,
+      "time": "01:48:22",
+      "resource": "Se00/00-00/00-00-A01/SE00-00-A01-006",
+      "category": "se"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 185,
+      "time": "01:49:06",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0480",
+      "category": "voice"
+    },
+    {
+      "command": "PlaySe",
+      "line": 187,
+      "time": "01:49:08",
+      "resource": "SysSe/SE_all/school/chime",
+      "category": "sysse"
+    },
+    {
+      "command": "CreateBG",
+      "line": 191,
+      "time": "01:51:11",
+      "resource": "System/Screen/Black",
+      "category": "system"
+    },
+    {
+      "command": "PlayVoice",
+      "line": 195,
+      "time": "01:51:11",
+      "resource": "Voice00/00-00/00-00-A01/00-00-A01-0490",
+      "category": "voice"
+    }
+  ]
+}

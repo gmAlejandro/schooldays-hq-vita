@@ -1,0 +1,85 @@
+{
+  "file": "Original\\SCHOOLDAYS HQ\\Packs\\Voice00.GPK",
+  "size": 14167471,
+  "pe": {
+    "pe_offset": 128,
+    "machine": "0x014C",
+    "architecture": "x86",
+    "section_count": 3,
+    "resource_rva": 16384,
+    "resource_size": 2136,
+    "sections": [
+      {
+        "name": ".text",
+        "virtual_size": 1364,
+        "virtual_address": 8192,
+        "raw_size": 1536,
+        "raw_pointer": 512
+      },
+      {
+        "name": ".rsrc",
+        "virtual_size": 2136,
+        "virtual_address": 16384,
+        "raw_size": 2560,
+        "raw_pointer": 2048
+      },
+      {
+        "name": ".reloc",
+        "virtual_size": 12,
+        "virtual_address": 24576,
+        "raw_size": 512,
+        "raw_pointer": 4608
+      }
+    ]
+  },
+  "resources": [
+    {
+      "path": [
+        "3",
+        "2",
+        "0"
+      ],
+      "rva": "0x4420",
+      "offset": "0xC20",
+      "size": 744,
+      "codepage": 0,
+      "header": "28 00 00 00 20 00 00 00 40 00 00 00 01 00 04 00 00 00 00 00 80 02 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "path": [
+        "3",
+        "3",
+        "0"
+      ],
+      "rva": "0x4708",
+      "offset": "0xF08",
+      "size": 296,
+      "codepage": 0,
+      "header": "28 00 00 00 10 00 00 00 20 00 00 00 01 00 04 00 00 00 00 00 C0 00 00 00 00 00 00 00 00 00 00 00"
+    },
+    {
+      "path": [
+        "14",
+        "32512",
+        "0"
+      ],
+      "rva": "0x4830",
+      "offset": "0x1030",
+      "size": 34,
+      "codepage": 0,
+      "header": "00 00 01 00 02 00 20 20 10 00 01 00 04 00 E8 02 00 00 02 00 10 10 10 00 01 00 04 00 28 01 00 00"
+    },
+    {
+      "path": [
+        "16",
+        "1",
+        "0"
+      ],
+      "rva": "0x4118",
+      "offset": "0x918",
+      "size": 776,
+      "codepage": 0,
+      "header": "08 03 34 00 00 00 56 00 53 00 5F 00 56 00 45 00 52 00 53 00 49 00 4F 00 4E 00 5F 00 49 00 4E 00"
+    }
+  ]
+}
