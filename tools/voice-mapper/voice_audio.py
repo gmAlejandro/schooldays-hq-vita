@@ -36,16 +36,11 @@ def main():
         sys.exit(1)
 
     ffmpeg = find_ffmpeg()
-
     if not ffmpeg:
         print("ERROR: No encuentro ffmpeg.")
-        print()
-        print("Necesitamos FFmpeg para decodificar el Vorbis.")
-        print("Instálalo y vuelve a ejecutar este script.")
         sys.exit(2)
 
     output.mkdir(parents=True, exist_ok=True)
-
     files = sorted(source.glob("*.ogg"))
 
     if not files:
@@ -55,7 +50,6 @@ def main():
     print("=" * 70)
     print(" School Days HQ Voice Audio Converter")
     print("=" * 70)
-    print()
     print(f"Entrada:  {source}")
     print(f"Salida:   {output}")
     print(f"FFmpeg:   {ffmpeg}")
@@ -68,34 +62,30 @@ def main():
     for i, src in enumerate(files, 1):
         dst = output / (src.stem + ".wav")
 
-        if dst.exists():
-            ok += 1
-            continue
-
         cmd = [
-            ffmpeg,
-            "-hide_banner",
-            "-loglevel", "error",
-            "-y",
-            "-i", str(src),
-            "-acodec", "pcm_s16le",
-            str(dst)
+            ffmpeg, "-hide_banner", "-loglevel", "error", "-y",
+            "-i", str(src), "-vn", "-acodec", "pcm_s16le", str(dst)
         ]
 
         result = subprocess.run(
             cmd,
             stdout=subprocess.DEVNULL,
             stderr=subprocess.PIPE,
-            text=True
+            text=True,
+            encoding="utf-8",
+            errors="replace",
         )
 
         if result.returncode == 0 and dst.exists() and dst.stat().st_size > 44:
             ok += 1
         else:
             failed += 1
-
+            if dst.exists():
+                try:
+                    dst.unlink()
+                except OSError:
+                    pass
             print(f"[FAIL] {src.name}")
-
             if result.stderr:
                 print(result.stderr.strip())
 
@@ -109,7 +99,6 @@ def main():
     print(f"OK:   {ok}")
     print(f"FAIL: {failed}")
     print(f"Total: {len(files)}")
-    print()
     print(f"Salida: {output}")
 
 
